@@ -301,7 +301,6 @@ export default function Results(): JSX.Element {
     </div>
   );
 }
-
 const tableHeaderStyle = {
   padding: '12px 8px',
   textAlign: 'left' as const,
