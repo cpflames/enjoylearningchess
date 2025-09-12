@@ -18,6 +18,7 @@ import Resources from "./pages/Resources";
 import Pgn from "./pages/Pgn.tsx";
 import TournamentFinder from "./pages/TournamentFinder.tsx";
 import Etymize from "./pages/Etymize.tsx";
+import NotationReader from "./pages/NotationReader.tsx";
 
 export default function App() {
   return (
@@ -68,6 +69,9 @@ export default function App() {
         </Route>
         <Route path="/etymize" element={<ChessOnlyLayout />}>
           <Route index element={<Etymize />} />
+        </Route>
+        <Route path="/notation-reader" element={<ChessOnlyLayout />}>
+          <Route index element={<NotationReader />} />
         </Route>
       </Routes>
     </BrowserRouter>

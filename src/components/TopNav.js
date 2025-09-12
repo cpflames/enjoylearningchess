@@ -16,6 +16,7 @@ export default function TopNav() {
       <Link to="/results">Tournament Results</Link>
       <Link to="/pgn">PGN cleaner</Link>
       <Link to="/etymize">Etymize</Link>
+      {/* <Link to="/notation-reader">Notation Reader</Link> */}
     </div>
   );
 } 

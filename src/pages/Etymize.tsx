@@ -9,12 +9,34 @@ interface EtymizeFormElement extends HTMLFormElement {
 }
 
 const ENDPOINT = 'https://bry1jd6sz0.execute-api.us-west-1.amazonaws.com/etymize';
+const ETYMOLOGY_PROMPT = (word: string) => 
+`What is the etymology of the word "${word}"?`;
+const RELATED_WORDS_IN_ENGLISH_PROMPT = (word: string) => 
+  `What are 5 other words that come from each root of "${word}"?
+  (Choose words in English, other than "${word}" itself, that come from the same etymological root) 
+   For each root, use this format: "Root #: [root] (meaning)".
+   For each word, use this format: "#. [word]".`;
+const RELATED_WORDS_IN_SAME_LANGUAGE_PROMPT = (word: string) => 
+`What are 5 other words that come from each root of "${word}"?
+(Choose words in the same language as "${word}", other than "${word}" itself, that come from the same etymological root) 
+ For each root, use this format: "Root #: [root] (meaning)".
+ For each word, use this format: "#. [word] (romanized pronunciation)".`;
+
+const RELATED_WORDS_PROMPT = (word: string) => {
+  // determine if the word is in English, based on whether it uses Latin alphabet, also allowing for accents, spaces, hyphens, etc.
+  const isEnglish = word.match(/[a-zA-Z\u00C0-\u017F''-]+(?: [a-zA-Z\u00C0-\u017F''-]+)*/);
+  if (isEnglish) {
+    return RELATED_WORDS_IN_ENGLISH_PROMPT(word);
+  } else {
+    return RELATED_WORDS_IN_SAME_LANGUAGE_PROMPT(word);
+  }
+};
 
 function convertWordsToLinks(text: string): string {
-  // Matches: digit(s) followed by dot and space, then captures all text until end of line
+  // Matches: digit(s) followed by dot and space, then captures all text until opening parenthesis
   return text.replace(
-    /(\d+\.\s+)([a-zA-Z\u00C0-\u017F''-]+(?: [a-zA-Z\u00C0-\u017F''-]+)*)/g, 
-    (_, number, word) => `${number}<a href="/etymize?word=${encodeURIComponent(word)}">${word}</a>`
+    /(\d+\.\s+)([^(\n]+?)(?=\s*\(|\n|$)/g, 
+    (_, number, word) => `${number}<a href="/etymize?word=${encodeURIComponent(word.trim())}">${word.trim()}</a>`
   );
 }
 
@@ -53,8 +75,9 @@ export default function Etymize(): JSX.Element {
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
+          type: "openai",
           messages: [
-            { role: "user", content: `What is the etymology of the word "${word}"?` }
+            { role: "user", content: ETYMOLOGY_PROMPT(word) }
           ]
         }),
       });
@@ -77,11 +100,11 @@ export default function Etymize(): JSX.Element {
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
-          messages: [
-            { role: "user", content: `What are other English words that come from each root of "${word}"?
-            For each root, use this format: "Root #: [root] (meaning)".
-            Then give a numbered list of words that use that root.` }
-          ]
+          type: "openai",
+          messages: [{ 
+            role: "user", 
+            content: RELATED_WORDS_PROMPT(word),
+          }]
         }),
       });
 
