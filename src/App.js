@@ -19,6 +19,7 @@ import Pgn from "./pages/Pgn.tsx";
 import TournamentFinder from "./pages/TournamentFinder.tsx";
 import Etymize from "./pages/Etymize.tsx";
 import NotationReader from "./pages/NotationReader.tsx";
+import Connect4 from "./pages/Connect4.tsx";
 
 export default function App() {
   return (
@@ -72,6 +73,9 @@ export default function App() {
         </Route>
         <Route path="/notation-reader" element={<ChessOnlyLayout />}>
           <Route index element={<NotationReader />} />
+        </Route>
+        <Route path="/connect4" element={<ChessOnlyLayout />}>
+          <Route index element={<Connect4 />} />
         </Route>
       </Routes>
     </BrowserRouter>
