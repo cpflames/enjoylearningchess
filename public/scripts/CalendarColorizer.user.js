@@ -2,7 +2,7 @@
 // @name         Google Calendar Colorizer
 // @namespace    cpflames
 // @description  Simple script to change the colors in Google Calendar.
-// @version      2.9
+// @version      3.0
 // @include      https://calendar.google.com/calendar/u/*/r/month
 // @include      https://calendar.google.com/calendar/u/*/r/month/*
 // @include      https://calendar.google.com/calendar/u/*/r/customweek
@@ -167,9 +167,9 @@ function debug(message) {
 function paletteGen(colorHex) {
   return {
       faint: hexToRGBA(colorHex + "1"),
-      today: hexToRGBA(colorHex + "7"),
-      thisWeek: hexToRGBA(colorHex + "4"),
-      dayNumbers: hexToRGBA(colorHex + "C")
+      today: hexToRGBA(colorHex + "9"),
+      thisWeek: hexToRGBA(colorHex + "5"),
+      dayNumbers: hexToRGBA(colorHex + "F")
   }
 }
 

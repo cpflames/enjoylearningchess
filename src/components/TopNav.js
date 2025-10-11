@@ -11,12 +11,17 @@ export default function TopNav() {
           className="nav-logo" 
         />
       </Link>
-      <Link to="/ratings">Ratings Calculator</Link>
       <Link to="/resources">Learning Resources</Link>
-      <Link to="/results">Tournament Results</Link>
-      <Link to="/pgn">PGN cleaner</Link>
-      <Link to="/etymize">Etymize</Link>
-      {/* <Link to="/notation-reader">Notation Reader</Link> */}
+      <div className="dropdown">
+        <span className="dropdown-label">Tools</span>
+        <div className="dropdown-content">
+          <Link to="/ratings">Ratings Calculator</Link>
+          <Link to="/results">Tournament Results</Link>
+          <Link to="/pgn">PGN Cleaner</Link>
+          <Link to="/etymize">Etymize</Link>
+          {/* <Link to="/notation-reader">Notation Reader</Link> */}
+        </div>
+      </div>
     </div>
   );
 } 
