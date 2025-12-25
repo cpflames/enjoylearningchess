@@ -1,34 +1,34 @@
 import '../App.css';
 import { useState } from 'react';
 
-function primesUpto(n) {
-    // Eratosthenes algorithm to find all primes under n
-    var array = [];
-    var output = [];
+// function primesUpto(n) {
+//     // Eratosthenes algorithm to find all primes under n
+//     var array = [];
+//     var output = [];
 
-    // Make an array from 2 to (n - 1)
-    for (var h = 0; h <= n+0.5; h++) {
-        array.push(true);
-    }
+//     // Make an array from 2 to (n - 1)
+//     for (var h = 0; h <= n+0.5; h++) {
+//         array.push(true);
+//     }
 
-    // Remove multiples of primes starting from 2, 3, 5,...
-    for (var i = 2; i <= n; i++) {
-        if (array[i]) {
-            for (var j = i * i; j < n; j += i) {
-                array[j] = false;
-            }
-        }
-    }
+//     // Remove multiples of primes starting from 2, 3, 5,...
+//     for (var i = 2; i <= n; i++) {
+//         if (array[i]) {
+//             for (var j = i * i; j < n; j += i) {
+//                 array[j] = false;
+//             }
+//         }
+//     }
 
-    // All array[i] set to true are primes
-    for (var k = 2; k < n; k++) {
-        if(array[k]) {
-            output.push(k);
-        }
-    }
+//     // All array[i] set to true are primes
+//     for (var k = 2; k < n; k++) {
+//         if(array[k]) {
+//             output.push(k);
+//         }
+//     }
 
-    return output;
-};
+//     return output;
+// };
 
 function nextPrime(primes, limit) {
     if(primes.length === 0) {
@@ -58,14 +58,17 @@ function factorThis(number) {
 
 
   while(remaining > 1) {
-    if(currPrime > Math.sqrt(remaining)) {
-      output.push(remaining.toLocaleString());
-      break;
-    }
     var currPrime = nextPrime(primes, remaining);
     while(remaining % currPrime === 0) {
       output.push(currPrime.toLocaleString());
       remaining /= currPrime;
+    }
+    if(remaining === 1) {
+      break;
+    }
+    if(currPrime > Math.sqrt(remaining)) {
+      output.push(remaining.toLocaleString());
+      break;
     }
   }
   return {factoring: output.join("  x  "), primes: primes};

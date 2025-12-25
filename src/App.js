@@ -20,6 +20,7 @@ import TournamentFinder from "./pages/TournamentFinder.tsx";
 import Etymize from "./pages/Etymize.tsx";
 import NotationReader from "./pages/NotationReader.tsx";
 import Connect4 from "./pages/Connect4.tsx";
+import Chess from "./pages/Chess.tsx";
 
 export default function App() {
   return (
@@ -76,6 +77,9 @@ export default function App() {
         </Route>
         <Route path="/connect4" element={<ChessOnlyLayout />}>
           <Route index element={<Connect4 />} />
+        </Route>
+        <Route path="/chess" element={<ChessOnlyLayout />}>
+          <Route index element={<Chess />} />
         </Route>
       </Routes>
     </BrowserRouter>
