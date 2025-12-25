@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useRef, useEffect } from 'react';
 import Chessboard from 'chessboardjsx';
 import { Chess } from 'chess.js';
 
@@ -8,9 +8,43 @@ export default function ChessGame() {
   const [fen, setFen] = useState(game.fen());
   const [pendingPromotion, setPendingPromotion] = useState<{ from: string; to: string } | null>(null);
   const [moveHistory, setMoveHistory] = useState<string[]>([]);
+  const [chatMessages, setChatMessages] = useState<string[]>([]);
+  const chatEndRef = useRef<HTMLDivElement>(null);
+
+  const scrollToBottom = () => {
+    chatEndRef.current?.scrollIntoView({ behavior: 'smooth' });
+  };
+
+  useEffect(() => {
+    scrollToBottom();
+  }, [chatMessages]);
 
   const updateMoveHistory = () => {
     setMoveHistory(game.history());
+  };
+
+  const getPieceName = (pieceType: string): string => {
+    const pieceNames: { [key: string]: string } = {
+      'p': 'pawn',
+      'n': 'knight',
+      'b': 'bishop',
+      'r': 'rook',
+      'q': 'queen',
+      'k': 'king'
+    };
+    return pieceNames[pieceType] || pieceType;
+  };
+
+  const checkGameEnd = () => {
+    if (game.isGameOver()) {
+      if (game.isCheckmate()) {
+        setChatMessages(prev => [...prev, 'Checkmate! Good game.']);
+      } else if (game.isStalemate()) {
+        setChatMessages(prev => [...prev, 'It ends in stalemate. Good game.']);
+      } else if (game.isDraw()) {
+        setChatMessages(prev => [...prev, 'The game is a draw. Good game.']);
+      }
+    }
   };
 
   const makeRandomBotMove = () => {
@@ -18,9 +52,24 @@ export default function ChessGame() {
     if (game.isGameOver() || possibleMoves.length === 0) return;
 
     const randomIdx = Math.floor(Math.random() * possibleMoves.length);
-    game.move(possibleMoves[randomIdx]);
-    setFen(game.fen());
-    updateMoveHistory();
+    const moveString = possibleMoves[randomIdx];
+    
+    // Get the piece that will be moved
+    const moveObj = game.move(moveString);
+    if (moveObj) {
+      const pieceType = moveObj.piece;
+      const pieceName = getPieceName(pieceType);
+      
+      // Add chat message
+      const message = `There were ${possibleMoves.length} legal moves, and I chose to move my ${pieceName}.`;
+      setChatMessages(prev => [...prev, message]);
+      
+      setFen(game.fen());
+      updateMoveHistory();
+      
+      // Check for game end after bot move
+      checkGameEnd();
+    }
   };
 
   const handlePromotion = (promotionPiece: 'q' | 'r' | 'b' | 'n') => {
@@ -37,6 +86,9 @@ export default function ChessGame() {
         setFen(game.fen());
         setPendingPromotion(null);
         updateMoveHistory();
+        
+        // Check for game end after player move
+        checkGameEnd();
         
         // After player's move, make bot move if game is not over
         if (!game.isGameOver() && game.turn() === 'b') {
@@ -83,6 +135,9 @@ export default function ChessGame() {
       if (move) {
         setFen(game.fen());
         updateMoveHistory();
+        
+        // Check for game end after player move
+        checkGameEnd();
         
         // After player's move, make bot move if game is not over
         if (!game.isGameOver() && game.turn() === 'b') {
@@ -226,6 +281,49 @@ export default function ChessGame() {
             )}
           </tbody>
         </table>
+      </div>
+      <div style={{
+        minWidth: '250px',
+        backgroundColor: '#f5f5f5',
+        padding: '15px',
+        borderRadius: '8px',
+        maxHeight: '600px',
+        display: 'flex',
+        flexDirection: 'column'
+      }}>
+        <h3 style={{ marginTop: 0, marginBottom: '15px' }}>Bot Chat</h3>
+        <div style={{
+          flex: 1,
+          overflowY: 'auto',
+          backgroundColor: 'white',
+          padding: '10px',
+          borderRadius: '4px',
+          minHeight: '400px',
+          border: '1px solid #ddd'
+        }}>
+          {chatMessages.length === 0 ? (
+            <div style={{ color: '#999', fontStyle: 'italic' }}>
+              Waiting for bot to make a move...
+            </div>
+          ) : (
+            chatMessages.map((message, index) => (
+              <div
+                key={index}
+                style={{
+                  marginBottom: '12px',
+                  padding: '8px',
+                  backgroundColor: '#e8f4f8',
+                  borderRadius: '4px',
+                  fontSize: '14px',
+                  lineHeight: '1.4'
+                }}
+              >
+                {message}
+              </div>
+            ))
+          )}
+          <div ref={chatEndRef} />
+        </div>
       </div>
     </div>
   );
