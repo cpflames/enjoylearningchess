@@ -34,7 +34,7 @@ export default function ChessGame() {
   };
 
   return (
-    <div>
+    <div style={{ paddingLeft: '20px' }}>
       <h2>Play Chess</h2>
       <Chessboard position={fen} onDrop={handleMove} />
     </div>
