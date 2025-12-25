@@ -9,6 +9,8 @@ export default function Resources() {
       ▶ <a href="https://www.amazon.com/How-Win-Chess-Ultimate-Beginners/dp/1984862073">How to Win at Chess</a> by Levy Rozman
       <br/>
       ▶ <a href="https://www.amazon.com/Reassess-Your-Chess/dp/1890085138">Reassess Your Chess</a> by Jeremy Silman
+      <br/>
+      ▶ <a href="https://www.amazon.com/Silmans-Complete-Endgame-Course-Beginner/dp/1890085103">Silman's Complete Endgame Course</a> by Jeremy Silman
 
 
       <h4>Chess Videos</h4>
