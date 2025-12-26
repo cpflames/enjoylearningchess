@@ -1,6 +1,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 import Chessboard from 'chessboardjsx';
 import { Chess } from 'chess.js';
+import { botMove } from './ChessBot';
 
 const game = new Chess(); // shared game instance
 
@@ -23,18 +24,6 @@ export default function ChessGame() {
     setMoveHistory(game.history());
   };
 
-  const getPieceName = (pieceType: string): string => {
-    const pieceNames: { [key: string]: string } = {
-      'p': 'pawn',
-      'n': 'knight',
-      'b': 'bishop',
-      'r': 'rook',
-      'q': 'queen',
-      'k': 'king'
-    };
-    return pieceNames[pieceType] || pieceType;
-  };
-
   const checkGameEnd = () => {
     if (game.isGameOver()) {
       if (game.isCheckmate()) {
@@ -47,27 +36,16 @@ export default function ChessGame() {
     }
   };
 
-  const makeRandomBotMove = () => {
+  const makeBotMove = () => {
     const possibleMoves = game.moves();
     if (game.isGameOver() || possibleMoves.length === 0) return;
 
-    const randomIdx = Math.floor(Math.random() * possibleMoves.length);
-    const moveString = possibleMoves[randomIdx];
-    
-    // Get the piece that will be moved
-    const moveObj = game.move(moveString);
-    if (moveObj) {
-      const pieceType = moveObj.piece;
-      const pieceName = getPieceName(pieceType);
-      
-      // Add chat message
-      const message = `There were ${possibleMoves.length} legal moves, and I chose to move my ${pieceName}.`;
-      setChatMessages(prev => [...prev, message]);
-      
+    const { moveString, chatMessage } = botMove(game);
+    if (moveString) {
+      game.move(moveString);
       setFen(game.fen());
       updateMoveHistory();
-      
-      // Check for game end after bot move
+      setChatMessages(prev => [...prev, chatMessage]);
       checkGameEnd();
     }
   };
@@ -94,7 +72,7 @@ export default function ChessGame() {
         if (!game.isGameOver() && game.turn() === 'b') {
           // Small delay to make bot move feel more natural
           setTimeout(() => {
-            makeRandomBotMove();
+            makeBotMove();
           }, 300);
         }
       }
@@ -143,7 +121,7 @@ export default function ChessGame() {
         if (!game.isGameOver() && game.turn() === 'b') {
           // Small delay to make bot move feel more natural
           setTimeout(() => {
-            makeRandomBotMove();
+            makeBotMove();
           }, 300);
         }
       } else {
