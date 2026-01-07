@@ -1,15 +1,22 @@
 import React, { useState, useRef, useEffect } from 'react';
+import { useSearchParams } from 'react-router-dom';
 import Chessboard from 'chessboardjsx';
 import { Chess } from 'chess.js';
-import { botMove } from './ChessBot';
+import { botMove, BotLevel } from './ChessBot';
 
 const game = new Chess(); // shared game instance
 
-export default function ChessGame() {
+interface ChessGameProps {
+  botLevel?: BotLevel;
+}
+
+export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGameProps) {
+  const [searchParams, setSearchParams] = useSearchParams();
   const [fen, setFen] = useState(game.fen());
   const [pendingPromotion, setPendingPromotion] = useState<{ from: string; to: string } | null>(null);
   const [moveHistory, setMoveHistory] = useState<string[]>([]);
   const [chatMessages, setChatMessages] = useState<string[]>([]);
+  const [botLevel, setBotLevel] = useState<BotLevel>(initialBotLevel);
   const chatEndRef = useRef<HTMLDivElement>(null);
 
   const scrollToBottom = () => {
@@ -40,7 +47,7 @@ export default function ChessGame() {
     const possibleMoves = game.moves();
     if (game.isGameOver() || possibleMoves.length === 0) return;
 
-    const { moveString, chatMessage } = botMove(game);
+    const { moveString, chatMessage } = botMove(game, botLevel);
     if (moveString) {
       game.move(moveString);
       setFen(game.fen());
@@ -144,10 +151,32 @@ export default function ChessGame() {
     });
   }
 
+  const handleBotLevelChange = (event: React.ChangeEvent<HTMLSelectElement>) => {
+    const newLevel = Number(event.target.value) as BotLevel;
+    setBotLevel(newLevel);
+    // Update URL parameter
+    setSearchParams({ level: newLevel.toString() });
+  };
+
   return (
     <div style={{ paddingLeft: '20px', display: 'flex', gap: '20px' }}>
       <div>
+        <div style={{ float: 'left' }}>
         <h2>Play Chess</h2>
+        </div>
+         <div style={{ float: 'right', padding: '14px' }}>
+           <label htmlFor="bot-level" style={{ marginRight: '10px', fontSize: '16px' }}>Bot Level:</label>
+           <select 
+             id="bot-level" 
+             value={botLevel}
+             onChange={handleBotLevelChange}
+             style={{ padding: '8px 12px', fontSize: '16px', borderRadius: '4px', border: '1px solid rgb(204, 204, 204)', cursor: 'pointer' }}
+           >
+             <option value="0">0</option>
+             <option value="1">1</option>
+             <option value="2">2</option>
+           </select>
+         </div>
         <Chessboard position={fen} onDrop={handleMove} />
       {pendingPromotion && (
         <div style={{
