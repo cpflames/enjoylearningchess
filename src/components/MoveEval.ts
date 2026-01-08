@@ -75,6 +75,17 @@ export class MoveEval {
    * @returns Total material points for that color
    */
     pointsAhead(color: Color): number {
+      if (this.game.isGameOver()) {
+        if (this.game.isCheckmate()) {
+          return (color === this.game.turn()) ? -Infinity : Infinity;
+        }
+        if (this.game.isStalemate()) {
+          return 0;
+        }
+        if (this.game.isDraw()) {
+          return 0;
+        }
+      }
       let totalPoints = 0;
       const board = this.game.board();
   

@@ -94,8 +94,15 @@ const material2PlyBotMove = (game: Chess) => {
   }
   const currentScore = moveEval.pointsAhead(game.turn());
   const improvement = Math.round(myBestScore - currentScore);
-  return { moveString: myBestMove.getMoveString(), 
-    chatMessage: `I chose to move my ${myBestMove.getPieceName()} to win ${improvement} points.` };
+  let msg = "";
+  if (improvement > 0) {
+    msg += `I chose ${myBestMove.getMoveString()} to win ${improvement} points.`
+  } else if (improvement < 0) {
+    msg += `Hmm... it seems my least bad option is ${myBestMove.getMoveString()} to lose only ${-improvement} points.`
+  } else {
+    msg += `I don't see any move to gain points, so I'll just play ${myBestMove.getMoveString()}.`
+  }
+  return { moveString: myBestMove.getMoveString(), chatMessage: msg };
 };
 
 // jitter function returns a random number between -0.0000001 and 0.0000001
