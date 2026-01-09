@@ -20,6 +20,7 @@ export default function TopNav() {
           <Link to="/pgn">PGN Cleaner</Link>
           <Link to="/etymize">Etymize</Link>
           <Link to="/connect4">Connect 4</Link>
+          <Link to="/scripts/CalendarColorizer.user.js" target="_blank">Calendar Colorizer</Link>
           {/* <Link to="/notation-reader">Notation Reader</Link> */}
         </div>
       </div>

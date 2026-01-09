@@ -2,7 +2,9 @@
 // @name         Google Calendar Colorizer
 // @namespace    cpflames
 // @description  Simple script to change the colors in Google Calendar.
-// @version      3.0
+// @updateURL    https://enjoylearningchess.com/scripts/CalendarColorizer.user.js
+// @downloadURL  https://enjoylearningchess.com/scripts/CalendarColorizer.user.js
+// @version      3.01
 // @include      https://calendar.google.com/calendar/u/*/r/month
 // @include      https://calendar.google.com/calendar/u/*/r/month/*
 // @include      https://calendar.google.com/calendar/u/*/r/customweek
