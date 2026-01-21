@@ -11,7 +11,7 @@ export default function PlayChess() {
   let botLevel: BotLevel = 0;
   if (levelParam !== null) {
     const parsedLevel = parseInt(levelParam, 10);
-    if (!isNaN(parsedLevel) && parsedLevel >= 0 && parsedLevel <= 3) {
+    if (!isNaN(parsedLevel) && parsedLevel >= 0 && parsedLevel <= 4) {
       botLevel = parsedLevel as BotLevel;
     }
   }

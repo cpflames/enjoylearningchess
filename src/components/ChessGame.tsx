@@ -16,7 +16,21 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
   const [pendingPromotion, setPendingPromotion] = useState<{ from: string; to: string } | null>(null);
   const [moveHistory, setMoveHistory] = useState<string[]>([]);
   const [chatMessages, setChatMessages] = useState<string[]>([]);
-  const [botLevel, setBotLevel] = useState<BotLevel>(initialBotLevel);
+  const [logsMessages, setLogsMessages] = useState<string[]>([]);
+  
+  // Initialize botLevel from URL parameter if present, otherwise use initialBotLevel prop
+  const getInitialBotLevel = (): BotLevel => {
+    const levelParam = searchParams.get('level');
+    if (levelParam !== null) {
+      const parsedLevel = parseInt(levelParam, 10);
+      if (!isNaN(parsedLevel) && parsedLevel >= 0 && parsedLevel <= MAX_BOT_LEVEL) {
+        return parsedLevel as BotLevel;
+      }
+    }
+    return initialBotLevel;
+  };
+  
+  const [botLevel, setBotLevel] = useState<BotLevel>(getInitialBotLevel);
   const chatEndRef = useRef<HTMLDivElement>(null);
 
   const scrollToBottom = () => {
@@ -47,12 +61,13 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
     const possibleMoves = game.moves();
     if (game.isGameOver() || possibleMoves.length === 0) return;
 
-    const { moveString, chatMessage } = botMove(game, botLevel);
+    const { moveString, chatMessage, logsMessage } = botMove(game, botLevel);
     if (moveString) {
       game.move(moveString);
       setFen(game.fen());
       updateMoveHistory();
       setChatMessages(prev => [...prev, chatMessage]);
+      setLogsMessages(prev => [...prev, logsMessage]);
       checkGameEnd();
     }
   };
@@ -159,25 +174,26 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
   };
 
   return (
-    <div style={{ paddingLeft: '20px', display: 'flex', gap: '20px' }}>
-      <div>
-        <div style={{ float: 'left' }}>
-        <h2>Play Chess</h2>
-        </div>
-         <div style={{ float: 'right', padding: '14px' }}>
-           <label htmlFor="bot-level" style={{ marginRight: '10px', fontSize: '16px' }}>Bot Level:</label>
-           <select 
-             id="bot-level" 
-             value={botLevel}
-             onChange={handleBotLevelChange}
-             style={{ padding: '8px 12px', fontSize: '16px', borderRadius: '4px', border: '1px solid rgb(204, 204, 204)', cursor: 'pointer' }}
-           >
-             {Array.from({ length: MAX_BOT_LEVEL + 1 }, (_, i) => (
-               <option key={i} value={i}>{i}</option>
-             ))}
-           </select>
-         </div>
-        <Chessboard position={fen} onDrop={handleMove} />
+    <div style={{ paddingLeft: '20px' }}>
+      <div style={{ display: 'flex', gap: '20px' }}>
+        <div>
+          <div style={{ float: 'left' }}>
+          <h2>Play Chess</h2>
+          </div>
+           <div style={{ float: 'right', padding: '14px' }}>
+             <label htmlFor="bot-level" style={{ marginRight: '10px', fontSize: '16px' }}>Bot Level:</label>
+             <select 
+               id="bot-level" 
+               value={botLevel}
+               onChange={handleBotLevelChange}
+               style={{ padding: '8px 12px', fontSize: '16px', borderRadius: '4px', border: '1px solid rgb(204, 204, 204)', cursor: 'pointer' }}
+             >
+               {Array.from({ length: MAX_BOT_LEVEL + 1 }, (_, i) => (
+                 <option key={i} value={i}>{i}</option>
+               ))}
+             </select>
+           </div>
+          <Chessboard position={fen} onDrop={handleMove} />
       {pendingPromotion && (
         <div style={{
           position: 'fixed',
@@ -259,7 +275,7 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
         backgroundColor: '#f5f5f5',
         padding: '15px',
         borderRadius: '8px',
-        maxHeight: '600px',
+        height: '600px',
         overflowY: 'auto'
       }}>
         <h3 style={{ marginTop: 0, marginBottom: '15px' }}>Moves</h3>
@@ -290,11 +306,11 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
         </table>
       </div>
       <div style={{
-        minWidth: '250px',
+        width: '400px',
         backgroundColor: '#f5f5f5',
         padding: '15px',
         borderRadius: '8px',
-        maxHeight: '600px',
+        height: '600px',
         display: 'flex',
         flexDirection: 'column'
       }}>
@@ -322,7 +338,8 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
                   backgroundColor: '#e8f4f8',
                   borderRadius: '4px',
                   fontSize: '14px',
-                  lineHeight: '1.4'
+                  lineHeight: '1.4',
+                  whiteSpace: 'pre-line'
                 }}
               >
                 {message}
@@ -330,6 +347,50 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
             ))
           )}
           <div ref={chatEndRef} />
+        </div>
+      </div>
+      </div>
+      <div style={{
+        marginTop: '20px',
+        width: '1227px',
+        backgroundColor: '#f5f5f5',
+        padding: '15px',
+        borderRadius: '8px',
+        minHeight: '200px',
+        maxHeight: '700px',
+        overflowY: 'auto',
+        border: '1px solid #ddd'
+      }}>
+        <h3 style={{ marginTop: 0, marginBottom: '15px' }}>Logs</h3>
+        <div style={{
+          backgroundColor: 'white',
+          padding: '10px',
+          borderRadius: '4px',
+          minHeight: '100px',
+          fontFamily: 'monospace',
+          fontSize: '12px',
+          lineHeight: '1.6',
+          whiteSpace: 'pre-wrap'
+        }}>
+          {logsMessages.length === 0 ? (
+            <div style={{ color: '#999', fontStyle: 'italic' }}>
+              No logs yet...
+            </div>
+          ) : (
+            logsMessages.map((message, index) => (
+              <div
+                key={index}
+                style={{
+                  marginBottom: '8px',
+                  padding: '4px 8px',
+                  backgroundColor: '#f9f9f9',
+                  borderRadius: '2px'
+                }}
+              >
+                {message}
+              </div>
+            ))
+          )}
         </div>
       </div>
     </div>

@@ -5,6 +5,7 @@ export class MoveEval {
   // Set during construction
   private game: Chess;
   public move: string;
+  public logs: string;
   // Set during evaluation
   public possibleMoves: MoveEval[];
   public score: number;
@@ -14,6 +15,7 @@ export class MoveEval {
   constructor(game: Chess, move: string = '') {
     this.game = game;
     this.move = move;
+    this.logs = '';
   }
 
   private materialValues: { [key: string]: number } = {
@@ -77,18 +79,16 @@ export class MoveEval {
     return this.game.turn() === 'w' ? 'w' : 'b';
   }
 
-  // materialPointsAheadForMe(): number {
-  //   const {white: materialWhite, black: materialBlack} = this.materialPoints();
-  //   if (this.nextTurn() === 'w') {
-  //     return materialWhite - materialBlack;
-  //   } else {
-  //     return materialBlack - materialWhite;
-  //   }
-  // }
-
   materialPointsAheadForWhite(): number {
+    this.logs += `Calculating material points ahead...\n`;
     const {white: materialWhite, black: materialBlack} = this.materialPoints();
-    return materialWhite - materialBlack;
+    this.logs += `Material points: white: ${materialWhite}, black: ${materialBlack}\n`;
+    const pointsAhead = materialWhite - materialBlack;
+    this.logs += `Points ahead: ${pointsAhead}\n`;
+    if (isNaN(pointsAhead)) {
+      return materialWhite; // e.g. Infinity
+    }
+    return pointsAhead;
   }
 
   /**
@@ -99,9 +99,9 @@ export class MoveEval {
     if (this.game.isGameOver()) {
       if (this.game.isCheckmate()) {
         if (this.game.turn() === 'w') { 
-          return {white: -Infinity, black: Infinity};
+          return {white: -99999, black: 99999 };
         } else {
-          return {white: Infinity, black: -Infinity};
+          return {white: 99999, black: -99999};
         }
       }
       if (this.game.isStalemate()) {
@@ -155,13 +155,14 @@ export class MoveEval {
   }
 
   minimax(evalFunc: (moveEval: MoveEval) => number, depth: number, isMaximizing: boolean): MoveEval {
-    if (depth === 0) {
+    this.findPossibleMoves();
+    if (depth === 0 || this.possibleMoves.length === 0) {
       this.finalState = this;
       this.score = evalFunc(this);
       return this;
     }
-    this.findPossibleMoves();
-    this.score = -Infinity;
+    
+    this.score = isMaximizing ? -Infinity : Infinity;
     for (const move of this.possibleMoves) {
       move.minimax(evalFunc, depth - 1, !isMaximizing);
       const isBetter = isMaximizing ? move.score > this.score : move.score < this.score;
@@ -171,6 +172,7 @@ export class MoveEval {
         this.bestMove = move;
       }
     }
+    
     return this.bestMove; // can use the bestMove returned, or call functions on this object.
   };
 
@@ -188,5 +190,15 @@ export class MoveEval {
     const newGame = new Chess(this.game.fen());
     newGame.move(move);
     return new MoveEval(newGame, move);
+  }
+
+  getMovesAndScores(): {move: string, score: number}[] {
+    return this.possibleMoves.map(move => ({move: move.getMoveString(), score: move.score}));
+  }
+
+  getMovesAndScoresSortedAsString(): string {
+    this.possibleMoves.sort((a, b) => a.score - b.score); 
+    const movesAndScore = this.possibleMoves.map(move => `${move.getMoveString()}: ${move.score.toFixed(2)}`).join('\n')
+    return `Current Eval: ${this.score.toFixed(2)}\n` + movesAndScore;
   }
 }
