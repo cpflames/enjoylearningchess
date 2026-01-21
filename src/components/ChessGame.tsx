@@ -2,7 +2,7 @@ import React, { useState, useRef, useEffect } from 'react';
 import { useSearchParams } from 'react-router-dom';
 import Chessboard from 'chessboardjsx';
 import { Chess } from 'chess.js';
-import { botMove, BotLevel } from './ChessBot';
+import { botMove, BotLevel, MAX_BOT_LEVEL } from './ChessBot';
 
 const game = new Chess(); // shared game instance
 
@@ -172,9 +172,9 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
              onChange={handleBotLevelChange}
              style={{ padding: '8px 12px', fontSize: '16px', borderRadius: '4px', border: '1px solid rgb(204, 204, 204)', cursor: 'pointer' }}
            >
-             <option value="0">0</option>
-             <option value="1">1</option>
-             <option value="2">2</option>
+             {Array.from({ length: MAX_BOT_LEVEL + 1 }, (_, i) => (
+               <option key={i} value={i}>{i}</option>
+             ))}
            </select>
          </div>
         <Chessboard position={fen} onDrop={handleMove} />

@@ -3,8 +3,9 @@ import type { Color } from 'chess.js';
 import { MoveEval } from './MoveEval';
 
 // Bot level: 0 = random, 1 = mobility-based, 2 = mobility + material
-export type BotLevel = 0 | 1 | 2;
+export type BotLevel = 0 | 1 | 2 | 3 | 4;
 export const BOT_COLOR: Color = 'b';
+export const MAX_BOT_LEVEL = 4;
 
 // Bot move logic
 // In this function, the bot is passed the game object and bot level, and will return a moveString and a chatMessage
@@ -22,66 +23,110 @@ export const botMove = (game: Chess, botLevel: BotLevel = 0): { moveString: stri
       return material1PlyBotMove(game);
     case 2:
       return material2PlyBotMove(game);
+    case 3:
+      return materialAndPositional2PlyBotMove(game);  
+    case 4:
+      return materialAndPositional4PlyBotMove(game);
     default:
       return randomBotMove(game);
   }
 }
 
-const randomBotMove = (game: Chess) => {
+const randomBotMove = (game: Chess): { moveString: string | null; chatMessage: string } => {
   const moveEval = new MoveEval(game);
-  const possibleMoves = moveEval.possibleMoves();
-  if (possibleMoves.length === 0) {
-    return { moveString: null, chatMessage: 'No valid moves available.' };
+  
+  const evalFunc = (moveEval: MoveEval) => {
+    return Math.random();
   }
-  const randomIdx = Math.floor(Math.random() * possibleMoves.length);
-  const chosenMove = possibleMoves[randomIdx];
-  return { moveString: chosenMove.getMoveString(), 
-    chatMessage: `Out of ${possibleMoves.length} possible moves, I chose the ${chosenMove.getPieceName()}.` };
+  const bestMove = moveEval.minimax(evalFunc, 1, false);
+  return { moveString: bestMove.getMoveString(), 
+    chatMessage: `Out of ${moveEval.possibleMoves.length} possible moves, I chose to move the ${moveEval.bestMove.getPieceName()}.` };
 };
 
 // Level 1: material eval after 1 ply 
-const material1PlyBotMove = (game: Chess) => {
+const material1PlyBotMove = (game: Chess): { moveString: string | null; chatMessage: string } => {
   const moveEval = new MoveEval(game);
-  const possibleMoves = moveEval.possibleMoves();
-  if (possibleMoves.length === 0) {
-    return { moveString: null, chatMessage: 'No valid moves available.' };
+  const depth = 1;
+  const evalFunc = (moveEval: MoveEval) => {
+    return moveEval.materialPointsAheadForWhite() + jitter();
   }
+  const myBestMove = moveEval.minimax(evalFunc, depth, false);
 
-  let myBestMove = possibleMoves[0];
-  let myBestScore = -Infinity;
-
-  for (const myMove of possibleMoves) {
-    const score = myMove.pointsAhead(game.turn()) + jitter();
-    if (score > myBestScore) {
-      myBestScore = score;
-      myBestMove = myMove;
-    }
-  }
-  const currentScore = moveEval.pointsAhead(game.turn());
-  const improvement = Math.round(myBestScore - currentScore); // round to nearest integer
-  return { moveString: myBestMove.getMoveString(), 
-    chatMessage: `I chose to move my ${myBestMove.getPieceName()} to win ${improvement} points.` };
+  const currentScore = evalFunc(moveEval);
+  const improvement = Math.round(-1 * (myBestMove.score - currentScore)); // round to nearest integer
+  const msg = getMoveMessage(myBestMove, improvement);
+  return { moveString: myBestMove.getMoveString(), chatMessage: msg };
 };
 
-// TODO: Setup Level 2 version to recursively call into Level 1 version
-// Level 1 version will need to return a moveEval object, most likely.
+// // makeBotMove will return an array of MoveEval objects, one for each possible move, ordered from best to worst.
+// // it will save into each MoveEval, the move that was made, the score of the move, and the move path and final state of that line.
+// // it will also save into each MoveEval, an explanation of the score of that move, created by diffing the final state of that line with the current state.
+// const makeBotMove = (game: Chess, depth: number, evalFunc: (moveEval: MoveEval) => number) => {
+//   const moveEval = new MoveEval(game);
+//   const {move: myBestMove, score: myBestScore} = moveEval.minimax(evalFunc, depth, '');
+//   const currentScore = evalFunc(moveEval);
+//   const improvement = Math.round(myBestScore - currentScore); // round to nearest integer
+//   const msg = getMoveMessage(myBestMove, improvement);
+//   return { moveString: myBestMove.getMoveString(), chatMessage: msg };
+// }
 
 // Level 2: material eval after 2 ply 
-const material2PlyBotMove = (game: Chess) => {
+const material2PlyBotMove = (game: Chess): { moveString: string | null; chatMessage: string } => {
   const moveEval = new MoveEval(game);
-  const possibleMoves = moveEval.possibleMoves();
-  if (possibleMoves.length === 0) {
-    return { moveString: null, chatMessage: 'No valid moves available.' };
+  
+  const evalFunc = (moveEval: MoveEval) => {
+    const {white: materialWhite, black: materialBlack} = moveEval.materialPoints();
+    return (materialBlack - materialWhite);
+  }
+  const myBestMove = getBestMove(moveEval, evalFunc);
+  const currentScore = roundTo(evalFunc(moveEval), 100);
+  const improvement = roundTo(evalFunc(myBestMove) - currentScore, 100);
+  return { moveString: myBestMove.getMoveString(), chatMessage: getMoveMessage(myBestMove, improvement) };
+}
+
+// Level 3: material and positional eval after 2 ply 
+const materialAndPositional2PlyBotMove = (game: Chess) => {
+  const moveEval = new MoveEval(game);
+
+  const evalFunc = (moveEval: MoveEval) => {
+    const {white: materialWhite, black: materialBlack} = moveEval.materialPoints();
+    const {white: positionalWhite, black: positionalBlack} = moveEval.positionalPoints();
+    return (materialBlack + positionalBlack) - (materialWhite + positionalWhite);
   }
 
+  const myBestMove = getBestMove(moveEval, evalFunc);
+  const currentScore = roundTo(evalFunc(moveEval), 100);
+  const improvement = roundTo(evalFunc(myBestMove) - currentScore, 100);
+
+  return { moveString: myBestMove.getMoveString(), chatMessage: getMoveMessage(myBestMove, improvement) };
+}
+
+// Level 4: material and positional eval after 4 ply 
+const materialAndPositional4PlyBotMove = (game: Chess) => {
+  const moveEval = new MoveEval(game);
+
+  const evalFunc = (moveEval: MoveEval) => {
+    const {white: materialWhite, black: materialBlack} = moveEval.materialPoints();
+    const {white: positionalWhite, black: positionalBlack} = moveEval.positionalPoints();
+    return (materialBlack + positionalBlack) - (materialWhite + positionalWhite);
+  }
+
+  const myBestMove = getBestMove(moveEval, evalFunc);
+  const currentScore = roundTo(evalFunc(moveEval), 100);
+  const improvement = roundTo(evalFunc(myBestMove) - currentScore, 100);
+
+  return { moveString: myBestMove.getMoveString(), chatMessage: getMoveMessage(myBestMove, improvement) };
+}
+
+const getBestMove = (moveEval: MoveEval, func: (moveEval: MoveEval) => number) => {
+  const possibleMoves = moveEval.findPossibleMoves();
   let myBestMove = possibleMoves[0];
   let myBestScore = -Infinity;
-
   for (const myMove of possibleMoves) {
     //let theirBestMove = myMove.possibleMoves()[0];
     let theirBestScore = Infinity;
-    for (const theirMove of myMove.possibleMoves()) {
-      const score = theirMove.pointsAhead(BOT_COLOR) + jitter();
+    for (const theirMove of myMove.findPossibleMoves()) {
+      const score = func(theirMove) + jitter();
       if (score < theirBestScore) {
         theirBestScore = score;
         //theirBestMove = theirMove;
@@ -92,21 +137,27 @@ const material2PlyBotMove = (game: Chess) => {
       myBestMove = myMove;
     }
   }
-  const currentScore = moveEval.pointsAhead(game.turn());
-  const improvement = Math.round(myBestScore - currentScore);
+  return myBestMove;
+}
+
+const getMoveMessage = (moveEval: MoveEval, improvement: number) => {
   let msg = "";
   if (improvement > 0) {
-    msg += `I chose ${myBestMove.getMoveString()} to win ${improvement} points.`
+    msg += `I chose ${moveEval.getMoveString()} to win ${improvement} points.`
   } else if (improvement < 0) {
-    msg += `Hmm... it seems my least bad option is ${myBestMove.getMoveString()} to lose only ${-improvement} points.`
+    msg += `Hmm... it seems my least bad option is ${moveEval.getMoveString()} to lose only ${-improvement} points.`
   } else {
-    msg += `I don't see any move to gain points, so I'll just play ${myBestMove.getMoveString()}.`
+    msg += `I don't see any move to gain points, so I'll just play ${moveEval.getMoveString()}.`
   }
-  return { moveString: myBestMove.getMoveString(), chatMessage: msg };
-};
+  return msg;
+}
 
 // jitter function returns a random number between -0.0000001 and 0.0000001
 const jitter = () => {
   return Math.random() * 0.0000002 - 0.0000001;
+}
+
+const roundTo = (value: number, denominator: number) => {
+  return Math.round(value * denominator) / denominator;
 }
 
