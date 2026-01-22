@@ -38,6 +38,10 @@ const roundTo = (value: number, denominator: number) => {
   return Math.round(value * denominator) / denominator;
 }
 
+const timeOf = (name: string, duration: number) => {
+  return `${name} time: ${duration.toFixed(2)}ms`;
+}
+
 const botMoveHelper = (game: Chess, evalFunc: (moveEval: MoveEval) => number, depth: number, botName: string): BotResponse => {
   // Setup
   const startTime = performance.now();
@@ -49,19 +53,20 @@ const botMoveHelper = (game: Chess, evalFunc: (moveEval: MoveEval) => number, de
   const currentScore = roundTo(evalFunc(moveEval), 100);
   const improvement = roundTo(evalFunc(bestMove) - currentScore, 100);
   const msg = getMoveMessage(bestMove, improvement, false);
+  const currentEvalMsg = moveEval.getCurrentEvalAsString();
   const movesAndScores = moveEval.getMovesAndScoresSortedAsString();
 
   const endTime = performance.now();
   const evalTime = evalEndTime - startTime;
   const interpretTime = endTime - evalEndTime;
   const totalTime = endTime - startTime;
-  const timeMsg = `Eval time: ${evalTime.toFixed(2)}ms, Interpret time: ${interpretTime.toFixed(2)}ms, Total time: ${totalTime.toFixed(2)}ms`;
+  const timeMsg = timeOf('Eval', evalTime) + ', ' + timeOf('Interpret', interpretTime) + ', ' + timeOf('Total', totalTime);
   const logsMessage = `${botName} (${depth} ply): ${bestMove.getMoveString()}, score improvement: ${improvement}`;
   // Display
   return { 
     moveString: bestMove.getMoveString(), 
-    chatMessage: `${msg}\n${head(4, movesAndScores)}`,
-    logsMessage: logsMessage + '\n' + timeMsg + '\n' + bestMove.logs + '\n' + movesAndScores,
+    chatMessage: `${msg}\n${currentEvalMsg}\n${head(3, movesAndScores)}`,
+    logsMessage: [logsMessage, timeMsg, currentEvalMsg, bestMove.logs, movesAndScores.replaceAll('\n', ', ')].join('\n'),
   };
 };
 

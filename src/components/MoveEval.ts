@@ -201,13 +201,16 @@ export class MoveEval {
     return new MoveEval(newGame, move);
   }
 
+  getCurrentEvalAsString(): string {
+    return `Current Eval: ${this.score.toFixed(2)}`;
+  }
+
   getMovesAndScores(): {move: string, score: number}[] {
     return this.possibleMoves.map(move => ({move: move.getMoveString(), score: move.score}));
   }
 
   getMovesAndScoresSortedAsString(): string {
     this.possibleMoves.sort((a, b) => (a.score > b.score) ? 1 : -1);
-    const movesAndScore = this.possibleMoves.map(move => `${move.getMoveString()}: ${move.score.toFixed(2)}`).join(', ')
-    return `Current Eval: ${this.score.toFixed(2)}\n` + movesAndScore;
+    return this.possibleMoves.map(move => `${move.getMoveString()}: ${move.score.toFixed(2)}`).join('\n');
   }
 }
