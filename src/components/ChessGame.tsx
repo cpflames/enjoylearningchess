@@ -17,6 +17,7 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
   const [moveHistory, setMoveHistory] = useState<string[]>([]);
   const [chatMessages, setChatMessages] = useState<string[]>([]);
   const [logsMessages, setLogsMessages] = useState<string[]>([]);
+  const [logsExpanded, setLogsExpanded] = useState<boolean>(false);
   
   // Initialize botLevel from URL parameter if present, otherwise use initialBotLevel prop
   const getInitialBotLevel = (): BotLevel => {
@@ -31,15 +32,19 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
   };
   
   const [botLevel, setBotLevel] = useState<BotLevel>(getInitialBotLevel);
-  const chatEndRef = useRef<HTMLDivElement>(null);
-  const logsEndRef = useRef<HTMLDivElement>(null);
+  const chatContainerRef = useRef<HTMLDivElement>(null);
+  const logsContainerRef = useRef<HTMLDivElement>(null);
 
   const scrollToBottom = () => {
-    chatEndRef.current?.scrollIntoView({ behavior: 'smooth' });
+    if (chatContainerRef.current) {
+      chatContainerRef.current.scrollTop = chatContainerRef.current.scrollHeight;
+    }
   };
 
   const scrollLogsToBottom = () => {
-    logsEndRef.current?.scrollIntoView({ behavior: 'smooth' });
+    if (logsContainerRef.current) {
+      logsContainerRef.current.scrollTop = logsContainerRef.current.scrollHeight;
+    }
   };
 
   useEffect(() => {
@@ -324,15 +329,18 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
         flexDirection: 'column'
       }}>
         <h3 style={{ marginTop: 0, marginBottom: '15px' }}>Bot Chat</h3>
-        <div style={{
-          flex: 1,
-          overflowY: 'auto',
-          backgroundColor: 'white',
-          padding: '10px',
-          borderRadius: '4px',
-          minHeight: '400px',
-          border: '1px solid #ddd'
-        }}>
+        <div 
+          ref={chatContainerRef}
+          style={{
+            flex: 1,
+            overflowY: 'auto',
+            backgroundColor: 'white',
+            padding: '10px',
+            borderRadius: '4px',
+            minHeight: '400px',
+            border: '1px solid #ddd'
+          }}
+        >
           {chatMessages.length === 0 ? (
             <div style={{ color: '#999', fontStyle: 'italic' }}>
               Waiting for bot to make a move...
@@ -355,7 +363,6 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
               </div>
             ))
           )}
-          <div ref={chatEndRef} />
         </div>
       </div>
       </div>
@@ -365,44 +372,64 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
         backgroundColor: '#f5f5f5',
         padding: '15px',
         borderRadius: '8px',
-        height: '700px',
+        height: logsExpanded ? '700px' : 'auto',
         display: 'flex',
         flexDirection: 'column',
         border: '1px solid #ddd'
       }}>
-        <h3 style={{ marginTop: 0, marginBottom: '15px' }}>Logs</h3>
-        <div style={{
-          flex: 1,
-          overflowY: 'auto',
-          backgroundColor: 'white',
-          padding: '10px',
-          borderRadius: '4px',
-          fontFamily: 'monospace',
-          fontSize: '12px',
-          lineHeight: '1.6',
-          whiteSpace: 'pre-wrap'
-        }}>
-          {logsMessages.length === 0 ? (
-            <div style={{ color: '#999', fontStyle: 'italic' }}>
-              No logs yet...
-            </div>
-          ) : (
-            logsMessages.map((message, index) => (
-              <div
-                key={index}
-                style={{
-                  marginBottom: '8px',
-                  padding: '4px 8px',
-                  backgroundColor: '#f9f9f9',
-                  borderRadius: '2px'
-                }}
-              >
-                {message}
-              </div>
-            ))
-          )}
-          <div ref={logsEndRef} />
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: logsExpanded ? '15px' : '0' }}>
+          <h3 style={{ marginTop: 0, marginBottom: 0 }}>Logs</h3>
+          <button
+            onClick={() => setLogsExpanded(!logsExpanded)}
+            style={{
+              padding: '6px 12px',
+              fontSize: '14px',
+              cursor: 'pointer',
+              backgroundColor: '#555',
+              color: 'white',
+              border: 'none',
+              borderRadius: '4px'
+            }}
+          >
+            {logsExpanded ? 'Collapse' : 'Expand'}
+          </button>
         </div>
+        {logsExpanded && (
+          <div 
+            ref={logsContainerRef}
+            style={{
+              flex: 1,
+              overflowY: 'auto',
+              backgroundColor: 'white',
+              padding: '10px',
+              borderRadius: '4px',
+              fontFamily: 'monospace',
+              fontSize: '12px',
+              lineHeight: '1.6',
+              whiteSpace: 'pre-wrap'
+            }}
+          >
+            {logsMessages.length === 0 ? (
+              <div style={{ color: '#999', fontStyle: 'italic' }}>
+                No logs yet...
+              </div>
+            ) : (
+              logsMessages.map((message, index) => (
+                <div
+                  key={index}
+                  style={{
+                    marginBottom: '8px',
+                    padding: '4px 8px',
+                    backgroundColor: '#f9f9f9',
+                    borderRadius: '2px'
+                  }}
+                >
+                  {message}
+                </div>
+              ))
+            )}
+          </div>
+        )}
       </div>
     </div>
   );
