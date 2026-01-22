@@ -40,20 +40,28 @@ const roundTo = (value: number, denominator: number) => {
 
 const botMoveHelper = (game: Chess, evalFunc: (moveEval: MoveEval) => number, depth: number, botName: string): BotResponse => {
   // Setup
-  const moveEval = new MoveEval(game);
+  const startTime = performance.now();
+  const moveEval = new MoveEval(cloneGame(game));
   // Eval
   const bestMove = moveEval.minimax(evalFunc, depth, false);
+  const evalEndTime = performance.now();
   // Interpret
   const currentScore = roundTo(evalFunc(moveEval), 100);
   const improvement = roundTo(evalFunc(bestMove) - currentScore, 100);
   const msg = getMoveMessage(bestMove, improvement, false);
   const movesAndScores = moveEval.getMovesAndScoresSortedAsString();
-  const logsMessage = `${botName}: ${bestMove.getMoveString()}, score improvement: ${improvement}`;
+
+  const endTime = performance.now();
+  const evalTime = evalEndTime - startTime;
+  const interpretTime = endTime - evalEndTime;
+  const totalTime = endTime - startTime;
+  const timeMsg = `Eval time: ${evalTime.toFixed(2)}ms, Interpret time: ${interpretTime.toFixed(2)}ms, Total time: ${totalTime.toFixed(2)}ms`;
+  const logsMessage = `${botName} (${depth} ply): ${bestMove.getMoveString()}, score improvement: ${improvement}`;
   // Display
   return { 
     moveString: bestMove.getMoveString(), 
     chatMessage: `${msg}\n${head(4, movesAndScores)}`,
-    logsMessage: logsMessage + '\n' + bestMove.logs + '\n' + movesAndScores,
+    logsMessage: logsMessage + '\n' + timeMsg + '\n' + bestMove.logs + '\n' + movesAndScores,
   };
 };
 
@@ -68,7 +76,7 @@ const randomBotMove = (game: Chess): BotResponse => {
 const material1PlyBotMove = (game: Chess): BotResponse => {
   const depth = 1;
   const evalFunc = (moveEval: MoveEval) => moveEval.materialPointsAheadForWhite() + jitter();
-  const botName = '[Level 1] Material eval (1 ply)';
+  const botName = '[Level 1] Material eval';
   return botMoveHelper(game, evalFunc, depth, botName);
 };
 
@@ -76,7 +84,7 @@ const material1PlyBotMove = (game: Chess): BotResponse => {
 const material2PlyBotMove = (game: Chess): BotResponse => {
   const depth = 2;
   const evalFunc = (moveEval: MoveEval) => moveEval.materialPointsAheadForWhite() + jitter();
-  const botName = '[Level 2] Material eval (2 ply)';
+  const botName = '[Level 2] Material eval';
   return botMoveHelper(game, evalFunc, depth, botName);
 }
 
@@ -88,19 +96,19 @@ const materialAndPositional2PlyBotMove = (game: Chess): BotResponse => {
     const {white: positionalWhite, black: positionalBlack} = moveEval.positionalPoints();
     return (materialWhite + positionalWhite) - (materialBlack + positionalBlack);
   };
-  const botName = '[Level 3] Material + positional eval (2 ply)';
+  const botName = '[Level 3] Material + positional eval';
   return botMoveHelper(game, evalFunc, depth, botName);
 }
 
 // Level 4: material and positional eval after 4 ply 
 const materialAndPositional4PlyBotMove = (game: Chess): BotResponse => {
-  const depth = 4;
+  const depth = 3;
   const evalFunc = (moveEval: MoveEval) => {
     const {white: materialWhite, black: materialBlack} = moveEval.materialPoints();
     const {white: positionalWhite, black: positionalBlack} = moveEval.positionalPoints();
     return (materialWhite + positionalWhite) - (materialBlack + positionalBlack) + jitter();
   };
-  const botName = '[Level 4] Material + positional eval (4 ply)';
+  const botName = '[Level 4] Material + positional eval';
   return botMoveHelper(game, evalFunc, depth, botName);
 }
 
@@ -118,6 +126,10 @@ const getMoveMessage = (moveEval: MoveEval, improvement: number, isMaximizing: b
     msg += `I don't see any move to gain points, so I'll just play ${moveEval.getMoveString()}.`
   }
   return msg;
+}
+
+const cloneGame = (game: Chess) => {
+  return new Chess(game.fen());
 }
 
 // jitter function returns a random number between -0.0000001 and 0.0000001

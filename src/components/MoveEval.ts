@@ -6,8 +6,8 @@ export class MoveEval {
   private game: Chess;
   public move: string;
   public logs: string;
-  // Set during evaluation
   public possibleMoves: MoveEval[];
+  // Set during evaluation
   public score: number;
   public bestMove: MoveEval;
   public finalState: MoveEval;
@@ -16,6 +16,7 @@ export class MoveEval {
     this.game = game;
     this.move = move;
     this.logs = '';
+    this.possibleMoves = [];
   }
 
   private materialValues: { [key: string]: number } = {
@@ -155,22 +156,30 @@ export class MoveEval {
   }
 
   minimax(evalFunc: (moveEval: MoveEval) => number, depth: number, isMaximizing: boolean): MoveEval {
-    this.findPossibleMoves();
-    if (depth === 0 || this.possibleMoves.length === 0) {
+    const gameMoves = this.game.moves();
+    if (depth === 0 || gameMoves.length === 0) {
       this.finalState = this;
       this.score = evalFunc(this);
       return this;
     }
     
     this.score = isMaximizing ? -Infinity : Infinity;
-    for (const move of this.possibleMoves) {
+    for (const gameMove of gameMoves) {
+      // Setup
+      this.game.move(gameMove);
+      const move = new MoveEval(this.game, gameMove);
+      this.possibleMoves.push(move);
+      // Eval
       move.minimax(evalFunc, depth - 1, !isMaximizing);
+      // Interpret
       const isBetter = isMaximizing ? move.score > this.score : move.score < this.score;
       if (isBetter) {
         this.score = move.score;
         this.finalState = move.finalState;
         this.bestMove = move;
       }
+      // Cleanup
+      this.game.undo();
     }
     
     return this.bestMove; // can use the bestMove returned, or call functions on this object.
@@ -197,8 +206,8 @@ export class MoveEval {
   }
 
   getMovesAndScoresSortedAsString(): string {
-    this.possibleMoves.sort((a, b) => a.score - b.score); 
-    const movesAndScore = this.possibleMoves.map(move => `${move.getMoveString()}: ${move.score.toFixed(2)}`).join('\n')
+    this.possibleMoves.sort((a, b) => (a.score > b.score) ? 1 : -1);
+    const movesAndScore = this.possibleMoves.map(move => `${move.getMoveString()}: ${move.score.toFixed(2)}`).join(', ')
     return `Current Eval: ${this.score.toFixed(2)}\n` + movesAndScore;
   }
 }

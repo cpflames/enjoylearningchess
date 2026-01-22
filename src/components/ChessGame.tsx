@@ -32,14 +32,23 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
   
   const [botLevel, setBotLevel] = useState<BotLevel>(getInitialBotLevel);
   const chatEndRef = useRef<HTMLDivElement>(null);
+  const logsEndRef = useRef<HTMLDivElement>(null);
 
   const scrollToBottom = () => {
     chatEndRef.current?.scrollIntoView({ behavior: 'smooth' });
   };
 
+  const scrollLogsToBottom = () => {
+    logsEndRef.current?.scrollIntoView({ behavior: 'smooth' });
+  };
+
   useEffect(() => {
     scrollToBottom();
   }, [chatMessages]);
+
+  useEffect(() => {
+    scrollLogsToBottom();
+  }, [logsMessages]);
 
   const updateMoveHistory = () => {
     setMoveHistory(game.history());
@@ -356,17 +365,18 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
         backgroundColor: '#f5f5f5',
         padding: '15px',
         borderRadius: '8px',
-        minHeight: '200px',
-        maxHeight: '700px',
-        overflowY: 'auto',
+        height: '700px',
+        display: 'flex',
+        flexDirection: 'column',
         border: '1px solid #ddd'
       }}>
         <h3 style={{ marginTop: 0, marginBottom: '15px' }}>Logs</h3>
         <div style={{
+          flex: 1,
+          overflowY: 'auto',
           backgroundColor: 'white',
           padding: '10px',
           borderRadius: '4px',
-          minHeight: '100px',
           fontFamily: 'monospace',
           fontSize: '12px',
           lineHeight: '1.6',
@@ -391,6 +401,7 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
               </div>
             ))
           )}
+          <div ref={logsEndRef} />
         </div>
       </div>
     </div>
