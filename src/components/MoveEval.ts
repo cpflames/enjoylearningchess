@@ -12,11 +12,21 @@ export class MoveEval {
   public bestMove: MoveEval;
   public finalState: MoveEval;
 
-  constructor(game: Chess, move: string = '') {
+  private constructor(game: Chess, move: string) {
     this.game = game;
     this.move = move;
     this.logs = '';
     this.possibleMoves = [];
+  }
+
+  public static fromScratch(game: Chess): MoveEval {
+    return new MoveEval(game, '');
+  }
+
+  // Assumes that the move has already been made in the parent game
+  // since it's the parent that will have to undo the move after the eval is done.
+  public static fromParent(parent: MoveEval, game: Chess, move: string): MoveEval {
+    return new MoveEval(game, move);
   }
 
   private materialValues: { [key: string]: number } = {
@@ -40,12 +50,12 @@ export class MoveEval {
   // encodes that moving to the middle is better, for all pieces.
   private positionalValuesArray: number[][] = [
     [0, 0, 0, 1, 1, 0, 0, 0],
-    [0, 1, 1, 2, 2, 1, 1, 0], 
+    [0, 1, 1, 1, 1, 1, 1, 0], 
     [0, 1, 4, 4, 4, 4, 1, 0],
     [0, 2, 5, 7, 7, 5, 2, 0], 
     [0, 2, 5, 7, 7, 5, 2, 0],
     [0, 1, 4, 4, 4, 4, 1, 0], 
-    [0, 1, 1, 2, 2, 1, 1, 0],
+    [0, 1, 1, 1, 1, 1, 1, 0],
     [0, 0, 0, 1, 1, 0, 0, 0],
   ]
 
@@ -100,9 +110,9 @@ export class MoveEval {
     if (this.game.isGameOver()) {
       if (this.game.isCheckmate()) {
         if (this.game.turn() === 'w') { 
-          return {white: -99999, black: 99999 };
+          return {white: -50000, black: 50000};
         } else {
-          return {white: 99999, black: -99999};
+          return {white: 50000, black: -50000};
         }
       }
       if (this.game.isStalemate()) {
@@ -167,7 +177,7 @@ export class MoveEval {
     for (const gameMove of gameMoves) {
       // Setup
       this.game.move(gameMove);
-      const move = new MoveEval(this.game, gameMove);
+      const move = MoveEval.fromParent(this, this.game, gameMove);
       this.possibleMoves.push(move);
       // Eval
       move.minimax(evalFunc, depth - 1, !isMaximizing);
@@ -185,21 +195,21 @@ export class MoveEval {
     return this.bestMove; // can use the bestMove returned, or call functions on this object.
   };
 
-  /** 
-   * Returns an array of MoveEval objects for all possible moves
-   * @returns Array of MoveEval objects
-   */
-  findPossibleMoves(): MoveEval[] {
-    const gameMoves = this.game.moves();
-    this.possibleMoves = gameMoves.map(move => this.moveAndClone(move));
-    return this.possibleMoves;
-  }
+  // /** 
+  //  * Returns an array of MoveEval objects for all possible moves
+  //  * @returns Array of MoveEval objects
+  //  */
+  // findPossibleMoves(): MoveEval[] {
+  //   const gameMoves = this.game.moves();
+  //   this.possibleMoves = gameMoves.map(move => this.moveAndClone(move));
+  //   return this.possibleMoves;
+  // }
 
-  moveAndClone(move: string): MoveEval {
-    const newGame = new Chess(this.game.fen());
-    newGame.move(move);
-    return new MoveEval(newGame, move);
-  }
+  // moveAndClone(move: string): MoveEval {
+  //   const newGame = new Chess(this.game.fen());
+  //   newGame.move(move);
+  //   return new MoveEval(newGame, move);
+  // }
 
   getCurrentEvalAsString(): string {
     return `Current Eval: ${this.score.toFixed(2)}`;

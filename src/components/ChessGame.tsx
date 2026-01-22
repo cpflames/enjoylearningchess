@@ -17,6 +17,7 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
   const [moveHistory, setMoveHistory] = useState<string[]>([]);
   const [chatMessages, setChatMessages] = useState<string[]>([]);
   const [logsMessages, setLogsMessages] = useState<string[]>([]);
+  const [chatExpanded, setChatExpanded] = useState<boolean>(true);
   const [logsExpanded, setLogsExpanded] = useState<boolean>(false);
   
   // Initialize botLevel from URL parameter if present, otherwise use initialBotLevel prop
@@ -324,46 +325,64 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
         backgroundColor: '#f5f5f5',
         padding: '15px',
         borderRadius: '8px',
-        height: '600px',
+        height: chatExpanded ? '600px' : 'auto',
         display: 'flex',
         flexDirection: 'column'
       }}>
-        <h3 style={{ marginTop: 0, marginBottom: '15px' }}>Bot Chat</h3>
-        <div 
-          ref={chatContainerRef}
-          style={{
-            flex: 1,
-            overflowY: 'auto',
-            backgroundColor: 'white',
-            padding: '10px',
-            borderRadius: '4px',
-            minHeight: '400px',
-            border: '1px solid #ddd'
-          }}
-        >
-          {chatMessages.length === 0 ? (
-            <div style={{ color: '#999', fontStyle: 'italic' }}>
-              Waiting for bot to make a move...
-            </div>
-          ) : (
-            chatMessages.map((message, index) => (
-              <div
-                key={index}
-                style={{
-                  marginBottom: '12px',
-                  padding: '8px',
-                  backgroundColor: '#e8f4f8',
-                  borderRadius: '4px',
-                  fontSize: '14px',
-                  lineHeight: '1.4',
-                  whiteSpace: 'pre-line'
-                }}
-              >
-                {message}
-              </div>
-            ))
-          )}
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: chatExpanded ? '15px' : '0' }}>
+          <h3 style={{ marginTop: 0, marginBottom: 0 }}>Bot Chat</h3>
+          <button
+            onClick={() => setChatExpanded(!chatExpanded)}
+            style={{
+              padding: '6px 12px',
+              fontSize: '14px',
+              cursor: 'pointer',
+              backgroundColor: '#555',
+              color: 'white',
+              border: 'none',
+              borderRadius: '4px'
+            }}
+          >
+            {chatExpanded ? 'Collapse' : 'Expand'}
+          </button>
         </div>
+        {chatExpanded && (
+          <div 
+            ref={chatContainerRef}
+            style={{
+              flex: 1,
+              overflowY: 'auto',
+              backgroundColor: 'white',
+              padding: '10px',
+              borderRadius: '4px',
+              minHeight: '400px',
+              border: '1px solid #ddd'
+            }}
+          >
+            {chatMessages.length === 0 ? (
+              <div style={{ color: '#999', fontStyle: 'italic' }}>
+                Waiting for bot to make a move...
+              </div>
+            ) : (
+              chatMessages.map((message, index) => (
+                <div
+                  key={index}
+                  style={{
+                    marginBottom: '12px',
+                    padding: '8px',
+                    backgroundColor: '#e8f4f8',
+                    borderRadius: '4px',
+                    fontSize: '14px',
+                    lineHeight: '1.4',
+                    whiteSpace: 'pre-line'
+                  }}
+                >
+                  {message}
+                </div>
+              ))
+            )}
+          </div>
+        )}
       </div>
       </div>
       <div style={{
