@@ -49,6 +49,8 @@ export const BOT_CONFIGS: BotConfig[] = [
 
 export const MAX_BOT_LEVEL = BOT_CONFIGS.length - 1;
 
+export type BotLevel = number;
+
 // Bot move logic
 // In this function, the bot is passed the game object and bot level, and will return a moveString, chatMessage, and logsMessage
 // Note: This function does NOT make the move - it only returns what move should be made

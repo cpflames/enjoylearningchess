@@ -3,6 +3,7 @@ import { useSearchParams } from 'react-router-dom';
 import Chessboard from 'chessboardjsx';
 import { Chess } from 'chess.js';
 import { botMove, BotLevel, MAX_BOT_LEVEL } from './ChessBot';
+import './ChessGame.css';
 
 const game = new Chess(); // shared game instance
 const CHAT_EXPANDED_DEFAULT = true;
@@ -58,6 +59,48 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
     scrollLogsToBottom();
   }, [logsMessages]);
 
+  // Function to clear all red squares
+  const clearRedSquares = () => {
+    const squares = document.querySelectorAll('[data-squareid].square-red');
+    squares.forEach(square => {
+      square.classList.remove('square-red');
+    });
+  };
+
+  // Set up right-click event listeners on chessboard squares
+  useEffect(() => {
+    const handleContextMenu = (e: Event) => {
+      const target = e.target as HTMLElement;
+      
+      // Check if the clicked element or any parent is a chess square
+      // chessboardjsx uses data-squareid attribute for squares
+      const square = target.closest('[data-squareid]') as HTMLElement;
+      
+      if (square) {
+        e.preventDefault();
+        e.stopPropagation();
+        square.classList.toggle('square-red');
+      }
+    };
+
+    // Wait a bit for the board to render, then set up the listener
+    const timeoutId = setTimeout(() => {
+      const boardElement = document.querySelector('#board');
+      if (boardElement) {
+        // Use event delegation on the board element (like jQuery's .on())
+        boardElement.addEventListener('contextmenu', handleContextMenu);
+      }
+    }, 50);
+
+    return () => {
+      clearTimeout(timeoutId);
+      const boardElement = document.querySelector('#board');
+      if (boardElement) {
+        boardElement.removeEventListener('contextmenu', handleContextMenu);
+      }
+    };
+  }, [fen]); // Re-attach when board updates
+
   const updateMoveHistory = () => {
     setMoveHistory(game.history());
   };
@@ -83,6 +126,7 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
       game.move(moveString);
       setFen(game.fen());
       updateMoveHistory();
+      clearRedSquares(); // Clear red squares after bot move
       setChatMessages(prev => [...prev, chatMessage]);
       setLogsMessages(prev => [...prev, logsMessage]);
       checkGameEnd();
@@ -103,6 +147,7 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
         setFen(game.fen());
         setPendingPromotion(null);
         updateMoveHistory();
+        clearRedSquares(); // Clear red squares after move
         
         // Check for game end after player move
         checkGameEnd();
@@ -152,6 +197,7 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
       if (move) {
         setFen(game.fen());
         updateMoveHistory();
+        clearRedSquares(); // Clear red squares after move
         
         // Check for game end after player move
         checkGameEnd();
@@ -210,7 +256,9 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
                ))}
              </select>
            </div>
-          <Chessboard position={fen} onDrop={handleMove} />
+          <div id="board">
+            <Chessboard position={fen} onDrop={handleMove} />
+          </div>
       {pendingPromotion && (
         <div style={{
           position: 'fixed',
