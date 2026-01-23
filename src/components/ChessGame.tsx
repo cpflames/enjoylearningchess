@@ -5,6 +5,8 @@ import { Chess } from 'chess.js';
 import { botMove, BotLevel, MAX_BOT_LEVEL } from './ChessBot';
 
 const game = new Chess(); // shared game instance
+const CHAT_EXPANDED_DEFAULT = true;
+const LOGS_EXPANDED_DEFAULT = true; // set to true during development
 
 interface ChessGameProps {
   botLevel?: BotLevel;
@@ -17,8 +19,8 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
   const [moveHistory, setMoveHistory] = useState<string[]>([]);
   const [chatMessages, setChatMessages] = useState<string[]>([]);
   const [logsMessages, setLogsMessages] = useState<string[]>([]);
-  const [chatExpanded, setChatExpanded] = useState<boolean>(true);
-  const [logsExpanded, setLogsExpanded] = useState<boolean>(false);
+  const [chatExpanded, setChatExpanded] = useState<boolean>(CHAT_EXPANDED_DEFAULT);
+  const [logsExpanded, setLogsExpanded] = useState<boolean>(LOGS_EXPANDED_DEFAULT);
   
   // Initialize botLevel from URL parameter if present, otherwise use initialBotLevel prop
   const getInitialBotLevel = (): BotLevel => {
