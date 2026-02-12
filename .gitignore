@@ -2,7 +2,7 @@
 
 # dependencies
 /node_modules
-/lambdas/etymize/node_modules
+/lambdas/*/node_modules
 /.pnp
 .pnp.js
 

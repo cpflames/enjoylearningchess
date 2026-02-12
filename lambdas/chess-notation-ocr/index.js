@@ -21,6 +21,7 @@ const dynamodb = new AWS.DynamoDB.DocumentClient();
 function getCorsHeaders(event) {
   const allowedOrigins = [
     'https://enjoylearningchess.com',
+    'https://www.enjoylearningchess.com',
     'http://localhost:8080',
     'http://localhost:3000'  // In case you use default React port
   ];
