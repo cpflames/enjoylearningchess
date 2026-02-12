@@ -1,0 +1,26 @@
+{
+  "name": "chess-notation-ocr-lambda",
+  "version": "1.0.0",
+  "description": "Lambda function for chess notation OCR processing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "package": "zip -r function.zip *.js node_modules/ -x '*.test.js'",
+    "deploy": "npm run package && aws lambda update-function-code --function-name ChessNotationOCR --zip-file fileb://function.zip"
+  },
+  "keywords": [
+    "chess",
+    "ocr",
+    "textract",
+    "lambda"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1691.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

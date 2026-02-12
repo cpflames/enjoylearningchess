@@ -1,0 +1,62 @@
+{
+  "BucketName": "chess-notation-uploads",
+  "Region": "us-east-1",
+  "Encryption": {
+    "Rules": [
+      {
+        "ApplyServerSideEncryptionByDefault": {
+          "SSEAlgorithm": "AES256"
+        },
+        "BucketKeyEnabled": true
+      }
+    ]
+  },
+  "CorsConfiguration": {
+    "CorsRules": [
+      {
+        "AllowedOrigins": [
+          "https://enjoylearningchess.com",
+          "http://localhost:3000"
+        ],
+        "AllowedMethods": [
+          "PUT",
+          "POST",
+          "GET"
+        ],
+        "AllowedHeaders": [
+          "*"
+        ],
+        "ExposeHeaders": [
+          "ETag"
+        ],
+        "MaxAgeSeconds": 3000
+      }
+    ]
+  },
+  "PublicAccessBlockConfiguration": {
+    "BlockPublicAcls": true,
+    "IgnorePublicAcls": true,
+    "BlockPublicPolicy": true,
+    "RestrictPublicBuckets": true
+  },
+  "LifecycleConfiguration": {
+    "Rules": [
+      {
+        "Id": "DeleteOldUploads",
+        "Status": "Enabled",
+        "Prefix": "notation-uploads/",
+        "ExpirationInDays": 30
+      }
+    ]
+  },
+  "Tags": [
+    {
+      "Key": "Project",
+      "Value": "ChessNotationOCR"
+    },
+    {
+      "Key": "Environment",
+      "Value": "Production"
+    }
+  ]
+}

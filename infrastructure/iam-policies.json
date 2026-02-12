@@ -1,0 +1,93 @@
+{
+  "LambdaExecutionRole": {
+    "RoleName": "ChessNotationOCRLambdaRole",
+    "AssumeRolePolicyDocument": {
+      "Version": "2012-10-17",
+      "Statement": [
+        {
+          "Effect": "Allow",
+          "Principal": {
+            "Service": "lambda.amazonaws.com"
+          },
+          "Action": "sts:AssumeRole"
+        }
+      ]
+    },
+    "ManagedPolicyArns": [
+      "arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole"
+    ],
+    "InlinePolicies": {
+      "ChessNotationOCRPolicy": {
+        "Version": "2012-10-17",
+        "Statement": [
+          {
+            "Sid": "S3Access",
+            "Effect": "Allow",
+            "Action": [
+              "s3:GetObject",
+              "s3:PutObject",
+              "s3:PutObjectAcl",
+              "s3:GetObjectMetadata"
+            ],
+            "Resource": "arn:aws:s3:::chess-notation-uploads/*"
+          },
+          {
+            "Sid": "S3BucketAccess",
+            "Effect": "Allow",
+            "Action": [
+              "s3:ListBucket"
+            ],
+            "Resource": "arn:aws:s3:::chess-notation-uploads"
+          },
+          {
+            "Sid": "TextractAccess",
+            "Effect": "Allow",
+            "Action": [
+              "textract:DetectDocumentText",
+              "textract:GetDocumentTextDetection"
+            ],
+            "Resource": "*"
+          },
+          {
+            "Sid": "DynamoDBAccess",
+            "Effect": "Allow",
+            "Action": [
+              "dynamodb:PutItem",
+              "dynamodb:GetItem",
+              "dynamodb:UpdateItem",
+              "dynamodb:Query"
+            ],
+            "Resource": "arn:aws:dynamodb:*:*:table/ChessNotationOCRWorkflows"
+          },
+          {
+            "Sid": "CloudWatchLogs",
+            "Effect": "Allow",
+            "Action": [
+              "logs:CreateLogGroup",
+              "logs:CreateLogStream",
+              "logs:PutLogEvents"
+            ],
+            "Resource": "arn:aws:logs:*:*:*"
+          }
+        ]
+      }
+    },
+    "Tags": [
+      {
+        "Key": "Project",
+        "Value": "ChessNotationOCR"
+      },
+      {
+        "Key": "Environment",
+        "Value": "Production"
+      }
+    ]
+  },
+  "S3EventTriggerPermission": {
+    "FunctionName": "ChessNotationOCRProcessor",
+    "StatementId": "AllowS3Invoke",
+    "Action": "lambda:InvokeFunction",
+    "Principal": "s3.amazonaws.com",
+    "SourceArn": "arn:aws:s3:::chess-notation-uploads"
+  }
+}

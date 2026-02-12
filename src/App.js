@@ -21,6 +21,7 @@ import Etymize from "./pages/Etymize.tsx";
 import NotationReader from "./pages/NotationReader.tsx";
 import Connect4 from "./pages/Connect4.tsx";
 import PlayChess from "./pages/PlayChess.tsx";
+import NotationUpload from "./pages/NotationUpload.tsx";
 
 export default function App() {
   return (
@@ -80,6 +81,9 @@ export default function App() {
         </Route>
         <Route path="/playchess" element={<ChessOnlyLayout />}>
           <Route index element={<PlayChess />} />
+        </Route>
+        <Route path="/notation" element={<ChessOnlyLayout />}>
+          <Route index element={<NotationUpload />} />
         </Route>
       </Routes>
     </BrowserRouter>
