@@ -1,0 +1,16 @@
+.word-hidden {
+  color: white;
+  background-color: white;
+  user-select: text;
+  cursor: text;
+}
+
+.word-hidden::selection {
+  color: black;
+  background-color: #b3d4fc;
+}
+
+.word-hidden::-moz-selection {
+  color: black;
+  background-color: #b3d4fc;
+}

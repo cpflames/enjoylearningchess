@@ -1,0 +1,18 @@
+{
+  "name": "tts-polly",
+  "version": "1.0.0",
+  "description": "AWS Lambda function for text-to-speech using Amazon Polly",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["tts", "polly", "text-to-speech", "aws"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1691.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
