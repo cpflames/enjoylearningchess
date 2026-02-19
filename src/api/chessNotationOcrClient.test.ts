@@ -334,45 +334,58 @@ describe('chessNotationOcrClient', () => {
   
   describe('pollWorkflowUntilComplete', () => {
     it('should poll until workflow completes', async () => {
-      const mockStatusResponses = [
-        { workflowId: 'test-123', status: 'processing' as const, updatedAt: Date.now() },
-        { workflowId: 'test-123', status: 'processing' as const, updatedAt: Date.now() },
-        { workflowId: 'test-123', status: 'completed' as const, updatedAt: Date.now() }
-      ];
+      const mockProcessingResponse = {
+        workflowId: 'test-123',
+        status: 'processing' as const,
+        updatedAt: Date.now()
+      };
       
-      const mockResultResponse = {
+      const mockCompletedResponse = {
         workflowId: 'test-123',
         status: 'completed' as const,
         extractedText: '1. e4 e5',
-        confidence: 0.95
+        confidence: 0.95,
+        updatedAt: Date.now()
       };
       
-      let statusCallCount = 0;
+      let callCount = 0;
       (global.fetch as jest.Mock).mockImplementation(async (url, options) => {
         const body = JSON.parse(options.body);
         
-        if (body.type === 'get-status') {
-          const response = mockStatusResponses[statusCallCount];
-          statusCallCount++;
-          return {
-            ok: true,
-            json: async () => response
-          };
-        }
-        
         if (body.type === 'get-results') {
-          return {
-            ok: true,
-            json: async () => mockResultResponse
-          };
+          callCount++;
+          // First two calls return processing, third returns completed
+          if (callCount <= 2) {
+            return {
+              ok: true,
+              json: async () => mockProcessingResponse
+            };
+          } else {
+            return {
+              ok: true,
+              json: async () => mockCompletedResponse
+            };
+          }
         }
       });
       
       const onStatusUpdate = jest.fn();
       const result = await pollWorkflowUntilComplete('test-123', onStatusUpdate, 10);
       
-      expect(result).toEqual(mockResultResponse);
+      expect(result).toEqual(mockCompletedResponse);
       expect(onStatusUpdate).toHaveBeenCalledTimes(3);
+      expect(onStatusUpdate).toHaveBeenCalledWith(
+        expect.objectContaining({
+          workflowId: 'test-123',
+          status: 'processing'
+        })
+      );
+      expect(onStatusUpdate).toHaveBeenCalledWith(
+        expect.objectContaining({
+          workflowId: 'test-123',
+          status: 'completed'
+        })
+      );
     });
     
     it('should timeout if workflow does not complete', async () => {

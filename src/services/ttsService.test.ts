@@ -59,7 +59,7 @@ describe('TTS Service', () => {
       
       expect(result).toBe(mockAudioData);
       expect(global.fetch).toHaveBeenCalledWith(
-        expect.stringContaining('/tts'),
+        expect.stringContaining('execute-api'),
         expect.objectContaining({
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
