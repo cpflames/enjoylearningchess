@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import WordEntry from '../components/WordEntry';
 import HideButton from '../components/HideButton';
 import { playAudio } from '../services/ttsService';
+import { getDefinition } from '../services/dictionaryService';
 import styles from './SpellingPage.module.css';
 
 export default function SpellingPage(): JSX.Element {
@@ -10,6 +11,10 @@ export default function SpellingPage(): JSX.Element {
   const [error, setError] = useState<string | null>(null);
   const [audioErrors, setAudioErrors] = useState<Map<string, string>>(new Map());
   const [wordsHidden, setWordsHidden] = useState<boolean>(false);
+  const [individuallyVisibleWords, setIndividuallyVisibleWords] = useState<Set<string>>(new Set());
+  const [definitionCache, setDefinitionCache] = useState<Map<string, string>>(new Map());
+  const [definitionErrors, setDefinitionErrors] = useState<Map<string, string>>(new Map());
+  const [activeDefinitions, setActiveDefinitions] = useState<Set<string>>(new Set());
 
   useEffect(() => {
     loadWords();
@@ -86,8 +91,66 @@ export default function SpellingPage(): JSX.Element {
     window.open(url, '_blank');
   };
 
+  const handleShowDefinition = async (word: string): Promise<void> => {
+    try {
+      // Clear any previous error for this word
+      setDefinitionErrors(prev => {
+        const newErrors = new Map(prev);
+        newErrors.delete(word);
+        return newErrors;
+      });
+
+      const definition = await getDefinition(word);
+      
+      // Cache the definition
+      setDefinitionCache(prev => {
+        const newCache = new Map(prev);
+        newCache.set(word, definition);
+        return newCache;
+      });
+
+      // Add to active definitions
+      setActiveDefinitions(prev => {
+        const newActive = new Set(prev);
+        newActive.add(word);
+        return newActive;
+      });
+    } catch (err) {
+      // Set error indicator for this word
+      const errorMessage = err instanceof Error ? err.message : 'Failed to fetch definition';
+      setDefinitionErrors(prev => {
+        const newErrors = new Map(prev);
+        newErrors.set(word, errorMessage);
+        return newErrors;
+      });
+      console.error(`Definition error for "${word}":`, err);
+    }
+  };
+
+  const handleDismissDefinition = (word: string): void => {
+    setActiveDefinitions(prev => {
+      const newActive = new Set(prev);
+      newActive.delete(word);
+      return newActive;
+    });
+  };
+
+  const handleTogglePeek = (word: string): void => {
+    setIndividuallyVisibleWords(prev => {
+      const newVisible = new Set(prev);
+      if (newVisible.has(word)) {
+        newVisible.delete(word);
+      } else {
+        newVisible.add(word);
+      }
+      return newVisible;
+    });
+  };
+
   const handleToggleHide = (): void => {
     setWordsHidden(prev => !prev);
+    // Clear individual visibility states when toggling global hide
+    setIndividuallyVisibleWords(new Set());
   };
 
   return (
@@ -142,9 +205,16 @@ export default function SpellingPage(): JSX.Element {
                 word={word}
                 index={index}
                 isHidden={wordsHidden}
+                isIndividuallyVisible={individuallyVisibleWords.has(word)}
                 onPlayAudio={handlePlayAudio}
                 onOpenEtymology={handleOpenEtymology}
+                onShowDefinition={handleShowDefinition}
+                onDismissDefinition={handleDismissDefinition}
+                onTogglePeek={handleTogglePeek}
+                showDefinition={activeDefinitions.has(word)}
                 audioError={audioErrors.get(word)}
+                definition={definitionCache.get(word)}
+                definitionError={definitionErrors.get(word)}
               />
             ))}
           </div>
