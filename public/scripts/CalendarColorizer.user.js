@@ -4,7 +4,7 @@
 // @description  Simple script to change the colors in Google Calendar.
 // @updateURL    https://enjoylearningchess.com/scripts/CalendarColorizer.user.js
 // @downloadURL  https://enjoylearningchess.com/scripts/CalendarColorizer.user.js
-// @version      3.01
+// @version      3.02
 // @include      https://calendar.google.com/calendar/u/*/r/month
 // @include      https://calendar.google.com/calendar/u/*/r/month/*
 // @include      https://calendar.google.com/calendar/u/*/r/customweek
@@ -276,3 +276,5 @@ function initializeObservers() {
 
 // Start initialization
 initializeObservers();
+
+setInterval(colorAll, 10000); // Re-apply colors every 10 seconds
