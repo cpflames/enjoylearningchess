@@ -4,7 +4,7 @@
 // @description  Simple script to change the colors in Google Calendar.
 // @updateURL    https://enjoylearningchess.com/scripts/CalendarColorizer.user.js
 // @downloadURL  https://enjoylearningchess.com/scripts/CalendarColorizer.user.js
-// @version      3.02
+// @version      3.03
 // @include      https://calendar.google.com/calendar/u/*/r/month
 // @include      https://calendar.google.com/calendar/u/*/r/month/*
 // @include      https://calendar.google.com/calendar/u/*/r/customweek
@@ -245,14 +245,22 @@ function colorDayNumbers() {
   });
 }
 
+function removeUpgradeButton() {
+  const upgradeButton = document.querySelector('.nn5oJc');
+  if (upgradeButton) {
+    upgradeButton.remove();
+  }
+}
+
 // Call both functions when needed
-function colorAll() {
+function updateEverything() {
   colorDayBoxes();
   colorDayNumbers();
+  removeUpgradeButton();
 }
 
 // Run initially after a short delay to ensure DOM is ready
-setTimeout(colorAll, 500);
+setTimeout(updateEverything, 500);
 
 // Single observer for all calendar updates
 const colorObserver = new MutationObserver((mutations) => {
@@ -263,7 +271,7 @@ const colorObserver = new MutationObserver((mutations) => {
           debug('New date: ' + mutation.target.getAttribute('data-date'));
       }
   }
-  setTimeout(colorAll, 100);  // Add small delay after mutations
+  setTimeout(updateEverything, 100);  // Add small delay after mutations
 });
 
 function initializeObservers() {
@@ -277,4 +285,4 @@ function initializeObservers() {
 // Start initialization
 initializeObservers();
 
-setInterval(colorAll, 10000); // Re-apply colors every 10 seconds
+setInterval(updateEverything, 10000); // Re-apply colors every 10 seconds
