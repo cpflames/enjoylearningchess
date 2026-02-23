@@ -17,4 +17,9 @@ module.exports = {
   
   // Verbose output only in CI to help identify which test is running when timeout occurs
   verbose: process.env.CI === 'true',
+  
+  // Transform fast-check ESM modules
+  transformIgnorePatterns: [
+    'node_modules/(?!(fast-check)/)',
+  ],
 };

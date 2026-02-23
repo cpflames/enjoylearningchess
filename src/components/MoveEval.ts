@@ -317,6 +317,10 @@ export class MoveEval {
     return `Current Eval: (initial: ${this.initialScore.toFixed(2)}, best line: ${this.score.toFixed(2)})`;
   }
 
+  getGame(): Chess {
+    return this.game;
+  }
+
   getMovesAndScores(): {move: string, score: number}[] {
     return this.possibleMoves.map(move => ({move: move.getMoveString(), score: move.score}));
   }

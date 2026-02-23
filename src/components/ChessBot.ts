@@ -1,6 +1,7 @@
 import { Chess } from 'chess.js';
 import type { Color } from 'chess.js';
 import { GLOBAL_EVAL_COUNT, MoveEval } from './MoveEval';
+import { BoardSense } from './BoardSense';
 
 export const BOT_COLOR: Color = 'b';
 
@@ -26,6 +27,33 @@ export const MATERIAL_AND_POSITIONAL_STRATEGY: evalStrategy = {
   strategyName: 'Material + positional',
 }
 
+export const BOARDSENSE_STRATEGY: evalStrategy = {
+  evalFunc: (moveEval: MoveEval) => {
+    const game = moveEval.getGame();
+    const boardSense = new BoardSense(game);
+    
+    // Base evaluation: material + positional
+    let score = moveEval.materialPointsAheadForWhite() + moveEval.positionalPointsAheadForWhite();
+    
+    // Mobility advantage (0.05 points per move advantage)
+    const mobilityDiff = boardSense.getMobilityDifference();
+    score += mobilityDiff * 0.05;
+    
+    // King safety (0.1 points per safety score point)
+    //const whiteKingSafety = boardSense.getKingSafety('w');
+    //const blackKingSafety = boardSense.getKingSafety('b');
+    //score += (whiteKingSafety.safetyScore - blackKingSafety.safetyScore) * 0.1;
+    
+    // Pawn structure (use the composite structure score)
+    //const whitePawnStructure = boardSense.getPawnStructureMetrics('w');
+    //const blackPawnStructure = boardSense.getPawnStructureMetrics('b');
+    //score += (whitePawnStructure.structureScore - blackPawnStructure.structureScore) * 0.05;
+    
+    return score + jitter();
+  },
+  strategyName: 'BoardSense Enhanced',
+}
+
 // Bot configs
 
 export type BotConfig = {
@@ -45,6 +73,7 @@ export const BOT_CONFIGS: BotConfig[] = [
   makeBotConfig(2, 2, 40, MATERIAL_STRATEGY),
   makeBotConfig(3, 2, 20, MATERIAL_AND_POSITIONAL_STRATEGY),
   makeBotConfig(4, 4, 10, MATERIAL_AND_POSITIONAL_STRATEGY),
+  makeBotConfig(5, 4, 5, BOARDSENSE_STRATEGY),
 ];
 
 export const MAX_BOT_LEVEL = BOT_CONFIGS.length - 1;

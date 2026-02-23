@@ -18,7 +18,8 @@
   "scripts": {
     "start": "PORT=8080 react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts test --watchAll=false",
+    "test:watch": "react-scripts test",
     "test:ci": "react-scripts test --watchAll=false --coverage=false",
     "eject": "react-scripts eject"
   },
@@ -39,5 +40,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "fast-check": "^4.5.3"
   }
 }
