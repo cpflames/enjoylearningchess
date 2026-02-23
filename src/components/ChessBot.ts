@@ -73,7 +73,7 @@ export const BOT_CONFIGS: BotConfig[] = [
   makeBotConfig(2, 2, 40, MATERIAL_STRATEGY),
   makeBotConfig(3, 2, 20, MATERIAL_AND_POSITIONAL_STRATEGY),
   makeBotConfig(4, 4, 10, MATERIAL_AND_POSITIONAL_STRATEGY),
-  makeBotConfig(5, 4, 5, BOARDSENSE_STRATEGY),
+  makeBotConfig(5, 4, 10, BOARDSENSE_STRATEGY),
 ];
 
 export const MAX_BOT_LEVEL = BOT_CONFIGS.length - 1;

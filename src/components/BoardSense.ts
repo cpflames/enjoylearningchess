@@ -2,6 +2,32 @@ import { Chess } from 'chess.js';
 import type { Color, PieceSymbol, Square } from 'chess.js';
 
 /**
+ * Precomputed move offsets for pieces with fixed movement patterns
+ */
+const KNIGHT_OFFSETS: [number, number][] = [
+  [2, 1], [2, -1], [-2, 1], [-2, -1],
+  [1, 2], [1, -2], [-1, 2], [-1, -2]
+];
+
+const KING_OFFSETS: [number, number][] = [
+  [1, 0], [1, 1], [0, 1], [-1, 1],
+  [-1, 0], [-1, -1], [0, -1], [1, -1]
+];
+
+const BISHOP_DIRECTIONS: [number, number][] = [
+  [1, 1], [1, -1], [-1, 1], [-1, -1]
+];
+
+const ROOK_DIRECTIONS: [number, number][] = [
+  [1, 0], [-1, 0], [0, 1], [0, -1]
+];
+
+const QUEEN_DIRECTIONS: [number, number][] = [
+  ...ROOK_DIRECTIONS,
+  ...BISHOP_DIRECTIONS
+];
+
+/**
  * Global cache shared across all BoardSense instances
  * Key: FEN string, Value: Map of cache keys to cached values
  * This allows cache reuse when the same position is evaluated multiple times
@@ -735,6 +761,9 @@ export class BoardSense {
    }
    /**
     * Gets the mobility (number of legal moves) for a piece at a specific square
+    * Uses efficient geometry-based calculation instead of move generation.
+    * Pawns return 0 as their mobility is not strategically important.
+    * 
     * @param square - The square containing the piece to analyze (e.g., "e4")
     * @returns The number of legal moves available to the piece, or 0 if no piece or invalid square
     *
@@ -760,21 +789,119 @@ export class BoardSense {
          return 0;
        }
 
-       // Generate all legal moves from chess.js
-       const allMoves = this.chess.moves({ verbose: true });
+       // Pawns: mobility not strategically important, return 0
+       if (piece.type === 'p') {
+         return 0;
+       }
 
-       // Filter moves that originate from this square
-       const pieceMoves = allMoves.filter(move => move.from === square);
+       const coords = this.squareToCoords(square);
+       let mobility = 0;
 
-       // Return the count of legal moves
-       return pieceMoves.length;
+       switch (piece.type) {
+         case 'n': // Knight
+           mobility = this.countKnightMoves(coords, piece.color);
+           break;
+         case 'b': // Bishop
+           mobility = this.countSlidingMoves(coords, piece.color, BISHOP_DIRECTIONS);
+           break;
+         case 'r': // Rook
+           mobility = this.countSlidingMoves(coords, piece.color, ROOK_DIRECTIONS);
+           break;
+         case 'q': // Queen
+           mobility = this.countSlidingMoves(coords, piece.color, QUEEN_DIRECTIONS);
+           break;
+         case 'k': // King
+           mobility = this.countKingMoves(coords, piece.color);
+           break;
+       }
+
+       return mobility;
      });
    }
 
    /**
-    * Gets the total mobility (sum of all legal moves) for all pieces of a specific color
+    * Counts valid moves for a knight from a given position
+    * @private
+    */
+   private countKnightMoves(coords: { file: number; rank: number }, color: Color): number {
+     let count = 0;
+     for (const [fileOffset, rankOffset] of KNIGHT_OFFSETS) {
+       const targetSquare = this.coordsToSquare(coords.file + fileOffset, coords.rank + rankOffset);
+       if (targetSquare && this.canMoveToSquare(targetSquare, color)) {
+         count++;
+       }
+     }
+     return count;
+   }
+
+   /**
+    * Counts valid moves for a king from a given position
+    * @private
+    */
+   private countKingMoves(coords: { file: number; rank: number }, color: Color): number {
+     let count = 0;
+     for (const [fileOffset, rankOffset] of KING_OFFSETS) {
+       const targetSquare = this.coordsToSquare(coords.file + fileOffset, coords.rank + rankOffset);
+       if (targetSquare && this.canMoveToSquare(targetSquare, color)) {
+         count++;
+       }
+     }
+     return count;
+   }
+
+   /**
+    * Counts valid moves for sliding pieces (bishop, rook, queen) from a given position
+    * @private
+    */
+   private countSlidingMoves(
+     coords: { file: number; rank: number },
+     color: Color,
+     directions: [number, number][]
+   ): number {
+     let count = 0;
+     for (const [fileDir, rankDir] of directions) {
+       let file = coords.file + fileDir;
+       let rank = coords.rank + rankDir;
+       
+       while (true) {
+         const targetSquare = this.coordsToSquare(file, rank);
+         if (!targetSquare) break; // Off board
+         
+         const targetPiece = this.getPieceAt(targetSquare);
+         if (!targetPiece) {
+           // Empty square - can move here
+           count++;
+         } else if (targetPiece.color !== color) {
+           // Enemy piece - can capture
+           count++;
+           break; // Can't move past this piece
+         } else {
+           // Friendly piece - blocked
+           break;
+         }
+         
+         file += fileDir;
+         rank += rankDir;
+       }
+     }
+     return count;
+   }
+
+   /**
+    * Checks if a piece of the given color can move to the target square
+    * (either empty or contains an enemy piece)
+    * @private
+    */
+   private canMoveToSquare(square: Square, color: Color): boolean {
+     const piece = this.getPieceAt(square);
+     return !piece || piece.color !== color;
+   }
+
+   /**
+    * Gets the total mobility (sum of all legal moves) for all non-pawn pieces of a specific color
+    * Pawns are excluded as their mobility is not strategically important.
     * @param color - The color to calculate total mobility for ('w' or 'b')
-    * @returns The total number of legal moves available to all pieces of the specified color
+    * @returns The total number of legal moves available to all non-pawn pieces of the specified color
     *
     * @example
     * ```typescript
@@ -791,8 +918,11 @@ export class BoardSense {
 
        let totalMobility = 0;
 
-       // Sum getPieceMobility for each piece
+       // Sum getPieceMobility for each non-pawn piece
        Array.from(allPieces.entries()).forEach(([pieceType, squares]) => {
+         // Skip pawns - their mobility is not strategically important
+         if (pieceType === 'p') return;
+         
          for (const square of squares) {
            totalMobility += this.getPieceMobility(square);
          }

@@ -1,6 +1,6 @@
 import { Chess } from 'chess.js';
 import { BOT_CONFIGS, MAX_BOT_LEVEL, BOARDSENSE_STRATEGY } from './ChessBot';
-import { MoveEval } from './MoveEval';
+import { MoveEval, GLOBAL_EVAL_COUNT } from './MoveEval';
 
 describe('ChessBot', () => {
   test('Level 5 bot config exists', () => {
@@ -45,3 +45,33 @@ describe('ChessBot', () => {
     expect(typeof materialScore).toBe('number');
   });
 });
+
+  test('Alpha-beta pruning reduces node evaluations', () => {
+    const game = new Chess();
+    const botConfig = BOT_CONFIGS[5]; // Level 5 bot with depth 4, breadth 10
+    
+    // Get eval count before
+    const evalCountBefore = GLOBAL_EVAL_COUNT;
+    
+    const moveEval = MoveEval.fromScratch(game, botConfig);
+    const bestMove = moveEval.minimax();
+    
+    // Get the number of evaluations for this search
+    const evalCount = GLOBAL_EVAL_COUNT - evalCountBefore;
+    
+    // Theoretical maximum without pruning: breadth^depth = 10^4 = 10,000
+    const theoreticalMax = Math.pow(botConfig.breadth, botConfig.depth);
+    
+    console.log(`\nAlpha-beta pruning stats:`);
+    console.log(`  Nodes evaluated: ${evalCount}`);
+    console.log(`  Theoretical max: ${theoreticalMax}`);
+    console.log(`  Pruning efficiency: ${((1 - evalCount / theoreticalMax) * 100).toFixed(1)}% nodes skipped`);
+    
+    // Verify we found a valid move
+    expect(bestMove).toBeDefined();
+    expect(bestMove.getMoveString()).toBeTruthy();
+    
+    // Alpha-beta should evaluate significantly fewer nodes than the theoretical maximum
+    // We expect at least 20% reduction (conservative estimate)
+    expect(evalCount).toBeLessThan(theoreticalMax * 0.8);
+  });

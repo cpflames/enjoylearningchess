@@ -269,49 +269,64 @@ export class MoveEval {
   }
 
   minimax(): MoveEval {
-    this._minimax(this.botConfig.depth, false);
-    this.topMoves.sort((a, b) => (a.score > b.score) ? 1 : -1);
-    return this.topMoves[0];
-  }
-
-  private _minimax(depth: number, isMaximizing: boolean): MoveEval {
-    const start = performance.now();
-    GLOBAL_EVAL_COUNT++;
-    const strategy = this.botConfig.strategy;
-    const gameMoves = this.game.moves();
-    if (depth === 0 || gameMoves.length === 0) {
-      this.finalState = this;
-      this.score = strategy.evalFunc(this);
-      return this;
+      // Initialize alpha-beta bounds
+      this._minimax(this.botConfig.depth, false, -Infinity, Infinity);
+      this.topMoves.sort((a, b) => (a.score > b.score) ? 1 : -1);
+      return this.topMoves[0];
     }
-    const flip = isMaximizing ? 1 : -1;
-    const numMovesToConsider = this.botConfig.breadth;
 
-    this.possibleMoves = gameMoves.map(move => MoveEval.fromParent(this, move));
-    this.possibleMoves.sort((a, b) => (b.initialScore - a.initialScore) * flip);
-    this.topMoves = this.possibleMoves.slice(0, numMovesToConsider);
-    
-    this.score = isMaximizing ? -Infinity : Infinity;
-    for (const moveEval of this.topMoves) {
-      // Setup
-      this.game.move(moveEval.move); // make the move
-      // Eval
-      moveEval._minimax(depth - 1, !isMaximizing);
-      // Interpret
-      const isBetter = isMaximizing ? moveEval.score > this.score : moveEval.score < this.score;
-      if (isBetter) {
-        this.score = moveEval.score;
-        this.finalState = moveEval.finalState;
-        this.bestMove = moveEval;
+  private _minimax(depth: number, isMaximizing: boolean, alpha: number, beta: number): MoveEval {
+      const start = performance.now();
+      GLOBAL_EVAL_COUNT++;
+      const strategy = this.botConfig.strategy;
+      const gameMoves = this.game.moves();
+      if (depth === 0 || gameMoves.length === 0) {
+        this.finalState = this;
+        this.score = strategy.evalFunc(this);
+        return this;
       }
-      // Cleanup
-      this.game.undo();
+      const flip = isMaximizing ? 1 : -1;
+      const numMovesToConsider = this.botConfig.breadth;
+
+      this.possibleMoves = gameMoves.map(move => MoveEval.fromParent(this, move));
+      this.possibleMoves.sort((a, b) => (b.initialScore - a.initialScore) * flip);
+      this.topMoves = this.possibleMoves.slice(0, numMovesToConsider);
+
+      this.score = isMaximizing ? -Infinity : Infinity;
+      for (const moveEval of this.topMoves) {
+        // Setup
+        this.game.move(moveEval.move); // make the move
+        // Eval
+        moveEval._minimax(depth - 1, !isMaximizing, alpha, beta);
+        // Interpret
+        const isBetter = isMaximizing ? moveEval.score > this.score : moveEval.score < this.score;
+        if (isBetter) {
+          this.score = moveEval.score;
+          this.finalState = moveEval.finalState;
+          this.bestMove = moveEval;
+        }
+
+        // Alpha-beta pruning
+        if (isMaximizing) {
+          alpha = Math.max(alpha, this.score);
+        } else {
+          beta = Math.min(beta, this.score);
+        }
+
+        // Cleanup
+        this.game.undo();
+
+        // Prune if we've found a move that's good enough
+        if (beta <= alpha) {
+          break; // Beta cutoff - remaining moves won't be chosen
+        }
+      }
+      const end = performance.now();
+      const duration = end - start;
+      this.log(`minimax took ${duration.toFixed(2)}ms`);
+      return this.bestMove; // can use the bestMove returned, or call functions on this object.
     }
-    const end = performance.now();
-    const duration = end - start;
-    this.log(`minimax took ${duration.toFixed(2)}ms`);
-    return this.bestMove; // can use the bestMove returned, or call functions on this object.
-  };
+;
 
   getCurrentEvalAsString(): string {
     return `Current Eval: (initial: ${this.initialScore.toFixed(2)}, best line: ${this.score.toFixed(2)})`;
