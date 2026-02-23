@@ -275,7 +275,7 @@ export class MoveEval {
       return this.topMoves[0];
     }
 
-  private _minimax(depth: number, isMaximizing: boolean, alpha: number, beta: number): MoveEval {
+  private _minimax(depth: number, isMaximizing: boolean, alpha: number, beta: number, extensionsUsed: number = 0): MoveEval {
       const start = performance.now();
       GLOBAL_EVAL_COUNT++;
       const strategy = this.botConfig.strategy;
@@ -292,12 +292,29 @@ export class MoveEval {
       this.possibleMoves.sort((a, b) => (b.initialScore - a.initialScore) * flip);
       this.topMoves = this.possibleMoves.slice(0, numMovesToConsider);
 
+      const MAX_EXTENSIONS = 10; // Prevent runaway extensions in very tactical positions
+
       this.score = isMaximizing ? -Infinity : Infinity;
       for (const moveEval of this.topMoves) {
         // Setup
         this.game.move(moveEval.move); // make the move
+
+        // Determine next depth with quiescence extension
+        let nextDepth = depth - 1;
+        let nextExtensions = extensionsUsed;
+
+        // Quiescence: if this move is a capture and we'd hit depth 0, extend by 1
+        if (this.botConfig.quiescence && 
+            nextDepth === 0 && 
+            this.wasCapture(moveEval.move) && 
+            extensionsUsed < MAX_EXTENSIONS) {
+          nextDepth = 1;
+          nextExtensions = extensionsUsed + 1;
+        }
+
         // Eval
-        moveEval._minimax(depth - 1, !isMaximizing, alpha, beta);
+        moveEval._minimax(nextDepth, !isMaximizing, alpha, beta, nextExtensions);
+
         // Interpret
         const isBetter = isMaximizing ? moveEval.score > this.score : moveEval.score < this.score;
         if (isBetter) {
@@ -326,7 +343,19 @@ export class MoveEval {
       this.log(`minimax took ${duration.toFixed(2)}ms`);
       return this.bestMove; // can use the bestMove returned, or call functions on this object.
     }
-;
+
+  /**
+   * Checks if the given move was a capture
+   * @private
+   */
+  private wasCapture(move: string): boolean {
+    // The move has already been made, so check the last move from history
+    const history = this.game.history({ verbose: true });
+    if (history.length === 0) return false;
+    
+    const lastMove = history[history.length - 1];
+    return lastMove.captured !== undefined;
+  }
 
   getCurrentEvalAsString(): string {
     return `Current Eval: (initial: ${this.initialScore.toFixed(2)}, best line: ${this.score.toFixed(2)})`;

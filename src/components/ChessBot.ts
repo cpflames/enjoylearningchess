@@ -37,7 +37,7 @@ export const BOARDSENSE_STRATEGY: evalStrategy = {
     
     // Mobility advantage (0.05 points per move advantage)
     const mobilityDiff = boardSense.getMobilityDifference();
-    score += mobilityDiff * 0.05;
+    score += mobilityDiff * 0.02;
     
     // King safety (0.1 points per safety score point)
     //const whiteKingSafety = boardSense.getKingSafety('w');
@@ -54,6 +54,9 @@ export const BOARDSENSE_STRATEGY: evalStrategy = {
   strategyName: 'BoardSense Enhanced',
 }
 
+export const QUIESCE = true;
+export const STOPPED = false;
+
 // Bot configs
 
 export type BotConfig = {
@@ -61,19 +64,20 @@ export type BotConfig = {
   breadth: number;
   strategy: evalStrategy;
   botName: string;
+  quiescence: boolean;
 }
 
-const makeBotConfig = (level: number, depth: number, breadth: number, strategy: evalStrategy): BotConfig => {
-  return { depth, breadth, strategy, botName: `[Level ${level}] ${strategy.strategyName} (${depth}-Ply x ${breadth})` };
+const makeBotConfig = (level: number, depth: number, breadth: number, quiescence: boolean = false, strategy: evalStrategy): BotConfig => {
+  return { depth, breadth, strategy, quiescence, botName: `[Level ${level}] ${strategy.strategyName} (${depth}-Ply x ${breadth})` };
 }
 
 export const BOT_CONFIGS: BotConfig[] = [
-  makeBotConfig(0, 1, 50, RANDOM_STRATEGY),
-  makeBotConfig(1, 1, 50, MATERIAL_STRATEGY),
-  makeBotConfig(2, 2, 40, MATERIAL_STRATEGY),
-  makeBotConfig(3, 2, 20, MATERIAL_AND_POSITIONAL_STRATEGY),
-  makeBotConfig(4, 4, 10, MATERIAL_AND_POSITIONAL_STRATEGY),
-  makeBotConfig(5, 4, 10, BOARDSENSE_STRATEGY),
+  makeBotConfig(0, 1, 50, STOPPED, RANDOM_STRATEGY),
+  makeBotConfig(1, 1, 50, STOPPED, MATERIAL_STRATEGY),
+  makeBotConfig(2, 2, 40, STOPPED, MATERIAL_STRATEGY),
+  makeBotConfig(3, 2, 20, STOPPED, MATERIAL_AND_POSITIONAL_STRATEGY),
+  makeBotConfig(4, 4, 10, STOPPED, MATERIAL_AND_POSITIONAL_STRATEGY),
+  makeBotConfig(5, 4, 10, QUIESCE, BOARDSENSE_STRATEGY), // Quiescence enabled
 ];
 
 export const MAX_BOT_LEVEL = BOT_CONFIGS.length - 1;
