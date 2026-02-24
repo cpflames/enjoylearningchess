@@ -1,6 +1,10 @@
 import { Chess } from 'chess.js';
 import type { Color } from 'chess.js';
 import { BotConfig } from './ChessBot';
+import { GamePhase, type GameContext, type MoveIdea, MOVE_IDEAS } from './MoveIdeas';
+
+export { GamePhase } from './MoveIdeas';
+export type { GameContext, MoveIdea } from './MoveIdeas';
 
 export let GLOBAL_EVAL_COUNT: number = 0;
 
@@ -35,7 +39,7 @@ export class MoveEval {
     moveEval.findMaterialPoints();
     moveEval.findPositionalPoints();
     moveEval.lineString = '';
-    moveEval.initialScore = botConfig.strategy.evalFunc(moveEval);
+    moveEval.initialScore = botConfig.evalStrategy.evalFunc(moveEval);
     return moveEval;
   }
 
@@ -48,7 +52,7 @@ export class MoveEval {
     moveEval.materialPoints = { ...parent.materialPoints };
     moveEval.positionalPoints = { ...parent.positionalPoints };
     moveEval.updatePointsForMove(move);
-    moveEval.initialScore = moveEval.botConfig.strategy.evalFunc(moveEval);
+    moveEval.initialScore = moveEval.botConfig.evalStrategy.evalFunc(moveEval);
     moveEval.lineString = `${parent.lineString} ${move}`;
     game.undo(); // undo the move
     return moveEval;
@@ -203,16 +207,20 @@ export class MoveEval {
     if (this.game.isGameOver()) {
       if (this.game.isCheckmate()) {
         if (this.game.turn() === 'w') { 
-          return {white: -50000, black: 50000};
+          this.materialPoints = {white: -50000, black: 50000};
+          return this.materialPoints;
         } else {
-          return {white: 50000, black: -50000};
+          this.materialPoints = {white: 50000, black: -50000};
+          return this.materialPoints;
         }
       }
       if (this.game.isStalemate()) {
-        return {white: 0, black: 0};
+        this.materialPoints = {white: 0, black: 0};
+        return this.materialPoints;
       }
       if (this.game.isDraw()) {
-        return {white: 0, black: 0};
+        this.materialPoints = {white: 0, black: 0};
+        return this.materialPoints;
       }
     }
 
@@ -278,9 +286,13 @@ export class MoveEval {
   private _minimax(depth: number, isMaximizing: boolean, alpha: number, beta: number, extensionsUsed: number = 0): MoveEval {
       const start = performance.now();
       GLOBAL_EVAL_COUNT++;
-      const strategy = this.botConfig.strategy;
-      const gameMoves = this.game.moves();
-      if (depth === 0 || gameMoves.length === 0) {
+      const strategy = this.botConfig.evalStrategy;
+      
+      // Generate candidate moves using the configured strategy
+      const color = this.game.turn();
+      const candidateMoves = this.botConfig.moveGenStrategy.generateCandidates(this.game, color, this);
+      
+      if (depth === 0 || candidateMoves.length === 0) {
         this.finalState = this;
         this.score = strategy.evalFunc(this);
         return this;
@@ -288,26 +300,23 @@ export class MoveEval {
       const flip = isMaximizing ? 1 : -1;
       const numMovesToConsider = this.botConfig.breadth;
 
-      this.possibleMoves = gameMoves.map(move => MoveEval.fromParent(this, move));
+      this.possibleMoves = candidateMoves.map(move => MoveEval.fromParent(this, move));
       this.possibleMoves.sort((a, b) => (b.initialScore - a.initialScore) * flip);
-      this.topMoves = this.possibleMoves.slice(0, numMovesToConsider);
-
-      const MAX_EXTENSIONS = 10; // Prevent runaway extensions in very tactical positions
+      // Take up to breadth moves, but don't pad if fewer candidates exist
+      this.topMoves = this.possibleMoves.slice(0, Math.min(numMovesToConsider, this.possibleMoves.length));
 
       this.score = isMaximizing ? -Infinity : Infinity;
       for (const moveEval of this.topMoves) {
         // Setup
         this.game.move(moveEval.move); // make the move
 
-        // Determine next depth with quiescence extension
+        // Determine next depth using depth strategy
         let nextDepth = depth - 1;
         let nextExtensions = extensionsUsed;
 
-        // Quiescence: if this move is a capture and we'd hit depth 0, extend by 1
-        if (this.botConfig.quiescence && 
-            nextDepth === 0 && 
-            this.wasCapture(moveEval.move) && 
-            extensionsUsed < MAX_EXTENSIONS) {
+        // Check if we should extend using the depth strategy
+        if (this.botConfig.depthStrategy.shouldExtend(moveEval, nextDepth, extensionsUsed) &&
+            extensionsUsed < this.botConfig.depthStrategy.maxExtensions) {
           nextDepth = 1;
           nextExtensions = extensionsUsed + 1;
         }
@@ -345,10 +354,10 @@ export class MoveEval {
     }
 
   /**
-   * Checks if the given move was a capture
-   * @private
+   * Checks if the last move was a capture
+   * @public
    */
-  private wasCapture(move: string): boolean {
+  public wasLastMoveCapture(): boolean {
     // The move has already been made, so check the last move from history
     const history = this.game.history({ verbose: true });
     if (history.length === 0) return false;
@@ -387,4 +396,58 @@ export class MoveEval {
   log(msg: string): void {
     this.logs += `${msg}\n`;
   }
+
+    /**
+     * Builds game context for move idea evaluation
+     */
+    private buildGameContext(): GameContext {
+      const moveNumber = Math.floor(this.game.history().length / 2) + 1;
+      const materialBalance = this.materialPointsAheadForWhite();
+
+      // Determine phase based on move number and material
+      let phase: GamePhase;
+      if (moveNumber <= 10) {
+        phase = GamePhase.OPENING;
+      } else {
+        // Check if we're in endgame (queens traded or low material)
+        const whiteMaterial = this.materialPoints.white;
+        const blackMaterial = this.materialPoints.black;
+        const totalMaterial = whiteMaterial + blackMaterial;
+
+        if (totalMaterial < 20) { // Less than ~2 rooks + 2 knights per side
+          phase = GamePhase.ENDGAME;
+        } else {
+          phase = GamePhase.MIDDLEGAME;
+        }
+      }
+
+      return { moveNumber, materialBalance, phase };
+    }
+
+    /**
+     * Generates candidate moves based on strategic move ideas
+     * @public
+     */
+    public generateCandidateMoves(color: Color): string[] {
+      const context = this.buildGameContext();
+      const candidates = new Set<string>();
+
+      // Filter to relevant ideas and sort by priority
+      const relevantIdeas = MOVE_IDEAS
+        .filter(idea => idea.isRelevant(context, color))
+        .sort((a, b) => b.priority - a.priority);
+
+      // Generate moves from each relevant idea
+      for (const idea of relevantIdeas) {
+        const moves = idea.generateMoves(this.game, color);
+        moves.forEach(move => candidates.add(move));
+      }
+
+      // If no candidates generated, fall back to all legal moves
+      if (candidates.size === 0) {
+        return this.game.moves();
+      }
+
+      return Array.from(candidates);
+    }
 }
