@@ -65,19 +65,21 @@ export type BotConfig = {
   strategy: evalStrategy;
   botName: string;
   quiescence: boolean;
+  useGoalBasedMoves: boolean;
 }
 
-const makeBotConfig = (level: number, depth: number, breadth: number, quiescence: boolean = false, strategy: evalStrategy): BotConfig => {
-  return { depth, breadth, strategy, quiescence, botName: `[Level ${level}] ${strategy.strategyName} (${depth}-Ply x ${breadth})` };
+const makeBotConfig = (level: number, depth: number, breadth: number, quiescence: boolean = false, useGoalBasedMoves: boolean = false, strategy: evalStrategy): BotConfig => {
+  return { depth, breadth, strategy, quiescence, useGoalBasedMoves, botName: `[Level ${level}] ${strategy.strategyName} (${depth}-Ply x ${breadth})` };
 }
 
 export const BOT_CONFIGS: BotConfig[] = [
-  makeBotConfig(0, 1, 50, STOPPED, RANDOM_STRATEGY),
-  makeBotConfig(1, 1, 50, STOPPED, MATERIAL_STRATEGY),
-  makeBotConfig(2, 2, 40, STOPPED, MATERIAL_STRATEGY),
-  makeBotConfig(3, 2, 20, STOPPED, MATERIAL_AND_POSITIONAL_STRATEGY),
-  makeBotConfig(4, 4, 10, STOPPED, MATERIAL_AND_POSITIONAL_STRATEGY),
-  makeBotConfig(5, 4, 10, QUIESCE, BOARDSENSE_STRATEGY), // Quiescence enabled
+  makeBotConfig(0, 1, 50, STOPPED, STOPPED, RANDOM_STRATEGY),
+  makeBotConfig(1, 1, 50, STOPPED, STOPPED, MATERIAL_STRATEGY),
+  makeBotConfig(2, 2, 40, STOPPED, STOPPED, MATERIAL_STRATEGY),
+  makeBotConfig(3, 2, 20, STOPPED, STOPPED, MATERIAL_AND_POSITIONAL_STRATEGY),
+  makeBotConfig(4, 4, 10, STOPPED, STOPPED, MATERIAL_AND_POSITIONAL_STRATEGY),
+  makeBotConfig(5, 4, 10, QUIESCE, STOPPED, BOARDSENSE_STRATEGY), // Quiescence enabled
+  makeBotConfig(6, 4, 10, QUIESCE, QUIESCE, BOARDSENSE_STRATEGY), // Level 6 - goal-based move generation
 ];
 
 export const MAX_BOT_LEVEL = BOT_CONFIGS.length - 1;

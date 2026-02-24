@@ -2,6 +2,219 @@ import { Chess } from 'chess.js';
 import type { Color } from 'chess.js';
 import { BotConfig } from './ChessBot';
 
+/**
+ * Array of strategic move ideas
+ */
+const MOVE_IDEAS: MoveIdea[] = [
+  // High priority: Tactical moves
+  {
+    name: 'Capture free piece',
+    description: 'Capture opponent pieces that are undefended',
+    priority: 100,
+    isRelevant: () => true, // Always relevant
+    generateMoves: (game: Chess, color: Color) => {
+      const moves = game.moves({ verbose: true });
+      return moves
+        .filter(move => move.captured !== undefined)
+        .map(move => move.san);
+    }
+  },
+
+  {
+    name: 'Recapture',
+    description: 'Recapture if a piece was just taken',
+    priority: 95,
+    isRelevant: () => true, // Always relevant
+    generateMoves: (game: Chess, color: Color) => {
+      const history = game.history({ verbose: true });
+      if (history.length === 0) return [];
+
+      const lastMove = history[history.length - 1];
+      if (!lastMove.captured) return [];
+
+      // Generate moves that capture on the square where the last capture happened
+      const moves = game.moves({ verbose: true });
+      return moves
+        .filter(move => move.to === lastMove.to && move.captured !== undefined)
+        .map(move => move.san);
+    }
+  },
+
+  {
+    name: 'Defend attacked piece',
+    description: 'Defend pieces that are under attack',
+    priority: 90,
+    isRelevant: () => true, // Always relevant
+    generateMoves: (game: Chess, color: Color) => {
+      // For now, return all moves (defending is complex to detect)
+      // TODO: Implement proper defense detection using BoardSense
+      return [];
+    }
+  },
+
+  // Opening moves
+  {
+    name: 'Push center pawn',
+    description: 'Push d or e pawn toward center',
+    priority: 80,
+    isRelevant: (context) => context.phase === GamePhase.OPENING,
+    generateMoves: (game: Chess, color: Color) => {
+      const moves = game.moves({ verbose: true });
+      return moves
+        .filter(move => {
+          const piece = move.piece;
+          const from = move.from;
+          const to = move.to;
+
+          // Check if it's a pawn move on d or e file
+          if (piece !== 'p') return false;
+          const file = from[0];
+          if (file !== 'd' && file !== 'e') return false;
+
+          // Check if moving toward center (rank 4 or 5)
+          const toRank = parseInt(to[1]);
+          return toRank === 4 || toRank === 5;
+        })
+        .map(move => move.san);
+    }
+  },
+
+  {
+    name: 'Develop knight',
+    description: 'Develop knights toward center',
+    priority: 75,
+    isRelevant: (context) => context.phase === GamePhase.OPENING,
+    generateMoves: (game: Chess, color: Color) => {
+      const moves = game.moves({ verbose: true });
+      return moves
+        .filter(move => {
+          if (move.piece !== 'n') return false;
+
+          // Prefer moves to c3, f3, c6, f6 (good knight squares)
+          const to = move.to;
+          const goodSquares = ['c3', 'f3', 'c6', 'f6', 'd2', 'e2', 'd7', 'e7'];
+          return goodSquares.includes(to);
+        })
+        .map(move => move.san);
+    }
+  },
+
+  {
+    name: 'Develop bishop',
+    description: 'Develop bishops to active squares',
+    priority: 70,
+    isRelevant: (context) => context.phase === GamePhase.OPENING,
+    generateMoves: (game: Chess, color: Color) => {
+      const moves = game.moves({ verbose: true });
+      return moves
+        .filter(move => move.piece === 'b')
+        .map(move => move.san);
+    }
+  },
+
+  {
+    name: 'Castle',
+    description: 'Castle to protect king',
+    priority: 85,
+    isRelevant: (context) => context.phase === GamePhase.OPENING || context.phase === GamePhase.MIDDLEGAME,
+    generateMoves: (game: Chess, color: Color) => {
+      const moves = game.moves({ verbose: true });
+      return moves
+        .filter(move => move.flags.includes('k') || move.flags.includes('q'))
+        .map(move => move.san);
+    }
+  },
+
+  // Material-based moves
+  {
+    name: 'Seek trades',
+    description: 'Trade pieces when ahead in material',
+    priority: 60,
+    isRelevant: (context, color) => {
+      const ahead = color === 'w' ? context.materialBalance > 2 : context.materialBalance < -2;
+      return ahead;
+    },
+    generateMoves: (game: Chess, color: Color) => {
+      const moves = game.moves({ verbose: true });
+      // Moves that capture (potential trades)
+      return moves
+        .filter(move => move.captured !== undefined)
+        .map(move => move.san);
+    }
+  },
+
+  {
+    name: 'Avoid trades',
+    description: 'Avoid trading pieces when behind in material',
+    priority: 55,
+    isRelevant: (context, color) => {
+      const behind = color === 'w' ? context.materialBalance < -2 : context.materialBalance > 2;
+      return behind;
+    },
+    generateMoves: (game: Chess, color: Color) => {
+      const moves = game.moves({ verbose: true });
+      // Moves that don't capture (avoid trades)
+      return moves
+        .filter(move => move.captured === undefined)
+        .map(move => move.san);
+    }
+  },
+
+  // Endgame moves
+  {
+    name: 'Activate king',
+    description: 'Bring king toward center in endgame',
+    priority: 70,
+    isRelevant: (context) => context.phase === GamePhase.ENDGAME,
+    generateMoves: (game: Chess, color: Color) => {
+      const moves = game.moves({ verbose: true });
+      return moves
+        .filter(move => move.piece === 'k')
+        .map(move => move.san);
+    }
+  },
+
+  // Fallback: consider all moves
+  {
+    name: 'All legal moves',
+    description: 'Consider all legal moves as fallback',
+    priority: 1,
+    isRelevant: () => true,
+    generateMoves: (game: Chess, color: Color) => {
+      return game.moves();
+    }
+  }
+];
+
+/**
+ * Game phase enumeration
+ */
+export enum GamePhase {
+  OPENING = 'opening',
+  MIDDLEGAME = 'middlegame',
+  ENDGAME = 'endgame'
+}
+
+/**
+ * Context about the current game state for move idea evaluation
+ */
+export interface GameContext {
+  moveNumber: number;
+  materialBalance: number; // positive = white ahead, negative = black ahead
+  phase: GamePhase;
+}
+
+/**
+ * A strategic move idea that can generate candidate moves
+ */
+export interface MoveIdea {
+  name: string;
+  description: string;
+  priority: number; // higher = more important
+  isRelevant: (context: GameContext, color: Color) => boolean;
+  generateMoves: (game: Chess, color: Color) => string[];
+}
+
 export let GLOBAL_EVAL_COUNT: number = 0;
 
 export class MoveEval {
@@ -203,16 +416,20 @@ export class MoveEval {
     if (this.game.isGameOver()) {
       if (this.game.isCheckmate()) {
         if (this.game.turn() === 'w') { 
-          return {white: -50000, black: 50000};
+          this.materialPoints = {white: -50000, black: 50000};
+          return this.materialPoints;
         } else {
-          return {white: 50000, black: -50000};
+          this.materialPoints = {white: 50000, black: -50000};
+          return this.materialPoints;
         }
       }
       if (this.game.isStalemate()) {
-        return {white: 0, black: 0};
+        this.materialPoints = {white: 0, black: 0};
+        return this.materialPoints;
       }
       if (this.game.isDraw()) {
-        return {white: 0, black: 0};
+        this.materialPoints = {white: 0, black: 0};
+        return this.materialPoints;
       }
     }
 
@@ -279,8 +496,14 @@ export class MoveEval {
       const start = performance.now();
       GLOBAL_EVAL_COUNT++;
       const strategy = this.botConfig.strategy;
-      const gameMoves = this.game.moves();
-      if (depth === 0 || gameMoves.length === 0) {
+      
+      // Generate candidate moves - use goal-based system if enabled, otherwise use all legal moves
+      const color = this.game.turn();
+      const candidateMoves = this.botConfig.useGoalBasedMoves 
+        ? this.generateCandidateMoves(color)
+        : this.game.moves();
+      
+      if (depth === 0 || candidateMoves.length === 0) {
         this.finalState = this;
         this.score = strategy.evalFunc(this);
         return this;
@@ -288,9 +511,10 @@ export class MoveEval {
       const flip = isMaximizing ? 1 : -1;
       const numMovesToConsider = this.botConfig.breadth;
 
-      this.possibleMoves = gameMoves.map(move => MoveEval.fromParent(this, move));
+      this.possibleMoves = candidateMoves.map(move => MoveEval.fromParent(this, move));
       this.possibleMoves.sort((a, b) => (b.initialScore - a.initialScore) * flip);
-      this.topMoves = this.possibleMoves.slice(0, numMovesToConsider);
+      // Take up to breadth moves, but don't pad if fewer candidates exist
+      this.topMoves = this.possibleMoves.slice(0, Math.min(numMovesToConsider, this.possibleMoves.length));
 
       const MAX_EXTENSIONS = 10; // Prevent runaway extensions in very tactical positions
 
@@ -387,4 +611,57 @@ export class MoveEval {
   log(msg: string): void {
     this.logs += `${msg}\n`;
   }
+
+    /**
+     * Builds game context for move idea evaluation
+     */
+    private buildGameContext(): GameContext {
+      const moveNumber = Math.floor(this.game.history().length / 2) + 1;
+      const materialBalance = this.materialPointsAheadForWhite();
+
+      // Determine phase based on move number and material
+      let phase: GamePhase;
+      if (moveNumber <= 10) {
+        phase = GamePhase.OPENING;
+      } else {
+        // Check if we're in endgame (queens traded or low material)
+        const whiteMaterial = this.materialPoints.white;
+        const blackMaterial = this.materialPoints.black;
+        const totalMaterial = whiteMaterial + blackMaterial;
+
+        if (totalMaterial < 20) { // Less than ~2 rooks + 2 knights per side
+          phase = GamePhase.ENDGAME;
+        } else {
+          phase = GamePhase.MIDDLEGAME;
+        }
+      }
+
+      return { moveNumber, materialBalance, phase };
+    }
+
+    /**
+     * Generates candidate moves based on strategic move ideas
+     */
+    private generateCandidateMoves(color: Color): string[] {
+      const context = this.buildGameContext();
+      const candidates = new Set<string>();
+
+      // Filter to relevant ideas and sort by priority
+      const relevantIdeas = MOVE_IDEAS
+        .filter(idea => idea.isRelevant(context, color))
+        .sort((a, b) => b.priority - a.priority);
+
+      // Generate moves from each relevant idea
+      for (const idea of relevantIdeas) {
+        const moves = idea.generateMoves(this.game, color);
+        moves.forEach(move => candidates.add(move));
+      }
+
+      // If no candidates generated, fall back to all legal moves
+      if (candidates.size === 0) {
+        return this.game.moves();
+      }
+
+      return Array.from(candidates);
+    }
 }
