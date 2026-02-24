@@ -12,6 +12,21 @@ export type evalStrategy = {
   strategyName: string;
 }
 
+// Depth strategies
+
+export type DepthStrategy = {
+  shouldExtend: (moveEval: MoveEval, depth: number, extensionsUsed: number) => boolean;
+  maxExtensions: number;
+  strategyName: string;
+}
+
+// Move generation strategies
+
+export type MoveGenerationStrategy = {
+  generateCandidates: (game: Chess, color: Color, moveEval?: MoveEval) => string[];
+  strategyName: string;
+}
+
 export const RANDOM_STRATEGY: evalStrategy = {
   evalFunc: (moveEval: MoveEval) => Math.random(),
   strategyName: 'Random',
@@ -54,32 +69,75 @@ export const BOARDSENSE_STRATEGY: evalStrategy = {
   strategyName: 'BoardSense Enhanced',
 }
 
-export const QUIESCE = true;
-export const STOPPED = false;
+// Depth strategies
+
+export const HARD_STOP_DEPTH: DepthStrategy = {
+  shouldExtend: () => false,
+  maxExtensions: 0,
+  strategyName: 'Hard Stop'
+};
+
+export const QUIESCE_DEPTH: DepthStrategy = {
+  shouldExtend: (moveEval: MoveEval, depth: number, extensionsUsed: number) => {
+    // Extend if this move is a capture and we'd hit depth 0
+    return depth === 0 && moveEval.wasLastMoveCapture();
+  },
+  maxExtensions: 10,
+  strategyName: 'Quiescence'
+};
+
+// Move generation strategies
+
+export const RANKED_MOVE_GEN: MoveGenerationStrategy = {
+  generateCandidates: (game: Chess) => game.moves(),
+  strategyName: 'Ranked'
+};
+
+export const GOAL_BASED_MOVE_GEN: MoveGenerationStrategy = {
+  generateCandidates: (game: Chess, color: Color, moveEval?: MoveEval) => {
+    if (!moveEval) return game.moves();
+    return moveEval.generateCandidateMoves(color);
+  },
+  strategyName: 'Goal-Based'
+};
 
 // Bot configs
 
 export type BotConfig = {
   depth: number;
   breadth: number;
-  strategy: evalStrategy;
+  evalStrategy: evalStrategy;
+  depthStrategy: DepthStrategy;
+  moveGenStrategy: MoveGenerationStrategy;
   botName: string;
-  quiescence: boolean;
-  useGoalBasedMoves: boolean;
 }
 
-const makeBotConfig = (level: number, depth: number, breadth: number, quiescence: boolean = false, useGoalBasedMoves: boolean = false, strategy: evalStrategy): BotConfig => {
-  return { depth, breadth, strategy, quiescence, useGoalBasedMoves, botName: `[Level ${level}] ${strategy.strategyName} (${depth}-Ply x ${breadth})` };
+const makeBotConfig = (
+  level: number, 
+  depth: number, 
+  breadth: number, 
+  depthStrategy: DepthStrategy,
+  moveGenStrategy: MoveGenerationStrategy,
+  evalStrategy: evalStrategy
+): BotConfig => {
+  return { 
+    depth, 
+    breadth, 
+    evalStrategy,
+    depthStrategy,
+    moveGenStrategy,
+    botName: `[Level ${level}] ${evalStrategy.strategyName} (${depth}-Ply x ${breadth}) with ${depthStrategy.strategyName} depth and ${moveGenStrategy.strategyName} move generation` 
+  };
 }
 
 export const BOT_CONFIGS: BotConfig[] = [
-  makeBotConfig(0, 1, 50, STOPPED, STOPPED, RANDOM_STRATEGY),
-  makeBotConfig(1, 1, 50, STOPPED, STOPPED, MATERIAL_STRATEGY),
-  makeBotConfig(2, 2, 40, STOPPED, STOPPED, MATERIAL_STRATEGY),
-  makeBotConfig(3, 2, 20, STOPPED, STOPPED, MATERIAL_AND_POSITIONAL_STRATEGY),
-  makeBotConfig(4, 4, 10, STOPPED, STOPPED, MATERIAL_AND_POSITIONAL_STRATEGY),
-  makeBotConfig(5, 4, 10, QUIESCE, STOPPED, BOARDSENSE_STRATEGY), // Quiescence enabled
-  makeBotConfig(6, 4, 10, QUIESCE, QUIESCE, BOARDSENSE_STRATEGY), // Level 6 - goal-based move generation
+  makeBotConfig(0, 1, 50, HARD_STOP_DEPTH, RANKED_MOVE_GEN, RANDOM_STRATEGY),
+  makeBotConfig(1, 1, 50, HARD_STOP_DEPTH, RANKED_MOVE_GEN, MATERIAL_STRATEGY),
+  makeBotConfig(2, 2, 40, HARD_STOP_DEPTH, RANKED_MOVE_GEN, MATERIAL_STRATEGY),
+  makeBotConfig(3, 2, 20, HARD_STOP_DEPTH, RANKED_MOVE_GEN, MATERIAL_AND_POSITIONAL_STRATEGY),
+  makeBotConfig(4, 4, 10, HARD_STOP_DEPTH, RANKED_MOVE_GEN, MATERIAL_AND_POSITIONAL_STRATEGY),
+  makeBotConfig(5, 3, 10, QUIESCE_DEPTH, RANKED_MOVE_GEN, BOARDSENSE_STRATEGY),
+  makeBotConfig(6, 3, 10, QUIESCE_DEPTH, GOAL_BASED_MOVE_GEN, BOARDSENSE_STRATEGY),
 ];
 
 export const MAX_BOT_LEVEL = BOT_CONFIGS.length - 1;

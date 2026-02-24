@@ -8,7 +8,7 @@ describe('ChessBot', () => {
     expect(BOT_CONFIGS[5]).toBeDefined();
     expect(BOT_CONFIGS[5].botName).toContain('Level 5');
     expect(BOT_CONFIGS[5].botName).toContain('BoardSense Enhanced');
-    expect(BOT_CONFIGS[5].depth).toBe(4);
+    expect(BOT_CONFIGS[5].depth).toBe(3);
     expect(BOT_CONFIGS[5].breadth).toBe(10);
   });
 
