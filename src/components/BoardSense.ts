@@ -1428,4 +1428,361 @@ export class BoardSense {
        };
      });
    }
+
+  /**
+   * Generates all pseudo-legal destination squares for a piece at a given square
+   * Similar to mobility calculation but returns the actual squares
+   * @param square - The square containing the piece
+   * @param pieceType - The type of piece
+   * @param color - The color of the piece
+   * @returns Array of destination squares (may include illegal moves due to pins)
+   */
+  private generatePieceDestinations(square: Square, pieceType: PieceType, color: Color): Square[] {
+    const coords = this.squareToCoords(square);
+    const destinations: Square[] = [];
+
+    switch (pieceType) {
+      case 'p': // Pawn
+        return this.generatePawnDestinations(square, color);
+      
+      case 'n': // Knight
+        for (const [fileOffset, rankOffset] of KNIGHT_OFFSETS) {
+          const destSquare = this.coordsToSquare(coords.file + fileOffset, coords.rank + rankOffset);
+          if (destSquare && this.canMoveToSquare(destSquare, color)) {
+            destinations.push(destSquare);
+          }
+        }
+        break;
+      
+      case 'b': // Bishop
+        this.addSlidingDestinations(destinations, coords, color, BISHOP_DIRECTIONS);
+        break;
+      
+      case 'r': // Rook
+        this.addSlidingDestinations(destinations, coords, color, ROOK_DIRECTIONS);
+        break;
+      
+      case 'q': // Queen
+        this.addSlidingDestinations(destinations, coords, color, QUEEN_DIRECTIONS);
+        break;
+      
+      case 'k': // King
+        for (const [fileOffset, rankOffset] of KING_OFFSETS) {
+          const destSquare = this.coordsToSquare(coords.file + fileOffset, coords.rank + rankOffset);
+          if (destSquare && this.canMoveToSquare(destSquare, color)) {
+            destinations.push(destSquare);
+          }
+        }
+        break;
+    }
+
+    return destinations;
+  }
+
+  /**
+   * Generates pawn destination squares (forward moves and captures)
+   * @private
+   */
+  private generatePawnDestinations(square: Square, color: Color): Square[] {
+    const coords = this.squareToCoords(square);
+    const destinations: Square[] = [];
+    const direction = color === 'w' ? 1 : -1;
+    const startRank = color === 'w' ? 1 : 6;
+
+    // Forward one square
+    const oneForward = this.coordsToSquare(coords.file, coords.rank + direction);
+    if (oneForward && !this.getPieceAt(oneForward)) {
+      destinations.push(oneForward);
+
+      // Forward two squares from starting position
+      if (coords.rank === startRank) {
+        const twoForward = this.coordsToSquare(coords.file, coords.rank + direction * 2);
+        if (twoForward && !this.getPieceAt(twoForward)) {
+          destinations.push(twoForward);
+        }
+      }
+    }
+
+    // Diagonal captures
+    for (const fileOffset of [-1, 1]) {
+      const captureSquare = this.coordsToSquare(coords.file + fileOffset, coords.rank + direction);
+      if (captureSquare) {
+        const targetPiece = this.getPieceAt(captureSquare);
+        if (targetPiece && targetPiece.color !== color) {
+          destinations.push(captureSquare);
+        }
+      }
+    }
+
+    return destinations;
+  }
+
+  /**
+   * Adds sliding piece destinations to the array
+   * @private
+   */
+  private addSlidingDestinations(
+    destinations: Square[],
+    coords: { file: number; rank: number },
+    color: Color,
+    directions: [number, number][]
+  ): void {
+    for (const [fileDir, rankDir] of directions) {
+      let file = coords.file + fileDir;
+      let rank = coords.rank + rankDir;
+      
+      while (true) {
+        const targetSquare = this.coordsToSquare(file, rank);
+        if (!targetSquare) break;
+        
+        const targetPiece = this.getPieceAt(targetSquare);
+        if (!targetPiece) {
+          destinations.push(targetSquare);
+        } else if (targetPiece.color !== color) {
+          destinations.push(targetSquare);
+          break;
+        } else {
+          break;
+        }
+        
+        file += fileDir;
+        rank += rankDir;
+      }
+    }
+  }
+
+  /**
+   * Converts a move from square coordinates to SAN notation
+   * @param from - Starting square
+   * @param to - Destination square
+   * @param piece - Piece type
+   * @param color - Piece color
+   * @returns SAN notation string (e.g., "Nf3", "exd5", "O-O")
+   */
+  private squareToSAN(from: Square, to: Square, piece: PieceType, color: Color): string {
+    const targetPiece = this.getPieceAt(to);
+    const isCapture = targetPiece !== null;
+
+    // Castling
+    if (piece === 'k') {
+      const fromFile = from.charCodeAt(0);
+      const toFile = to.charCodeAt(0);
+      if (Math.abs(toFile - fromFile) === 2) {
+        return toFile > fromFile ? 'O-O' : 'O-O-O';
+      }
+    }
+
+    // Pawn moves
+    if (piece === 'p') {
+      if (isCapture) {
+        return `${from[0]}x${to}`;
+      }
+      return to;
+    }
+
+    // Piece moves
+    const pieceSymbol = piece.toUpperCase();
+    const captureSymbol = isCapture ? 'x' : '';
+    
+    // Check if disambiguation is needed
+    const disambiguation = this.getDisambiguation(from, to, piece, color);
+    
+    return `${pieceSymbol}${disambiguation}${captureSymbol}${to}`;
+  }
+
+  /**
+   * Determines if disambiguation is needed for a move (e.g., N3f3 vs Nf3)
+   * @private
+   */
+  private getDisambiguation(from: Square, to: Square, piece: PieceType, color: Color): string {
+    // Find all pieces of same type and color that can move to the same square
+    const pieces = this.getPiecesOfType(color, piece);
+    const canReach = pieces.filter(square => {
+      if (square === from) return false;
+      const destinations = this.generatePieceDestinations(square, piece, color);
+      return destinations.includes(to);
+    });
+
+    if (canReach.length === 0) {
+      return ''; // No disambiguation needed
+    }
+
+    // Check if file disambiguation is sufficient
+    const sameFile = canReach.some(square => square[0] === from[0]);
+    if (!sameFile) {
+      return from[0]; // Use file (e.g., "Naf3")
+    }
+
+    // Check if rank disambiguation is sufficient
+    const sameRank = canReach.some(square => square[1] === from[1]);
+    if (!sameRank) {
+      return from[1]; // Use rank (e.g., "N3f3")
+    }
+
+    // Use both file and rank
+    return from; // (e.g., "Na3f3")
+  }
+
+  /**
+   * Generates all capture moves for a given color
+   * @param color - The color to generate captures for
+   * @returns Array of SAN notation capture moves
+   */
+  public generateCaptures(color: Color): string[] {
+    const captures: string[] = [];
+    const allPieces = this.getAllPieces(color);
+
+    Array.from(allPieces.entries()).forEach(([pieceType, squares]) => {
+      for (const square of squares) {
+        const destinations = this.generatePieceDestinations(square, pieceType, color);
+        for (const dest of destinations) {
+          const targetPiece = this.getPieceAt(dest);
+          if (targetPiece && targetPiece.color !== color) {
+            const move = this.squareToSAN(square, dest, pieceType, color);
+            captures.push(move);
+          }
+        }
+      }
+    });
+
+    return captures;
+  }
+
+  /**
+   * Generates fleeing moves for attacked pieces
+   * @param color - The color to generate fleeing moves for
+   * @returns Array of SAN notation moves that move attacked pieces to safe squares
+   */
+  public generateFleeingMoves(color: Color): string[] {
+    const fleeingMoves: string[] = [];
+    const enemyColor: Color = color === 'w' ? 'b' : 'w';
+    const allPieces = this.getAllPieces(color);
+
+    Array.from(allPieces.entries()).forEach(([pieceType, squares]) => {
+      for (const square of squares) {
+        // Check if this piece is attacked
+        if (this.isSquareAttacked(square, enemyColor)) {
+          // Generate moves to safe squares
+          const destinations = this.generatePieceDestinations(square, pieceType, color);
+          for (const dest of destinations) {
+            // Check if destination is safe
+            if (!this.isSquareAttacked(dest, enemyColor)) {
+              const move = this.squareToSAN(square, dest, pieceType, color);
+              fleeingMoves.push(move);
+            }
+          }
+        }
+      }
+    });
+
+    return fleeingMoves;
+  }
+
+  /**
+   * Generates pawn moves for specific files
+   * @param color - The color to generate pawn moves for
+   * @param files - Array of file letters (e.g., ['d', 'e'])
+   * @returns Array of SAN notation pawn moves
+   */
+  public generatePawnMoves(color: Color, files: string[]): string[] {
+    const pawnMoves: string[] = [];
+    const pawns = this.getPiecesOfType(color, 'p');
+
+    for (const square of pawns) {
+      const file = square[0];
+      if (files.includes(file)) {
+        const destinations = this.generatePawnDestinations(square, color);
+        for (const dest of destinations) {
+          const move = this.squareToSAN(square, dest, 'p', color);
+          pawnMoves.push(move);
+        }
+      }
+    }
+
+    return pawnMoves;
+  }
+
+  /**
+   * Generates moves that attack undefended enemy pieces
+   * @param color - The color to generate moves for
+   * @returns Array of SAN notation moves that attack undefended pieces
+   */
+  public generateAttackUndefendedMoves(color: Color): string[] {
+    const attackMoves: string[] = [];
+    const enemyColor: Color = color === 'w' ? 'b' : 'w';
+    const enemyPieces = this.getAllPieces(enemyColor);
+
+    // Find undefended enemy pieces
+    const undefendedSquares: Square[] = [];
+    Array.from(enemyPieces.entries()).forEach(([pieceType, squares]) => {
+      for (const square of squares) {
+        const defenders = this.getDefenders(square, enemyColor);
+        if (defenders.length === 0) {
+          undefendedSquares.push(square);
+        }
+      }
+    });
+
+    // Generate moves that attack these undefended pieces
+    const myPieces = this.getAllPieces(color);
+    Array.from(myPieces.entries()).forEach(([pieceType, squares]) => {
+      for (const square of squares) {
+        const destinations = this.generatePieceDestinations(square, pieceType, color);
+        for (const dest of destinations) {
+          if (undefendedSquares.includes(dest)) {
+            const move = this.squareToSAN(square, dest, pieceType, color);
+            attackMoves.push(move);
+          }
+        }
+      }
+    });
+
+    return attackMoves;
+  }
+
+  /**
+   * Generates moves that defend attacked pieces
+   * @param color - The color to generate defending moves for
+   * @returns Array of SAN notation moves that defend attacked pieces
+   */
+  public generateDefendingMoves(color: Color): string[] {
+    const defendingMoves: string[] = [];
+    const enemyColor: Color = color === 'w' ? 'b' : 'w';
+    const myPieces = this.getAllPieces(color);
+
+    // Find my attacked pieces
+    const attackedSquares: Square[] = [];
+    Array.from(myPieces.entries()).forEach(([pieceType, squares]) => {
+      for (const square of squares) {
+        if (this.isSquareAttacked(square, enemyColor)) {
+          attackedSquares.push(square);
+        }
+      }
+    });
+
+    // Generate moves that would defend these pieces
+    // A move defends if it attacks the square where the attacked piece is
+    Array.from(myPieces.entries()).forEach(([pieceType, squares]) => {
+      for (const square of squares) {
+        const destinations = this.generatePieceDestinations(square, pieceType, color);
+        for (const dest of destinations) {
+          // Check if moving here would defend any attacked piece
+          // This is a simplification - we're checking if the destination attacks any attacked square
+          for (const attackedSquare of attackedSquares) {
+            if (attackedSquare === square) continue; // Don't move the attacked piece itself
+            
+            // Would this piece defend the attacked square from its new position?
+            // For now, simple check: does the destination square attack the attacked square?
+            if (this.canPieceAttackSquare(dest, attackedSquare, pieceType, color)) {
+              const move = this.squareToSAN(square, dest, pieceType, color);
+              defendingMoves.push(move);
+              break; // Only add this move once
+            }
+          }
+        }
+      }
+    });
+
+    return defendingMoves;
+  }
 }

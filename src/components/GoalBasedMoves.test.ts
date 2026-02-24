@@ -121,8 +121,8 @@ describe('Goal-Based Move Generation', () => {
     
     const candidates = (moveEval as any).generateCandidateMoves('w');
     
-    // Should include capturing the e5 pawn
-    expect(candidates).toContain('Qxe5+');
+    // Should include capturing the e5 pawn (without check notation since BoardSense generates pseudo-legal moves)
+    expect(candidates).toContain('Qxe5');
   });
 
   test('Bot can make a move using goal-based system', () => {

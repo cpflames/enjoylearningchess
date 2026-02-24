@@ -2,6 +2,7 @@ import { Chess } from 'chess.js';
 import type { Color } from 'chess.js';
 import { BotConfig } from './ChessBot';
 import { GamePhase, type GameContext, type MoveIdea, MOVE_IDEAS } from './MoveIdeas';
+import { BoardSense } from './BoardSense';
 
 export { GamePhase } from './MoveIdeas';
 export type { GameContext, MoveIdea } from './MoveIdeas';
@@ -44,9 +45,18 @@ export class MoveEval {
   }
 
   // This will now make the move and undo the move, because it's used for initial consideration of moves.
-  public static fromParent(parent: MoveEval, move: string): MoveEval {
+  // Returns null if the move is illegal
+  public static fromParent(parent: MoveEval, move: string): MoveEval | null {
     const game = parent.game;
-    game.move(move); // make the move
+    
+    // Try to make the move - if it's illegal, return null
+    try {
+      game.move(move); // make the move
+    } catch (e) {
+      // Move is illegal, skip it
+      return null;
+    }
+    
     const moveEval = new MoveEval(game, parent.botConfig, move);
     // Use spread operator to create a new object with the same properties as the parent's materialPoints and positionalPoints
     moveEval.materialPoints = { ...parent.materialPoints };
@@ -183,7 +193,7 @@ export class MoveEval {
   }
 
   getFinalStateString(): string {
-    return this.finalState.lineString;
+    return this.finalState?.lineString || this.lineString;
   }
 
   nextTurn(): Color {
@@ -300,10 +310,19 @@ export class MoveEval {
       const flip = isMaximizing ? 1 : -1;
       const numMovesToConsider = this.botConfig.breadth;
 
-      this.possibleMoves = candidateMoves.map(move => MoveEval.fromParent(this, move));
+      this.possibleMoves = candidateMoves
+        .map(move => MoveEval.fromParent(this, move))
+        .filter((moveEval): moveEval is MoveEval => moveEval !== null); // Filter out illegal moves
       this.possibleMoves.sort((a, b) => (b.initialScore - a.initialScore) * flip);
       // Take up to breadth moves, but don't pad if fewer candidates exist
       this.topMoves = this.possibleMoves.slice(0, Math.min(numMovesToConsider, this.possibleMoves.length));
+
+      // If all moves were filtered out as illegal, treat as terminal position
+      if (this.topMoves.length === 0) {
+        this.finalState = this;
+        this.score = strategy.evalFunc(this);
+        return this;
+      }
 
       this.score = isMaximizing ? -Infinity : Infinity;
       for (const moveEval of this.topMoves) {
@@ -432,6 +451,9 @@ export class MoveEval {
       const context = this.buildGameContext();
       const candidates = new Set<string>();
 
+      // Create BoardSense instance for move generation
+      const boardSense = new BoardSense(this.game);
+
       // Filter to relevant ideas and sort by priority
       const relevantIdeas = MOVE_IDEAS
         .filter(idea => idea.isRelevant(context, color))
@@ -439,7 +461,7 @@ export class MoveEval {
 
       // Generate moves from each relevant idea
       for (const idea of relevantIdeas) {
-        const moves = idea.generateMoves(this.game, color);
+        const moves = idea.generateMoves(this.game, color, boardSense);
         moves.forEach(move => candidates.add(move));
       }
 

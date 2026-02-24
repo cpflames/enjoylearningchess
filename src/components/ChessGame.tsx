@@ -236,6 +236,36 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
     setSearchParams({ level: newLevel.toString() });
   };
 
+  const exportPGN = async () => {
+    // Set PGN headers
+    game.header('Event', 'Play Chess Bots');
+    game.header('Site', 'EnjoyLearningChess.com');
+    game.header('Date', new Date().toISOString().split('T')[0].replace(/-/g, '.'));
+    game.header('Round', '1');
+    game.header('White', 'me');
+    game.header('Black', `Level ${botLevel} bot`);
+    
+    // Set result if game is over
+    let result = '*';
+    if (game.isGameOver()) {
+      if (game.isCheckmate()) {
+        result = game.turn() === 'w' ? '0-1' : '1-0';
+      } else if (game.isDraw() || game.isStalemate()) {
+        result = '1/2-1/2';
+      }
+    }
+    game.header('Result', result);
+    
+    const pgn = game.pgn();
+    try {
+      await navigator.clipboard.writeText(pgn);
+      alert('PGN copied to clipboard!');
+    } catch (err) {
+      console.error('Failed to copy PGN:', err);
+      alert('Failed to copy PGN to clipboard');
+    }
+  };
+
   return (
     <div style={{ paddingLeft: '20px' }}>
       <div style={{ display: 'flex', gap: '20px' }}>
@@ -343,7 +373,23 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
         height: '600px',
         overflowY: 'auto'
       }}>
-        <h3 style={{ marginTop: 0, marginBottom: '15px' }}>Moves</h3>
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '15px' }}>
+          <h3 style={{ marginTop: 0, marginBottom: 0 }}>Moves</h3>
+          <button
+            onClick={exportPGN}
+            style={{
+              padding: '6px 12px',
+              fontSize: '14px',
+              cursor: 'pointer',
+              backgroundColor: '#555',
+              color: 'white',
+              border: 'none',
+              borderRadius: '4px'
+            }}
+          >
+            Copy PGN
+          </button>
+        </div>
         <table style={{ width: '100%', borderCollapse: 'collapse' }}>
           <thead>
             <tr style={{ borderBottom: '2px solid #ddd' }}>
