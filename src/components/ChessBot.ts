@@ -211,7 +211,7 @@ const getMoveMessage = (moveEval: MoveEval, improvement: number, isMaximizing: b
   if (improvement > 0) {
     msg += `I chose ${moveStr}${reason} to win ${improvement} points.`
   } else if (improvement < 0) {
-    msg += `Hmm... it seems my least bad option is ${moveStr}${reason} to lose only ${-improvement} points.`
+    msg += `Well, best option I found is ${moveStr}${reason} to lose only ${-improvement} points.`
   } else {
     msg += `I don't see any move to gain points, so I'll just play ${moveStr}${reason}.`
   }
