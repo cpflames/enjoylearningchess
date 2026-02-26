@@ -325,7 +325,10 @@ export class MoveEval {
 
       this.possibleMoves = candidateMoves
         .map(move => {
-          const reason = this.getMoveReason(move);
+          // Only get move reasons for goal-based move generation
+          const reason = this.botConfig.moveGenStrategy.strategyName === 'Goal-Based' 
+            ? this.getMoveReason(move) 
+            : undefined;
           return MoveEval.fromParent(this, move, reason);
         })
         .filter((moveEval): moveEval is MoveEval => moveEval !== null); // Filter out illegal moves
