@@ -1,5 +1,6 @@
 import { Chess } from 'chess.js';
 import type { Color } from 'chess.js';
+import { BoardSense } from './BoardSense';
 
 /**
  * Game phase enumeration
@@ -20,14 +21,15 @@ export interface GameContext {
 }
 
 /**
- * A strategic move idea that can generate candidate moves
+ * A strategic move idea that can generate candidate moves with reasons
  */
 export interface MoveIdea {
   name: string;
   description: string;
+  reason: string; // Explanation for why this move is being made (e.g., "to develop my knight to the center")
   priority: number; // higher = more important
   isRelevant: (context: GameContext, color: Color) => boolean;
-  generateMoves: (game: Chess, color: Color) => string[];
+  generateMoves: (game: Chess, color: Color, boardSense: BoardSense, attackersBySquare: Map<string, {white: number, black: number}>) => Array<{move: string, reason: string}>;
 }
 
 /**
@@ -36,47 +38,50 @@ export interface MoveIdea {
 export const MOVE_IDEAS: MoveIdea[] = [
   // High priority: Tactical moves
   {
-    name: 'Capture free piece',
-    description: 'Capture opponent pieces that are undefended',
+    name: 'Capture',
+    description: 'Capture opponent pieces',
+    reason: 'to capture material',
     priority: 100,
     isRelevant: () => true, // Always relevant
-    generateMoves: (game: Chess, color: Color) => {
-      const moves = game.moves({ verbose: true });
-      return moves
-        .filter(move => move.captured !== undefined)
-        .map(move => move.san);
+    generateMoves: (game: Chess, color: Color, boardSense: BoardSense, attackersBySquare: Map<string, {white: number, black: number}>) => {
+      const moves = boardSense.generateCaptures(color);
+      return moves.map(move => ({ move, reason: 'to capture material' }));
     }
   },
   
   {
-    name: 'Recapture',
-    description: 'Recapture if a piece was just taken',
+    name: 'Flee from attack',
+    description: 'Move attacked pieces to safety',
+    reason: 'to move my piece to safety',
     priority: 95,
     isRelevant: () => true, // Always relevant
-    generateMoves: (game: Chess, color: Color) => {
-      const history = game.history({ verbose: true });
-      if (history.length === 0) return [];
-      
-      const lastMove = history[history.length - 1];
-      if (!lastMove.captured) return [];
-      
-      // Generate moves that capture on the square where the last capture happened
-      const moves = game.moves({ verbose: true });
-      return moves
-        .filter(move => move.to === lastMove.to && move.captured !== undefined)
-        .map(move => move.san);
+    generateMoves: (game: Chess, color: Color, boardSense: BoardSense, attackersBySquare: Map<string, {white: number, black: number}>) => {
+      const moves = boardSense.generateFleeingMoves(color, attackersBySquare);
+      return moves.map(move => ({ move, reason: 'to move my piece to safety' }));
+    }
+  },
+  
+  {
+    name: 'Attack undefended piece',
+    description: 'Attack opponent pieces that are undefended',
+    reason: 'to attack an undefended piece',
+    priority: 90,
+    isRelevant: () => true, // Always relevant
+    generateMoves: (game: Chess, color: Color, boardSense: BoardSense, attackersBySquare: Map<string, {white: number, black: number}>) => {
+      const moves = boardSense.generateAttackUndefendedMoves(color, attackersBySquare);
+      return moves.map(move => ({ move, reason: 'to attack an undefended piece' }));
     }
   },
   
   {
     name: 'Defend attacked piece',
     description: 'Defend pieces that are under attack',
-    priority: 90,
+    reason: 'to defend my attacked piece',
+    priority: 85,
     isRelevant: () => true, // Always relevant
-    generateMoves: (game: Chess, color: Color) => {
-      // For now, return all moves (defending is complex to detect)
-      // TODO: Implement proper defense detection using BoardSense
-      return [];
+    generateMoves: (game: Chess, color: Color, boardSense: BoardSense, attackersBySquare: Map<string, {white: number, black: number}>) => {
+      const moves = boardSense.generateDefendingMoves(color, attackersBySquare);
+      return moves.map(move => ({ move, reason: 'to defend my attacked piece' }));
     }
   },
   
@@ -84,132 +89,64 @@ export const MOVE_IDEAS: MoveIdea[] = [
   {
     name: 'Push center pawn',
     description: 'Push d or e pawn toward center',
+    reason: 'to control the center',
     priority: 80,
     isRelevant: (context) => context.phase === GamePhase.OPENING,
-    generateMoves: (game: Chess, color: Color) => {
-      const moves = game.moves({ verbose: true });
-      return moves
-        .filter(move => {
-          const piece = move.piece;
-          const from = move.from;
-          const to = move.to;
-          
-          // Check if it's a pawn move on d or e file
-          if (piece !== 'p') return false;
-          const file = from[0];
-          if (file !== 'd' && file !== 'e') return false;
-          
-          // Check if moving toward center (rank 4 or 5)
-          const toRank = parseInt(to[1]);
-          return toRank === 4 || toRank === 5;
-        })
-        .map(move => move.san);
+    generateMoves: (game: Chess, color: Color, boardSense: BoardSense, attackersBySquare: Map<string, {white: number, black: number}>) => {
+      const moves = boardSense.generatePawnMoves(color, ['d', 'e']);
+      return moves.map(move => ({ move, reason: 'to control the center' }));
     }
   },
   
   {
     name: 'Develop knight',
     description: 'Develop knights toward center',
+    reason: 'to develop my knight',
     priority: 75,
     isRelevant: (context) => context.phase === GamePhase.OPENING,
-    generateMoves: (game: Chess, color: Color) => {
-      const moves = game.moves({ verbose: true });
-      return moves
-        .filter(move => {
-          if (move.piece !== 'n') return false;
-          
-          // Prefer moves to c3, f3, c6, f6 (good knight squares)
-          const to = move.to;
-          const goodSquares = ['c3', 'f3', 'c6', 'f6', 'd2', 'e2', 'd7', 'e7'];
-          return goodSquares.includes(to);
-        })
-        .map(move => move.san);
+    generateMoves: () => {
+      // Hardcoded best knight development squares
+      const moves = ['Nf3', 'Nc3', 'Nf6', 'Nc6'];
+      return moves.map(move => ({ move, reason: 'to develop my knight' }));
     }
   },
   
   {
     name: 'Develop bishop',
     description: 'Develop bishops to active squares',
+    reason: 'to develop my bishop',
     priority: 70,
     isRelevant: (context) => context.phase === GamePhase.OPENING,
-    generateMoves: (game: Chess, color: Color) => {
-      const moves = game.moves({ verbose: true });
-      return moves
-        .filter(move => move.piece === 'b')
-        .map(move => move.san);
+    generateMoves: () => {
+      // Hardcoded best bishop development squares
+      const moves = ['Bb4', 'Bb5', 'Bc4', 'Bc5', 'Bf4', 'Bf5', 'Bg4', 'Bg5'];
+      return moves.map(move => ({ move, reason: 'to develop my bishop' }));
     }
   },
   
   {
     name: 'Castle',
     description: 'Castle to protect king',
-    priority: 85,
+    reason: 'to castle and protect my king',
+    priority: 65,
     isRelevant: (context) => context.phase === GamePhase.OPENING || context.phase === GamePhase.MIDDLEGAME,
-    generateMoves: (game: Chess, color: Color) => {
-      const moves = game.moves({ verbose: true });
-      return moves
-        .filter(move => move.flags.includes('k') || move.flags.includes('q'))
-        .map(move => move.san);
-    }
-  },
-  
-  // Material-based moves
-  {
-    name: 'Seek trades',
-    description: 'Trade pieces when ahead in material',
-    priority: 60,
-    isRelevant: (context, color) => {
-      const ahead = color === 'w' ? context.materialBalance > 2 : context.materialBalance < -2;
-      return ahead;
-    },
-    generateMoves: (game: Chess, color: Color) => {
-      const moves = game.moves({ verbose: true });
-      // Moves that capture (potential trades)
-      return moves
-        .filter(move => move.captured !== undefined)
-        .map(move => move.san);
-    }
-  },
-  
-  {
-    name: 'Avoid trades',
-    description: 'Avoid trading pieces when behind in material',
-    priority: 55,
-    isRelevant: (context, color) => {
-      const behind = color === 'w' ? context.materialBalance < -2 : context.materialBalance > 2;
-      return behind;
-    },
-    generateMoves: (game: Chess, color: Color) => {
-      const moves = game.moves({ verbose: true });
-      // Moves that don't capture (avoid trades)
-      return moves
-        .filter(move => move.captured === undefined)
-        .map(move => move.san);
+    generateMoves: () => {
+      // Hardcoded castling moves
+      const moves = ['O-O', 'O-O-O'];
+      return moves.map(move => ({ move, reason: 'to castle and protect my king' }));
     }
   },
   
   // Endgame moves
   {
-    name: 'Activate king',
-    description: 'Bring king toward center in endgame',
-    priority: 70,
+    name: 'Move King',
+    description: 'Activate king in endgame',
+    reason: 'to activate my king',
+    priority: 60,
     isRelevant: (context) => context.phase === GamePhase.ENDGAME,
-    generateMoves: (game: Chess, color: Color) => {
-      const moves = game.moves({ verbose: true });
-      return moves
-        .filter(move => move.piece === 'k')
-        .map(move => move.san);
-    }
-  },
-  
-  // Fallback: consider all moves
-  {
-    name: 'All legal moves',
-    description: 'Consider all legal moves as fallback',
-    priority: 1,
-    isRelevant: () => true,
-    generateMoves: (game: Chess, color: Color) => {
-      return game.moves();
+    generateMoves: (game: Chess, color: Color, boardSense: BoardSense, attackersBySquare: Map<string, {white: number, black: number}>) => {
+      const moves = boardSense.generateKingMoves(color);
+      return moves.map(move => ({ move, reason: 'to activate my king' }));
     }
   }
 ];

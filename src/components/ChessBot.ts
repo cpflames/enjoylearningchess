@@ -138,6 +138,7 @@ export const BOT_CONFIGS: BotConfig[] = [
   makeBotConfig(4, 4, 10, HARD_STOP_DEPTH, RANKED_MOVE_GEN, MATERIAL_AND_POSITIONAL_STRATEGY),
   makeBotConfig(5, 3, 10, QUIESCE_DEPTH, RANKED_MOVE_GEN, BOARDSENSE_STRATEGY),
   makeBotConfig(6, 3, 10, QUIESCE_DEPTH, GOAL_BASED_MOVE_GEN, BOARDSENSE_STRATEGY),
+  makeBotConfig(7, 4, 10, QUIESCE_DEPTH, GOAL_BASED_MOVE_GEN, BOARDSENSE_STRATEGY),
 ];
 
 export const MAX_BOT_LEVEL = BOT_CONFIGS.length - 1;
@@ -203,13 +204,16 @@ const getMoveMessage = (moveEval: MoveEval, improvement: number, isMaximizing: b
     improvement = -1 * improvement;
   }
 
+  const moveStr = moveEval.getMoveString();
+  const reason = moveEval.moveReason ? ` ${moveEval.moveReason}` : '';
+
   let msg = "";
   if (improvement > 0) {
-    msg += `I chose ${moveEval.getMoveString()} to win ${improvement} points.`
+    msg += `I chose ${moveStr}${reason} to win ${improvement} points.`
   } else if (improvement < 0) {
-    msg += `Hmm... it seems my least bad option is ${moveEval.getMoveString()} to lose only ${-improvement} points.`
+    msg += `Hmm... it seems my least bad option is ${moveStr}${reason} to lose only ${-improvement} points.`
   } else {
-    msg += `I don't see any move to gain points, so I'll just play ${moveEval.getMoveString()}.`
+    msg += `I don't see any move to gain points, so I'll just play ${moveStr}${reason}.`
   }
   return msg;
 }

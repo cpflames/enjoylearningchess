@@ -4,16 +4,22 @@ import { MoveEval, GLOBAL_EVAL_COUNT } from './MoveEval';
 
 describe('ChessBot', () => {
   test('Level 5 bot config exists', () => {
-    expect(BOT_CONFIGS.length).toBe(7);
+    expect(BOT_CONFIGS.length).toBe(8);
     expect(BOT_CONFIGS[5]).toBeDefined();
     expect(BOT_CONFIGS[5].botName).toContain('Level 5');
     expect(BOT_CONFIGS[5].botName).toContain('BoardSense Enhanced');
-    expect(BOT_CONFIGS[5].depth).toBe(3);
-    expect(BOT_CONFIGS[5].breadth).toBe(10);
   });
 
   test('MAX_BOT_LEVEL is updated', () => {
-    expect(MAX_BOT_LEVEL).toBe(6);
+    expect(MAX_BOT_LEVEL).toBe(7);
+  });
+
+  test('Level 7 bot has depth 4', () => {
+    expect(BOT_CONFIGS[7]).toBeDefined();
+    expect(BOT_CONFIGS[7].depth).toBe(4);
+    expect(BOT_CONFIGS[7].botName).toContain('Level 7');
+    expect(BOT_CONFIGS[7].botName).toContain('BoardSense Enhanced');
+    expect(BOT_CONFIGS[7].botName).toContain('Goal-Based');
   });
 
   test('BoardSense strategy can evaluate a position', () => {

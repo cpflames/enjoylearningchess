@@ -2,6 +2,7 @@ import { Chess } from 'chess.js';
 import type { Color } from 'chess.js';
 import { BotConfig } from './ChessBot';
 import { GamePhase, type GameContext, type MoveIdea, MOVE_IDEAS } from './MoveIdeas';
+import { BoardSense } from './BoardSense';
 
 export { GamePhase } from './MoveIdeas';
 export type { GameContext, MoveIdea } from './MoveIdeas';
@@ -12,12 +13,14 @@ export class MoveEval {
   // Set during construction
   private game: Chess;
   public move: string;
+  public moveReason?: string; // Reason for this move (e.g., "to develop my knight")
   public logs: string;
   public botConfig: BotConfig;
   // Set during post-construction
   public lineString: string = '';
   public materialPoints: {white: number, black: number};
   public positionalPoints: {white: number, black: number};
+  public attackersBySquare: Map<string, {white: number, black: number}>; // Square -> attack counts
   public initialScore: number; // score of the initial state
   // Set during evaluation
   public score: number; // score of the bestMove / finalState line
@@ -26,10 +29,11 @@ export class MoveEval {
   public bestMove: MoveEval;
   public finalState: MoveEval;
 
-  private constructor(game: Chess, botConfig: BotConfig, move: string) {
+  private constructor(game: Chess, botConfig: BotConfig, move: string, moveReason?: string) {
     this.game = game;
     this.botConfig = botConfig;
     this.move = move;
+    this.moveReason = moveReason;
     this.logs = '';
   }
 
@@ -38,19 +42,38 @@ export class MoveEval {
     const moveEval = new MoveEval(game, botConfig, '');
     moveEval.findMaterialPoints();
     moveEval.findPositionalPoints();
+
+    // Compute attackers for all squares
+    const boardSense = new BoardSense(game);
+    moveEval.attackersBySquare = boardSense.computeAllAttackers();
+
     moveEval.lineString = '';
     moveEval.initialScore = botConfig.evalStrategy.evalFunc(moveEval);
     return moveEval;
   }
 
   // This will now make the move and undo the move, because it's used for initial consideration of moves.
-  public static fromParent(parent: MoveEval, move: string): MoveEval {
+  // Returns null if the move is illegal
+  public static fromParent(parent: MoveEval, move: string, moveReason?: string): MoveEval | null {
     const game = parent.game;
-    game.move(move); // make the move
-    const moveEval = new MoveEval(game, parent.botConfig, move);
+
+    // Try to make the move - if it's illegal, return null
+    try {
+      game.move(move); // make the move
+    } catch (e) {
+      // Move is illegal, skip it
+      return null;
+    }
+
+    const moveEval = new MoveEval(game, parent.botConfig, move, moveReason);
     // Use spread operator to create a new object with the same properties as the parent's materialPoints and positionalPoints
     moveEval.materialPoints = { ...parent.materialPoints };
     moveEval.positionalPoints = { ...parent.positionalPoints };
+
+    // Inherit and update attackersBySquare
+    const boardSense = new BoardSense(game);
+    moveEval.attackersBySquare = boardSense.updateAttackersForMove(parent.attackersBySquare, move);
+
     moveEval.updatePointsForMove(move);
     moveEval.initialScore = moveEval.botConfig.evalStrategy.evalFunc(moveEval);
     moveEval.lineString = `${parent.lineString} ${move}`;
@@ -146,11 +169,11 @@ export class MoveEval {
   // encodes that moving to the middle is better, for all pieces.
   private positionalValuesArray: number[][] = [
     [0, 0, 0, 1, 1, 0, 0, 0],
-    [0, 1, 1, 1, 1, 1, 1, 0], 
+    [0, 1, 1, 1, 1, 1, 1, 0],
     [0, 1, 4, 4, 4, 4, 1, 0],
-    [0, 2, 5, 9, 9, 5, 2, 0], 
     [0, 2, 5, 9, 9, 5, 2, 0],
-    [0, 1, 4, 4, 4, 4, 1, 0], 
+    [0, 2, 5, 9, 9, 5, 2, 0],
+    [0, 1, 4, 4, 4, 4, 1, 0],
     [0, 1, 1, 1, 1, 1, 1, 0],
     [0, 0, 0, 1, 1, 0, 0, 0],
   ]
@@ -183,7 +206,7 @@ export class MoveEval {
   }
 
   getFinalStateString(): string {
-    return this.finalState.lineString;
+    return this.finalState?.lineString || this.lineString;
   }
 
   nextTurn(): Color {
@@ -206,7 +229,7 @@ export class MoveEval {
     const start = performance.now();
     if (this.game.isGameOver()) {
       if (this.game.isCheckmate()) {
-        if (this.game.turn() === 'w') { 
+        if (this.game.turn() === 'w') {
           this.materialPoints = {white: -50000, black: 50000};
           return this.materialPoints;
         } else {
@@ -252,13 +275,13 @@ export class MoveEval {
    * @param color - 'w' for white or 'b' for black
    * @returns Total positional points for that color
    */
-  findPositionalPoints(): {white: number, black: number} {  
+  findPositionalPoints(): {white: number, black: number} {
     const start = performance.now();
     let whitePoints = 0;
     let blackPoints = 0;
     const board = this.game.board();
     for (const row of board) {
-      for (const piece of row) {  
+      for (const piece of row) {
         if (piece) {
           const value = this.positionalValues(piece.square);
           if (piece.color === 'w') {
@@ -287,11 +310,11 @@ export class MoveEval {
       const start = performance.now();
       GLOBAL_EVAL_COUNT++;
       const strategy = this.botConfig.evalStrategy;
-      
+
       // Generate candidate moves using the configured strategy
       const color = this.game.turn();
       const candidateMoves = this.botConfig.moveGenStrategy.generateCandidates(this.game, color, this);
-      
+
       if (depth === 0 || candidateMoves.length === 0) {
         this.finalState = this;
         this.score = strategy.evalFunc(this);
@@ -300,10 +323,22 @@ export class MoveEval {
       const flip = isMaximizing ? 1 : -1;
       const numMovesToConsider = this.botConfig.breadth;
 
-      this.possibleMoves = candidateMoves.map(move => MoveEval.fromParent(this, move));
+      this.possibleMoves = candidateMoves
+        .map(move => {
+          const reason = this.getMoveReason(move);
+          return MoveEval.fromParent(this, move, reason);
+        })
+        .filter((moveEval): moveEval is MoveEval => moveEval !== null); // Filter out illegal moves
       this.possibleMoves.sort((a, b) => (b.initialScore - a.initialScore) * flip);
       // Take up to breadth moves, but don't pad if fewer candidates exist
       this.topMoves = this.possibleMoves.slice(0, Math.min(numMovesToConsider, this.possibleMoves.length));
+
+      // If all moves were filtered out as illegal, treat as terminal position
+      if (this.topMoves.length === 0) {
+        this.finalState = this;
+        this.score = strategy.evalFunc(this);
+        return this;
+      }
 
       this.score = isMaximizing ? -Infinity : Infinity;
       for (const moveEval of this.topMoves) {
@@ -361,7 +396,7 @@ export class MoveEval {
     // The move has already been made, so check the last move from history
     const history = this.game.history({ verbose: true });
     if (history.length === 0) return false;
-    
+
     const lastMove = history[history.length - 1];
     return lastMove.captured !== undefined;
   }
@@ -404,21 +439,19 @@ export class MoveEval {
       const moveNumber = Math.floor(this.game.history().length / 2) + 1;
       const materialBalance = this.materialPointsAheadForWhite();
 
-      // Determine phase based on move number and material
+      // Determine phase based on material first, then move number
       let phase: GamePhase;
-      if (moveNumber <= 10) {
+      const whiteMaterial = this.materialPoints.white;
+      const blackMaterial = this.materialPoints.black;
+      const totalMaterial = whiteMaterial + blackMaterial;
+
+      // Check material first - if very low material, it's endgame regardless of move number
+      if (totalMaterial < 20) { // Less than ~2 rooks + 2 knights per side
+        phase = GamePhase.ENDGAME;
+      } else if (moveNumber <= 10) {
         phase = GamePhase.OPENING;
       } else {
-        // Check if we're in endgame (queens traded or low material)
-        const whiteMaterial = this.materialPoints.white;
-        const blackMaterial = this.materialPoints.black;
-        const totalMaterial = whiteMaterial + blackMaterial;
-
-        if (totalMaterial < 20) { // Less than ~2 rooks + 2 knights per side
-          phase = GamePhase.ENDGAME;
-        } else {
-          phase = GamePhase.MIDDLEGAME;
-        }
+        phase = GamePhase.MIDDLEGAME;
       }
 
       return { moveNumber, materialBalance, phase };
@@ -430,7 +463,10 @@ export class MoveEval {
      */
     public generateCandidateMoves(color: Color): string[] {
       const context = this.buildGameContext();
-      const candidates = new Set<string>();
+      const candidatesMap = new Map<string, string>(); // move -> reason
+
+      // Create BoardSense instance for move generation
+      const boardSense = new BoardSense(this.game);
 
       // Filter to relevant ideas and sort by priority
       const relevantIdeas = MOVE_IDEAS
@@ -439,15 +475,45 @@ export class MoveEval {
 
       // Generate moves from each relevant idea
       for (const idea of relevantIdeas) {
-        const moves = idea.generateMoves(this.game, color);
-        moves.forEach(move => candidates.add(move));
+        const moveReasons = idea.generateMoves(this.game, color, boardSense, this.attackersBySquare);
+        moveReasons.forEach(({move, reason}) => {
+          if (!candidatesMap.has(move)) {
+            candidatesMap.set(move, reason);
+          }
+        });
       }
 
       // If no candidates generated, fall back to all legal moves
-      if (candidates.size === 0) {
+      if (candidatesMap.size === 0) {
         return this.game.moves();
       }
 
-      return Array.from(candidates);
+      return Array.from(candidatesMap.keys());
+    }
+
+    /**
+     * Gets the reason for a specific move
+     * @public
+     */
+    public getMoveReason(move: string): string | undefined {
+      const context = this.buildGameContext();
+      const color = this.game.turn();
+      const boardSense = new BoardSense(this.game);
+
+      // Filter to relevant ideas and sort by priority
+      const relevantIdeas = MOVE_IDEAS
+        .filter(idea => idea.isRelevant(context, color))
+        .sort((a, b) => b.priority - a.priority);
+
+      // Find the first idea that generates this move
+      for (const idea of relevantIdeas) {
+        const moveReasons = idea.generateMoves(this.game, color, boardSense, this.attackersBySquare);
+        const found = moveReasons.find(mr => mr.move === move);
+        if (found) {
+          return found.reason;
+        }
+      }
+
+      return undefined;
     }
 }
