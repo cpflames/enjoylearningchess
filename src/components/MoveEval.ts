@@ -13,6 +13,7 @@ export class MoveEval {
   // Set during construction
   private game: Chess;
   public move: string;
+  public moveReason?: string; // Reason for this move (e.g., "to develop my knight")
   public logs: string;
   public botConfig: BotConfig;
   // Set during post-construction
@@ -28,10 +29,11 @@ export class MoveEval {
   public bestMove: MoveEval;
   public finalState: MoveEval;
 
-  private constructor(game: Chess, botConfig: BotConfig, move: string) {
+  private constructor(game: Chess, botConfig: BotConfig, move: string, moveReason?: string) {
     this.game = game;
     this.botConfig = botConfig;
     this.move = move;
+    this.moveReason = moveReason;
     this.logs = '';
   }
 
@@ -52,7 +54,7 @@ export class MoveEval {
 
   // This will now make the move and undo the move, because it's used for initial consideration of moves.
   // Returns null if the move is illegal
-  public static fromParent(parent: MoveEval, move: string): MoveEval | null {
+  public static fromParent(parent: MoveEval, move: string, moveReason?: string): MoveEval | null {
     const game = parent.game;
 
     // Try to make the move - if it's illegal, return null
@@ -63,7 +65,7 @@ export class MoveEval {
       return null;
     }
 
-    const moveEval = new MoveEval(game, parent.botConfig, move);
+    const moveEval = new MoveEval(game, parent.botConfig, move, moveReason);
     // Use spread operator to create a new object with the same properties as the parent's materialPoints and positionalPoints
     moveEval.materialPoints = { ...parent.materialPoints };
     moveEval.positionalPoints = { ...parent.positionalPoints };
@@ -322,7 +324,10 @@ export class MoveEval {
       const numMovesToConsider = this.botConfig.breadth;
 
       this.possibleMoves = candidateMoves
-        .map(move => MoveEval.fromParent(this, move))
+        .map(move => {
+          const reason = this.getMoveReason(move);
+          return MoveEval.fromParent(this, move, reason);
+        })
         .filter((moveEval): moveEval is MoveEval => moveEval !== null); // Filter out illegal moves
       this.possibleMoves.sort((a, b) => (b.initialScore - a.initialScore) * flip);
       // Take up to breadth moves, but don't pad if fewer candidates exist
@@ -458,7 +463,7 @@ export class MoveEval {
      */
     public generateCandidateMoves(color: Color): string[] {
       const context = this.buildGameContext();
-      const candidates = new Set<string>();
+      const candidatesMap = new Map<string, string>(); // move -> reason
 
       // Create BoardSense instance for move generation
       const boardSense = new BoardSense(this.game);
@@ -470,15 +475,45 @@ export class MoveEval {
 
       // Generate moves from each relevant idea
       for (const idea of relevantIdeas) {
-        const moves = idea.generateMoves(this.game, color, boardSense, this.attackersBySquare);
-        moves.forEach(move => candidates.add(move));
+        const moveReasons = idea.generateMoves(this.game, color, boardSense, this.attackersBySquare);
+        moveReasons.forEach(({move, reason}) => {
+          if (!candidatesMap.has(move)) {
+            candidatesMap.set(move, reason);
+          }
+        });
       }
 
       // If no candidates generated, fall back to all legal moves
-      if (candidates.size === 0) {
+      if (candidatesMap.size === 0) {
         return this.game.moves();
       }
 
-      return Array.from(candidates);
+      return Array.from(candidatesMap.keys());
+    }
+
+    /**
+     * Gets the reason for a specific move
+     * @public
+     */
+    public getMoveReason(move: string): string | undefined {
+      const context = this.buildGameContext();
+      const color = this.game.turn();
+      const boardSense = new BoardSense(this.game);
+
+      // Filter to relevant ideas and sort by priority
+      const relevantIdeas = MOVE_IDEAS
+        .filter(idea => idea.isRelevant(context, color))
+        .sort((a, b) => b.priority - a.priority);
+
+      // Find the first idea that generates this move
+      for (const idea of relevantIdeas) {
+        const moveReasons = idea.generateMoves(this.game, color, boardSense, this.attackersBySquare);
+        const found = moveReasons.find(mr => mr.move === move);
+        if (found) {
+          return found.reason;
+        }
+      }
+
+      return undefined;
     }
 }

@@ -27,6 +27,8 @@ const QUEEN_DIRECTIONS: [number, number][] = [
   ...BISHOP_DIRECTIONS
 ];
 
+const ALL_FILES = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h'];
+
 /**
  * Global cache shared across all BoardSense instances
  * Key: FEN string, Value: Map of cache keys to cached values
@@ -1689,7 +1691,7 @@ export class BoardSense {
    * @param files - Array of file letters (e.g., ['d', 'e'])
    * @returns Array of SAN notation pawn moves
    */
-  public generatePawnMoves(color: Color, files: string[]): string[] {
+  public generatePawnMoves(color: Color, files: string[] = ALL_FILES): string[] {
     const pawnMoves: string[] = [];
     const pawns = this.getPiecesOfType(color, 'p');
 
