@@ -1,7 +1,8 @@
 import { Chess } from 'chess.js';
 import type { Color } from 'chess.js';
 import { BotConfig } from './ChessBot';
-import { GamePhase, type GameContext, type MoveIdea, MOVE_IDEAS } from './MoveIdeas';
+import { GamePhase, MOVE_IDEAS } from './MoveIdeas';
+import type { GameContext, MoveIdea } from './MoveIdeas';
 import { BoardSense } from './BoardSense';
 
 export { GamePhase } from './MoveIdeas';
