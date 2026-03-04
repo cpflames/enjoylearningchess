@@ -1,8 +1,10 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { useSearchParams } from 'react-router-dom';
-import Chessboard from 'chessboardjsx';
+import { Chessground as ChessgroundApi } from 'chessground';
 import { Chess } from 'chess.js';
 import { botMove, BotLevel, MAX_BOT_LEVEL } from './ChessBot';
+import 'chessground/assets/chessground.base.css';
+import 'chessground/assets/chessground.cburnett.css';
 import './ChessGame.css';
 
 const game = new Chess(); // shared game instance
@@ -22,6 +24,10 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
   const [logsMessages, setLogsMessages] = useState<string[]>([]);
   const [chatExpanded, setChatExpanded] = useState<boolean>(CHAT_EXPANDED_DEFAULT);
   const [logsExpanded, setLogsExpanded] = useState<boolean>(LOGS_EXPANDED_DEFAULT);
+  const [boardOrientation, setBoardOrientation] = useState<'white' | 'black'>('white');
+  
+  const boardRef = useRef<HTMLDivElement>(null);
+  const chessgroundRef = useRef<ReturnType<typeof ChessgroundApi> | null>(null);
   
   // Initialize botLevel from URL parameter if present, otherwise use initialBotLevel prop
   const getInitialBotLevel = (): BotLevel => {
@@ -59,47 +65,20 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
     scrollLogsToBottom();
   }, [logsMessages]);
 
-  // Function to clear all red squares
-  const clearRedSquares = () => {
-    const squares = document.querySelectorAll('[data-squareid].square-red');
-    squares.forEach(square => {
-      square.classList.remove('square-red');
+  // Convert chess.js moves to Chessground dests format
+  const toDests = () => {
+    const dests = new Map();
+    const moves = game.moves({ verbose: true });
+    
+    moves.forEach(move => {
+      if (!dests.has(move.from)) {
+        dests.set(move.from, []);
+      }
+      dests.get(move.from).push(move.to);
     });
+    
+    return dests;
   };
-
-  // Set up right-click event listeners on chessboard squares
-  useEffect(() => {
-    const handleContextMenu = (e: Event) => {
-      const target = e.target as HTMLElement;
-      
-      // Check if the clicked element or any parent is a chess square
-      // chessboardjsx uses data-squareid attribute for squares
-      const square = target.closest('[data-squareid]') as HTMLElement;
-      
-      if (square) {
-        e.preventDefault();
-        e.stopPropagation();
-        square.classList.toggle('square-red');
-      }
-    };
-
-    // Wait a bit for the board to render, then set up the listener
-    const timeoutId = setTimeout(() => {
-      const boardElement = document.querySelector('#board');
-      if (boardElement) {
-        // Use event delegation on the board element (like jQuery's .on())
-        boardElement.addEventListener('contextmenu', handleContextMenu);
-      }
-    }, 50);
-
-    return () => {
-      clearTimeout(timeoutId);
-      const boardElement = document.querySelector('#board');
-      if (boardElement) {
-        boardElement.removeEventListener('contextmenu', handleContextMenu);
-      }
-    };
-  }, [fen]); // Re-attach when board updates
 
   const updateMoveHistory = () => {
     setMoveHistory(game.history());
@@ -126,7 +105,6 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
       game.move(moveString);
       setFen(game.fen());
       updateMoveHistory();
-      clearRedSquares(); // Clear red squares after bot move
       setChatMessages(prev => [...prev, chatMessage]);
       setLogsMessages(prev => [...prev, logsMessage]);
       checkGameEnd();
@@ -147,7 +125,6 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
         setFen(game.fen());
         setPendingPromotion(null);
         updateMoveHistory();
-        clearRedSquares(); // Clear red squares after move
         
         // Check for game end after player move
         checkGameEnd();
@@ -165,39 +142,32 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
     }
   };
 
-  const handleMove = ({
-    sourceSquare,
-    targetSquare
-  }: {
-    sourceSquare: string;
-    targetSquare: string;
-  }) => {
+  const handleMove = (orig: string, dest: string) => {
     // Only allow white pieces to move (player's turn)
-    const piece = game.get(sourceSquare as any);
-    if (piece && piece.color !== 'w') {
-      return 'snapback';
+    const piece = game.get(orig as any);
+    if (!piece || piece.color !== 'w') {
+      return;
     }
 
     // Check if this is a pawn promotion (white pawn moving to 8th rank)
-    const isPromotion = piece?.type === 'p' && targetSquare[1] === '8';
+    const isPromotion = piece?.type === 'p' && dest[1] === '8';
 
     if (isPromotion) {
       // Store the pending promotion move
-      setPendingPromotion({ from: sourceSquare, to: targetSquare });
-      return 'snapback'; // Temporarily revert, will complete after selection
+      setPendingPromotion({ from: orig, to: dest });
+      return;
     }
 
     try {
       const move = game.move({
-        from: sourceSquare,
-        to: targetSquare,
+        from: orig,
+        to: dest,
         promotion: 'q' // default, but won't be used for non-promotion moves
       });
 
       if (move) {
         setFen(game.fen());
         updateMoveHistory();
-        clearRedSquares(); // Clear red squares after move
         
         // Check for game end after player move
         checkGameEnd();
@@ -209,15 +179,66 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
             makeBotMove();
           }, 300);
         }
-      } else {
-        // Invalid move - return 'snapback' to revert the piece
-        return 'snapback';
       }
     } catch (error) {
-      // Illegal move - return 'snapback' to revert the piece
-      return 'snapback';
+      // Illegal move - Chessground will handle the snapback
+      setFen(game.fen()); // Reset to current position
     }
   };
+
+  const flipBoard = () => {
+    setBoardOrientation(prev => prev === 'white' ? 'black' : 'white');
+  };
+
+  // Initialize Chessground
+  useEffect(() => {
+    if (boardRef.current && !chessgroundRef.current) {
+      chessgroundRef.current = ChessgroundApi(boardRef.current, {
+        fen: fen,
+        orientation: boardOrientation,
+        turnColor: game.turn() === 'w' ? 'white' : 'black',
+        movable: {
+          free: false,
+          color: 'white',
+          dests: toDests(),
+          showDests: true,
+          events: {
+            after: handleMove
+          }
+        },
+        premovable: {
+          enabled: true
+        },
+        drawable: {
+          enabled: true,
+          visible: true
+        },
+        animation: {
+          enabled: true,
+          duration: 200
+        }
+      });
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
+  // Update board when fen or orientation changes
+  useEffect(() => {
+    if (chessgroundRef.current) {
+      chessgroundRef.current.set({
+        fen: fen,
+        orientation: boardOrientation,
+        turnColor: game.turn() === 'w' ? 'white' : 'black',
+        movable: {
+          free: false,
+          color: 'white',
+          dests: toDests(),
+          showDests: true
+        }
+      });
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [fen, boardOrientation]);
 
   // Group moves into pairs (white, black)
   const movePairs: Array<{ white: string | null; black: string | null; moveNumber: number }> = [];
@@ -267,28 +288,206 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
   };
 
   return (
-    <div style={{ paddingLeft: '20px' }}>
-      <div style={{ display: 'flex', gap: '20px' }}>
-        <div>
-          <div style={{ float: 'left' }}>
-          <h2>Play Chess</h2>
+    <div className="chess-game-container">
+      {/* Row 1: Play Chess + Bot Chat */}
+      <div className="play-chess-section">
+        <div style={{ marginBottom: '10px', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+          <h2 style={{ margin: 0 }}>Play Chess</h2>
+          <div style={{ display: 'flex', gap: '10px', alignItems: 'center' }}>
+            <label htmlFor="bot-level" style={{ fontSize: '16px' }}>Bot Level:</label>
+            <select 
+              id="bot-level" 
+              value={botLevel}
+              onChange={handleBotLevelChange}
+              style={{ padding: '8px 12px', fontSize: '16px', borderRadius: '4px', border: '1px solid rgb(204, 204, 204)', cursor: 'pointer' }}
+            >
+              {Array.from({ length: MAX_BOT_LEVEL + 1 }, (_, i) => (
+                <option key={i} value={i}>{i}</option>
+              ))}
+            </select>
+            <button
+              onClick={flipBoard}
+              title="Flip Board"
+              style={{
+                padding: '8px',
+                fontSize: '16px',
+                cursor: 'pointer',
+                backgroundColor: '#555',
+                color: 'white',
+                border: 'none',
+                borderRadius: '4px',
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center'
+              }}
+            >
+              <svg 
+                className="flip-board-icon"
+                viewBox="0 0 24 24" 
+                fill="none" 
+                stroke="currentColor" 
+                strokeWidth="2" 
+                strokeLinecap="round" 
+                strokeLinejoin="round"
+              >
+                <polyline points="1 4 1 10 7 10"></polyline>
+                <polyline points="23 20 23 14 17 14"></polyline>
+                <path d="M20.49 9A9 9 0 0 0 5.64 5.64L1 10m22 4l-4.64 4.36A9 9 0 0 1 3.51 15"></path>
+              </svg>
+            </button>
           </div>
-           <div style={{ float: 'right', padding: '14px' }}>
-             <label htmlFor="bot-level" style={{ marginRight: '10px', fontSize: '16px' }}>Bot Level:</label>
-             <select 
-               id="bot-level" 
-               value={botLevel}
-               onChange={handleBotLevelChange}
-               style={{ padding: '8px 12px', fontSize: '16px', borderRadius: '4px', border: '1px solid rgb(204, 204, 204)', cursor: 'pointer' }}
-             >
-               {Array.from({ length: MAX_BOT_LEVEL + 1 }, (_, i) => (
-                 <option key={i} value={i}>{i}</option>
-               ))}
-             </select>
-           </div>
-          <div id="board">
-            <Chessboard position={fen} onDrop={handleMove} />
+        </div>
+        <div 
+          ref={boardRef}
+          style={{ width: '512px', height: '512px' }}
+        />
+      </div>
+
+      <div className={`bot-chat-section ${chatExpanded ? 'expanded' : ''}`}>
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: chatExpanded ? '15px' : '0' }}>
+          <h3 style={{ marginTop: 0, marginBottom: 0 }}>Bot Chat</h3>
+          <button
+            onClick={() => setChatExpanded(!chatExpanded)}
+            style={{
+              padding: '6px 12px',
+              fontSize: '14px',
+              cursor: 'pointer',
+              backgroundColor: '#555',
+              color: 'white',
+              border: 'none',
+              borderRadius: '4px'
+            }}
+          >
+            {chatExpanded ? 'Collapse' : 'Expand'}
+          </button>
+        </div>
+        {chatExpanded && (
+          <div 
+            ref={chatContainerRef}
+            className="bot-chat-content"
+          >
+            {chatMessages.length === 0 ? (
+              <div style={{ color: '#999', fontStyle: 'italic' }}>
+                Waiting for bot to make a move...
+              </div>
+            ) : (
+              chatMessages.map((message, index) => (
+                <div
+                  key={index}
+                  style={{
+                    marginBottom: '12px',
+                    padding: '8px',
+                    backgroundColor: '#e8f4f8',
+                    borderRadius: '4px',
+                    fontSize: '14px',
+                    lineHeight: '1.4',
+                    whiteSpace: 'pre-line'
+                  }}
+                >
+                  {message}
+                </div>
+              ))
+            )}
           </div>
+        )}
+      </div>
+
+      {/* Line break */}
+      <div style={{ flexBasis: "100%", height: 0 }} />
+
+      {/* Row 2: Moves + Logs */}
+      <div className="moves-section">
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '15px' }}>
+          <h3 style={{ marginTop: 0, marginBottom: 0 }}>Moves</h3>
+          <button
+            onClick={exportPGN}
+            style={{
+              padding: '6px 12px',
+              fontSize: '14px',
+              cursor: 'pointer',
+              backgroundColor: '#555',
+              color: 'white',
+              border: 'none',
+              borderRadius: '4px'
+            }}
+          >
+            Copy PGN
+          </button>
+        </div>
+        <table style={{ width: '100%', borderCollapse: 'collapse' }}>
+          <thead>
+            <tr style={{ borderBottom: '2px solid #ddd' }}>
+              <th style={{ textAlign: 'left', padding: '8px', width: '40px' }}>#</th>
+              <th style={{ textAlign: 'left', padding: '8px' }}>White</th>
+              <th style={{ textAlign: 'left', padding: '8px' }}>Black</th>
+            </tr>
+          </thead>
+          <tbody>
+            {movePairs.map((pair) => (
+              <tr key={pair.moveNumber} style={{ borderBottom: '1px solid #eee' }}>
+                <td style={{ padding: '8px', color: '#666' }}>{pair.moveNumber}.</td>
+                <td style={{ padding: '8px' }}>{pair.white || '-'}</td>
+                <td style={{ padding: '8px' }}>{pair.black || '-'}</td>
+              </tr>
+            ))}
+            {movePairs.length === 0 && (
+              <tr>
+                <td colSpan={3} style={{ padding: '8px', color: '#999', textAlign: 'center' }}>
+                  No moves yet
+                </td>
+              </tr>
+            )}
+          </tbody>
+        </table>
+      </div>
+
+      <div className={`logs-section ${logsExpanded ? 'expanded' : ''}`}>
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: logsExpanded ? '15px' : '0' }}>
+          <h3 style={{ marginTop: 0, marginBottom: 0 }}>Logs</h3>
+          <button
+            onClick={() => setLogsExpanded(!logsExpanded)}
+            style={{
+              padding: '6px 12px',
+              fontSize: '14px',
+              cursor: 'pointer',
+              backgroundColor: '#555',
+              color: 'white',
+              border: 'none',
+              borderRadius: '4px'
+            }}
+          >
+            {logsExpanded ? 'Collapse' : 'Expand'}
+          </button>
+        </div>
+        {logsExpanded && (
+          <div 
+            ref={logsContainerRef}
+            className="logs-content"
+          >
+            {logsMessages.length === 0 ? (
+              <div style={{ color: '#999', fontStyle: 'italic' }}>
+                No logs yet...
+              </div>
+            ) : (
+              logsMessages.map((message, index) => (
+                <div
+                  key={index}
+                  style={{
+                    marginBottom: '8px',
+                    padding: '4px 8px',
+                    backgroundColor: '#f9f9f9',
+                    borderRadius: '2px'
+                  }}
+                >
+                  {message}
+                </div>
+              ))
+            )}
+          </div>
+        )}
+      </div>
+
+      {/* Promotion dialog */}
       {pendingPromotion && (
         <div style={{
           position: 'fixed',
@@ -364,188 +563,6 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
           </div>
         </div>
       )}
-      </div>
-      <div style={{
-        minWidth: '200px',
-        backgroundColor: '#f5f5f5',
-        padding: '15px',
-        borderRadius: '8px',
-        height: '600px',
-        overflowY: 'auto'
-      }}>
-        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '15px' }}>
-          <h3 style={{ marginTop: 0, marginBottom: 0 }}>Moves</h3>
-          <button
-            onClick={exportPGN}
-            style={{
-              padding: '6px 12px',
-              fontSize: '14px',
-              cursor: 'pointer',
-              backgroundColor: '#555',
-              color: 'white',
-              border: 'none',
-              borderRadius: '4px'
-            }}
-          >
-            Copy PGN
-          </button>
-        </div>
-        <table style={{ width: '100%', borderCollapse: 'collapse' }}>
-          <thead>
-            <tr style={{ borderBottom: '2px solid #ddd' }}>
-              <th style={{ textAlign: 'left', padding: '8px', width: '40px' }}>#</th>
-              <th style={{ textAlign: 'left', padding: '8px' }}>White</th>
-              <th style={{ textAlign: 'left', padding: '8px' }}>Black</th>
-            </tr>
-          </thead>
-          <tbody>
-            {movePairs.map((pair) => (
-              <tr key={pair.moveNumber} style={{ borderBottom: '1px solid #eee' }}>
-                <td style={{ padding: '8px', color: '#666' }}>{pair.moveNumber}.</td>
-                <td style={{ padding: '8px' }}>{pair.white || '-'}</td>
-                <td style={{ padding: '8px' }}>{pair.black || '-'}</td>
-              </tr>
-            ))}
-            {movePairs.length === 0 && (
-              <tr>
-                <td colSpan={3} style={{ padding: '8px', color: '#999', textAlign: 'center' }}>
-                  No moves yet
-                </td>
-              </tr>
-            )}
-          </tbody>
-        </table>
-      </div>
-      <div style={{
-        width: '400px',
-        backgroundColor: '#f5f5f5',
-        padding: '15px',
-        borderRadius: '8px',
-        height: chatExpanded ? '600px' : 'auto',
-        display: 'flex',
-        flexDirection: 'column'
-      }}>
-        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: chatExpanded ? '15px' : '0' }}>
-          <h3 style={{ marginTop: 0, marginBottom: 0 }}>Bot Chat</h3>
-          <button
-            onClick={() => setChatExpanded(!chatExpanded)}
-            style={{
-              padding: '6px 12px',
-              fontSize: '14px',
-              cursor: 'pointer',
-              backgroundColor: '#555',
-              color: 'white',
-              border: 'none',
-              borderRadius: '4px'
-            }}
-          >
-            {chatExpanded ? 'Collapse' : 'Expand'}
-          </button>
-        </div>
-        {chatExpanded && (
-          <div 
-            ref={chatContainerRef}
-            style={{
-              flex: 1,
-              overflowY: 'auto',
-              backgroundColor: 'white',
-              padding: '10px',
-              borderRadius: '4px',
-              minHeight: '400px',
-              border: '1px solid #ddd'
-            }}
-          >
-            {chatMessages.length === 0 ? (
-              <div style={{ color: '#999', fontStyle: 'italic' }}>
-                Waiting for bot to make a move...
-              </div>
-            ) : (
-              chatMessages.map((message, index) => (
-                <div
-                  key={index}
-                  style={{
-                    marginBottom: '12px',
-                    padding: '8px',
-                    backgroundColor: '#e8f4f8',
-                    borderRadius: '4px',
-                    fontSize: '14px',
-                    lineHeight: '1.4',
-                    whiteSpace: 'pre-line'
-                  }}
-                >
-                  {message}
-                </div>
-              ))
-            )}
-          </div>
-        )}
-      </div>
-      </div>
-      <div style={{
-        marginTop: '20px',
-        width: '1227px',
-        backgroundColor: '#f5f5f5',
-        padding: '15px',
-        borderRadius: '8px',
-        height: logsExpanded ? '700px' : 'auto',
-        display: 'flex',
-        flexDirection: 'column',
-        border: '1px solid #ddd'
-      }}>
-        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: logsExpanded ? '15px' : '0' }}>
-          <h3 style={{ marginTop: 0, marginBottom: 0 }}>Logs</h3>
-          <button
-            onClick={() => setLogsExpanded(!logsExpanded)}
-            style={{
-              padding: '6px 12px',
-              fontSize: '14px',
-              cursor: 'pointer',
-              backgroundColor: '#555',
-              color: 'white',
-              border: 'none',
-              borderRadius: '4px'
-            }}
-          >
-            {logsExpanded ? 'Collapse' : 'Expand'}
-          </button>
-        </div>
-        {logsExpanded && (
-          <div 
-            ref={logsContainerRef}
-            style={{
-              flex: 1,
-              overflowY: 'auto',
-              backgroundColor: 'white',
-              padding: '10px',
-              borderRadius: '4px',
-              fontFamily: 'monospace',
-              fontSize: '12px',
-              lineHeight: '1.6',
-              whiteSpace: 'pre-wrap'
-            }}
-          >
-            {logsMessages.length === 0 ? (
-              <div style={{ color: '#999', fontStyle: 'italic' }}>
-                No logs yet...
-              </div>
-            ) : (
-              logsMessages.map((message, index) => (
-                <div
-                  key={index}
-                  style={{
-                    marginBottom: '8px',
-                    padding: '4px 8px',
-                    backgroundColor: '#f9f9f9',
-                    borderRadius: '2px'
-                  }}
-                >
-                  {message}
-                </div>
-              ))
-            )}
-          </div>
-        )}
-      </div>
     </div>
   );
 }
