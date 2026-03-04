@@ -1,4 +1,141 @@
-.square-red {
-  background-color: rgba(255, 0, 0, 0.6) !important;
+/* Custom board colors - green and beige theme */
+cg-board {
+  background-color: #EBECD0 !important;
+  background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4IDgiPjxnIG9wYWNpdHk9IjEiPjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiM3Mzk1NTIiLz48cmVjdCB4PSIyIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjNzM5NTUyIi8+PHJlY3QgeD0iNCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzczOTU1MiIvPjxyZWN0IHg9IjYiIHk9IjAiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiM3Mzk1NTIiLz48cmVjdCB4PSIxIiB5PSIxIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjNzM5NTUyIi8+PHJlY3QgeD0iMyIgeT0iMSIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzczOTU1MiIvPjxyZWN0IHg9IjUiIHk9IjEiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiM3Mzk1NTIiLz48cmVjdCB4PSI3IiB5PSIxIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjNzM5NTUyIi8+PHJlY3QgeD0iMCIgeT0iMiIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzczOTU1MiIvPjxyZWN0IHg9IjIiIHk9IjIiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiM3Mzk1NTIiLz48cmVjdCB4PSI0IiB5PSIyIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjNzM5NTUyIi8+PHJlY3QgeD0iNiIgeT0iMiIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzczOTU1MiIvPjxyZWN0IHg9IjEiIHk9IjMiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiM3Mzk1NTIiLz48cmVjdCB4PSIzIiB5PSIzIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjNzM5NTUyIi8+PHJlY3QgeD0iNSIgeT0iMyIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzczOTU1MiIvPjxyZWN0IHg9IjciIHk9IjMiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiM3Mzk1NTIiLz48cmVjdCB4PSIwIiB5PSI0IiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjNzM5NTUyIi8+PHJlY3QgeD0iMiIgeT0iNCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzczOTU1MiIvPjxyZWN0IHg9IjQiIHk9IjQiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiM3Mzk1NTIiLz48cmVjdCB4PSI2IiB5PSI0IiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjNzM5NTUyIi8+PHJlY3QgeD0iMSIgeT0iNSIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzczOTU1MiIvPjxyZWN0IHg9IjMiIHk9IjUiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiM3Mzk1NTIiLz48cmVjdCB4PSI1IiB5PSI1IiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjNzM5NTUyIi8+PHJlY3QgeD0iNyIgeT0iNSIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzczOTU1MiIvPjxyZWN0IHg9IjAiIHk9IjYiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiM3Mzk1NTIiLz48cmVjdCB4PSIyIiB5PSI2IiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjNzM5NTUyIi8+PHJlY3QgeD0iNCIgeT0iNiIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzczOTU1MiIvPjxyZWN0IHg9IjYiIHk9IjYiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiM3Mzk1NTIiLz48cmVjdCB4PSIxIiB5PSI3IiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjNzM5NTUyIi8+PHJlY3QgeD0iMyIgeT0iNyIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0iIzczOTU1MiIvPjxyZWN0IHg9IjUiIHk9IjciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiM3Mzk1NTIiLz48cmVjdCB4PSI3IiB5PSI3IiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSIjNzM5NTUyIi8+PC9nPjwvc3ZnPg==') !important;
 }
 
+/* Lowercase coordinates */
+.cg-wrap coords {
+  text-transform: lowercase !important;
+}
+
+/* Interactive square highlights */
+cg-board square.move-dest {
+  background: radial-gradient(rgba(20, 85, 30, 0.5) 22%, #208530 0, rgba(0, 0, 0, 0.3) 0, rgba(0, 0, 0, 0) 0) !important;
+}
+
+cg-board square.last-move {
+  background-color: rgba(155, 199, 0, 0.41) !important;
+}
+
+cg-board square.selected {
+  background-color: rgba(20, 85, 30, 0.5) !important;
+}
+
+cg-board square.check {
+  background: radial-gradient(
+    ellipse at center,
+    rgba(255, 0, 0, 1) 0%,
+    rgba(231, 0, 0, 1) 25%,
+    rgba(169, 0, 0, 0) 89%,
+    rgba(158, 0, 0, 0) 100%
+  ) !important;
+}
+
+/* Flip board button icon */
+.flip-board-icon {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+/* Responsive Layout */
+.chess-game-container {
+  padding-left: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  max-width: 100%;
+}
+
+.play-chess-section {
+  flex: 0 0 512px;
+  max-width: 512px;
+}
+
+.bot-chat-section {
+  flex: 1 1 0;
+  min-width: 300px;
+  background-color: #f5f5f5;
+  padding: 15px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #ddd;
+  margin-right: 20px; /* Don't run into right edge of browser */
+}
+
+.bot-chat-section.expanded {
+  height: 532px;
+}
+
+.bot-chat-content {
+  flex: 1;
+  overflow-y: auto;
+  background-color: white;
+  padding: 10px;
+  border-radius: 4px;
+  min-height: 400px;
+}
+
+.moves-section {
+  flex: 0 0 100%;
+  max-width: 300px;
+  min-width: 200px;
+  background-color: #f5f5f5;
+  padding: 15px;
+  border-radius: 8px;
+  height: 700px;
+  overflow-y: auto;
+}
+
+.logs-section {
+  flex: 1 1 0;
+  min-width: 300px;
+  background-color: #f5f5f5;
+  padding: 15px;
+  border-radius: 8px;
+  height: 700px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #ddd;
+  margin-right: 20px; /* Don't run into right edge of browser */
+}
+
+.logs-section.expanded {
+  height: 700px;
+}
+
+.logs-content {
+  flex: 1;
+  overflow-y: auto;
+  background-color: white;
+  padding: 10px;
+  border-radius: 4px;
+  font-family: monospace;
+  font-size: 12px;
+  line-height: 1.6;
+  white-space: pre-wrap;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+  .chess-game-container {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .play-chess-section,
+  .bot-chat-section,
+  .moves-section,
+  .logs-section {
+    flex: 1 1 100%;
+    min-width: 100%;
+    max-width: 100%;
+  }
+
+  .play-chess-section {
+    min-width: 320px;
+  }
+}
