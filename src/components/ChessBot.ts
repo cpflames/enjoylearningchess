@@ -205,15 +205,19 @@ const getMoveMessage = (moveEval: MoveEval, improvement: number, isMaximizing: b
   }
 
   const moveStr = moveEval.getMoveString();
-  const reason = moveEval.moveReason ? ` ${moveEval.moveReason}` : '';
+  const reason = moveEval.moveReason;
+
+  if (reason) {
+    return `I chose ${moveStr} ${reason}`;
+  }
 
   let msg = "";
   if (improvement > 0) {
-    msg += `I chose ${moveStr}${reason} to win ${improvement} points.`
+    msg += `I chose ${moveStr} to win ${improvement} points.`;
   } else if (improvement < 0) {
-    msg += `Well, best option I found is ${moveStr}${reason} to lose only ${-improvement} points.`
+    msg += `Well, best option I found is ${moveStr} to lose only ${-improvement} points.`;
   } else {
-    msg += `I don't see any move to gain points, so I'll just play ${moveStr}${reason}.`
+    msg += `I don't see any move to gain points, so I'll just play ${moveStr}.`;
   }
   return msg;
 }
