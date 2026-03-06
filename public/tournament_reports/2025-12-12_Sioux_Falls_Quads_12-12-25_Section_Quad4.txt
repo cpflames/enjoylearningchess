@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Welch, Henry           HSSEZ889   591   729/ 23  W3  W4  W2  3.0
+  2 Potter, David          SDRDZ40L   470   571/ 21  W4  W3  L1  2.0
+  3 Lacroix, London        SDCEZ67B   594   562/ 27  L1  L2  W4  1.0
+  4 Fiorita, Gus           SDGDZ76F   583   494/ 54  L2  L1  L3  0.0

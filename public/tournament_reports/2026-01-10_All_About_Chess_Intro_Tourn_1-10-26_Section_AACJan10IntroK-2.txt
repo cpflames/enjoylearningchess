@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Lee, Hugo              SOMCG01W   385   555/  8  W14 W2  W5  W3  4.0
+  2 Chang, Liliana         JINCJ12S   259   376/ 36  W12 L1  W10 W6  3.0
+  3 Gu, Ximu               ENDCJ05X   483   488/115  BYE W7  W6  L1  3.0
+  4 Etienne, Yann          CDVCG21M   387   373/ 30  BYE L6  W9  W8  3.0
+  5 Chen, Luna             RSACG32W   348   353/ 68  D11 W8  L1  W7  2.5
+  6 Mukherjee, Sepehr      SUNBF72Z   100   331/  4  W9  W4  L3  L2  2.0
+  7 Rajan, Aadhi           CDIBG32V   252   258/ 23  W10 L3  W13 L5  2.0
+  8 Youn, Jayden           EASCG18D   100   155/  9  W13 L5  W11 L4  2.0
+  9 Paidapathi, Anaika     SHSBG01U   100   154/ 17  L6  W11 L4  W12 2.0
+ 10 Lee, Wilber            JINAF72Y   100   200/  4  L7  W12 L2  W13 2.0
+ 11 Yu, Luken              SOMCF72X   200   100/  4  D5  L9  L8  W14 1.5
+ 12 Etienne, Enola         CDVAF72W   100   100/  4  L2  L10 W14 L9  1.0
+ 13 Yang, Charlene         SOMAF72V   100   100/  4  L8  W14 L7  L10 1.0
+ 14 Radhakrishnan, Elan    SOMAF72U   100   100/  4  L1  L13 L12 L11 0.0

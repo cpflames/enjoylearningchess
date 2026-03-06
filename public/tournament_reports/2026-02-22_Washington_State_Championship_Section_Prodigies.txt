@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 tot 
+  1 Khudyev, Elina Umi     OPWDJ97Q  1323  1402/132  D4  W8  W9  W10 W6  D3  W7  D2  W5  7.5
+  2 Han, Felix             MEDCJ41U  1262  1330/ 86  W3  W5  W4  D8  W9  L10 W6  D1  D7  6.5
+  3 Sreraman, Rohit        BABFG92Q  1256  1297/361  L2  W10 W5  W6  L4  D1  W8  D7  W9  6.0
+  4 Chaudhuri, Arihant     CHAG703E  1290  1300/344  D1  L7  L2  D5  W3  D8  W9  W10 W6  5.5
+  5 Yeh, George            CSIDH64S  1355  1323/ 81  W7  L2  L3  D4  W8  W9  W10 D6  L1  5.0
+  6 Zou, Fuxing            ADUNH28Q  1228  1231/ 31  W8  W9  W10 L3  L1  W7  L2  D5  L4  4.5
+  7 Sreraman, Rahul        BABFJ42L  1305  1276/342  L5  W4  W8  D9  W10 L6  L1  D3  D2  4.5
+  8 Razmov, Siana          HSCDK93Y  1133  1107/227  L6  L1  L7  D2  L5  D4  L3  D9  W10 2.5
+  9 Siddiqui, Kaamil       BLLLD777  1148  1099/269  W10 L6  L1  D7  L2  L5  L4  D8  L3  2.0
+ 10 George, Ameya          TMBGK88Y   980   956/170  L9  L3  L6  L1  L7  W2  L5  L4  L8  1.0

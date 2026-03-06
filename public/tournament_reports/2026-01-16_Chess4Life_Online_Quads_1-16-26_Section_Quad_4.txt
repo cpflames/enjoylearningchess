@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kim, Sean              ENDCF67K   200   504/  2  D2  W3  U   1.5
+  2 Hernandez, Martin      SNSEF94T   233   323/  8  D1  U   W3  1.5
+  3 Molleda, Eric          LLFFG59A   375   305/ 33  U   L1  L2  0.0

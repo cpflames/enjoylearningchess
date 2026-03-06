@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Luo, Leo               MEDFH45C  1256  1350/ 47  W6  W4  W10 3.0
+  2 Bravenboer, Jake       OPWFJ97Y  1275  1344/179  W16 W11 W3  3.0
+  3 He, Jizhou             MEDE789B  1264  1283/169  W14 W5  L2  2.0
+  4 Joshi, Vyom            NRCKH81X  1299  1301/372  W13 L1  W12 2.0
+  5 Ren, Easton            CMCCH68Z  1356  1349/129  W12 L3  W11 2.0
+  6 Han, Felix             MEDCJ41U   888  1007/ 57  L1  W13 W17 2.0
+  7 Kang, William          NPRJC12H  1350  1335/102  L11 W17 W9  2.0
+  8 Zhang, Owen            SHMK995H  1630  1598/393  L9  W16 W15 2.0
+  9 Nguyen, Viet           TMBI508J  1166  1218/185  W8  D10 L7  1.5
+ 10 Lin, Ethan             TYEHJ71H  1293  1275/ 97  W17 D9  L1  1.5
+ 11 Wong, Gabriel          HEAHH35K  1133  1149/ 39  W7  L2  L5  1.0
+ 12 Rogovoy, Alexander     ESCGK14Y  1149  1136/ 57  L5  W14 L4  1.0
+ 13 Borkar, Siddharth      NJHHJ29B  1066  1047/ 48  L4  L6  W16 1.0
+ 14 Kamisetty, Komansai    HEAI644X  1016   986/ 26  L3  L12 BYE 1.0
+ 15 Mandore, Ishaan        WPPHJ70V  1011  1009/ 39  HPB HPB L8  1.0
+ 16 Lin, Elliot            TYEHJ71G  1060  1021/ 98  L2  L8  L13 0.0
+ 17 Chenchu Arun, Krish    SSMGJ74U  1028   981/ 77  L10 L7  L6  0.0

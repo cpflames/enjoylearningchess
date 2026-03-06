@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Wun, Kaden             SOMIK95F   873  1000/ 43  W2  W7  W9  W5  L3  W6  5.0
+  2 Astafiev, Vitaly DmitriMRPEH52U   977   990/ 65  L1  W11 W13 W8  W5  D3  4.5
+  3 Chai, Bobby            FAPCH05T   738   856/ 27  L13 W14 W4  W6  W1  D2  4.5
+  4 Li, Leo                BCABH11J   812   861/ 98  W7  L8  L3  W12 W10 W9  4.0
+  5 Bharadwaj, Pranav      CSMEF93W   738   846/ 11  W10 W6  W8  L1  L2  D7  3.5
+  6 Bharadwaj, Rohan       ESCHG28P   523   646/ 15  W14 L5  W10 L3  W8  L1  3.0
+  7 Patneaude, Michael     ADUNK09M   901   858/ 12  L4  L1  W14 W11 D9  D5  3.0
+  8 Lin, Evan              SOMDJ72G  1000   921/114  W12 W4  L5  L2  L6  W14 3.0
+  9 Nguyen, Andrew         DCCLG46Z   808   805/ 19  W11 W13 L1  HPB D7  L4  3.0
+ 10 Astafyeva, Olga        ADUNH34Y   812   767/ 26  L5  W12 L6  W13 L4  W11 3.0
+ 11 Ren, Tao               ADUNF83U  1300   626/  6  L9  L2  W12 L7  W13 L10 2.0
+ 12 Dolenga, Michael       ADUNF83T  1300   394/  5  L8  L10 L11 L4  W14 BYE 2.0
+ 13 Jackson, Scott         ADUNF83S  1300   581/  5  W3  L9  L2  L10 L11 HPB 1.5
+ 14 Nguyen, Tuan Khoa      BRWDF83R   300   100/  5  L6  L3  L7  BYE L12 L8  1.0

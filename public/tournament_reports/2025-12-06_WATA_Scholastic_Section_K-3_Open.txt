@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Lai, Ryan              SHSCH70N  1351  1354/167  W12 D2  W7  W3  W4  4.5
+  2 Armitage-selig, PhoenixSUZCJ31Z   929  1103/ 95  W13 D1  W10 W6  D3  4.0
+  3 Telikicherla, Aadya    AUDDG19N   990  1060/ 34  W15 W5  W4  L1  D2  3.5
+  4 Chanda, Rishabh        BCABH72X   894   965/112  W16 W6  L3  W9  L1  3.0
+  5 Fang, Echo             RCRBZ31R   759   868/ 10  W9  L3  W11 L7  W15 3.0
+  6 Liu, Kyle              CHRDK00Z   990   991/ 73  W17 L4  W8  L2  W11 3.0
+  7 Charuvil Vinu, Suryen  RSHCJ89R   912   966/116  HPB W13 L1  W5  D8  3.0
+  8 Liu, Louis             CNHDJ75J   982   974/118  W14 D10 L6  W16 D7  3.0
+  9 Yin, Nolan             SOMCH64W   918   923/ 87  L5  W15 W17 L4  W10 3.0
+ 10 Cai, Emily             CNHDH60H  1098  1039/121  W11 D8  L2  HPB L9  2.0
+ 11 Gaddam, Viraj          SSMDJ29S   843   826/ 55  L10 W16 L5  W13 L6  2.0
+ 12 Yue, Jayden            WMECG55Q   865   817/ 20  L1  L14 D15 W17 D16 2.0
+ 13 Zeng, Liam             SHSAH05U   824   786/ 75  L2  L7  BYE L11 W17 2.0
+ 14 Reddy, Aariv           GRRDK34T   688   667/129  L8  W12 L16 L15 BYE 2.0
+ 15 Sairam, Advaith        RBRCK01Q   795   765/186  L3  L9  D12 W14 L5  1.5
+ 16 Zhao, Maxwell          SSMDF81H   300   689/  5  L4  L11 W14 L8  D12 1.5
+ 17 Karthik, Ayaan         BRHAG16J   804   660/  9  L6  WF  L9  L12 L13 1.0

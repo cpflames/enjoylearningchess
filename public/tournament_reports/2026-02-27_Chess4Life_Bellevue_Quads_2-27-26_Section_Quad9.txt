@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ramprasad, Atharv      EMDDH79T   438   598/ 15  W3  W2  W4  3.0
+  2 Fong, Ethan            CMCDH58B   395   416/ 50  D4  L1  W3  1.5
+  3 Ismail, Kai            TLIBG21Y   420   401/ 39  L1  W4  L2  1.0
+  4 Gonzalez Lagos, ChristiDCCDG46A   502   426/ 41  D2  L3  L1  0.5

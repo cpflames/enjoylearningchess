@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhao, Jerry            EVGBH97K   805   827/103  W3  W4  L2  2.0
+  2 Tao, Hongxi            TLICH98A   815   834/ 36  W4  L3  W1  2.0
+  3 Naik, Shreyas          MTWGJ98X   775   751/157  L1  W2  L4  1.0
+  4 Dasari, Ranveer        SSMHJ31X   753   736/ 44  L2  L1  W3  1.0

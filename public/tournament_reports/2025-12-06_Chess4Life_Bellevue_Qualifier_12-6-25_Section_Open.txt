@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zeitlin, Tom           WOBGI56H   915  1028/148  W10 W3  D2  W4  W8  4.5
+  2 Garg, Vihaan           CMCFJ10X  1016  1047/285  W7  W6  D1  D3  W5  4.0
+  3 Swindell, Adam         MRLGG32Q  1002  1017/ 66  W4  L1  W5  D2  W6  3.5
+  4 Sinha, Pratyaksh       REEFJ69N   774   797/ 27  L3  W9  W8  L1  W10 3.0
+  5 Doshi, Ishaan          ICKGJ54C   816   787/ 45  W9  D7  L3  D8  L2  2.0
+  6 Sijin, Ryan            BENDG24X   860   819/ 51  W8  L2  L7  W9  L3  2.0
+  7 Sharma, Kabir          CKNHG78M   781   749/ 22  L2  D5  W6  L10 D9  2.0
+  8 Ganguly, Ojus          MAYHF86S   700   640/  5  L6  W10 L4  D5  L1  1.5
+  9 Blodgett, Ashton       TILIF86R   800   587/  5  L5  L4  W10 L6  D7  1.5
+ 10 Tharanian, Advay       PLKH855X   606   573/ 37  L1  L8  L9  W7  L4  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jahani, Nikan          IMSHK89A   732   789/209  W4  D2  W3  2.5
+  2 Jain, Adhrit           SPTDH36P   663   708/ 52  D3  D1  W4  2.0
+  3 Ram, Yaalini           SNEDH87H   711   705/181  D2  W4  L1  1.5
+  4 Reddy, Aariv           GRRDK34T   623   556/162  L1  L3  L2  0.0

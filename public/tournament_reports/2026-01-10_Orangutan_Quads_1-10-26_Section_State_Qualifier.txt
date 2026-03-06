@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bartram, Clark         DCTDJ47Q   666   711/ 41  W2  W3  W5  W6  W4  5.0
+  2 Hooker, Asa            THUDH33B   482   463/ 46  L1  W4  W3  W5  L6  3.0
+  3 Aguiluz, Mateo         BRYEJ68R   217   342/ 39  W6  L1  L2  W4  W5  3.0
+  4 Tang, Wesley           WWDBF69A   100   294/  5  W5  L2  W6  L3  L1  2.0
+  5 Drake, Matthew         DCTDJ68D   362   276/ 33  L4  W6  L1  L2  L3  1.0
+  6 Aguiluz, Emilio        BRYBH31F   100   108/ 23  L3  L5  L4  L1  W2  1.0

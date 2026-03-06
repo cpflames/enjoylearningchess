@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tanielian, Desmond     WOBFG19S   303   441/ 32  W6  W2  W4  3.0
+  2 Karanam, Dhruthi       LCSDH10X   179   286/ 30  W4  L1  W5  2.0
+  3 Paidapathi, Anaika     SHSBG01U   100   194/ 25  W5  L4  W6  2.0
+  4 Li, Henry              CNHBH67W   323   287/ 13  L2  W3  L1  1.0
+  5 Tanielian, Theo        WOBBG19Q   221   180/ 32  L3  W6  L2  1.0
+  6 Tanguturi, Ishitha     EHWGG27E   173   100/  6  L1  L5  L3  0.0

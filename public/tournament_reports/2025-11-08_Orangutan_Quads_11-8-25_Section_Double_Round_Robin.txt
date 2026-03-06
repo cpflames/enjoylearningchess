@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Shing, Lucas           HZFEJ74H   793   798/137  W2  W2  U   U   L3  W3  3.0
+  2 Bryant, Camille        THUEG99U   414   525/ 12  L1  L1  W3  W3  U   U   2.0
+  3 Williams, Sam          COSEG18C   803   703/ 13  U   U   L2  L2  W1  L1  1.0

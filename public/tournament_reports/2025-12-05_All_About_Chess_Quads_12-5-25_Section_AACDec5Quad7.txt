@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nelson, Harvey         CMCGG67L   466   562/ 77  W4  W3  W2  3.0
+  2 Nandakiran, Advaith    SSMDJ88H   436   449/215  W3  W4  L1  2.0
+  3 Tanielian, Desmond     WOBFG19S   289   283/ 20  L2  L1  W4  1.0
+  4 Haycraft, Ethan        IFSDG36K   272   206/ 42  L1  L2  L3  0.0

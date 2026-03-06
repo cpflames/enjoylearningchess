@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Joseph, George         CDIEH11C   876   933/ 81  W3  W4  D2  2.5
+  2 Phadnis, Neil          DISFK44Y   829   913/ 83  W4  W3  D1  2.5
+  3 Singh, Vihaan          RIDFG25R   789   777/ 29  L1  L2  W4  1.0
+  4 Charles, Benjamin      SOMCJ06G   826   749/162  L2  L1  L3  0.0

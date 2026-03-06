@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Shukla, Dhruv          NJHIF78M   608  1103/  6  W3  W2  W4  3.0
+  2 Van Cleemput, Enzo     HMNEG22B   705   730/ 31  W4  L1  W3  2.0
+  3 Balan, Vidyut          LAVFH68B   667   643/ 80  L1  W4  L2  1.0
+  4 Tun, Harrison          BRWGJ57B   408   379/ 27  L2  L3  L1  0.0

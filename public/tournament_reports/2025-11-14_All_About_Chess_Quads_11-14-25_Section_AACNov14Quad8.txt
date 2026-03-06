@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Komin, Michael         SOMFG01Y   612   879/  6  W4  W2  W3  3.0
+  2 Nelson, Harvey         CMCGG67L   392   466/ 74  W5  L1  W4  2.0
+  3 Tanielian, Desmond     WOBFG19S   196   249/ 14  BYE W5  L1  2.0
+  4 Wortman, Alexander     SOMDJ31M   392   356/ 16  L1  BYE L2  1.0
+  5 Chen, Luna             RSACG32W   419   332/ 55  L2  L3  BYE 1.0

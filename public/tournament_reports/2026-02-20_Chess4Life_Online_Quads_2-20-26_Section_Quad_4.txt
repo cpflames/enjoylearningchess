@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chandana, Arnav        EVJIH58E   368   501/ 20  W2  W3  W4  3.0
+  2 Chanthavong, Amanda    EDIEG20M   319   326/ 11  L1  D4  W3  1.5
+  3 Homavand, William      BRICG26U   234   237/  9  W4  L1  L2  1.0
+  4 Nadimpalli, Saathvik   CNCEH16G   382   304/ 32  L3  D2  L1  0.5

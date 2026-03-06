@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Lu, Kathryn            CHRG191C   663   823/ 51  W9  W6  W3  W2  W4  5.0
+  2 Agarwal, Vedaang       ENDEJ30H   582   677/ 26  W14 W5  W4  L1  W7  4.0
+  3 Wong, Aiden            CHRFK17Z   549   606/121  WF  W10 L1  W12 W8  4.0
+  4 He, Joshua             CHRDJ72H   660   636/114  WF  W12 L2  W8  L1  3.0
+  5 Mukunthu, Advika       CMCFH24X   357   434/ 22  W11 L2  W10 L7  W12 3.0
+  6 Ismail, Kai            TLIBG21Y   435   440/ 33  W16 L1  L8  W15 W9  3.0
+  7 Rampally, Viraali      LKWFC95B   542   520/ 41  W17 L8  W13 W5  L2  3.0
+  8 Buragadda, Naga Kovidh BRHDH36C   331   446/ 24  W18 W7  W6  L4  L3  3.0
+  9 Buragadda, Gyana DhaswiBRHAF91Z   319   352/ 15  L1  W18 W14 W11 L6  3.0
+ 10 Sun, Ryan              CGRBF65P   343   370/ 10  W15 L3  L5  W13 W14 3.0
+ 11 Britt, Isabelle        MDADF58N   300   239/  5  L5  D14 W17 L9  W16 2.5
+ 12 Suresh, Anusha         BRHEF93A   415   367/ 10  W13 L4  W15 L3  L5  2.0
+ 13 Bhatnagar, Anaira      BCACF58L   200   205/  5  L12 W16 L7  L10 W17 2.0
+ 14 Mohan, Rinit           SNREF92V   234   208/ 15  L2  D11 L9  W16 L10 1.5
+ 15 Gautam, Shriya         EBSBF58K   100   109/  5  L10 W17 L12 L6  D18 1.5
+ 16 Suresh, Vishakan       ICKBF91V   100   100/ 10  L6  L13 W18 L14 L11 1.0
+ 17 Srinivas, Pranav       TBKDG35F   167   100/ 19  L7  L15 L11 W18 L13 1.0
+ 18 Truitt, Arden          SNSCF58J   200   100/  5  L8  L9  L16 L17 D15 0.5

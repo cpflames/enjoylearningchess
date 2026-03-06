@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Villion, Yana          NYXNZ28P   624   743/  4  W2  W3  W5  D2  3.5
+  2 Ananthapadmanabhan, SavNYXNZ28N  1300   577/  4  L1  W5  W3  D1  2.5
+  3 Venkatesh, Aditya      NJXAZ28M   100   383/  4  D5  L1  L2  W5  1.5
+  4 Blevins, Madelyn Pearl CTXFZ28R   100   180/  5  U   U   W6  U   1.0
+  5 Arunachalam, Subhin    CTXFZ28L   500   100/  4  D3  L2  L1  L3  0.5
+  6 Blevins, Charles       CTXNZ28K  1300   100/  1  U   U   L4  U   0.0

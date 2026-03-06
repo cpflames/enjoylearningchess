@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Brouner, Simon         KLLIH47V  1003  1158/ 38  W15 D2  W3  W4  W5  4.5
+  2 Rachiba, Alisa         NARFK08E  1162  1175/261  W10 D1  D7  W8  W4  4.0
+  3 Zhang, Amy             CSIFF80L  1122  1106/ 97  W11 D7  L1  W13 W6  3.5
+  4 Nguyen, Richard        STCHH47W  1063  1051/ 30  W13 W8  W6  L1  L2  3.0
+  5 Casino, Eli            STCHI15Q  1086  1040/ 76  W12 L6  W10 W9  L1  3.0
+  6 Ramirez, Peyton        STCIK61L   711   844/ 44  W17 W5  L4  W7  L3  3.0
+  7 Little, Wyatt          NOVHJ51H  1035  1018/ 85  W16 D3  D2  L6  W10 3.0
+  8 Paras, Liam            STCIK61Q   772   785/ 44  W14 L4  W12 L2  W11 3.0
+  9 Short, Austin          HABGH38T   654   648/ 39  W18 L10 W14 L5  W13 3.0
+ 10 Ang, Jessy             STCHH47U   565   624/ 15  L2  W9  L5  W14 L7  2.0
+ 11 Flinders, Thayden      STCIJ19A   546   528/ 30  L3  L14 W17 W12 L8  2.0
+ 12 Kennedy, Rudy          CNKGH06B   512   500/ 23  L5  W15 L8  L11 W16 2.0
+ 13 Seaholm, Liam          STCHK61P   418   435/ 25  L4  W18 W16 L3  L9  2.0
+ 14 Narvas, Russell        STCIF83Q   800   469/  5  L8  W11 L9  L10 W18 2.0
+ 15 Austin-brownell, Emily STCGJ18N   154   201/ 19  L1  L12 W18 L16 W17 2.0
+ 16 Ramirez, Quintin       STCHH47T   386   341/ 18  L7  D17 L13 W15 L12 1.5
+ 17 Roberts, Elias         STCHF83P   700   208/  5  L6  D16 L11 W18 L15 1.5
+ 18 Love, Levi             CEDGF83M   600   100/  5  L9  L13 L15 L17 L14 0.0

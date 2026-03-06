@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Somanath, Aarav        PLKI235C  1044  1074/ 18  W5  D2  W4  W6  W7  4.5
+  2 Chen, Logan            APOFJ69K   888   997/ 85  W6  D1  D3  W5  W4  4.0
+  3 Khandhedia, Dhruvin NirCNCG257G  1065  1035/103  L7  W5  D2  W4  BYE 3.5
+  4 Roshan, Vihaan         MAYGG24K   736   745/ 29  BYE W7  L1  L3  L2  2.0
+  5 Bhairav, Rachit        RCSEC41S   789   780/ 59  L1  L3  BYE L2  W6  2.0
+  6 Lee, Zachary           STTBH63W   758   745/ 83  L2  BYE W7  L1  L5  2.0
+  7 Abdukarimov, Samin     ARDBH67S   865   818/224  W3  L4  L6  BYE L1  2.0

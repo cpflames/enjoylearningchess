@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Yeh, George            CSIDH64S  1248  1256/ 57  W2  U   1.0
+  2 Fan, Theodore          TLIDK42S   926   930/103  L1  W17 1.0
+  3 Khudyev, Elina Umi     OPWDJ97Q  1289  1310/121  W13 U   1.0
+  4 Xiong, Maxwell         CSIEK92H  1149  1152/ 95  W16 U   1.0
+  5 Jariwala, Vidur        THOFK87P   934   952/104  W12 U   1.0
+  6 Yondon, Odbayar        INGHK97T  1877  1879/349  W11 U   1.0
+  7 Mathew, Reuben         MRIBG33B   802   845/ 44  W14 U   1.0
+  8 Gupta, Akshay          HMNDF62T   762   790/121  W15 U   1.0
+  9 Lai, Austin            EVGEK94F  1133  1142/118  D10 U   0.5
+ 10 Jang, Jinwon           EMSI561P  1248  1240/209  D9  U   0.5
+ 11 Zhang, Kevin           OMSH809Y  1389  1386/209  L6  U   0.0
+ 12 Mccarthy, Eugene       CDLFG73B   788   768/ 39  L5  U   0.0
+ 13 Chou, Eugene           SSMFJ56Y  1232  1210/138  L3  U   0.0
+ 14 Qureshi, Haroon        RBRFJ95Y   919   879/ 56  L7  U   0.0
+ 15 Sharma, Sidarth        EVGDJ75G   712   683/131  L8  U   0.0
+ 16 Park-brinck, August    WEDEJ54U   643   639/ 58  L4  U   0.0
+ 17 Sang, Andy             BASDK65W   693   678/126  U   L2  0.0

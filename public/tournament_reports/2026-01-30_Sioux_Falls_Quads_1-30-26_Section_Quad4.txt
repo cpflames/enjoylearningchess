@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lewis, Tavin           HSSLZ28E  1100  1004/  2  W3  W2  BYE 3.0
+  2 Lacroix, London        SDCEZ67B   562   598/ 29  BYE L1  W3  2.0
+  3 Neff, Zachary          ABFCH77E   650   604/ 68  L1  BYE L2  1.0

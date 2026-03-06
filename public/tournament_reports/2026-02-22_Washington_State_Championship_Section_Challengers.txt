@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 tot 
+  1 Mohan, Vishnu          SKIHF41R  1846  1906/241  W2  D7  W4  W6  W3  W9  D5  WF  W10 8.0
+  2 Cheng, Selina          TLMI413R  1745  1788/650  L1  W3  W9  D5  D8  W10 D6  D7  W4  6.0
+  3 Ayalew, Brook          DCCKJ71Q  1842  1832/ 85  W10 L2  W7  L4  L1  D6  W9  W5  WF  5.5
+  4 Kuhner, Mary           ADUND44Q  1778  1783/113  D7  D6  L1  W3  W9  W5  L8  W10 L2  5.0
+  5 Zhou, Yuchen           CHRGJ42H  1818  1798/684  W6  D8  D10 D2  D7  L4  D1  L3  W9  4.5
+  6 Boulis, Christos       NWSMC84T  1774  1768/663  L5  D4  W8  L1  W10 D3  D2  W9  L7  4.5
+  7 Shankaranand, Deeksha  EBSHI74Y  1683  1696/380  D4  D1  L3  D9  D5  L8  D10 D2  W6  4.0
+  8 Maharaja, Imai         HMNFK34K  1618  1653/370  L9  D5  L6  D10 D2  W7  W4  LF  LF  3.5
+  9 Wentz, Austin          ADUNK09W  1798  1735/ 32  W8  W10 L2  D7  L4  L1  L3  L6  L5  2.5
+ 10 Pai, Vihaan            CHAGK17C  1635  1596/354  L3  L9  D5  D8  L6  L2  D7  L4  L1  1.5

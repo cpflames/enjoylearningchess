@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Fiorita, Gus           SDGDZ76F   566   583/ 51  W3  L2  W4  2.0
+  2 Welch, Henry           HSSEZ889   515   554/ 17  W4  W1  L3  2.0
+  3 Mills, Ta'te           SDYIZ98Q   472   538/ 64  L1  W4  W2  2.0
+  4 Neff, Zachary          ABFCH77E   512   425/ 57  L2  L3  L1  0.0

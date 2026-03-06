@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Frenk, Rafael          CSIDJ75L  1193  1186/ 97  W12 W10 W5  W2  D4  4.5
+  2 Armstrong, Josephine   EVGDK86A   490   770/164  W9  W4  W3  L1  W6  4.0
+  3 Deng, Leo              CSIDG51B   704   729/ 48  W14 W6  L2  W9  W10 4.0
+  4 Yao, Roger Yutang      THODK88C   954   942/156  W13 L2  W7  W5  D1  3.5
+  5 Xie, Nolan             CGRDH82P   646   663/ 66  W11 W7  L1  L4  W9  3.0
+  6 Avesar, Isaac          LRADF91H   506   509/ 56  W15 L3  W14 W11 L2  3.0
+  7 Creighton, Jack        DCTDH04E   129   301/ 13  BYE L5  L4  W13 W11 3.0
+  8 Joffe, Roni            CSIDK92G   301   300/ 14  L10 L9  BYE D12 W15 2.5
+  9 Proano Dedoglou, Mario HSCDF39T   300   532/  5  L2  W8  W10 L3  L5  2.0
+ 10 Bartram, Clark         DCTDJ47Q   677   617/ 61  W8  L1  L9  W14 L3  2.0
+ 11 Joffe, Beni            CSIDK92F   256   299/ 14  L5  W13 W12 L6  L7  2.0
+ 12 Drake, Matthew         DCTDJ68D   459   400/ 53  L1  W15 L11 D8  D13 2.0
+ 13 Stark, Lachlan         LKDDK28V   428   350/ 78  L4  L11 W15 L7  D12 1.5
+ 14 May, Matthew           DCTDJ67S   219   195/ 15  L3  BYE L6  L10 LF  1.0
+ 15 Campbell, Madelyn      LAFDF39S   300   100/  4  L6  L12 L13 BYE L8  1.0

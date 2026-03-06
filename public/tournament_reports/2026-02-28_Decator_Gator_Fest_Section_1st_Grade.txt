@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Tang, Wesley           WWDBF69A   666   783/ 29  W7  W14 W5  W2  W4  5.0
+  2 Chernenko, Mark        BRYBH31R   577   675/ 50  W8  W3  W4  L1  W5  4.0
+  3 Kim, Darron            WEDBG26T   447   509/ 25  W12 L2  W6  W10 W11 4.0
+  4 Stultz, Isaac          WEDBH04B   557   557/ 29  W10 W9  L2  W6  L1  3.0
+  5 Sayre, Dante           WEDBG48J   545   533/ 27  W15 W11 L1  W9  L2  3.0
+  6 Aguiluz, Emilio        BRYBH31F   490   468/ 52  W13 W7  L3  L4  W9  3.0
+  7 Panda, Neel            SCDBH03Z   205   290/ 30  L1  L6  W13 W14 W10 3.0
+  8 Kakkad, Viyan          THOBF67M   196   242/ 17  L2  W16 L9  W12 W13 3.0
+  9 Xie, Ian               UCDBF66U   217   241/ 15  W16 L4  W8  L5  L6  2.0
+ 10 Bellam, Siddhant       WDEBG51Z   137   179/ 34  L4  W15 W11 L3  L7  2.0
+ 11 Hashimoto, Yasu        THOBF53P   253   226/ 10  W14 L5  L10 W13 L3  2.0
+ 12 O'flaherty, Cyrus      MIEBF40C   100   128/  5  L3  L13 W16 L8  W15 2.0
+ 13 Law, Apollo            WEDBH03Y   115   100/ 32  L6  W12 L7  L11 L8  1.0
+ 14 Bert, Milo             WEDBF68H   100   100/  9  L11 L1  W15 L7  L16 1.0
+ 15 Mangone, Ev            THOBF40B   100   100/  5  L5  L10 L14 W16 L12 1.0
+ 16 Bert, Paxton           WEDBF68M   100   100/  9  L9  L8  L12 L15 W14 1.0

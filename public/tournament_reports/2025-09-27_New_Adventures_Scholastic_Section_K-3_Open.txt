@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Telikicherla, Aadya    AUDDG19N   908  1088/ 18  W9  W7  W6  W4  L2  4.0
+  2 Liu, Bihe              KKNDB78J  1152  1158/167  L4  W10 W9  W11 W1  4.0
+  3 Pham, Liam             BENBH53P   802   925/ 18  W11 L4  W7  D12 W5  3.5
+  4 Raghavendran, Vedanth  DCSCH24C  1015  1036/ 41  W2  W3  W5  L1  L7  3.0
+  5 Vivek, Thanish BhavanamBCADH74G   878   892/ 66  W13 W12 L4  W6  L3  3.0
+  6 Yao, Roger Yutang      THODK88C   910   937/136  WF  W8  L1  L5  W11 3.0
+  7 Bangard, Dhruv         RBRDK65D  1020  1000/144  W14 L1  L3  W13 W4  3.0
+  8 Lin, Evan              SOMDJ72G   974   925/ 96  W10 L6  L11 D9  W12 2.5
+  9 Wong, Claire           BCADK86D   933   916/156  L1  W13 L2  D8  W14 2.5
+ 10 Huang, Damon           CHRDG71K   749   747/ 41  L8  L2  D12 W14 W13 2.5
+ 11 Lam, Sebastian         OPWDJ97R   815   809/111  L3  W14 W8  L2  L6  2.0
+ 12 Cheng, Ary             KSHBG24S   601   695/ 16  WF  L5  D10 D3  L8  2.0
+ 13 Sang, Andy             BASDK65W   686   635/112  L5  L9  W14 L7  L10 1.0
+ 14 Mummidi, Kushal        KKNDG17V   300   238/  5  L7  L11 L13 L10 L9  0.0

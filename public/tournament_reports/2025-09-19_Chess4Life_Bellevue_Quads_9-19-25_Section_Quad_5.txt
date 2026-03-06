@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mathur-badam, Arin     BMNCG27N   561   587/ 20  W2  W3  L4  2.0
+  2 Ning, Pascal           SCDDJ14X   532   574/ 13  L1  W4  W3  2.0
+  3 Chahlia, Dax           REEFH62P   542   514/ 13  W4  L1  L2  1.0
+  4 Abdukarimov, Samin     BENBH67S   547   517/154  L3  L2  W1  1.0

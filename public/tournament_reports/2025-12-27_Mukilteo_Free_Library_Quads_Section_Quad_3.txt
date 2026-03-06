@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Guo, Zion              MUEDF76G   300   534/  3  W4  W2  L3  2.0
+  2 Mogg-young, Elias      PPECF76E   200   534/  3  W3  L1  W4  2.0
+  3 Allen, Isaiah          CPVMH25W   334   432/ 19  L2  W4  W1  2.0
+  4 Townsdin, Lance        MUKBH01M   384   306/ 16  L1  L3  L2  0.0

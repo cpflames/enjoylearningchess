@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, William          EALJ550N  1697  1693/348  W4  W3  D2  2.5
+  2 Narkhede, Kshitij      CRKEA27K  1435  1482/182  W3  W4  D1  2.5
+  3 Burtram, Dayton        SKNKG77M  1316  1316/415  L2  L1  W4  1.0
+  4 Bhandari, Aarav        CBRFJ06H  1264  1229/210  L1  L2  L3  0.0

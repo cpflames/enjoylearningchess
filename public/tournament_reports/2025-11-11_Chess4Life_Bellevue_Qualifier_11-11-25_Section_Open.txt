@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Rish-brown, Jackson    HABGH57T  1323  1337/105  W12 W4  W3  W5  4.0
+  2 Rish-brown, Jacob      HABGK61J  1305  1321/118  W5  W6  W8  W4  4.0
+  3 Wang, Aaron            HMNE631T   922   984/143  D8  W10 L1  W9  2.5
+  4 Mcintyre, Isaac        WPPG466S   909   975/278  W11 L1  W7  L2  2.0
+  5 Li, Leo                BCABH11J   719   782/ 84  L2  W12 W6  L1  2.0
+  6 Xie, Ann               CCDDK03P   587   736/ 54  W7  L2  L5  W11 2.0
+  7 Swindell, Adam         MRLGG32Q  1029   995/ 54  L6  W11 L4  W8  2.0
+  8 Cai, Emily             CNHDH60H  1017   998/107  D3  W9  L2  L7  1.5
+  9 Madsen, Levi           BLWEH80Z   967   913/ 37  D10 L8  W12 L3  1.5
+ 10 Zhang, Eli             BASDH69C   814   795/126  D9  L3  L11 W12 1.5
+ 11 Hoffman, David         ADDGJ98J   937   869/ 63  L4  L7  W10 L6  1.0
+ 12 Guo, Keith             CHRDG29Y   635   588/ 31  L1  L5  L9  L10 0.0

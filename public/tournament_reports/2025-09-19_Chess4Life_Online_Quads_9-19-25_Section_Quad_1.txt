@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kulkarni, Samik        KKNCH67M  1223  1243/ 92  W4  W2  W3  3.0
+  2 Lee, Owain             LLFFG59B   887   884/ 34  W3  L1  L4  1.0
+  3 Wang, Aaron            HMNE631T   980   953/136  L2  W4  L1  1.0
+  4 Wu, Dennis             SCDFJ54B   854   859/231  L1  L3  W2  1.0

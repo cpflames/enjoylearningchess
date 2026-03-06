@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ferrell, Luka Lee      LVNGG98L  1207  1211/ 50  W4  W3  BYE D2  W5  4.5
+  2 Thompson, Hugo         SSNIH55A  1113  1140/ 39  BYE W4  W3  D1  W3  4.5
+  3 Henderson, Citrus      NWBHF59F   700   865/  5  W5  L1  L2  W4  L2  2.0
+  4 Rasmussen, Arthur      OHMHH11X   505   577/  9  L1  L2  W5  L3  BYE 2.0
+  5 Dolan, Rodion          ANCHH12G   732   664/ 14  L3  BYE L4  BYE L1  2.0

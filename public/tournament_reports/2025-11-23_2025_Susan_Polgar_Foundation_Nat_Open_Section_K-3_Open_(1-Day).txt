@@ -1,0 +1,36 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Yao, Baoshuo           EVPBG16L  1405  1477/ 10  W35 W9  W5  W3  W2  5.0
+  2 Leon, Vikram           EBSDH74X  1003  1141/ 63  W26 W21 W4  W6  L1  4.0
+  3 Rao, Jimmy             RCRDZ31U   300  1294/  5  W29 W22 W13 L1  W12 4.0
+  4 Ahsant, Nickrad        WELDJ56K  1096  1120/ 90  W25 W20 L2  W11 W7  4.0
+  5 Srinivasan, Atul       TBKCK65P  1051  1097/ 92  W31 W10 L1  W21 W9  4.0
+  6 Swain, Samarth         MMEDJ58S  1266  1239/394  W24 W12 D7  L2  W10 3.5
+  7 Cai, Emily             CNHDH60H   998  1070/112  W27 W14 D6  W18 L4  3.5
+  8 Anand, Krishna         LMACJ95V   615   853/ 85  L10 W31 D29 W22 W18 3.5
+  9 Ma, Caroline           BCSDK93V   897   973/114  W15 L1  W26 W13 L5  3.0
+ 10 Pingale, Sharanya      TKEDW79N   861   918/ 10  W8  L5  W34 W16 L6  3.0
+ 11 Simons, Winston        LKDDK28S   880   894/ 50  L14 W15 W23 L4  W21 3.0
+ 12 Bigelow, Atlas         WMEDJ61F   923   951/100  W33 L6  W25 W20 L3  3.0
+ 13 Liu, Kyle              CHRDK00Z  1058  1043/ 63  W23 W32 L3  L9  W19 3.0
+ 14 Gao, Arden             JINCH35W   637   808/ 49  W11 L7  L20 W26 W24 3.0
+ 15 Xu, Louis              MEDAH34T   694   809/ 55  L9  L11 W27 W23 W20 3.0
+ 16 Namjoshi, Aarav        KKNCG78Z   975   949/ 32  L21 W19 W24 L10 W28 3.0
+ 17 Hu, Ethan              CNHCH35U   717   735/ 37  L20 L23 BYE W25 W29 3.0
+ 18 Frenk, Rafael          CSIDJ75L  1229  1152/ 77  D19 W30 W22 L7  L8  2.5
+ 19 Chanda, Rishabh        BCABH72X   818   849/102  D18 L16 W30 W29 L13 2.5
+ 20 Sairam, Advaith        RBRCK01Q   874   852/176  W17 L4  W14 L12 L15 2.0
+ 21 Nayak, Aarav           SCDCG69Y   706   771/ 20  W16 L2  W32 L5  L11 2.0
+ 22 Yao, Roger Yutang      THODK88C   989   954/151  W28 L3  L18 L8  W30 2.0
+ 23 Johnson, Elke          HSCDG73L   755   752/ 48  L13 W17 L11 L15 W33 2.0
+ 24 Wang, Bowen            RCRCZ45J   831   815/ 11  L6  W28 L16 W33 L14 2.0
+ 25 Tare, Reya             SBOCW79Q   768   743/ 14  L4  W33 L12 L17 W34 2.0
+ 26 Ramana, Vihaan         KKNDJ99P   726   739/102  L2  W35 L9  L14 W31 2.0
+ 27 Su, Pin-ruei           RFKDH96G   745   717/ 78  L7  L29 L15 BYE W32 2.0
+ 28 Qu, Ziyou              BRBCJ86W   710   727/ 33  L22 L24 W35 W32 L16 2.0
+ 29 Hu, Ryan               OPWCJ97N   841   801/140  L3  W27 D8  L19 L17 1.5
+ 30 Cheng, Ary             KSHBG24S   731   701/ 34  HPB L18 L19 W34 L22 1.5
+ 31 Bogomolov, Henry       ENDDJ72J   751   659/ 89  L5  L8  L33 WF  L26 1.0
+ 32 Zhou, Max              BCSCH51K   858   747/ 25  W34 L13 L21 L28 L27 1.0
+ 33 Nair, Vihaan           FRWCJ97F   703   647/ 75  L12 L25 W31 L24 L23 1.0
+ 34 Zhou, George           BRYCJ65T   368   343/ 74  L32 BYE L10 L30 L25 1.0
+ 35 Li, Ethan              THRCJ97M   837   760/ 90  L1  L26 L28 LF  U   0.0

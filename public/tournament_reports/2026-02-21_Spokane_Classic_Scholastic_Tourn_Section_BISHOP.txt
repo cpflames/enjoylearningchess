@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Jain, Asmi             SGSFB47J   853  1064/106  W4  W5  W3  L2  W7  4.0
+  2 Mclachlan, Carlie      HSCJF42R   900  1200/  5  W7  L3  W4  W1  W8  4.0
+  3 Hegy, Desmond          CDAGY94D   600  1056/  5  W9  W2  L1  W5  L4  3.0
+  4 Autry-dalsanders, Reed MMCHK48X  1145  1120/129  L1  W9  L2  W6  W3  3.0
+  5 Ji, Melody             LBYEA83X   890   895/120  W6  L1  W8  L3  BYE 3.0
+  6 Duncan, Aj D           MCSFH49T   785   808/ 80  L5  BYE W7  L4  W9  3.0
+  7 Davis, Logan           HSCFH07K   878   839/ 26  L2  W8  L6  BYE L1  2.0
+  8 Zhang, Alex Sun        SKKEJ88B   709   696/ 56  BYE L7  L5  W9  L2  2.0
+  9 Davis, Milo            HSCCH07M   791   712/ 26  L3  L4  BYE L8  L6  1.0

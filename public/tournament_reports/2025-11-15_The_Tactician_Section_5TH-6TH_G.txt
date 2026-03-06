@@ -1,0 +1,27 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Judd, George           HABGJ57F   829   987/ 76  W12 W14 W17 W5  W3  5.0
+  2 Hoffman, David         ADDGJ98J   869   995/ 68  W7  W13 W4  L3  W6  4.0
+  3 Byelashova, Darya      SGHFK51X  1271  1247/245  W24 W8  W6  W2  L1  4.0
+  4 Ferris, Ari            FHVGG98H  1090  1070/ 63  W22 W10 L2  W16 W7  4.0
+  5 Powell, Nico           REOFF97E   500   795/  5  D18 W21 W8  L1  W12 3.5
+  6 Williams, Hunter       IGNFG53C   865   866/ 20  W16 W23 L3  W9  L2  3.0
+  7 Carignan, Casey        REOFF97D   500   751/  5  L2  W20 W23 W10 L4  3.0
+  8 Guz, Phoenix           NOVGH57S   516   605/ 15  W19 L3  L5  W21 W16 3.0
+  9 Tharp, Huckleberry     REOFF97B   500   664/  5  L13 W11 W14 L6  W18 3.0
+ 10 Gerboth, Connor        WMOGJ52L   360   474/ 15  W25 L4  W19 L7  W20 3.0
+ 11 Short, Austin          HABGH38T   545   530/ 29  L23 L9  W26 W19 W15 3.0
+ 12 Bhanpurwala, Husain    JFMGF97A   600   597/  5  L1  W24 D13 W17 L5  2.5
+ 13 Kennedy, Rudy          CNKGH06B   471   512/ 18  W9  L2  D12 L15 W24 2.5
+ 14 Murphy, Pryor          FSEFK16W   323   400/ 49  W20 L1  L9  W26 D17 2.5
+ 15 Surineni, Aaditri      MSMFJ52D   532   502/ 44  D26 D18 D21 W13 L11 2.5
+ 16 Anoop, Rishub          REOFF96Z   500   558/  5  L6  W25 W18 L4  L8  2.0
+ 17 Montes, Luca           LELFG52Z   547   502/ 15  D21 W26 L1  L12 D14 2.0
+ 18 Brar, Angad            PIOFJ52A   606   566/ 75  D5  D15 L16 W23 L9  2.0
+ 19 Dunnaback, Claire      JFMGF96Y   600   395/  5  L8  W22 L10 L11 W23 2.0
+ 20 Chacon, Gavin          LIYGF96X   600   359/  5  L14 L7  W24 W22 L10 2.0
+ 21 Teresi, Dean           WMOGF96V   600   375/  5  D17 L5  D15 L8  D22 1.5
+ 22 Gallegos, Max          EVCGF96U   600   242/  5  L4  L19 W25 L20 D21 1.5
+ 23 Cowan, Andrew          APRGF96T   600   353/  5  W11 L6  L7  L18 L19 1.0
+ 24 Lynch, Aero            REOFF96S   500   222/  5  L3  L12 L20 W25 L13 1.0
+ 25 Cowan, Adam            APRGF96R   600   100/  5  L10 L16 L22 L24 W26 1.0
+ 26 Moon, Sage             ORLFF96Q   500   100/  5  D15 L17 L11 L14 L25 0.5

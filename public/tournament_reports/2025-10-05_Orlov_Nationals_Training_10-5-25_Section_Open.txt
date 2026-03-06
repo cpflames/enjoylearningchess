@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Frenk, Rafael          CSIDJ75L  1132  1166/ 67  W9  1.0
+  2 Jang, Jinwon           VIEI561P  1160  1163/189  W10 1.0
+  3 Raghavan, Mridula      FRWGG32B   807   837/ 30  W7  1.0
+  4 Mccarthy, Eugene       CDLFG73B   684   722/ 28  W8  1.0
+  5 Yeh, George            CSIDH64S  1163  1161/ 41  D6  0.5
+  6 Xiong, Maxwell         CSIEK92H  1141  1143/ 93  D5  0.5
+  7 Mathew, Reuben         MRIBG33B   783   753/ 33  L3  0.0
+  8 Raghavan, Anirudh      FRWFG42Z   726   689/ 49  L4  0.0
+  9 Zou, Jinhan            LMSFH14T  1215  1183/193  L1  0.0
+ 10 Sang, Andy             BASDK65W   648   644/114  L2  0.0

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Madadi, Hannah         CGRDH65Y   199   361/ 63  W3  W4  W2  3.0
+  2 Lee, Paul              ENABG33D   100   172/  9  W6  W5  L1  2.0
+  3 Chen, Aaron            DCCEF92U   115   190/  8  L1  W6  W4  2.0
+  4 Mohan, Rinit           SNREF92V   142   113/  7  W5  L1  L3  1.0
+  5 Manikantan, Tejas      CHADH34E   121   100/ 11  L4  L2  W6  1.0
+  6 Rajesh Nataraj, AdhiyanHSCBF86W   100   100/  3  L2  L3  L5  0.0

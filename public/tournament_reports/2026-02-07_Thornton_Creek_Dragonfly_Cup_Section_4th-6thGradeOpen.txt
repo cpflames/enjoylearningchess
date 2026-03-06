@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Pleasants, Gabriel     THUF149G  1298  1361/156  W9  W2  D3  W4  W5  4.5
+  2 Kakkad, Vayu           LMSFK50L  1153  1254/566  W11 L1  W6  W3  W4  4.0
+  3 Wadhwani, Ren          DCCFK13K  1390  1373/124  W5  W7  D1  L2  W10 3.5
+  4 Raghavendran, Vedanth  DCSCH24C  1198  1198/ 79  W8  W6  W7  L1  L2  3.0
+  5 Jariwala, Vidur        THOFK87P   959  1041/128  L3  W10 W8  W7  L1  3.0
+  6 Arumuga Perumal, ChitreHEAGF53A   600  1014/  4  BYE L4  L2  W9  W8  3.0
+  7 Rachiba, Alisa         NARFK08E  1175  1121/266  W10 L3  L4  L5  W11 2.0
+  8 Ben Simon, Golan       WEDEJ48B   817   813/ 91  L4  W9  L5  BYE L6  2.0
+  9 Shing, Lucas           HZFEJ74H   846   816/170  L1  L8  W11 L6  BYE 2.0
+ 10 Raghavendran, Vishakh  DCSEH24Q   829   827/ 72  L7  L5  BYE W11 L3  2.0
+ 11 Sethanandha, Marvin    CSIFH88K   810   744/ 69  L2  BYE L9  L10 L7  1.0

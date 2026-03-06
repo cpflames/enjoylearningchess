@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tomjack, Noelle        SDREZ77H   387   569/ 46  W3  W2  W4  3.0
+  2 Linn, Atticus          SDSDZ80S   496   446/ 63  L4  L1  W3  1.0
+  3 Veldhouse, Pierce      SDCIZ89Z   456   410/  9  L1  W4  L2  1.0
+  4 Henningson, Jayse      SDKFZ54W   328   332/ 36  W2  L3  L1  1.0

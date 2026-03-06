@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Fahlstrom, Lawrence    ICPJY989   573   857/ 20  W5  W2  W4  W7  W6  5.0
+  2 Eberlein, Jacob        ICPLY99M   754   802/ 30  W8  L1  W3  W5  W4  4.0
+  3 Ferguson, Jordan       ICPNY99N   675   677/ 39  L6  W7  L2  W4  W5  3.0
+  4 Odell, Eric            LBYEH49Y   591   593/ 50  W7  W6  L1  L3  L2  2.0
+  5 Peters, Jude           ICPJY97V   751   643/ 10  L1  W8  W6  L2  L3  2.0
+  6 Pribilovics, Kingston  GONGF87N   600   496/  4  W3  L4  L5  WF  L1  2.0
+  7 Eberlein, Joseph       ICPIY98J   669   596/ 33  L4  L3  W8  L1  BYE 2.0
+  8 Metzger, Rylan         ICPJY94V   900   180/  3  L2  L5  L7  LF  U   0.0

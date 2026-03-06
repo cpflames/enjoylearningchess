@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hartman, Jospeh        CSNLG00V  1100  1000/  3  W5  W4  W2  3.0
+  2 Sheilk, Laura          LWCLG00S  1100  1000/  3  W3  W5  L1  2.0
+  3 Conway, Will           CSNKG00R  1000  1000/  3  L2  W6  W4  2.0
+  4 O'dashtny, Brandon     CSNLG00Q  1100   833/  3  W6  L1  L3  1.0
+  5 Lanasa, Jackson        CSNKG00M  1000   942/  3  L1  L2  W6  1.0
+  6 Schell, Bryna          CSNLG00J  1100   550/  3  L4  L3  L5  0.0
+
+ All Unrated-player Section: Ratings capped at 1000

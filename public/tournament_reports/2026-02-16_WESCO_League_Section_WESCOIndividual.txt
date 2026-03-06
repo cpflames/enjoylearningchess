@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Einfeld, Ethan         EDWLG79Q  1462  1502/ 17  W11 W2  W13 W4  4.0
+  2 Chillakuru, Hem        JACLK08D  1236  1265/ 32  W10 L1  W16 W6  3.0
+  3 Nawagamudewage, Inura  KAMJJ11V  1329  1344/ 76  U   U   W17 W9  2.0
+  4 Geng, Tommy            JACMF12Q  1270  1293/ 76  W14 W21 W5  L1  3.0
+  5 Bates, Killian         JACKK18M  1263  1256/ 76  W22 W15 L4  W12 3.0
+  6 Jayakrishnan, Chethan KJACJH06G  1167  1199/ 53  W21 W14 W7  L2  3.0
+  7 Singh, Atharva         JACJK06G  1278  1257/ 85  W15 W10 L6  D8  2.5
+  8 Kum, Leon              MRRKH46X  1118  1131/ 18  U   U   W18 D7  1.5
+  9 Duong, Duc             MRRMH46G  1155  1144/ 23  U   U   W19 L3  1.0
+ 10 Banchero, Andrew       EDWLJ46Q  1039  1045/ 30  L2  L7  W11 W18 2.0
+ 11 Kolli, Vaibhav         JACMK905  1046  1026/ 93  L1  W22 L10 W19 2.0
+ 12 Martinez Mendez, Cesar MRRJF49W   900   957/  2  U   U   W20 L5  1.0
+ 13 Hutahaen, Patrick      KAMMG79P  1107  1133/  4  U   U   L1  W16 1.0
+ 14 Gary, Declan           EDWKF49V  1000  1017/  4  L4  L6  W15 W20 2.0
+ 15 Ngo, Joshua            EDWMB43H   909   894/115  L7  L5  L14 W17 1.0
+ 16 Robles, Osmar          MRRMJ77D   837   822/ 19  U   U   L2  L13 0.0
+ 17 Haukaas, Asher         MRRMG79K   802   776/ 15  U   U   L3  L15 0.0
+ 18 Ding, Calvin           KAMMJ19E   607   598/ 18  U   U   L8  L10 0.0
+ 19 Vo, Bryson             KAMKF49U  1000   637/  2  U   U   L9  L11 0.0
+ 20 Saiapin, Timur         KAMKF49T  1000   582/  2  U   U   L12 L14 0.0
+ 21 Anthony, Cole          EDWLF49S  1100   815/  2  L6  L4  U   U   0.0
+ 22 Raynes, Brandon        EDWKF49R  1000   637/  2  L5  L11 U   U   0.0

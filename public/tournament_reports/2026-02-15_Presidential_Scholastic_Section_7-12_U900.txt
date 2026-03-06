@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Puranam, Shankar       SSMK299M   579   817/ 15  W7  W3  W5  L2  W6  4.0
+  2 Ely, Joshua            BOTJK73B   752   820/ 30  D9  W7  W6  W1  D3  4.0
+  3 Hossain, Nehan         BOTKF46N  1000   837/  4  WF  L1  W4  W5  D2  3.5
+  4 Li, Jacob              TMBHE48C   391   521/ 18  BYE L5  L3  W8  W9  3.0
+  5 Chim, Zander           XXXJH34X   854   772/ 15  W6  W4  L1  L3  L8  2.0
+  6 Gummineni, Charith     MOBJJ31D   604   612/ 13  L5  W9  L2  W7  L1  2.0
+  7 Sarychev, Aleksei      ISSLJ98N   734   663/362  L1  L2  W9  L6  BYE 2.0
+  8 Aker, Pepper           WMSH181G   660   658/146  LF  U   BYE L4  W5  2.0
+  9 Thorrington, James     SASH547U   547   487/ 84  D2  L6  L7  BYE L4  1.5

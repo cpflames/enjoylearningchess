@@ -1,0 +1,22 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Kasala, Avyukt         CDWFG60F   828   940/ 19  W3  W6  W10 W5  4.0
+  2 Kansal, Sarthak        NRCKG18S  1000  1202/  3  HPB W15 W11 W7  3.5
+  3 Lee, Julianus          CDWFK90C   627   725/ 71  L1  W17 W16 W13 3.0
+  4 Sinha, Ethan           CDWEG21N   575   681/  8  W18 W16 L5  W10 3.0
+  5 Petluri, Anish         DISCH48F   692   706/ 34  D15 W8  W4  L1  2.5
+  6 Raghavan, Anirudh      FRWFG42Z   652   657/ 44  W21 L1  D9  W15 2.5
+  7 Gupta, Akshay          HMNDF62T   753   776/119  W17 W12 HPB L2  2.5
+  8 Lee, Jasyn             CDWIK90G   212   481/  6  W14 L5  W12 HPB 2.5
+  9 Cheng, Ary             XXXBG24S   582   631/  8  L11 W20 D6  W16 2.5
+ 10 Raghavendran, Vishakh  DCSEH24Q   728   727/ 29  W19 W11 L1  L4  2.0
+ 11 Raghavan, Mridula      FRWGG32B   828   807/ 29  W9  L10 L2  W17 2.0
+ 12 Bilguun, Telmuun       PKWGK18D   631   593/ 34  W20 L7  L8  W19 2.0
+ 13 Jayakrishnan, Archith  FRVCG58A   496   512/ 33  L16 W21 W14 L3  2.0
+ 14 Ragno, Xander          HSCBH59U   672   602/ 19  L8  W19 L13 W18 2.0
+ 15 Suhasan, Nehaa         FRVDJ30B   410   426/ 39  D5  L2  W18 L6  1.5
+ 16 Bansal, Neev           KKNEH05Z   798   699/ 26  W13 L4  L3  L9  1.0
+ 17 Krishna, Vihaan        REEE263E   490   471/ 28  L7  L3  W20 L11 1.0
+ 18 Bellam, Siddhant       WDEBG51Z   100   100/ 15  L4  BYE L15 L14 1.0
+ 19 Pulla, Arohan          AUDEG51U   484   421/ 37  L10 L14 BYE L12 1.0
+ 20 Nawagamudewage, WethulaXXXAG18Q   100   247/  4  L12 L9  L17 W21 1.0
+ 21 Krishna, Venya         ENSAG19J   100   100/  8  L6  L13 HPB L20 0.5

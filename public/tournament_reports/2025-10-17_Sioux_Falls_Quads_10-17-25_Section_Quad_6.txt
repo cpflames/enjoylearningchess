@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Potter, David          SDRDZ40L   387   482/  9  W4  W5  W2  3.0
+  2 Linn, Atticus          SDSDZ80S   428   442/ 45  W5  W3  L1  2.0
+  3 Mcdade, Max            SDGDZ52S   343   348/ 14  W6  L2  W4  2.0
+  4 Thorpe, Winston        XXXAG11Z   100   176/  3  L1  W6  L3  1.0
+  5 Andrade, Xavier        SDGDZ67W   256   242/ 17  L2  L1  W6  1.0
+  6 Dandar, Fritz          XXXAG11Y   100   100/  3  L3  L4  L5  0.0

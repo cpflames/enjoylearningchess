@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Scott, Liam            PSPGK50P   527   761/ 78  W2  W4  W3  W5  W6  5.0
+  2 Young, Daniel          EVAIJ96U   683   709/111  L1  W3  W6  W4  W5  4.0
+  3 Johnson, Austin        NSVFH49W   503   544/ 65  W5  L2  L1  W6  W4  3.0
+  4 Richards, Benjamin     NSVEH49S   591   545/ 60  W6  L1  W5  L2  L3  2.0
+  5 Emerson, Samuel        LBYFF51K   583   439/ 10  L3  W6  L4  L1  L2  1.0
+  6 Ledford, James         SOCGF42S   600   100/  5  L4  L5  L2  L3  L1  0.0

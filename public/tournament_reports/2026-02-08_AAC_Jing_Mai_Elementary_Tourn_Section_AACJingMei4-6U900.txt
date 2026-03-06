@@ -1,0 +1,32 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Karanam, Aadya         SWLFK84K   786   950/169  W14 W19 W8  W3  W5  5.0
+  2 Badi, Shreya           STTGK52A   609   844/104  W23 W4  D5  W6  W11 4.5
+  3 Wu, Caelan             JINFF52Y   500   905/  5  W17 W12 W18 L1  W9  4.0
+  4 Phadnis, Neil          DISFK44Y   835   846/ 93  W26 L2  W20 W18 W10 4.0
+  5 Menezes, Ronit         CHOGK44M   809   815/130  W20 W21 D2  W16 L1  3.5
+  6 Menezes, Kian          MEDDJ97B   714   710/120  W27 W24 D16 L2  W8  3.5
+  7 Sankapal, Pranav       SNEEJ61E   820   787/ 61  L8  W28 D17 W25 W16 3.5
+  8 Lu, Clemence           JINFK84Y   409   626/ 47  W7  W10 L1  W17 L6  3.0
+  9 Ram, Yaalini           SNEDH87H   721   711/178  L13 W15 W14 W12 L3  3.0
+ 10 Xiao, Luke             EASFC79Q   728   698/ 44  W28 L8  W13 W21 L4  3.0
+ 11 Wang, Gideon           SOMFC35B   766   723/ 49  W29 L16 W26 W19 L2  3.0
+ 12 Wu, Annie              MEDFF93E   620   612/ 14  W31 L3  W24 L9  W22 3.0
+ 13 Lu, Andy               JINEJ02X   347   490/ 54  W9  L18 L10 W24 W21 3.0
+ 14 Nguyen, Kaden          JINEJ74K   383   477/ 30  L1  W31 L9  W28 W18 3.0
+ 15 Stoltzfus, Alexander   NCSEF52X   400   547/  5  L18 L9  W23 W29 W19 3.0
+ 16 Yang, Boris            CMCEH76C   314   532/ 23  W25 W11 D6  L5  L7  2.5
+ 17 Iyengar, Keshav        SHSEH29S   454   498/ 51  L3  W29 D7  L8  W26 2.5
+ 18 Sealey, Isaac          SNIFK43S   652   626/ 41  W15 W13 L3  L4  L14 2.0
+ 19 Venkata, Vedanth       RSAEJ47Y   529   513/ 40  W22 L1  W27 L11 L15 2.0
+ 20 Yang, Allen            BASGK17F   407   404/ 18  L5  W23 L4  L22 W27 2.0
+ 21 Yan, Alyan             NCSFJ63Q   467   456/ 31  W30 L5  W22 L10 L13 2.0
+ 22 Feng, Augustus         JINEF52W   400   447/  5  L19 W25 L21 W20 L12 2.0
+ 23 Chou, Isaac            JINEF52V   400   328/  5  L2  L20 L15 W30 W29 2.0
+ 24 Chen, Maxwell          JINEJ70A   100   166/  8  BYE L6  L12 L13 W30 2.0
+ 25 Sun, Ethan             JINEK94M   776   666/ 82  L16 L22 W31 L7  W28 2.0
+ 26 Tan, Mai               MEDEK93R   452   393/ 53  L4  W30 L11 D27 L17 1.5
+ 27 Sin, Benjamin          JINE259D   131   131/ 24  L6  BYE L19 D26 L20 1.5
+ 28 Chen, Aaron            DCCEF92U   254   226/ 44  L10 L7  BYE L14 L25 1.0
+ 29 Zhang, Jiayan          JINEG61H   259   219/ 10  L11 L17 W30 L15 L23 1.0
+ 30 Beard, Andrew          SCDFF52U   500   100/  5  L21 L26 L29 L23 L24 0.0
+ 31 Xi, Zheng              SOMEF52T   400   100/  3  L12 L14 L25 LF  U   0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sudhir, Aakanksha      MEDGG67F   514   696/ 16  W3  W2  W4  3.0
+  2 Knigawka, Filip        CAVAF91P   554   600/ 18  W4  L1  W3  2.0
+  3 Yin, Aiden             SOMCG49K   608   569/ 29  L1  W4  L2  1.0
+  4 Etienne, Yann          CDVCG21M   528   452/ 44  L2  L3  L1  0.0

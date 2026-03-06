@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mohammed, Farhan       CRKFH14M  1067  1161/139  W4  W3  W2  3.0
+  2 Nandakiran, Vidyuth    INGG617C  1081  1092/246  W3  W4  L1  2.0
+  3 Balaji, Pranav         INGIJ96J   967   931/138  L2  L1  D4  0.5
+  4 Mangla, Atharv         GRRFK07C   957   924/202  L1  L2  D3  0.5

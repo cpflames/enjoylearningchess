@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Balaji, Pranav         INGIJ96J   983  1063/149  D2  W3  W4  2.5
+  2 Charles, Benjamin      SOMCJ06G   877   919/198  D1  W4  L3  1.5
+  3 Sathyamurthy, Sreeshan EVJJJ24M  1003  1002/201  D4  L1  W2  1.5
+  4 Nandakiran, Vidyuth    INGG617C  1092  1019/249  D3  L2  L1  0.5

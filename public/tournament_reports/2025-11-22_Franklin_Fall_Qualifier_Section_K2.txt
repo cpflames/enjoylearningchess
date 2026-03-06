@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Goodwin, Bodhi         FACCH39B   328   438/ 30  W3  W4  L2  W5  W6  4.0
+  2 Campbell, Crinan       FACCJ64M   325   386/ 24  W6  W5  W1  D3  L4  3.5
+  3 Ping, Quinn            WKEBF94Q   100   433/  5  L1  W6  W4  D2  W5  3.5
+  4 Ferris, Sam            LLLAG54F   396   386/ 27  W5  L1  L3  W6  W2  3.0
+  5 Crompton, Clara        FACCH39A   100   100/ 23  L4  L2  W6  L1  L3  1.0
+  6 Holmstrom, Kenley      FACCF94P   200   100/  5  L2  L3  L5  L4  L1  0.0

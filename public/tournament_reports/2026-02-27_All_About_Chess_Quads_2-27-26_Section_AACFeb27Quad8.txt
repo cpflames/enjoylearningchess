@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sathyamurthy, Shreyus  BLWDJ60Z   586   608/229  W4  W3  L2  2.0
+  2 Sarychev, Aleksei      ISSLJ98N   603   620/372  L3  W4  W1  2.0
+  3 Balaji, Vaibhav        SSMDH28Z   525   508/163  W2  L1  L4  1.0
+  4 Tanielian, Desmond     WOBFG19S   541   518/ 44  L1  L2  W3  1.0

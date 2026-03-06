@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tanielian, Theo        WOBBG19Q   195   342/ 44  W2  W5  W3  3.0
+  2 Prabhu, Kiaan          CNHCG18Z   123   146/ 10  L1  BYE W5  2.0
+  3 Reddy, Atharv          GRRBG25J   100   100/ 45  BYE D4  L1  1.5
+  4 Morampudi, Josya       TBKFF40G   500   100/  2  L5  D3  BYE 1.5
+  5 Paidipathi, Anaika     SHSBG01U   157   129/ 37  W4  L1  L2  1.0

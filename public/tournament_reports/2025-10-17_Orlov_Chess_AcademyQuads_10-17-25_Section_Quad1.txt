@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sijin, Ryan            BENDG24X   886   921/ 35  W2  W3  L4  2.0
+  2 Daniel, Lemuel         MMEEJ29L  1029  1021/103  L1  W4  W3  2.0
+  3 Zeeshan, Hamza         CRKFJ15N   802   805/117  W4  L1  L2  1.0
+  4 Nishino, Anne          BABEH74F   895   871/199  L3  L2  W1  1.0

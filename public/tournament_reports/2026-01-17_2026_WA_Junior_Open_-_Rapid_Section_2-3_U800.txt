@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Jayakrishnan, Archith  FRVCG58A   932   951/ 48  W17 D11 W5  W6  W2  4.5
+  2 Zeng, Liam             SHSAH05U   733   795/ 84  W13 W10 W14 W3  L1  4.0
+  3 Sairam, Advaith        RBRCK01Q   765   796/191  W14 W8  W10 L2  W6  4.0
+  4 Nayak, Aarav           SCDCG69Y   750   801/ 30  W15 W16 L6  W8  W7  4.0
+  5 Iyer, Anirudh          RSADH36Q   704   701/ 49  D12 W18 L1  W13 W11 3.5
+  6 Nair, Vihaan           FRWCJ97F   647   726/ 80  W22 W7  W4  L1  L3  3.0
+  7 Johnson, Elke          HSCDG73L   776   752/ 58  W19 L6  W11 W9  L4  3.0
+  8 Wei, Brayden           ETSDK90F   624   643/123  W20 L3  W15 L4  W16 3.0
+  9 Tallapaneni, Thanvish  SWSDG21R   624   618/ 14  L11 W12 W16 L7  W15 3.0
+ 10 Buragadda, Naga Kovidh BRHDH36C   119   331/ 19  BYE L2  L3  W14 W19 3.0
+ 11 Jibesh Nair, Anika     SPLDW75B   398   489/  5  W9  D1  L7  W18 L5  2.5
+ 12 Wu, Pingguan           DCCDG35E   186   333/ 15  D5  L9  L17 W22 W18 2.5
+ 13 Sirsat, Sanya          BCADH60Z   489   497/ 30  L2  W21 W19 L5  HPB 2.5
+ 14 Hu, Hannah             CMCDG92U   552   517/ 25  L3  W17 L2  L10 W20 2.0
+ 15 Gangineni, Sarvesh     MMECH62Q   530   516/ 59  L4  W20 L8  W17 L9  2.0
+ 16 Wang, Shayne           RSADH05Y   596   546/ 19  W21 L4  L9  W20 L8  2.0
+ 17 Yang, Claude           SCDDK65F   474   453/ 41  L1  L14 W12 L15 W22 2.0
+ 18 Harikrishnan, SrivathsaBRHCG78U   230   230/ 20  HPB L5  W22 L11 L12 1.5
+ 19 Cuiper, Eric           PEGCG11X   527   428/ 19  L7  D22 L13 W21 L10 1.5
+ 20 Gonzalez Lagos, ChristiDCCDG46A   376   321/ 28  L8  L15 W21 L16 L14 1.0
+ 21 Ginder, Kenny          XXXDF66V   300   100/  4  L16 L13 L20 L19 BYE 1.0
+ 22 Kalyanasundaram, SrinivCNCDH48Q   401   293/ 67  L6  D19 L18 L12 L17 0.5

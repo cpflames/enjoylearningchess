@@ -1,0 +1,28 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Dlugy, Maxim           PAXNX05D  2604  2606/112  W6  W4  W11 D2  3.5
+  2 Tanenbaum, Zachary     CTXNX00E  2456  2459/136  D3  W9  W12 D1  3.0
+  3 Kao, Jamison Edric     CTXJZ40H  2250  2262/  8  D2  W8  W18 D5  3.0
+  4 Dedona, Mark           NYXNX02P  2244  2267/138  W7  L1  W21 W11 3.0
+  5 Mashkov, David AlexandeCTXMX10Q  2115  2126/131  W19 D18 W16 D3  3.0
+  6 Ling, Chenxuan         NYXGX10N  2253  2261/116  L1  W21 W23 D7  2.5
+  7 Kudrin, Sergey         CTXNX00D  2380  2371/155  L4  W15 W20 D6  2.5
+  8 Garg, Priyansh         NYXJZ46U  2270  2264/ 12  D13 L3  W24 W16 2.5
+  9 Ingargiola, Max        CTXMX10G  2159  2166/152  W25 L2  D15 W17 2.5
+ 10 Zhao, Kevin            MAXHX10Y  2257  2253/110  W27 L11 D17 W15 2.5
+ 11 Szabo, Marcell         HTNN3267  2216  2227/184  W22 W10 L1  L4  2.0
+ 12 Bai, Jason             CTXKX10B  1922  1973/119  W14 W25 L2  U   2.0
+ 13 Xu, Shawn              MAXGZ345  2175  2172/  4  D8  L22 D19 W20 2.0
+ 14 Chang, Leonhard        NJXIZ344  2073  2082/  3  L12 W26 W22 U   2.0
+ 15 Wu, Felix              CTXGZ40D  1959  1976/  8  W20 L7  D9  L10 1.5
+ 16 Pramanik, Aayansh      NJXFZ343  2043  2035/  4  D23 W24 L5  L8  1.5
+ 17 Wang, Lacey            CTXHX05K  2037  2030/120  D24 D23 D10 L9  1.5
+ 18 Wu, Darren             NYXDX06C  1797  1807/104  BYE D5  L3  U   1.5
+ 19 Natarajan, Neil        BCCIV24M  1990  1978/ 97  L5  L20 D13 BYE 1.5
+ 20 Lee, Rohan             NYXJZ342  2076  2059/  4  L15 W19 L7  L13 1.0
+ 21 Bhargava, Kushagra     CTXIX00P  2057  2052/146  W26 L6  L4  U   1.0
+ 22 Groff, Jordan          CTXNX00K  2297  2280/129  L11 W13 L14 U   1.0
+ 23 Griffin, Miles         NJXNZ41D  1985  1984/ 11  D16 D17 L6  U   1.0
+ 24 Wu, Cody               CTXGX11H  1920  1911/139  D17 L16 L8  U   0.5
+ 25 Mehta, Dhairya M       MAXJX00B  2146  2121/109  L9  L12 U   U   0.0
+ 26 Zheng, Ryan            CTXLX04Y  1897  1881/130  L21 L14 U   U   0.0
+ 27 Shure, Gary M          CTXNZ46Q  2200  2191/  4  L10 U   U   U   0.0

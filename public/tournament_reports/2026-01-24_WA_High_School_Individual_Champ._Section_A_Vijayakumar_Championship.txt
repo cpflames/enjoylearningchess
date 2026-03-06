@@ -1,0 +1,27 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Willy, Stephen         HSCKH17K  2309  2312/636  W18 W4  D3  W2  W10 4.5
+  2 Vemparala, Nikash      OVLKI078  2280  2269/454  W11 W13 W6  L1  D3  3.5
+  3 Wang, Leonardo         MTSJ233K  1930  1958/192  W24 W9  D1  D10 D2  3.5
+  4 Liu, Bichen            OVLJK00D  1802  1824/168  W17 L1  W24 D13 W14 3.5
+  5 Verma, Darsh           WDVJB52K  1947  1937/262  D8  D16 W18 D6  W9  3.5
+  6 Subramanian, Thrinay   INTK466R  1745  1765/207  W20 W15 L2  D5  D7  3.0
+  7 Eksarevskiy, Albert    LSSL530Y  1907  1890/191  D16 D8  W11 D14 D6  3.0
+  8 Cen, Evan              INTKI97D  1719  1731/275  D5  D7  L14 W19 W17 3.0
+  9 Chen, William          EALJ550N  1728  1730/359  W22 L3  W21 W23 L5  3.0
+ 10 Mishra, Abhinav        REDKB02W  1814  1863/193  HPB W26 W23 D3  L1  3.0
+ 11 Nam, Jinmo             GRRLC101  1721  1735/255  L2  W19 L7  W25 W13 3.0
+ 12 Deng, Austin           NPRMJ89K  1535  1532/ 42  HPB L18 W22 D17 W21 3.0
+ 13 Hetamsaria, Aadi       NPRM888H  1770  1768/215  W19 L2  W16 D4  L11 2.5
+ 14 Yuodelis, Kenneth      NPRM3681  1771  1753/518  L15 W20 W8  D7  L4  2.5
+ 15 Wakeman, Oliver        INLMG10Y  1045  1207/160  W14 L6  L17 W22 D16 2.5
+ 16 Zhang, Owen            SHMK995H  1672  1668/414  D7  D5  L13 D18 D15 2.0
+ 17 Ao, Ethan              NPRMJ24V  1532  1508/ 54  L4  D22 W15 D12 L8  2.0
+ 18 Rubaiyat, Rhadean      REDKD40L  1727  1724/259  L1  W12 L5  D16 HPB 2.0
+ 19 Bondar, Dmitriy        REDKI117  1319  1365/ 57  L13 L11 W20 L8  W25 2.0
+ 20 Hetamsaria, Aayan      BISKG19R  1532  1515/127  L6  L14 L19 BYE W23 2.0
+ 21 Siddiqui, Kaamil       BLLLD777  1108  1168/258  HPB HPB L9  W24 L12 2.0
+ 22 Jayakrishnan, Chethan KJACJH06G  1178  1167/ 49  L9  D17 L12 L15 BYE 1.5
+ 23 Scollon, Owen          SHMK734D  1731  1681/621  W25 HPB L10 L9  L20 1.5
+ 24 Stroud, Jeb            SHMKK22V  1680  1635/268  L3  W25 L4  L21 U   1.0
+ 25 Bates, Killian         JACKK18M  1294  1263/ 72  L23 L24 BYE L11 L19 1.0
+ 26 Min, Ryan              INTL5430  2108  2089/469  HPB L10 U   U   U   0.5

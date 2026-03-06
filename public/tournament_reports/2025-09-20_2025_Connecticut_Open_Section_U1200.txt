@@ -1,0 +1,33 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Ziring, Konstantin     CTXNZ38X  1300  1492/  4  W19 W9  W4  W3  4.0
+  2 Konda, Rishaan Key     NJXFZ38W   500  1536/  4  W5  W29 W6  W11 4.0
+  3 Mukherjee, Anubhab     MAXFX07G   933  1100/ 33  W12 W13 W16 L1  3.0
+  4 Veeramanikandan, V     MAXGZ42A   858  1061/  8  W21 W17 L1  W15 3.0
+  5 Wen, Liam Felix        CTXGZ38V  1013  1096/  4  L2  W26 W13 W14 3.0
+  6 Bala Gowda, Nihal V    CTXHX04F   966  1027/147  W25 W24 L2  W17 3.0
+  7 Menon, Arjun           MAXFZ38U   500  1191/  4  D11 W23 D15 W18 3.0
+  8 Siu, Lucy Aymin        NYXGZ42F   909   991/  6  HPB D11 W12 W16 3.0
+  9 Mashkov, Maximilia     CTXDX07J   836   975/ 36  W27 L1  D22 W21 2.5
+ 10 Hardin, Richard        CTXNZ52V  1235  1200/ 13  W28 L16 HPB WF  2.5
+ 11 Deeney, Samuel         NJXNZ40Z  1156  1149/  8  D7  D8  W24 L2  2.0
+ 12 Plotkin, Nadia Ele     NJXEZ38T  1068  1046/  4  L3  W20 L8  W30 2.0
+ 13 Pompa, Grady           CTXGX07V  1283  1224/116  W20 L3  L5  W24 2.0
+ 14 Allick, Roland DemetriuCTXMZ732   913   956/ 12  W22 D15 D21 L5  2.0
+ 15 Brueningsen, Sam       VTXHZ38S   956   961/  4  W31 D14 D7  L4  2.0
+ 16 Baker, Michael         CTXNX12X   907   919/ 23  WF  W10 L3  L8  2.0
+ 17 Jones, Chase           CTXFZ54N  1119  1067/ 20  W32 L4  W27 L6  2.0
+ 18 Hoy, Charlton          CTXNX03P  1112  1032/ 12  L24 W25 W30 L7  2.0
+ 19 Pearl, Roman           CTXNX12J   914   888/115  L1  L27 W31 W25 2.0
+ 20 Bala Gowda, Nibha V    CTXJX04C   902   941/150  L13 L12 W26 W28 2.0
+ 21 James, Caleb           CTXEX08A  1178  1099/120  L4  W32 D14 L9  1.5
+ 22 Gudipati, Aadvik KrishnCTXGX13C  1106  1066/111  L14 W31 D9  LF  1.5
+ 23 Gebril, Ahmed Ayman    CTXNZ40X   940   859/  6  HPB L7  L28 WF  1.5
+ 24 Guo, Patrick           NYXFZ428   728   763/  8  W18 L6  L11 L13 1.0
+ 25 Ledner, Michael        CTXNZ40P   100   180/  8  L6  L18 W32 L19 1.0
+ 26 Negi, Rishaan          CTXBZ50P   911   873/ 35  L29 L5  L20 W31 1.0
+ 27 Nyland, Daniel Stephen CTXNZ38R  1300   855/  3  L9  W19 L17 U   1.0
+ 28 Aurora, Neil           CTXEZ52H  1054   983/  8  L10 L30 W23 L20 1.0
+ 29 Kriger, Dmitriy        CTXNZ73C  1135  1151/ 10  W26 L2  U   U   1.0
+ 30 Sambasivan, Raghav     NJXCZ38Q   888   887/  3  LF  W28 L18 L12 1.0
+ 31 Mathivanan, Rayan      CTXFX08F   748   690/123  L15 L22 L19 L26 0.0
+ 32 Sapand, Mumtaz         CTXMZ38P  1200   100/  3  L17 L21 L25 LF  0.0

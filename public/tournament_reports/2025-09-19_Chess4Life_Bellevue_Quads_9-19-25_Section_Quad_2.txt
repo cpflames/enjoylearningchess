@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sarkar, Hridik         FRVGK04W  1013  1017/101  W2  L4  W3  2.0
+  2 Wong, Claire           BCADK86D   873   933/151  L1  W3  W4  2.0
+  3 Roy, Ricky             RCSGW75V   945   917/ 18  W4  L2  L1  1.0
+  4 Koster, John           WOBCJ88T   894   880/141  L3  W1  L2  1.0

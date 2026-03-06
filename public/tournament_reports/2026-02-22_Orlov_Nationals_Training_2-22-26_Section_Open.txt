@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Pan, Jesse             ENSEJ61R  1109  1180/ 52  W6  W4  2.0
+  2 Lai, Austin            EVGEK94F  1095  1169/134  W5  W3  2.0
+  3 Raman, Arjun           ETSDH96Y  1244  1225/ 62  W7  L2  1.0
+  4 Mccarthy, Eugene       CDLFG73B  1069  1060/ 53  W8  L1  1.0
+  5 Jang, Jinwon           EMSI561P  1231  1205/229  L2  W8  1.0
+  6 Zhang, Kevin           OMSH809Y  1444  1411/226  L1  W7  1.0
+  7 Zhang, Amy             CSIFF80L  1060  1037/108  L3  L6  0.0
+  8 Petito, John           HSCF453W   829   808/ 66  L4  L5  0.0

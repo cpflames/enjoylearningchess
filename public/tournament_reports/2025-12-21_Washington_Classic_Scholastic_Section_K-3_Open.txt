@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Hoang, Leonard Bach    MRPCK88E  1130  1158/ 81  W3  W2  W4  D2  3.5
+  2 Telikicherla, Aadya    AUDDG19N  1031  1046/ 43  W5  L1  W3  D1  2.5
+  3 Lin, Evan              SOMDJ72G   921   922/118  L1  W4  L2  W4  2.0
+  4 Velichko, Kristina     ASADK07V   803   756/182  BYE L3  L1  L3  1.0
+  5 Kommu, Arjun           BCACF76T   200   638/  1  L2  U   U   U   0.0

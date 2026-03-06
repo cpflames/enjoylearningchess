@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Babbar, Riaan          ENDFJ98D  1625  1630/193  D3  D2  W4  2.0
+  2 Karnik, Rohan          WAVKG59F  1365  1415/ 87  W4  D1  L3  1.5
+  3 Narkhede, Kshitij      CRKEA27K  1477  1494/200  D1  L4  W2  1.5
+  4 Chen, William          EALJ550N  1741  1697/371  L2  W3  L1  1.0

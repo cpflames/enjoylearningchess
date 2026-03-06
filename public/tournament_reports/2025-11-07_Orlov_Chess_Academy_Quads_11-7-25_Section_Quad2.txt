@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zeeshan, Hamza         CRKFJ15N   778   811/123  W2  U5  W3  W4  U6  3.0
+  2 Rehmeyer, Malcolm      FHMIH62C   605   620/ 67  L1  U6  W5  U3  W4  2.0
+  3 Dayani, Viraj          SRAG118W   372   447/ 43  W6  U4  L1  U2  W5  2.0
+  4 Tong, Bayes            CCDCG20L   321   322/ 15  U5  U3  W6  L1  L2  1.0
+  5 Anand, Nivaan          MCECH64F   536   475/137  U4  U1  L2  W6  L3  1.0
+  6 Zeeshan, Harris        CRICH61J   130   100/ 72  L3  U2  L4  L5  U1  0.0

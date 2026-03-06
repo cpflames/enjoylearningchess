@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wortman, Alexander     SOMDJ31M  1060  1184/ 49  W2  D3  W4  2.5
+  2 Lin, Ethan             TYEHJ71H  1236  1243/126  L1  W4  W3  2.0
+  3 Sathyamurthy, Sreeshan EVJJJ24M  1202  1195/219  W4  D1  L2  1.5
+  4 Balaji, Pranav         INGIJ96J  1134  1073/199  L3  L2  L1  0.0

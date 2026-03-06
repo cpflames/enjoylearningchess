@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Tanenbaum, Zachary     CTXNX00E  2414  2418/128  W13 W7  W2  D3  3.5
+  2 Ingargiola, Max        CTXMX10G  2164  2189/140  W12 W5  L1  W7  3.0
+  3 Kudrin, Sergey         CTXNX00D  2376  2376/147  W10 D9  W6  D1  3.0
+  4 Chan, Matt             CTXNX07P  2009  2053/115  L5  W8  W10 W9  3.0
+  5 Groff, Jordan          CTXNX00K  2286  2277/123  W4  L2  W11 D6  2.5
+  6 Wu, Cody               CTXGX11H  1847  1886/131  BYE W13 L3  D5  2.5
+  7 Dedona, Mark           NYXNX02P  2250  2245/126  W8  L1  W9  L2  2.0
+  8 Griffin, Miles         CTXNZ41D  1976  1974/  3  L7  L4  BYE W11 2.0
+  9 Dudley, Ian W          VTXNX05P  2183  2171/106  W11 D3  L7  L4  1.5
+ 10 Uwakwe, Michael        CTXNX00L  2041  2012/132  L3  L11 L4  BYE 1.0
+ 11 Qian, Jack Letian      CTXHX04Z  1965  1957/123  L9  W10 L5  L8  1.0
+ 12 Drillich, Gilad Gi     NJXNZ67T  1910  1905/  8  L2  BYE U   U   1.0
+ 13 Bhargava, Kushagra     CTXIX00P  2051  2031/136  L1  L6  U   U   0.0

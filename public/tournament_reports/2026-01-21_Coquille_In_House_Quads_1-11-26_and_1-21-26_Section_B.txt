@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Scott, Ruth            CQEEW85Z   746   762/ 48  U   W3  W2  2.0
+  2 Gibbs, Logan           CQEEW78V   461   470/ 16  W3  U   L1  1.0
+  3 Weeks, Maggie          CQEEW78L   313   285/ 17  L2  L1  U   0.0

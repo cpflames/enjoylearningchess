@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, Chang            BCAEG15Y   654   759/ 28  W4  W3  W2  3.0
+  2 Chang, Ethan An Tong   SOMEJ59M   757   743/ 42  W3  W4  L1  2.0
+  3 Tong, Bayes            CCDCG20L   490   486/ 36  L2  L1  W4  1.0
+  4 Dayani, Viraj          SRAG118W   397   354/ 51  L1  L2  L3  0.0

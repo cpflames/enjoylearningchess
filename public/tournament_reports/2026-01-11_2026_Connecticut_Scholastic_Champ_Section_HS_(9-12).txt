@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Kao, Jamison Edric     CTXJZ40H  2262  2280/ 12  W9  W7  W2  W4  4.0
+  2 Su, Jasmine            CTXKX10T  2335  2331/123  W6  W13 L1  W7  3.0
+  3 Ingargiola, Max        CTXMX10G  2166  2155/156  W11 W10 L4  W8  3.0
+  4 Cm Lewis, Franklin PhilMAXMZ30B  2091  2094/  4  W14 D5  W3  L1  2.5
+  5 Buczkiewicz, Henry MichCTXKZ30A  1957  1950/  4  W8  D4  L7  W11 2.5
+  6 Panjwani, Ateeq As     NYXKX06L  1897  1890/116  L2  W14 D11 W10 2.5
+  7 Natarajan, Neil        BCCIV24M  1978  1984/102  W15 L1  W5  L2  2.0
+  8 Petrov, Alexie         CTXJZ309  1400  1436/  3  L5  BYE W9  L3  2.0
+  9 Ahad, Abdul            CTXLZ306  1100  1556/  4  L1  W15 L8  W12 2.0
+ 10 Deshpande, Daniel      CTXJZ51T  1286  1333/ 10  BYE L3  W14 L6  2.0
+ 11 Soppina, Ansh          CTXMZ56M  1570  1597/ 15  L3  W12 D6  L5  1.5
+ 12 Clough, Adam Timot     CTXJZ51L  1401  1402/  8  L13 L11 W15 L9  1.0
+ 13 Bai, Jason             CTXKX10B  1973  1971/121  W12 L2  U   U   1.0
+ 14 Piao, Aaron Chawyn     CTXJX01X  1606  1561/126  L4  L6  L10 D15 0.5
+ 15 Wang, Max              CTXJX01F  1486  1449/133  L7  L9  L12 D14 0.5

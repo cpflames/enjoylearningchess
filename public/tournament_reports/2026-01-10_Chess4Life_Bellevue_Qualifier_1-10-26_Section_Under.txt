@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Abdukarimov, Samin     ARDBH67S   857   847/214  L10 W11 W12 W4  W8  4.0
+  2 Tayal, Idhant          CNCGH04V   681   687/ 15  W6  D12 L3  W9  W4  3.5
+  3 Voss, Jayden           WOBCH15J   601   652/ 37  W13 L4  W2  D5  W9  3.5
+  4 Mishra, Angad          RKWGK70V   785   769/125  W9  W3  W5  L1  L2  3.0
+  5 Katipally, Sahan       WOBEK31R   690   660/ 40  W7  W10 L4  D3  D6  3.0
+  6 Ahn, Augustus          WOBEG17Q   201   362/ 11  L2  W7  D11 W10 D5  3.0
+  7 Song, Owen             CCABH67J   333   341/ 16  L5  L6  BYE W13 W11 3.0
+  8 Lu, Kathryn            CHRG191C   734   663/ 46  D11 L9  W10 W12 L1  2.5
+  9 Lo, Royce              LAVFJ83K   392   426/ 25  L4  W8  W13 L2  L3  2.0
+ 10 Serna Mengual, Adriana OPWEH62M   383   388/ 30  W1  L5  L8  L6  BYE 2.0
+ 11 Mukunthu, Advika       CMCFH24X   347   340/ 12  D8  L1  D6  BYE L7  2.0
+ 12 Nandakiran, Advaith    SSMDJ88H   461   433/222  BYE D2  L1  L8  D13 2.0
+ 13 Lo, Rory               CGACG28E   110   108/ 13  L3  BYE L9  L7  D12 1.5

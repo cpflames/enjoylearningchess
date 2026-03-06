@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ning, Pascal           SCDDJ14X   871   911/ 27  W2  W3  WF  3.0
+  2 Deepak, Sairaghav      PLKKA52Q   792   792/ 92  L1  WF  W3  2.0
+  3 Zhang, Eli             BASDH69C   714   671/131  WF  L1  L2  1.0

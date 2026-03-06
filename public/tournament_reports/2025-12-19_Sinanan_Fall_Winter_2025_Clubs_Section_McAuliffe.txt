@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xue, Alexander         CMCDF78D   300   621/  3  W3  W2  D4  2.5
+  2 Duan, George           CMCAF78C   100   328/  2  BYE L1  W6  2.0
+  3 Dashti, Dario          CMCCF78B   200   317/  2  L1  BYE W10 2.0
+  4 Li, Eli                CMCFF77Z   500   533/  2  U   W6  D1  1.5
+  5 Chakravorty, Sohom     CMCDF77X   300   100/  2  D10 L7  BYE 1.5
+  6 Chen, Ryan             CMCBF77W   100   158/  3  W7  L4  L2  1.0
+  7 Alvarado, Aster        CMCBF77U   100   111/  2  L6  W5  U   1.0
+  8 Alvarado, Amaru        CMCBF77T   100   333/  2  L9  W10 U   1.0
+  9 Nadagouda, Arya        CMCDF77S   300   650/  1  W8  U   U   1.0
+ 10 Velasquez, Leo         CMCBF77R   100   100/  3  D5  L8  L3  0.5
+
+ All Unrated-player Section: Ratings capped at 1000

@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Cuiper, Eric           PEGCG11X   414   527/ 14  D2  W6  W7  W3  W4  4.5
+  2 Doyle, Jack            STCBF83E   100   603/  5  D1  W10 W5  W8  W3  4.5
+  3 Davis, Evan            STCCG73M   253   334/  9  W9  W5  W4  L1  L2  3.0
+  4 Alverio, Gabriel       STCBG36C   228   290/  9  W8  W7  L3  W6  L1  3.0
+  5 Tullis, Nicholas       STCBH47J   100   204/ 10  W11 L3  L2  W10 W12 3.0
+  6 Martinez, Sophie       STCCJ17U   217   216/ 33  D10 L1  W12 L4  W8  2.5
+  7 Rehberger, Isaiah      STCCH47L   100   157/ 10  W12 L4  L1  W9  D11 2.5
+  8 Zavala, Kaleb          STCCF83D   200   161/  5  L4  W12 W9  L2  L6  2.0
+  9 Lim, Noah              STCBF83C   100   100/  5  L3  W11 L8  L7  W10 2.0
+ 10 Nichols, Valerie       STCCF83A   200   100/  5  D6  L2  W11 L5  L9  1.5
+ 11 Nichols, Claire        STCAF82Z   100   100/  5  L5  L9  L10 D12 D7  1.0
+ 12 Love, Gracyn           SGNCF82Y   200   100/  5  L7  L8  L6  D11 L5  0.5

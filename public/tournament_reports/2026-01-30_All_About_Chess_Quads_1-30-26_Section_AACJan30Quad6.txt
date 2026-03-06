@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sathyamurthy, Shreyus  BLWDJ60Z   599   676/212  W3  W2  L4  2.0
+  2 Ram, Yaalini           SNEDH87H   778   775/170  W4  L1  W3  2.0
+  3 Yin, Brandon           SOMFG50K   698   663/ 29  L1  W4  L2  1.0
+  4 Nelson, Harvey         CMCGG67L   599   595/ 93  L2  L3  W1  1.0

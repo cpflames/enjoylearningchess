@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ackerman, Ryan         ADUNC514  1785  1786/329  W3  W2  W4  3.0
+  2 Karnik, Rohan          WAVKG59F  1114  1119/ 61  D4  L1  W3  1.5
+  3 Nishino, Anne          BABEH74F   761   825/175  L1  W4  L2  1.0
+  4 Jang, Jinwon           VIEI561P  1130  1084/184  D2  L3  L1  0.5

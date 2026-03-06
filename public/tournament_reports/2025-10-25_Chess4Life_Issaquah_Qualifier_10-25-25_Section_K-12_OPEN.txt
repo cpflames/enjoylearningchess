@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Blodgett, Brayden      TLMIG09E   800  1067/  5  W7  W9  W2  W5  D3  4.5
+  2 Mathur-badam, Arin     BMNCG27N   834   846/ 45  W13 W11 L1  W6  W5  4.0
+  3 Kennerud, Caedmon      LGHHH61R   909   892/ 59  W10 W8  L5  W7  D1  3.5
+  4 Abdukarimov, Samin     BENBH67S   526   543/173  L6  W13 W15 W10 D9  3.5
+  5 Chanda, Rishabh        BCABH72X   596   685/ 92  W12 W6  W3  L1  L2  3.0
+  6 Debnath, Shriya        CMCEG92L   100   341/ 10  W4  L5  W8  L2  W14 3.0
+  7 Mattoo, Avyaan         HWEFG68K   452   518/ 45  L1  W14 W11 L3  W10 3.0
+  8 Jain, Adhrit           SPTDH36P   440   453/ 29  W14 L3  L6  W11 W12 3.0
+  9 Yao, Jason             DISEG30H   667   625/ 36  W15 L1  L10 W13 D4  2.5
+ 10 Brudvig, Axel          HSCFG30J   424   468/ 11  L3  W12 W9  L4  L7  2.0
+ 11 Shukla, Stavya         BCACG27W   289   290/ 46  BYE L2  L7  L8  W13 2.0
+ 12 Guddanti, Akshara      LMADG43E   533   465/ 36  L5  L10 W14 W15 L8  2.0
+ 13 Garcia Cuellar, Jose MaISEDK07J   420   335/ 54  L2  L4  BYE L9  L11 1.0
+ 14 O'neill, Paige         NWSGG09D   600   100/  4  L8  L7  L12 BYE L6  1.0
+ 15 Purohit, Nishka        BCACG23S   409   320/  9  L9  BYE L4  L12 U   1.0

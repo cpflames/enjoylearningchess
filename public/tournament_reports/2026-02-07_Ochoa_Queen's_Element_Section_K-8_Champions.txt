@@ -1,0 +1,30 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Lum, Boaz              LIBEJ62C  1232  1285/107  W19 W21 W3  W2  D4  4.5
+  2 Phillips, Henry        JMLGH43N  1310  1309/ 65  W8  W12 W7  L1  W13 4.0
+  3 Bates, Lucas           LLMHK96Q  1110  1141/ 60  W23 W18 L1  W16 W7  4.0
+  4 Hong, Sidney           JMLI478H   923  1051/181  W27 D24 W6  W15 D1  4.0
+  5 Singh, Yuvraj          LIBEH56L   984  1044/ 53  L18 W23 W11 W10 W8  4.0
+  6 Larimer, Thomas        LLMHJ79Q   897  1015/ 59  D9  W17 L4  W24 W15 3.5
+  7 Menjivar, Bryan        STPHJ80L   969  1013/ 99  W22 W20 L2  W12 L3  3.0
+  8 Gallegos, Angel J      RFREH42C   915   956/ 60  L2  W28 W20 W17 L5  3.0
+  9 Chavez, Jessie         RRGGK53S  1219  1169/ 99  D6  W25 D15 L13 W16 3.0
+ 10 Chavez, Israel         OCHGK69M   918   942/103  L11 W22 W21 L5  W20 3.0
+ 11 Groom, Colin           JMLG641S   810   910/ 97  W10 L15 L5  W29 W19 3.0
+ 12 Schutz, Henry          CHJHJ80M   919   954/102  W28 L2  W19 L7  W18 3.0
+ 13 Gonzalez, Sebastian    HIGHG12M   959   987/ 20  L24 W26 W18 W9  L2  3.0
+ 14 Nguyen, Caitlyn        RRGH663J  1032  1003/ 93  L20 L19 W25 W22 W21 3.0
+ 15 Hong, Samira           MCGFB77R   923   944/142  W26 W11 D9  L4  L6  2.5
+ 16 Farias Martinez, Enoel RFRFJ00Y   832   886/ 70  D17 W29 W24 L3  L9  2.5
+ 17 Carranza, Aly Omar     RCEFJ78V   949   930/ 80  D16 L6  W27 L8  W24 2.5
+ 18 Pantoja, Cain          OCHI228C   853   872/ 95  W5  L3  L13 W25 L12 2.0
+ 19 Cabasug, Raphael       SJKG177N   906   905/ 72  L1  W14 L12 W26 L11 2.0
+ 20 Rinehart, Christian    CRPFH56J   855   854/ 54  W14 L7  L8  W27 L10 2.0
+ 21 Turner, Micah          RFPEJ22X   881   874/ 70  W29 L1  L10 W28 L14 2.0
+ 22 Lopez Villanueva, NatalRFRFH43A   841   839/ 55  L7  L10 W29 L14 W26 2.0
+ 23 Morrison, Max          KCCFF69N   866   799/  9  L3  L5  L26 BYE W28 2.0
+ 24 Worthington, Aaron     LIBGJ53N   840   837/ 84  W13 D4  L16 L6  L17 1.5
+ 25 Hoff, Lewis            OERDH42A   842   811/ 47  HPB L9  L14 L18 W27 1.5
+ 26 Hall, Zayne            LLMGI80Q   827   774/ 90  L15 L13 W23 L19 L22 1.0
+ 27 Pumphrey, Brooks       RRGGJ79M   803   722/ 77  L4  BYE L17 L20 L25 1.0
+ 28 Mendoza, Ethan         JMLGJ01H   812   730/ 74  L12 L8  BYE L21 L23 1.0
+ 29 Aho, Alexander         OEREF70D  1150   865/  9  L21 L16 L22 L11 BYE 1.0

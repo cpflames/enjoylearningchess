@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Albrecht, Ian          SDCGZ98P  1019  1107/157  W4  W2  W3  3.0
+  2 Jensen, Maxwell        SDYHX88L   892   952/108  W3  L1  W4  2.0
+  3 Buysse, Parker         SDAIZ95U  1005   968/ 48  L2  W4  L1  1.0
+  4 Peterson, James        SDKHZ82U   875   819/ 24  L1  L3  L2  0.0

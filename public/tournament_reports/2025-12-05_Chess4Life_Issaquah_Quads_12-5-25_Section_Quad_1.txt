@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yang, Michael          SOMHK00G  1101  1124/140  W4  W3  L2  2.0
+  2 Zhen Rampenthal, Quinn SASJH53C  1283  1265/146  L3  W4  W1  2.0
+  3 Sarkar, Hridik         FRVGK04W   980   985/114  W2  L1  L4  1.0
+  4 Mudragada, Sanjay KaushGTMHG96Y  1025  1019/ 64  L1  L2  W3  1.0

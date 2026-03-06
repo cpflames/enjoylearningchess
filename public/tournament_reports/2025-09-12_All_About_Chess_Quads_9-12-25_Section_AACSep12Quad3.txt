@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dharamshi, Anay        CBREK42U  1329  1330/236  D3  W4  D2  2.0
+  2 Mohammed, Farhan       CRKFH14M  1216  1223/111  L4  W3  D1  1.5
+  3 Bhandari, Aarav        CBRFJ06H  1207  1216/173  D1  L2  W4  1.5
+  4 Li, Harry              SPTGG30G  1215  1199/533  W2  L1  L3  1.0

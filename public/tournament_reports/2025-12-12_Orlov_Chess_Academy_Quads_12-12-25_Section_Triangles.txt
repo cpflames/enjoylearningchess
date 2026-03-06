@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Karnik, Rohan          WAVKG59F  1156  1200/ 70  W6  W3  W2  3.0
+  2 Heydarov, Kamal        ADUNF80C  1300  1031/  3  D3  W4  L1  1.5
+  3 Heydarov, Rasul        BLWHH95F  1014  1004/ 60  D2  L1  W5  1.5
+  4 Nishino, Anne          BABEH74F   887   865/215  W5  L2  D6  1.5
+  5 Tong, Bayes            CCDCG20L   410   493/ 24  L4  W6  L3  1.0
+  6 Heydarova, Aliya       BLWGH95D   838   783/ 62  L1  L5  D4  0.5

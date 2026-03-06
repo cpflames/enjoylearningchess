@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Usadi, Benjamin        VTXNZ52U  1512  1563/ 10  W5  W2  W3  L4  3.0
+  2 Lu, Louie              CTXGZ54T  1185  1332/ 20  W6  L1  W7  W3  3.0
+  3 Hetherington, Drew     CTXNX01V  1371  1366/108  W8  W4  L1  L2  2.0
+  4 Shamas, Aidan          CTXNX11Q  1517  1485/123  W7  L3  L5  W1  2.0
+  5 Estrella, Wilson       CTXNX03Y  1214  1322/115  L1  W6  W4  U   2.0
+  6 Weiler, Roger          RIXNZ385  1419  1375/  4  L2  L5  W8  W7  2.0
+  7 Tripurneni, Vishnu     RIXHZ37Z  1236  1203/  4  L4  W8  L2  L6  1.0
+  8 Gudipati, Aadvik KrishnCTXGX13C  1066  1032/114  L3  L7  L6  BYE 1.0

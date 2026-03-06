@@ -1,0 +1,49 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Menjivar, Valery       RFRFJ78D   792   928/102  W14 W6  W5  W4  W2  5.0
+  2 Ruiz, Andre            BMCFJ53K   630   720/ 40  W42 W10 W9  W3  L1  4.0
+  3 Magdangal, Alexine     CTKFJ00W   662   686/ 55  W21 W17 W19 L2  W11 4.0
+  4 Zavala, Daniel         MCUFJ44V   647   687/ 89  W20 W18 W27 L1  W10 4.0
+  5 Duarte, Jonathan       MCUFJ44T   460   658/ 89  W22 W12 L1  W26 W13 4.0
+  6 Lee, Joseph            MCGFJ00M   547   676/ 64  W37 L1  W29 W7  W9  4.0
+  7 Davey, Cj              ESGFH42X   627   650/ 59  W38 W11 W16 L6  W15 4.0
+  8 Rodriguez, Gael        RCEFH42W   483   529/ 50  L11 W31 W30 W27 W16 4.0
+  9 Gogic, Aydin           TREFF54R   500   555/  5  W32 W22 L2  W20 L6  3.0
+ 10 Charvet, Elijah        TREFF84Z   419   514/ 15  W13 L2  W35 W19 L4  3.0
+ 11 Good Say, Best         WSGFG13B   372   501/ 20  W8  L7  W44 W12 L3  3.0
+ 12 Garcia, Sebastian      BMCFJ78G   709   652/110  W33 L5  W31 L11 W23 3.0
+ 13 Tha, Joseph            ESGFH26Z   681   627/ 50  L10 W25 W24 W28 L5  3.0
+ 14 Van, Minh              CRPFJ23N   442   448/ 80  L1  W29 W32 L16 W26 3.0
+ 15 Cruz, Kevin            EMEFG63Q   200   358/ 15  W34 L37 W17 W24 L7  3.0
+ 16 Penrod, Benson         RFPFH26W   211   361/ 45  W43 W42 L7  W14 L8  3.0
+ 17 Mendoza, Zaira         RCEFJ52Z   459   454/ 65  W28 L3  L15 W39 W27 3.0
+ 18 Gardner, Cam           BMCFH00Z   448   439/ 40  W25 L4  L26 W32 W29 3.0
+ 19 Quinones, Manuel       BMCFG64B   209   355/ 20  W39 W38 L3  L10 W33 3.0
+ 20 Nay Moo, Bwe           WSGFG13K   399   411/ 20  L4  W26 W45 L9  W34 3.0
+ 21 Ehlert, Hunter         DSRFF69M   417   409/ 10  L3  W30 L23 W46 W28 3.0
+ 22 Hiivala, Annaleigh     CRPFJ00L   366   384/ 55  L5  L9  W43 W30 W36 3.0
+ 23 Ballard, Isaac         RFPFJ44W   169   216/ 24  L44 W43 W21 WF  L12 3.0
+ 24 Ottem, John            LIBFH56D   192   217/ 50  W48 D35 L13 L15 W40 2.5
+ 25 Bawden, Whyatt         LIVFH42Y   338   312/ 65  L18 L13 W48 D40 W39 2.5
+ 26 Millan-porcayo, Emily  RCEFG89G   233   275/ 20  W36 L20 W18 L5  L14 2.0
+ 27 Beckley, Mason         LIVFH26Y   321   326/ 33  W45 W33 L4  L8  L17 2.0
+ 28 Garcia Salas, Emmanuel RFPFJ53H   361   329/ 59  L17 W44 W34 L13 L21 2.0
+ 29 Galbraith, Seth        MTPFH56B   320   299/ 70  W46 L14 L6  W44 L18 2.0
+ 30 Mendoza, Lorenzo       MCUFH42U   272   252/ 60  W47 L21 L8  L22 W45 2.0
+ 31 Bosted, Ryker          MTPFJ78T   338   293/ 74  W41 L8  L12 L36 W46 2.0
+ 32 Chavez, Nathaly        MCUFG89A   196   208/ 43  L9  W40 L14 L18 W43 2.0
+ 33 Angulo, Alessandro     MCUFH00Y   430   365/ 40  L12 L27 W41 W35 L19 2.0
+ 34 Diaz, Zaid             LIVFF54Q   500   224/  5  L15 W41 L28 W38 L20 2.0
+ 35 Bates, Jonah           WBEFG13E   170   184/ 10  D40 D24 L10 L33 W42 2.0
+ 36 Sargent, Grayson       LIVFG89C   100   139/ 10  L26 L45 W42 W31 L22 2.0
+ 37 Arrington, Ashton      MTPFJ78F   387   425/ 82  L6  W15 W46 LF  U   2.0
+ 38 Franco, Rozlind        MTPFJ78S   391   293/ 75  L7  L19 W47 L34 D41 1.5
+ 39 Uhrich, Elizabeth      WBEFF69K   100   104/  9  L19 W47 D40 L17 L25 1.5
+ 40 Lopez, Jazlynn         BMCFF54P   500   100/  5  D35 L32 D39 D25 L24 1.5
+ 41 Duarte, Viviana        RFPFF98N   105   100/ 19  L31 L34 L33 W48 D38 1.5
+ 42 Gonzales, Ezra         CRPFJ61Y   396   274/ 83  L2  L16 L36 W45 L35 1.0
+ 43 Sinclair, Daniel       BMCFF98P   100   100/ 13  L16 L23 L22 W47 L32 1.0
+ 44 Vargas, Emmanuel       MCUFF54M   500   148/  4  W23 L28 L11 L29 U   1.0
+ 45 Rangel, Marianna       MTPFJ78J   161   117/ 64  L27 W36 L20 L42 L30 1.0
+ 46 Guizar, Angelina       RFPFH26X   100   100/ 44  L29 W48 L37 L21 L31 1.0
+ 47 Ramos, Allison         CRPFH89V   100   100/ 48  L30 L39 L38 L43 W48 1.0
+ 48 Flores, Alexus         MCUFF54L   500   100/  5  L24 L46 L25 L41 L47 0.0

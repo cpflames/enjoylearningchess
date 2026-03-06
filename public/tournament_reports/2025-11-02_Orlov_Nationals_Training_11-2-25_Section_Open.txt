@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Sang, Andy             BASDK65W   636   643/119  W13 L2  1.0
+  2 Mccarthy, Eugene       CDLFG73B   768   792/ 32  U   W1  1.0
+  3 Jang, Jinwon           VIEI561P  1173  1194/195  W11 U   1.0
+  4 Mathew, Reuben         MRIBG33B   761   780/ 37  W12 U   1.0
+  5 Khudyev, Elina Umi     OPWDJ97Q  1210  1207/114  D6  U   0.5
+  6 Chen, Max Y            DISGK76L  1175  1178/139  D5  U   0.5
+  7 Yondon, Odbayar        INGHK97T  1848  1861/342  D9  U   0.5
+  8 Zhang, Kevin           OMSH809Y  1408  1396/202  D10 U   0.5
+  9 Sinanan, Joshua Ch     ADUN3546  2246  2238/  6  D7  U   0.5
+ 10 Chou, Eugene           SSMFJ56Y  1207  1221/132  D8  U   0.5
+ 11 Yeh, George            CSIDH64S  1104  1082/ 50  L3  U   0.0
+ 12 Sharma, Sidarth        EVGDJ75G   602   582/125  L4  U   0.0
+ 13 Sharma, Samarth        EVGDJ75K   590   557/106  L1  U   0.0

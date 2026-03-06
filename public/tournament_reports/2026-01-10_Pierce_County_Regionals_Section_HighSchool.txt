@@ -1,0 +1,48 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Young, Judah           HSCKH10Q  1271  1479/ 10  W26 W30 W4  W11 W2  5.0
+  2 Gregory, Lucas         HSCLJ22S  1427  1438/ 15  W43 W18 W7  W14 L1  4.0
+  3 Larson, Oscar          SMZMK80P  1382  1369/ 50  W24 W25 D23 D5  W13 4.0
+  4 Inforzato, Andrew      PNUJH09C  1582  1567/ 52  W42 W13 L1  W23 W11 4.0
+  5 Frohbieter, Dominic    PNUKK76U  1082  1184/ 43  W38 D8  W27 D3  W14 4.0
+  6 Mayo, Alexander        ROGKG11R  1297  1269/ 10  W41 W29 L11 W19 W15 4.0
+  7 Michaels, Ian          SMZKH10R  1263  1272/ 16  W44 W39 L2  W28 W12 4.0
+  8 Bennett-warner, DominicETVKJ21X  1104  1147/ 25  W10 D5  L13 W27 W23 3.5
+  9 Lowe, Titus            ETVLK76T  1141  1147/ 45  W45 L12 W17 W22 D10 3.5
+ 10 Ton, Calvin            ROGKF72T  1000  1126/  5  L8  W38 W31 W16 D9  3.5
+ 11 Jarrett, Vincent       ERDMH10K  1104  1222/ 10  W17 W15 W6  L1  L4  3.0
+ 12 Young, Floyd           ROGLF72S  1100  1177/  5  W21 W9  L14 W20 L7  3.0
+ 13 Chau, Phu              MTTMJ22N   991  1079/ 32  W33 L4  W8  W32 L3  3.0
+ 14 Mullen, Hana           SMZMK81C  1292  1270/ 76  W35 W32 W12 L2  L5  3.0
+ 15 Takenouchi, Taylor     SMZJF72R   900  1049/  5  W36 L11 W24 W33 L6  3.0
+ 16 Chen, David Kuan       SNKKF72Q  1000  1036/  5  W20 L23 W30 L10 W34 3.0
+ 17 O'rourke, Collin       ROGLF72P  1100  1031/  5  L11 W36 L9  W29 W31 3.0
+ 18 Huang, Danny           STDJH08V   980   992/ 20  W28 L2  L19 W42 W33 3.0
+ 19 Bueno, Fredric         ERDKF72N  1000   993/  5  L29 W41 W18 L6  W27 3.0
+ 20 Rath, Khuntarri        MTTMJ22M   822   897/ 19  L16 W34 W39 L12 W32 3.0
+ 21 Dempsey, Corey         ETVMH09X   853   867/ 21  L12 W45 L22 W41 W28 3.0
+ 22 Dudley, Chaz           PNUMF72M  1200  1048/  3  HPB HPB W21 L9  W35 3.0
+ 23 Pham, Hayden           MTTMJ22H  1122  1133/ 31  W34 W16 D3  L4  L8  2.5
+ 24 Bin, Tyler             MTTMH09N   680   742/ 15  L3  W47 L15 D25 W40 2.5
+ 25 Soma, Kedar            BOLKH10B   964   904/ 10  W47 L3  L33 D24 W38 2.5
+ 26 Payne, Alexander       SMZKG70P   490   614/ 11  L1  L31 D38 W43 W39 2.5
+ 27 Dao, Phu Minh          MTTLJ22G   747   761/ 26  W46 W40 L5  L8  L19 2.0
+ 28 Baca Zuccolotto, Adan  MTTJF72L   900   798/  5  L18 W43 W37 L7  L21 2.0
+ 29 Roman-jimenez, Brian   MTTMF89S   890   890/ 10  W19 L6  L32 L17 W42 2.0
+ 30 Brinkman, Foster       ETVJF89P   787   771/ 10  W31 L1  L16 L34 W44 2.0
+ 31 Atenta, Marahya JenelleMTTJF72K   900   778/  5  L30 W26 L10 W36 L17 2.0
+ 32 Clementz, Isaiah       HSCKF72J  1000   902/  5  W40 L14 W29 L13 L20 2.0
+ 33 O'brien, Aldous        ROGLF72G  1100   857/  5  L13 W42 W25 L15 L18 2.0
+ 34 Austin, Scott          WHHLF72F  1100   813/  5  L23 L20 W43 W30 L16 2.0
+ 35 Phommavong, Kayden     FRCJH08J   606   658/ 10  L14 W46 L40 W37 L22 2.0
+ 36 Smith, Troy            ETVJK73D   741   723/ 25  L15 L17 W44 L31 W41 2.0
+ 37 Griffin, Connor        SISKH10E   863   699/ 10  L39 W44 L28 L35 W46 2.0
+ 38 Jones, Carson          ETVLJ22E   820   775/ 26  L5  L10 D26 W45 L25 1.5
+ 39 Stanley, Gabriel       ETVMF72D  1200   655/  5  W37 L7  L20 D40 L26 1.5
+ 40 Kuntrapaku, Rishith    ERDKH10A   903   757/ 10  L32 L27 W35 D39 L24 1.5
+ 41 Pham, Anthony          MTTJF89N   663   610/  9  L6  L19 W46 L21 L36 1.0
+ 42 Medici, John Maverick  GRKJH08Q   712   678/ 24  L4  L33 W47 L18 L29 1.0
+ 43 Minkel, Nolan          ETVJJ21T   681   612/ 14  L2  L28 L34 L26 BYE 1.0
+ 44 Chhun, Daren           MTTMH09L   437   408/ 20  L7  L37 L36 BYE L30 1.0
+ 45 Rausch, Shelby         GRKLK60Y   137   117/ 18  L9  L21 BYE L38 L47 1.0
+ 46 Horan, Scout           ETVKF72C  1000   397/  5  L27 L35 L41 W47 L37 1.0
+ 47 Kamau, Jackson         WHHLF72B  1100   279/  5  L25 L24 L42 L46 W45 1.0

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Keogh, Seiya           NOVHJ51N  1126  1191/ 70  W6  D3  W2  W4  D5  4.0
+  2 Reimer, Oliver         IMSHG59D  1065  1129/133  W4  W5  L1  D3  W6  3.5
+  3 Damrau, Austin         ELKHK95E  1312  1273/135  W5  D1  L4  D2  W4  3.0
+  4 Little, Wyatt          NOVHJ51H  1021  1035/ 70  L2  W6  W3  L1  L3  2.0
+  5 Meka, Suhaas           NOVHJ51J   965   970/116  L3  L2  D6  W6  D1  2.0
+  6 Zhong, Sebastian       NOVHK24D   943   882/ 75  L1  L4  D5  L5  L2  0.5

@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zhang, Kylie           MCRJ890T  1896  1902/187  W11 D5  W9  D6  W4  4.0
+  2 Wu, Shanna             CNHFJ72M  1649  1696/ 93  W16 W8  D6  L7  W10 3.5
+  3 Bayrambeyli, Emel      LHPLH50T  1911  1895/ 25  D9  W13 L4  W14 W6  3.5
+  4 Jammalamadaka, Varnika OVLLD216  1821  1841/506  W14 HPB W3  W5  L1  3.5
+  5 Cheng, Selina          TLMI413R  1743  1762/630  W12 D1  W8  L4  D7  3.0
+  6 Shankaranand, Deeksha  EBSHI74Y  1729  1726/363  BYE W15 D2  D1  L3  3.0
+  7 Prabhu, Tanya Gurpur MaMISKZ329  1909  1872/  5  D13 L9  W15 W2  D5  3.0
+  8 Guo, Ella              CAXMZ74C  1803  1771/ 10  W17 L2  L5  W12 W14 3.0
+  9 Wangluo, Joanne        RCRIZ79Z  1621  1643/ 35  D3  W7  L1  L10 W16 2.5
+ 10 Deng, Lily             HHSM5007  1731  1683/401  L15 W17 D12 W9  L2  2.5
+ 11 Anand, Lakshana        TMBHC68H  1318  1297/179  L1  L12 D16 BYE W15 2.5
+ 12 Szeto, Martina         RCRGZ73S  1200  1280/ 21  L5  W11 D10 L8  D13 2.0
+ 13 Tare, Eevie            SLLGW80B  1444  1429/ 33  D7  L3  L14 W17 D12 2.0
+ 14 Nguyen, Suri Ngoc      TXXIZ326  1238  1276/  5  L4  D16 W13 L3  L8  1.5
+ 15 Sridhar, Riya          GTMHG37Y  1056  1116/116  W10 L6  L7  D16 L11 1.5
+ 16 Lou, Sinuo             UCEEZ325   400  1215/  5  L2  D14 D11 D15 L9  1.5
+ 17 Viswanatha, Sruti      REJI289A  1226  1209/ 21  L8  L10 HPB L13 BYE 1.5

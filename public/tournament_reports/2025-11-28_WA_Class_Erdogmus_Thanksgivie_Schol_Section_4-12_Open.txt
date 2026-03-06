@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Lin, Ethan             TYEHJ71H  1226  1336/106  W10 W11 W3  D2  3.5
+  2 Meenakshi Sundaram, AdhHEAHK00E  1259  1343/ 60  W13 W16 W9  D1  3.5
+  3 Krogstad, Jaxon        NCSEJ88M  1206  1332/212  W5  W4  L1  W9  3.0
+  4 Li, Anyi               LKDEJ55F  1340  1336/199  WF  L3  W11 W10 3.0
+  5 Rengarajan, Anirudh    DIAGZ75J  1225  1227/ 81  L3  W13 W15 D8  2.5
+  6 Verma, Reyansh         RBRGJ20M  1247  1258/113  W19 L9  W16 D7  2.5
+  7 Lai, Ryan              SHSCH70N  1402  1356/156  L16 WF  W12 D6  2.5
+  8 Lin, Elliot            TYEHJ71G  1030  1100/107  L9  W19 W17 D5  2.5
+  9 Havaldar, Karsh        FHMGI03F  1577  1526/ 76  W8  W6  L2  L3  2.0
+ 10 Raghunathan, Vidur     MCIG878A   969  1067/ 81  L1  W14 W18 L4  2.0
+ 11 Desai, Taj             HTNJK10Y  1099  1137/ 24  W14 L1  L4  W17 2.0
+ 12 Rajan, Samvid          REEEK05K   735   894/ 47  W18 W17 L7  L14 2.0
+ 13 Mudragada, Sanjay KaushGTMHG96Y  1032  1025/ 61  L2  L5  BYE W19 2.0
+ 14 Zhen Rampenthal, Quinn SASJH53C  1345  1283/143  L11 L10 W19 W12 2.0
+ 15 Blodgett, Brayden      TLMIG09E  1067  1066/  9  L17 W18 L5  W16 2.0
+ 16 Datta, Ishana          KKNEH60X   965   982/ 66  W7  L2  L6  L15 1.0
+ 17 Lin, Luna              OPWEK01W  1105  1046/204  W15 L12 L8  L11 1.0
+ 18 Qu, Yuwen              RSADK86G  1155  1053/146  L12 L15 L10 BYE 1.0
+ 19 Huang, Aaron           DGHFB25P   916   872/ 29  L6  L8  L14 L13 0.0

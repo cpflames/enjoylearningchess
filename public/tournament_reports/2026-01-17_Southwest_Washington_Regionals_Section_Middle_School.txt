@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Keogh, Seiya           NOVHJ51N  1220  1314/ 79  W4  W2  W3  W5  BYE 5.0
+  2 Little, Wyatt          NOVHJ51H  1018  1114/ 89  W3  L1  BYE W4  W5  4.0
+  3 Satish Kumar, Sai NavanJFMHH21Y  1506  1443/135  L2  W5  L1  BYE W4  3.0
+  4 Devlin, Austin         NOBIK25F   988   963/ 89  L1  BYE W5  L2  L3  2.0
+  5 Fredericks, Wyatt      GVWIG95J   488   488/  9  BYE L3  L4  L1  L2  1.0

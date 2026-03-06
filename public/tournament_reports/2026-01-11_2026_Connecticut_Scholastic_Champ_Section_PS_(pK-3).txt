@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Srinivasan, Sidharth   NJXDZ29V  1147  1210/  4  W11 W8  W2  W4  4.0
+  2 Prem Kumar, Dhanvanth  MAXCZ50R  1297  1281/ 16  W10 W7  L1  W6  3.0
+  3 Ing, Ethan             CTXCX05B  1165  1163/117  W6  L4  W10 W7  3.0
+  4 Negi, Rishaan          CTXBZ50P  1064  1098/ 42  W9  W3  D5  L1  2.5
+  5 Zhou, Francis          NYXBZ39C  1314  1265/ 11  L8  W11 D4  W10 2.5
+  6 Antonopoulos, Sasha    CTXBZ29U   710   745/  4  L3  W9  W11 L2  2.0
+  7 Nugent, Stephen        NYXCZ29T  1001   988/  4  W12 L2  W8  L3  2.0
+  8 Chow, Alexander N      NYXCZ52A   745   765/  8  W5  L1  L7  D9  1.5
+  9 Vijay Karthik, Vikram  CTXDZ30R   404   460/  8  L4  L6  W12 D8  1.5
+ 10 Ahluwalia, Taj         CTXDZ54F   924   901/ 12  L2  W12 L3  L5  1.0
+ 11 Gujar, Vedant          CTXCZ50Q   576   560/ 16  L1  L5  L6  W12 1.0
+ 12 Natale, Dylan          CTXCZ29S   200   100/  4  L7  L10 L9  L11 0.0

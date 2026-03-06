@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nath, Ayushman         EABHG18E   388   595/  6  W4  W2  W3  3.0
+  2 Voss, Jayden           WOBCH15J   514   465/ 26  W3  L1  L4  1.0
+  3 Ganesh, Sidhan         BCADG52A   339   346/ 15  L2  W4  L1  1.0
+  4 Abdukarimov, Samin     BENBH67S   469   434/165  L1  L3  W2  1.0

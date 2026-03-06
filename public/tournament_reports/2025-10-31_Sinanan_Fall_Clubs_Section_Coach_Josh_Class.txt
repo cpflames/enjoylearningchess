@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lam, Sebastian         OPWDJ97R   809   802/114  W3  D2  W4  2.5
+  2 Sivanand, Raga         OPWFG97Z   638   663/ 63  W4  D1  W3  2.5
+  3 Mehta, Sanjay          OPWFH60A   105   197/  7  L1  W5  L2  1.0
+  4 Qi, Jayden             OPWGG07V   600   273/  2  L2  BYE L1  1.0
+  5 Lo, Logan              OPWDH59X   218   175/ 17  L6  L3  BYE 1.0
+  6 Sailer, Shaunak        OPWIC25Z   983   984/253  W5  U   U   1.0

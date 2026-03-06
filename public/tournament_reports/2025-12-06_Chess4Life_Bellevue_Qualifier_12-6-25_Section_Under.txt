@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Talukdar, Yuvaan       RBRCH76K   674   812/147  W5  W2  W3  W6  W4  5.0
+  2 Abdukarimov, Samin     ARDBH67S   652   699/194  W6  L1  W4  W3  W5  4.0
+  3 Bose, Suhan            BRHEH65Z   564   581/ 40  W4  W5  L1  L2  W6  3.0
+  4 Qi, Andrew             SREGK62P   730   646/ 25  L3  W6  L2  W5  L1  2.0
+  5 Singh, Reyansh         LDHCH58A   212   243/ 12  L1  L3  W6  L4  L2  1.0
+  6 Zeitlin, Guy           WOBCG55N   178   138/ 37  L2  L4  L5  L1  L3  0.0

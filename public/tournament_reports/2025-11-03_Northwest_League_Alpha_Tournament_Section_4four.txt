@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Arnett, Taylan         SQUMK71A   630   771/ 20  W7  W4  W2  3.0
+  2 Aguila-contreras, EdgarFERJJ65J   604   651/116  W10 W3  L1  2.0
+  3 King, Kael             LYCMC08B   683   685/ 18  W5  L2  W8  2.0
+  4 Branco, Phillip        SHMKH49C   549   595/ 21  W8  L1  W7  2.0
+  5 Assink, Cayden         LYEJH77D   538   598/ 12  L3  W6  W9  2.0
+  6 Lee, Jensen            MRDM947B   608   579/ 63  D9  L5  W10 1.5
+  7 Valeos, Connor         MRDKK41H   530   517/ 38  L1  W9  L4  1.0
+  8 Barnett, Cameron       FERKG02N  1000   433/  3  L4  W10 L3  1.0
+  9 Herboth, Quinn         SQUMK99M   522   468/ 26  D6  L7  L5  0.5
+ 10 Lopez-mendez, Chelsea  LYEMH48X   481   399/ 15  L2  L8  L6  0.0

@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Hanley, Joachim        ICPFH79A   491   568/ 19  D7  W3  W2  W4  W6  4.5
+  2 Johnson, Austin        NSVFH49W   250   447/ 45  W12 W6  L1  W8  W4  4.0
+  3 Eberlein, Ambrose      ICPGY95D   100   319/  9  W5  L1  W13 W11 W7  4.0
+  4 Stewart, Ben           SJVFJ87Y   238   312/ 39  W13 W10 W11 L1  L2  3.0
+  5 Drewlen, Greta         HSIEY94W   400   284/  5  L3  W16 L9  W12 W11 3.0
+  6 Rawlings, Alexander    SJVFH49Z   379   357/ 28  W8  L2  D10 W9  L1  2.5
+  7 Haley, Gotham          WHNEG17K   100   188/  9  D1  L14 W15 W10 L3  2.5
+  8 Drennan, Dalin         SOPEF87T   400   252/  5  L6  W12 W14 L2  D9  2.5
+  9 Pierce, Killian        ICPEG65Y   186   208/ 10  W15 L11 W5  L6  D8  2.5
+ 10 Wu, Isaac              CATCF87S   200   214/  5  W14 L4  D6  L7  W15 2.5
+ 11 Piscopo, Frankie       HUTCG66C   360   264/ 10  W16 W9  L4  L3  L5  2.0
+ 12 Fuher, Wesley          PPADF97Z   100   124/ 10  L2  L8  W16 L5  W14 2.0
+ 13 Burnside, Cooper       ARLEF87R   400   118/  5  L4  D15 L3  D14 W16 2.0
+ 14 Kyhl, Kaidence         SJVFG65X   202   123/ 18  L10 W7  L8  D13 L12 1.5
+ 15 Taborn, Muna           ARLEF87Q   400   100/  5  L9  D13 L7  W16 L10 1.5
+ 16 Dailey, Cj             ABNCF87P   200   100/  5  L11 L5  L12 L15 L13 0.0

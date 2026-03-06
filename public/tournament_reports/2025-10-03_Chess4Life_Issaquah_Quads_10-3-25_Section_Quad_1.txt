@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Gorbatenko, Leon       CRKGH58G   661   699/ 37  D3  W2  W5  2.5
+  2 Chanda, Rishabh        BCABH72X   682   663/ 82  W5  L1  W4  2.0
+  3 Xu, Jacky Y            SOMDJ59K   636   615/159  D1  D4  BYE 2.0
+  4 Madadi, Hannah         CGRDH65Y   238   263/ 52  BYE D3  L2  1.5
+  5 Patil, Avir            BCACH10V   259   259/ 10  L2  BYE L1  1.0

@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Wu, Cody               CTXGX11H  1886  1886/132  W5  U   U   U   1.0
+  2 Singh, Sanjay Vinesh   NYXLZ56G  1430  1475/ 12  U   W6  U   U   1.0
+  3 Griffin, Miles         NJXNZ41D  1974  1975/  4  U   U   W7  U   1.0
+  4 Uwakwe, Michael        CTXNX00L  2012  2022/133  U   U   U   W8  1.0
+  5 Brown, David M Sr      CTXNZ469   757   757/  9  L1  U   U   U   0.0
+  6 Drillich, Gilad Gi     NJXNZ67T  1905  1877/  9  U   L2  U   U   0.0
+  7 Shamas, Aidan          CTXNX11Q  1471  1468/119  U   U   L3  U   0.0
+  8 Pagan, Ismael D        CTXNX11E  1959  1947/115  U   U   U   L4  0.0

@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Guo, Keith             CHRDG29Y   475   710/ 22  W5  W8  W6  D2  3.5
+  2 Mcintyre, Isaac        WPPG466S   904   909/274  W12 W9  W4  D1  3.5
+  3 Zhang, Alex            MEDDG90X   218   380/  8  BYE W17 W13 D6  3.5
+  4 Zhang, Eli             BASDH69C   672   685/110  W14 W7  L2  W9  3.0
+  5 Sorensen, George       VILGH53E   428   527/ 51  L1  W14 W8  W10 3.0
+  6 Lee, Zachary           STTBH63W   684   651/ 73  W15 W11 L1  D3  2.5
+  7 Shukla, Stavya         BCACG27W   224   314/ 40  W16 L4  W17 D13 2.5
+  8 Joshi, Siddhant        OMSIG16W   800   483/  4  W10 L1  L5  W15 2.0
+  9 Jain, Adhrit           SPTDH36P   403   434/ 19  W18 L2  W12 L4  2.0
+ 10 Jain, Armaan           SFRCH62K   380   368/ 20  L8  W16 W11 L5  2.0
+ 11 Konduru, Hari Pranav   STVCG19K   242   303/  9  W13 L6  L10 W17 2.0
+ 12 Yen, Lucas             ETSCH56P   372   381/ 28  L2  W18 L9  W14 2.0
+ 13 Singh, Anitej          OMSIH76J   533   443/ 40  L11 W15 L3  D7  1.5
+ 14 Tang, Rufus            BASEG74N   258   243/ 17  L4  L5  W18 L12 1.0
+ 15 Zhang, Jeremy          WOBGG65M   363   309/ 13  L6  L13 W16 L8  1.0
+ 16 Zhou, Owen             MEDDG91Y   240   107/  9  L7  L10 L15 W18 1.0
+ 17 Cooper, William        SPTEG16U   400   100/  3  HPB L3  L7  L11 0.5
+ 18 Aguilar, Marco         OPWBH18E   296   165/ 13  L9  L12 L14 L16 0.0

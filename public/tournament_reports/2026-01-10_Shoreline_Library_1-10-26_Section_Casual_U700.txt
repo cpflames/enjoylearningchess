@@ -1,0 +1,35 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Manjunatha, Neeraj RaghSTVCH24D   622   699/ 23  W23 W20 W11 W3  4.0
+  2 Suhasan, Nehaa         SFRDJ30B   436   503/ 55  W32 W12 WF  D6  3.5
+  3 Naveen Kumar, Aadvik   SEHEF95G   491   591/ 17  W16 W4  W5  L1  3.0
+  4 Singh, Viraj           XXXCF68V   200   523/  4  W34 L3  W29 W14 3.0
+  5 Siddhartha, Sanjana    MRPEH64Z   391   441/ 42  W33 W10 L3  W13 3.0
+  6 Sinha, Ethan           CDWDG21N   555   569/ 21  W26 D19 W21 D2  3.0
+  7 Byambasaikhan, EnkhtulgSYRFH37V   599   638/ 33  W25 L18 W19 W11 3.0
+  8 Kim, Darron            WEDBG26T   300   461/ 17  L28 W32 W12 W15 3.0
+  9 Shrestha, Anmol        TPSGF93B   368   417/  9  L30 D34 W23 W19 2.5
+ 10 Shah, Jiyan            ARWAG27T   205   225/ 12  HPB L5  WF  W24 2.5
+ 11 Sayre, Dante           WEDBG48J   392   459/ 19  W13 W21 L1  L7  2.0
+ 12 Hunt, Braydon          BRAEF68U   400   382/  4  W15 L2  L8  W23 2.0
+ 13 Nowak, Anthony         HTNGF68T   600   328/  4  L11 W24 W20 L5  2.0
+ 14 Pande, Avyan           DCSF368D   400   341/  9  L19 W26 W16 L4  2.0
+ 15 Dua, Anaya             SHVFG67C   520   453/ 38  L12 W22 W25 L8  2.0
+ 16 Konda Madhu, Nihaan    MCECG04W   437   404/ 13  L3  W17 L14 W25 2.0
+ 17 Gomez, Camilo Emir     RITCG45M   123   149/ 11  L21 L16 BYE W27 2.0
+ 18 Jiang, Jacky           XXXCF68S   200  1013/  1  BYE W7  LF  U   2.0
+ 19 Nowak, Aleksander      HTNIF68R   800   397/  4  W14 D6  L7  L9  1.5
+ 20 Choo, Kevin            XXXCF68Q   200   217/  3  W27 L1  L13 HPB 1.5
+ 21 Choo, Joshua           MRPCG02W   654   549/ 11  W17 L11 L6  HPB 1.5
+ 22 Prasad, Rhea           MOBBJ92U   100   100/ 71  HPB L15 L24 W33 1.5
+ 23 Bellam, Siddhant       WDEBG51Z   100   109/ 19  L1  W27 L9  L12 1.0
+ 24 Nawagamudewage, WethulaXXXAG18Q   247   180/  8  L31 L13 W22 L10 1.0
+ 25 Nachtigal, Jack        FRALF68N  1100   185/  4  L7  W33 L15 L16 1.0
+ 26 Bert, Paxton           XXXCF68M   200   100/  4  L6  L14 L27 W32 1.0
+ 27 Frashure, Damon        XXXCF68L   200   100/  4  L20 L23 W26 L17 1.0
+ 28 Yi, Woochan            BRHEG23J   734   748/ 27  W8  U   U   U   1.0
+ 29 Murcia, Daniel         XXXCF68K   200   100/  1  HPB HPB L4  U   1.0
+ 30 Zhou, Alexander        KSHHF68Z  1047  1047/  4  W9  U   U   U   1.0
+ 31 Parrish, James         XXXCH01N   685   685/  7  W24 U   U   U   1.0
+ 32 Frashure, Theodore     MRPCF68J   200   100/  4  L2  L8  D33 L26 0.5
+ 33 Bert, Milo             XXXCF68H   200   100/  4  L5  L25 D32 L22 0.5
+ 34 Bellam, Sumanth        XXXCF68G   200   247/  2  L4  D9  LF  U   0.5

@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Wild, Edward           ENABG92D   493   573/ 19  W6  W9  W5  W7  4.0
+  2 Li, Brian              CGRDH72Y   348   394/ 43  L9  W3  W7  W6  3.0
+  3 Konduru, Hari Pranav   STVCG19K   317   364/ 21  W10 L2  W12 W5  3.0
+  4 Kim, Austin            MEDDF61F   317   306/  9  W13 L5  D9  W12 2.5
+  5 Berjis, Liana          MEDDB72R   359   352/156  W14 W4  L1  L3  2.0
+  6 Liu, Evan Ziyuan       EVGCG15R   100   187/  9  L1  W10 W8  L2  2.0
+  7 Berfield, Aidan        MTWCG31G   322   308/ 10  W11 W12 L2  L1  2.0
+  8 Kaplan, Harper         WOBCF58E   200   151/  4  L12 W11 L6  W9  2.0
+  9 Xu, Archer             CHRBF58B   100   248/  4  W2  L1  D4  L8  1.5
+ 10 Hilton, Gia            NPTDF57Z   300   100/  4  L3  L6  W13 D14 1.5
+ 11 Varghese, Elijah       NPTCF57Y   200   100/  4  L7  L8  W14 D13 1.5
+ 12 Sun, Lena              SCDBF57X   100   100/  4  W8  L7  L3  L4  1.0
+ 13 Pant, Samarth          STVBF57V   100   100/  4  L4  D14 L10 D11 1.0
+ 14 Penner, Lincoln        WOBDF57U   300   100/  4  L5  D13 L11 D10 1.0

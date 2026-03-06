@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Ethan James        SOMDK00K  1209  1227/241  W2  W3  L4  2.0
+  2 Bhandari, Aarav        CBRFJ06H  1159  1194/201  L1  W4  W3  2.0
+  3 Bhasin, Palash         ISMHH95H  1147  1135/187  W4  L1  L2  1.0
+  4 Sarangi, Samarth       CBRFH69F  1236  1202/196  L3  L2  W1  1.0

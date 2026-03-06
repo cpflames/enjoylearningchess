@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhao, Benjamin         IPEDH93R   332   401/  8  D2  W4  W3  2.5
+  2 Sehgal, Ishan          BCADF65E   281   372/  8  D1  W3  W4  2.5
+  3 Pradeep, Rohan         RSABF65R   374   294/  8  W4  L2  L1  1.0
+  4 Lototsky, Alexey       BENFF50A   500   100/  3  L3  L1  L2  0.0

@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Arora, Neal            ORLCH57B   381   624/ 19  D3  W6  W2  W4  W5  4.5
+  2 Carns, Qenam           GRICH57E   736   719/ 24  BYE W8  L1  W3  W7  4.0
+  3 Liu, Mason             NOVCF97Y   200   599/  5  D1  W7  W5  L2  W8  3.5
+  4 Cuiper, Eric           PEGCG11X   465   414/  9  W6  L5  W8  L1  BYE 3.0
+  5 Ferris, Sam            LLLAG54F   401   396/ 22  D7  W4  L3  W9  L1  2.5
+  6 Hsu-schmitt, Nolan     LIEBF97X   100   248/  4  L4  L1  BYE D7  W9  2.5
+  7 Trerice, Mira          ORLBF97W   100   296/  5  D5  L3  W9  D6  L2  2.0
+  8 Moon, Rowan            ORLCF97V   200   202/  4  W9  L2  L4  BYE L3  2.0
+  9 Gardner, Abigail       TUMBF97U   100   100/  4  L8  BYE L7  L5  L6  1.0

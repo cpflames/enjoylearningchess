@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Pan, Peng-ruie         SSMG759R  1598  1611/322  W9  1.0
+  2 Jang, Jinwon           EMSI561P  1243  1247/213  W7  1.0
+  3 Lai, Austin            EVGEK94F  1145  1179/124  W6  1.0
+  4 Qureshi, Haroon        RBRFJ95Y   879   895/ 57  W10 1.0
+  5 Mccarthy, Eugene       CDLFG73B  1003  1015/ 43  W8  1.0
+  6 Zou, Jinhan            LMSFH14T  1236  1204/202  L3  0.0
+  7 Chiang, Austin         CNHCH59V   806   801/ 43  L2  0.0
+  8 Gupta, Akshay          HMNDF62T   758   745/127  L5  0.0
+  9 Zhang, Kevin           OMSH809Y  1467  1453/215  L1  0.0
+ 10 Sang, Andy             BASDK65W   688   671/130  L4  0.0

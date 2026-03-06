@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yao, Jason             DISEG30H   590   677/ 21  W4  W3  W2  3.0
+  2 Bansal, Aarav          CRKDH28J   568   546/ 50  W3  D4  L1  1.5
+  3 Brudvig, Axel          HSEFG30J   461   424/  6  L2  L1  W4  1.0
+  4 Shukla, Stavya         BCACG27W   347   328/ 18  L1  D2  L3  0.5

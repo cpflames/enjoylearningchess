@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dhameeja, Ved          GRRGJ98F  1204  1224/214  W4  L2  W3  2.0
+  2 Dharamshi, Anay        CBREK42U  1187  1211/264  D3  W1  D4  2.0
+  3 Li, Harry              SPTGG30G  1198  1196/566  D2  W4  L1  1.5
+  4 Li, Ethan James        SOMDK00K  1177  1134/276  L1  L3  D2  0.5

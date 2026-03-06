@@ -1,0 +1,35 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ocampo, Andres         FC1IZ658   933   970/ 10  W34 W20 W9  W8  D2  4.5
+  2 Mclaughlin, Ryan       SM1IZ86C   612   823/  9  W27 W13 BYE W3  D1  4.5
+  3 Polich, Jace           SS1IZ77S   699   844/ 23  W33 W10 W5  L2  W9  4.0
+  4 Kijner, Aleksander     BM1IZ936   680   789/ 34  W16 D7  W11 W6  D8  4.0
+  5 Cao, Alex              FX5ID73C   552   805/ 15  W31 W15 L3  W12 W10 4.0
+  6 Salvatierra, Daniel    FC1IZ85Q   530   657/ 30  D17 W28 W7  L4  W11 3.5
+  7 Alvarado, Guillermo    FC1IZ36N   800   773/  5  W14 D4  L6  W26 W16 3.5
+  8 Castagnino, Ignacio    FC1IZ64V   719   727/ 15  W22 W25 W31 L1  D4  3.5
+  9 Oron, Tom              FC1IZ64M   638   669/ 15  W21 W32 L1  W14 L3  3.0
+ 10 Chaves, Santiago       FC1IZ36M   800   858/  5  W28 L3  W13 W15 L5  3.0
+ 11 De Young, Julieta      FC1IZ64L   332   477/ 10  W24 W12 L4  W18 L6  3.0
+ 12 Parisi, Anthony        FC1IZ86L   801   747/ 20  W19 L11 W21 L5  W23 3.0
+ 13 Cornejo, Gabriel       FC1IZ65A  1298  1056/ 10  W18 L2  L10 W24 W20 3.0
+ 14 Saribekyan, Vardan     FC1IZ654   621   629/ 20  L7  W17 W23 L9  W21 3.0
+ 15 Sarkar, Kanishka       FC1IZ61V   911   809/ 10  W26 L5  W20 L10 W22 3.0
+ 16 Holness, Caysen        PB2IZ36L   800   600/  4  L4  W22 HPB W17 L7  2.5
+ 17 Kalaislevan, Kavin     TT1IZ36K   800   507/  5  D6  L14 W25 L16 W26 2.5
+ 18 Rehring, Jon           PB2IZ49G   195   274/  9  L13 W27 HPB L11 W24 2.5
+ 19 O'connell, Ryker       CS1IZ36J   800   308/  5  L12 L24 D33 W34 W29 2.5
+ 20 Padron, Brandon        FC1IZ64Y   585   580/ 10  W23 L1  L15 W27 L13 2.0
+ 21 Dos Santos, Dante      FC1IZ36H   800   443/  5  L9  W29 L12 W25 L14 2.0
+ 22 Adjodha, Chase         WG1IY95T   124   263/ 10  L8  L16 W30 W28 L15 2.0
+ 23 Zhang, Isaac           FC1IZ36G   800   363/  5  L20 W34 L14 W30 L12 2.0
+ 24 White, Dylan           PB2IZ36F   800   256/  4  L11 W19 HPB L13 L18 1.5
+ 25 Romero, Brendan        SS1IZ60M   220   207/  9  W30 L8  L17 L21 D27 1.5
+ 26 Salajeka, Nathan       PB2IZ36E   800   320/  4  L15 W30 HPB L7  L17 1.5
+ 27 Xin, Haixi             FC1IZ36C   800   100/  4  L2  L18 BYE L20 D25 1.5
+ 28 Ramos, Ethan           PB2IZ64N   471   412/ 19  L10 L6  HPB L22 W33 1.5
+ 29 Rakesh, Reya           PB2IZ49J   291   238/  9  L32 L21 HPB W33 L19 1.5
+ 30 Rozier, Jae'veon       LL1IZ36A   800   100/  5  L25 L26 L22 L23 W34 1.0
+ 31 Landoski, Hunter       RA1IZ369   800   451/  3  L5  W33 L8  LF  U   1.0
+ 32 Luizaga, Jose Manual   PPCIZ367   800   488/  2  W29 L9  LF  U   U   1.0
+ 33 Ghimire, Abhi          FC1IZ366   800   100/  5  L3  L31 D19 L29 L28 0.5
+ 34 Magana, Nicholas       PB2IZ64K   148   100/ 18  L1  L23 HPB L19 L30 0.5

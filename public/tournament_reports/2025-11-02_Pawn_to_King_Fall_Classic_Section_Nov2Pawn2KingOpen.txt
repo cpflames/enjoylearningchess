@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Suram, Vishal          ADUNG93H  1635  1665/  8  HPB W7  W12 W2  3.5
+  2 Ma, Ziliang            DCCIA69N  1392  1418/206  W5  W10 W6  L1  3.0
+  3 Gupta, Krishang        GTMIE37V  1565  1546/114  D12 W13 W4  D6  3.0
+  4 Pande, Aryan           DCSC493M  1181  1192/ 94  W9  W14 L3  D5  2.5
+  5 Lin, Luna              OPWEK01W  1013  1105/200  L2  W15 W8  D4  2.5
+  6 Ghosh, Snehil          REJG738T  1420  1413/269  BYE W8  L2  D3  2.5
+  7 Liu, Bihe              KKNDB78J  1158  1180/170  HPB L1  W14 W9  2.5
+  8 Bhandari, Aarav        CBRFJ06H  1168  1159/198  W15 L6  L5  W12 2.0
+  9 Bui, Edwin             GTMGK90H  1003  1012/183  L4  W16 W10 L7  2.0
+ 10 Hoang, Leonard Bach    MRPCK88E  1038  1028/ 68  W16 L2  L9  W14 2.0
+ 11 Li, Bryan              MEDCJ75H  1086  1053/132  L14 L12 W13 W15 2.0
+ 12 Adepu, Sai Shreyas     VVMHG16Q  1028  1104/  9  D3  W11 L1  L8  1.5
+ 13 Choo, Joshua           MRPCG02W   200   882/  3  HPB L3  L11 W16 1.5
+ 14 Singh, Vihaan          RIDFG25R   882   888/ 46  W11 L4  L7  L10 1.0
+ 15 Ma, Caroline           BCSDK93V   928   897/109  L8  L5  W16 L11 1.0
+ 16 Thati, Rutvik Reddy    RKWFG17X   799   737/ 24  L10 L9  L15 L13 0.0

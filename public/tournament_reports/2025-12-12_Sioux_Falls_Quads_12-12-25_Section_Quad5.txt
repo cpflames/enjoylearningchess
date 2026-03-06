@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Geurts, Elijah         HSSGZ31H   600   902/  3  W5  W2  W6  3.0
+  2 Mcdade, Max            SDGDZ52S   484   511/ 23  W6  L1  W3  2.0
+  3 Sivaprakash, Yaathith  SDDDZ31G   300   407/  3  W4  W5  L2  2.0
+  4 Mckee, George          XXXDF95M   233   183/  9  L3  W6  L5  1.0
+  5 Quinn, Jason           LBADZ835   100   141/ 11  L1  L3  W4  1.0
+  6 Quinn, Owen            LBABZ58Q   100   100/  5  L2  L4  L1  0.0

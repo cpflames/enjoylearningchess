@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Borkar, Rohan          MRLE243X   885  1009/ 50  W8  W11 W7  L2  W4  W3  5.0
+  2 Xia, Jethro            BCSGK47R   893   977/174  W16 W14 W4  W1  L3  W6  5.0
+  3 Chen, Owen             CSIEH51Y   746   898/ 31  L4  W9  W12 W5  W2  L1  4.0
+  4 Yin, Nolan             SOMCH64W   885   931/ 77  W3  W5  L2  W8  L1  W14 4.0
+  5 Singh, Vihaan          RIDFG25R   846   869/ 39  W9  L4  W14 L3  W7  W8  4.0
+  6 Thoppay, Hrithick      BRHFH35N   472   706/ 28  W12 D7  L8  W13 W10 L2  3.5
+  7 Thati, Rutvik Reddy    RKWFG17X   818   799/ 20  W10 D6  L1  W11 L5  W15 3.5
+  8 Astafiev, Vitaly DmitriMRPFH52U   999   938/ 54  L1  W13 W6  L4  W9  L5  3.0
+  9 Byambasaikhan, EnkhtulgSYRFH37V   530   586/ 24  L5  L3  BYE W14 L8  W13 3.0
+ 10 Niu, Edwin             SOMCH73D   583   574/ 81  L7  L12 WF  W15 L6  W11 3.0
+ 11 Krishna, Vihaan        REEE263E   471   510/ 33  W13 L1  HPB L7  W15 L10 2.5
+ 12 Swagath, Pranav        LMSFK23N   830   775/ 52  L6  W10 L3  HPB HPB HPB 2.5
+ 13 Li, Leo                BCABH11J   809   695/ 74  L11 L8  W15 L6  W14 L9  2.0
+ 14 Yi, Woochan            BRHEG23J   796   443/ 10  W15 L2  L5  L9  L13 L4  1.0
+ 15 Siddhartha, Sanjana    SDVEH64Z   390   367/ 33  L14 W16 L13 L10 L11 L7  1.0
+ 16 Guity, Sage            SYRF251G   772   696/109  L2  L15 LF  U   U   U   0.0

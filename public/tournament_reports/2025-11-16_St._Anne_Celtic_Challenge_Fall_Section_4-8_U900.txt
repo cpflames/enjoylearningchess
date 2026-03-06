@@ -1,0 +1,44 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Tecle, Zekarias        THUGH54X   758   858/ 40  W37 W15 W25 D8  W9  4.5
+  2 Le, An                 MHEFJ73S   795   886/ 38  W10 W18 W4  D9  D3  4.0
+  3 Ben Simon, Golan       WEDEJ48B   667   826/ 82  W14 D22 W11 W12 D2  4.0
+  4 Thati, Rutvik Reddy    RKWFG17X   737   793/ 29  W20 W21 L2  W26 W8  4.0
+  5 Gaddam, Vihaan         SSMGJ28E   883   894/ 55  W16 L8  W22 W11 W13 4.0
+  6 Sethanandha, Marvin    CSIFH88K   778   797/ 55  W31 W26 L8  W24 W17 4.0
+  7 Gupta, Dhruva          CMCFH24Z   727   737/ 44  W41 L11 W37 W14 W16 4.0
+  8 Pressley, Alexander    THUGH04U   637   773/ 25  W40 W5  W6  D1  L4  3.5
+  9 Krishna, Vihaan        REEE263E   745   807/ 42  W19 W13 W12 D2  L1  3.5
+ 10 Yi, Woochan            BRHEG23J   530   663/ 15  L2  D36 W32 W30 W27 3.5
+ 11 Ginal, Maxwell         THUFG23A   607   667/ 19  W29 W7  L3  L5  W33 3.0
+ 12 Ta, Jaxson             KSTEJ54Z   768   763/ 70  W17 W24 L9  L3  W25 3.0
+ 13 Tang, Khai             THUGJ48Q   700   693/ 74  W43 L9  W20 W25 L5  3.0
+ 14 Ramayanam, Hanvitha    TMBGH65C   574   589/ 30  L3  W34 W35 L7  W24 3.0
+ 15 Raghavendran, Vishakh  DCSEH24Q   663   649/ 39  W36 L1  W28 L17 W29 3.0
+ 16 Santiago, Joseph       SANEJ74B   530   587/ 38  L5  W39 W33 W27 L7  3.0
+ 17 Dua, Anaya             SHVFG67C   502   603/ 27  L12 W40 W30 W15 L6  3.0
+ 18 Srebrnik, Mika         EMSGJ48R   706   668/ 48  W42 L2  L21 W36 W28 3.0
+ 19 Ande, Akshaj           RBRFG17S   376   486/ 14  L9  W29 L24 W38 W26 3.0
+ 20 Apfel, Max             AKKIH38C   377   407/ 19  L4  W38 L13 W42 W35 3.0
+ 21 Lee, Jasyn             CDWIK90G   481   545/  9  W39 L4  W18 HPB HPB 3.0
+ 22 Lee, Julianus          CDWFK90C   725   719/ 74  W35 D3  L5  HPB HPB 2.5
+ 23 Smith, Sofia           COSEF88B   400   331/  5  L24 L31 W43 D35 W36 2.5
+ 24 Whittaker, Mason       SANHK91Z   610   576/ 30  W23 L12 W19 L6  L14 2.0
+ 25 Wu, Benjamin           AKKHH38E   455   539/ 19  W30 W27 L1  L13 L12 2.0
+ 26 Thorrington, James     SASH547U   586   533/ 79  W38 L6  W42 L4  L19 2.0
+ 27 Rajesh, Pratvik        SFRFH06K   720   627/ 14  W34 L25 W31 L16 L10 2.0
+ 28 Doll, Simon            THUFG99W   424   451/ 10  W32 L30 L15 W34 L18 2.0
+ 29 Russell, Isaac         AKKGF88A   600   414/  5  L11 L19 W39 W31 L15 2.0
+ 30 Cauich-miller, Amalia  CSDFH79V   775   676/ 47  L25 W28 L17 L10 W39 2.0
+ 31 Reisinger, Alex        SANEH17E   491   437/ 10  L6  W23 L27 L29 W38 2.0
+ 32 Chin, Kheiron          DCCBJ19P   750   628/141  L28 L35 L10 W40 W41 2.0
+ 33 Bharath, Chinmayi      MCEEF87Z   400   446/  4  U   W41 L16 W37 L11 2.0
+ 34 Reddy, Silas           AKKIG46H   152   224/  9  L27 L14 BYE L28 W37 2.0
+ 35 Crystal, Aliza         KSTFG58G   166   238/ 17  L22 W32 L14 D23 L20 1.5
+ 36 Reisenauer, Ernie      SANEH16Y   204   268/  9  L15 D10 W41 L18 L23 1.5
+ 37 Samsonov, Kirill       NARFH98S   500   405/ 45  L1  W43 L7  L33 L34 1.0
+ 38 Musladin, Rowan        KSTFF87Y   500   179/  5  L26 L20 W40 L19 L31 1.0
+ 39 Bertrand, Leon         GRWEF87X   400   222/  5  L21 L16 L29 W43 L30 1.0
+ 40 Lam, Roslyn            AKKIF87V   800   146/  5  L8  L17 L38 L32 W42 1.0
+ 41 Liu, Jinhe             AKKHG58S   170   126/ 14  L7  L33 L36 BYE L32 1.0
+ 42 Gilliland, Johnny      SANEK89K   100   100/ 12  L18 BYE L26 L20 L40 1.0
+ 43 Reyes, Gladys          AKKEF87U   400   100/  4  L13 L37 L23 L39 BYE 1.0

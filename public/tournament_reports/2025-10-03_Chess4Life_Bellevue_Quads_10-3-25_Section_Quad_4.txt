@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kesher, Zavi           BENFH62L   633   674/ 60  W2  L3  W4  2.0
+  2 Zhang, Eli             BASDH69C   627   672/106  L1  W4  W3  2.0
+  3 Mathur-badam, Arin     BMNCG27N   610   624/ 26  D4  W1  L2  1.5
+  4 Xu, Louis              MEDBH34T   710   634/ 45  D3  L2  L1  0.5

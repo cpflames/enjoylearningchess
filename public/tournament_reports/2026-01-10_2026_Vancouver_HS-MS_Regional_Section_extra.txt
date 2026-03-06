@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kazakov, Elijah        HOMGG83U   426   473/ 19  W4  U   U   1.0
+  2 Mcclure, Lucas         LBCHG93N   479   552/ 10  U   W6  U   1.0
+  3 Manzano, Shane         CRXMG94S   795   805/ 10  U   U   W5  1.0
+  4 Dominge, Andy          SENL486W   519   474/ 36  L1  U   U   0.0
+  5 Parkin, Emerson        ITPHG93W   478   467/ 10  U   U   L3  0.0
+  6 Walter, Tristan        SENJ127H   897   838/ 22  U   L2  U   0.0

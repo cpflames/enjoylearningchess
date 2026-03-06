@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zarate, Gabriel        EMDCH62S   596   651/ 47  W3  W4  D2  2.5
+  2 Sarychev, Aleksei      ISSLJ98N   610   657/304  W4  W3  D1  2.5
+  3 Zhang, Chuxuan         GRRHK02N   595   549/ 47  L1  L2  W4  1.0
+  4 Tanielian, Desmond     WOBFG19S   277   257/  9  L2  L1  L3  0.0

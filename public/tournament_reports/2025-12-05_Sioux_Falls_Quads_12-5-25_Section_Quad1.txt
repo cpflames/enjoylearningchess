@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Neff, Caleb            ABFLG72N  1952  1964/410  W5  W4  W3  3.0
+  2 Neff, Joel             ABFIF99X  1732  1729/330  L3  W6  W4  2.0
+  3 Wynstra, Daniel        SDEIZ94M  1552  1625/151  W2  W5  L1  2.0
+  4 Welch, James           HSSKF53F  1684  1669/300  W6  L1  L2  1.0
+  5 Ristau, William        SDQMX37G  1675  1656/176  L1  L3  W6  1.0
+  6 Neff, Enoch            ABFFF95Q  1448  1422/221  L4  L2  L5  0.0

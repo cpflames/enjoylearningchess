@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lee, Zachary           STTBH63W   595   758/ 79  W2  W3  W4  3.0
+  2 Lai, Brycen            CLHFK02D   668   687/ 90  L1  W4  W3  2.0
+  3 Xu, Jacky Y            SOMDJ59K   686   642/186  W4  L1  L2  1.0
+  4 Lin, Lucas             SCDEK40S   497   446/ 18  L3  L2  L1  0.0

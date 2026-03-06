@@ -1,0 +1,45 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Inforzato, Andrew      HABJH09C  1499  1532/ 42  W30 W6  W5  W7  D4  4.5
+  2 Hyman, Daniel          ADUNG18H  1380  1456/  9  W12 W28 W14 D13 W11 4.5
+  3 Rogov, Richard         MEDEJ68U  1202  1396/148  W22 L13 W15 W14 W17 4.0
+  4 Ma, Ziliang            DCCIA69N  1310  1386/193  W39 D8  W31 W18 D1  4.0
+  5 Li, Moses              BCXFK26L  1301  1349/ 81  W40 W27 L1  W32 W13 4.0
+  6 Fontenot, Isaiah       ADUNG30P  1221  1367/ 10  W11 L1  W26 W23 D7  3.5
+  7 Dahlke, Addison        ADUNG17E  1335  1361/  5  W37 W36 W9  L1  D6  3.5
+  8 Anable, Blake          LEOL513G  1100  1280/ 11  W34 D4  W25 L11 W19 3.5
+  9 Byelashova, Darya      SGHFK51X  1268  1297/236  W33 W26 L7  D17 W18 3.5
+ 10 Hack, Don              ADBNF13X  1410  1394/ 94  L18 W44 HPB W28 W21 3.5
+ 11 Weng, Bright           BENF850P  1461  1435/109  L6  BYE W20 W8  L2  3.0
+ 12 Naughton, Liam         ADUNG17D  1300  1339/  5  L2  D24 D16 W29 W31 3.0
+ 13 Boddy, Kyle            ADUNH98N  1408  1411/ 40  W42 W3  HPB D2  L5  3.0
+ 14 Wiese, Andrew          ADUNG17A  1307  1300/  5  W41 W29 L2  L3  W27 3.0
+ 15 Zhang, Patrick         CDIDK01J  1433  1391/377  L36 W42 L3  W41 W32 3.0
+ 16 Han, Kaiyi             SOMDK42P  1187  1220/153  L17 HPB D12 W39 W26 3.0
+ 17 Saloranta, Leo         MCRMB40A  1425  1382/194  W16 L18 W29 D9  L3  2.5
+ 18 Ivanov, Matvei         EABEK34E  1166  1231/126  W10 W17 HPB L4  L9  2.5
+ 19 Jiang, Kyle            MEDDK35B  1356  1300/185  L20 W37 D33 W36 L8  2.5
+ 20 Wu, Jonathan           UCDEK14H  1117  1188/123  W19 D25 L11 HPB D23 2.5
+ 21 Huang, Clora           SOMGK31H  1240  1222/200  HPB L31 W35 W33 L10 2.5
+ 22 Wang, Harvey           OPWDJ68G  1439  1391/183  L3  W30 L32 HPB W28 2.5
+ 23 Patnaik, Rishabhdeva   PLKHG72D  1345  1288/244  L29 W41 W40 L6  D20 2.5
+ 24 Kulkarni, Samik        KKNCH67M  1243  1201/ 97  L26 D12 L28 W40 W36 2.5
+ 25 Chaudhuri, Arihant     CHAG703E  1338  1309/323  W35 D20 L8  HPB HPB 2.5
+ 26 Underwood, Brannon     ADUNG16Z  1300  1216/  5  W24 L9  L6  W38 L16 2.0
+ 27 Shah, Aariv            PFCI527D   953  1058/ 54  W38 L5  L34 W30 L14 2.0
+ 28 Newland, David         ADUNG16X   360   461/  4  BYE L2  W24 L10 L22 2.0
+ 29 Oruganti, Yuvan        HGMIJ55U  1017  1048/ 41  W23 L14 L17 L12 W41 2.0
+ 30 Byelashova, Sofia      SGHDK01K  1226  1192/207  L1  L22 W37 L27 W39 2.0
+ 31 Qin, Skyler            OPWCJ97T  1380  1343/193  HPB W21 L4  HPB L12 2.0
+ 32 Mckendry, Matthew      ADUNF245  1124  1145/168  HPB HPB W22 L5  L15 2.0
+ 33 Tang, Julian           ADBNZ395   400   800/  7  L9  W38 D19 L21 HPB 2.0
+ 34 Samara, Ferris         ADUNH00C  1353  1338/ 10  L8  W39 W27 U   U   2.0
+ 35 Mei, Felicity          MMEDK89R   982   975/109  L25 HPB L21 HPB W40 2.0
+ 36 Lagzdin, Mikhail       HMNDJ96R  1169  1156/ 94  W15 L7  HPB L19 L24 1.5
+ 37 Komara, Vasishta NarayaFRWGG75F   961   984/ 38  L7  L19 L30 W42 D38 1.5
+ 38 Ye, Alex               PLKGH51L  1506  1382/332  L27 L33 WF  L26 D37 1.5
+ 39 Khandelwal, Anay       OMSIA10L   945   943/108  L4  L34 W42 L16 L30 1.0
+ 40 Dibble, Clifford       ADUNG18G   804   767/  9  L5  BYE L23 L24 L35 1.0
+ 41 Benita-nagdeep, KrishanSOMEK56N   879   852/106  L14 L23 BYE L15 L29 1.0
+ 42 Zeitlin, Tom           WOBGI56H  1021   952/138  L13 L15 L39 L37 BYE 1.0
+ 43 Mack, Brian            ADONW75R  1302  1310/  1  W44 U   U   U   U   1.0
+ 44 Groff, Shane           ADUNG28W  1006   991/  6  L43 L10 LF  U   U   0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Trespalacios, James    JINCJ02N   206   411/ 38  W3  W2  W4  3.0
+  2 Dubedy, Advika         AUDFG19E   354   329/ 18  W4  L1  D3  1.5
+  3 Tian, Isabella         ENDBG44E   242   254/ 11  L1  W4  D2  1.5
+  4 Guo, Felix             DCCBF92C   199   100/  8  L2  L3  L1  0.0

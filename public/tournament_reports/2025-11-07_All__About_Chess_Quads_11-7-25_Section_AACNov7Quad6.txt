@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sarychev, Aleksei      ISSLJ98N   771   897/319  W3  W4  W2  3.0
+  2 Karanam, Aadya         SWLFK84K   853   856/148  W4  W3  L1  2.0
+  3 Sathyamurthy, Shreyus  BLWDJ60Z   726   708/186  L1  L2  W4  1.0
+  4 Balaji, Vaibhav        SSMDH28Z   637   585/110  L2  L1  L3  0.0

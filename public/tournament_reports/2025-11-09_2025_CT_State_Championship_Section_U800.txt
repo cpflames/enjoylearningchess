@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Clark, Wesley          CTXHZ40S   728   883/  8  W13 W12 W2  W3  4.0
+  2 Tang, Kristal          CTXHX13P   651   805/125  W5  W4  L1  W6  3.0
+  3 Madhu Sudhan, DhanvanthCTXEX02L   748   805/116  W10 W11 W6  L1  3.0
+  4 Guggina, Owen Richard  CTXGZ51B   820   810/ 17  W8  L2  W13 W9  3.0
+  5 Gujar, Vedant          CTXCZ50Q   200   531/  8  L2  W8  W12 W7  3.0
+  6 Venkatraman, SriranganaCTXDZ757   889   834/ 16  W14 W7  L3  L2  2.0
+  7 Ilicheva, Adriana      CTXHZ32U   713   668/  4  W9  L6  W10 L5  2.0
+  8 Gomes, Nathan          CTXFZ70P   718   662/ 30  L4  L5  W16 W15 2.0
+  9 Ledner, Michael        CTXNZ40P   180   297/ 12  L7  W16 W11 L4  2.0
+ 10 Svolik, Martin         CTXFZ32T   500   609/  4  L3  W14 L7  W12 2.0
+ 11 Karthik, Pranav        CTXGZ51C   633   517/  7  BYE L3  L9  W13 2.0
+ 12 Mathivanan, Rayan      CTXFX08F   690   602/127  W15 L1  L5  L10 1.0
+ 13 Galasso, Gianna Noel   CTXEZ68B   368   369/ 12  L1  W15 L4  L11 1.0
+ 14 Barua, Aveer           CTXEZ70Y   433   385/ 23  L6  L10 L15 W16 1.0
+ 15 Dronavajjala, Vihaan JaCTXBZ32R   100   298/  4  L12 L13 W14 L8  1.0
+ 16 Ciriello, Nico         CTXGX07L   319   243/ 34  HPB L9  L8  L14 0.5

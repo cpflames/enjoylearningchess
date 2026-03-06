@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Li, Ethan James        SOMDK00K  1185  1177/270  W8  D2  W5  L4  W7  3.5
+  2 Bhandari, Aarav        CBRFJ06H  1128  1138/230  W7  D1  L4  W5  W6  3.5
+  3 Treves, Simon          NOWFK28A   704   853/ 57  L5  W6  D7  BYE W4  3.5
+  4 Komin, Michael         SOMFG01Y  1193  1166/ 32  W6  L5  W2  W1  L3  3.0
+  5 Mangla, Atharv         GRRFK07C  1005  1027/212  W3  W4  L1  L2  BYE 3.0
+  6 Nayagam, Anantika      SSMGH62E   820   805/ 54  L4  L3  WF  W7  L2  2.0
+  7 Xu, Augus              ENDEJ29H   796   780/ 48  L2  W8  D3  L6  L1  1.5
+  8 Yang, Spencer          SOMDF76L   722   664/  7  L1  L7  LF  U   U   0.0

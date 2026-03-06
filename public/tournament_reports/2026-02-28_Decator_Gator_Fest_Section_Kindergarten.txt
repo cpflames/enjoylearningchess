@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zhang, Dylan           CGRAG32C   616   663/ 43  W2  W5  BYE W4  W3  5.0
+  2 Knigawka, Filip        CAVAF91P   625   607/ 25  L1  BYE W4  W3  W5  4.0
+  3 Chin, Valerie          EVGAF39F   100   100/  4  BYE W4  L5  L2  L1  2.0
+  4 Adoc, Kai              PERAF39E   100   100/  4  W5  L3  L2  L1  BYE 2.0
+  5 Sabharwal, Kiyaan      LAUAF39D   100   100/  4  L4  L1  W3  BYE L2  2.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Barrenkala, Surya      EVJI238E  1207  1228/101  W3  W4  D2  2.5
+  2 Chevuri, Tattva        REJIC06V  1274  1282/457  W4  W3  D1  2.5
+  3 Mohan, Sonit           TMCHG19P   963   973/  8  L1  L2  W4  1.0
+  4 Naik, Shreyas          MTWGJ98X   900   864/143  L2  L1  L3  0.0

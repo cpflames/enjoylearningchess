@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Raman, Arjun           ETSDH96Y  1204  1244/ 60  W6  W2  2.0
+  2 Jang, Jinwon           EMSI561P  1240  1231/227  W4  L1  1.0
+  3 Lange, Maximilian Leon BWSGG33Q   870   883/ 26  W5  L4  1.0
+  4 Pan, Jesse             ENSEJ61R  1117  1109/ 50  L2  W3  1.0
+  5 Petito, John           HSCF453W   770   798/ 59  L3  W6  1.0
+  6 Xiong, Maxwell         CSIEK92H  1049   989/110  L1  L5  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nishino, Anne          BABEH74F   872   991/235  W4  W3  W2  3.0
+  2 Daniel, Lemuel         MMEEJ29L   863   889/126  W3  W4  L1  2.0
+  3 Krishna, Vihaan        REEE263E  1045   979/ 62  L2  L1  W4  1.0
+  4 Reddy, Srinath         ADUNF39C  1300   493/  3  L1  L2  L3  0.0

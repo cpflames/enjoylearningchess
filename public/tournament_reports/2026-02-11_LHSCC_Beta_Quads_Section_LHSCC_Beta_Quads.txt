@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Shi, Gavin             LCOLH855  1828  1829/518  W3  U   1.0
+  2 Preiner, Oscar         LCOKI145  1502  1505/183  W4  U   1.0
+  3 Calo, Jude             LCOK3425  1274  1281/236  L1  W4  1.0
+  4 Golden, Sadler         LCOJJ38J  1024  1010/ 32  L2  L3  0.0

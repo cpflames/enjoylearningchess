@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, Luna             RSACG32W   269   387/ 61  W4  W3  W2  3.0
+  2 Pfau, Zacharias        SOMAG09C   217   248/ 19  W3  W4  L1  2.0
+  3 Tanielian, Theo        WOBBG19Q   100   102/ 21  L2  L1  W4  1.0
+  4 Reddy, Atharv          GRRBG25J   100   100/ 20  L1  L2  L3  0.0

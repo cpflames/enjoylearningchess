@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zhang, Amy             CSIFF80L  1041  1114/ 87  W12 W13 W4  W7  D2  4.5
+  2 Bretz, Levi            BTHIG51R   852  1024/ 15  W18 W5  D9  W3  D1  4.0
+  3 Maibaum, Bryce         CSIF124D  1093  1093/ 83  W16 W6  W7  L2  W11 4.0
+  4 Rogovoy, Alexander     ESCGK14Y  1136  1127/ 62  W8  W11 L1  W10 D5  3.5
+  5 Leneway, Owen          CSIFK91V  1142  1122/114  W10 L2  W12 W6  D4  3.5
+  6 Mcguire, Grace         HSCHH57R   526   763/ 30  W14 L3  W13 L5  W8  3.0
+  7 Raghavan, Mridula      SKIGG32B   908   895/ 49  W15 W20 L3  L1  W16 3.0
+  8 Sethanandha, Marvin    CSIFH88K   645   778/ 50  L4  W17 W11 W9  L6  3.0
+  9 Barker, Harvey         HTNHH06X   814   819/ 40  D17 W14 D2  L8  W12 3.0
+ 10 Tecle, Zekarias        THUGH54X   751   783/ 30  L5  W15 W18 L4  W13 3.0
+ 11 Karanam, Aadya         SWLFK84K   903   853/145  W19 L4  L8  W17 L3  2.0
+ 12 Tham, Lucas            EVGF984X   565   580/ 64  L1  W19 L5  W18 L9  2.0
+ 13 Land, Kai              EVGFK54P   808   750/ 54  WF  L1  L6  W15 L10 2.0
+ 14 Leon, Nikhil           TMBH587T   947   839/169  L6  L9  L15 W19 W17 2.0
+ 15 Johnson, Evan          CSIFH33X   524   554/ 18  L7  L10 W14 L13 W20 2.0
+ 16 Armstrong, Benjamin    EVGFK54R   578   548/ 91  L3  L18 W19 W20 L7  2.0
+ 17 Pittala, Satvik        GTMIG03Q   800   543/  5  D9  L8  W20 L11 L14 1.5
+ 18 Perianayagam, Gautham  CSIFG99T   320   333/ 24  L2  W16 L10 L12 L19 1.0
+ 19 Bretz, Deacon          CIAFG51F   490   448/ 15  L11 L12 L16 L14 W18 1.0
+ 20 Mcguire, Sophia        HSCFH57G   308   268/ 22  BYE L7  L17 L16 L15 1.0

@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Lange, Maximilian Leon BWSGG33Q   826   870/ 24  W9  W7  2.0
+  2 Khudyev, Elina Umi     OPWDJ97Q  1310  1323/123  W8  D4  1.5
+  3 Xiong, Maxwell         CSIEK92H  1027  1058/104  W11 D5  1.5
+  4 Raman, Arjun           ETSDH96Y  1145  1179/ 54  W12 D2  1.5
+  5 Pan, Jesse             ENSEJ61R  1147  1166/ 46  W13 D3  1.5
+  6 Lin, Ethan             TYEHJ71H  1235  1250/118  D10 W13 1.5
+  7 Sang, Andy             BASDK65W   671   653/131  BYE L1  1.0
+  8 Lin, Elliot            TYEHJ71G  1268  1266/119  L2  W10 1.0
+  9 Chiang, Austin         CNHCH59V   801   773/ 44  L1  BYE 1.0
+ 10 Jang, Jinwon           EMSI561P  1212  1193/221  D6  L8  0.5
+ 11 Lin, Evan              SOMDJ72G   922   915/120  L3  D12 0.5
+ 12 Zhang, Amy             CSIFF80L  1106  1070/ 99  L4  D11 0.5
+ 13 Lai, Austin            EVGEK94F  1179  1130/126  L5  L6  0.0

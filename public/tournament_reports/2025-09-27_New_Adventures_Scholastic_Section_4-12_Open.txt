@@ -1,0 +1,29 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Seela, Shashank        EALJI74N  1537  1555/237  W26 W5  D13 W9  W4  4.5
+  2 Luo, Leo               MEDFH45C  1185  1256/ 44  L9  W21 W25 W13 W10 4.0
+  3 Damrau, Austin         ELKHK95E  1251  1312/130  WF  W23 L4  W18 W6  4.0
+  4 Vijay, Adith           SOMFD20K  1336  1360/ 98  W19 W7  W3  D6  L1  3.5
+  5 Lin, Ethan             TYEHJ71H  1280  1293/ 94  W10 L1  D15 W17 W16 3.5
+  6 Gui, Joyce             OPWDH92C  1110  1225/179  W27 W17 W14 D4  L3  3.5
+  7 Huang, Edwin           OMSI616M  1152  1234/108  W22 L4  D8  W23 W14 3.5
+  8 Li, Anyi               LKDEJ55F  1352  1338/186  L23 W24 D7  W15 W13 3.5
+  9 Lai, Ryan              SHSCH70N  1437  1416/140  W2  L14 W16 L1  W18 3.0
+ 10 Memon, Emad            GTMHG20V   696   896/ 13  L5  W26 W24 W12 L2  3.0
+ 11 Chen, Julian           MEDDK32C  1284  1248/142  W20 L13 L18 W22 W19 3.0
+ 12 Mohammed, Farhan       CRKFH14M  1166  1127/121  L18 W28 W19 L10 W20 3.0
+ 13 Bravenboer, Jake       OPWFJ97Y  1271  1275/176  W15 W11 D1  L2  L8  2.5
+ 14 Chaturvedi, Raghav     BISKK75J  1316  1287/180  W21 W9  L6  D16 L7  2.5
+ 15 Zhu, Eric              NPTFK18P   969  1054/254  L13 W20 D5  L8  W23 2.5
+ 16 Cai, Emily             CNHDH60H  1031  1064/ 89  W28 W18 L9  D14 L5  2.5
+ 17 Zandanov, Leonid       ENAEK31Q  1275  1232/209  W25 L6  D23 L5  W24 2.5
+ 18 Pande, Aryan           DCSC493M  1076  1096/ 81  W12 L16 W11 L3  L9  2.0
+ 19 Astafiev, Vitaly DmitriMRPFH52U   973   999/ 48  L4  W22 L12 W21 L11 2.0
+ 20 Tulsukchuentanat, ProudWOBHH63C   893   927/ 41  L11 L15 W26 W25 L12 2.0
+ 21 Barni, Silas           SQMJG85T  1131  1081/ 14  L14 L2  W27 L19 W25 2.0
+ 22 Li, Bryan              MEDCJ75H   965   946/123  L7  L19 W28 L11 W27 2.0
+ 23 Lin, Elliot            TYEHJ71G  1055  1060/ 95  W8  L3  D17 L7  L15 1.5
+ 24 Jung, Kaspian          ADDJG28B  1093  1017/  9  HPB L8  L10 W26 L17 1.5
+ 25 Madsen, Levi           BLWEH80Z  1027   967/ 33  L17 W27 L2  L20 L21 1.0
+ 26 Datta, Ishana          KKNEH60X  1115  1015/ 57  L1  L10 L20 L24 W28 1.0
+ 27 Barker, Harvey         HTNHH06X   861   814/ 35  L6  L25 L21 W28 L22 1.0
+ 28 Wendler, Fallyn        NSVEH40Q   563   537/ 53  L16 L12 L22 L27 L26 0.0

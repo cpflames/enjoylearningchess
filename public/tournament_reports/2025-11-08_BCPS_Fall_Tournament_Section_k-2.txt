@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ardelean, Alan         PBLCG59N   476   572/ 15  W9  W8  W4  W3  W2  5.0
+  2 Karthik, Rudra Lakshmi GR1BZ626   100   239/  9  BYE D4  W6  W5  L1  3.5
+  3 Leza, Santiago         GR1CZ477   145   251/ 10  W7  W6  W5  L1  L4  3.0
+  4 Peng, Aiden            IT1CZ37Q   200   360/  5  W8  D2  L1  D7  W3  3.0
+  5 Masselli, George       RW1CY95C   200   261/  5  W10 W9  L3  L2  W8  3.0
+  6 Debelle, Elais         RW1AY95B   100   169/  4  BYE L3  L2  W9  W10 3.0
+  7 Cabrera, Audy          RW1CY95A   200   121/  5  L3  D10 D8  D4  D9  2.0
+  8 Zaitseva, Elizaveta    HA1CZ47A   394   239/  9  L4  L1  D7  W10 L5  1.5
+  9 Nagendran, Aadhvik     IT1CZ37P   200   100/  5  L1  L5  W10 L6  D7  1.5
+ 10 Pennujuru, Saketh      GR1BZ37N   100   100/  5  L5  D7  L9  L8  L6  0.5

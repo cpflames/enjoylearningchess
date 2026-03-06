@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 tot 
+  1 Willy, Stephen         HSCKH17K  2312  2344/644  L6  W3  W8  W2  W9  U   W7  W4  W5  7.0
+  2 Vemparala, Nikash      OVLKI078  2277  2280/468  L10 D7  W4  L1  W6  D3  W8  L5  W9  5.0
+  3 Wang, Ted              OVLGK13D  2272  2275/363  L4  L1  W6  D5  W8  D2  D9  U   W7  4.5
+  4 Gottumukkala, Ananth   ADUNG432  2155  2176/406  W3  D8  L2  W9  U   D7  D5  L1  D6  4.0
+  5 Lee, Megan             ADUN8702  2324  2297/226  D9  D6  WF  D3  L7  L8  D4  W2  L1  4.0
+  6 Kona, Vidip            TMBHI26J  2240  2242/453  W1  D5  L3  D8  L2  D9  U   W7  D4  4.0
+  7 Porter, Ryan W         ADUNF05C  2286  2272/112  W8  D2  D9  U   W5  D4  L1  L6  L3  3.5
+  8 Wan, Bertrand          ADUNK421  2232  2220/328  L7  D4  L1  D6  L3  W5  L2  W9  U   3.0
+  9 Karthikeyan, HarishkumaREDKJ81A  2157  2146/265  D5  D10 D7  L4  L1  D6  D3  L8  L2  2.5
+ 10 Sang, Tian             ADUNE22K  2309  2313/ 69  W2  D9  LF  U   U   U   U   U   U   1.5

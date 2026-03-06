@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jang, Jinwon           EMSI561P  1247  1250/216  W4  W3  W2  3.0
+  2 Rehmeyer, Malcolm      FHMIH62C   739   746/ 76  W3  W4  L1  2.0
+  3 Mathews, Abishai       BCSCF78S   200   422/  3  L2  L1  W4  1.0
+  4 Cemrek, Ada            MCIAF78R   100   100/  3  L1  L2  L3  0.0

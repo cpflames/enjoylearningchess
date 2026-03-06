@@ -1,0 +1,58 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Deng, Lily             HHSM5007  1703  1731/396  W18 W20 W16 W9  W3  5.0
+  2 Cress, Emmett          CWHJH54B  1315  1356/104  W24 W4  W33 W12 D8  4.5
+  3 Deng, Stanley          LLMHK22E  1635  1633/399  W7  W23 W32 W8  L1  4.0
+  4 Cabasug, Gabriel       HHSLE46S  1105  1136/ 44  W25 L2  W41 W21 W13 4.0
+  5 Gorecke, Cj            HHSKG87W  1000  1151/ 25  W14 W11 L12 W33 W20 4.0
+  6 Yuan, Emma             HHSMI01S  1059  1092/128  W40 L15 W31 W32 W14 4.0
+  7 Bagunu, Joaquin        HHSJD85K  1027  1056/113  L3  W34 W50 W35 W17 4.0
+  8 Rahman, Zayd           HHSLF83W  1447  1441/147  W13 W10 W35 L3  D2  3.5
+  9 Diaz, Ronald           SODLG12S  1100  1325/  5  W43 W40 W15 L1  D10 3.5
+ 10 Barnett, Eli           HSCKJ81S  1071  1118/ 58  W19 L8  W37 W22 D9  3.5
+ 11 Ybarra, Caleb          SODKK96F  1125  1104/ 86  W27 L5  W38 D29 W19 3.5
+ 12 Dillingham, Daniel     KCCIB73M  1187  1167/297  L21 W37 W5  L2  W29 3.0
+ 13 Vanderschoor, Peyton   JMLH490Y   944  1015/118  L8  W22 W43 W15 L4  3.0
+ 14 Kaiphanliam, Kieren SisCWHLK52X  1286  1237/ 87  L5  W29 W34 W18 L6  3.0
+ 15 Nolan, Brendan         TCPM476K  1182  1163/ 59  W30 W6  L9  L13 W40 3.0
+ 16 Bates, Lucas           LLMHK96Q  1129  1111/ 50  W39 W21 L1  L19 W37 3.0
+ 17 Dunbar, Benjamin       HSCKG12R  1000   900/  5  W46 L25 W26 W24 L7  3.0
+ 18 Johnson, Eli           KCCJJ24B   989   989/ 40  L1  W31 W47 L14 W38 3.0
+ 19 Bagunu, Farrah         MCPI462U   735   820/112  L10 W41 W42 W16 L11 3.0
+ 20 Guizar, Kevin          CWHMI02P  1089  1074/146  BYE L1  W45 W36 L5  3.0
+ 21 Fultz, Heath           CWHJ853S   932   951/114  W12 L16 W53 L4  W44 3.0
+ 22 Dunbar, Michael        KCCIG12Q   800   965/  5  W45 L13 W30 L10 W39 3.0
+ 23 Menjivar, Bryan        OCHHJ80L  1069  1034/ 79  W28 L3  L44 W41 W34 3.0
+ 24 Bagunu, Franco         HHSJE22R  1016   987/113  L2  W38 W52 L17 W45 3.0
+ 25 Avetisyan, Vincent     JMLHJ01Z   817   831/ 55  L4  W17 L36 W51 W35 3.0
+ 26 Dang, Julian           HHSKH05K   720   722/ 20  L29 W42 L17 W50 W36 3.0
+ 27 Dodson, Tyson          KCCJ234D   826   813/102  L11 L32 W54 W46 W33 3.0
+ 28 Gonzalez, Blanca       CWHJJ81M   732   734/ 69  L23 L33 W56 W47 W32 3.0
+ 29 Sanborn, Ryder         JMLIJ81E   651   765/ 84  W26 L14 W49 D11 L12 2.5
+ 30 Schutz, Henry          CHJHJ80M   917   873/ 87  L15 W49 L22 D31 W48 2.5
+ 31 Merryman, Weston       JMLI399H   482   545/ 58  W57 L18 L6  D30 W51 2.5
+ 32 Antunez, Aristeo       GJSMG12P  1200   797/  5  W44 W27 L3  L6  L28 2.0
+ 33 Manambedu-raja, PragdisLLMHG12N   700   777/  5  W50 W28 L2  L5  L27 2.0
+ 34 Arias Padilla, Alondra RICMK68G   626   631/ 62  W48 L7  L14 W43 L23 2.0
+ 35 Gonzalez, Sebastian    HIGHG12M   700   775/  5  W54 W39 L8  L7  L25 2.0
+ 36 Canfield, Jedidiah     KCCJG12L   900   643/  5  L38 W46 W25 L20 L26 2.0
+ 37 Wampole, Caleb         CWHL133K   625   641/123  W53 L12 L10 W42 L16 2.0
+ 38 Dahl, Heidi            JMLHH58K   549   587/ 79  W36 L24 L11 W53 L18 2.0
+ 39 Hong, Sidney           JMLI478H   895   837/161  L16 L35 W48 W44 L22 2.0
+ 40 Garcia, Emma           OCHHJ45L   714   708/ 70  L6  L9  W57 W52 L15 2.0
+ 41 Penafiel, Jhon         JMLIJ80Z   514   517/ 48  W56 L19 L4  L23 W52 2.0
+ 42 Manuel Mejia, Jose     GJSLG12K  1100   508/  5  W47 L26 L19 L37 W50 2.0
+ 43 Macatangay, Elijah     CTKHH43C   246   368/ 20  L9  W51 L13 L34 W54 2.0
+ 44 Evans, Daymein         PASK267E   441   505/ 53  L32 W56 W23 L39 L21 2.0
+ 45 Larimer, Thomas        LLMHJ79Q   605   599/ 35  L22 W52 L20 W57 L24 2.0
+ 46 Mendoza, Fernando      CWHLH43P   393   395/ 14  L17 L36 BYE L27 W53 2.0
+ 47 Purcell, Blaine        RRGIH55B   374   366/ 38  L42 W57 L18 L28 W56 2.0
+ 48 Dennis, Ethan          RRGIH01A   187   205/ 17  L34 BYE L39 W56 L30 2.0
+ 49 Kapitula, Liam         KCCIG12J   800   560/  4  W51 L30 L29 U   W57 2.0
+ 50 Rogers, Sterling       RRGHH27E   379   353/ 34  L33 W55 L7  L26 L42 1.0
+ 51 Muniz, Christopher     RRGHJ79V   477   397/ 45  L49 L43 W55 L25 L31 1.0
+ 52 Bodes, Josiah          HSCIH27U   254   248/ 24  W55 L45 L24 L40 L41 1.0
+ 53 Gutierrez, Diego       GJSKG12H  1000   305/  5  L37 W54 L21 L38 L46 1.0
+ 54 White, Christopher     JMLIJ47J   451   355/ 49  L35 L53 L27 BYE L43 1.0
+ 55 Mendoza, Sonia         GJSMG12E  1200   100/  3  L52 L50 L51 U   BYE 1.0
+ 56 Najera, Mateo          GJSMG12D  1200   100/  5  L41 L44 L28 L48 L47 0.0
+ 57 Gonzalez, Liliana      GJSMG12C  1200   100/  5  L31 L47 L40 L45 L49 0.0

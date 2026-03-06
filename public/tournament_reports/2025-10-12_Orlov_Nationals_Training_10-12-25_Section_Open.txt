@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Mccarthy, Eugene       CDLFG73B   722   718/ 30  W9  L2  1.0
+  2 Mathew, Reuben         MRIBG33B   753   786/ 34  U   W1  1.0
+  3 Zhang, Kevin           OMSH809Y  1375  1389/199  W7  U   1.0
+  4 Xiong, Maxwell         CSIEK92H  1143  1149/ 94  W8  U   1.0
+  5 Yeh, George            CSIDH64S  1161  1163/ 42  D6  U   0.5
+  6 Zou, Jinhan            LMSFH14T  1183  1181/194  D5  U   0.5
+  7 Jang, Jinwon           VIEI561P  1218  1203/192  L3  U   0.0
+  8 Chiang, Austin         CNHCH59V   763   756/ 37  L4  U   0.0
+  9 Sang, Andy             BASDK65W   644   614/115  L1  U   0.0

@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Sreraman, Rohit        BCAFG92Q  1330  1307/325  W8  D7  W2  W3  D6  4.0
+  2 Zeitlin, Tom           OMSGI56H  1142  1118/129  W5  W9  L1  W8  L4  3.0
+  3 Mohan, Sonit           TMCHG19P   700   963/  5  L7  W5  W9  L1  W8  3.0
+  4 Sreraman, Rahul        BCAFJ42L  1174  1116/308  L10 D6  D5  W9  W2  3.0
+  5 Swindell, Adam         MRLGG32Q   693   796/ 28  L2  L3  D4  W10 W7  2.5
+  6 Huang, Damon           CHRDG71K   638   749/ 36  L9  D4  W10 D7  D1  2.5
+  7 Liu, Kyle              CNHDK00Z   888   860/ 45  W3  D1  L8  D6  L5  2.0
+  8 Tripathi, Naksh        BRHEJ98P   693   747/122  L1  W10 W7  L2  L3  2.0
+  9 Telikicherla, Aadya    AUDDG19N   300   743/  5  W6  L2  L3  L4  D10 1.5
+ 10 He, Joshua             CHRDJ72H   665   660/110  W4  L8  L6  L5  D9  1.5

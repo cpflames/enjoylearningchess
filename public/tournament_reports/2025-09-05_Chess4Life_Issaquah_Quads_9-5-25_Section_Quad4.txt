@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Madadi, Hannah         CGRDH65Y   177   218/ 47  W3  W4  L2  2.0
+  2 Deshmukh, Maithili     SHSBG71H   201   226/ 17  W4  L3  W1  2.0
+  3 Bhansali, Inaya        BCACH79H   100   195/ 12  L1  W2  W4  2.0
+  4 Li, Jaxon              SPTAG19Y   100   100/  3  L2  L1  L3  0.0

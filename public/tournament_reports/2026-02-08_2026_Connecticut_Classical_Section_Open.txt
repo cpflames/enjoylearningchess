@@ -1,0 +1,36 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Sonis, Francesco       MOXNZ27U  2626  2633/  6  W25 W10 W13 W2  D3  W6  5.5
+  2 Zhou, Jianchao         MAXNX00A  2670  2669/121  W31 W12 W4  L1  W5  W3  5.0
+  3 Tanenbaum, Zachary     CTXNX00E  2459  2460/142  D18 W15 W14 W5  D1  L2  4.0
+  4 Groff, Jordan          CTXNX00K  2280  2287/135  W20 W11 L2  D13 W16 D8  4.0
+  5 Kao, Jamison Edrich    CTXJZ40H  2280  2291/ 18  W26 W7  W19 L3  L2  W10 4.0
+  6 Ling, Chenxuan         NYXGX10N  2261  2281/122  D14 W23 W18 D10 W22 L1  4.0
+  7 Ingargiola, Max        CTXMX10G  2155  2155/162  W30 L5  D11 D20 W19 W15 4.0
+  8 Zhao, Kevin            MAXHX10Y  2253  2246/116  W21 L19 D20 W29 W13 D4  4.0
+  9 Chen, Winston Ruiying  NYXDZ27T  1825  1898/  4  HPB HPB L23 W25 W29 W14 4.0
+ 10 Garg, Priyansh         NYXJZ46U  2264  2273/ 18  W32 L1  W12 D6  W23 L5  3.5
+ 11 Xiang, Grayson         NYXEZ27S  1957  2014/  5  W16 L4  D7  W31 W17 U   3.5
+ 12 Natarajan, Neil        BCCIV24M  1984  1993/106  BYE L2  L10 W28 D20 WF  3.5
+ 13 Xu, Zhihan             FLXEZ27R  2142  2156/  6  W33 W22 L1  D4  L8  D16 3.0
+ 14 Regam, Jessica Shor    PAXNZ27Q  2044  2058/  6  D6  W31 L3  D18 W26 L9  3.0
+ 15 Bhargava, Kushagra     CTXIX00P  2027  2043/155  D34 L3  D28 W27 W18 L7  3.0
+ 16 Kilari, Dattasai       MAXJX10L  2194  2181/114  L11 W35 W27 D22 L4  D13 3.0
+ 17 Mashkov, David AlexandeCTXMX10Q  2126  2123/134  W27 HPB HPB U   L11 W21 3.0
+ 18 Zhou, Arthur           MAXGZ27P  2073  2067/  6  D3  W28 L6  D14 L15 D19 2.5
+ 19 Daddario, Aayush       CTXFX07A  1768  1805/ 62  BYE W8  L5  L23 L7  D18 2.5
+ 20 Farzaneh-far, Marcus   MAXIZ27N  2027  2039/  5  L4  W33 D8  D7  D12 U   2.5
+ 21 Wu, Felix              CTXGZ40D  1972  1973/ 17  L8  D25 L29 W33 W30 L17 2.5
+ 22 Garcia, Erick          PAXNZ27M  2311  2294/  5  W29 L13 W26 D16 L6  LF  2.5
+ 23 Ivanov, Alexander      MAXNX00C  2494  2472/126  HPB L6  W9  W19 L10 U   2.5
+ 24 Paas, Leo              NYXGZ27K  1878  1885/  1  HPB HPB U   U   D25 BYE 2.5
+ 25 Chan, Matt             CTXNX07P  2084  2051/124  L1  D21 D32 L9  D24 D27 2.0
+ 26 Zhang, Royce           RIXFX10W  2026  2025/116  L5  W30 L22 W32 L14 U   2.0
+ 27 Vellanki, Devansh      MAXDX11G  1945  1925/113  L17 BYE L16 L15 D33 D25 2.0
+ 28 Zhou, Abigail          NYXEZ27J  1955  1950/  4  HPB L18 D15 L12 W32 U   2.0
+ 29 Alluri, Samanyu        MAXEX10A  2044  2025/109  L22 D32 W21 L8  L9  U   1.5
+ 30 Ganguly, Maitreya      MAXIZ27H  1957  1934/  5  L7  L26 D33 W35 L21 U   1.5
+ 31 Uwakwe, Michael        CTXNX00L  2067  2047/145  L2  L14 W35 L11 U   U   1.0
+ 32 Griffin, Miles         NJXNZ41D  1984  1960/ 16  L10 D29 D25 L26 L28 U   1.0
+ 33 Chu, Leon              NYXIX05N  1875  1857/117  L13 L20 D30 L21 D27 U   1.0
+ 34 Castaneda, Nelson      CTXNZ537  2268  2263/  5  D15 HPB U   U   U   U   1.0
+ 35 Bernard, Jaron         NJXNZ27F  1849  1827/  3  HPB L16 L31 L30 U   U   0.5

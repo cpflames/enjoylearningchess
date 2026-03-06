@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Reddy, Eshan           SGSK336Y  1835  1848/330  W17 W7  W2  W6  W3  5.0
+  2 Hessel, Riot           RGHKJ96D  1320  1350/ 22  W13 W4  L1  W15 W9  4.0
+  3 Campbell, Sebastian    GPSKI79A  1135  1204/194  W23 W12 W15 W5  L1  4.0
+  4 Hamsher, Jack          GPSMA99G   773   974/ 31  W22 L2  W16 W8  W6  4.0
+  5 Tannahill, Layton      RGHJF64P   900  1112/  5  D10 W20 W19 L3  W14 3.5
+  6 Severynko, Elizabeth   RGHLG11D  1137  1124/  9  W21 W11 W10 L1  L4  3.0
+  7 Worrell, Spencer       CNYKF66H  1108  1156/ 10  W8  L1  L9  W21 W15 3.0
+  8 Brito, Grant           RGHMF64M  1200  1010/  5  L7  W17 W11 L4  W16 3.0
+  9 Slack, Troy            RGHMF64L  1200  1156/  5  W14 L15 W7  W20 L2  3.0
+ 10 Koch, Grant            CNYLH02Z   866   912/ 13  D5  W13 L6  L14 W19 2.5
+ 11 Huang, Matthew         LWCJJ05S  1030   979/ 30  W16 L6  L8  D12 W18 2.5
+ 12 Chang, Kasen           RGHJF67G   436   686/  9  W19 L3  L13 D11 W20 2.5
+ 13 Glastre, Alyssa        GPSM319U   704   789/ 15  L2  L10 W12 D19 W21 2.5
+ 14 Le, Preston            GPSMK98Y   889   913/ 14  L9  HPB W17 W10 L5  2.5
+ 15 Wilson, Nicholas D     LWCJJ58B  1246  1198/ 76  W18 W9  L3  L2  L7  2.0
+ 16 Martinz, Colin         CNYKF64K  1000   718/  5  L11 W18 L4  W23 L8  2.0
+ 17 Datsko, Daniel         CNYJH02L   732   702/  9  L1  L8  L14 BYE W22 2.0
+ 18 Brady, Devin           RGHJF67J   660   633/  8  L15 L16 BYE W22 L11 2.0
+ 19 Yarbrough, Nathan      CNYKH03Q  1162  1029/ 16  L12 W21 L5  D13 L10 1.5
+ 20 Whipple, Jax           GPSLJ82N   589   540/  8  HPB L5  W23 L9  L12 1.5
+ 21 Yi, Shan               GPSLF64J  1100   626/  5  L6  L19 W22 L7  L13 1.0
+ 22 Fernando, Orion        CNYLF64H  1100   373/  5  L4  W23 L21 L18 L17 1.0
+ 23 Butler, Mick           RGHJF64G   900   100/  4  L3  L22 L20 L16 BYE 1.0

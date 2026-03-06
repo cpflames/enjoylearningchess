@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Naik, Shreyas          MTWGJ98X   903   924/166  L2  W3  W5  2.0
+  2 Taqiaddin, Badr        INGIG16D   898   930/ 18  W1  W4  L3  2.0
+  3 Mathur-badam, Arin     BMNCG27N   862   897/ 63  W6  L1  W2  2.0
+  4 Swindell, Adam         MRLGG32Q   849   873/ 90  W5  L2  W6  2.0
+  5 Panchal, Om            LAVEG43R   846   790/ 21  L4  D6  L1  0.5
+  6 Abdukarimov, Samin     ARDBH67S   818   768/227  L3  D5  L4  0.5

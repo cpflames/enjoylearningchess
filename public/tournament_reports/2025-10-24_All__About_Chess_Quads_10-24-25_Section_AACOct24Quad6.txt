@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Charles, Benjamin      SOMCJ06G   923   909/183  D4  W2  D3  2.0
+  2 Sathyamurthy, Shreyus  BLWDJ60Z   703   726/183  W3  L1  D4  1.5
+  3 Sarychev, Aleksei      ISSLJ98N   768   771/316  L2  W4  D1  1.5
+  4 Mazer, Harvey          SNEFJ59E   717   707/ 63  D1  L3  D2  1.0

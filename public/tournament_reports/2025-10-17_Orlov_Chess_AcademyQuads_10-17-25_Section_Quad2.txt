@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Luo, Ying-qi           REJGG18P   352   489/  4  U   W3  W2  2.0
+  2 Chen, Eric             NCAEG16A   400   339/  2  W3  U   L1  1.0
+  3 Zeeshan, Harris        CRICH61J   221   175/ 67  L2  L1  U   0.0

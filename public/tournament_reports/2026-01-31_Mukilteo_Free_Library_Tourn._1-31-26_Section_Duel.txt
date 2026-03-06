@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chan, Oryan            KAMJF59N   900  1000/  5  W2  W2  L2  D2  L2  2.5
+  2 Leuthold, Drew         ADUNF59M  1300   967/  5  L1  L1  W1  D1  W1  2.5
+
+ All Unrated-player Section: Ratings capped at 1000

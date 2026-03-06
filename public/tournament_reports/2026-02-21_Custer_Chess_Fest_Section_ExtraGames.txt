@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Luna, Max              FERMJ85Y  1335  1337/105  W4  1.0
+  2 Westergreen, Korben    FERJH39X   756   781/ 64  W5  1.0
+  3 Le, Na                 FERKG02E   492   522/ 21  W6  1.0
+  4 Jackson, Henry         FERJJ49S   780   777/ 14  L1  0.0
+  5 Egland, Crosby         FERJ264S   675   649/ 75  L2  0.0
+  6 Green, Teagan          FERJF80Q   443   404/  8  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Ethan James        SOMDK00K  1054  1109/256  D2  D4  W3  2.0
+  2 Bhasin, Palash         ISMHH95H  1119  1143/210  D1  D3  W4  2.0
+  3 Dhameeja, Ved          GRRGJ98F  1231  1204/211  W4  D2  L1  1.5
+  4 Deng, Lucas            DISEH87X  1053  1022/105  L3  D1  L2  0.5

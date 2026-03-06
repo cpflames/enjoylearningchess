@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Roy, Ricky             RCSFW75V   937  1025/ 29  D3  W4  W2  2.5
+  2 Lee, Owain             LLFFG59B   891   957/ 47  W4  W3  L1  2.0
+  3 Mohan, Sonit           TMCHG19P   973   971/ 11  D1  L2  W4  1.5
+  4 Koster, John           WOBCJ88T   999   913/155  L2  L1  L3  0.0

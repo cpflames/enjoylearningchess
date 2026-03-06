@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Mazer, Harvey          SNEFJ59E   671   682/ 71  D5  W9  D3  W2  W4  4.0
+  2 Mohan, Adrith          SSMDJ05Y   587   614/ 69  W8  W6  W4  L1  W9  4.0
+  3 Lee, Hugo              SOMCG01W   555   545/ 13  W9  L4  D1  W7  W10 3.5
+  4 Etienne, Yann          CDVCG21M   486   528/ 41  W7  W3  L2  W6  L1  3.0
+  5 Awasthi, Anay          NLMBG32T   284   304/ 27  D1  W8  L6  W9  L7  2.5
+  6 Pfau, Zacharias        SOMAG09C   420   396/ 38  W10 L2  W5  L4  D8  2.5
+  7 Chen, Enoree           SOMDF64R   300   333/  5  L4  W10 D8  L3  W5  2.5
+  8 Youn, Jayden           EASCG18D   155   195/ 14  L2  L5  D7  W10 D6  2.0
+  9 Chen, Emily            SOMBF64Q   100   180/  5  L3  L1  W10 L5  L2  1.0
+ 10 Etienne, Enola         CDVAF72W   100   100/  9  L6  L7  L9  L8  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sarangi, Samarth       HMNFH69F   876   920/232  W3  W4  L2  2.0
+  2 Desai, Vivaan          BCACJ49H   865   915/ 82  W4  L3  W1  2.0
+  3 Shah, Rachit           BNTFK44K   916   887/137  L1  W2  L4  1.0
+  4 Karanam, Aadya         SWLFK84K   950   912/172  L2  L1  W3  1.0

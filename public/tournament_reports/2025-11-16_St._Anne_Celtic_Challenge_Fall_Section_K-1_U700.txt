@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zeng, Liam             SHSAH05U   696   772/ 66  W4  W3  W2  W6  W5  5.0
+  2 Veligeti, Ayaansh      TBKBF88T   100   662/  5  W8  W5  L1  W7  W3  4.0
+  3 Jiang, Ethan           BCABG19W   403   433/ 38  W6  L1  W5  W8  L2  3.0
+  4 Ande, Shayanth         RBRBG17R   100   240/  9  L1  W6  W7  L5  W8  3.0
+  5 Ta, Jaiden             KSTBG56Y   478   437/ 28  W7  L2  L3  W4  L1  2.0
+  6 Levy, Julius           SANBF88Q   100   119/  5  L3  L4  W8  L1  D7  1.5
+  7 Krishna, Venya         REEAG19J   100   100/ 17  L5  D8  L4  L2  D6  1.0
+  8 Thorrington, Smith     SANBH16R   100   100/ 11  L2  D7  L6  L3  L4  0.5

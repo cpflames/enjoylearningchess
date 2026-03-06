@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bhandari, Aarav        CBRFJ06H  1235  1264/207  W4  W3  D2  2.5
+  2 Komin, Michael         SOMFG01Y  1178  1199/ 18  W3  D4  D1  2.0
+  3 Sarangi, Samarth       HMNFH69F  1138  1122/210  L2  L1  W4  1.0
+  4 Li, Ethan James        SOMDK00K  1124  1088/250  L1  D2  L3  0.5

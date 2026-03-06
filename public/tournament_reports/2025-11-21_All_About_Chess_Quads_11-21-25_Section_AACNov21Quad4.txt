@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sathyamurthy, Sreeshan EVJJJ24M   900  1003/198  W2  W3  W4  3.0
+  2 Shah, Rachit           BNTFK44K   738   834/121  L1  W4  W3  2.0
+  3 Sarychev, Aleksei      ISSLJ98N   874   844/325  W4  L1  L2  1.0
+  4 Karanam, Aadya         SWLFK84K   856   777/151  L3  L2  L1  0.0

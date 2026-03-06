@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Johnson, Bryce         OPSDK11K   192   284/  9  W4  W2  D3  2.5
+  2 Bishnoi, Akshaj        SHSFG02B   500   298/  3  W5  L1  W4  2.0
+  3 Song, Noah             GRRBG33F   161   207/  9  D6  W5  D1  2.0
+  4 Fang, Aiden            NOWCG02A   200   100/  3  L1  W6  L2  1.0
+  5 Abidoye, Max           BUSCG01Z   200   100/  3  L2  L3  W6  1.0
+  6 Lee, Paul              ENABG33D   131   100/  6  D3  L4  L5  0.5

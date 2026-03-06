@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Liu, Kyle              CHRDK00Z  1053  1059/ 54  W7  1.0
+  2 Mirchandani, Kiaan     MEDFK92Z   767   808/146  W6  1.0
+  3 Bansal, Neev           KKNEH05Z   719   722/ 31  W10 1.0
+  4 Susanto, Mogens        SJOGH52G   406   435/ 17  W9  1.0
+  5 Saha, Nora             WLVBW75Q   376   410/  1  W8  1.0
+  6 Gu, Leo                SCDDK31Y   859   820/ 79  L2  0.0
+  7 Krzeszowski, Anthony   CPBHI41R   657   650/ 61  L1  0.0
+  8 Dai, Kevin             CMCBH23V   346   311/ 35  L5  0.0
+  9 Mummidi, Kushal        KKNDG17V   330   300/ 10  L4  0.0
+ 10 Ghosh, Oishani         CBRCJ56E   176   172/ 84  L3  0.0

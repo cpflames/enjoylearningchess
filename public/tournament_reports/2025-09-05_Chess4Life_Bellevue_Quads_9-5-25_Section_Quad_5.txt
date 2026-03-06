@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Shah, Parth            BCAFJ59G   532   636/ 15  W4  W3  D2  2.5
+  2 Bose, Suhan            BRHEH65Z   500   570/ 29  W3  D4  D1  2.0
+  3 Abdukarimov, Samin     BENBH67S   582   545/148  L2  L1  W4  1.0
+  4 Tan, Wilson            BRBCG35N   552   494/ 29  L1  D2  L3  0.5

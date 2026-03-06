@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Bala Gowda, Nihal V    CTXHX04F  1180  1214/163  W16 W9  W3  D2  3.5
+  2 Henry, Tucker Charles  CTXKZ32X  1131  1202/  8  W14 W8  W7  D1  3.5
+  3 Sivakoti, Pavan Gupta  NYXIZ332  1167  1174/ 12  W15 W10 L1  W8  3.0
+  4 Vunnam, Manvit Sai     NYXIZ339  1131  1122/ 12  L6  W13 W15 W10 3.0
+  5 Veeramanikandan, VriishMAXGZ42A  1061  1054/ 12  L9  W16 W12 W11 3.0
+  6 Roque Serafin, Hugo DavCTXMZ55V   840  1000/ 16  W4  W11 L8  D7  2.5
+  7 Jones, Chase           CTXFZ54N  1109  1085/ 27  W18 WF  L2  D6  2.5
+  8 Bogart, Yosef          CTXIZ338  1051  1045/  8  W12 L2  W6  L3  2.0
+  9 Hernandez, Santiago    CTXMZ55E   588   743/ 10  W5  L1  L10 W14 2.0
+ 10 Clark, Wesley          CTXHZ40S   877   885/ 16  W17 L3  W9  L4  2.0
+ 11 Natarajan, Ruhaan      ASHHW75X  1177  1122/ 10  W13 L6  W14 L5  2.0
+ 12 Dantone-schwartz, BenneCTXIZ52N   345   521/  7  L8  BYE L5  W15 2.0
+ 13 Garcia, Juan Manuel    CTXMZ55R   823   827/ 16  L11 L4  W18 W17 2.0
+ 14 Walker, Brendan        CTXHZ74N   881   835/ 24  L2  W17 L11 L9  1.0
+ 15 Ilicheva, Adriana      CTXHZ32U   887   825/  8  L3  W18 L4  L12 1.0
+ 16 Torres Granja, Italo JoCTXLZ55M   662   631/  8  L1  L5  L17 W18 1.0
+ 17 Dixit, Arjun V         CTXHZ29Q   700   595/  4  L10 L14 W16 L13 1.0
+ 18 Panjwani, Aqeel Aslam  NYXHZ72T   574   523/ 12  L7  L15 L13 L16 0.0

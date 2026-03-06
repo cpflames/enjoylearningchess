@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Rostomily, Josten      SD8GZ75H   624   648/ 35  W3  W4  L2  2.0
+  2 Klimczuk, Joaquin      SDTGZ59D   659   675/ 11  W4  L3  W1  2.0
+  3 Rathsachack, Eva       XXXGG71M   609   552/  6  L1  W2  L4  1.0
+  4 Fiorita, Gus           SDGDZ76F   566   550/ 45  L2  L1  W3  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Abdukarimov, Samin     ARDBH67S   699   747/197  W3  D4  W2  2.5
+  2 Van Cleemput, Enzo     HMNEG22B   692   705/ 28  W4  W3  L1  2.0
+  3 Lai, Brycen            CLHFK02D   567   560/ 84  L1  L2  W4  1.0
+  4 Guo, Keith             CHRDG29Y   588   545/ 34  L2  D1  L3  0.5

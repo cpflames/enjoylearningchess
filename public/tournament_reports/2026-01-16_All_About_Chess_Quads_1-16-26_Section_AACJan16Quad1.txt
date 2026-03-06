@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, William          EALJ550N  1707  1728/354  W4  W3  W2  3.0
+  2 Babbar, Riaan          ENDFJ98D  1613  1615/185  W3  W4  L1  2.0
+  3 Narkhede, Kshitij      CRKEA27K  1455  1446/188  L2  L1  W4  1.0
+  4 Swain, Samarth         MMEDJ58S  1276  1254/411  L1  L2  L3  0.0

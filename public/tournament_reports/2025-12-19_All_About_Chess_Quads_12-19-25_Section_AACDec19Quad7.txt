@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pfau, Zacharias        SOMAG09C   248   344/ 22  D2  W3  W4  2.5
+  2 Reeves, Othel          SESFF78K   500   453/  3  D1  W4  W3  2.5
+  3 Paidapathi, Anaika     SHSBG01U   100   123/  7  W4  L1  L2  1.0
+  4 Reddy, Atharv          GRRBG25J   103   100/ 27  L3  L2  L1  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bansal, Aarav          CRKDH28J   493   642/ 56  W3  W2  W4  3.0
+  2 Xu, Jacky Y            SOMDJ59K   615   612/162  W4  L1  W3  2.0
+  3 Abdukarimov, Samin     BENBH67S   499   469/162  L1  W4  L2  1.0
+  4 Shen, Nolan            CDIFJ28A   298   259/ 43  L2  L3  L1  0.0

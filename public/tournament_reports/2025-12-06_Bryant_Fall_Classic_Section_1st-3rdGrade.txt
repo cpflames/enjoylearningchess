@@ -1,0 +1,62 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Charles, Benjamin      SOMCJ06G   849   895/206  W26 W16 W15 W8  D2  4.5
+  2 Bigelow, Atlas         WMEDJ61F   951   969/105  W21 W35 W7  W6  D1  4.5
+  3 Ahsant, Nickrad        WELDJ56K  1120  1111/ 95  W22 W36 D12 W14 W4  4.5
+  4 Glaser, Dylan          BUSCH32T   801   825/ 45  W24 W30 W25 W5  L3  4.0
+  5 Sharma, Sidarth        EVGDJ75G   683   705/136  W43 W10 W42 L4  W17 4.0
+  6 Jiang, Callie          UCDBH47C   750   772/ 87  W57 W18 W11 L2  W15 4.0
+  7 Hasson, Ari            SJCCJ47L   616   647/ 90  W32 W34 L2  W18 W16 4.0
+  8 Ding, Aiden            EVGDJ67C   685   703/ 61  W23 W44 W39 L1  W19 4.0
+  9 Wells, Tristan         UCDCF82P   200   713/  5  W41 W13 L14 W36 W20 4.0
+ 10 Hobart-beaumari, Kiran CSIDG99K   309   538/ 19  W40 L5  W37 W25 W29 4.0
+ 11 Pressley, Adrian       THUCG45P   451   555/ 15  W52 W61 L6  W34 W14 4.0
+ 12 Singhal, Sanyukt       FRVDJ30P   641   656/ 53  W31 W27 D3  D29 D13 3.5
+ 13 Patel, Kian            EVGDK55W   430   486/ 48  W54 L9  W43 W42 D12 3.5
+ 14 Swigon, Bruno          WEDCH92N   663   666/ 52  W28 W47 W9  L3  L11 3.0
+ 15 Chen, Yisu             RKWCH78H   572   573/117  W49 W38 L1  W39 L6  3.0
+ 16 Saravanan, Navin       FRWCJ85A   395   418/ 69  W48 L1  W55 W40 L7  3.0
+ 17 Liang, Dangdang        MEDCJ12R   528   496/ 70  W53 L42 W23 W30 L5  3.0
+ 18 Venkatesh, Aiden       WEDBH37S   362   404/ 53  W37 L6  W56 L7  W34 3.0
+ 19 Chernenko, Mark        BRYBH31R   537   502/ 35  L51 W32 W21 W41 L8  3.0
+ 20 Stultz, Isaac          WEDBH04B   600   557/ 24  L38 W53 W22 W35 L9  3.0
+ 21 Duraikondaar, Dhaswin  FRWDH75Y   280   344/ 83  L2  W52 L19 W55 W40 3.0
+ 22 Glant, Evan            BRTCH32Z   281   352/ 10  L3  W48 L20 W51 W37 3.0
+ 23 Perez, Maxwell         WEDCH32R   220   310/ 12  L8  W60 L17 W54 W36 3.0
+ 24 Rao, Kiran             EVGDJ67N   239   292/ 25  L4  L45 W46 W52 W35 3.0
+ 25 Armstrong, Josephine   EVGDK86A   532   505/149  W55 W51 L4  L10 WF  3.0
+ 26 Sisolak, Cole          EVGCJ66Y   274   328/ 54  L1  W59 L35 W53 W39 3.0
+ 27 Smith, Soren           CSICG98X   287   303/ 34  W46 L12 L29 W49 WF  3.0
+ 28 Cohen, Sienna          BRYDJ67P   189   263/ 20  L14 L37 W58 W48 W41 3.0
+ 29 Titov-trukhanov, KristiDCTCG03F   664   566/ 10  L34 W33 W27 D12 L10 2.5
+ 30 John, Kenji            BRYDH33D   351   360/ 10  W56 L4  W38 L17 D31 2.5
+ 31 Avesar, Isaac          HSCCF91H   184   261/ 10  L12 W46 L36 W45 D30 2.5
+ 32 Dightman-kovak, Caden  MADDG67U   160   224/ 15  L7  L19 D60 W56 W38 2.5
+ 33 Kovela, Ivan           SCMCF82N   200   445/  3  HPB L29 W51 W44 LF  2.5
+ 34 Seibel, Jameson        BRYCJ47E   191   296/ 14  W29 L7  W44 L11 L18 2.0
+ 35 Lider, Alexander       CNCDH04G   366   356/ 30  W45 L2  W26 L20 L24 2.0
+ 36 Sheehy, Julian         BRYCJ67A   430   405/ 45  W58 L3  W31 L9  L23 2.0
+ 37 Pampe, Shane           MLNCF82M   200   274/  5  L18 W28 L10 W43 L22 2.0
+ 38 Salskov, Elowen        SCDBG69A   155   227/ 20  W20 L15 L30 W47 L32 2.0
+ 39 Hooker, Asa            THUDH33B   359   330/ 36  W61 W49 L8  L15 L26 2.0
+ 40 Wightman, Asher        BRYCF82L   200   259/  5  L10 W57 W47 L16 L21 2.0
+ 41 Kim, Darron            WEDBG26T   319   300/ 13  L9  W54 W45 L19 L28 2.0
+ 42 May, Matthew           DCTDJ67S   100   219/ 12  W50 W17 L5  L13 LF  2.0
+ 43 Lawardy, Calya         BRYCJ66A   208   203/ 34  L5  W58 L13 L37 W52 2.0
+ 44 Zhou, George           DCTCJ65T   343   309/ 79  W60 L8  L34 L33 W54 2.0
+ 45 Lin, Youxi             DCTCF82K   200   185/  5  L35 W24 L41 L31 W57 2.0
+ 46 Wightman, Jack         BRYCF82H   200   141/  5  L27 L31 L24 W58 W51 2.0
+ 47 Zhang, Mya             EVGCJ66G   339   276/ 68  W59 L14 L40 L38 W53 2.0
+ 48 Cabral, Alexander      BRYBF82G   100   100/  5  L16 L22 W57 L28 D49 1.5
+ 49 Ben Simon, Lavie       WEDCG44L   157   137/ 18  L15 L39 W59 L27 D48 1.5
+ 50 Han, Lidao             LKDBG56Z   443   211/ 10  L42 L55 L52 D59 W56 1.5
+ 51 Creighton, Jack        DCTDH04E   105   129/  9  W19 L25 L33 L22 L46 1.0
+ 52 Clarich, Madeleine     BRYDG69Q   100   100/ 15  L11 L21 W50 L24 L43 1.0
+ 53 Aguiluz, Emilio        BRYBH31F   100   100/ 18  L17 L20 W61 L26 L47 1.0
+ 54 Peesapati, Sreyas      MEDCG03D   100   100/  9  L13 L41 BYE L23 L44 1.0
+ 55 Agnos, Oscar           BRYBH31G   100   125/  9  L25 W50 L16 L21 U   1.0
+ 56 Ronen, Eitan           BRYBH03V   100   100/ 14  L30 BYE L18 L32 L50 1.0
+ 57 Law, Apollo            WEDBH03Y   238   115/ 27  L6  L40 L48 BYE L45 1.0
+ 58 Godfrey, George        HZFCF82F   200   100/  5  L36 L43 L28 L46 W59 1.0
+ 59 Titula-boichenko, StefaBRYCF82C   200   100/  5  L47 L26 L49 D50 L58 0.5
+ 60 Seo, Margot            BRYDF82B   300   100/  3  L44 L23 D32 U   U   0.5
+ 61 Morales, Eli           WEDCF81Z   200   100/  3  L39 L11 L53 U   U   0.0

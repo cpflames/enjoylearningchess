@@ -1,0 +1,25 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Premjith, Arnav        SFRDJ20D   632   746/ 64  W24 W8  D5  W11 W2  4.5
+  2 Chen, Max              HMNCF76Y   691   751/ 10  W14 W12 W3  W5  L1  4.0
+  3 Cuiper, Eric           PEGCG11X   626   668/ 34  W9  W15 L2  W16 W6  4.0
+  4 Hu, Hannah             CMCDG92U   517   568/ 30  W20 W23 L11 W14 W7  4.0
+  5 Wei, Brayden           ETSDK90F   595   648/133  W13 W6  D1  L2  W11 3.5
+  6 Yang, Claude           SCDDK65F   453   495/ 46  W10 L5  W20 W15 L3  3.0
+  7 Reddy, Aariv           GRRDK34T   675   623/159  L15 W21 W13 W8  L4  3.0
+  8 He, Louie              CNCCF76X   467   498/ 10  W16 L1  W23 L7  W17 3.0
+  9 Poka, Hanish           MOBDH50Y   328   448/ 33  L3  D22 W21 D12 W14 3.0
+ 10 Narasimhan, Keshav     KKNDF46K   300   434/  5  L6  L14 W24 W20 W15 3.0
+ 11 Prasad, Ishaan         MOBDH61A   458   474/ 49  D21 W18 W4  L1  L5  2.5
+ 12 Gangineni, Sarvesh     MMECH62Q   516   491/ 64  W17 L2  L15 D9  W16 2.5
+ 13 Mummidi, Kushal        KKNDG17V   326   358/ 25  L5  W17 L7  D18 W21 2.5
+ 14 Anand, Nivaan          MCECH64F   398   404/162  L2  W10 W18 L4  L9  2.0
+ 15 Savaram, Arjun         MOBDH64R   397   419/ 48  W7  L3  W12 L6  L10 2.0
+ 16 Harikrishnan, SrivathsaBRHCG78U   228   302/ 26  L8  W24 W22 L3  L12 2.0
+ 17 Kotcharlakota, Abhay NaCDWDF81E   233   270/ 10  L12 L13 W19 W23 L8  2.0
+ 18 Medikonduru, Sriyan    BRHCF92N   229   253/ 10  W19 L11 L14 D13 D20 2.0
+ 19 Kapoor, Rikin          SHSDH61V   480   369/ 50  L18 L20 L17 W24 W23 2.0
+ 20 Ghosh, Oishani         CBRCJ56E   199   222/ 97  L4  W19 L6  L10 D18 1.5
+ 21 Harish, Riya           CSECF46J   200   305/  5  D11 L7  L9  W22 L13 1.5
+ 22 Mirchandani, Kavir     MEDDJ97A   576   436/158  L23 D9  L16 L21 W24 1.5
+ 23 Sterba, Pavel          NOWCK34L   298   258/113  W22 L4  L8  L17 L19 1.0
+ 24 Karthik, Arjun         KKNDH36L   384   262/ 24  L1  L16 L10 L19 L22 0.0

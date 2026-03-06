@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kesher, Zavi           BENFH62L   618   702/ 74  W3  W2  W4  3.0
+  2 Dubedy, Advika         AUDFG19E   467   528/ 24  W4  L1  W3  2.0
+  3 Song, Raymond          HMNEH82H   464   450/ 27  L1  W4  L2  1.0
+  4 Fong, Ethan            CMCDH58B   474   395/ 47  L2  L3  L1  0.0

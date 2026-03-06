@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ferris, Sam            LLLAG54F   386   495/ 32  W9  L3  W5  W2  W4  4.0
+  2 Goodwin, Bodhi         FACCH39B   438   492/ 35  W5  W7  W3  L1  W6  4.0
+  3 Lynch, Jonah           CUECG72J   480   462/ 20  W6  W1  L2  L4  W8  3.0
+  4 Campbell, Crinan       FACCJ64M   386   380/ 29  L7  W9  W6  W3  L1  3.0
+  5 Bellingar, Olivia      CUECF44Y   200   263/  5  L2  W10 L1  W8  D9  2.5
+  6 Dietrich, Antonio      CEECF44W   200   228/  5  L3  W8  L4  W10 L2  2.0
+  7 Casteel, Owen          CUECF44V   200   158/  5  W4  L2  L8  D9  D10 2.0
+  8 Crompton, Clara        FACCH39A   100   119/ 28  W10 L6  W7  L5  L3  2.0
+  9 Hicks, Colt            CUECF44U   200   112/  5  L1  L4  D10 D7  D5  1.5
+ 10 Soran, Titus           CIACF44T   200   100/  5  L8  L5  D9  L6  D7  1.0

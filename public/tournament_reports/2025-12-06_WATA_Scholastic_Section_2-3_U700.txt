@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Jayakrishnan, Archith  FRVCG58A   512   664/ 38  W17 W8  W14 W11 D5  4.5
+  2 Nguyen, Tuan Khoa      BRWDF83R   100   432/  9  HPB W19 W13 W5  W12 4.5
+  3 Naroju, Kian Meher     ROKCG31K   396   622/ 20  L7  W20 W16 W6  W10 4.0
+  4 Kondapi, Srivatsa      FRWCG17U   684   669/ 35  L6  W18 W8  D12 W11 3.5
+  5 Zhang, David           SOMDK41P   661   637/168  W21 W6  D11 L2  D1  3.0
+  6 Zhang, Kyle            OPWCJ19N   487   598/ 82  W4  L5  W9  L3  W16 3.0
+  7 Sinha, Ethan           CDWDG21N   681   635/ 13  W3  L11 W15 L10 W13 3.0
+  8 Mccaffrey, John Hunter CDVDG21L   309   468/  9  W9  L1  L4  W19 W18 3.0
+  9 Iyer, Anirudh          RSADH36Q   613   579/ 32  L8  W21 L6  W15 W14 3.0
+ 10 Guduru, Aayushi        JMEDF88P   482   549/  8  HPB HPB W18 W7  L3  3.0
+ 11 Rajesh Kumar, Dhruva   RSADJ89S   492   516/ 18  W20 W7  D5  L1  L4  2.5
+ 12 Prasad, Ishaan         MOBDH61A   502   458/ 44  W22 L14 W17 D4  L2  2.5
+ 13 Savaram, Arjun         MOBDH64R   362   397/ 43  HPB W15 L2  W14 L7  2.5
+ 14 Gonzalez Lagos, ChristiDCCDG46A   347   376/ 23  W16 W12 L1  L13 L9  2.0
+ 15 Mummidi, Kushal        KKNDG17V   300   326/ 15  W19 L13 L7  L9  W21 2.0
+ 16 Dang, Aaron            SOMDH60W   624   534/ 67  L14 W22 L3  W21 L6  2.0
+ 17 Trespalacios, James    CHRCJ02N   228   206/ 35  L1  BYE L12 L18 W22 2.0
+ 18 Sterba, Pavel          NOWCK34L   408   366/103  HPB L4  L10 W17 L8  1.5
+ 19 Holder, Alexander      REECJ86Z   539   413/ 21  L15 L2  W22 L8  D20 1.5
+ 20 Kotcharlakota, Abhay NaCDWDF81E   300   233/  5  L11 L3  L21 W22 D19 1.5
+ 21 Poka, Hanish           MOBDH50Y   395   328/ 28  L5  L9  W20 L16 L15 1.0
+ 22 Balija, Aariyan        FRWCF81D   200   100/  5  L12 L16 L19 L20 L17 0.0

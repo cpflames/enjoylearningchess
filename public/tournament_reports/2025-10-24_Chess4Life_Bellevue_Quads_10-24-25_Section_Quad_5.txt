@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xu, Jacky Y            SOMDJ59K   643   735/168  W4  W2  D3  2.5
+  2 Tan, Wilson            BRBCG35N   672   696/ 41  W3  L1  W4  2.0
+  3 Talukdar, Yuvaan       RBRCH76K   623   605/131  L2  D4  D1  1.0
+  4 Lee, Zachary           STTBH63W   651   595/ 76  L1  D3  L2  0.5

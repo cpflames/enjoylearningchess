@@ -1,0 +1,49 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Raghavendran, Vishakh  DCSEH24Q   708   829/ 68  W24 W15 W7  D5  W3  4.5
+  2 Suehisa, Kenichi       APOFF93D   496   665/ 10  W14 D5  W20 W10 D4  4.0
+  3 Wang, Graham           MEDEG90V   674   754/ 35  W34 W30 W12 W8  L1  4.0
+  4 Boyed, Dhruv           WPPFG27D   543   642/ 11  W21 D10 W18 W25 D2  4.0
+  5 So, Brandon            MEDEK01X   716   761/ 91  W33 D2  W29 D1  W16 4.0
+  6 Guity, Sage            SYRF251G   679   710/124  W23 W11 L8  W32 W19 4.0
+  7 Sikka, Saveer          MEDFG91W   555   670/ 15  W39 W17 L1  W28 W13 4.0
+  8 Huang, Derek           MEDF634K   745   764/ 55  W47 W28 W6  L3  W15 4.0
+  9 Armstrong, Benjamin    EVGFK54R   581   560/111  L30 W38 W42 D11 W25 3.5
+ 10 Tadas, Anay            LKWFF60L   500   640/  5  W13 D4  W40 L2  D11 3.0
+ 11 Afshar, Artin          MEDFC45R   493   531/ 28  W37 L6  W14 D9  D10 3.0
+ 12 Yi, Woochan            BRHEG23J   724   687/ 37  W41 W22 L3  L16 W26 3.0
+ 13 Mehta, Anaisha         MEDEG91G   460   500/ 42  L10 W21 W35 W29 L7  3.0
+ 14 O’sullivan, Ciaran   MEDFF60K   500   525/  5  L2  W23 L11 W37 W32 3.0
+ 15 Zhang, Amy             EVGEJ55A   515   532/ 58  W42 L1  W46 W22 L8  3.0
+ 16 Hang, Grace            MEDFF60H   500   589/  5  L28 W33 W34 W12 L5  3.0
+ 17 Haghnevis, Arshan      BRHEF60G   400   599/  5  W19 L7  L31 W38 W29 3.0
+ 18 Zhang, Hans            MEDFI19F   458   475/ 15  W44 D27 L4  W34 D20 3.0
+ 19 Kim, Isaac             MEDEF93C   516   538/ 10  L17 W39 W36 W31 L6  3.0
+ 20 Wu, Annie              MEDFF93E   704   620/  9  D26 W45 L2  W40 D18 3.0
+ 21 Mohamood, Rizwan       MEDFJ42R   187   369/ 15  L4  L13 W33 W42 W28 3.0
+ 22 Nevisi, Ali            MEDEH52A   529   506/ 29  W43 L12 W37 L15 W35 3.0
+ 23 Kinzel, Milo           THUEG99H   309   389/ 20  L6  L14 W48 W43 W31 3.0
+ 24 Yan, Emma              MEDFK33R   364   361/ 27  L1  L42 W44 W36 W30 3.0
+ 25 Tan, Mai               MEDEK93R   444   452/ 48  W48 D40 W27 L4  L9  2.5
+ 26 Han, Alice             MEDEK07W   341   417/ 15  D20 L31 W45 W27 L12 2.5
+ 27 Sharma, Avik           WOBEF62Y   615   484/  9  W35 D18 L25 L26 WF  2.5
+ 28 Perianayagam, Gautham  CSIFG99T   515   488/ 34  W16 L8  W43 L7  L21 2.0
+ 29 Michael, Sophia        DCCF704F   534   491/104  W36 W32 L5  L13 L17 2.0
+ 30 Acharya, Rahul         DISEG30C   246   276/ 20  W9  L3  L32 W45 L24 2.0
+ 31 Pradeepkumar, Adrit    LKDEK54S   745   635/113  L32 W26 W17 L19 L23 2.0
+ 32 Burkit, Arsen          MEDEJ87J   404   411/ 20  W31 L29 W30 L6  L14 2.0
+ 33 Rebrikov, Maksim       MEDFJ43D   372   355/ 25  L5  L16 L21 W41 W43 2.0
+ 34 Gudimella, Kavya       CMCFG63M   290   317/ 12  L3  W48 L16 L18 W39 2.0
+ 35 Chen, Aaron            DCCEF92U   248   247/ 35  L27 W44 L13 W46 L22 2.0
+ 36 James, Jasper          SYREG57V   103   181/ 15  L29 W41 L19 L24 W42 2.0
+ 37 Li, Vincent            DCCEG45W   113   169/ 18  L11 W47 L22 L14 W45 2.0
+ 38 Crystal, Aliza         KSTFG58G   245   258/ 27  L40 L9  W47 L17 W46 2.0
+ 39 Sood, Prisha           MEDE846R   243   225/ 44  L7  L19 D41 W47 L34 1.5
+ 40 Sidharth, Aaryan       ISEEF93G   579   521/ 18  W38 D25 L10 L20 LF  1.5
+ 41 Heo, Jake              MEDEK83N   400   265/  9  L12 L36 D39 L33 W44 1.5
+ 42 Lin, Joy               MEDFF60F   500   168/  5  L15 W24 L9  L21 L36 1.0
+ 43 Hemdani, Arhaan        MEDEG90Z   100   100/ 17  L22 BYE L28 L23 L33 1.0
+ 44 Wang, David            MEDEF60E   400   100/  5  L18 L35 L24 W48 L41 1.0
+ 45 Thompson, Laila        SYREG20E   100   100/  9  BYE L20 L26 L30 L37 1.0
+ 46 Mehra, Atharv          MEDEG02T   100   100/ 12  HPB HPB L15 L35 L38 1.0
+ 47 Landau, Hayden         MEDEG91A   438   140/  8  L8  L37 L38 L39 D48 0.5
+ 48 Xu, Leona              MEDEF60D   400   100/  5  L25 L34 L23 L44 D47 0.5

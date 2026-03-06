@@ -1,0 +1,25 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Mathivanan, Rayan      CTXFX08F   602   749/130  WF  W23 W9  W4  4.0
+  2 Madhu Sudhan, DhanvanthCTXEX02L   786   863/124  W14 W19 D3  W10 3.5
+  3 Clancy, Adrian         NYXBZ29P   676   764/  4  W22 W10 D2  W9  3.5
+  4 Snell, Bode P          CTXDZ52B   727   783/ 11  W13 W7  W6  L1  3.0
+  5 Jeyadurai Sujakumari, RCTXEZ30M  1300  1134/  8  L7  W13 W12 W11 3.0
+  6 Portegies, Jason       CTXEX04D   615   722/120  W20 W11 L4  W14 3.0
+  7 Faruquie, Zayan        NYXEZ529   574   690/  8  W5  L4  D8  W15 2.5
+  8 Ganesh, Sarvesh        CTXFZ29N   500   598/  4  L12 W16 D7  W17 2.5
+  9 Muller, Remington      CTXCZ71L   683   671/ 16  W16 W12 L1  L3  2.0
+ 10 Simon-vermot, Wesley   CTXDZ50V   777   736/  8  W21 L3  W17 L2  2.0
+ 11 Samoju, Rajvika        NYXEZ29M   915   864/  4  W15 L6  W21 L5  2.0
+ 12 Baron, Lenox           CTXDZ29L   300   626/  4  W8  L9  L5  W20 2.0
+ 13 Prakash, Roman         NJXBZ29K   507   541/  4  L4  L5  W18 W19 2.0
+ 14 Bartek, Luke           CTXGZ54P   785   666/  8  L2  W24 W23 L6  2.0
+ 15 Svolik, Martin         CTXFZ32T   609   611/  8  L11 W20 W19 L7  2.0
+ 16 Prakash, Karina        NJXDZ29J   434   421/  4  L9  L8  W24 W21 2.0
+ 17 Ciriello, Nico         CTXGX07L   243   257/ 37  HPB W18 L10 L8  1.5
+ 18 Elshafie, Musa         CTXBZ29H   100   168/  3  HPB L17 L13 W23 1.5
+ 19 Lama, Siddhartha       CTXDZ71D   693   605/ 32  W24 L2  L15 L13 1.0
+ 20 Reynolds, Michael      CTXDZ29G   300   306/  4  L6  L15 W22 L12 1.0
+ 21 Bates, Oliver          NYXBZ29F   100   266/  4  L10 W22 L11 L16 1.0
+ 22 Belgodere, David MichaeCTXEZ29E   400   100/  3  L3  L21 L20 BYE 1.0
+ 23 Elshafie, Yusuf        CTXDZ29D   300   100/  3  HPB L1  L14 L18 0.5
+ 24 Blakeslee, Clark       CTXEZ29C   400   100/  3  L19 L14 L16 U   0.0

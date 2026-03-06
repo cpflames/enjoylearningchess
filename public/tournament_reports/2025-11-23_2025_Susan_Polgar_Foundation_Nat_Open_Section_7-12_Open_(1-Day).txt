@@ -1,0 +1,56 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Aubry, Jesse           CAPLK76P  1499  1567/ 45  W32 W19 W13 W14 W3  5.0
+  2 Patnaik, Rishabhdeva   PLKHG72D  1288  1377/249  W49 W29 W4  W12 D8  4.5
+  3 Patel, Aarya Pavan     REJHK30E  1576  1576/255  W31 W15 W18 W5  L1  4.0
+  4 Kwan-uchiyama, Avery   OMSHH22T  1471  1483/141  W34 W21 L2  W9  W18 4.0
+  5 Chaturvedi, Raghav     BISKK75J  1276  1360/188  W35 W22 W28 L3  W20 4.0
+  6 Chien, Jeffrey         OVLIF41X  1358  1358/194  W38 W17 L12 W21 W13 4.0
+  7 Lee, Justin            KINJ732V  1316  1313/156  W42 L12 W34 W36 W15 4.0
+  8 Li, Ron                OVLHH73V  1466  1453/ 31  W23 D16 D10 W19 D2  3.5
+  9 Lebedinsky, Alexander  ICKJ958F  1521  1501/320  W44 D10 W16 L4  W12 3.5
+ 10 Barrenkala, Surya      EVJI238E  1220  1313/112  W53 D9  D8  W28 D11 3.5
+ 11 Amalo, Eliot           HSCK282X  1330  1313/151  W50 L14 W32 W33 D10 3.5
+ 12 Chu, Joshua            EASHC73V   994  1137/ 39  W39 W7  W6  L2  L9  3.0
+ 13 Hsiao, Aaron           OMSI338U  1267  1264/ 63  W47 W27 L1  W17 L6  3.0
+ 14 Mulugeta, Imnet        DCCIH94N  1068  1246/ 38  W25 W11 W20 L1  U   3.0
+ 15 Bhargava, Saarth       JUHKF29W  1235  1230/107  W48 L3  W23 W31 L7  3.0
+ 16 Li, Hanson             OMSH507H  1201  1233/127  W43 D8  L9  W30 D28 3.0
+ 17 Panda, Sourish         NJHHK98E  1017  1048/ 75  W40 L6  W22 L13 W39 3.0
+ 18 Singh, Atharva         JACJK06G  1285  1287/ 77  W55 W30 L3  W26 L4  3.0
+ 19 Cole, Reece            DCCM3567  1230  1226/180  W54 L1  W24 L8  W34 3.0
+ 20 Tie, Mike              BLMH856Y  1403  1365/177  W46 W36 L14 W41 L5  3.0
+ 21 Black, Stas            WPPH368F  1158  1151/184  W51 L4  W48 L6  W32 3.0
+ 22 Lee, Sophia            STSIF93V   800  1086/  5  W37 L5  L17 W50 W31 3.0
+ 23 Zhong, Sebastian       NOVHK24D  1005  1023/ 85  L8  W43 L15 W48 W41 3.0
+ 24 Leon, Nikhil           TMBH587T   839   918/174  L28 W39 L19 W43 W36 3.0
+ 25 Kilgore, Colton        WCAMF93U  1200  1076/  5  L14 W46 D29 D37 W33 3.0
+ 26 Little, Wyatt          NOVHJ51H  1034  1035/ 80  W52 L28 W40 L18 W35 3.0
+ 27 Dao, Tyler             DCCLF93S  1100  1037/  5  W33 L13 L31 W49 W37 3.0
+ 28 Zhen Rampenthal, Quinn SASJH53C  1424  1373/134  W24 W26 L5  L10 D16 2.5
+ 29 Bala, Anirudh          TMCID50M  1015   998/ 64  W45 L2  D25 L32 W38 2.5
+ 30 Huynh, Minh            BTMIF93P   800  1074/  5  W41 L18 D37 L16 W46 2.5
+ 31 Kuhile, Anay           EVJH964U   938   953/ 35  L3  W47 W27 L15 L22 2.0
+ 32 Barr, Walter           DCCMK714   887   906/294  L1  W54 L11 W29 L21 2.0
+ 33 Marriott, Nicolas      EVGHH52X   988   957/ 37  L27 W35 W45 L11 L25 2.0
+ 34 Wun, Kaden             TYEIK95F   883   873/ 37  L4  W53 L7  W51 L19 2.0
+ 35 Wang, Jacob Z          EVJHE71A   599   699/172  L5  L33 W44 W45 L26 2.0
+ 36 Fredette, Blaise       BECHH95C  1113  1062/103  WF  L20 W38 L7  L24 2.0
+ 37 Balaji, Pranav         INGIJ96J  1011   983/146  L22 W55 D30 D25 L27 2.0
+ 38 Gupta, Shivam          EVJI474W   786   793/103  L6  W52 L36 W40 L29 2.0
+ 39 Ahmed, Yassin          BLMHF93N   700   798/  5  L12 L24 W55 W42 L17 2.0
+ 40 Garcia, Ulises         DCCJF93M   900   763/  5  L17 W42 L26 L38 W49 2.0
+ 41 Shaikot, Sabeer        EVJH147Q  1146  1082/281  L30 W49 W51 L20 L23 2.0
+ 42 Barr, Frederick        DCCKH739   747   703/216  L7  L40 W53 L39 W52 2.0
+ 43 Patchett, Gabriel      MDEHJ71D   187   285/ 14  L16 L23 BYE L24 W50 2.0
+ 44 Nguyen, Andrew         DCCLG46Z   894   808/ 14  L9  L48 L35 W47 W51 2.0
+ 45 Donato, Renz           DCCLF93L  1100   681/  5  L29 W50 L33 L35 W48 2.0
+ 46 Spearman, Emery        DCCI101R   822   787/ 95  L20 L25 D47 W54 L30 1.5
+ 47 Singh, Vivaan          INGHJ49M   595   593/ 31  L13 L31 D46 L44 W54 1.5
+ 48 Cooper, Alexander      IMSI835H   401   452/ 27  L15 W44 L21 L23 L45 1.0
+ 49 Hernandez, Juan David  DCCHK14B   635   619/ 25  L2  L41 W52 L27 L40 1.0
+ 50 Davis, Nathan          GTMIJ66C   751   661/197  L11 L45 W54 L22 L43 1.0
+ 51 Armstrong, Payton      ENLIH52Z   177   177/  9  L21 BYE L41 L34 L44 1.0
+ 52 Paluri, Sri Sai Bhuvan RHJIF93J   800   388/  5  L26 L38 L49 W53 L42 1.0
+ 53 Balaji, Lakshanya      TMBHH65B   250   224/ 28  L10 L34 L42 L52 BYE 1.0
+ 54 Kolomiiets, Kostiantyn STDLG11P   377   207/ 10  L19 L32 L50 L46 L47 0.0
+ 55 Siniquefield, Eli      EHTIH53B   609   581/ 11  L18 L37 L39 U   U   0.0

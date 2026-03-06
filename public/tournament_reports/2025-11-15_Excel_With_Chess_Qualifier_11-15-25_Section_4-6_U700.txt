@@ -1,0 +1,29 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Soler, Jordi           HSCGF90P   600   818/  5  W23 W16 W3  W2  L4  4.0
+  2 Tu, Tommy              PKRFG15Z   671   705/ 10  W5  W19 W13 L1  W14 4.0
+  3 Chernikova, Taisiia    HMNFH79P   691   722/ 29  W26 W10 L1  W8  W12 4.0
+  4 Kulkarni, Saish        PKRFJ73Y   443   614/ 25  W20 D7  D9  W18 W1  4.0
+  5 Jacob, David           BNTEH24K   216   485/ 24  L2  W20 W10 W11 D7  3.5
+  6 Masuda, Leo            IPEFH37C   245   459/ 19  L7  W23 D16 W21 W15 3.5
+  7 Guity, Sage            SYRF251G   724   679/119  W6  D4  D11 D9  D5  3.0
+  8 Treves, Simon          NOWFK28A   715   676/ 48  W14 D11 W15 L3  D9  3.0
+  9 Perianayagam, Gautham  CSIFG99T   333   515/ 29  D15 W22 D4  D7  D8  3.0
+ 10 Pulla, Arohan          AUDEG51U   421   454/ 42  W12 L3  L5  W26 W18 3.0
+ 11 Iyengar, Keshav        SHSEH29S   364   458/ 35  W24 D8  D7  L5  W19 3.0
+ 12 Sudalai, AaladivetriselCHRFF90N   500   501/  5  L10 W26 W21 W13 L3  3.0
+ 13 Mahadikar, Pratvi      JUAFJ31A   338   420/ 54  W18 W21 L2  L12 W22 3.0
+ 14 Chinn, Milo            CHOGH36Y   149   364/ 24  L8  W27 W22 W17 L2  3.0
+ 15 Hulst, River           WMEFF90M   500   526/  5  D9  W17 L8  W16 L6  2.5
+ 16 Jibin, Andrea          HMNFH82K   530   497/ 38  W25 L1  D6  L15 W23 2.5
+ 17 Sambathraj, Raghav     MRLEJ31B   517   444/ 29  D22 L15 W24 L14 W25 2.5
+ 18 Guzman, Oliver         SYREF90L   400   313/  5  L13 W28 W19 L4  L10 2.0
+ 19 Tan, Grace             LKDEH24S   420   360/ 20  W27 L2  L18 W20 L11 2.0
+ 20 Ashwin, Sharadh        RSAEF90K   400   262/  5  L4  L5  W28 L19 W26 2.0
+ 21 Premkumar, Janav       RSAFG76B   465   337/  8  W28 L13 L12 L6  W27 2.0
+ 22 Brown, Benjamin        OLHEG25W   467   383/ 17  D17 L9  L14 W27 L13 1.5
+ 23 Karthik, Aadya         EBSFF90H   500   209/  5  L1  L6  D27 W24 L16 1.5
+ 24 Tirifon, Mathias       RKWFF90G   500   100/  5  L11 D25 L17 L23 W28 1.5
+ 25 James, Jasper          SYREG57V   101   103/ 10  L16 D24 L26 W28 L17 1.5
+ 26 Kumar, Nirvaan         RKWEG55Y   219   174/ 10  L3  L12 W25 L10 L20 1.0
+ 27 Sai, Aaditya           SHSFF90F   500   100/  5  L19 L14 D23 L22 L21 0.5
+ 28 Hong, Brayden          WMEEG55U   100   100/ 10  L21 L18 L20 L25 L24 0.0

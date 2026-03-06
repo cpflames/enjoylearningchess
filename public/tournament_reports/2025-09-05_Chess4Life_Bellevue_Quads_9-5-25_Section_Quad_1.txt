@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhen Rampenthal, Quinn SASJH53C  1214  1238/ 93  W3  L2  W4  2.0
+  2 Moghe, Arjun           REJIA42C  1312  1312/185  D4  W1  D3  2.0
+  3 Rish-brown, Jackson    HMOGH57T  1224  1223/ 88  L1  W4  D2  1.5
+  4 Yang, Michael          SOMHK00G  1121  1098/131  D2  L3  L1  0.5

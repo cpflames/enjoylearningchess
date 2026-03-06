@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Balaji, Pranav         INGIJ96J  1076  1148/188  W2  D4  W3  2.5
+  2 Bolisetty, Varun       HMNEJ73Z  1082  1108/230  L1  W3  W4  2.0
+  3 Mangla, Atharv         GRRFK07C  1027  1018/215  W4  L2  L1  1.0
+  4 Sathyamurthy, Sreeshan EVJJJ24M  1129  1070/213  L3  D1  L2  0.5

@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Sankar, Laya R         EBSDK11E   711   911/ 66  W4  W7  L2  W8  W5  4.0
+  2 Chai, Bobby            FAPCH05T   856   921/ 32  W8  L5  W1  W9  W3  4.0
+  3 Mathew, Reuben         MRIBG33B   803   874/ 53  W11 W6  W5  D4  L2  3.5
+  4 Telikicherla, Aadya    AUDDG19N  1060  1031/ 39  L1  W11 W6  D3  W7  3.5
+  5 Tan, Wilson            RKWBG35N   756   813/ 55  W9  W2  L3  W7  L1  3.0
+  6 Gattamneni, Aarav      OPWDJ19Q   713   731/ 35  W12 L3  L4  W10 W9  3.0
+  7 Nayak, Aarav           SCDCG69Y   771   750/ 25  W10 L1  W8  L5  L4  2.0
+  8 Chen, Landon           DCSDK34Q   691   659/ 35  L2  W10 L7  L1  BYE 2.0
+  9 Naroju, Kian Meher     ROKCG31K   622   599/ 24  L5  BYE W11 L2  L6  2.0
+ 10 Reddy, Aariv           GRRDK34T   610   571/136  L7  L8  BYE L6  W11 2.0
+ 11 Kondapi, Srivatsa      FRWCG17U   669   577/ 39  L3  L4  L9  BYE L10 1.0
+ 12 Hooker, Asa            THUDH33B   330   322/ 37  L6  U   U   U   U   0.0

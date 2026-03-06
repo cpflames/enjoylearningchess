@@ -1,0 +1,28 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Hu, Ethan              CNHCH35U   628   717/ 33  W23 W12 W13 W3  4.0
+  2 Van Cleemput, Enzo     HMNEG22B   584   593/ 22  D20 W21 W7  W14 3.5
+  3 Roshan, Vihaan         MAYGG24K   691   690/ 20  W16 W8  W4  L1  3.0
+  4 Serna Mengual, Andrea  FRDHH62H   405   521/ 23  W26 W5  L3  W12 3.0
+  5 Bao, Emma              HSCDG01P   300   632/  4  W11 L4  W15 W13 3.0
+  6 Jain, Armaan           SFRCH62K   368   437/ 24  D24 W9  W10 D7  3.0
+  7 Yen, Lucas             ETSCH56P   381   419/ 32  W25 W18 L2  D6  2.5
+  8 Ganesh, Sidhan         BCADG52A   346   372/ 19  W19 L3  D18 W22 2.5
+  9 Wells, Julia           NHREH63T   345   344/ 33  D22 L6  W21 W19 2.5
+ 10 Jiang, Ethan           BCABG19W   413   403/ 33  D21 W20 L6  W23 2.5
+ 11 Sorensen, George       VILGH53E   527   503/ 55  L5  W27 D19 W18 2.5
+ 12 Konduru, Hari Pranav   STVCG19K   303   326/ 13  W17 L1  W24 L4  2.0
+ 13 Song, Raymond          HMNEH82H   374   383/ 20  W27 W14 L1  L5  2.0
+ 14 Lo, Royce              LAVFJ83K   195   211/ 13  BYE L13 W17 L2  2.0
+ 15 Serna Mengual, Adriana OPWEH62M   348   344/ 23  L18 W25 L5  W20 2.0
+ 16 Trespalacios, James    JINCJ02N   197   179/ 25  L3  L19 BYE W24 2.0
+ 17 Lee, Siyoon            WOBEG65A   285   249/ 14  L12 W26 L14 W25 2.0
+ 18 Saravanan, Navin       FRWCJ85A   419   383/ 59  W15 L7  D8  L11 1.5
+ 19 Zhou, Owen             MEDDG91Y   107   164/ 13  L8  W16 D11 L9  1.5
+ 20 Dai, Leo               BCACG48M   268   264/ 30  D2  L10 W26 L15 1.5
+ 21 Hermawan, Rasyid       CHRCG01M   200   256/  4  D10 L2  L9  W27 1.5
+ 22 Huang, Mayson          BRWEH60C   100   118/ 13  D9  D24 D23 L8  1.5
+ 23 Tang, Rufus            BASEG74N   243   205/ 20  L1  BYE D22 L10 1.5
+ 24 Cooper, William        SPTEG16U   100   100/  7  D6  D22 L12 L16 1.0
+ 25 Weng, Larry            ENACG01L   200   100/  4  L7  L15 W27 L17 1.0
+ 26 Yang, Lukas            SPTCG01J   200   100/  3  L4  L17 L20 BYE 1.0
+ 27 Dhyani, Agastya        HSCCG01H   200   100/  4  L13 L11 L25 L21 0.0

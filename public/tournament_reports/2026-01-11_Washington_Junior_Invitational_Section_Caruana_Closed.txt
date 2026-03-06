@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kona, Vidip            TMBHI26J  2226  2240/445  W6  D5  D3  W4  W2  4.0
+  2 Willy, Stephen         HSCKH17K  2312  2309/631  W4  D3  W6  W5  L1  3.5
+  3 Wang, Ted              OVLGK13D  2271  2272/355  W5  D2  D1  W6  D4  3.5
+  4 Chang, Eddie           ADUN6270  2076  2083/252  L2  W6  W5  L1  D3  2.5
+  5 Palathingal, Rafael    KKNG196R  2103  2086/227  L3  D1  L4  L2  W6  1.5
+  6 Chen, Andy             SOMFK05J  1595  1589/155  L1  L4  L2  L3  L5  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Welch, Henry           HSSEZ889   729   840/ 26  W4  W2  W3  3.0
+  2 Neff, Zachary          ABFCH77E   545   656/ 63  W3  L1  W4  2.0
+  3 Geurts, Elijah         HSSGZ31H   902   729/  6  L2  W4  L1  1.0
+  4 Leet, Matthew          SFKDZ43U   598   536/ 12  L1  L3  L2  0.0

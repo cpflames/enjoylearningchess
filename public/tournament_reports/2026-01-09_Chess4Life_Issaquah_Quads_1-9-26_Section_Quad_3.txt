@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Abdukarimov, Samin     ARDBH67S   695   857/209  W2  W4  W3  3.0
+  2 Agarwal, Adya          ENDGG16S   718   762/ 17  L1  W3  W4  2.0
+  3 Yadav, Divyansh        TBKDG75M   824   775/ 63  W4  L2  L1  1.0
+  4 Iancu, Radu            GRRFF78J   690   582/  8  L3  L1  L2  0.0

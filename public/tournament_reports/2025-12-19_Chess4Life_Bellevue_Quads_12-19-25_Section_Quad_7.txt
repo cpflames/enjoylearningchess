@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Voss, Jayden           WOBCH15J   470   601/ 32  W3  W4  W2  3.0
+  2 Dai, Leo               BCACG48M   465   489/ 37  W4  W3  L1  2.0
+  3 Awasthi, Anay          NLMBG32T   374   365/ 19  L1  L2  W4  1.0
+  4 Trespalacios, James    JINCJ02N   411   327/ 41  L2  L1  L3  0.0

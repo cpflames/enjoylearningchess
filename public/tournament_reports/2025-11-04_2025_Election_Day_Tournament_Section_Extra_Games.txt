@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Odierna, Luca          CTXCZ37S   182   262/  5  U   U   W11 L2  1.0
+  2 Litvin, Michael ZacharyCTXFZ709   708   714/ 28  U   U   U   W1  1.0
+  3 Sam, Albert            CTXEZ576   628   651/ 12  W7  U   U   U   1.0
+  4 Fernando, Ponnampe     CTXGZ51D   832   867/  8  U   W9  U   U   1.0
+  5 Merry, Hudson          CTXDZ705   426   437/ 23  U   W8  U   U   1.0
+  6 Litvin, Benjamin SamuelCTXFZ70A   649   665/ 27  U   U   W10 U   1.0
+  7 O'sullivan, Liam       CTXFZ578   509   484/ 19  L3  U   U   U   0.0
+  8 Ambrogio, Joseph       CTXCZ37R   100   100/  4  U   L5  U   U   0.0
+  9 Gomes, Nathan          CTXFZ70P   742   718/ 26  U   L4  U   U   0.0
+ 10 Talmadge, Krishna      CTXEZ43P   461   422/  5  U   U   L6  U   0.0
+ 11 Reigeluth, Stephanie AnCTXBZ53Z   100   100/ 11  U   U   L1  U   0.0

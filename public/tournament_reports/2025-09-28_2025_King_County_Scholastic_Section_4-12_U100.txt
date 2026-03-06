@@ -1,0 +1,27 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Li, Alice              OPWEJ98C   963   998/122  W24 W14 D8  W6  3.5
+  2 Nishino, Anne          BABEH74F   767   934/184  D6  W19 W15 W8  3.5
+  3 Mukherjee, Anjalika    UPAIJ94B   986  1014/ 69  D19 W21 W7  W5  3.5
+  4 Mcintyre, Isaac        WPPG466S   855   904/270  W9  W10 L5  W12 3.0
+  5 Hoffman, David         ADDGJ98J   895   937/ 59  W22 W12 W4  L3  3.0
+  6 Thati, Rutvik Reddy    RKWFG17X   735   847/  9  D2  W11 W18 L1  2.5
+  7 Meka, Suhaas           NOVHJ51J   987   965/111  W16 D18 L3  W13 2.5
+  8 Zhou, Nathan           SOMEG61K   877   882/ 23  W26 W20 D1  L2  2.5
+  9 Raghavan, Anirudh      FRWFG42Z   657   726/ 48  L4  W25 W17 D10 2.5
+ 10 Cauich-miller, Amalia  CSDFH79V   784   775/ 42  W25 L4  W20 D9  2.5
+ 11 Le, An                 MHEFJ73S   799   795/ 33  D21 L6  W19 W18 2.5
+ 12 Sharma, Kabir          CKNHG78M   770   781/ 17  W15 L5  W23 L4  2.0
+ 13 Ginal, Maxwell         THUFG23A   466   591/ 11  L18 W16 W14 L7  2.0
+ 14 Zhou, Muchen           EVJGH25C   824   780/ 39  W23 L1  L13 W20 2.0
+ 15 Joseph, George         CDIEH11C   944   895/ 94  L12 W22 L2  W24 2.0
+ 16 Yen, Apollo            REJIG78H   741   706/163  L7  L13 W21 W23 2.0
+ 17 Johnson, Lars          HSCEG74D   855   794/ 33  L20 W26 L9  W22 2.0
+ 18 Yorks, Cameron         CSIFJ74Q   867   822/ 64  W13 D7  L6  L11 1.5
+ 19 Lange, Maximilian      BWSGG33Q   724   662/  9  D3  L2  L11 D21 1.0
+ 20 Lee, Aiden             GTMGJ44G   455   491/ 32  W17 L8  L10 L14 1.0
+ 21 Thomas, Tricia         WLDEH05W   310   374/ 13  D11 L3  L16 D19 1.0
+ 22 Niu, Edwin             SOMCH73D   602   583/ 76  L5  L15 W25 L17 1.0
+ 23 Thoppay, Hrithick      BRHFH35N   451   472/ 22  L14 W24 L12 L16 1.0
+ 24 Veeramani, Harish      LMAFG31Z   720   672/ 16  L1  L23 W26 L15 1.0
+ 25 Ande, Akshaj           RBRFG17S   500   389/  4  L10 L9  L22 D26 0.5
+ 26 Kekre, Sohum           EVGEK24M   760   658/ 68  L8  L17 L24 D25 0.5

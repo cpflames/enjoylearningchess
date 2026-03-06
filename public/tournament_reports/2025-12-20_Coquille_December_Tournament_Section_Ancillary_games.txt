@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Mosley, Preston        NBHNA833  1141  1201/145  W4  D3  1.5
+  2 Von Dassow, Misha      MSFKP55K  1531  1550/ 78  W5  U   1.0
+  3 Herker, Dustin         CQHNN404  1395  1383/335  U   D1  0.5
+  4 Keller, Nancy          ADONN386  1425  1387/160  L1  U   0.0
+  5 Morse, Frank           ADONW762  1497  1478/395  L2  U   0.0
+

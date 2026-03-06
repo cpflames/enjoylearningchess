@@ -1,0 +1,25 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 r10 tot 
+  1 Arellano, Jonathan     HVALF62K  1100  1218/ 10  W10 W10 W4  W4  W6  W6  W3  D3  W2  L2  8.5
+  2 Golden, Sadler         LCOJJ38J   598  1024/ 30  W3  L3  W19 W19 W9  W9  D5  W5  L1  W1  7.5
+  3 Beckett, Noah          KINJF80B   863  1018/ 24  L2  W2  W17 W17 W13 W13 L1  D1  W8  W8  7.5
+  4 Morrical, Cash         HHSJF89W  1160  1084/ 15  W15 W15 L1  L1  L8  W8  W13 W13 W11 W11 7.0
+  5 Senthil, Lalith        NRCKF62J  1000  1000/ 10  W24 W24 W9  D9  W11 L11 D2  L2  W12 W12 7.0
+  6 Drew, Harrington       SPRKH22U   823   877/ 36  W23 W23 D8  W8  L1  L1  W7  L7  W15 W15 6.5
+  7 Wolfson, Elijah        SHMLG02L   842   864/ 49  HPB HPB HPB HPB W14 W14 L6  W6  L9  W9  6.0
+  8 Chen, Jessica          HHSLG23Z   816   840/106  W21 W21 D6  L6  W4  L4  W10 W10 L3  L3  5.5
+  9 Erdmann, Nikko         HHSLH05H   831   833/ 31  W16 W16 L5  D5  L2  L2  W23 W23 W7  L7  5.5
+ 10 Dang, Julian           HHSKH05K   746   758/ 35  L1  L1  D23 W23 W24 W24 L8  L8  W19 W19 5.5
+ 11 Branco, Phillip        SHMKH49C   990   931/ 44  L19 W19 W20 W20 L5  W5  L12 W12 L4  L4  5.0
+ 12 Bemment, Jasper        BHMJF95W   949   864/ 15  L13 W13 L14 W14 W20 W20 W11 L11 L5  L5  5.0
+ 13 Landis, Aidan          BHMJF80X   611   735/ 12  W12 L12 WF  WF  L3  L3  L4  L4  W22 W22 5.0
+ 14 Sankara, Prithvi       EALJH96Q   625   652/ 26  HPB HPB W12 L12 L7  L7  W24 L24 W21 W21 5.0
+ 15 Amare, Nebiyu          KINMF80A   726   711/ 20  L4  L4  HPB HPB W16 W16 HPB HPB L6  L6  4.0
+ 16 Gorecke, Neal          HHSLG71C   498   522/ 14  L9  L9  W22 L22 L15 L15 BYE BYE W20 L20 4.0
+ 17 Srinivas, Venkatesh    LWAJG23B   574   522/ 31  HPB HPB L3  L3  L23 L23 W18 L18 BYE BYE 4.0
+ 18 Clementz, Isaiah       HSCKF72J   902   807/  9  HPB HPB LF  LF  U   U   L17 W17 W23 W23 4.0
+ 19 Martinez, Mathuselah   KINLF79W   681   700/ 22  W11 L11 L2  L2  W22 L22 W20 D20 L10 L10 3.5
+ 20 Czaplinski, Harrison   TJHJF89F   719   667/ 15  W22 W22 L11 L11 L12 L12 L19 D19 L16 W16 3.5
+ 21 Do, Aiden              TJHJF88Y   356   423/ 13  L8  L8  D24 L24 BYE BYE W22 L22 L14 L14 3.5
+ 22 Martinez, Melchizedek  KINJF79U   993   782/ 22  L20 L20 L16 W16 L19 W19 L21 W21 L13 L13 3.0
+ 23 Martinez, Mahanaim     KINLF79V   384   445/ 22  L6  L6  D10 L10 W17 W17 L9  L9  L18 L18 2.5
+ 24 Dunne, North           BHMJF80Y   737   624/ 12  L5  L5  D21 W21 L10 L10 L14 W14 U   U   2.5

@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Aguiluz, Emilio        BRYBH31F   387   490/ 47  W2  L2  U   U   W3  W3  3.0
+  2 Cairns, Evan           HZFEF59E   381   410/  9  L1  W1  L3  W3  U   U   2.0
+  3 Aguiluz, Mateo         BRYEJ68R   470   403/ 60  U   U   W2  L2  L1  L1  1.0

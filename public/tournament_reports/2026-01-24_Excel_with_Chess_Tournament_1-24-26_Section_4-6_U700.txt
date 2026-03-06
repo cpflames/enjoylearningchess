@@ -1,0 +1,29 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Panchal, Om            LAVEG43R   694   846/ 18  W9  W8  W6  W2  W5  5.0
+  2 Koul, Navika           CAVFJ83L   675   728/108  W17 W12 W7  L1  W8  4.0
+  3 Tan, Grace             LKDEH24S   360   585/ 25  W19 L6  W11 W10 W13 4.0
+  4 Chinn, Milo            CHOGH36Y   364   611/ 29  W21 L7  W19 W9  W6  4.0
+  5 Jacob, David           BNTEH24K   485   549/ 29  D14 W24 W10 W13 L1  3.5
+  6 Venkata, Vedanth       RSAEJ47Y   470   529/ 35  W25 W3  L1  W15 L4  3.0
+  7 Raghavendran, Vishakh  DCSEH24Q   752   708/ 63  W15 W4  L2  L8  W14 3.0
+  8 Logesh, Ishan          KKNGH74Z   380   505/ 14  W20 L1  W17 W7  L2  3.0
+  9 Sidharth, Aaryan       ISEEF93G   596   579/ 14  L1  W28 W22 L4  W16 3.0
+ 10 Iyengar, Keshav        SHSEH29S   445   454/ 46  W28 W22 L5  L3  W17 3.0
+ 11 Cavazzi, Duncan        SLBEJ61J   419   395/ 19  L18 W26 L3  W23 W20 3.0
+ 12 Siddhartha, Sanjana    MRPEH64Z   441   424/ 47  W26 L2  L15 W27 W18 3.0
+ 13 Gajera, Vian           UCIFK12D   508   475/ 52  D16 W18 W14 L5  L3  2.5
+ 14 Santhosh, Charith      WPPFK08B   225   382/ 15  D5  W16 L13 W19 L7  2.5
+ 15 Mukunthu, Advika       CMCFH24X   340   357/ 17  L7  W20 W12 L6  D21 2.5
+ 16 Yao, Zana              EBSEH82J   231   304/ 19  D13 L14 W21 W18 L9  2.5
+ 17 Singla, Aarav          RKWFH82L   346   331/ 10  L2  W23 L8  W25 L10 2.0
+ 18 Machetti, Leonardo     RKWEG43H   156   214/ 10  W11 L13 W24 L16 L12 2.0
+ 19 Pandey, Reyansh        HMNEG56G   688   582/ 15  L3  W27 L4  L14 W26 2.0
+ 20 Yang, Boan             RKWEG43C   100   174/ 10  L8  L15 W26 W22 L11 2.0
+ 21 Pragada, Aarav         RSAEF64U   400   253/  5  L4  D25 L16 W24 D15 2.0
+ 22 Yang, Boris            CMCEH76C   371   314/ 18  W23 L10 L9  L20 W27 2.0
+ 23 Amin, Naksh            RSAEF64T   400   165/  5  L22 L17 W28 L11 W25 2.0
+ 24 Wong, Aaron Trevor     CHREH36U   385   273/ 14  D27 L5  L18 L21 W28 1.5
+ 25 Robinson, Nathan       EBSEG43J   190   111/ 10  L6  D21 D27 L17 L23 1.0
+ 26 Sai, Aaditya           SHSFF90F   100   100/ 10  L12 L11 L20 W28 L19 1.0
+ 27 Tirifon, Mathias       RKWFF90G   100   100/ 10  D24 L19 D25 L12 L22 1.0
+ 28 Usman, Emaan           CAVFH37E   171   100/ 15  L10 L9  L23 L26 L24 0.0

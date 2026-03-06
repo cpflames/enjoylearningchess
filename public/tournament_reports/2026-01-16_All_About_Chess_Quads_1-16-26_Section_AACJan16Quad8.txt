@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Etienne, Yann          CDVCG21M   373   502/ 33  W2  W4  W3  3.0
+  2 Tanielian, Desmond     WOBFG19S   206   308/ 26  L1  W5  W4  2.0
+  3 Tanielian, Theo        WOBBG19Q   100   223/ 27  W5  W6  L1  2.0
+  4 Haycraft, Ethan        IFSDG36K   353   304/ 48  W6  L1  L2  1.0
+  5 Karanam, Dhruthi       LCSDH10X   215   179/ 27  L3  L2  W6  1.0
+  6 Paidapathi, Anaika     SHSBG01U   154   100/ 20  L4  L3  L5  0.0

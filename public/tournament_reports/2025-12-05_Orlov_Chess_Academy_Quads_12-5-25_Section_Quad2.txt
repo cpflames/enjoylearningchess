@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Rehmeyer, Malcolm      FHMIH62C   618   739/ 73  U4  W3  W2  W5  U6  3.0
+  2 Sijin, Ryan            BENDG24X   865   860/ 46  W6  U5  L1  W4  U3  2.0
+  3 Tong, Bayes            CCDCG20L   309   410/ 21  W5  L1  U4  W6  U2  2.0
+  4 Nishino, Anne          BABEH74F   917   887/212  U1  W6  U3  L2  W5  2.0
+  5 Chen, Eric             NCAEG16A   339   239/  5  L3  U2  U6  L1  L4  0.0
+  6 Anand, Nivaan          MCECH64F   460   412/143  L2  L4  U5  L3  U1  0.0

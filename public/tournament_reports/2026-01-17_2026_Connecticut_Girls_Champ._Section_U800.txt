@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Panda, Tarushi         CTXHZ68D   576   745/ 20  W9  W6  W5  W3  4.0
+  2 Enu, Adaora            CTXGZ28Y   646   680/  4  W7  W4  L3  W5  3.0
+  3 Schorr, Samantha       NYXGZ28X   600   714/  3  BYE W13 W2  L1  3.0
+  4 Venkatesh, Anushre     NJXDZ28W   785   763/  4  W13 L2  W6  W7  3.0
+  5 Galasso, Gianna Noel   CTXEZ68B   369   395/ 16  W10 W8  L1  L2  2.0
+  6 Kalra, Mehek           CTXFX07H   616   594/ 40  W12 L1  L4  W9  2.0
+  7 Sivasubramanian, Padma NYXEZ28V   400   415/  3  L2  BYE W11 L4  2.0
+  8 Kalra, Muskaan         CTXJZ28U   900   269/  4  W11 L5  L9  W12 2.0
+  9 Cheng, Madeline        CTXHZ28S   700   350/  4  L1  D10 W8  L6  1.5
+ 10 Rodriguez, Zofia       CTXCZ44C   100   140/  7  L5  D9  W12 L11 1.5
+ 11 Samat, Anya            CTXEZ44D   218   182/  8  L8  D12 L7  W10 1.5
+ 12 Blevins, Madelyn Pearl CTXFZ28R   500   100/  4  L6  D11 L10 L8  0.5
+ 13 Breeden, Bridget       CTXAZ28Q   100   248/  2  L4  L3  U   U   0.0

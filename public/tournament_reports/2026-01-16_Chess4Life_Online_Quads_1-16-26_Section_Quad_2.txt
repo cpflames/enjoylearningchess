@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhou, Jeffrey          ICKIG20T   918   930/ 24  W3  W2  L4  2.0
+  2 Srivastava, Om         GTMIG59C   780   858/ 15  W4  L1  W3  2.0
+  3 Qureshi, Haroon        RBRFJ95Y   800   794/ 67  L1  W4  L2  1.0
+  4 Mcintyre, Isaac        WPPG466S   944   896/285  L2  L3  W1  1.0

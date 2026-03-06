@@ -1,0 +1,22 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Worrell, Spencer       CNYKF66H  1156  1256/ 14  W8  W11 W4  W2  4.0
+  2 Campbell, Sebastian    GPSKI79A  1204  1220/198  W12 W18 W3  L1  3.0
+  3 Hessel, Riot           RGHJJ96D  1350  1328/ 26  W7  W6  L2  W10 3.0
+  4 Weiss-hurd, Liam       GNMHG17N  1004  1019/ 27  W15 W17 L1  W11 3.0
+  5 Price, Rachel          GPSMF94S   977   964/ 45  W20 W9  L10 W8  3.0
+  6 Le, Preston            GPSMK98Y   913   934/ 18  W13 L3  D7  W9  2.5
+  7 Brady, Devin           RGHJF67J   633   712/ 12  L3  W21 D6  W18 2.5
+  8 Burkoff, Sava          REAHF63X   595   650/  9  L1  W14 W20 L5  2.0
+  9 Chang, Kasen           RGHJF67G   686   698/ 13  W14 L5  W19 L6  2.0
+ 10 Brown, Bingham         CVBJG11B   934   899/ 12  L17 W16 W5  L3  2.0
+ 11 Koch, Grant            CNYLH02Z   912   893/ 17  W21 L1  W17 L4  2.0
+ 12 Ritter, Alexzander     SALGF63Y   619   655/  9  L2  L13 W16 W19 2.0
+ 13 Awotoye, Toluwanimi    GPSKF58T  1000   909/  3  L6  W12 W18 U   2.0
+ 14 Eric-mace, Brandon     GPSJF58S   900   513/  4  L9  L8  W21 W17 2.0
+ 15 Johnson, Zeke          GNMGF67H   580   545/  6  L4  L19 HPB W20 1.5
+ 16 Butler, Mick           RGHJF64G   100   180/  7  HPB L10 L12 W21 1.5
+ 17 Combs, Sawyer          RGHJG10W   448   530/  7  W10 L4  L11 L14 1.0
+ 18 Wences, Giovanni       WWMHF64F   794   722/  9  W19 L2  L13 L7  1.0
+ 19 Albaghdadi, Haya       HGHGF64A   672   582/  9  L18 W15 L9  L12 1.0
+ 20 Silva, Israel          REAHH02B   450   409/ 12  L5  HPB L8  L15 0.5
+ 21 Dean, Owyn             PSKHF58P   100   100/  4  L11 L7  L14 L16 0.0

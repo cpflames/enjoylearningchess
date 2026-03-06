@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Perkins, Zachary       CTXLZ51P   909  1029/  8  W11 W8  W5  W3  4.0
+  2 Venkatraman, SriranganaCTXDZ757   834   912/ 19  HPB W7  W6  W5  3.5
+  3 Hussain, Mofassir      CTXMZ30V  1200   992/  4  W7  W6  W4  L1  3.0
+  4 Rajakumar, Divyesh     MAXEZ30U   400   792/  3  W14 WF  L3  W8  3.0
+  5 Madhu Sudhan, DhanvanthCTXEX02L   805   786/120  W9  W13 L1  L2  2.0
+  6 Gujar, Vedant          CTXCZ50Q   531   576/ 12  W10 L3  L2  W12 2.0
+  7 Kantamneni, Adhvik     MAXGZ30T   687   683/  4  L3  L2  W14 W9  2.0
+  8 Arcari, Ethan          CTXKZ30S  1000   639/  4  W12 L1  W13 L4  2.0
+  9 Karthik, Pranav        CTXGZ51C   517   528/ 12  L5  W11 W12 L7  2.0
+ 10 Vijay Karthik, Vikram  CTXDZ30R   300   404/  4  L6  L12 W11 W13 2.0
+ 11 Acheampong, Francis AsaCTXMZ30Q  1200   257/  4  L1  L9  L10 W14 1.0
+ 12 Bhowmik, Pratyusha     CTXFZ517   374   354/  8  L8  W10 L9  L6  1.0
+ 13 Thrope, Michael        NYXNZ30P  1300   100/  3  WF  L5  L8  L10 1.0
+ 14 Shakeel, Faizan        CTXLX13M   294   246/  9  L4  BYE L7  L11 1.0

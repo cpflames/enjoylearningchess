@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chaudhary, Dihaan      LLSDG10H   300  1121/  5  W20 W13 W2  W5  W6  5.0
+  2 Ng, Ethan              GRSEK12Y   386   615/ 33  W9  W3  L1  W11 W7  4.0
+  3 Kasireddy, Abhiram     LLSEG10G   400   697/  5  W18 L2  W17 W9  W5  4.0
+  4 Turudic, Raina         KLEEK12R   263   369/ 27  D11 W8  L7  W19 W14 3.5
+  5 Einarson, Finn         OBKE256K   751   740/149  W22 W6  W16 L1  L3  3.0
+  6 Chen, Enyo             GRSDG10F   300   631/  5  W14 L5  W13 W16 L1  3.0
+  7 Godsey, Jedidiah       HSCEJ92N   450   456/ 10  W17 L16 W4  W10 L2  3.0
+  8 Wright, Harrison       FMPEG47M   222   307/ 10  W10 L4  L9  W13 W11 3.0
+  9 Linder, Carson         FMPDH53L   351   395/ 15  L2  W20 W8  L3  W15 3.0
+ 10 Wriston, Tanner        STREG10E   400   282/  4  L8  W15 W18 L7  WF  3.0
+ 11 Stellard, David        FFSDG10D   300   336/  5  D4  W19 W14 L2  L8  2.5
+ 12 Wright, Evangeline     FMPDG10C   300   176/  5  D19 L14 L15 W18 W20 2.5
+ 13 Studt, Eva             FMPEG10B   400   273/  5  W21 L1  L6  L8  W19 2.0
+ 14 Maddox, Raelynn        FMPEJ92M   327   290/ 30  L6  W12 L11 W21 L4  2.0
+ 15 Tyler, Avery           FFSDG10A   300   218/  5  L16 L10 W12 W17 L9  2.0
+ 16 Chen, Enzo             GRSDG09Z   300   492/  4  W15 W7  L5  L6  LF  2.0
+ 17 Zinda, Westley         KIWEG09X   400   123/  4  L7  W21 L3  L15 BYE 2.0
+ 18 Morgan, Paige          FMPDG84H   180   146/ 13  L3  BYE L10 L12 W21 2.0
+ 19 Bondarchuk, Noah       FMPEG09W   400   100/  5  D12 L11 W20 L4  L13 1.5
+ 20 Lavespere, Reese       KIWDG09V   300   100/  4  L1  L9  L19 BYE L12 1.0
+ 21 Snow, Phoebe           BWYEG09U   400   100/  4  L13 L17 BYE L14 L18 1.0
+ 22 Nelson, Teddy          HSCEG09T   400   311/  1  L5  U   U   U   U   0.0

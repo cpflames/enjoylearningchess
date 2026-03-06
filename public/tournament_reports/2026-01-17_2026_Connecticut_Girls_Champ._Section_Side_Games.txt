@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Schorr, Samantha       NYXGZ28X   714   642/  5  L2  W7  U   1.0
+  2 Raguram, Arya          CTXLZ28Z   630   669/  3  W1  U   U   1.0
+  3 Liu, Sky               CTXEZ54R   947   950/ 16  W5  U   U   1.0
+  4 Cheng, Madeline        CTXHZ28S   350   383/  5  U   U   W6  1.0
+  5 Galasso, Gianna Noel   CTXEZ68B   395   391/ 17  L3  U   U   0.0
+  6 Rodriguez, Zofia       CTXCZ44C   140   121/  8  U   U   L4  0.0
+  7 Sivasubramanian, Padma NYXEZ28V   415   371/  4  U   L1  U   0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Natarajan, Neil        BCCIV24M  2002  2007/108  W3  U   1.0
+  2 Banerjee, Nanak        MAXGZ26L   989   991/  4  U   W4  1.0
+  3 Borges, Gabriel BergamiCTXNX04K  1738  1731/109  L1  U   0.0
+  4 Vijay Karthik, Vikram  CTXDZ30R   457   453/ 14  U   L2  0.0

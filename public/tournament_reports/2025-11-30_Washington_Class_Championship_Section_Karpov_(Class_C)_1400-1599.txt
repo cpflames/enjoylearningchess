@@ -1,0 +1,27 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Singh, Rushil          TWFIB52N  1446  1594/186  W20 W23 W4  W2  L3  W7  5.0
+  2 Iglesias, Alejandro    ADUNF84A  1413  1562/  6  W21 W3  W13 L1  W12 W9  5.0
+  3 Marinescu, Andra       ADUN412W  1562  1593/ 78  W19 L2  W8  W18 W1  D4  4.5
+  4 Tan, Johnny            DCCMJ72U  1615  1628/ 44  W24 W17 L1  W12 W15 D3  4.5
+  5 Urali, Sanjay          OMSI315D  1409  1475/391  L7  BYE W25 D17 W10 W15 4.5
+  6 Satish Kumar, Sai NavanJFMHH21Y  1476  1506/131  W25 L15 L7  W8  W16 W12 4.0
+  7 Patel, Aarya Pavan     REJHK30E  1563  1568/265  W5  L12 W6  HPB W13 L1  3.5
+  8 Bravenboer, Jake       OPWFJ97Y  1427  1441/192  WF  D10 L3  L6  W25 W17 3.5
+  9 Mishra, Aakash         TMBG439K  1368  1415/170  W14 L13 W23 HPB W17 L2  3.5
+ 10 Kwan-uchiyama, Avery   OMSHH22T  1483  1485/145  W16 D8  HPB HPB L5  W18 3.5
+ 11 Narkhede, Kshitij      CRKEA27K  1427  1435/179  L12 L25 BYE W23 D14 W19 3.5
+ 12 Yao, Baoshuo           EVPBG16L  1628  1592/ 21  W11 W7  W15 L4  L2  L6  3.0
+ 13 Wang, Harvey           OPWDJ68G  1371  1399/200  D22 W9  L2  W19 L7  D14 3.0
+ 14 Nawagamudewage, NaadithMELGJ11W  1532  1490/ 65  L9  W22 L18 W20 D11 D13 3.0
+ 15 Avula, Varshith Reddy  RHJJ110R  1360  1359/301  BYE W6  L12 BYE L4  L5  3.0
+ 16 Luo, Leo               MEDFH45C  1350  1359/ 52  L10 D21 W22 HPB L6  W24 3.0
+ 17 Ma, Ziliang            DCCIA69N  1416  1399/222  W18 L4  W26 D5  L9  L8  2.5
+ 18 Sreraman, Rahul        BABFJ42L  1284  1310/328  L17 W24 W14 L3  D22 L10 2.5
+ 19 Yun, Daniel D          BENEK87Z  1441  1406/394  L3  D20 W21 L13 W26 L11 2.5
+ 20 Li, Edgar              BASF883Y  1375  1358/273  L1  D19 D24 L14 D21 W26 2.5
+ 21 Sreraman, Rohit        BABFG92Q  1279  1269/343  L2  D16 L19 D24 D20 BYE 2.5
+ 22 Hack, Don              ADBNF13X  1394  1352/ 99  D13 L14 L16 BYE D18 D23 2.5
+ 23 Ye, Alex               PLKGH51L  1420  1374/361  W26 L1  L9  L11 D24 D22 2.0
+ 24 Stroud, James          ADUNH71E  1355  1304/ 30  L4  L18 D20 D21 D23 L16 1.5
+ 25 Hendricks, David       ADUNB791  1500  1445/140  L6  W11 L5  D26 L8  U   1.5
+ 26 Wu, Jonathan           UCDEK14H  1288  1235/140  L23 BYE L17 D25 L19 L20 1.5

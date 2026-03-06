@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wortman, Alexander     SOMDJ31M   351   512/ 22  W4  W2  W3  3.0
+  2 Snow, Tor              SNEFK43V   436   382/ 25  W3  L1  L4  1.0
+  3 Narendra, Arnav        BLWHK45M   201   230/  8  L2  W4  L1  1.0
+  4 Chen, Luna             RSACG32W   387   348/ 64  L1  L3  W2  1.0

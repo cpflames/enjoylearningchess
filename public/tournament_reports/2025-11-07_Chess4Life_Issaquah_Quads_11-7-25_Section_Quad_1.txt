@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhen Rampenthal, Quinn SASJH53C  1421  1431/126  W4  W3  W2  3.0
+  2 Goel, Advit            CMCEG22F  1113  1126/142  W3  W4  L1  2.0
+  3 Deshmukh, Dhruv        ENDFH79Q   909   914/106  L2  L1  W4  1.0
+  4 Mathur-badam, Arin     BMNCG27N   846   811/ 48  L1  L2  L3  0.0

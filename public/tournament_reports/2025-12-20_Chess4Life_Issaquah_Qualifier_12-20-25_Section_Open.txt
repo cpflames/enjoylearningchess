@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kunisetty, Chekresh    REJHK99L  1412  1441/114  W6  W7  W8  W2  W3  5.0
+  2 Ginotra, Karman        RKWGB15D  1121  1163/112  W3  W9  W7  L1  W6  4.0
+  3 Su, Ziyao              DISGG65F   815   953/ 20  L2  W10 W9  W8  L1  3.0
+  4 Zhang, William         ISEDJ58L   734   829/ 45  BYE L8  W10 L6  W7  3.0
+  5 Hayward, Luke          FRIEH63N   796   844/ 18  L7  BYE D6  D11 W8  3.0
+  6 Chen, Logan            APOFJ69K   914   935/ 77  L1  W11 D5  W4  L2  2.5
+  7 Deshmukh, Dhruv        ENDFH79Q  1004   976/114  W5  L1  L2  W9  L4  2.0
+  8 Somanath, Aarav        PLKI235C  1133  1044/ 13  W11 W4  L1  L3  L5  2.0
+  9 Casal, Matthias        EBSGK47A   760   766/ 42  W10 L2  L3  L7  BYE 2.0
+ 10 Rabena, Akira          MAHGH44G   979   890/ 28  L9  L3  L4  BYE W11 2.0
+ 11 Kadri, Eshan           NSTIW869   837   779/ 28  L8  L6  BYE D5  L10 1.5

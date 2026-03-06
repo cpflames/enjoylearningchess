@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bai, Kelin             SKKHD75J  1075  1179/256  W8  W16 W7  W2  W3  5.0
+  2 Bray, Patrick          HDPFG58Z  1083  1096/ 30  W12 W19 W4  L1  W6  4.0
+  3 Autry-dalsanders, Reed MMCHK48X   876   971/114  W14 W15 W9  W7  L1  4.0
+  4 Eakin, Anthony         CHGIG65P   897   929/ 32  W18 W5  L2  W11 W10 4.0
+  5 Falstrom, Lawrence     ICPJY96G   505   754/ 15  W6  L4  D19 W20 W13 3.5
+  6 Aguayo, Chase          LSPJH66L   878   877/ 54  L5  W13 W8  W15 L2  3.0
+  7 Lave, Francis          ICPLY99L   882   875/ 19  BYE W10 L1  L3  W15 3.0
+  8 Duncan, Aj D           MCSFH49T   649   715/ 56  L1  W17 L6  W22 W19 3.0
+  9 Weiss-hurd, Liam       GNMHG17N  1009   869/ 10  W22 W20 L3  L10 W16 3.0
+ 10 Lamothe, Robert        ICPLY99H   330   471/ 24  BYE L7  W21 W9  L4  3.0
+ 11 Wang, Kelby            SKKF796Y   832   799/180  L15 W18 W22 L4  W17 3.0
+ 12 Phelps, Shaun          NOSGH40S   671   652/ 39  L2  D21 L13 W18 W20 2.5
+ 13 Eberlein, Joseph       ICPIY98J   600   669/ 29  HPB L6  W12 W19 L5  2.5
+ 14 Centers, Lorenzo       ICPIY985   463   494/ 33  L3  BYE D20 L16 W22 2.5
+ 15 Crossley, Atlas        EFAEG11F   400   754/  5  W11 L3  W16 L6  L7  2.0
+ 16 Ferguson, Jordan       ICPNY99N   688   675/ 34  W17 L1  L15 W14 L9  2.0
+ 17 Pace, Augustine        ICPGY95F   600   444/  5  L16 L8  W23 W21 L11 2.0
+ 18 Hanley, Joachim        ICPFH79A   521   491/ 14  L4  L11 BYE L12 W23 2.0
+ 19 Eberlein, Jacob        ICPLY99M   837   754/ 25  W21 L2  D5  L13 L8  1.5
+ 20 Odell, Eric            LBYEH49Y   703   624/ 40  W23 L9  D14 L5  L12 1.5
+ 21 Harpe, Samual          ICPGY95E   600   276/  4  L19 D12 L10 L17 BYE 1.5
+ 22 Phelps, Scott          NOSEH40T   546   488/ 39  L9  W23 L11 L8  L14 1.0
+ 23 Eberlein, Ambrose      ICPGY95D   600   100/  4  L20 L22 L17 BYE L18 1.0

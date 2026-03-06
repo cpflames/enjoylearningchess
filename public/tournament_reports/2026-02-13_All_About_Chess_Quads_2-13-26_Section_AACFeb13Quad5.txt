@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Phadnis, Neil          DISFK44Y   846   969/ 96  W4  W3  W2  3.0
+  2 Bhutani, Mihir         CRKEK90Q   842   868/ 65  W3  W4  L1  2.0
+  3 Zarate, Gabriel        EMDCH62S   810   791/ 55  L2  L1  W4  1.0
+  4 Sarychev, Aleksei      ISSLJ98N   807   734/358  L1  L2  L3  0.0

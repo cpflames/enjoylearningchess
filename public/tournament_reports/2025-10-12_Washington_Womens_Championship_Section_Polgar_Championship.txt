@@ -1,0 +1,22 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Karamali, Saiya        ADUN586R  1701  1773/ 63  W21 W8  W3  W7  D4  4.5
+  2 Zhang, Michelle        INTJ889L  1854  1874/361  W14 D5  W9  D3  W7  4.0
+  3 Bayrambeyli, Emel      LHPLH50T  1918  1911/ 20  W17 W4  L1  D2  W13 3.5
+  4 Cheng, Selina          TLMI413R  1735  1743/625  W18 L3  W16 W13 D1  3.5
+  5 Shankaranand, Deeksha  EBSHI74Y  1691  1729/359  W11 D2  HPB D12 W10 3.5
+  6 Xu, Zoe Yue            SOMGG70A  1571  1552/401  L8  W19 W15 HPB BYE 3.5
+  7 Kuhner, Mary           ADUND44Q  1788  1778/104  W16 W10 W13 L1  L2  3.0
+  8 Ge, Emma               SSMDJ56J  1223  1339/171  W6  L1  L14 W21 W15 3.0
+  9 Deng, Lily             HHSM5007  1720  1703/391  W19 L13 L2  W18 W14 3.0
+ 10 Patel, Aarya Pavan     REJHK30E  1586  1576/250  W15 L7  HPB W11 L5  2.5
+ 11 Anand, Lakshana        TMBHC68H  1226  1318/175  L5  D14 W20 L10 W17 2.5
+ 12 Dhingra, Sangeeta      ADUNE943  1951  1923/303  L13 W20 W17 D5  U   2.5
+ 13 Zhang, Iris Runyi      REDL858X  1579  1610/417  W12 W9  L7  L4  L3  2.0
+ 14 Wong, Kate             LMSH459M  1533  1517/224  L2  D11 W8  D17 L9  2.0
+ 15 Biswas, Mityl          ADUNG16F  1203  1210/  4  L10 BYE L6  W16 L8  2.0
+ 16 Li, Anyi               LKDEJ55F  1338  1336/191  L7  W18 L4  L15 W21 2.0
+ 17 Guo, Loida             KSHDG25U  1535  1505/ 19  L3  W21 L12 D14 L11 1.5
+ 18 Byelashova, Darya      SGHFK51X  1297  1271/240  L4  L16 BYE L9  D19 1.5
+ 19 Mathur, Aashi          SKNK522S  1338  1307/339  L9  L6  L21 W20 D18 1.5
+ 20 Khudyev, Elina Umi     OPWDJ97Q  1213  1178/105  HPB L12 L11 L19 BYE 1.5
+ 21 Rachiba, Alisa         EVPFK08E  1289  1264/246  L1  L17 W19 L8  L16 1.0

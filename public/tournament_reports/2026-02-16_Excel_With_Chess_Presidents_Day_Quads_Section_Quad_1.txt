@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Filonov, Mikhail       CAVDH36K   590   707/ 46  W5  W4  W2  3.0
+  2 Knigawka, Filip        CAVAF91P   600   625/ 21  W3  W5  L1  2.0
+  3 Han, Isaac             CGRCH65V   475   488/ 46  L2  W6  W4  2.0
+  4 Luo, Lucas             CAVCG44H   331   329/ 13  W6  L1  L3  1.0
+  5 Lee, Alexander         BENDK42K   557   519/ 34  L1  L2  W6  1.0
+  6 Bansal, Aarit          RSABG43Z   291   225/ 18  L4  L3  L5  0.0

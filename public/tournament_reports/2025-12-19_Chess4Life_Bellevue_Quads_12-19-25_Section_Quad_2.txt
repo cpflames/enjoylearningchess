@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lee, Owain             LLFFG59B  1067  1160/ 53  W3  W4  W2  3.0
+  2 Chen, Melvin           ETSHJ89Z  1047  1117/  9  W4  W3  L1  2.0
+  3 Ning, Pascal           SCDDJ14X   950   942/ 33  L1  L2  W4  1.0
+  4 Luo, Felix             JINAG27U   963   867/  9  L2  L1  L3  0.0

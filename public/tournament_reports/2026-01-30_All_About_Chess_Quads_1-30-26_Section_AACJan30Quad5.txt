@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wortman, Alexander     SOMDJ31M   779   834/ 38  W4  L2  W3  2.0
+  2 Bhutani, Mihir         CRKEK90Q   818   850/ 59  L3  W1  W4  2.0
+  3 Nayagam, Anantika      SSMGH62E   805   784/ 57  W2  L4  L1  1.0
+  4 Sarychev, Aleksei      ISSLJ98N   881   838/352  L1  W3  L2  1.0

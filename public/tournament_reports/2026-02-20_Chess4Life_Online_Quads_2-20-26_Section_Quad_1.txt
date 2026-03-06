@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 He, Oliver             ENDFK71V  1550  1581/480  W3  W4  W2  3.0
+  2 Ganesan, Vidur         SKIG940K  1617  1583/389  D4  W3  L1  1.5
+  3 Menon, Ritwik          ICKI974D  1176  1191/122  L1  L2  W4  1.0
+  4 Bui, Edwin             GTMGK90H  1166  1159/213  D2  L1  L3  0.5

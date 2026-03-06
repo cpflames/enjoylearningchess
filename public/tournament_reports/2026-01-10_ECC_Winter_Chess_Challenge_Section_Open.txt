@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wilber, Matthew        ADUNH64P  2248  2242/ 31  W8  W5  W4  W2  D3  4.5
+  2 Guity, Walter          ADUND92T  1656  1672/ 40  W11 D3  W5  L1  W8  3.5
+  3 Roy Chowdhury, Avyaan  THREH82M  1400  1499/ 83  W13 D2  D6  W4  D1  3.5
+  4 Dhakshinamoorthy, KrishADUNF67B   700  1568/  5  W7  W6  L1  L3  W9  3.0
+  5 Maharaja, Imai         HMNFK34K  1651  1643/361  W9  L1  L2  W11 W10 3.0
+  6 Guo, Loida             KSHDG25U  1430  1427/ 34  W10 L4  D3  D8  W12 3.0
+  7 Anbuselvam, Mithran    HEAHH61F  1308  1297/256  L4  D10 D9  W13 BYE 3.0
+  8 Lagzdin, Mikhail       HMNDJ96R  1335  1346/111  L1  W12 W13 D6  L2  2.5
+  9 Zandanov, Leonid       ENAEK31Q  1233  1261/218  L5  W11 D7  W12 L4  2.5
+ 10 Bhandari, Aarav        CBRFJ06H  1222  1198/220  L6  D7  D12 BYE L5  2.0
+ 11 Zhang, Patrick         CDIDK01J  1314  1286/416  L2  L9  BYE L5  W13 2.0
+ 12 Devlin, Austin         NOBIK25F   993   988/ 85  BYE L8  D10 L9  L6  1.5
+ 13 Wellander, Matthew     ADUNF76R  1179  1046/  7  L3  BYE L8  L7  L11 1.0

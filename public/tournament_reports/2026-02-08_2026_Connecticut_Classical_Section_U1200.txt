@@ -1,0 +1,22 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Brown, Brian A         CTXNZ26R   920  1049/  6  D4  D8  W5  W10 W13 W2  5.0
+  2 Heyer, Timothy Daniel  MAXNZ26Q  1300  1286/  6  W20 W11 W10 D3  W9  L1  4.5
+  3 Kanabay, Gary Paul     CTXNX03N  1180  1195/ 15  W7  W15 D13 D2  D6  W9  4.5
+  4 Tichkule, Aanya Ritesh MAXGX07K  1088  1095/ 39  D1  L9  W18 W7  W8  D6  4.0
+  5 Calimlim, Amelito R    NYXNZ26P   776   857/  6  L8  W16 L1  W18 W14 W12 4.0
+  6 Gottam, Bhanutej       CTXDX02J   923  1037/128  D17 HPB W15 W14 D3  D4  4.0
+  7 Ganesh, Sarvesh        CTXFZ29N   598   840/  9  L3  BYE W11 L4  W19 W10 4.0
+  8 Jeyadurai Sujakumari, RCTXEZ30M  1134  1072/ 14  W5  D1  L9  W19 L4  W13 3.5
+  9 Deroma, Max            CTXKX11U  1091  1115/114  HPB W4  W8  W13 L2  L3  3.5
+ 10 Druzgalski, Ava        VTXFZ29A   921   985/ 10  W16 W12 L2  L1  W17 L7  3.0
+ 11 Turner, Daniel         CTXNZ52Z  1096  1051/ 10  W14 L2  L7  W15 L12 W17 3.0
+ 12 Bala Gowda, Nibha V    CTXJX04C   956   905/171  W18 L10 L14 BYE W11 L5  3.0
+ 13 Cunningham, Michael D  CTXNX03W   613   709/123  W19 W17 D3  L9  L1  L8  2.5
+ 14 Wilson, Warren Jr      NYXNZ67G   817   808/ 10  L11 W19 W12 L6  L5  D15 2.5
+ 15 Lopez, Michael         MAXNZ26N  1300   930/  6  W21 L3  L6  L11 W18 D14 2.5
+ 16 Leef, Ryan S           CTXMZ55J   883   822/  8  L10 L5  L17 HPB BYE W18 2.5
+ 17 Hardin, Richard        CTXNZ52V  1079   992/ 26  D6  L13 W16 HPB L10 L11 2.0
+ 18 Vijay Karthik, Vikram  CTXDZ30R   460   457/ 13  L12 BYE L4  L5  L15 L16 1.0
+ 19 Shardha, Rohan         NJXNZ26M  1300   335/  4  L13 L14 BYE L8  L7  U   1.0
+ 20 Rundle, Nathaniel      MAXNZ67K  1138  1122/  5  L2  U   U   U   U   U   0.0
+ 21 Tkaczewski, Krystian   CTXNZ69F  1906  1876/ 37  L15 U   U   U   U   U   0.0

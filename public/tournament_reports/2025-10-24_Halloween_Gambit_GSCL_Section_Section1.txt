@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Hessel, Riot           RGHKJ96D  1212  1291/ 13  W6  W2  W3  W7  4.0
+  2 Severykno, Elizabeth   RGHLG11D  1000  1137/  4  W8  L1  W4  W5  3.0
+  3 Weiss-hurd, Liam       GNMHG17N   869   897/ 14  W5  D4  L1  W9  2.5
+  4 Brown, Bingham         CVBJG11B   800   863/  4  W9  D3  L2  W8  2.5
+  5 Waldron, Nate          RGRKG11A   900   854/  4  L3  W9  W6  L2  2.0
+  6 Tannerhil, Laten       CVBJG10Z   800   895/  3  L1  W7  L5  BYE 2.0
+  7 Birch, David           EGMIH66N  1001   955/ 13  BYE L6  W8  L1  2.0
+  8 Gates, Hunter          CVBJG10X   800   478/  3  L2  BYE L7  L4  1.0
+  9 Combs, Sawyer          RGHJG10W   800   448/  3  L4  L5  BYE L3  1.0

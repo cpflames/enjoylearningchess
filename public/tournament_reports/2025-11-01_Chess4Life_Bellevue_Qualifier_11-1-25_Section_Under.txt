@@ -1,0 +1,22 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Swagath, Pranav        LMSFK23N   775   919/ 57  W8  W7  W13 W2  W5  5.0
+  2 Paine, Clara           TLIGK01Z   746   784/103  W15 W10 W6  L1  W9  4.0
+  3 Xu, Louis              MEDBH34T   634   694/ 50  W14 W4  L5  W8  W6  4.0
+  4 Balasubramanian, Shyam MEDGG91U   348   513/ 13  W5  L3  W10 W12 W13 4.0
+  5 Tripathi, Naksh        BRHEJ98P   723   712/130  L4  W19 W3  W7  L1  3.0
+  6 Kesher, Zavi           BENFH62L   667   662/ 68  W16 W9  L2  W11 L3  3.0
+  7 Talukdar, Yuvaan       RBRCH76K   605   602/136  W12 L1  W15 L5  W16 3.0
+  8 Shen, Bella            BCACJ72F   426   457/ 18  L1  W18 W16 L3  W14 3.0
+  9 Mattoo, Avyaan         HWEFG68K   518   544/ 50  W17 L6  W14 W13 L2  3.0
+ 10 Abdukarimov, Samin     BENBH67S   543   508/177  W21 L2  L4  BYE W17 3.0
+ 11 Bao, Lucas             WOBDG17P   512   494/ 10  W18 L13 W19 L6  W15 3.0
+ 12 Yin, Yuqi              EABBG78X   193   202/ 15  L7  BYE D21 L4  W19 2.5
+ 13 Guo, Keith             CHRDG29Y   710   635/ 27  W20 W11 L1  L9  L4  2.0
+ 14 Bhansali, Inaya        BCACH79H   224   251/ 24  L3  W20 L9  W18 L8  2.0
+ 15 Li, Luna               CNHDG63B   407   386/ 25  L2  W21 L7  W19 L11 2.0
+ 16 Dai, Leo               BCACG48M   244   268/ 26  L6  W17 L8  W20 L7  2.0
+ 17 Ma, Ethan              ETSDG03U   300   155/  5  L9  L16 D18 W21 L10 1.5
+ 18 Tang, Peter            BCADG03S   300   140/  5  L11 L8  D17 L14 W21 1.5
+ 19 Zeitlin, Guy           WOBCG55N   256   178/ 32  BYE L5  L11 L15 L12 1.0
+ 20 Salazar, Jack          FHBCG54H   348   215/  8  L13 L14 BYE L16 U   1.0
+ 21 Shen, Zoey             SCDCG03R   200   100/  5  L10 L15 D12 L17 L18 0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bysani, Aakash         SSMDK01D   957  1103/295  W3  W4  W2  3.0
+  2 Sarangi, Samarth       CBRFH69F   972  1014/175  W4  W3  L1  2.0
+  3 Nandakiran, Vidyuth    SSMG617C  1024   994/226  L1  L2  W4  1.0
+  4 Mangla, Atharv         GRRFK07C   992   919/193  L2  L1  L3  0.0

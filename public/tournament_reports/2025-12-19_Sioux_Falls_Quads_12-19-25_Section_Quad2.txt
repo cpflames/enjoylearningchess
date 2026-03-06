@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hoellein, Carter       SDDGZ96L  1317  1323/184  W4  W3  L2  2.0
+  2 Oppold, Sage           SDLKZ281  1299  1309/217  L3  W4  W1  2.0
+  3 Neff, Katrina          ABFG159Y  1280  1295/264  W2  L1  W4  2.0
+  4 Devish, Coale          SDSDZ80U  1082  1048/ 79  L1  L2  L3  0.0

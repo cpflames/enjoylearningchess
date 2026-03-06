@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Sheehy, Julian         BRYCJ67A   393   470/ 59  W4  L6  W5  W3  L2  3.0
+  2 Bryant, Camille        THUEG99U   549   536/ 21  W3  L5  W4  L6  W1  3.0
+  3 Hill, Kosal            HZFEF82W   616   552/ 21  L2  D4  W6  L1  W5  2.5
+  4 Hill, Soben            HZFEF82T   426   440/ 23  L1  D3  L2  W5  W6  2.5
+  5 Drake, Matthew         DCTDJ68D   276   343/ 38  W6  W2  L1  L4  L3  2.0
+  6 Radnitz, Oscar         GRLDF66K   451   412/  8  L5  W1  L3  W2  L4  2.0

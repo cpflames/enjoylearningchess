@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ram, Yaalini           SNEDH87H   635   778/167  W3  W2  W4  3.0
+  2 Sathyamurthy, Shreyus  BLWDJ60Z   578   599/209  D4  L1  W3  1.5
+  3 Jain, Adhrit           SPTDH36P   622   600/ 40  L1  W4  L2  1.0
+  4 Yin, Aiden             SOMCG49K   676   608/ 26  D2  L3  L1  0.5

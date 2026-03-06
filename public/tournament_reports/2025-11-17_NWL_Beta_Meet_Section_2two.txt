@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Luna, Max              FERMJ85Y  1211  1301/ 74  W4  W3  W2  3.0
+  2 Friedman, Elliott      SQUJ637U  1099  1140/ 25  W7  W5  L1  2.0
+  3 Ravitsky, Koby         SQUJG73J  1073  1125/ 35  W6  L1  W5  2.0
+  4 Grewal, Harshan        SQUKK33H  1110  1157/ 80  L1  W7  W6  2.0
+  5 Mcconaughy, Marcus     SHMM798W  1041  1029/ 56  W8  L2  L3  1.0
+  6 Moors, Samuel          BLHLH93D  1134  1103/131  L3  W8  L4  1.0
+  7 Peterson, Caden        BHMMJ85V  1140  1109/ 62  L2  L4  W8  1.0
+  8 Orsino, Thomas         SQUJH40B  1140  1050/ 74  L5  L6  L7  0.0

@@ -1,0 +1,36 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bolisetty, Varun       HMNEJ73Z  1027  1091/222  W6  W9  W11 W4  W2  5.0
+  2 Chanda, Rishabh        BCABH72X  1112  1101/125  W18 W12 W3  W5  L1  4.0
+  3 Zhen, Liam             DCCE622V   670   769/219  W24 W15 L2  W7  W10 4.0
+  4 Pradeepkumar, Adrit    LKDEK54S   711   745/108  W26 W25 W10 L1  W12 4.0
+  5 Zhao, Emma             BASEK28L   796   807/ 67  W23 W14 W17 L2  W9  4.0
+  6 Wu, Pingguan           DCCDG35E   333   516/ 20  L1  W34 W28 W14 W13 4.0
+  7 Yi, Woochan            BRHEG23J   748   724/ 32  W21 D8  W22 L3  W17 3.5
+  8 Alnatour, Zayn         IPEDK93Z   449   539/ 83  W19 D7  W16 L13 W22 3.5
+  9 Feng, Michael          CBRDG87H   467   509/ 36  W33 L1  W26 W11 L5  3.0
+ 10 Sharma, Avik           WOBEF62Y   400   615/  5  W30 W22 L4  W15 L3  3.0
+ 11 Kumar, Ashvik          LKDDK28T   407   459/ 39  W31 W13 L1  L9  W20 3.0
+ 12 Hooker, Asa            THUDH33B   463   489/ 51  W27 L2  W24 W20 L4  3.0
+ 13 Armstrong, Josephine   EVGDK86A   505   495/154  W28 L11 W21 W8  L6  3.0
+ 14 Xu, Tony               SCDEJ14L   439   450/ 18  W20 L5  W33 L6  W21 3.0
+ 15 Hanlon, Benjamin       LKDEK54U   421   441/ 83  W35 L3  W25 L10 W23 3.0
+ 16 Stark, Lachlan         LKDDK28V   510   464/ 68  W32 L17 L8  W24 W27 3.0
+ 17 Ward, Luna             NOWDK21V   141   263/ 17  BYE W16 L5  D29 L7  2.5
+ 18 Grimm, Rocco           EHADH50N   374   369/ 21  L2  L20 D29 W33 W30 2.5
+ 19 Sullivan, Channing     SGEDG99B   100   169/ 13  L8  L21 BYE D30 W29 2.5
+ 20 Lagos, Christian GonzalDCCDF62W   300   322/  5  L14 W18 W23 L12 L11 2.0
+ 21 Sun, Kira              LKDDG57J   228   245/ 15  L7  W19 L13 W31 L14 2.0
+ 22 Maheshwari, Om         LKDDJ61P   509   467/ 38  W34 L10 L7  W25 L8  2.0
+ 23 Acharya, Rahul         DISEG30C   245   246/ 15  L5  W27 L20 W28 L15 2.0
+ 24 Huang, Tandy           THUEG99C   209   233/ 28  L3  W35 L12 L16 W32 2.0
+ 25 Chen, Aaron            CEIEF92U   197   248/ 30  W29 L4  L15 L22 W33 2.0
+ 26 Lopez, Alex            EHADH87N   223   213/ 20  L4  W31 L9  L27 W34 2.0
+ 27 Grimm, Qorianka        EHAEJ13G   100   149/ 33  L12 L23 W35 W26 L16 2.0
+ 28 Robertson, Zoe         LKDEK28G   129   136/ 28  L13 W30 L6  L23 D31 1.5
+ 29 Westover, Thomas       LKDDJ54M   523   376/ 68  L25 D32 D18 D17 L19 1.5
+ 30 Chen, Chris            DCCEG45Y   386   294/ 33  L10 L28 W32 D19 L18 1.5
+ 31 Raibourn, Greyson      EHADF62V   300   100/  5  L11 L26 W34 L21 D28 1.5
+ 32 Halabi, Alexa-grace    EHAEJ12Z   176   157/ 34  L16 D29 L30 W35 L24 1.5
+ 33 Cooper, Miles          SGEEG99F   100   100/ 17  L9  BYE L14 L18 L25 1.0
+ 34 Honaker, Linus         SGEDG99G   106   100/ 13  L22 L6  L31 BYE L26 1.0
+ 35 Olson, Isla            SGEDF62U   300   100/  4  L15 L24 L27 L32 BYE 1.0

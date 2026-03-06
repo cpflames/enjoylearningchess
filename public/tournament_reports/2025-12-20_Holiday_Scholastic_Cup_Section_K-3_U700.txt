@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Tallapaneni, Thanvish  SWSDG21R   506   624/  9  W9  W6  L2  W4  W3  4.0
+  2 Premjith, Arnav        SFRDJ20D   542   632/ 59  W16 W10 W1  L3  W7  4.0
+  3 Chen, Max              HMNCF76Y   200   691/  5  D4  W5  W12 W2  L1  3.5
+  4 Gangineni, Sarvesh     MMECH62Q   453   530/ 54  D3  W14 W8  L1  W6  3.5
+  5 Hooker, Asa            THUDH33B   322   482/ 41  HPB L3  W14 W12 W11 3.5
+  6 Crystal, Jordan        KSTCG57S   309   422/ 31  W11 L1  W13 W8  L4  3.0
+  7 He, Louie              CNCCF76X   200   467/  5  L8  W11 W9  W10 L2  3.0
+  8 Kalyanasundaram, SrinivCNCDH48Q   373   401/ 62  W7  W15 L4  L6  W10 3.0
+  9 Brakenridge, Ryan      SOMCK05L   127   201/ 68  L1  BYE L7  W15 W14 3.0
+ 10 Mummidi, Kushal        KKNDG17V   326   326/ 20  W12 L2  W15 L7  L8  2.0
+ 11 Chen, Yisu             RKWCH78H   562   453/124  L6  L7  WF  W13 L5  2.0
+ 12 Sudhakar, Ardhikshwar  SUZBF81C   666   483/  9  L10 W16 L3  L5  BYE 2.0
+ 13 Palathingal, Rachel    KKNAF76W   100   182/  3  HPB HPB L6  L11 W15 2.0
+ 14 Prasad, Rhea           MOBBJ92U   104   100/ 68  HPB L4  L5  BYE L9  1.5
+ 15 Reddy, Atharv          GRRBG25J   100   100/ 31  BYE L8  L10 L9  L13 1.0
+ 16 Qin, Emilia            MEDBG05V   342   301/ 23  L2  L12 LF  U   U   0.0

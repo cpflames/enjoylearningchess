@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Leo                BCABH11J   634   682/ 64  W2  U   W3  2.0
+  2 Abdukarimov, Samin     BENBH67S   517   533/156  L1  W3  U   1.0
+  3 Voss, Jayden           WOBCH15J   579   514/ 23  U   L2  L1  0.0

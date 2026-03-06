@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ning, Pascal           SCDDJ14X   985   992/ 38  W4  L3  W2  2.0
+  2 Li, Leo                BCABH11J   903   938/104  W3  W4  L1  2.0
+  3 Naik, Shreyas          MTWGJ98X   896   903/163  L2  W1  D4  1.5
+  4 Swindell, Adam         MRLGG32Q   894   849/ 87  L1  L2  D3  0.5

@@ -1,0 +1,40 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Sharma, Samarth        EVGDJ75K   505   799/117  W39 W3  W5  W19 W2  5.0
+  2 Deng, Leo              CSIDG51B   621   704/ 43  W10 W28 W12 W6  L1  4.0
+  3 Swigon, Bruno          WEDCH92N   685   717/ 73  W22 L1  W8  W14 W12 4.0
+  4 Tang, Wesley           WWDBF69A   641   666/ 24  W11 W16 L6  W7  W13 4.0
+  5 Hasson, Ari            SJCCJ47L   601   652/100  W23 W13 L1  W15 W10 4.0
+  6 Titov-trukhanov, KristiDCTCG03F   566   598/ 15  W30 W14 W4  L2  D9  3.5
+  7 John, Kenji            BRYDH33D   360   487/ 15  W33 D19 W20 L4  W25 3.5
+  8 Chernenko, Mark        BRYBH31R   577   577/ 45  W24 D20 L3  W35 W19 3.5
+  9 Sayre, Dante           WEDBG48J   459   545/ 22  HPB HPB W26 W11 D6  3.5
+ 10 Zhou, George           DCTCJ65T   309   431/ 84  L2  W39 W18 W17 L5  3.0
+ 11 Gonzalez Lagos, ChristiDCCDG46A   321   422/ 33  L4  W31 W16 L9  W20 3.0
+ 12 Pressley, Adrian       THUCG45P   555   543/ 20  W36 W27 L2  W22 L3  3.0
+ 13 Drake, Matthew         DCTDJ68D   451   459/ 48  W37 L5  W24 W23 L4  3.0
+ 14 Lider, Alexander       CNCDH04G   356   391/ 35  W38 L6  W27 L3  W29 3.0
+ 15 Simmons, Finnegan      LABDG07D   339   383/ 13  W34 W25 L19 L5  W24 3.0
+ 16 Kotsinyan, Erik        NARDJ56F   478   457/ 69  W31 L4  L11 W36 W23 3.0
+ 17 Ta, Jaiden             KSTBG56Y   437   406/ 33  L27 W32 W38 L10 W22 3.0
+ 18 Kim, Darron            WEDBG26T   461   447/ 20  HPB HPB L10 W32 W26 3.0
+ 19 Avesar, Isaac          LRADF91H   593   564/ 41  W26 D7  W15 L1  L8  2.5
+ 20 Li, Ryder              MEDCJ66R   347   375/109  W21 D8  L7  W28 L11 2.5
+ 21 Offerman, Makai        SGABF53R   100   193/  3  L20 D36 W32 HPB HPB 2.5
+ 22 Smith, Soren           CSICG98X   326   333/ 44  L3  W29 W25 L12 L17 2.0
+ 23 Meda, Sahas            CNCDF62G   287   307/  8  L5  W37 W28 L13 L16 2.0
+ 24 Guo, Felix             DCCBF92C   215   237/ 34  L8  W33 L13 W27 L15 2.0
+ 25 Wu, Pingguan           DCCDG35E   516   420/ 25  W29 L15 L22 W30 L7  2.0
+ 26 Salskov, Elowen        SCDBG69A   227   234/ 25  L19 W34 L9  W31 L18 2.0
+ 27 Hashimoto, Yasu        THOBF53P   100   253/  5  W17 L12 L14 L24 W36 2.0
+ 28 Aguiluz, Emilio        BRYBH31F   468   387/ 43  W35 L2  L23 L20 W39 2.0
+ 29 Bellam, Siddhant       WDEBG51Z   109   137/ 24  L25 L22 W34 W33 L14 2.0
+ 30 Kakkad, Viyan          THOBF67M   195   196/ 12  L6  L38 W37 L25 W35 2.0
+ 31 Jariwala, Raahi        THOCH32P   100   100/ 20  L16 L11 BYE L26 D34 1.5
+ 32 Sogn, Wyatt            THOCG48G   100   100/ 14  HPB L17 L21 L18 W37 1.5
+ 33 Jacobson, Ansel        THODF53N   300   100/  4  L7  L24 D36 L29 BYE 1.5
+ 34 Zentner, Zane          SGABF53M   100   100/  4  L15 L26 L29 BYE D31 1.5
+ 35 Patten, Lenna          SGABG45A   100   100/ 22  L28 BYE D39 L8  L30 1.5
+ 36 Kilgore, Julian        SCDBH31N   174   122/ 10  L12 D21 D33 L16 L27 1.0
+ 37 Chen, Jasper           DCCBF53L   100   100/  5  L13 L23 L30 W39 L32 1.0
+ 38 Millan, Gus            COSCF53K   200   193/  3  L14 W30 L17 U   U   1.0
+ 39 Huang, Cameron         THOCJ47G   100   100/ 24  L1  L10 D35 L37 L28 0.5

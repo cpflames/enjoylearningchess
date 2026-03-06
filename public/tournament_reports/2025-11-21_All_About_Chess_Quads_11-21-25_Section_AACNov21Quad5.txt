@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Komin, Michael         SOMFG01Y   879  1106/  9  W2  W3  W4  3.0
+  2 Bhutani, Mihir         CRKEK90Q   616   704/ 44  L1  W4  W3  2.0
+  3 Sathyamurthy, Shreyus  BLWDJ60Z   708   687/189  W4  L1  L2  1.0
+  4 Balaji, Vaibhav        SSMDH28Z   585   535/113  L3  L2  L1  0.0

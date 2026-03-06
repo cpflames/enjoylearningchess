@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Kaparthi, Harshith     NYXJZ32V  1125  1249/  8  W13 W3  W6  W5  4.0
+  2 Bala Gowda, Nihal      CTXHX04F  1112  1180/159  W14 W7  L5  W6  3.0
+  3 Negi, Rishaan          CTXBZ50P   956  1064/ 38  W8  L1  WF  W7  3.0
+  4 Sivakoti, Pavan Gu     NYXIZ332  1136  1167/  8  W15 L6  W9  W8  3.0
+  5 Wen, Liam Felix        CTXGZ38V  1096  1157/  7  HPB W11 W2  L1  2.5
+  6 Banerjee, Shreyansh    CTXLZ55U  1286  1254/ 16  W9  W4  L1  L2  2.0
+  7 Vunnam, Manvit Sai     NYXIZ339  1155  1131/  8  W12 L2  W11 L3  2.0
+  8 Gollapudi, Pranav      CTXGZ30X   600  1019/  4  L3  W15 W12 L4  2.0
+  9 Bala Gowda, Nibha V    CTXJX04C   870   958/162  L6  W10 L4  W15 2.0
+ 10 Stucky, Mark           CTXNZ52W  1312   890/  8  L11 L9  W15 W13 2.0
+ 11 Hardin, Richard        CTXNZ52V  1125  1079/ 21  W10 L5  L7  D12 1.5
+ 12 Clark, Wesley          CTXHZ40S   883   877/ 12  L7  W13 L8  D11 1.5
+ 13 Thrope, Brandon        NYXNZ30W  1300   490/  3  L1  L12 BYE L10 1.0
+ 14 Hudyma, Nick           CTXNZ32M  1000   959/  5  L2  BYE LF  U   1.0
+ 15 Dannamaneni, Anvit     CTXEZ515  1246   956/  8  L4  L8  L10 L9  0.0

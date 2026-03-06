@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Neff, Nadine           ABFJC79W  1284  1272/412  W2  W4  D3  2.5
+  2 Welch, Gideon          HSSCH75H   633   798/ 46  L1  W3  W4  2.0
+  3 Neff, Nathan           ABFDK07A  1001   987/119  W4  L2  D1  1.5
+  4 Dandar, Siggy          SDRDZ69K   791   744/ 45  L3  L1  L2  0.0

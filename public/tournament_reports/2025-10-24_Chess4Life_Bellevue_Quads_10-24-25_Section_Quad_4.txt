@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mathur-badam, Arin     BMNCG27N   713   834/ 40  W3  W4  D2  2.5
+  2 Li, Leo                BCABH11J   687   719/ 80  W4  L3  D1  1.5
+  3 Zhang, Eli             BASDH69C   829   814/122  L1  W2  D4  1.5
+  4 Naik, Shreyas          MTWGJ98X   833   763/148  L2  L1  D3  0.5

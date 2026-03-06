@@ -1,0 +1,53 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Glaser, Dylan          BUSCH32T   652   801/ 40  W32 W15 W28 W8  W3  5.0
+  2 Sharma, Sidarth        EVGDJ75G   582   720/129  W35 W25 W26 W12 HPB 4.5
+  3 Sang, Andy             BASDK65W   643   712/124  W30 W27 W21 W6  L1  4.0
+  4 Mohankumar, Kabilan    CNCDG92V   275   631/ 29  D5  W40 W16 D7  W18 4.0
+  5 Gattamneni, Aarav      OPWDJ19Q   662   713/ 30  D4  W38 D7  W28 W14 4.0
+  6 Kondapi, Srivatsa      FRWCG17U   453   665/ 25  W52 W23 W10 L3  W13 4.0
+  7 Zhao, Eric             CMCDG61G   438   644/ 20  W51 W29 D5  D4  W12 4.0
+  8 Mukherjee, Anahita     PENCJ14K   569   627/ 43  W45 W44 W13 L1  W22 4.0
+  9 Holder, Alexander      REECJ86Z   277   539/ 16  L16 W50 W29 W24 W17 4.0
+ 10 Rao, Jaiden            JINCH62B   592   606/ 40  W20 W33 L6  W27 D11 3.5
+ 11 Astafyeva, Veronica    MRPDH51S   519   549/ 63  W50 L13 W34 W26 D10 3.5
+ 12 Ip, Egan               SOMDK41L   691   674/ 64  W19 W14 W18 L2  L7  3.0
+ 13 Ajay, Aria             LCSDK07M   693   667/109  W31 W11 L8  W15 L6  3.0
+ 14 Liang, Dangdang        MEDCJ12R   491   507/ 60  W39 L12 W33 W20 L5  3.0
+ 15 Shen, Bella            BENCJ72F   457   478/ 23  W41 L1  W30 L13 W34 3.0
+ 16 Singhal, Sanyukt       FRVDJ30P   687   641/ 48  W9  L28 L4  W35 W31 3.0
+ 17 Zhang, Kyle            OPWCJ19N   550   532/ 72  W42 L26 W32 W19 L9  3.0
+ 18 Armstrong, Josephine   EVGDK86A   545   532/145  W43 W36 L12 W31 L4  3.0
+ 19 Tippabhotla, Akshata   HMNCH34P   367   477/ 20  L12 W43 W23 L17 W29 3.0
+ 20 Ray, Ahana             SSMDH29L   103   338/ 15  L10 W46 W25 L14 W28 3.0
+ 21 Sharma, Samarth        EVGDJ75K   557   518/111  W37 W47 L3  L22 W30 3.0
+ 22 Saravanan, Navin       FRWCJ85A   383   395/ 64  L36 W45 W35 W21 L8  3.0
+ 23 Bartram, Clark         DCTDJ47Q   728   666/ 36  W34 L6  L19 W48 W33 3.0
+ 24 De, Adwik              SSMCJ29V   477   456/ 77  L26 W37 W47 L9  W42 3.0
+ 25 Li, Jeremy             SOMDJ87A   423   428/ 54  WF  L2  L20 W44 W38 3.0
+ 26 Liu, Micah             RCRDZ31T   300   526/  5  W24 W17 L2  L11 D27 2.5
+ 27 Jain, Adhrit           SPTDH36P   453   441/ 34  W46 L3  W48 L10 D26 2.5
+ 28 Alnatour, Zayn         IPEDK93Z   461   449/ 78  W49 W16 L1  L5  L20 2.0
+ 29 Stark, Lachlan         LKDDK28V   598   516/ 58  W48 L7  L9  W41 L19 2.0
+ 30 Duraikondaar, Dhaswin  FRWDH75Y   244   280/ 78  L3  W41 L15 W36 L21 2.0
+ 31 Kalyanasundaram, SrinivCNCDH48Q   384   373/ 57  L13 W42 W36 L18 L16 2.0
+ 32 Chang, Liliana         JINCJ12S   259   259/ 32  L1  W39 L17 L37 W44 2.0
+ 33 Gonzalez Lagos, ChristiDCCDG46A   320   347/ 18  W38 L10 L14 W46 L23 2.0
+ 34 Chou, Leila            SSMCJ46G   233   259/ 58  L23 W49 L11 W39 L15 2.0
+ 35 Wu, Pingguan           DCCDG35E   100   186/ 10  L2  W51 L22 L16 W46 2.0
+ 36 Zhou, Lingyue          DCCDF92P   300   253/  5  W22 L18 L31 L30 W45 2.0
+ 37 Adeeb, Luca            MTWDG48U   100   189/  9  L21 L24 W49 W32 L40 2.0
+ 38 Chen, Yisu             RKWCH78H   688   572/112  L33 L5  W44 W47 L25 2.0
+ 39 Medikonduru, Sriyan    BRHCF92N   200   229/  5  L14 L32 W40 L34 W48 2.0
+ 40 Kamath, Ansh           EBSCH35Z   552   441/ 24  L44 L4  L39 W51 W37 2.0
+ 41 Holove, Isaac          KEPDW75K   300   213/  5  L15 L30 W45 L29 W47 2.0
+ 42 Dightman-kovak, Caden  MADDG67U   100   160/ 10  L17 L31 W52 W50 L24 2.0
+ 43 Ganti, Aditya          EBSCG67A   100   100/ 14  L18 L19 L46 BYE W50 2.0
+ 44 Buragadda, Naga Kovidh BRHDH36C   100   119/ 15  W40 L8  L38 L25 L32 1.0
+ 45 Mulugeta, Mana         DCCCH51C   100   100/ 18  L8  L22 L41 W49 L36 1.0
+ 46 Xie, Jiayou            TLIDF92M   300   100/  5  L27 L20 W43 L33 L35 1.0
+ 47 Gomez, Camilo          DCCCG45M   220   123/  8  WF  L21 L24 L38 L41 1.0
+ 48 Tang, Peter            BCADG03S   140   130/ 10  L29 W52 L27 L23 L39 1.0
+ 49 Fridrik-ovchinnikov, NiFHCDF92L   300   100/  5  L28 L34 L37 L45 W51 1.0
+ 50 George, Charlotte      DCCCF92K   200   100/  5  L11 L9  D51 L42 L43 0.5
+ 51 Pius-nwagwu, Theo      HOECF92J   200   100/  5  L7  L35 D50 L40 L49 0.5
+ 52 Daniel, Eyoel          DCCCF92H   200   100/  3  L6  L48 L42 U   U   0.0

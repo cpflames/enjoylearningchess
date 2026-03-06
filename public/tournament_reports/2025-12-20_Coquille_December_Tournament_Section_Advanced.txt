@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Morse, Frank           ADONW762  1472  1497/394  D4  W3  W2  2.5
+  2 Von Dassow, Misha      MSFKP55K  1537  1531/ 77  W3  W4  L1  2.0
+  3 Mosley, Preston        NBHNA833  1098  1141/143  L2  L1  W4  1.0
+  4 Herker, Dustin         CQHNN404  1444  1395/334  D1  L2  L3  0.5

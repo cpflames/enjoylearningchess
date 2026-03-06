@@ -1,0 +1,3 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Suhasan, Nehaa         SFRDJ30B   503   486/ 56  D2  0.5
+  2 Basaran, Beyhan        HSCJF68Y   293   340/  4  D1  0.5

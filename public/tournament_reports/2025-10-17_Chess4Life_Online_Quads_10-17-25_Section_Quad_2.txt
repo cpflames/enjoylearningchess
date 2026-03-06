@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Armitage-selig, PhoenixSUZDJ31Z   884   929/ 90  W3  W4  BYE 3.0
+  2 Zhou, Jeffrey          ICKIG20T   842   892/ 18  BYE W5  W4  3.0
+  3 Molleda, Eric          LLFFG59A   333   375/ 31  L1  BYE W5  2.0
+  4 Bui, Edwin             FRVGK90H  1078  1003/179  W5  L1  L2  1.0
+  5 Nadimpalli, Saathvik   CNCEH16G   428   382/ 29  L4  L2  L3  0.0

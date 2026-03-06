@@ -1,0 +1,56 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Cress, Emmett          CWHJH54B  1318  1395/119  W9  W28 W17 W15 W4  5.0
+  2 Phillips, Henry        JMLGH43N  1203  1310/ 60  W27 W18 W6  W3  D8  4.5
+  3 Jones, Tucker          ELBKF84U   872  1101/ 10  W52 W7  W5  L2  W19 4.0
+  4 Dillingham, Daniel     KCCIB73M  1207  1243/307  W32 W33 W19 W16 L1  4.0
+  5 Williams, Wyatt        SODKH13N  1174  1182/ 25  W20 W40 L3  W24 W22 4.0
+  6 Dodson, Tyson          KCCJ234D   984  1172/115  W41 W26 L2  W17 W15 4.0
+  7 Li, Roy                KMPEY99P  1194  1208/ 53  W24 L3  W21 W32 W16 4.0
+  8 Deng, Stanley          LLMHK22E  1679  1643/419  D11 W34 W12 D26 D2  3.5
+  9 Barnett, Eli           HSCKJ81S  1065  1086/ 68  L1  W41 W18 W34 D10 3.5
+ 10 Kaiphanliam, Kieren SisCWHLK52X  1237  1238/ 92  W42 W21 L16 W11 D9  3.5
+ 11 Mosqueda, Luke Derek   LIBFH90L  1251  1306/ 82  D8  W25 W29 L10 W26 3.5
+ 12 Lum, Boaz              LIBEJ62C  1234  1232/102  W23 D29 L8  W45 W27 3.5
+ 13 Canfield, Jedidiah     KCCJG12L   744   931/ 15  W36 L31 W35 W23 D14 3.5
+ 14 Fultz, Heath           CWHJ853S  1069  1084/129  L26 W46 W33 W20 D13 3.5
+ 15 Geelhood, Alec         TCPKI90A  1187  1176/156  W22 W38 W31 L1  L6  3.0
+ 16 Hitt, Maylee           SVHKK96D  1022  1103/ 53  W25 W48 W10 L4  L7  3.0
+ 17 Bates, Lucas           LLMHK96Q  1111  1110/ 55  W47 W45 L1  L6  W31 3.0
+ 18 Turner, Micah          RFPEJ22X   843   881/ 65  W37 L2  L9  W44 W32 3.0
+ 19 Guizar, Kevin          CWHMI02P  1140  1121/161  W35 W50 L4  W31 L3  3.0
+ 20 Chin, Ian              LLMGF95D   954   951/140  L5  W53 W39 L14 W36 3.0
+ 21 Schutz, Henry          CHJHJ80M   891   919/ 97  W49 L10 L7  W37 W42 3.0
+ 22 Duong, Anton           ELBLF84V   970   963/ 10  L15 W37 W48 W36 L5  3.0
+ 23 Alaniz, Samuel         GJSKF98M   986   975/ 10  L12 W49 W40 L13 W33 3.0
+ 24 Johnson, Eli           KCCJJ24B   944   954/ 58  L7  W52 W50 L5  W38 3.0
+ 25 Chavez, Jessie         RRGGK53S  1258  1219/ 94  L16 L11 W51 W40 W35 3.0
+ 26 Li, Jessie             LINHY99Q  1353  1324/ 54  W14 L6  W28 D8  L11 2.5
+ 27 Menjivar, Bryan        OCHHJ80L   977   969/ 94  L2  W51 D45 W29 L12 2.5
+ 28 Coates, Ethan          SODK820M   895   911/ 80  W39 L1  L26 D46 W45 2.5
+ 29 Hemperly, Harper       KCCGI09E   834   861/135  W51 D12 L11 L27 W46 2.5
+ 30 Wang, Evan             LECFJ78X   930   857/ 77  L31 W44 L36 D39 W34 2.5
+ 31 Hong, Sidney           JMLI478H   908   923/176  W30 W13 L15 L19 L17 2.0
+ 32 Carranza, Aly Omar     RCEFJ78V   986   949/ 75  L4  W54 W38 L7  L18 2.0
+ 33 Rinehart, Christian    CRPFH56J   880   855/ 49  W54 L4  L14 W43 L23 2.0
+ 34 Gonzalez, Liliana      GJSMG12C   145   360/ 20  W46 L8  W47 L9  L30 2.0
+ 35 Gallegos, Angel J      RFREH42C   945   915/ 55  L19 W43 L13 W48 L25 2.0
+ 36 Perez, Nathan          GJSKF69B  1000   730/  4  L13 BYE W30 L22 L20 2.0
+ 37 Mendoza, Fernando      CWHLH43P   504   618/ 29  L18 L22 W41 L21 W50 2.0
+ 38 Gadd, Marshall         MCGDH42E   805   808/ 35  W43 L15 L32 W47 L24 2.0
+ 39 Guerrero, Eric         GJSKF84T   642   727/ 10  L28 W42 L20 D30 D47 2.0
+ 40 Groom, Colin           JMLG641S   833   810/ 92  BYE L5  L23 L25 W51 2.0
+ 41 Andrade, Alonzo        PASJF98L   703   682/ 15  L6  L9  L37 W54 W53 2.0
+ 42 Hong, Samira           MCGFB77R   989   923/137  L10 L39 W52 W50 L21 2.0
+ 43 Phillips, Rhye         ELBJF84Q   488   587/ 10  L38 L35 W49 L33 W48 2.0
+ 44 Gutierrez, Diego       GJSKG12H   369   406/ 19  L48 L30 BYE L18 W49 2.0
+ 45 Wampole, Caleb         CWHL133K   817   801/138  W53 L17 D27 L12 L28 1.5
+ 46 Morris, Tyson          GVHKK68Q   799   735/ 79  L34 L14 W53 D28 L29 1.5
+ 47 Farias Martinez, Enoel RFRFJ00Y   938   832/ 65  L17 W55 L34 L38 D39 1.5
+ 48 Castaneda, Alonso      OCHGK69H   804   729/116  W44 L16 L22 L35 L43 1.0
+ 49 Munoz, Miguel          SVHKJ81H   614   548/ 49  L21 L23 L43 W52 L44 1.0
+ 50 Antunez, Aristeo       GJSMG12P   801   725/ 15  W55 L19 L24 L42 L37 1.0
+ 51 Esquivias, Christian   CWHM698U   510   507/ 59  L29 L27 L25 W55 L40 1.0
+ 52 Evans, Daymein         PASK267E   505   493/ 58  L3  L24 L42 L49 W54 1.0
+ 53 Redearn, Katherine     ELBJF84N   501   439/  9  L45 L20 L46 BYE L41 1.0
+ 54 Duarte, Carlos         OHAJK52U   523   451/100  L33 L32 D55 L41 L52 0.5
+ 55 Kulp, Harley           SVHKH13H   376   350/ 19  L50 L47 D54 L51 U   0.5

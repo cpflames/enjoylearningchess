@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Ahsant, Nickrad        WELDJ56K   965  1096/ 85  W5  D7  W3  W2  3.5
+  2 Hoang, Leonard Bach    MRPCK88E  1018  1038/ 64  W6  D3  W7  L1  2.5
+  3 Yu, Eric               SOMDK25N  1209  1178/157  W8  D2  L1  W7  2.5
+  4 Liu, Kyle              CHRDK00Z   860   898/ 49  D9  D8  W6  D5  2.5
+  5 Han, Felix             MEDCJ41U   866   886/ 53  L1  BYE W9  D4  2.5
+  6 Liu, Louis             CNHDJ75J   900   905/109  L2  W9  L4  W8  2.0
+  7 Jiang, Callie          UCDBH47C   806   807/ 64  BYE D1  L2  L3  1.5
+  8 Yin, Nolan             SOMCH64W   924   882/ 70  L3  D4  BYE L6  1.5
+  9 Wong, Claire           BCADK86D   916   855/159  D4  L6  L5  BYE 1.5

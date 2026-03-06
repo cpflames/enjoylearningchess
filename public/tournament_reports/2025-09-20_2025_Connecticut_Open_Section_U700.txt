@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Ying, Ryan             NJXEZ38N   770   783/  4  D4  W5  W2  W6  3.5
+  2 Lama, Siddhartha       CTXDZ71D   668   693/ 28  W6  W3  L1  W4  3.0
+  3 Bol, Apiok             CTXMZ38L  1200   521/  3  W7  L2  D5  BYE 2.5
+  4 Ramsahoye, Akash       CTXIZ40R   431   513/  8  D1  D6  W7  L2  2.0
+  5 Ampah, Carl Richmond   CTXLZ55F   225   284/ 11  BYE L1  D3  D7  2.0
+  6 Bawuah, Josh           CTXMZ38K  1200   425/  3  L2  D4  BYE L1  1.5
+  7 Kelly Jr, Michael      CTXLZ55T   642   520/ 11  L3  BYE L4  D5  1.5

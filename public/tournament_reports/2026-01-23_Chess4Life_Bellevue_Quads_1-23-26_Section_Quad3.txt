@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Taqiaddin, Badr        INGIG16D   800   898/ 15  W3  D2  W4  2.5
+  2 Tan, Wilson            BRBCG35N   813   853/ 58  W4  D1  D3  2.0
+  3 Abdukarimov, Samin     ARDBH67S   877   865/220  L1  W4  D2  1.5
+  4 Padmanabhuni, Vihaan   LMAFH69J   802   730/ 46  L2  L3  L1  0.0

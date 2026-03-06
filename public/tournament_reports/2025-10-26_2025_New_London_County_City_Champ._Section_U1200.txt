@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Deeney, Samuel         NJXNZ40Z  1165  1223/ 12  W7  W11 W5  D4  3.5
+  2 Saranathan, Adithy     ADUNG09B   892   969/  3  BYE W4  L6  W5  3.0
+  3 Baker, Michael         CTXNX12X   919  1077/ 27  W9  L5  W10 W6  3.0
+  4 Jones, Chase           CTXFZ54N  1109  1109/ 24  W8  L2  W11 D1  2.5
+  5 Amin, Manav            NJXJZ37Y  1174  1146/  4  W10 W3  L1  L2  2.0
+  6 Chede, Mahanth         CTXJZ51K  1093  1067/ 12  L11 W7  W2  L3  2.0
+  7 Kurapati, Avinash      CTXFX07C  1011  1005/ 41  L1  L6  BYE W9  2.0
+  8 Mashkov, Maximilia     CTXDX07J   981   965/ 39  L4  BYE L9  W11 2.0
+  9 James, Caleb           CTXDX08A  1099  1049/124  L3  D10 W8  L7  1.5
+ 10 Bala Gowda, Nihal V    CTXHX04F  1027   987/150  L5  D9  L3  BYE 1.5
+ 11 Bala Gowda, Nibha V    CTXJX04C   941   929/154  W6  L1  L4  L8  1.0

@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Lee, Kai               SOMBF76K   338   476/  9  W10 W2  W3  D4  3.5
+  2 Rajan, Aadhi           CDIAG32V   479   492/ 37  W7  L1  W4  W5  3.0
+  3 Gu, Ximu               ENDCJ05X   488   486/119  W8  W5  L1  W9  3.0
+  4 Dharamshi, Ayan        CBRBF58V   333   358/ 12  W6  W9  L2  D1  2.5
+  5 Cox, William           SNEBF50U   100   304/  4  W9  L3  W7  L2  2.0
+  6 Kulal, Om              RSABG65J   100   126/ 30  L4  W8  L9  W10 2.0
+  7 Prabhu, Kiaan          CNHCG18Z   100   123/  8  L2  W10 L5  D8  1.5
+  8 Karthik, Adithi        RCKCW768   100   100/ 15  L3  L6  W10 D7  1.5
+  9 Paidipathi, Anaika     SHSBG01U   179   157/ 34  L5  L4  W6  L3  1.0
+ 10 Vasudev, Krish         CEIBG18Y   100   100/  8  L1  L7  L8  L6  0.0

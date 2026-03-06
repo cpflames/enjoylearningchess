@@ -1,0 +1,41 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Gagnier, Ian           HSCHC72H  1524  1594/272  W33 W17 W10 W3  W4  5.0
+  2 Szeto, Jordan          RCRHZ73R  1323  1420/ 26  W37 W18 D4  W7  W6  4.5
+  3 Ma, Ziliang            DCCIA69N  1418  1447/211  W36 W19 W5  L1  W16 4.0
+  4 Zhang, Kevin           OMSH809Y  1396  1424/207  W11 W26 D2  W8  L1  3.5
+  5 He, Jizhou             MEDE789B  1283  1296/174  W32 W27 L3  D11 W20 3.5
+  6 Helmy, Yaseen          CHOGH64B  1122  1298/ 47  W29 W22 HPB W10 L2  3.5
+  7 Wang, Harvey           OPWDJ68G  1360  1371/194  W35 W20 HPB L2  W17 3.5
+  8 Lagzdin, Mikhail       HMNDJ96R  1262  1335/106  HPB W25 W21 L4  W19 3.5
+  9 Glaser, Liam           PCLGG34P  1231  1252/ 24  L27 D34 W35 W23 W21 3.5
+ 10 Qin, Skyler            OPWCJ97T  1369  1367/201  W34 W12 L1  L6  W18 3.0
+ 11 Wu, Jonathan           UCDEK14H  1200  1288/135  L4  W14 W22 D5  D13 3.0
+ 12 Huang, Edwin           OMSI616M  1170  1254/116  W13 L10 W24 L16 W29 3.0
+ 13 Ge, Jeremy             SOMDJ88K  1318  1300/378  L12 D30 W31 W33 D11 3.0
+ 14 Chen, Julian           MEDDK32C  1291  1266/156  L26 L11 W39 W32 W30 3.0
+ 15 Komara, Vasishta NarayaSKIGG75F   984  1083/ 42  WF  L21 D33 D24 W28 3.0
+ 16 Chen, Eason            SOMCJ59F  1224  1230/147  D39 W40 HPB W12 L3  3.0
+ 17 Flores Uriegas, Andres LEOG159F  1211  1203/104  W31 L1  W26 D18 L7  2.5
+ 18 Han, Felix             MEDCJ41U  1007  1121/ 62  W23 L2  W28 D17 L10 2.5
+ 19 Jang, Jinwon           EMSI561P  1232  1246/206  W24 L3  W27 D21 L8  2.5
+ 20 Vuta, Bhuvana          SKIGH63D  1008  1119/ 32  W28 L7  D23 W25 L5  2.5
+ 21 Jiang, Kyle            MEDDK35B  1300  1270/190  W38 W15 L8  D19 L9  2.5
+ 22 Urali, Sanjay          OMSI315D  1465  1409/386  W30 L6  L11 D26 W33 2.5
+ 23 Chevuri, Tattva        REJIC06V  1256  1219/465  L18 W38 D20 L9  W34 2.5
+ 24 Zhang, Patrick         CDIDK01J  1418  1349/393  L19 W39 L12 D15 W31 2.5
+ 25 Rachiba, Alisa         NARFK08E  1264  1231/251  D40 L8  W36 L20 W35 2.5
+ 26 Ngu, Elliott           COGI452U  1070  1101/125  W14 L4  L17 D22 D37 2.0
+ 27 Khandelwal, Anay       OMSIA10L   943   996/113  W9  L5  L19 L28 W40 2.0
+ 28 Wong, Zoe              TXXGZ323  1252  1180/  5  L20 W37 L18 W27 L15 2.0
+ 29 Dharamshi, Anay        CBREK42U  1277  1238/256  L6  D36 W34 D30 L12 2.0
+ 30 Ivanov, Matvei         EABEK34E  1207  1191/134  L22 D13 W40 D29 L14 2.0
+ 31 Bharadwaj, Rohan       ESCHG28P   131   241/  9  L17 BYE L13 W38 L24 2.0
+ 32 Iliushin, Simon        LMDIH50Q  1003   998/  9  L5  L33 BYE L14 W38 2.0
+ 33 Zhang, Aaron           TMBGC74T  1223  1190/198  L1  W32 D15 L13 L22 1.5
+ 34 Han, Kaiyi             SOMDK42P  1184  1144/163  L10 D9  L29 W39 L23 1.5
+ 35 Chen, Max Y            PLKGK76L  1178  1150/143  L7  HPB L9  W36 L25 1.5
+ 36 Qu, Yuwen              RSADK86G  1201  1155/143  L3  D29 L25 L35 W39 1.5
+ 37 Kakarlapudi, Sreeram MuOMSG687Z  1127  1079/ 81  L2  L28 L38 W40 D26 1.5
+ 38 Brouner, Simon         KLLIH47V  1083  1003/ 33  L21 L23 W37 L31 L32 1.0
+ 39 Agarwal, Kavir         OMSG152U   899   889/108  D16 L24 L14 L34 L36 0.5
+ 40 Mohan, Sonit           TMCHG19P   971   924/ 16  D25 L16 L30 L37 L27 0.5

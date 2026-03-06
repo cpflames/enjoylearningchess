@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dandar, Siggy          SDRDZ69K   554   760/ 33  W3  D2  W4  2.5
+  2 Neff, Nathan           ABFDK07A   910   928/113  W4  D1  W3  2.5
+  3 Selken, Kordelia       SDAGX83W   871   819/193  L1  W4  L2  1.0
+  4 Bouza, Meredith        SDAGZ672   661   609/ 15  L2  L3  L1  0.0

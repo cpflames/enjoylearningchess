@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Swindell, Adam         MRLGG32Q   873   898/ 93  L4  W2  W3  2.0
+  2 Abdukarimov, Samin     ARDBH67S   834   880/240  W3  L1  W4  2.0
+  3 Mathur-badam, Arin     BMNCG27N   894   860/ 69  L2  W4  L1  1.0
+  4 Gu, Leo                SCDDK31Y   857   833/ 94  W1  L3  L2  1.0

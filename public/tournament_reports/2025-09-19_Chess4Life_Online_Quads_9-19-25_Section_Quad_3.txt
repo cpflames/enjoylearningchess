@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhou, Jeffrey          ICKIG20T   569   594/ 11  U   W2  W3  2.0
+  2 Srinivas, Pranav       TBKDG35F   100   167/ 14  W3  L1  U   1.0
+  3 Molleda, Eric          LLFFG59A   480   391/ 26  L2  U   L1  0.0

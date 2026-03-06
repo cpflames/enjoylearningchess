@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Luna, Max              FERMJ85Y  1257  1322/ 82  U   W3  W6  W2  3.0
+  2 Baldinger, Jacob       SHMJK47G  1113  1196/ 85  U   W4  W7  L1  2.0
+  3 Fredette, Blaise       BECHH95C  1062  1125/106  U   L1  W5  W6  2.0
+  4 Jacobson, Clayton      ANAMH12T  1395  1374/ 26  U   L2  W8  W7  2.0
+  5 Zou, Benjamin          SHMLK981  1188  1114/ 67  W9  L6  L3  L8  1.0
+  6 Orsino, Thomas         SQUJH40B  1050  1051/ 77  U   W5  L1  L3  1.0
+  7 Ginotra, Karman        RKWGB15D  1134  1121/107  U   W8  L2  L4  1.0
+  8 Mcneil, Mason          VSTIJ49Y  1019  1027/ 85  U   L7  L4  W5  1.0
+  9 Leon, Christian        SHMM1052  1148  1116/136  L5  U   U   U   0.0

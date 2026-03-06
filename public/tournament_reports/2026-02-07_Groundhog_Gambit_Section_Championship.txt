@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Eakin, Anthony         CHGIG65P   885  1135/ 42  W3  L4  W7  W8  W6  4.0
+  2 Tapia, Conan Rivers    CAHLY94U  1100  1321/  5  W9  W7  D4  W6  D3  4.0
+  3 Mandel, Samuel         CAHLY94T  1100  1301/  5  L1  W6  W9  W4  D2  3.5
+  4 Dinesh Babu, Darshini  GNAFH50D  1165  1156/ 61  W5  W1  D2  L3  L8  2.5
+  5 Jain, Asmi             SGSFB47J   827   853/101  L4  W10 L6  W7  D9  2.5
+  6 Worrell, Spencer       CNYKF66H  1256  1195/ 19  W10 L3  W5  L2  L1  2.0
+  7 Mosher, Lance          CAHKY94S  1000   935/  5  W8  L2  L1  L5  W10 2.0
+  8 Bray, Patrick          HDPFG58Z  1119  1049/ 45  L7  L9  W10 L1  W4  2.0
+  9 Modha, Reyansh Jayesh  LBYGH68R   679   711/ 28  L2  W8  L3  L10 D5  1.5
+ 10 Kennedy, Ronan Archer  CAHLY94R  1100   682/  5  L6  L5  L8  W9  L7  1.0

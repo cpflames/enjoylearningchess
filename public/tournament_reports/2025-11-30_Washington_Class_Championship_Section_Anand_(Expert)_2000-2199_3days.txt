@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Iyengar, Varun         WLVIT24A  1945  1999/151  W19 W12 W6  HPB D3  D5  4.5
+  2 Li, Shawn              SOMEJ11N  1791  1888/137  BYE D17 D13 W12 D4  W3  4.5
+  3 Dhingra, Sangeeta      ADUNE943  1923  1955/309  W18 W7  W4  D5  D1  L2  4.0
+  4 Wei, Jeffrey           ICSGH64M  1953  1974/ 60  W8  W13 L3  W6  D2  D7  4.0
+  5 Gavrysh, Leonid        ADUN816H  2064  2065/156  L12 W19 W17 D3  W14 D1  4.0
+  6 Verma, Darsh           WONJB52K  1916  1943/253  W11 W9  L1  L4  D10 W12 3.5
+  7 Han, Shuyi             NPRJK47W  1960  1972/385  W15 L3  D10 D13 W17 D4  3.5
+  8 Beegala, Keshav        EVJJJ27V  1803  1864/236  L4  D18 W15 D17 D11 W13 3.5
+  9 Pikh, Akim             BLWGH64N  1951  1957/ 82  W16 L6  L12 D10 W19 W14 3.5
+ 10 Patankar, Vijay        KMNLC78Y  1941  1952/328  HPB HPB D7  D9  D6  W16 3.5
+ 11 Bartron, Paul R        ADUNI325  2017  1997/ 20  L6  W20 HPB L14 D8  W17 3.0
+ 12 Thorwe, Pratik         ADUNK10D  2057  2031/ 85  W5  L1  W9  L2  D13 L6  2.5
+ 13 Whale, Nicholas        ADUNJ751  2020  1994/318  W14 L4  D2  D7  D12 L8  2.5
+ 14 Ramkumar, Nikhil       RBRI115E  1913  1907/318  L13 W16 D18 W11 L5  L9  2.5
+ 15 Shenoy, Siddharth      ADUNG28D  2101  1993/ 14  L7  HPB L8  L19 W18 W20 2.5
+ 16 Mishra, Abhinav        REDKB02W  1842  1824/188  L9  L14 BYE HPB W20 L10 2.5
+ 17 Eksarevskiy, Albert    LSSL530Y  1951  1924/176  W20 D2  L5  D8  L7  L11 2.0
+ 18 Zhou, Yuchen           CHRGJ42H  1862  1845/662  L3  D8  D14 D20 L15 D19 2.0
+ 19 Nallappa, Vijay        REDKD40S  1907  1877/474  L1  L5  L20 W15 L9  D18 1.5
+ 20 Boey, Chad             ADUN800V  1843  1817/ 76  L17 L11 W19 D18 L16 L15 1.5

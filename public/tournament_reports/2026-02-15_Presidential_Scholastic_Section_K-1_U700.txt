@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Karthik, Ayaan         BRHAG16J   660   702/ 14  W8  W3  D4  W6  D2  4.0
+  2 Saha, Nora             WLVBW75Q   539   630/ 13  W9  W11 W6  D4  D1  4.0
+  3 Sudhakar, Ardhikshwar  SUZBF81C   449   551/ 20  W13 L1  W5  W11 W7  4.0
+  4 Zhang, Anthony         OPWBH18B   518   539/ 21  W14 W16 D1  D2  D5  3.5
+  5 Dharamshi, Ayan        CBRBF58V   358   400/ 17  W16 W15 L3  W10 D4  3.5
+  6 Veligeti, Ayaansh      TBKBF88T   625   601/ 28  W12 W7  L2  L1  W11 3.0
+  7 Han, Liam              MCEAG05J   489   474/ 16  W17 L6  W9  W8  L3  3.0
+  8 Gridasov, Gregory      CSMBG36G   248   312/ 12  L1  W10 W17 L7  W12 3.0
+  9 Reddy, Aishini         MOBBH44S   108   180/ 27  L2  W14 L7  D15 W16 2.5
+ 10 Prasad, Rhea           MOBBJ92U   167   187/ 79  HPB L8  W13 L5  W15 2.5
+ 11 Wang, Krystal          EASBG37X   298   305/ 17  W15 L2  W12 L3  L6  2.0
+ 12 Hee, Jameson           HTPBF92A   182   191/ 10  L6  W13 L11 W14 L8  2.0
+ 13 Doda, Anvedira         MOBBF46H   100   100/  4  L3  L12 L10 W17 BYE 2.0
+ 14 Reddy, Atharv          GRRBG25J   100   100/ 43  L4  L9  BYE L12 W17 2.0
+ 15 Tumbalam Gooty, Vian KuMOBAF46G   100   100/  5  L11 L5  W16 D9  L10 1.5
+ 16 Lanjewar, Naisha       MOBAF46F   100   100/  4  L5  L4  L15 BYE L9  1.0
+ 17 Avuthu, Sreesha Reddy  MOBAH44R   100   100/ 18  L7  BYE L8  L13 L14 1.0

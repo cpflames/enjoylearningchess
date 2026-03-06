@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Putney, Tully          SQUKB14M   576   693/ 11  W5  W3  W4  3.0
+  2 Assink, Cayden         LYEJH77D   598   683/ 15  W6  D4  W5  2.5
+  3 Branco, Phillip        SHMKH49C   648   666/ 25  W7  L1  W6  2.0
+  4 Lee, Jensen            MRDM947B   579   590/ 66  W8  D2  L1  1.5
+  5 Branco, Sebastian      SHMJG02G   735   628/  6  L1  W7  L2  1.0
+  6 Egland, Crosby         FERJ264S   562   540/ 57  L2  W8  L3  1.0
+  7 Nielsen, Coledon       LYCMB21U   550   519/ 21  L3  L5  W8  1.0
+  8 Macmillan, Zaiden      BLHLJ85P   522   429/ 24  L4  L6  L7  0.0

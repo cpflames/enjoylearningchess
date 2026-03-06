@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Lin, Elliot            TYEHJ71G  1206  1268/117  W8  W7  D4  W5  3.5
+  2 Wadhwani, Ren          DCCFK13K  1326  1324/114  W13 L4  W6  W9  3.0
+  3 Ihm, Charlie           NPRKH30M   979  1057/ 18  U   BYE W14 W4  3.0
+  4 Raghunathan, Vidur     UPAG878A  1067  1137/ 85  W10 W2  D1  L3  2.5
+  5 Zandanov, Leonid       ENAEK31Q  1232  1233/213  W15 D6  W9  L1  2.5
+  6 Ngu, Elliott           CGRI452U  1101  1176/129  W11 D5  L2  W14 2.5
+  7 Agarwal, Kavir         OMSG152U   889  1009/112  W12 L1  W15 D10 2.5
+  8 Zhang, Zhibo           LMSG674X  1051  1070/126  L1  D12 BYE W11 2.5
+  9 Ma, Caroline           BCSDK93V   973  1050/118  W16 W14 L5  L2  2.0
+ 10 Kent, Michael          CHYLF76V  1100  1076/  3  L4  HPB W13 D7  2.0
+ 11 Lin, Ethan             TYEHJ71H  1305  1235/116  L6  D13 W12 L8  1.5
+ 12 Huang, Aaron           DGHFB25P   944   957/ 38  L7  D8  L11 W15 1.5
+ 13 Sarangi, Samarth       HMNFH69F  1122  1084/213  L2  D11 L10 BYE 1.5
+ 14 Xiong, Maxwell         CSIEK92H  1152  1076/ 99  W17 L9  L3  L6  1.0
+ 15 Kannapiran, Arnav      LMSH983P  1091  1038/121  L5  W16 L7  L12 1.0
+ 16 Karnik, Rohan          WAVKG59F  1200  1126/ 72  L9  L15 U   U   0.0
+ 17 Kommu, Ameya           BCAEF76U   400   655/  1  L14 U   U   U   0.0

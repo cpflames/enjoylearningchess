@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mathur-badam, Arin     BMNCG27N   340   561/ 17  W2  W3  W4  3.0
+  2 Abdukarimov, Samin     BENBH67S   545   547/151  L1  W4  W3  2.0
+  3 Mattoo, Avyaan         HWEFG68K   434   409/ 31  W4  L1  L2  1.0
+  4 Hurdelbrink, Audrey    STTDG63F   363   296/ 13  L3  L2  L1  0.0

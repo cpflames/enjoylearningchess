@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhen Rampenthal, Quinn SASJH53C  1336  1379/120  WF  W3  W2  3.0
+  2 Gagnier, Ian           HSCHC72H  1560  1531/264  W3  WF  L1  2.0
+  3 Sarkar, Hridik         FRVGK04W  1017  1008/103  L2  L1  WF  1.0

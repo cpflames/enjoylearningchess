@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nelson, Harvey         CMCGG67L   603   694/ 83  W4  W3  W2  3.0
+  2 Yin, Brandon           SOMFG50K   568   581/ 17  W3  W4  L1  2.0
+  3 Etienne, Yann          CDVCG21M   508   478/ 24  L2  L1  W4  1.0
+  4 Reeves, Othel          SESFF78K   323   267/  8  L1  L2  L3  0.0

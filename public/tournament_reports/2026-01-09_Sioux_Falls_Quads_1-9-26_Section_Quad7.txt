@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pajl, Ben              SDSBZ58P   100   351/  5  W4  W3  W2  3.0
+  2 Quinn, Owen            LBABZ58Q   100   181/  8  W3  W4  L1  2.0
+  3 Neff, Timothy          ABFAZ31M   133   111/  9  L2  L1  W4  1.0
+  4 Chadha, Dylan          SFMDZ30C   300   100/  3  L1  L2  L3  0.0

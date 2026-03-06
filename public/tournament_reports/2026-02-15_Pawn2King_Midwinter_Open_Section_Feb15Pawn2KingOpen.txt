@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Raghavendran, Vedanth  DCSCH24C  1198  1293/ 83  W8  W5  W2  W3  4.0
+  2 Petrov, Kirill         INTKF50L  1000  1289/  4  W10 W9  L1  W5  3.0
+  3 Krishna, Vihaan        REEE263E   914  1045/ 59  WF  W4  W9  L1  3.0
+  4 Hoang, Leonard Bach    MRPCK88E  1158  1153/ 85  W6  L3  W10 W7  3.0
+  5 Astafiev, Vitaly DmitriMRPEH52U   990  1006/ 69  W7  L1  W8  L2  2.0
+  6 Padmanabhuni, Vihaan   LMAFH69J   730   757/ 49  L4  BYE L7  W9  2.0
+  7 Sansar, Bilguun        ADUNF50K  1300   850/  4  L5  D8  W6  L4  1.5
+  8 Mathew, Reuben         MRPBG33B   862   859/ 70  L1  D7  L5  W11 1.5
+  9 Agrawal, Ayaansh       CNCDJ99W  1160  1076/ 72  W11 L2  L3  L6  1.0
+ 10 Wellander, Matthew     ADUNF76R  1046  1015/ 10  L2  W11 L4  U   1.0
+ 11 Raghavendran, Vishakh  DCSEH24Q   827   773/ 75  L9  L10 BYE L8  1.0

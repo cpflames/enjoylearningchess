@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Neff, Joel             ABFIF99X  1754  1771/344  W16 W6  W9  W2  W8  5.0
+  2 Neff, Enoch            ABFFF95Q  1418  1426/238  W11 W7  W3  L1  W5  4.0
+  3 Nguyen, Charlie        SDYGZ06D  1170  1187/239  W24 W10 L2  W5  W6  4.0
+  4 Chaplin, Owen          HSSHD36Q  1318  1285/117  W23 L5  W21 W17 W7  4.0
+  5 Ertelt, Kasen          BVIGZ67Y   605   812/ 22  W18 W4  W8  L3  L2  3.0
+  6 Bianas, Lyryque        PILIZ688   802   912/ 10  W20 L1  W12 W14 L3  3.0
+  7 Gladis, Asher          BVIGZ58J   826   981/  9  W13 L2  W22 W9  L4  3.0
+  8 Hoellein, Carter       SDYGZ96L  1340  1303/195  W21 W15 L5  W10 L1  3.0
+  9 Mcdowell, John         BVIIZ89F  1139  1116/ 95  W25 W12 L1  L7  W18 3.0
+ 10 Andrews, Mahto         PILHZ28D   700   960/  5  W14 L3  W11 L8  W17 3.0
+ 11 Mullinix, Jaden        SD2HZ812   319   530/ 27  L2  W16 L10 W20 W15 3.0
+ 12 Mellette, Jalen        PILIZ28C   800   868/  5  W19 L9  L6  W25 W14 3.0
+ 13 Lui, Lucas             XXXIF58H   800   729/  5  L7  W20 L14 W16 W19 3.0
+ 14 Geurts, Elijah         HSSGZ31H   857   818/ 17  L10 W22 W13 L6  L12 2.0
+ 15 Mills, Ta'te           SDYIZ98Q   565   540/ 81  W17 L8  W18 L19 L11 2.0
+ 16 Guetter, Nolan         BVIGZ95Z   454   433/ 42  L1  L11 BYE L13 W22 2.0
+ 17 Hancock, Noah          HSSHZ59G   160   331/  9  L15 W24 W19 L4  L10 2.0
+ 18 Yoshino, Liam          BVIFZ28A   500   406/  5  L5  W23 L15 W21 L9  2.0
+ 19 Brouwer, Ryson         BVIGZ58K   831   636/  9  L12 W25 L17 W15 L13 2.0
+ 20 Larsen, Addison        BVIGZ287   600   392/  5  L6  L13 W24 L11 W25 2.0
+ 21 Blue Arm, Megan        PILHZ685   150   175/  9  L8  BYE L4  L18 W24 2.0
+ 22 White Bull, Rozlynn    PILHZ67Z   100   144/  9  BYE L14 L7  W23 L16 2.0
+ 23 Zapata-bullhead, EvalynPILEZ285   400   100/  4  L4  L18 D25 L22 BYE 1.5
+ 24 Firecloud, Abriella    PILEZ284   400   100/  4  L3  L17 L20 BYE L21 1.0
+ 25 Blue Arm, Ohitika      PILFZ283   500   100/  5  L9  L19 D23 L12 L20 0.5

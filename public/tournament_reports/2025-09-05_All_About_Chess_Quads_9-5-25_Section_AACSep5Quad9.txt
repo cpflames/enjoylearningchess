@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nandakiran, Advaith    SSMDJ88H   390   480/183  W6  W5  W2  3.0
+  2 Balaji, Vaibhav        SSMDH28Z   390   413/ 89  W7  W3  L1  2.0
+  3 Paidapathi, Kiaan      SHSDJ99C   426   420/233  W4  L2  W5  2.0
+  4 Joye, Quentin          SUBIG24Y   265   284/ 15  L3  W6  W7  2.0
+  5 Reddy, Atharv          GRRBG25J   100   100/  4  BYE L1  L3  1.0
+  6 Tanielian, Desmond     WOBFG19S   500   100/  2  L1  L4  BYE 1.0
+  7 Tanielian, Theo        WOBBG19Q   100   100/  2  L2  BYE L4  1.0

@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Yu, Enzo               FRWCF75K   200   604/  4  W14 D4  W7  W6  3.5
+  2 Deng, David            JINCF75J   200   369/  4  L4  W10 W12 W8  3.0
+  3 Lin, James             BUSAF91Y   362   399/ 10  W5  W9  HPB HPB 3.0
+  4 Zhang, Michael         BCACH14X   100   284/  6  W2  D1  HPB HPB 2.5
+  5 Zhou, Dylan            BABBF75H   100   215/  4  L3  W11 L6  W12 2.0
+  6 Yu, Leon               TLICH15C   213   280/  5  HPB HPB W5  L1  2.0
+  7 Liu, Evan              EVGCJ66Z   523   497/ 35  HPB HPB L1  W13 2.0
+  8 Wei, Jeffrey           BLWCF75G   200   217/  2  HPB HPB W13 L2  2.0
+  9 Mishra Gandhi, Vyom    MRLCF75F   200   100/  1  BYE L3  HPB HPB 2.0
+ 10 He, Megan              CCDBF75E   100   100/  2  D11 L2  HPB HPB 1.5
+ 11 Xu, Audrey             CCDBF75D   100   100/  2  D10 L5  HPB HPB 1.5
+ 12 Massand, Anaya         RKWCF75C   200   100/  2  HPB HPB L2  L5  1.0
+ 13 Karthik, Gautam        CLHDF75B   300   100/  2  HPB HPB L8  L7  1.0
+ 14 Shao, Maomao           CCDBF75A   100   168/  1  L1  U   HPB HPB 1.0

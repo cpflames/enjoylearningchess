@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Revuru, Nimeesha       RCMGW81Y   305   375/ 63  W2  U   W3  2.0
+  2 Fang, Roger            ENACH14K   282   288/ 28  L1  W3  U   1.0
+  3 Madadi, Hannah         CGRDH65Y   319   244/ 68  U   L2  L1  0.0

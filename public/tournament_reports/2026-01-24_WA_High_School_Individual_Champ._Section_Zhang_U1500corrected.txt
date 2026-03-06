@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 r10 tot 
+  1 Zhen Rampenthal, Quinn SASJH53C  1457  1481/172  W14 W14 W19 W19 D4  W4  L2  W2  W7  W7  8.5
+  2 Akbari, Dhairy         TJHKH46A   965  1225/ 37  BYE BYE W8  L8  W17 W17 W1  L1  W4  L4  7.0
+  3 Lebedinsky, Alexander  ICKJ958F  1452  1457/329  W22 W22 HPB HPB HPB HPB L5  W5  W13 W13 7.0
+  4 Lee, Justin            KINJ732V  1393  1397/180  D6  W6  W15 W15 D1  L1  D8  W8  L2  W2  6.5
+  5 Chabot, Troy           TRAMK15U  1151  1335/ 93  W20 W20 W10 D10 W8  L8  W3  L3  L6  W6  6.5
+  6 Desai, Taj             LCOJK10Y  1056  1301/ 43  D4  L4  W21 W21 W10 L10 W9  W9  W5  L5  6.5
+  7 Gorecke, Cj            HHSKG87W  1091  1277/ 40  W9  L9  W12 L12 W19 W19 W10 W10 L1  L1  6.0
+  8 Laporte, Andy          SPRMK67S  1349  1318/ 63  W16 W16 L2  W2  L5  W5  D4  L4  L11 W11 5.5
+  9 Luna, Max              FERMJ85Y  1352  1309/ 96  L7  W7  L13 W13 D12 W12 L6  L6  W20 W20 5.5
+ 10 Rahman, Zayd           HHSLF83W  1441  1377/157  W18 W18 L5  D5  L6  W6  L7  L7  W19 W19 5.5
+ 11 Roberts, Noah          SPRM3819  1225  1202/ 73  L13 W13 L17 L17 W18 W18 D16 W16 W8  L8  5.5
+ 12 Friedman, Elliott      SQUJ637U  1169  1174/ 39  L17 W17 L7  W7  D9  L9  W23 W23 L14 W14 5.5
+ 13 Kansal, Sarthak        NRCKG18S  1060  1174/ 12  W11 L11 W9  L9  HPB HPB W17 W17 L3  L3  5.0
+ 14 Cabasug, Gabriel       HHSLE46S  1149  1124/ 57  L1  L1  L16 L16 BYE BYE W22 W22 W12 L12 5.0
+ 15 Bouckenooghe, Elam     PROKJ76U  1011  1066/ 29  W21 D21 L4  L4  W16 L16 D19 L19 W23 W23 5.0
+ 16 Annapureddy, Pranav    BISJ449G  1068  1095/182  L8  L8  W14 W14 L15 W15 D11 L11 W18 L18 4.5
+ 17 Mavila, Madhav         JACK230L  1002  1046/ 87  W12 L12 W11 W11 L2  L2  L13 L13 W22 L22 4.0
+ 18 Peterson, Caden        BHMMJ85V  1143  1075/ 79  L10 L10 L20 W20 L11 L11 BYE BYE L16 W16 4.0
+ 19 Hassan, Ahmad          HHSK714R  1176  1152/192  W23 W23 L1  L1  L7  L7  D15 W15 L10 L10 3.5
+ 20 Romero, Daniel         HVALJ50Q   989  1006/ 30  L5  L5  W18 L18 W22 L22 W21 D21 L9  L9  3.5
+ 21 Baldinger, Jacob       SHMJK47G  1205  1075/ 97  L15 D15 L6  L6  L23 D23 L20 D20 BYE BYE 3.5
+ 22 Ravitsky, Koby         SQUJG73J  1145  1059/ 49  L3  L3  L23 W23 L20 W20 L14 L14 L17 W17 3.0
+ 23 Hernandez, Ian         SHMLG02K  1011   964/ 31  L19 L19 W22 L22 W21 D21 L12 L12 L15 L15 2.5

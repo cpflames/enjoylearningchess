@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jain, Adhrit           SPTDH36P   639   663/ 49  W3  W4  L2  2.0
+  2 Sudhir, Aakanksha      MEDGG67F   696   702/ 19  W4  L3  W1  2.0
+  3 Sathyamurthy, Shreyus  BLWDJ60Z   612   586/226  L1  W2  L4  1.0
+  4 Tanielian, Desmond     WOBFG19S   545   541/ 41  L2  L1  W3  1.0

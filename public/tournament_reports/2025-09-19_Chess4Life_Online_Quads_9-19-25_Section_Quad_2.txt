@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Balan, Vidyut          LAVFH68B   614   759/ 71  W3  D4  W2  2.5
+  2 Van Cleemput, Enzo     HMNEG22B   647   670/ 12  W4  D3  L1  1.5
+  3 James, Jubal           XXXIG48Q   772   753/ 12  L1  D2  W4  1.5
+  4 Gupta, Vaishnavi       EVJJH60P   756   682/ 12  L2  D1  L3  0.5

@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chai, Simone           MEDDG19T   367   440/  7  WF  W2  W3  3.0
+  2 Jiang, Ethan           BCABG19W   389   356/  7  W3  L1  WF  2.0
+  3 Ulag, Karthik          OPWCG18W   200   100/  2  L2  WF  L1  1.0

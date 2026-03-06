@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Verma, Raaghav         RBRCF40L   200   750/  3  W2  W4  W3  3.0
+  2 Albuquerque, Erik      CLHBF40K   100   428/  3  L1  W3  W4  2.0
+  3 Woo, David             RKWCF40J   200   225/  3  W4  L2  L1  1.0
+  4 Du, Eric               SOMBF40H   100   100/  3  L3  L1  L2  0.0
+
+ All Unrated-player Section: Ratings capped at 1000

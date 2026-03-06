@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Joseph, George KochumurCDIEH11C   908  1020/126  W4  W3  D2  2.5
+  2 Balaji, Pranav         INGIJ96J   914   933/182  L3  W4  D1  1.5
+  3 Mahale, Avneesh        CNHD993F   975   950/279  W2  L1  L4  1.0
+  4 Charles, Benjamin      SOMCJ06G  1056  1009/221  L1  L2  W3  1.0

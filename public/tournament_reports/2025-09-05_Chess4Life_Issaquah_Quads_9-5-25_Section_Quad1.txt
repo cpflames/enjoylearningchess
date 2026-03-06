@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Cottenier, Louis       DISJ700P  1069  1091/ 85  W3  BYE W2  3.0
+  2 Deshmukh, Dhruv        ENDFH79Q   913   909/103  BYE W3  L1  2.0
+  3 Chanda, Rishabh        BCABH72X   695   673/ 71  L1  L2  BYE 1.0

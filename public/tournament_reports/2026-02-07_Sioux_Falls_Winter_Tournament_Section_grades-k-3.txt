@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Devish, Coale          SDSDZ80U  1012  1102/ 87  W7  W3  W2  W4  W5  5.0
+  2 Dandar, Siggy          SDRDZ69K   905   934/ 61  W10 W6  L1  W8  W4  4.0
+  3 Neff, Nathan           ABFDK07A   880   883/135  W13 L1  W12 W6  W8  4.0
+  4 Welch, Gideon          HSSCH75H  1008   965/ 65  W12 W8  W5  L1  L2  3.0
+  5 Neff, Timothy          ABFAZ31M   191   328/ 20  W9  W7  L4  W12 L1  3.0
+  6 Fiorita, Gus           SDGDZ76F   494   501/ 59  W11 L2  W9  L3  W12 3.0
+  7 Quinn, Jason           LBADZ835   112   239/ 25  L1  L5  W14 W11 W9  3.0
+  8 Neff, Zachary          ABFCH77E   604   589/ 73  W14 L4  W10 L2  L3  2.0
+  9 Devish, Emery          SDSBZ282   100   194/  5  L5  W13 L6  W10 L7  2.0
+ 10 Palmer, Henry          SD1BZ58R   100   184/  7  L2  W11 L8  L9  W13 2.0
+ 11 Lovejoy, Hunter        PILDZ27Z   300   152/  5  L6  L10 W13 L7  W14 2.0
+ 12 Quinn, Owen            LBABZ58Q   105   115/ 19  L4  W14 L3  L5  L6  1.0
+ 13 Dubois, Gerald         PILDZ27X   300   100/  5  L3  L9  L11 W14 L10 1.0
+ 14 Mesteth, Leighton      PILDZ27V   300   100/  5  L8  L12 L7  L13 L11 0.0

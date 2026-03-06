@@ -1,0 +1,40 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Frenk, Rafael          CSIDJ75L  1166  1229/ 72  W19 W13 W11 W5  W4  5.0
+  2 Yeh, George            CSIDH64S  1093  1104/ 49  W25 W12 W14 D4  W7  4.5
+  3 Shing, Lucas           HZFEJ74H   771   793/133  W23 W33 L4  W17 W15 4.0
+  4 Leon, Vikram           EBSDH74X   988  1003/ 58  W20 W16 W3  D2  L1  3.5
+  5 Bolisetty, Varun       HMNEJ73Z  1062  1050/194  W22 W18 W8  L1  D9  3.5
+  6 Parakh, Ruhaan         FRVDG03P   300   737/  5  W15 D9  L12 W34 W16 3.5
+  7 Margetan, Alston       MTWEW85Y   744   801/ 52  W34 W37 D9  W11 L2  3.5
+  8 Chen, Owen             CSIEH51Y   898   885/ 36  W36 W21 L5  W13 D10 3.5
+  9 Meymandi-li, Alvin     CNCEJ64F   692   763/ 52  W37 D6  D7  W21 D5  3.5
+ 10 Park-brinck, August    WEDEJ54U   640   643/ 57  L33 W23 W24 W22 D8  3.5
+ 11 Yao, Roger Yutang      THODK88C  1031   989/146  W24 W17 L1  L7  W21 3.0
+ 12 Dishion, Nathan        SCDEK40R   663   673/ 30  W29 L2  W6  L16 W22 3.0
+ 13 Johnson, Nathan        HZFEH32Y   633   654/ 25  W26 L1  W36 L8  W31 3.0
+ 14 Hedstrom, Elliot       WEDEK92C   785   750/ 92  W32 W27 L2  L15 W26 3.0
+ 15 Deng, Leo              CSIDG51B   533   565/ 33  L6  W35 W29 W14 L3  3.0
+ 16 Deng, Marvin           STMEH06D   532   571/ 19  W38 L4  W33 W12 L6  3.0
+ 17 Sharma, Sidarth        EVGDJ75G   593   602/124  W39 L11 W27 L3  W24 3.0
+ 18 Ma, Liam               WEDEG03M   400   663/  5  W31 L5  L21 W23 W28 3.0
+ 19 Scott, Duncan          WEDEJ54Y   470   461/ 45  L1  D26 L30 W35 W29 2.5
+ 20 Lider, Alexander       CNCDH04G   353   366/ 25  L4  L22 W38 D33 W34 2.5
+ 21 Sharma, Samarth        EVGDJ75K   532   590/105  W30 L8  W18 L9  L11 2.0
+ 22 Hotchkin, Otis         CSIEK92J   478   470/ 37  L5  W20 W35 L10 L12 2.0
+ 23 Phillips, William      CSIDJ43H   298   327/ 20  L3  L10 W32 L18 W38 2.0
+ 24 Patel, Kian            EVGDK55W   434   430/ 43  L11 W39 L10 W27 L17 2.0
+ 25 Zhang, Amy             EVGEJ55A   444   421/ 48  L2  D30 D26 L29 W33 2.0
+ 26 Tornow, Carter         CSIEG03L   400   428/  5  L13 D19 D25 W36 L14 2.0
+ 27 Hobart-beaumari, Kiran CSIDG99K   201   309/ 14  W28 L14 L17 L24 W36 2.0
+ 28 Armstrong, Josephine   EVGDK86A   637   545/140  L27 W32 D34 D30 L18 2.0
+ 29 Duraikondaar, Dhaswin  FRWDH75Y   220   244/ 73  L12 BYE L15 W25 L19 2.0
+ 30 Mallipeddi, Mira       CSIDG03K   300   493/  4  L21 D25 W19 D28 U   2.0
+ 31 Xu, Tony               SCDEJ14L   514   439/ 13  L18 L34 W39 W37 L13 2.0
+ 32 Larson, Akash          CSIEG99N   324   292/ 14  L14 L28 L23 BYE W37 2.0
+ 33 Katka, Ole             CSIEJ75V   219   276/ 15  W10 L3  L16 D20 L25 1.5
+ 34 Piontek, Grant         CSIDG99R   296   346/ 10  L7  W31 D28 L6  L20 1.5
+ 35 Fatemi, Arman          CIADK24J   100   100/  9  BYE L15 L22 L19 D39 1.5
+ 36 Mohankumar, Kabilan    CNCDG92V   321   275/ 24  L8  W38 L13 L26 L27 1.0
+ 37 Kilaru, Riaan          CSIDG67X   263   179/  9  L9  L7  BYE L31 L32 1.0
+ 38 Thompson, Ivan         CSIDG03J   300   100/  5  L16 L36 L20 W39 L23 1.0
+ 39 Abbaszadeh, Kieran     CSIDG03G   300   100/  5  L17 L24 L31 L38 D35 0.5

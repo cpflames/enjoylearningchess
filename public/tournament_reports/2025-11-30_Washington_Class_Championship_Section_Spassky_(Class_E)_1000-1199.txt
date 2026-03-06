@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Han, Felix             MEDCJ41U  1121  1263/ 68  W15 D8  W24 W9  W2  D4  5.0
+  2 Dixit, Ved             ENSEH63Q  1101  1209/ 57  W3  W4  W19 D8  L1  W10 4.5
+  3 Lin, Elliot            TYEHJ71G  1100  1206/113  L2  W6  W21 D7  W9  W8  4.5
+  4 Blodgett, Brayden      TLMIG09E  1066  1229/ 15  W17 L2  W12 W15 W13 D1  4.5
+  5 Chaurasia, Vihaan      REJIH65G  1177  1181/239  D13 D14 L11 W21 W19 W16 4.0
+  6 Liguori, Catherine     ADUNH59A  1046  1099/ 17  L19 L3  W17 W24 W23 W13 4.0
+  7 Weber, Dillon          ADUNF83Y  1081  1130/  4  BYE L10 W22 D3  HPB W11 4.0
+  8 Ruan, Jiyong           SHSEJ19W  1026  1129/ 77  W22 D1  W10 D2  D11 L3  3.5
+  9 Wong, Gabriel          HEAHH35K  1149  1168/ 45  W11 W12 D13 L1  L3  W14 3.5
+ 10 Davies, Damien         HEAHK68U  1016  1085/132  W24 W7  L8  HPB W14 L2  3.5
+ 11 Krogstad, Jaxon        NCSEJ88M  1332  1274/217  L9  W25 W5  BYE D8  L7  3.5
+ 12 Shah, Aariv            PFCI527D  1165  1159/ 63  W20 L9  L4  HPB W22 W19 3.5
+ 13 Memon, Emad            GTMHG20V   896  1014/ 19  D5  W16 D9  W19 L4  L6  3.0
+ 14 Yin, Vicky             BNGGZ897   852   987/ 23  D16 D5  W20 W18 L10 L9  3.0
+ 15 Zou, Fuxing            ADUNH28Q  1064  1062/ 18  L1  BYE W23 L4  L16 W20 3.0
+ 16 Meenakshi Sundaram, PavCDWDJ99Z  1198  1145/ 64  D14 L13 W25 D22 W15 L5  3.0
+ 17 Jacob, Salome          ADUNJ69Q  1050  1029/ 16  L4  L20 L6  W25 HPB W23 2.5
+ 18 Razmov, Siana          HSCDK93Y  1028   984/214  D23 L24 BYE L14 L20 W22 2.5
+ 19 Avula, Sujatha         ADUNE77T   957   936/ 19  W6  WF  L2  L13 L5  L12 2.0
+ 20 Kalian, Illia          REGHI13T  1098  1035/153  L12 W17 L14 L23 W18 L15 2.0
+ 21 Mandore, Ishaan        WPPHJ70V  1039  1024/ 45  W25 LF  L3  L5  U   BYE 2.0
+ 22 Juarez-caballero, CristISMID76Z  1099  1032/196  L8  W23 L7  D16 L12 L18 1.5
+ 23 Smith, Andrew          ADUN6334  1132  1035/ 40  D18 L22 L15 W20 L6  L17 1.5
+ 24 Mohammed, Farhan       CRKFH14M  1155  1092/149  L10 W18 L1  L6  U   U   1.0
+ 25 Foster, Chad           ADUNH69R   981   913/ 47  L21 L11 L16 L17 U   U   0.0

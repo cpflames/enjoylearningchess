@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Welch, James           HSSKF53F  1652  1658/291  W3  W4  D2  2.5
+  2 Ristau, William        SDQMX37G  1671  1675/173  W4  W3  D1  2.5
+  3 Hoellein, Carter       SDDGZ96L  1220  1234/178  L1  L2  W4  1.0
+  4 Nguyen, Charlie        SDRGZ06D  1198  1170/234  L2  L1  L3  0.0

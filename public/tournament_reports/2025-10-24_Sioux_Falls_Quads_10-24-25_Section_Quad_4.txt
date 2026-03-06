@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Potter, David          SDRDZ40L   482   588/ 12  W3  W4  W2  3.0
+  2 Linn, Atticus          SDSDZ80S   442   464/ 48  W4  W3  L1  2.0
+  3 Elisara, Ethan         JHAEZ38A   334   326/  9  L1  L2  W4  1.0
+  4 Lacroix, London        SDCEZ67B   356   278/ 15  L2  L1  L3  0.0

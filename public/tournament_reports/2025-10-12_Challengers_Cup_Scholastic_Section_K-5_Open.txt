@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kulkarni, Samik        KKNCH67M  1201  1245/100  W7  W3  D2  2.5
+  2 Wadhwani, Ren          DCCFK13K  1353  1355/ 99  W6  W5  D1  2.5
+  3 Mohammed, Farhan       CRKFH14M  1083  1106/130  W4  L1  W6  2.0
+  4 Lin, Evan              SOMDJ72G   925   986/ 99  L3  W7  W5  2.0
+  5 Zhang, Ryan            SHVCH60U  1006   973/ 62  W8  L2  L4  1.0
+  6 Li, Alice              OPWEJ98C   998   974/125  L2  W8  L3  1.0
+  7 Wang, Aaron            HMNE631T   953   922/139  L1  L4  W8  1.0
+  8 Brown, Joshua          HDPEH77Y   443   443/  8  L5  L6  L7  0.0

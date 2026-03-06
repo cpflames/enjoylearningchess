@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chanda, Rishabh        BCABH72X   592   682/ 79  W9  D6  W8  W2  W7  4.5
+  2 Zhang, Kyle            OPWCJ19N   528   560/ 62  W4  W7  W6  L1  L3  3.0
+  3 Kondapi, Srivatsa      FRWCG17U   200   481/  5  L7  W9  W5  L6  W2  3.0
+  4 Anand, Nivaan          MCECH64F   556   524/125  L2  W5  D7  D8  BYE 3.0
+  5 Tulsukchuentanat, PremeWOBCH62Y   328   359/ 22  BYE L4  L3  W9  W6  3.0
+  6 Astafyeva, Veronica    MRPDH51S   587   559/ 52  W8  D1  L2  W3  L5  2.5
+  7 Gangineni, Sarvesh     MMECH62Q   446   453/ 49  W3  L2  D4  BYE L1  2.5
+  8 Kotsinyan, Erik        EVPDJ56F   518   478/ 64  L6  BYE L1  D4  W9  2.5
+  9 Rusia, Diya            UCDDK28M   100   100/ 14  L1  L3  BYE L5  L8  1.0

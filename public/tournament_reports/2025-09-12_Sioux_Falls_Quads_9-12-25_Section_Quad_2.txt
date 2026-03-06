@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Casanova, Vicente      OGHIZ99T  1386  1438/114  D4  W3  W2  2.5
+  2 Casanova, Carlos       OGJKZ99X  1479  1478/111  W3  W4  L1  2.0
+  3 Chaplin, Seth          HSSJI92C  1298  1296/119  L2  L1  W4  1.0
+  4 Chaplin, Owen          HSSHD36Q  1353  1318/112  D1  L2  L3  0.5

@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Brar, Gurinder         ADUNH80K  1285  1349/ 18  W3  W10 W4  L2  W8  4.0
+  2 Meyer, Curtis          ADUNH56Y  1362  1397/ 10  W11 L4  W9  W1  D3  3.5
+  3 Rodriguez, Christian   ADUNG11N  1300  1405/  5  L1  W11 W5  W6  D2  3.5
+  4 Reiter, Ronald         ADUNG11M  1300  1305/  5  W6  W2  L1  W10 L5  3.0
+  5 Rutz, Brian            ADUNG11L  1300  1232/  4  L7  W8  L3  BYE W4  3.0
+  6 Richardson, Tyler      ADUNG11K  1300  1147/  4  L4  BYE W7  L3  W10 3.0
+  7 Serrano, Reymund       ADUNH38L  1202  1165/  9  W5  D9  L6  L8  BYE 2.5
+  8 Krieger, Chris         ADUNG11H  1300  1085/  5  L9  L5  W10 W7  L1  2.0
+  9 Bulanan, Noel          ADUNH80J  1373  1336/ 12  W8  D7  L2  U   U   1.5
+ 10 Murphy, John           ADUNH56V   629   629/  8  BYE L1  L8  L4  L6  1.0
+ 11 Wetjen, Larry          ADUNG11G  1300   991/  2  L2  L3  BYE U   U   1.0

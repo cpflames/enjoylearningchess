@@ -1,0 +1,3 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Yin, Andrew            BCXGZ75T  1961  1970/ 46  W2  1.0
+  2 Mishra, Abhinav        REDKB02W  1824  1814/189  L1  0.0

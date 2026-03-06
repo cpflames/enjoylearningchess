@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Verma, Reyansh         SKIGJ20M  1258  1334/118  W11 W8  W4  W2  W3  5.0
+  2 Goel, Advit            CMCEG22F  1126  1186/147  W10 W3  W6  L1  W5  4.0
+  3 Zhang, Andy            OMSH885X   784  1000/ 65  W5  L2  W7  W4  L1  3.0
+  4 Zhen Rampenthal, Quinn SASJH53C  1278  1244/158  W7  W6  L1  L3  W11 3.0
+  5 Garg, Vihaan           CMCFJ10X  1047  1026/290  L3  W10 W9  W8  L2  3.0
+  6 Jiang, Yuanyi          MMEEJ58J  1117  1097/ 75  W9  L4  L2  W10 W8  3.0
+  7 Balaji, Pranav         INGIJ96J  1003   992/173  L4  W11 L3  W9  BYE 3.0
+  8 Serna Mengual, Andrea  FRDHH62H   548   607/ 33  BYE L1  W11 L5  L6  2.0
+  9 Talukdar, Yuvaan       RBRCH76K   812   799/151  L6  BYE L5  L7  W10 2.0
+ 10 Sijin, Ryan            BENDG24X   830   769/ 58  L2  L5  BYE L6  L9  1.0
+ 11 Vivek, Thanish BhavanamBCADH74G   892   816/ 70  L1  L7  L8  BYE L4  1.0

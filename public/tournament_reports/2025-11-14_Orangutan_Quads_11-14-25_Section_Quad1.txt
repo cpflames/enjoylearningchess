@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bartram, Clark         DCTDJ47Q   638   728/ 31  W4  W2  W3  3.0
+  2 Van Creveld, Negev     BRYEG48H   377   496/  8  W3  L1  W4  2.0
+  3 Rosenthal, Eli         THUDG58B   669   606/ 35  L2  W4  L1  1.0
+  4 Hooker, Asa            THUDH33B   423   367/ 26  L1  L3  L2  0.0

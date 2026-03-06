@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zhang, Kevin           OMSH809Y  1386  1467/214  W8  W12 W6  W4  L3  4.0
+  2 Blodgett, Brayden      TLMIG09E  1229  1378/ 20  W5  W3  W14 L6  W13 4.0
+  3 Havaldar, Karsh        FHMGI03F  1526  1530/ 81  W7  L2  W22 W9  W1  4.0
+  4 Patel, Aarya Pavan     REJHK30E  1568  1563/270  W9  W16 W10 L1  W6  4.0
+  5 Anbuselvam, Mithran    HEAHH61F  1302  1338/247  L2  W15 W16 W17 W7  4.0
+  6 Glaser, Liam           PCLGG34P  1252  1291/ 29  W11 W23 L1  W2  L4  3.0
+  7 Viswanatha, Sruti      REJI289A  1209  1231/ 26  L3  W19 W18 W10 L5  3.0
+  8 Joshi, Vyom            NRCKH81X  1385  1373/385  L1  W13 L9  W22 W14 3.0
+  9 Chaurasia, Vihaan      REJIH65G  1181  1255/244  L4  W24 W8  L3  W23 3.0
+ 10 Liu, Bihe              KKNDB78J  1249  1248/190  W19 W18 L4  L7  W16 3.0
+ 11 Datta, Ishana          KKNEH60X   982  1112/ 71  L6  W20 W21 L13 W17 3.0
+ 12 Bhindi, Viyaan         MOBHG97F   928  1113/ 10  W17 L1  L13 W24 W20 3.0
+ 13 Nguyen, Viet           TMBI508J  1266  1258/199  D15 L8  W12 W11 L2  2.5
+ 14 Singh, Vedant          REJH471V  1298  1270/ 57  W25 D22 L2  W15 L8  2.5
+ 15 Somanath, Aarav        PLKI235C  1016  1133/  8  D13 L5  W24 L14 W22 2.5
+ 16 Olson, Ben             BLCKG50S  1102  1091/171  WF  L4  L5  W18 L10 2.0
+ 17 Pan, Jesse             ENSEJ61R  1209  1147/ 44  L12 WF  W23 L5  L11 2.0
+ 18 Du, Charles            SOMGA15U   943   968/168  W21 L10 L7  L16 W25 2.0
+ 19 Bhende, Shaurya        MMEGK24T   963   964/ 79  L10 L7  BYE L20 W21 2.0
+ 20 Chabot, Troy           TRAMK15U  1226  1151/ 83  L23 L11 W25 W19 L12 2.0
+ 21 Arunkumar, Vidhyuth    CNCFH44J  1218  1069/ 10  L18 W25 L11 W23 L19 2.0
+ 22 Gokulakrishnan, SriharsTMMHH60B  1043  1061/ 47  W24 D14 L3  L8  L15 1.5
+ 23 Sinha, Ishayu          HEAHJ24F   951   944/ 77  W20 L6  L17 L21 L9  1.0
+ 24 Zhang, Eric Q          SOMEK64M  1283  1164/163  L22 L9  L15 L12 BYE 1.0
+ 25 Madhavapeddi, Sumith   TMMHG21U  1064   889/  8  L14 L21 L20 BYE L18 1.0

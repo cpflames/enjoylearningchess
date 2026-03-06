@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yadav, Divyansh        TBKDG75M   767   824/ 60  W4  W2  D3  2.5
+  2 Li, Leo                BCABH11J   782   794/ 87  W3  L1  W4  2.0
+  3 Xu, Jacky Y            SOMDJ59K   701   681/177  L2  D4  D1  1.0
+  4 Wong, Aiden            CHRFK17Z   643   611/111  L1  D3  L2  0.5

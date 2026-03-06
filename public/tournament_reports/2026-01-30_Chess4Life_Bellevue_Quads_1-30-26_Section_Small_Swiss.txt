@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kakkad, Viyan          THOBF67M   100   195/  7  BYE D4  W5  2.5
+  2 Trespalacios, James    JINCJ02N   265   259/ 46  W3  L5  BYE 2.0
+  3 Gunderson, Amar        LAEGW997   236   239/ 21  L2  BYE W4  2.0
+  4 Tian, Elizabeth        ENDBG44J   229   228/ 27  W5  D1  L3  1.5
+  5 Chivukula, Karthik     TYEJH63L   322   248/  9  L4  W2  L1  1.0

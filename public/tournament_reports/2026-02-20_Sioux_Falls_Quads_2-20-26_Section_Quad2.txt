@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Welch, Gideon          HSSCH75H  1061  1071/ 71  W2  L3  W4  2.0
+  2 Devish, Coale          SDSDZ80U  1056  1068/ 93  L1  W4  W3  2.0
+  3 Geurts, Elijah         HSSGZ31H   944   998/ 23  W4  W1  L2  2.0
+  4 Brooks, Logan          SD6KZ30G  1066   863/  6  L3  L2  L1  0.0

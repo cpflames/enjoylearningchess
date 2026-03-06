@@ -1,0 +1,30 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Li, Anyi               LKDEJ55F  1260  1352/181  W12 W15 W3  D2  3.5
+  2 Nawagamudewage, NaadithMELGJ11W  1553  1558/ 54  W19 W16 W11 D1  3.5
+  3 Roy Chowdhury, Avyaan  THREH82M  1428  1425/ 69  W9  W14 L1  W4  3.0
+  4 Meenakshi Sundaram, PavCDWDJ99Z   875  1141/ 49  W17 W8  W5  L3  3.0
+  5 Nawagamudewage, Inura  MLTJJ11V  1389  1380/ 54  W28 W7  L4  W17 3.0
+  6 Meenakshi Sundaram, AdhHEAHK00E  1218  1207/ 51  L13 W10 W12 W15 3.0
+  7 Luo, Leo               BUSFH45C  1141  1185/ 39  W24 L5  W13 W14 3.0
+  8 Zandanov, Leonid       ENAEK31Q  1291  1283/199  W27 L4  W20 W18 3.0
+  9 Datta, Ishana          KKNEH60X  1031  1124/ 47  L3  W26 W24 W11 3.0
+ 10 Bangard, Dhruv         RBRDK65D   859  1020/139  D22 L6  W23 W21 2.5
+ 11 Sabarish, Ananya       BASFG02Z  1388  1350/220  W18 W13 L2  L9  2.0
+ 12 Zhang, Ryan            SHVCH60U   964  1006/ 59  L1  W19 L6  W25 2.0
+ 13 Raghavendran, Vedanth  DCSCH24C   817   947/ 31  W6  L11 L7  W28 2.0
+ 14 Verma, Reyansh         RBRGJ20M  1224  1201/106  W25 L3  W21 L7  2.0
+ 15 Singh, Vihaan          RIDFG25R   777   846/ 33  W29 L1  W22 L6  2.0
+ 16 Kulkarni, Samik        KKNCH67M  1249  1223/ 89  W26 L2  L18 W20 2.0
+ 17 Bhandari, Aarav        CBRFJ06H  1275  1238/180  L4  W27 W25 L5  2.0
+ 18 Oruganti, Yuvan        HGMIJ55U   988  1017/ 36  L11 W29 W16 L8  2.0
+ 19 Pande, Aryan           DCSC493M  1042  1040/ 71  L2  L12 W27 W26 2.0
+ 20 Bui, Edwin             FRVGK90H  1070  1068/171  D21 W22 L8  L16 1.5
+ 21 Mohammed, Aidh         SKIIG18V   800  1010/  4  D20 W23 L14 L10 1.5
+ 22 Agrawal, Ayaansh       WONDJ99W  1230  1145/ 64  D10 L20 L15 W29 1.5
+ 23 Zhang, Aaron           TMBGC74T  1218  1146/184  HPB L21 L10 W24 1.5
+ 24 Prasanna, Charan       LMAFJ46Z   802   780/ 80  L7  BYE L9  L23 1.0
+ 25 Padmanabhuni, Vihaan   LMAFH69J   858   863/ 33  L14 W28 L17 L12 1.0
+ 26 Deepak, Advait         BRHID74M   873   839/ 63  L16 L9  BYE L19 1.0
+ 27 Jayakrishnan, Chethan KGTMJH06G   966   926/ 36  L8  L17 L19 BYE 1.0
+ 28 Sinha, Ishayu          HEAHJ24F  1022   951/ 72  L5  L25 W29 L13 1.0
+ 29 Konda, Nihaan Madhu    XXXGG18T   600   458/  4  L15 L18 L28 L22 0.0

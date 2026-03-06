@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Druzgalski, Ava        VTXFZ29A   787   921/  4  W5  W10 W2  W4  4.0
+  2 Arunachalam, Tarunika  CTXIX02H   725   872/ 12  W6  W3  L1  W7  3.0
+  3 Villion, Naomi         NYXIZ302  1132  1117/  8  W9  L2  W7  W5  3.0
+  4 Bala Gowda, Nibha V    CTXJX04C   958   956/166  W8  D7  W6  L1  2.5
+  5 Miao, Grace            NYXHZ299   931   902/  4  L1  W8  W10 L3  2.0
+  6 Chasmawala, Zaynab     CTXJX07B   980   931/ 37  L2  W9  L4  W8  2.0
+  7 Liu, Sky               CTXEZ54R  1002   947/ 15  WF  D4  L3  L2  1.5
+  8 Biran-ziering, Emm     NYXIZ294   800   585/  4  L4  L5  W9  L6  1.0
+  9 Stortz, Olivia         CTXHZ293   700   237/  3  L3  L6  L8  BYE 1.0
+ 10 Raguram, Arya          CTXLZ28Z   656   630/  2  HPB L1  L5  U   0.5

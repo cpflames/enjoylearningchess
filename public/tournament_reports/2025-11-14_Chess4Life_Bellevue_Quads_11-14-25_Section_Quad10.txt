@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Elshennawy, Yaseen     ABAEG01D   400   792/  3  W4  W2  W3  3.0
+  2 Castro Fuentes, Julian FRWDG01B   300   472/  3  W3  L1  W4  2.0
+  3 Sutaria, Arya          ENSBG01A   100   246/  3  L2  W4  L1  1.0
+  4 Yip, Toby              CBRBG00Z   100   100/  3  L1  L3  L2  0.0
+
+ All Unrated-player Section: Ratings capped at 1000

@@ -1,0 +1,29 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Zhou, Jianchao         MAXNX00A  2668  2670/115  W15 W4  W11 W7  4.0
+  2 Kudrin, Sergey         CTXNX00D  2376  2380/151  W14 D3  W9  W8  3.5
+  3 Kao, Jamison Edric     CTXJZ40H  2229  2250/  4  W25 D2  D13 W11 3.0
+  4 Groff, Jordan          CTXNX00K  2278  2291/126  BYE L1  W17 W13 3.0
+  5 Rohde, Michael A       NYXNZ40G  2339  2342/  4  W23 W17 L7  W12 3.0
+  6 Su, Jasmine            CTXKX10T  2347  2343/119  L19 W24 W10 W16 3.0
+  7 Tanenbaum, Zachary     CTXNX00E  2418  2419/132  W22 D8  W5  L1  2.5
+  8 Dedona, Mark           NYXNX02P  2245  2250/130  W24 D7  W19 L2  2.5
+  9 Emmons, Alex           CTXNX00F  2167  2178/124  W21 D13 L2  W19 2.5
+ 10 Vellanki, Devansh      MAXDX11G  1904  1945/108  D12 W26 L6  W20 2.5
+ 11 Pressman, Leif         NYXNZ40F  2342  2336/  4  W20 W16 L1  L3  2.0
+ 12 Chernin, Oliver        CTXNX07M  2200  2189/112  D10 D19 W14 L5  2.0
+ 13 Otchiyev, Arslan       CTXNZ40E  2405  2388/  4  W27 D9  D3  L4  2.0
+ 14 Griffin, Miles         NJXNZ41D  1975  1985/  8  L2  W18 L12 W21 2.0
+ 15 Mashkov, David AlexandeCTXMX10Q  2123  2116/123  L1  D20 D21 W24 2.0
+ 16 Kilari, Dattasai       MAXJX10L  2164  2161/108  W18 L11 W23 L6  2.0
+ 17 Ingargiola, Max        CTXMX10G  2189  2181/144  W28 L5  L4  W23 2.0
+ 18 Wu, Cody               CTXGX11H  1895  1892/135  L16 L14 BYE W26 2.0
+ 19 Varada, Praharsh       CTXJX01B  2033  2046/123  W6  D12 L8  L9  1.5
+ 20 Wu, Felix              CTXGZ40D  1955  1959/  4  L11 D15 W25 L10 1.5
+ 21 Helman, Evan Donal     WIXNZ40C  1842  1859/  4  L9  W27 D15 L14 1.5
+ 22 Chan, Matt             CTXNX07P  2087  2084/118  L7  D25 W26 U   1.5
+ 23 Torres, William        CTXNZ41B  1961  1948/  8  L5  W28 L16 L17 1.0
+ 24 Jaynes, Dash           NYXNZ40B  1928  1933/  4  L8  L6  W27 L15 1.0
+ 25 Natarajan, Neil        BCCIV24M  1929  1920/ 90  L3  D22 L20 D27 1.0
+ 26 Naba, Karim            CTXNZ46V  1886  1853/ 11  HPB L10 L22 L18 0.5
+ 27 Zhang, Royce           RIXFX10W  2000  1964/111  L13 L21 L24 D25 0.5
+ 28 Chen, Robert           NYXNZ46P  1417  1414/  6  L17 L23 U   U   0.0

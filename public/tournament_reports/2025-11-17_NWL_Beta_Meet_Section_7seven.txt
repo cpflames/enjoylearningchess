@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bemment, Jasper        BHMJF95W   900   997/  3  W8  W3  W2  3.0
+  2 Le, Na                 FERKG02E   273   521/  6  W6  W5  L1  2.0
+  3 Peng, Lilian           LYCJK06K   313   405/  9  W7  L1  D4  1.5
+  4 Durban, River          MRDJF95V   900   485/  3  L5  W6  D3  1.5
+  5 Chirionos, Hector      BLHJF95U   900   579/  2  W4  L2  HPB 1.5
+  6 Henry, Levi            BHMKF95T  1000   388/  3  L2  L4  W7  1.0
+  7 Case, Corey            MRDJF95P   900   266/  3  L3  W8  L6  1.0
+  8 Calder, Noah           BLHJF95N   900   100/  2  L1  L7  HPB 0.5

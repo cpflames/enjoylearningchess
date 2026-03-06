@@ -1,0 +1,38 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Naroju, Kian Meher     ROKCG31K   688   815/ 34  W30 W16 W7  W4  W3  5.0
+  2 Malhotra, Dilraj       MAHDK02Y   688   734/105  W20 W12 W5  L3  W6  4.0
+  3 Yang, Spencer          SOMDF76L   664   704/ 12  W23 W26 W9  W2  L1  4.0
+  4 Longhurst, Clyde       SCDCG69X   340   568/ 14  W33 W31 W10 L1  W12 4.0
+  5 Cuiper, Eric           PEGCG11X   455   626/ 29  W35 W11 L2  W15 W7  4.0
+  6 Xia, Ethan             BCSCF52S   200   659/  5  D14 W22 W31 W10 L2  3.5
+  7 Feng, Michael          CBRDG87H   520   539/ 46  W29 W8  L1  W22 L5  3.0
+  8 Li, Meiying            SOMCF52R   200   544/  5  W15 L7  W16 D13 D18 3.0
+  9 Gonzalez Lagos, ChristiDCCDG46A   422   502/ 38  W32 W13 L3  D11 D14 3.0
+ 10 You, Min               SNIDK41Y   521   512/ 31  W24 W17 L4  L6  W23 3.0
+ 11 Phadnis, Akash         DISCJ27M   686   636/ 69  W28 L5  W20 D9  D13 3.0
+ 12 Balaji, Vaibhav        SSMDH28Z   431   438/149  W27 L2  W23 W24 L4  3.0
+ 13 Chang, Liliana         JINCJ12S   466   497/ 51  W18 L9  W28 D8  D11 3.0
+ 14 Milletari, Valerian    JINBH35X   538   533/ 46  D6  L15 W30 W17 D9  3.0
+ 15 Zhang, Alex            MEDDG90X   473   485/ 18  L8  W14 W29 L5  W24 3.0
+ 16 Li, Jeremy             SOMDJ87A   428   427/ 59  W34 L1  L8  W33 W25 3.0
+ 17 Xiong, Aria            DISCH14J   297   323/ 83  W25 L10 W34 L14 W27 3.0
+ 18 Deng, Zhiyuan          JINCF52Q   200   446/  5  L13 D30 W35 W31 D8  3.0
+ 19 Wu, Pingguan           DCCDG35E   420   459/ 27  HPB HPB U   W29 W22 3.0
+ 20 Shin, Joshua           CRKDJ63R   277   293/138  L2  W35 L11 D21 W36 2.5
+ 21 Poudel, Prasan         BRWDF52N   300   220/  5  L26 L28 W37 D20 W30 2.5
+ 22 Karanam, Dhruthi       LCSDH10X   286   288/ 35  W37 L6  W25 L7  L19 2.0
+ 23 Wang, Kyle             NCSCH92T   131   175/ 18  L3  W32 L12 W34 L10 2.0
+ 24 Zhang, James           JINDG61A   100   183/ 10  L10 W33 W26 L12 L15 2.0
+ 25 Nguyen, Winter         JINCF52M   200   197/  5  L17 W27 L22 W28 L16 2.0
+ 26 Sterba, Pavel          NOWCK34L   366   298/108  W21 L3  L24 L27 W34 2.0
+ 27 Liu, Cayden            JINCG01S   100   144/  9  L12 L25 W32 W26 L17 2.0
+ 28 Ghosh, Oishani         CBRCJ56E   187   199/ 92  L11 W21 L13 L25 W33 2.0
+ 29 Prashant, Gautham      JINDJ02V   100   180/  9  L7  W37 L15 L19 W35 2.0
+ 30 Tatavarthi, Srikasyap  SSMDH28U   209   209/ 15  L1  D18 L14 W36 L21 1.5
+ 31 Sathyamurthy, Shreyus  BLWDJ60Z   651   530/220  W36 L4  L6  L18 D32 1.5
+ 32 Chan, Emmanuelle       JINDF52L   300   133/  5  L9  L23 L27 W35 D31 1.5
+ 33 Zhang, Orien           JINDF52K   300   100/  5  L4  L24 W36 L16 L28 1.0
+ 34 Luo, Selina            JINCF52J   200   100/  5  L16 W36 L17 L23 L26 1.0
+ 35 Zhao, Lucas[yirui]     SOMCF52G   200   100/  5  L5  L20 L18 L32 L29 0.0
+ 36 Lam, Theo              JINCJ02H   131   100/ 33  L31 L34 L33 L30 L20 0.0
+ 37 Xi, William            SOMCF52F   200   100/  3  L22 L29 L21 LF  U   0.0

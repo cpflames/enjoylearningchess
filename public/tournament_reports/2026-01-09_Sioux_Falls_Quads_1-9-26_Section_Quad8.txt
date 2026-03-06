@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Laible, Harrison       SFMEZ30F   400   785/  3  W4  W2  W3  3.0
+  2 Selken, Holden         SDACZ30E   200   452/  3  W3  L1  W4  2.0
+  3 Quinn, Jason           LBADZ835   141   157/ 14  L2  W4  L1  1.0
+  4 Tomjack, Leonidas      SDRAZ30D   100   100/  3  L1  L3  L2  0.0

@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zhang, Alex Sun        SKKEJ88B   550   709/ 52  W13 W5  W4  W2  W3  5.0
+  2 Bray, Grant            HDPCG38N   506   584/ 22  W8  W7  W3  L1  W4  4.0
+  3 Whitney, Kaiden        HSCDH07G   303   359/ 10  W11 W10 L2  W9  L1  3.0
+  4 Bowman, Gibson         HSCCH07H   461   493/ 10  W14 W6  L1  W5  L2  3.0
+  5 Leal, Evelyn           NMFEF66C   400   462/  5  W6  L1  W12 L4  W9  3.0
+  6 Knott, Llewyn          PPAEF74V   492   432/ 10  L5  L4  W14 W7  W12 3.0
+  7 Bell, Emma             HSCEF66B   400   316/  5  W9  L2  W13 L6  D8  2.5
+  8 Mcany, Jaxson          SJVEF66A   400   264/  5  L2  L9  W11 W10 D7  2.5
+  9 Burnside, Cooper       ARLEF87R   153   181/ 15  L7  W8  W10 L3  L5  2.0
+ 10 Manser, Remy           PPACF65Z   200   128/  5  W12 L3  L9  L8  W14 2.0
+ 11 Bray, Kestra           HDPAF65Y   100   111/  5  L3  L12 L8  W14 W13 2.0
+ 12 Knott, Tobias          HSCBF65X   100   100/  5  L10 W11 L5  D13 L6  1.5
+ 13 Manser, Risa           PPAEF65W   400   100/  5  L1  W14 L7  D12 L11 1.5
+ 14 Blue, Nova             MDOCF65V   200   100/  5  L4  L13 L6  L11 L10 0.0

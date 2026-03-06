@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Adu-poku, Kwabena      CTXNZ73P  2022  2052/ 23  W8  W4  W5  D2  3.5
+  2 Maddali, Krishna       NYXKZ40A  1988  1995/  8  D3  W14 W7  D1  3.0
+  3 Holtzman, Beck Urb     DCXNZ33Z  1731  1784/  4  D2  W8  D6  W10 3.0
+  4 Varada, Praharsh       CTXJX01B  2046  2048/127  W12 L1  W13 W9  3.0
+  5 Maralappanavar, Omkar  CTXNX02W  2007  2006/136  W15 W9  L1  D6  2.5
+  6 Zhou, Zihan Brendo*    NYXEZ33Y  1901  1907/  3  HPB W10 D3  D5  2.5
+  7 Goodman, Hayes N       RIXNX02S  1911  1908/114  HPB W11 L2  WF  2.5
+  8 Rajesh, Rishan         NJXLX05X  1815  1820/108  L1  L3  W11 W12 2.0
+  9 Salifoglou, John-alexanMAXNZ33X  1929  1918/  4  W13 L5  W12 L4  2.0
+ 10 Herscovici, David      CTXNZ33W  1300  1641/  4  D11 L6  W14 L3  1.5
+ 11 Hartman, Nadav Munro   CTXJX01E  1774  1752/140  D10 L7  L8  W13 1.5
+ 12 Tkaczewski Jr, Kr      CTXGZ69F  1854  1829/ 24  L4  W15 L9  L8  1.0
+ 13 Van Dooijeweert, SebastNYXCZ33V  1483  1475/  3  L9  BYE L4  L11 1.0
+ 14 Nayak, Daksh           MAXIZ33T  1533  1559/  3  W16 L2  L10 U   1.0
+ 15 Festa, Luca            CTXHX00T  1759  1738/117  L5  L12 BYE LF  1.0
+ 16 Zhou, Zihan Brendo     NYXEZ33S  1901  1872/  1  L14 U   U   U   0.0

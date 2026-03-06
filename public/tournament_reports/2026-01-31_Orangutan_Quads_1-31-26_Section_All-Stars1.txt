@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Shing, Lucas           HZFEJ74H   885   846/166  W3  L3  W4  W4  L2  W2  4.0
+  2 Swigon, Bruno          WEDCH92N   683   685/ 68  W4  L4  W3  L3  W1  L1  3.0
+  3 Allyn, William         THOEJ48A   560   639/ 92  L1  W1  L2  W2  L4  W4  3.0
+  4 Avesar, Isaac          LRADF91H   591   593/ 36  L2  W2  L1  L1  W3  L3  2.0

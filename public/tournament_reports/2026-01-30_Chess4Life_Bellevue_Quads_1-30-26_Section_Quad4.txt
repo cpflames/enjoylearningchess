@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Gu, Leo                SCDDK31Y   763   857/ 91  W3  D2  W4  2.5
+  2 Yadav, Divyansh        TBKDG75M   803   799/ 69  W4  D1  L3  1.5
+  3 Talukdar, Yuvaan       RBRCH76K   799   768/154  L1  L4  W2  1.0
+  4 Zhang, Eli             BASDH69C   750   734/149  L2  W3  L1  1.0

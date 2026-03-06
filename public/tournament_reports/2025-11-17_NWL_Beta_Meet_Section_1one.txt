@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Scollon, Owen          SHMK734D  1757  1774/604  W5  W6  W4  3.0
+  2 Stroud, Jeb            SHMKK22V  1662  1663/242  D3  W8  W7  2.5
+  3 Palmer, Evan           BHMMI90S  1215  1322/235  D2  D5  W6  2.0
+  4 Mcgee, Connor          MRDKH30Z  1575  1578/ 29  W10 W7  L1  2.0
+  5 Frost, Ignatius        LYCMJ64P  1501  1494/142  L1  D3  W9  1.5
+  6 Sturrock, Daniel       MRDKH40L  1290  1301/ 23  W8  L1  L3  1.0
+  7 Bosch, Declan          LYCLE38K  1348  1351/ 89  W9  L4  L2  1.0
+  8 Nipges, Jaxon          FERM382B  1508  1470/174  L6  L2  W10 1.0
+  9 Kozaczuk, James        BHMK108A  1303  1286/265  L7  W10 L5  1.0
+ 10 Peng, Ian              LYCMK06L  1237  1173/  9  L4  L9  L8  0.0

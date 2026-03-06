@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chavez, Jessie         RRGGK53S  1187  1258/ 89  W4  W7  D2  W3  W6  4.5
+  2 Phillips, Henry        JMLGH43N  1183  1203/ 55  W9  W8  D1  W5  L3  3.5
+  3 Lum, Boaz              LIBEJ62C  1262  1234/ 97  L10 W6  W11 L1  W2  3.0
+  4 Singh, Yuvraj          LIBEH56L   902   984/ 48  L1  W9  W8  L6  W11 3.0
+  5 Mosqueda, Luke Derek   LIBFH90L  1130  1107/ 74  L7  W12 W10 L2  W8  3.0
+  6 Gallegos, Angel J      RFREH42C   855   945/ 50  D11 L3  W7  W4  L1  2.5
+  7 Rinehart, Christian    CRPFH56J   869   880/ 44  W5  L1  L6  L12 W9  2.0
+  8 Carranza, Aly Omar     RCEFJ78V  1008   986/ 70  W12 L2  L4  W11 L5  2.0
+  9 Hemperly, Harper       KCCGI09E   878   878/127  L2  L4  W12 W10 L7  2.0
+ 10 Farias Martinez, Enoel RFRFJ00Y   948   938/ 60  W3  L11 L5  L9  W12 2.0
+ 11 Hong, Samira           MCGFB77R  1047   989/132  D6  W10 L3  L8  L4  1.5
+ 12 Castaneda, Alonso      OCHGK69H   842   804/111  L8  L5  L9  W7  L10 1.0

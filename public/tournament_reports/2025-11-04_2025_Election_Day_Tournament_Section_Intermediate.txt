@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Ikeda, Landon          CTXGZ43Q   600   766/  4  W6  L4  W2  W3  3.0
+  2 Giadone, Giovanni      CTXEZ44Q   528   599/  9  D3  W5  L1  W6  2.5
+  3 Gomes, Nathan          CTXFZ70P   766   742/ 25  D2  W6  W4  L1  2.5
+  4 O'sullivan, Liam       CTXFZ578   510   509/ 18  WF  W1  L3  L5  2.0
+  5 Barua, Aveer           CTXEZ70Y   439   433/ 19  W7  L2  L6  W4  2.0
+  6 Merry, Hudson          CTXDZ705   428   426/ 22  L1  L3  W5  L2  1.0
+  7 Talmadge, Krishna      CTXEZ43P   400   100/  1  L5  U   U   U   0.0

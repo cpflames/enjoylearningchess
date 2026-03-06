@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Bhambri, Vansh         TYEGJ57J  1092  1223/ 41  W10 D5  W7  W2  3.5
+  2 Zhang, Kevin           OMSH809Y  1453  1445/219  W6  W3  W4  L1  3.0
+  3 Oruganti, Yuvan        OMSIJ55U  1173  1219/ 50  W8  L2  W5  W6  3.0
+  4 Blodgett, Brayden      TLMIG09E  1313  1314/ 36  W12 W7  L2  W9  3.0
+  5 Kim, Dylan             TYEHK38L  1283  1258/215  W11 D1  L3  W8  2.5
+  6 Telikicherla, Aadya    AUDDG19N   955   986/ 49  L2  W9  W12 L3  2.0
+  7 Patil, Adeesh          STVCF61L  1127  1069/  9  W13 L4  L1  W11 2.0
+  8 Richards, Grayson      WDMCF65J   733   781/  9  L3  W14 W13 L5  2.0
+  9 Berjis, Adrina         MEDG230U   971   953/190  W14 L6  W11 L4  2.0
+ 10 Xie, Nolan             CGRDH82P   609   646/ 61  L1  L11 W14 W12 2.0
+ 11 Goyal, Avyukt          CNHCJ65X   771   763/175  L5  W10 L9  L7  1.0
+ 12 Chiang, Austin         CNHCH59V   871   817/ 53  L4  W13 L6  L10 1.0
+ 13 Zhang, Dylan           CGRAG32C   653   616/ 39  L7  L12 L8  W14 1.0
+ 14 Ross, Zav              WOBFF58G   500   221/  4  L9  L8  L10 L13 0.0

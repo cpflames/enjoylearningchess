@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Walton, Cara           CWAEK52K   721   841/ 64  W8  W2  W5  W4  L3  4.0
+  2 Keogh, Keita           WOEDJ51X   648   750/ 64  W3  L1  W10 W11 W5  4.0
+  3 Ponmuhilan, Dharsaan   TKEEW80N   813   811/ 15  L2  W7  D4  W8  W1  3.5
+  4 Johnson, Elke          HSCDG73L   694   751/ 38  W12 W6  D3  L1  W7  3.5
+  5 Johnson, Lars          HSCEG74D   794   785/ 38  W11 W10 L1  W6  L2  3.0
+  6 Zhang, Eric [seven OaksSEOEG53R  1166  1058/ 17  W7  L4  W8  L5  D9  2.5
+  7 Keetch, Willow         LDHDG53U   126   263/  9  L6  L3  W9  W10 L4  2.0
+  8 Cuiper, Eric           PEGCG11X   200   465/  5  L1  W12 L6  L3  W11 2.0
+  9 Judd, Charlie          SGHCG11W   200   165/  5  L10 D11 L7  W12 D6  2.0
+ 10 Carlson, Vera          ESQCG11V   200   168/  5  W9  L5  L2  L7  D12 1.5
+ 11 Keetch, Lily           LDHDG53S   100   147/ 10  L5  D9  W12 L2  L8  1.5
+ 12 Keetch, Aurora         LDHDG53X   142   100/  9  L4  L8  L11 L9  D10 0.5

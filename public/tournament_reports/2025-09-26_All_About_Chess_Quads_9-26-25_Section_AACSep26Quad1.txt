@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ye, Alex               PLKGH51L  1398  1492/325  W3  W4  W2  3.0
+  2 Zhang, Patrick         CDIDK01J  1415  1433/372  W4  W3  L1  2.0
+  3 Thanikonda, Kruti      CMCFK84W  1384  1368/198  L1  L2  W4  1.0
+  4 Ge, Jeremy             SOMDJ88K  1382  1325/353  L2  L1  L3  0.0

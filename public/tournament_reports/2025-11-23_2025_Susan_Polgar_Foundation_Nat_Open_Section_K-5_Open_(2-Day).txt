@@ -1,0 +1,35 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kulkarni, Samik        KKNCH67M  1287  1393/115  W26 W21 W2  W8  W5  5.0
+  2 Lai, Ryan              SHSCH70N  1356  1367/148  W11 W4  L1  W14 W16 4.0
+  3 Yu, Eric               SOMDK25N  1185  1209/165  W30 W12 L8  W11 W10 4.0
+  4 Yeh, George            CSIDH64S  1082  1206/ 55  W24 L2  W21 W20 W9  4.0
+  5 Ren, Easton            CMCCH68Z  1349  1359/134  W29 W32 W22 W10 L1  4.0
+  6 Wu, Jayden             UCDE495Q  1156  1158/178  W31 L9  D17 W15 W8  3.5
+  7 Sarangi, Samarth       HMNFH69F  1249  1269/203  HPB W28 W13 L9  W17 3.5
+  8 Petrishak, Nathaniel MaOTEFW75M   900  1018/  5  W19 W20 W3  L1  L6  3.0
+  9 Weng, Bright           BENF850P  1435  1393/114  W14 W6  L10 W7  L4  3.0
+ 10 Liu, Bihe              KKNDB78J  1180  1210/175  W17 W16 W9  L5  L3  3.0
+ 11 Gu, Vincent            OPWCK00L   992  1067/134  L2  W24 W19 L3  W22 3.0
+ 12 Kayali, Kana           EBSEJ29N   960  1052/ 47  W13 L3  L20 W21 W23 3.0
+ 13 Chen, Felix Y          DISFA67A  1269  1226/145  L12 W18 L7  W26 W24 3.0
+ 14 Bharadwaj, Pranav      CSMEF93W   627   738/  5  L9  W27 W33 L2  W25 3.0
+ 15 Yang, Ziheng           RCRDZ71R   625   877/ 10  L32 W25 W23 L6  W20 3.0
+ 16 Zheng, Mingyang        RCRFZ322   500  1122/  5  W34 L10 W29 W22 L2  3.0
+ 17 Charuvil Vinu, Suryen  RSHCJ89R   834   901/107  L10 W34 D6  W28 L7  2.5
+ 18 Guo, Serena            BCSCG63G   739   842/ 15  D28 L13 W30 L23 W29 2.5
+ 19 Banatwala, Kriyaansh   BCXFZ31Z   500   955/  4  L8  W30 L11 HPB W28 2.5
+ 20 Gui, Joyce             OPWEH92C  1267  1184/197  W25 L8  W12 L4  L15 2.0
+ 21 Yang, Zixuan           RCRDZ71T   779   845/  9  W23 L1  L4  L12 WF  2.0
+ 22 Hu, Yi-en Pi           OVLFK35P  1158  1101/125  W27 W33 L5  L16 L11 2.0
+ 23 Oh, Seojoon            SSMFJ70T  1080  1005/134  L21 W26 L15 W18 L12 2.0
+ 24 Mathew, Reuben         MRPBG33B   780   795/ 41  L4  L11 BYE W29 L13 2.0
+ 25 Kakarlapudi, Jairam IshMEDD585M   923   870/ 75  L20 L15 W27 W33 L14 2.0
+ 26 Li, Rebecca            SCDEJ62B   859   851/163  L1  L23 W31 L13 WF  2.0
+ 27 Gu, Leo                SCDDK31Y   820   785/ 84  L22 L14 L25 W34 W30 2.0
+ 28 Wang, Hengsheen        BASD704V  1073   990/171  D18 L7  W34 L17 L19 1.5
+ 29 Madsen, Levi           BLWEH80Z   913   852/ 42  L5  W31 L16 L24 L18 1.0
+ 30 Sankapal, Pranav       SNEEJ61E   868   809/ 49  L3  L19 L18 W31 L27 1.0
+ 31 Joseph, George KochumurCDIEH11C   812   726/103  L6  L29 L26 L30 BYE 1.0
+ 32 Li, Bryan              MEDCJ75H  1053  1061/134  W15 L5  U   U   U   1.0
+ 33 Karthik, Aditya        KKNFH36V   366   354/ 18  BYE L22 L14 L25 LF  1.0
+ 34 Karthik, Arjun         KKNDH36L   396   384/ 19  L16 L17 L28 L27 LF  0.0

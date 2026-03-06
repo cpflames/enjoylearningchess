@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tyka, Corvin           BWSCG23H   200   527/  2  U   D3  W2  1.5
+  2 Li, Ryder              MEDCJ66R   304   331/ 91  W3  U   L1  1.0
+  3 Mathews, Abishai       BCSCF78S   422   352/  5  L2  D1  U   0.5

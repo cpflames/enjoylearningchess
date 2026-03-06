@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lebedinsky, Alexander  ICKJ958F  1457  1474/332  W4  D2  W3  2.5
+  2 Swain, Samarth         MMEDJ58S  1301  1312/437  W3  D1  L4  1.5
+  3 Bhasin, Palash         ISMHH95H  1338  1319/225  L2  W4  L1  1.0
+  4 Ye, Alex               PLKGH51L  1306  1295/391  L1  L3  W2  1.0

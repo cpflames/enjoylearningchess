@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Su, Jasmine            CTXKX10T  2331  2332/127  W4  W2  W3  W5  4.0
+  2 Gao, Lilianna          CTXIZ68Q  1951  1951/ 11  W6  L1  W5  W4  3.0
+  3 Sajeevan, Jithya       CTXLZ68P  1681  1678/ 12  W5  D4  L1  W6  2.5
+  4 Gao, Isabella          CTXEX07S  1519  1532/116  L1  D3  W6  L2  1.5
+  5 Plotkin, Nadia Eleanor NJXEZ38T  1103  1143/  8  L3  W6  L2  L1  1.0
+  6 Wong, Madison          NYXHX08C  1333  1284/112  L2  L5  L4  L3  0.0

@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Larrabee, Declan       HOSIF73R   800   894/  5  W12 W9  W3  W2  L4  4.0
+  2 Marak, Israel          FMPGH53U   527   734/ 25  W20 W8  W5  L1  W7  4.0
+  3 Henry, Joplin          ITPHG94D   752   795/ 10  W23 W4  L1  W11 W8  4.0
+  4 Marak, Gideon          FMPFG84A   439   676/ 20  W14 L3  W21 W9  W1  4.0
+  5 Foytack, Levi          SROIF73Q   800   815/  5  W15 W10 L2  D6  W13 3.5
+  6 Leger, Ryan            HOMGF73N   600   693/  5  L7  W19 W15 D5  W11 3.5
+  7 Fu, Michael            LBCHF73M   700   635/  5  W6  W22 L11 W12 L2  3.0
+  8 Daly, William          LBCHF73L   700   709/  5  W18 L2  W22 W10 L3  3.0
+  9 Kazakov, Phillip       FMPGG84D   463   551/ 20  W19 L1  W16 L4  W15 3.0
+ 10 Caceres, David         SJBHG94B   738   712/ 10  W16 L5  W13 L8  W14 3.0
+ 11 Kazakov, Elijah        HOMGG83U   284   426/ 18  BYE W21 W7  L3  L6  3.0
+ 12 Mcclure, Lucas         LBCHG93N   424   479/  9  L1  BYE W14 L7  W17 3.0
+ 13 Miranda, Aidenlee      SROGF73K   600   554/  5  D21 W18 L10 W22 L5  2.5
+ 14 Murphy, Rowan          LBCGF73J   600   465/  5  L4  W23 L12 W16 L10 2.0
+ 15 Pemberton, Declan      LBCHF73H   700   440/  5  L5  W20 L6  W23 L9  2.0
+ 16 Stevens, Blake         SROIF73G   800   416/  5  L10 W17 L9  L14 W21 2.0
+ 17 Atwater, Clayton WarrenLBCIF73F   800   338/  5  L22 L16 W20 W18 L12 2.0
+ 18 Parkin, Emerson        ITPHG93W   611   478/  9  L8  L13 BYE L17 W23 2.0
+ 19 Caldwell, Winter RodrigSROIF73E   800   290/  4  L9  L6  L23 BYE W22 2.0
+ 20 Minich, Colton         LBCGF73D   600   148/  4  L2  L15 L17 D21 BYE 1.5
+ 21 Lannom, Thomas         LBCHG93S   456   352/ 10  D13 L11 L4  D20 L16 1.0
+ 22 Freese, Sadie          ITPHG93T   449   366/ 10  W17 L7  L8  L13 L19 1.0
+ 23 Atwater, Curtis Oliver LBCGF73C   600   248/  5  L3  L14 W19 L15 L18 1.0

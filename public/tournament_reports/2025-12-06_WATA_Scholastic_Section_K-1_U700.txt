@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Dai, Kevin             CMCBH23V   311   564/ 40  W11 W3  W7  W4  L2  4.0
+  2 Sudhakar, Ardhikshwar  SUZBF81C   100   666/  5  W8  L4  W5  W7  W1  4.0
+  3 Veligeti, Ayaansh      TBKBF88T   662   628/ 10  W10 L1  W11 W6  W4  4.0
+  4 Anthony-mazzola, LeonarUCDBH05Q   406   444/  9  W13 W2  W9  L1  L3  3.0
+  5 Gokulakrishnan, Sritej XXXBG21G   290   358/  9  W6  L7  L2  W9  W10 3.0
+  6 Raiymbek, Zhangir      EPIBF81A   100   329/  5  L5  W12 W10 L3  W9  3.0
+  7 Chin, Kheiron          DCCBJ19P   628   554/146  W12 W5  L1  L2  D8  2.5
+  8 Rajkumar, Aarav        KKNAG23C   100   173/ 13  L2  L9  W12 W13 D7  2.5
+  9 Prasad, Rhea           MOBBJ92U   100   104/ 65  BYE W8  L4  L5  L6  2.0
+ 10 Reddy, Atharv          GRRBG25J   100   103/ 24  L3  BYE L6  W11 L5  2.0
+ 11 Balaji, Medhasvi       AUDBF80Z   100   100/  4  L1  W13 L3  L10 BYE 2.0
+ 12 Chan, Hayden           OPWAG15J   100   100/  8  L7  L6  L8  BYE W13 2.0
+ 13 Krishna, Venya         REEAG19J   100   100/ 21  L4  L11 BYE L8  L12 1.0

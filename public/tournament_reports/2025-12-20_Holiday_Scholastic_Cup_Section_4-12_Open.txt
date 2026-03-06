@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Gattamneni, Viraj      LMSF934M  1047  1226/ 82  W5  W11 L4  W12 W10 4.0
+  2 Deng, Arthur           OPWEC90Y  1230  1309/200  W14 W13 D9  D4  W5  4.0
+  3 Blodgett, Brayden      TLMIG09E  1378  1385/ 25  W18 L9  W14 W6  W4  4.0
+  4 Ma, Lewis              SOME587M  1546  1519/264  W8  W12 W1  D2  L3  3.5
+  5 Deshpande, Keshav      CHOI420G  1354  1328/147  L1  W10 W8  W9  L2  3.0
+  6 Rajan, Samvid          REEEK05K   894  1045/ 52  L12 W7  W15 L3  W13 3.0
+  7 Tallapaneni, Hanish    CDZIH06J  1203  1168/ 33  L13 L6  W18 W11 W9  3.0
+  8 Kannapiran, Arnav      LMSH983P  1056  1091/117  L4  W18 L5  W17 W12 3.0
+  9 Kilgore, Colton        WCAMF93U  1076  1141/ 10  W16 W3  D2  L5  L7  2.5
+ 10 Barlin, Bryce          XXXHF77C   700  1107/  5  W15 L5  D11 W14 L1  2.5
+ 11 Huang, Aaron           DGHFB25P   872   944/ 34  W17 L1  D10 L7  W16 2.5
+ 12 Datta, Ishana          KKNEH60X  1112  1103/ 76  W6  L4  W13 L1  L8  2.0
+ 13 Li, Ryan Lingjun       BUSDJ88U   948   978/ 55  W7  L2  L12 W15 L6  2.0
+ 14 Mudragada, Sanjay KaushGTMHG96Y  1046  1037/ 72  L2  W16 L3  L10 W17 2.0
+ 15 Desai, Taj             LCOJK10Y  1139  1043/ 31  L10 D17 L6  L13 W18 1.5
+ 16 Swagath, Pranav        LMSFK23N   921   881/ 65  L9  L14 D17 W18 L11 1.5
+ 17 Kalya, Svanik          TBKGG24R   931   872/ 14  L11 D15 D16 L8  L14 1.0
+ 18 Bansal, Neev           KKNEH05Z   823   772/ 41  L3  L8  L7  L16 L15 0.0

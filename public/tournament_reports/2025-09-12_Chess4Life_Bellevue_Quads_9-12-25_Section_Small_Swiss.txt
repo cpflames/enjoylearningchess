@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chai, Simone           MEDDG19T   100   367/  5  W4  W6  W2  3.0
+  2 Dubedy, Advika         AUDFG19E   500   328/  3  W6  W5  L1  2.0
+  3 Ismail, Kai            TLIBG21Y   100   300/  4  LF  W4  W5  2.0
+  4 Beasley, Jacques       LLFDH65J   100   107/ 14  L1  L3  W6  1.0
+  5 Mattoo, Eshaan         HWEBG68F   100   100/ 21  WF  L2  L3  1.0
+  6 Yi, Leo                BCACG19D   200   100/  3  L2  L1  L4  0.0

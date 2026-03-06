@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sarychev, Aleksei      ISSLJ98N   980  1045/334  W2  L4  W3  2.0
+  2 Mohammed, Farhan       CRKFH14M  1092  1107/152  L1  W3  W4  2.0
+  3 Balaji, Pranav         INGIJ96J  1047  1025/155  W4  L2  L1  1.0
+  4 Bhasin, Palash         ISMHH95H  1086  1054/204  L3  W1  L2  1.0

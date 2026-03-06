@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Yondon, Odbayar        INGHK97T  1876  1877/348  W2  U   1.0
+  2 Jang, Jinwon           VIEI561P  1246  1248/208  L1  W15 1.0
+  3 Lai, Austin            EVGEK94F  1119  1133/117  W11 U   1.0
+  4 Zou, Jinhan            LMSFH14T  1181  1218/195  W10 U   1.0
+  5 Yeh, George            CSIDH64S  1206  1248/ 56  W13 U   1.0
+  6 Raghavan, Mridula      SKIGG32B   880   897/ 55  W12 U   1.0
+  7 Mathew, Reuben         MRIBG33B   790   802/ 43  W14 U   1.0
+  8 Raghavan, Anirudh      FRWFG42Z   637   645/ 57  D9  U   0.5
+  9 Sharma, Sidarth        EVGDJ75G   720   712/130  D8  U   0.5
+ 10 Khudyev, Elina Umi     OPWDJ97Q  1322  1289/120  L4  U   0.0
+ 11 Qureshi, Haroon        RBRFJ95Y   935   919/ 55  L3  U   0.0
+ 12 Sang, Andy             BASDK65W   712   693/125  L6  U   0.0
+ 13 Zhang, Kevin           OMSH809Y  1424  1389/208  L5  U   0.0
+ 14 Sharma, Samarth        EVGDJ75K   518   505/112  L7  U   0.0
+ 15 Mccarthy, Eugene       CDLFG73B   793   788/ 38  U   L2  0.0

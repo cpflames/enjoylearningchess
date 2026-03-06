@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Jiang, Nathan          SCDFG71Q  1019  1088/124  D5  W6  W2  W3  3.5
+  2 Zhang, Eli             BASDH69C   735   814/140  BYE W5  L1  D6  2.5
+  3 Xiong, Maxwell         CSIEK92H  1076  1027/102  L6  BYE W4  L1  2.0
+  4 Tao, Hongxi            TLICH98A   834   855/ 38  HPB HPB L3  W5  2.0
+  5 Swindell, Adam         MRLGG32Q   922   897/ 75  D1  L2  W6  L4  1.5
+  6 Mcintyre, Isaac        WPPG466S   975   944/282  W3  L1  L5  D2  1.5

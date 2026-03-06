@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Wortman, Alexander     SOMDJ31M   704   804/ 29  W8  W3  W5  W2  4.0
+  2 You, Min               SNIDK41Y   186   521/ 26  W4  W6  W7  L1  3.0
+  3 Sankara, Prithvi       EVJJH96Q   604   625/ 18  W12 L1  W9  W6  3.0
+  4 Reddy, Aariv           GRRDK34T   547   536/143  L2  W10 D11 W5  2.5
+  5 You, Jin               SNIGH58R   587   573/ 36  W9  W7  L1  L4  2.0
+  6 Ram, Yaalini           SNEDH87H   645   588/161  W13 L2  W8  L3  2.0
+  7 Nelson, Harvey         CMCGG67L   667   599/ 90  W10 L5  L2  W11 2.0
+  8 Reeves, Othel          SESFF78K   326   343/ 15  L1  W12 L6  W13 2.0
+  9 Chang, Florence        BLWEG67K   190   223/ 20  L5  W13 L3  D10 1.5
+ 10 Agashteh, Arshaam      SUNDF73B   300   262/  4  L7  L4  W12 D9  1.5
+ 11 Shin, Taejoo           SNIFK32W   161   208/  8  U   BYE D4  L7  1.5
+ 12 Shadman, Daniel        SUNDF73A   300   100/  3  L3  L8  L10 BYE 1.0
+ 13 Rajan, Yash            CRIEH58J   271   193/ 27  L6  L9  BYE L8  1.0

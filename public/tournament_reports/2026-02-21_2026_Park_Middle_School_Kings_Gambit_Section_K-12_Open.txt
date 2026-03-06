@@ -1,0 +1,49 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Gorecke, Cj            HHSKG87W  1293  1383/ 50  W41 W8  W24 W7  W2  5.0
+  2 Dillingham, Daniel     KCCIB73M  1252  1281/317  W16 W9  W13 W3  L1  4.0
+  3 Geelhood, Alec         TCPKI90A  1140  1212/166  W14 W38 W4  L2  W16 4.0
+  4 Phillips, Henry        JMLGH43N  1309  1311/ 70  W25 W20 L3  W31 W6  4.0
+  5 Mosqueda, Luke Derek   LIBFH90L  1306  1304/ 87  W28 L6  W26 W11 W13 4.0
+  6 Larimer, Thomas        LLMHJ79Q  1015  1192/ 64  W47 W5  W10 W12 L4  4.0
+  7 Lowe, Titus            ETVLK76T  1147  1178/ 50  W48 W18 W11 L1  W15 4.0
+  8 Johnson, Eli           KCCJJ24B   983  1098/ 68  W35 L1  W33 W29 W10 4.0
+  9 Schutz, Henry          CHJHJ80M   954  1015/107  W43 L2  D14 W27 W19 3.5
+ 10 Ybarra, Caleb          SODKK96F  1204  1177/106  W30 W15 L6  W25 L8  3.0
+ 11 Gallegos, Angel J      RFREH42C   956  1035/ 65  W32 W17 L7  L5  W30 3.0
+ 12 Chavez, Jessie         RRGGK53S  1169  1144/104  W31 D26 W19 L6  D14 3.0
+ 13 Hong, Sidney           JMLI478H  1051  1065/186  W27 W39 L2  W30 L5  3.0
+ 14 Hemperly, Harper       KCCGI09E   861   960/140  L3  W36 D9  W38 D12 3.0
+ 15 Chin, Ian              LLMGF95D   951   993/145  W44 L10 W32 W17 L7  3.0
+ 16 Farias Martinez, Enoel RFRFJ00Y   886   964/ 75  L2  W43 W42 W24 L3  3.0
+ 17 Lum, Boaz              LIBEJ62C  1285  1228/112  W22 L11 W41 L15 W26 3.0
+ 18 Carranza, Aly Omar     RCEFJ78V   930   926/ 85  W23 L7  L29 W44 W36 3.0
+ 19 Bricker, Walter        CMLGF69H   816   925/ 10  W34 W42 L12 W40 L9  3.0
+ 20 Menjivar, Bryan        STPHJ80L  1013  1007/104  W45 L4  L30 W37 W29 3.0
+ 21 Whalen, Jack           ENTIK96P  1072  1025/ 50  L33 L29 W35 W32 W31 3.0
+ 22 Orme, Sam              JMLGH43F   888   908/ 70  L17 L32 W43 W42 W34 3.0
+ 23 Duarte, Carlos         OHAJK52U   479   719/110  L18 W48 L25 W47 W40 3.0
+ 24 Dodson, Tyson          KCCJ234D  1117  1084/125  W29 W33 L1  L16 D25 2.5
+ 25 Hertelendy, Chris      LIBK832Z   917   939/ 86  L4  W45 W23 L10 D24 2.5
+ 26 Hong, Samira           MCGFB77R   944   959/147  W46 D12 L5  W39 L17 2.5
+ 27 Larimer, Henry         WBEBH14B   810   866/ 58  L13 D40 W28 L9  W38 2.5
+ 28 Coates, Ethan          SODK820M   911   892/ 85  L5  D47 L27 W48 W39 2.5
+ 29 Lopez Villanueva, NatalRFRFH43A   839   877/ 60  L24 W21 W18 L8  L20 2.0
+ 30 Turner, Micah          RFPEJ22X   874   880/ 75  L10 W44 W20 L13 L11 2.0
+ 31 Pantoja, Cain          OCHI228C   872   882/100  L12 W46 W34 L4  L21 2.0
+ 32 Andrade, Alonzo        PASJF98L   682   774/ 20  L11 W22 L15 L21 W41 2.0
+ 33 Worthington, Aaron     LIBGJ53N   837   849/ 89  W21 L24 L8  L34 W43 2.0
+ 34 Nguyen, Tyler          SVHJ715J  1054   980/101  L19 W37 L31 W33 L22 2.0
+ 35 Munoz, Miguel          SVHKJ81H   695   719/ 59  L8  L41 L21 W46 W42 2.0
+ 36 Yingling, Joshua       SVHLF42X  1100   784/  5  L38 L14 W45 W41 L18 2.0
+ 37 Sanborn, Ryder         JMLIJ81E   827   790/ 99  L42 L34 W46 L20 W44 2.0
+ 38 Menjivar, Valery       RFRFJ78D   928   875/107  W36 L3  D39 L14 L27 1.5
+ 39 Morris, Tyson          GVHKK68Q   735   748/ 84  W40 L13 D38 L26 L28 1.5
+ 40 Nguyen, Caitlyn        RRGH663J  1003   899/ 98  L39 D27 W47 L19 L23 1.5
+ 41 Canfield, Jedidiah     KCCJG12L   899   837/ 25  L1  W35 L17 L36 L32 1.0
+ 42 Joshi, Vidhaan         LECEF54W  1072   860/ 10  W37 L19 L16 L22 L35 1.0
+ 43 Gorecke, Neal          HHSLG71C   591   603/ 24  L9  L16 L22 W45 L33 1.0
+ 44 Evans, Daymein         PASK267E   553   563/ 68  L15 L30 W48 L18 L37 1.0
+ 45 Tha, Victor            ESGDH26L   803   728/ 60  L20 L25 L36 L43 W47 1.0
+ 46 Hernandez, Aidan       MCPKG87M   496   532/ 10  L26 L31 L37 L35 W48 1.0
+ 47 Gadd, Marshall         MCGDH42E   808   728/ 40  L6  D28 L40 L23 L45 0.5
+ 48 Aho, Alexander         OEREF70D   865   696/ 14  L7  L23 L44 L28 L46 0.0

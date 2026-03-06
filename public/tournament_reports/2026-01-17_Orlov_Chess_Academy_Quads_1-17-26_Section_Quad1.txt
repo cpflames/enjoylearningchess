@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ackerman, Ryan         ADUNC514  1793  1793/335  U2  W4  U3  W5  W6  3.0
+  2 Nishino, Anne          BABEH74F   836   838/221  U1  U6  D4  W3  W5  2.5
+  3 Chen, Chang            BCAEG15Y   365   440/ 12  W6  W5  U1  L2  U4  2.0
+  4 Rehmeyer, Malcolm      FHMIH62C   746   758/ 79  U5  L1  D2  W6  U3  1.5
+  5 Li, Ryder              MEDCJ66R   331   304/ 94  U4  L3  U6  L1  L2  0.0
+  6 Mathews, Abishai       BCSCF78S   352   303/  8  L3  U2  U5  L4  L1  0.0

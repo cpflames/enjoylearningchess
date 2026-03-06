@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Cheng, Ary             KSHBG24S   652   668/ 46  W4  W3  L2  W8  W6  4.0
+  2 Veligeti, Ayaansh      TBKBF88T   601   625/ 23  W10 W6  W1  W7  L3  4.0
+  3 Anthony-mazzola, LeonarUCDBH05Q   444   558/ 14  W12 L1  W5  W4  W2  4.0
+  4 Buragadda, Gyana DhaswiBRHAF91Z   245   319/ 10  L1  W12 W11 L3  W10 3.0
+  5 Rajkumar, Aarav        KKNAG23C   173   276/ 18  L6  W10 L3  W12 W7  3.0
+  6 Sudhakar, Ardhikshwar  SUZBF81C   463   449/ 15  W5  L2  D8  W9  L1  2.5
+  7 Prasad, Rhea           MOBBJ92U   100   167/ 75  BYE D8  W9  L2  L5  2.5
+  8 Raiymbek, Zhangir      EPIBF81A   329   324/ 10  D9  D7  D6  L1  W11 2.5
+  9 Xie, Ian               UCDBF66U   100   223/  5  D8  W11 L7  L6  W12 2.5
+ 10 Guo, Felix             DCCBF92C   158   167/ 19  L2  L5  W12 W11 L4  2.0
+ 11 Palathingal, Rachel    KKNAF76W   223   100/ 11  HPB L9  L4  L10 L8  0.5
+ 12 Polepalli, Dhriti      CHRBG36B   147   100/ 10  L3  L4  L10 L5  L9  0.0

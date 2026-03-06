@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Brooks, Logan          SD6KZ30G  1000  1066/  3  W4  W2  W3  3.0
+  2 Rostomily, Josten      SD8GZ75H   581   653/ 41  W3  L1  W4  2.0
+  3 Menke, Xavier          XXXGG01F   547   561/  6  L2  W4  L1  1.0
+  4 Potter, David          SDRDZ40L   571   507/ 24  L1  L3  L2  0.0

@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Arnett, Taylan         SQUMK71A   771   902/ 23  W5  W6  W4  3.0
+  2 Tin, Isaac             SQUMK99V   785   800/ 34  W7  L4  W6  2.0
+  3 Wolfson, Elijah        SHMLG02L   717   753/ 36  D4  W7  HPB 2.0
+  4 Kimes, Matilda         LYCK935N   821   822/ 39  D3  W2  L1  1.5
+  5 Aujla, Verdaan         BLHLH49A   637   651/ 25  L1  W8  HPB 1.5
+  6 Ritchie, Rowan         SMWHH40C   757   727/ 38  W8  L1  L2  1.0
+  7 Westergreen, Korben    FERJH39X   676   651/ 47  L2  L3  W8  1.0
+  8 Chapina, Bryan         LYEMH49H   624   540/ 16  L6  L5  L7  0.0

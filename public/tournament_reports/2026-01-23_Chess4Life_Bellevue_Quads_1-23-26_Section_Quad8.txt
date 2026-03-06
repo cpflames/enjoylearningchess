@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Arora, Kyra            BCACH34R   200   367/ 22  W3  W4  W2  3.0
+  2 Tian, Elizabeth        ENDBG44J   238   229/ 24  D4  W3  L1  1.5
+  3 Kim, Nathan            SAREG16C   176   155/ 18  L1  L2  W4  1.0
+  4 Zhang, Edgar           TLIBG16B   130   100/  6  D2  L1  L3  0.5

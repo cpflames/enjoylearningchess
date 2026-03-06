@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Senthil, Vibha         RSAEG28T   896   916/ 27  W3  W4  L2  2.0
+  2 Shah, Rachit           BNTFK44K   916   931/147  W4  L3  W1  2.0
+  3 Bhutani, Mihir         CRKEK90Q   867   897/ 72  L1  W2  W4  2.0
+  4 Nelson, Harvey         CMCGG67L   815   751/102  L2  L1  L3  0.0

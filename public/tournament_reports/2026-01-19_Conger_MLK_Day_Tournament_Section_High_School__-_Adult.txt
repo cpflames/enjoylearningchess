@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Mcclintic, Willard     ADONW855  1514  1522/ 28  L3  W14 W12 W10 W4  4.0
+  2 Whittlinger, Julian    ADONW74W  1300  1654/  5  W6  W9  D8  D4  W5  4.0
+  3 Miller, Eric           ADONW74V  1300  1551/  5  W1  L5  W7  W6  D8  3.5
+  4 Shaw, Liam             HNYJW74U   900  1583/  5  W13 W7  W5  D2  L1  3.5
+  5 Kurfman, Dave          ADONS167  1600  1589/ 40  W11 W3  L4  W8  L2  3.0
+  6 Stredwick, James       ADONU92W  1211  1246/ 14  L2  W11 W13 L3  W10 3.0
+  7 Garcia, Anthony        ADONW81J  1147  1200/ 19  W15 L4  L3  W12 W9  3.0
+  8 Vincent, Minh Anh      KLUMW74T  1200  1451/  5  W12 W10 D2  L5  D3  3.0
+  9 Rea, Bob               ADONW065  1347  1292/ 92  W14 L2  L10 W11 L7  2.0
+ 10 Gomez, Tristan         KLUJP95Y  1010  1034/ 25  BYE L8  W9  L1  L6  2.0
+ 11 Scott, Will            HNYLW74S  1100  1137/  5  L5  L6  W14 L9  W12 2.0
+ 12 Mcclintic, Rob         ADONW847  1136  1088/ 26  L8  W15 L1  L7  L11 1.0
+ 13 Guest, Josh            ADUNF65U  1300   834/  2  L4  BYE L6  U   U   1.0
+ 14 Reit, Tanner           KLUJW74Q   900   890/  4  L9  L1  L11 W15 U   1.0
+ 15 Vanderwaal, Gideon     KLULW74P  1100   552/  3  L7  L12 BYE L14 U   1.0

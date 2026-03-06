@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Hagarty, Henry         ALTEF74W   400   662/  5  W10 W11 D3  W5  W4  4.5
+  2 Drewlen, Greta         HSIEY94W   284   396/ 10  W7  L3  W14 W12 W5  4.0
+  3 Knott, Llewyn          PPAEF74V   400   492/  5  W13 W2  D1  L4  W8  3.5
+  4 Wu, Isaac              CATCF87S   214   358/ 10  D6  W13 W10 W3  L1  3.5
+  5 Sorey, Kiel            EFADF74U   300   387/  5  W12 W14 W6  L1  L2  3.0
+  6 Niehuser, Oscar        ALTCF74R   200   335/  5  D4  W9  L5  D7  W13 3.0
+  7 Fuher, Wesley          PPADF97Z   124   234/ 15  L2  W16 D11 D6  W10 3.0
+  8 Burnside, Cooper       ARLEF87R   118   153/ 10  L14 D12 W16 W11 L3  2.5
+  9 Vasquez, Michael       WHNDG17M   100   130/  8  W16 L6  HPB L13 W15 2.5
+ 10 Piscopo, Frankie       HUTCG66C   264   241/ 15  L1  W15 L4  W14 L7  2.0
+ 11 Knutson, Paxton        WHNEF74P   400   152/  5  W15 L1  D7  L8  D12 2.0
+ 12 Hopkins, Arthur        MCSDG25Z   100   121/ 10  L5  D8  W15 L2  D11 2.0
+ 13 Drennan, Dalin         SOPEF87T   252   189/  9  L3  L4  BYE W9  L6  2.0
+ 14 Haley, Gotham          WHNEG17K   188   179/ 14  W8  L5  L2  L10 W16 2.0
+ 15 Landkammer, Everett    ARLEF74N   400   100/  5  L11 L10 L12 W16 L9  1.0
+ 16 Hagarty, Hudson        ALTCF74M   200   100/  5  L9  L7  L8  L15 L14 0.0

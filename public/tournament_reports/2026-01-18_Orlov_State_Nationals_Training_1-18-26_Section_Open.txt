@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Jang, Jinwon           EMSI561P  1193  1254/223  W5  W3  2.0
+  2 Mccarthy, Eugene       CDLFG73B  1015  1058/ 45  W4  D5  1.5
+  3 Yeh, George            CSIDH64S  1378  1355/ 72  W6  L1  1.0
+  4 Zhang, Amy             CSIFF80L  1054  1060/106  L2  W6  1.0
+  5 Raman, Arjun           ETSDH96Y  1179  1149/ 56  L1  D2  0.5
+  6 Pan, Jesse             ENSEJ61R  1166  1117/ 48  L3  L4  0.0

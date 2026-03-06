@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ram, Yaalini           SNEDH87H   588   635/164  W3  W2  L4  2.0
+  2 Yin, Brandon           SOMFG50K   554   574/ 23  W4  L1  D3  1.5
+  3 Sathyamurthy, Shreyus  BLWDJ60Z   560   578/206  L1  W4  D2  1.5
+  4 Menezes, Kian          MEDDJ97B   735   669/110  L2  L3  W1  1.0

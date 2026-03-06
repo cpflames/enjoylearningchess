@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xiong, Aria            DISCH14J   323   484/ 86  W3  W2  W4  3.0
+  2 Karanam, Dhruthi       LCSDH10X   288   268/ 37  D4  L1  WF  1.5
+  3 Shin, Joshua           CRKDJ63R   293   312/140  L1  W4  LF  1.0
+  4 Tanielian, Theo        WOBBG19Q   361   288/ 38  D2  L3  L1  0.5

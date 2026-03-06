@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Adu-poku, Kwabena      CTXNZ73P  1959  1998/ 12  W5  W8  W2  W4  4.0
+  2 Ruiz, Jorge C Sr       NJXNZ41C  1920  1928/  4  W12 W3  L1  W5  3.0
+  3 Natarajan, Neil        BCCJV24M  1926  1929/ 86  W11 L2  W6  W10 3.0
+  4 Torres, William        CTXNZ41B  1970  1960/  4  D7  W6  W10 L1  2.5
+  5 Cheng, Liam            CTXEX07Q  1660  1665/120  L1  W12 W11 L2  2.0
+  6 Kirubakaran, Gauth     MAXGZ52G  1433  1514/  8  W9  L4  L3  W12 2.0
+  7 Ghosh, Arush           CTXJX00W  1679  1707/131  D4  L10 W8  D9  2.0
+  8 Lesi, Adeyinka A       CTXNZ41A  1300  1697/  4  W13 L1  L7  W11 2.0
+  9 Vasylenko, Hennadi     CTXNX10U  1828  1805/120  L6  W13 HPB D7  2.0
+ 10 Price, Laurence B      CTXNX07N  1931  1910/109  HPB W7  L4  L3  1.5
+ 11 Singh, Sanjay Vinesh   NYXLZ56G  1450  1430/ 11  L3  BYE L5  L8  1.0
+ 12 Shamas, Aidan          CTXNX11Q  1505  1471/118  L2  L5  BYE L6  1.0
+ 13 Teodoro, Anastacio NorlCTXNX03L  1700  1669/102  L8  L9  U   U   0.0

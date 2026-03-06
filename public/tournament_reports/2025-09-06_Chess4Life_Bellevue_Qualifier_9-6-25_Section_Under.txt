@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Srivastava, Hriyansh   MTWEG25E   463   716/ 14  W4  W7  W3  W5  W2  5.0
+  2 Molleda, Eric          LLFFG59A   464   480/ 24  W9  L6  W7  W4  L1  3.0
+  3 Krishna, Vihaan        ENSE263E   494   490/ 24  W10 L5  L1  W8  W6  3.0
+  4 Voss, Jayden           WOBCH15J   525   515/ 18  L1  W11 W10 L2  W5  3.0
+  5 Guo, Keith             CHRDG29Y   403   447/ 13  W12 W3  W6  L1  L4  3.0
+  6 Thompson, Cyrus        CLHDG56C   438   409/ 15  W8  W2  L5  D9  L3  2.5
+  7 Zeitlin, Guy           WOBCG55N   339   334/ 23  D11 L1  L2  W10 W12 2.5
+  8 Yin, Yuqi              EABBG78X   129   193/ 11  L6  D9  W12 L3  W11 2.5
+  9 Venkatesh, Mohan       BGLFG19L   500   218/  5  L2  D8  W11 D6  L10 2.0
+ 10 Konduru, Hari Pranav   STVCG19K   200   242/  5  L3  W12 L4  L7  W9  2.0
+ 11 Tuna, Tarik            BNTCG25D   178   147/ 11  D7  L4  L9  W12 L8  1.5
+ 12 Krishna, Venya         ENSAG19J   100   100/  5  L5  L10 L8  L11 L7  0.0

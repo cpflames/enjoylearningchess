@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Gorlachev, David       FMPKK30B  1141  1228/ 45  W22 W15 W6  W2  D3  4.5
+  2 Cruz, Justin           PRHMJ91C  1272  1272/ 46  W13 W12 W7  L1  W6  4.0
+  3 Davis, Roman           CCOIK16K  1015  1162/ 54  W19 W4  D5  W10 D1  4.0
+  4 Lin, Johnson           BHZLG96T  1325  1290/ 10  W16 L3  W9  W5  W8  4.0
+  5 Gorlachev, Michael     FMPHK15W   759  1024/ 39  W10 W17 D3  L4  W7  3.5
+  6 Brouner, Simon         KLLIH47V  1061  1083/ 28  W9  W14 L1  W15 L2  3.0
+  7 Shove, Emmett          FMPIJ91X   883   975/ 35  W21 W11 L2  W17 L5  3.0
+  8 Praveenkumar, Anirudh  SHHIG10U   800  1048/  5  L15 W22 W12 W11 L4  3.0
+  9 Einarson, Aiden        OBKHD84D   810   908/202  L6  W20 L4  W14 W17 3.0
+ 10 Young Byle, Tynan      SENLK829  1296  1238/171  L5  W25 W16 L3  W15 3.0
+ 11 Kandar, Aarav          FISFK21U  1174  1121/175  W24 L7  W13 L8  W16 3.0
+ 12 Vy, Evan               SKRIK12N   939   936/ 45  W23 L2  L8  W21 W18 3.0
+ 13 Williams, Joseph       FMPLJ90P   637   733/ 29  L2  W23 L11 W22 W21 3.0
+ 14 Olagundoye, Ethan      CMHKK11Y  1063   982/ 15  W20 L6  D21 L9  W24 2.5
+ 15 Truong, Tein           PRHMK11W   884   898/ 45  W8  L1  W25 L6  L10 2.0
+ 16 Boyes, Jonny           HSCKG82X   806   801/ 14  L4  W19 L10 W23 L11 2.0
+ 17 Boyes, Elijah          HSCMG82Y  1063   968/ 15  W18 L5  W24 L7  L9  2.0
+ 18 Pearson, Jeff          KIWIG10T   800   568/  5  L17 L21 W19 W24 L12 2.0
+ 19 Kakorin, Matthew       KIWHG10S   700   360/  4  L3  L16 L18 BYE W25 2.0
+ 20 Kalpin, Taelyn         FMPIG10R   800   345/  4  L14 L9  L22 W25 BYE 2.0
+ 21 Sandow, Naomi          FFSJG10Q   900   694/  5  L7  W18 D14 L12 L13 1.5
+ 22 Roby, Emmett           KIWIG10P   800   542/  5  L1  L8  W20 L13 D23 1.5
+ 23 Andersen, Max          KIWIG10N   800   455/  4  L12 L13 BYE L16 D22 1.5
+ 24 Voreis, Elliott        FMPLG47C   247   208/  8  L11 BYE L17 L18 L14 1.0
+ 25 Ryan, Starla           FMPHZ74L   127   103/ 13  BYE L10 L15 L20 L19 1.0

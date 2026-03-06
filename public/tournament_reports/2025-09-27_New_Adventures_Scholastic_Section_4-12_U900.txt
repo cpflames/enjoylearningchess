@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Xia, Jethro            BCSGK47R   808   893/168  W9  W6  W5  W3  L2  4.0
+  2 Petito, John           PURF453W   757   810/ 49  W11 D3  L4  W12 W1  3.5
+  3 Rusia, Naman           EPSJI64T   831   846/ 94  W10 D2  W12 L1  W6  3.5
+  4 Chen, Owen             CSIEH51Y   530   746/ 25  W7  D12 W2  L5  W9  3.5
+  5 Vijay, Krish           TYEI144B   830   852/ 72  W14 W7  L1  W4  HPB 3.5
+  6 Thati, Rutvik Reddy    RKWFG17X   500   735/  5  W13 L1  W10 W8  L3  3.0
+  7 Nishino, Anne          BABEH74F   825   767/180  L4  L5  W13 W10 D8  2.5
+  8 Srinivas, Venkatesh    XXXDG23B   360   468/ 12  L12 W11 W9  L6  D7  2.5
+  9 Kwon, Leo              ELKHH07Y   627   591/ 25  L1  W13 L8  W11 L4  2.0
+ 10 Kotsinyan, Robert      EVPFJ56V   588   578/ 64  L3  W14 L6  L7  W12 2.0
+ 11 Gillilan, Lucas        SCDGG46P   448   425/ 10  L2  L8  W14 L9  W13 2.0
+ 12 Raghavendran, Vishakh  DCSEH24Q   727   663/ 34  W8  D4  L3  L2  L10 1.5
+ 13 Tulsukchuentanat, PearlWOBFH63A   551   460/ 34  L6  L9  L7  W14 L11 1.0
+ 14 Arutyunyan, Tigran     PPEEG17W   400   100/  4  L5  L10 L11 L13 BYE 1.0

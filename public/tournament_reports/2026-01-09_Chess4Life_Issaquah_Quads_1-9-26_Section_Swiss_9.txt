@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sharma, Kabir          HSCDF74D   300   668/  3  W3  W2  W4  3.0
+  2 Zuehlsdorff, Theo      ISECH74V   162   249/ 28  W4  L1  W5  2.0
+  3 Tian, Isabella         ENDBG44E   224   280/ 19  L1  W5  W6  2.0
+  4 Manikantan, Tejas      CHADH34E   100   111/ 14  L2  W6  L1  1.0
+  5 Singh, Prisha          CDIEG20R   100   100/  6  W6  L3  L2  1.0
+  6 Yadav, Dhavit          TBKBG35T   100   100/ 32  L5  L4  L3  0.0

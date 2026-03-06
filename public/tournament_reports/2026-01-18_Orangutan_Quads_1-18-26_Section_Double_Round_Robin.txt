@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Venkatesh, Aiden       WEDBH37S   404   627/ 57  W3  W3  W2  L2  U   U   3.0
+  2 Bartram, Clark         DCTDJ47Q   711   674/ 45  U   U   L1  W1  W3  L3  2.0
+  3 Allyn, William         THOEJ48A   598   558/ 80  L1  L1  U   U   L2  W2  1.0

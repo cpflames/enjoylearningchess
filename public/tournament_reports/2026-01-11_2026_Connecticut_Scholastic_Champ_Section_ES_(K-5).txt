@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Dai, Brian             CTXDX05A  1782  1782/109  W11 W7  W8  D3  3.5
+  2 Cybart, Robert J       CTXEX07E  1374  1410/ 45  W18 W9  D3  W6  3.5
+  3 Seto, Brendan T        NYXEZ29Z  1631  1628/  4  W5  W15 D2  D1  3.0
+  4 Cheng, Liam            CTXEX07Q  1735  1709/128  D6  W13 D7  W10 3.0
+  5 Kurapati, Avinash Hari CTXFX07C  1017  1142/ 50  L3  W16 W14 W8  3.0
+  6 Merchant, Bradley PranaCTXFZ52C  1054  1221/ 14  D4  W12 W15 L2  2.5
+  7 Chang, Leroy           CTXFX03C  1326  1350/120  W14 L1  D4  W13 2.5
+  8 Rowland, Maxim         CTXDX02F  1431  1400/114  WF  W10 L1  L5  2.0
+  9 Villion, Jhonathan DaviNYXFZ29Y   941  1037/  4  W12 L2  L10 W15 2.0
+ 10 Svolik, Daniel         CTXFZ33A  1189  1194/  8  W17 L8  W9  L4  2.0
+ 11 Chang, Rylan           CTXEX03R  1130  1107/120  L1  L14 W16 W17 2.0
+ 12 Clancy, Daniel Callao  NYXFZ33L  1410  1345/  8  L9  L6  W18 W14 2.0
+ 13 Ilichev, Timur         CTXFZ71H   988   999/ 11  HPB L4  W17 L7  1.5
+ 14 Gandhi, Kahaan         CTXEZ29X   877   917/  4  L7  W11 L5  L12 1.0
+ 15 Chen, Edison Kean      NYXEZ29W  1290  1219/  4  W16 L3  L6  L9  1.0
+ 16 Chin, Gregory          CTXFZ528   860   870/ 15  L15 L5  L11 W18 1.0
+ 17 Chow, Benjamin N       NYXEZ522   846   850/  8  L10 W18 L13 L11 1.0
+ 18 James, Caleb           CTXDX08A  1049   960/128  L2  L17 L12 L16 0.0

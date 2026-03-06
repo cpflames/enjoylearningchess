@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Veligeti, Ayaansh      TBKBF88T   601   709/ 33  W9  W11 W2  L3  W4  4.0
+  2 He, Louie              CNCCF76X   498   677/ 15  W8  W4  L1  W7  W3  4.0
+  3 Akshaj, Sathya         RBRBF42G   100   769/  4  BYE W5  W6  W1  L2  4.0
+  4 Harold, Kromann        ETSDF42F   300   619/  5  W7  L2  W11 W5  L1  3.0
+  5 Deshpande, Sushant     CMCDG43P   488   513/ 48  W13 L3  W12 L4  W9  3.0
+  6 Prasad, Ishaan         MOBDH61A   474   473/ 54  D14 W12 L3  D9  W13 3.0
+  7 Sirsat, Sanya          BCADH60Z   497   495/ 35  L4  W13 W15 L2  W12 3.0
+  8 Harikrishnan, SrivathsaBRHCG78U   302   292/ 29  L2  L9  BYE X11 W14 3.0
+  9 Savaram, Arjun         MOBDH64R   419   435/ 53  L1  W8  W10 D6  L5  2.5
+ 10 Guduru, Aayushi        JMEDF88P   549   410/ 13  L12 W14 L9  L13 W15 2.0
+ 11 Saravanan, Navin       FRWCJ85A   437   410/ 75  W15 L1  L4  F8  BYE 2.0
+ 12 Sriranjini, Sinchan    SSMBH50U   239   266/ 40  W10 L6  L5  W15 L7  2.0
+ 13 Mummidi, Kushal        KKNDG17V   358   346/ 30  L5  L7  W14 W10 L6  2.0
+ 14 Sakan, Ryo             CSMAF92B   163   125/  9  D6  L10 L13 BYE L8  1.5
+ 15 Gaitonde, Aarav        SSMDH28T   157   100/ 14  L11 BYE L7  L12 L10 1.0

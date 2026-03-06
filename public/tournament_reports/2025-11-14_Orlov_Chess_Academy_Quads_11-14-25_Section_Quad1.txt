@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jang, Jinwon           VIEI561P  1172  1232/201  W4  W3  W2  3.0
+  2 Raman, Arjun           ETSDH96Y  1134  1141/ 41  W3  W4  L1  2.0
+  3 Zeeshan, Hamza         CRKFJ15N   811   849/126  L2  L1  W4  1.0
+  4 Heydarov, Rasul        BLWHH95F  1095  1014/ 57  L1  L2  L3  0.0

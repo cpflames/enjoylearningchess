@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ivanov, Matvei         EABEK34E  1191  1257/139  W16 W9  W6  W2  D3  4.5
+  2 Krogstad, Jaxon        NCSEJ88M  1201  1206/208  W13 W14 W12 L1  W8  4.0
+  3 Ward, Benjamin         IMSIK32Q  1094  1165/ 59  W17 D19 W5  W15 D1  4.0
+  4 Reimer, Oliver         IMSHG59D  1129  1133/138  W22 L12 W19 W13 W7  4.0
+  5 Cai, Emily             CNHDH60H  1070  1098/117  D11 W10 L3  W19 W15 3.5
+  6 Mehta, Shaan           IMSIK27A   797   954/ 54  W7  W15 L1  L8  W16 3.0
+  7 Xia, Jethro            BCSGK47R   977   989/179  L6  W11 W14 W12 L4  3.0
+  8 Mahale, Avneesh        CNHD993F   965   975/276  L14 W17 W20 W6  L2  3.0
+  9 Jibin, Kevin           REJIH82A   989   988/ 43  W20 L1  L13 W14 W12 3.0
+ 10 Zhu, Eric              NPTFK18P  1018  1007/263  L12 L5  W11 W21 W13 3.0
+ 11 Chanda, Rishabh        BCABH72X   849   894/107  D5  L7  L10 W18 W19 2.5
+ 12 Yue, Jayden            WMECG55Q   781   865/ 15  W10 W4  L2  L7  L9  2.0
+ 13 Goyal, Avyukt          CNHCJ65X   813   851/168  L2  W18 W9  L4  L10 2.0
+ 14 Paley, Harold          IMSHH70Q   797   830/ 41  W8  L2  L7  L9  W21 2.0
+ 15 Daniel, Lemuel         MMEEJ29L  1036   999/114  W21 L6  W16 L3  L5  2.0
+ 16 Bhat, Avaneesh         OMSGK34H   949   923/ 25  L1  W21 L15 W20 L6  2.0
+ 17 Simons, Winston        LKDDK28S   894   845/ 54  L3  L8  L18 BYE W20 2.0
+ 18 Ta, Jaxson             KSTEJ54Z   791   768/ 65  L19 L13 W17 L11 BYE 2.0
+ 19 Kayali, Kana           EBSEJ29N  1052   996/ 52  W18 D3  L4  L5  L11 1.5
+ 20 Kraft, Petey           FHMGJ28P   800   758/ 20  L9  W22 L8  L16 L17 1.0
+ 21 Sairam, Advaith        RBRCK01Q   852   795/181  L15 L16 W22 L10 L14 1.0
+ 22 Pham, Long             PKRFG91X   884   799/ 23  L4  L20 L21 HPB HPB 1.0

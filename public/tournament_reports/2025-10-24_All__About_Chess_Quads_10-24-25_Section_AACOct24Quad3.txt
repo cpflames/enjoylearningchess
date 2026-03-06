@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Swain, Samarth         MMEDJ58S  1164  1309/380  W3  W2  W4  3.0
+  2 Bhandari, Aarav        CBRFJ06H  1166  1222/189  W4  L1  W3  2.0
+  3 Li, Harry              SPTGG30G  1256  1230/551  L1  W4  L2  1.0
+  4 Li, Ethan James        SOMDK00K  1286  1209/238  L2  L3  L1  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Karnik, Rohan          WAVKG59F  1126  1221/ 75  W4  W3  W2  3.0
+  2 Ackerman, Ryan         ADUNC514  1793  1747/338  D3  W4  L1  1.5
+  3 Zeeshan, Hamza         CRKFJ15N   849   880/129  D2  L1  W4  1.5
+  4 Tong, Bayes            CCDCG20L   499   491/ 30  L1  L2  L3  0.0

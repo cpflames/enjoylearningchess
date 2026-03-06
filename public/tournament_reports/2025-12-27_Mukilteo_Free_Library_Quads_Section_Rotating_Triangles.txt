@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Olson, Travis          ADUN8893  1910  1910/168  W5  W4  W2  3.0
+  2 Makienko, Michael      MUEGH16F  1024  1061/ 21  W3  W5  L1  2.0
+  3 Callahan, Reagan       CPVMH25X   754   828/ 23  L2  W6  W4  2.0
+  4 Taggart, Forrest       MUEFH15X   898   874/ 17  W6  L1  L3  1.0
+  5 Greer, Vasili          MUEFF82X   946   915/  8  L1  L2  W6  1.0
+  6 Ajay, Aria             LCSDK07M   667   622/112  L4  L3  L5  0.0

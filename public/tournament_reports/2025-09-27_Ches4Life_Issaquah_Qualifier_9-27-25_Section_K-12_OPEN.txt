@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zhou, Sean             ICSJH56S  1200  1257/ 28  W4  L2  W5  W7  W3  4.0
+  2 Roy, Rishi             RCSGW75W  1271  1278/ 23  W5  W1  W6  L3  D7  3.5
+  3 Zhen Rampenthal, Quinn SASJH53C  1349  1316/112  W8  L6  W7  W2  L1  3.0
+  4 Roy, Ricky             RCSGW75V   917   972/ 23  L1  W10 W8  W6  L5  3.0
+  5 Koster, John           WOBCJ88T   880   946/146  L2  W9  L1  W10 W4  3.0
+  6 Thangakumar, Pranav    EVJHJ49C  1086  1089/ 89  W10 W3  L2  L4  W9  3.0
+  7 Bui, Edwin             FRVGK90H  1068  1078/176  W9  W8  L3  L1  D2  2.5
+  8 Chen, Logan            APOFJ69K   923   904/ 69  L3  L7  L4  W9  W10 2.0
+  9 Anand, Grahil          GTMHJ89Y   706   698/ 62  L7  L5  W10 L8  L6  1.0
+ 10 Talukdar, Yuvaan       RBRCH76K   800   710/125  L6  L4  L9  L5  L8  0.0

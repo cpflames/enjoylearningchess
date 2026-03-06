@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Budihardjo, Noelle     LABDG06T   822  1256/  6  W13 W2  W5  U   W4  4.0
+  2 Willey, Samantha       LABDG06R   512   583/  7  W6  L1  D9  W8  D3  3.0
+  3 Harada, Nicky          LABCH20W   589   574/ 11  W7  L5  W6  D9  D2  3.0
+  4 Deward, Drew           LABCG06S   587   668/  7  W8  W12 W11 L5  L1  3.0
+  5 Skoda, Eleanor         LABFG06U   940  1018/  6  W10 W3  L1  W4  U   3.0
+  6 Lu, Isabelle           LABCH20R   321   373/ 12  L2  W7  L3  W13 W9  3.0
+  7 Popp, Mikko            LABDG06K   100   245/  6  L3  L6  BYE W12 W10 3.0
+  8 Schell, Miriam         LABDG06M   204   336/  7  L4  D10 W13 L2  W11 2.5
+  9 Soukal, Misha          LABEG06P   383   329/  7  L11 W13 D2  D3  L6  2.0
+ 10 Sheil, Logan           LABBH20K   283   270/ 10  L5  D8  W12 U   L7  1.5
+ 11 Mitchell, Kiran        LABDG06Q   725   442/  4  W9  U   L4  U   L8  1.0
+ 12 Koogler, Elon          LABBG06J   136   100/  5  U   L4  L10 L7  W13 1.0
+ 13 Popp, Viveca           LABAG06L   100   100/  7  L1  L9  L8  L6  L12 0.0

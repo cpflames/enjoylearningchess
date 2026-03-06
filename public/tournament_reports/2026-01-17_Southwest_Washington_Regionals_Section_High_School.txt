@@ -1,0 +1,42 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Praveen, Abel          OHSJG11S  1375  1507/ 15  W27 W12 W11 W10 W4  5.0
+  2 Abbott, Caleb          JPPMK81S  1337  1379/ 32  W26 W6  W17 D3  W11 4.5
+  3 Vijayaguru, Ashwin     OHSLK95L  1445  1474/ 43  W29 W20 W19 D2  W10 4.5
+  4 Wirkkala-scheller, LogaNSLLJ41N  1293  1325/ 36  W21 W15 W5  W14 L1  4.0
+  5 King, Kevin            JPPLJ52N   951  1158/ 30  W39 W14 L4  W13 W19 4.0
+  6 Rajesh, Gagan Karthik  OHSLF06V  1080  1133/ 48  W37 L2  W16 W25 W12 4.0
+  7 Velasquez, Jacob       CHWLF66T  1100  1143/  5  W33 L13 W30 D8  W20 3.5
+  8 Sabey, Joey            NSLMJ40D  1083  1101/ 29  W38 L10 W28 D7  W21 3.5
+  9 Fabrizio, Kaleb        OHSMG96S  1154  1112/ 16  L16 W34 W27 D21 W22 3.5
+ 10 Belgau, Stephen        CAPKK76X  1517  1486/ 96  W18 W8  W13 L1  L3  3.0
+ 11 Olson, Rainn           SLNKK76K  1127  1140/ 65  W32 W25 L1  W15 L2  3.0
+ 12 Szurszewski, Jeremiah  BHZLG96Q  1064  1096/ 10  W31 L1  W41 W17 L6  3.0
+ 13 Gong, Charles          OHSMJ41P  1221  1217/ 27  W28 W7  L10 L5  W25 3.0
+ 14 Van Gorkom, Joshua RyanTMWLB02N  1306  1262/ 98  W35 L5  W29 L4  W27 3.0
+ 15 Crawford, Kenyon       ABDMJ41F   931   986/ 21  W22 L4  W31 L11 W26 3.0
+ 16 Law, Evan              ABDLG96D   611   845/ 16  W9  L19 L6  W30 W33 3.0
+ 17 Danielson, Giovanni    SLNMF66S  1200  1081/  5  W30 W36 L2  L12 W29 3.0
+ 18 Fetzer, Jacob          NSLKG96L   808   829/ 21  L10 W38 L25 W32 W28 3.0
+ 19 Lin, Johnson           BHZLG96T  1290  1230/ 15  W24 W16 L3  D20 L5  2.5
+ 20 Olson, Skye            SLNLG96U  1006  1003/ 26  W40 L3  W34 D19 L7  2.5
+ 21 Brownsberger, William  JPPKG96H   720   807/ 16  L4  W40 W36 D9  L8  2.5
+ 22 Li, Matthew            JPPJF66R   900   932/  5  L15 D26 W23 W36 L9  2.5
+ 23 Thompson, David        YELKK73T   867   821/ 25  L25 D24 L22 W40 W34 2.5
+ 24 Elkins, Trendan        MRXJK73Z   705   727/ 15  L19 D23 L26 W37 W35 2.5
+ 25 Blackburn, Chloe       ABDLF66Q  1100   941/  5  W23 L11 W18 L6  L13 2.0
+ 26 Koontz, Graham         OHSM943V   764   793/ 17  L2  D22 W24 D33 L15 2.0
+ 27 Trueax-hortman, Mateo  PELLJ41H   782   781/ 15  L1  W39 L9  W41 L14 2.0
+ 28 Coulhard, Gregory      YELKF96B   688   778/ 10  L13 W33 L8  W31 L18 2.0
+ 29 Malchow, Larry         NSLKG96C   798   797/ 16  L3  W37 L14 W38 L17 2.0
+ 30 Meyer, Brendyn         YELJJ90J   825   800/ 44  L17 W32 L7  L16 W39 2.0
+ 31 Leblanc, Gabriel       JPPJF66P   900   817/  5  L12 W35 L15 L28 W36 2.0
+ 32 Gornushenko, Samuel    RHRJK73G   540   540/ 20  L11 L30 W40 L18 W38 2.0
+ 33 Leblanc, Samuel        JPPLJ52P   917   838/ 31  L7  L28 W39 D26 L16 1.5
+ 34 Schell, Milo           NSLMG70V   100   167/ 10  BYE L9  L20 D35 L23 1.5
+ 35 James, Alexia          ABDKG96J   740   675/ 16  L14 L31 W37 D34 L24 1.5
+ 36 Murphy, Tristan        YELKK18X  1091   962/ 59  W41 L17 L21 L22 L31 1.0
+ 37 Gehmann, Jason         YELLF66N  1100   456/  5  L6  L29 L35 L24 W41 1.0
+ 38 Sanchez, Jordan        YELKG95W   440   393/  9  L8  L18 BYE L29 L32 1.0
+ 39 Santana, Nikolai       ABDJF66M   900   388/  4  L5  L27 L33 BYE L30 1.0
+ 40 Arriola, Rae           ABDKF66L  1000   159/  4  L20 L21 L32 L23 BYE 1.0
+ 41 Catayas, Ianess        NOTJK51M   430   390/ 40  L36 BYE L12 L27 L37 1.0

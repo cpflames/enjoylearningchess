@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Sapand, Mumtaz         CTXMZ38P   100   229/  4  W3  U   1.0
+  2 Negi, Aayush           CTXNZ43S   846   854/ 21  U   W4  1.0
+  3 Ampah, Carl Richmo     CTXLZ55F   284   234/ 12  L1  U   0.0
+  4 Bol, Apiok             CTXMZ38L   521   504/  4  U   L2  0.0

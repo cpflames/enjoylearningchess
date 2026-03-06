@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lo, Royce              LAVFJ83K   426   505/ 28  W4  W2  D3  2.5
+  2 Jiang, Ethan           BCABG19W   392   436/ 44  W3  L1  W4  2.0
+  3 Tang, Alan             WTLFG21Z   403   405/ 14  L2  W4  D1  1.5
+  4 Awasthi, Anay          NLMBG32T   365   284/ 22  L1  L3  L2  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Headley, Austin        SDAEZ802   442   454/ 33  W4  W2  L3  2.0
+  2 Welch, Gideon          XXXCH75H   342   403/ 28  W3  L1  W4  2.0
+  3 Bassett, Liam          BVIHZ723   439   452/ 25  L2  W4  W1  2.0
+  4 Ashton, Gabriel        SDDFZ59N   282   219/ 14  L1  L3  L2  0.0

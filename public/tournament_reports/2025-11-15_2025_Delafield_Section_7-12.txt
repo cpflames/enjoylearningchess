@@ -1,0 +1,56 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Deng, Stanley          LLMHK22E  1633  1646/404  W19 W29 W10 W13 W5  5.0
+  2 Cress, Emmett          CWHJH54B  1356  1357/109  W35 W6  W8  W14 D3  4.5
+  3 Fultz, Heath           CWHJ853S   951  1093/119  W51 W32 W4  W28 D2  4.5
+  4 Ybarra, Caleb          SODKK96F  1104  1104/ 91  W38 W16 L3  W12 W15 4.0
+  5 Guizar, Kevin          CWHMI02P  1074  1111/151  W30 W33 W15 W11 L1  4.0
+  6 Gonzalez, Sebastian    HIGHG12M   775   896/ 10  W52 L2  W24 W17 W14 4.0
+  7 Alaniz, Samuel         GJSKF98M  1000   986/  5  W22 L15 W16 W29 W13 4.0
+  8 Vanderschoor, Peyton   JMLH490Y  1015  1022/123  W45 W34 L2  W32 W20 4.0
+  9 Ramirez, Aaron         PASKK97W  1216  1190/105  W37 W18 L13 W33 W23 4.0
+ 10 Johnson, Eli           KCCJJ24B   989   997/ 45  W55 W31 L1  W30 W25 4.0
+ 11 Nguyen, Caitlyn        RRGH663J  1036  1032/ 88  W39 W26 D12 L5  W28 3.5
+ 12 Wampole, Caleb         CWHL133K   641   822/128  W41 W28 D11 L4  W29 3.5
+ 13 Paw Myint, John Sein   CWHLJ81W   968   986/ 49  W44 W36 W9  L1  L7  3.0
+ 14 Menjivar, Bryan        OCHHJ80L  1034  1011/ 84  W27 W21 W23 L2  L6  3.0
+ 15 Hong, Sidney           JMLI478H   837   863/166  W46 W7  L5  W34 L4  3.0
+ 16 Bramhall, Zach         RRGHJ01U   579   603/ 40  W40 L4  L7  W46 W30 3.0
+ 17 Munoz, Miguel          RRGKJ81H   333   527/ 39  L21 W27 W31 L6  W36 3.0
+ 18 Garcia, Emma           OCHHJ45L   708   702/ 75  W48 L9  W37 L20 W32 3.0
+ 19 Muniz, Christopher     RRGHJ79V   397   522/ 50  L1  W46 L28 W42 W33 3.0
+ 20 Andrade, Alonzo        PASJF98L   900   718/  5  L31 W55 W21 W18 L8  3.0
+ 21 Dahl, Heidi            JMLHH58K   587   605/ 84  W17 L14 L20 W50 W37 3.0
+ 22 Larimer, Thomas        LLMHJ79Q   599   585/ 40  L7  W43 L30 W40 W35 3.0
+ 23 Gogic, Arian           CWHJK96A   873   858/104  W50 W47 L14 W36 L9  3.0
+ 24 Mendoza, Fernando      CWHLH43P   395   498/ 19  L28 W41 L6  W49 W31 3.0
+ 25 Merryman, Weston       JMLI399H   545   541/ 63  L47 W50 W26 W45 L10 3.0
+ 26 Plo Eh, John           CWHKF98K  1000   615/  4  BYE L11 L25 W39 W34 3.0
+ 27 Rogers, Sterling       RRGHH27E   353   367/ 39  L14 L17 W53 W47 D38 2.5
+ 28 Diaz, Ronald           SODLG12S  1325  1057/ 10  W24 L12 W19 L3  L11 2.0
+ 29 Munoz, Salvador        RRGHK53B   730   715/ 68  W43 L1  W35 L7  L12 2.0
+ 30 Saenz, Abigail         STPI672R   354   412/ 94  L5  W53 W22 L10 L16 2.0
+ 31 Duarte, Carlos         OHAJK52U   572   554/ 90  W20 L10 L17 W48 L24 2.0
+ 32 Canseco, Sam           STPHH90Z   481   484/ 30  W54 L3  W47 L8  L18 2.0
+ 33 Mendez, Jaden          JMLHI40R   636   607/ 98  W53 L5  W39 L9  L19 2.0
+ 34 Esquivias, Christian   CWHM698U   528   510/ 54  W49 L8  W42 L15 L26 2.0
+ 35 Wilkinson, Corban      JMLIH91N   372   393/ 32  L2  W48 L29 W41 L22 2.0
+ 36 Bowles, Nathaniel      JMLHJ80J   570   537/ 70  W42 L13 W54 L23 L17 2.0
+ 37 Purcell, Blaine        RRGIH55B   366   367/ 43  L9  W52 L18 W54 L21 2.0
+ 38 White, Christopher     JMLIJ47J   355   330/ 54  L4  D40 L46 W43 D27 2.0
+ 39 Gutierrez, Diego       GJSKG12H   305   353/ 10  L11 W51 L33 L26 W45 2.0
+ 40 Russell, Rikki         GJSKF98J  1000   312/  5  L16 D38 D45 L22 W51 2.0
+ 41 Arellano, Kaleb        GJSKF98H  1000   327/  5  L12 L24 W51 L35 W54 2.0
+ 42 Velazquez, Luis        GJSMF98G  1200   300/  5  L36 W44 L34 L19 W50 2.0
+ 43 Mendoza, Sonia         GJSMG12E   100   219/  8  L29 L22 W44 L38 W55 2.0
+ 44 Plowman, Melanie       RRGIH27S   184   182/ 19  L13 L42 L43 W52 W53 2.0
+ 45 Miranda, Saul          STPHH43E   265   255/ 39  L8  W49 D40 L25 L39 1.5
+ 46 Najera, Mateo          GJSMG12D   100   203/ 10  L15 L19 W38 L16 D47 1.5
+ 47 Medina, Sabastian      GJSMF98E  1200   302/  5  W25 L23 L32 L27 D46 1.5
+ 48 Berger, Gabrielle      GJSMF98D  1200   219/  5  L18 L35 W55 L31 D49 1.5
+ 49 Lopez, Eric            GJSMF98C  1200   100/  4  L34 L45 BYE L24 D48 1.5
+ 50 Gonzalez, Liliana      GJSMG12C   100   125/ 10  L23 L25 W52 L21 L42 1.0
+ 51 Dennis, Ethan          RRGIH01A   205   169/ 22  L3  L39 L41 W55 L40 1.0
+ 52 Simmons, Maxwell       JMLHJ01B   100   100/ 31  L6  L37 L50 L44 BYE 1.0
+ 53 Rojas, Alejandro       GJSKF98B  1000   100/  4  L33 L30 L27 BYE L44 1.0
+ 54 Jenson, Gabriel        CWHMF98A  1200   100/  4  L32 BYE L36 L37 L41 1.0
+ 55 Fultz, Parker          JMLHJ23X   259   154/ 50  L10 L20 L48 L51 L43 0.0

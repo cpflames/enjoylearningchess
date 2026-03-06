@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Harry              SPTGG30G  1213  1227/545  W2  W4  L3  2.0
+  2 Li, Ethan James        SOMDK00K  1159  1187/232  L1  W3  W4  2.0
+  3 Zhang, Aaron           TMBGC74T  1220  1209/190  D4  L2  W1  1.5
+  4 Mohammed, Farhan       CRKFH14M  1114  1083/127  D3  L1  L2  0.5

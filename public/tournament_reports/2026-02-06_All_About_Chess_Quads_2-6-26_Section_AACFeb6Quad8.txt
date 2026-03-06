@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Reddy, Aariv           GRRDK34T   496   675/154  W2  W3  W4  3.0
+  2 Strien, Gabriel        BLWFF74X   577   600/ 12  L1  W4  W3  2.0
+  3 Chang, Liliana         JINCJ12S   535   510/ 42  W4  L1  L2  1.0
+  4 Balaji, Vaibhav        SSMDH28Z   509   431/144  L3  L2  L1  0.0

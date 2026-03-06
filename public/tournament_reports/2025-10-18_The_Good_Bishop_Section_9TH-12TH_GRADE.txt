@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Praveen, Abel          OHSJG11S   900  1251/  5  W3  W6  W4  W7  L2  4.0
+  2 Mayo, Alexander        ROGKG11R  1000  1297/  5  W5  L4  W3  W8  W1  4.0
+  3 Murphy, Tristan        YELKK18X  1088  1101/ 49  L1  W7  L2  W6  W5  3.0
+  4 Huang, Danny           STDJH08V   930   980/ 15  W8  W2  L1  L5  W7  3.0
+  5 Rajesh, Gagan Karthik  OHSLF06V  1079  1073/ 38  L2  W8  W6  W4  L3  3.0
+  6 Muir, Ryder            SKPJG11Q   900   846/  5  W7  L1  L5  L3  W8  2.0
+  7 Meyer, Brendyn         YLMJJ90J   818   773/ 35  L6  L3  W8  L1  L4  1.0
+  8 Kolomiiets, Kostiantyn STDLG11P  1100   377/  5  L4  L5  L7  L2  L6  0.0

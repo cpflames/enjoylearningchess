@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ackerman, Ryan         ADUNC514  1786  1793/332  W4  W3  W2  3.0
+  2 Shah, Gyanesh          XXXNF86T  1300  1517/  3  W3  W4  L1  2.0
+  3 Jang, Jinwon           EMSI561P  1240  1243/212  L2  L1  W4  1.0
+  4 Raman, Arjun           ETSDH96Y  1094  1073/ 49  L1  L2  L3  0.0

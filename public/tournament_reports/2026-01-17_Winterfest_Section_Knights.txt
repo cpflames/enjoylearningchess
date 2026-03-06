@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Brown, Brody           DPHMK98B  1195  1305/ 15  W11 W2  W6  W4  W3  5.0
+  2 Worrell, Spencer       CNYKF66H  1000  1108/  5  W9  L1  W5  W8  W10 4.0
+  3 Whitney, Keegan        HSCIH07R  1002  1050/ 10  W10 W5  D4  W6  L1  3.5
+  4 Bray, Patrick          HDPFG58Z  1124  1119/ 40  W12 W7  D3  L1  W9  3.5
+  5 Bonner, Branson        HDPIH01F   596   677/ 20  W15 L3  L2  W7  W16 3.0
+  6 Autry-dalsanders, Reed MMCHK48X   971   951/119  W18 W14 L1  L3  W11 3.0
+  7 Duncan, Aj D           MCSFH49T   732   731/ 71  W13 L4  W14 L5  W12 3.0
+  8 Higgins, Peter         GONHJ57Y   805   794/ 69  W17 L9  W12 L2  W13 3.0
+  9 Whitney, Jamen         HSCGH07L   844   840/ 10  L2  W8  W13 D10 L4  2.5
+ 10 Sparre, Elijah         HDPKI82W   562   641/ 34  L3  W16 W11 D9  L2  2.5
+ 11 Bell, Lucinda          HSCFH54N   502   533/  9  L1  W17 L10 W14 L6  2.0
+ 12 Johnson, Austin        NSVFH49W   492   503/ 55  L4  W15 L8  W17 L7  2.0
+ 13 Hagel, Ryker           HDPHF66G   700   487/  5  L7  W18 L9  W16 L8  2.0
+ 14 Thoren, Matthew        HDPIF66F   800   421/  4  W16 L6  L7  L11 WF  2.0
+ 15 Owens, Kingston        GONHF66E   700   314/  5  L5  L12 L16 W18 W17 2.0
+ 16 Jimenez, Malcolm       NSVFJ26U   409   367/ 35  L14 L10 W15 L13 L5  1.0
+ 17 Smith, Benjamin        HDPIF66D   800   191/  5  L8  L11 W18 L12 L15 1.0
+ 18 Suarez, Brady          DPHMH07S   411   100/  9  L6  L13 L17 L15 LF  0.0

@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Huang, Aaron           DGHFB25P   438   916/ 25  W14 W13 W5  W2  W6  5.0
+  2 Shi, Luke              WMNDG48Y   883   923/ 22  W4  W19 W6  L1  W5  4.0
+  3 Gunadekar, Sharvil     BRHFG17T   626   765/  9  L5  W20 W19 W7  W9  4.0
+  4 Dai, Aaron             CMCFH06E   700   788/ 31  L2  D8  W20 W14 W10 3.5
+  5 Dalakoti, Shivani      BLMHG24V   875   877/ 16  W3  W9  L1  W10 L2  3.0
+  6 Dasari, Ranveer        SSMHJ31X   750   753/ 41  W16 W18 L2  W13 L1  3.0
+  7 Vijay, Krish           TYEI144B   852   817/ 77  D12 D15 W18 L3  W13 3.0
+  8 Thati, Rutvik Reddy    RKWFG17X   847   818/ 14  L18 D4  W17 D9  W15 3.0
+  9 Srishankar, Suryaa     SKWGK87F   711   722/ 59  W11 L5  W16 D8  L3  2.5
+ 10 Bansal, Neev           KKNEH05Z   699   719/ 30  HPB W17 W15 L5  L4  2.5
+ 11 Joseph, George KochumurCDIEH11C   895   812/ 99  L9  D12 L14 W16 W17 2.5
+ 12 Rawat, Advik           CRIDG24U   526   576/ 12  D7  D11 L13 W19 D14 2.5
+ 13 Krzeszowski, Anthony   CPBHI41R   694   657/ 60  WF  L1  W12 L6  L7  2.0
+ 14 Gupta, Dhruva          CMCFH24Z   742   727/ 39  L1  HPB W11 L4  D12 2.0
+ 15 Bormuth, Lucas         LYCFD92J   874   792/ 34  D17 D7  L10 W18 L8  2.0
+ 16 Susanto, Mogens        SJOGH52G   386   406/ 16  L6  BYE L9  L11 W18 2.0
+ 17 Gowtham, Arav          TMBGH89D   609   592/ 27  D15 L10 L8  W20 L11 1.5
+ 18 Lee, Aiden             GTMGJ44G   491   477/ 37  W8  L6  L7  L15 L16 1.0
+ 19 Mccollum, Jack         SABFH52R   354   308/ 19  BYE L2  L3  L12 L20 1.0
+ 20 Srinivas, Venkatesh    XXXDG23B   468   448/ 16  LF  L3  L4  L17 W19 1.0

@@ -1,0 +1,25 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Treves, Simon          NOWFK28A   614   715/ 43  W24 W11 W10 W3  4.0
+  2 Hsieh, Cheryl          ICKHJ82X   476   553/ 37  W22 W13 W12 D8  3.5
+  3 Reddy, Aariv           GRRDK34T   681   684/116  W19 W5  W4  L1  3.0
+  4 Yin, Brandon           SOMFG50K   197   369/  9  W21 W17 L3  W10 3.0
+  5 Etienne, Yann          CDVCG21M   447   508/ 21  W23 L3  W13 W12 3.0
+  6 Awasthi, Anay          NLMBG32T   296   374/ 16  L13 W22 W14 W11 3.0
+  7 Yin, Aiden             SOMCG49K   100   267/  9  L11 W24 W17 W16 3.0
+  8 Paidapathi, Kiaan      APODJ99C   504   485/247  W20 L12 W19 D2  2.5
+  9 Gu, Ximu               ENDCJ05X   530   483/112  W14 L10 D16 W18 2.5
+ 10 Mirchandani, Kavir     MEDDJ97A   406   418/143  W15 W9  L1  L4  2.0
+ 11 Chen, Luna             RSACG32W   441   419/ 53  W7  L1  W20 L6  2.0
+ 12 Karthik, Dyuthi        CRMFG01X   500   445/  4  W16 W8  L2  L5  2.0
+ 13 Lee, Hugo              SOMCG01W   200   385/  4  W6  L2  L5  W20 2.0
+ 14 Hsieh, Will            BLWDH67Z   100   207/  7  L9  W15 L6  W21 2.0
+ 15 Yang, Jason            SPTBG01V   100   224/  4  L10 L14 W22 W19 2.0
+ 16 Rajan, Aadhi           CDIBG32V   252   252/ 19  L12 W18 D9  L7  1.5
+ 17 Nelson, Harvey         CMCGG67L   497   392/ 71  D18 L4  L7  W24 1.5
+ 18 Pfau, Zacharias        SOMAG09C   185   190/ 10  D17 L16 W24 L9  1.5
+ 19 Haycraft, Ethan        IFSDG36K   227   195/ 33  L3  W23 L8  L15 1.0
+ 20 Gondipalli, Vidhura    EACCG42K   100   109/ 12  L8  W21 L11 L13 1.0
+ 21 Paidapathi, Anaika     SHSBG01U   100   100/  4  L4  L20 W23 L14 1.0
+ 22 Karthik, Adithi        RCKCW768   100   100/ 11  L2  L6  L15 D23 0.5
+ 23 Liu, Cayden            JINCG01S   200   100/  4  L5  L19 L21 D22 0.5
+ 24 Reddy, Atharv          GRRBG25J   110   100/ 11  L1  L7  L18 L17 0.0

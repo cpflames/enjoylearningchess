@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Yao, Baoshuo           EVPBG16L  1592  1609/ 26  W12 W3  W6  W2  W4  5.0
+  2 Chanda, Rishabh        BCABH72X   987  1112/120  W14 W4  W11 L1  W5  4.0
+  3 Guo, Serena            BCSCG63G   995  1028/ 25  W10 L1  W7  L5  W6  3.0
+  4 Raghavendran, Vedanth  DCSCH24C  1084  1095/ 64  W8  L2  W13 W11 L1  3.0
+  5 Gao, Arden             JINCH35W  1058  1063/ 58  W13 L6  W8  W3  L2  3.0
+  6 Kalakoti, Kartika      MOBDG45J   969  1003/ 83  W15 W5  L1  W9  L3  3.0
+  7 Velichko, Kristina     ASADK07V   769   858/188  L9  W12 L3  W14 W11 3.0
+  8 Lin, Evan              SOMDJ72G   915   943/125  L4  W14 L5  W13 W12 3.0
+  9 Sankar, Laya R         EBSDK11E  1007   956/ 74  W7  L11 D10 L6  W14 2.5
+ 10 Sankar, Deethya R      EBSBH63X   773   802/ 42  L3  W16 D9  L12 W15 2.5
+ 11 Zhou, Max              BCSCH51K   747   818/ 30  W16 W9  L2  L4  L7  2.0
+ 12 Bysani, Aakash         SSMDK01D   943   907/321  L1  L7  W15 W10 L8  2.0
+ 13 Mathew, Reuben         MRIBG33B   959   899/ 61  L5  W15 L4  L8  BYE 2.0
+ 14 Hu, Ethan              CNHCH35U   735   685/ 41  L2  L8  WF  L7  L9  1.0
+ 15 Nguyen, Tuan Khoa      BRWDF83R   432   415/ 13  L6  L13 L12 BYE L10 1.0
+ 16 Telikicherla, Aadya    AUDDG19N  1046   955/ 45  L11 L10 LF  U   U   0.0

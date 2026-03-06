@@ -1,0 +1,62 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+
+Note: The Class A And B Sections were merged for rating purposes only.
+
+This Was Done Because Players moved from one section to another during the event.
+
+The Standings Shown Here Are not the actual standings in the event.
+  1 Raja, Rian             SKII786E  1702  1770/265  W18 W46 W20 W7  L3  W6  5.0
+  2 Gupta, Saahil          JSUKT84E  1977  1998/141  D4  W55 W41 D13 W15 W16 5.0
+  3 Wirkkala, Zane         HSCMC64H  1797  1818/ 81  D45 W37 W33 D14 W1  W7  5.0
+  4 Gadde, Arnav           GTMHJ39D  1754  1863/272  D2  W35 W21 D16 D17 W13 4.5
+  5 Lamb, Anthony L        ADUNB376  1753  1770/ 10  W49 D43 D6  W18 W14 HPB 4.5
+  6 Wu, Harry              SASHJ72P  1604  1673/ 93  W52 D24 D5  W47 W26 L1  4.0
+  7 Wu, Shanna             CNHFJ72M  1696  1720/ 99  W51 W23 W19 L1  W29 L3  4.0
+  8 Merriman, Dann         WMNGF79Y  1701  1722/656  W50 W47 L15 D32 W33 D9  4.0
+  9 Tu, Robin              ADUN9951  1767  1758/360  D33 L14 W23 W43 W32 D8  4.0
+ 10 Chow, Alex             ADUN7419  1838  1864/222  W21 L17 W25 D15 HPB W34 4.0
+ 11 Davies, Cedric         ADUN184T  1640  1665/ 58  W32 L20 W28 HPB D19 W23 4.0
+ 12 Yuodelis, Kenneth      NPRL3681  1779  1790/505  D15 D38 W44 D19 HPB W26 4.0
+ 13 Ayalew, Brook          DCCKJ71Q  1820  1842/ 77  W39 D34 W17 D2  D16 L4  3.5
+ 14 Stroud, Jeb            SHMKK22V  1632  1666/253  D53 W9  W43 D3  L5  D19 3.5
+ 15 Subramanian, Thrinay   SPTK466R  1767  1786/196  D12 W44 W8  D10 L2  D17 3.5
+ 16 Bharathy Mohan, Aarav  SKIHC98B  1910  1910/467  W25 D41 W34 D4  D13 L2  3.5
+ 17 Zhang, Michelle        INTJ889L  1880  1874/370  D35 W10 L13 W27 D4  D15 3.5
+ 18 Sardar, Ekam           VCEFW80Q  1566  1617/ 21  L1  W30 W31 L5  D20 W36 3.5
+ 19 Subcleff, Jackson      ADUNH71W  1788  1774/ 18  W54 W28 L7  D12 D11 D14 3.5
+ 20 Evin, Terrick          EBSEC54L  1515  1587/283  W30 W11 L1  L29 D18 W33 3.5
+ 21 Tagor, Bental          ADUNJ89M  1936  1915/ 53  L10 W42 L4  D40 W27 W25 3.5
+ 22 Pan, Peng-ruei         EVJG759R  1606  1598/321  L23 L32 W49 D44 W37 W24 3.5
+ 23 Raj, Skandha           EVGDK55U  1476  1535/209  W22 L7  L9  W45 W28 L11 3.0
+ 24 Zhu, Aiden             LMSFC77X  1388  1493/213  W36 D6  L29 D31 W48 L22 3.0
+ 25 Gao, Ziqian            EVJGK10U  1782  1789/136  L16 W40 L10 W38 W34 L21 3.0
+ 26 Wachira, William       ADUNJ12A  1676  1659/ 28  L43 W49 W37 W46 L6  L12 3.0
+ 27 Yang, Yuchang          SHHIK16L  1579  1648/102  L34 W39 W35 L17 L21 W38 3.0
+ 28 Gupta, Krishang        GTMIE37V  1546  1567/120  W48 L19 L11 W30 L23 W49 3.0
+ 29 Mathews, Daniel        ADUN2704  1695  1676/ 10  L46 WF  W24 W20 L7  U   3.0
+ 30 Chen, Andy             SOMFK05J  1630  1595/150  L20 L18 W51 L28 WF  W43 3.0
+ 31 Cheng, Selina          TLMI413R  1762  1729/634  HPB HPB L18 D24 D43 W32 3.0
+ 32 Stahl, Darren          ADUNH44N  1530  1555/ 25  L11 W22 W52 D8  L9  L31 2.5
+ 33 Xu, Zoe Yue            SOMGG70A  1552  1565/407  D9  W45 L3  W53 L8  L20 2.5
+ 34 Mohan, Vishnu          SKIHF41R  1807  1794/220  W27 D13 L16 W41 L25 L10 2.5
+ 35 Meng, Miranda          OPWGH69P  1734  1719/182  D17 L4  L27 D42 D39 W50 2.5
+ 36 Koripella, Dheeran S   EALJ610W  1597  1563/ 96  L24 W51 L46 D52 W44 L18 2.5
+ 37 Singhal, Aksh          TVMHW75J  1558  1534/  5  BYE L3  L26 D54 L22 W51 2.5
+ 38 Campbell, Tim          ADUN3836  1773  1730/143  L47 D12 BYE L25 W50 L27 2.5
+ 39 Shankaranand, Deeksha  EBSHI74Y  1726  1703/369  L13 L27 W42 D50 D35 D40 2.5
+ 40 Maharaja, Imai SubramonHMNFK34K  1667  1659/351  L41 L25 BYE D21 D42 D39 2.5
+ 41 Hanson, Roger Oscar    ADUNJ69X  1825  1812/ 29  W40 D16 L2  L34 HPB HPB 2.5
+ 42 Yuan, Chen             ETSEJ15Z  1714  1693/190  D55 L21 L39 D35 D40 BYE 2.5
+ 43 Chang, Allen           ADUNK02T  1536  1544/ 63  W26 D5  L14 L9  D31 L30 2.0
+ 44 Avula, Guru Harshith ReBRHG633Y  1408  1409/228  BYE L15 L12 D22 L36 D48 2.0
+ 45 He, Oliver Lang        ENDFK71V  1613  1562/458  D3  L33 D48 L23 L49 BYE 2.0
+ 46 Vemuri, Lakshmi        ADUNF84C  1541  1565/  4  W29 L1  W36 L26 U   U   2.0
+ 47 Rubaiyat, Rhadean      REDKD40L  1705  1701/247  W38 L8  W50 L6  U   U   2.0
+ 48 Allen, Robert J        ADUNF120  1700  1631/ 40  L28 D54 D45 HPB L24 D44 2.0
+ 49 Ma, Lewis              SOME587M  1595  1546/259  L5  L26 L22 D51 W45 L28 1.5
+ 50 Pai, Vihaan            CHAGK17C  1657  1604/338  L8  BYE L47 D39 L38 L35 1.5
+ 51 Guo, Loida             KSHDG25U  1476  1430/ 29  L7  L36 L30 D49 BYE L37 1.5
+ 52 Mohammed, Moinuddin    ADUNJ95E  1732  1664/ 15  L6  W53 L32 D36 U   U   1.5
+ 53 Hyman, Daniel P        ADUNG18H  1566  1557/ 18  D14 L52 W54 L33 U   U   1.5
+ 54 Kottcamp, Jeff         ADUNF84B  1584  1555/  4  L19 D48 L53 D37 LF  U   1.0
+ 55 Lavoice, Richard       ADUNG39B  1849  1833/ 20  D42 L2  U   U   U   U   0.5

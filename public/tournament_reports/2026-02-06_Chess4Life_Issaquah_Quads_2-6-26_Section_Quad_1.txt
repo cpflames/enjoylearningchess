@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Su, Ziyao              DISGG65F   927   979/ 26  W4  L2  W3  2.0
+  2 Tsay, Elon             LKDFK07B  1074  1073/210  L3  W1  W4  2.0
+  3 Mathur-badam, Arin     BMNCG27N   897   894/ 66  W2  L4  L1  1.0
+  4 Chen, Logan            APOFJ69K   997   966/ 88  L1  W3  L2  1.0

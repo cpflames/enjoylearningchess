@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kennerud, Caedmon      LGHHH61R   852   909/ 54  W4  W3  W2  3.0
+  2 Mathur-badam, Arin     BMNCG27N   701   713/ 37  W7  W5  L1  2.0
+  3 Thakur, Abhigyan       MMEGH53D   549   563/ 16  W6  L1  W5  2.0
+  4 Xu, Jacky Y            SOMDJ59K   612   643/165  L1  W7  W6  2.0
+  5 Madadi, Hannah         CGRDH65Y   271   253/ 57  BYE L2  L3  1.0
+  6 Shukla, Stavya         BCACG27W   314   289/ 42  L3  BYE L4  1.0
+  7 Gorbatenko, Leon       CRKGH58G   673   606/ 42  L2  L4  BYE 1.0

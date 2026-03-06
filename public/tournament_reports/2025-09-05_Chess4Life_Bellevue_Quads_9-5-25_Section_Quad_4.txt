@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Namburi, Shriniketh    TMBJJ20A   618   682/ 42  W4  W2  L3  2.0
+  2 Zhang, Eli             CHRDH69C   665   700/ 85  W3  L1  W4  2.0
+  3 Swindell, Adam         MRLGG32Q   647   693/ 23  L2  W4  W1  2.0
+  4 Xu, Jacky Y            SOMDJ59K   723   622/149  L1  L3  L2  0.0

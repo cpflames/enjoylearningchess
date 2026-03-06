@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wynstra, Daniel        SDEIZ94M  1646  1706/157  W3  W2  W4  3.0
+  2 Welch, James           HSSKF53F  1679  1650/306  L4  L1  W3  1.0
+  3 Ristau, William        SDQMX37G  1656  1630/179  L1  W4  L2  1.0
+  4 Neff, Enoch            ABFFF95Q  1427  1443/227  W2  L3  L1  1.0

@@ -1,0 +1,32 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Thati, Rutvik Reddy    RKWFG17X   709   813/ 40  W11 W17 W15 W4  4.0
+  2 Bansal, Neev           KKNEH05Z   778   803/ 53  W18 D10 W22 W8  3.5
+  3 Galla, Sanjay Krithik  SWRFF50J   500   802/  4  D22 W27 W13 W10 3.5
+  4 Iyer, Anirudh          RSADH36Q   701   745/ 53  W14 W12 W9  L1  3.0
+  5 Wang, Shayne           RSADH05Y   546   570/ 23  W24 L8  W16 W18 3.0
+  6 Deng, Marvin           STMEH06D   662   683/ 28  W26 W30 D8  D9  3.0
+  7 Jain, Dhruvin          CSMEH52B   438   526/ 31  L9  W26 W24 W15 3.0
+  8 Manjunatha, Neeraj RaghSTVCH24D   744   737/ 32  W16 W5  D6  L2  2.5
+  9 Dhanalakota, Nikhil    HEAHF81G   797   775/ 27  W7  W19 L4  D6  2.5
+ 10 Astafyeva, Veronica    MRPDH51S   549   605/ 67  W20 D2  W19 L3  2.5
+ 11 Kilari, Navaneeth      CDVCG78J   322   394/ 23  L1  W25 D12 W23 2.5
+ 12 Suhasan, Nehaa         SFRDJ30B   486   501/ 60  W28 L4  D11 W22 2.5
+ 13 Choo, Joshua           MRPCG02W   549   560/ 14  HPB W23 L3  W14 2.5
+ 14 Chaduvu, Aarav         BNTDH47Z   296   365/  9  L4  W28 W17 L13 2.0
+ 15 Rajesh, Pratvik        SFRFH06K   627   581/ 18  W31 W29 L1  L7  2.0
+ 16 Pande, Avyan           DCSF368D   341   358/ 13  L8  W20 L5  W25 2.0
+ 17 Generoso, Amelia       MUEDF75Y   455   416/ 10  W25 L1  L14 W29 2.0
+ 18 Konda Madhu, Nihaan    MCECG04W   413   409/ 21  L2  W31 W29 L5  2.0
+ 19 Bilguun, Telmuun       PKWGK18D   560   521/ 40  WF  L9  L10 W27 2.0
+ 20 Goodman, Willamette    LYSGG34H   221   223/  8  L10 L16 BYE W28 2.0
+ 21 Manneboina, Aarav      TLTGF50H   600   229/  3  HPB L22 D27 W24 2.0
+ 22 Espinosa, Lorenzo      RSADJ30M   447   449/ 19  D3  W21 L2  L12 1.5
+ 23 Ganta, Sushanth        SWREF50F   400   220/  3  HPB L13 W30 L11 1.5
+ 24 Astafyeva, Vanessa     MRPBG26S   100   100/  9  L5  BYE L7  L21 1.0
+ 25 Koppula, Sri Ritvik    CRNFF50D   500   152/  4  L17 L11 W26 L16 1.0
+ 26 Premkumar, Janav       RSAFG76B   277   232/ 16  L6  L7  L25 W30 1.0
+ 27 Goodman, Rainier       LYSEG34T   100   119/  8  HPB L3  D21 L19 1.0
+ 28 Koppula, Sri Advik     SWRAF50C   100   108/  4  L12 L14 W31 L20 1.0
+ 29 Iyer, Pramodh          RSAAF50B   100   100/  3  WF  L15 L18 L17 1.0
+ 30 Krishna, Venya         REEAG19J   100   100/ 24  WF  L6  L23 L26 1.0
+ 31 Jain, Shravin          CSMAG02S   258   160/  9  L15 L18 L28 BYE 1.0

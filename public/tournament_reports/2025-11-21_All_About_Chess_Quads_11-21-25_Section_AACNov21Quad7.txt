@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dragan, Alexander      MCIDH67A   186   395/ 33  W3  W2  W5  3.0
+  2 Tanielian, Desmond     WOBFG19S   249   289/ 17  W5  L1  W4  2.0
+  3 Haycraft, Ethan        IFSDG36K   285   272/ 39  L1  D4  W6  1.5
+  4 Pfau, Zacharias        SOMAG09C   222   217/ 16  W6  D3  L2  1.5
+  5 Reddy, Atharv          GRRBG25J   100   100/ 17  L2  D6  L1  0.5
+  6 Tanielian, Theo        WOBBG19Q   134   100/ 18  L4  D5  L3  0.5

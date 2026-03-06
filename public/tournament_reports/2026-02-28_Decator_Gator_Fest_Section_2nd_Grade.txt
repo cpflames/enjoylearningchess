@@ -1,0 +1,32 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Jiang, Callie          UCDBH47C   837   960/101  W22 W9  W4  W3  W2  5.0
+  2 Hasson, Ari            SJCCJ47L   652   713/105  W25 W13 W8  W17 L1  4.0
+  3 Nayak, Aarav           SCDCG69Y   830   847/ 40  W18 W19 W11 L1  W7  4.0
+  4 Swigon, Bruno          WEDCH92N   717   737/ 78  W13 W28 L1  W19 W9  4.0
+  5 Liang, Dangdang        MEDCJ12R   569   672/ 85  W29 W14 L6  W21 W11 4.0
+  6 Yue, Jayden            WMECG55Q   783   755/ 29  W23 D8  W5  L7  W18 3.5
+  7 Titov-trukhanov, KristiDCTCG03F   598   677/ 20  W30 W10 D17 W6  L3  3.5
+  8 Sheehy, Julian         BRYCJ67A   422   496/ 69  WF  D6  L2  W18 W24 3.5
+  9 Longhurst, Clyde       SCDCG69X   568   582/ 19  W20 L1  W27 W10 L4  3.0
+ 10 Stidham, Bowie         WEDCH32G   177   440/ 29  W15 L7  W16 L9  W19 3.0
+ 11 Wells, Tristan         UCDCF82P   660   637/ 15  W27 W25 L3  W12 L5  3.0
+ 12 Waters, Emerson        WEDCH32U   447   470/ 39  L14 W24 W20 L11 W21 3.0
+ 13 Lin, Youxi             DCTCF82K   185   301/  9  L4  L2  BYE W23 W26 3.0
+ 14 Michaelsen, Asher      DCTCF40A   200   628/  3  W12 L5  W22 HPB HPB 3.0
+ 15 Pressley, Adrian       THUCG45P   604   564/ 30  L10 W31 L18 W28 W17 3.0
+ 16 Adoc, Lluc             PERCJ54N   466   426/ 50  L28 W26 L10 W30 W20 3.0
+ 17 Venkatesh, Aiden       WEDBH37S   759   688/ 72  W31 W21 D7  L2  L15 2.5
+ 18 Perez, Maxwell         WEDCH32R   310   361/ 17  L3  W30 W15 L8  L6  2.0
+ 19 Chen, Yisu             RKWCH78H   449   430/134  W24 L3  W28 L4  L10 2.0
+ 20 Dutta, Davin           DCTCF409   200   325/  5  L9  W23 L12 W22 L16 2.0
+ 21 Zhou, George           DCTCJ65T   431   400/ 89  W26 L17 W25 L5  L12 2.0
+ 22 Li, Ryder              MEDCJ66R   375   359/114  L1  W29 L14 L20 W28 2.0
+ 23 Dundon, Miles          DCTCJ47K   273   251/ 30  L6  L20 W29 L13 W30 2.0
+ 24 Bishop, Jacob          DCTCF39Z   200   168/  5  L19 L12 D26 W27 L8  1.5
+ 25 Saltman, Owen          WEDCH31X   100   119/ 15  L2  L11 L21 D29 W31 1.5
+ 26 Plummer, Zoe           WEDCF39Y   200   119/  5  L21 L16 D24 W31 L13 1.5
+ 27 Mansell Karagiannis, AlWEDCH33C   184   128/ 18  L11 BYE L9  L24 D29 1.5
+ 28 Imanaka, Teddy         DCTCF39X   200   230/  5  W16 L4  L19 L15 L22 1.0
+ 29 Brodsky, Jesse         DCTCF39W   200   100/  5  L5  L22 L23 D25 D27 1.0
+ 30 Meymandi-li, Ava       CNCCF39U   200   100/  5  L7  L18 W31 L16 L23 1.0
+ 31 Liu, Henry             DCTCJ66Q   256   118/ 15  L17 L15 L30 L26 L25 0.0

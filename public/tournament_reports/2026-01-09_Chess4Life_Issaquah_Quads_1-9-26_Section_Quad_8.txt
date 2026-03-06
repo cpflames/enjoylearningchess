@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Johnson, Bryce         OPSDK11K   284   341/ 11  U   W3  W2  2.0
+  2 Tian, Elizabeth        ENDBG44J   237   200/ 18  D3  U   L1  0.5
+  3 Deshmukh, Maithili     SHSBG71H   185   163/ 30  D2  L1  U   0.5

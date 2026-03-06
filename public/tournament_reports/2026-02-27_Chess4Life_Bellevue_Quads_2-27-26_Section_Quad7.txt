@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xu, Jacky Y            SOMDJ59K   678   743/204  W4  W3  D2  2.5
+  2 Zhang, David           SOMDK41P   637   726/171  W3  W4  D1  2.5
+  3 Gorbatenko, Leon       CRKGH58G   608   591/ 60  L2  L1  W4  1.0
+  4 Dubedy, Advika         AUDFG19E   606   530/ 33  L1  L2  L3  0.0

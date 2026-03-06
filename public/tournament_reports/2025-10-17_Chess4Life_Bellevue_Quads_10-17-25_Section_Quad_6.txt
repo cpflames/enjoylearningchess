@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tan, Wilson            BRBCG35N   562   672/ 38  W3  W2  D4  2.5
+  2 Roshin, Ayden          HMNEG48P   599   600/ 18  D4  L1  W3  1.5
+  3 Van Cleemput, Enzo     HMNEG22B   619   584/ 18  L1  W4  L2  1.0
+  4 Bose, Suhan            BRHEH65Z   570   550/ 32  D2  L3  D1  1.0

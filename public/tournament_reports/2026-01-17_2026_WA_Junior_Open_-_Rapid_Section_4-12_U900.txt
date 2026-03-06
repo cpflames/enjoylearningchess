@@ -1,0 +1,30 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Margo, Joshua          CHREH72W   742   930/ 27  W22 D3  W9  W11 W5  4.5
+  2 Gunadekar, Sharvil     BRHFG17T   860   937/ 23  W4  W12 D10 W8  D3  4.0
+  3 Nguyen, Michael        SOMEK64B   835   931/ 40  W28 D1  W15 W7  D2  4.0
+  4 Lee, Julianus          CDWFK90C   660   733/ 84  L2  W21 W27 W19 W7  4.0
+  5 Hayward, Luke          FAPEH63N   844   891/ 23  W6  W11 D8  W10 L1  3.5
+  6 Raghavendran, Vishakh  DCSEH24Q   629   752/ 58  L5  W29 W12 W18 D13 3.5
+  7 Bansal, Neev           KKNEH05Z   749   778/ 49  W16 W9  W13 L3  L4  3.0
+  8 Qureshi, Haroon        RBRFJ95Y   794   808/ 72  W14 W20 D5  L2  D10 3.0
+  9 Mavila, Mukund         TBKFK62K   847   831/ 50  W24 L7  L1  W16 W15 3.0
+ 10 Sankapal, Pranav       SNEEJ61E   809   807/ 54  W17 W27 D2  L5  D8  3.0
+ 11 Petito, John           HSCF453W   788   770/ 57  W29 L5  W14 L1  W19 3.0
+ 12 Singh, Namish          JACJG48K   796   774/ 15  W21 L2  L6  W22 W18 3.0
+ 13 Srishankar, Suryaa     SKWGK87F   867   842/ 69  W18 D15 L7  W24 D6  3.0
+ 14 Chai, Alexander        FAPEF76Z   461   522/ 10  L8  W26 L11 W27 W20 3.0
+ 15 Veeramani, Harish      LMAFG31Z   792   779/ 29  W19 D13 L3  W25 L9  2.5
+ 16 Wirkkala, Lawson       HSCHK63V   227   463/ 25  L7  W17 D24 L9  W25 2.5
+ 17 Naveen Kumar, Aadvik   SEHEF95G   591   583/ 22  L10 L16 D23 W28 W24 2.5
+ 18 Zhen, Liam             DCCE622V   701   670/214  L13 W25 W22 L6  L12 2.0
+ 19 Velazco, David         FHMGH40P   301   450/ 10  L15 W28 W20 L4  L11 2.0
+ 20 Jain, Anvay            TMBI874Z   742   644/ 93  W26 L8  L19 W21 L14 2.0
+ 21 Chen, Chris            DCCEG45Y   379   386/ 28  L12 L4  W29 L20 W26 2.0
+ 22 Chen, Aaron            DCCEF92U   161   197/ 25  L1  BYE L18 L12 W29 2.0
+ 23 Shetty, Adwik          BNTHH79N   510   486/ 32  D25 L24 D17 D26 HPB 2.0
+ 24 Pentam, Avish          BCAFJ97W   651   592/ 34  L9  W23 D16 L13 L17 1.5
+ 25 Barker, Harvey         HTNHH06X   819   697/ 45  D23 L18 W28 L15 L16 1.5
+ 26 Polepalli, Srishti     OMSGG34G   216   214/  9  L20 L14 BYE D23 L21 1.5
+ 27 Li, Vincent            DCCEG45W   130   113/ 13  BYE L10 L4  L14 L28 1.0
+ 28 Hernandez, Juan David  DCCHK14B   619   521/ 30  L3  L19 L25 L17 W27 1.0
+ 29 Huang, Tandy           DCCEG99C   280   209/ 23  L11 L6  L21 BYE L22 1.0

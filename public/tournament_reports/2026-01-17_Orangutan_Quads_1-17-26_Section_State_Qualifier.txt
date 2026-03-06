@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Tang, Wesley           WWDBF69A   294   483/ 10  W5  W2  W3  W6  W4  5.0
+  2 Avesar, Isaac          HSCDF91H   385   443/ 19  W3  L1  W4  W5  W6  4.0
+  3 Hill, Soben            HZFEF82T   383   374/ 15  L2  W6  L1  W4  W5  3.0
+  4 Van Creveld, Negev     BRYEG48H   336   262/ 27  W6  D5  L2  L3  L1  1.5
+  5 Aguiluz, Emilio        BRYBH31F   108   124/ 28  L1  D4  W6  L2  L3  1.5
+  6 Glover, Xander         BTHCF77D   100   100/  9  L4  L3  L5  L1  L2  0.0

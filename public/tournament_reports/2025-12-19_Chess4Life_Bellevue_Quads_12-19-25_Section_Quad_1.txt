@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhen Rampenthal, Quinn SASJH53C  1265  1289/148  U   W3  W2  2.0
+  2 Tsay, Elon             LKDFK07B  1084  1069/200  D3  U   L1  0.5
+  3 Zhao, Kevin            EVGFK54M  1076  1063/ 85  D2  L1  U   0.5

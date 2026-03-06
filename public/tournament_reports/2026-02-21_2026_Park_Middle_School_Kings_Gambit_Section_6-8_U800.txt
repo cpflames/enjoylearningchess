@@ -1,0 +1,63 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Qin, Mason             LLMGK97A   530   921/ 92  W40 W7  W5  W19 W3  5.0
+  2 Avetisyan, Vincent     JMLHJ01Z   709   786/ 75  D30 W54 W18 W11 W10 4.5
+  3 Mendoza, Ethan         JMLGJ01H   730   796/ 79  W23 W43 W17 W16 L1  4.0
+  4 Castaneda, Alonso      OCHGK69H   790   815/126  W32 W31 L10 W13 W14 4.0
+  5 Gallegos, Sebastian J  RRGGH43J   735   782/ 55  W20 W59 L1  W24 W16 4.0
+  6 Merrill, Jude          RRGHJ01X   649   719/ 55  W24 W35 L14 W18 W17 4.0
+  7 Zabala, Rodolfo        PRKHF43J   700   839/  5  W50 L1  W36 W25 W19 4.0
+  8 Orozco, Santiago       RRGHF84K   684   717/ 15  W12 L17 W53 W31 W22 4.0
+  9 Garcia, Sergio         RRGG733M   689   703/125  W36 L18 W38 W29 W20 4.0
+ 10 Monzon, Jesus Adrian   STPGJ79J   631   707/ 76  W22 W39 W4  D14 L2  3.5
+ 11 Manambedu-raja, PragdisLLMHG12N   615   688/ 23  D13 W30 W33 L2  W40 3.5
+ 12 Penafiel, Jhon         JMLIJ80Z   517   589/ 53  L8  W51 W27 W21 D15 3.5
+ 13 Baxter, James          RRGHJ01W   442   613/ 45  D11 W26 W49 L4  W30 3.5
+ 14 Canfield, Nathaniel    KCCIF43H   800   776/  5  W62 W29 W6  D10 L4  3.5
+ 15 Hall, Zayne            LLMGI80Q   774   752/ 95  W25 W53 L16 W23 D12 3.5
+ 16 Macatangay, Elijah     CTKHH43C   631   652/ 30  W21 W41 W15 L3  L5  3.0
+ 17 Ferguson, Annabel      CMLGF43G   600   674/  5  W45 W8  L3  W42 L6  3.0
+ 18 Bickford, Conner       KCCGK38T   380   525/ 24  W56 W9  L2  L6  W42 3.0
+ 19 Banuelos, Arturo       OCHHD90C   646   647/176  W61 W27 W37 L1  L7  3.0
+ 20 Canseco, Sam           STPHH90Z   577   576/ 45  L5  W46 W39 W37 L9  3.0
+ 21 Rogers, Sterling       RRGHH27E   478   496/ 59  L16 W28 W34 L12 W41 3.0
+ 22 De La Torre, Ian R     LIBGK97E   479   503/100  L10 W55 W41 W32 L8  3.0
+ 23 Cree, Oliver           RRGGH55J   544   538/ 44  L3  W52 W35 L15 W46 3.0
+ 24 Guzman, Melany         OCHGK69G   501   501/124  L6  W62 W44 L5  W39 3.0
+ 25 Purcell, Blaine        RRGIH55B   578   575/ 63  L15 W58 W59 L7  W35 3.0
+ 26 Garcia, Emma           OCHHJ45L   620   595/ 95  L29 L13 W57 W33 W38 3.0
+ 27 De La Mora, Efren      RRGGJ79B   261   359/ 60  W51 L19 L12 W55 W36 3.0
+ 28 Culbertson, Colton     CMLGF43F   600   417/  5  L54 L21 W61 W53 W37 3.0
+ 29 Shiley, Theodore       CMLGF54J   469   494/ 10  W26 L14 W47 L9  D34 2.5
+ 30 Garcia, Metzi          OCHGJ44Z   511   517/ 94  D2  L11 W45 W49 L13 2.5
+ 31 Bodes, Josiah          HSCIH27U   439   547/ 44  W42 L4  W40 L8  D32 2.5
+ 32 Espinoza, Alejandro    JMLIJ81G   592   552/ 44  L4  W57 W54 L22 D31 2.5
+ 33 Shaw, Ryder            RRGGJ23U   596   551/ 85  W38 D49 L11 L26 W53 2.5
+ 34 Acton, Andrew          PRKHF43E   700   354/  5  W58 L37 L21 W50 D29 2.5
+ 35 Kim, Raphael           PRKGG13A   192   289/ 10  W48 L6  L23 W43 L25 2.0
+ 36 Ines, Tristan          JMLGF54K   525   438/ 10  L9  W60 L7  W48 L27 2.0
+ 37 Muniz, Christopher     RRGHJ79V   527   469/ 60  W47 W34 L19 L20 L28 2.0
+ 38 Jones, Devon           JMLI407J   438   415/129  L33 W48 L9  W44 L26 2.0
+ 39 Plowman, Melanie       RRGIH27S   208   246/ 34  W55 L10 L20 W47 L24 2.0
+ 40 Munoz, Salvador        RRGHK53B   724   648/ 83  L1  W61 L31 W54 L11 2.0
+ 41 Bell, Dominic          JMLGJ23R   100   189/ 15  W44 L16 L22 W56 L21 2.0
+ 42 Bowles, Nathaniel      JMLHJ80J   610   535/ 90  L31 W56 W43 L17 L18 2.0
+ 43 Cozad, Chloe           RRGG531M   348   325/123  W60 L3  L42 L35 W49 2.0
+ 44 Hernandez, Jake        PRKIF43D   800   229/  5  L41 W45 L24 L38 W57 2.0
+ 45 Anderson, Ezekiel      RRGGG64P   340   299/ 25  L17 L44 L30 W52 W55 2.0
+ 46 Krieg, Remi            JMLGJ01J   163   152/ 48  L49 L20 W51 WF  L23 2.0
+ 47 Lopez, Isaac           OCHGF43C   600   227/  5  L37 W50 L29 L39 W62 2.0
+ 48 Chavez, Xavi           OCHGF43B   600   219/  5  L35 L38 W58 L36 W54 2.0
+ 49 Moreno, Elian          STPGF43A   600   273/  5  W46 D33 L13 L30 L43 1.5
+ 50 Simmons, Maxwell       JMLHJ01B   210   171/ 45  L7  L47 W60 L34 D51 1.5
+ 51 Rayas, Agustin         PRKIF42Z   800   108/  5  L27 L12 L46 W58 D50 1.5
+ 52 Hernandez, Genie       JMLHK96J   100   100/ 72  L53 L23 D56 L45 W60 1.5
+ 53 Saedi, Hasiba          PRKGG12Y   390   342/ 25  W52 L15 L8  L28 L33 1.0
+ 54 Guzman, Enrique        STPGF54G   194   218/ 10  W28 L2  L32 L40 L48 1.0
+ 55 Mendoza, Marco         PRKIF42Y   800   100/  5  L39 L22 W62 L27 L45 1.0
+ 56 Barikzai, Palwasha     PRKGG12T   100   100/ 20  L18 L42 D52 L41 D61 1.0
+ 57 Gomez, Daniel          STPGF69G   100   100/ 15  L59 L32 L26 W61 L44 1.0
+ 58 Krieg, Dodger          JMLGH90Y   100   100/ 28  L34 L25 L48 L51 BYE 1.0
+ 59 Bernard, Cardinal      PRKH600Z   397   377/  8  W57 L5  L25 LF  U   1.0
+ 60 Azizah, Nour           PRKGG12W   100   100/  9  L43 L36 L50 W62 L52 1.0
+ 61 Langston, Felicity     JMLH424K   195   124/ 96  L19 L40 L28 L57 D56 0.5
+ 62 Ines, Kendall          JMLGF69C   100   100/ 15  L14 L24 L55 L60 L47 0.0

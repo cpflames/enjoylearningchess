@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ginotra, Karman        RKWGB15D  1163  1304/119  W4  W2  W3  3.0
+  2 Gagnier, Ian           HSCHC72H  1565  1538/279  W3  L1  W4  2.0
+  3 Ning, Pascal           SCDDJ14X   992  1022/ 41  L2  W4  L1  1.0
+  4 Kakkad, Vayu           DCTFK50L  1215  1153/561  L1  L3  L2  0.0

@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Thoppay, Hrithick      BRHFH35N   725   945/ 38  W3  W5  W4  W2  W7  5.0
+  2 Petito, John           HSCF453W   798   829/ 64  W8  W9  W7  L1  W4  4.0
+  3 Senapati, Swayam       MOBFH44Z   664   715/ 46  L1  BYE W12 W6  W10 4.0
+  4 Veeramani, Harish      LMAFG31Z   779   768/ 34  W13 W6  L1  W5  L2  3.0
+  5 Sajeeth, Samay         REJGJ82R   600   598/ 78  W12 L1  W8  L4  W11 3.0
+  6 Kaviyarasan, Jai       SSMEJ29E   528   592/ 59  W7  L4  W9  L3  W8  3.0
+  7 Tallapaneni, Thanvish  SWSDG21R   618   594/ 19  L6  W11 L2  W9  L1  2.0
+  8 Rastogi, Ishan         GRRFG32Z   211   301/ 13  L2  W10 L5  W11 L6  2.0
+  9 Kim, Lucas             WOBEJ74R   586   545/ 15  W10 L2  L6  L7  W13 2.0
+ 10 Devavarapu, Ananya SresCMCEH54Z   646   538/ 84  L9  L8  BYE W12 L3  2.0
+ 11 Satish Kumar, NithyashrCENEJ51U   199   186/ 34  BYE L7  W13 L8  L5  2.0
+ 12 Neville, Kelton        SREGF46M   600   275/  4  L5  W13 L3  L10 U   1.0
+ 13 Li, John               EMNEH05V   100   100/ 13  L4  L12 L11 BYE L9  1.0

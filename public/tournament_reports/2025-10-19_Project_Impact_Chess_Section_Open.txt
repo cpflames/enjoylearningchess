@@ -1,0 +1,33 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Tan, Johnny            DCCMJ72U  1584  1613/ 33  W9  W10 W7  W4  4.0
+  2 Porad-brand, Lewis     CLELH22V   955  1190/ 30  W28 W5  W6  W3  4.0
+  3 Ma, Ziliang            DCCIA69N  1401  1392/202  W8  W21 W13 L2  3.0
+  4 Tam, Oliver            DCCL394H  1380  1388/ 79  W14 W16 W12 L1  3.0
+  5 Mulugeta, Imnet        DCCIH94N  1009  1068/ 34  W22 L2  W17 W14 3.0
+  6 Pines, Anthony         ADUNG09A  1300  1337/  4  W15 W25 L2  W12 3.0
+  7 Mccloud, Antonio       ADUNG08Z  1300  1420/  4  W11 W24 L1  W18 3.0
+  8 Hill, Thomas           ADUNG08Y  1300  1284/  4  L3  W19 W21 W13 3.0
+  9 Wenger, Richard        ADUNG08X  1300  1398/  4  L1  W27 W22 W15 3.0
+ 10 Zhen, Liam             DCCE622V   632   704/204  W23 L1  W26 W11 3.0
+ 11 Shabazz, Jameel        ADUNG08W  1300   701/  4  L7  W20 W16 L10 2.0
+ 12 Myers, Randy           ADUNG08V  1300  1188/  4  W18 W26 L4  L6  2.0
+ 13 Griffin, Lincoln       DCCHK13Y   848   896/ 24  W30 W17 L3  L8  2.0
+ 14 Bowie, Kwasi           ADUNG08U  1300  1027/  4  L4  W23 W25 L5  2.0
+ 15 Sabree, Belal          ADUNG08T  1300  1048/  4  L6  W28 W24 L9  2.0
+ 16 Mulugeta, Senai        DCCGH52P   541   536/ 18  W27 L4  L11 W23 2.0
+ 17 Makinde, Maxwell       ADUNG08R  1300   992/  4  W29 L13 L5  W25 2.0
+ 18 Griffin, Derrick       ADUNG08Q  1300  1061/  4  L12 W32 W29 L7  2.0
+ 19 Makinde, Bim           ADUNG08P  1300  1070/  3  LF  L8  W31 W26 2.0
+ 20 Gonzalez Lagos, ChristiDCCDG46A   311   320/ 13  L24 L11 BYE W27 2.0
+ 21 Williams, Jesseray     DCCGK16V   130   132/ 13  WF  L3  L8  D22 1.5
+ 22 Chen, Chris            DCCEG45Y   100   145/ 12  L5  W30 L9  D21 1.5
+ 23 Brown, Chase           ADUNG08L  1300   334/  4  L10 L14 W28 L16 1.0
+ 24 Hill, Jason            ADUNG08K  1300   768/  3  W20 L7  L15 U   1.0
+ 25 Shabazz, Angela        ADUNG08E  1300   811/  4  W31 L6  L14 L17 1.0
+ 26 Makinde, Amoures       ADUNG08D  1300   504/  4  W32 L12 L10 L19 1.0
+ 27 Schiff, Stan           ADUNG08C  1300   209/  4  L16 L9  W30 L20 1.0
+ 28 Mulugeta, Mana         DCCCH51C   100   100/ 13  L2  L15 L23 BYE 1.0
+ 29 Rhodes, Quorde         ADUNG08B  1300   867/  3  L17 W31 L18 U   1.0
+ 30 Bruce, Miles           DCCDG08A   300   100/  3  L13 L22 L27 U   0.0
+ 31 Bruce, Rodney          ADUNG07X  1300   584/  3  L25 L29 L19 U   0.0
+ 32 Lopez, Jayce           DCCCG07W   200   100/  2  L26 L18 U   U   0.0

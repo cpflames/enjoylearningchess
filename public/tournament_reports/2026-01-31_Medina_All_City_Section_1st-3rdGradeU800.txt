@@ -1,0 +1,91 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Sharma, Sidarth        EVGDJ75G   705   811/141  W52 W31 W10 W7  W9  5.0
+  2 Patil, Adeesh          STVCF61L   200  1127/  5  W62 W26 W5  W19 W4  5.0
+  3 Siddharth, Akhil       FRWBG36J   439   701/ 21  W82 W51 W6  W8  W21 5.0
+  4 Manjunatha, Neeraj RaghSTVCH24D   699   744/ 28  W80 W13 W16 W11 L2  4.0
+  5 Menezes, Kian          MEDDJ97B   669   714/115  W46 W14 L2  W27 W33 4.0
+  6 Hurd, Charles          EVGDJ72C   694   700/ 68  W34 W36 L3  W45 W32 4.0
+  7 Guddanti, Akshara      LMADG43E   465   576/ 41  W59 W28 W25 L1  W30 4.0
+  8 Liu, Nia               SOMDJ84Y   476   556/ 44  W73 W55 W12 L3  W28 4.0
+  9 Wang, Yuhui            SCDBG69B   463   603/ 15  W78 W24 W23 W22 L1  4.0
+ 10 Mirchandani, Kavir     MEDDJ97A   447   576/153  W56 W50 L1  W37 W20 4.0
+ 11 Wang, Shirley          MEDCG91H   431   604/ 24  W71 W43 W18 L4  W29 4.0
+ 12 Kondapalli, Keyura     EVGCJ67E   386   502/ 63  W38 W48 L8  W49 W22 4.0
+ 13 Zhang, Alex            MEDDG90X   380   473/ 13  W53 L4  W73 W35 W19 4.0
+ 14 Milletari, Valerian    JINBH35X   374   538/ 41  W63 L5  W77 W18 W24 4.0
+ 15 Mohan, Adrith          SSMDJ05Y   614   618/ 74  L18 W72 W47 W23 W26 4.0
+ 16 Konduri, Agasthya      KKNBH51G   440   459/ 51  W72 W79 L4  D43 W44 3.5
+ 17 Zhang, Dustin          MEDDJ46J   244   418/ 28  HPB L20 W46 W70 W45 3.5
+ 18 Liang, Dangdang        MEDCJ12R   562   569/ 80  W15 W27 L11 L14 W43 3.0
+ 19 Feng, Michael          CBRDG87H   509   520/ 41  W57 W37 W30 L2  L13 3.0
+ 20 Wei, Brayden           ETSDK90F   643   595/128  L43 W17 W34 W40 L10 3.0
+ 21 Hasson, Ari            SJCCJ47L   647   601/ 95  W47 L23 W52 W31 L3  3.0
+ 22 Reddy, Aariv           GRRDK34T   509   496/151  W67 W66 W33 L9  L12 3.0
+ 23 Watson, Oren           CSICG45H   327   446/ 19  W54 W21 L9  L15 W50 3.0
+ 24 Armstrong, Josephine   EVGDK86A   495   490/159  W68 L9  W58 W25 L14 3.0
+ 25 Zhu, Jasper            MEDBH19A   367   420/ 25  W60 W29 L7  L24 W53 3.0
+ 26 Young, Mariella        LKDCJ54Q   399   425/ 44  W64 L2  W78 W48 L15 3.0
+ 27 Slager, Zayn           SCDBG68Z   355   380/ 15  W65 L18 W38 L5  W59 3.0
+ 28 Lagos, Christian GonzalDCCDF62W   322   375/ 10  W87 L7  W42 W69 L8  3.0
+ 29 Venkatesh, Aiden       WEDBH37S   627   571/ 62  W58 L25 W57 W44 L11 3.0
+ 30 Priday, Phoebe         MEDDG15W   396   404/ 10  W84 W41 L19 W53 L7  3.0
+ 31 Zhou, Owen             MEDDG91Y   370   394/ 22  W81 L1  W51 L21 W55 3.0
+ 32 Eustis, Kevin          SCDBJ72A   461   442/ 30  L44 W71 W55 W39 L6  3.0
+ 33 Crystal, Jordan        KSTCG57S   422   443/ 36  W88 W49 L22 W50 L5  3.0
+ 34 Li, Ryder              MEDCJ66R   242   347/104  L6  W63 L20 W79 W61 3.0
+ 35 Smith, Soren           CSICG98X   303   326/ 39  W86 W61 L44 L13 W48 3.0
+ 36 Berjis, Liana          MEDDB72R   355   359/152  W74 L6  L50 W56 W57 3.0
+ 37 Dowtin, Jack           BUSCG35M   336   353/ 12  W77 L19 W79 L10 W60 3.0
+ 38 Sadana, Ranveer        MEDDG90G   100   206/  9  L12 BYE L27 W52 W69 3.0
+ 39 Wu, Max                MEDBF92G   325   328/ 10  L48 W83 W54 L32 W49 3.0
+ 40 Ray, Ahana             SSMDH29L   338   335/ 20  L49 W82 W56 L20 W64 3.0
+ 41 Tang, Ryan             MEDDJ43K   280   281/ 19  W76 L30 L48 W84 W54 3.0
+ 42 Sims, Evan             SYRBF61J   100   300/  5  L69 W76 L28 W78 W66 3.0
+ 43 Pan, Charles           SCDBH75R   224   381/ 27  W20 L11 W61 D16 L18 2.5
+ 44 Li, Luna [medina]      MEDDG63A   131   280/ 10  W32 D45 W35 L29 L16 2.5
+ 45 Stark, Lachlan         LKDDK28V   464   428/ 73  W70 D44 W69 L6  L17 2.5
+ 46 Sadana, Aarav          MEDBG90A   240   277/ 10  L5  D60 L17 W81 W70 2.5
+ 47 Yang, Emma M           MEDDG90Y   233   255/ 17  L21 W81 L15 D51 W75 2.5
+ 48 Wang, Felix            MEDCF61H   200   285/  5  W39 L12 W41 L26 L35 2.0
+ 49 Mohseni, Niki          MEDBF61G   100   285/  5  W40 L33 W66 L12 L39 2.0
+ 50 Kim, Austin            MEDDF61F   300   317/  5  W85 L10 W36 L33 L23 2.0
+ 51 Bigelow, Roman         WMEBF61E   100   245/  5  W75 L3  L31 D47 D58 2.0
+ 52 Karlsson, Jordan       SYRDG57Z   258   250/ 19  L1  W64 L21 L38 W84 2.0
+ 53 Vanderhoeven, Thomas   BUSCH51A   208   217/ 24  L13 W74 W80 L30 L25 2.0
+ 54 Suehisa, Shinji        CGRCF61B   200   190/  5  L23 W67 L39 W73 L41 2.0
+ 55 Anutham, Arya          MEDDK34Y   227   208/ 44  WF  L8  L32 W65 L31 2.0
+ 56 Liang, Dingding        MEDCJ12N   125   163/ 42  L10 W85 L40 L36 W77 2.0
+ 57 Guo, Felix             DCCBF92C   206   215/ 29  L19 W75 L29 W77 L36 2.0
+ 58 Xie, Ian               UCDBF66U   223   217/ 10  L29 W65 L24 D75 D51 2.0
+ 59 Tuladhar, Kiran        SYRBF65L   180   189/ 10  L7  D70 D60 W87 L27 2.0
+ 60 Hang, Charlotte        MEDDF61A   300   196/  5  L25 D46 D59 W80 L37 2.0
+ 61 Ren, Lawrence          MEDBG06B   402   319/ 17  W83 L35 L43 W71 L34 2.0
+ 62 Anutham, Nikhil        MEDBH31K   332   283/ 24  L2  L88 W63 L64 W83 2.0
+ 63 Blair, Georgia         SYRCF60Z   200   211/  5  L14 L34 L62 W86 W80 2.0
+ 64 Pan, Lyla              MEDDJ12W   100   142/ 15  L26 L52 W90 W62 L40 2.0
+ 65 Joshi, Abir            MEDDF60Y   300   138/  5  L27 L58 W68 L55 W78 2.0
+ 66 Sisolak, Cole          EVGCJ66Y   326   251/ 63  WF  L22 L49 W83 L42 2.0
+ 67 Xi, Kai                MEDBG89Y   191   152/ 10  L22 L54 D81 D74 W79 2.0
+ 68 Rosenthal, Sophia      MEDBG62V   186   149/ 15  L24 L77 L65 W90 W87 2.0
+ 69 Zhou, Selena           MEDDK85T   330   264/ 36  W42 HPB L45 L28 L38 1.5
+ 70 Tang, Ryder            MEDCJ66E   173   158/ 25  L45 D59 W85 L17 L46 1.5
+ 71 Jiang, Mubai           MEDBG89R   100   105/ 15  L11 L32 W86 L61 D74 1.5
+ 72 Wang, Wesley           MEDBG05P   125   113/ 16  L16 L15 D74 D85 D76 1.5
+ 73 Mccarthy, Evelyn       CDLCG71Z   185   156/ 17  L8  W86 L13 L54 HPB 1.5
+ 74 Huangxu, Nicholas      MEDDF60X   300   100/  5  L36 L53 D72 D67 D71 1.5
+ 75 Man, Alex              MEDBF60W   100   100/  5  L51 L57 W82 D58 L47 1.5
+ 76 Zwiegincew, Natalie    MEDDF60V   300   100/  5  L41 L42 L83 W82 D72 1.5
+ 77 Pan, Lyam              MEDBF60T   100   100/  5  L37 W68 L14 L57 L56 1.0
+ 78 Xu, Amy                MEDCG05S   169   126/ 15  L9  W90 L26 L42 L65 1.0
+ 79 Zhang, Max             MEDBG89P   100   100/  9  BYE L16 L37 L34 L67 1.0
+ 80 Zhang, Mya             EVGCJ66G   276   175/ 73  L4  W84 L53 L60 L63 1.0
+ 81 Goyal, Nivaan          MEDCF60S   200   100/  5  L31 L47 D67 L46 D85 1.0
+ 82 Chen, Oscar            MEDBG05N   100   100/ 14  L3  L40 L75 L76 BYE 1.0
+ 83 Li, Lexi               MEDBG05L   100   100/ 15  L61 L39 W76 L66 L62 1.0
+ 84 Rebrikova, Miia        MEDDJ42N   100   100/ 17  L30 L80 BYE L41 L52 1.0
+ 85 Xu, Bella              MEDCG05Z   353   192/ 13  L50 L56 L70 D72 D81 1.0
+ 86 Zwiegincew, Alice      MEDBF60R   100   100/  5  L35 L73 L71 L63 W90 1.0
+ 87 Zhang, Daniel          MEDBF60N   100   100/  3  L28 HPB HPB L59 L68 1.0
+ 88 Landau, Hunter         MEDCG90B   100   265/  3  L33 W62 U   U   U   1.0
+ 89 Zhang, Leon            MEDCH47E   293   315/ 16  W90 LF  U   U   U   1.0
+ 90 Zwiegincew, Julia      MEDBF60M   100   100/  5  L89 L78 L64 L68 L86 0.0

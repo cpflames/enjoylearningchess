@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Deshmukh, Dhruv        ENDFH79Q   914  1004/109  W2  W4  D3  2.5
+  2 Kennerud, Caedmon      LGHHH61R   963   983/ 65  L1  W3  W4  2.0
+  3 Mohan, Sonit           TMCHG19P   924   930/ 19  W4  L2  D1  1.5
+  4 Mathur-badam, Arin     BMNCG27N   935   859/ 54  L3  L1  L2  0.0

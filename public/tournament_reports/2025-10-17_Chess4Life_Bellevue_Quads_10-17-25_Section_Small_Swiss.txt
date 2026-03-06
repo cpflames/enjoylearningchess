@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Taqiaddin, Badr        INGIG16D   800   867/  3  W3  W4  W2  3.0
+  2 Beasley, Chloe         LLFFH65R   100   224/ 34  W4  W5  L1  2.0
+  3 Kim, Nathan            SAREG16C   400   483/  3  L1  W6  W5  2.0
+  4 Lo, Rory               CGACG28E   100   125/  6  L2  L1  W6  1.0
+  5 Zhang, Edgar           LTLBG16B   100   130/  3  W6  L2  L3  1.0
+  6 El Fassy Fihry, Summer LLFEG27K   100   100/ 12  L5  L3  L4  0.0

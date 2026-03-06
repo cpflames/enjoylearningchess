@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jain, Adhrit           SPTDH36P   441   622/ 37  W3  W4  W2  3.0
+  2 Balaji, Vaibhav        SSMDH28Z   535   491/116  W4  L3  L1  1.0
+  3 Snow, Tor              SNEFK43V   453   436/ 22  L1  W2  L4  1.0
+  4 Nandakiran, Advaith    SSMDJ88H   454   436/212  L2  L1  W3  1.0

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Raman, Arjun           ETSDH96Y  1149  1204/ 58  W3  W2  2.0
+  2 Jang, Jinwon           EMSI561P  1254  1240/225  W4  L1  1.0
+  3 Mccarthy, Eugene       CDLFG73B  1082  1069/ 51  L1  W6  1.0
+  4 Lai, Austin            EVGEK94F  1104  1095/132  L2  W5  1.0
+  5 Sankapal, Pranav       SNEEJ61E   807   820/ 56  W6  L4  1.0
+  6 Sang, Andy             BASDK65W   742   707/137  L5  L3  0.0

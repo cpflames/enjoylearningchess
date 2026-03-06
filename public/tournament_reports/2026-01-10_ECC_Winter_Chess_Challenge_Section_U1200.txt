@@ -1,0 +1,22 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Jayakrishnan, Chethan KJACJH06G   926  1200/ 41  W11 W2  W7  W5  W4  5.0
+  2 Thompson, Hugo         SSNIH55A  1101  1113/ 35  W18 L1  W15 W8  W6  4.0
+  3 Jayakrishnan, Archith  FRVCG58A   664   932/ 43  W10 W19 D5  D6  W9  4.0
+  4 Bhambri, Vansh         TYEGJ57J  1053  1067/ 33  W15 D6  W12 W7  L1  3.5
+  5 Gridasov, Robert       BENFJ03F  1007  1033/ 49  W17 W13 D3  L1  W10 3.5
+  6 Patneaude, Michael     ADUNK09M   858   914/ 17  W16 D4  W9  D3  L2  3.0
+  7 Raghavendran, Vedanth  DCSCH24C  1106  1084/ 59  W19 W8  L1  L4  W12 3.0
+  8 Swindell, Adam         MRLGG32Q   922   918/ 82  WF  L7  W14 L2  W13 3.0
+  9 Krishna, Vihaan        REEE263E   964   914/ 56  W14 D12 L6  W15 L3  2.5
+ 10 Bolisetty, Varun       HMNEJ73Z  1098  1027/217  L3  D11 W20 W13 L5  2.5
+ 11 Iyer, Anirudh          RSADH36Q   603   704/ 44  L1  D10 W19 L12 W14 2.5
+ 12 Dhanalakota, Nikhil    HEAHF81G   840   841/ 19  W21 D9  L4  W11 L7  2.5
+ 13 Padmanabhuni, Vihaan   LMAFH69J   845   802/ 43  W20 L5  W16 L10 L8  2.0
+ 14 Raghavendran, Vishakh  DCSEH24Q   625   629/ 53  L9  W17 L8  W16 L11 2.0
+ 15 Cheng, Ary             KSHBG24S   666   652/ 41  L4  W21 L2  L9  W20 2.0
+ 16 Cheryan, Yohaan        ESCI810F   347   433/  9  L6  W18 L13 L14 BYE 2.0
+ 17 Veligeti, Ayaansh      TBKBF88T   637   601/ 18  L5  L14 L18 BYE W19 2.0
+ 18 Thati, Rutvik Reddy    RKWFG17X   749   709/ 36  L2  L16 W17 HPB HPB 2.0
+ 19 Ahmed, Yassin          BLMHF93N   798   639/ 10  L7  L3  L11 W20 L17 1.0
+ 20 John, Joshua           CNCEG32H   139   139/  9  L13 BYE L10 L19 L15 1.0
+ 21 Padamati, Nivin        TBKBF66Z   100   253/  2  L12 L15 BYE U   U   1.0

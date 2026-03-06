@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Welch, Gideon          XXXCH75H   403   413/ 31  W4  L2  W3  2.0
+  2 Potter, David          SDRDZ40L   322   387/  6  L3  W1  W4  2.0
+  3 Mullinix, Jaden        SD2HZ812   358   319/ 22  W2  L4  L1  1.0
+  4 Elisara, Ethan         JHAEZ38A   400   242/  3  L1  W3  L2  1.0

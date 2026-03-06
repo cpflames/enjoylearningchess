@@ -1,0 +1,51 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Raja, Rian             SKWI786E  1693  1712/254  W49 W22 W5  W3  D2  4.5
+  2 Koripella, Dheeran     EALJ610W  1571  1597/ 90  D17 W24 W33 W4  D1  4.0
+  3 Hyman, Daniel          ADUNG18H  1456  1554/ 14  W42 W25 W21 L1  W16 4.0
+  4 Satish Kumar, Sai NavanJFMHH21Y  1370  1476/125  W48 W12 W6  L2  W25 4.0
+  5 Hamlett, James         ADUN4372  1414  1438/114  W23 W28 L1  W35 D10 3.5
+  6 Zhang, Patrick         CDIDK01J  1391  1413/382  W47 W26 L4  W33 D8  3.5
+  7 Rao, Deepak Sri KartikeINTJ517J  1464  1472/243  D34 W40 D8  D14 W23 3.5
+  8 Singh, Balbir          ADUNK95S  1417  1454/ 63  HPB W36 D7  W24 D6  3.5
+  9 Ma, Lewis              SOME587M  1550  1553/249  D40 W17 D13 HPB W22 3.5
+ 10 Brendemihl, Steven     ADUNA192  1500  1511/ 10  W37 W39 HPB D21 D5  3.5
+ 11 Raj, Skandha           EVGDK55U  1411  1446/198  L33 W29 HPB W41 W21 3.5
+ 12 Ye, Alex               PLKGH51L  1370  1395/340  W14 L4  W27 D22 D13 3.0
+ 13 Ghosh, Snehil          REJG738T  1429  1420/266  W27 D35 D9  D23 D12 3.0
+ 14 Ma, Ziliang            DCCIA69N  1386  1401/198  L12 W38 W42 D7  D15 3.0
+ 15 Urali, Sanjay          OMSI315D  1490  1465/381  W32 L33 D26 W40 D14 3.0
+ 16 Narkhede, Kshitij      CRKEA27K  1377  1380/160  L26 W37 W44 W34 L3  3.0
+ 17 Avula, Varshith Reddy  RHJJ110R  1337  1361/295  D2  L9  HPB W46 W35 3.0
+ 18 Chandra Ramachandran, SADUNG16P  1381  1356/  5  L35 W47 L23 W36 W33 3.0
+ 19 Cui, Kevin             ADUNG16N  1300  1383/  5  L20 W49 L22 W47 W34 3.0
+ 20 Qin, Skyler            OPWCJ97T  1343  1369/196  W19 L21 W46 HPB HPB 3.0
+ 21 Nawagamudewage, NaadithMELGJ11W  1558  1532/ 59  W29 W20 L3  D10 L11 2.5
+ 22 Avula, Guru Harshith ReBRHG633Y  1388  1400/218  W46 L1  W19 D12 L9  2.5
+ 23 Anbuselvam, Mithran    HEAHH61F  1155  1256/232  L5  W43 W18 D13 L7  2.5
+ 24 Yao, Baoshuo           EVPBG16L   100  1405/  5  W31 L2  W45 L8  D30 2.5
+ 25 Deng, Stanley          LLMHK22E  1691  1635/394  W50 L3  D34 W28 L4  2.5
+ 26 Lagzdin, Mikhail       HMNDJ96R  1156  1238/ 98  W16 L6  D15 D31 HPB 2.5
+ 27 Glaser, Liam           PCLGG34P  1172  1231/ 19  L13 W30 L12 D39 W41 2.5
+ 28 Shah, Aariv            PFCI527D  1058  1165/ 58  W30 L5  W39 L25 HPB 2.5
+ 29 Murthy, Raghav         ADUNG16K  1325  1332/  5  L21 L11 D43 W50 W44 2.5
+ 30 Nawagamudewage, Inura  KAMJJ11V  1380  1340/ 59  L28 L27 W49 W48 D24 2.5
+ 31 Alvarado, Alexander    ADUNJ69R  1343  1319/ 48  L24 L46 W37 D26 W39 2.5
+ 32 Martin, Olin           ADUNK09N  1291  1308/ 29  L15 HPB L40 W43 W45 2.5
+ 33 Rish-brown, Jacob      HABGK61J  1242  1280/109  W11 W15 L2  L6  L18 2.0
+ 34 Sreraman, Rahul        BABFJ42L  1262  1287/317  D7  W41 D25 L16 L19 2.0
+ 35 Dixit, Ved             ENSEH63Q  1021  1101/ 51  W18 D13 HPB L5  L17 2.0
+ 36 Xu, Yang               EVGG649B  1182  1202/226  D41 L8  D38 L18 W47 2.0
+ 37 Sreraman, Rohit        BABFG92Q  1297  1264/333  L10 L16 L31 WF  W42 2.0
+ 38 Wang, Harvey           OPWDJ68G  1391  1337/187  L39 L14 D36 HPB W46 2.0
+ 39 Pande, Aryan           DCSC493M  1190  1181/ 90  W38 L10 L28 D27 L31 1.5
+ 40 Rish-brown, Jackson    HABGH57T  1318  1326/ 96  D9  L7  W32 L15 U   1.5
+ 41 Rao, Atharv            TYEHB90T  1430  1347/144  D36 L34 W48 L11 L27 1.5
+ 42 Wu, Jonathan           UCDEK14H  1188  1182/127  L3  W50 L14 HPB L37 1.5
+ 43 Bondar, Dmitriy        REDKI117  1371  1319/ 52  U   L23 D29 L32 W48 1.5
+ 44 Ivanov, Matvei         EABEK34E  1231  1207/129  HPB D45 L16 HPB L29 1.5
+ 45 Lai, Ryan              SHSCH70N  1416  1356/143  HPB D44 L24 HPB L32 1.5
+ 46 Underwood, Brannon     ADUNG16Z  1216  1167/ 10  L22 W31 L20 L17 L38 1.0
+ 47 Han, Kaiyi             SOMDK42P  1220  1184/158  L6  L18 W50 L19 L36 1.0
+ 48 Yin, Vicky             BNGGZ897   864   852/ 17  L4  BYE L41 L30 L43 1.0
+ 49 Chaudhuri, Arihant     CHAG703E  1309  1265/326  L1  L19 L30 LF  BYE 1.0
+ 50 Samara, Ferris         ADUNH00C  1338  1248/ 14  L25 L42 L47 L29 U   0.0

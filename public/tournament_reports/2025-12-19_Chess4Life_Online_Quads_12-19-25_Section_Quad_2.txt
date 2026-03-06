@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Devlin, Austin         PLBIK25F   866   906/ 77  W3  W4  L2  2.0
+  2 Zhou, Jeffrey          ICKIG20T   892   918/ 21  W4  L3  W1  2.0
+  3 Wong, Ryan             TYEJK01H   901   925/ 26  L1  W2  W4  2.0
+  4 Qureshi, Haroon        RBRFJ95Y   895   814/ 60  L2  L1  L3  0.0

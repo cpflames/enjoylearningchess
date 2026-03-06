@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Gorbatenko, Leon       CRKGH58G   542   693/ 48  W3  W2  D4  2.5
+  2 Wang, Graham           MEDEG90V   568   647/ 25  W4  L1  W3  2.0
+  3 Abdukarimov, Samin     BENBH67S   594   581/186  L1  W4  L2  1.0
+  4 Talukdar, Yuvaan       RBRCH76K   767   674/142  L2  L3  D1  0.5

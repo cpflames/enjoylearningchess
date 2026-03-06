@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sturrock, Daniel       MRDKH40L  1173  1290/ 20  W7  W4  W2  3.0
+  2 Orsino, Thomas         SQUJH40B  1071  1140/ 71  W8  W6  L1  2.0
+  3 Peng, Ian              LYCMK06L  1189  1237/  6  L4  W8  W5  2.0
+  4 Moors, Samuel          BLHLH93D  1111  1134/128  W3  L1  D6  1.5
+  5 Ravitsky, Koby         SQUJG73J  1030  1073/ 32  D6  W7  L3  1.5
+  6 Peterson, Caden        BHMMJ85V  1178  1140/ 59  D5  L2  D4  1.0
+  7 Palmer, Evan           BHMMI90S  1258  1215/232  L1  L5  W8  1.0
+  8 Fredette, Blaise       BECHH95C  1185  1113/ 99  L2  L3  L7  0.0

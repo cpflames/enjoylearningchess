@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Snyder, Damien         CEEFC98M   636   745/ 57  W4  W8  W5  W2  L3  4.0
+  2 Bormuth, Lucas         LYCFD92J   867   855/ 47  W9  W10 W3  L1  W4  4.0
+  3 Buckham, George        SKYFK37E   600   656/137  W10 W9  L2  W8  W1  4.0
+  4 Charron, Clark         NORFF45P   500   620/  5  L1  W7  W11 W5  L2  3.0
+  5 Verduin, Bentley       CUEFK37A   641   607/ 76  W11 W6  L1  L4  W8  3.0
+  6 Katyal, Zion           BECFF45N   500   375/  5  W7  L5  L8  W9  W10 3.0
+  7 Lynch, Hannah          CUEFG66W   271   276/ 14  L6  L4  W10 W11 BYE 3.0
+  8 Martushev, Maksim      CUEFG72R   148   219/ 12  BYE L1  W6  L3  L5  2.0
+  9 Lynch, Noah            CUEFG72U   256   245/ 18  L2  L3  BYE L6  W11 2.0
+ 10 Zsiros, Oliver         CUEFF45M   500   100/  4  L3  L2  L7  BYE L6  1.0
+ 11 Kramer, Hudson         CIAFG66T   179   117/ 14  L5  BYE L4  L7  L9  1.0

@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kakarlapudi, Jairam IshMEDD585M   759   923/ 70  W7  W12 W3  W4  W6  5.0
+  2 Karthik, Ayaan         BRHAG16J   100   804/  5  L14 W8  W17 W13 W5  4.0
+  3 Cheng, Ary             KSHBG24S   705   722/ 25  W16 W18 L1  D5  W10 3.5
+  4 Zhao, Jerry            EVGBH97K   775   760/ 92  D10 W19 W14 L1  W11 3.5
+  5 Huang, Damon           CHRDG71K   747   742/ 46  W8  D14 W6  D3  L2  3.0
+  6 Anand, Krishna         LMACJ95V   679   677/ 79  W9  W15 L5  W12 L1  3.0
+  7 Nayak, Aarav           SCDCG69Y   449   541/ 10  L1  W9  L13 W15 W12 3.0
+  8 Rao, Aadvik            SOMDB57X   423   522/ 78  L5  L2  W16 W19 W13 3.0
+  9 Saha, Nora             WLVBW75Q   376   385/  3  L6  L7  BYE W17 WF  3.0
+ 10 Rajesh Kumar, Dhruva   RSADJ89S   480   492/ 13  D4  L13 W19 W18 L3  2.5
+ 11 Mummidi, Kushal        KKNDG17V   238   330/  9  L12 BYE W18 D14 L4  2.5
+ 12 Chen, Yisu             RKWCH78H   607   563/102  W11 L1  W15 L6  L7  2.0
+ 13 Chanda, Rishabh        BCABH72X   663   596/ 87  L15 W10 W7  L2  L8  2.0
+ 14 Anand, Nivaan          MCECH64F   524   576/129  W2  D5  L4  D11 LF  2.0
+ 15 Dai, Kevin             CMCBH23V   332   346/ 34  W13 L6  L12 L7  BYE 2.0
+ 16 Kalyanasundaram, SrinivCNCDH48Q   422   384/ 52  L3  L17 L8  BYE W18 2.0
+ 17 Mirchandani, Kavir     MEDDJ97A   452   406/139  L18 W16 L2  L9  W19 2.0
+ 18 Kondapi, Srivatsa      FRWCG17U   481   359/ 10  W17 L3  L11 L10 L16 1.0
+ 19 Ghosh, Oishani         CBRCJ56E   215   176/ 83  BYE L4  L10 L8  L17 1.0

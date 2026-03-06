@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Liu, Evan              EVGCJ66Z   298   435/ 28  W13 D5  W7  W2  3.5
+  2 Wingate-yang, Oliver   EVGCG07T   200   488/  4  W5  W4  W6  L1  3.0
+  3 Akoum, Ray             EVGBH03W   100   266/ 14  L4  W10 W11 W6  3.0
+  4 Shih, Alan             EVGBH47A   334   340/ 39  W3  L2  W12 D7  2.5
+  5 Sisolak, Cole          EVGCJ66Y   180   274/ 49  L2  D1  W10 W12 2.5
+  6 Vincent, Carter        EVGBG07S   100   227/  4  W9  W11 L2  L3  2.0
+  7 Mehran, Vida           EVGBG07R   100   233/  4  D10 W9  L1  D4  2.0
+  8 Ramage, Max            EVGBG56X   225   304/  7  U   U   W13 W11 2.0
+  9 Schmeiser, Isabella    EVGCG07Q   200   100/  3  L6  L7  BYE D10 1.5
+ 10 Singh, Saara           EVGBG07P   100   100/  4  D7  L3  L5  D9  1.0
+ 11 Rubenson, Trevor       EVGCG07N   200   100/  4  W12 L6  L3  L8  1.0
+ 12 Chen, Ethan            EVGBG07M   100   100/  4  L11 W13 L4  L5  1.0
+ 13 Hunt, Sage             EVGBG07L   100   100/  3  L1  L12 L8  BYE 1.0

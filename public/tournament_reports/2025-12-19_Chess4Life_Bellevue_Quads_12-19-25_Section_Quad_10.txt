@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tang, Elliot           LKWFF78P   500   669/  3  D2  W3  W4  2.5
+  2 Sundar, Siddharth      RSHEF78N   400   669/  3  D1  W4  W3  2.5
+  3 Singh, Rahyl           KKNFF78Q   500   325/  3  W4  L1  L2  1.0
+  4 Yoganand, Sairika      CDWAF94U   100   100/  6  L3  L2  L1  0.0

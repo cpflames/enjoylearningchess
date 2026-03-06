@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Vijeyanandh, Vishnu    REDKF63Z  1463  1483/219  W8  W5  W4  W2  W3  5.0
+  2 Swindell, Adam         MRLGG32Q  1014  1029/ 50  L6  W7  W5  L1  W4  3.0
+  3 Cai, Emily             CNHDH60H  1001  1017/103  L5  W8  W6  W4  L1  3.0
+  4 Sharma, Vihaan         BRHFG03V   500   952/  5  W7  W6  L1  L3  L2  2.0
+  5 Lee, Jaydon            RSHGH25S   849   876/ 59  W3  L1  L2  L8  W7  2.0
+  6 Rabena, Akira          MAHGH44G   855   864/ 21  W2  L4  L3  L7  W8  2.0
+  7 Zeitlin, Tom           WOBGI56H   952   915/143  L4  L2  W8  W6  L5  2.0
+  8 Sijin, Ryan            BENDG24X   917   865/ 43  L1  L3  L7  W5  L6  1.0

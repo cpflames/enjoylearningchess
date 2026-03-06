@@ -1,0 +1,41 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Shinkarev, Slava       KAMLJ77F  1608  1629/ 85  W16 W9  U   W7  W29 4.0
+  2 Kum, Leon              MRRKH46X  1131  1281/ 22  W29 W14 D7  W8  U   3.5
+  3 Gary, Declan           EDWKF49V  1017  1042/  8  U   W20 W13 W30 L4  3.0
+  4 Kolli, Vaibhav         JACMK905  1026  1093/ 96  W21 U   U   W17 W3  3.0
+  5 Singh, Atharva         JACJK06G  1257  1261/ 88  W30 U   U   W15 W32 3.0
+  6 Jayakrishnan, Chethan KJACJH06G  1199  1212/ 56  W34 U   U   W35 W19 3.0
+  7 Einfeld, Ethan         EDWLG79Q  1502  1489/ 21  U   W31 D2  L1  W10 2.5
+  8 Bates, Killian         JACKK18M  1256  1259/ 79  W12 U   U   L2  W11 2.0
+  9 Duong, Duc             MRRMH46G  1144  1146/ 27  W31 L1  W18 L10 U   2.0
+ 10 Chillakuru, Hem        JACLK08D  1265  1280/ 35  W14 U   U   W9  L7  2.0
+ 11 Ngo, Joshua            EDWMB43H   894   952/119  U   L22 W15 W14 L8  2.0
+ 12 Hutahaean, Patrick     KAMMG79P  1133  1143/  7  L8  W17 U   W18 U   2.0
+ 13 Martinez Mendez, Cesar MRRJF49W   957   897/  5  W33 W38 L3  U   U   2.0
+ 14 Taylor, Ryder          KAMM385C  1065  1018/418  L10 L2  U   L11 W20 1.0
+ 15 Haukaas, Asher         MRRMG79K   776   761/ 19  W36 L23 L11 L5  U   1.0
+ 16 Geng, Tommy            JACMF12Q  1293  1295/ 78  L1  U   U   U   W18 1.0
+ 17 Robles, Osmar          MRRMJ77D   822   809/ 22  U   L12 W32 L4  U   1.0
+ 18 Banchero, Andrew       EDWLJ46Q  1045  1001/ 34  U   W36 L9  L12 L16 1.0
+ 19 Raynes, Brandon        EDWKF49R   637   769/  4  U   U   U   W21 L6  1.0
+ 20 Singh, Atharv          LYNKF49P  1000   613/  3  W37 L3  U   U   L14 1.0
+ 21 Vo, Bryson             KAMKF49U   637   504/  5  L4  U   U   L19 W39 1.0
+ 22 Tran, Kevin            LYNKF49M  1000  1349/  1  U   W11 U   U   U   1.0
+ 23 Rines, Oliver          KAMKI303  1415  1416/211  U   W15 U   U   U   1.0
+ 24 Ng, Aaron              JACKF49K  1000  1274/  1  U   U   U   U   W25 1.0
+ 25 Anthony, Cole          EDWLF49S   815   815/  4  U   U   W40 U   L24 1.0
+ 26 Saiapin, Timur         KAMKF49T   582   582/  3  U   W37 U   U   U   1.0
+ 27 Zhang, Victor          KAMM5390  1760  1760/208  U   U   U   U   W31 1.0
+ 28 Nawagamadewage, Inura  KAMJJ11V  1344  1344/ 77  U   U   U   U   W33 1.0
+ 29 My, Nieka              LYNKH73U  1197  1138/  6  L2  U   U   U   L1  0.0
+ 30 Ding, Calvin           KAMMJ19E   598   592/ 20  L5  U   U   L3  U   0.0
+ 31 Amell, Vincent         LYNMF49J  1200   755/  3  L9  L7  U   U   L27 0.0
+ 32 Branch, Patrick        EDWKF49H  1000   420/  2  U   U   L17 U   L5  0.0
+ 33 Martinez, Brian        LYNMF49G  1200   588/  2  L13 U   U   U   L28 0.0
+ 34 Wundrow, Ezra          KAMKF49F  1000   820/  1  L6  U   U   U   U   0.0
+ 35 Nguyen, Johnny         MRRMF49D  1200   820/  1  U   U   U   L6  U   0.0
+ 36 Elbibary, Ismail       LYNLF49C  1100   375/  2  L15 L18 U   U   U   0.0
+ 37 Burton, Jorden         MRRLF49B  1100   315/  2  L20 L26 U   U   U   0.0
+ 38 Jang, Yujin            KAMJF48Z   900   588/  1  U   L13 U   U   U   0.0
+ 39 Abdul-razak Al Jumaili,LYNMF48X  1200   233/  1  U   U   U   U   L21 0.0
+ 40 Pylypenko, Vika        MRRLF48W  1100   474/  1  U   U   L25 U   U   0.0

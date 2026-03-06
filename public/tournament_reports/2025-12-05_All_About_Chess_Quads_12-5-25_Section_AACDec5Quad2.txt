@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Patrick         CDIDK01J  1292  1382/401  W2  W4  W3  3.0
+  2 Swain, Samarth         MMEDJ58S  1239  1272/397  L1  W3  W4  2.0
+  3 Li, Harry              SPTGG30G  1285  1260/557  W4  L2  L1  1.0
+  4 Komin, Michael         SOMFG01Y  1246  1178/ 15  L3  L1  L2  0.0

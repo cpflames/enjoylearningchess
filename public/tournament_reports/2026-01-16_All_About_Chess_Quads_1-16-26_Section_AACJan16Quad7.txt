@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Strien, Gabriel        BLWFF74X   455   577/  9  W3  W4  W2  3.0
+  2 Balaji, Vaibhav        SSMDH28Z   551   524/135  W4  D3  L1  1.5
+  3 Iyengar, Keshav        SHSEH29S   435   445/ 41  L1  D2  W4  1.5
+  4 Xiong, Aria            DISCH14J   385   316/ 72  L2  L1  L3  0.0

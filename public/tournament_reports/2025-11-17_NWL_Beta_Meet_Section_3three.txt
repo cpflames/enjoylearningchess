@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zou, Benjamin          SHMLK981  1043  1129/ 58  W4  W5  W2  3.0
+  2 Phillips, Lucas        BLHM696K   822   941/ 60  W6  W3  L1  2.0
+  3 Hernandez, Ian         SHMLG02K  1044  1036/  9  W10 L2  W7  2.0
+  4 Skeels, Peter          SQUMK99T   868   915/ 37  L1  W10 W9  2.0
+  5 Siadal, Carson         MRDMK41F   936   941/ 28  W8  L1  D6  1.5
+  6 Oscarson, Ethan        SQUMK99S   920   916/ 39  L2  W9  D5  1.5
+  7 Harrison, Gabriel      SQUK865H   923   920/ 71  D9  W8  L3  1.5
+  8 Moore, Aran            SHML442N   886   857/ 41  L5  L7  W10 1.0
+  9 Nguyen, Kien Minh      SHMKG79Z   884   835/ 14  D7  L6  L4  0.5
+ 10 Siadal, Tucker         MRDJK41G   884   800/ 12  L3  L4  L8  0.0

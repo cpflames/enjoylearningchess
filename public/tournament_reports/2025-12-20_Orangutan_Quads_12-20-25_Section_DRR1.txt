@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Jariwala, Vidur        THOFK87P  1011  1020/113  U   U   W3  W3  W2  W2  4.0
+  2 Bryant, Camille        THUEG99U   525   549/ 16  W3  W3  U   U   L1  L1  2.0
+  3 Van Creveld, Negev     BRYEG48H   373   336/ 22  L2  L2  L1  L1  U   U   0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bouza, Meredith        SDAGZ672   472   661/ 12  W3  W4  W2  3.0
+  2 Dandar, Siggy          SDRDZ69K   490   554/ 30  W4  W3  L1  2.0
+  3 Winner, Mason          SDAFZ73Z   555   520/ 25  L1  L2  W4  1.0
+  4 Bassett, Killian       SFOFZ724   530   442/ 32  L2  L1  L3  0.0

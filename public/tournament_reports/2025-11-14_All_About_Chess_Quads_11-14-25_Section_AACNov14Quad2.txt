@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Burtram, Dayton        SKNKG77M  1333  1403/398  W3  D2  W4  2.5
+  2 Narkhede, Kshitij      CRKEA27K  1472  1469/166  W4  D1  D3  2.0
+  3 Ge, Jeremy             SOMDJ88K  1321  1310/370  L1  D4  D2  1.0
+  4 Swain, Samarth         MMEDJ58S  1311  1281/386  L2  D3  L1  0.5

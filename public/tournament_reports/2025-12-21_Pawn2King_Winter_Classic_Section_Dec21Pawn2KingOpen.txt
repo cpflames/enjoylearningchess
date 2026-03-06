@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Chen, Eason            SOMCJ59F  1300  1317/157  W8  W4  D6  W2  3.5
+  2 Gao, Arden             JINCH35W   808  1058/ 53  W13 W9  W3  L1  3.0
+  3 Agrawal, Ayaansh       CNCDJ99W  1145  1160/ 68  W10 W12 L2  W9  3.0
+  4 Bui, Edwin             GTMGK90H  1101  1131/200  W14 L1  W12 W13 3.0
+  5 Singh, Vedant          REJH471V  1270  1251/ 61  L12 W15 W14 W6  3.0
+  6 Raghavendran, Vedanth  DCSCH24C  1028  1106/ 54  W7  W11 D1  L5  2.5
+  7 Wellander, Matthew     ADUNF76R  1300  1179/  3  L6  W13 W8  HPB 2.5
+  8 Kamisetty, Komansai    HEAI644X   986   994/ 30  L1  W10 L7  W14 2.0
+  9 Yu, Eric               SOMDK25N  1199  1152/174  W15 L2  W11 L3  2.0
+ 10 Padmanabhuni, Vihaan   LMAFH69J   863   872/ 36  L3  L8  BYE W12 2.0
+ 11 Yu, Meng               ADUNH44L   796   818/ 13  BYE L6  L9  W15 2.0
+ 12 Krishna, Vihaan        REEE263E   984   964/ 51  W5  L3  L4  L10 1.0
+ 13 Datta, Ishana          KKNEH60X  1103  1045/ 80  L2  L7  W15 L4  1.0
+ 14 Bansal, Neev           KKNEH05Z   772   749/ 44  L4  BYE L5  L8  1.0
+ 15 Sinha, Ishayu          HEAHJ24F   944   868/ 81  L9  L5  L13 L11 0.0

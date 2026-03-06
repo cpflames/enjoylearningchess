@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chevuri, Tattva        REJIC06V  1198  1227/471  W3  W2  W4  3.0
+  2 Iyer, Satvik           CSMFB60D   931   953/ 51  W4  L1  D3  1.5
+  3 Naik, Shreyas          MTWGJ98X   924   948/169  L1  W4  D2  1.5
+  4 Ning, Pascal           SCDDJ14X  1022   944/ 47  L2  L3  L1  0.0

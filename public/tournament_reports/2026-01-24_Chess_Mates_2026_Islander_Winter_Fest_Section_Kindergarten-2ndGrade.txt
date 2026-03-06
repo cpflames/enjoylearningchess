@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Koster, John           WOBCJ88T   954   978/163  W14 W6  W7  W3  W2  5.0
+  2 Liang, Dangdang        MEDCJ12R   496   562/ 75  W10 W12 W5  W7  L1  4.0
+  3 Chernenko, Mark        BRYBH31R   502   577/ 40  W18 W13 W4  L1  W6  4.0
+  4 Cuiper, Eric           PEGCG11X   428   455/ 24  W11 W8  L3  W14 W12 4.0
+  5 Liu, Yutao             NOWCF91E   149   257/ 10  W17 W16 L2  D15 W10 3.5
+  6 Young, Mariella        LKDCJ54Q   378   399/ 39  W19 L1  W18 W8  L3  3.0
+  7 Chen, Yisu             RKWCH78H   453   449/129  W21 W20 L1  L2  W17 3.0
+  8 Cooper, Clifford       SGEAG98R   100   232/ 22  W15 L4  W19 L6  W14 3.0
+  9 Cooper, Solomon        SGECG98V   100   149/ 23  D16 L14 D11 W19 W15 3.0
+ 10 Junnarkar, Keshav      LKDCG57A   100   197/  8  L2  W23 W13 D12 L5  2.5
+ 11 Smith, Woodley         LKDBH46Z   100   151/  9  L4  D15 D9  D13 W18 2.5
+ 12 Guo, Felix             DPIBF92C   167   206/ 24  W23 L2  W21 D10 L4  2.5
+ 13 Huang, Elliot          LKDCJ54D   206   204/ 25  W22 L3  L10 D11 W20 2.5
+ 14 Dalal, Avi             LKDBG56S   100   155/ 10  L1  W9  W20 L4  L8  2.0
+ 15 Morse, Jack            LKDBF63E   100   100/  5  L8  D11 W16 D5  L9  2.0
+ 16 Yang, Alex             SCDBG68U   100   100/ 10  D9  L5  L15 D22 W21 2.0
+ 17 Mckay, Augustus        LKDBF63D   100   118/  5  L5  L18 W22 W21 L7  2.0
+ 18 Doan, April            SMCBH31B   100   100/ 27  L3  W17 L6  D20 L11 1.5
+ 19 Sreekanth, Veera       ENABG37W   100   100/  8  L6  BYE L8  L9  D22 1.5
+ 20 Patel, Aarin           LKDCF63C   200   100/  4  BYE L7  L14 D18 L13 1.5
+ 21 Kao, Xavier            LKDCG57G   100   100/ 10  L7  W22 L12 L17 L16 1.0
+ 22 Cooper, Wesley         SGEAF63B   100   100/  5  L13 L21 L17 D16 D19 1.0
+ 23 Coe, Lennon            LKDBF63A   100   100/  2  L12 L10 BYE U   U   1.0

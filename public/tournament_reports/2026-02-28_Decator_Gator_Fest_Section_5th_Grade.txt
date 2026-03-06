@@ -1,0 +1,22 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kakkad, Vayu           LMSFK50L  1254  1279/571  W17 W8  D4  W2  W7  4.5
+  2 Leneway, Owen          CSIFK91V  1025  1132/139  W3  W16 W11 L1  W4  4.0
+  3 Too, Amelia            THUFK87Q   312   535/ 62  L2  BYE W20 W14 W8  4.0
+  4 Pleasants, Gabriel     THUF149G  1361  1328/161  W9  W15 D1  W12 L2  3.5
+  5 Maibaum, Bryce         CSIF124D  1057  1037/103  W18 D6  L12 W11 W16 3.5
+  6 Ginal, Maxwell         THUFG23A   667   806/ 24  W20 D5  W15 L7  W12 3.5
+  7 Tharian, Isaac         DCTFK39K   852   844/ 71  L13 W19 W10 W6  L1  3.0
+  8 Sethanandha, Marvin    CSIFH88K   744   734/ 74  W19 L1  W17 W13 L3  3.0
+  9 Xu, William            DCTFK93M   598   614/161  L4  W18 L14 W19 W13 3.0
+ 10 Armstrong, Benjamin    EVGFK54R   560   655/116  L11 W21 L7  W15 W14 3.0
+ 11 Chanda, Rishabh        BCABH72X  1183  1112/150  W10 D12 L2  L5  W18 2.5
+ 12 Padmanabhuni, Vihaan   LMAFH69J   757   816/ 53  WF  D11 W5  L4  L6  2.5
+ 13 Perianayagam, Gautham  CSIFG99T   495   540/ 44  W7  L17 W16 L8  L9  2.0
+ 14 Johnson, Evan          CSIFH33X   554   535/ 34  L15 W20 W9  L3  L10 2.0
+ 15 Shagas, Joshua         DCTFK87R   909   840/ 70  W14 L4  L6  L10 W19 2.0
+ 16 Land, Kai              EVGFK54P   701   670/ 64  W21 L2  L13 W17 L5  2.0
+ 17 Liu, Alexander         DCTFK87N   569   561/ 25  L1  W13 L8  L16 W20 2.0
+ 18 Lin, Grace             DCTFF82V   433   412/  9  L5  L9  BYE W21 L11 2.0
+ 19 Campbell, Finnegan     THUFF39J   500   349/  5  L8  L7  W21 L9  L15 1.0
+ 20 Liu, Gilbert           DCTFF39H   500   112/  4  L6  L14 L3  BYE L17 1.0
+ 21 Capretta, Dante        DCTFF39G   500   100/  4  L16 L10 L19 L18 BYE 1.0

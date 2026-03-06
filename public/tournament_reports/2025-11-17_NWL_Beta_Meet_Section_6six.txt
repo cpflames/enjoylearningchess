@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lopez-mendez, Chelsea  LYEMH48X   399   601/ 18  W6  W7  W3  3.0
+  2 King, Kael             LYCMC08B   685   691/ 21  D4  W5  W8  2.5
+  3 Valeos, Connor         MRDKK41H   517   556/ 41  W5  W4  L1  2.0
+  4 Barnett, Cameron       FERKG02N   433   489/  6  D2  L3  W6  1.5
+  5 Russell, Reagan        BLHMJ72W   448   433/ 31  L3  L2  W7  1.0
+  6 Clarke, Jonathan       BLHLG05B   461   436/ 37  L1  W8  L4  1.0
+  7 Abraham, Phineas       MRDKG02F   408   376/  6  W8  L1  L5  1.0
+  8 Herboth, Quinn         SQUMK99M   468   369/ 29  L7  L6  L2  0.0

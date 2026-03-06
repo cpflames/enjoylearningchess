@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sarychev, Aleksei      ISSLJ98N   850   980/331  W2  W4  W3  3.0
+  2 Shah, Rachit           BNTFK44K   842   877/127  L1  W3  W4  2.0
+  3 Charles, Benjamin      SOMCJ06G   919   849/201  D4  L2  L1  0.5
+  4 Jahani, Nikan          IMSHK89A   752   727/191  D3  L1  L2  0.5

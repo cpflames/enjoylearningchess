@@ -1,0 +1,28 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Tallapaneni, Hanish    CDZIH06J  1168  1227/ 37  W4  W14 W15 D3  3.5
+  2 Chen, Max Y            PLKGK76L  1150  1224/147  W8  D9  W20 W7  3.5
+  3 Ferrell, Luka Lee      LVNGG98L  1179  1207/ 46  W5  W16 D10 D1  3.0
+  4 Yin, Vicky             BNGGZ897   987  1073/ 27  L1  W25 W21 W13 3.0
+  5 Iyer, Hrishaan Arjun   BISHJ57L   990  1053/ 54  L3  W24 W22 W15 3.0
+  6 Bhambri, Vansh         TYEGJ57J  1067  1092/ 37  L13 W27 W23 W10 3.0
+  7 Ginotra, Karman        RKWGB15D  1163  1163/116  D12 W13 W9  L2  2.5
+  8 Bharadwaj, Pranav      CSMEF93W   846  1011/ 15  L2  W17 W16 D11 2.5
+  9 Charuvil Vinu, Suryen  BENCJ89R   966  1073/120  W17 D2  L7  W20 2.5
+ 10 Raghunathan, Vidur     UPAG878A  1137  1134/ 89  W23 W22 D3  L6  2.5
+ 11 Jayakrishnan, Chethan KJACJH06G  1200  1178/ 45  D20 D18 W14 D8  2.5
+ 12 Sarkar, Hridik         GTMGK04W   985  1011/118  D7  L20 W19 W21 2.5
+ 13 Johnson, Lars          HSCEG74D   964  1004/ 57  W6  L7  W18 L4  2.0
+ 14 Oh, Seojoon            SSMFJ70T  1005  1004/138  W19 L1  L11 W25 2.0
+ 15 Alvarran Belz, River   NHHLF66Y  1100   951/  3  BYE W21 L1  L5  2.0
+ 16 Mirpuri, Shrevin Hiro  OMSGJ03R  1019  1008/ 41  W25 L3  L8  W22 2.0
+ 17 Benita-nagdeep, KrishanSOMEK56N  1128  1088/125  L9  L8  W27 W23 2.0
+ 18 Mavila, Madhav         JACK230L  1014  1002/ 77  D27 D11 L13 W24 2.0
+ 19 Gupta, Aayansh         CPJGH73A   740   755/ 56  L14 BYE L12 W27 2.0
+ 20 Xiong, Maxwell         CSIEK92H  1058  1049/108  D11 W12 L2  L9  1.5
+ 21 Ma, Caroline           BCSDK93V  1050   982/122  W24 L15 L4  L12 1.0
+ 22 Turnbull, Landon       SMVIF66X   800   827/  4  W26 L10 L5  L16 1.0
+ 23 Dragusanu, Clara       EVJGH81S   974   945/ 90  L10 W26 L6  L17 1.0
+ 24 Kasala, Avyukt         CDWFG60F   940   902/ 23  L21 L5  W26 L18 1.0
+ 25 Chai, Bobby            FAPCH05T   921   861/ 35  L16 L4  BYE L14 1.0
+ 26 Balaji, Pranav         INGIJ96J  1022   914/179  L22 L23 L24 BYE 1.0
+ 27 Dhanalakota, Nikhil    HEAHF81G   841   797/ 23  D18 L6  L17 L19 0.5

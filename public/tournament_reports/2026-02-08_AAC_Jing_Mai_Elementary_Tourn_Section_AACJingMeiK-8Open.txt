@@ -1,0 +1,35 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Swain, Samarth         MMEDJ58S  1197  1301/434  W30 W19 D16 W10 W5  4.5
+  2 Li, Anyi               LWNEJ55F  1254  1347/217  HPB W3  W29 W16 W10 4.5
+  3 Feng, Levi             TYEGJ59B   978  1205/ 65  W4  L2  W24 W20 W17 4.0
+  4 Mohammed, Farhan       CRKFH14M  1195  1220/168  L3  W33 W12 W21 W11 4.0
+  5 Dhameeja, Ved          PFCGJ98F  1224  1238/219  W13 W21 D17 W7  L1  3.5
+  6 Reimer, Oliver         IMSHG59D  1256  1250/148  W12 L7  W22 W17 D8  3.5
+  7 Gao, Arden             JINCH35W  1043  1135/ 68  W32 W6  D11 L5  W16 3.5
+  8 Wortman, Alexander     SOMDJ31M   858  1060/ 46  L16 W30 W23 W19 D6  3.5
+  9 Hu, Maxwell            SOMCK03N   779   990/ 85  L19 D18 W31 W29 W20 3.5
+ 10 Zhang, Patrick         CDIDK01J  1281  1271/425  W22 W24 W20 L1  L2  3.0
+ 11 Zhang, Eric Q          SOMEK64M  1164  1144/168  W33 D29 D7  W14 L4  3.0
+ 12 Parpuri, Aarav         FRVEH76T   988  1045/ 49  L6  W32 L4  W24 W19 3.0
+ 13 Su, Oliver             JINFD01U   984  1015/191  L5  W26 L19 W27 W21 3.0
+ 14 Huang, Jaden           ENDEJ63S   894   970/301  L20 W34 W27 L11 W23 3.0
+ 15 Duan, Anthony          CPJHF52Z   700   980/  5  L23 L25 W32 W30 W22 3.0
+ 16 Bolisetty, Varun       HMNEJ73Z  1108  1119/235  W8  W31 D1  L2  L7  2.5
+ 17 Li, Ethan James        SOMDK00K  1134  1128/281  W25 W23 D5  L6  L3  2.5
+ 18 Komin, Michael         SOMFG01Y  1169  1092/ 40  L31 D9  L30 W34 W26 2.5
+ 19 Balaji, Pranav         INGIJ96J  1148  1110/193  W9  L1  W13 L8  L12 2.0
+ 20 Dharamshi, Anay        CBREK42U  1211  1157/269  W14 W27 L10 L3  L9  2.0
+ 21 Mangla, Atharv         GRRFK07C  1018   995/220  W26 L5  W25 L4  L13 2.0
+ 22 Nandakiran, Vidyuth    INGG617C  1015   997/257  L10 W28 L6  W25 L15 2.0
+ 23 Li, Bryan              MEDCJ75H  1025   996/144  W15 L17 L8  W31 L14 2.0
+ 24 Bhandari, Aarav        CBRFJ06H  1078  1044/238  W28 L10 L3  L12 W31 2.0
+ 25 Swagath, Pranav        LMSFK23N   881   887/ 70  L17 W15 L21 L22 W33 2.0
+ 26 Rao, Jaiden            JINCH62B   624   720/ 49  L21 L13 W28 W33 L18 2.0
+ 27 Zhu, Eric              NPTFK18P  1042   990/278  W34 L20 L14 L13 W29 2.0
+ 28 Zhao, Emma             BASEK28L   807   783/ 72  L24 L22 L26 W32 W34 2.0
+ 29 Sarangi, Samarth       HMNFH69F   904   876/229  BYE D11 L2  L9  L27 1.5
+ 30 Oh, Seojoon            SSMFJ70T  1004   983/142  L1  L8  W18 L15 U   1.0
+ 31 Malhotra, Sartaj       TYEHK69K   866   847/117  W18 L16 L9  L23 L24 1.0
+ 32 Kukreja, Aarav         TYEH433H   724   679/ 97  L7  L12 L15 L28 BYE 1.0
+ 33 Li, Rebecca            SCDEJ62B   851   768/168  L11 L4  D34 L26 L25 0.5
+ 34 Aker, Pepper           WMSH181G   697   660/144  L27 L14 D33 L18 L28 0.5

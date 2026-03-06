@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Clegg, Emery           NKPKG86A   560   590/ 15  W6  1.0
+  2 Brown, Landon          QLTHH45G   418   497/  6  W8  1.0
+  3 Jackson, Dominique     QLTGF90D   600   850/  1  W7  1.0
+  4 Wheeler-black, Kailani QLTHF90A   700   683/  1  W5  1.0
+  5 Swan, Layla            QLTHH45T   291   283/ 11  L4  0.0
+  6 Pilatti, Riley         QLTHH45H   530   474/  6  L1  0.0
+  7 Davis, Kingsley        QLTHF89Z   700   450/  1  L3  0.0
+  8 Cherry, Christopher    QLTMJ39Z   548   503/ 11  L2  0.0

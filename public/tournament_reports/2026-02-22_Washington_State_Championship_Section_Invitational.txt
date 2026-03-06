@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 tot 
+  1 Pikh, Akim             INGGH64N  2013  2035/106  W4  D9  W7  W2  L3  D10 W8  W6  W5  7.0
+  2 Lee, Brian             ADUNA904  2037  2033/269  W8  L6  W5  L1  W9  W7  W4  W3  L10 6.0
+  3 Dhingra, Sangeeta      ADUNE943  1930  1934/320  W10 D8  L6  D5  W1  W9  D7  L2  D4  5.0
+  4 Ramkumar, Nikhil       RBRI115E  1903  1916/332  L1  W10 L9  W8  D7  W6  L2  W5  D3  5.0
+  5 Rozenfeld, Yevgeniy    ADUNC004  2023  1992/ 64  D9  W7  L2  D3  W10 D8  W6  L4  L1  4.5
+  6 Karamali, Saiya        ADUN586R  1773  1805/ 72  L7  W2  W3  W10 D8  L4  L5  L1  D9  4.0
+  7 Yondon, Odbayar        INGHK97T  1854  1859/367  W6  L5  L1  W9  D4  L2  D3  W10 L8  4.0
+  8 Gadde, Arnav           GTMHJ39D  1867  1857/290  L2  D3  D10 L4  D6  D5  L1  D9  W7  3.5
+  9 Razmov, Valentin       ADUNB02T  1819  1811/202  D5  D1  W4  L7  L2  L3  L10 D8  D6  3.0
+ 10 Nallappa, Vijay        REDKD40S  1859  1839/493  L3  L4  D8  L6  L5  D1  W9  L7  W2  3.0

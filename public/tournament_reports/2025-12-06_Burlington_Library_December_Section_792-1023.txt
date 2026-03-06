@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mccarthy, Eugene       CDLFG73B   768  1003/ 42  W6  W4  W2  3.0
+  2 Hernandez, Ian         SHMLG02K  1023  1031/ 17  W8  W3  L1  2.0
+  3 Hauptman, Elian        HSCJJ44N   918   966/ 25  W7  L2  W5  2.0
+  4 Bormuth, Lucas         LYCFD92J   840   867/ 42  D5  L1  W7  1.5
+  5 Litvin, Lev            WKEDJ25U  1024  1001/ 63  D4  W6  L3  1.5
+  6 Qureshi, Danish        BLNIF36V   984   946/237  L1  L5  W8  1.0
+  7 Prather, Tristan       HSCKG26M   912   857/  9  L3  W8  L4  1.0
+  8 Bormuth, Silas         LYCH542J   867   795/ 36  L2  L7  L6  0.0

@@ -1,0 +1,44 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Tha, Victor            ESGDH26L   665   803/ 55  W22 W13 W11 W3  W2  5.0
+  2 Farias Martinez, GadielRFRDH26T   684   707/ 50  W15 W28 W12 W6  L1  4.0
+  3 Correa, River          MCGDJ23C   672   694/ 70  W39 W8  W20 L1  W7  4.0
+  4 Song, Eli              OERDH90J   369   472/ 25  W17 W26 L6  W25 W15 4.0
+  5 Vargas, Gianluca       CRPDG13W   194   450/ 15  W30 L12 W26 W11 W16 4.0
+  6 Nokes, Nicholas        BMCDG14P   620   614/ 20  W40 W9  W4  L2  D8  3.5
+  7 Santiago, Martin       ESGDH41W   547   550/ 45  W23 W10 W25 D16 L3  3.5
+  8 Carrazco Mendoza, IsaacRFRDF86A   280   469/ 15  W38 L3  W17 W12 D6  3.5
+  9 Wu, Emma               OERDF70R   220   333/ 10  W37 L6  D14 W31 W21 3.5
+ 10 Ewanick Austin, Gunnar CRPDG13X   202   376/ 25  W35 L7  D21 W24 W20 3.5
+ 11 Saeedi, Omar           WSGDF70S   374   425/ 10  W18 W21 L1  L5  W29 3.0
+ 12 Gutierrez, Ivan        BMCDJ45X   515   505/ 55  W29 W5  L2  L8  W31 3.0
+ 13 Alkhamri, Zakariyya    RCEDG41X   220   370/ 20  W27 L1  W18 D20 D14 3.0
+ 14 Cantu, Braxton         BMCDF55P   300   390/  5  W19 L20 D9  W27 D13 3.0
+ 15 Powell, Soren          WBEDF85B   118   291/ 15  L2  W36 W33 W28 L4  3.0
+ 16 Cress, Maverick        BMCDH00U   480   464/ 39  D43 W19 W32 D7  L5  3.0
+ 17 Rodriguez, Jesus       CRPDF55L   300   346/  5  L4  W39 L8  W40 W25 3.0
+ 18 Garcia, Lucas*         BMCDF55K   300   364/  5  L11 W41 L13 W26 W28 3.0
+ 19 Garcia, Lucas          CRPDG14F   304   302/ 20  L14 L16 W43 W37 W30 3.0
+ 20 Valdez Jr, Isaac       EMEDG88P   401   393/ 35  W42 W14 L3  D13 L10 2.5
+ 21 Manning, Emily         SCJDF55J   300   293/  5  W41 L11 D10 W22 L9  2.5
+ 22 Carlson, Henry         MYADF85G   100   170/ 10  L1  D27 W29 L21 W35 2.5
+ 23 Barajas, Camilla       CRPDF85R   100   135/ 15  L7  D35 L27 W34 W39 2.5
+ 24 Beltran, Adan          BMCDF55H   300   350/  3  U   HPB W35 L10 W36 2.5
+ 25 Clum, Kristen          SCJDH26F   168   202/ 50  W33 W32 L7  L4  L17 2.0
+ 26 Mokauhi, Kalani        DSRDF55G   300   241/  5  W31 L4  L5  L18 W41 2.0
+ 27 Delgado, David         EMEDF55F   300   192/  5  L13 D22 W23 L14 D32 2.0
+ 28 Huffaker, Remington    MYADF86C   341   299/ 15  W36 L2  W40 L15 L18 2.0
+ 29 Crider, Ellis          ESGDG41U   100   136/  9  L12 W37 L22 W33 L11 2.0
+ 30 Chavez, Erick          MCUDF55E   300   145/  5  L5  W34 L31 W39 L19 2.0
+ 31 Hernandez-bastin, HazelMYADF85V   161   162/ 10  L26 W43 W30 L9  L12 2.0
+ 32 Bawden, Sawyer         MCUDJ45U   438   331/ 88  W34 L25 L16 D36 D27 2.0
+ 33 Weaver, Jaxon          DSRDF55D   300   100/  5  L25 W42 L15 L29 W40 2.0
+ 34 Espinoza, Olivia       MYADF85F   100   100/ 10  L32 L30 W38 L23 W43 2.0
+ 35 Chavez, Daniel         EMEDF55B   300   100/  5  L10 D23 L24 W43 L22 1.5
+ 36 Macdonald, Logan       DSRDF55A   300   115/  5  L28 L15 W41 D32 L24 1.5
+ 37 Manning, Ellie         SCJDF54Y   300   100/  4  L9  L29 BYE L19 D38 1.5
+ 38 Ehlert, Astoria        DSRDF54X   300   100/  4  L8  L40 L34 BYE D37 1.5
+ 39 Kruse, Finnegan        MYADF98U   100   100/ 10  L3  L17 W42 L30 L23 1.0
+ 40 Hernandez, Evan        ESGDF85D   100   100/  9  L6  W38 L28 L17 L33 1.0
+ 41 Rinehart, Annabelle    CRPDF99L   298   170/ 20  L21 L18 L36 W42 L26 1.0
+ 42 Leal-ortiz, Kataleya   MTPDH41U   100   100/ 13  L20 L33 L39 L41 BYE 1.0
+ 43 Jara-lozano, Thiago    RFPDF85J   100   100/ 10  D16 L31 L19 L35 L34 0.5

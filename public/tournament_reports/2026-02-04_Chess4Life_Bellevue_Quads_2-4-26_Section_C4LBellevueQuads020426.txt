@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Abdukarimov, Samin     ARDBH67S   768   766/229  BYE D3  W2  2.5
+  2 Huang, Damon           CHRDG71K   743   715/ 48  W3  BYE L1  2.0
+  3 Yip, Toby              CBRBG00Z   100   233/  5  L2  D1  BYE 1.5

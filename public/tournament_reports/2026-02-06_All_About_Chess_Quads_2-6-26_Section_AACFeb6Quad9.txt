@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Reeves, Othel          SESFF78K   339   512/ 21  W3  W4  W2  3.0
+  2 Tanielian, Desmond     WOBFG19S   441   387/ 35  W4  L3  L1  1.0
+  3 Pfau, Zacharias        SOMAG09C   311   299/ 44  L1  W2  L4  1.0
+  4 Xiong, Aria            DISCH14J   308   297/ 78  L2  L1  W3  1.0

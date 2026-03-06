@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Drake, Matthew         DCTDJ68D   343   451/ 43  W4  W5  W6  W2  L3  4.0
+  2 Aguiluz, Emilio        BRYBH31F   409   468/ 38  W5  W3  W4  L1  W6  4.0
+  3 Cairns, Evan           HZFEF59E   400   381/  5  W6  L2  W5  L4  W1  3.0
+  4 Radnitz, Oscar         GRLDF66K   412   398/ 13  L1  W6  L2  W3  W5  3.0
+  5 Edelkind, Azor         LRADF59D   300   113/  5  L2  L1  L3  W6  L4  1.0
+  6 Sogn, Wyatt            THOCG48G   100   100/ 10  L3  L4  L1  L5  L2  0.0

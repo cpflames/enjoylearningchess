@@ -1,0 +1,65 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Chivers, Roman         SPRL5495  1588  1605/172  W20 U   L25 U   1.0
+  2 Laporte, Andy          SPRMK67S  1319  1349/ 53  W21 U   L26 U   1.0
+  3 Roberts, Noah          SPRM3819  1238  1225/ 63  L22 U   L27 U   0.0
+  4 O'donnell, Henry       SPRMJ76V  1006  1000/ 32  L23 U   L28 U   0.0
+  5 Drew, Harrington       SPRKH22U   769   823/ 26  W24 U   L29 U   1.0
+  6 Burns, Connor          SPRMH22S   624   624/ 30  L50 W50 U   U   1.0
+  7 Gonzalez-diaz, JeronimoSPRKH22Q   814   826/ 32  W51 W51 U   U   2.0
+  8 Mallari, Joaquin       SPRKG75R   814   831/ 19  W52 W52 W60 W60 4.0
+  9 Shi, Gavin             LCOLH855  1844  1826/513  W35 U   L20 U   1.0
+ 10 Preiner, Oscar         LCOKI145  1499  1502/182  D36 U   W21 U   1.5
+ 11 Calo, Jude             LCOK3425  1290  1274/234  D37 U   L22 U   0.5
+ 12 Yuen, Owen             LCOKA16Z  1327  1308/249  W39 U   L23 U   1.0
+ 13 Golden, Sadler         LCOJJ38J   561   598/ 20  W40 U   L24 U   1.0
+ 14 Atashi, Arya           LCOLH22M   758   758/  6  L56 L56 U   U   0.0
+ 15 Zahner, Dj             LCOLH22X   977   921/ 12  L57 W57 W43 L43 2.0
+ 16 Putz, Eric             LCOLH23G   942   938/ 10  W58 W58 L42 W42 3.0
+ 17 Lach, Maxim            LCOLH22P   747   956/ 14  W59 W59 W61 W61 4.0
+ 18 Hanley, Dean           LCOLF79J   462   603/  6  W60 W60 W59 L59 3.0
+ 19 Desai, Taj             LCOJK10Y  1043  1056/ 33  U   U   W41 W41 2.0
+ 20 Score, Carson          INMMH46V  1530  1549/ 20  L1  U   W9  U   1.0
+ 21 Kangas, Jonah          INMMJ21E  1456  1408/ 31  L2  U   L10 U   0.0
+ 22 Page, Finley           INMMH23D  1409  1436/ 17  W3  U   W11 U   2.0
+ 23 Sethanandha, Jerald    REGMI168  1358  1384/181  W4  U   W12 U   2.0
+ 24 Groebner, Teddy        INMMJ76X  1082  1039/ 40  L5  U   W13 U   1.0
+ 25 Bian, Erin             LSSKI91Y  2218  2219/221  W45 U   W1  U   2.0
+ 26 Razmov, Gabriel        LSSKC26K  2030  2031/417  W46 U   W2  U   2.0
+ 27 Xuan, Owen             LSSM5792  1964  1965/306  W47 U   W3  U   2.0
+ 28 Eksarevskiy, Albert    LSSL530Y  1907  1907/186  W48 U   W4  U   2.0
+ 29 Peng, Christopher      LSSL2702  1631  1632/206  W49 U   W5  U   2.0
+ 30 Li, Zerui              LMSKA45S  1318  1338/ 61  U   U   D35 U   0.5
+ 31 Bablani, Arnav         LSSK1146  1261  1234/249  U   U   L36 U   0.0
+ 32 Kedu, Sona             LSSLH23E  1156  1134/ 12  U   U   L37 U   0.0
+ 33 Ransford, Linus        LSSLF67S  1100   477/  1  U   U   L38 U   0.0
+ 34 Bharti, Ekaansh        LSSLF79S   461   512/  3  U   U   D40 U   0.5
+ 35 Tan, Johnny            DCCMJ72U  1699  1673/ 53  L9  U   D30 U   0.5
+ 36 Wilcox, Daelen         CLEK748C  1209  1255/105  D10 U   W31 U   1.5
+ 37 Porad-brand, Lewis     DCCLH22V  1254  1272/ 48  D11 U   W32 U   1.5
+ 38 Coberly, Silas         DCCKH22W   850   856/ 28  U   U   W33 U   1.0
+ 39 Munger, Robert         CLEMF79R   718   718/  2  L12 U   U   U   0.0
+ 40 Nguyen, Andrew         CLEJP461   691   627/ 10  L13 U   D34 U   0.5
+ 41 Rennick, West          CLEJF79L   721   696/  7  L62 L62 L19 L19 0.0
+ 42 Ismailov, Naren        CLEJF79P   435   665/  6  L63 L63 W16 L16 1.0
+ 43 Tang, Kyle             CLEJF79N   652   741/  8  L64 L64 L15 W15 1.0
+ 44 Calloway, Luca         CLEJF79K   767   843/  4  W61 L61 U   U   1.0
+ 45 Moriguchi, Minh        GARKA43T  1186  1186/ 86  L25 U   U   U   0.0
+ 46 Liffman, Ardon         GARLF78Z   966   966/  4  L26 U   U   U   0.0
+ 47 Hyunh, Kenny           GARLF78T  1233  1233/  3  L27 U   U   U   0.0
+ 48 Wilson, Kwalik         GARMF78W   779   779/  5  L28 U   U   U   0.0
+ 49 Garcia, Ulises         GARJF93M   679   679/  8  L29 U   U   U   0.0
+ 50 Colleton, Anton        GARMF67R  1200   659/  2  W6  L6  U   U   1.0
+ 51 Flanery-rye, Sawyer    GARMF67Q  1200   445/  2  L7  L7  U   U   0.0
+ 52 Kelleher, Eamonn       GARJF67N   900   452/  2  L8  L8  U   U   0.0
+ 53 Simon, Cole            UPAKF79F  1097   999/  3  U   U   L56 L56 0.0
+ 54 Kostojohn, Peter       CSIKF70T   632   743/ 22  U   U   W57 W57 2.0
+ 55 Schuchart, Gregor      UPAKF79C   744   378/  3  U   U   L58 L58 0.0
+ 56 Lee, Justin            KINJ732V  1383  1393/170  W14 W14 W53 W53 4.0
+ 57 Beckett, Noah          KINJF80B   956   863/ 14  W15 L15 L54 L54 1.0
+ 58 Amare, Nebiyu          KINMF80A   750   726/ 14  L16 L16 W55 W55 2.0
+ 59 Martinez, Mathuselah   KINLF79W   701   681/ 12  L17 L17 L18 W18 1.0
+ 60 Martinez, Mahanaim     KINLF79V   415   384/ 12  L18 L18 L8  L8  0.0
+ 61 Martinez, Melchizedek  KINJF79U  1101   993/ 12  L44 W44 L17 L17 1.0
+ 62 Sankrithi, Sarang      HSCHB11D  1599  1599/369  W41 W41 U   U   2.0
+ 63 Sankrithi, Vivaan      HSCCK61R  1516  1517/198  W42 W42 U   U   2.0
+ 64 Sankrithi, Siva        ADUNI948  1348  1351/148  W43 W43 U   U   2.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yin, Brandon           SOMFG50K   574   698/ 26  W3  W4  W2  3.0
+  2 Reddy, Aariv           GRRDK34T   536   509/146  W4  L3  L1  1.0
+  3 Etienne, Yann          CDVCG21M   502   486/ 36  L1  W2  L4  1.0
+  4 Balaji, Vaibhav        SSMDH28Z   524   501/138  L2  L1  W3  1.0

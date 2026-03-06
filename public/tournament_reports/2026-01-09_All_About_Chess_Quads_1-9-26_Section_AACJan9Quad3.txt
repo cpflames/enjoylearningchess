@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bhasin, Palash         ISMHH95H  1143  1156/213  W2  W3  L4  2.0
+  2 Charles, Benjamin      SOMCJ06G  1072  1110/215  L1  W4  W3  2.0
+  3 Sarangi, Samarth       HMNFH69F  1084  1065/216  W4  L1  L2  1.0
+  4 Li, Ethan James        SOMDK00K  1109  1084/259  L3  L2  W1  1.0

@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sandeep, Advik         CDIEG20S   395   462/ 22  W3  U   W2  2.0
+  2 Fang, Kayla            ENAEH14P   400   397/ 26  U   W3  L1  1.0
+  3 Revuru, Nimeesha       RCMGW81Y   369   305/ 61  L1  L2  U   0.0

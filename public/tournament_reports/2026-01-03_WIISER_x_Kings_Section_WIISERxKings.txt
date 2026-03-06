@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Sankrithi, Sarang      HSCHB11D  1604  1599/367  W10 W10 W3  W3  L4  W4  5.0
+  2 Sankrithi, Vivaan      HSCCK61R  1497  1516/196  W8  W8  W5  W5  W6  W6  6.0
+  3 Sankrithi, Siva        ADUNI948  1362  1348/146  W9  W9  L1  L1  W7  W7  4.0
+  4 Lee, Justin            KINJ732V  1320  1383/166  W5  W5  W6  W6  W1  L1  5.0
+  5 Martinez, Melchizedek  KINJF79U  1198  1101/  8  L4  L4  L2  L2  D11 L11 0.5
+  6 Beckett, Noah          KINJF80B   902   956/ 10  W7  W7  L4  L4  L2  L2  2.0
+  7 Martinez, Mathuselah   KINLF79W   763   701/  8  L6  L6  L8  W8  L3  L3  1.0
+  8 Amare, Nebiyu          KINMF80A   726   750/ 10  L2  L2  W7  L7  W9  W9  3.0
+  9 Martinez, Mahanaim     KINLF79V   461   415/  8  L3  L3  W10 D10 L8  L8  1.5
+ 10 Sun, Irene             KINJF74Z   900   283/  4  L1  L1  L9  D9  U   U   0.5
+ 11 Lee, Ken               ADUNF74Y  1300  1243/  2  U   U   U   U   D5  W5  1.5

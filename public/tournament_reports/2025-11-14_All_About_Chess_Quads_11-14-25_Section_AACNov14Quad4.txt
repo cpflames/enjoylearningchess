@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kulkarni, Samik        KKNCH67M  1181  1287/110  W3  W2  W4  3.0
+  2 Karnik, Rohan          WAVKG59F  1119  1170/ 64  W4  L1  W3  2.0
+  3 Bhasin, Palash         ISMHH95H  1135  1123/190  L1  W4  L2  1.0
+  4 Li, Ethan James        SOMDK00K  1227  1147/244  L2  L3  L1  0.0

@@ -1,0 +1,31 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Maymin-tzur, Ron       CTXGX01M  1424  1546/112  W30 W4  W8  W7  4.0
+  2 Venkat Sai, Yapati     CTXNZ39N  1300  1819/  4  W18 W13 W11 D3  3.5
+  3 Katta, Thanveen Te     NYXNZ39M  1662  1683/  4  W24 W23 W5  D2  3.5
+  4 Aneziris, Charilao     NYXNZ39L  1609  1611/  4  W25 L1  W20 W12 3.0
+  5 Goldfarb, Andrew       NJXMZ39K  1548  1561/  3  WF  W21 L3  W13 3.0
+  6 Chien, Wayne           NYXIZ39J  1688  1671/  4  L20 W16 W21 W11 3.0
+  7 Cybart, Robert J       CTXEX07E  1256  1385/ 41  D8  W14 W9  L1  2.5
+  8 Brislin, Zachary       MEXNZ39H  1509  1507/  4  D7  W15 L1  W20 2.5
+  9 Marks, Lokwatay        CTXJX01J  1527  1515/124  W16 D20 L7  W22 2.5
+ 10 Singh, Sanjay Vinesh   NYXLZ56G  1475  1461/ 16  L23 W26 W24 D14 2.5
+ 11 Rowland, Maxim         CTXDX02F  1503  1499/111  W27 W28 L2  L6  2.0
+ 12 Zimmerman, Kevin       CTXNX03M  1500  1479/108  D15 D17 W18 L4  2.0
+ 13 Wang, Max              CTXJX01F  1497  1486/129  W29 L2  W28 L5  2.0
+ 14 Estiverne, Christo     NJXNZ39G  1534  1496/  4  D17 L7  W23 D10 2.0
+ 15 Mccaffrey, Brian R     CTXNZ73D  1295  1318/ 12  D12 L8  D19 W25 2.0
+ 16 Chen, Noah             NYXDX04A  1315  1337/106  L9  L6  W26 W23 2.0
+ 17 Todd, Forde            PAXNX12N  1234  1297/ 24  D14 D12 D22 D21 2.0
+ 18 Aurora, Ashwin         CTXJZ56H  1396  1398/ 20  L2  W29 L12 W27 2.0
+ 19 Sambasivan, Rishi      NJXEZ39F  1328  1323/  3  LF  D30 D15 W24 2.0
+ 20 Wang, Aidan            NYXBZ39E  1375  1396/  4  W6  D9  L4  L8  1.5
+ 21 Zhou, Francis          NYXBZ39C  1319  1326/  4  W26 L5  L6  D17 1.5
+ 22 Coletta, Devie Ant     RIXFZ39A  1469  1414/  4  L28 W27 D17 L9  1.5
+ 23 Prem Kumar, Dhanva     MAXCZ50R  1166  1294/  8  W10 L3  L14 L16 1.0
+ 24 Tomczak, Adam          MAXNZ398  1300  1223/  4  L3  W25 L10 L19 1.0
+ 25 Hasti, Moksha Varm     MAXHZ393  1329  1274/  4  L4  L24 W30 L15 1.0
+ 26 Galasso, Ryan          CTXNZ40W  1504  1296/  8  L21 L10 L16 W30 1.0
+ 27 Phillips, Maximus      NYXDZ38Y  1264  1243/  4  L11 L22 W29 L18 1.0
+ 28 Mishra, Slok           CTXHX02E  1132  1166/134  W22 L11 L13 U   1.0
+ 29 Capodicasa, Robert     NYXNZ73B  1228  1182/ 15  L13 L18 L27 BYE 1.0
+ 30 Yu, Kevin              CTXJZ46C  1008  1015/ 12  L1  D19 L25 L26 0.5

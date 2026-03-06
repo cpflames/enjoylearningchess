@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nguyen, Charlie        SDRGZ06D  1154  1249/225  W3  W4  W2  3.0
+  2 Mcdowell, John         BVIIZ89F  1174  1139/ 90  W4  L3  L1  1.0
+  3 Hoellein, Carter       SDDGZ96L  1077  1066/172  L1  W2  L4  1.0
+  4 Devish, Coale          SDSDZ80U  1072  1062/ 64  L2  L1  W3  1.0

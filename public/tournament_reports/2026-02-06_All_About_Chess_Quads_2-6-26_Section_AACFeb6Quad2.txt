@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bhasin, Palash         ISMHH95H  1279  1338/222  W4  W2  D3  2.5
+  2 Karnik, Rohan          WAVKG59F  1243  1278/ 81  W3  L1  W4  2.0
+  3 Ye, Alex               PLKGH51L  1314  1306/388  L2  W4  D1  1.5
+  4 Swain, Samarth         MMEDJ58S  1259  1197/429  L1  L3  L2  0.0

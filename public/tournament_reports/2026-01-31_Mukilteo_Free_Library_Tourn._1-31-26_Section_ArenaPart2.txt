@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Chantarachoti, Beamer  HPTHH15Z   692   730/ 39  W3  W6  D7  W3  L8  U   5.5
+  2 Makienko, Michael      MUEGH16F  1025  1050/ 28  U   W9  W3  W4  U   W7  5.5
+  3 Chantarachoti, BrightonMUKEH15W   514   515/ 45  L1  W5  L2  L1  L6  L8  5.0
+  4 Taggart, Forrest       MUEFH15X   975   936/ 25  U   D7  L8  L2  U   W6  5.0
+  5 Greer, Vasili          MUEFF82X   937   894/ 15  U   L3  W6  U   W9  U   5.0
+  6 Thomas, David Cijo     TBKDJ03B   575   591/ 59  U   L1  L5  W7  W3  L4  4.0
+  7 Greer, Viktor          MUEEH16B   557   520/ 34  L9  D4  D1  L6  U   L2  4.0
+  8 Shinkarev, Slava       KAMLJ77F  1607  1608/ 81  U   U   W4  U   W1  W3  3.0
+  9 Park, Leo              PPECF75W   237   327/ 12  W7  L2  U   U   L5  U   2.0

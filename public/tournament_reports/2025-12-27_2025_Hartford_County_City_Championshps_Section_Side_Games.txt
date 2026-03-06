@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Falk, Zoe              NCXNZ30K   474   483/  4  W5  U   1.0
+  2 Falk, Abbie            CTXNZ30J   445   464/  4  W4  U   1.0
+  3 Tetreault, Brian       CTXNZ30L   798   798/  4  U   W4  1.0
+  4 Shakeel, Faizan        CTXLX13M   246   225/ 11  L2  L3  0.0
+  5 Thrope, Brandon        NYXNZ30W   490   117/  4  L1  U   0.0

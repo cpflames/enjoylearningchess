@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mosqueda, Luke Derek   LIBFH90L  1107  1251/ 77  W4  W3  W2  3.0
+  2 Dillingham, Gregg      ADUNH327  1702  1671/173  W3  W4  L1  2.0
+  3 Moulton, Lee           ADUNF74K  1300  1105/  3  L2  L1  W4  1.0
+  4 Johnson, Eli           KCCJJ24B   976   944/ 53  L1  L2  L3  0.0

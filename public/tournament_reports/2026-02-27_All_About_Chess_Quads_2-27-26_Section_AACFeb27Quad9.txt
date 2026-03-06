@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Strien, Gabriel        BLWFF74X   516   591/ 18  W3  W4  D2  2.5
+  2 Iyengar, Keshav        SHSEH29S   498   497/ 54  W4  L3  D1  1.5
+  3 Karanam, Dhruthi       LCSDH10X   446   432/ 43  L1  W2  L4  1.0
+  4 Reeves, Othel          SESFF78K   493   463/ 31  L2  L1  W3  1.0

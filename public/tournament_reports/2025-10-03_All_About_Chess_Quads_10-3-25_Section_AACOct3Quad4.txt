@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Ethan James        SOMDK00K  1099  1159/229  W4  W3  D2  2.5
+  2 Bolisetty, Varun       CBREJ73Z  1097  1158/183  W3  W4  D1  2.5
+  3 Sathyamurthy, Sreeshan EVJJJ24M  1089  1064/189  L2  L1  W4  1.0
+  4 Bysani, Aakash         SSMDK01D  1021   963/304  L1  L2  L3  0.0

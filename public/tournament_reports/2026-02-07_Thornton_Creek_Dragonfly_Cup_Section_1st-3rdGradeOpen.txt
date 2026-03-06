@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chanda, Rishabh        BCABH72X  1058  1050/135  W4  W2  W3  W5  L6  4.0
+  2 Glaser, Dylan          BUSCH32T   844   856/ 55  W5  L1  W4  W6  L3  3.0
+  3 Venkatesh, Aiden       WEDBH37S   571   759/ 67  W6  W5  L1  L4  W2  3.0
+  4 Nayak, Aarav           SCDCG69Y   801   830/ 35  L1  W6  L2  W3  W5  3.0
+  5 Bartram, Clark         DCTDJ47Q   714   677/ 56  L2  L3  W6  L1  L4  1.0
+  6 Sharma, Sidarth        EVGDJ75G   811   739/146  L3  L4  L5  L2  W1  1.0

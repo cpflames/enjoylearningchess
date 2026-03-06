@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Li, Leo                BCABH11J   682   809/ 68  W8  W12 W7  W2  4.0
+  2 Velichko, Kristina     ASADK07V   639   741/160  W13 W5  W3  L1  3.0
+  3 Goyal, Avyukt          CNHBJ65X   703   771/157  W4  W6  L2  W7  3.0
+  4 Cheng, Ary             KSHBG24S   695   705/ 20  L3  W14 W12 W9  3.0
+  5 Johnson, Elke          HSCDG73L   695   694/ 33  W10 L2  W8  D6  2.5
+  6 Zhang, Eli             BASDH69C   629   627/103  W15 L3  W13 D5  2.5
+  7 Hu, Ethan              CNHCH35U   603   628/ 29  W11 W9  L1  L3  2.0
+  8 Cauich-miller, Marco   CSDDJ97P   501   493/ 32  L1  W15 L5  W12 2.0
+  9 Premjith, Arnav        SFRDJ20D   644   621/ 43  W14 L7  W10 L4  2.0
+ 10 Han, Isaac             CGRCH65V   500   519/ 34  L5  W11 L9  W14 2.0
+ 11 Ginotra, Sohum         GRRDG19C   756   568/  7  L7  L10 W15 W13 2.0
+ 12 Gridasov, Gregory      CSMBG36G   288   248/  7  BYE L1  L4  L8  1.0
+ 13 Sterba, Pavel          NOWCK34L   383   341/ 88  L2  BYE L6  L11 1.0
+ 14 Jiang, Ethan           BCABG19W   419   369/ 13  L9  L4  BYE L10 1.0
+ 15 Ande, Shayanth         RBRBG17R   100   100/  3  L6  L8  L11 BYE 1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jensen, Maxwell        SDYHX88L   923   947/114  W4  W3  W2  3.0
+  2 Klimczuk, Joaquin      SDTGZ59D   675   703/ 14  W3  W4  L1  2.0
+  3 Welch, Gideon          XXXCH75H   619   604/ 37  L2  L1  W4  1.0
+  4 Headley, Austin        SDAEZ802   495   451/ 39  L1  L2  L3  0.0

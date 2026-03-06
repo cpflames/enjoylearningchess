@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Thompson, Richard      CTXNZ38J  1300  1263/  3  HPB W8  W9  W2  3.5
+  2 Negi, Aayush           CTXNZ43S   774   846/ 20  W10 W9  W5  L1  3.0
+  3 Ijju, Ratna Mohan      CTXNZ38H  1300   983/  4  W4  L5  W7  W9  3.0
+  4 Gudipati, Dhanvik      CTXCZ38F   200   884/  2  L3  BYE W6  WF  3.0
+  5 Raymond, Silas         CTXHZ45W   515   606/ 11  W7  W3  L2  LF  2.0
+  6 Chau, Tan              CTXNZ38E  1300   700/  2  HPB HPB L4  W10 2.0
+  7 Moreno, Hai-nam        CTXCZ51V   207   251/ 12  L5  W10 L3  D8  1.5
+  8 Lama, Sang             CTXNZ38D  1300   390/  4  L9  L1  W10 D7  1.5
+  9 Subramaniam, Veera     CTXNZ38C  1300   635/  4  W8  L2  L1  L3  1.0
+ 10 Phillips, Stephanie    CTXNZ38B  1300   100/  4  L2  L7  L8  L6  0.0

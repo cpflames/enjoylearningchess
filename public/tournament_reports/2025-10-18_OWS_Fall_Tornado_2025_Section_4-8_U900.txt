@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Pham, Long             PKRFG91X   798   884/ 20  W7  W8  W5  W2  W4  5.0
+  2 Lange, Maximilian      BWSGG33Q   662   683/ 14  W9  D3  W6  L1  W8  3.5
+  3 Raghavan, Mridula      SKIGG32B   867   832/ 41  W6  D2  L4  W5  W7  3.5
+  4 Tu, Tommy              PKRFG15Z   500   671/  5  L5  W7  W3  W8  L1  3.0
+  5 Armstrong, Benjamin    EVGFK54R   550   578/ 86  W4  WF  L1  L3  W9  3.0
+  6 Aslan, Derin           OPWEH60Y   470   452/ 14  L3  W9  L2  D7  BYE 2.5
+  7 Devatha, Kian          OPWEG48V   425   405/ 15  L1  L4  BYE D6  L3  1.5
+  8 Chen, Chang            BCAEG15Y   400   170/  4  WF  L1  D9  L4  L2  1.5
+  9 Cohen, Adam            JDSEG15X   400   157/  4  L2  L6  D8  BYE L5  1.5

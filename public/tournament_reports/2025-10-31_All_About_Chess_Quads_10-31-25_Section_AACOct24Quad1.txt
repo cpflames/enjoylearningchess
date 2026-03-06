@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, William          EALJ550N  1730  1732/330  W3  WF  W2  3.0
+  2 Yu, Eric               SOMDK25N  1178  1185/160  W4  W3  L1  2.0
+  3 Charles, Benjamin      SOMCJ06G   909   903/186  L1  L2  W4  1.0
+  4 Chen, Luna             RSACG32W   440   471/ 46  L2  W5  L3  1.0
+  5 Etienne, Yann          CDVCG21M   485   447/ 17  L6  L4  BYE 1.0
+  6 Pan, Peng-ruei         SSMG759R  1600  1600/312  W5  LF  U   1.0

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Huynh, Daniel          DCTEK87U   561   653/ 49  W6  W3  L4  W2  W5  4.0
+  2 Avesar, Isaac          LRADF91H   564   575/ 46  W4  W6  W5  L1  L3  3.0
+  3 Smith, Soren           CSICG98X   333   480/ 49  W5  L1  W6  L4  W2  3.0
+  4 Ben Simon, Golan       WEDEJ48B   813   748/ 96  L2  L5  W1  W3  W6  3.0
+  5 Soulios, Konstantinos  CSIDK88D   505   485/ 55  L3  W4  L2  W6  L1  2.0
+  6 Pristoop, Adin         BNGGF46E   600   100/  5  L1  L2  L3  L5  L4  0.0

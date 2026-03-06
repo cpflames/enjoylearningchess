@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Shah, Rachit           BNTFK44K   800   916/134  W10 W8  W2  W3  L6  4.0
+  2 Madsen, Levi           BLWEH80Z   852   921/ 47  W7  W6  L1  W8  D3  3.5
+  3 Nayagam, Anantika      SSMGH62E   691   820/ 50  W9  W4  W6  L1  D2  3.5
+  4 Phadnis, Akash         DISCJ27M   683   686/ 64  L6  L3  W5  W9  W10 3.0
+  5 Balaji, Vaibhav        SSMDH28Z   594   614/129  L8  W9  L4  W10 W7  3.0
+  6 Balaji, Pranav         INGIJ96J  1040   974/163  W4  L2  L3  D7  W1  2.5
+  7 Yang, Spencer          SOMDF76L   300   722/  5  L2  W10 W8  D6  L5  2.5
+  8 Phadnis, Neil          DISFK44Y   913   835/ 88  W5  L1  L7  L2  W9  2.0
+  9 Lee, Kai               SOMBF76K   100   338/  5  L3  L5  W10 L4  L8  1.0
+ 10 Lam, Theo              JINCJ02H   158   131/ 28  L1  L7  L9  L5  L4  0.0

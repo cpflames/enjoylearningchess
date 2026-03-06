@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Gorbatenko, Leon       CRKGH58G   641   645/ 28  W3  BYE L2  2.0
+  2 Xu, Jacky Y            SOMDJ59K   622   631/151  BYE L3  W1  2.0
+  3 Petluri, Anish         CCDCH48F   705   692/ 30  L1  W2  BYE 2.0

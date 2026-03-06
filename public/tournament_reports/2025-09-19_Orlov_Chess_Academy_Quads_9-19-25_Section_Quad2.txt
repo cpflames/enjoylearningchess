@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Anand, Nivaan          MCECH64F   542   556/121  U2  D4  W3  W5  U   2.5
+  2 Tong, Bayes            CCDDG20L   332   489/  5  U1  U   W4  W3  U5  2.0
+  3 Yu, Jamie              BKLDH59H   527   441/ 11  U   D5  L1  L2  U4  0.5
+  4 Luo, Ying-qi           REJGG18P   600   352/  2  U5  D1  L2  U   U3  0.5
+  5 Law, Wesley            BCWAG18N   100   291/  2  U4  D3  U   L1  U2  0.5

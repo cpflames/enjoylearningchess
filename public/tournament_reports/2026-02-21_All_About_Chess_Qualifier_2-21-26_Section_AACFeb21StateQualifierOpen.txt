@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Desai, Vivaan          BCACJ49H   915  1190/ 87  W2  W4  W3  W6  W5  5.0
+  2 Dhameeja, Ved          PFCGJ98F  1238  1239/224  L1  W7  W5  W3  W4  4.0
+  3 Balaji, Pranav         INGIJ96J  1073  1066/203  W6  W5  L1  L2  BYE 3.0
+  4 Treves, Simon          NOWFK28A   853   919/ 61  BYE L1  W6  W7  L2  3.0
+  5 Bhutani, Mihir         CRKEK90Q   868   867/ 69  W7  L3  L2  BYE L1  2.0
+  6 Shah, Rachit           BNTFK44K   957   916/144  L3  BYE L4  L1  W7  2.0
+  7 Phadnis, Neil          DISFK44Y   969   864/100  L5  L2  BYE L4  L6  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ismail, Kai            TLIBG21Y   363   437/ 22  W3  D4  W2  2.5
+  2 Lakshmanan, Vian       BABCH56N   332   369/ 57  W4  W3  L1  2.0
+  3 Tian, Isabella         ENDBG44E   280   266/ 22  L1  L2  W4  1.0
+  4 Trespalacios, James    JINCJ02N   327   265/ 44  L2  D1  L3  0.5

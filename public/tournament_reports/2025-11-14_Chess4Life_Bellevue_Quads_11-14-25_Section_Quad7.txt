@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Abdukarimov, Samin     BENBH67S   542   594/183  D3  W4  W2  2.5
+  2 Mehta, Ishaan          SSMGK65Y   503   527/ 23  W4  W3  L1  2.0
+  3 Voss, Jayden           WOBCH15J   465   470/ 29  D1  L2  W4  1.5
+  4 Kim, Nathan            SAREG16C   483   313/  6  L2  L1  L3  0.0

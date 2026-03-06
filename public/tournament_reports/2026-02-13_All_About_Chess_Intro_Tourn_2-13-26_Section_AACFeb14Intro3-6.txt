@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Kapasi, Mikail         BLWFG19B   241   519/  8  W3  W5  W2  W4  4.0
+  2 Paidipathi, Kiaan      APODJ99C   485   507/251  W4  W7  L1  W3  3.0
+  3 Karthick, Krithik      CRMDF50T   300   378/  4  L1  W6  W7  L2  2.0
+  4 Cao, Tianyu            SOMFF50S   500   394/  4  L2  W8  W5  L1  2.0
+  5 Reeves, Othel          SESFF78K   512   453/ 25  W6  L1  L4  W8  2.0
+  6 Hovik, Kyan            SNEFK43J   100   191/ 13  L5  L3  W8  W7  2.0
+  7 Karthik, Dyuthi        CRMFG01X   445   266/  8  W8  L2  L3  L6  1.0
+  8 Krishna, Ananth        CBREF50R   400   100/  4  L7  L4  L6  L5  0.0

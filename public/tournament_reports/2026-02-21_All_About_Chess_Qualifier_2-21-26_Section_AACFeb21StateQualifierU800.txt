@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Lee, Hugo              SOMCG01W   545   700/ 18  W8  W2  D3  W4  W5  4.5
+  2 Phadnis, Akash         DISCJ27M   636   617/ 74  W9  L1  W7  W8  D3  3.5
+  3 Balaji, Vaibhav        SSMDH28Z   472   525/160  W6  W4  D1  L7  D2  3.0
+  4 Yang, Spencer          SOMDF76L   704   649/ 16  W5  L3  W6  L1  BYE 3.0
+  5 Karthick, Krithik      CRMDF50T   378   428/  9  L4  W7  W8  W9  L1  3.0
+  6 Misra, Atharv          BLWBF46D   100   376/  4  L3  W9  L4  BYE W7  3.0
+  7 Karthik, Adithi        RCKCW768   100   153/ 19  BYE L5  L2  W3  L6  2.0
+  8 Karthik, Dyuthi        CRMFG01X   266   236/ 12  L1  BYE L5  L2  D9  1.5
+  9 Chen, Enoree           SOMDF64R   333   237/  9  L2  L6  BYE L5  D8  1.5

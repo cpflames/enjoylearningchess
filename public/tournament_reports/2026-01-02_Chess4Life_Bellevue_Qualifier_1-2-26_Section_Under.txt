@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Zeng, Alex             CMCCG27X   428   629/ 23  W4  W12 W3  W2  4.0
+  2 Song, Raymond          HMNEH82H   383   464/ 24  W10 W7  W6  L1  3.0
+  3 Zhou, Owen             MEDDG91Y   164   370/ 17  W11 W13 L1  W9  3.0
+  4 Sandeep, Advik         CDIEG20S   229   395/ 20  L1  W11 W13 W8  3.0
+  5 Lee, Siyoon            WOBEG65A   249   349/ 18  L7  W10 W14 W6  3.0
+  6 Mattoo, Avyaan         HWEFG68K   479   442/ 62  W8  W9  L2  L5  2.0
+  7 Zhang, Gavin           CNCDF75Q   300   320/  4  W5  L2  L8  W14 2.0
+  8 Song, Owen             CCABH67J   347   333/ 12  L6  W15 W7  L4  2.0
+  9 Konduru, Hari Pranav   STVCG19K   326   317/ 17  W15 L6  W12 L3  2.0
+ 10 Ahn, Augustus          WOBEG17Q   219   201/  6  L2  L5  BYE W15 2.0
+ 11 Bhansali, Inaya        BCACH79H   348   299/ 36  L3  L4  W15 D12 1.5
+ 12 Zhong, Jasper          WMNCF75P   200   213/  4  W13 L1  L9  D11 1.5
+ 13 Castro, Philip         APOEH34Q   285   198/ 15  L12 L3  L4  BYE 1.0
+ 14 Yik, Megan             RDMEF75M   400   100/  2  HPB HPB L5  L7  1.0
+ 15 Wang, Ivan             CHRCF75L   200   100/  4  L9  L8  L11 L10 0.0

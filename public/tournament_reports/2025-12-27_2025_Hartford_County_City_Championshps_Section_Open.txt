@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Ivanov, Alexander      MAXNX00C  2492  2494/122  HPB W3  W4  W2  3.5
+  2 Adu-poku, Kwabena      CTXNZ73P  2052  2064/ 26  HPB W4  W3  L1  2.5
+  3 Wu, Felix              CTXGZ40D  1976  1972/ 11  W4  L1  L2  HPB 1.5
+  4 Tkaczewski, Krysti     CTXGZ69F  1829  1813/ 27  L3  L2  L1  HPB 0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yi, Leo                BCACG19D   100   177/ 11  W2  D4  W3  2.5
+  2 Zhang, Edgar           TLIBG16B   100   109/  9  L1  W3  D4  1.5
+  3 Yadav, Dhavit          TBKBG35T   100   100/ 35  W4  L2  L1  1.0
+  4 Wu, Esther             STTBF80D   100   100/  6  L3  D1  D2  1.0

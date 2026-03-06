@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Namburi, Shriniketh    TMBJJ20A   824   910/ 48  W2  W4  D3  2.5
+  2 Gokul, Shravan         EVJIJ89U   785   842/ 83  L1  W3  W4  2.0
+  3 Roy, Ricky             RCSFW75V   972   937/ 26  W4  L2  D1  1.5
+  4 Yao, Jason             DISEG30H   717   667/ 31  L3  L1  L2  0.0

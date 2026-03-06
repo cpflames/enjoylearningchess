@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yao, Jason             DISEG30H   677   788/ 24  L3  W2  W4  2.0
+  2 Vinoth Kumar, Yuvan AdaEALKH88U  1122  1063/ 25  W4  L1  D3  1.5
+  3 Kennerud, Caedmon      LGHHH61R   858   852/ 51  W1  L4  D2  1.5
+  4 Gorbatenko, Leon       CRKGH58G   635   661/ 34  L2  W3  L1  1.0

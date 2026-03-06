@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Avesar, Isaac          HSCDF91H   443   648/ 25  W4  W4  W3  W3  W2  W2  6.0
+  2 Glant, Evan            BRYCH32Z   429   421/ 19  L3  W3  W4  W4  L1  L1  3.0
+  3 Sheehy, Julian         BRYCJ67A   380   393/ 54  W2  L2  L1  L1  W4  W4  3.0
+  4 Seibel, Jameson        BRYCJ47E   296   201/ 20  L1  L1  L2  L2  L3  L3  0.0

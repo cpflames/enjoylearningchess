@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sijin, Ryan            BENDG24X   747   779/ 27  W4  W2  W3  3.0
+  2 Yu, Jamie              BKLDH59H   441   502/ 14  W3  L1  W4  2.0
+  3 Kim, Marcus            CHOHG30B   596   545/ 17  L2  W4  L1  1.0
+  4 Oh, Jiyoung            ADUNG17Y  1300   137/  3  L1  L3  L2  0.0

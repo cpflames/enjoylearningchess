@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Harada, Nicky          LABCH20W   574   806/ 16  W10 W2  W3  U   W7  W4  5.0
+  2 Mitchell, Kiran        LABDG06Q   442   614/ 10  W7  L1  W9  D3  W8  W10 4.5
+  3 Budihardjo, Noelle     LABDG06T  1256  1017/ 11  D11 W9  L1  D2  U   W7  3.0
+  4 Willey, Samantha       LABDG06R   583   624/ 11  U   W6  W5  W8  U   L1  3.0
+  5 Schell, Miriam         LABDG06M   336   362/ 13  L12 W15 L4  L7  W14 W8  3.0
+  6 Popp, Mikko            LABDG06K   245   352/ 10  U   L4  W13 D9  U   W11 2.5
+  7 Falaniko, Zach         LABCF41J   200   349/  6  L2  L13 W15 W5  L1  L3  2.0
+  8 Deward, Drew           LABCG06S   668   499/ 13  L9  W11 W10 L4  L2  L5  2.0
+  9 Soukal, Misha          LABEG06P   329   372/ 13  W8  L3  L2  D6  D11 L12 2.0
+ 10 Falaniko, Lucas        LABEF41G   400   336/  5  L1  BYE L8  L13 W12 L2  2.0
+ 11 Lu, Isabelle           LABCH20R   373   357/ 17  D3  L8  U   W15 D9  L6  2.0
+ 12 Skoda, Eleanor         LABFG06U  1018   885/  9  W5  U   U   U   L10 W9  2.0
+ 13 Sheil, Logan           LABBH20K   270   333/ 13  U   W7  L6  W10 U   U   2.0
+ 14 Koogler, Elon          LABBG06J   100   139/  7  U   U   U   U   L5  W15 1.0
+ 15 Popp, Viveca           LABAG06L   100   100/ 11  U   L5  L7  L11 U   L14 0.0

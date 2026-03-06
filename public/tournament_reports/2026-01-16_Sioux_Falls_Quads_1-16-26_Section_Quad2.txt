@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dandar, Siggy          SDRDZ69K   837   888/ 53  D3  BYE W2  2.5
+  2 Welch, Gideon          HSSCH75H   971   960/ 57  BYE W3  L1  2.0
+  3 Neff, Nathan           ABFDK07A   964   927/127  D1  L2  BYE 1.5

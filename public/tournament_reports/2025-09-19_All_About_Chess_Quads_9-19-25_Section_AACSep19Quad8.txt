@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Joye, Quentin          SUBIG24Y   260   434/ 21  W2  W3  W4  3.0
+  2 Balaji, Vaibhav        SSMDH28Z   351   352/ 95  L1  W4  W5  2.0
+  3 Tanielian, Desmond     WOBFG19S   279   277/  6  W5  L1  BYE 2.0
+  4 Tanielian, Theo        WOBBG19Q   100   100/  6  BYE L2  L1  1.0
+  5 Karanam, Dhruthi       LCSDH10X   116   100/ 18  L3  BYE L2  1.0

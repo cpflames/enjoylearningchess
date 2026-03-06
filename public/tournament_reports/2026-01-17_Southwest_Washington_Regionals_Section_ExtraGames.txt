@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Devlin, Austin         NOBIK25F   963   966/ 90  W3  1.0
+  2 Fredericks, Wyatt      GVWIG95J   488   498/ 10  W4  1.0
+  3 Catayas, Ianess        NOTJK51M   390   387/ 41  L1  0.0
+  4 Schell, Milo           NSLMG70V   167   155/ 11  L2  0.0

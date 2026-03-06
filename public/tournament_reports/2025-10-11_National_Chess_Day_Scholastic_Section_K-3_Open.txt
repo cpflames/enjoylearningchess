@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Liu, Kyle              CHRDK00Z   898  1053/ 53  WF  W3  W4  W2  W2  5.0
+  2 Gu, Leo                SCDDK31Y   804   859/ 78  BYE W4  W3  L1  L1  3.0
+  3 Bangard, Dhruv         RBRDK65D  1000   970/149  W4  L1  L2  W4  W4  3.0
+  4 Zhang, William         ISEDJ58L   814   734/ 41  L3  L2  L1  L3  L3  0.0

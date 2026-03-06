@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Urali, Sanjay          OMSI315D  1443  1463/372  W6  1.0
+  2 Wang, Hengsheen        BASD704V  1078  1083/164  D3  0.5
+  3 Yeh, George            CSIDH64S  1145  1140/ 39  D2  0.5
+  4 Mathew, Reuben         MRIBG33B   806   794/ 31  D5  0.5
+  5 Sang, Andy             BASDK65W   674   686/107  D4  0.5
+  6 Zhang, Kevin           OMSH809Y  1406  1386/197  L1  0.0

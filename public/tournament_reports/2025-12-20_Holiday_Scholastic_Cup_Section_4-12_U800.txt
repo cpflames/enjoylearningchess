@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Srishankar, Suryaa     SKWGK87F   722   867/ 64  W3  W4  D2  W6  W5  4.5
+  2 Nguyen, Michael        SOMEK64B   594   835/ 35  W9  W6  D1  W5  W4  4.5
+  3 Naveen Kumar, Aadvik   SEHEF95G   316   491/ 13  L1  W7  W12 W9  D8  3.5
+  4 Koul, Navika           CAVFJ83L   595   675/103  W7  L1  W8  W10 L2  3.0
+  5 Thoppay, Hrithick      BRHFH35N   706   725/ 33  W11 W12 W10 L2  L1  3.0
+  6 Dhanalakota, Nikhil    HEAHF81G   722   708/ 10  W14 L2  W11 L1  W10 3.0
+  7 Christensen, Silas     ALIFF77B   500   518/  5  L4  L3  W14 W15 W11 3.0
+  8 Brakenridge, Bryce     TYEHK89D   740   672/ 95  L10 W15 L4  W13 D3  2.5
+  9 Rao, Neil              SASGF77A   600   484/  5  L2  W14 D13 L3  W16 2.5
+ 10 Srinivas, Venkatesh    LWAJG23B   567   574/ 25  W8  W13 L5  L4  L6  2.0
+ 11 Chai, Alexander        FAPEF76Z   400   461/  5  L5  W16 L6  W12 L7  2.0
+ 12 Devavarapu, Ananya SresCMCEH54Z   740   646/ 80  W16 L5  L3  L11 W13 2.0
+ 13 Sajeeth, Samay         REJGJ82R   711   600/ 73  W15 L10 D9  L8  L12 1.5
+ 14 Acharya, Rahul         DISEG30C   240   245/ 10  L6  L9  L7  W16 D15 1.5
+ 15 Crystal, Aliza         KSTFG58G   238   245/ 22  L13 L8  W16 L7  D14 1.5
+ 16 Santhosh, Charith      BCAFK08B   422   225/ 10  L12 L11 L15 L14 L9  0.0

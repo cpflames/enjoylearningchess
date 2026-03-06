@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Thompson, Hugo         SSNIH55A  1140  1152/ 40  W4  1.0
+  2 Allen, Isaiah          CPVMH25W   438   499/ 25  W3  1.0
+  3 Dolan, Rodion          ANCHH12G   664   610/ 15  L2  0.0
+  4 Mella, Amaru           OHHLH12P   928   911/ 10  L1  0.0

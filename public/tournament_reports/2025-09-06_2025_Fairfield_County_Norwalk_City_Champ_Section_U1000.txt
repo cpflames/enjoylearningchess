@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Galasso, Ryan          CTXNZ40W  1300  1504/  4  W13 W20 W7  W2  4.0
+  2 Kriger, Dmitriy        CTXNZ73C  1073  1135/  8  W18 W3  W9  L1  3.0
+  3 Lin, Jasper Nash       NYXGZ426   622   909/  8  W4  L2  W14 W10 3.0
+  4 Gioia, Evan            NYXNX03T   986  1003/116  L3  W15 W10 W9  3.0
+  5 Negi, Rishaan          CTXBZ50P   730   770/ 31  W21 L9  W17 W11 3.0
+  6 Chin, Gregory          CTXFZ528   715   782/ 11  W19 L7  WF  W20 3.0
+  7 Mandler, Benjamin      NJXNZ40V  1300  1026/  4  W16 W6  L1  D8  2.5
+  8 Walker, Brendan        CTXHZ74N   823   816/ 20  L12 W18 W16 D7  2.5
+  9 Kim, Colin             NYXHZ40T   700   884/  4  W11 W5  L2  L4  2.0
+ 10 Baker, Michael         CTXNX12X   944   907/ 20  W17 W12 L4  L3  2.0
+ 11 Lama, Siddhartha       CTXDZ71D   677   668/ 24  L9  W21 W12 L5  2.0
+ 12 Li, Jeremy             NYXBZ42B   377   550/  8  W8  L10 L11 W18 2.0
+ 13 Mathivanan, Rayan      CTXFX08F   742   748/119  L1  L17 W15 W19 2.0
+ 14 Hardin, Richard        CTXNZ52V  1316  1235/ 11  L15 W22 L3  W17 2.0
+ 15 Chen, Charles          NYXBZ41V   776   788/  8  W14 L4  L13 D16 1.5
+ 16 Lysenko, David         CTXFX13E   672   669/124  L7  W19 L8  D15 1.5
+ 17 Clark, Wesley          CTXHZ40S   700   673/  4  L10 W13 L5  L14 1.0
+ 18 Lysenko, Maxim         CTXDX13F   587   543/123  L2  L8  W22 L12 1.0
+ 19 Ramsahoye, Akash       CTXIZ40R   800   431/  4  L6  L16 W21 L13 1.0
+ 20 Dutta, Ishaan          CTXEX08E   940   898/115  W22 L1  LF  L6  1.0
+ 21 Robles, Emilia         NYXCZ40Q   200   273/  4  L5  L11 L19 W22 1.0
+ 22 Ledner, Michael        CTXNZ40P  1300   100/  4  L20 L14 L18 L21 0.0

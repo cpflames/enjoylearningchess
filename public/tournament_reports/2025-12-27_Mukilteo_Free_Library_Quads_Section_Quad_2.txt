@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Austin, Jason          MUEEH15V   389   507/ 16  W3  W4  W2  3.0
+  2 Allen, Zeke            CPVMH25Y   489   478/ 17  W4  W3  L1  2.0
+  3 Branting, Baelfire     PPEFF76J   500   238/  3  L1  L2  W4  1.0
+  4 Shin, Jaden            MUEEF76H   400   100/  3  L2  L1  L3  0.0

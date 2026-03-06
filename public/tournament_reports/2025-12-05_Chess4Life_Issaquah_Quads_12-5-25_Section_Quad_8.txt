@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hoon, Rayleigh         HSCFG25M   323   456/  5  U   W2  W3  2.0
+  2 Shukla, Stavya         BCACG27W   290   301/ 48  W3  L1  U   1.0
+  3 Hurdelbrink, Audrey    STTDG63F   292   231/ 18  L2  U   L1  0.0

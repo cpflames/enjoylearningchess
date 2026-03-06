@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Byle, Tynan Young      SENLF74A  1100  1639/  5  W8  W17 W6  W5  W2  5.0
+  2 Crum, Connor           SENLK76S  1120  1219/ 32  W15 W9  W4  W6  L1  4.0
+  3 Walter, Tristan        SENJ127H   668   897/ 21  L4  BYE W7  W11 W9  4.0
+  4 Cruz, Justin           PRHMJ91C  1272  1246/ 51  W3  W11 L2  W14 D5  3.5
+  5 Kennedy, Kian          ITPKG94W  1007  1109/ 10  W10 W14 W12 L1  D4  3.5
+  6 Hernandez-robledo, MariITPMK81F  1159  1156/ 20  W16 W7  L1  L2  W10 3.0
+  7 Wilson, Cory           FTVJF73Z   900   929/  5  W12 L6  L3  W19 W11 3.0
+  8 Manzano, Shane         CRXMG94S   800   795/  9  L1  L18 BYE W16 W13 3.0
+  9 Williams, Smith        PRHKF73Y  1000   910/  5  W18 L2  D10 W12 L3  2.5
+ 10 Vaughn, Ryan           CRXJF73X   900   893/  5  L5  W13 D9  W17 L6  2.5
+ 11 Sandow, Naomi          FFSJG10Q   694   741/ 10  W13 L4  W15 L3  L7  2.0
+ 12 Penner, Brandon        CRXLG94V  1035   885/ 10  L7  W16 L5  L9  W19 2.0
+ 13 Saldua, Charles        SENLF73W  1100   671/  5  L11 L10 W17 W15 L8  2.0
+ 14 Dominge, Andy          SENL486W   499   519/ 35  BYE L5  W18 L4  L16 2.0
+ 15 Kruckenberg, Kacen     CRXKF73V  1000   630/  5  L2  W19 L11 L13 W17 2.0
+ 16 Spencer, Jessica       SENLF73U  1100   592/  5  L6  L12 D19 L8  W14 1.5
+ 17 Papenfuse, William     PRHLJ40C   583   540/ 10  W19 L1  L13 L10 L15 1.0
+ 18 Nera, Samantha         SENJF73T   900   623/  3  L9  W8  L14 U   U   1.0
+ 19 Johnson, Philip        SENKF73S  1000   375/  5  L17 L15 D16 L7  L12 0.5

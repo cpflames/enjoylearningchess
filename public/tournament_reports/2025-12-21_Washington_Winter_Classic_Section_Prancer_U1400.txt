@@ -1,0 +1,34 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Lai, Ryan              SHSCH70N  1354  1429/172  W3  W7  W6  D2  W5  4.5
+  2 Vijayaguru, Ashwin     OHSLK95L  1354  1445/ 38  W17 W4  W16 D1  W9  4.5
+  3 Underwood, Brannon     ADUNG16Z  1167  1229/ 15  L1  W32 W20 W25 W14 4.0
+  4 Mohammed, Farhan       CRKFH14M  1107  1242/157  W13 L2  W15 D18 W21 3.5
+  5 Blanchard, Rider       HYLMG86D   743  1074/ 10  W26 W21 D9  W10 L1  3.5
+  6 Chaudhuri, Arihant     CHAG703E  1265  1275/331  W32 W20 L1  W21 D8  3.5
+  7 Zhang, Aaron           TMBGC74T  1190  1238/203  W33 L1  D12 W22 W18 3.5
+  8 Zou, Fuxing            ADUNH28Q  1062  1228/ 22  HPB W28 W11 D9  D6  3.5
+  9 Adepu, Sai Shreyas     VVMHG16Q  1339  1317/ 24  W23 W30 D5  D8  L2  3.0
+ 10 Meenakshi Sundaram, PavCDWDJ99Z  1145  1180/ 69  D14 W25 W22 L5  D13 3.0
+ 11 Anbuselvam, Mithran    HEAHH61F  1338  1308/252  D27 W24 L8  W17 D12 3.0
+ 12 Bhende, Shaurya        MMEGK24T   964  1106/ 84  L16 W19 D7  W31 D11 3.0
+ 13 Burtram, Dayton        SKNKG77M  1343  1316/412  L4  D17 W24 W27 D10 3.0
+ 14 Hack, Don              ADBNF13X  1352  1331/103  D10 W29 HPB W16 L3  3.0
+ 15 Marquina Cancino, Juan ADUNF76N  1300  1093/  4  BYE L16 L4  W30 W20 3.0
+ 16 Zhen Rampenthal, Quinn SASJH53C  1289  1278/153  W12 W15 L2  L14 D22 2.5
+ 17 Shah, Aariv            PFCI527D  1159  1170/ 68  L2  D13 W29 L11 W28 2.5
+ 18 Sampathi Rao, Sri JayraEVJHK37Y  1275  1229/123  L30 W23 W31 D4  L7  2.5
+ 19 Viswanatha, Sruti      REJI289A  1231  1172/ 30  L20 L12 HPB W33 W27 2.5
+ 20 Kalakoti, Kartika      STVDG45J   694   838/ 68  W19 L6  L3  W23 L15 2.0
+ 21 Glaser, Liam           PCLGG34P  1291  1225/ 34  W31 L5  W30 L6  L4  2.0
+ 22 Ye, Alex               PLKGH51L  1399  1324/369  D28 W27 L10 L7  D16 2.0
+ 23 Kakarlapudi, Sreeram MuOMSG687Z  1079  1044/ 86  L9  L18 W32 L20 W30 2.0
+ 24 Mckendry, Matthew      ADUNF245  1145  1128/172  HPB L11 L13 D26 W31 2.0
+ 25 Tang, Julian           ADBNZ395   800   800/ 10  HPB L10 W33 L3  HPB 2.0
+ 26 Wu, Jonathan           UCDEK14H  1235  1162/144  L5  L31 HPB D24 W32 2.0
+ 27 Acevedo, Samuel        ADUNH71B  1041  1053/ 22  D11 L22 W28 L13 L19 1.5
+ 28 Benita-nagdeep, KrishanSOMEK56N  1187  1128/121  D22 L8  L27 W29 L17 1.5
+ 29 Joseph, George KochumurCDIEH11C   772   765/117  HPB L14 L17 L28 W33 1.5
+ 30 Wun, Kaden             TYEIK95F  1000   976/ 48  W18 L9  L21 L15 L23 1.0
+ 31 Avula, Sujatha         ADUNE77T   936   933/ 24  L21 W26 L18 L12 L24 1.0
+ 32 Kakarlapudi, Jairam IshMEDD585M   870   835/ 79  L6  L3  L23 BYE L26 1.0
+ 33 Wang, Shirley          MEDCG91H   449   431/ 19  L7  BYE L25 L19 L29 1.0

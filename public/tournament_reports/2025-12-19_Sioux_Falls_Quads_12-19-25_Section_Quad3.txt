@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Welch, Gideon          XXXCH75H   787   992/ 52  W3  W2  W4  3.0
+  2 Neff, Nathan           ABFDK07A   942   964/125  W4  L1  W3  2.0
+  3 Winter, Noah           SDCGZ88H  1012   964/119  L1  W4  L2  1.0
+  4 Linke, Rhett           SDAEZ823   842   785/ 35  L2  L3  L1  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nabeel, Humza          ENDCK50Y   632   664/ 30  W3  W4  W2  3.0
+  2 Nishanth, Ahan         RSABH60N   369   350/ 45  W4  L3  L1  1.0
+  3 Chanthavong, Amanda    EDIEG20M   320   319/  8  L1  W2  L4  1.0
+  4 Kumar, Ayaansh         GRRDG92B   351   338/ 14  L2  L1  W3  1.0

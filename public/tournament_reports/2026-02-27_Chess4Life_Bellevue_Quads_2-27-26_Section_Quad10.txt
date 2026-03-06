@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Arora, Kyra            BCACH34R   363   422/ 27  W2  W3  WF  3.0
+  2 Machineni, Abhiram     LMAGF50Y   362   280/  5  L1  WF  D3  1.5
+  3 Yin, David             CGRHH67L   315   275/  8  WF  L1  D2  1.5

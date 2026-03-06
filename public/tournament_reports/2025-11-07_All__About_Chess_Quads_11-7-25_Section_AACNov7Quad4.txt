@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bolisetty, Varun       HMNEJ73Z  1050  1175/197  W2  W4  W3  3.0
+  2 Nandakiran, Vidyuth    INGG617C  1045  1081/243  L1  W3  W4  2.0
+  3 Mohammed, Farhan       CRKFH14M  1098  1067/136  W4  L2  L1  1.0
+  4 Balaji, Pranav         INGIJ96J  1031   967/135  L3  L1  L2  0.0

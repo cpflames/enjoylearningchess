@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Owen            SHMK995H  1598  1625/396  W7  D2  W3  2.5
+  2 Stroud, Jeb            SHMKK22V  1628  1662/239  W6  D1  W5  2.5
+  3 Mcgee, Connor          MRDKH30Z  1557  1575/ 26  W8  W5  L1  2.0
+  4 Frost, Ignatius        LYCMJ64P  1489  1501/139  L5  W8  W6  2.0
+  5 Scollon, Owen          SHMK734D  1798  1756/600  W4  L3  L2  1.0
+  6 Bosch, Declan          LYCLE38K  1348  1348/ 86  L2  W7  L4  1.0
+  7 Kozaczuk, James        BHMK108A  1314  1303/262  L1  L6  W8  1.0
+  8 Luna, Max              FERMJ85Y  1246  1211/ 71  L3  L4  L7  0.0

@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Li, Ron                OVLHH73V  1369  1466/ 26  W11 W7  W2  W5  D3  4.5
+  2 Gagnier, Ian           HSCHC72H  1565  1560/262  W12 W4  L1  W6  W8  4.0
+  3 Lee, Justin            KINJ732V  1271  1316/151  W17 W18 D5  W9  D1  4.0
+  4 Chen, Julian           MEDDK32C  1248  1299/147  W16 L2  W10 W14 W9  4.0
+  5 Vijay, Adith           SOMFD20K  1360  1375/103  W13 W6  D3  L1  W10 3.5
+  6 Lam, Myron             LKDG605K  1209  1228/ 50  W14 L5  W11 L2  W15 3.0
+  7 Xing, Andrew           CNHEK62E  1170  1189/180  W15 L1  L9  W11 W12 3.0
+  8 Sampathi Rao, Sri JayraEVJHK37Y  1218  1223/108  L9  W19 W13 W12 L2  3.0
+  9 Li, Bryan              MEDCJ75H   946  1086/128  W8  D10 W7  L3  L4  2.5
+ 10 Rengarajan, Anirudh    DIAGZ75J  1255  1232/ 67  W19 D9  L4  W13 L5  2.5
+ 11 Kakarlapudi, Sreeram MuOMSG687Z  1143  1127/ 76  L1  W15 L6  L7  W14 2.0
+ 12 Tsay, Elon             LKDFK07B  1145  1123/190  L2  W17 W18 L8  L7  2.0
+ 13 Jiang, Yuanyi          MMEEJ58J  1114  1096/ 65  L5  W16 L8  L10 W18 2.0
+ 14 Mudragada, Sanjay KaushGTMHG96Y   936   941/ 53  L6  BYE W17 L4  L11 2.0
+ 15 Adepu, Sai Shreyas     VVMHG16Q   700  1028/  5  L7  L11 W19 W16 L6  2.0
+ 16 Zhu, Eric              NPTFK18P  1054  1018/258  L4  L13 BYE L15 W19 2.0
+ 17 Dong, Tristan          MRLGF90V  1092  1031/ 70  L3  L12 L14 W18 BYE 2.0
+ 18 Mirchandani, Kiaan     MEDFK92Z   797   767/145  BYE L3  L12 L17 L13 1.0
+ 19 Thangakumar, Pranav    EVJHJ49C  1089  1001/ 93  L10 L8  L15 BYE L16 1.0

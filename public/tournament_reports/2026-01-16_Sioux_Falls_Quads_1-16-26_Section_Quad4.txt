@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tomjack, Noelle        SDREZ77H   212   350/ 37  W4  W3  W2  3.0
+  2 Quinn, Owen            LBABZ58Q   181   148/ 11  W3  L4  L1  1.0
+  3 Quinn, Jason           LBADZ835   157   131/ 17  L2  L1  W4  1.0
+  4 Neff, Timothy          ABFAZ31M   111   101/ 12  L1  W2  L3  1.0

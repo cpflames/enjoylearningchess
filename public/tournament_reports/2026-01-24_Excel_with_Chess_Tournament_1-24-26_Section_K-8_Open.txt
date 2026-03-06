@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wadhwani, Ren          DCCFK13K  1324  1390/119  W17 W16 W2  W5  W6  5.0
+  2 Ivanov, Matvei         EABEK34E  1259  1278/147  BYE W12 L1  W7  W8  4.0
+  3 Raghavendran, Vedanth  DCSCH24C  1095  1107/ 69  L7  W15 W17 W12 W5  4.0
+  4 Shrivastava, Anish     BENDG43N   714   792/ 19  L13 BYE W15 W19 D11 3.5
+  5 Lo Conte, Augustus     CSDG331E  1036  1080/ 73  W15 W7  W8  L1  L3  3.0
+  6 Kanchanakuntla, Anish RTFEHJ31G  1252  1215/ 56  L12 W14 W10 W9  L1  3.0
+  7 Dai, Aaron             CMCFH06E   787   945/ 41  W3  L5  W16 L2  W14 3.0
+  8 Schasteen, Noble       DCCFA04C  1312  1265/ 75  W14 W13 L5  W10 L2  3.0
+  9 Gupta, Aayansh         CPJGH73A   755   896/ 61  W11 L10 W13 L6  W17 3.0
+ 10 Bhat, Avaneesh         OMSGK34H   923   971/ 30  W19 W9  L6  L8  W12 3.0
+ 11 Zeitlin, Tom           OMSGI56H  1043   976/157  L9  W19 L12 W17 D4  2.5
+ 12 Chiang, Austin         CNHCH59V   773   871/ 49  W6  L2  W11 L3  L10 2.0
+ 13 Tatimatla, Sharan      PPLHJ49G   852   834/ 34  W4  L8  L9  L14 W18 2.0
+ 14 Friesen, Eli           LAVFK27G   837   846/ 66  L8  L6  W19 W13 L7  2.0
+ 15 Jawaid, Rayan          OMSHH37K   746   757/ 10  L5  L3  L4  W18 W19 2.0
+ 16 Shasha, Erel           ICKGH81Z   870   855/ 13  W18 L1  L7  HPB U   1.5
+ 17 Karanam, Aadya         SWLFK84K   842   804/159  L1  W18 L3  L11 L9  1.0
+ 18 Jacob, Noah            BNTCH23U   714   628/ 29  L16 L17 BYE L15 L13 1.0
+ 19 Jayasinghe, Sihas      TMBHJ83E   724   640/ 66  L10 L11 L14 L4  L15 0.0

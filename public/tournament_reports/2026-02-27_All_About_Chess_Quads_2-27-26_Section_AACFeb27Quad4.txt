@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Ethan James        SOMDK00K  1099  1176/287  W3  W2  D4  2.5
+  2 Nidamarthi, Nikhil     BLWG375J  1162  1175/250  W4  L1  W3  2.0
+  3 Li, Harry              BCAGG30G  1103  1084/577  L1  W4  L2  1.0
+  4 Komin, Michael         SOMFG01Y  1092  1051/ 43  L2  L3  D1  0.5

@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Damrau, Austin         ELKHK95E  1231  1245/145  W3  W6  W5  D2  W4  4.5
+  2 Brouner, Simon         KLLIH47V  1158  1179/ 43  W12 W7  W4  D1  W5  4.5
+  3 Lowe, Thomas           ETLGF71Z   600  1016/  5  L1  W10 W9  W7  W8  4.0
+  4 Hergesheimer, Avery    MTIIH08X   873   908/ 10  W17 W8  L2  W6  L1  3.0
+  5 Tucker, Colin          MTIIJ21V   700   770/ 10  W16 W9  L1  W10 L2  3.0
+  6 Mohn, Dagen            KEIHH08K   621   691/ 10  W11 L1  W13 L4  W10 3.0
+  7 Qi, Andrew             SREGK62P   646   675/ 30  W18 L2  W14 L3  W11 3.0
+  8 Young, Asher J         HSCHH08M   587   655/ 10  W13 L4  W11 W15 L3  3.0
+  9 Kwon, Leo              ELKHH07Y   591   616/ 30  W14 L5  L3  W17 W15 3.0
+ 10 Ruda, Greyson          ELKHK51P   359   402/ 45  W15 L3  W16 L5  L6  2.0
+ 11 Raza, Adil             MTIIF71Y   800   501/  5  L6  W17 L8  W13 L7  2.0
+ 12 Christian, Cameron     HSCIF71X   800   314/  5  L2  L14 L15 W16 W18 2.0
+ 13 Foehl, Tucker          ETLHF71W   700   398/  5  L8  W18 L6  L11 W17 2.0
+ 14 Sangder, Jeremiah      HSCGF71V   600   471/  3  L9  W12 L7  HPB HPB 2.0
+ 15 Dorage, Keira          MTIIF71U   800   335/  5  L10 D16 W12 L8  L9  1.5
+ 16 Ferrel, Asher          ETLHF71T   700   164/  4  L5  D15 L10 L12 BYE 1.5
+ 17 Schaefer, Wyatt        ETLHF71S   700   238/  5  L4  L11 W18 L9  L13 1.0
+ 18 Hendrickson, Theodore  MTIHF71Q   700   100/  4  L7  L13 L17 BYE L12 1.0

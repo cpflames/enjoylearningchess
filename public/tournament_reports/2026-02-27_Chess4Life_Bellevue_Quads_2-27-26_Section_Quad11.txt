@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Awasthi, Anay          NLMBG32T   304   423/ 30  W4  W3  W2  3.0
+  2 Tian, Elizabeth        ENDBG44J   300   251/ 33  L3  W4  L1  1.0
+  3 Rakesh, Om             ENDEF40N   400   159/  3  W2  L1  L4  1.0
+  4 Rakshit, Taksh         AUDEF40M   400   159/  3  L1  L2  W3  1.0

@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zeng, Liam             SHSAH05U   772   824/ 71  W4  W3  W2  W7  W6  5.0
+  2 Premjith, Arnav        SFRDJ20D   556   542/ 54  W5  W7  L1  W3  L8  3.0
+  3 Farris, Oliad          VTABG47T   429   460/ 15  W8  L1  W5  L2  W7  3.0
+  4 Sterba, Pavel          NOWCK34L   299   408/ 99  L1  W8  W7  L6  W5  3.0
+  5 Ande, Shayanth         RBRBG17R   240   292/ 14  L2  W6  L3  W8  L4  2.0
+  6 Larimer, Henry         WBEBH14B   520   455/ 38  L7  L5  W8  W4  L1  2.0
+  7 Lakshmanan, Vian       BABCH56N   408   364/ 50  W6  L2  L4  L1  L3  1.0
+  8 Qin, Emilia            MEDBG05V   302   260/ 13  L3  L4  L6  L5  W2  1.0

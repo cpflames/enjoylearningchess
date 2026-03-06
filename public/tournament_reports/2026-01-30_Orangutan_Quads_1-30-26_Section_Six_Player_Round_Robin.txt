@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Aguiluz, Mateo         BRYEJ68R   368   568/ 47  W4  W2  W5  W6  W3  5.0
+  2 Aguiluz, Emilio        BRYBH31F   124   409/ 33  W6  L1  W3  W5  W4  4.0
+  3 Seibel, Jameson        BRYCJ47E   201   315/ 25  W5  W6  L2  W4  L1  3.0
+  4 Glant, Evan            BRYCH32Z   373   322/ 29  L1  W5  W6  L3  L2  2.0
+  5 Chan, Ashton           BRYCJ47F   260   198/ 15  L3  L4  L1  L2  W6  1.0
+  6 Cohn, Griffyn Mosaic   SDVBG17Z   296   163/ 14  L2  L3  L4  L1  L5  0.0

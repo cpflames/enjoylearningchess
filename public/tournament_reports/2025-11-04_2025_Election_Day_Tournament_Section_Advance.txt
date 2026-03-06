@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Walters, Douglas       CTXGZ57B  1041  1076/ 16  W5  W9  W8  W2  4.0
+  2 Chakraborty, Adri      CTXFZ518   580   754/ 12  D3  W7  W6  L1  2.5
+  3 Burns, Jackson         CTXGZ57A   679   731/ 12  D2  L5  W9  W8  2.5
+  4 Fernando, Ponnampe     CTXGZ51D   815   832/  7  L8  BYE W5  D6  2.5
+  5 Litvin, Michael ZacharyCTXFZ709   698   708/ 27  L1  W3  L4  BYE 2.0
+  6 Goykman, Yosef         CTXHZ45A  1274  1029/  8  W7  D8  L2  D4  2.0
+  7 Litvin, Benjamin SamuelCTXFZ70A   649   649/ 26  L6  L2  BYE W9  2.0
+  8 Baumgart, Spencer      CTXFZ70B   872   858/ 29  W4  D6  L1  L3  1.5
+  9 Sam, Albert            CTXEZ576   713   628/ 11  BYE L1  L3  L7  1.0

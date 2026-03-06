@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Youn, Jayden           EASCG18D   195   217/ 17  W5  W2  L3  2.0
+  2 Khandelwal, Aadi       SNEDG87G   199   199/ 23  W4  L1  BYE 2.0
+  3 Zarate, Daniel         EMDAG20Q   134   140/ 13  BYE L5  W1  2.0
+  4 Paidapathi, Anaika     SHSBG01U   188   179/ 30  L2  BYE W5  2.0
+  5 Moreno Lopez, Diego    SESCF50W   200   100/  3  L1  W3  L4  1.0

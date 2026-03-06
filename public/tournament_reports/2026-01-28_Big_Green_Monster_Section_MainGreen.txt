@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Luna, Max              FERMJ85Y  1309  1336/ 99  BYE BYE W4  W5  L9  4.0
+  2 Mcallister, Noah       VSTIK36K   665   807/ 18  U   BYE W6  W8  W6  4.0
+  3 Jackson, Henry         FERJJ49S   761   798/  9  BYE BYE HPB W7  U   3.5
+  4 Westergreen, Korben    FERJH39X   737   735/ 60  BYE BYE L1  HPB HPB 3.0
+  5 Nipges, Jaxon          FERM382B  1455  1414/178  BYE BYE HPB L1  L10 2.5
+  6 Aguila-contreras, EdgarFERJJ65J   704   672/126  BYE U   L2  W11 L2  2.0
+  7 Egland, Crosby         FERJ264S   689   690/ 69  BYE U   W8  L3  U   2.0
+  8 Buckham, George        SKYFK37E   663   613/130  U   BYE L7  L2  U   1.0
+  9 Scollon, Owen          SHMK734D  1681  1686/622  U   U   U   U   W1  1.0
+ 10 Stroud, Jeb            SHMKK22V  1635  1644/269  U   U   U   U   W5  1.0
+ 11 Green, Teagan          FERJF80Q   353   316/  3  U   U   HPB L6  U   0.5

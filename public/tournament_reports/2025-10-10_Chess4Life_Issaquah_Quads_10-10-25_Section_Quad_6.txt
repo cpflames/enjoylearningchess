@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Gu, Aiden              CCDBH59F   247   283/ 20  W4  W2  L3  2.0
+  2 Agarwal, Adya          ENDGG16S   600   352/  3  W3  L1  W4  2.0
+  3 Lakshmanan, Vian       RBRCH56N   201   268/ 39  L2  W4  W1  2.0
+  4 Tripathi, Bhanushree   ARMBG16R   100   100/  3  L1  L3  L2  0.0

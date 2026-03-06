@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tupakula, Rithik       BENHE42K   629   788/ 15  W4  W2  W3  3.0
+  2 Lai, Brycen            CLHFK02D   687   709/ 93  W3  L1  W4  2.0
+  3 Gorbatenko, Leon       CRKGH58G   625   608/ 57  L2  W4  L1  1.0
+  4 Xu, Jacky Y            SOMDJ59K   642   562/189  L1  L3  L2  0.0

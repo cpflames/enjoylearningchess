@@ -1,0 +1,3 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Chen, Eason            SOMCJ59F  1230  1234/148  W2  1.0
+  2 Mathew, Reuben         MRIBG33B   795   790/ 42  L1  0.0

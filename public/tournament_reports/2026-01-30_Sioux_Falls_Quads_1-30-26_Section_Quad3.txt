@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dandar, Siggy          SDRDZ69K   888   905/ 56  W4  L2  W3  2.0
+  2 Geurts, Elijah         HSSGZ31H   779   857/ 12  W3  W1  L4  2.0
+  3 Neff, Nathan           ABFDK07A   927   880/130  L2  W4  L1  1.0
+  4 Linke, Rhett           SDAEZ823   785   779/ 38  L1  L3  W2  1.0

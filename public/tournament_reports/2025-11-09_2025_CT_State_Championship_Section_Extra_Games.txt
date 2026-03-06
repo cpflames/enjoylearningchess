@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Coggin, Paul Mikha     CTXNZ32J  1258  1277/  1  W4  U   U   1.0
+  2 Kousen, Kenneth A      CTXNZ33F  1073  1073/  3  U   W5  U   1.0
+  3 Natarajan, Neil        BCCIV24M  1978  1978/ 98  U   U   W6  1.0
+  4 Hardin, Richard        CTXNZ52V  1144  1125/ 17  L1  U   U   0.0
+  5 Panda, Tarushi         CTXHZ68D   581   576/ 16  U   L2  U   0.0
+  6 Bala Gowda, Nibha V    CTXJX04C   870   870/158  U   U   L3  0.0

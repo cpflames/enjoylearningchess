@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kalashnyk, Artur       MAHFG30K   256   306/ 18  W4  W2  L3  2.0
+  2 Shen, Nolan            CDIFJ28A   281   298/ 40  W3  L1  W5  2.0
+  3 Bhansali, Inaya        BCACH79H   195   262/ 15  L2  W6  W1  2.0
+  4 Madadi, Hannah         CGRDH65Y   218   238/ 50  L1  W5  W6  2.0
+  5 Shah, Myra             CRIFG19H   500   100/  3  W6  L4  L2  1.0
+  6 Zhang, Yilei           DISBG19F   100   100/  3  L5  L3  L4  0.0

@@ -1,0 +1,29 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Gagnier, Ian           HSCHC72H  1528  1540/254  W12 W8  W15 D2  3.5
+  2 Urali, Sanjay          OMSI315D  1463  1490/376  W26 W4  W6  D1  3.5
+  3 Rish-brown, Jackson    HABGH57T  1223  1318/ 92  D7  W11 W9  W5  3.5
+  4 Sreraman, Rahul        BABFJ42L  1116  1262/312  W14 L2  W24 W15 3.0
+  5 Tinwala, Mufaddal      NCSGK90P  1027  1197/ 23  W24 W19 W13 L3  3.0
+  6 Xing, Andrew           CNHEK62E  1047  1170/175  WF  W25 L2  W14 3.0
+  7 Qu, Yuwen              RSADK86G  1020  1173/135  D3  W16 D10 D13 2.5
+  8 Rish-brown, Jacob      HABGK61J  1136  1242/104  W16 L1  W25 D10 2.5
+  9 Nguyen, Viet           TMBI508J  1076  1166/182  W22 D10 L3  W18 2.5
+ 10 Sreraman, Rohit        BABFG92Q  1307  1297/329  W27 D9  D7  D8  2.5
+ 11 Pande, Aryan           DCSC493M  1096  1190/ 85  D13 L3  W22 W20 2.5
+ 12 Anbuselvam, Mithran    HEAHH61F  1159  1155/227  L1  W28 D18 W21 2.5
+ 13 Choi, Hunter           UPAIE80A  1328  1286/253  D11 W21 L5  D7  2.0
+ 14 Deshpande, Keshav      CHOI420G  1385  1344/139  L4  W26 W19 L6  2.0
+ 15 Black, Stas            WPPH368F  1162  1158/179  W28 W18 L1  L4  2.0
+ 16 Kang, William          NPRJC12H  1397  1350/ 99  L8  L7  W27 W24 2.0
+ 17 Gridasov, Robert       BENFJ03F   904  1007/ 44  L19 L20 W26 W25 2.0
+ 18 Dixit, Ved             ENSEH63Q  1007  1021/ 47  W20 L15 D12 L9  1.5
+ 19 Sembium, Aditi         OPWFK25W  1202  1167/355  W17 L5  L14 D23 1.5
+ 20 Grandhi, Dhruv         INTKC63M  1207  1144/ 85  L18 W17 D21 L11 1.5
+ 21 Li, Rebecca            SCDEJ62B   854   859/159  BYE L13 D20 L12 1.5
+ 22 Joshi, Vyom            NRCKH81X  1376  1299/369  L9  D27 L11 W28 1.5
+ 23 Kamisetty, Komansai    HEAI644X  1037  1016/ 24  L25 L24 W28 D19 1.5
+ 24 Fredette, Blaise       BECHH95C  1235  1185/ 96  L5  W23 L4  L16 1.0
+ 25 Tsay, Elon             LKDFK07B  1239  1167/184  W23 L6  L8  L17 1.0
+ 26 Huang, Edwin           OMSI616M  1234  1170/111  L2  L14 L17 BYE 1.0
+ 27 Chadha, Saahan         ENDFK64R  1067  1061/ 81  L10 D22 L16 HPB 1.0
+ 28 Gunadekar, Sharvil     BRHFG17T   500   626/  4  L15 L12 L23 L22 0.0

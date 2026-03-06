@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, William          EALJ550N  1752  1741/368  D2  W3  W4  2.5
+  2 Zhang, Patrick         CDIDK01J  1271  1291/428  D1  L4  W3  1.5
+  3 Lin, Elliot            TYEHJ71G  1293  1286/127  W4  L1  L2  1.0
+  4 Bhasin, Palash         ISMHH95H  1244  1248/233  L3  W2  L1  1.0

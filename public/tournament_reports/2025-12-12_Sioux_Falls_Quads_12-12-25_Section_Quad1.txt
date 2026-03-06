@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Neff, Joel             ABFIF99X  1729  1732/333  W5  W3  L2  2.0
+  2 Welch, James           HSSKF53F  1669  1679/303  L3  W6  W1  2.0
+  3 Wynstra, Daniel        SDEIZ94M  1625  1646/154  W2  L1  W4  2.0
+  4 Kock, Ian              ADUNG01G  1612  1513/  6  L6  W5  L3  1.0
+  5 Bergan, David          ADUNG12B  1606  1546/  9  L1  L4  W6  1.0
+  6 Neff, Enoch            ABFFF95Q  1422  1427/224  W4  L2  L5  1.0

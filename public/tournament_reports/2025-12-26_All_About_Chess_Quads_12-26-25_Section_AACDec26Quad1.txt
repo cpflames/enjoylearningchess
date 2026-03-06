@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yu, Eric               SOMDK25N  1152  1173/177  W2  W4  L3  2.0
+  2 Bhasin, Palash         ISMHH95H  1054  1119/207  L1  W3  W4  2.0
+  3 Mohammed, Farhan       CRKFH14M  1242  1217/160  D4  L2  W1  1.5
+  4 Li, Ethan James        SOMDK00K  1088  1054/253  D3  L1  L2  0.5

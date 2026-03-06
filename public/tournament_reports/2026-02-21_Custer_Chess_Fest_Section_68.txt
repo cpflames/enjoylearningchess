@@ -1,0 +1,40 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Anbuselvam, Mithran    HEAHH61F  1267  1336/270  W20 W11 W4  W3  W2  5.0
+  2 Ferrell, Luka Lee      LVNGG98L  1211  1228/ 55  W37 W14 W10 W5  L1  4.0
+  3 Fredette, Blaise       BECHH95C  1140  1143/113  W23 W15 W9  L1  W11 4.0
+  4 Bhatta, Nihal          HORGK82Z  1016  1034/ 79  W30 W17 L1  W14 W9  4.0
+  5 Melius, Mason          FACIF58R  1234  1230/ 89  W24 W22 W6  L2  W10 4.0
+  6 Ferris, Ari            FHVGG98H  1019  1050/ 79  W33 W16 L5  W8  W13 4.0
+  7 Ravitsky, Avigail      FACGH95B   539   720/ 50  W34 L10 W22 W31 W12 4.0
+  8 Mcneil, Mason          VSTIJ49Y  1071  1066/ 91  HPB W21 W12 L6  W20 3.5
+  9 Mcallister, Noah       VSTIK36K   792   811/ 25  W28 W19 L3  W18 L4  3.0
+ 10 Fine-gucker, Logan     HORG535R   863   885/152  W36 W7  L2  W15 L5  3.0
+ 11 Crompton, Callum       FACHE89B   773   796/107  W25 L1  W24 W17 L3  3.0
+ 12 Qureshi, Danish        BLNIF36V   946   912/242  W39 W18 L8  W16 L7  3.0
+ 13 Ritchie, Rowan         WHMHH40C   756   748/ 48  D21 D20 W23 W19 L6  3.0
+ 14 Hogue, Tyler           OHMHH12A   737   749/ 20  W31 L2  W25 L4  W24 3.0
+ 15 Cancelosi, Nicholas    VSTIM25W   678   685/140  W29 L3  W27 L10 W28 3.0
+ 16 Kimball, Miles         HORGJ17R   706   705/ 40  W35 L6  W26 L12 W23 3.0
+ 17 Clark, Finn            LVNGJ99M   605   610/ 56  W38 L4  W32 L11 W27 3.0
+ 18 Manly, Shafter         HORHA72M   670   671/ 88  W26 L12 W35 L9  W25 3.0
+ 19 Bennett, Gavin         HORGJ17M   555   574/ 51  W27 L9  W34 L13 W26 3.0
+ 20 Davis, Buzz            FACHH39Y   493   652/ 39  L1  D13 W21 W22 L8  2.5
+ 21 Pullman, Nathan        BECGF46B   600   591/  5  D13 L8  L20 W37 W31 2.5
+ 22 Russell, Emerson       BLEHK23A   769   709/117  W32 L5  L7  L20 W35 2.0
+ 23 Gilday, Finn           VSTGJ17C   205   287/ 40  L3  W38 L13 W29 L16 2.0
+ 24 Soran, Thomas          VSTGK35T   425   448/ 47  L5  W29 L11 W35 L14 2.0
+ 25 Ritter, Arie           LYAGF46A   600   451/  5  L11 W37 L14 W34 L18 2.0
+ 26 Pullman, Elizabeth     BECIF45Z   800   375/  5  L18 W39 L16 W36 L19 2.0
+ 27 Rose, Jude             BECHF45Y   700   360/  5  L19 W36 L15 W39 L17 2.0
+ 28 Savchuk, Nilkita       BECIF45X   800   333/  5  L9  L34 W33 W32 L15 2.0
+ 29 Chiabai, Ethan         BECGF45W   600   272/  5  L15 L24 W30 L23 W36 2.0
+ 30 Moreau, Zadian         LYMHG73G   100   109/ 13  L4  L32 L29 BYE W34 2.0
+ 31 Solovey, Ethan         BECIF45V   800   372/  4  L14 HPB W37 L7  L21 1.5
+ 32 Nunez, Josh            VSTHF45U   700   225/  5  L22 W30 L17 L28 D33 1.5
+ 33 Nymeyer, Mason         HORGK35Z   134   141/ 60  L6  L35 L28 W38 D32 1.5
+ 34 Miller, James          VSTGF45T   600   194/  5  L7  W28 L19 L25 L30 1.0
+ 35 Hensen, Logan          BECGF45S   600   300/  5  L16 W33 L18 L24 L22 1.0
+ 36 Dayton, Dj             VSTHF45R   700   115/  5  L10 L27 W38 L26 L29 1.0
+ 37 Clark, Luke            VSTHJ17E   241   194/ 28  L2  L25 L31 L21 BYE 1.0
+ 38 Rushton, James         BECIF45Q   800   100/  5  L17 L23 L36 L33 W39 1.0
+ 39 Lysen, Magnus          HORGF93Z   100   100/  8  L12 L26 BYE L27 L38 1.0

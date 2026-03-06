@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tupakula, Shourya      BENEG19X   571   690/  9  W5  W4  W6  3.0
+  2 Tupakula, Rithik       BENHE42K   654   629/ 12  W6  L5  BYE 2.0
+  3 Lee, Siyoon            WOBEG65A   349   403/ 20  W4  D6  U   1.5
+  4 Chahlia, Dax           REEFH62P   662   616/ 19  L3  L1  W5  1.0
+  5 Abdukarimov, Samin     ARDBH67S   752   695/206  L1  W2  L4  1.0
+  6 Kumar, Tarun           HSCCF74L   200   315/  3  L2  D3  L1  0.5

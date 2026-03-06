@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Han, Felix             MEDCJ41U   886   888/ 54  U   W8  U   U   1.0
+  2 Yin, Nolan             CCDCH64W   882   885/ 71  U   U   W6  U   1.0
+  3 Wong, Claire           BCADK86D   855   856/160  U   U   U   W7  1.0
+  4 Jiang, Callie          UCDBH47C   807   834/ 65  D5  U   U   U   0.5
+  5 Tsay, Elon             LKDFK07B  1167  1145/185  D4  U   U   U   0.5
+  6 Jiang, Ethan           BCABG19W   369   365/ 14  U   U   L2  U   0.0
+  7 Ande, Shayanth         RBRBG17R   100   100/  4  U   U   U   L3  0.0
+  8 Sterba, Pavel          NOWCK34L   341   338/ 89  U   L1  U   U   0.0

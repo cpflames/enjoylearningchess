@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yusuf, Farzaan         BVIHZ84D  1524  1627/ 75  W4  W2  W3  3.0
+  2 Welch, James           HSSKF53F  1686  1684/297  W3  L1  W4  2.0
+  3 Neff, Enoch            ABFFF95Q  1439  1448/218  L2  W4  L1  1.0
+  4 Wynstra, Daniel        SDEIZ94M  1612  1552/148  L1  L3  L2  0.0

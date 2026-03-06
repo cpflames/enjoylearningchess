@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bhandari, Aarav        CBRFJ06H  1194  1235/204  W4  D3  W2  2.5
+  2 Mohammed, Farhan       CRKFH14M  1157  1155/145  D3  W4  L1  1.5
+  3 Li, Ethan James        SOMDK00K  1147  1124/247  D2  D1  L4  1.0
+  4 Bhasin, Palash         ISMHH95H  1095  1086/201  L1  L2  W3  1.0

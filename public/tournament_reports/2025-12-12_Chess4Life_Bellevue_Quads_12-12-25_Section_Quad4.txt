@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Abdukarimov, Samin     ARDBH67S   747   816/200  D2  W4  W3  2.5
+  2 Tan, Wilson            BRBCG35N   731   731/ 47  D1  W3  L4  1.5
+  3 Elshennawy, Yaseen     ABAEG01D   792   702/  6  W4  L2  L1  1.0
+  4 Balan, Vidyut          LAVFH68B   680   667/ 77  L3  L1  W2  1.0

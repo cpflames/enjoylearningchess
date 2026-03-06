@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Almuayyad, Omar        RHJIJ59J   928  1068/ 78  D3  W2  W4  2.5
+  2 Siddiqui, Kaamil       BLLLD777  1049  1050/251  W4  L1  D3  1.5
+  3 Tsay, Elon             LKDFK07B  1123  1080/193  D1  L4  D2  1.0
+  4 Swindell, Adam         MRLGG32Q  1034  1014/ 45  L2  W3  L1  1.0

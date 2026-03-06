@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tang, Eric             BM1IZ99C   818   966/ 37  W4  W2  W3  3.0
+  2 Abdukarimov, Samin     ARDBH67S   847   877/217  W3  L1  W4  2.0
+  3 Zhao, Jerry            EVGBH97K   827   808/106  L2  W4  L1  1.0
+  4 Goyal, Avyukt          CNHBJ65X   851   771/171  L1  L3  L2  0.0

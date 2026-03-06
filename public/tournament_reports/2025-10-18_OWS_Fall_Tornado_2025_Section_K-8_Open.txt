@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Bravenboer, Jake       OPWFJ97Y  1344  1394/182  W8  W5  W3  HPB 3.5
+  2 Gui, Joyce             OPWEH92C  1232  1273/189  W17 W15 W6  D4  3.5
+  3 Lagzdin, Mikhail       HMNDJ96R  1238  1262/102  W7  W13 L1  W8  3.0
+  4 Qu, Yuwen              RSADK86G  1173  1201/138  D14 WF  W11 D2  3.0
+  5 Khudyev, Elina Umi     OPWDJ97Q  1185  1208/109  W9  L1  W13 D6  2.5
+  6 Chen, Julian           MEDDK32C  1299  1291/151  W16 W12 L2  D5  2.5
+  7 Zhao, Kevin            EVGFK54M  1014  1093/ 80  L3  D10 W14 W12 2.5
+  8 Fang, Weiai            LAVF696W  1060  1064/289  L1  W17 W15 L3  2.0
+  9 Lin, Luna              OPWEK01W   983  1013/196  L5  W16 D12 D10 2.0
+ 10 Sailer, Shaunak        OPWIC25Z   913   983/252  L12 D7  W18 D9  2.0
+ 11 Chen, Eason            SOMCJ59F  1268  1224/143  L13 W14 L4  W16 2.0
+ 12 Kulkarni, Samik        KKNCH67M  1245  1188/104  W10 L6  D9  L7  1.5
+ 13 Gattamneni, Viraj      LMSF934M  1058  1047/ 72  W11 L3  L5  D15 1.5
+ 14 Liu, Kyle              CHRDK00Z  1059  1058/ 58  D4  L11 L7  W18 1.5
+ 15 Parpuri, Aarav         FRVEH76T   679   696/ 35  BYE L2  L8  D13 1.5
+ 16 Gu, Vincent            OPWCK00L  1019   992/129  L6  L9  W17 L11 1.0
+ 17 Leon, Nikhil           TMBH587T  1008   947/164  L2  L8  L16 BYE 1.0
+ 18 Oh, Seojoon            SSMFJ70T  1154  1080/129  HPB LF  L10 L14 0.5

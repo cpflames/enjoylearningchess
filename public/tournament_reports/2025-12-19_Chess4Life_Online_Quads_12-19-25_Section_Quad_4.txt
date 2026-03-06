@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Shukla, Dhruv          NJHIF78M   800   608/  3  W5  W3  W4  3.0
+  2 Hernandez, Martin      SNSEF94T   100   233/  6  W4  W5  BYE 3.0
+  3 Ashok Kumar, Athvik    RHJIF95J   100   186/  5  BYE L1  W5  2.0
+  4 Song, Yuning           EXPEF78L   400   100/  2  L2  BYE L1  1.0
+  5 Souza, Aiden           DEEGF94X   131   100/  7  L1  L2  L3  0.0

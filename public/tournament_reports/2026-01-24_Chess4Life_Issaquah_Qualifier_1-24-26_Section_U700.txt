@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chopdar, Ayan          RCMCW73Q   200   732/  5  D6  W9  D3  W7  W2  4.0
+  2 Cheng, Ethan           ENDEK663   611   651/ 47  W9  W5  W7  W6  L1  4.0
+  3 Fang, Ian              DISDH82W   317   477/ 17  L4  W10 D1  W9  W6  3.5
+  4 Kapoor, Rikin          SHSDH61V   436   457/ 42  W3  L7  L6  W8  W9  3.0
+  5 Teller, Max            SHSAF94Z   276   346/ 16  W10 L2  L8  BYE W7  3.0
+  6 Sarcar, Arin           CEIGH34H   419   465/ 20  D1  W8  W4  L2  L3  2.5
+  7 Yao, Jason             DISEG30H   634   562/ 49  W8  W4  L2  L1  L5  2.0
+  8 Song, Noah             GRRBG33F   365   332/ 20  L7  L6  W5  L4  BYE 2.0
+  9 Johnson, Bryce         OPSDK11K   341   283/ 15  L2  L1  WF  L3  L4  1.0
+ 10 Purohit, Nishka        BCACG23S   320   265/ 11  L5  L3  LF  U   U   0.0

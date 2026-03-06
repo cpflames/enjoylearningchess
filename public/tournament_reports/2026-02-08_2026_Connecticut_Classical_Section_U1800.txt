@@ -1,0 +1,22 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Senguttuvan, Sai GaneshCTXJZ274  1715  1778/  6  W20 W2  W16 W11 W9  D4  5.5
+  2 Asaro, James           VTXNZ273  1790  1797/  6  W5  L1  W20 W8  W3  W10 5.0
+  3 Lopez, Sebastian A     CTXLZ272  1670  1663/  6  W7  L5  W10 W14 L2  W8  4.0
+  4 Chen, Zong Da          NJXNZ26Y  1300  1873/  4  HPB HPB W18 D6  W11 D1  4.0
+  5 Needham, Jonathan Adam CTXNZ26X  1514  1561/  6  L2  W3  W13 L9  W12 D11 3.5
+  6 Hori, Calvin           MAXNZ26W  1702  1728/  5  W13 D9  D8  D4  W15 U   3.5
+  7 Estrella, Wilson       CTXNX03Y  1322  1388/119  L3  L20 BYE HPB W18 W15 3.5
+  8 Diaz, David J          CTXNZ30Z  1452  1481/ 10  D14 W17 D6  L2  W16 L3  3.0
+  9 Bird, D G              MAXNZ26V  1748  1732/  5  W15 D6  D14 W5  L1  U   3.0
+ 10 Twombley, John         CTXNX03F  1443  1422/109  W12 L16 L3  W17 W19 L2  3.0
+ 11 Nagel, Arthur C        CTXNX02Z  1637  1617/127  BYE D18 W19 L1  L4  D5  3.0
+ 12 Tetreault, Brian       CTXNZ30L   798  1131/ 10  L10 L19 W17 W18 L5  W16 3.0
+ 13 Borges, Gabriel BergamiCTXNX04K  1772  1738/108  L6  BYE L5  W20 W14 U   3.0
+ 14 Sivakumar, Niranjan    CTXHZ50J  1402  1415/ 10  D8  W21 D9  L3  L13 D17 2.5
+ 15 Smith, Elizabeth C     CTXNX01C  1515  1490/124  L9  HPB W21 W16 L6  L7  2.5
+ 16 Chung, Michael         NYXNZ26U  1229  1215/  5  BYE W10 L1  L15 L8  L12 2.0
+ 17 Bala Gowda, Nihal V    CTXHX04F  1214  1221/169  D21 L8  L12 L10 W20 D14 2.0
+ 18 Pasco, John            CTXNX00Z  1636  1580/120  HPB D11 L4  L12 L7  W20 2.0
+ 19 Lafosse, Laurent       CTXNZ26T  1252  1252/  3  HPB W12 L11 HPB L10 U   2.0
+ 20 Zimmerman, Kevin       CTXNX03M  1500  1450/114  L1  W7  L2  L13 L17 L18 1.0
+ 21 Smith, Sean O F        MAXNZ26S  1400  1350/  3  D17 L14 L15 HPB U   U   1.0

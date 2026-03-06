@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Srivastava, Kartik     SDADZ31F   300   361/  3  W4  W2  L3  2.0
+  2 Cranor, Callum         HSSEZ31E   400   361/  3  W3  L1  W4  2.0
+  3 Neff, Timothy          ABFAZ31M   100   133/  6  L2  L4  W1  1.0
+  4 Keleher, Oak           HSSEZ31C   400   161/  3  L1  W3  L2  1.0

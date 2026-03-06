@@ -1,0 +1,25 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Jem, Ann               ADUNH63F  1024  1261/ 21  W23 W3  W2  W7  W11 W5  6.0
+  2 Gui, Joyce             OPWDH92C  1225  1232/185  W18 W10 L1  W4  W8  D3  4.5
+  3 Sridhar, Riya          GTMHG37Y   856  1056/111  W9  L1  W12 D10 W7  D2  4.0
+  4 Wheeler, Eliza         ADUNH34W   889   991/  6  W6  HPB W15 L2  HPB W11 4.0
+  5 Vuta, Bhuvana          SKIGH63D   938  1008/ 27  W24 HPB HPB W19 W13 L1  4.0
+  6 Sembium, Aditi         OPWFK25W  1167  1166/359  L4  HPB HPB W12 W19 W13 4.0
+  7 Razmov, Siana          HSCDK93Y  1004  1028/209  W22 W8  D13 L1  L3  W17 3.5
+  8 Byelashova, Sofia      SGHDK01K  1192  1147/213  W14 L7  D19 W9  L2  W15 3.5
+  9 Avula, Sujatha         ADUNE77T   931   957/ 14  L3  D15 W21 L8  W18 W16 3.5
+ 10 George, Ameya          TMBGK88Y  1001   980/161  W17 L2  D16 D3  D15 D14 3.0
+ 11 Dragusanu, Clara       EVJGH81S  1082  1036/ 81  L15 W23 W18 W14 L1  L4  3.0
+ 12 Lin, Luna              OPWEK01W  1006   983/192  L16 W22 L3  L6  W20 W19 3.0
+ 13 Cai, Emily             CNHDH60H  1064  1032/ 94  W21 W16 D7  HPB L5  L6  3.0
+ 14 Nishino, Anne          BABEH74F   887   895/196  L8  W24 W20 L11 D17 D10 3.0
+ 15 Raghavan, Mridula      FRWGG32B   837   867/ 36  W11 D9  L4  D16 D10 L8  2.5
+ 16 Astafyeva, Olga        ADUNH34Y   779   812/ 20  W12 L13 D10 D15 D21 L9  2.5
+ 17 Velichko, Kristina     ASADK07V   741   791/166  L10 L18 W23 W20 D14 L7  2.5
+ 18 Tulsukchuentanat, ProudWOBHH63C   927   883/ 46  L2  W17 L11 D23 L9  BYE 2.5
+ 19 Wong, Claire           BCADK86D   856   867/165  W20 HPB D8  L5  L6  L12 2.0
+ 20 Telikicherla, Aadya    AUDDG19N  1088   969/ 24  L19 W21 L14 L17 L12 W23 2.0
+ 21 Jiang, Callie          UCDBH47C   834   783/ 69  L13 L20 L9  BYE D16 HPB 2.0
+ 22 Gordon, Audrie Eloise  ADUN971J   773   751/ 15  L7  L12 W24 HPB HPB U   2.0
+ 23 Armstrong, Josephine   EVGDK86A   816   763/130  L1  L11 L17 D18 BYE L20 1.5
+ 24 Hernandez, Paulina     ADUNG16E  1300   364/  3  L5  L14 L22 U   U   U   0.0

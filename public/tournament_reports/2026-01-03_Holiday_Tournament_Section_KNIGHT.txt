@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Weiss-hurd, Liam       GNMHG17N   897   973/ 19  W5  W8  W3  W4  W6  5.0
+  2 Ji, Melody             LBYEA83X   914   890/116  D7  W9  L4  W3  W5  3.5
+  3 Duncan, Aj D           MCSFH49T   701   732/ 66  W6  W4  L1  L2  W8  3.0
+  4 Fuchs, Ethan           LBSI849Z   935   905/ 49  W9  L3  W2  L1  W7  3.0
+  5 Johnson, Austin        NSVFH49W   447   492/ 50  L1  W7  D6  W8  L2  2.5
+  6 Hopkins, Beatrice      MCSGK48P   359   423/ 31  L3  BYE D5  W7  L1  2.5
+  7 Vanderdoes, Hunter     PPAEH25L   499   472/ 13  D2  L5  W8  L6  L4  1.5
+  8 Elkins, Skywalker      HSCCH54M   341   292/ 29  BYE L1  L7  L5  L3  1.0
+  9 Ellis, Jude            IDEKY11D   598   576/ 12  L4  L2  BYE LF  U   1.0

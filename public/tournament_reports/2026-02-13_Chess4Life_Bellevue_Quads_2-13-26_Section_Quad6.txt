@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Thakur, Abhigyan       MMEGH53D   563   623/ 19  W2  L4  W3  2.0
+  2 Zeng, Alex             CMCCG27X   629   622/ 26  L1  D3  W4  1.5
+  3 Dubedy, Advika         AUDFG19E   604   606/ 30  W4  D2  L1  1.5
+  4 Lai, Brycen            CLHFK02D   617   585/102  L3  W1  L2  1.0

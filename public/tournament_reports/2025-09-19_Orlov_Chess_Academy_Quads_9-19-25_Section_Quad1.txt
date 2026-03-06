@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jang, Jinwon           VIEI561P  1118  1130/181  U   W3  W2  2.0
+  2 Nishino, Anne          BCAEH74F   732   761/172  W3  U   L1  1.0
+  3 Sijin, Ryan            BENDG24X   790   747/ 24  L2  L1  U   0.0

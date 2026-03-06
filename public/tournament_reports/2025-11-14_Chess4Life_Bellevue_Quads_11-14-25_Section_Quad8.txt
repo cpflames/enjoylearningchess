@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chai, Simone           MEDDG19T   361   368/ 13  L2  W3  W4  2.0
+  2 Ismail, Kai            TLIBG21Y   268   276/ 13  W1  L4  D3  1.5
+  3 Trespalacios, James    JINCJ02N   179   229/ 28  W4  L1  D2  1.5
+  4 Yip, Jayne             CBRKH63U   393   280/  6  L3  W2  L1  1.0

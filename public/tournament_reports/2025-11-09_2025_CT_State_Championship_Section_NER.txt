@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Kumar, Vivek           NYXNZ32Q  1300  1000/  4  W6  W2  W5  L3  3.0
+  2 Blanchfield, Jack D    CTXNZ32P  1300  1000/  4  W3  L1  W6  W5  3.0
+  3 Dronavajjala, Chandra  CTXNZ32N  1300  1000/  4  L2  W6  W4  W1  3.0
+  4 Hudyma, Nick           CTXNZ32M  1300  1000/  3  BYE L5  L3  W6  2.0
+  5 Mathews, Braylon       PAXNZ32L  1300  1000/  3  HPB W4  L1  L2  1.5
+  6 Subramanian, Karthik   CTXNZ32K  1300   680/  4  L1  L3  L2  L4  0.0
+
+ All Unrated-player Section: Ratings capped at 1000

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Shing, Lucas           HZFEJ74H   765   838/152  W3  W4  W2  W5  W6  5.0
+  2 Hill, Kosal            HZFEF82W   574   582/ 10  W6  W5  L1  W3  L4  3.0
+  3 Swigon, Bruno          WEDCH92N   666   644/ 57  L1  W6  W4  L2  W5  3.0
+  4 Keider, Yoni           HTNGG37T   499   506/ 18  D5  L1  L3  W6  W2  2.5
+  5 Hill, Soben            HZFEF82T   405   383/ 10  D4  L2  W6  L1  L3  1.5
+  6 Nikolaev, Michael      BRIEF76M   400   100/  5  L2  L3  L5  L4  L1  0.0

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Muliono, Lucas         HSCEF60C   400  1007/  3  W5  W3  W6  3.0
+  2 Taggart, Ryan          ADUNF60B  1300   782/  3  W6  W5  W4  3.0
+  3 Hwang, Noah            PPEDF76A   428   555/  6  W4  L1  W5  2.0
+  4 Kommera, Avyukt Sharma KAMKF60A  1000   442/  3  L3  W6  L2  1.0
+  5 Maniego, Dean          PPECF75U   500   427/  6  L1  L2  L3  0.0
+  6 Kommera, Abhijit SharmaOVMGF59Z   600   100/  3  L2  L4  L1  0.0

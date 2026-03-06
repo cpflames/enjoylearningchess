@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Rish-brown, Jacob      HABGK61J  1280  1305/114  W5  W7  W6  W4  D2  4.5
+  2 Rish-brown, Jackson    HABGH57T  1326  1323/101  W8  W6  D4  W5  D1  4.0
+  3 Judd, George           HABGJ57F   728   829/ 71  W9  L4  W7  W8  W6  4.0
+  4 Rengarajan, Anirudh    DIAGZ75J  1232  1226/ 72  W10 W3  D2  L1  W8  3.5
+  5 Samsonov, Kirill       NARFH98S   325   500/ 40  L1  W11 W9  L2  W7  3.0
+  6 Williams, Hunter       IGNFG53C   903   865/ 15  W12 L2  L1  W10 L3  2.0
+  7 Kennedy, Rudy          CNKGH06B   454   471/ 13  W11 L1  L3  W9  L5  2.0
+  8 Brar, Angad            PIOFJ52A   601   606/ 70  L2  W12 W11 L3  L4  2.0
+  9 Jackson, Norah         SNPFG11U   500   322/  4  L3  W10 L5  L7  BYE 2.0
+ 10 Murphy, Pryor          FSEFK16W   327   323/ 44  L4  L9  BYE L6  W11 2.0
+ 11 Noahr, James           SBAFG53B   718   443/  9  L7  L5  L8  BYE L10 1.0
+ 12 De Vega, Jacob         ASAFG11T   500   228/  2  L6  L8  U   U   U   0.0

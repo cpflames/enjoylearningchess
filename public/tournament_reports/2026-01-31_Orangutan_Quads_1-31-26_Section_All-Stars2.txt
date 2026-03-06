@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Tang, Wesley           WWDBF69A   537   641/ 19  U   U   W3  W3  W2  W2  4.0
+  2 Aguiluz, Mateo         BRYEJ68R   568   531/ 51  W3  W3  U   U   L1  L1  2.0
+  3 Huang, Cameron         THOCJ47G   100   100/ 19  L2  L2  L1  L1  U   U   0.0

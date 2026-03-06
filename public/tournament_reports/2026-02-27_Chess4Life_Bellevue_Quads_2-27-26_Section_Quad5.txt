@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mathur-badam, Arin     BMNCG27N   860   885/ 72  W4  W2  L3  2.0
+  2 Tan, Wilson            BRBCG35N   853   880/ 61  W3  L1  W4  2.0
+  3 Tao, Hongxi            TLICH98A   855   828/ 41  L2  L4  W1  1.0
+  4 Gu, Leo                SCDDK31Y   850   825/102  L1  W3  L2  1.0

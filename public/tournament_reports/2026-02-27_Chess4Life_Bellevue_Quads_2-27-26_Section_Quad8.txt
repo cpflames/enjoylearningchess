@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Voss, Jayden           WOBCH15J   606   675/ 54  W2  W4  D3  2.5
+  2 Kesher, Zavi           BENFH62L   537   594/ 86  L1  W3  W4  2.0
+  3 Lai, Brycen            CLHFK02D   585   583/105  W4  L2  D1  1.5
+  4 Guo, Keith             CHRDG29Y   545   466/ 37  L3  L1  L2  0.0

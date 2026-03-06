@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Karnik, Rohan          WAVKG59F  1221  1243/ 78  W4  W3  W2  3.0
+  2 Hayward, Luke          FAPEH63N   891   917/ 26  W3  D4  L1  1.5
+  3 Zeeshan, Hamza         CRKFJ15N   880   882/132  L2  L1  W4  1.0
+  4 Daniel, Lemuel         MMEEJ29L   999   946/117  L1  D2  L3  0.5

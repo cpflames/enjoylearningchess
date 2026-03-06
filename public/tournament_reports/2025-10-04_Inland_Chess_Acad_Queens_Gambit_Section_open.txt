@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Autry-dalsanders, Reed MMCHK48X   662   876/109  W10 W13 W5  W6  W2  5.0
+  2 Weiss-hurd, Liam       GNMHG17N   700  1009/  5  W7  W5  W6  W3  L1  4.0
+  3 Eakin, Anthony         CHGIG65P   876   897/ 27  W12 W8  W4  L2  W7  4.0
+  4 Jain, Asmi             SGSFB47J   748   765/ 91  W14 W9  L3  W11 W8  4.0
+  5 Phelps, Shaun          NOSGH40S   671   671/ 34  W15 L2  L1  W14 W11 3.0
+  6 Mcgivern, Johnny       SSPH804V   829   804/ 50  W16 W11 L2  L1  W12 3.0
+  7 Duncan, Aj D           MCSFH49T   647   649/ 51  L2  W15 W12 W13 L3  3.0
+  8 Phelps, Scott          NOSEH40T   523   546/ 34  W19 L3  W16 W9  L4  3.0
+  9 Mcbroome, Deacon       KCAFG26E   471   452/ 10  W18 L4  W10 L8  W13 3.0
+ 10 Mallett, Audry         FEPFG23X   100   211/  8  L1  BYE L9  W19 W17 3.0
+ 11 Richards, Benjamin     NSVEH49S   455   451/ 45  W17 L6  W14 L4  L5  2.0
+ 12 Mcbroome, Bennett      KCAFG26J   452   443/  9  L3  W17 L7  W15 L6  2.0
+ 13 Frostad, Eleanor       FKSDJ03Y   100   122/ 23  BYE L1  W18 L7  L9  2.0
+ 14 Spohr, Carson          CHSHG58V   233   301/ 10  L4  W18 L11 L5  W16 2.0
+ 15 Lashley, Aunah         NSVEH49P   145   158/ 45  L5  L7  BYE L12 W18 2.0
+ 16 Elkins, Skywalker      HSCCH54M   415   341/ 25  L6  W19 L8  D17 L14 1.5
+ 17 Bauerle, Aaron         RKYFZ387   500   157/  5  L11 L12 W19 D16 L10 1.5
+ 18 Vasquez, Michael       WHNDG17M   300   100/  4  L9  L14 L13 BYE L15 1.0
+ 19 Haley, Gotham          WHNEG17K   400   100/  4  L8  L16 L17 L10 BYE 1.0

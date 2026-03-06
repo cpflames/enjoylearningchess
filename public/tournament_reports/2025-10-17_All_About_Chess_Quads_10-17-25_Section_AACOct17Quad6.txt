@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bhutani, Mihir         CRKEK90Q   702   703/ 38  W3  L2  W4  2.0
+  2 Jahani, Nikan          IMSHK89A   738   734/185  W5  W1  L3  2.0
+  3 Etienne, Yann          CDVCG21M   460   507/ 12  L1  BYE W2  2.0
+  4 Joye, Quentin          SUBIG24Y   441   480/ 26  BYE W5  L1  2.0
+  5 Ram, Yaalini           SNEDH87H   665   587/148  L2  L4  BYE 1.0

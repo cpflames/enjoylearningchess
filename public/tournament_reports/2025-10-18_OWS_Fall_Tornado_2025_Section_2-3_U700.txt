@@ -1,0 +1,27 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Guo, Serena            BCSCG63G   534   739/ 10  W22 W15 W6  W3  W2  5.0
+  2 Nayak, Aarav           SCDCG69Y   541   706/ 15  W17 W10 W5  W9  L1  4.0
+  3 Chen, Yisu             RKWCH78H   563   688/107  W12 W14 W4  L1  W6  4.0
+  4 Gattamneni, Aarav      OPWDJ19Q   435   662/ 25  W11 W7  L3  W8  W13 4.0
+  5 Nabeel, Humza          ENDCK50Y   611   655/ 24  W16 W18 L2  W14 W7  4.0
+  6 Mukherjee, Anahita     PENCJ14K   480   569/ 38  W19 W8  L1  W10 L3  3.0
+  7 Sharma, Samarth        EVGDJ75K   520   524/ 99  W24 L4  W12 W19 L5  3.0
+  8 Rao, Jaiden            JINCH62B   610   592/ 35  W20 L6  W15 L4  W16 3.0
+  9 Sharma, Sidarth        EVGDJ75G   641   612/118  L15 W13 W16 L2  W14 3.0
+ 10 Zhang, Kyle            OPWCJ19N   560   550/ 67  W26 L2  W17 L6  W15 3.0
+ 11 Xie, Nolan             CGRDH82P   657   612/ 52  L4  W24 L14 W17 W19 3.0
+ 12 Yan, Eleven            OPWCG48T   327   349/ 10  L3  W23 L7  D13 W21 2.5
+ 13 Li, Brian              CGRDH72Y   318   389/ 34  W25 L9  W18 D12 L4  2.5
+ 14 Feng, Michael          CBRDG87H   473   467/ 31  W23 L3  W11 L5  L9  2.0
+ 15 Jain, Adhrit           SPTDH36P   434   440/ 24  W9  L1  L8  W24 L10 2.0
+ 16 Suhasan, Nehaa         FRVDJ30B   426   412/ 44  L5  W21 L9  W18 L8  2.0
+ 17 Priday, Phoebe         MEDDG15W   300   396/  5  L2  W20 L10 L11 W24 2.0
+ 18 Kondapi, Srivatsa      FRWCG17U   359   333/ 15  W21 L5  L13 L16 W22 2.0
+ 19 Irani, Philip          OPWDG15T   300   347/  5  L6  W26 W25 L7  L11 2.0
+ 20 Lew, Theodore          OPWDK28X   362   324/102  L8  L17 L24 W23 W25 2.0
+ 21 Chen, Emmett           CGRCH72N   112   173/ 22  L18 L16 W26 W25 L12 2.0
+ 22 Lo, Logan              OPWDH59X   261   218/ 15  L1  L25 D23 W26 L18 1.5
+ 23 Liu, George            BASDG15S   300   135/  5  L14 L12 D22 L20 W26 1.5
+ 24 Duraikondaar, Dhaswin  FRWDH75Y   228   220/ 69  L7  L11 W20 L15 L17 1.0
+ 25 Mohan, Adrith          SSMDJ05Y   562   391/ 59  L13 W22 L19 L21 L20 1.0
+ 26 Liu, Evan Ziyuan       EVGCG15R   200   100/  5  L10 L19 L21 L22 L23 0.0

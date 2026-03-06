@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bhairav, Rachit        RCSEC41S   779   885/ 68  W12 W13 W7  W3  HPB 4.5
+  2 Rajesh, Raghav         BMNEF42P   400   902/  5  W8  L10 W13 W5  W6  4.0
+  3 Phaneesh, Saanvi       EVJG983M   722   766/107  W9  W16 W10 L1  D7  3.5
+  4 John, Joshua           CNCEG32H   360   579/ 17  D15 L6  W16 W11 W10 3.5
+  5 Srishankar, Suryaa     SKWGK87F   842   817/ 74  W11 L7  W15 L2  W12 3.0
+  6 Sankaramanchi, RadhakriTYEGF42N   600   686/  5  L13 W4  W9  W12 L2  3.0
+  7 Thomas, Tricia         WLDEH05W   716   744/ 27  W14 W5  L1  D10 D3  3.0
+  8 Sajeeth, Samay         REJGJ82R   598   616/ 82  L2  L9  BYE W15 W13 3.0
+  9 Nayak, Ishaan          WPPFF42M   500   665/  5  L3  W8  L6  W16 W15 3.0
+ 10 Thati, Rutvik Reddy    RKWFG17X   813   770/ 45  W17 W2  L3  D7  L4  2.5
+ 11 Siddharth, Akhil       FRWBG36J   701   621/ 26  L5  L15 W17 L4  W16 2.0
+ 12 Gowtham, Arav          TMBGH89D   477   463/ 37  L1  W17 W14 L6  L5  2.0
+ 13 Hiremath, Ojas         KKNEJ03C   375   438/ 26  W6  L1  L2  W14 L8  2.0
+ 14 Martin, Tai            LMAEF42K   400   199/  4  L7  BYE L12 L13 W17 2.0
+ 15 Ramana, Vihaan         KKNDJ99P   758   669/115  D4  W11 L5  L8  L9  1.5
+ 16 Nguyen, Vi             SNSEF42J   400   190/  4  BYE L3  L4  L9  L11 1.0
+ 17 Sriram, Vyom           SSMFF42H   500   100/  4  L10 L12 L11 BYE L14 1.0

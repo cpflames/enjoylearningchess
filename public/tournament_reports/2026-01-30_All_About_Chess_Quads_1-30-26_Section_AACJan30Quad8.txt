@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sudhir, Laasya         CLHDG67E   375   558/ 19  W4  W2  W3  3.0
+  2 Balaji, Vaibhav        SSMDH28Z   501   509/141  W3  L1  W4  2.0
+  3 Reeves, Othel          SESFF78K   343   339/ 18  L2  W4  L1  1.0
+  4 Pfau, Zacharias        SOMAG09C   396   311/ 41  L1  L3  L2  0.0

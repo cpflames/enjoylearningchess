@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Treves, Simon          NOWFK28A   478   683/ 29  W9  W5  W10 W2  4.0
+  2 Ram, Yaalini           SNEDH87H   619   643/129  W7  W10 W3  L1  3.0
+  3 Gu, Ximu               ENDCJ05X   523   581/103  W8  W6  L2  W5  3.0
+  4 Paidapathi, Kiaan      SHSDJ99C   420   497/237  L5  W9  W6  W10 3.0
+  5 Moore, Ethan           CRKGJ49L   663   627/ 60  W4  L1  W7  L3  2.0
+  6 Hsieh, Cheryl          ICKHJ82X   427   408/ 28  W11 L3  L4  W9  2.0
+  7 Rajan, Aadhi           CDIBG32V   211   252/ 15  L2  W12 L5  W11 2.0
+  8 Chang, Florence        BLWEG67K   176   190/ 16  L3  W11 L9  W12 2.0
+  9 Kapasi, Mikail         BLWFG19B   500   241/  4  L1  L4  W8  L6  1.0
+ 10 Chen, Luna             RSACG32W   437   394/ 34  W12 L2  L1  L4  1.0
+ 11 Prabhu, Kiaan          CNHCG18Z   200   100/  4  L6  L8  W12 L7  1.0
+ 12 Vasudev, Krish         CEIBG18Y   100   100/  4  L10 L7  L11 L8  0.0

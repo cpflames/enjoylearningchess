@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, Chang            BCAEG15Y   628   654/ 25  W4  W3  W2  3.0
+  2 Li, Terry              BRHCF44S   200   456/  3  W3  W4  L1  2.0
+  3 Zeeshan, Harris        CRICH61J   100   140/ 83  L2  L1  W4  1.0
+  4 Goel, Dhruv            NCSEG66E   269   179/  9  L1  L2  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bhutani, Mihir         CRKEK90Q   734   848/ 53  W4  W3  W2  3.0
+  2 Menezes, Kian          MEDDJ97B   709   735/107  W3  W4  L1  2.0
+  3 Nelson, Harvey         CMCGG67L   694   667/ 86  L2  L1  W4  1.0
+  4 Balaji, Vaibhav        SSMDH28Z   614   551/132  L1  L2  L3  0.0

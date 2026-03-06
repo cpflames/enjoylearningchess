@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ben Simon, Golan       WEDEJ48B   748   813/101  D2  W3  W4  W5  W6  4.5
+  2 Pressley, Alexander    THUGH04U   751   814/ 40  D1  W6  W3  W4  W5  4.5
+  3 Pressley, Adrian       THUCG45P   543   604/ 25  W5  L1  L2  W6  W4  3.0
+  4 Avesar, Isaac          LRADF91H   575   506/ 51  W6  L5  L1  L2  L3  1.0
+  5 Soulios, Konstantinos  CSIDK88D   485   448/ 60  L3  W4  L6  L1  L2  1.0
+  6 Smith, Soren           CSICG98X   480   445/ 54  L4  L2  W5  L3  L1  1.0

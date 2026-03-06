@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Meenakshi Sundaram, PavCDWDJ99Z  1141  1198/ 58  W6  W8  W7  D5  3.5
+  2 Liu, Louis             CNHDJ75J   905   982/113  W5  L6  W8  W11 3.0
+  3 Raghavendran, Vedanth  DCSCH24C   979  1028/ 50  W9  L7  W12 W6  3.0
+  4 Hoang, Leonard Bach    MRPCK88E  1121  1130/ 77  W14 W12 L6  W7  3.0
+  5 Li, Ryan Lingjun       BUSDJ88U   923   948/ 50  L2  W11 W13 D1  2.5
+  6 Lin, Evan              SOMDJ72G   955  1000/108  L1  W2  W4  L3  2.0
+  7 Ge, Jeremy             SOMDJ88K  1300  1250/382  W10 W3  L1  L4  2.0
+  8 Pham, Liam             BENBH53P   925   922/ 22  W11 L1  L2  W13 2.0
+  9 Sang, Andy             BASDK65W   678   688/129  L3  L10 BYE W12 2.0
+ 10 Jiang, Callie          UCDBH47C   760   750/ 82  L7  W9  L11 BYE 2.0
+ 11 Gu, Leo                SCDDK31Y   785   763/ 88  L8  L5  W10 L2  1.0
+ 12 Mathew, Reuben         MRIBG33B   845   803/ 48  W13 L4  L3  L9  1.0
+ 13 Velichko, Kristina     ASADK07V   787   745/174  L12 W14 L5  L8  1.0
+ 14 Cheng, Ary             HSCBG24S   701   666/ 36  L4  L13 U   U   0.0

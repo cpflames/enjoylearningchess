@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Nishanth, Ahan         RSABH60N   350   661/ 50  W8  W14 W2  W4  W5  5.0
+  2 Bommakanti, Ayaansh    BENBG32E   338   500/ 16  W16 W6  L1  W11 W4  4.0
+  3 Rajan, Aadhi           CDIBG32V   258   375/ 28  W7  L4  D12 W10 W11 3.5
+  4 Dai, Kevin             CMCBH23V   564   537/ 45  W9  W3  W10 L1  L2  3.0
+  5 Knigawka, Filip        CAVAF91P   607   554/ 15  L14 W8  W9  W6  L1  3.0
+  6 Pradeep, Rohan         RSABF65R   100   374/  5  W13 L2  W14 L5  W12 3.0
+  7 Pereira, Duncan        CAVBF65Q   100   305/  5  L3  L9  W16 W15 W10 3.0
+  8 Sun, Ryan              CGRBF65P   100   343/  5  L1  L5  W13 D9  W14 2.5
+  9 Guity, Solange         SYRAG62T   136   253/ 33  L4  W7  L5  D8  W16 2.5
+ 10 Bansal, Aarit          RSABG43Z   329   291/ 15  W11 W12 L4  L3  L7  2.0
+ 11 Chu, Nathan            CSBAF65M   100   190/  5  L10 W13 W15 L2  L3  2.0
+ 12 Tuladhar, Kiran        SYRBF65L   100   180/  5  W15 L10 D3  D14 L6  2.0
+ 13 Palathingal, Rachel    KKNAF76W   100   113/ 16  L6  L11 L8  W16 W15 2.0
+ 14 Shen, Sixing           BABBF95B   179   208/  9  W5  L1  L6  D12 L8  1.5
+ 15 Zarate, Daniel         EMDAG20Q   296   134/ 11  L12 W16 L11 L7  L13 1.0
+ 16 O'neil, Rosie          RKWAF65K   100   100/  5  L2  L15 L7  L13 L9  0.0

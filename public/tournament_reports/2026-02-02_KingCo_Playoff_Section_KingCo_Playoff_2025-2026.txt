@@ -1,0 +1,71 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Liu, Austin            SKNL530J  2213  2213/398  W48 1.0
+  2 Min, Ryan              INTL5430  2089  2096/470  W43 1.0
+  3 Han, Shuyi             NPRJK47W  1981  1983/389  W45 1.0
+  4 Patankar, Vijay        JUHLC78Y  1942  1944/332  W46 1.0
+  5 Li, Albert             SKNMK794  1781  1782/193  W58 1.0
+  6 Ramaswamy, Rishi       INTLS63U  1780  1783/166  W51 1.0
+  7 Hetamsaria, Aadi       NPRM888H  1768  1774/216  W47 1.0
+  8 Subramanian, Thrinay   INTK466R  1765  1769/208  W50 1.0
+  9 Bhatia, Tanush         SKNM5224  1695  1698/385  W57 1.0
+ 10 Yu, Aiden              NPRMF95R  1592  1599/ 59  W53 1.0
+ 11 Yu, Luke               SKNL676Z  1554  1556/ 99  W63 1.0
+ 12 Rao, Deepak Sri KartikeINTJ517J  1503  1514/260  W54 1.0
+ 13 Kokati, Pranav         INTK814P  1430  1436/329  W62 1.0
+ 14 Preizler, Adrian       JUHMD229  1399  1418/200  W52 1.0
+ 15 Singh, Saket           SKNM872S  1386  1410/373  W49 1.0
+ 16 Burtram, Dayton        SKNKG77M  1322  1340/421  W59 1.0
+ 17 Chopra, Aaryaman       BISKK30K  1284  1290/106  W65 1.0
+ 18 Huang, Ryan            BLLMH30K  1268  1292/ 17  W56 1.0
+ 19 Yeung, Tristan         NPRMD35U  1261  1305/ 93  W44 1.0
+ 20 Phadke, Mahi           TSTJF90B  1195  1198/ 65  W67 1.0
+ 21 Gollapally, Arnav      SKNL499J  1186  1211/170  W60 1.0
+ 22 Latuskiewicz, Matthew  EPSHK21S  1175  1176/ 79  W68 1.0
+ 23 Klein, Logan           BOTJF68E   995  1093/  5  W61 1.0
+ 24 Sinai Manerkar, Aarush SKNMF87B   798   868/  5  W66 1.0
+ 25 Vegulla, Aarush        BLLMH11N   740   740/  4  W70 1.0
+ 26 Jain, Neev             BLLJF87F   432   451/  9  W69 1.0
+ 27 Shraer, Ethan          EPSFF67T   408   814/  2  W64 1.0
+ 28 Abakumov, Taras        JUHLF59A  1100  1644/  1  W55 1.0
+ 29 Yang, Alexander        INTJD81J  2056  2050/226  D30 0.5
+ 30 Beegala, Keshav        TSTJJ27V  1877  1884/240  D29 0.5
+ 31 Zhang, Michelle        INTJ889L  1822  1814/374  D36 0.5
+ 32 Yuodelis, Kenneth      NPRM3681  1753  1740/519  D38 0.5
+ 33 Tatikonda, Nihanth     BOTL926F  1750  1749/282  D34 0.5
+ 34 Cen, Evan              INTKI97D  1731  1732/276  D33 0.5
+ 35 Kato, Ozzie            BLLLG89L  1634  1629/ 54  D37 0.5
+ 36 Venkatachalam, Kedar   TSTM947E  1626  1636/ 64  D31 0.5
+ 37 Brahmachary, Aditya    SKNLH30T  1545  1550/ 25  D35 0.5
+ 38 Lin, William           NPRMJ24U  1405  1425/ 15  D32 0.5
+ 39 Morris, Avery          INTKF87H  1319  1252/  7  D42 0.5
+ 40 Karan, Aditya          BISJF87J  1136  1118/  7  D41 0.5
+ 41 Patankar, Varun        JUHLJ24T   998  1008/ 16  D40 0.5
+ 42 Ely, Joshua            BOTJK73B   718   752/ 25  D39 0.5
+ 43 Garine, Ujwal          TSTMB99A  1942  1934/286  L2  0.0
+ 44 Kang, Danny            NPRLH30U  1557  1522/ 99  L19 0.0
+ 45 Deng, Austin           NPRMJ89K  1532  1529/ 43  L3  0.0
+ 46 Hetamsaria, Aayan      BISKG19R  1515  1511/128  L4  0.0
+ 47 Ao, Ethan              NPRMJ24V  1508  1500/ 55  L7  0.0
+ 48 Tang, Haosen           EPSKH941  1405  1405/241  L1  0.0
+ 49 Yen, Arthur            BLLLD033  1398  1374/ 19  L15 0.0
+ 50 Chung, Warren          TSTJG48Z  1395  1390/ 45  L8  0.0
+ 51 Bansal, Vivaan         TSTL452J  1381  1377/159  L6  0.0
+ 52 Chaturvedi, Raghav     BISKK75J  1336  1316/194  L14 0.0
+ 53 Kang, William          NPRJC12H  1332  1323/105  L10 0.0
+ 54 Konde, Tayshu          BOTK355E  1318  1305/170  L12 0.0
+ 55 Lou, Jeffrey           BISKC71H  1262  1257/151  L28 0.0
+ 56 Jin, Emery             SKNKK90R  1257  1233/ 37  L18 0.0
+ 57 Cheng, Louis           EPSL764H  1251  1247/113  L9  0.0
+ 58 Robinson, Adam         EPSLK708  1238  1236/198  L5  0.0
+ 59 Nanda, Abhav           BLLMH30R  1232  1213/ 21  L16 0.0
+ 60 Siddiqui, Kaamil       BLLLD777  1173  1148/260  L21 0.0
+ 61 Grandhi, Dhruv         INTKC63M  1126  1094/ 96  L23 0.0
+ 62 Mysore, Tanush         BOTLH30N  1096  1089/ 14  L13 0.0
+ 63 Li, Yitao              EPSKF67Z  1003  1003/  2  L11 0.0
+ 64 Herrera, Erwin         BLLLF87L   954   886/  7  L27 0.0
+ 65 Olsen, Zachary         JUHNH99U   923   916/ 17  L17 0.0
+ 66 Ma Ra, Ramcharan       BLLJF87M   797   757/  8  L24 0.0
+ 67 Bhatt, Rayaan          EPSHH76P   713   709/ 29  L20 0.0
+ 68 Yang, Stephan          SKNK895M   463   462/ 19  L22 0.0
+ 69 Mukadam, Aamir         EPSGF68A   254   205/  4  L26 0.0
+ 70 Ruud, Ian              EPSFF67X   100   100/  4  L25 0.0

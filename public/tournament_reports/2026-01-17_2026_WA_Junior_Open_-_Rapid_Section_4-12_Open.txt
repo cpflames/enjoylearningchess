@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Patel, Aarya Pavan     REJHK30E  1535  1573/278  W14 W7  W2  W3  W4  5.0
+  2 Zandanov, Leonid       ENAEK31Q  1261  1314/223  W10 W15 L1  W13 W9  4.0
+  3 Meenakshi Sundaram, PavCDWDJ99Z  1180  1274/ 74  W21 W20 W5  L1  W6  4.0
+  4 Lin, Elliot            TYEHJ71G  1266  1293/124  D6  W17 W13 W5  L1  3.5
+  5 Chien, Jeffrey         OVLIF41X  1358  1334/199  W9  W16 L3  L4  W7  3.0
+  6 Ruan, Jiyong           SHSEJ19W  1129  1215/ 82  D4  W18 D11 W8  L3  3.0
+  7 Kakarlapudi, Sreeram MuOMSG687Z  1070  1157/101  W8  L1  W17 W15 L5  3.0
+  8 Lin, Ethan             TYEHJ71H  1250  1236/123  L7  W14 W10 L6  W16 3.0
+  9 Bui, Edwin             GTMGK90H  1131  1157/205  L5  W19 W22 W16 L2  3.0
+ 10 Panda, Sourish         NJHHK98E  1048  1068/ 79  L2  WF  L8  W17 W14 3.0
+ 11 Menon, Ritwik          ICKI974D  1183  1176/119  W22 L13 D6  D19 W15 3.0
+ 12 Xing, Andrew           CNHEK62E  1189  1135/184  L20 W21 L16 WF  W13 3.0
+ 13 Huang, Aaron           DGHFB25P   957  1012/ 43  W23 W11 L4  L2  L12 2.0
+ 14 Grandhi, Dhruv         INTKC63M  1132  1126/ 95  L1  L8  W18 W20 L10 2.0
+ 15 Dong, Tristan          NJHGF90V  1153  1135/ 80  W18 L2  W20 L7  L11 2.0
+ 16 Zhu, Eric              NPTFK18P  1010  1042/273  W19 L5  W12 L9  L8  2.0
+ 17 Kakarlapudi, Jairam IshMEDD585M   831   842/ 84  BYE L4  L7  L10 W20 2.0
+ 18 Vijay, Adith           SOMFD20K  1355  1273/117  L15 L6  L14 W21 W19 2.0
+ 19 Bhandari, Aarav        CBRFJ06H  1198  1128/225  L16 L9  W21 D11 L18 1.5
+ 20 Margetan, Alston       MTWEW85Y   925   902/ 62  W12 L3  L15 L14 L17 1.0
+ 21 Pothipogu, Aarush      EVJGF66W   600   726/  4  L3  L12 L19 L18 BYE 1.0
+ 22 Swindell, Adam         MRLGG32Q   918   894/ 84  L11 BYE L9  LF  U   1.0
+ 23 Kansal, Sarthak        NRCKG18S  1202  1060/  4  L13 LF  U   U   U   0.0

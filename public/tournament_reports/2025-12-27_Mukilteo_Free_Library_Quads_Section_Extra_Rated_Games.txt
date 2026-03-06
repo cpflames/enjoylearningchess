@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Sparacio, Cyrus        CPVMH25Z   638   656/ 27  W3  W2  2.0
+  2 Allen, Isaiah          CPVMH25W   432   414/ 20  U   L1  0.0
+  3 Shin, Jaden            MUEEF76H   100   100/  4  L1  U   0.0

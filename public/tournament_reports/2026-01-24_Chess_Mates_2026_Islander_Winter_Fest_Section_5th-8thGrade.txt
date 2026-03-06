@@ -1,0 +1,31 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Reimer, Oliver         IMSHG59D  1133  1256/143  W15 W16 W10 W6  W5  5.0
+  2 Anbuselvam, Mithran    HEAHH61F  1198  1267/265  W18 W13 W7  D5  W6  4.5
+  3 Leneway, Owen          CSIFK91V  1071  1083/129  W26 W9  L5  W12 W11 4.0
+  4 Gokulakrishnan, SriharsTMMHH60B  1061  1090/ 52  W23 L6  W18 W10 W7  4.0
+  5 Raghunathan, Vidur     UPAG878A  1134  1163/ 94  W17 W14 W3  D2  L1  3.5
+  6 Pleasants, Gabriel     THUF149G  1331  1298/151  W21 W4  W8  L1  L2  3.0
+  7 Zhang, Amy             CSIFF80L  1070  1054/104  W22 W11 L2  W17 L4  3.0
+  8 Maibaum, Bryce         CSIF124D  1084  1057/ 98  W19 W12 L6  L11 W9  3.0
+  9 Lopez, Rodrigo         EHAIH88C   795   820/ 15  W25 L3  W22 W14 L8  3.0
+ 10 Yorks, Cameron         CSIFJ74Q   822   821/ 69  W29 W28 L1  L4  W19 3.0
+ 11 Paley, Harold          IMSHH70Q   800   847/ 50  W28 L7  W20 W8  L3  3.0
+ 12 Smith, Peter           IMSH751W   838   846/ 66  W20 L8  W27 L3  W17 3.0
+ 13 Feng, Levi             TYEGJ59B  1014   978/ 60  W24 L2  L17 W19 W18 3.0
+ 14 Xia, Jethro            BCSGK47R   999   959/189  W30 L5  W15 L9  W20 3.0
+ 15 Armstrong, Benjamin    EVGFK54R   571   581/106  L1  W24 L14 W27 W26 3.0
+ 16 Mathew, Reuben         MRPBG33B   899   862/ 66  W27 L1  L19 W26 W21 3.0
+ 17 Tang, Khai             THUGJ48Q   693   718/ 79  L5  W23 W13 L7  L12 2.0
+ 18 Pressley, Alexander    THUGH04U   773   753/ 30  L2  W29 L4  W24 L13 2.0
+ 19 Grimm, Gia             EHAFJ55G   498   566/ 68  L8  W25 W16 L13 L10 2.0
+ 20 Abbott, George         EHAGF62R   600   644/  5  L12 W21 L11 W22 L14 2.0
+ 21 Takala, Greysen        WHIHE55T   693   654/123  L6  L20 W25 W23 L16 2.0
+ 22 Oaklund, Henry         LKDFG91T   261   305/ 15  L7  W26 L9  L20 W28 2.0
+ 23 Vlasenko, Andrew       EHAHG58P   224   297/ 10  L4  L17 W28 L21 W27 2.0
+ 24 Halabi, Daniel         EHAGH94J   158   161/ 20  L13 L15 BYE L18 D25 1.5
+ 25 Huynh, Jordan          SGEFF62P   500   279/  5  L9  L19 L21 W29 D24 1.5
+ 26 Roni, Luca             EHAFG58R   274   245/ 10  L3  L22 W29 L16 L15 1.0
+ 27 Roni, Piero            EHAHG58J   100   100/  9  L16 BYE L12 L15 L23 1.0
+ 28 Lopez, Lily            EHAHF62N   700   100/  4  L11 L10 L23 BYE L22 1.0
+ 29 Kozlova, Katya         EHAFF62L   500   100/  4  L10 L18 L26 L25 BYE 1.0
+ 30 Plekhanov, Kyryll      LKDFK31E   100   100/  3  L14 U   U   U   U   0.0

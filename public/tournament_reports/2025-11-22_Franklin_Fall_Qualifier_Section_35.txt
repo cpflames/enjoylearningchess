@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Litvin, Lev            WKEDJ25U   939  1024/ 60  W9  W5  W6  W3  W2  5.0
+  2 Smith, Benjamin        BLEFG44D   721   823/ 98  W14 W4  W7  W6  L1  4.0
+  3 Bormuth, Lucas         LYCFD92J   792   840/ 39  W8  W10 W11 L1  W5  4.0
+  4 Bannister, Altair      EAGEK36Y   574   672/ 86  W15 L2  W22 W8  W7  4.0
+  5 Snyder, Damien         CEEFC98M   608   636/ 52  W17 L1  W16 W12 L3  3.0
+  6 Buckham, George        SKYFK37E   640   663/128  W20 W13 L1  L2  W11 3.0
+  7 Reynolds, Bennett      WKEDJ64R   721   699/ 47  W16 W12 L2  W13 L4  3.0
+  8 Conner, Jack           FACFK83E   391   517/ 34  L3  W18 W10 L4  W13 3.0
+  9 Tandon, Copen          FACFK83H   490   508/ 40  L1  W20 W15 L11 W16 3.0
+ 10 Everbeck, Grey         FACFK83D   630   598/ 76  W18 L3  L8  W19 W14 3.0
+ 11 Reynolds, Elliot       WKEDJ64U   652   634/ 52  W22 W23 L3  W9  L6  3.0
+ 12 Hardin, Noah           HSCFH68E   569   549/ 46  W21 L7  W23 L5  W17 3.0
+ 13 Uffelman, Evan         FACFG54V   564   482/ 10  W19 L6  W17 L7  L8  2.0
+ 14 Hecht, Ansel           FACEJ64Q   382   367/ 20  L2  L17 W18 W15 L10 2.0
+ 15 Humphrey, Logan        FACEF94N   400   288/  5  L4  W19 L9  L14 W22 2.0
+ 16 Hamilton, Max          FACDH39F   365   350/ 20  L7  W21 L5  W23 L9  2.0
+ 17 Zhang, Marcus          FACDF94M   300   346/  5  L5  W14 L13 W21 L12 2.0
+ 18 Ping, Elisha           WKEDF94K   300   198/  4  L10 L8  L14 BYE W23 2.0
+ 19 Walkenhauer, Cole      WKEDK23E   108   117/ 13  L13 L15 BYE L10 W20 2.0
+ 20 Grote, Cora            FACFF94H   500   129/  5  L6  L9  D21 W22 L19 1.5
+ 21 Baldwin, Jefferson     FACEF94G   400   100/  4  L12 L16 D20 L17 BYE 1.5
+ 22 Chambers, Corbin       FACEJ64N   244   159/ 19  L11 BYE L4  L20 L15 1.0
+ 23 Lopez, London          FACDH38W   100   100/  8  BYE L11 L12 L16 L18 1.0

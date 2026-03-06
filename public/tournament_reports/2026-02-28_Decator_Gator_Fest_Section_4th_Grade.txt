@@ -1,0 +1,39 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Lawardy, Clayton       DCTEK13P   862   920/ 77  W21 W14 W22 D3  W6  4.5
+  2 Bolisetty, Varun       HMNEJ73Z  1047  1034/250  W20 W13 D10 W7  D3  4.0
+  3 Shing, Lucas           HZFEJ74H   816   890/175  W24 W36 W4  D1  D2  4.0
+  4 Mohankumar, Kabilan    CNCDG92V   631   796/ 34  W27 W8  L3  W22 W11 4.0
+  5 Hedstrom, Elliot       WEDEK92C   679   747/102  W38 L7  W21 W15 W16 4.0
+  6 Johnson, Nathan        HZFEH32Y   911   903/ 40  W23 W18 D9  W10 L1  3.5
+  7 Pradeepkumar, Adrit    LKDEK54S   635   791/118  W25 W5  W11 L2  D8  3.5
+  8 Sabharwal, Vihaan      DCTEK87T   986   953/ 92  W19 L4  W23 W9  D7  3.5
+  9 Huynh, Daniel          DCTEK87U   653   777/ 54  W29 W16 D6  L8  W12 3.5
+ 10 Meymandi-li, Alvin     CNCEJ64F   720   769/ 62  W26 W12 D2  L6  W19 3.5
+ 11 Ben Simon, Golan       WEDEJ48B   813   781/106  W30 W15 L7  W14 L4  3.0
+ 12 Ma, Liam               WEDEG03M   568   613/ 15  W17 L10 W34 W13 L9  3.0
+ 13 Park-brinck, August    WEDEJ54U   660   651/ 68  W28 L2  W24 L12 W23 3.0
+ 14 Hill, Kosal            HZFEF82W   542   563/ 31  W32 L1  W29 L11 W24 3.0
+ 15 Hill, Soben            HZFEF82T   449   538/ 33  W34 L11 W17 L5  W22 3.0
+ 16 Margetan, Alston       MTWEW85Y   874   819/ 72  W37 L9  W35 W18 L5  3.0
+ 17 Dire, Luke             DCTEF39R   400   542/  5  L12 W26 L15 W30 W21 3.0
+ 18 Allyn, William         THOEJ48A   621   612/101  W31 L6  WF  L16 W26 3.0
+ 19 Hanlon, Benjamin       LKDEK54U   441   470/ 88  L8  D25 W28 W20 L10 2.5
+ 20 Kolodeznaia, Alice     THOEH32F   443   444/ 42  L2  D28 W25 L19 W27 2.5
+ 21 Hotchkin, Otis         CSIEK92J   406   415/ 47  L1  W32 L5  W29 L17 2.0
+ 22 Sanders, Kieran        WEDEF39N   400   504/  5  W35 W33 L1  L4  L15 2.0
+ 23 Siddhartha, Sanjana    MRPEH64Z   424   432/ 52  L6  W31 L8  W36 L13 2.0
+ 24 Aguiluz, Mateo         BRYEJ68R   403   406/ 65  L3  W27 L13 W34 L14 2.0
+ 25 Choi, Abraham          DCTEH04N   304   322/ 20  L7  D19 L20 W32 D28 2.0
+ 26 Scott, Duncan          WEDEJ54Y   391   396/ 54  L10 L17 W38 W35 L18 2.0
+ 27 Knight, Ignasi         WEDEH32S   243   298/ 10  L4  L24 W37 W33 L20 2.0
+ 28 Buhagiar, Finnegan     WWDEF53H   312   330/ 10  L13 D20 L19 W37 D25 2.0
+ 29 Barnes, Ethan          WEDEH94B   276   311/ 15  L9  W37 L14 L21 W35 2.0
+ 30 Brown, Benjamin        OLHEG25W   391   350/ 27  L11 L34 W31 L17 W36 2.0
+ 31 Jeffrey, Tanner        WEDEJ54S   114   100/ 17  L18 L23 L30 WF  BYE 2.0
+ 32 Lescot, Marc           WEDEF39M   400   206/  5  L14 L21 D33 L25 W34 1.5
+ 33 Sharma, Avik           WOBEF62Y   473   357/ 18  L36 L22 D32 L27 W38 1.5
+ 34 O'flaherty, Kian       DCTEF39L   400   182/  5  L15 W30 L12 L24 L32 1.0
+ 35 Goldfarb, Hank         DCTEH04P   443   325/ 10  L22 W38 L16 L26 L29 1.0
+ 36 Li, Dallas             DCTEF39K   400   251/  4  W33 L3  LF  L23 L30 1.0
+ 37 Cairns, Evan           HZFEF59E   410   287/ 13  L16 L29 L27 L28 BYE 1.0
+ 38 Wells, Julia           NHREH63T   344   245/ 37  L5  L35 L26 WF  L33 1.0

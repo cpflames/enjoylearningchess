@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Eric Q          SOMEK64M  1226  1303/141  W3  W2  D4  2.5
+  2 Ge, Jeremy             SOMDJ88K  1325  1331/356  W4  L1  W3  2.0
+  3 Li, Harry              SPTGG30G  1227  1213/542  L1  W4  L2  1.0
+  4 Bhandari, Aarav        CBRFJ06H  1238  1199/183  L2  L3  D1  0.5

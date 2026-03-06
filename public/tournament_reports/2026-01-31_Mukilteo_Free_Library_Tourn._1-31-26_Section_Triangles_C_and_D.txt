@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Generoso, Amelia       MUEDF75Y   345   455/  6  D2  W5  W4  2.5
+  2 Salih, Kareem          MUEEF59X   400   495/  3  D1  W6  W5  2.5
+  3 Lee, Marshall          MUEEF59W   400   449/  3  W5  D4  W6  2.5
+  4 Lee, Dawon             MUEEF59V   400   349/  3  W6  D3  L1  1.5
+  5 Cree, Adelisa          MUEEF59U   400   100/  3  L3  L1  L2  0.0
+  6 Park, Lyn              PPEEF59S   400   100/  3  L4  L2  L3  0.0

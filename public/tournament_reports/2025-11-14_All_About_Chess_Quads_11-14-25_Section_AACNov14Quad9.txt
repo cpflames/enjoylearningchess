@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Haycraft, Ethan        IFSDG36K   195   285/ 36  D3  W2  W4  2.5
+  2 Pfau, Zacharias        SOMAG09C   190   222/ 13  W4  L1  W3  2.0
+  3 Tanielian, Theo        WOBBG19Q   106   134/ 15  D1  W4  L2  1.5
+  4 Reddy, Atharv          GRRBG25J   100   100/ 14  L2  L3  L1  0.0

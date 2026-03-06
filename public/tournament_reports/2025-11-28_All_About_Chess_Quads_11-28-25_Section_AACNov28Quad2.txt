@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Komin, Michael         SOMFG01Y  1106  1246/ 12  W3  W4  W2  3.0
+  2 Sarychev, Aleksei      ISSLJ98N   844   850/328  W4  D3  L1  1.5
+  3 Shah, Rachit           BNTFK44K   834   842/124  L1  D2  W4  1.5
+  4 Sathyamurthy, Shreyus  BLWDJ60Z   635   603/197  L2  L1  L3  0.0

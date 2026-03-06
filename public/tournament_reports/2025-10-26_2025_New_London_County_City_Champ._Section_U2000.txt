@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Tkaczewski Jr, Kr      CTXGZ69F  1743  1854/ 20  W4  W2  W6  W3  4.0
+  2 Du, Shuhan             AUDNA204  1882  1889/117  W8  L1  W5  W6  3.0
+  3 Ren, Eric              CTXIZ53M  1746  1744/ 12  W7  L6  W4  L1  2.0
+  4 Lesi, Adeyinka A       CTXNZ41A  1697  1703/  8  L1  W7  L3  W8  2.0
+  5 Ghosh, Arush           CTXJX00W  1680  1688/139  D6  W8  L2  D7  2.0
+  6 Hartman, Nadav Munro   CTXJX01E  1788  1774/136  D5  W3  L1  L2  1.5
+  7 Piao, Aaron Chawyn     CTXJX01X  1607  1606/122  L3  L4  W8  D5  1.5
+  8 Nagel, Arthur C        CTXNX02Z  1700  1637/122  L2  L5  L7  L4  0.0

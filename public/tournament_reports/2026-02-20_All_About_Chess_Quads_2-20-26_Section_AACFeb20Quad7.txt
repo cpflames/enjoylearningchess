@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Karanam, Dhruthi       LCSDH10X   268   446/ 40  W4  W2  W3  3.0
+  2 Shin, Joshua           CRKDJ63R   312   342/143  W3  L1  W4  2.0
+  3 Haycraft, Ethan        IFSDG36K   251   236/ 60  L2  W4  L1  1.0
+  4 Tanielian, Theo        WOBBG19Q   288   195/ 41  L1  L3  L2  0.0

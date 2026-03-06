@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chu, Nathan            CSBAF65M   230   381/ 13  W2  W4  W3  3.0
+  2 Goel, Kanishk          RSACF49Y   200   327/  3  L1  W3  W4  2.0
+  3 Coskun, Ela            SHSCG75X   100   100/  6  D4  L2  L1  0.5
+  4 Karan, Kiara           SHSCF49X   200   100/  3  D3  L1  L2  0.5

@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Roshan, Vihaan         MAYGG24K   630   655/ 11  W5  W3  L4  W6  W7  4.0
+  2 Mattoo, Avyaan         HWEFG68K   409   553/ 35  L3  W5  W6  W4  BYE 4.0
+  3 Kalashnyk, Artur       MAHFG30K   306   461/ 22  W2  L1  W7  BYE W6  4.0
+  4 Gao, Arden             JINCH35W   543   549/ 39  W6  W7  W1  L2  L5  3.0
+  5 Yao, Jason             DISEG30H   788   717/ 28  L1  L2  BYE W7  W4  3.0
+  6 Shukla, Stavya         BCACG27W   256   212/ 28  L4  BYE L2  L1  L3  1.0
+  7 Bhansali, Inaya        BCACH79H   262   224/ 19  BYE L4  L3  L5  L1  1.0

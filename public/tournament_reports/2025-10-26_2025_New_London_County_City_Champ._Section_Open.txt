@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Garg, Priyansh         NYXJZ46U  2256  2270/  8  W8  W3  W6  L2  3.0
+  2 Ivanov, Alexander      MAXNX00C  2494  2492/119  HPB D5  W9  W1  3.0
+  3 Dedona, Mark           NYXNX02P  2250  2244/134  W4  L1  D7  W5  2.5
+  4 Bhargava, Kushagra     CTXIX00P  2046  2057/143  L3  D8  BYE W9  2.5
+  5 Natarajan, Neil        BCCIV24M  1959  1990/ 94  D6  D2  W8  L3  2.0
+  6 Mashkov, David AlexandeCTXMX10Q  2116  2115/127  D5  W9  L1  D7  2.0
+  7 Adu-poku, Kwabena      CTXNZ73P  2019  2022/ 19  L9  BYE D3  D6  2.0
+  8 Uwakwe, Michael        CTXNX00L  2088  2067/140  L1  D4  L5  BYE 1.5
+  9 Ingargiola, Max        CTXMX10G  2181  2159/148  W7  L6  L2  L4  1.0

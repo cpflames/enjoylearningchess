@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Dhanalakota, Nikhil    HEAHF81G   708   840/ 14  W12 W5  W9  W3  4.0
+  2 Yi, Woochan            BRHEG23J   645   780/ 23  HPB W16 W4  W8  3.5
+  3 Gupta, Aayansh         CPJGH73A   722   740/ 53  W11 W10 W6  L1  3.0
+  4 Wang, Shayne           RSADH05Y   301   596/ 14  W16 W8  L2  W9  3.0
+  5 Iyer, Anirudh          RSADH36Q   579   603/ 36  W13 L1  W17 W10 3.0
+  6 Raghavendran, Vishakh  DCSEH24Q   644   625/ 48  W19 W18 L3  D7  2.5
+  7 Dua, Anaya             SHVFG67C   559   520/ 34  L15 WF  W18 D6  2.5
+  8 Venkatesan, Nithilan   LCSFA95X   694   663/ 86  W14 L4  W11 L2  2.0
+  9 Manjunatha, Neeraj RaghSTVCH24D   655   622/ 19  W17 W15 L1  L4  2.0
+ 10 Ranjith, Janani        SHVDK65E   357   378/128  WF  L3  W12 L5  2.0
+ 11 Jain, Dhruvin          CSMEH52B   428   438/ 27  L3  W13 L8  W18 2.0
+ 12 Suhasan, Nehaa         SFRDJ30B   432   436/ 52  L1  W19 L10 W17 2.0
+ 13 Shah, Jiyan            ARWAG27T   168   205/ 10  L5  L11 BYE W20 2.0
+ 14 Anand, Nivaan          MCECH64F   509   536/151  L8  LF  W16 W15 2.0
+ 15 Jain, Shravin          CSMAG02S   100   258/  6  W7  L9  HPB L14 1.5
+ 16 Sinha, Ethan           CDWDG21N   635   555/ 17  L4  L2  L14 W19 1.0
+ 17 Lakshmanan, Vian       BABCH56N   364   332/ 54  L9  W20 L5  L12 1.0
+ 18 Palathingal, Rachel    KKNAF76W   182   223/  7  W20 L6  L7  L11 1.0
+ 19 Premkumar, Janav       RSAFG76B   337   277/ 12  L6  L12 D20 L16 0.5
+ 20 Gupta, Aadya           SFRBG02V   534   264/  8  L18 L17 D19 L13 0.5

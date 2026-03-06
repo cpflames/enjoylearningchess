@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Joshi, Siddhant        OMSIG16W   483   612/  7  W4  W2  W3  3.0
+  2 Han, Vincent           PFCHG02C   700   532/  3  W3  L1  W4  2.0
+  3 Sinha, Aarav           ISMK886W   482   438/ 47  L2  W4  L1  1.0
+  4 Chandana, Harsha       LMAFH48E   156   134/  9  L1  L3  L2  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Shah, Parth            BCAFJ59G   730   780/ 21  W4  W3  D2  2.5
+  2 Kesher, Zavi           BENFH62L   715   703/ 54  L3  W4  D1  1.5
+  3 Zhang, Eli             CHRDH69C   697   662/ 91  W2  L1  L4  1.0
+  4 Roshin, Ayden          HMNEG48P   550   560/ 12  L1  L2  W3  1.0

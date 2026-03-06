@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Tkaczewski, Krystian   CTXGZ69F  1813  1841/ 31  W13 W4  W6  D2  3.5
+  2 Ren, Eric              CTXIZ53M  1816  1832/ 24  W11 D9  W7  D1  3.0
+  3 Anatra, Owen Chance    CTXIZ33P  1756  1778/  8  W12 L6  W9  W8  3.0
+  4 Vitale, Patrick At     NYXHZ304  1594  1621/  4  W14 L1  W11 W6  3.0
+  5 Katta, Thanveen Tej    NYXNZ39M  1653  1620/ 16  D10 L7  W12 W11 2.5
+  6 Wu, Cody               CTXGX11H  1911  1883/143  W8  W3  L1  L4  2.0
+  7 Maymin-tzur, Ron       CTXGX01M  1552  1569/116  L9  W5  L2  W10 2.0
+  8 Hashmi, Saifan Syed    NYXHZ303  1432  1447/  4  L6  W12 W13 L3  2.0
+  9 Bhargava, Kushagra     CTXIX00P  2052  2027/149  W7  D2  L3  U   1.5
+ 10 Rosenstein, Gabi       CTXIZ335  1082  1118/  8  D5  L13 W14 L7  1.5
+ 11 Coggin, Paul Mikhail   CTXIX03X  1200  1207/125  L2  W14 L4  L5  1.0
+ 12 Villion, Naomi         NYXIZ302  1110  1132/  4  L3  L8  L5  W14 1.0
+ 13 Pandey, Pragyan        CTXHX12H  1260  1262/119  L1  W10 L8  U   1.0
+ 14 Wen, Liam Felix        CTXGZ38V  1157  1083/ 11  L4  L11 L10 L12 0.0

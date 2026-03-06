@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Friedman, Elliott      SQUJ637U  1002  1099/ 22  W5  W3  W2  3.0
+  2 Zou, Benjamin          SHMLK981  1004  1019/ 52  W7  W4  L1  2.0
+  3 Moore, Aran            SHML442N   854   903/ 37  W9  L1  W8  2.0
+  4 Oscarson, Ethan        SQUMK99S   850   920/ 36  W6  L2  W7  2.0
+  5 Kimes, Matilda         LYCK935N   819   821/ 36  L1  BYE D6  1.5
+  6 Baldinger, Jacob       SHMJK47G  1009   968/ 74  L4  W8  D5  1.5
+  7 Phillips, Lucas        BLHM696K   820   822/ 57  L2  W9  L4  1.0
+  8 Westergreen, Korben    FERJH39X   704   676/ 44  BYE L6  L3  1.0
+  9 Harrison, Gabriel      SQUK865H  1004   923/ 68  L3  L7  BYE 1.0

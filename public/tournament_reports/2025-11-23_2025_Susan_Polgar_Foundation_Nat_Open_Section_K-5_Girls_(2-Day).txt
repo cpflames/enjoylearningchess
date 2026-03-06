@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Khudyev, Elina Umi     OPWDJ97Q  1207  1322/119  W7  W5  D3  W2  D4  4.0
+  2 Byelashova, Sofia      SGHDK01K  1098  1233/228  W4  W6  W9  L1  W5  4.0
+  3 Ge, Emma               SSMDJ56J  1339  1334/176  W6  W9  D1  L4  W7  3.5
+  4 Guo, Loida             KSHDG25U  1505  1476/ 24  L2  W8  W11 W3  D1  3.5
+  5 Byelashova, Darya      SGHFK51X  1247  1218/250  W8  L1  W12 W7  L2  3.0
+  6 Telikicherla, Aadya    AUDDG19N   969   990/ 29  L3  L2  W8  W11 W9  3.0
+  7 Nishino, Anne          BABEH74F   916   917/209  L1  BYE W10 L5  L3  2.0
+  8 Wong, Claire           BCADK86D   867   875/170  L5  L4  L6  W10 W12 2.0
+  9 Velichko, Kristina     ASADK07V   791   787/170  BYE L3  L2  W12 L6  2.0
+ 10 Bishay, Natalie        TXXFZ31Y   866   823/  3  HPB HPB L7  L8  W11 2.0
+ 11 Wong, Elly             TXXEZ31X   683   652/  3  HPB HPB L4  L6  L10 1.0
+ 12 Bishay, Nellie         TXXEZ31W   684   639/  3  HPB HPB L5  L9  L8  1.0

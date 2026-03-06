@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Castro-gudino, SebastiaESGCH41V   543   615/ 40  W9  W10 W3  W5  W4  5.0
+  2 Castro-gudino, Adrian  ESGAG15A   100   463/  5  W8  W7  W6  L3  W9  4.0
+  3 Roman, Leonardo        MCGCG41Y   343   399/ 15  W7  W11 L1  W2  D6  3.5
+  4 Ortiz, Logan           ESGCG41V   141   283/ 10  W5  D6  W10 W9  L1  3.5
+  5 Froehlich, Kellan      WBECG14Y   200   313/  5  L4  W14 W11 L1  W12 3.0
+  6 Marroquin, Owen        CRPCH55M   100   191/ 38  D12 D4  L2  W10 D3  2.5
+  7 Hernandez, Alizay      MTPCG14W   200   237/  5  L3  L2  W14 W12 D8  2.5
+  8 Chavez, Isabella       MCUCG14V   200   189/  5  L2  L12 W13 W11 D7  2.5
+  9 Cree, Audrey           LIVCG14U   200   219/  5  L1  W13 W12 L4  L2  2.0
+ 10 Hernandez, Ezri        MTPCG14T   200   161/  5  W14 L1  L4  L6  W13 2.0
+ 11 Hernandez, Emma        ESGCG88C   100   100/  9  W13 L3  L5  L8  BYE 2.0
+ 12 Escobar, Carlos        ESGCG14S   200   100/  5  D6  W8  L9  L7  L5  1.5
+ 13 Daniel, Camryn         MTPBG14R   100   100/  4  L11 L9  L8  WF  L10 1.0
+ 14 Davey, Betsey          ESGCG14Q   200   100/  3  L10 L5  L7  LF  U   0.0

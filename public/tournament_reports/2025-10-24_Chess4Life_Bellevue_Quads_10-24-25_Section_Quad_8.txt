@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ismail, Kai            TLIBG21Y   245   268/ 10  W3  W4  L2  2.0
+  2 Trespalacios, James    JINCJ02N   245   265/ 19  W4  L3  W1  2.0
+  3 He, Alex               ETSBG28F   100   213/ 14  L1  W2  W4  2.0
+  4 Bharadhwaj, Arjun      CDWAG10V   100   100/  3  L2  L1  L3  0.0

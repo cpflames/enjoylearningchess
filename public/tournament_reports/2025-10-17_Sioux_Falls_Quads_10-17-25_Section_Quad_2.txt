@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bergan, David          ADUNG12B  1300  1834/  3  W3  W4  W2  3.0
+  2 Neff, Enoch            ABFFF95Q  1433  1439/215  W4  W3  L1  2.0
+  3 Nguyen, Charlie        SDRGZ06D  1205  1198/231  L1  L2  W4  1.0
+  4 Battleson, Conner      ADUNG12A  1300   802/  3  L2  L1  L3  0.0

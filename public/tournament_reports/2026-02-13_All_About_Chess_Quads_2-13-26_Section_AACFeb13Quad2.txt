@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Karnik, Rohan          WAVKG59F  1278  1365/ 84  W3  W4  W2  3.0
+  2 Krogstad, Jaxon        NCSEJ88M  1274  1268/220  D4  W3  L1  1.5
+  3 Li, Harry              SPTGG30G  1196  1186/569  L1  L2  W4  1.0
+  4 Mohammed, Farhan       CRKFH14M  1220  1182/171  D2  L1  L3  0.5

@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 tot 
+  1 Singh, Rushil          TWFIB52N  1562  1609/200  L3  D7  W9  W2  W10 L8  W4  W5  W6  6.5
+  2 Marinescu, Andra       ADUN412W  1578  1602/ 91  W4  W9  W5  L1  D6  W10 D3  L8  W7  6.0
+  3 Gupta, Krishang        GTMIE37V  1598  1614/139  W1  W10 D8  W4  D5  L6  D2  D7  W9  6.0
+  4 Pan, Peng-ruei         EVJG759R  1639  1640/340  L2  W5  W6  L3  W7  W9  L1  W10 W8  6.0
+  5 Raj, Skandha           EVGDK55U  1542  1566/226  W8  L4  L2  W6  D3  W7  W9  L1  W10 5.5
+  6 Das, Sambuddha Sekhar  ENDFK47S  1486  1488/266  D10 W8  L4  L5  D2  W3  D7  D9  L1  4.0
+  7 Guo, Loida             KSHDG25U  1410  1428/ 52  L9  D1  W10 W8  L4  L5  D6  D3  L2  3.5
+  8 Ma, Ziliang            DCCIA69N  1503  1484/253  L5  L6  D3  L7  W9  W1  L10 W2  L4  3.5
+  9 Sriram, Aahan          OVLGC03K  1490  1431/136  W7  L2  L1  D10 L8  L4  L5  D6  L3  2.0
+ 10 Zhu, Aiden             LMSFC77X  1481  1425/230  D6  L3  L7  D9  L1  L2  W8  L4  L5  2.0

@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ahya, Vishnu           HZNLK04U  1198  1240/ 21  W8  W3  W2  D4  W7  4.5
+  2 Akbari, Dhairy         TJHKH46A  1225  1230/ 42  W6  W7  L1  W5  W4  4.0
+  3 Roberts, Kaleb         HZNMG77N   908   952/ 12  W10 L1  W9  W7  W8  4.0
+  4 Wayment, Emmery        HZNMG77P  1089  1094/ 16  W9  W5  W6  D1  L2  3.5
+  5 Dubbaka, Yudhistar     HZNM805S   696   699/ 21  W12 L4  W11 L2  W10 3.0
+  6 Czaplinski, Harrison   TJHJF89F   667   646/ 20  L2  W11 L4  D10 W12 2.5
+  7 Ricardo, David         HZNMG77Q  1031   980/ 16  W11 L2  W8  L3  L1  2.0
+  8 Do, Aiden              TJHJF88Y   423   462/ 18  L1  W10 L7  W9  L3  2.0
+  9 Lamb, Hunter           TJHJF88V   100   198/ 10  L4  W12 L3  L8  W11 2.0
+ 10 Decena, Caleb          TJHJF50Q   900   395/  5  L3  L8  W12 D6  L5  1.5
+ 11 Forest, Isaac          TJHKF50P  1000   169/  5  L7  L6  L5  W12 L9  1.0
+ 12 Barry, Sheik           TJHJF50M   900   100/  5  L5  L9  L10 L11 L6  0.0

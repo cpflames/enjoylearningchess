@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ghosh, Snehil          REJG738T  1447  1488/279  W23 W15 W3  W8  W7  5.0
+  2 Zhang, Patrick         CDIDK01J  1291  1317/433  L17 W6  W5  W4  W8  4.0
+  3 Bhambri, Vansh         TYEGJ57J  1223  1248/ 46  W20 W17 L1  W16 W11 4.0
+  4 Chanda, Rishabh        BCABH72X  1079  1183/145  W24 W19 W7  L2  W9  4.0
+  5 Shapiro, Maksim        STLGK10R  1334  1313/ 92  D6  W14 L2  W23 W16 3.5
+  6 Bangard, Dhruv         RBRDK65D   885  1053/159  D5  L2  W13 W14 W15 3.5
+  7 Swain, Samarth         MMEDJ58S  1312  1288/442  W22 W10 L4  W15 L1  3.0
+  8 Mohammed, Farhan       CRKFH14M  1182  1192/176  W18 W16 W9  L1  L2  3.0
+  9 Singhal, Aryash        XXXG595L  1030  1051/151  W11 W13 L8  W17 L4  3.0
+ 10 Li, Bryan              MEDCJ75H  1001  1011/154  W21 L7  W19 L11 W20 3.0
+ 11 Vivek, Thanish BhavanamBCADH74G   816   961/ 75  L9  W22 W23 W10 L3  3.0
+ 12 Tripathi, Naksh        BRHEJ98P   809   862/154  L15 L18 BYE W19 W17 3.0
+ 13 Katipally, Sahan       WOBEK31R   660   714/ 44  BYE L9  L6  W25 W18 3.0
+ 14 Bolisetty, Varun       HMNEJ73Z  1099  1047/245  L19 L5  W24 L6  W23 2.0
+ 15 Kalakoti, Kartika      MOBDG45J  1003  1004/ 88  W12 L1  W18 L7  L6  2.0
+ 16 Telikicherla, Aadya    AUDDG19N   986   980/ 54  W25 L8  W20 L3  L5  2.0
+ 17 Chadha, Saahan         ENDFK64R  1023  1003/100  W2  L3  W21 L9  L12 2.0
+ 18 Li, Leo                BCABH11J   938   900/109  L8  W12 L15 W21 L13 2.0
+ 19 Menon, Riaan           EBSEH83A   916   893/ 35  W14 L4  L10 L12 X24 2.0
+ 20 Marella, Akhil         CHRGK93L   952   922/100  L3  W25 L16 W22 L10 2.0
+ 21 Goyal, Avyukt          CNHBJ65X   763   725/179  L10 BYE L17 L18 W25 2.0
+ 22 Vinoth Ganapathy, PavitAUDGH96J   961   901/ 49  L7  L11 W25 L20 HPB 1.5
+ 23 Mallapragada, Mihir    CBRG254M   941   912/ 93  L1  W24 L11 L5  L14 1.0
+ 24 Kasala, Avyukt         CDWFG60F   902   847/ 26  L4  L23 L14 BYE F19 1.0
+ 25 Kaniyala, Krishna      XXXCF42Q   200   300/  5  L16 L20 L22 L13 L21 0.0

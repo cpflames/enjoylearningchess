@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kulkarni, Samik        KKNCH67M  1339  1348/128  W3  W4  W2  3.0
+  2 Namjoshi, Aarav        KKNCG78Z   949   978/ 35  W4  W3  L1  2.0
+  3 Agarwal, Avyukt        KKNIF24X   744   768/ 50  L1  L2  W4  1.0
+  4 Chen, Albert           LKWE728A   898   833/ 51  L2  L1  L3  0.0

@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Sampathi Rao, Sri JayraEVJHK37Y  1229  1218/103  W5  W8  W2  L4  W3  4.0
+  2 Goel, Advit            CMCEG22F  1144  1113/139  W4  W3  L1  W5  L6  3.0
+  3 Zhou, Jeffrey          ICKIG20T   594   842/ 16  W6  L2  W5  W7  L1  3.0
+  4 Almuayyad, Omar        RHJIJ59J   801   925/ 72  L2  W6  W8  W1  L7  3.0
+  5 Lee, Owain             LLFFG59B   854   864/ 42  L1  W7  L3  L2  W8  2.0
+  6 Swindell, Adam         MRLGG32Q   895   879/ 39  L3  L4  L7  W8  W2  2.0
+  7 Zeitlin, Tom           OMSGI56H  1118  1021/134  L8  L5  W6  L3  W4  2.0
+  8 Anand, Grahil          GTMHJ89Y   698   700/ 67  W7  L1  L4  L6  L5  1.0

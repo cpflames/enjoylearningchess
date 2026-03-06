@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mangla, Atharv         GRRFK07C   852   957/199  W2  W4  D3  2.5
+  2 Bysani, Aakash         SSMDK01D   963   972/307  L1  W3  W4  2.0
+  3 Vartak, Omkar          BLMII53F   715   793/ 31  W4  L2  D1  1.5
+  4 Sathyamurthy, Sreeshan EVJJJ24M  1003   900/195  L3  L1  L2  0.0

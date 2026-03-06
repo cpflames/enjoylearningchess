@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, William          EALJ550N  1740  1752/365  W3  W4  W2  3.0
+  2 Narkhede, Kshitij      CRKEA27K  1455  1477/197  W4  W3  L1  2.0
+  3 Kulkarni, Samik        KKNCH67M  1348  1351/131  L1  L2  W4  1.0
+  4 Bansal, Vivaan         TSTL452J  1377  1333/162  L2  L1  L3  0.0

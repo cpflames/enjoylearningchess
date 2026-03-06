@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Vartak, Omkar          BLMII53F   400   799/ 19  W5  W4  W7  W2  D3  4.5
+  2 Hurd, Charles          EVGDJ72C   677   788/ 59  W9  W10 W8  L1  W7  4.0
+  3 Mirchandani, Kiaan     MEDFK92Z   795   797/141  D7  D12 W11 W4  D1  3.5
+  4 Nam, Alex              BLWFH75Q   728   732/100  W6  L1  W5  L3  W8  3.0
+  5 Govil, Apurv           CMCEG50C   272   524/ 15  L1  W13 L4  W11 W12 3.0
+  6 Sharma, Samarth        EVGDJ75K   467   520/ 94  L4  L7  W14 W12 W9  3.0
+  7 Ram, Yaalini           SNEDH87H   652   667/140  D3  W6  L1  W10 L2  2.5
+  8 Mazer, Harvey          SNEFJ59E   769   717/ 60  W12 W11 L2  D9  L4  2.5
+  9 Hsieh, Cheryl          ICKHJ82X   408   476/ 33  L2  W14 W10 D8  L6  2.5
+ 10 Sharma, Sidarth        EVGDJ75G   733   641/113  W13 L2  L9  L7  W14 2.0
+ 11 Treves, Simon          NOWFK28A   683   613/ 34  W14 L8  L3  L5  W13 2.0
+ 12 Gu, Ximu               ENDCJ05X   581   530/108  L8  D3  W13 L6  L5  1.5
+ 13 Mirchandani, Kavir     MEDDJ97A   557   452/134  L10 L5  L12 W14 L11 1.0
+ 14 Youn, Jayden           EASCG18D   200   100/  5  L11 L9  L6  L13 L10 0.0

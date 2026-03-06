@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Castro, Philip         APOEH34Q   100   199/  8  W2  L3  W4  2.0
+  2 Shukla, Stavya         BCACG27W   328   326/ 21  L1  W4  W3  2.0
+  3 Sandeep, Advik         CDIEG20S   355   284/  6  D4  W1  L2  1.5
+  4 Law, Marshall          SNSFG18X   500   100/  3  D3  L2  L1  0.5

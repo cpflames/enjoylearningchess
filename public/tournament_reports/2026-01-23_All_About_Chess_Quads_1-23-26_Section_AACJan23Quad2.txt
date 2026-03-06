@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Ethan James        SOMDK00K  1088  1185/265  W2  D3  W4  2.5
+  2 Komin, Michael         SOMFG01Y  1176  1193/ 27  L1  W4  W3  2.0
+  3 Swain, Samarth         MMEDJ58S  1225  1207/418  W4  D1  L2  1.5
+  4 Sarangi, Samarth       HMNFH69F  1065  1014/219  L3  L2  L1  0.0

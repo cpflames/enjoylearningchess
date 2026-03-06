@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Patrick         SSSDK01J  1380  1495/359  W3  W2  W4  3.0
+  2 Pan, Peng-ruei         SSMG759R  1520  1521/299  W4  L1  W3  2.0
+  3 Ge, Jeremy             SOMDJ88K  1408  1373/344  L1  D4  L2  0.5
+  4 Burtram, Dayton        SKNKG77M  1370  1342/386  L2  D3  L1  0.5

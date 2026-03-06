@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Gorski, Corvin         KSTFJ74N   931   919/ 67  W2  W3  D4  W5  U   3.5
+  2 Brown, Benjamin        OLHFG25W   651   615/  7  L1  U   D3  W4  W5  2.5
+  3 Crystal, Jordan        KSTCG57S   249   300/ 21  W5  L1  D2  U   L4  1.5
+  4 Huynh, Daniel          DCTEK87U   571   523/ 39  U   L5  D1  L2  W3  1.5
+  5 Crystal, Aliza         KSTFG58G   100   166/ 12  L3  W4  U   L1  L2  1.0

@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chin, Kheiron          HSCBJ19P   708   746/132  W9  W3  W4  W2  W5  5.0
+  2 Boyes, Naomi           HSCCG84G   295   396/ 13  W11 W10 W5  L1  W4  4.0
+  3 Linder, Quinton        FMPBH53K   112   336/ 14  W6  L1  W7  W8  W10 4.0
+  4 Belonozhko, Isaac      FMPCH53M   442   422/ 20  W12 W8  L1  W10 L2  3.0
+  5 Varma, Kalki           DFXBG09R   100   274/  5  D7  W12 L2  W11 L1  2.5
+  6 Godsey, Miriam         HSCAG09Q   100   173/  5  L3  W11 L8  W7  D9  2.5
+  7 Wriston, Parker        STRBG09N   100   123/  4  D5  W9  L3  L6  BYE 2.5
+  8 Shove, Owen            FMPCG47N   100   162/  9  W13 L4  W6  L3  D12 2.5
+  9 Prasad, Miraya         GRSBG09M   100   205/  5  L1  L7  W12 W13 D6  2.5
+ 10 Maddox, Ellis          FMPCG47P   100   104/  8  BYE L2  W13 L4  L3  2.0
+ 11 Morgan, Ivy            FMPBG09K   100   100/  4  L2  L6  BYE L5  W13 2.0
+ 12 Wright, Elleanor       FMPBG09J   100   100/  4  L4  L5  L9  BYE D8  1.5
+ 13 Karthick, Navira       DFXBG09F   100   100/  4  L8  BYE L10 L9  L11 1.0

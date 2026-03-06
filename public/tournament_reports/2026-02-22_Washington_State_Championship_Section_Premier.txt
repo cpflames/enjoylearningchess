@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 tot 
+  1 Summerfield, William   MCRKG77R  2033  2148/221  W5  W3  W4  D9  D7  W10 W6  W8  W2  8.0
+  2 Saddi, Neevan Reddy    PFCGH87M  2068  2087/338  D3  W9  W10 W8  D5  D4  D7  D6  L1  5.5
+  3 Kuipers, Miles         TSTN6766  2045  2071/627  D2  L1  W9  D10 W8  D5  D4  W7  D6  5.5
+  4 Harish, Neeraj         CBRKC925  2156  2144/283  W8  L5  L1  W7  W6  D2  D3  L9  W10 5.0
+  5 Palathingal, Rafael    KKNG196R  2075  2083/241  L1  W4  L7  D6  D2  D3  W9  W10 D8  5.0
+  6 Pupols, Viktors        ADUN8503  2131  2107/146  W9  W10 L8  D5  L4  D7  L1  D2  D3  4.0
+  7 Razmov, Gabriel        LSSKC26K  2031  2021/427  W10 L8  W5  L4  D1  D6  D2  L3  L9  3.5
+  8 Fletcher, Andrew       ADUN5371  2209  2163/ 99  L4  W7  W6  L2  L3  W9  L10 L1  D5  3.5
+  9 Thorwe, Pratik         ADUNK10D  2020  2013/ 99  L6  L2  L3  D1  W10 L8  L5  W4  W7  3.5
+ 10 Li, Shawn              SOMEJ11N  1838  1832/151  L7  L6  L2  D3  L9  L1  W8  L5  L4  1.5

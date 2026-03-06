@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Talmadge, Krishna      CTXEZ43P   100   461/  4  HPB W5  W3  W2  3.5
+  2 Sousa, Adelyn          CTXFZ37T   500   401/  4  W5  W3  W4  L1  3.0
+  3 Odierna, Luca          CTXCZ37S   200   182/  3  W4  L2  L1  BYE 2.0
+  4 Ambrogio, Joseph       CTXCZ37R   200   100/  3  L3  BYE L2  W5  2.0
+  5 Reigeluth, Stephanie AnCTXBZ53Z   162   100/ 10  L2  L1  BYE L4  1.0

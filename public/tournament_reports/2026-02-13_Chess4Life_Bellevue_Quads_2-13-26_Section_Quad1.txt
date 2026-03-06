@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Gagnier, Ian           HSCHC72H  1538  1545/282  W2  W4  W3  3.0
+  2 Zhou, Jeffrey          ICKIG20T   930  1044/ 27  L1  W3  W4  2.0
+  3 Wang, Jasper           ENDFK01P  1196  1164/ 61  W4  L2  L1  1.0
+  4 Tang, Eric             BM1IZ99C   966   929/ 40  L3  L1  L2  0.0

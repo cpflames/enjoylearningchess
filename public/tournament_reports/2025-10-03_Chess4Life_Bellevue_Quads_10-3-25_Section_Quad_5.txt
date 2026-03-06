@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ning, Pascal           SCDDJ14X   574   714/ 16  W4  W3  W2  3.0
+  2 Roshin, Ayden          HMNEG48P   560   599/ 15  W3  W4  L1  2.0
+  3 Tan, Wilson            BRBCG35N   599   562/ 35  L2  L1  W4  1.0
+  4 Purohit, Nishka        BCACG23S   578   409/  6  L1  L2  L3  0.0

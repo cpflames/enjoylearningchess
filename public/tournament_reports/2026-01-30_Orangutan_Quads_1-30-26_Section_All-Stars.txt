@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Bartram, Clark         DCTDJ47Q   674   714/ 51  L4  W4  W3  W3  W2  W2  5.0
+  2 Allyn, William         THOEJ48A   558   560/ 86  L3  W3  W4  W4  L1  L1  3.0
+  3 Johnson, Evan          CSIFH33X   547   554/ 29  W2  L2  L1  L1  W4  W4  3.0
+  4 Sheehy, Julian         BRYCJ67A   470   422/ 65  W1  L1  L2  L2  L3  L3  1.0

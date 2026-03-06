@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Voss, Jayden           WOBCH15J   515   579/ 21  W2  W4  W3  3.0
+  2 Lai, Brycen            CLHFK02D   322   379/ 73  L1  W3  W4  2.0
+  3 Dubedy, Advika         AUDFG19E   328   293/  6  W4  L2  L1  1.0
+  4 Trespalacios, James    JINCJ02N   277   206/ 13  L3  L1  L2  0.0

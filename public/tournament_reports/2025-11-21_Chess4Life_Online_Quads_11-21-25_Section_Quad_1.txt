@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ganesan, Vidur         SKWH940K  1687  1687/374  W4  W5  W2  3.0
+  2 Srivastava, Om         GTMIG59C   743   780/ 12  W6  W3  L1  2.0
+  3 Van Cleemput, Enzo     HMNEG22B   593   692/ 25  W5  L2  W4  2.0
+  4 James, Jubal           MVWIG48Q   753   720/ 15  L1  W6  L3  1.0
+  5 Nabeel, Humza          ENDCK50Y   655   632/ 27  L3  L1  W6  1.0
+  6 Ouk, Manit             KAMKF95L  1000   232/  3  L2  L4  L5  0.0

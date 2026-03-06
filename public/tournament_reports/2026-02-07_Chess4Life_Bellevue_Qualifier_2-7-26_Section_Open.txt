@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Casal, Matthias        EBSGK47A   766   985/ 47  W9  W5  D2  W6  W3  4.5
+  2 Doshi, Ishaan          ICKGJ54C   787   998/ 50  W7  W6  D1  W5  W8  4.5
+  3 Chopdar, Ayan          RCMCW73Q   732   820/ 10  W4  W8  L5  W7  L1  3.0
+  4 Sijin, Ryan            BENDG24X   769   793/ 63  L3  W7  L6  W10 W5  3.0
+  5 Bhairav, Rachit        RCSEC41S   780   779/ 64  W10 L1  W3  L2  L4  2.0
+  6 Abdukarimov, Samin     ARDBH67S   850   834/237  W8  L2  W4  L1  L9  2.0
+  7 Agarwal, Adya          ENDGG16S   762   751/ 22  L2  L4  W9  L3  W10 2.0
+  8 Koster, John           WOBCJ88T   978   902/168  L6  L3  W10 W9  L2  2.0
+  9 Zhou, Max              BCSCH51K   818   741/ 35  L1  L10 L7  L8  W6  1.0
+ 10 Voss, Jayden           WOBCH15J   754   685/ 48  L5  W9  L8  L4  L7  1.0

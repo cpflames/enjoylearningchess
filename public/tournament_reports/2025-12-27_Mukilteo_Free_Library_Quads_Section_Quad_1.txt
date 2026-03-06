@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Spear, George          CPVMH26C   627   690/ 23  D3  W2  W4  2.5
+  2 Sparacio, Cyrus        CPVMH25Z   617   638/ 25  W4  L1  W3  2.0
+  3 Greer, Viktor          MUEEH16B   528   548/ 23  D1  W4  L2  1.5
+  4 Holliday, Lincoln      MUKFH16C   568   485/ 16  L2  L3  L1  0.0

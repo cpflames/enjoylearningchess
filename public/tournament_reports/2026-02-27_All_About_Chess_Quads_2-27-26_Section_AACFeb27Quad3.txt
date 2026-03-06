@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wortman, Alexander     SOMDJ31M  1184  1253/ 52  W4  W3  D2  2.5
+  2 Dharamshi, Anay        CBREK42U  1174  1249/277  W3  W4  D1  2.5
+  3 Mohammed, Farhan       CRKFH14M  1192  1170/179  L2  L1  W4  1.0
+  4 Desai, Vivaan          BCACJ49H  1190  1123/ 90  L1  L2  L3  0.0

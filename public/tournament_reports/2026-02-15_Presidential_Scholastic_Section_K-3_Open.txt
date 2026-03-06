@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chanda, Rishabh        BCABH72X  1050  1079/140  W6  L4  W8  W9  W2  4.0
+  2 Ahsant, Nickrad        WELDJ56K  1111  1113/100  W9  W7  W4  D3  L1  3.5
+  3 Chaudhary, Dihaan      LLSDG10H  1121  1103/ 10  W12 D8  W5  D2  D4  3.5
+  4 Naroju, Kian Meher     ROKCG31K   815   953/ 39  W14 W1  L2  W6  D3  3.5
+  5 Nair, Vihaan           FRWCJ97F   726   853/ 85  W10 W12 L3  W8  L7  3.0
+  6 Zhang, Eli             BASDH69C   853   881/157  L1  W14 W7  L4  W10 3.0
+  7 Hu, Ethan              CNHCH35U   899   905/ 52  W11 L2  L6  W13 W5  3.0
+  8 Gu, Leo                SCDDK31Y   833   850/ 99  W13 D3  L1  L5  W9  2.5
+  9 Ramana, Vihaan         KKNDJ99P   739   767/107  L2  W11 W10 L1  L8  2.0
+ 10 Bangard, Dhruv         RBRDK65D   970   885/154  L5  W13 L9  W11 L6  2.0
+ 11 Sang, Andy             BASDK65W   707   690/142  L7  L9  W12 L10 W14 2.0
+ 12 Li, Ethan              THRCJ97M   760   724/ 95  L3  L5  L11 W14 W13 2.0
+ 13 Hurd, Charles          PKRDJ72C   700   625/ 72  L8  L10 BYE L7  L12 1.0
+ 14 Srinivas, Viaan J      ENSDF46L   300   295/  4  L4  L6  HPB L12 L11 0.5

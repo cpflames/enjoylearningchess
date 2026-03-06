@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Raghavendran, Vedanth  DCSCH24C  1107  1198/ 74  W4  W11 W5  W9  W3  5.0
+  2 Guo, Serena            BCSCG63G  1028  1049/ 30  W12 L3  W10 W7  W5  4.0
+  3 Sankar, Deethya R      EBSBH63X   802   968/ 47  W8  W2  L9  W6  L1  3.0
+  4 Jiang, Callie          UCDBH47C   771   837/ 96  L1  W8  L7  W12 W13 3.0
+  5 Sankar, Laya R         EBSDK11E   956   958/ 79  W15 W10 L1  W13 L2  3.0
+  6 Chanda, Rishabh        BCABH72X  1101  1058/130  L10 W14 W12 L3  W9  3.0
+  7 Sang, Andy             BASDK65W   653   742/135  L11 BYE W4  L2  W14 3.0
+  8 Bigelow, Atlas         WMEDJ61F   969   946/110  L3  L4  W14 W15 W10 3.0
+  9 Liu, Louis             CNHDJ75J   974   960/123  D14 W13 W3  L1  L6  2.5
+ 10 Glaser, Dylan          BUSCH32T   825   844/ 50  W6  L5  L2  W11 L8  2.0
+ 11 Velichko, Kristina     ASADK07V   858   815/193  W7  L1  L13 L10 W15 2.0
+ 12 Yue, Jayden            WMECG55Q   817   783/ 24  L2  W15 L6  L4  BYE 2.0
+ 13 Rao, Jaiden            JINCH62B   606   624/ 44  BYE L9  W11 L5  L4  2.0
+ 14 Zhao, Jerry            EVGBH97K   808   757/110  D9  L6  L8  BYE L7  1.5
+ 15 Yin, Leo               MEDBH31U   735   661/ 33  L5  L12 BYE L8  L11 1.0

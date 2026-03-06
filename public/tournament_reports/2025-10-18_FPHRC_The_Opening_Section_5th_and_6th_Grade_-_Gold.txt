@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Maddukuri, Shrihan Sai LLSFH54C  1003   999/ 10  W13 W6  W5  W2  D4  4.5
+  2 Subramanian, Varun     SKRGJ91Z   994   981/ 41  W4  W11 W9  L1  W5  4.0
+  3 Wood, Desmond          HSCGJ91M   136   315/ 12  BYE W14 W6  L5  W9  4.0
+  4 Marak, Israel          FMPGH53U   322   527/ 20  L2  W15 W8  W7  D1  3.5
+  5 Pipchenko, Andronicus  FMPGH53Z   542   576/ 20  W10 W8  L1  W3  L2  3.0
+  6 Marak, Gideon          FMPFG84A   440   439/ 15  W17 L1  L3  W12 W10 3.0
+  7 Fleming, Beatrice      FMPFG10M   500   444/  5  L9  W16 W11 L4  W12 3.0
+  8 Godsey, Hadassah       HSCGJ91R   355   396/ 10  W16 L5  L4  W17 W11 3.0
+  9 Kazakov, Phillip       FMPGG84D   488   463/ 15  W7  W12 L2  D10 L3  2.5
+ 10 Kazakov, Elijah        FMPGG83U   258   284/ 14  L5  BYE W13 D9  L6  2.5
+ 11 Shove, Ian             FMPFJ24X   412   384/ 25  W15 L2  L7  W14 L8  2.0
+ 12 Clayton, Oliver        FMPFH53T   170   216/ 20  W14 L9  W17 L6  L7  2.0
+ 13 Maddox, Isaiah         FMPGJ91J   341   287/ 28  L1  W17 L10 W16 L15 2.0
+ 14 Gorlachev, Isaac       FMPFK17A   504   375/ 39  L12 L3  BYE L11 W16 2.0
+ 15 Stellard, Miriam       FFSGG10L   600   157/  4  L11 L4  L16 BYE W13 2.0
+ 16 Studt, Owen            FMPGG10K   600   100/  5  L8  L7  W15 L13 L14 1.0
+ 17 Snow, Audrey           BWYGG10J   600   100/  4  L6  L13 L12 L8  BYE 1.0

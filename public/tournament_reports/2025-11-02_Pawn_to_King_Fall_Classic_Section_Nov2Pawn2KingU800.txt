@@ -1,0 +1,28 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Krishna, Vihaan        REEE263E   510   745/ 37  W26 W6  W4  W10 4.0
+  2 Verma, Satvik          WONEG80T   771   851/116  W12 W20 W9  W3  4.0
+  3 Su, Pin-ruei           RFKDH96G   724   745/ 74  W7  W14 W5  L2  3.0
+  4 Chin, Kheiron          HSCBJ19P   746   750/136  W15 W8  L1  W13 3.0
+  5 Afshar, Ryan           MEDH939D   572   621/ 18  W25 W13 L3  W12 3.0
+  6 Gupta, Aayansh         CNCGH73A   682   665/ 39  W11 L1  W15 D7  2.5
+  7 Afshar, Artin          MEDFC45R   394   493/ 23  L3  W24 W17 D6  2.5
+  8 Irava, Akshaj          CNCEI10U   434   447/ 19  W23 L4  D11 W16 2.5
+  9 Iyer, Anirudh          RSADH36Q   615   613/ 27  W21 W16 L2  HPB 2.5
+ 10 Suram, Ridhima         KKNF882V   398   538/ 48  HPB W22 W18 L1  2.5
+ 11 Lakshmanan, Vian       BABCH56N   375   408/ 45  L6  BYE D8  W22 2.5
+ 12 Suhasan, Nehaa         SFRDJ30B   412   432/ 48  L2  W25 W14 L5  2.0
+ 13 Gupta, Aadya           SFRBG02V   100   534/  4  W22 L5  W20 L4  2.0
+ 14 Porter, Dexter         MEDAG21K   341   403/  8  W27 L3  L12 W23 2.0
+ 15 Jiang, Ethan           BCABG19W   412   413/ 29  L4  W23 L6  W21 2.0
+ 16 Ghosh, Oishani         CBRCJ56E   172   187/ 87  BYE L9  W19 L8  2.0
+ 17 Dua, Anaya             SHVFG67C   500   502/ 22  U   W21 L7  W20 2.0
+ 18 Venkatesan, Nithilan   LCSFA95X   742   694/ 82  HPB W19 L10 HPB 2.0
+ 19 Qin, Yi Mo             MEDBG02U   100   143/  3  HPB L18 L16 W24 1.5
+ 20 Jain, Dhruvin          CSMEH52B   477   428/ 23  W24 L2  L13 L17 1.0
+ 21 Mehra, Atharv          MEDEG02T   400   207/  4  L9  L17 W24 L15 1.0
+ 22 Porter, Hunter         MEDAG21S   662   440/  7  L13 L10 BYE L11 1.0
+ 23 Jain, Shravin          CSMAG02S   100   100/  3  L8  L15 HPB L14 0.5
+ 24 Krishna, Venya         REEAG19J   100   100/ 12  L20 L7  L21 L19 0.0
+ 25 Muppala, Thanshika RajuRSACG02Q   200   100/  2  L5  L12 U   U   0.0
+ 26 Peesapati, Sreyas      MEDCG03D   100   100/  5  L1  U   U   U   0.0
+ 27 Anand, Krishna         LMACJ95V   677   615/ 80  L14 U   U   U   0.0

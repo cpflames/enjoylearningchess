@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Velichko, Kristina     ASADK07V   756   769/183  W3  U   1.0
+  2 Ihm, Charlie           NPRKH30M  1057  1061/ 19  U   W4  1.0
+  3 Deshpande, Sushant     CMCDG43P   502   488/ 43  L1  U   0.0
+  4 Bharath, Chinmayi      MCEEF87Z   606   601/ 12  U   L2  0.0

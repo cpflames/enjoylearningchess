@@ -1,0 +1,33 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Glaser, Liam           PCLGG34P  1294  1321/ 43  W28 W17 W3  W2  W5  5.0
+  2 Lemay, Wilder          BHNHG85K   782   849/ 15  W14 W18 W12 L1  W9  4.0
+  3 Melone, Gade           PLBIF57A   800  1029/  5  W10 W26 L1  W19 W8  4.0
+  4 Heidel, Coleden        KNSHG85L   862   890/ 15  W32 D5  D6  W16 W11 4.0
+  5 Vieux, Levi            STAIF56Z   800  1009/  5  W8  D4  W13 W11 L1  3.5
+  6 Haney, Elise           BHNIJ39E   856   826/ 15  W23 L13 D4  W21 W17 3.5
+  7 Davis, Kingsley        QLTHF89Z   447   478/ 10  L20 W29 D21 W27 W10 3.5
+  8 Jackson, Urijah        QLTIG85R   749   760/ 15  L5  W14 W18 W13 L3  3.0
+  9 Jackson, Dominique     QLTGF90D   553   591/ 10  W24 L16 W20 W12 L2  3.0
+ 10 Moser, Alan            BHNIG29N   406   489/ 10  L3  W30 W22 W15 L7  3.0
+ 11 Wheeler-black, Kailani QLTHF90A   635   668/ 10  W29 W20 W16 L5  L4  3.0
+ 12 Mckenzie, Levi         KNSGF56Y   600   656/  5  W22 W19 L2  L9  W23 3.0
+ 13 Mcmahon, Tristan       KNSHG84L   129   360/ 10  W31 W6  L5  L8  W27 3.0
+ 14 Del Valle, David       PLBIF56X   800   630/  5  L2  L8  W31 W22 W19 3.0
+ 15 Pinnell, Ryan          QLTIF89D   293   392/ 10  L16 W24 W26 L10 W25 3.0
+ 16 Harper, Noah           FVMGF56W   600   606/  5  W15 W9  L11 L4  D18 2.5
+ 17 Willman, Rowan         KNSHG34F   357   451/ 10  W21 L1  D27 W26 L6  2.5
+ 18 Cummings, Samuel       KNSHG84T   272   387/ 10  W27 L2  L8  W24 D16 2.5
+ 19 Lovejoy, Oliver        BHNHG85B   477   494/ 10  W25 L12 W23 L3  L14 2.0
+ 20 Rosenberger, Josiah    BHNHF56V   700   430/  5  W7  L11 L9  L23 W30 2.0
+ 21 Myers, Samuel          FVMIF56T   800   428/  5  L17 W28 D7  L6  D26 2.0
+ 22 Swan, Layla            QLTHH45T   354   361/ 20  L12 W25 L10 L14 W28 2.0
+ 23 Jenkins-longoria, GabriRTPHF56R   700   434/  5  L6  W31 L19 W20 L12 2.0
+ 24 Tangwall, Michael      BHNGF56P   600   300/  5  L9  L15 W30 L18 W29 2.0
+ 25 Sandvik, Danny         PLBGF56N   600   260/  5  L19 L22 W32 W28 L15 2.0
+ 26 O'keefe, Lily          BHNIG85F   571   452/ 10  W30 L3  L15 L17 D21 1.5
+ 27 Garcia, Joey           BHNGF56M   600   228/  5  L18 W32 D17 L7  L13 1.5
+ 28 Heiner, Ben            BHNHF56L   700   144/  5  L1  L21 W29 L25 L22 1.0
+ 29 Fitch, William         WSAHF56K   700   100/  5  L11 L7  L28 W32 L24 1.0
+ 30 Thomason, Makinlee     QLTGF56J   600   123/  5  L26 L10 L24 W31 L20 1.0
+ 31 Colfax, Shannon        QLTGF56H   600   109/  5  L13 L23 L14 L30 W32 1.0
+ 32 Gaddie, Nehemiah       QLTHF56E   700   100/  5  L4  L27 L25 L29 L31 0.0

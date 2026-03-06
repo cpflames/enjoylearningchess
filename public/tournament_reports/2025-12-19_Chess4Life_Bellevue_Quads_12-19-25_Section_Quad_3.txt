@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mohan, Sonit           TMCHG19P   930  1026/ 22  W4  W3  W2  3.0
+  2 Paine, Clara           OVLGK01Z   921   936/114  W3  W4  L1  2.0
+  3 Tripathi, Naksh        BRHEJ98P   820   810/143  L2  L1  W4  1.0
+  4 Abdukarimov, Samin     ARDBH67S   816   752/203  L1  L2  L3  0.0

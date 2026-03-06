@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Krogstad, Jaxon        NCSEJ88M  1073  1201/203  W9  W5  W2  W3  W4  5.0
+  2 Nandakiran, Vidyuth    INGG617C   920  1045/240  W4  W3  L1  W5  W6  4.0
+  3 Bhandari, Aarav        CBRFJ06H  1222  1168/194  W8  L2  W6  L1  W7  3.0
+  4 Balaji, Vaibhav        SSMDH28Z   523   637/107  L2  W10 W8  W6  L1  3.0
+  5 Balaji, Pranav         INGIJ96J  1069  1031/132  W10 L1  W7  L2  W9  3.0
+  6 Treves, Simon          NOWFK28A   613   614/ 39  W7  W8  L3  L4  L2  2.0
+  7 Penta, Ved             SHSCJ06E   307   406/ 16  L6  W9  L5  W10 L3  2.0
+  8 Penta, Abhi            SHSFH75F   536   494/ 13  L3  L6  L4  W9  D10 1.5
+  9 Nandakiran, Advaith    SSMDJ88H   495   445/203  L1  L7  W10 L8  L5  1.0
+ 10 Joye, Quentin          SUBIG24Y   419   355/ 34  L5  L4  L9  L7  D8  0.5

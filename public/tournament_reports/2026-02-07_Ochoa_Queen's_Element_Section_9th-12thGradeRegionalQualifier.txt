@@ -1,0 +1,65 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Repalle, Vibhav        HHSLK31L  1373  1411/125  W37 W21 W17 W16 W27 5.0
+  2 Cress, Emmett          CWHJH54B  1395  1441/124  W36 W25 W10 W5  D3  4.5
+  3 Deng, Lily             HHSM5007  1672  1667/411  W39 W56 W6  W4  D2  4.5
+  4 Mendoza, Oscar         CWHMI229  1226  1255/347  W50 W26 W9  L3  W15 4.0
+  5 Gorecke, Cj            HHSKG87W  1277  1293/ 45  W41 W24 W12 L2  W17 4.0
+  6 Ybarra, Caleb          SODKK96F  1157  1204/101  W34 W22 L3  W21 W18 4.0
+  7 Rahman, Zayd           HHSLF83W  1377  1365/162  W48 W18 W20 W19 L8  4.0
+  8 Dillingham, Daniel     KCCJB73M  1243  1252/312  W43 L15 W36 W24 W7  4.0
+  9 Bagunu, Joaquin        HHSJD85K   941  1086/123  W55 W16 L4  W20 W31 4.0
+ 10 Cabasug, Gabriel       HHSLE46S  1124  1142/ 62  W45 W57 L2  W23 W19 4.0
+ 11 Williams, Wyatt        SODKH13N  1182  1164/ 30  W47 W14 L15 W30 D12 3.5
+ 12 Nguyen, Tyler          SVHJ715J  1023  1054/ 96  W33 W53 L5  W15 D11 3.5
+ 13 Geelhood, Alec         TCPKI90A  1176  1140/161  L40 W52 W37 W25 D14 3.5
+ 14 Johnson, Eli           KCCJJ24B   954   983/ 63  W63 L11 W52 W28 D13 3.5
+ 15 Yuan, Emma             HHSMI01S   999  1058/138  W59 W8  W11 L12 L4  3.0
+ 16 Nolan, Brendan         TCPM476K  1255  1222/ 69  W44 L9  W39 L1  W32 3.0
+ 17 Barnett, Eli           HSCKJ81S  1086  1091/ 73  W60 W38 L1  W22 L5  3.0
+ 18 Gimenez, Jonathan      TCPKG87X   995  1075/  9  W32 L7  W53 W29 L6  3.0
+ 19 Medrano, Axel          CWHLB48G   720   877/ 72  BYE W28 W29 L7  L10 3.0
+ 20 Guizar, Kevin          CWHMI02P  1121  1097/166  W49 W40 L7  L9  W36 3.0
+ 21 Alaniz, Samuel         GJSKF98M   975   983/ 15  W42 L1  W55 L6  W43 3.0
+ 22 Hertelendy, Chris      LIBK832Z   812   917/ 81  W23 L6  W38 L17 W42 3.0
+ 23 Sandoval, Fernando     CWHMF54E  1200   955/  5  L22 W46 W26 L10 W39 3.0
+ 24 Paw Myint, John Sein   CWHLJ81W   986   983/ 54  W61 L5  W45 L8  W40 3.0
+ 25 Bagunu, Franco         HHSJE22R   990   984/123  W51 L2  W58 L13 W44 3.0
+ 26 Han, Austin            TCPKD919   896   898/115  W35 L4  L23 W53 W38 3.0
+ 27 Hall, Preston          CWHL6381  1086  1044/155  L52 W49 W47 W42 L1  3.0
+ 28 Bruce, Hunter          SVHKF84W  1127  1000/ 10  W46 L19 W43 L14 W41 3.0
+ 29 Dodson, Tyson          KCCJ234D  1172  1117/120  W58 W31 L19 L18 W37 3.0
+ 30 Canfield, Jedidiah     KCCJG12L   931   899/ 20  L38 W60 W59 L11 W46 3.0
+ 31 Gogic, Arian           CWHJK96A   845   851/114  W64 L29 D32 W40 L9  2.5
+ 32 Boboev, Muhsin         SVHLF54D  1100   952/  5  L18 W41 D31 W56 L16 2.5
+ 33 Gonzalez, Liliana      GJSMG12C   360   468/ 25  L12 L39 W54 W50 D47 2.5
+ 34 Gorecke, Neal          HHSLG71C   522   591/ 19  L6  D35 L48 W62 W56 2.5
+ 35 Rivera, Josue          SVHJF54C   900   618/  5  L26 D34 L41 W61 W52 2.5
+ 36 Dang, Julian           HHSKH05K   758   762/ 40  L2  W62 L8  W45 L20 2.0
+ 37 Guerrero, Eric         GJSKF84T   727   737/ 15  L1  W51 L13 W60 L29 2.0
+ 38 Luna, Ethan            SVHKF54B  1000   811/  5  W30 L17 L22 W48 L26 2.0
+ 39 Wick, Trevor           WVAKG87U   780   778/ 16  L3  W33 L16 W58 L23 2.0
+ 40 Munoz, Miguel          SVHKJ81H   548   695/ 54  W13 L20 W56 L31 L24 2.0
+ 41 Antunez, Aristeo       GJSMG12P   725   729/ 20  L5  L32 W35 W59 L28 2.0
+ 42 Herrera, Roman         WVAJF54A   900   777/  5  L21 W44 W57 L27 L22 2.0
+ 43 Plo Eh, John           CWHKF98K   615   642/  9  L8  W61 L28 W55 L21 2.0
+ 44 Mendoza, Fernando      CWHLH43P   618   634/ 34  L16 L42 W51 W49 L25 2.0
+ 45 Duarte, Carlos         OHAJK52U   451   479/105  L10 W54 L24 L36 W55 2.0
+ 46 Evans, Daymein         PASK267E   493   553/ 63  L28 L23 W61 W57 L30 2.0
+ 47 Hullet, Joshua         WVALG87R   548   540/ 16  L11 W63 L27 D52 D33 2.0
+ 48 Perez, Nathan          GJSKF69B   730   648/  9  L7  L59 W34 L38 W60 2.0
+ 49 Gutierrez, Diego       GJSKG12H   406   462/ 24  L20 L27 W64 L44 W57 2.0
+ 50 Lemon, Bryce           KCCJF01G   549   483/ 62  L4  L55 W62 L33 WF  2.0
+ 51 Coronado, Savyon       WVAMF53Z  1200   509/  5  L25 L37 L44 W64 W58 2.0
+ 52 Medina, Sabastian      GJSMF98E   402   477/ 15  W27 L13 L14 D47 L35 1.5
+ 53 Esquivias, Christian   CWHM698U   507   478/ 63  BYE L12 L18 L26 D54 1.5
+ 54 Stonecipher, Blade     WVAJF53Y   900   308/  5  L57 L45 L33 W63 D53 1.5
+ 55 Lim, Chaeyi            WVAJF53W   900   442/  5  L9  W50 L21 L43 L45 1.0
+ 56 Moe, Steven            PASJH29P   996   885/ 80  W62 L3  L40 L32 L34 1.0
+ 57 Wampole, Caleb         CWHL133K   801   685/143  W54 L10 L42 L46 L49 1.0
+ 58 Dresser, Joshua        TCPKG39U   545   489/ 13  L29 W64 L25 L39 L51 1.0
+ 59 Kulp, Harley           SVHKH13H   350   411/ 23  L15 W48 L30 L41 LF  1.0
+ 60 Dedmond, Charles       CWHMJ81L   425   406/ 33  L17 L30 W63 L37 L48 1.0
+ 61 Greenwalt, Brody       WVAJF53V   900   314/  5  L24 L43 L46 L35 W64 1.0
+ 62 Senda, Libni           CWHJJ81R   293   279/ 57  L56 L36 L50 L34 W63 1.0
+ 63 Arellano, Elian        HHSMF53U  1200   100/  5  L14 L47 L60 L54 L62 0.0
+ 64 Skalisky, Addyson      SVHJF53T   900   100/  5  L31 L58 L49 L51 L61 0.0

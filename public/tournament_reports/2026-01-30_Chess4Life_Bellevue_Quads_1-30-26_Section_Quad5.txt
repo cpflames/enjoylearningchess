@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Elshennawy, Yaseen     ABAEG01D   702   797/  9  W4  W3  W2  3.0
+  2 Xu, Jacky Y            SOMDJ59K   700   714/195  W3  W4  L1  2.0
+  3 Lai, Brycen            CLHFK02D   645   617/ 99  L2  L1  W4  1.0
+  4 Ding, Aaron            BRHBF65T   633   446/  5  L1  L2  L3  0.0

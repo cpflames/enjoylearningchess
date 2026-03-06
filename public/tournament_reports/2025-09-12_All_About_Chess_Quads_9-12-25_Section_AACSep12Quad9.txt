@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ginotra, Sohum         GRRDG19C   300   756/  3  W4  W3  W2  3.0
+  2 Tanielian, Desmond     WOBFG19S   100   279/  4  BYE W4  L1  2.0
+  3 Etienne, Yann          CDVCG21M   363   386/  6  W5  L1  BYE 2.0
+  4 Joye, Quentin          SUBIG24Y   284   260/ 18  L1  L2  W5  1.0
+  5 Tanielian, Theo        WOBBG19Q   100   100/  4  L3  BYE L4  1.0

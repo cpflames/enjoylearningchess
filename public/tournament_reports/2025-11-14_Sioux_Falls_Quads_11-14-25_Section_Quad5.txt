@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Welch, Gideon          HSSCH75H   604   598/ 40  W3  W4  L2  2.0
+  2 Linn, Atticus          SDSDZ80S   464   515/ 51  W4  L3  W1  2.0
+  3 Fjeldheim, Caden       SDYHZ99L   372   480/ 24  L1  W2  W4  2.0
+  4 Bergan, Eric           SFZEZ96R   461   378/104  L2  L1  L3  0.0

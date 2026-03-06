@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Swain, Samarth         MMEDJ58S  1210  1276/408  W3  W4  D2  2.5
+  2 Komin, Michael         SOMFG01Y  1199  1204/ 21  W4  L3  D1  1.5
+  3 Mohammed, Farhan       CRKFH14M  1217  1195/163  L1  W2  L4  1.0
+  4 Bhandari, Aarav        CBRFJ06H  1229  1204/213  L2  L1  W3  1.0

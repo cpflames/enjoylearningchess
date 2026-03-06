@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bhansali, Inaya        BCACH79H   251   371/ 27  D4  W2  W3  2.5
+  2 Agarwal, Adya          ENDGG16S   352   373/  6  W3  L1  W4  2.0
+  3 Deshmukh, Maithili     SHSBG71H   226   215/ 20  L2  W4  L1  1.0
+  4 Madadi, Hannah         CGRDH65Y   253   199/ 60  D1  L3  L2  0.5

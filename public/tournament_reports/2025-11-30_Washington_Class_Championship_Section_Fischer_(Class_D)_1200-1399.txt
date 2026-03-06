@@ -1,0 +1,30 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Foltenyi, Vilmos       ADUNK09V  1366  1497/ 54  W27 D5  W28 W11 W2  W4  5.5
+  2 Ren, Easton            CMCCH68Z  1359  1467/140  W20 W3  W12 W4  L1  W10 5.0
+  3 Keane, Brendan         LIHKK04V  1289  1408/ 47  W11 L2  W22 W7  W13 D5  4.5
+  4 Qin, Skyler            OPWCJ97T  1367  1410/207  W21 W14 W13 L2  W6  L1  4.0
+  5 Wiese, Andrew          ADUNG17A  1300  1395/ 11  W7  D1  D14 W17 D10 D3  4.0
+  6 Meenakshi Sundaram, AdhHEAHK00E  1343  1367/ 66  W26 W22 L11 W12 L4  W14 4.0
+  7 Kulkarni, Samik        KKNCH67M  1316  1339/125  L5  BYE W24 L3  W15 W23 4.0
+  8 Han, Kaiyi             SOMDK42P  1144  1270/169  L13 W29 D21 W27 D14 W11 4.0
+  9 Nguyen, Viet           TMBI508J  1273  1266/194  L12 L25 BYE W29 BYE W13 4.0
+ 10 Clausen, Will Stryker  ADUNF83Z  1137  1222/  4  W29 W24 HPB HPB D5  L2  3.5
+ 11 Lai, Ryan              SHSCH70N  1356  1351/162  L3  W19 W6  L1  W25 L8  3.0
+ 12 Wadhwani, Ren          DCCFK13K  1330  1326/110  W9  W17 L2  L6  D16 D18 3.0
+ 13 Nawagamudewage, Inura  KAMJJ11V  1359  1343/ 70  W8  W16 L4  W25 L3  L9  3.0
+ 14 Qin, Shenghao          ADUNH86P  1328  1331/ 21  W23 L4  D5  W21 D8  L6  3.0
+ 15 Lin, Ethan             TYEHJ71H  1336  1305/112  L22 W20 L17 W26 L7  W25 3.0
+ 16 Zou, Jinhan            LMSFH14T  1218  1236/201  W18 L13 D27 D28 D12 D19 3.0
+ 17 Yeh, George            CSIDH64S  1256  1267/ 62  W25 L12 W15 L5  HPB D22 3.0
+ 18 Haining, Breck         ADUNK09G  1324  1303/ 22  L16 L21 D23 W24 W27 D12 3.0
+ 19 Swain, Samarth         MMEDJ58S  1272  1247/402  BYE L11 L20 D22 W21 D16 3.0
+ 20 Wu, Jayden             UCDE495Q  1158  1191/182  L2  L15 W19 HPB W26 HPB 3.0
+ 21 Pande, Aryan           DCSC493M  1293  1275/105  L4  W18 D8  L14 L19 W28 2.5
+ 22 Liu, Bihe              KKNDB78J  1251  1249/185  W15 L6  L3  D19 HPB D17 2.5
+ 23 Zhang, Patrick         CDIDK01J  1382  1314/406  L14 L27 D18 BYE W28 L7  2.5
+ 24 Rao, Jimmy             RCRDZ31U  1294  1222/ 10  HPB L10 L7  L18 W29 W27 2.5
+ 25 Deng, Arthur           OPWEC90Y  1267  1230/195  L17 W9  W26 L13 L11 L15 2.0
+ 26 Huang, Edwin           OMSI616M  1203  1147/126  L6  BYE L25 L15 L20 W29 2.0
+ 27 Fobian, Christian      ADUNJ00H  1224  1192/ 36  L1  W23 D16 L8  L18 L24 1.5
+ 28 Delacroix, Styles      HSCIG93F  1288  1231/ 29  HPB HPB L1  D16 L23 L21 1.5
+ 29 Gui, Joyce             OPWDH92C  1184  1089/202  L10 L8  BYE L9  L24 L26 1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yadav, Divyansh        TBKDG75M   799   936/ 72  W3  W4  W2  3.0
+  2 Tripathi, Naksh        BRHEJ98P   807   809/150  W4  D3  L1  1.5
+  3 Sinha, Pratyaksh       REEFJ69N   797   802/ 30  L1  D2  W4  1.5
+  4 Elshennawy, Yaseen     ABAEG01D   797   712/ 12  L2  L1  L3  0.0

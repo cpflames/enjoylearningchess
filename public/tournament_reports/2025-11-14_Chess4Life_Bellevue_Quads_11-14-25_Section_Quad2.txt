@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Verma, Reyansh         SKIGJ20M  1201  1247/109  W3  W4  D2  2.5
+  2 Chevuri, Tattva        REJIC06V  1282  1256/460  L4  W3  D1  1.5
+  3 Yang, Michael          SOMHK00G  1110  1101/137  L1  L2  W4  1.0
+  4 Almuayyad, Omar        RHJIJ59J  1068  1070/ 81  W2  L1  L3  1.0

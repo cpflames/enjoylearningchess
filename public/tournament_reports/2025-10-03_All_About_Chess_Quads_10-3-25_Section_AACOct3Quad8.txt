@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Chuxuan         GRRHK02N   549   599/ 50  W5  W2  D3  2.5
+  2 Balaji, Vaibhav        SSMDH28Z   352   383/ 97  W6  L1  WF  2.0
+  3 Nelson, Harvey         CMCGG67L   557   538/ 59  D4  D6  D1  1.5
+  4 Joye, Quentin          SUBIG24Y   434   441/ 24  D3  L5  W6  1.5
+  5 Etienne, Yann          CDVCG21M   386   420/  8  L1  W4  LF  1.0
+  6 Chen, Luna             RSACG32W   502   422/ 40  L2  D3  L4  0.5

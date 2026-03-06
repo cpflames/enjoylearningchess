@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Wilber, Matthew        ADUNH64P  2247  2248/ 26  W2  W2  W3  W3  4.0
+  2 Sankrithi, Vivaan      HSCCK61R  1471  1497/190  L1  L1  W4  W4  2.0
+  3 Sankrithi, Sarang      HSCHB11D  1602  1597/359  W4  D4  L1  L1  1.5
+  4 Sankrithi, Siva        ADUNI948  1389  1362/140  L3  D3  L2  L2  0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Rao, Deepak Sri KartikeINTJ517J  1472  1487/246  W4  W3  W2  3.0
+  2 Raman, Arjun           ETSDH96Y  1047  1134/ 38  W3  W4  L1  2.0
+  3 Jang, Jinwon           VIEI561P  1194  1172/198  L2  L1  W4  1.0
+  4 Daniel, Lemuel         MMEEJ29L  1083  1036/109  L1  L2  L3  0.0

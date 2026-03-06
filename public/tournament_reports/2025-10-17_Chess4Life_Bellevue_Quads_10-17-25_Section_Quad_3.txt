@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lee, Owain             LLFFG59B   864   891/ 44  W2  WF  D3  2.5
+  2 Gokul, Shravan         EVJIJ89U   842   846/ 85  L1  W3  WF  2.0
+  3 Naik, Shreyas          MTWGJ98X   864   833/145  WF  L2  D1  1.5

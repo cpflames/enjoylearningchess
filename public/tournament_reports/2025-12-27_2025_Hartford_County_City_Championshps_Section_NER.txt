@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Jeyadurai Sujakum, RashCTXEZ30M   400  1300/  4  W4  W2  W5  W3  4.0
+  2 Tetreault, Brian       CTXNZ30L  1300   798/  3  W3  L1  W4  BYE 3.0
+  3 Falk, Zoe              NCXNZ30K   471   474/  3  L2  W5  BYE L1  2.0
+  4 Falk, Abbie            CTXNZ30J   439   445/  3  L1  BYE L2  W5  2.0
+  5 Karthik, Abhinav       CTXDZ30H   300   100/  3  BYE L3  L1  L4  1.0

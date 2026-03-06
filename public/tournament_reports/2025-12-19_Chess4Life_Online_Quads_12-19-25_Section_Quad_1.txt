@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Shinkarev, Slava       KAMLJ77F  1586  1607/ 78  W3  W4  W2  3.0
+  2 He, Oliver             ENDFK71V  1562  1550/461  W4  W3  L1  2.0
+  3 Bui, Edwin             GTMGK90H  1081  1101/196  L1  L2  W4  1.0
+  4 Armitage-selig, PhoenixSUZCJ31Z  1103  1070/ 98  L2  L1  L3  0.0

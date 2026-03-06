@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Ren, Eric              CTXIZ53M  1794  1816/ 20  W5  W2  W3  D4  3.5
+  2 Singh, Ayush           CTXMX04W  1650  1673/128  W7  L1  W4  W5  3.0
+  3 Ghosh, Arush           CTXJX00W  1711  1706/147  W6  D4  L1  W8  2.5
+  4 Katta, Thanveen Te     NYXNZ39M  1655  1653/ 12  W8  D3  L2  D1  2.0
+  5 Lott, Zachariah        NMXNZ314  1554  1553/  4  L1  W7  W6  L2  2.0
+  6 Diaz, David J          CTXNZ30Z  1300  1452/  4  L3  W8  L5  W7  2.0
+  7 Hu, Evan               NYXEX11Y  1264  1245/116  L2  L5  D8  L6  0.5
+  8 Alperin, Yan           MAXNZ33H  1393  1306/  8  L4  L6  D7  L3  0.5

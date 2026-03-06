@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Dylan           CGRBG32C   361   378/ 25  W4  L2  W3  2.0
+  2 Shukla, Stavya         BCACG27W   298   347/ 15  L3  W1  W4  2.0
+  3 Vepakomma, Athreya     HSCDH28G   358   290/  7  W2  L4  L1  1.0
+  4 Dubey, Darsh           GRREH62W   278   255/  9  L1  W3  L2  1.0

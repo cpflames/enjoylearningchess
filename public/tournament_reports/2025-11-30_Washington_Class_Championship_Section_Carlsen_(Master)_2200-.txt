@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Belous, Vladimir       ADUNF84F  2581  2600/  6  W14 W13 W5  W7  W10 W3  6.0
+  2 Karthikeyan, HarishkumaREDKJ81A  2087  2157/256  W15 D3  W22 HPB W9  WF  5.0
+  3 Porter, Ryan W         ADUNF05C  2279  2290/ 96  W22 D2  W21 HPB W15 L1  4.0
+  4 Wang, Ted              OVLGK13D  2273  2268/345  L8  W20 D7  D5  W18 W13 4.0
+  5 Saddi, Neevan Reddy    PFCGH87M  2007  2040/324  BYE W9  L1  D4  D6  D12 3.5
+  6 Kuipers, Miles         TSTN6766  2030  2057/613  L9  W18 D12 W11 D5  D7  3.5
+  7 Willy, Stephen         HSCKH17K  2318  2316/621  W19 W16 D4  L1  HPB D6  3.5
+  8 Lim, Hayul             JSUJQ94C  2049  2075/103  W4  W14 L10 L15 D16 W20 3.5
+  9 Kona, Vidip            TMBHI26J  2236  2228/435  W6  L5  W16 HPB L2  W17 3.5
+ 10 Degenbaev, Aziz        ADUNJ12D  2404  2407/ 64  W18 W12 W8  HPB L1  LF  3.5
+ 11 Razmov, Gabriel        LSSKC26K  2011  2028/412  L12 BYE D13 L6  W20 W16 3.5
+ 12 Pupols, Viktors        ADUN8503  2200  2188/132  W11 L10 D6  L16 W19 D5  3.0
+ 13 Liu, Austin            SKNL530J  2219  2212/394  W20 L1  D11 HPB W17 L4  3.0
+ 14 Yao, Lucas             BCXGZ75S  1742  1827/ 22  L1  L8  D17 HPB W21 W19 3.0
+ 15 Yanayt, Eugene         MISNZ31K  2274  2263/  4  L2  W21 BYE W8  L3  U   3.0
+ 16 Gottumukkala, Ananth   ADUNG432  2195  2178/393  W17 L7  L9  W12 D8  L11 2.5
+ 17 Bimod, Karthik         WVWJW89E  2016  2002/150  L16 D19 D14 W20 L13 L9  2.0
+ 18 Yin, Aiden             BCXGZ75U  1942  1961/ 40  L10 L6  W19 W21 L4  U   2.0
+ 19 Xu, Owen               TYEG896M  2049  2005/216  L7  D17 L18 BYE L12 L14 1.5
+ 20 Yin, Andrew            BCXGZ75T  2003  1961/ 45  L13 L4  BYE L17 L11 L8  1.0
+ 21 Mukumbya, Benjamin     ADUNJ22Q  2134  2089/ 65  BYE L15 L3  L18 L14 U   1.0
+ 22 Min, Ryan              INTL5430  2131  2115/465  L3  BYE L2  U   U   U   1.0

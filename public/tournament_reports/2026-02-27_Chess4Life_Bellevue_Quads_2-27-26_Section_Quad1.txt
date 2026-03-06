@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Gagnier, Ian           HSCHC72H  1545  1563/284  WF  W2  W3  3.0
+  2 Deshpande, Keshav      CHOI420G  1328  1341/149  W3  L1  WF  2.0
+  3 Sabarish, Ananya       BASFG02Z  1341  1306/227  L2  WF  L1  1.0

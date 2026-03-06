@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wynstra, Daniel        SDEIZ94M  1505  1614/142  W4  W2  W3  3.0
+  2 Welch, James           HSSKF53F  1585  1581/282  W3  L1  D4  1.5
+  3 Yusuf, Farzaan         BVIHZ84D  1536  1524/ 72  L2  W4  L1  1.0
+  4 Wilber, Christopher    SDWKZ20V  1593  1552/182  L1  L3  D2  0.5

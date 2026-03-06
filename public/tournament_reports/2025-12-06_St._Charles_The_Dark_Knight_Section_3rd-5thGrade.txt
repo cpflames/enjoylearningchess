@@ -1,0 +1,32 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Johnson, Lars          HSCEG74D   863   964/ 53  W15 W3  W12 W4  W2  5.0
+  2 Velichko, Kristina     ASADK07V   745   803/179  W20 W16 W8  W5  L1  4.0
+  3 Brar, Angad            PIOFJ52A   566   689/ 80  W22 L1  W18 W9  W10 4.0
+  4 Beltran, Nicolo        STCFH47Q   393   607/ 20  W27 W10 W14 L1  W8  4.0
+  5 Johnson, Elke          HSCDG73L   752   776/ 53  W18 W23 W9  L2  W11 4.0
+  6 Tran, Adam             PTDDG73Q   360   452/ 20  W19 L8  W26 D7  W17 3.5
+  7 Chen, Max Sheng        CPRFG74G   614   577/ 20  L28 W17 W20 D6  W14 3.5
+  8 Yi, Woochan            BRHEG23J   663   645/ 20  W21 W6  L2  W13 L4  3.0
+  9 Siek, Peter            HMOFK62A   795   748/ 48  W25 W11 L5  L3  W20 3.0
+ 10 Sidharth, Aaryan       ISEEF93G   670   596/  9  W29 L4  W15 W16 L3  3.0
+ 11 Alverio, Zachary       STCDJ18L   518   545/ 30  W24 L9  W28 W12 L5  3.0
+ 12 Carns, Qenam           GRICH57E   719   675/ 28  BYE W13 L1  L11 W25 3.0
+ 13 Faber, Drishti         GRIDF97N   417   420/ 10  W26 L12 W29 L8  W21 3.0
+ 14 Zandnia, Cyrus         CWADH98L   405   392/ 10  D17 W28 L4  W21 L7  2.5
+ 15 Colon, Gia             STCEJ18K   215   245/ 40  L1  W31 L10 D19 W27 2.5
+ 16 Miller, Oliver         BKYEH34L   509   471/ 20  W31 L2  W22 L10 D18 2.5
+ 17 Tullis, James          STCFJ18X   337   351/ 15  D14 L7  W31 W23 L6  2.5
+ 18 Alverio, Sophia        STCFJ18W   203   309/ 10  L5  W30 L3  W29 D16 2.5
+ 19 Hoag, Calvin           BKYEF83L   400   235/  5  L6  L21 W30 D15 W26 2.5
+ 20 Martinez, Asher        DRMFJ18Y   207   254/ 29  L2  W27 L7  W22 L9  2.0
+ 21 Kunz, Ava              STCEJ18J   100   204/ 33  L8  W19 W23 L14 L13 2.0
+ 22 Castillo, Nicolas      STCFH47N   100   169/  9  L3  W24 L16 L20 W30 2.0
+ 23 Adachi, Ichiro         CWADK52L   440   365/ 39  W30 L5  L21 L17 W29 2.0
+ 24 Chen, Tomiko Li        CPREF83K   400   119/  5  L11 L22 D27 D26 W28 2.0
+ 25 Van Dyke, Wesley       CPRDG73K   208   180/ 14  L9  L29 BYE W28 L12 2.0
+ 26 Santosus, Nolen        STCFJ18R   100   100/ 14  L13 BYE L6  D24 L19 1.5
+ 27 Narvas, Maxton         STCEF83J   400   100/  5  L4  L20 D24 W31 L15 1.5
+ 28 Rehberger, Grace       STCDJ17S   100   100/ 23  W7  L14 L11 L25 L24 1.0
+ 29 Siek, Emily            HMODJ17W   100   100/ 31  L10 W25 L13 L18 L23 1.0
+ 30 Mcdaniel, Deaglan      STCDF83G   300   100/  4  L23 L18 L19 BYE L22 1.0
+ 31 Lim, Ethan             STCDF83F   300   100/  4  L16 L15 L17 L27 BYE 1.0

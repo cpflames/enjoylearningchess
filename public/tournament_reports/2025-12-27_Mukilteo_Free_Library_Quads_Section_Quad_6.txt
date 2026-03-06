@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Maniego, Dean          PPECF75U   200   500/  3  W4  W2  D3  2.5
+  2 Kim, Alex              CESCF75T   200   400/  3  W3  L1  W4  2.0
+  3 Siri, Rishi            MUKCF75S   200   300/  3  L2  W4  D1  1.5
+  4 Moore, Keegan          MUKBF75R   100   100/  3  L1  L3  L2  0.0
+
+ All Unrated-player Section: Ratings capped at 1000

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chung, Warren          TSTJG48Z  1371  1354/ 41  W4  W3  L2  2.0
+  2 Raman, Arjun           ETSDH96Y  1073  1145/ 52  L3  W4  W1  2.0
+  3 Jang, Jinwon           EMSI561P  1250  1212/219  W2  L1  L4  1.0
+  4 Heydarov, Rasul        BLWHH95F  1004  1023/ 63  L1  L2  W3  1.0

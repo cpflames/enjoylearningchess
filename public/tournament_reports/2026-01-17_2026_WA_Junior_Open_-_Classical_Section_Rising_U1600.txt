@@ -1,0 +1,52 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Zhen Rampenthal, Quinn SASJH53C  1244  1457/162  W48 W24 W5  W4  4.0
+  2 Wang, Harvey           OPWDJ68G  1375  1437/218  D6  W35 W36 W15 3.5
+  3 Ogier, Alix            SAMMC70T  1541  1551/ 33  D23 W33 W22 W12 3.5
+  4 Nerella, Abhiram       INTKI18R  1546  1546/ 63  W39 W17 W7  L1  3.0
+  5 Sriram, Aahan          OVLGC03K  1461  1472/122  W25 W27 L1  W28 3.0
+  6 Byelashova, Darya      SGHFK51X  1237  1343/259  D2  W38 D8  W24 3.0
+  7 Patnaik, Rishabhdeva   PLKHG72D  1377  1408/253  W16 W30 L4  W22 3.0
+  8 Lagzdin, Mikhail       HMNDJ96R  1346  1375/115  W31 D13 D6  W25 3.0
+  9 Ma, Ziliang            DCCIA69N  1482  1479/241  D37 D23 W42 W11 3.0
+ 10 Guo, Loida             KSHDG25U  1427  1428/ 38  W44 L22 W43 W26 3.0
+ 11 Deng, Arthur           OPWEC90Y  1309  1336/204  W20 W45 D15 L9  2.5
+ 12 Ren, Easton            CMCCH68Z  1441  1438/152  D35 W37 W13 L3  2.5
+ 13 Chaudhuri, Arihant     CHAG703E  1275  1290/335  W40 D8  L12 W36 2.5
+ 14 Blodgett, Brayden      TLMIG09E  1385  1375/ 29  L22 W31 D16 W29 2.5
+ 15 Lai, Ryan              SHSCH70N  1458  1445/186  W42 W43 D11 L2  2.5
+ 16 Xu, Yang               EVGG649B  1219  1291/235  L7  W47 D14 W38 2.5
+ 17 Han, Felix             MEDCJ41U  1263  1269/ 72  W46 L4  D32 W40 2.5
+ 18 Verma, Reyansh         SKIGJ20M  1334  1325/122  D49 L21 W35 W37 2.5
+ 19 Razmov, Siana          HSCDK93Y   984  1133/218  D38 D48 D23 W39 2.5
+ 20 Sridhar, Riya          GTMHG37Y  1116  1200/119  L11 W50 W27 HPB 2.5
+ 21 Wu, Jonathan           UCDEK14H  1162  1210/146  D28 W18 HPB HPB 2.5
+ 22 Glaser, Liam           PCLGG34P  1225  1294/ 38  W14 W10 L3  L7  2.0
+ 23 Sreraman, Rohit        BABFG92Q  1269  1285/347  D3  D9  D19 D32 2.0
+ 24 Budhraja, Jai          TMBIA16E  1326  1321/145  W32 L1  W45 L6  2.0
+ 25 Porad-brand, Lewis     DCCLH22V  1272  1263/ 52  L5  W41 W33 L8  2.0
+ 26 He, Jizhou             MEDE789B  1296  1285/178  W34 D36 D28 L10 2.0
+ 27 Singh, Atharva         JACJK06G  1287  1278/ 81  W29 L5  L20 W45 2.0
+ 28 Zhang, Patrick         CDIDK01J  1286  1281/420  D21 W49 D26 L5  2.0
+ 29 Qu, Yuwen              RSADK86G  1053  1117/150  L27 W44 W30 L14 2.0
+ 30 Byelashova, Sofia      SGHDK01K  1156  1153/237  W41 L7  L29 W46 2.0
+ 31 Dixit, Ved             ENSEH63Q  1209  1237/ 61  L8  L14 W47 W42 2.0
+ 32 Sembium, Aditi         OPWFK25W  1170  1195/374  L24 W51 D17 D23 2.0
+ 33 Tummuru, Nirvan        FRWFK06N   968  1008/ 52  BYE L3  L25 W48 2.0
+ 34 Komara, Vasishta NarayaSKWGG75F  1083  1129/ 46  L26 L42 W44 W43 2.0
+ 35 Chou, Eugene           SSMFJ56Y  1210  1219/142  D12 L2  L18 W50 1.5
+ 36 Bhindi, Viyaan         MOBHG97F  1113  1137/ 14  W50 D26 L2  L13 1.5
+ 37 Ivanov, Matvei         EABEK34E  1257  1259/143  D9  L12 W48 L18 1.5
+ 38 Swain, Samarth         MMEDJ58S  1254  1225/415  D19 L6  W49 L16 1.5
+ 39 Chen, Julian           MEDDK32C  1266  1223/160  L4  W46 D40 L19 1.5
+ 40 Mudragada, Sanjay KaushGTMHG96Y  1002   998/ 85  L13 BYE D39 L17 1.5
+ 41 Zeitlin, Tom           WOBGI56H  1028  1043/152  L30 L25 D50 W49 1.5
+ 42 Nair, Ishan            SKII670E  1252  1224/207  L15 W34 L9  L31 1.0
+ 43 Zhang, Aaron           TMBGC74T  1238  1216/207  W47 L15 L10 L34 1.0
+ 44 Liu, Bihe              CBRDB78J  1248  1173/193  L10 L29 L34 BYE 1.0
+ 45 Jibesh Nair, Pranav    SLLGW75D  1216  1184/  4  W51 L11 L24 L27 1.0
+ 46 Ferris, Ari            FHVGG98H  1019  1019/ 74  L17 L39 W51 L30 1.0
+ 47 Qin, Skyler            OPWCJ97T  1410  1333/211  L43 L16 L31 W51 1.0
+ 48 Meenakshi Sundaram, AdhHEAHK00E  1313  1229/ 75  L1  D19 L37 L33 0.5
+ 49 Shah, Aariv            PFCI527D  1170  1111/ 72  D18 L28 L38 L41 0.5
+ 50 Anbuselvam, Mithran    HEAHH61F  1297  1198/260  L36 L20 D41 L35 0.5
+ 51 Dragusanu, Stephane    EALJH75V  1345  1226/ 28  L45 L32 L46 L47 0.0

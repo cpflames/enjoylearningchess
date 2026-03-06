@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Yao, Roger Yutang      THODK88C   899   910/131  W2  W5  W6  W4  L3  4.0
+  2 Hedstrom, Elliot       WEDEK92C   698   785/ 87  L1  W3  D5  W6  W4  3.5
+  3 Williams, Sam          COSEG18C   400   794/  5  D6  L2  D4  W5  W1  3.0
+  4 Park-brinck, August    WEDEJ54U   626   640/ 52  D5  W6  D3  L1  L2  2.0
+  5 Tentor, Jalil          HTNGK39U   641   624/ 30  D4  L1  D2  L3  D6  1.5
+  6 Johnson, Nathan        HZFEH32Y   697   633/ 20  D3  L4  L1  L2  D5  1.0

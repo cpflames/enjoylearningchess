@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Rehmeyer, Malcolm      FHMIH62C   524   562/ 61  W3  U   D2  1.5
+  2 Sijin, Ryan            BENDG24X   779   765/ 29  U   W3  D1  1.5
+  3 Tong, Bayes            CCDCG20L   332   313/ 10  L1  L2  U   0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mamadgi, Uthkarsh      PLKIJ47A   788   814/ 21  W2  D3  D4  2.0
+  2 Mishra, Angad          RKWGK70V   769   804/128  L1  W4  W3  2.0
+  3 Talukdar, Yuvaan       RBRCH76K   768   773/157  W4  D1  L2  1.5
+  4 Aute, Rohit            BENI684B   796   736/ 30  L3  L2  D1  0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xie, Nolan             CGRDH82P   541   657/ 47  W2  D3  W4  2.5
+  2 Gorbatenko, Leon       CRKGH58G   620   641/ 26  L1  W4  W3  2.0
+  3 Van Cleemput, Enzo     HMNEG22B   685   647/  9  W4  D1  L2  1.5
+  4 Tun, Harrison          BRWGJ57B   460   408/ 24  L3  L2  L1  0.0

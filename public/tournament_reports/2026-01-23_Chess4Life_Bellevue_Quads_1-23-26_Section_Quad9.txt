@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ding, Aaron            BRHBF65T   100   633/  2  W2  WF  W3  3.0
+  2 Zhang, Patrick         OPWAF65S   100   300/  2  L1  W3  WF  2.0
+  3 Kakkad, Viyan          THOBF67M   100   100/  5  BYE L2  L1  1.0

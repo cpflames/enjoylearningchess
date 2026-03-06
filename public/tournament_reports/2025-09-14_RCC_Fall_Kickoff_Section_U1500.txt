@@ -1,0 +1,36 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ye, Alex               PLKGH51L  1334  1398/322  W25 W20 W21 W4  W2  5.0
+  2 Chaturvedi, Raghav     BISKK75J  1235  1316/175  WF  W15 W3  W14 L1  4.0
+  3 Goyal, Ankush          ADUNG18L  1300  1385/  5  W7  W34 L2  W10 W9  4.0
+  4 Gopal, Abhishekh       ADUNH86N  1094  1150/ 23  W18 W32 W8  L1  WF  4.0
+  5 Zhen Rampenthal, Quinn SASJH53C  1338  1324/104  W23 L21 W28 W22 W8  4.0
+  6 Pande, Aryan           DCSC493M  1040  1076/ 76  D27 W19 W17 L9  W11 3.5
+  7 Shah, Aariv            PFCI527D   948   953/ 49  L3  W33 D19 W29 WF  3.5
+  8 Hipschman, Daniel      ADUNG18J  1300  1209/  5  W24 W11 L4  W12 L5  3.0
+  9 Zandanov, Leonid       ENAEK31Q  1283  1275/204  W28 W12 L14 W6  L3  3.0
+ 10 Lagzdin, Mikhail       HMNDJ96R  1171  1169/ 90  W26 L14 W23 L3  W18 3.0
+ 11 Swain, Samarth         MMEDJ58S  1155  1136/371  W13 L8  W32 W21 L6  3.0
+ 12 Datta, Ishana          KKNEH60X  1124  1115/ 52  W29 L9  W13 L8  W26 3.0
+ 13 Menon, Riaan           EBSEH83A   731   916/ 31  L11 W24 L12 W23 W22 3.0
+ 14 Hyman, Daniel          ADUNG18H  1300  1380/  4  W35 W10 W9  L2  LF  3.0
+ 15 Han, Felix             MEDCJ41U   740   866/ 50  W30 L2  L22 W28 W27 3.0
+ 16 Mohammed, Farhan       CRKFH14M  1223  1166/116  L21 L23 W25 W19 W24 3.0
+ 17 Frohbieter, Dominic    PNUKK76U  1096  1082/ 38  HPB W27 L6  D18 W21 3.0
+ 18 Telikicherla, Aadya    AUDDG19N   819   908/ 13  L4  W35 W34 D17 L10 2.5
+ 19 Veeramani, Harish      LMAFG31Z   618   720/ 12  W22 L6  D7  L16 WF  2.5
+ 20 Foster, Chad           ADUNH69R   997   981/ 43  WF  L1  D29 W27 LF  2.5
+ 21 Raghavendran, Vedanth  DCSCH24C   947  1015/ 36  W16 W5  L1  L11 L17 2.0
+ 22 Bhende, Shaurya        MMEGK24T  1013   963/ 75  L19 W26 W15 L5  L13 2.0
+ 23 Mitta, Arjun           ADUNG36T   827   866/ 15  L5  W16 L10 L13 W32 2.0
+ 24 Mudragada, Sanjay KaushGTMHG96Y   952   936/ 49  L8  L13 W30 W32 L16 2.0
+ 25 Xu, Natalie            CNHE137A   897   886/139  L1  L29 L16 W35 W33 2.0
+ 26 Devavarapu, Ananya SresCMCEH54Z   812   792/ 70  L10 L22 WF  W31 L12 2.0
+ 27 Zhang, Eli             CHRDH69C   662   684/ 96  D6  L17 W31 L20 L15 1.5
+ 28 Dibble, Clifford       ADUNG18G  1300   804/  5  L9  W30 L5  L15 D31 1.5
+ 29 Kruse, Brian           ADUNG96Z   618   735/  9  L12 W25 D20 L7  LF  1.5
+ 30 Esparza, Edward        ADUNG33U  1092   894/  9  L15 L28 L24 W33 HPB 1.5
+ 31 Cheng, Ary             XXXBG24S   631   601/ 11  LF  BYE L27 L26 D28 1.5
+ 32 Goyal, Avyukt          CNHBJ65X   749   703/153  WF  L4  L11 L24 L23 1.0
+ 33 Memon, Emad            GTMHG20V   855   696/  8  L34 L7  BYE L30 L25 1.0
+ 34 George, Ameya          EBSGK88Y  1036  1001/155  W33 L3  L18 U   U   1.0
+ 35 Golan, Elliot          ADUNH58X   955   886/ 34  L14 L18 LF  L25 BYE 1.0

@@ -1,0 +1,33 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Hu, Ethan              CNHCH35U   690   899/ 47  W16 W15 W10 W14 W2  5.0
+  2 Tang, Khai             THUGJ48Q   718   826/ 84  W19 W11 W6  W3  L1  4.0
+  3 Ta, Jaxson             KSTEJ54Z   763   791/ 75  W21 W9  W13 L2  W11 4.0
+  4 Dwyer, Magnus          THUEG99P   320   639/ 15  W7  W8  L14 W20 D10 3.5
+  5 Pressley, Alexander    THUGH04U   753   751/ 35  D18 W27 W12 D10 D9  3.5
+  6 Deng, Marvin           ASNEH06D   571   662/ 24  W31 W12 L2  D7  W20 3.5
+  7 Dishion, Nathan        SCDEK40R   710   706/ 40  L4  W28 W22 D6  W15 3.5
+  8 Yi, Woochan            BRHEG23J   687   684/ 42  W28 L4  D17 W16 W14 3.5
+  9 Kotsinyan, Robert      NARFJ56V   578   614/ 69  W32 L3  W26 W19 D5  3.5
+ 10 Zhen, Liam             DCCE622V   769   763/224  W17 W20 L1  D5  D4  3.0
+ 11 Xu, William            DCTFK93M   558   598/156  W24 L2  W23 W13 L3  3.0
+ 12 Wells, Tristan         UCDCF82P   713   660/ 10  W23 L6  L5  W24 W22 3.0
+ 13 Allyn, William         THOEJ48A   639   621/ 97  W25 W26 L3  L11 W19 3.0
+ 14 Meymandi-li, Alvin     CNCEJ64F   763   720/ 57  D27 W18 W4  L1  L8  2.5
+ 15 Hill, Kosal            HZFEF82W   552   542/ 26  W29 L1  D16 W17 L7  2.5
+ 16 Acharya, Rahul         DISEG30C   276   373/ 25  L1  W29 D15 L8  W26 2.5
+ 17 Perianayagam, Gautham  CSIFG99T   488   495/ 39  L10 W32 D8  L15 W21 2.5
+ 18 Xu, Tony               SCDEJ14L   450   464/ 23  D5  L14 D28 D26 W27 2.5
+ 19 Hill, Soben            HZFEF82T   440   449/ 28  L2  W25 W27 L9  L13 2.0
+ 20 Srebrnik, Mika         EMSGJ48R   629   577/ 58  W30 L10 W21 L4  L6  2.0
+ 21 Pelliciotti, Luigi     THOFJ56U   456   427/ 20  L3  W24 L20 W29 L17 2.0
+ 22 Aguiluz, Mateo         BRYEJ68R   531   470/ 56  L26 W30 L7  W25 L12 2.0
+ 23 Samsonov, Kirill       NARFH98S   405   379/ 50  L12 W31 L11 L27 W28 2.0
+ 24 Buhagiar, Finnegan     WWDEF53H   400   312/  5  L11 L21 W30 L12 W29 2.0
+ 25 Kamliuk, Daniel        NARGF53G   600   284/  5  L13 L19 W31 L22 W30 2.0
+ 26 Gopinath, Bavana Sai   WDEFF53D   500   355/  5  W22 L13 L9  D18 L16 1.5
+ 27 Kolodeznaia, Alice     THOEH32F   476   443/ 37  D14 L5  L19 W23 L18 1.5
+ 28 Chen, Aaron            DCCEF92U   247   254/ 40  L8  L7  D18 W32 L23 1.5
+ 29 Chen, Jayden           DCCEF53C   400   113/  5  L15 L16 W32 L21 L24 1.0
+ 30 Li, Vincent            DCCEG45W   169   141/ 23  L20 L22 L24 W31 L25 1.0
+ 31 Alghamdi, Aous         THOFF53B   500   100/  4  L6  L23 L25 L30 BYE 1.0
+ 32 Homchick, Callen       THOEH32C   100   100/  9  L9  L17 L29 L28 U   0.0

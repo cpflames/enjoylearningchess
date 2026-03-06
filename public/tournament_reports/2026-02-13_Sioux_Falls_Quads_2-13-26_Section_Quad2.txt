@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Neff, Katrina          ABFG159Y  1236  1251/273  W2  D4  W3  2.5
+  2 Welch, Gideon          HSSCH75H   965  1061/ 68  L1  W3  W4  2.0
+  3 Jensen, Maxwell        SDYHX88L  1099  1078/123  W4  L2  L1  1.0
+  4 Devish, Coale          SDSDZ80U  1102  1056/ 90  L3  D1  L2  0.5

@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Li, Crystal            ADUNH79X   604   747/ 10  W6  W7  W2  W8  W5  5.0
+  2 Salimova, Jasmina      LCOK758K   514   544/ 10  W9  W4  L1  W7  L3  3.0
+  3 Ramayanam, Hanvitha    TMBGH65C   619   574/ 25  L8  L5  BYE W6  W2  3.0
+  4 Tulsukchuentanat, PremeWOBCH62Y   359   381/ 26  BYE L2  L7  W9  W8  3.0
+  5 Covey, Lashawna        ADUNH79W   655   592/ 26  L7  W3  D6  BYE L1  2.5
+  6 Thomas, Tricia         WLDEH05W   374   402/ 17  L1  W8  D5  L3  BYE 2.5
+  7 Tulsukchuentanat, PearlWOBFH63A   460   450/ 39  W5  L1  W4  L2  L9  2.0
+  8 Saha, Nora             WLVBW75Q   376   384/  5  W3  L6  W9  L1  L4  2.0
+  9 Tippabhotla, Akshata   HMNCH34P   372   330/ 15  L2  BYE L8  L4  W7  2.0

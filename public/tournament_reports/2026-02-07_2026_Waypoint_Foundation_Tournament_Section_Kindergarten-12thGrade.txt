@@ -1,0 +1,107 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 tot 
+  1 Mclain, Ben            EPHLJ36P   954  1306/ 17   W36  W21  W6   W5   W4   W3   W2  7.0
+  2 Klopov, Ezekiel        NLCJJ34L   917  1105/ 22   W59  W52  W11  W7   W10  U    L1  5.0
+  3 Barber, James          MOLJF79C   900  1282/  6   W66  W32  W31  W14  W9   L1   U   5.0
+  4 Claassen, Benjamin     MOLJJ36L  1028  1085/ 15   W76  W34  W12  W22  L1   U    U   4.0
+  5 Van Dyke, Isaiah       NLCIJ33V   595   896/ 20   W35  W68  W30  L1   W26  U    U   4.0
+  6 Babak, Daniel          ABEIG82U  1201  1179/ 10   W65  W28  L1   W23  W22  U    U   4.0
+  7 Naidenov, Grace        HSCKJ36H  1027  1042/ 15   W58  W17  W39  L2   W27  U    U   4.0
+  8 Vasquez, Michael       QHSKJ35X   952  1036/ 21   W57  W27  W13  L10  W23  U    U   4.0
+  9 Somes, Gavin           EPHMF51A  1200  1133/  5   W83  W46  W26  W25  L3   U    U   4.0
+ 10 Velasco, Cristian      WKHLG82V  1535  1428/ 12   W97  W38  W37  W8   L2   U    U   4.0
+ 11 Kottong, Jameson       FROIG82T  1085  1073/ 10   W62  W33  L2   W34  W28  U    U   4.0
+ 12 Boyes, Eli             HSCMG82S   909  1009/ 10   W63  W42  L4   W21  W40  U    U   4.0
+ 13 Ramos Sebastian, BernabWKHMF48S  1200  1054/  5   W73  W48  L8   W43  W25  U    U   4.0
+ 14 St. Mary, Elijah       NLCKF48R  1000  1033/  5   W80  W60  W24  L3   W41  U    U   4.0
+ 15 Santiago, Emanuel      QHSJJ37C  1145  1127/ 16   W82  W20  L22  W33  W44  U    U   4.0
+ 16 Pryor, Gracie          MOCIJ34B   539   738/ 10   L22  W81  W46  W38  W29  U    U   4.0
+ 17 Ewers, Cody            LAHLG82J   708   793/ 16   W86  L7   W98  W45  W30  U    U   4.0
+ 18 Weitzel, Drew          EPHLJ37D  1041  1029/ 15   W88  W43  L25  W60  W24  U    U   4.0
+ 19 Mckee, Riley           LAHKG71G  1030   957/ 11   L21  W75  W69  W54  D20  U    U   3.5
+ 20 Klopov, Silas          NLCHJ33S   772   797/ 15   W93  L15  W72  W64  D19  U    U   3.5
+ 21 Macdonald, William     MLFGF48P   600  1067/  5   W19  L1   W49  L12  W68  U    U   3.0
+ 22 Weitzel, Colton        EPMIJ35F   937   963/ 15   W16  W67  W15  L4   L6   U    U   3.0
+ 23 Semenko, Matthew       MOCHJ32Z   562   785/ 20   W49  W44  W29  L6   L8   U    U   3.0
+ 24 Van Dyke, Micah        NLCFJ34W   765   801/ 25   W47  W40  L14  W52  L18  U    U   3.0
+ 25 Paluch, Zachary        MOCJJ35Q   918   934/ 15   W53  W85  W18  L9   L13  U    U   3.0
+ 26 Shipovskiy, Daniel     EPMIG82L   939   884/ 10   W72  W77  L9   W50  L5   U    U   3.0
+ 27 Cook, James            EPHKG82G   636   744/ 10   W100 L8   W47  W31  L7   U    U   3.0
+ 28 Baty, Greyson          QHSJF48N   900   828/  5   W96  L6   W36  W32  L11  U    U   3.0
+ 29 Cawston, Leo           LAHKF48M  1000   740/  5   W41  W71  L23  W57  L16  U    U   3.0
+ 30 Caldwell, Josiah       EPHKF48L  1000   795/  5   W70  W91  L5   W39  L17  U    U   3.0
+ 31 Parrish, Caches        LAHLJ35Y  1009   969/ 21   W78  W61  L3   L27  W51  U    U   3.0
+ 32 Paulson, Carter        EPCDJ33H   318   477/ 13   W51  L3   W71  L28  W60  U    U   3.0
+ 33 Brewer, Rulon          HSCGG82E   741   790/ 10   W64  L11  W59  L15  W57  U    U   3.0
+ 34 Santiago, Josue        QUJIJ35K   718   733/ 15   W74  L4   W66  L11  W63  U    U   3.0
+ 35 Shipovskiy, Andrew     CVAKF48K  1000   699/  5   L5   W56  L41  W55  W69  U    U   3.0
+ 36 Beck, Oliver           MOLMJ34N   568   607/ 10   L1   W95  L28  W81  W79  U    U   3.0
+ 37 Sureshkumar, Nikhilesh MOLKJ36N   971   938/ 15   W87  W50  L10  L41  W65  U    U   3.0
+ 38 Strickler, Kyle        EPHJF48H   900   804/  5   W84  L10  W87  L16  W58  U    U   3.0
+ 39 Aiken, Mace            LAHHF48G   700   719/  5   W94  W45  L7   L30  W64  U    U   3.0
+ 40 Babak, Phillip         ABELG82Q  1111   950/ 10   W69  L24  W78  W61  L12  U    U   3.0
+ 41 Malone, David          EPHJJ34D   596   684/ 15   L29  W105 W35  W37  L14  U    U   3.0
+ 42 Klopov, Josiah         SOECF48F   200   705/  5   W54  L12  W73  L51  W71  U    U   3.0
+ 43 Aldaas, Nathan         MLFIJ33Y   723   749/ 10   W104 L18  W63  L13  W59  U    U   3.0
+ 44 Boyes, Jonathan        HSCKG82P   912   865/ 10   W92  L23  W70  W58  L15  U    U   3.0
+ 45 Koval, Benjamin        MOLKF48E  1000   676/  5   W102 L39  W62  L17  W53  U    U   3.0
+ 46 Colver, Kenny          EPPGJ34Y   777   757/ 20   W90  L9   L16  W92  W67  U    U   3.0
+ 47 Shipovskiy, Timothy    CVAGG81G   397   523/ 10   L24  W76  L27  W80  W61  U    U   3.0
+ 48 St. Mary, Benjamin     NLCJF48D   900   638/  5   W98  L13  L57  W72  W78  U    U   3.0
+ 49 Naidenov, Isaak        SOAMJ36W   949   904/ 15   L23  W106 L21  W70  W62  U    U   3.0
+ 50 Sureshkumar, Sanjay    MOCGJ34Z   660   656/ 15   W103 L37  W90  L26  W74  U    U   3.0
+ 51 Avila Birrueta, IgnacioQUJIJ33X   713   687/ 15   L32  D53  W75  W42  L31  U    U   2.5
+ 52 Chacon, Naomi          EPPGJ32K   254   412/ 15   W99  L2   W65  L24  D54  U    U   2.5
+ 53 Kottong, Fordham       FROGG81H   516   584/ 10   L25  D51  W56  W77  L45  U    U   2.5
+ 54 Diaz, Orlando          QUJJG82D   654   598/ 10   L42  W84  W94  L19  D52  U    U   2.5
+ 55 Stryha, Liliia         LVTDF48B   300   468/  5   L61  W80  D77  L35  W88  U    U   2.5
+ 56 Stice, Malachi         LAHMJ34T   678   617/ 15   D75  L35  L53  W86  W85  U    U   2.5
+ 57 Shipovskiy, Joseph     CVAEG81X   565   570/ 10   L8   W100 W48  L29  L33  U    U   2.0
+ 58 Paluch, Trenton        MOCGF48A   600   678/  5   L7   W86  W68  L44  L38  U    U   2.0
+ 59 Agoshkov, Nathan       NLCFF47Y   500   643/  5   L2   W79  L33  W91  L43  U    U   2.0
+ 60 Agoshkov, Josiah       NLCHF47X   700   494/  5   W105 L14  W67  L18  L32  U    U   2.0
+ 61 Cox, Crew              MOCHF47W   700   581/  5   W55  L31  W85  L40  L47  U    U   2.0
+ 62 Esquivel, Camila       EPPGF47V   600   535/  5   L11  W74  L45  W95  L49  U    U   2.0
+ 63 Moore, Landon          EPPFF47U   500   490/  5   L12  W99  L43  W83  L34  U    U   2.0
+ 64 Tempel, Ryan           EPHJJ32W   361   423/ 15   L33  W82  W91  L20  L39  U    U   2.0
+ 65 Quilter, Cole          MOCGF47T   600   527/  5   L6   W92  L52  W66  L37  U    U   2.0
+ 66 Brewer, Rodney         HSCFF47S   500   520/  5   L3   W83  L34  L65  W91  U    U   2.0
+ 67 Stryha, Viacheslav     LVTFG81D   421   454/ 10   W79  L22  L60  W76  L46  U    U   2.0
+ 68 Naidenov, Ethan        HSCHJ36K   937   854/ 15   W106 L5   L58  W87  L21  U    U   2.0
+ 69 Ahmann, Cason          LIMGF47R   600   445/  5   L40  W96  L19  W94  L35  U    U   2.0
+ 70 Palmer, Mason          MOLLJ34P   599   552/ 10   L30  W89  L44  L49  W95  U    U   2.0
+ 71 Van Dyke, Jonah        NLCDG82C   604   478/ 10   W95  L29  L32  W93  L42  U    U   2.0
+ 72 Singh, Rajveer         EPPFJ34V   560   530/ 15   L26  W101 L20  L48  W99  U    U   2.0
+ 73 Hickok-sargee, Sawyer  LIMGF47Q   600   336/  5   L13  W93  L42  L74  W94  U    U   2.0
+ 74 Tempel, Josh           EPPGJ32Y   336   377/ 10   L34  L62  W97  W73  L50  U    U   2.0
+ 75 Tverdokhlebenko, David ABEFG80K   248   375/  7   D56  L19  L51  W102 D77  U    U   2.0
+ 76 Jones, Emma            EPPGF47N   600   355/  5   L4   L47  W100 L67  W90  U    U   2.0
+ 77 Thompson, Kaikane      LIMGF47L   600   386/  5   W101 L26  D55  L53  D75  U    U   2.0
+ 78 Merkle, Charlotte      MENGG80W   100   252/ 10   L31  W104 L40  W90  L48  U    U   2.0
+ 79 Hobson, June           QUJIF47J   800   415/  5   L67  L59  W84  W98  L36  U    U   2.0
+ 80 Andre, Brighton        MOCGF47H   600   299/  5   L14  L55  W103 L47  W101 U    U   2.0
+ 81 Gault, Athen           EPHJF47G   900   349/  5   L85  L16  W96  L36  W92  U    U   2.0
+ 82 Cook, Emily            EPPGG80S   100   174/ 10   L15  L64  D86  D89  W93  U    U   2.0
+ 83 Thompson, Colton       EPPGG80H   100   233/  7   L9   L66  W104 L63  W96  U    U   2.0
+ 84 Lukashevich, Daniel    SOEFF47F   500   343/  5   L38  L54  L79  W103 W97  U    U   2.0
+ 85 Santiago, Daniela      MVQEG82A   476   429/ 10   W81  L25  L61  D88  L56  U    U   1.5
+ 86 Unda-tejeda, Sebastian LIMDF47E   300   306/  5   L17  L58  D82  L56  W102 U    U   1.5
+ 87 Lukashevich, Dennis    SOEFG81K   588   506/ 10   L37  W103 L38  L68  D89  U    U   1.5
+ 88 Springs, Viviene       EPPGF47D   600   233/  5   L18  L90  W105 D85  L55  U    U   1.5
+ 89 Vanderholm, Simon      KVECF47B   200   230/  5   L91  L70  D102 D82  D87  U    U   1.5
+ 90 Kiehn, Amelia          QGEDJ33G   408   337/ 15   L46  W88  L50  L78  L76  U    U   1.0
+ 91 Avila, Markus          QHSJJ34E   661   533/ 15   W89  L30  L64  L59  L66  U    U   1.0
+ 92 Estrada-rangel, Hector EPPFF47A   500   186/  5   L44  L65  W101 L46  L81  U    U   1.0
+ 93 Vanderholm, Zoey       KVEEF46Z   400   104/  5   L20  L73  W99  L71  L82  U    U   1.0
+ 94 Cook, William          EPGDG80M   100   124/ 10   L39  W102 L54  L69  L73  U    U   1.0
+ 95 Colver, Rose           EPPFJ32G   135   165/ 15   L71  L36  W106 L62  L70  U    U   1.0
+ 96 Flores, Mathew         EPPFG80N   100   100/ 10   L28  L69  L81  W100 L83  U    U   1.0
+ 97 Vanderholm, Madeleine  MLFGF46Y   600   111/  5   L10  L98  L74  W105 L84  U    U   1.0
+ 98 Valle, Stephanie       EPPFF46X   500   312/  4   L48  W97  L17  L79  U    U    U   1.0
+ 99 Sieverkropp, Cash      EPMHF46W   700   100/  5   L52  L63  L93  W104 L72  U    U   1.0
+100 Santiago, Gamaliel     QGECF46T   200   100/  5   L27  L57  L76  L96  W105 U    U   1.0
+101 Santiago, Abigail      MVQBF46S   100   100/  4   L77  L72  L92  BYE  L80  U    U   1.0
+102 Chaney, Harmonee       MLFGF46R   600   100/  5   L45  L94  D89  L75  L86  U    U   0.5
+103 Brewer, Samuel         HSCCF46Q   200   100/  5   L50  L87  L80  L84  D104 U    U   0.5
+104 Lukashevich, Sam       SOEDG81F   344   155/ 10   L43  L78  L83  L99  D103 U    U   0.5
+105 Thompson, Kekona       LIMDF46P   300   100/  5   L60  L41  L88  L97  L100 U    U   0.0
+106 Springs, Ransom        EPMIJ33D   546   394/  7   L68  L49  L95  U    U    U    U   0.0

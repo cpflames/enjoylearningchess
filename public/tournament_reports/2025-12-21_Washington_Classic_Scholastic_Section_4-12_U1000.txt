@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Devlin, Austin         NOBIK25F   906   993/ 81  D9  W6  W5  W3  3.5
+  2 Dalakoti, Shivani      BLMHG24V   873   916/ 30  W4  D5  D3  W7  3.0
+  3 Gunadekar, Sharvil     BRHFG17T   834   860/ 18  W8  W7  D2  L1  2.5
+  4 Parpuri, Aarav         FRVEH76T   696   745/ 39  L2  W10 W9  D5  2.5
+  5 Lange, Maximilian Leon BWSGG33Q   800   826/ 22  W6  D2  L1  D4  2.0
+  6 Le, An                 MHEFJ73S   886   856/ 42  L5  L1  W10 W9  2.0
+  7 Veeramani, Harish      LMAFG31Z   792   792/ 24  W11 L3  W8  L2  2.0
+  8 Bharath, Chinmayi      MCEEF87Z   644   606/ 11  L3  BYE L7  WF  2.0
+  9 Qureshi, Haroon        RBRFJ95Y   814   800/ 64  D1  W11 L4  L6  1.5
+ 10 Kommu, Ameya           BCAEF76U   655   383/  3  HPB L4  L6  BYE 1.5
+ 11 Shah, Rachit           BNTFK44K   877   800/129  L7  L9  BYE LF  1.0

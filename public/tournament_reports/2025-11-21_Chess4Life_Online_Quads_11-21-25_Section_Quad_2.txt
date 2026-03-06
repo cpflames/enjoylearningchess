@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chanthavong, Amanda    EDIEG20M   100   320/  5  BYE W2  W3  3.0
+  2 Li, Luke               CKIDH01G   212   255/ 15  W5  L1  W4  2.0
+  3 Ouk, Mana              HPTHF95K   700   263/  2  W4  BYE L1  2.0
+  4 Ashok Kumar, Athvik    RHJIF95J   800   100/  3  L3  W5  L2  1.0
+  5 Ma, Eric               ENDDF95H   300   100/  2  L2  L4  BYE 1.0

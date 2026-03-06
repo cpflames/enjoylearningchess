@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Katipally, Sahan       WOBEK31R   629   690/ 35  D3  W2  W4  2.5
+  2 Bose, Suhan            BRHEH65Z   550   564/ 35  D4  L1  W3  1.5
+  3 Wang, Graham           MEDEG90V   557   568/ 22  D1  W4  L2  1.5
+  4 Gorbatenko, Leon       CRKGH58G   606   542/ 45  D2  L3  L1  0.5

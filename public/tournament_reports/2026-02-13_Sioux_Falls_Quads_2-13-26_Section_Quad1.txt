@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wynstra, Daniel        SDEIZ94M  1685  1684/162  W4  D2  W3  2.5
+  2 Neff, Enoch            ABFFF95Q  1426  1486/241  W3  D1  W4  2.5
+  3 Oppold, Sage           SDLKZ281  1383  1376/233  L2  W4  L1  1.0
+  4 Hoellein, Carter       SDYGZ96L  1303  1268/198  L1  L3  L2  0.0

@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Praveen, Abel          OHSLG11S  1251  1375/ 10  W10 W8  W5  W2  W4  5.0
+  2 Nguyen, Vuong Tien ThinCAPJG70K  1224  1255/ 26  W12 W4  W3  L1  W8  4.0
+  3 Rajesh, Gagan Karthik  OHSLF06V  1073  1080/ 43  W11 W9  L2  W5  D7  3.5
+  4 Olson, Rainn           SLNKK76K  1100  1127/ 60  W6  L2  W10 W8  L1  3.0
+  5 Meyer, Brendyn         YELJJ90J   773   825/ 39  BYE W12 L1  L3  W9  3.0
+  6 Selwitz, Max           OHSJF96D   900   962/  5  L4  W11 L8  W9  W12 3.0
+  7 Olson, Skye            SLNLG96U  1043  1006/ 21  L8  W10 L9  W11 D3  2.5
+  8 Murphy, Tristan        YELKK18X  1101  1091/ 54  W7  L1  W6  L4  L2  2.0
+  9 De Leon, Jhared        YELKF96C  1000   784/  4  BYE L3  W7  L6  L5  2.0
+ 10 Thompson, David        YELKK73T   865   867/ 20  L1  L7  L4  W12 W11 2.0
+ 11 Coulhard, Gregory      YELKF96B  1000   688/  5  L3  L6  W12 L7  L10 1.0
+ 12 Muir, Ryder            SKPJG11Q   846   677/ 10  L2  L5  L11 L10 L6  0.0

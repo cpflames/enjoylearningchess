@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Boulis, Christos       NWSMC84T  1774  1775/650  W4  1.0
+  2 Meenakshi Sundaram, AdhHEAHK00E  1310  1313/ 71  W3  1.0
+  3 Kakarlapudi, Jairam IshMEDD585M   835   831/ 80  L2  0.0
+  4 Marquina Cancino, Juan ADUNF76N  1093  1093/  5  L1  0.0

@@ -1,0 +1,27 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Powell, Najae          MS1MZ934  1728  1743/ 25  W14 W13 W6  W2  W3  5.0
+  2 Campanella, Coleman    MS1MZ66M  1223  1264/ 15  W9  W11 W7  L1  W8  4.0
+  3 Sawyer, Paul           CY1KX20B  1074  1152/ 54  W20 W19 W15 W7  L1  4.0
+  4 Sandoss Kumar, Sai HasiMS1KB24B   928  1045/ 88  L5  W18 W25 W15 W6  4.0
+  5 Rabadanov, Marat       CY1KZ66E  1098  1103/ 13  W4  L6  W17 D14 W13 3.5
+  6 Almira, Alex           PB1KZ364  1000  1174/  5  W22 W5  L1  W10 L4  3.0
+  7 Reyes, Benjamin        FLEKZ83B  1039  1052/ 50  W8  W23 L2  L3  W14 3.0
+  8 Dao, Duy Khang         CTYJZ86S   896   927/ 22  L7  W24 W19 W16 L2  3.0
+  9 Lacorte, Earl          MS1MZ507  1018   965/ 10  L2  W21 L13 W17 W18 3.0
+ 10 Alarcon Lemos, Miguel  FLEJZ61T   901   943/ 10  L16 W12 W23 L6  W15 3.0
+ 11 Dumas, Jordan          MS1KZ66C   740   811/ 15  W17 L2  L16 W23 W22 3.0
+ 12 Ramlakhan, Zeroun      FLIKZ363  1000   919/  5  L15 L10 W26 W19 W16 3.0
+ 13 Pena, Andrew           FLEJZ65H   570   752/ 20  W18 L1  W9  D22 L5  2.5
+ 14 Aguilar, Arud          CSHLZ66J   975   977/ 20  L1  W22 W21 D5  L7  2.5
+ 15 Littman, Ashton        FLEKZ66H   957   953/ 19  W12 W16 L3  L4  L10 2.0
+ 16 Amireh, Sharaf         CSHLZ623  1024   965/ 15  W10 L15 W11 L8  L12 2.0
+ 17 Yanta Ramos, Deyvi     HA2LZ362  1100   745/  5  L11 W20 L5  L9  W23 2.0
+ 18 Sivanandan, Haarshath  WH1KZ35Z  1000   784/  5  L13 L4  W20 W25 L9  2.0
+ 19 Rodriguez, Emilio      MS1JZ35X   900   740/  5  W25 L3  L8  L12 W24 2.0
+ 20 Benitez, Samuel        CSHLZ66B   917   853/ 20  L3  L17 L18 W21 W25 2.0
+ 21 Murray, Damani         FLEJZ77K   386   419/ 24  W24 L9  L14 L20 W26 2.0
+ 22 Leza, Clemente         CY1JX82Y   836   787/ 34  L6  L14 W24 D13 L11 1.5
+ 23 Forbes, Krisean        HA2KZ35W  1000   397/  4  BYE L7  L10 L11 L17 1.0
+ 24 Sanchez, Idanys        HA2LZ35V  1100   300/  5  L21 L8  L22 W26 L19 1.0
+ 25 Realingo, Joshua       HA2MZ669   816   666/  9  L19 BYE L4  L18 L20 1.0
+ 26 Villeda, Lucas         XXXKG01Q  1000   100/  3  U   U   L12 L24 L21 0.0

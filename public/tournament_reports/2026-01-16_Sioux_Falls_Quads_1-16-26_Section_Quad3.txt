@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Neff, Zachary          ABFCH77E   656   650/ 66  W4  L2  W3  2.0
+  2 Elisara, Ethan         JHAEZ38A   510   559/ 21  W3  W1  L4  2.0
+  3 Mills, Ta'te           SDYIZ98Q   620   565/ 76  L2  W4  L1  1.0
+  4 Mcdade, Max            SDGDZ52S   340   372/ 32  L1  L3  W2  1.0

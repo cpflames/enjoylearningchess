@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jahani, Nikan          IMSHK89A   744   823/197  W4  W2  D3  2.5
+  2 Menezes, Ronit         SCDGK44M   798   809/125  W3  L1  W4  2.0
+  3 Yin, Aiden             SOMCG49K   641   676/ 23  L2  W4  D1  1.5
+  4 Romero, Oliver         SNIFK44Z   752   665/ 36  L1  L3  L2  0.0

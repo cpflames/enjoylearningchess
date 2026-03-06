@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 tot 
+  1 Von Dassow, Nadia      LHNGP45P   949   973/ 70  W9  W7  W8  W6  W5  W2  W4  W3  U   8.0
+  2 Gibbs, Logan           CQEEW78V   489   666/ 28  W6  W5  U   W4  W3  L1  W9  W7  W8  7.0
+  3 Scott, Ruth            CQEEW85Z   759   721/ 60  W7  W8  W6  W5  L2  D4  U   L1  W9  5.5
+  4 Von Dassow, Anya       LHNGV005   598   606/ 61  W8  W6  W5  L2  U   D3  L1  W9  W7  5.5
+  5 Weeks, Maggie          CQEEW78L   285   317/ 25  U   L2  L4  L3  L1  W9  W7  W8  D6  3.5
+  6 Fritz, Jackson         MYCEW81Q   223   232/ 32  L2  L4  L3  L1  W9  D7  D8  U   D5  2.5
+  7 Shake, Lucious         CQEDW74X   300   215/  8  L3  L1  W9  U   D8  D6  L5  L2  L4  2.0
+  8 Mangin, Alice          CQEDW78Q   268   237/ 26  L4  L3  L1  W9  D7  U   D6  L5  L2  2.0
+  9 Bishop, Sawyer         CVEDZ28J   300   100/  8  L1  U   L7  L8  L6  L5  L2  L4  L3  0.0

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Neff, Zachary          ABFCH77E   425   545/ 60  W3  D2  W4  2.5
+  2 Elisara, Ethan         JHAEZ38A   346   483/ 15  W4  D1  W5  2.5
+  3 Henningson, Jayse      SDKFZ54W   292   328/ 33  L1  W5  W6  2.0
+  4 Potter, David          SDRDZ40L   533   470/ 18  L2  W6  L1  1.0
+  5 Mckee, George          XXXDF95M   395   233/  6  D6  L3  L2  0.5
+  6 Neff, Timothy          ABFAZ31M   100   100/  3  D5  L4  L3  0.5

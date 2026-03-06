@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yin, Aiden             SOMCG49K   516   641/ 20  W3  W2  W4  3.0
+  2 Pfau, Zacharias        SOMAG09C   391   480/ 30  W4  L1  W3  2.0
+  3 Iyengar, Keshav        SHSEH29S   458   435/ 38  L1  W4  L2  1.0
+  4 Etienne, Yann          CDVCG21M   478   387/ 27  L2  L3  L1  0.0

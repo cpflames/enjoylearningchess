@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Fernandes, Caleb       MCEFH52V   671   672/ 38  W17 W8  BYE W5  L3  W6  5.0
+  2 Anand, Nivaan          MCECH64F   412   509/148  W15 D4  D8  W11 BYE W3  5.0
+  3 Han, Liam              MCEAG05J   406   489/ 11  W18 W9  W22 D4  W1  L2  4.5
+  4 Fernandes, Ruth        MCEDH51U   352   472/ 28  W7  D2  W10 D3  L5  W11 4.0
+  5 Dubrulle, Olivier      MCEFH18V   517   576/ 14  W23 W10 W6  L1  W4  U   4.0
+  6 Kodha-madhu, Nihaan    MCECG04W   399   437/  9  W14 W13 L5  W17 W23 L1  4.0
+  7 Polich, Mason          MCEDG04Z   100   263/ 11  L4  W18 W16 L8  W17 W13 4.0
+  8 Ahmad, Wasif           MCECG05K   353   393/ 11  W12 L1  D2  W7  L9  W14 3.5
+  9 Dubrulle, Pierre       MCEDH18P   266   356/ 14  W20 L3  D14 W13 W8  U   3.5
+ 10 Olsson, Will           MCEDH18F   337   310/ 16  W21 L5  L4  L12 W15 W18 3.0
+ 11 Rajkumar, Harshav      MCEDF77Q   300   368/  5  U   W12 W21 L2  W14 L4  3.0
+ 12 Polich, Cole           MCEDG04V   100   180/ 11  L8  L11 W23 W10 L13 W17 3.0
+ 13 Fernandes, Madeline    MCEBH18M   324   269/ 16  W22 L6  D15 L9  W12 L7  2.5
+ 14 Day, Lucy              MCEEG04X   109   172/ 11  L6  W22 D9  W15 L11 L8  2.5
+ 15 Niyazov, Ian           MCEAG05C   225   189/ 10  L2  W19 D13 L14 L10 W23 2.5
+ 16 Bangsund, Ali          MCEEH18N   372   272/ 12  D19 L17 L7  W20 U   BYE 2.5
+ 17 Niyazov, Kai           MCECG05G   262   221/ 11  L1  W16 W20 L6  L7  L12 2.0
+ 18 Yuan, Aiden            MCECG05D   165   125/ 11  L3  L7  D19 D23 W22 L10 2.0
+ 19 Neiger, Rose           MCECG04R   100   100/ 11  D16 L15 D18 L21 L20 W22 2.0
+ 20 Abeywickrama, Reese    MCECG04S   100   100/  8  L9  BYE L17 L16 W19 U   2.0
+ 21 Chandla, Aanav         MCECG04T   100   143/  9  L10 W23 L11 W19 U   U   2.0
+ 22 Boyd, Andrew           MCEDG04U   100   100/  9  L13 L14 L3  BYE L18 L19 1.0
+ 23 Gouwerok, Willem       MCEBG05E   184   100/  9  L5  L21 L12 D18 L6  L15 0.5

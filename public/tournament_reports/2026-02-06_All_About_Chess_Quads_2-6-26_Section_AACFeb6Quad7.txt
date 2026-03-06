@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nelson, Harvey         CMCGG67L   595   791/ 96  W3  W4  W2  3.0
+  2 Jain, Adhrit           SPTDH36P   600   598/ 43  W4  L3  L1  1.0
+  3 Ram, Yaalini           SNEDH87H   775   721/173  L1  W2  L4  1.0
+  4 Sathyamurthy, Shreyus  BLWDJ60Z   676   651/215  L2  L1  W3  1.0

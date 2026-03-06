@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jiang, Ethan           BCABG19W   170   389/  5  W2  W3  W4  3.0
+  2 Tang, Alan             WTLFG21Z   100   236/  5  L1  W4  W3  2.0
+  3 El Fassy Fihry, Summer LLFEG27K   100   100/  9  W4  L1  L2  1.0
+  4 Beasley, Chloe         LLFFH65R   151   100/ 31  L3  L2  L1  0.0

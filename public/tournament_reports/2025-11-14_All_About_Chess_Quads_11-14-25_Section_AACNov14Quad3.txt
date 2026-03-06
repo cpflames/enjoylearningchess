@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sarangi, Samarth       CBRFH69F  1202  1249/199  W4  W2  L3  2.0
+  2 Dhameeja, Ved          GRRGJ98F  1274  1271/203  D3  L1  W4  1.5
+  3 Zhang, Aaron           TMBGC74T  1209  1223/193  D2  L4  W1  1.5
+  4 Zhang, Eric Q          SOMEK64M  1344  1303/156  L1  W3  L2  1.0

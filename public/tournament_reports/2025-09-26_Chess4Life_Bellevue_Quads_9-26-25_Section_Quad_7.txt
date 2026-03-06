@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Graham           MEDEG90V   155   254/  8  W4  W2  L3  2.0
+  2 Dubedy, Advika         AUDFG19E   293   328/  9  W3  L1  W4  2.0
+  3 Nath, Ayushman         EABHG18E   700   388/  3  L2  W4  W1  2.0
+  4 Liu, Mochen            SNRCH50M   254   166/ 20  L1  L3  L2  0.0

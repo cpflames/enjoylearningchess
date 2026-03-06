@@ -1,0 +1,29 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Vijay, Adith           SOMFD20K  1239  1268/126  D17 WF  W8  W14 W3  4.5
+  2 Gridasov, Robert       BENFJ03F  1033  1153/ 54  W27 D13 W7  W5  D4  4.0
+  3 Dharamshi, Anay        CBREK42U  1157  1174/274  W19 W15 D14 W6  L1  3.5
+  4 Nidamarthi, Nikhil     BLWG375J  1159  1162/247  L13 W19 W22 W9  D2  3.5
+  5 Bui, Edwin             GTMGK90H  1157  1166/210  W26 D24 W16 L2  W8  3.5
+  6 Bhandari, Aarav        CBRFJ06H  1044  1084/243  W28 D16 W24 L3  W15 3.5
+  7 Mirpuri, Shrevin Hiro  OMSGJ03R  1008  1076/ 45  HPB W28 L2  W17 W14 3.5
+  8 Li, Ryan Lingjun       BUSDJ88U   978  1082/ 60  W12 W20 L1  W18 L5  3.0
+  9 Gupta, Aayansh         CPJGH73A   896  1016/ 66  W10 L14 W20 L4  W22 3.0
+ 10 Bolisetty, Varun       HMNEJ73Z  1119  1099/240  L9  W27 D13 D16 W18 3.0
+ 11 Sarangi, Samarth       HMNFH69F   920   984/237  L24 W26 L15 W20 W19 3.0
+ 12 Wang, Evan             FRWF929Z  1193  1155/173  L8  L18 W23 W26 W13 3.0
+ 13 Chadha, Saahan         ENDFK64R   959  1023/ 95  W4  D2  D10 D15 L12 2.5
+ 14 Bharadwaj, Pranav      CSMEF93W  1011  1033/ 20  W23 W9  D3  L1  L7  2.5
+ 15 Agarwal, Kavir         OMSG152U  1009  1010/117  W25 L3  W11 D13 L6  2.5
+ 16 Liu, Louis             CNHDJ75J   960  1014/127  W21 D6  L5  D10 HPB 2.5
+ 17 Li, Bryan              MEDCJ75H   996  1001/149  D1  L21 W25 L7  W23 2.5
+ 18 Marella, Akhil         CHRGK93L   914   952/ 95  L20 W12 W21 L8  L10 2.0
+ 19 Nguyen, Michael        SOMEK64B   931   942/ 45  L3  L4  W28 W21 L11 2.0
+ 20 Zhang, Eric Q          SOMEK64M  1144  1075/173  W18 L8  L9  L11 W27 2.0
+ 21 Li, Harry              BCAGG30G  1186  1103/574  L16 W17 L18 L19 W26 2.0
+ 22 Mallapragada, Mihir    CBRG254M   971   941/ 88  HPB D23 L4  W25 L9  2.0
+ 23 Chen, Owen             CSIEH51Y   885   866/ 41  L14 D22 L12 W28 L17 1.5
+ 24 Singhal, Aryash        XXXG595L  1016  1030/146  W11 D5  L6  U   U   1.5
+ 25 Mirchandani, Kiaan     MEDFK92Z   808   762/150  L15 BYE L17 L22 D28 1.5
+ 26 Gunadekar, Sharvil     BRHFG17T   937   897/ 28  L5  L11 W27 L12 L21 1.0
+ 27 Xu, Natalie            CNHE137A   886   822/143  L2  L10 L26 BYE L20 1.0
+ 28 Devireddy, Jaya BhaveesSTVFH58Z   886   805/ 28  L6  L7  L19 L23 D25 0.5

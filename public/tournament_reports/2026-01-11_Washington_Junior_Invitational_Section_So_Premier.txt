@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Pikh, Akim             BLWGH64N  1983  1991/ 92  D8  W12 D9  W10 W3  4.0
+  2 Mohan, Vishnu          SKIHF41R  1818  1840/229  L15 W16 W13 W19 W9  4.0
+  3 Bharathy Mohan, Aarav  SKIHC98B  1890  1897/476  W17 W13 W11 D4  L1  3.5
+  4 Garine, Ujwal          TSTMB99A  1949  1944/282  D14 W19 W20 D3  D5  3.5
+  5 Zhou, Yuchen           CHRGJ42H  1836  1851/670  D20 W18 HPB W7  D4  3.5
+  6 Ramkumar, Nikhil       RBRI115E  1907  1903/323  D22 W21 D10 D9  W11 3.5
+  7 Nallappa, Vijay        REDKD40S  1886  1866/483  L13 W17 W15 L5  W14 3.0
+  8 Gao, Ziqian            EVJGK10U  1789  1783/141  D1  L20 W12 D14 W18 3.0
+  9 Yondon, Odbayar        INGHK97T  1867  1854/358  D21 W22 D1  D6  L2  2.5
+ 10 Gadde, Arnav           GTMHJ39D  1876  1867/281  D18 W14 D6  L1  HPB 2.5
+ 11 He, Oliver             ENDFK71V  1600  1637/470  W16 W15 L3  HPB L6  2.5
+ 12 Zhu, Aiden             LMSFC77X  1493  1520/217  BYE L1  L8  D16 W21 2.5
+ 13 Gupta, Krishang        GTMIE37V  1577  1598/130  W7  L3  L2  D15 D19 2.0
+ 14 Raja, Rian             SKII786E  1781  1775/275  D4  L10 W22 D8  L7  2.0
+ 15 Ma, Lewis              SOME587M  1519  1539/268  W2  L11 L7  D13 HPB 2.0
+ 16 Li, Shawn              SOMEJ11N  1888  1838/142  L11 L2  D17 D12 W22 2.0
+ 17 Pai, Vihaan            CHAGK17C  1625  1635/345  L3  L7  D16 D22 W20 2.0
+ 18 Raj, Skandha           EVGDK55U  1535  1554/213  D10 L5  HPB W20 L8  2.0
+ 19 Stroud, Jeb            SHMKK22V  1692  1680/264  HPB L4  W21 L2  D13 2.0
+ 20 Rao, Deepak Sri KartikeINTJ517J  1504  1519/256  D5  W8  L4  L18 L17 1.5
+ 21 Yang, Jimmy            BASGG45S  1540  1518/276  D9  L6  L19 BYE L12 1.5
+ 22 Syal, Yash             PFCHC10R  1685  1661/275  D6  L9  L14 D17 L16 1.0

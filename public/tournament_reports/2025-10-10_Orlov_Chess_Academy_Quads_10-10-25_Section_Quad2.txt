@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sijin, Ryan            BENDG24X   765   886/ 32  W4  W3  W2  3.0
+  2 Zeeshan, Hamza         CRKFJ15N   785   802/114  W3  W4  L1  2.0
+  3 Ginal, Maxwell         THUFG23A   591   607/ 14  L2  L1  W4  1.0
+  4 Krzeszowski, Anthony   CPBHI41R   790   694/ 56  L1  L2  L3  0.0

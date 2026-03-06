@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Naroju, Kian Meher     ROKCG31K   606   688/ 29  L5  W6  W3  W4  3.0
+  2 Deshpande, Sushant     CMCDG43P   490   502/ 42  BYE L4  D6  W3  2.5
+  3 Vishakan, Hriday       XXXDF76S   300   653/  4  W4  W5  L1  L2  2.0
+  4 Veligeti, Ayaansh      TBKBF88T   628   637/ 14  L3  W2  W5  L1  2.0
+  5 Zeng, Liam             SHSAH05U   786   733/ 79  W1  L3  L4  W6  2.0
+  6 Kommu, Arjun           BCACF76T   638   397/  4  HPB L1  D2  L5  1.0

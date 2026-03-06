@@ -1,0 +1,3 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Hudyma, Nick           CTXNZ32M  1000  1000/  4  W2  1.0
+  2 Karthik, Pranav        CTXGZ51C   517   517/  8  L1  0.0

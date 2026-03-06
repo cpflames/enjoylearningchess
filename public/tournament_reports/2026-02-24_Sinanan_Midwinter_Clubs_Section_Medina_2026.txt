@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Shen, Ethan            MEDBG06D   440   544/ 15  W9  W4  W2  W5  4.0
+  2 Qin, Emilia            MEDBG05V   301   410/ 27  W6  W5  L1  W4  3.0
+  3 Liang, Nicole          MEDBG05Q   112   214/ 13  W7  D6  L4  W9  2.5
+  4 Poess, Emma            MEDCG05T   318   316/ 15  W10 L1  W3  L2  2.0
+  5 Wang, Wesley           MEDBG05P   113   190/ 20  W11 L2  W7  L1  2.0
+  6 Wu, Gareth             MEDBG06A   240   262/ 15  L2  D3  W9  D8  2.0
+  7 Xu, Bella              MEDCG05Z   192   149/ 16  L3  BYE L5  W10 2.0
+  8 Liu, Max               MEDBG06H   541   513/ 13  U   U   BYE D6  1.5
+  9 Xu, Amy                MEDCG05S   126   104/ 19  L1  W10 L6  L3  1.0
+ 10 Tang, Edwin            MEDBG05M   100   100/ 13  L4  L9  W11 L7  1.0
+ 11 Chen, Oscar            MEDBG05N   100   100/ 16  L5  U   L10 BYE 1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Roshan, Vihaan         MAYGG24K   523   630/  6  W2  W4  L3  2.0
+  2 Gorbatenko, Leon       CRKGH58G   645   635/ 31  L1  W3  D4  1.5
+  3 Xu, Jacky Y            SOMDJ59K   631   626/154  D4  L2  W1  1.5
+  4 Tupakula, Shourya      BENEG19X   640   571/  6  D3  L1  D2  1.0

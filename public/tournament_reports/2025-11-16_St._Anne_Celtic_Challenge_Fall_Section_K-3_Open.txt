@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Hoang, Leonard Bach    MRPCK88E  1028  1121/ 73  D14 W15 W11 D3  W5  4.0
+  2 Niu, Edwin             SOMCH73D   574   914/ 86  L11 W16 W12 W13 W3  4.0
+  3 Yu, Eric               SOMDK25N  1209  1199/170  W9  W12 W5  D1  L2  3.5
+  4 Guo, Serena            BCSCG63G   842   995/ 20  W6  L5  D7  W9  W8  3.5
+  5 Srinivasan, Atul       TBKCK65P  1097  1112/ 97  W7  W4  L3  W11 L1  3.0
+  6 Raman, Arjun           ETSDH96Y  1141  1094/ 46  L4  L7  W16 W14 W13 3.0
+  7 Charuvil Vinu, Suryen  RSHCJ89R   901   912/112  L5  W6  D4  L8  W15 2.5
+  8 Gaddam, Viraj          SSMDJ29S   729   843/ 50  L12 D9  W10 W7  L4  2.5
+  9 Yin, Nolan             SOMCH64W   931   918/ 82  L3  D8  W15 L4  W14 2.5
+ 10 Lin, Evan              SOMDJ72G   986   955/104  D15 L14 L8  W12 W11 2.5
+ 11 Byelashova, Sofia      SGHDK01K  1233  1156/233  W2  W13 L1  L5  L10 2.0
+ 12 Raghavendran, Vedanth  DCSCH24C  1036   979/ 46  W8  L3  L2  L10 W16 2.0
+ 13 Liu, Kyle              CHRDK00Z  1043   990/ 68  W16 L11 W14 L2  L6  2.0
+ 14 Li, Leo                BCABH11J   794   812/ 92  D1  W10 L13 L6  L9  1.5
+ 15 Wang, Max              CGRCK03S   512   574/ 53  D10 L1  L9  W16 L7  1.5
+ 16 Choo, Joshua           MRPCG02W   882   654/  8  L13 L2  L6  L15 L12 0.0

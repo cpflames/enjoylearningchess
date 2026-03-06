@@ -1,0 +1,57 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Orme, Sam              JMLGH43F   719   888/ 65  W38 W6  W33 W7  W3  5.0
+  2 Guzman, Tom            JMLGJ79D   712   792/ 78  W22 W13 W9  W4  L5  4.0
+  3 Orozco, Santiago       RRGHF84K   485   684/ 10  W18 W8  W16 W26 L1  4.0
+  4 Castaneda, Alonso      OCHGK69H   729   790/121  W14 W15 W25 L2  W11 4.0
+  5 Bagunu, Farrah         MCPI462U   716   748/127  L15 W23 W19 W25 W2  4.0
+  6 Spurgeon, Levi         RRGHH91C   619   687/ 50  W23 L1  W49 W20 W16 4.0
+  7 Gallegos, Sebastian J  RRGGH43J   639   735/ 50  W34 W32 W36 L1  W14 4.0
+  8 Avetisyan, Vincent     JMLHJ01Z   681   709/ 70  W35 L3  W39 W37 W13 4.0
+  9 Purcell, Blaine        RRGIH55B   367   578/ 58  W53 W34 L2  W27 W26 4.0
+ 10 Pentecost, Parker      RRGGH27F   436   532/ 45  D46 D48 W47 W17 W18 4.0
+ 11 Dahl, Heidi            JMLHH58K   605   668/ 89  W43 D26 W46 W15 L4  3.5
+ 12 Garcia, Sergio         RRGG733M   700   689/120  L25 W19 D30 W46 W32 3.5
+ 13 Shaw, Ryder            RRGGJ23U   524   596/ 80  W17 L2  W24 W36 L8  3.0
+ 14 Espinoza, Alejandro    JMLIJ81G   580   592/ 39  L4  W27 W41 W29 L7  3.0
+ 15 Allsop, Jett           STPGF98R   554   588/ 15  W5  L4  W50 L11 W40 3.0
+ 16 Garcia, Metzi          OCHGJ44Z   390   511/ 89  W55 W22 L3  W21 L6  3.0
+ 17 Monzon, Jesus Adrian   STPGJ79J   662   631/ 71  L13 W40 W45 L10 W28 3.0
+ 18 Mendez, Jaden          JMLHI40R   607   586/108  L3  W39 W51 W33 L10 3.0
+ 19 De La Torre, Ian R     LIBGK97E   414   479/ 95  W42 L12 L5  W51 W38 3.0
+ 20 Ines, Tristan          JMLGF54K   600   525/  5  L27 W42 W35 L6  W37 3.0
+ 21 Bowles, Nathaniel      JMLHJ80J   643   610/ 85  W31 L25 W40 L16 W33 3.0
+ 22 Qin, Mason             LLMGK97A   546   530/ 87  L2  L16 W52 W49 W39 3.0
+ 23 Cano Sanchez, Jaylen   STPGH43L   462   475/ 40  L6  L5  W55 W50 W36 3.0
+ 24 Shiley, Theodore       CMLHF54J   700   469/  5  L41 W55 L13 W35 W34 3.0
+ 25 Canseco, Sam           STPHH90Z   521   577/ 40  W12 W21 L4  L5  D29 2.5
+ 26 Banuelos, Arturo       OCHHD90C   661   646/171  W37 D11 W32 L3  L9  2.5
+ 27 Kimball, Samantha      ESGGG42G   371   432/ 30  W20 L14 D28 L9  W42 2.5
+ 28 Pheysey, Jackson       RRGGE81Y   584   556/107  L32 W29 D27 W30 L17 2.5
+ 29 Nolan, Lyla            CTKGD97L   387   415/ 45  W52 L28 W31 L14 D25 2.5
+ 30 Wilkinson, Corban      JMLIH91N   356   383/ 45  W44 L35 D12 L28 W47 2.5
+ 31 Vargas, Javier         RRGGH27L   494   437/ 40  L21 W50 L29 D47 W46 2.5
+ 32 Mccollum, Drew         JMLGJ03V   773   690/ 74  W28 L7  L26 W45 L12 2.0
+ 33 Bodes, Josiah          HSCIH27U   414   439/ 39  W51 W43 L1  L18 L21 2.0
+ 34 Rodriguez, Jarret      OCHGH43M   469   431/ 40  L7  L9  W54 W44 L24 2.0
+ 35 Rogers, Sterling       RRGHH27E   530   478/ 54  L8  W30 L20 L24 W48 2.0
+ 36 Saeedi, Hasiba         PRKGG12Y   384   390/ 20  W54 W38 L7  L13 L23 2.0
+ 37 Kubalek, Evander       RRGID38R   514   474/ 93  L26 W49 W44 L8  L20 2.0
+ 38 Guzman, Melany         OCHGK69G   571   501/119  L1  L36 W56 W41 L19 2.0
+ 39 Saenz, Abigail         STPI672R   412   384/ 99  W48 L18 L8  W55 L22 2.0
+ 40 Gonzalez, Marcus       RRGGJ62G   391   405/ 64  W56 L17 L21 W43 L15 2.0
+ 41 Cozad, Chloe           RRGG531M   367   348/118  W24 L46 L14 L38 W50 2.0
+ 42 Plowman, Melanie       RRGIH27S   193   208/ 29  L19 L20 W53 W52 L27 2.0
+ 43 Garcia, Emma           OCHHJ45L   737   620/ 90  L11 L33 W48 L40 W51 2.0
+ 44 Murphy, Presley        ENTIF54H   800   258/  5  L30 W56 L37 L34 W49 2.0
+ 45 Anderson, Ezekiel      RRGGG64P   392   340/ 20  L50 W54 L17 L32 W55 2.0
+ 46 Miranda, Saul          STPHH43E   255   294/ 44  D10 W41 L11 L12 L31 1.5
+ 47 Guzman, Enrique        STPGF54G   600   194/  5  L49 W52 L10 D31 L30 1.5
+ 48 Krieg, Remi            JMLGJ01J   129   163/ 44  L39 D10 L43 W54 L35 1.5
+ 49 Wilkinson, Ethan       JMLGH91E   313   260/ 42  W47 L37 L6  L22 L44 1.0
+ 50 Fultz, Parker          JMLHJ23X   109   128/ 65  W45 L31 L15 L23 L41 1.0
+ 51 De La Mora, Efren      RRGGJ79B   299   261/ 55  L33 W53 L18 L19 L43 1.0
+ 52 Ines, Kendall          JMLGF69C   100   100/ 10  L29 L47 L22 L42 W53 1.0
+ 53 Alanis, William        STPGF54F   600   100/  5  L9  L51 L42 W56 L52 1.0
+ 54 Gomez, Daniel          STPGF69G   100   100/ 10  L36 L45 L34 L48 W56 1.0
+ 55 Hernandez, Genie       JMLHK96J   100   100/ 67  L16 L24 L23 L39 L45 0.0
+ 56 Krieg, Dodger          JMLGH90Y   100   100/ 24  L40 L44 L38 L53 L54 0.0

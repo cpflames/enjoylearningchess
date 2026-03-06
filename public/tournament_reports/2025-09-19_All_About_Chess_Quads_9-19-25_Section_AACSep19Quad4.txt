@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Ethan James        SOMDK00K  1003  1130/223  W3  W2  W4  3.0
+  2 Krogstad, Jaxon        NCSEJ88M  1022  1022/195  D4  L1  W3  1.5
+  3 Sarangi, Samarth       CBRFH69F  1014   991/178  L1  W4  L2  1.0
+  4 Nandakiran, Vidyuth    SSMG617C   994   951/229  D2  L3  L1  0.5

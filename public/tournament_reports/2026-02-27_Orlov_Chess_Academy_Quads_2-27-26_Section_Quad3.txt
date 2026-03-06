@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Yu, Jamie              BKLDH59H   502   523/ 17  W2  W4  U3  W5  U   3.0
+  2 Goel, Dhruv            NCSEG66E   179   169/ 12  L1  U   W4  L3  U5  1.0
+  3 Oh, Jiyoung            ADUNG17Y   137   242/  4  U   U5  U1  W2  U4  1.0
+  4 Reddy, Siddhanth       ETADF39B   300   100/  3  D5  L1  L2  U   U3  0.5
+  5 Reddy, Saarthak        ETADF38Z   300   100/  2  D4  U3  U   L1  U2  0.5

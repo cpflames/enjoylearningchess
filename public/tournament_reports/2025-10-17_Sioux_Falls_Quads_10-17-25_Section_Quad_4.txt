@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Neff, Nathan           ABFDK07A   928  1001/116  W4  W2  W3  3.0
+  2 Dandar, Siggy          SDRDZ69K   760   823/ 36  W3  L1  W4  2.0
+  3 Thorpe, Lincoln        HSSG966V   861   825/ 52  L2  W4  L1  1.0
+  4 Davis, Lincoln         SDSFZ99N   721   666/126  L1  L3  L2  0.0

@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Patnaik, Rishabhdeva   PLKHG72D  1408  1519/258  W16 W6  W3  W2  W5  5.0
+  2 Konde, Tayshu          BOTK355E  1305  1456/175  W8  W10 W4  L1  W7  4.0
+  3 Zhang, Kevin           OMSH809Y  1445  1444/224  W13 W5  L1  D7  W9  3.5
+  4 Shi, Gavin             LCOLH855  1806  1773/525  W9  D14 L2  W12 W10 3.5
+  5 Chen, Julian           MEDDK32C  1288  1298/170  W12 L3  W6  W11 L1  3.0
+  6 Panda, Sourish         NJHHK98E  1068  1136/ 84  W11 L1  L5  W15 W12 3.0
+  7 Zandanov, Leonid       ENAEK31Q  1314  1334/227  HPB W13 W14 D3  L2  3.0
+  8 Poka, Dinesh           MOBIH52T   931  1027/ 47  L2  L9  BYE W16 W11 3.0
+  9 Wong, Gabriel          HEAHH35K  1168  1206/ 50  L4  W8  D10 W13 L3  2.5
+ 10 Patel, Aarya Pavan     REJHK30E  1573  1534/283  W17 L2  D9  W14 L4  2.5
+ 11 Bhasin, Palash         ISMHH95H  1319  1244/230  L6  W16 W15 L5  L8  2.0
+ 12 Bharadwaj, Rohan       ESCHG28P   646   709/ 19  L5  BYE W17 L4  L6  2.0
+ 13 Jung, Kaspian          ADDJG28B   972   976/ 17  L3  L7  W16 L9  WF  2.0
+ 14 Helmy, Yaseen          CMIGH64B  1298  1297/ 51  W15 D4  L7  L10 LF  1.5
+ 15 Davies, Damien         HEAHK68U  1085  1047/137  L14 W17 L11 L6  D16 1.5
+ 16 Klein, Logan           BOTJF68E  1093   956/ 10  L1  L11 L13 L8  D15 0.5
+ 17 Shukla, Dhruv          NJHIF78M  1103   950/  9  L10 L15 L12 U   U   0.0

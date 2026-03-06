@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Bala Gowda, Nihal      CTXHX04F   933  1112/155  D10 W8  W19 W7  3.5
+  2 Capodicasa, Robert     NYXNZ73B  1198  1264/ 20  D8  W25 W10 W4  3.5
+  3 Svolik, Daniel         CTXFZ33A  1130  1167/  4  W22 W11 D7  W9  3.5
+  4 Chung Ii, Michael      NYXNZ67M  1139  1207/ 11  W12 W21 W5  L2  3.0
+  5 Vunnam, Manvit Sai     NYXIZ339  1119  1155/  4  W13 W18 L4  W12 3.0
+  6 Ilichev, Timur         CTXFZ71H   911   988/  8  L11 W23 W16 W15 3.0
+  7 Bogart, Yosef          CTXIZ338  1009  1051/  4  W15 W14 D3  L1  2.5
+  8 Barber, Oliver Pau     CTXNZ336  1205  1193/  4  D2  L1  W24 W18 2.5
+  9 Rosenstein, Gabi       CTXIZ335  1069  1082/  4  W16 D19 W11 L3  2.5
+ 10 Kurapati, Avinash      CTXFX07C  1013  1017/ 46  D1  W24 L2  D14 2.0
+ 11 Gottam, Bhanutej       CTXDX02J   906   923/123  W6  L3  L9  W23 2.0
+ 12 Sivakoti, Pavan Gu     NYXIZ332  1136  1131/  4  L4  W20 W21 L5  2.0
+ 13 Medisetti, Rithwik     CTXHZ68T   815   885/ 15  L5  W17 L15 W19 2.0
+ 14 Merchant, Bradley      CTXFZ52C  1062  1054/ 10  W17 L7  D18 D10 2.0
+ 15 Mezheritskiy, Nathan   CTXIX045   952   952/112  L7  W22 W13 L6  2.0
+ 16 Hardin, Richard        CTXNZ52V  1200  1144/ 16  L9  BYE L6  W25 2.0
+ 17 Britt, Aaron           CTXNZ32Z  1050  1029/  4  L14 L13 W22 W21 2.0
+ 18 Zhao, Mingjun          MAXNZ32Y  1089  1070/  4  W20 L5  D14 L8  1.5
+ 19 Pearl, Roman           CTXNX12J   888   872/119  W23 D9  L1  L13 1.5
+ 20 Henry, Tucker Char     CTXKZ32X  1140  1076/  4  L18 L12 D25 W24 1.5
+ 21 Twining, Jackson G     CTXNZ32W  1115  1061/  4  W25 L4  L12 L17 1.0
+ 22 Bala Gowda, Nibha V    CTXJX04C   929   870/157  L3  L15 L17 BYE 1.0
+ 23 Panda, Tarushi         CTXHZ68D   609   581/ 15  L19 L6  BYE L11 1.0
+ 24 Cunningham, Michael D  CTXNX03W   627   613/117  BYE L10 L8  L20 1.0
+ 25 Kaparthi, Harshith     NYXJZ32V  1125  1051/  4  L21 L2  D20 L16 0.5

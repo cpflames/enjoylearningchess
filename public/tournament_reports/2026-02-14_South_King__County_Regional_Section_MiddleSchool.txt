@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kieu, Taaknuw          SYLIG76X  1084  1128/ 10  W2  W6  W3  W5  W4  5.0
+  2 Trinh, Jordan          NWJIJ86P   828   807/ 20  L1  W3  L4  W6  D5  2.5
+  3 Longieliere, Atticus   SYLIG76P   618   700/ 10  D5  L2  L1  W4  W6  2.5
+  4 Songco, Simon          NWJIH86K   866   807/ 15  W6  L5  W2  L3  L1  2.0
+  5 Nguyen, Justin         NWJIJ86L   691   693/ 20  D3  W4  L6  L1  D2  2.0
+  6 Songco, Jacob          NWJIH86G   509   518/ 14  L4  L1  W5  L2  L3  1.0

@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Liu, Max               MEDBG06H   100   753/  4  W13 W12 W2  W5  4.0
+  2 Tsang, Isa             MEDBG06G   100   454/  3  W9  BYE L1  W8  3.0
+  3 Shen, Ethan            MEDBG06D   100   347/  4  L12 W14 W9  W7  3.0
+  4 Ren, Lawrence          MEDBG06B   100   360/  4  L7  W13 W12 W10 3.0
+  5 Wu, Gareth             MEDBG06A   100   345/  4  W14 D8  W11 L1  2.5
+  6 Xu, Bella              MEDCG05Z   200   367/  2  D10 U   W13 BYE 2.5
+  7 Liu, Amelie            MEDCG05W   200   221/  4  W4  D11 D8  L3  2.0
+  8 Qin, Emilia            MEDBG05V   100   236/  4  W15 D5  D7  L2  2.0
+  9 Poess, Emma            MEDCG05T   200   216/  4  L2  W15 L3  W12 2.0
+ 10 Xu, Amy                MEDCG05S   200   248/  3  D6  U   W15 L4  1.5
+ 11 Liang, Nicole          MEDBG05Q   100   100/  3  BYE D7  L5  L13 1.5
+ 12 Wang, Wesley           MEDBG05P   100   136/  4  W3  L1  L4  L9  1.0
+ 13 Chen, Oscar            MEDBG05N   100   114/  4  L1  L4  L6  W11 1.0
+ 14 Tang, Edwin            MEDBG05M   100   100/  3  L5  L3  BYE L15 1.0
+ 15 Li, Lexi               MEDBG05L   100   100/  4  L8  L9  L10 W14 1.0
+
+ All Unrated-player Section: Ratings capped at 1000

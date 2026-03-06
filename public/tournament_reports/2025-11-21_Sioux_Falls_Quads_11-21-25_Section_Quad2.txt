@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hoellein, Carter       SDDGZ96L  1234  1317/181  W3  W4  W2  3.0
+  2 Oppold, Sage           SDLKZ281  1246  1256/211  W4  W3  L1  2.0
+  3 Albrecht, Ian          SDCGZ98P  1192  1168/169  L1  L2  W4  1.0
+  4 Winter, Noah           SDCGZ88H  1053  1012/116  L2  L1  L3  0.0

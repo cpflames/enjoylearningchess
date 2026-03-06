@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Wirkkala, Zane         HSCMC64H  1818  1845/ 85  W18 D7  W9  W2  3.5
+  2 Bharathy Mohan, Aarav  SKIHC98B  1897  1905/480  W11 W10 W3  L1  3.0
+  3 Mohan, Vishnu          SKIHF41R  1840  1846/233  W8  W17 L2  W9  3.0
+  4 Shi, Gavin             LCOLH855  1826  1828/517  L9  W15 W11 W6  3.0
+  5 Chen, Andy             SOMFK05J  1589  1666/159  D6  D12 W17 W10 3.0
+  6 Boulis, Christos       NWSMC84T  1775  1774/654  D5  W14 W7  L4  2.5
+  7 Zhang, Owen            SHMK995H  1649  1672/409  W19 D1  L6  W12 2.5
+  8 Badri, Sriram          SLLGV67W  1607  1627/ 26  L3  W16 D12 W14 2.5
+  9 Pan, Peng-ruei         EVJG759R  1611  1645/326  W4  W20 L1  L3  2.0
+ 10 Scollon, Owen          SHMK734D  1743  1731/617  W13 L2  W18 L5  2.0
+ 11 Zhang, Iris Runyi      REDL858X  1595  1613/431  L2  W13 L4  W17 2.0
+ 12 Tan, Johnny            DCCMJ72U  1673  1647/ 57  D14 D5  D8  L7  1.5
+ 13 Raj, Skandha           EVGDK55U  1554  1542/217  L10 L11 W15 D16 1.5
+ 14 Das, Sambuddha Sekhar  ENDFK47S  1537  1520/252  D12 L6  WF  L8  1.5
+ 15 Saripalli, Prahlada    XXOEW75E  1522  1525/  4  D20 L4  L13 W18 1.5
+ 16 Kwan-uchiyama, Avery   OMSHH22T  1491  1483/153  L17 L8  W19 D13 1.5
+ 17 He, Oliver             ENDFK71V  1572  1550/477  W16 L3  L5  L11 1.0
+ 18 Gagnier, Ian           HSCHC72H  1594  1565/276  L1  W19 L10 L15 1.0
+ 19 Lebedinsky, Alexander  ICKJ958F  1501  1452/323  L7  L18 L16 BYE 1.0
+ 20 Maharaja, Imai         HMNFK34K  1643  1618/363  D15 L9  LF  U   0.5

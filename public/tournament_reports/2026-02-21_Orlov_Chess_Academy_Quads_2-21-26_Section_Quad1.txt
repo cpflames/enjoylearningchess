@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ginotra, Karman        RKWGB15D  1304  1314/122  W3  W4  W2  3.0
+  2 Daniel, Lemuel         MMEEJ29L   868   863/123  W4  L3  L1  1.0
+  3 Mathew, Reuben         MRPBG33B   859   857/ 73  L1  W2  L4  1.0
+  4 Zeeshan, Hamza         CRKFJ15N   882   874/135  L2  L1  W3  1.0

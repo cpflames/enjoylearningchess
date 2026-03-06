@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ning, Pascal           SCDDJ14X   714   866/ 19  W3  W2  W4  3.0
+  2 Zhang, Eli             BASDH69C   823   829/119  W4  L1  W3  2.0
+  3 Kesher, Zavi           BENFH62L   674   667/ 63  L1  W4  L2  1.0
+  4 Katipally, Sahan       WOBEK31R   701   629/ 32  L2  L3  L1  0.0

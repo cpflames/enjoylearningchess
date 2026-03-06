@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Hessel, Riot           RGHKJ96D  1291  1320/ 17  W9  W4  W5  W2  4.0
+  2 Wilson, Nicholas D     LBYJJ58B  1247  1246/ 71  W14 W6  W3  L1  3.0
+  3 Weiss-hurd, Liam       GNMHG17N   973  1004/ 23  W13 W8  L2  W6  3.0
+  4 Brown, Bingham         CVBJG11B   863   934/  8  W12 L1  W11 W7  3.0
+  5 Hamsher, Jack          GPSMA99G   761   773/ 26  W10 W9  L1  L8  2.0
+  6 Price, Rachel          GPSMF94S   995   977/ 41  W7  L2  W12 L3  2.0
+  7 Byerly, Seth           WWMGG18T   600   815/  4  L6  W10 W8  L4  2.0
+  8 Waller, Spencer        CCHGW75F   600   782/  4  W11 L3  L7  W5  2.0
+  9 Brady, Devin           RGHJF67J   900   660/  4  L1  L5  W13 W11 2.0
+ 10 Johnson, Zeke          GNMGF67H   600   580/  3  L5  L7  BYE W12 2.0
+ 11 Chang, Kason           RGHHF67G   700   436/  4  L8  W13 L4  L9  1.0
+ 12 Mcnallen, Lucas        GPSJF67F   900   416/  4  L4  W14 L6  L10 1.0
+ 13 Grant, Spenecer        LWCHF67D   700   139/  3  L3  L11 L9  BYE 1.0
+ 14 Morales, Daniel        XXXHF67C   700   159/  2  L2  L12 U   U   0.0

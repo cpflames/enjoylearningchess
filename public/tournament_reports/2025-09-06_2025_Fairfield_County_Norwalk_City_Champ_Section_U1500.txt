@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Khalil, Mark           CTXNX03G  1483  1469/120  W4  W5  L2  W6  3.0
+  2 Pompa, Grady           CTXHX07V  1241  1283/112  W6  W13 W1  L3  3.0
+  3 Capodicasa, Robert     NYXNZ73B  1157  1219/ 12  W10 W7  L5  W2  3.0
+  4 Lu, Louie              CTXGZ54T  1127  1185/ 16  L1  W11 W13 W5  3.0
+  5 Deeney, Samuel         NJXNZ40Z  1143  1156/  4  W11 L1  W3  L4  2.0
+  6 Jones, Chase           CTXGZ54N  1058  1115/ 16  L2  W14 W7  L1  2.0
+  7 Todd, Forde            PAXNX12N  1277  1233/ 20  W8  L3  L6  W12 2.0
+  8 Au, Rishi Ram          NYXBZ40Y  1075  1063/  4  L7  L10 W14 W13 2.0
+  9 Shi, Alice             NYXJZ72U  1050  1060/  5  WF  W12 U   U   2.0
+ 10 Bala Gowda, Nihal V    CTXHX04F   921   911/143  L3  W8  L12 D11 1.5
+ 11 Bala Gowda, Nibha V    CTXJX04C   926   902/146  L5  L4  BYE D10 1.5
+ 12 Brown, David M Sr      CTXNZ469   667   757/  8  HPB L9  W10 L7  1.5
+ 13 Gebril, Ahmed Ayman    CTXNZ40X  1300   940/  4  W14 L2  L4  L8  1.0
+ 14 Kurapati, Avinash      CTXFX07C  1100  1011/ 38  L13 L6  L8  BYE 1.0

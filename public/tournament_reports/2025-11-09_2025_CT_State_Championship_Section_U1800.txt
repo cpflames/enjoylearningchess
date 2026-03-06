@@ -1,0 +1,40 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Ren, Eric              CTXIZ53M  1744  1794/ 16  W39 W23 W4  W6  4.0
+  2 Garaev, Ruslan         CTXNZ33R  1565  1618/  4  W32 W15 W20 W10 4.0
+  3 Anatra, Owen Chanc     CTXIZ33P  1735  1756/  4  W33 D24 W12 W11 3.5
+  4 Singh, Aarav           NYXFZ33N  1817  1822/  4  W27 W5  L1  W14 3.0
+  5 Zimmerman, Nicolas     CTXNX06M  1658  1701/112  W8  L4  W23 W17 3.0
+  6 Kirubakaran, Gauth     MAXDZ52G  1571  1647/ 16  W30 W25 W14 L1  3.0
+  7 Lesi, Adeyinka A       CTXNZ41A  1703  1713/ 12  W21 L14 W15 W16 3.0
+  8 Ghosh, Arush           CTXJX00W  1688  1711/143  L5  W27 W34 W19 3.0
+  9 Smith, Elizabeth C     CTXNX01C  1496  1515/119  HPB W37 D11 W18 3.0
+ 10 Adelstein, Ben Nec     CTXMZ73N  1675  1675/  8  D13 W38 W24 L2  2.5
+ 11 Clancy, Daniel Cal     NYXFZ33L  1371  1410/  4  W31 W26 D9  L3  2.5
+ 12 Vijay, Shritan S       CTXIZ53J  1599  1621/ 12  D38 W13 L3  W24 2.5
+ 13 Epelbaum, Shawn        NYXJZ33K  1545  1550/  4  D10 L12 W37 W26 2.5
+ 14 Newell, Wyelin Olufemi CTXMX01H  1593  1612/120  W17 W7  L6  L4  2.0
+ 15 Khalil, Mark           CTXNX03G  1503  1504/124  W22 L2  L7  W29 2.0
+ 16 Markosyan, Maria       CTXNZ33J  1300  1470/  4  D26 D18 W22 L7  2.0
+ 17 Gerdon, Matthew Ja     CTXNX06N  1586  1595/112  L14 W21 W25 L5  2.0
+ 18 Alperin, Yan           MAXNZ33H  1300  1393/  4  D37 D16 W35 L9  2.0
+ 19 Cyr, Joseph            MAXNX01N  1743  1722/128  L25 W30 W28 L8  2.0
+ 20 Lu, Louie              CTXGZ54T  1332  1367/ 23  W29 W36 L2  U   2.0
+ 21 Ni, Lawrence           MAXFX06Z  1545  1541/ 58  L7  L17 W39 W28 2.0
+ 22 Knowles, Daniel C      CTXNZ68X  1490  1473/ 16  L15 W32 L16 W27 2.0
+ 23 Pendexter, Lee         MAXNZ39P  1648  1592/  6  W34 L1  L5  D25 1.5
+ 24 Kingsley, Peter F      MAXNX03B  1597  1592/116  W28 D3  L10 L12 1.5
+ 25 Katta, Thanveen Te     NYXNZ39M  1683  1655/  8  W19 L6  L17 D23 1.5
+ 26 Prem Kumar, Dhanva     MAXCZ50R  1294  1297/ 12  D16 L11 W29 L13 1.5
+ 27 Shamas, Aidan          CTXNX11Q  1485  1479/127  L4  L8  W33 L22 1.0
+ 28 Aneziris, Charilao     NYXNZ39L  1611  1578/  8  L24 W33 L19 L21 1.0
+ 29 Coggin, Paul Mikhail   CTXIX03X  1244  1200/121  L20 BYE L26 L15 1.0
+ 30 Woodruff, Charles      MAXNZ45X  1562  1541/  7  L6  L19 W31 U   1.0
+ 31 Katz, Evan             CTXNZ33G  1300  1185/  4  L11 L35 L30 W37 1.0
+ 32 Kousen, Kenneth A      CTXNZ33F  1300  1073/  2  L2  L22 BYE U   1.0
+ 33 Pasco, John            CTXNX00Z  1700  1636/115  L3  L28 L27 BYE 1.0
+ 34 Tsuchida-tomashev, WinnNYXDZ33E  1636  1596/  3  L23 W39 L8  U   1.0
+ 35 Zhou, Francis          NYXBZ39C  1338  1314/  7  L36 W31 L18 U   1.0
+ 36 Fleming, Edward        MDXAZ33D  1360  1358/  2  W35 L20 U   U   1.0
+ 37 Deshpande, Daniel      CTXJZ51T  1330  1286/  7  D18 L9  L13 L31 0.5
+ 38 Mutukulloju, Varun     NJXGZ33C  1598  1583/  2  D12 L10 U   U   0.5
+ 39 Bresnan, Mark          CTXNZ33B  1300  1145/  3  L1  L34 L21 U   0.0

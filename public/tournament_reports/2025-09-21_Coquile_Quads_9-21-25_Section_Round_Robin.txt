@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Scott, Ruth            CQEEW85Z   762   759/ 52  W4  W3  BYE D5  W2  4.5
+  2 Gibbs, Logan           CQEEW78V   470   489/ 20  W5  BYE W4  D3  L1  3.5
+  3 Hughes, Ruckus Charles SMDHW86C   530   502/ 48  BYE L1  W5  D2  D4  3.0
+  4 Mangin, Alice          CQEDW78Q   213   268/ 18  L1  W5  L2  BYE D3  2.5
+  5 Persson, Ezechial      CQEDW772   224   203/ 11  L2  L4  L3  D1  BYE 1.5

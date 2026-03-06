@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mills, Ta'te           SDYIZ98Q   455   602/ 70  W3  W2  W4  3.0
+  2 Guetter, Nolan         BVIGZ95Z   365   454/ 38  W4  L1  W3  2.0
+  3 Sivaprakash, Yaathith  SDDDZ31G   407   380/  6  L1  W4  L2  1.0
+  4 Mcdade, Max            SDGDZ52S   511   401/ 26  L2  L3  L1  0.0

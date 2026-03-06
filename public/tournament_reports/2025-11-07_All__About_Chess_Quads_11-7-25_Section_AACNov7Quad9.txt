@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Komin, Michael         SOMFG01Y   500   612/  3  W2  W4  W5  3.0
+  2 Haycraft, Ethan        IFSDG36K   100   227/ 29  L1  W3  W6  2.0
+  3 Pfau, Zacharias        SOMAG09C   100   185/  6  W5  L2  W4  2.0
+  4 Reddy, Atharv          GRRBG25J   100   110/  7  W6  L1  L3  1.0
+  5 Tanielian, Theo        WOBBG19Q   100   106/ 12  L3  W6  L1  1.0
+  6 Karanam, Dhruthi       LCSDH10X   100   100/ 21  L4  L5  L2  0.0

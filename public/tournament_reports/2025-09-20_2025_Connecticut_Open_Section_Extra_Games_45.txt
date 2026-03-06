@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Wu, Cody               CTXGX11H  1892  1896/136  W3  U   1.0
+  2 Ghosh, Arush           CTXJX00W  1678  1680/135  U   W4  1.0
+  3 Gerdon, Matthew Ja     CTXNX06N  1592  1586/108  L1  U   0.0
+  4 Capodicasa, Robert     NYXNZ73B  1182  1179/ 16  U   L2  0.0

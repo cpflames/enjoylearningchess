@@ -1,0 +1,25 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Mcintyre, John B       HSCHJ63F  1499  1474/ 93  W8  W4  W21 L5  W2  4.0
+  2 Price, Rachel          GPSMF94S   919   995/ 37  W17 W10 W3  W13 L1  4.0
+  3 Jain, Asmi             SGSFB47J   765   827/ 96  W18 W9  L2  W12 W11 4.0
+  4 Bray, Patrick          HDPFG58Z  1096  1124/ 35  W7  L1  W6  W21 W13 4.0
+  5 Dinesh Babu, Darshini  GNAFH50D  1149  1165/ 56  W15 W14 L13 W1  W21 4.0
+  6 Higgins, Peter         GONHJ57Y   791   805/ 64  W16 D12 L4  W20 W7  3.5
+  7 Puri, Kayaan           SGSH159A   575   676/ 36  L4  W18 W14 W8  L6  3.0
+  8 Phelps, Shaun          NOSGH40S   652   679/ 44  L1  W20 W16 L7  W14 3.0
+  9 Young, Daniel          EVAIJ96U   700   683/106  W24 L3  W17 L11 W12 3.0
+ 10 Duncan, Aj D           MCSFH49T   715   701/ 61  W22 L2  L12 W15 W16 3.0
+ 11 Phelps, Scott          NOSEH40T   488   601/ 44  L21 W24 W15 W9  L3  3.0
+ 12 Modha, Reyansh         LBYGH68R   686   679/ 23  W23 D6  W10 L3  L9  2.5
+ 13 Ji, Melody             LBYEA83X   900   914/111  D20 W21 W5  L2  L4  2.5
+ 14 Rushton, Finley        LBYIH50E   760   695/ 24  W19 L5  L7  W18 L8  2.0
+ 15 Odell, Eric            LBYEH49Y   624   591/ 45  L5  W19 L11 L10 W20 2.0
+ 16 Rawlings, Alexander    SJVFH49Z   382   379/ 23  L6  W23 L8  W22 L10 2.0
+ 17 Jimenez, Malcolm       NSVFJ26U   457   409/ 30  L2  W22 L9  L19 W24 2.0
+ 18 Johnson, Austin        NSVFH49W   216   250/ 40  L3  L7  W24 L14 W23 2.0
+ 19 Puri, Vivaan           SGSE111Q   133   233/ 28  L14 L15 L20 W17 W22 2.0
+ 20 Richards, Benjamin     NSVEH49S   451   452/ 50  D13 L8  W19 L6  L15 1.5
+ 21 Eakin, Anthony         CHGIG65P   929   885/ 37  W11 L13 L1  L4  L5  1.0
+ 22 Hegwood, Oliver        LBYFG65R   100   100/  9  L10 L17 W23 L16 L19 1.0
+ 23 Fuher, Wesley          PPADF97Z   300   100/  5  L12 L16 L22 W24 L18 1.0
+ 24 Holcomb, Calder        SGSBH41C   100   100/ 31  L9  L11 L18 L23 L17 0.0

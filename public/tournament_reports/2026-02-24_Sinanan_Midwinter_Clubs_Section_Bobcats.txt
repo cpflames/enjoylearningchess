@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Wang, Harvey           OPWDJ68G  1440  1459/229  W6  W4  2.0
+  2 Bravenboer, Jake       OPWFJ97Y  1542  1551/209  W8  W5  2.0
+  3 Sembium, Aditi         OPWFK25W  1202  1207/380  W9  W8  2.0
+  4 Khudyev, Elina Umi     OPWDJ97Q  1401  1382/138  W7  L1  1.0
+  5 Deng, Arthur           OPWEC90Y  1317  1307/216  W10 L2  1.0
+  6 Gattamneni, Aarav      OPWDJ19Q   743   745/ 42  L1  W9  1.0
+  7 Zhang, Anthony         OPWBH18B   457   471/ 28  L4  W10 1.0
+  8 Lam, Sebastian         OPWDJ97R   807   800/120  L2  L3  0.0
+  9 Lo, Logan              OPWDH59X   256   251/ 23  L3  L6  0.0
+ 10 Mehta, Sanjay          OPWFH60A   229   213/ 14  L5  L7  0.0

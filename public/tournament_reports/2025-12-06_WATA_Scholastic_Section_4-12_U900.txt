@@ -1,0 +1,39 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Krishna, Vihaan        REEE263E   807   984/ 47  W34 W26 W10 W6  W2  5.0
+  2 Paine, Clara           OVLGK01Z   822   921/111  W20 W9  W22 W3  L1  4.0
+  3 Poka, Dinesh           MOBIH52T   841   931/ 43  W12 W5  W13 L2  W8  4.0
+  4 Lo, Royden             BCSFG60G   625   797/ 10  D6  W33 D15 W22 W11 4.0
+  5 Bansal, Neev           KKNEH05Z   722   823/ 36  W35 L3  W23 W10 W12 4.0
+  6 Gunadekar, Sharvil     BRHFG17T   765   834/ 14  D4  W23 W19 L1  W14 3.5
+  7 Dalakoti, Shivani      BLMHG24V   890   873/ 26  W28 L13 W32 D9  W18 3.5
+  8 Veeramani, Harish      LMAFG31Z   672   792/ 20  W18 D15 W16 WF  L3  3.5
+  9 Gupta, Aayansh         CPJGH73A   668   722/ 49  W37 L2  W34 D7  W20 3.5
+ 10 Battala, Pradhyun Sai  SSMEJ29A   633   751/ 44  W30 W21 L1  L5  W24 3.0
+ 11 Spataro, Anna          STTEK65C   646   757/ 55  L16 W25 W24 W13 L4  3.0
+ 12 So, Brandon            CCDEK01X   638   716/ 86  L3  W35 W17 W15 L5  3.0
+ 13 Dai, Aaron             CMCFH06E   788   787/ 36  W36 W7  L3  L11 W29 3.0
+ 14 Kenny, Collin          HRYHC25W   400   600/  9  L22 W29 W26 W21 L6  3.0
+ 15 Paley, Harold          IMSHH70Q   830   800/ 45  WF  D8  D4  L12 W25 3.0
+ 16 Gaddam, Vihaan         INGGJ28E   894   881/ 59  W11 D19 L8  HPB W22 3.0
+ 17 Anant Sundaram, Parth  SSMFJ56Q   752   746/ 73  HPB HPB L12 W34 W27 3.0
+ 18 Dhanalakota, Nikhil    HEAHF81G   700   722/  5  L8  D20 W33 W19 L7  2.5
+ 19 Gupta, Akshay          HMNDF62T   790   758/126  W25 D16 L6  L18 W32 2.5
+ 20 Byambasaikhan, EnkhtulgSYRFH37V   586   599/ 29  L2  D18 W38 W32 L9  2.5
+ 21 Thati, Rutvik Reddy    RKWFG17X   793   749/ 33  W27 L10 HPB L14 W33 2.5
+ 22 Joseph, George KochumurCDIEH11C   798   772/113  W14 W24 L2  L4  L16 2.0
+ 23 Rawat, Advik           CRIEG24U   576   588/ 17  W31 L6  L5  L24 W38 2.0
+ 24 Prasanna, Charan       LMAFJ46Z   870   786/ 90  W29 L22 L11 W23 L10 2.0
+ 25 Sorensen, George       OVLFH53E   503   550/ 60  L19 L11 W30 W28 L15 2.0
+ 26 Ponomarenko, Adrian    CHREK10P   675   574/ 10  W38 L1  L14 L27 W36 2.0
+ 27 Muthinti, Abhiram      HMNEK27S   523   522/ 54  L21 L31 W37 W26 L17 2.0
+ 28 Surapaneni, Manoah     PROEH77Z   646   601/ 29  L7  W36 L31 L25 W35 2.0
+ 29 Koul, Navika           CAVFJ83L   640   595/ 98  L24 L14 W36 W35 L13 2.0
+ 30 Madhavapeddi, Sriyansh XXXFG21T   836   614/  9  L10 L32 L25 W37 W34 2.0
+ 31 Petito, John           PURF453W   810   788/ 52  L23 W27 W28 LF  U   2.0
+ 32 Balaji, Sai Nidhish    RHJHG30L   322   427/  9  D33 W30 L7  L20 L19 1.5
+ 33 Peng, Eric             INGHJ31E   707   626/ 84  D32 L4  L18 W38 L21 1.5
+ 34 Besati, Arnav          RKWFJ74G   572   512/ 64  L1  W37 L9  L17 L30 1.0
+ 35 So, Jason              MEDGJ87M   396   350/ 21  L5  L12 BYE L29 L28 1.0
+ 36 Naveen Kumar, Aadvik   SEHEF95G   418   316/  8  L13 L28 L29 BYE L26 1.0
+ 37 Sachin, Siddhanth      TMMHF81F   700   125/  4  L9  L34 L27 L30 BYE 1.0
+ 38 Stallard, Calvin       HMNEH73H   318   270/ 16  L26 BYE L20 L33 L23 1.0
