@@ -1,0 +1,30 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Patterson, Ben         CHHLI54X  1725  1764/116  W20 W8  W3  W2  W5  5.0
+  2 Bhatia, Tanush         SKNK5224  1715  1711/349  W19 W9  W7  L1  W8  4.0
+  3 Davis, Aiden           ADCKK70N  1414  1437/ 58  W21 W11 L1  W17 W12 4.0
+  4 Tam, Oliver            DCCJ394H   962  1210/ 51  L8  W24 W10 W9  W6  4.0
+  5 Krishnakumar, Vishresh EALKJ46M  1407  1428/ 48  W22 W18 W6  D16 L1  3.5
+  6 Carper, Jack           PULKG86W  1450  1423/175  W12 W10 L5  W11 L4  3.0
+  7 Repalle, Vibhav        HHSJK31L  1370  1368/105  W14 W13 L2  L12 W16 3.0
+  8 Chavez Vargas, Angel   CWHM858A  1354  1376/ 77  W4  L1  W17 W13 L2  3.0
+  9 Kaiphanliam, Kieren SisCWHJK52X  1241  1241/ 54  W23 L2  W14 L4  W20 3.0
+ 10 Mendoza, Oscar         CWHKI229  1236  1225/312  W25 L6  L4  W18 W22 3.0
+ 11 Empil, Landershane     BBTJJ82B  1192  1207/ 37  W24 L3  W15 L6  W18 3.0
+ 12 Lechner, Liam          DCCJ591P  1192  1217/ 91  L6  W29 W22 W7  L3  3.0
+ 13 Fong, Matthew          RASJ683T  1095  1100/201  W27 L7  W28 L8  W23 3.0
+ 14 Hall, Preston          CWHJ6381   948  1002/114  L7  W27 L9  W28 W17 3.0
+ 15 Guizar, Kevin          CWHKI02P   927  1008/ 99  L16 W19 L11 W21 W26 3.0
+ 16 Arias Padilla, Jose    RICL888V  1410  1366/114  W15 L17 W20 D5  L7  2.5
+ 17 Graham, Connor         CWHL5610  1175  1160/204  W26 W16 L8  L3  L14 2.0
+ 18 Alford, Isaiah         CWHL925Y  1095  1073/ 40  W28 L5  W23 L10 L11 2.0
+ 19 Moreno Prado, Brandon  CWHMC596  1066  1015/247  L2  L15 W29 L23 W27 2.0
+ 20 Hernandez, Marcelo     CWHLK986  1033  1032/196  L1  W25 L16 W27 L9  2.0
+ 21 Perez Birrueta, Rafael CWHJK60W   966   930/ 63  L3  L23 W26 L15 W29 2.0
+ 22 Bragg, Brennen         CWHJK68P   956   965/ 23  L5  W26 L12 W24 L10 2.0
+ 23 Mendoza, Leonardo      CWHK1126   900   927/292  L9  W21 L18 W19 L13 2.0
+ 24 Paw Myint, John Sein   CWHJJ81W   878   875/ 25  L11 L4  W25 L22 W28 2.0
+ 25 Arias Padilla, Alondra RICKK68G   862   820/ 18  L10 L20 L24 W29 BYE 2.0
+ 26 Medrano, Axel          CWHJB48G   805   752/ 53  L17 L22 L21 BYE L15 1.0
+ 27 Beckley, Ethan         CWHJH76F   783   740/ 33  L13 L14 BYE L20 L19 1.0
+ 28 Wampole, Caleb         CWHJ133K   604   581/ 76  L18 BYE L13 L14 L24 1.0
+ 29 Dedmond, Charles       CWHKJ81L   519   500/ 18  WF  L12 L19 L25 L21 1.0

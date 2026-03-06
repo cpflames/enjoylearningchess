@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Byelashova, Darya      SGHDK51X   977  1069/ 94  W2  D4  W3  2.5
+  2 Heydarova, Aliya       BLWEH95D   535   615/  9  L1  W6  W5  2.0
+  3 Velea, Stephanie       TSTLD353  1799  1752/340  W4  D5  L1  1.5
+  4 Heydarov, Rasul        BLWFH95F   960   975/  9  L3  D1  W6  1.5
+  5 Byelashova, Sofia      SGHBK01K   708   702/ 59  W6  D3  L2  1.5
+  6 Nishino, Anne          BCACH74F   200   212/  3  L5  L2  L4  0.0

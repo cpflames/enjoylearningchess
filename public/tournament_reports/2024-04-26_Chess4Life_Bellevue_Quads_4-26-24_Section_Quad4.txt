@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Deepak, Sairaghav      PLKIA52Q   702   708/ 52  W4  L2  W3  2.0
+  2 Jain, Anvay            EBSG874Z   611   653/ 54  W3  W1  L4  2.0
+  3 George, Ameya          EBSEK88Y   632   602/ 51  L2  W4  L1  1.0
+  4 Kapoyos, Rain          CSIHK42X   572   556/  9  L1  L3  W2  1.0

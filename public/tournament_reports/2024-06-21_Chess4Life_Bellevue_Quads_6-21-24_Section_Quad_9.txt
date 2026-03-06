@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Liu, Brayden           XXXDH69D   300   691/  3  W5  W4  W2  3.0
+  2 Asthana, Vihaan        CMCCJ89X   157   291/  6  W4  W3  L1  2.0
+  3 Talukdar, Yuvaan       NCAAH76K   126   179/ 10  W6  L2  W5  2.0
+  4 Zhang, Eli             XXXBH69C   100   189/  3  L2  L1  W6  1.0
+  5 Johnson, Ajay          GTMGH69B   600   136/  3  L1  W6  L3  1.0
+  6 Prabhu, Anika          BCADH79S   100   100/  5  L3  L5  L4  0.0

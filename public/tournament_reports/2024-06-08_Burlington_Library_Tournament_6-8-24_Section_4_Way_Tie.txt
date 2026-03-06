@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Vendeland, Xander      HSCED01Q   807   818/ 98  W3  W2  L4  2.0
+  2 Morales, Antonio       LUUHJ99H   698   717/  6  W5  L1  W6  2.0
+  3 Aguila-contreras, EdgarHORHJ65J   663   707/ 38  L1  W4  W5  2.0
+  4 Hauptmann, Elian       HSCHJ44N   662   710/  9  W6  L3  W1  2.0
+  5 Clark, Finn            MSNEJ99M   428   451/ 19  L2  W6  L3  1.0
+  6 Morales-ortega, Zaul   WVEFJ99J   855   558/  6  L4  L5  L2  0.0

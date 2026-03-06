@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Elder, Hunter          CUECH68K   100   346/  6  W8  W5  W3  3.0
+  2 Louws, Micah           CUEBJ16B   262   287/ 31  W4  L3  W5  2.0
+  3 Melnik, Mark           TCIDH69M   193   293/ 12  W7  W2  L1  2.0
+  4 Hardin, Noah           LYADH68E   162   221/  9  L2  W7  W8  2.0
+  5 Russell, Huxley        BLEDH73W   228   198/ 17  W6  L1  L2  1.0
+  6 Brown, Jordan          HSCCJ64H   100   100/ 14  L5  D8  D7  1.0
+  7 Neff, William          CCXBH69K   317   213/ 18  L3  L4  D6  0.5
+  8 Bae, Micaiah           FACCJ64T   259   180/ 24  L1  D6  L4  0.5

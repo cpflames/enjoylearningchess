@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Patterson, Ben         CHHLI54X  1764  1781/121  W15 W12 W4  W2  W5  5.0
+  2 Li, Jessie             IDXFY99Q  1406  1414/ 30  W8  W7  W11 L1  W6  4.0
+  3 Bair, Morgan           NCLJK50T  1085  1124/ 24  L11 W5  W13 W12 W7  4.0
+  4 Keener, Karl           HLHIY40G  1345  1310/147  W9  W13 L1  L7  W12 3.0
+  5 Li, Roy                IDXCY99P  1175  1169/ 30  W10 L3  W15 W11 L1  3.0
+  6 Bai, Kelin             SKKFD75J   960   957/222  W16 L11 W9  W14 L2  3.0
+  7 Edlund, Caleb          WAXGJ88D   953  1008/ 40  W14 L2  W10 W4  L3  3.0
+  8 Ji, Melody             SGSCA83X   705   702/ 78  L2  L14 BYE W16 D11 2.5
+  9 Li, Junyi              IDXHY99G   609   662/ 24  L4  BYE L6  D10 W15 2.5
+ 10 Jones, Taisei          XXXIH68V   800   697/  5  L5  W17 L7  D9  W16 2.5
+ 11 Grace, Leo             HSCDH68U   300  1068/  5  W3  W6  L2  L5  D8  2.5
+ 12 Mcintyre, John         HSCFJ63F   836   839/ 40  W17 L1  W14 L3  L4  2.0
+ 13 Milonas, Asher         LLKDJ73D   539   640/  8  BYE L4  L3  W15 U   2.0
+ 14 Grace, Sophia          HSCBH68T   100   675/  5  L7  W8  L12 L6  W17 2.0
+ 15 Wang, Kelby            SKKD796Y   828   751/146  L1  W16 L5  L13 L9  1.0
+ 16 Dickinson, Jaxon       CETGH68S   600   368/  5  L6  L15 W17 L8  L10 1.0
+ 17 Modha, Reyansh         LBYFH68R   500   100/  4  L12 L10 L16 BYE L14 1.0

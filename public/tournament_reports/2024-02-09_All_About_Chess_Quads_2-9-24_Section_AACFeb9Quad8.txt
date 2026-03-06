@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Srinivasan, Shriyan    SCDFK16B   365   471/  8  W4  W2  W3  3.0
+  2 Krogstad, Jaiden       NCSEJ88J   344   365/ 24  W3  L1  W4  2.0
+  3 Zhang, Chuxuan         BCAFK02N   361   275/  6  L2  W4  L1  1.0
+  4 Chettiyarath, Vihaan   BLWCJ81Y   173   116/ 20  L1  L3  L2  0.0

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Siripurapu, Pranal     EALLH88T  1100  1302/  3  W6  W2  W3  3.0
+  2 Pandit, Vihaan         LAVFJ99D   575   644/ 41  W4  L1  W6  2.0
+  3 Mckeown, Ryan          SD5KZ826  1000   893/  3  W5  W4  L1  2.0
+  4 Mehrotra, Ashank       PLKI457S   463   478/ 29  L2  L3  W5  1.0
+  5 Taulu, Otso            CSICJ70S   554   500/ 26  L3  D6  L4  0.5
+  6 Chaporkar, Nihar       ENSDK65B   520   495/ 19  L1  D5  L2  0.5

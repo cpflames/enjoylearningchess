@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Neyland, Dashel        HSCFK03K  1159  1194/ 15  W4  W3  W2  3.0
+  2 Garg, Vihaan           CMCDJ10X   980  1004/181  W3  W4  L1  2.0
+  3 Acharya, Arnav         KMNG746Q   933   917/ 43  L2  L1  W4  1.0
+  4 Taylor, Ryder          KAMK385C   824   780/336  L1  L2  L3  0.0

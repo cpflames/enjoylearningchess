@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Rachiba, Alisa         EVPDK08E  1220  1244/ 61  W7  W4  W8  W2  W6  5.0
+  2 Nagpal, Ronen          WMEEK13Q   726   805/ 34  W19 W15 W3  L1  W8  4.0
+  3 Muscutt, Abraham       HSCEJ71L   690   736/ 10  W21 W16 L2  W9  W7  4.0
+  4 Byelashova, Darya      SGHDK51X   670   718/ 52  W9  L1  D6  W11 W14 3.5
+  5 Hopkins, Spencer       HSCEJ52M   400   618/  5  D6  W20 W11 L7  W12 3.5
+  6 King, Oliver           WKEEK36M   866   836/ 35  D5  W17 D4  W15 L1  3.0
+  7 Zhang, Amy             NBEDF80L   300   692/  5  L1  W21 W10 W5  L3  3.0
+  8 Du, Charles            SOMEA15U   693   698/ 52  W14 W10 L1  W16 L2  3.0
+  9 Gerboth, Connor        REOEJ52L   400   500/  5  L4  W19 W18 L3  W16 3.0
+ 10 Hopkins, Declan        REOEJ52J   400   519/  5  W13 L8  L7  W19 W15 3.0
+ 11 Twombly-borst, Henry   CWADA01R   245   274/ 20  D20 W12 L5  L4  W17 2.5
+ 12 Prasanna, Supriti      REOEJ52H   400   254/  5  D17 L11 W20 W13 L5  2.5
+ 13 Murphy, Pryor          FSEDK16W   236   214/ 20  L10 L14 W22 L12 W21 2.0
+ 14 Kumar, Ananya          REOEJ52G   400   357/  5  L8  W13 L15 W18 L4  2.0
+ 15 Maranan, Ethan         SLTEJ52F   400   436/  5  W22 L2  W14 L6  L10 2.0
+ 16 Roman, Marcus Caeden   SHWEJ52E   400   350/  5  W18 L3  W17 L8  L9  2.0
+ 17 Frevert, Rusher        GRIEK27Y   100   124/ 10  D12 L6  L16 W22 L11 1.5
+ 18 Surineni, Aaditri      MSMDJ52D   300   134/  5  L16 W22 L9  L14 D20 1.5
+ 19 Kotsinyan, Robert      EVPDJ56V   184   187/  9  L2  L9  D21 L10 W22 1.5
+ 20 Kundur, Saanvi         ORLDJ52B   300   100/  5  D11 L5  L12 D21 D18 1.5
+ 21 Brar, Angad            CENDJ52A   300   100/  5  L3  L7  D19 D20 L13 1.0
+ 22 Kanchukatla, Kashvi    MCKEJ51Z   400   100/  5  L15 L18 L13 L17 L19 0.0

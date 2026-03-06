@@ -1,0 +1,32 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Jokela, Artur          JUHKJ61D   994  1027/ 68  W21 W14 HPB W8  D2  W10 5.0
+  2 Conwell, Atticus       BHMLK71E   756   874/ 17  HPB HPB W30 W13 D1  W12 4.5
+  3 Appel, Jaden           AHSJJ46V   747   834/  9  HPB HPB W23 W17 D7  W13 4.5
+  4 Reynolds, James        SPRJJ77H   700   696/ 19  HPB HPB L17 W22 W19 W15 4.0
+  5 Rangel Mejia, Pedro    TJHMK56H   652   680/ 26  W20 W31 L13 W26 L8  W17 4.0
+  6 Peterson, Caden        BHMKJ85V   663   659/ 23  HPB HPB W27 W18 L17 W16 4.0
+  7 Sharma, Sanchit        TJHKJ50G   620   706/ 16  W19 D13 D11 D24 D3  W14 4.0
+  8 Sackman, Ian           OHSMH99R  1200   985/  5  W25 W23 W12 L1  W5  U   4.0
+  9 Vu, Ryan               SENMK79H   616   569/ 21  L18 D20 W21 L11 W28 W24 3.5
+ 10 Fransico-woodenlegs, JoMRDL680H   615   657/ 49  HPB HPB W18 W19 D12 L1  3.5
+ 11 Ding, Calvin           KAMKJ19E   559   620/  8  L12 W18 D7  W9  L14 W21 3.5
+ 12 Shreve, Zeek           KNCKH99Q  1000   792/  6  W11 W24 L8  W16 D10 L2  3.5
+ 13 Qazi, Mustafa          JUHMH99P  1200   743/  6  W27 D7  W5  L2  W24 L3  3.5
+ 14 Truong, Tein           PRHKK11W   730   675/ 25  W29 L1  L26 W28 W11 L7  3.0
+ 15 Lee, Jensen            MRDK947B   615   594/ 40  HPB HPB L19 W23 W26 L4  3.0
+ 16 Wright, Makayla        MRDMK32N   515   575/ 32  HPB HPB W31 L12 W25 L6  3.0
+ 17 Harris, Eli            MRDLJ85Q   361   530/ 18  HPB HPB W4  L3  W6  L5  3.0
+ 18 Tran, Vincent          TJHMK55Z   200   348/ 14  W9  L11 L10 L6  F31 W26 2.0
+ 19 Eckermann, Owen        FERJJ32B   100   433/  8  L7  W27 W15 L10 L4  W25 3.0
+ 20 Sanchez, Rafael        MRRLK58R   100   221/ 17  L5  D9  D22 L21 W30 W29 3.0
+ 21 Crediford, Nilay       FERJF28K   397   376/ 43  L1  D29 L9  W20 W27 L11 2.5
+ 22 Tennant, Mason         SENKJ39P   289   335/ 11  L24 D28 D20 L4  D23 W30 2.5
+ 23 Phillips, Lucas        BLHL696K   720   648/ 34  W30 L8  L3  L15 D22 W28 2.5
+ 24 Juliius, Alexzander    FERJH99N   900   538/  6  W22 L12 W25 D7  L13 L9  2.5
+ 25 Callon, Joseph         ETVLJ76S   599   538/ 18  L8  W30 L24 W31 L16 L19 2.0
+ 26 Yohannes, Senay        SPRJJ50F   432   414/ 22  HPB HPB W14 L5  L15 L18 2.0
+ 27 Tally, Brena           MRRLK59D   316   193/ 14  L13 L19 L6  W29 L21 BYE 2.0
+ 28 Ziesing, Evan          FERKJ85R   371   340/ 20  L31 D22 W29 L14 L9  L23 1.5
+ 29 Gavorra, Ava           SENKJ39R   245   125/ 10  L14 D21 L28 L27 BYE L20 1.5
+ 30 Fieweger, Reagan       SENKJ39S   298   179/ 10  L23 L25 L2  BYE L20 L22 1.0
+ 31 Heng, Tommy            LBSLH99U   854   654/ 10  W28 L5  L16 L25 X18 U   2.0

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Krishnakumar, Vishresh EALKJ46M  1186  1181/ 23  L3  W6  W5  W2  W4  4.0
+  2 Holostov, Michael      PLKGJ94C   963   981/ 24  L4  W5  W3  L1  W6  3.0
+  3 Miura, Leo             MIEGK60V   863   935/ 87  W1  W4  L2  W6  L5  3.0
+  4 Zhu, Alex              SOMFG51W  1006  1009/ 62  W2  L3  W6  W5  L1  3.0
+  5 Lahiri, Priyadarshi    EVJH191Q   953   882/ 54  L6  L2  L1  L4  W3  1.0
+  6 Joshi, Aahana          GTMHK47D   675   689/ 27  W5  L1  L4  L3  L2  1.0

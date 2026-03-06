@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mangla, Atharv         GRREK07C   830   899/ 51  W3  W4  W2  3.0
+  2 Sarychev, Aleksei      GEKJJ98N   711   741/ 50  W4  W3  L1  2.0
+  3 Sathyamurthy, Sreeshan BLWHJ24M   615   615/ 66  L1  L2  W4  1.0
+  4 Pan, Peng-yu           SSMCK24P   683   605/ 23  L2  L1  L3  0.0

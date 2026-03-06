@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xu, Jeffery            MEDGJ88V   870  1024/ 14  W2  W3  W4  3.0
+  2 Vijeyanandh, Vishnu    TMBIF63Z  1192  1142/159  L1  W4  D3  1.5
+  3 Zhang, Kevin           SPTF809Y   965   959/ 81  W4  L1  D2  1.5
+  4 Byelashova, Darya      SGHDK51X   534   523/ 33  L3  L2  L1  0.0

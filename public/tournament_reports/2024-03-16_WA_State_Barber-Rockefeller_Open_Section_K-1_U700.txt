@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Qu, Yuwen              RSABK86G   680   774/ 52  W8  W11 W7  W2  W6  5.0
+  2 Li, Ryan Lingjun       BUSBJ88U   494   588/ 23  W12 W13 W9  L1  W5  4.0
+  3 Mei, Felicity          BCABK89R   647   630/ 49  D10 W4  L5  W13 W9  3.5
+  4 Bogomolov, Henry       SSMBJ72J   628   580/ 30  L9  L3  W16 W10 W11 3.0
+  5 Hu, Ryan               OPWAJ97N   593   566/ 48  W16 L7  W3  W11 L2  3.0
+  6 Ge, Emma               SSMBJ56J   520   508/ 32  W17 L9  W14 W8  L1  3.0
+  7 Rao, Aadvik            SOMBB57X   410   447/ 53  W14 W5  L1  L9  W12 3.0
+  8 De, Adwik              SSMAJ29V   375   399/ 15  L1  W10 W15 L6  W14 3.0
+  9 Sang, Andy             IMBBK65W   207   464/ 31  W4  W6  L2  W7  L3  3.0
+ 10 Ranjith, Janani        SHVBK65E   252   291/ 79  D3  L8  W13 L4  W16 2.5
+ 11 Huang, Ryan            CNHAJ56H   385   367/ 15  W15 L1  W17 L5  L4  2.0
+ 12 Nandakiran, Advaith    SSMBJ88H   101   100/ 40  L2  L15 BYE W17 L7  2.0
+ 13 Gupta, Ishka           RSHBJ19R   100   132/  8  BYE L2  L10 L3  W17 2.0
+ 14 Su, Pin-ruei           RFKBH96G   100   220/  5  L7  W16 L6  W15 L8  2.0
+ 15 Agarwal, Sahaj         KKNAH96F   100   100/  4  L11 W12 L8  L14 BYE 2.0
+ 16 Ghosh, Oishani         BCAAJ56E   120   100/ 23  L5  L14 L4  BYE L10 1.0
+ 17 Shankar, Prarthana     FRVAH96B   100   100/  4  L6  BYE L11 L12 L13 1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tsai, Adam             DISIB02H  1077  1137/ 83  W3  W4  D2  2.5
+  2 Song, Charlie          KJHIJ08F  1074  1136/ 44  W4  W3  D1  2.5
+  3 Yin, Daniel            ISSM116Y  1007   997/398  L1  L2  W4  1.0
+  4 Kandar, Aarav          FISDK21U  1057   984/ 76  L2  L1  L3  0.0

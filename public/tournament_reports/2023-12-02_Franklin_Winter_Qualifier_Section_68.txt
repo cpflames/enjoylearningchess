@@ -1,0 +1,32 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Scollon, Owen          FHVI734D  1593  1622/457  W29 W10 W4  W8  W3  5.0
+  2 Zhang, Owen            FHVI995H  1430  1407/237  W30 W6  L8  W19 W9  4.0
+  3 Stroud, Jeb            HSCIK22V  1387  1393/ 68  W26 W5  W7  W9  L1  4.0
+  4 Wilson, Nathaniel      SHKIE45V  1295  1297/ 84  W20 W18 L1  W21 W10 4.0
+  5 Harrison, Gabriel      FACI865H   830   977/ 61  W27 L3  W13 W14 W8  4.0
+  6 Carpenter, Abby        VSTHA99C   848   926/ 22  W23 L2  W20 D7  W17 3.5
+  7 Choukalaas, Kevin      LYMGJ65Q   600  1095/  5  W12 W17 L3  D6  W15 3.5
+  8 Kozaczuk, James        SHKI108A  1261  1254/185  W21 W19 W2  L1  L5  3.0
+  9 Hildenbrand, Blane     PSMI122V  1026  1036/238  W13 W24 W15 L3  L2  3.0
+ 10 Grewal, Harshan        FACIK33H   932   952/ 43  W14 L1  W16 W23 L4  3.0
+ 11 Egland, Crosby         VSTH264S   549   575/ 28  L24 W22 L23 W30 W21 3.0
+ 12 Cancelosi, Nicholas    VSTGM25W   504   598/ 40  L7  L14 W27 W22 W23 3.0
+ 13 Huynh, Hannah          VSTHJ65P   700   790/  5  L9  W25 L5  W18 W19 3.0
+ 14 Mccallum, Austin       VSTIJ65N   800   822/  5  L10 W12 W18 L5  W24 3.0
+ 15 Bannister, Cypress     HORGK36L   772   773/ 48  HPB W28 L9  W16 L7  2.5
+ 16 Fowler, Logan          LYMIK35E   671   609/ 10  D28 W29 L10 L15 W20 2.5
+ 17 Melius, Mason          FACGF58R   974   897/ 54  W22 L7  L21 W26 L6  2.0
+ 18 Williams, Conner       LYMIK35D   551   552/ 14  W31 L4  L14 L13 W26 2.0
+ 19 Truong, Justin         FACGK82R   505   557/ 15  W25 L8  W24 L2  L13 2.0
+ 20 Boulos, Chris          FACG362P   372   385/ 13  L4  BYE L6  W27 L16 2.0
+ 21 Keele, Brendyn         HORHJ65M   700   750/  5  L8  W31 W17 L4  L11 2.0
+ 22 Zacarias, Johnny       LYMGJ65L   600   480/  5  L17 L11 W25 L12 W31 2.0
+ 23 Aguila-contreras, EdgarHORHJ65J   700   612/  5  L6  W30 W11 L10 L12 2.0
+ 24 Zacarias, Hugh         LYMHJ65H   700   588/  5  W11 L9  L19 W29 L14 2.0
+ 25 Mccallum, Eastan       VSTHJ65G   700   349/  4  L19 L13 L22 BYE W29 2.0
+ 26 Taylor, Hunter         HORI639M   403   381/  8  L3  D27 W28 L17 L18 1.5
+ 27 Morrison, Brayden      VSTGJ65E   600   343/  5  L5  D26 L12 L20 W30 1.5
+ 28 Fergusson, Nathan      VSTGJ65D   600   156/  4  D16 L15 L26 L31 BYE 1.5
+ 29 Sutton-brown, Eden     VSTGD26L   469   381/ 10  L1  L16 W31 L24 L25 1.0
+ 30 Boulos, Rene           FACHC70H   407   333/ 14  L2  L23 BYE L11 L27 1.0
+ 31 Keimig, James          VSTGJ65B   600   207/  5  L18 L21 L29 W28 L22 1.0

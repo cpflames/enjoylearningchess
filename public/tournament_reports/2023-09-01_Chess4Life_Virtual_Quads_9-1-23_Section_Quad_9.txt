@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Chuling            CNHF567N   906  1007/ 70  W4  W3  W2  3.0
+  2 Chong, Jacob           RSHFF24L   876   899/ 98  W3  W4  L1  2.0
+  3 Fang, Weiai            THRD696W   827   810/158  L2  L1  W4  1.0
+  4 Vasamsetty, Chetan     SHFDJ38Y   809   742/ 28  L1  L2  L3  0.0

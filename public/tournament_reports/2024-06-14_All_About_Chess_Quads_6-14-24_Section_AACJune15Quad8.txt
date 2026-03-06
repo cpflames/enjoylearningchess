@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Vatsan, Maitri         SSMBK00S   297   396/ 82  W3  D2  W4  2.5
+  2 Chang, Nathan          MMECK42T   261   359/ 41  W4  D1  W5  2.5
+  3 Shin, Joshua           CRKBJ63R   200   249/ 58  L1  W5  W6  2.0
+  4 Sanchez, Kaylee        FRIFK08P   185   174/ 21  L2  W6  L1  1.0
+  5 Phadnis, Akash         DISAJ27M   234   163/ 14  D6  L3  L2  0.5
+  6 Paidapathi, Kiaan      SHSBJ99C   164   100/ 83  D5  L4  L3  0.5

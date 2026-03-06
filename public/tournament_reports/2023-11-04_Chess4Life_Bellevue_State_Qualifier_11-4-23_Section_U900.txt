@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zhang, Andy            MEDF885X   482   761/ 33  W22 W15 W14 W12 W5  5.0
+  2 Binoj, Advay           AGBFK32J   450   648/ 15  W16 W3  L12 W13 W7  4.0
+  3 Edelman, Charles       WOBDJ85E   300   821/  5  W9  L2  W8  W4  W12 4.0
+  4 Vasamsetty, Chetan     SHFDJ38Y   769   722/ 36  L10 W11 W9  L3  W15 3.0
+  5 Sampathi Rao, Sri JayraSSMFK37Y   760   715/ 24  W13 L10 W15 W14 L1  3.0
+  6 Pandit, Vihaan         LAVFJ99D   540   508/ 17  W18 L14 L10 W22 W13 3.0
+  7 Yu, Ada                FRWGI40N   526   533/ 16  L12 W21 W11 W10 L2  3.0
+  8 Fu, Yo-yo              ETSAJ98Q   350   428/ 11  L15 W22 L3  W16 W10 3.0
+  9 Srishankar, Suryaa     FRWEK87F   417   512/ 19  L3  W16 L4  W19 W14 3.0
+ 10 Haloi, Rishav          CNCG871Z   400   492/ 13  W4  W5  W6  L7  L8  3.0
+ 11 Zhang, David           SOMBK41P   100   334/ 24  W19 L4  L7  W18 W20 3.0
+ 12 Williams, Connor       RISGJ85D   600   673/  5  W7  W20 W2  L1  L3  3.0
+ 13 Wei, Brayden           ETSBK90F   468   454/ 43  L5  W19 W20 L2  L6  2.0
+ 14 Lathakannan, Ritesh    SKIGJ85C   600   502/  5  W17 W6  L1  L5  L9  2.0
+ 15 Thampi, Nathan         ERGEJ85B   400   501/  5  W8  L1  L5  W20 L4  2.0
+ 16 Saravanan, Navin       FRWAJ85A   100   343/  5  L2  L9  W21 L8  W19 2.0
+ 17 Gajera, Vian           UCIDK12D   546   400/ 37  L14 D18 L19 L21 W22 1.5
+ 18 Sychev, Robert         TPSBJ84Z   100   163/  5  L6  D17 L22 L11 W21 1.5
+ 19 Esparza-chen, Lucien   WMNDJ98Z   592   405/ 11  L11 L13 W17 L9  L16 1.0
+ 20 Du, Charles            SOMEA15U   477   370/ 29  W21 L12 L13 L15 L11 1.0
+ 21 Liu, Nia               SOMBJ84Y   100   100/  5  L20 L7  L16 W17 L18 1.0
+ 22 Tian, Quinlan          MEDDJ84X   300   165/  5  L1  L8  W18 L6  L17 1.0

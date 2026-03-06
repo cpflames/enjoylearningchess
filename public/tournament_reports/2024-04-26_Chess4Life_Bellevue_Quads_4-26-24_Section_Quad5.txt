@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sasaki, Hanzo          MEDDK34B   560   575/ 21  W4  L3  W2  2.0
+  2 Wong, Aiden            CNHDK17Z   498   540/ 62  W3  W4  L1  2.0
+  3 Yong, Jionni           RDWFW86B   486   535/ 23  L2  W1  W4  2.0
+  4 He, Joshua             CHRBJ72H   479   398/ 41  L1  L2  L3  0.0

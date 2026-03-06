@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Tie, Mike              ENDF856Y  1335  1432/133  W9  W8  W13 D4  W5  4.5
+  2 Kwan-uchiyama, Avery   JINFH22T  1340  1368/ 82  L13 W11 W16 W10 W4  4.0
+  3 Maharaja, Imai         HMNDK34K  1258  1310/167  W14 L13 W9  W16 W6  4.0
+  4 Avula, Guru Harshith ReBRHE633Y  1253  1327/122  W15 W6  W7  D1  L2  3.5
+  5 Prashant, Niranjan     PFCG468K  1440  1414/161  W16 L7  W10 W13 L1  3.0
+  6 Syal, Yash             CDIFC10R  1437  1411/137  W12 L4  W8  W7  L3  3.0
+  7 Tunuguntla, Sai SrithanEMDFK78V  1252  1266/227  W17 W5  L4  L6  W12 3.0
+  8 Cui, Max               CBRF946C  1236  1254/196  W18 L1  L6  W11 W13 3.0
+  9 Luo, Peter             SHVE664K  1154  1154/103  L1  W15 L3  W14 D11 2.5
+ 10 Saken, Alan            NLMCK25Z  1103  1176/ 14  D11 W12 L5  L2  W16 2.5
+ 11 Nair, Ishan            SKIG670E  1259  1217/158  D10 L2  W14 L8  D9  2.0
+ 12 Zhao, William          STTDH70M  1154  1119/117  L6  L10 W18 W15 L7  2.0
+ 13 Patnaik, Rishabhdeva   CRKFG72D  1207  1228/162  W2  W3  L1  L5  L8  2.0
+ 14 Law, Caleb             EASFJ87R   923   906/ 23  L3  W18 L11 L9  W17 2.0
+ 15 Kakarlapudi, Sreeram MuMEDE687Z   903   884/ 40  L4  L9  W17 L12 W18 2.0
+ 16 Wang, Eric             WPPF803M  1231  1166/135  L5  W17 L2  L3  L10 1.0
+ 17 Kakar, Ryan            DHLEJ03T   400   450/  5  L7  L16 L15 D18 L14 0.5
+ 18 Bhandula, Sparsh       DISFJ03S   500   450/  5  L8  L14 L12 D17 L15 0.5

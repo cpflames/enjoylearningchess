@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Arwen           SOME484A   652   720/ 58  W3  D4  W2  2.5
+  2 Shimao, Alexander      GRRHG77V   740   708/ 77  W4  D3  L1  1.5
+  3 Nandakiran, Vidyuth    SSME617C   642   637/ 43  L1  D2  W4  1.5
+  4 Balaji, Pranav         INGGJ96J   600   424/  3  L2  D1  L3  0.5

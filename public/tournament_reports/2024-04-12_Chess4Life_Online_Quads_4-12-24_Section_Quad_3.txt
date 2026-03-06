@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kocherlakota, Vihaan   EBSGA65P   984   989/ 78  W2  D4  D3  2.0
+  2 Mitra, Rishab          OPWF138L   851   910/188  L1  W3  W4  2.0
+  3 Bala, Anirudh          TMCGD50M   903   879/ 46  D4  L2  D1  1.0
+  4 Goel, Advit            CMCCG22F   882   864/ 89  D3  D1  L2  1.0

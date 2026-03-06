@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dodson, Tyson          KCCH234D   726   752/ 59  W4  W3  L2  2.0
+  2 Talbot, Byran          ADUNH80D   723   776/  6  L3  W4  W1  2.0
+  3 Ramirez, Kane          WIWDJ72E   702   678/ 86  W2  L1  L4  1.0
+  4 Mosqueda, Luke         LIBDH90L   691   667/ 11  L1  L2  W3  1.0

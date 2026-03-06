@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Hughes, Weston         SMSII26V  1148  1177/ 55  W12 W18 W10 W4  L2  4.0
+  2 De, Rishik             INGHJ87T  1116  1145/ 55  L15 W11 W8  W9  W1  4.0
+  3 Dhodapkar, Nimishh     PLKHJ30A   700  1270/  5  W6  L9  W15 W10 W5  4.0
+  4 Wang, Harvey           OPWBJ68G  1212  1200/ 85  W17 W15 D9  L1  W10 3.5
+  5 Kan, Kaleb             BLWFF53E  1086  1071/246  L18 W16 W13 W6  L3  3.0
+  6 Wilcox, Daelen         MMII748C  1059  1078/ 65  L3  W12 W14 L5  W9  3.0
+  7 Zou, Jinhan            SSMDH14T   962   955/ 73  L14 L8  W16 W11 W12 3.0
+  8 Friesen, Eli           LAVDK27G   769   927/ 25  L9  W7  L2  W14 W15 3.0
+  9 Babbar, Riaan          ENDDJ98D  1103  1110/ 23  W8  W3  D4  L2  L6  2.5
+ 10 Appineni, Arnav        CHKEG26A  1062  1048/ 30  W13 W14 L1  L3  L4  2.0
+ 11 Iyer, Hrishaan Arjun   BNTFJ57L   890   847/ 10  D16 L2  W18 L7  D13 2.0
+ 12 Lew, Abigail           OPWD645P   841   843/115  L1  L6  W17 W18 L7  2.0
+ 13 Kostikov, Ivan         PLKIJ29Z   800   826/  5  L10 W17 L5  D15 D11 2.0
+ 14 Kocherlakota, Vihaan   TMBGA65P   979   947/ 49  W7  L10 L6  L8  W17 2.0
+ 15 Mcclenahan, Nicklas    AGBFK26V   794   821/ 30  W2  L4  L3  D13 L8  1.5
+ 16 Reimer, Oliver         LKDFG59D   779   755/ 54  D11 L5  L7  L17 W18 1.5
+ 17 Puranik, Armin         SSMDJ56Z   854   765/ 10  L4  L13 L12 W16 L14 1.0
+ 18 Tsen, Eric             AGBDK18P   715   702/111  W5  L1  L11 L12 L16 1.0

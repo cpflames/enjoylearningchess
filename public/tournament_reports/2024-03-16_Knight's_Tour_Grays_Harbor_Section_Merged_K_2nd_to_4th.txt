@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Muscutt, Abraham       HSCEJ71L   944   976/ 35  W6  W8  W2  W4  W3  5.0
+  2 Byelashova, Darya      SGHDK51X   862   851/ 82  W7  W3  L1  W5  W4  4.0
+  3 Brar, Angad            CENDJ52A   349   382/ 20  W9  L2  W6  W7  L1  3.0
+  4 Surineni, Aaditri      MSMDJ52D   135   240/ 14  BYE W6  W8  L1  L2  3.0
+  5 Gilbert, Elijah        LNCEH95W   400   262/  4  L8  BYE W7  L2  W9  3.0
+  6 Nixon, Jay             LNCEH95U   400   138/  4  L1  L4  L3  BYE W8  2.0
+  7 Kloempken, Mason       HSCDH95T   300   130/  4  L2  W9  L5  L3  BYE 2.0
+  8 Saravanan, Priyanka    MSOCJ51W   189   156/ 15  W5  L1  L4  D9  L6  1.5
+  9 Kloempken, Carter      HSCAH95R   100   100/  4  L3  L7  BYE D8  L5  1.5

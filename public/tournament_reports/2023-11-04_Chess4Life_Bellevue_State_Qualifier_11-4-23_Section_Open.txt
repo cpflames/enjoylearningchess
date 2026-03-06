@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kunisetty, Chekresh    ENSFK99L  1374  1382/ 64  W16 W10 W4  W3  L2  4.0
+  2 Miller, Jackson        DCCJ301V  1309  1320/ 90  D12 D6  W5  W10 W1  4.0
+  3 Vijayakrishnan, AchyuthPKRE646F  1297  1286/132  D6  W7  W9  L1  W11 3.5
+  4 He, Oliver             ENDDK71V  1176  1185/250  W13 W11 L1  D8  W9  3.5
+  5 Sreraman, Rohit        BCADG92Q  1159  1141/189  D7  W12 L2  W16 D8  3.0
+  6 Chaturvedi, Raghav     TYEIK75J   917   963/117  D3  D2  L10 W14 W15 3.0
+  7 Guilanians, Gavin      OPWH645B   834   965/ 32  D5  L3  W17 W12 D10 3.0
+  8 Melton, Tristan        BLCI616X   808   915/ 19  WF  L9  W16 D4  D5  3.0
+  9 Sathish, Ritwin        RSAFC54Z  1115  1092/ 60  W17 W8  L3  D11 L4  2.5
+ 10 Sreraman, Rahul        BCADJ42L   996  1013/178  W14 L1  W6  L2  D7  2.5
+ 11 Barrenkala, Surya      EMDG238E   951   965/ 52  W15 L4  W13 D9  L3  2.5
+ 12 Acharya, Arnav         KMNG746Q   960   966/ 51  D2  L5  W15 L7  W16 2.5
+ 13 Zeitlin, Tom           WOBEI56H   904   839/ 47  L4  W14 L11 L15 BYE 2.0
+ 14 Zhang, Alfred          MERHK02P   774   709/ 11  L10 L13 BYE L6  WF  2.0
+ 15 Ratadia, Neel          BCAIB06W   504   561/ 16  L11 BYE L12 W13 L6  2.0
+ 16 Mathur, Vivaan         CBRFK76F   943   890/ 33  L1  W17 L8  L5  L12 1.0
+ 17 Joshi, Shaurya         CDWH381L   815   764/ 70  L9  L16 L7  BYE LF  1.0

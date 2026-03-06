@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Ethan James        SOMBK00K   260   332/ 62  D4  W2  W5  2.5
+  2 Mirchandani, Kavir     MEDBJ97A   213   228/ 39  W3  L1  BYE 2.0
+  3 Zahand, Chase          CEIDH64H   300   224/  2  L2  BYE W4  2.0
+  4 Paidapathi, Kiaan      SHSBJ99C   225   224/106  D1  W5  L3  1.5
+  5 Nandakiran, Advaith    SSMBJ88H   166   109/ 60  BYE L4  L1  1.0

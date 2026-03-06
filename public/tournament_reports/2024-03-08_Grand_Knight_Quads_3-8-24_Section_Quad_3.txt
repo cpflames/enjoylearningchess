@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Deng, Alison           OMSGC56H   867   971/ 94  W4  W2  W3  3.0
+  2 Iyer, Hrishaan Arjun   BNTFJ57L   847   869/ 13  W3  L1  W4  2.0
+  3 Berjis, Adrina         MEDE230U   875   835/122  L2  W4  L1  1.0
+  4 Pradeepkumar, Adrit    LKDCK54S   652   612/ 58  L1  L3  L2  0.0

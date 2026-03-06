@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Goel, Advit            RCSCG22F   379   525/ 33  D2  W5  W4  2.5
+  2 Pandit, Vihaan         LAVFJ99D   500   693/  3  D1  W3  W5  2.5
+  3 Menon, Ritwik          WLDG974D   389   367/ 20  D4  L2  BYE 1.5
+  4 Shao, Lang             SOMBK14U   335   320/ 11  D3  BYE L1  1.5
+  5 Wong, Aiden            CNHDK17Z   436   393/ 21  BYE L1  L2  1.0

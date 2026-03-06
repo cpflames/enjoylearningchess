@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ayalew, Brook          DCCIJ71Q  1594  1616/ 15  W11 W4  W3  D2  W6  4.5
+  2 Pantea, Joshua         DCCJK63M  1364  1378/ 57  W13 W14 W9  D1  D5  4.0
+  3 Ma, Ziliang            DCCGA69N  1447  1441/ 73  W12 W15 L1  D4  W11 3.5
+  4 Mohan, Vishnu          KKNFF41R  1301  1341/139  W7  L1  W13 D3  W8  3.5
+  5 Tam, Oliver            THUJ394H   665   962/ 46  D9  D8  W18 W15 D2  3.5
+  6 Miller, Jackson        DCCJ301V  1320  1304/ 95  L15 W12 W7  W11 L1  3.0
+  7 Zhen, Hongren          DCCIC02Z  1023  1114/185  L4  W10 L6  W12 W13 3.0
+  8 Tunuguntla, Sai SrithanEMDFK78V  1266  1217/232  D18 D5  D15 W9  L4  2.5
+  9 Bates-callaghan, EmmettBCSEJ49J  1204  1171/ 80  D5  W18 L2  L8  W14 2.5
+ 10 Fong, Matthew          RASJ683T  1187  1095/196  L14 L7  W16 L13 W17 2.0
+ 11 Wu, Jasper             IMSI3471  1112  1107/135  L1  W16 W14 L6  L3  2.0
+ 12 Lee, Justin            CNLH732V  1059  1046/ 89  L3  L6  W17 L7  W15 2.0
+ 13 Yang, Jimmy            BASEG45S  1002  1007/154  L2  W17 L4  W10 L7  2.0
+ 14 Meka, Suhaas           REOFJ51J   891   933/ 33  W10 L2  L11 W18 L9  2.0
+ 15 Zhang, Aaron           RSAEC74T   988   994/112  W6  L3  D8  L5  L12 1.5
+ 16 Hurd, Bryan            GARJD30X   484   503/ 17  U   L11 L10 L17 W18 1.0
+ 17 Hurd, Jordan           GARM629S   432   470/ 16  U   L13 L12 W16 L10 1.0
+ 18 Michiels, Peter        THOFB73Z   944   857/ 35  D8  L9  L5  L14 L16 0.5

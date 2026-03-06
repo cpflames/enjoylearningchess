@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Rajeshkumar, Dhruva    BRHBK58G   332   390/  8  D2  W3  U   1.5
+  2 Gilani, Arsh           TMBIJ98T   339   357/  5  D1  U   D3  1.0
+  3 Shao, Lang             SOMBK14U   432   382/ 18  U   L1  D2  0.5

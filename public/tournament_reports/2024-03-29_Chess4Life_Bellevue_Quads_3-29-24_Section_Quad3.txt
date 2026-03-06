@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Deepak, Sairaghav      PLKIA52Q   539   719/ 46  W4  W3  W2  3.0
+  2 Prasanna, Charan       LMADJ46Z   536   606/ 21  W3  W4  L1  2.0
+  3 Desai, Sharanam        CMCD678T   656   610/ 51  L2  L1  W4  1.0
+  4 Sairam, Advaith        RBRAK01Q   553   478/ 62  L1  L2  L3  0.0

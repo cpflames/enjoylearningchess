@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Maharaja, Imai         HMNDK34K  1270  1277/102  W4  W3  L2  2.0
+  2 Bansal, Vivaan         EVJJ452J  1178  1212/100  L3  W4  W1  2.0
+  3 Patel, Aarya           REEFK30E  1169  1156/ 72  W2  L1  L4  1.0
+  4 Hildenbrand, Blane     PSMJ122V  1213  1189/216  L1  L2  W3  1.0

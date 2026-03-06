@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bangard, Dhruv         TBKBK65D   843   857/ 77  W3  W4  D2  2.5
+  2 Bui, Edwin             SFREK90H   791   818/ 36  W4  W3  D1  2.5
+  3 Chaporkar, Nihar       ENSDK65B   538   547/ 25  L1  L2  W4  1.0
+  4 Vignesh, Anirudh       BLWC594Q   548   494/ 14  L2  L1  L3  0.0

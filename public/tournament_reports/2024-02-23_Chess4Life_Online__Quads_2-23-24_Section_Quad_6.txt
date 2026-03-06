@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Krishnakumar, Vishresh EALKJ46M   888  1040/ 12  W3  W2  W4  3.0
+  2 Kocherlakota, Vihaan   EBSGA65P   867   912/ 56  W4  L1  W3  2.0
+  3 Kuluru, Samith         LEOHI99K   875   856/224  L1  W4  L2  1.0
+  4 Mcintyre, Isaac        ETSE466S   893   816/194  L2  L3  L1  0.0

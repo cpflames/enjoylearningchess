@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Singh, Atharva         SKIHK06G  1043  1063/ 45  L4  W2  W3  2.0
+  2 Chaporkar, Nihar       ENSDK65B  1018  1045/ 53  W3  L1  W4  2.0
+  3 Song, Charlie          KJHIJ08F  1022   998/ 56  L2  W4  L1  1.0
+  4 Garg, Vihaan           CMCDJ10X  1015   993/237  W1  L3  L2  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ackerman, Ryan         ADUNC514  1911  1911/226  W4  W3  W2  3.0
+  2 Latuskiewicz, Matthew  EPSFK21S  1098  1121/ 33  W3  W4  L1  2.0
+  3 Yang, Nicholas         CHRDG23U   855   876/ 92  L2  L1  W4  1.0
+  4 Friesen, Eli           LAVDK27G   927   880/ 28  L1  L2  L3  0.0

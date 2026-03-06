@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Peper, James           BLHLB93F   510   679/ 21  W5  W7  W2  3.0
+  2 Dorsey, Jarrett        SHMLJ85T  1100   854/  3  W6  W3  L1  2.0
+  3 Freeman, Eagle         MRDJJ85S   900   840/  3  W4  L2  W6  2.0
+  4 Ziesing, Evan          FERKJ85R  1000   685/  3  L3  W5  W7  2.0
+  5 Wright, Makayla        MRDMK32N   442   443/ 19  L1  L4  W8  1.0
+  6 Clarke, Jonathan       BLHJG05B   467   469/ 14  L2  W8  L3  1.0
+  7 Harris, Eli            MRDLJ85Q  1100   255/  3  D8  L1  L4  0.5
+  8 Macmillan, Zaiden      BLHJJ85P   900   140/  3  D7  L6  L5  0.5

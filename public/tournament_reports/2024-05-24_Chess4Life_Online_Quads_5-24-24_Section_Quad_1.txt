@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sangal Lopez, Dev      CTNH515J  1501  1508/399  W4  W3  D2  2.5
+  2 Maharaja, Imai         HMNDK34K  1323  1347/194  D3  W4  D1  2.0
+  3 Yang, Jimmy            BASEG45S  1288  1298/186  D2  L1  W4  1.5
+  4 Kandar, Aarav          FISDK21U  1226  1182/103  L1  L2  L3  0.0

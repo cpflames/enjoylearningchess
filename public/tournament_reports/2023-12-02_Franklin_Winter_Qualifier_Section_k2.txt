@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bannister, Altair      EAGCK36Y   597   660/ 49  W5  W11 W3  W7  W6  5.0
+  2 Weinberger, Mateo      WKECJ64V   200   353/  5  D11 L7  W13 W9  W4  3.5
+  3 Reynolds, Elliot       WKEBJ64U   100   379/  5  W13 W12 L1  L4  W7  3.0
+  4 Bae, Micaiah           FACCJ64T   200   366/  5  D7  D6  W12 W3  L2  3.0
+  5 Fisk, Jaxon            FACCJ64S   200   297/  4  L1  BYE L6  W11 W10 3.0
+  6 Reynolds, Bennett      WKEBJ64R   100   386/  5  D9  D4  W5  W8  L1  3.0
+  7 Hecht, Ansel           FACCJ64Q   200   360/  5  D4  W2  W8  L1  L3  2.5
+  8 Chambers, Corbin       FACCJ64N   200   195/  5  D10 W9  L7  L6  W13 2.5
+  9 Campbell, Crinan       FACAJ64M   100   100/  4  D6  L8  BYE L2  D11 2.0
+ 10 Gulit, Layne           FACCJ64K   200   100/  5  D8  D13 D11 D13 L5  2.0
+ 11 Balolia, Jena          FACCJ64J   200   100/  5  D2  L1  D10 L5  D9  1.5
+ 12 Brown, Jordan          HSCCJ64H   200   100/  2  BYE L3  L4  U   U   1.0
+ 13 Balolia, Samara        FACCJ64G   200   100/  5  L3  D10 L2  D10 L8  1.0

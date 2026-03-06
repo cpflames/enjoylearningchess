@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, William          INGH550N  1555  1581/148  W4  D2  W3  2.5
+  2 Pan, Peng-ruei         SSME759R  1473  1479/110  L3  D1  W4  1.5
+  3 Evin, Terrick          EBSCC54L  1530  1505/184  W2  L4  L1  1.0
+  4 Joshi, Yash            PFCH280R  1444  1437/186  L1  W3  L2  1.0

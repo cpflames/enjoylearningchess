@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Lu, Yiding             BASH865Z  2171  2187/281  W13 W17 W4  W5  D2  4.5
+  2 Wang, Ted              STTEK13D  2112  2126/285  W11 W15 D3  W6  D1  4.0
+  3 Willy, Stephen         HSCIH17K  2227  2224/565  W7  D5  D2  HPB W11 3.5
+  4 Zhou, David            ADUN130N  2103  2100/ 40  W19 W6  L1  W10 D7  3.5
+  5 Gavrysh, Leonid        ADUN816H  2071  2077/ 79  W20 D3  W14 L1  W12 3.5
+  6 Razmov, Valentin       ADUNB02T  1875  1893/151  W10 L4  W15 L2  W18 3.0
+  7 Kuipers, Miles         TSTL6766  1826  1853/566  L3  D11 W20 W14 D4  3.0
+  8 Chabuk, Erkan          ADUNJ11U  1300  1901/  4  L14 W16 HPB D9  W15 3.0
+  9 Pupols, Viktors        ADUN8503  2151  2115/ 74  D16 D14 D18 D8  D10 2.5
+ 10 Atikankhotchasee, ManunADUNJ11T  1300  1866/  4  L6  BYE W17 L4  D9  2.5
+ 11 Razmov, Gabriel        ADDIC26K  1792  1815/338  L2  D7  W13 W17 L3  2.5
+ 12 Nallappa, Vijay        REJID40S  1750  1765/401  L17 W19 D16 W18 L5  2.5
+ 13 Palathingal, Rafael    KKNE196R  1746  1745/140  L1  D20 L11 BYE W19 2.5
+ 14 Saddi, Neevan Reddy    GRREH87M  1692  1723/224  W8  D9  L5  L7  D16 2.0
+ 15 Anandkumar, Haituka    STLJ238P  1563  1579/392  BYE L2  L6  W20 L8  2.0
+ 16 Wang, Leonardo         CKNH233K  1808  1799/103  D9  L8  D12 D19 D14 2.0
+ 17 Merritt, Jude          MTTLJ57P  1797  1774/ 17  W12 L1  L10 L11 BYE 2.0
+ 18 Ramkumar, Nikhil       RBRG115E  1825  1805/252  HPB HPB D9  L12 L6  1.5
+ 19 Cao, Max               JINFJ12C  1761  1727/  9  L4  L12 BYE D16 L13 1.5
+ 20 Tatikonda, Nihanth     BOTJ926F  1774  1732/258  L5  D13 L7  L15 U   0.5

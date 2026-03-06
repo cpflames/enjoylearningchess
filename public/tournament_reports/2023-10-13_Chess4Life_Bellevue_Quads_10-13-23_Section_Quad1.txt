@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Liu, Yuntao            STTG505Y  1645  1661/289  W4  W3  W2  3.0
+  2 Urali, Sanjay          MEDG315D  1527  1522/356  W3  W4  L1  2.0
+  3 He, Oliver             ENDDK71V  1184  1193/231  L2  L1  W4  1.0
+  4 Naik, Atreya           KMDJJ43X  1116  1089/ 28  L1  L2  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xie, Michael           EVJH549C  1355  1398/388  W4  W3  W2  3.0
+  2 Neyland, Dashel        HSCFK03K  1247  1201/  9  W3  L4  L1  1.0
+  3 Joshi, Vyom            LEOIH81X  1146  1143/185  L2  L1  W4  1.0
+  4 Maharaja, Imai         HMNDK34K  1194  1179/ 78  L1  W2  L3  1.0

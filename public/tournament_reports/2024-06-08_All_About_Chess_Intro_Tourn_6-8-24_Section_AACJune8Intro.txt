@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Bolisetty, Varun       CBRCJ73Z   711   720/ 49  W6  W9  L7  W8  3.0
+  2 Dietrich, Luka         ISEAJ27L   100   100/  7  L7  BYE L8  L4  1.0
+  3 Khussainov, Eliana     SPTBH70X   100   518/  3  BYE W8  D5  L7  2.5
+  4 Nam, Alex              BLWDH75Q   443   387/ 22  L9  L6  BYE W2  2.0
+  5 Penta, Abhi            SHSDH75F   626   536/  8  W8  L7  D3  L9  1.5
+  6 Penta, Ved             SHSAJ06E   256   307/ 11  L1  W4  L9  BYE 2.0
+  7 Sharma, Srishti        ISMGJ88P   599   744/ 42  W2  W5  W1  W3  4.0
+  8 Thodupunoori, Arnav    MBMHH70V   700   237/  4  L5  L3  W2  L1  1.0
+  9 Zhang, Patrick         SSSBK01J   593   619/ 97  W4  L1  W6  W5  3.0

@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bell, Ryan             HSCFJ63J  1654  1664/ 10  W9  W7  W3  W8  W5  5.0
+  2 Bai, Kelin             SKKFD75J   982   956/207  L16 W10 W21 W14 W7  4.0
+  3 Wang, Kelby            SKKD796Y   881   924/131  W20 W18 L1  W13 W8  4.0
+  4 Anderson, Christopher LHSCF712R   808   834/ 50  W17 W22 W13 L5  W9  4.0
+  5 Caine, Spencer         SIAGJ63E  1021   958/  9  W14 L8  W16 W4  L1  3.0
+  6 Avey, Jesse            MDRGK50F   884   833/ 53  W10 W16 L8  L9  W18 3.0
+  7 Brewer, Miles          COBFK38B   724   755/ 15  W21 L1  W18 W11 L2  3.0
+  8 Ji, Melody             SGSCA83X   621   757/ 54  W23 W5  W6  L1  L3  3.0
+  9 Edlund, Caleb          WAXGJ88D   601   682/ 20  L1  W23 W22 W6  L4  3.0
+ 10 Albert, Silas          FSSEJ73C   377   523/ 14  L6  L2  W12 W21 W15 3.0
+ 11 Higgins, Peter         GONFJ57Y   500   651/  5  D12 D19 W15 L7  W14 3.0
+ 12 Sherwood, Cole         FREDD99U   561   548/ 64  D11 L13 L10 W23 W16 2.5
+ 13 Brewer, Warren         COBDJ57X   300   638/  4  HPB W12 L4  L3  W20 2.5
+ 14 Scott, Liam            PSPEK50P   651   624/ 25  L5  W17 W19 L2  L11 2.0
+ 15 Sherwood, Owen         FREFH61U   630   554/ 61  L18 W20 L11 W17 L10 2.0
+ 16 Hetnar, Ryan           WVCGK49H   458   520/ 29  W2  L6  L5  W19 L12 2.0
+ 17 Zhang, Alex            SKKCJ88B   210   240/  9  L4  L14 BYE L15 W23 2.0
+ 18 Stapp, Micah           HSCFJ57V   500   582/  5  W15 L3  L7  W20 L6  2.0
+ 19 Hayden, Silas          RVBFJ57T   500   409/  5  D22 D11 L14 L16 W21 2.0
+ 20 Hooker, Apryl          GRCFJ93P   308   292/ 10  L3  L15 W23 L18 L13 1.0
+ 21 Hooker, Jaina          GRCBJ93L   100   100/  8  L7  BYE L2  L10 L19 1.0
+ 22 Jain, Asmi             SGSDB47J   577   528/ 46  D19 L4  L9  U   U   0.5
+ 23 Macllroy, Alexandria   CATEJ57Q   400   100/  5  L8  L9  L20 L12 L17 0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Upasani, Neil          SSMEJ57C   963  1098/ 57  W3  W4  W2  3.0
+  2 Dharamshi, Anay        CBRCK42U  1040  1052/ 82  W4  W3  L1  2.0
+  3 Bhasin, Palash         SNIFH95H   955   940/ 28  L1  L2  W4  1.0
+  4 Han, Spencer           PPPEK75L   949   883/169  L2  L1  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nordbeck, Per          ADUMH64E  1200   805/  3  W2  W3  D4  2.5
+  2 Selarp, Otto           RKWEH64D   400   694/  3  L1  W4  W3  2.0
+  3 Selarp, Ruben          RKWCH64C   200   485/  3  W4  L1  L2  1.0
+  4 Anand, Nivaan          MCEAH64F   477   433/  6  L3  L2  D1  0.5

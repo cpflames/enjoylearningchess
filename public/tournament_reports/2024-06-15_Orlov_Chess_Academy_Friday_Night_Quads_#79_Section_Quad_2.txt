@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nishino, Anne          BCACH74F   280   482/ 12  D2  W3  W4  2.5
+  2 Heydarova, Aliya       BLWEH95D   638   639/ 15  D1  W4  D3  2.0
+  3 Zhang, Andy            MEDF885X   808   744/ 52  W4  L1  D2  1.5
+  4 Ibrahimli, Omar        CHOGH70T   600   112/  3  L3  L2  L1  0.0

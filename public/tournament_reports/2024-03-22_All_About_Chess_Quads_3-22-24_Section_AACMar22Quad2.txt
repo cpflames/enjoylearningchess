@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nidamarthi, Nikhil     RSAE375J  1157  1210/192  D4  W3  W2  2.5
+  2 Sembium, Aditi         BCADK25W  1168  1183/267  W3  W4  L1  2.0
+  3 Shrivastava, Parasme   BLMGK00N  1101  1086/ 48  L2  L1  W4  1.0
+  4 Bikkula, Charan        BLMHJ23A  1103  1063/205  D1  L2  L3  0.5

@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kozaczuk, James        SHKI108A  1200  1309/177  W7  W3  W2  3.0
+  2 Berry, Garcia          BHMLK99Z  1155  1200/ 28  W6  W8  L1  2.0
+  3 Palmer, Evan           BHMKI90S  1198  1211/157  W4  L1  D5  1.5
+  4 Peterson, Kylan        MRDM175Q  1259  1248/ 74  L3  D5  W6  1.5
+  5 Bosch, Declan          SHMJE38K  1230  1224/ 57  D8  D4  D3  1.5
+  6 Leon, Christian        SHMK1052  1209  1180/131  L2  W7  L4  1.0
+  7 Love, Charles          SHML458N  1118  1111/ 83  L1  L6  W8  1.0
+  8 Nipges, Jaxon          FERK382B  1198  1144/ 83  D5  L2  L7  0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chan, Aiden            COGI917M  1457  1507/131  W4  W3  W2  3.0
+  2 Patel, Aarya           REEFK30E  1365  1386/104  W3  W4  L1  2.0
+  3 Joshi, Vyom            LEOIH81X  1315  1304/229  L2  L1  W4  1.0
+  4 Tian, Eric             SOMFI80S  1311  1258/133  L1  L2  L3  0.0

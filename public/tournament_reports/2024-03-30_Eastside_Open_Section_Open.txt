@@ -1,0 +1,30 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Sundaram, Siddarth MeenADUNK02X  2428  2442/ 17  W10 W12 W9  W2  W4  5.0
+  2 Moroney, Timothy       ADUN276J  2102  2111/ 63  W20 W13 W14 L1  W7  4.0
+  3 Rodriguez, Luis E      ADUN9360  2027  2027/  5  W21 L5  W15 W14 W10 4.0
+  4 Qian, Daniel           PFCM7807  1889  1923/322  W22 W29 W5  W11 L1  4.0
+  5 Zhou, Yuchen           CHREJ42H  1581  1765/582  W8  W3  L4  W12 W13 4.0
+  6 Yu, Peter              ADUNJ50C  1889  1882/ 19  W27 D15 L11 W19 W17 3.5
+  7 Colombo, Dominic M     GIGMJ74P  1962  1947/ 76  W18 L14 W22 W9  L2  3.0
+  8 June, Peter            ADUN9213  1926  1906/348  L5  W16 W18 L10 W22 3.0
+  9 Saddi, Neevan Reddy    GRREH87M  1734  1770/233  W26 W11 L1  L7  W20 3.0
+ 10 Miroshnichenko, DmitriiADUNH96T  1627  1953/ 10  L1  W19 W24 W8  L3  3.0
+ 11 Deshpande, Aaryan      ADUNF757  2133  2097/501  W17 L9  W6  L4  D14 2.5
+ 12 Merritt, Jude          MTTLJ57P  1774  1760/ 22  W28 L1  W21 L5  D18 2.5
+ 13 L'heureux, Jeffrey     ADUNJ69V  1740  1728/ 16  W25 L2  W27 D17 L5  2.5
+ 14 Lin, Michael           BASEC97F  1732  1765/334  W23 W7  L2  L3  D11 2.5
+ 15 Wei, Te                ADUNK02V  1692  1691/ 31  W24 D6  L3  L20 W21 2.5
+ 16 Shah, Dhruvit          ADUNH86W  1300  1550/  5  D19 L8  L20 W26 W25 2.5
+ 17 Cen, Evan              TYEII97D  1622  1630/204  L11 W28 W29 D13 L6  2.5
+ 18 Cheng, Selina          TLMG413R  1584  1603/526  L7  W25 L8  W23 D12 2.5
+ 19 Sankrithi, Sarang      HSCEB11D  1321  1419/238  D16 L10 W28 L6  W27 2.5
+ 20 Mondal, Abhijit        ADUNJ11Z  1599  1601/  8  L2  L27 W16 W15 L9  2.0
+ 21 Fondren, Chad          ADUN581H  1588  1580/ 27  L3  W26 L12 W24 L15 2.0
+ 22 He, Oliver             ENDDK71V  1546  1560/352  L4  W23 L7  W27 L8  2.0
+ 23 Gupta, Krishang        GTMGE37V  1430  1412/ 56  L14 L22 BYE L18 W29 2.0
+ 24 Janardhan, Bharadwaj   ADUNJ11Y  1338  1372/  9  L15 BYE L10 L21 W28 2.0
+ 25 Sankrithi, Siva        ADUNI948  1472  1443/ 33  L13 L18 D26 W29 L16 1.5
+ 26 Bharadwaj, Samarth     DISDE78A  1437  1406/183  L9  L21 D25 L16 BYE 1.5
+ 27 Karri, Aditya          REEFC55V  1497  1471/364  L6  W20 L13 L22 L19 1.0
+ 28 Shah, Kanav            LMAF295Q  1487  1418/190  L12 L17 L19 BYE L24 1.0
+ 29 Narkhede, Kshitij      CRKCA27K  1284  1250/105  BYE L4  L17 L25 L23 1.0

@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Feng, Levi             SOMEJ59B   400   728/  3  BYE W11 W14 W8  4.0
+  2 Du, Charles            SOMEA15U   607   693/ 47  W12 D5  W7  W3  3.5
+  3 Menezes, Ronit         CLHEK44M   757   749/ 27  W15 W4  W9  L2  3.0
+  4 Sharan, Aadya          EVJGJ59A   600   617/  4  W11 L3  W10 W6  3.0
+  5 Verma, Ishaan          INGIJ58Z   800   665/  4  W7  D2  D6  W9  3.0
+  6 Leung, Katherine       SOME360H   164   326/ 17  W10 W12 D5  L4  2.5
+  7 Chitlangia, Rishi      LAVEJ60G   393   370/  7  L5  BYE L2  W15 2.0
+  8 Ip, Evan               SOMEI14G   307   311/ 18  W13 L9  W15 L1  2.0
+  9 Liu, Angela            BLWDJ58Y   300   449/  4  W14 W8  L3  L5  2.0
+ 10 Verma, Aditeya         BLWEJ58X   400   293/  4  L6  W15 L4  W14 2.0
+ 11 Yoo, Hamin             SOMDJ58W   300   332/  3  L4  L1  BYE W12 2.0
+ 12 Everson, Greyson       SNEDJ58V   300   127/  4  L2  L6  W13 L11 1.0
+ 13 Judge, Arya            SOMDJ58U   300   100/  3  L8  L14 L12 BYE 1.0
+ 14 Pasyavula, Vithun      SOMDJ59C   100   115/  7  L9  W13 L1  L10 1.0
+ 15 Kuramoto, Sho          SOMDJ58T   300   100/  4  L3  L10 L8  L7  0.0

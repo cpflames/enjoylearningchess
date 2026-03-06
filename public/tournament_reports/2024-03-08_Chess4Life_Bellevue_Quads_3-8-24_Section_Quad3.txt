@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kullmann, Rex          MISDZ89V   796   779/ 40  W2  L3  BYE 2.0
+  2 Lin, Luna              OPWCK01W   720   723/ 53  L1  BYE W3  2.0
+  3 Paine, Clara           TLIEK01Z   673   688/ 25  BYE W1  L2  2.0

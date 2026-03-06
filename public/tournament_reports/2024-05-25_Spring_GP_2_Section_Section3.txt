@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bormuth, Lucas         LYCDD92J   494   537/ 11  W3  W2  W4  3.0
+  2 Ssendawula, Toby       HSCEH74A   400   332/  2  BYE L1  W5  2.0
+  3 Feaster, Ethan         FERJH73Y   900   365/  2  L1  W4  BYE 2.0
+  4 Guzman, Esteban        MPPEH74R   100   139/  6  W5  L3  L1  1.0
+  5 Russell, Huxley        BLEDH73W   300   100/  2  L4  BYE L2  1.0

@@ -1,0 +1,34 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Deng, Stanley          LECFK22E  1616  1642/316  W29 W19 W10 W4  W6  5.0
+  2 Chung, Ethan           LLMH108U  1630  1608/372  W21 W18 L4  W19 W9  4.0
+  3 Palm, Caleb            LIBK919S  1446  1435/205  W30 W15 W24 L6  W10 4.0
+  4 Chavez Vargas, Angel   CWHM858A  1267  1347/ 67  W22 W16 W2  L1  W13 4.0
+  5 Mendoza, Oscar         CWHKI229  1223  1242/302  L16 W22 W31 W15 W7  4.0
+  6 Hassan, Ahmad          RRGI714R  1166  1292/172  W25 W32 W7  W3  L1  4.0
+  7 Li, Jessie             IDXFY99Q  1486  1434/ 20  W14 W28 L6  W12 L5  3.0
+  8 Li, Roy                IDXCY99P  1244  1197/ 20  W27 L24 W14 L13 W22 3.0
+  9 Arias Padilla, Jose    RICL888V  1237  1209/104  L24 W33 W30 W20 L2  3.0
+ 10 Kaiphanliam, Kieren SisCWHJK52X  1223  1232/ 44  W31 W12 L1  W24 L3  3.0
+ 11 Ramos, Zachary         DEHGK71L  1177  1127/ 41  L15 W30 L27 W26 W25 3.0
+ 12 Hogaboam, Camden       LIBKC54Q  1084  1092/ 75  W17 L10 W28 L7  W27 3.0
+ 13 Fultz, Heath           JMLH853S  1084  1079/ 64  L28 W25 W32 W8  L4  3.0
+ 14 Geelhood, Alec         CDKII90A  1001  1025/104  L7  W17 L8  W31 W24 3.0
+ 15 Alford, Trey           CWHM636B   826  1036/ 35  W11 L3  W18 L5  W19 3.0
+ 16 Arias Padilla, Alondra RICKK68G   802   969/ 10  W5  L4  L19 W33 W18 3.0
+ 17 Lopez, Maya            CWHM3058   689   816/ 90  L12 L14 BYE W23 W20 3.0
+ 18 Whalen, Jack           TRHGK96P  1118  1072/ 45  W26 L2  L15 W27 L16 2.0
+ 19 Alford, Isaiah         CWHL925Y  1115  1105/ 30  W23 L1  W16 L2  L15 2.0
+ 20 Pantoja, Cain          OCHG228C  1052   967/ 55  L32 W26 W33 L9  L17 2.0
+ 21 Dillingham, Annabella  KCCH229F  1048   997/254  L2  L27 L25 W29 W31 2.0
+ 22 Chavez, Israel         MCUEK69M   932   952/ 50  L4  L5  W29 W28 L8  2.0
+ 23 Vasquez, Mateo         MCUEK26G   896   858/100  L19 W29 L26 L17 W32 2.0
+ 24 Perez Birrueta, Rafael CWHJK60W   854   961/ 53  W9  W8  L3  L10 L14 2.0
+ 25 Moreno Prado, Brandon  CWHMC596   818   847/237  L6  L13 W21 W32 L11 2.0
+ 26 Santana, Andy          CWHKH849   800   799/253  L18 L20 W23 L11 W33 2.0
+ 27 Paw Myint, John Sein   CWHJJ81W   766   872/ 15  L8  W21 W11 L18 L12 2.0
+ 28 Medrano, Axel          CWHJB48G   684   805/ 49  W13 L7  L12 L22 W30 2.0
+ 29 Guizar, Kevin          CWHKI02P  1024   927/ 94  L1  L23 L22 L21 BYE 1.0
+ 30 Mendoza, Leonardo      CWHK1126   966   900/287  L3  L11 L9  BYE L28 1.0
+ 31 Schlotthauer, Ava      LIBLJ53Z   666   647/ 18  L10 BYE L5  L14 L21 1.0
+ 32 Wampole, Caleb         CWHJ133K   577   605/ 67  W20 L6  L13 L25 L23 1.0
+ 33 Khuong, Nikki          CWHMJ46A   100   100/  9  BYE L9  L20 L16 L26 1.0

@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Cui, Sky               SRGDZ79Y  1033  1116/ 11  L14 W22 W13 W3  W11 W7  5.0
+  2 Zou, Jinhan            SSMDH14T  1138  1195/122  W13 W5  W11 D7  D3  W4  5.0
+  3 Pleasants, Gabriel     THUD149G  1056  1087/ 84  W12 W9  W8  L1  D2  W10 4.5
+  4 Xu, Natalie            CNHC137A  1064  1075/ 97  W16 L8  W17 W5  W7  L2  4.0
+  5 Tsen, Eric             AGBDK18P   945   966/173  W15 L2  W16 L4  W14 W12 4.0
+  6 Lin, Luna              OPWCK01W   958   967/100  W22 W17 L7  D9  D12 W11 4.0
+  7 Zandanov, Leonid       ENACK31Q  1329  1268/128  W18 W10 W6  D2  L4  L1  3.5
+  8 Suresh Balaji, Shri ThaSWRDK91T   801   831/ 95  W21 W4  L3  L11 D16 W15 3.5
+  9 Tsay, Elon             NOWDK07B   844   870/ 86  W19 L3  W14 D6  L10 W16 3.5
+ 10 Li, Emma               THRDJ98A   883   902/ 48  W20 L7  D12 W17 W9  L3  3.5
+ 11 Li, Anyi               LKDCJ55F   918   911/ 53  BYE W14 L2  W8  L1  L6  3.0
+ 12 Zhang, Amy             SOMDC03P   740   784/126  L3  W19 D10 W20 D6  L5  3.0
+ 13 Wong, Claire           BCABK86D   761   782/ 92  L2  W15 L1  L14 W19 W18 3.0
+ 14 Hu, Ryan               OPWAJ97N   722   789/ 78  W1  L11 L9  W13 L5  W20 3.0
+ 15 Lai, Ryan              SHSAH70N   632   652/ 15  L5  L13 W21 W22 W20 L8  3.0
+ 16 Li, Rebecca            SCDCJ62B   750   743/128  L4  W21 L5  W19 D8  L9  2.5
+ 17 Charuvil Vinu, Suryen  RSHAJ89R   777   713/ 53  BYE L6  L4  L10 L18 W21 2.0
+ 18 Bogomolov, Henry       SSMBJ72J   768   696/ 61  L7  L20 L19 W21 W17 L13 2.0
+ 19 Li, Bryan              MEDAJ75H   611   610/ 66  L9  L12 W18 L16 L13 W22 2.0
+ 20 Zhang, Patrick         SSSBK01J   600   574/119  L10 W18 D22 L12 L15 L14 1.5
+ 21 Ranjith, Janani        SHVBK65E   409   409/ 99  L8  L16 L15 L18 W22 L17 1.0
+ 22 Zhang, David           SOMBK41P   687   567/114  L6  L1  D20 L15 L21 L19 0.5

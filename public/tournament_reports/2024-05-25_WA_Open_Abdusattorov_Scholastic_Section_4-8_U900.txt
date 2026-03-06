@@ -1,0 +1,35 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Pantea, Zion           DCCEK63Y   818  1010/ 39  W29 W15 W2  W10 W8  5.0
+  2 Meka, Suhaas           REOFJ51J   859   948/ 57  W14 W30 L1  W6  W12 4.0
+  3 My, Nieka              AMSIH73U   800  1197/  4  W22 W12 LF  W21 W9  4.0
+  4 Berjis, Adrina         MEDE230U   820   834/142  W34 L5  W22 W14 W15 4.0
+  5 Dhar, Kavish           SLLGQ44B   400   640/  9  W18 W4  L8  W11 W10 4.0
+  6 Lu, Ian                CRIFE83J   861   885/216  D28 W18 W7  L2  W20 3.5
+  7 Agrawal, Sakash        MEDEC98H   769   803/146  HPB W31 L6  W28 W18 3.5
+  8 Kannapiran, Arnav      OPWF983P   832   860/ 93  W24 W21 W5  D9  L1  3.5
+  9 Lin, Ethan             THUFJ71H   718   791/ 34  W26 W20 WF  D8  L3  3.5
+ 10 Lin, Elliot            THUFJ71G   840   835/ 35  W16 W13 W11 L1  L5  3.0
+ 11 Razmov, Siana          HZFBK93Y   820   786/132  W31 W17 L10 L5  W25 3.0
+ 12 Xia, Jethro            BCSEK47R   729   749/ 82  W25 L3  W26 W16 L2  3.0
+ 13 Sinha, Rian            UPAI790Y   728   719/ 20  W33 L10 W17 L15 W26 3.0
+ 14 Kesavan, Vihaan        SPXEW80S   864   806/  4  L2  W29 WF  L4  W27 3.0
+ 15 Dhar, Aarna            JWEEW80R   600   706/  5  W19 L1  W20 W13 L4  3.0
+ 16 Guruswamy, Tejal       CPJHK10X   347   525/ 27  L10 W32 W30 L12 W28 3.0
+ 17 Stallard, Moses        HMNEH73T   400   691/  4  WF  L11 L13 W30 W21 3.0
+ 18 Ahsant, Nickrad        WELBJ56K   882   792/ 20  L5  L6  W31 W23 L7  2.0
+ 19 Elmieh, Niko           CRKE777E   851   747/ 55  L15 W28 L21 L25 W29 2.0
+ 20 Nadupalli, Varun       TMBHK06T   833   763/ 65  W23 L9  L15 W24 L6  2.0
+ 21 Srishankar, Suryaa     FRWEK87F   711   704/ 34  W27 L8  W19 L3  L17 2.0
+ 22 Luo, Steven            TBKEH97A   477   501/ 13  L3  W25 L4  L26 W31 2.0
+ 23 Singh, Sehaj           CDWGK16N   285   282/ 16  L20 L26 WF  L18 W33 2.0
+ 24 My, Belet              OKHGH73S   600   584/  4  L8  W33 LF  L20 W30 2.0
+ 25 Kammara, Rishisai      RSAEH73Q   400   495/  5  L12 L22 W34 W19 L11 2.0
+ 26 Pan, Jingyuan          EVJGH73P   600   532/  5  L9  W23 L12 W22 L13 2.0
+ 27 Robles, Ricardo        OKHGH73N   600   457/  4  L21 W34 LF  W32 L14 2.0
+ 28 Marella, Akhil         CHREK93L   680   617/ 57  D6  L19 WF  L7  L16 1.5
+ 29 Davis, Quintyn         OKHGH73M   600   311/  5  L1  L14 D33 W34 L19 1.5
+ 30 Mcintyre, Isaac        ETSE466S   662   568/214  W32 L2  L16 L17 L24 1.0
+ 31 Sriram, Mukund         WOBEH73L   400   314/  5  L11 L7  L18 W33 L22 1.0
+ 32 Amezcua, Antonio       OKHFH73K   500   217/  4  L30 L16 LF  L27 W34 1.0
+ 33 Villasenor, Dominick   OKHEH73J   400   100/  5  L13 L24 D29 L31 L23 0.5
+ 34 Gowtham, Arav          EBSEH89D   100   100/  7  L4  L27 L25 L29 L32 0.0

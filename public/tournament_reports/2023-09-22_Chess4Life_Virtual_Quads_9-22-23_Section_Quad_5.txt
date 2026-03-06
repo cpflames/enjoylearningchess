@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chevuri, Tattva        CBRGC06V   901   986/296  W4  W3  D2  2.5
+  2 Zhong, Alan            TISLN778   939   960/ 52  D3  W4  D1  2.0
+  3 Acharya, Arnav         BCAG746Q   866   882/ 30  D2  L1  W4  1.5
+  4 He, Raymond            HSCKK82K   940   856/ 69  L1  L2  L3  0.0

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kapoyos, Rain          CSIHK42X   400   572/  6  W6  W4  W5  3.0
+  2 Daniel, Lemuel         BLCCJ29L   656   637/  8  W5  L3  W4  2.0
+  3 Heydarova, Aliya       BLWEH95D   485   535/  6  L4  W2  W6  2.0
+  4 Hu, Kieran             GISDJ14Z   685   605/  8  W3  L1  L2  1.0
+  5 Zeeshan, Hamza         CRKDJ15N   351   306/ 15  L2  D6  L1  0.5
+  6 Sajeeth, Samay         RKWEJ82R   100   138/  7  L1  D5  L3  0.5

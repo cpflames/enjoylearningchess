@@ -1,0 +1,45 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Shah, Kanav            LMAF295Q  1393  1451/147  W31 W24 D2  W7  W10 4.5
+  2 Kwan-uchiyama, Avery   JINFH22T  1210  1406/ 72  WF  W23 D1  W9  W4  4.5
+  3 Pai, Vihaan            CHAEK17C  1296  1349/194  W38 W11 L4  W17 W14 4.0
+  4 Cha, Samuel            BASGK18Z  1617  1596/230  W17 W15 W3  D5  L2  3.5
+  5 Urali, Sanjay          OMSG315D  1522  1509/361  W25 D14 W28 D4  D8  3.5
+  6 Shah, Aarit            MTWF710Y  1394  1381/ 49  W40 D10 D14 W28 D11 3.5
+  7 Tie, Mike              ENDF856Y  1303  1315/123  W32 W16 D9  L1  W24 3.5
+  8 Syal, Yash             CDIFC10R  1279  1285/104  D20 D39 W18 W31 D5  3.5
+  9 Chien, Jeffrey         OVLGF41X  1237  1284/144  W33 W18 D7  L2  W22 3.5
+ 10 Tian, Eric             SOMFI80S  1204  1297/127  W34 D6  W27 W26 L1  3.5
+ 11 Patnaik, Rishabhdeva   CRKFG72D  1123  1193/142  W43 L3  W39 W12 D6  3.5
+ 12 Cheng, Alan            CHRFJ71K  1322  1287/139  W19 L28 W30 L11 W31 3.0
+ 13 Fei, Derek             OMSGJ01E  1269  1231/ 86  D21 L29 W34 W38 D16 3.0
+ 14 Nair, Ishan            FRWG670E  1232  1257/145  W41 D5  D6  W19 L3  3.0
+ 15 Xu, Jeffery            TYEGJ88V  1227  1215/ 40  W42 L4  L19 W32 W30 3.0
+ 16 Pan, Peng-ruei         SSME759R  1110  1138/ 63  W36 L7  D21 W37 D13 3.0
+ 17 Black, Stas            WPPF368F  1107  1124/111  L4  W33 W36 L3  W34 3.0
+ 18 Kan, Kaleb             BLWFF53E  1042  1086/241  WF  L9  L8  W41 W26 3.0
+ 19 Huang, Edwin           OMSG616M  1029  1092/ 77  L12 W44 W15 L14 W28 3.0
+ 20 Confer, Braden         HSCGK00V   941  1089/ 25  D8  D22 L24 W36 W27 3.0
+ 21 Shapiro, Maksim        LMAEK10R   932  1123/ 49  D13 D26 D16 D23 W29 3.0
+ 22 Shaikot, Sabeer        ENSF147Q  1408  1346/215  D37 D20 W29 D24 L9  2.5
+ 23 Ma, Ziliang            DCCGA69N  1400  1344/ 49  W30 L2  L31 D21 W37 2.5
+ 24 Wang, Eric             WPPF803M  1146  1159/114  W35 L1  W20 D22 L7  2.5
+ 25 Zhao, Zhenyu           SKIG821U  1104  1104/ 44  L5  W41 L26 D39 W38 2.5
+ 26 Li, Jessie             IDXFY99Q  1644  1527/ 10  D29 D21 W25 L10 L18 2.0
+ 27 Choi, Hunter           UPAGE80A  1247  1187/218  D39 W37 L10 D29 L20 2.0
+ 28 Luo, Peter             SHVE664K  1141  1133/ 88  W44 W12 L5  L6  L19 2.0
+ 29 Chaurasia, Vihaan      REJGH65G  1107  1130/125  D26 W13 L22 D27 L21 2.0
+ 30 Bhattacharjee, PratyushTIME602T  1082  1065/ 48  L23 W42 L12 W33 L15 2.0
+ 31 Li, Harry              SSSEG30G  1046  1066/311  L1  W35 W23 L8  L12 2.0
+ 32 Tunuguntla, Sai SrithanEMDFK78V   961   952/191  L7  L36 W42 L15 W39 2.0
+ 33 Vijay, Krish           TYEG144B   900   896/ 29  L9  L17 W35 L30 W42 2.0
+ 34 Latuskiewicz, Matthew  EPSFK21S   733   804/ 15  L10 W40 L13 W43 L17 2.0
+ 35 Kadri, Eshan           XXOGW869   555   660/  9  L24 L31 L33 W40 WF  2.0
+ 36 Balasubramnian, Kala   CNCFJ70W   500   935/  5  L16 W32 L17 L20 W41 2.0
+ 37 Dong, Tristan          MRLEF90V  1087  1057/ 52  D22 L27 W43 L16 L23 1.5
+ 38 Bangari, Ishaan        FRWFJ96C   943   915/ 10  L3  D43 W40 L13 L25 1.5
+ 39 Hsiao, Aaron           OMSG338U   905   924/ 30  D27 D8  L11 D25 L32 1.5
+ 40 Zhang, Aaron           RSAEC74T  1077   956/ 91  L6  L34 L38 L35 W44 1.0
+ 41 Tsang, Andrew          OMSGE48P   845   801/ 42  L14 L25 W44 L18 L36 1.0
+ 42 Shah, Hridhaan         CBRE561Z   814   764/ 45  L15 L30 L32 W44 L33 1.0
+ 43 Mandore, Ishaan        WPPFJ70V   500   666/  4  L11 D38 L37 L34 LF  0.5
+ 44 Wu, Ruichen            CDWEK08F   145   145/  8  L28 L19 L41 L42 L40 0.0

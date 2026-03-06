@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Qureshi, Danish        BLNGF36V   840   955/142  W2  W3  W4  3.0
+  2 Fine-gucker, Logan     EAGE535R   732   767/111  L1  W6  W5  2.0
+  3 Neff, Josiah           CCXGH69Q   723   782/ 27  W4  L1  W6  2.0
+  4 Mcneil, Mason          VSTGJ49Y   791   761/ 35  L3  W5  L1  1.0
+  5 Kaur, Prabhkirat       IREEE41C   636   626/ 44  W6  L4  L2  1.0
+  6 Aguila-contreras, EdgarHORHJ65J   742   647/ 61  L5  L2  L3  0.0

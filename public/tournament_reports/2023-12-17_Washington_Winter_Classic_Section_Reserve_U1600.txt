@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Fung, Nola             ADUNK09X  1565  1706/ 16  W9  W6  W3  W4  W7  5.0
+  2 Zhao, Kefu             ADUNK09S  1206  1356/ 10  BYE W14 D4  D3  W8  4.0
+  3 Koripella, Dheeran     INGH610W  1385  1435/ 60  W8  W5  L1  D2  W12 3.5
+  4 Liu, Vincent           ILAF546Q  1538  1534/197  W10 W11 D2  L1  D6  3.0
+  5 Cen, Evan              TYEII97D  1511  1493/189  W12 L3  L7  W10 W11 3.0
+  6 Chang, Allen           ADUNK02T  1471  1483/ 22  W17 L1  D10 W14 D4  3.0
+  7 Burchall, Laurion      ADUNI92H  1396  1421/ 30  HPB W13 W5  HPB L1  3.0
+  8 Foltenyi, Alex         LWANK09J  1050  1167/ 21  L3  BYE W9  W11 L2  3.0
+  9 Ma, Ziliang            DCCGA69N  1344  1335/ 54  L1  W15 L8  D16 W14 2.5
+ 10 Foltenyi, Vilmos       ADUNK09V  1313  1328/ 26  L4  W17 D6  L5  W16 2.5
+ 11 Stroud, Jeb            HSCIK22V  1418  1374/ 75  W16 L4  W12 L8  L5  2.0
+ 12 Pantea, Joshua         ABEJK63M  1303  1277/ 37  L5  W16 L11 W13 L3  2.0
+ 13 Zhang, Aaron           RSAEC74T   956   972/ 95  BYE L7  L16 L12 W15 2.0
+ 14 Hamlett, James         ADUN4372  1509  1438/103  W15 L2  HPB L6  L9  1.5
+ 15 Kossuri, Neil          SKWG696L  1278  1204/ 76  L14 L9  HPB BYE L13 1.5
+ 16 Zhang, Nathan          EINIK00X  1104  1102/ 15  L11 L12 W13 D9  L10 1.5
+ 17 Anand, Lakshana        RSAFC68H  1269  1237/ 94  L6  L10 U   U   U   0.0

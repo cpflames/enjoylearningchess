@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Merriman, Dann         WMNEF79Y  1703  1727/601  W3  W4  W2  3.0
+  2 Summerfield, William   FAPIG77R  1807  1789/154  W4  W3  L1  2.0
+  3 Mirpuri, Shrevin Hiro  OMSGJ03R  1161  1173/ 18  L1  L2  W4  1.0
+  4 Balaji, Arjun          CMCDH75P  1029  1011/ 59  L2  L1  L3  0.0

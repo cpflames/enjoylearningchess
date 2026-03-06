@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Fu, Yo-yo              ETSAJ98Q   428   555/ 14  W4  W3  W2  3.0
+  2 Yong, Jionni           RDWFW86B   482   486/ 20  W3  W4  L1  2.0
+  3 Venkatesh, Anya        HMNBJ30F   242   255/ 30  L2  L1  W4  1.0
+  4 Tripathi, Naksh        BRHCJ98P   352   268/ 49  L1  L2  L3  0.0

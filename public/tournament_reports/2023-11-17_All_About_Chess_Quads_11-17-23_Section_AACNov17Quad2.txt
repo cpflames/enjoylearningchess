@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhao, William          STTDH70M  1077  1122/ 81  W3  W2  D4  2.5
+  2 Li, Harry              SSSEG30G  1010  1046/306  W4  L1  W3  2.0
+  3 Nidamarthi, Nikhil     RSAE375J   966   960/169  L1  W4  L2  1.0
+  4 Juarez-caballero, CristSNIGD76Z  1068  1010/ 95  L2  L3  D1  0.5

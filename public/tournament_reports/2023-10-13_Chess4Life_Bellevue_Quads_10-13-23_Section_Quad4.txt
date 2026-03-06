@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Naik, Shreyas          ETSEJ98X   469   427/  9  W4  W3  L2  2.0
+  2 Lin, Luna              OPWCK01W   234   288/ 14  W3  L4  W1  2.0
+  3 Tripathi, Naksh        BRHDJ98P   182   172/  6  L2  L1  W4  1.0
+  4 Shen, Selina           SOMCJ96L   200   164/  3  L1  W2  L3  1.0

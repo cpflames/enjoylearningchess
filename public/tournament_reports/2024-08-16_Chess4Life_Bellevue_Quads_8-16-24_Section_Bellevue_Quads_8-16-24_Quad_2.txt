@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Verma, Reyansh         RBREJ20M   972  1101/ 42  W3  W2  W4  3.0
+  2 Plesko, Francis        HSCEK03B  1000   972/ 32  L4  L1  W3  1.0
+  3 Khandhedia, Dhruvin NirLMAE257G   988   963/ 54  L1  W4  L2  1.0
+  4 Guilanians, Gavin      OPWH645B   945   932/ 46  W2  L3  L1  1.0

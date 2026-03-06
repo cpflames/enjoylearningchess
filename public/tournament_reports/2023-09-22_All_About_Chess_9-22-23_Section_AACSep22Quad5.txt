@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Patrick         SSSAK01J   122   295/ 12  D2  W3  W4  2.5
+  2 Bysani, Aakash         SSMBK01D   358   330/  8  D1  D4  BYE 2.0
+  3 Sanchez, Kaylee        FRIFK08P   100   122/ 10  BYE L1  W5  2.0
+  4 Malhotra, Dilraj       MAHCK02Y   193   209/  8  W5  D2  L1  1.5
+  5 Vatsan, Maitri         SSMBK00S   100   100/  2  L4  BYE L3  1.0

@@ -1,0 +1,35 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wadhwani, Ren          ORADK13K   525   727/ 21  W30 W25 W15 W9  W5  5.0
+  2 Li, Alice              OPWCJ98C   742   739/ 23  WF  L4  W19 W7  W6  4.0
+  3 Karanam, Aadya         CHKDK84K   659   681/ 48  W11 L13 W12 W14 W9  4.0
+  4 Yang, Andrew           CNHC575T   499   690/ 35  W12 W2  L6  W11 W13 4.0
+  5 Lew, Abigail           OPWD645P   726   708/100  W24 W10 W16 D6  L1  3.5
+  6 Razmov, Siana          HZFBK93Y   528   625/ 76  W19 W26 W4  D5  L2  3.5
+  7 Li, Emma               THRDJ98A   339   482/ 18  D20 W18 W8  L2  W10 3.5
+  8 Kim, Lucas             EASCJ74R   200   476/  5  W31 D15 L7  W27 W20 3.5
+  9 Wang, William          CNHCK05E   610   604/ 12  W28 W21 W13 L1  L3  3.0
+ 10 Deepesh, Dhwani        BRHDK31A   203   379/ 19  W14 L5  W25 W21 L7  3.0
+ 11 Yorks, Cameron         THODJ74Q   300   492/  5  L3  W34 W26 L4  W22 3.0
+ 12 Gorski, Corvin         KSTDJ74N   300   455/  5  L4  W32 L3  W31 W25 3.0
+ 13 Bayya, Shrihan         CBRDJ74M   300   627/  5  W17 W3  L9  W16 L4  3.0
+ 14 Gilbert, Noah          QAEDJ74L   300   400/  5  L10 W24 W18 L3  W26 3.0
+ 15 Liu, Austin            SOMDG01C   532   488/ 19  W29 D8  L1  L22 W28 2.5
+ 16 Lawardy, Clayton       DCTCK13P   525   487/ 14  WF  W22 L5  L13 D21 2.5
+ 17 Esparza-chen, Lucien   WMNDJ98Z   309   332/ 19  L13 W20 L21 D19 W29 2.5
+ 18 Wang, Kenzo            MRPDK03Z   134   201/  8  W34 L7  L14 D23 W31 2.5
+ 19 Nguyen, Kaden          JINCJ74K   200   378/  5  L6  W33 L2  D17 W27 2.5
+ 20 Magid, Yotam           THODJ74J   300   327/  5  D7  L17 W28 W29 L8  2.5
+ 21 Shing, Lucas           HZFCJ74H   200   380/  5  W27 L9  W17 L10 D16 2.5
+ 22 Besati, Arnav          RKWDJ74G   300   344/  5  W23 L16 D29 W15 L11 2.5
+ 23 Stuart, Alicia         REECK41M   100   109/ 14  L22 D30 L31 D18 W32 2.0
+ 24 Doyle, Thomas          SANDJ74E   300   100/  4  L5  L14 L32 BYE W33 2.0
+ 25 De Castro, Joaquin     OLWCJ74C   200   255/  5  W32 L1  L10 W33 L12 2.0
+ 26 Santiago, Joseph       SANCJ74B   200   237/  5  W33 L6  L11 W32 L14 2.0
+ 27 Michael, Sophia        DCCD704F   164   153/ 24  L21 D28 W30 L8  L19 1.5
+ 28 Bolisetty, Varun       CBRCJ73Z   200   158/  5  L9  D27 L20 W30 L15 1.5
+ 29 Kulkarni, Saish        PKRDJ73Y   300   176/  5  L15 W31 D22 L20 L17 1.5
+ 30 Besati, Avantika       RKWDJ73W   300   100/  4  L1  D23 L27 L28 BYE 1.5
+ 31 Sin, Benjamin          JINC259D   400   230/ 10  L8  L29 W23 L12 L18 1.0
+ 32 Srinivas, Siri         RKWCK89Q   145   100/ 28  L25 L12 W24 L26 L23 1.0
+ 33 Wang, Kiara            MRPCK04A   145   100/  8  L26 L19 W34 L25 L24 1.0
+ 34 Bedi, Areeva           PKRDJ73U   300   100/  3  L18 L11 L33 HPB HPB 1.0

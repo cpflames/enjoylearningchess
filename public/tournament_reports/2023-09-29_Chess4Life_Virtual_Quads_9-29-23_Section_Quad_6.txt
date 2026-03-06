@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 He, Raymond            HSCKK82K   856  1038/ 72  W2  W3  W4  3.0
+  2 Chevuri, Tattva        CBRGC06V   986  1004/299  L1  W4  W3  2.0
+  3 Taylor, Ryder          KAMK385C   901   891/330  W4  L1  L2  1.0
+  4 Mcintyre, Isaac        ETSE466S   992   906/172  L3  L2  L1  0.0

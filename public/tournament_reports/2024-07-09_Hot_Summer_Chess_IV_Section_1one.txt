@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Scollon, Owen          FHVI734D  1800  1808/503  W3  W2  W4  3.0
+  2 Hildenbrand, Blane     PSMI122V  1455  1455/344  W4  L1  D3  1.5
+  3 Zhang, Owen            FHVI995H  1400  1410/295  L1  W4  D2  1.5
+  4 Vance, Sawyer          FHVHJ32E  1210  1187/ 21  L2  L3  L1  0.0

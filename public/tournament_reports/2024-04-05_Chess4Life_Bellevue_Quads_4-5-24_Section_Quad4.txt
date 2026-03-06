@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Agrawal, Ayaansh       WONBJ99W   809   909/ 38  W4  W3  W2  3.0
+  2 Naik, Shreyas          ETSEJ98X   740   717/ 58  W3  L4  L1  1.0
+  3 Plesko, Francis        HSCEK03B   730   710/ 20  L2  L1  W4  1.0
+  4 Deepak, Sairaghav      PLKIA52Q   719   702/ 49  L1  W2  L3  1.0

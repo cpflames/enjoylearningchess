@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xu, Zoe                SOMEG70A  1239  1322/281  W4  W2  W3  3.0
+  2 Veiga, Gabriel         REJHJ31Y  1161  1147/135  W3  L1  L4  1.0
+  3 Joshi, Yash            PFCH280R  1244  1210/124  L2  W4  L1  1.0
+  4 Zhao, William          STTDH70M  1119  1115/ 67  L1  L3  W2  1.0

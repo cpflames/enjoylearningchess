@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Acharya, Arnav         BCAG746Q   643   758/ 21  W4  W2  W3  3.0
+  2 Ambardekar, Arjun      WLDEZ96E   537   607/ 28  W3  L1  W4  2.0
+  3 Lechner, Ryker         HSCF496J   589   564/ 65  L2  W4  L1  1.0
+  4 Bangard, Dhruv         TBKBK65D   571   491/ 22  L1  L3  L2  0.0

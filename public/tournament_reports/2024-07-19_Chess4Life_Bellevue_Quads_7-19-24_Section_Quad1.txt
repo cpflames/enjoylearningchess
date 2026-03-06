@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Summerfield, William   FAPIG77R  1789  1804/157  W4  W3  W2  3.0
+  2 Shi, Gavin             LCOJH855  1635  1639/394  W3  W4  L1  2.0
+  3 Lin, Leon Brian        UNKLH67H  1100  1444/  3  L2  L1  W4  1.0
+  4 Gollapally, Arnav      BLMJ499J  1324  1300/144  L1  L2  L3  0.0

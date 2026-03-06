@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Menon, Ritwik          WLDG974D   751   765/ 50  L3  W2  W4  2.0
+  2 Subramanian, Varun     PREEJ91Z   711   738/ 18  W4  L1  W3  2.0
+  3 Liao, Joe              MEDGE93Z   697   731/ 53  W1  W4  L2  2.0
+  4 Kuluru, Samith         LEOHI99K   656   585/268  L2  L3  L1  0.0

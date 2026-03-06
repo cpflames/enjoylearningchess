@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 He, Oliver             CRIDK71V  1131  1154/208  W4  L2  W3  2.0
+  2 Kondapally, Aryan      BCAM7943  1116  1143/ 29  L3  W1  W4  2.0
+  3 Wu, Jasper             IMSI3471  1133  1131/122  W2  D4  L1  1.5
+  4 Maheshwari, Vihaan     DGHK695W  1124  1077/ 95  L1  D3  L2  0.5

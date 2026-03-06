@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Malhotra, Sartaj       KNDFK69K   358   511/ 22  W2  D3  W4  2.5
+  2 Abhilash, Lavina       CRIEK07R   527   538/ 35  L1  W4  W3  2.0
+  3 Nandakiran, Vidyuth    SSME617C   589   552/ 34  W4  D1  L2  1.5
+  4 Romero, Brielle        SNIFK45T   263   224/ 12  L3  L2  L1  0.0

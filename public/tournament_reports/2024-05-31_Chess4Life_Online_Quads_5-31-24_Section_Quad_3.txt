@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yin, Daniel            ISSM116Y   925   947/425  L3  W4  W2  2.0
+  2 Bui, Edwin             FRVEK90H   958   971/ 61  W4  W3  L1  2.0
+  3 Beegala, Dhruv         RCSEC52Y   843   907/ 56  W1  L2  W4  2.0
+  4 Friesen, Eli           LAVDK27G   896   821/ 42  L2  L1  L3  0.0

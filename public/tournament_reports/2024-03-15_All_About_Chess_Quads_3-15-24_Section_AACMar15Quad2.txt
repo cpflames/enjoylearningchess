@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sembium, Aditi         BCADK25W  1057  1229/261  W3  W4  W2  3.0
+  2 Nidamarthi, Nikhil     RSAE375J  1099  1157/189  W4  W3  L1  2.0
+  3 Burtram, Dayton        BLMIG77M  1249  1207/256  L1  L2  W4  1.0
+  4 Bikkula, Charan        BLMHJ23A  1174  1103/202  L2  L1  L3  0.0

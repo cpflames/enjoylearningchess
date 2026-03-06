@@ -1,0 +1,29 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Jiang, Jason           SSMFK94Q   655   797/ 29  W23 W11 W12 D2  W3  4.5
+  2 Jibin, Kevin           REJGH82A   600   923/  5  W18 W17 W4  D1  W8  4.5
+  3 Kwon, Aiden            EBSEJ28Q   662   718/ 10  W10 W26 W8  W5  L1  4.0
+  4 Abhilash, Lavina       CRIEK07R   551   623/101  W28 W19 L2  W18 W10 4.0
+  5 Tam, Azure             CSEEJ19Y   376   522/ 10  W21 W20 W14 L3  W11 4.0
+  6 Wright, Victoria       MMIGJ17P   515   533/ 87  L12 W28 W23 D7  W14 3.5
+  7 Small, Yuli            JHYEK39Q   437   497/ 20  L20 W24 W19 D6  W15 3.5
+  8 Kraft, Petey           CSBEJ28P   515   586/ 10  W13 W25 L3  W12 L2  3.0
+  9 Iyer, Sathik           RCSFJ28H   472   466/ 20  W24 L12 W25 L11 W20 3.0
+ 10 Pareek, Aarohi         SSMEJ55S   348   477/ 21  L3  W13 W26 W17 L4  3.0
+ 11 Chitlangia, Rishi      LAVEJ60G   336   470/ 27  W16 L1  W28 W9  L5  3.0
+ 12 Shasha, Erel           HMNEH81Z   400   647/  5  W6  W9  L1  L8  W17 3.0
+ 13 Vancha, Shriyan Reddy  BNTEH81Y   400   543/  5  L8  L10 W16 W21 W18 3.0
+ 14 Peng, Eric             SSMFJ31E   428   423/ 29  D15 W22 L5  W26 L6  2.5
+ 15 Lee, Ethan             CEIEH81V   400   459/  5  D14 W16 L17 W23 L7  2.5
+ 16 Burmistrov, Maya       SSMEJ19Z   688   579/ 15  L11 L15 L13 W22 W24 2.0
+ 17 Bhandula, Sparsh       DISFJ03S   523   493/ 15  W27 L2  W15 L10 L12 2.0
+ 18 Phaneesh, Saanvi       SSME983M   456   441/ 59  L2  W27 W20 L4  L13 2.0
+ 19 Hewitt, Preston        SSMEH81U   400   317/  5  W22 L4  L7  L20 W27 2.0
+ 20 Wang, Evan             REEFH81T   500   379/  5  W7  L5  L18 W19 L9  2.0
+ 21 Dragusanu, Clara       SSMEH81S   400   239/  5  L5  L23 W27 L13 W26 2.0
+ 22 Kasturiya, Saina       PLKGJ20J   540   348/  9  L19 L14 D24 L16 W28 1.5
+ 23 Eren, Orhun            RCSFH81R   500   244/  5  L1  W21 L6  L15 D25 1.5
+ 24 Miloslavskiy, Jack     CSBEH81Q   400   252/  5  L9  L7  D22 W25 L16 1.5
+ 25 El-dasher, Khalifa     SSMEH81P   400   100/  4  WF  L8  L9  L24 D23 1.5
+ 26 Wong, Benjamin         CSBEH81N   400   100/  4  WF  L3  L10 L14 L21 1.0
+ 27 Voruganti, Adhvik      EBSEH81M   400   100/  5  L17 L18 L21 W28 L19 1.0
+ 28 El-dasher, Zayed       SSMFH81L   500   100/  5  L4  L6  L11 L27 L22 0.0

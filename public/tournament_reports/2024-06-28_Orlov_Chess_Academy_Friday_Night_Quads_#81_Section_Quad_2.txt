@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bao, Edmund            CRIEH68L   400   912/  3  W4  W2  D3  2.5
+  2 Doronin, Victor        BMNG335T   704   724/ 99  W3  L1  W4  2.0
+  3 Byelashova, Sofia      SGHBK01K   743   726/ 75  L2  W4  D1  1.5
+  4 Sarangi, Samarth       CBRDH69F   114   114/  6  L1  L3  L2  0.0

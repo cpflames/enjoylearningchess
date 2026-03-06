@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 George, Ameya          EBSDK88Y   710   745/ 78  W4  W3  D2  2.5
+  2 Deepak, Sairaghav      PLKIA52Q   603   698/ 65  W3  W4  D1  2.5
+  3 Jain, Anvay            EBSG874Z   598   576/ 74  L2  L1  W4  1.0
+  4 Anand, Grahil          TMCFJ89Y   529   466/ 34  L1  L2  L3  0.0

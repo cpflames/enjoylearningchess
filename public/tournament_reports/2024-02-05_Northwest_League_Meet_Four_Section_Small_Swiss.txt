@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Harris, Eli            MRDLJ85Q   301   361/ 14  W5  W3  2.0
+  2 Herboth, Quinn         SQUKK99M   245   294/ 12  W6  W5  2.0
+  3 Delong, Sophia         BLHJK03A   270   278/ 23  W4  L1  1.0
+  4 Brown, Xander          MRDKJ32D  1000   205/  2  L3  W6  1.0
+  5 Eckermann, Owen        FERJJ32B   900   100/  2  L1  L2  0.0
+  6 Small, Ryan            LYEJJ32A   900   100/  2  L2  L4  0.0

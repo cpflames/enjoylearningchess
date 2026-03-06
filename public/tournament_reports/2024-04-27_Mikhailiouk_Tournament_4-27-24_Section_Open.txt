@@ -1,0 +1,31 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Rubaiyat, Rhadean      ICSID40L  1473  1589/175  W12 W13 W7  W2  W5  5.0
+  2 Pan, Peng-ruei         SSME759R  1574  1581/134  W15 W18 W14 L1  W6  4.0
+  3 Rao, Deepak Sri KartikeBPSH517J  1458  1456/145  L23 W29 W24 W10 W13 4.0
+  4 Anand, Lakshana        RSAFC68H  1244  1263/113  D26 D27 W9  W23 D8  3.5
+  5 Balayoghan, Keeran     OMSG477N  1343  1390/110  W24 D6  W16 W8  L1  3.5
+  6 Bhaskara, Yash         ICKJI539  1211  1308/316  W17 D5  W27 W14 L2  3.5
+  7 Maharaja, Imai         HMNDK34K  1341  1352/185  W29 W20 L1  D12 D11 3.0
+  8 Patel, Aarya           REEFK30E  1492  1457/155  W21 D16 W10 L5  D4  3.0
+  9 Chien, Jeffrey         OVLGF41X  1367  1348/165  L16 W21 L4  W28 W20 3.0
+ 10 Ghosh, Snehil          CBRE738T  1289  1292/161  WF  W23 L8  L3  W19 3.0
+ 11 El Husseini, Mahdi     JUHMJ57M  1332  1314/ 22  L28 D19 W22 W16 D7  3.0
+ 12 Wang, Eric             WPPF803M  1217  1237/148  L1  W25 WF  D7  D17 3.0
+ 13 Ganesan, Vidur         RBRE940K  1310  1327/196  W25 L1  W29 W20 L3  3.0
+ 14 Zandanov, Leonid       ENACK31Q  1402  1371/107  W19 W28 L2  L6  D15 2.5
+ 15 Xu, Yang               CNCE649B  1240  1244/158  L2  D22 W28 D19 D14 2.5
+ 16 Xu, Alex               EMSH500U  1098  1195/150  W9  D8  L5  L11 W23 2.5
+ 17 Shaikot, Sabeer        ENSF147Q  1354  1309/227  L6  W26 L20 W27 D12 2.5
+ 18 Chevuri, Tattva        REJGC06V  1318  1286/367  W22 L2  L23 D24 W27 2.5
+ 19 Nerella, Abhiram       HGMII18R  1146  1148/ 28  L14 D11 W26 D15 L10 2.0
+ 20 Syal, Yash             CDIFC10R  1415  1373/154  W30 L7  W17 L13 L9  2.0
+ 21 Zou, Jinhan            SSMDH14T  1192  1155/107  L8  L9  L25 W26 W29 2.0
+ 22 Rachiba, Alisa         EVPDK08E  1219  1193/120  L18 D15 L11 W25 D24 2.0
+ 23 De, Rishik             INGHJ87T  1142  1165/ 70  W3  L10 W18 L4  L16 2.0
+ 24 Deng, Arthur           OPWCC90Y  1097  1148/113  L5  W30 L3  D18 D22 2.0
+ 25 Rogov, Richard         MEDCJ68U   939  1006/ 59  L13 L12 W21 L22 W28 2.0
+ 26 Tsen, Eric             AGBDK18P   898   894/153  D4  L17 L19 L21 BYE 1.5
+ 27 Madhusoodanan, Aditya  BCAHJ12B   539   567/ 47  BYE D4  L6  L17 L18 1.5
+ 28 Wu, Jayden             UCDC495Q  1076  1057/ 95  W11 L14 L15 L9  L25 1.0
+ 29 Fang, Weiai            LAVD696W  1013   980/249  L7  L3  L13 BYE L21 1.0
+ 30 Stroud, Jeb            HSCIK22V  1400  1338/124  L20 L24 LF  U   U   0.0

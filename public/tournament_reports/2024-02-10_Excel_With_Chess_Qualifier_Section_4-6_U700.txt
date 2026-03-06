@@ -1,0 +1,34 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Jain, Anvay            EBSG874Z   407   742/ 38  W33 W25 W9  W5  W4  5.0
+  2 Thangakumar, Pranav    SSMFJ49C   575   666/ 14  W32 W16 L5  W23 W15 4.0
+  3 Lohr, Jackson          AGBFK46G   446   623/ 23  L5  W32 W7  W26 W8  4.0
+  4 Zakaria, Abid          CDWFJ28T   500   846/  5  W18 W10 W11 W12 L1  4.0
+  5 Sharma, Sanskar        BNTEJ28S   400   868/  5  W3  W27 W2  L1  W16 4.0
+  6 Binoj, Advay           AGBFK32J   641   698/ 25  D7  W18 W10 L8  W12 3.5
+  7 Kwon, Aiden            EBSEJ28Q   400   662/  5  D6  W19 L3  W29 W17 3.5
+  8 Slettebak, Jordan      EMSG604V   689   659/ 48  W21 W29 L12 W6  L3  3.0
+  9 Satishkumar, Gautham   RCSEC88L   631   628/ 37  W15 W14 L1  L16 W22 3.0
+ 10 Jayasinghe, Sihas      RSAFJ83E   580   595/ 13  W22 L4  L6  W21 W23 3.0
+ 11 Preyapongpisan, Angus  CLHFJ83D   468   499/  9  W28 W23 L4  L15 W25 3.0
+ 12 Phan, Cheryl           EBSEJ75Y   438   539/ 10  W24 W17 W8  L4  L6  3.0
+ 13 Hooper, Thomas         CRNFK25G   361   369/ 27  L25 W28 L23 W24 W26 3.0
+ 14 Pareek, Aarohi         SSMEJ55S   195   327/ 11  W31 L9  W25 L17 W28 3.0
+ 15 Kraft, Petey           CSBEJ28P   400   515/  5  L9  W33 W24 W11 L2  3.0
+ 16 Kostikov, Matthew      PLKGJ28N   600   639/  5  W20 L2  W27 W9  L5  3.0
+ 17 Solanki, Aksh          WELEJ28M   400   431/  5  W30 L12 D29 W14 L7  2.5
+ 18 Upasani, Neil          SSMEJ57C   763   666/ 15  L4  L6  W32 L22 W30 2.0
+ 19 Waymouth, Benjamin     STTGJ75C   566   428/ 10  L23 L7  L21 W32 W27 2.0
+ 20 Wright, Victoria       MMIGJ17P   497   424/ 77  L16 L22 L28 W33 W29 2.0
+ 21 Jiang, Jason           SSMFK94Q   281   297/ 19  L8  L26 W19 L10 W32 2.0
+ 22 Anderson, Miles        WELFJ28L   500   437/  5  L10 W20 L26 W18 L9  2.0
+ 23 Kapoor, Rishaan        SHSGJ28K   600   436/  5  W19 L11 W13 L2  L10 2.0
+ 24 Battala, Havish Reddy  SSMEJ28J   400   284/  5  L12 W30 L15 L13 W33 2.0
+ 25 Iyer, Sathik           RCSFJ28H   500   374/  5  W13 L1  L14 W30 L11 2.0
+ 26 Calin, Rayden          CLHFJ28G   500   350/  5  L29 W21 W22 L3  L13 2.0
+ 27 Phaneesh, Saanvi       SSME983M   443   368/ 49  WF  L5  L16 D28 L19 1.5
+ 28 Vallius, Eldin         LAVEJ28F   400   248/  5  L11 L13 W20 D27 L14 1.5
+ 29 Gaddam, Vihaan         SSMEJ28E   400   320/  5  W26 L8  D17 L7  L20 1.5
+ 30 Kim, Ahrin             MMEFK46E   400   290/ 20  L17 L24 W33 L25 L18 1.0
+ 31 Rajesh, Rishaan        CLHEJ57D   652   534/  6  L14 U   U   U   U   0.0
+ 32 Xia, Felix             WMEFJ28C   500   100/  5  L2  L3  L18 L19 L21 0.0
+ 33 Forsbach-arizaga, RafaeRKWEJ28B   400   100/  5  L1  L15 L30 L20 L24 0.0

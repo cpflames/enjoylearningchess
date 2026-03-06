@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Koripella, Dheeran     INGH610W  1441  1441/ 66  W3  BYE W5  3.0
+  2 Li, Chris              CNHCJ89W   328   368/ 34  W5  W4  BYE 3.0
+  3 Krishna, Vihaan        ENSC263E   441   473/  7  L1  W5  W4  2.0
+  4 Sangani, Ronit         REECJ70P   250   189/  7  U   L2  L3  0.0
+  5 Munkhbat, Tenggis      ECLFJ19B   500   100/  3  L2  L3  L1  0.0

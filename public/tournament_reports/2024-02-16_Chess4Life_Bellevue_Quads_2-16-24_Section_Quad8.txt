@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sinha, Ishayu          CDWFJ24F   500   679/  3  W4  W2  W3  3.0
+  2 Almuayyad, Omar        RHJGJ59J   205   276/  9  W3  L1  W4  2.0
+  3 Bathula, Neev          EXPDJ24E   300   189/  3  L2  W4  L1  1.0
+  4 Kim, Jonathan          UCIAJ24D   100   100/  3  L1  L3  L2  0.0

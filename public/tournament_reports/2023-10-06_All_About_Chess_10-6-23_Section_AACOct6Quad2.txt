@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kuan, Hans             GRRFK32S  1263  1332/ 28  W4  W3  W2  3.0
+  2 Veiga, Gabriel         REJHJ31Y  1272  1275/141  W3  W4  L1  2.0
+  3 Juarez-caballero, CristSNIGD76Z  1032  1045/ 89  L2  L1  W4  1.0
+  4 Joshi, Yash            PFCH280R  1161  1097/133  L1  L2  L3  0.0

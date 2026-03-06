@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kandar, Aarav          FISDK21U   739   799/ 32  W2  W4  W3  3.0
+  2 Siu, Lucy              XXXEG78B   461   570/ 12  L1  W3  W4  2.0
+  3 Vignesh, Anirudh       BLWC594Q   603   548/ 11  WF  L2  L1  1.0
+  4 Bhat, Esha             PLKH674K   539   494/ 46  LF  L1  L2  0.0

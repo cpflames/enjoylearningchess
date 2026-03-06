@@ -1,0 +1,34 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ye, Tristan            INLJJ50M   714   829/ 13  W31 D16 W17 W9  W2  4.5
+  2 Mandore, Ishaan        WPPFJ70V   666   838/  9  W23 W14 W11 W3  L1  4.0
+  3 Yu, Jacob              HCCFK21J   782   859/ 20  W30 W4  W5  L2  W14 4.0
+  4 Nadupalli, Varun       TMBHK06T   705   753/ 50  W32 L3  W33 W23 W9  4.0
+  5 Khudyeva, Bagima       ISMIJ71N   441   679/ 10  W20 W22 L3  W11 W21 4.0
+  6 Wang, Samuel           HCCHK25H   536   716/ 15  L11 W20 W29 W22 D12 3.5
+  7 Sampathi Rao, Sri JayraSSMFK37Y   847   804/ 47  L15 W30 W27 D16 D17 3.0
+  8 Baruch, Noam           PHAEJ83G   827   788/ 23  D29 D27 W15 L14 W22 3.0
+  9 Graham, Isaac          HCCGJ42K   792   775/ 42  W24 W18 W25 L1  L4  3.0
+ 10 Shah, Hridhaan         CBRE561Z   773   749/ 55  L16 W26 L14 W24 W23 3.0
+ 11 Dattani, Shaurya       LEOGJ57G   764   799/ 10  W6  W15 L2  L5  W16 3.0
+ 12 Chan, Enoch            HCCFJ44J   760   754/ 20  D17 W29 L16 W25 D6  3.0
+ 13 Tian, Grace            CRIGE89L   720   665/172  L25 W32 L23 W26 W27 3.0
+ 14 Kalian, Illia          VIWFI13T   687   751/ 71  W28 L2  W10 W8  L3  3.0
+ 15 Yen, Apollo            REJGG78H   676   696/ 97  W7  L11 L8  W33 W20 3.0
+ 16 Gokul, Shravan         EVJGJ89U   539   716/ 20  W10 D1  W12 D7  L11 3.0
+ 17 Tatimatla, Sharan      SWLFJ49G   507   698/ 14  D12 W19 L1  W18 D7  3.0
+ 18 Thangakumar, Pranav    SSMFJ49C   666   667/ 19  W19 L9  D21 L17 W25 2.5
+ 19 Juarez-caballero, CristSNIGD76Z   840   740/126  L18 L17 L24 W30 W29 2.0
+ 20 Das, Siddharth         EVJI293Y   758   689/126  L5  L6  W31 W28 L15 2.0
+ 21 Verma, Ishaan          INGIJ58Z   710   624/ 14  W26 L25 D18 D27 L5  2.0
+ 22 Lin, James             HCCHB90P   710   655/ 26  W33 L5  W28 L6  L8  2.0
+ 23 Shagas, Joshua         DCTDK87R   683   655/ 47  L2  W31 W13 L4  L10 2.0
+ 24 Brakenridge, Bryce     SOMFK89D   564   553/ 46  L9  L28 W19 L10 W32 2.0
+ 25 Wright, Victoria       MMIGJ17P   424   515/ 82  W13 W21 L9  L12 L18 2.0
+ 26 Dhole, Ahilya          PLKIA94T   323   355/ 33  L21 L10 W30 L13 W33 2.0
+ 27 Shah, Aarush           LEOGK00C   322   369/ 13  BYE D8  L7  D21 L13 2.0
+ 28 Koh, Joshua            HCCGJ20B   600   506/  5  L14 W24 L22 L20 W31 2.0
+ 29 Razmov, Siana          HZFBK93Y   642   596/ 96  D8  L12 L6  W32 L19 1.5
+ 30 Takala, Greysen        VIWFE55T   543   462/ 63  L3  L7  L26 L19 BYE 1.0
+ 31 Battula, Keerthi Sri SiCMCF733D   400   331/  9  L1  L23 L20 BYE L28 1.0
+ 32 Wirkkala, Lawson       HSCFK63V   254   227/ 20  L4  L13 BYE L29 L24 1.0
+ 33 Namburi, Shriniketh    TMBHJ20A   700   100/  4  L22 BYE L4  L15 L26 1.0

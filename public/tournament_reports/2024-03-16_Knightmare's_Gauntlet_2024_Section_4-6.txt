@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wang, Hengsheen        EVGB704V   996  1107/ 99  W8  W6  D2  W3  W5  4.5
+  2 Choi, Hunter           UPAGE80A  1087  1115/232  W7  W11 D1  D4  W6  4.0
+  3 Ting, Sophia           KSHDK64W   856  1012/ 93  W14 W4  W5  L1  W7  4.0
+  4 Moghe, Arjun           REJGA42C  1262  1222/115  W17 L3  W10 D2  W12 3.5
+  5 Edmond, Alec           CSIEH03G  1011   984/212  W13 W12 L3  W9  L1  3.0
+  6 Chou, Eugene           SSMDJ56Y   765   784/ 28  W18 L1  W13 W8  L2  3.0
+  7 Kalian, Illia          VIWFI13T   746   788/ 81  L2  W15 W11 W10 L3  3.0
+  8 Hu, Elliott            CSIE837H   546   628/ 38  L1  W18 W12 L6  W14 3.0
+  9 Newell, Benjamin       THOEK87J   406   580/ 20  L12 W16 W17 L5  W13 3.0
+ 10 Newell, Jonathan       THOEK87B   352   544/ 20  W15 W17 L4  L7  W16 3.0
+ 11 Kumar, Rishuraj        PENFK45Y   865   785/ 53  W16 L2  L7  L13 W18 2.0
+ 12 Meka, Suhaas           REOFJ51J   772   741/ 19  W9  L5  L8  W16 L4  2.0
+ 13 Choi, Paige            EVGED50E   570   593/ 92  L5  W14 L6  W11 L9  2.0
+ 14 Aker, Pepper           THUF181G   504   492/ 86  L3  L13 W18 W17 L8  2.0
+ 15 Mossyakova, Yana       PKWFK04P   501   438/ 15  L10 L7  L16 W18 D17 1.5
+ 16 Demopulos, Alexander   EVGEF98Z   515   470/ 25  L11 L9  W15 L12 L10 1.0
+ 17 Choi, Sydney           EVGED34F   613   503/ 83  L4  L10 L9  L14 D15 0.5
+ 18 Kassover, Odin         EVGGH97U   600   100/  5  L6  L8  L14 L15 L11 0.0

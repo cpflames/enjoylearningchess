@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Frenk, Rafael          CSIBJ75L   888   913/ 20  W5  W3  W2  W8  W6  5.0
+  2 Raman, Arjun           ETSBH96Y   509   584/ 10  W6  W4  L1  W5  W7  4.0
+  3 Armstrong, Josephine   EVGBK86A   389   383/ 45  W11 L1  L5  W9  W10 3.0
+  4 Soulios, Konstantinos  BFDBK88D   342   348/ 24  W9  L2  W7  L6  W8  3.0
+  5 Stawitz, Bohdan        BRYBK92E   329   372/ 39  L1  W10 W3  L2  BYE 3.0
+  6 Westover, Thomas       NOWBJ54M   134   304/ 23  L2  W9  W10 W4  L1  3.0
+  7 Derleth, Ava           EVGB579V   100   140/ 33  BYE D8  L4  W11 L2  2.5
+  8 Singhal, Sanyukt       FRVBJ30P   396   296/ 10  D10 D7  W11 L1  L4  2.0
+  9 Shortwood, Simeon      HZFBH88D   100   100/  4  L4  L6  BYE L3  W11 2.0
+ 10 Velummylum, Lara       UCDBK40E   100   100/  9  D8  L5  L6  BYE L3  1.5
+ 11 Ji, Max                LKDBH93E   100   100/  9  L3  BYE L8  L7  L9  1.0

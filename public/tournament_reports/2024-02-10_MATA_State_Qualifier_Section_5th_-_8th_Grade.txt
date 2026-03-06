@@ -1,0 +1,25 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Rao, Deepak Sri KartikeBPSH517J  1434  1458/140  W8  W14 W15 W6  D3  4.5
+  2 Gundimeda, Arjun       PLKHK06W  1377  1443/ 10  W9  W4  D3  W5  W7  4.5
+  3 Kunisetty, Chekresh    ENSFK99L  1450  1459/ 81  W22 W13 D2  W12 D1  4.0
+  4 Gulati, Naamya         SKIG649C   977  1004/152  W24 L2  W18 W19 W9  4.0
+  5 Calo, Jude             REGI3425  1345  1339/210  W10 W16 D6  L2  W14 3.5
+  6 Prashant, Niranjan     PFCG468K  1447  1414/151  W20 W7  D5  L1  D12 3.0
+  7 Ward, Benjamin         IMSGK32Q  1071  1076/ 30  W21 L6  W8  W11 L2  3.0
+  8 Zhu, Alex              LKDFJ55P   665   834/ 15  L1  W17 L7  W13 W15 3.0
+  9 Kadri, Eshan           XXOGW869   660   800/ 14  L2  W21 W13 W15 L4  3.0
+ 10 Kukreja, Aarav         SOMF433H   653   693/ 51  L5  L18 W23 W17 W19 3.0
+ 11 Srivastava, Manya      SKIG758W   652   695/ 73  L12 W24 WF  L7  W16 3.0
+ 12 Xu, Jeffery            TYEGJ88V  1215  1183/ 45  W11 L15 W16 L3  D6  2.5
+ 13 Mehta, Shaan           IMSGK27A  1035   957/ 19  W17 L3  L9  L8  BYE 2.0
+ 14 Rusia, Naman           EPSHI64T   908   878/ 85  W18 L1  L19 W20 L5  2.0
+ 15 Kumar, Rishuraj        PENFK45Y   856   860/ 43  W19 W12 L1  L9  L8  2.0
+ 16 Sanganaboina, Ashrith  RBRFJ49F   749   740/ 10  W23 L5  L12 W18 L11 2.0
+ 17 Arvapalli, Trinath AashPLKGJ31L   600   564/  5  L13 L8  W21 L10 W20 2.0
+ 18 Chandramouli, Sai JishnREJHJ31J   700   633/  5  L14 W10 L4  L16 W21 2.0
+ 19 Kanchanakuntla, Anish RTFEFJ31G   500   707/  5  L15 W20 W14 L4  L10 2.0
+ 20 Tatimatla, Sharan      SWLFJ49G   618   507/  9  L6  L19 BYE L14 L17 1.0
+ 21 Peng, Eric             SSMFJ31E   500   163/  4  L7  L9  L17 WF  L18 1.0
+ 22 Chung, Adrien          IMSGJ47D   679   637/  7  L3  D23 LF  U   U   0.5
+ 23 Gummineni, Charith     PPLHJ31D   700   435/  3  L16 D22 L10 LF  U   0.5
+ 24 Kar, Arnesh            ENSFJ31C   500   305/  2  L4  L11 U   U   U   0.0

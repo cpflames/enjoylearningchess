@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Rubaiyat, Rhadean      ICSID40L  1544  1558/140  W3  W2  W4  3.0
+  2 Utsler, Matthew        LWAMK03C  1107  1214/  9  W4  L1  W3  2.0
+  3 Nguyen, Viet           WLDG508J  1261  1218/164  L1  D4  L2  0.5
+  4 Vijeyanandh, Vishnu    TMBIF63Z  1142  1123/162  L2  D3  L1  0.5

@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Foltenyi, Alex         LWANK09J  1167  1468/ 26  W2  D4  W3  W5  W7  4.5
+  2 Xu, Zoe                SOMEG70A  1402  1464/325  L1  W8  W10 W7  W5  4.0
+  3 Routray, Nirmalya      INGID06K  1617  1576/404  L6  W10 L1  W4  W9  3.0
+  4 Foltenyi, Vilmos       ADUNK09V  1328  1383/ 31  W8  D1  D5  L3  W6  3.0
+  5 Goupinets, Andrew      ADUNJ69S  1632  1575/ 22  W9  W6  D4  L1  L2  2.5
+  6 Mullen, Hana           SMZKK81C  1315  1319/ 41  W3  L5  L7  W8  L4  2.0
+  7 He, Oliver             ENDDK71V  1478  1423/329  L10 W9  W6  L2  L1  2.0
+  8 Raj, Skandha           EVGBK55U  1125  1150/106  L4  L2  W9  L6  W10 2.0
+  9 Chaudhuri, Arihant     CHAE703E  1263  1222/257  L5  L7  L8  W10 L3  1.0
+ 10 Das, Sambuddha Sekhar  ENDDK47S  1127  1118/114  W7  L3  L2  L9  L8  1.0

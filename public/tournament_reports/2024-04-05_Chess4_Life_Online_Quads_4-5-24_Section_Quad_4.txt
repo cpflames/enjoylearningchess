@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hu, Yi-en              BCADG40B   857   940/  9  W4  W3  W2  3.0
+  2 Chen, Leon             SNRED24U   764   796/ 62  W3  W4  L1  2.0
+  3 Mukherjee, Anjalika    UPAGJ94B   740   668/  8  L2  L1  D4  0.5
+  4 Kuluru, Samith         LEOHI99K   737   691/239  L1  L2  D3  0.5

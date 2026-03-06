@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zhang, David           SOMBK41P   604   687/ 46  W7  W4  W2  W3  W5  5.0
+  2 Einarson, Finn         ORWC256K   516   542/ 51  W8  W3  L1  W6  W9  4.0
+  3 Velichko, Kristina     ASABK07V   240   366/ 47  W6  L2  W5  L1  W12 3.0
+  4 Walton, Cara           CWACK52K   207   266/ 15  W11 L1  L6  W10 W8  3.0
+  5 Byelashova, Sofia      SGHBK01K   203   290/ 22  W9  W10 L3  W7  L1  3.0
+  6 Keogh, Keita           WOEBJ51X   100   370/  5  L3  W11 W4  L2  W7  3.0
+  7 Kotsinyan, Erik        EVPBJ56F   241   232/ 10  L1  W12 W9  L5  L6  2.0
+  8 Saravanan, Priyanka    MSOCJ51W   200   151/  5  L2  L9  W10 W11 L4  2.0
+  9 Satish Kumar, NithyashrCENCJ51U   200   173/  5  L5  W8  L7  W12 L2  2.0
+ 10 Woods, Grace           OLLBJ51S   100   100/  5  D12 L5  L8  L4  W11 1.5
+ 11 Gadekar, Hridhaan      EOLAJ51Q   100   100/  5  L4  L6  W12 L8  L10 1.0
+ 12 Adarlo, Skyeler        CKOBJ51P   100   100/  5  D10 L7  L11 L9  L3  0.5

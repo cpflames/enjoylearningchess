@@ -1,0 +1,32 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Van Gorkom, Joshua     CWAJB02N   928  1342/ 73  W20 W17 W12 W6  W4  5.0
+  2 Shi, Gavin             LCOJH855  1548  1544/368  W21 W13 W11 L4  W7  4.0
+  3 Raja, Rian             SKWG786E  1405  1416/105  L29 W25 W28 W19 W13 4.0
+  4 Ma, Ziliang            DCCGA69N  1231  1400/ 44  W5  W8  W10 W2  L1  4.0
+  5 Friedenson, Isaac      VVMHK21N   907  1154/ 24  L4  BYE W17 W11 W12 4.0
+  6 Lizon, Abhay           TYEHJ87S  1381  1419/  9  HPB W30 W22 L1  W25 3.5
+  7 Ghosh, Snehil          CBRE738T  1129  1300/ 90  W9  D16 W8  W18 L2  3.5
+  8 Liu, Vincent           ILAF546Q  1534  1487/186  W28 L4  L7  W31 W18 3.0
+  9 Joseph, Veronique      SJOEJ04S  1246  1238/157  L7  L26 W27 W23 W19 3.0
+ 10 Avula, Guru Harshith ReBRHE633Y  1320  1310/103  W30 W22 L4  L13 W20 3.0
+ 11 Tie, Mike              ENDF856Y  1312  1303/118  W27 W24 L2  L5  W22 3.0
+ 12 Xu, Yang               CNCE649B  1312  1294/125  W26 W29 L1  W14 L5  3.0
+ 13 Rao, Atharv            SOMFB90T  1249  1274/ 66  W31 L2  W26 W10 L3  3.0
+ 14 Zhang, Zhibo           SOME674X  1024  1158/103  L17 W21 W20 L12 W16 3.0
+ 15 Foltz, Karsten         HTNI306D  1454  1387/151  L22 L18 W30 W29 D17 2.5
+ 16 Vijayakrishnan, AchyuthPKRE646F  1286  1267/137  W23 D7  L18 W25 L14 2.5
+ 17 Chaudhuri, Agnivesh    CHAEB55V  1255  1248/221  W14 L1  L5  W24 D15 2.5
+ 18 Chopra, Aaryaman       BISIK30K  1108  1209/ 59  D25 W15 W16 L7  L8  2.5
+ 19 Nair, Ishan            FRWG670E  1282  1232/140  L24 W27 W29 L3  L9  2.0
+ 20 Kwan-uchiyama, Avery   JINFH22T  1246  1210/ 68  L1  W23 L14 W26 L10 2.0
+ 21 Han, Victor            HSCFB39P  1204  1168/146  L2  L14 L23 W30 W31 2.0
+ 22 Shen, Enoch            EVJGH90P  1150  1169/ 58  W15 L10 L6  W28 L11 2.0
+ 23 Zhang, Aaron           RSAEC74T  1061  1077/ 86  L16 L20 W21 L9  W28 2.0
+ 24 Goldman, Rowan         BUSH633N  1043  1076/102  W19 L11 L25 L17 W29 2.0
+ 25 Cheng, Alan            CHRFJ71K  1393  1322/134  D18 L3  W24 L16 L6  1.5
+ 26 Chaudhuri, Arihant     CHAE703E  1065  1058/234  L12 W9  L13 L20 D27 1.5
+ 27 Ngu, Elliott           CGRG452U  1062  1024/111  L11 L19 L9  BYE D26 1.5
+ 28 Don, Alexander         BUSH958V  1161  1110/183  L8  W31 L3  L22 L23 1.0
+ 29 Kedarisetty, Shreyas   INGHH60G  1111  1090/155  W3  L12 L19 L15 L24 1.0
+ 30 Lo Conte, Augustus     CSDE331E  1081  1036/ 68  L10 L6  L15 L21 BYE 1.0
+ 31 Kedarisetty, Ishan     INGG300B  1016   969/161  L13 L28 BYE L8  L21 1.0

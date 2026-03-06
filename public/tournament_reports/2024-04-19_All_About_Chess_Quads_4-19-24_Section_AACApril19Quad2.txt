@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Prashant, Niranjan     PFCG468K  1402  1405/177  W2  D3  W4  2.5
+  2 Li, Harry              SSSEG30G  1109  1174/372  L1  W4  W3  2.0
+  3 Bikkula, Charan        BLMHJ23A  1131  1149/219  W4  D1  L2  1.5
+  4 Thanikonda, Kruti      CMCDK84W  1169  1108/136  L3  L2  L1  0.0

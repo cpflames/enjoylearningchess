@@ -1,0 +1,29 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Johnson, Andrew        ADUNI196  1016  1376/ 14  W4  W16 W3  D6  W8  4.5
+  2 Cook, Jack             ADUNH70D  1319  1597/  5  HPB W22 W5  W11 W6  4.5
+  3 Srimurugan, Rudran     OPWHJ98L  1259  1288/ 35  W25 W19 L1  W13 W12 4.0
+  4 Rifai, Issam           ADONW80C  1300  1335/  5  L1  W26 W17 W19 W11 4.0
+  5 Shan, Jie              ADUNH70B  1300  1411/  4  HPB W15 L2  W22 W16 3.5
+  6 Truong, Nicholas       ADUNH70A  1300  1469/  4  WF  W7  W13 D1  L2  3.5
+  7 Zandanov, Leonid       ENACK31Q  1365  1329/122  W10 L6  W18 L12 W15 3.0
+  8 Cheng, Alan            CHRFJ71K  1292  1265/158  L11 W14 W9  W10 L1  3.0
+  9 Sreraman, Rahul        BCADJ42L   981  1044/237  L13 W27 L8  W17 W21 3.0
+ 10 Gopal, Abhishekh       ADUNH86N   987  1069/ 15  L7  W28 W16 L8  W22 3.0
+ 11 Xu, Natalie            CNHC137A   920  1064/ 91  W8  W17 W23 L2  L4  3.0
+ 12 Chou, Charles          ADUNH69Z  1300  1182/  5  L19 W25 W21 W7  L3  3.0
+ 13 Mukherjee, Jai         XXXJH69W   900  1238/  5  W9  W21 L6  L3  W19 3.0
+ 14 Koster, John           SPTAJ88T   690   794/ 70  D18 L8  L15 W26 W23 2.5
+ 15 Gleasman, Tyler        ADUNH69V  1300  1059/  5  D22 L5  W14 W23 L7  2.5
+ 16 Khatib, Kenan          IMSIC566  1254  1204/250  W26 L1  L10 W18 L5  2.0
+ 17 Acevedo, Samuel        ADUNH71B  1181  1043/ 11  W28 L11 L4  L9  W27 2.0
+ 18 Sreraman, Rohit        BCADG92Q  1101  1044/254  D14 D23 L7  L16 W26 2.0
+ 19 Baruch, Noam           PHAEJ83G   964  1030/ 33  W12 L3  W24 L4  L13 2.0
+ 20 Ajay, Aria             LCSBK07M   743   717/ 71  L21 L24 L26 BYE W25 2.0
+ 21 Groff, Shane L         ADUNH69U  1158  1082/  5  W20 L13 L12 W27 L9  2.0
+ 22 Kumar, Rishuraj        PENFK45Y   976   968/ 82  D15 L2  W25 L5  L10 1.5
+ 23 Chou, Eugene           SSMDJ56Y   858   862/ 69  W24 D18 L11 L15 L14 1.5
+ 24 Ganesan, Vidur         RBRE940K  1294  1214/224  L23 W20 L19 U   U   1.0
+ 25 Mazalov, Denis         NLAEK10S   786   751/ 28  L3  L12 L22 W28 L20 1.0
+ 26 O'sullivan, Colin      ADUNH86L   485   539/ 13  L16 L4  W20 L14 L18 1.0
+ 27 Sundaresh, Ajay        ADUNH69T  1300   774/  4  U   L9  W28 L21 L17 1.0
+ 28 Foster, Chad           ADUNH69R   757   682/  4  L17 L10 L27 L25 U   0.0

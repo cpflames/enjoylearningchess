@@ -1,0 +1,56 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wu, Jonathan           UCDCK14H   751   823/ 37  W35 W20 W5  D10 W12 4.5
+  2 Zhang, Amy             SOMDC03P   852   914/ 88  W25 W26 W6  D4  W9  4.5
+  3 Hoang, Leonard Bach    STQAK88E   667   802/ 24  W37 W31 W7  D12 W14 4.5
+  4 Zhang, Ethan           BUSCI73C   521   786/ 18  W42 W14 W11 D2  W10 4.5
+  5 Bayya, Shrihan         CBRDJ74M   627   679/ 10  W38 W52 L1  W32 W26 4.0
+  6 Kachachi, Cyrus        OPWD763G   593   672/ 52  W49 W40 L2  W36 W16 4.0
+  7 Bravenboer, Jake       OPWDJ97Y   561   729/ 31  W51 W13 L3  W25 W15 4.0
+  8 Puranik, Armin         SSMDJ56Z   300   854/  5  W23 W18 L10 W29 W13 4.0
+  9 Qin, Skyler            OPWAJ97T   770   764/ 42  W33 D29 W30 W28 L2  3.5
+ 10 Lai, Austin            EVGCK94F   650   739/ 45  W46 W24 W8  D1  L4  3.5
+ 11 Razmov, Siana          HZFBK93Y   630   629/ 86  W48 D45 L4  W47 W28 3.5
+ 12 Soykal, Toprak         MMEDK25R   617   679/ 37  W39 W44 W15 D3  L1  3.5
+ 13 Naveh, Yaniv           SOMDK62Z   789   759/ 30  W32 L7  W29 W31 L8  3.0
+ 14 Udelson, Wyatt         LAVCA96H   752   730/ 53  W34 L4  W33 W23 L3  3.0
+ 15 Wadhwani, Ren          ORADK13K   727   696/ 26  W36 W22 L12 W37 L7  3.0
+ 16 Bangard, Dhruv         TBKBK65D   717   676/ 50  L26 W48 W34 W24 L6  3.0
+ 17 Verma, Satvik          WONCG80T   662   604/ 50  L45 W39 L25 W48 W32 3.0
+ 18 Parihar, Advay         SOMDD66D   569   558/ 36  W50 L8  L36 W38 W30 3.0
+ 19 Cen, Andrew            JINCK69R   550   492/ 60  L52 L46 W50 W40 W35 3.0
+ 20 Wong, Eric             DCCDK13H   544   566/ 15  W27 L1  L26 W39 W34 3.0
+ 21 Zhen, Liam             DCCC622V   522   489/ 87  L40 W38 L37 W52 W36 3.0
+ 22 Sankapal, Pranav       SNECJ61E   521   534/  9  W41 L15 W27 L26 W44 3.0
+ 23 Xu, Derek              SSMDK24Q   495   522/ 23  L8  W49 W46 L14 W37 3.0
+ 24 Liu, Austin            SOMDG01C   488   476/ 23  BYE L10 W53 L16 W43 3.0
+ 25 Deepesh, Dhwani        BRHDK31A   446   540/ 29  L2  W42 W17 L7  W31 3.0
+ 26 Besati, Arnav          RKWDJ74G   418   606/ 15  W16 L2  W20 W22 L5  3.0
+ 27 Chou, Eugene           SSMDJ56Y   300   507/  5  L20 W35 L22 W46 W45 3.0
+ 28 Phadnis, Neil          DISDK44Y   574   531/ 25  D47 W54 W45 L9  L11 2.5
+ 29 Jariwala, Vidur        THODK87P   566   569/ 25  W55 D9  L13 L8  W47 2.5
+ 30 Wong, Claire           BCABK86D   556   513/ 40  D54 W47 L9  W45 L18 2.5
+ 31 Le, An                 MHEDJ73S   518   449/  9  W43 L3  W44 L13 L25 2.0
+ 32 Li, Emma               THRDJ98A   481   456/ 28  L13 W50 W52 L5  L17 2.0
+ 33 Muthinti, Abhiram      RKWCK27S   473   428/ 24  L9  W55 L14 L43 W52 2.0
+ 34 Alle, Vihaan Shaurya   MLEBJ72B   466   430/ 18  L14 W51 L16 W53 L20 2.0
+ 35 Zhang, Jerry           BCACK64C   377   361/ 23  L1  L27 W54 W41 L19 2.0
+ 36 Li, Jacob              ENDD132Q   427   435/ 91  L15 W41 W18 L6  L21 2.0
+ 37 Shafigulin, Timur      XXXCD97N   400   438/  9  L3  W43 W21 L15 L23 2.0
+ 38 Churchill, Camden      LAVCK47J   272   276/ 20  L5  L21 W55 L18 W51 2.0
+ 39 Navya Jeevan, Rutvi    BRHDK31B   269   282/ 24  L12 L17 W42 L20 W53 2.0
+ 40 Dunn, Martin           SOMCJ56X   200   362/  5  W21 L6  L47 L19 W48 2.0
+ 41 Khanzode, Advait       SSMDJ56W   300   227/  5  L22 L36 W49 L35 W54 2.0
+ 42 Kotsinyan, Robert      EVPDJ56V   300   184/  4  L4  L25 L39 BYE W49 2.0
+ 43 Pelliciotti, Luigi     THODJ56U   300   240/  4  L31 L37 BYE W33 L24 2.0
+ 44 Sane, Anay             SSMDJ56T   300   280/  5  W53 L12 L31 W54 L22 2.0
+ 45 Sabharwal, Vihaan      DCTCK87T   341   361/ 38  W17 D11 L28 L30 L27 1.5
+ 46 Wang, Felix            LAVCK64Q   338   341/ 23  L10 W19 L23 L27 HPB 1.5
+ 47 Bolisetty, Varun       CBRCJ73Z   158   255/ 10  D28 L30 W40 L11 L29 1.5
+ 48 Esparza-chen, Lucien   WMNDJ98Z   332   288/ 24  L11 L16 W51 L17 L40 1.0
+ 49 Jiang, Kyle            SSMDK93D   160   118/ 14  L6  L23 L41 W55 L42 1.0
+ 50 Anant Sundaram, Parth  SSMDJ56Q   300   100/  5  L18 L32 L19 L51 W55 1.0
+ 51 Upadhyay, Sahar        SNECJ56N   200   100/  5  L7  L34 L48 W50 L38 1.0
+ 52 Bhardwaj, Vivaan       REECJ56M   200   264/  5  W19 L5  L32 L21 L33 1.0
+ 53 Venkatesan, Vaibhav    SSMDJ56L   300   100/  4  L44 BYE L24 L34 L39 1.0
+ 54 Besati, Avantika       RKWDJ73W   100   100/  9  D30 L28 L35 L44 L41 0.5
+ 55 Koul, Navika           RSADJ83L   100   100/ 13  L29 L33 L38 L49 L50 0.0

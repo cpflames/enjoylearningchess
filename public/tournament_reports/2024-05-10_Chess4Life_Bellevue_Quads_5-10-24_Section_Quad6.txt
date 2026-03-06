@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dasari, Ranveer        SSMFJ31X   572   688/ 22  W3  W4  W2  3.0
+  2 Wong, Aiden            CNHDK17Z   540   566/ 65  W4  W3  L1  2.0
+  3 Magnin, Hugo           FAPBH94D   478   457/  8  L1  L2  W4  1.0
+  4 Tripathi, Naksh        BRHCJ98P   486   407/ 62  L2  L1  L3  0.0

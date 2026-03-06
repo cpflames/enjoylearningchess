@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Meka, Suhaas           REOFJ51J   741   934/ 24  W5  W20 W9  W2  W3  5.0
+  2 Juarez-caballero, CristSNIGD76Z   843   870/137  W18 W4  W12 L1  W8  4.0
+  3 Mavila, Madhav         GTMI230L   728   758/ 46  W19 W21 W15 W7  L1  4.0
+  4 Sinha, Ishayu          CDWFJ24F   658   746/ 15  W11 L2  W19 W12 W6  4.0
+  5 Whittaker, Mason       SANFK91Z   439   570/ 15  L1  D11 W16 W20 W12 3.5
+  6 Chauhan, Riddhima      PLKGF72E   812   771/ 56  W14 L12 W20 W9  L4  3.0
+  7 Thorrington, James     SANF547U   735   694/ 61  L15 W10 W21 L3  W14 3.0
+  8 Chaurasia, Ishi        HMNEK22B   724   708/ 92  W10 L9  W14 W15 L2  3.0
+  9 Lin, Elliot            THUFJ71G   533   626/ 20  W17 W8  L1  L6  W15 3.0
+ 10 Katipally, Rishan      WOBFK31N   353   461/ 14  L8  L7  W17 W21 W18 3.0
+ 11 Wu, Ruichen            CDWEK08F   145   271/ 13  L4  D5  L13 W16 W19 2.5
+ 12 Lin, Ethan             THUFJ71H   667   638/ 20  W16 W6  L2  L4  L5  2.0
+ 13 Kelly, Liam            SANF359W   552   468/ 50  L20 L15 W11 L14 W22 2.0
+ 14 Shah, Aarush           LEOGK00C   443   463/ 23  L6  W17 L8  W13 L7  2.0
+ 15 Chirita, Adrian        CBEEJ93A   417   487/ 18  W7  W13 L3  L8  L9  2.0
+ 16 Badi, Sanvi            MTWE151Y   251   282/ 53  L12 W18 L5  L11 W21 2.0
+ 17 Luo, Steven            TBKEH97A   400   373/  5  L9  L14 L10 W22 W20 2.0
+ 18 Kennedy, Dean          HZFFJ48Y   452   343/ 10  L2  L16 W22 D19 L10 1.5
+ 19 Fritzky, Blake         SANEH43H   363   321/ 20  L3  W22 L4  D18 L11 1.5
+ 20 Badi, Shreya           MTWEK52A   628   537/ 64  W13 L1  L6  L5  L17 1.0
+ 21 Donovan, Christian     SANG328M   454   352/ 11  W22 L3  L7  L10 L16 1.0
+ 22 Vudayagiri, Ekadyu     AUDFH96Z   500   100/  5  L21 L19 L18 L17 L13 0.0

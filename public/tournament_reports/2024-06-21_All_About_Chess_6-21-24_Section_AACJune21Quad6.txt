@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nam, Alex              BLWDH75Q   344   468/ 28  W6  W4  W3  3.0
+  2 Chang, Nathan          MMECK42T   359   361/ 44  W4  L3  W5  2.0
+  3 Mirchandani, Kiaan     MEDDK92Z   354   382/ 42  W5  W2  L1  2.0
+  4 Shin, Joshua           CRKBJ63R   249   230/ 61  L2  L1  W6  1.0
+  5 Paidapathi, Kiaan      SHSBJ99C   100   111/ 86  L3  W6  L2  1.0
+  6 Mirchandani, Kavir     MEDBJ97A   177   100/ 31  L1  L5  L4  0.0

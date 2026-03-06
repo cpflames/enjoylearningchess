@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Moors, Samuel          BLHJH93D   918  1032/ 99  W5  W4  W3  3.0
+  2 Verduin, Skyler        CUEFJ26K   887   908/ 38  D4  D3  W5  2.0
+  3 Qureshi, Danish        BLNGF36V   880   867/134  BYE D2  L1  1.5
+  4 Singh, Jagteshwar      MRDMJ25M   978   949/ 66  D2  L1  HPB 1.0
+  5 Aguila-contreras, EdgarHORHJ65J   830   792/ 52  L1  BYE L2  1.0

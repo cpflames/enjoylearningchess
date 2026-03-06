@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhao, Dennis           OPWH525E  1287  1304/338  D2  W4  W3  2.5
+  2 Wang, Ares             MEDFJ77J  1242  1269/308  D1  W3  W4  2.5
+  3 Wang, Isaac            CLHEK00U  1224  1186/ 37  W4  L2  L1  1.0
+  4 Xu, Ethan              BENEK98S   714   706/ 99  L3  L1  L2  0.0

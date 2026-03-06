@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Black, Stas            WPPF368F  1171  1170/140  W6  W15 W5  D3  D2  4.0
+  2 Bikkula, Charan        BLMHJ23A  1197  1162/253  L5  W14 W11 W4  D1  3.5
+  3 Sreraman, Rohit        BCADG92Q  1044  1048/259  W13 D7  W9  D1  D5  3.5
+  4 Patpi, Swarith         ENSH612G   793   846/ 28  W12 D9  W7  L2  W11 3.5
+  5 Gordon, Audrie Eloise  ADUN971J   504   773/ 12  W2  W10 L1  W8  D3  3.5
+  6 Marulasiddappa, ShamithBNTFJ20G   536   594/  9  L1  BYE W15 L7  W14 3.0
+  7 Ram, Krishna           EBSCH76B   358   554/ 22  BYE D3  L4  W6  D9  3.0
+  8 Ren, Easton            CMCAH68Z   100   689/  5  L15 W13 W10 L5  W12 3.0
+  9 Shan, Jie              ADUNH70B  1411  1156/  9  W11 D4  L3  W10 D7  3.0
+ 10 Sreraman, Rahul        BCADJ42L  1044   951/242  W14 L5  L8  L9  W15 2.0
+ 11 Patpi, Samvedh         ENSEF74S   557   603/ 10  L9  W12 L2  W13 L4  2.0
+ 12 Maheshwari, Sanidhya   UNKBH68Y   100   425/  4  L4  L11 BYE W15 L8  2.0
+ 13 Badri, Hari            BLMHH68X   700   333/  4  L3  L8  D14 L11 BYE 1.5
+ 14 Lai, Ryan              SHSAH70N   784   632/  9  L10 L2  D13 BYE L6  1.5
+ 15 Santhosh, Saanvi       AUDFJ20F   571   527/ 13  W8  L1  L6  L12 L10 1.0

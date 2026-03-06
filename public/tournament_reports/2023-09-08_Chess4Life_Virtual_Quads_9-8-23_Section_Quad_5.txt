@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Acharya, Arnav         BCAG746Q   758   837/ 24  W2  W3  W4  3.0
+  2 Lechner, Ryker         HSCF496J   564   649/ 68  L1  W4  W3  2.0
+  3 Sardarli, Adnan        MISD671W   589   581/ 81  W4  L1  L2  1.0
+  4 Liao, Joe              MEDGE93Z   673   582/ 32  L3  L2  L1  0.0

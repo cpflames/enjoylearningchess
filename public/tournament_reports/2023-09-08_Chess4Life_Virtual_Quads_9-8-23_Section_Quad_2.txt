@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Benedict, Blaine       HSCIK07Q  1307  1323/ 15  L2  W4  W3  2.0
+  2 Bimod, Karthik         SLLHW89E  1287  1306/ 42  W1  L3  W4  2.0
+  3 Singh, Rushil          SNEGB52N  1368  1326/105  L4  W2  L1  1.0
+  4 Sreraman, Rohit        BCADG92Q  1127  1140/149  W3  L1  L2  1.0

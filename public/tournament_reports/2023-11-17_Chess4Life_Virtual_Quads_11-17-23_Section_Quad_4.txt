@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Singh, Atharva         SKIHK06G   800   910/ 17  W2  D4  W3  2.5
+  2 Bala, Anirudh          SNRGD50M   840   876/ 32  L1  W3  W4  2.0
+  3 Taylor, Ryder          KAMK385C   777   774/345  W4  L2  L1  1.0
+  4 Kuluru, Samith         LEOHI99K   951   872/200  L3  D1  L2  0.5

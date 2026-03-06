@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bysani, Aakash         SSMBK01D   668   699/ 87  W2  W3  D4  2.5
+  2 Malhotra, Sartaj       KNDFK69K   504   580/ 48  L1  W4  W3  2.0
+  3 Yan, Alyan             NCSDJ63Q   507   500/ 18  W4  L1  L2  1.0
+  4 Sankapal, Pranav       SNECJ61E   598   532/ 18  L3  L2  D1  0.5

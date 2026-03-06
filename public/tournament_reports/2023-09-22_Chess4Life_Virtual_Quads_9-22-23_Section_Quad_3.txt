@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sreraman, Rohit        BCADG92Q  1231  1272/155  W2  W4  D3  2.5
+  2 He, Oliver             CRIDK71V  1279  1280/217  L1  W3  W4  2.0
+  3 Hildenbrand, Blane     PSMI122V  1139  1151/199  W4  L2  D1  1.5
+  4 Huang, Edwin           MEDG616M  1090  1042/ 64  L3  L1  L2  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chaporkar, Nihar       ENSDK65B  1045  1161/ 56  W4  W3  W2  3.0
+  2 Zhang, Aaron           SHSJ389W  1041  1068/ 16  W3  W4  L1  2.0
+  3 Verma, Reyansh         RBREJ20M  1006   992/ 36  L2  L1  W4  1.0
+  4 Ivanov, Matvei         EABCK34E  1049   974/ 53  L1  L2  L3  0.0

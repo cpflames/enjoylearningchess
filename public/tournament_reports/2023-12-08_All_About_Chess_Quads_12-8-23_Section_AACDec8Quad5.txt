@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yu, Eric               SOMBK25N   567   693/ 34  W4  W3  W2  3.0
+  2 Mangla, Atharv         GRREK07C   554   580/ 42  W3  W4  L1  2.0
+  3 Sarychev, Aleksei      GEKJJ98N   501   483/ 31  L2  L1  W4  1.0
+  4 Berjis, Liana          MEDBB72R   486   411/ 79  L1  L2  L3  0.0

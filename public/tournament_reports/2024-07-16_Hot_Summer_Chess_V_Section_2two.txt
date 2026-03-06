@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bannister, Cypress     HORGK36L   820   988/ 65  W2  W3  W4  3.0
+  2 Verduin, Skyler        CUEFJ26K   853   887/ 35  L1  W6  W3  2.0
+  3 Qureshi, Danish        BLNGF36V   912   880/132  W5  L1  L2  1.0
+  4 Aguila-contreras, EdgarHORHJ65J   864   830/ 50  L6  W5  L1  1.0
+  5 Fine-gucker, Logan     EAGE535R   859   815/ 99  L3  L4  W6  1.0
+  6 Smith, Benjamin        BLEDG44D   701   705/ 39  W4  L2  L5  1.0

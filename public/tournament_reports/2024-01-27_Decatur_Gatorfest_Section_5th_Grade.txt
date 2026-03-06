@@ -1,0 +1,28 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Damrau, Austin         PIVFK95E  1221  1290/ 45  W18 W23 W8  W6  W5  5.0
+  2 Kim, Dylan             SCDFK38L  1266  1248/176  W4  W9  L6  W10 W8  4.0
+  3 Gagnier, Ian           HSCFC72H  1220  1188/172  W19 L7  W18 W14 W11 4.0
+  4 Kumar, Rishuraj        PENFK45Y   553   804/ 34  L2  W15 W13 W16 W14 4.0
+  5 Anand, Lakshana        RSAFC68H  1237  1207/ 99  W11 W16 D14 W7  L1  3.5
+  6 Tunuguntla, Sai SrithanEMDFK78V  1136  1138/211  W25 W20 W2  L1  D7  3.5
+  7 Hong, Jamie            MEDF577Q   639   833/ 44  W21 W3  W9  L5  D6  3.5
+  8 Michiels, Peter        THOFB73Z   951   951/ 25  W26 W13 L1  W17 L2  3.0
+  9 O'neil, Owen           TLEFG89E   696   703/ 17  W15 L2  L7  W26 W18 3.0
+ 10 Takala, Greysen        VIWFE55T   581   602/ 54  L13 W26 W25 L2  W20 3.0
+ 11 Heart-myers, Sebastian VIWF537F   553   581/ 65  L5  W27 W22 W23 L3  3.0
+ 12 Tatimatla, Sharan      SWLFJ49G   500   618/  5  L14 L17 W21 W24 W16 3.0
+ 13 Sanganaboina, Ashrith  RBRFJ49F   500   749/  5  W10 L8  L4  W25 W17 3.0
+ 14 Latuskiewicz, Matthew  EPSFK21S   878   877/ 25  W12 W22 D5  L3  L4  2.5
+ 15 Thangakumar, Pranav    SSMFJ49C   500   426/  5  L9  L4  D23 W27 W24 2.5
+ 16 Smacinih, Alexander    SOMFG83H   682   642/ 70  W27 L5  W19 L4  L12 2.0
+ 17 Hedstrom, Parker       WEDF498Y   564   566/ 53  L22 W12 W20 L8  L13 2.0
+ 18 Eun, Ryan              DCTFG85W   400   477/ 10  L1  W21 L3  W22 L9  2.0
+ 19 Schefe, Elsie          VIWFJ68Y   181   227/  9  L3  BYE L16 L20 W26 2.0
+ 20 Kennedy, Dean          HZFFJ48Y   500   452/  5  W24 L6  L17 W19 L10 2.0
+ 21 Soroye, Isaac          WEDFJ48X   500   302/  4  L7  L18 L12 BYE W23 2.0
+ 22 Backnol, Hiren         TFEFJ48W   500   501/  5  W17 L14 L11 L18 W25 2.0
+ 23 Lopez, Jacob           DCTFK86R   100   115/  8  BYE L1  D15 L11 L21 1.5
+ 24 Liu, Ryan              DCTFK86W   657   383/  8  L20 L25 BYE L12 L15 1.0
+ 25 Mccorkindale, Anders   THOFJ48V   500   339/  5  L6  W24 L10 L13 L22 1.0
+ 26 Su, Liam               DCTFJ48U   500   174/  5  L8  L10 W27 L9  L19 1.0
+ 27 Condon, Fintan         THOFJ48T   500   100/  4  L16 L11 L26 L15 BYE 1.0

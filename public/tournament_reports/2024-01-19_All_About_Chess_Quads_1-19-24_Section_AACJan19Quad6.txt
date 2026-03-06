@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Krogstad, Jaxon        NCSCJ88M   479   609/ 19  W3  W4  W2  3.0
+  2 Han, Kaiyi             SOMBK42P   488   508/ 32  W4  W3  L1  2.0
+  3 Huang, Jaden           ENDCJ63S   470   433/ 29  L1  L2  W4  1.0
+  4 Sathyamurthy, Shreyus  BLWBJ60Z   302   251/ 11  L2  L1  L3  0.0

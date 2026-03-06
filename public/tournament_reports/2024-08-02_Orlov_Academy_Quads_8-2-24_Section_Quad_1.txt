@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ackerman, Ryan         ADUNC514  1929  1929/238  W2  W6  U   W5  U   3.0
+  2 Zhang, Kevin           WOBF809Y  1131  1134/127  L1  W3  U   W4  U   2.0
+  3 Krzeszowski, Anthony   MYHGI41R   613   661/ 38  U   L2  W5  W6  U   2.0
+  4 Shen, Sylvia           BRHCJ59T   220   243/ 15  U   L5  U   L2  W6  1.0
+  5 Doronin, Victor        BMNG335T   694   665/108  U   W4  L3  L1  U   1.0
+  6 Sarangi, Samarth       CBRDH69F   185   150/ 18  U   L1  U   L3  L4  0.0

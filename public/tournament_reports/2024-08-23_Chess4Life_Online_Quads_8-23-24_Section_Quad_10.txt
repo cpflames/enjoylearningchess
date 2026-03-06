@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Liao, Joe              MEDGE93Z   731   736/ 56  W4  L2  W3  2.0
+  2 Bawa, Neer             LAVCE81P   602   665/ 40  W3  W1  L4  2.0
+  3 Khandelwal, Anay       CHRGA10L   676   641/ 38  L2  W4  L1  1.0
+  4 Mishra, Angad          RKWEK70V   588   581/ 87  L1  L3  W2  1.0

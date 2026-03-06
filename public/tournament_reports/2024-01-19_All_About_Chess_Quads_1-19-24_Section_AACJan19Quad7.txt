@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Krogstad, Jaiden       NCSEJ88J   301   318/ 15  L3  W5  W2  2.0
+  2 Pareek, Aarohi         SSMEJ55S   400   360/  3  W5  W4  L1  2.0
+  3 Vatsan, Maitri         SSMBK00S   100   125/ 28  W1  L6  D4  1.5
+  4 Zhang, Marina          SSMBJ56B   100   134/  8  W6  L2  D3  1.5
+  5 Chettiyarath, Vihaan   BLWCJ81Y   264   226/ 11  L2  L1  W6  1.0
+  6 Paidipathi, Kiaan      SHSBJ99C   101   100/ 45  L4  W3  L5  1.0

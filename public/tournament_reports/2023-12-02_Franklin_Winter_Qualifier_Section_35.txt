@@ -1,0 +1,25 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Hildenbrand, Jace      TCEF722T   526   889/106  W13 W6  W3  W5  W4  5.0
+  2 King, Oliver           WKEEK36M   877   866/ 30  W11 W14 W16 L4  W9  4.0
+  3 Dworzak, Jonah         WKEFK36S   789   798/ 15  W21 W15 L1  W16 W11 4.0
+  4 Bormuth, Silas         LYCF542J   655   837/ 17  W12 W9  W5  W2  L1  4.0
+  5 Celaya, Benito         CIAF505E  1029   965/ 66  W10 W8  L4  L1  W15 3.0
+  6 Truong, Mason          FACEK82Y   636   616/ 15  W20 L1  L10 W22 W16 3.0
+  7 Russell, Emerson       BLEFK23A   631   590/ 33  W17 L16 L11 W18 W10 3.0
+  8 Everbeck, Reed         FACFK83A   566   564/ 25  W18 L5  W12 L9  W17 3.0
+  9 Crompton, Callum       FACFE89B   484   516/ 54  W24 L4  W23 W8  L2  3.0
+ 10 Betz, Fox              WKEEK23C   419   530/ 10  L5  W18 W6  W14 L7  3.0
+ 11 Fisk, Oliver           FACEK82T   366   511/ 10  L2  W22 W7  W15 L3  3.0
+ 12 Conner, Jack           FACDK83E   306   429/ 19  L4  W13 L8  W23 W14 3.0
+ 13 Napoles, Hiram         FACEJ64Z   400   366/  5  L1  L12 D20 W24 W21 2.5
+ 14 Dolar, Evan            FACEA81A   569   508/ 25  W22 L2  W21 L10 L12 2.0
+ 15 Everbeck, Grey         FACDK83D   509   490/ 24  W19 L3  W17 L11 L5  2.0
+ 16 Tandon, Copen          FACDK83H   460   472/ 20  W23 W7  L2  L3  L6  2.0
+ 17 Nickerson, Stella      FACEK82W   262   290/ 10  L7  W24 L15 W21 L8  2.0
+ 18 Conner, Chloe          FACFK82M   198   235/ 18  L8  L10 W24 L7  W22 2.0
+ 19 Milana, Sula           FACEJ64Y   400   186/  5  L15 L21 L22 W20 W23 2.0
+ 20 Khaira, Huner          FACE505R   279   210/ 20  L6  L23 D13 L19 W24 1.5
+ 21 Boulos, Eric           FACEB08Q   353   282/ 15  L3  W19 L14 L17 L13 1.0
+ 22 Swanson, Ashton        CUEFK23B   247   214/ 22  L14 L11 W19 L6  L18 1.0
+ 23 Leak, Clayton          WKEDJ64X   300   140/  5  L16 W20 L9  L12 L19 1.0
+ 24 Toor, Paul             FACDJ64W   300   100/  5  L9  L17 L18 L13 L20 0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kunisetty, Chekresh    ENSFK99L  1479  1494/ 73  D2  D3  W4  2.0
+  2 Patel, Aarya           REEFK30E  1414  1424/113  D1  L4  W3  1.5
+  3 Girroir, Banyan        RMBJL92L  1406  1418/ 37  W4  D1  L2  1.5
+  4 Bimod, Karthik         SLLHW89E  1534  1499/ 80  L3  W2  L1  1.0

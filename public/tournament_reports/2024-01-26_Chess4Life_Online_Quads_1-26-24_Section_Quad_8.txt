@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Karthik, Sai           BCAD261S   741   859/117  W3  W4  W2  3.0
+  2 Kuluru, Samith         LEOHI99K   757   717/212  W4  L3  L1  1.0
+  3 Chen, Leon             SNRED24U   735   701/ 53  L1  W2  L4  1.0
+  4 Holliday, Austin       PTFC472D   575   588/ 18  L2  L1  W3  1.0

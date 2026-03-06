@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lin, Luna              OPWCK01W   701   763/ 64  W2  W4  D3  2.5
+  2 Wong, Claire           BCABK86D   610   673/ 53  L1  W3  W4  2.0
+  3 Paine, Clara           TLIEK01Z   697   687/ 31  W4  L2  D1  1.5
+  4 Desai, Sharanam        CMCD678T   610   539/ 54  L3  L1  L2  0.0

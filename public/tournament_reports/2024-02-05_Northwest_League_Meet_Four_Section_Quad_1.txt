@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Roesch, Carson         BLHL120K  1927  1931/265  W4  LF  W2  2.0
+  2 Frost, Ignatius        SHMKJ64P  1500  1513/104  W3  LF  L1  1.0
+  3 Lewis, Theo            FERMK29P  1431  1411/100  L2  LF  D4  0.5
+  4 Stroud, Jeb            FHVIK22V  1384  1384/ 88  L1  LF  D3  0.5

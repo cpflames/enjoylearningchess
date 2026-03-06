@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kuluru, Samith         LEOHI99K   585   704/271  W2  W4  D3  2.5
+  2 Liu, Brayden           NPTDH69D   686   708/  9  L1  W3  W4  2.0
+  3 Deshmukh, Dhruv        ENDDH79Q   603   616/ 33  W4  L2  D1  1.5
+  4 Chen, Alex             DISCK03T   626   543/ 26  L3  L1  L2  0.0

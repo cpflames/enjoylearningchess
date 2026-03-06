@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Keogh, Keita           WOEBJ51X   531   595/ 25  W2  W5  W3  W4  W6  5.0
+  2 Anderson, Holden       IGNAH83R   100   477/  5  L1  W4  W5  W3  W4  4.0
+  3 West, August           PLGCH83Q   200   182/  5  L5  W6  L1  L2  W5  2.0
+  4 Anderson, Lincoln      IGNCH83P   200   186/  4  BYE L2  W6  L1  L2  2.0
+  5 Grapeniuk, Darii       SBABH83N   100   125/  4  W3  L1  L2  LF  L3  1.0
+  6 Bauer, Bella           PLGCH83M   200   100/  3  U   L3  L4  WF  L1  1.0

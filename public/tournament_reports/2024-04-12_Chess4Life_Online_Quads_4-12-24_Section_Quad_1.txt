@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Maharaja, Imai         HMNDK34K  1318  1323/177  L4  W3  W2  2.0
+  2 Joshi, Vyom            LEOIH81X  1269  1286/274  W3  W4  L1  2.0
+  3 Bansal, Vivaan         EVJJ452J  1205  1193/117  L2  L1  W4  1.0
+  4 Chevuri, Tattva        REJGC06V  1198  1188/354  W1  L2  L3  1.0

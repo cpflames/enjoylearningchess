@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Cen, Evan              TYEII97D  1493  1564/194  W8  W12 W3  W4  W5  5.0
+  2 Ma, Ziliang            DCCGA69N  1335  1355/ 59  D6  W10 L4  W12 W9  3.5
+  3 Greisen, Alfred        EALKK95M  1333  1346/ 38  W11 W13 L1  D5  D4  3.0
+  4 Polonsky, Daniel       LBSK946P  1291  1339/ 43  W9  D5  W2  L1  D3  3.0
+  5 Chintalapudi, Srihaan  CPJG662W  1261  1332/124  W10 D4  W7  D3  L1  3.0
+  6 Ghosh, Snehil          CBRE738T  1245  1269/105  D2  D8  W13 D9  D7  3.0
+  7 Shaikot, Sabeer        ENSF147Q  1346  1326/218  HPB HPB L5  W13 D6  2.5
+  8 Chen, Xinyu            SOMFD08V  1290  1278/ 63  L1  D6  L10 BYE W11 2.5
+  9 Chopra, Aaryaman       BISIK30K  1179  1208/ 69  L4  W11 W12 D6  L2  2.5
+ 10 Lizon, Abhay           TYEHJ87S  1419  1319/ 13  L5  L2  W8  L11 BYE 2.0
+ 11 Zhang, Kevin           WOBF809Y  1266  1226/108  L3  L9  BYE W10 L8  2.0
+ 12 Xiong, Lydia           REJII43T  1255  1196/160  WF  L1  L9  L2  D13 1.5
+ 13 Prabhu, Varun          HLYG329U  1117  1086/ 74  BYE L3  L6  L7  D12 1.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Navarro, Sebastian     TT1HX59S   907   964/ 18  D2  W4  W3  2.5
+  2 Gilani, Arsh           TMBIJ98T   814   924/ 17  D1  W3  W4  2.5
+  3 Wu, Dennis             SCDDJ54B   885   855/195  W4  L2  L1  1.0
+  4 Kuluru, Samith         LEOHI99K   824   757/209  L3  L1  L2  0.0

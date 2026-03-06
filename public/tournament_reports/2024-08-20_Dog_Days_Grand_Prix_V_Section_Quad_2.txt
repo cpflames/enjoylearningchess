@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hildenbrand, Jace      TCEF722T  1062  1136/145  W3  W2  W4  3.0
+  2 Qureshi, Danish        BLNGF36V   955   962/145  W4  L1  D3  1.5
+  3 Buckham, George        SKYCK37E   902   924/ 74  L1  W4  D2  1.5
+  4 Rennie, Elias          BVEFH77C   987   909/ 32  L2  L3  L1  0.0

@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Nguyen, Justin         NWJGJ86L   555   665/ 10  W11 W7  W9  D4  D2  4.0
+  2 Trinh, Jordan          NWJGJ86P   733   813/ 10  W5  D4  W3  W9  D1  4.0
+  3 Songco, Simon          NWJGH86K   600   848/  5  W8  W12 L2  W6  W4  4.0
+  4 Vu, Tom                NWJGJ86N   674   733/ 10  W6  D2  W5  D1  L3  3.0
+  5 Nguyen, Tyler          NWJHJ86M   635   613/  9  L2  W10 L4  W7  BYE 3.0
+  6 Nguyen, Can            LKRHH86J   700   581/  5  L4  W11 W8  L3  W9  3.0
+  7 Nguyen, Chi            TEHFH86H   500   497/  5  W10 L1  W13 L5  W8  3.0
+  8 Vu, Cherry             RIDCK04H   388   373/  9  L3  BYE L6  W10 L7  2.0
+  9 Songco, Jacob          NWJGH86G   600   334/  4  BYE W13 L1  L2  L6  2.0
+ 10 Feng, Kingsley         SUEFH86F   500   234/  4  L7  L5  BYE L8  W11 2.0
+ 11 Mayfield, Ethan        NWJGH86E   600   122/  4  L1  L6  D12 BYE L10 1.5
+ 12 Udawatta, Ranuga       NWJGH86C   600   195/  2  U   L3  D11 U   U   0.5
+ 13 Udawatta, Jenadi       NWJGH86B   600   100/  2  U   L9  L7  U   U   0.0

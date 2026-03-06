@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Moghe, Arjun           REJGA42C  1207  1291/128  W2  W3  W4  3.0
+  2 Guthrie, William       NSTIK30W  1163  1186/ 40  L1  W4  W3  2.0
+  3 Bhaskara, Yash         ICKJI539  1272  1203/308  D4  L1  L2  0.5
+  4 Heydarov, Rasul        BLWFH95F   950   960/  6  D3  L2  L1  0.5

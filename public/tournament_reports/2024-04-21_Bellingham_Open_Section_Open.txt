@@ -1,0 +1,28 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Colombo, Dominic M     GIGMJ74P  1947  1963/ 81  W26 W18 D6  W7  W5  4.5
+  2 Roesch, Carson         BLHL120K  1925  1922/285  W23 L9  W15 W10 W6  4.0
+  3 Scollon, Owen          FHVI734D  1830  1832/492  L18 W24 W23 W9  W11 4.0
+  4 Toppen-ryan, Harrison  ADUNK815  1956  1944/247  W11 D7  W9  L5  W13 3.5
+  5 Gao, Justin            BCXHX11V  1795  1826/ 16  W24 W21 D14 W4  L1  3.5
+  6 Wang, Leonardo         CKNH233K  1790  1811/112  W15 W12 D1  W14 L2  3.5
+  7 Boey, Chad             ADUN800V  1768  1794/ 52  W19 D4  W22 L1  W14 3.5
+  8 Sauder, Sam            ADUN452P  1700  1676/ 74  L12 W25 W18 L13 W17 3.0
+  9 Juchau, Dave           ADUN8936  1672  1700/ 23  W20 W2  L4  L3  W18 3.0
+ 10 Merriman, Dann         WMNEF79Y  1638  1634/582  L13 W27 W12 L2  W20 3.0
+ 11 Cornejo Altuzar, SharadADUNJ94X  1629  1656/ 15  L4  W19 W21 W22 L3  3.0
+ 12 Khaleghi, Keeyan       ADIMC89L  1382  1493/ 25  W8  L6  L10 W23 W25 3.0
+ 13 Taitano, Judah         ADUNJ31F  1287  1478/ 12  W10 L22 W17 W8  L4  3.0
+ 14 Olson, Travis          ADUN8893  1791  1774/149  W27 W17 D5  L6  L7  2.5
+ 15 Christy, John Patrick  ADUN853W  1470  1504/ 34  L6  W26 L2  W21 HPB 2.5
+ 16 Shinkarev, Slava       KAHJY97R   900  1391/  4  L17 BYE L25 D27 W22 2.5
+ 17 Chase, Warren D        ADUND460  1633  1598/  5  W16 L14 L13 W25 L8  2.0
+ 18 Brown, Oliver          ADUNI13S  1545  1563/ 27  W3  L1  L8  W19 L9  2.0
+ 19 Stroud, Jeb            FHVIK22V  1455  1446/117  L7  L11 W27 L18 BYE 2.0
+ 20 Wangluo, Joanne        BCXGZ79Z   600  1387/  4  L9  L23 BYE W24 L10 2.0
+ 21 Wilson, Drake          ADUNH77P  1300  1424/  4  BYE L5  L11 L15 W26 2.0
+ 22 Dann, William          ADUN554B  1631  1580/ 76  D25 W13 L7  L11 L16 1.5
+ 23 Breslauer, Arlo        ADUN193A  1594  1562/ 26  L2  W20 L3  L12 D24 1.5
+ 24 Rubaiyat, Rhadean      ICKID40L  1481  1473/170  L5  L3  W26 L20 D23 1.5
+ 25 Yngvason, Hafthor      ADUNH77N  1300  1384/  5  D22 L8  W16 L17 L12 1.5
+ 26 Gilbert, Christopher   ADUN2539  1580  1504/ 64  L1  L15 L24 BYE L21 1.0
+ 27 Singh, Balbir          ADUNK95S  1486  1441/ 40  L14 L10 L19 D16 HPB 1.0

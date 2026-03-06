@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, Eason            SOMAJ59F   663   702/ 51  W3  W5  W2  3.0
+  2 Charles, Benjamin      SOMAJ06G   486   503/ 29  W6  W4  L1  2.0
+  3 Li, Ethan James        SOMBK00K   332   347/ 64  L1  BYE W6  2.0
+  4 Sathyamurthy, Shreyus  BLWBJ60Z   393   366/ 81  W7  L2  D5  1.5
+  5 Paidapathi, Kiaan      SHSBJ99C   224   235/108  BYE L1  D4  1.5
+  6 Dixit, Ved             ENSDH63Q   300   191/  3  L2  W7  L3  1.0
+  7 Mohamed, Hiabe         CDZGH63P   600   100/  2  L4  L6  BYE 1.0

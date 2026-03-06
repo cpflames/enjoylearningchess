@@ -1,0 +1,36 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Yuan, Edward           LECFK69S   889   987/ 63  W22 W21 W7  W4  W3  5.0
+  2 Vanderschoor, Peyton   MTPF490Y   803   814/ 39  W23 W13 L4  W18 W11 4.0
+  3 Lukson, Luka           LECFF91D   696   824/ 25  W9  W30 W16 W5  L1  4.0
+  4 Banuelos, Arturo       MCUFD90C   625   789/131  W24 W17 W2  L1  W10 4.0
+  5 Oh, Sarah              OERFC73R   748   736/ 59  W33 D18 W11 L3  W19 3.5
+  6 Nguyen, Caitlyn        RFPF663J   735   741/ 50  L15 W8  W27 W13 D9  3.5
+  7 Mariscal, Jonathan     MCUFK69F   682   686/ 25  W34 W15 L1  D19 W20 3.5
+  8 Mendez, Jaden          MTPFI40R   670   664/ 35  D20 L6  W32 W14 W18 3.5
+  9 Schutz, Henry          SCJFJ80M   500   755/  5  L3  W26 W12 W21 D6  3.5
+ 10 Munoz, Salvador        BMCFK53B   669   647/ 18  BYE L16 W22 W29 L4  3.0
+ 11 Einarson, Aiden        SAKFD84D   619   640/100  W25 W29 L5  W16 L2  3.0
+ 12 Gardner, Grayson       MTPFH05D   514   534/ 30  L16 W24 L9  W25 W26 3.0
+ 13 Ramirez, Yasmine       MCUFK69C   483   556/ 24  W26 L2  W17 L6  W27 3.0
+ 14 Moncada, Orlando       MCUFK69D   379   416/ 24  L17 W34 W28 L8  W30 3.0
+ 15 Menjivar, Bryan        RFRFJ80L   500   620/  5  W6  L7  L21 W28 W29 3.0
+ 16 Naungayan, Landon      CRPFJ80K   500   711/  5  W12 W10 L3  L11 W21 3.0
+ 17 Bowles, Nathaniel      MTPFJ80J   500   616/  5  W14 L4  L13 W24 W22 3.0
+ 18 York, Jackson          KCCF472Y   465   523/ 26  W27 D5  W20 L2  L8  2.5
+ 19 Langston, Felicity     MTPF424K   100   247/ 33  W32 L20 W35 D7  L5  2.5
+ 20 Leanos, Brian          TREFJ80H   500   490/  5  D8  W19 L18 W30 L7  2.5
+ 21 Dahl, Heidi            MTPFH58K   513   524/ 30  W35 L1  W15 L9  L16 2.0
+ 22 Flemming, Robert       MTPFJ80G   500   415/  5  L1  W25 L10 W35 L17 2.0
+ 23 Garza, Riot            TREFJ80F   500   245/  5  L2  L28 L24 W33 W35 2.0
+ 24 Anderson, Keegan       BMCFJ80C   500   396/  5  L4  L12 W23 L17 W31 2.0
+ 25 Avila, Jaime           BMCFJ79Z   500   288/  5  L11 L22 W33 L12 W32 2.0
+ 26 Rangel, Valentino      TREFJ79X   500   328/  5  L13 L9  W34 W32 L12 2.0
+ 27 Ibarra, Angel          CRPFJ79W   500   347/  5  L18 W33 L6  W31 L13 2.0
+ 28 Muniz, Christopher     BMCFJ79V   500   276/  5  L30 W23 L14 L15 W34 2.0
+ 29 Wagner, Adam           MTPFJ79U   500   399/  5  W31 L11 W30 L10 L15 2.0
+ 30 Kubalek, Janae         RFPF201M   356   311/ 27  W28 L3  L29 L20 L14 1.0
+ 31 Gonzalez, Benicio      BMCFH26B   286   171/ 14  L29 L35 BYE L27 L24 1.0
+ 32 Hernandez, Genie       MRKFK96J   120   100/  8  L19 BYE L8  L26 L25 1.0
+ 33 Engle, Chance          MTPFJ79S   500   100/  4  L5  L27 L25 L23 BYE 1.0
+ 34 Vargas, Ayrabella      MTPFJ79R   500   100/  4  L7  L14 L26 BYE L28 1.0
+ 35 Larimer, Thomas        WBEFJ79Q   500   101/  5  L21 W31 L19 L22 L23 1.0

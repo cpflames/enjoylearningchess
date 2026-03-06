@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nandakiran, Advaith    SSMBJ88H   100   145/ 30  W2  D3  BYE 2.5
+  2 Chettiyarath, Vihaan   BLWCJ81Y   116   118/ 22  L1  BYE W3  2.0
+  3 Paidipathi, Kiaan      SHSBJ99C   141   100/ 55  BYE D1  L2  1.5

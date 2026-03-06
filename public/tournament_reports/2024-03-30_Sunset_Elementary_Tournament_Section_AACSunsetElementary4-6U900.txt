@@ -1,0 +1,43 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Vijay, Krish           TYEG144B   773   934/ 39  W37 W32 W20 W9  W4  5.0
+  2 Naveh, Ido             SOMEK63G   707   818/ 43  W24 L20 W29 W10 W13 4.0
+  3 Thangakumar, Pranav    SSMFJ49C   667   745/ 24  W42 W26 L5  W27 W15 4.0
+  4 Huttelmaier, Evelyn    CHRF757Z   625   763/161  W40 W13 W14 W5  L1  4.0
+  5 Chen, Zachary          MEDEJ43Z   160   549/ 10  W17 W7  W3  L4  W14 4.0
+  6 Davies, Damien         MCEFK68U   851   841/ 74  D22 W34 D27 W11 D7  3.5
+  7 Cristea, Victor        CSIF432L   704   738/ 10  W18 L5  W31 W26 D6  3.5
+  8 Gereda-galvis, JeronimoEHAGH94Q   697   754/ 10  W39 W10 L9  D12 W25 3.5
+  9 Upasani, Neil          SSMEJ57C   591   755/ 34  W36 W15 W8  L1  D11 3.5
+ 10 Mitra, Rishab          OPWF138L   895   851/185  W33 L8  W16 L2  W30 3.0
+ 11 Zakaria, Abid          CDWFJ28T   893   854/ 21  W23 D16 W22 L6  D9  3.0
+ 12 Wang, Jacob Z          BLWFE71A   718   700/ 80  L30 W36 W23 D8  D16 3.0
+ 13 Chenchu Arun, Krish    SSMEJ74U   755   737/ 24  W41 L4  W30 W17 L2  3.0
+ 14 Gaddam, Vihaan         SSMEJ28E   745   726/ 20  W35 W30 L4  W20 L5  3.0
+ 15 Jahani, Nikan          SNIFK89A   746   713/ 56  W38 L9  W35 W19 L3  3.0
+ 16 Gatta, Aadya           REJGK49R   646   694/ 37  W19 D11 L10 W21 D12 3.0
+ 17 Bhasin, Palash         SNIFH95H   692   655/ 11  L5  W38 W18 L13 W29 3.0
+ 18 Badi, Sanvi            MTWE151Y   282   474/ 58  L7  W33 L17 W41 W28 3.0
+ 19 Havish, Battala        SSMEJ03L   207   451/  9  L16 W41 W28 L15 W27 3.0
+ 20 Lopez, Rodrigo         EHAGH88C   600   811/  5  W28 W2  L1  L14 W26 3.0
+ 21 You, Jin               SNIEH58R   565   557/ 22  D25 L22 W34 L16 W35 2.5
+ 22 Newell, Jonathan       THOEK87B   544   581/ 25  D6  W21 L11 L25 W36 2.5
+ 23 Badi, Shreya           MTWEK52A   537   535/ 69  L11 W39 L12 D36 W32 2.5
+ 24 Rathinasabapathy, VarsiINGGJ60E   352   394/ 17  L2  L28 D41 W34 W38 2.5
+ 25 Kini, Arjun            SSMEH88B   400   602/  5  D21 L27 W33 W22 L8  2.5
+ 26 Xia, Jethro            BCSEK47R   800   730/ 72  W29 L3  W32 L7  L20 2.0
+ 27 Thompson, Grant        MGVF337E   750   685/ 35  D34 W25 D6  L3  L19 2.0
+ 28 Metzmaker, Kyren       OPWF430W   586   533/146  L20 W24 L19 W37 L18 2.0
+ 29 Abhilash, Lavina       CRIEK07R   595   551/ 96  L26 W42 L2  W38 L17 2.0
+ 30 Yang, Maximilian       SOMF632J   504   536/ 48  W12 L14 L13 W31 L10 2.0
+ 31 Liu, Anton             CBRFH87Y   500   395/  5  L32 W37 L7  L30 W39 2.0
+ 32 Newell, Benjamin       THOEK87J   580   526/ 25  W31 L1  L26 D35 L23 1.5
+ 33 Kumar, Anash           SNIEK44V   546   476/ 15  L10 L18 L25 D40 W37 1.5
+ 34 Peng, Eric             SSMFJ31E   455   428/ 24  D27 L6  L21 L24 W41 1.5
+ 35 Singh, Sehaj           WPPGK16N   400   360/  7  L14 W40 L15 D32 L21 1.5
+ 36 Gereda-galvis, Lorenzo EHAEH94L   384   390/ 10  L9  L12 W39 D23 L22 1.5
+ 37 Dhayanidhi, Darshish   INGGK46D   499   357/ 10  L1  L31 W42 L28 L33 1.0
+ 38 Jade, Kevin            MEDFJ87N   353   310/ 18  L15 L17 W40 L29 L24 1.0
+ 39 Maeung, Leo            BLWFJ06M   245   206/  9  L8  L23 L36 W42 L31 1.0
+ 40 Halabi, Daniel         EHAEH94J   100   110/  9  L4  L35 L38 D33 D42 1.0
+ 41 Vazir, Haani           SNIEK44N   402   326/ 15  L13 L19 D24 L18 L34 0.5
+ 42 Kumar, Ashna           SNIEK43K   168   114/ 15  L3  L29 L37 L39 D40 0.5

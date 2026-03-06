@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ganesan, Vidur         RBRE940K  1163  1226/161  W2  W4  W3  3.0
+  2 Yin, Daniel            ISSM116Y   920  1007/395  L1  W3  W4  2.0
+  3 Lebedinsky, Alexander  EVJH958F  1215  1158/251  W4  L2  L1  1.0
+  4 Fang, Weiai            LAVD696W   857   825/209  L3  L1  L2  0.0

@@ -1,0 +1,27 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Iyer, Satvik           NLADB60D   719   830/ 16  W17 D5  W13 W6  W7  4.5
+  2 Singhal, Aryash        SYCE595L   696   760/ 57  W18 D14 W5  D3  W8  4.0
+  3 Liang, Grace           BASD183K   663   775/ 27  W20 W21 D8  D2  W6  4.0
+  4 Wu, Hao-cheng          CMCG911D   660   676/ 37  W19 L6  W14 W12 D9  3.5
+  5 Wong, Aiden            CNHDK17Z   393   583/ 26  W22 D1  L2  W13 W14 3.5
+  6 Chong, Jacob           RSHFF24L   899   868/103  W11 W4  W7  L1  L3  3.0
+  7 Zhang, Alfred          MERHK02P   886   774/  8  W16 W10 L6  W11 L1  3.0
+  8 Ivanov, Matvei         EABCK34E   858   804/ 20  W12 D13 D3  W22 L2  3.0
+  9 Chan, Jaxon            EASFK30M   680   633/ 38  L14 D15 W20 W18 D4  3.0
+ 10 Chen, Austin           SCDEK02G   625   548/  8  W24 L7  L12 W19 W21 3.0
+ 11 Rampally, Viraali      LKWDC95B   434   508/ 18  L6  W23 W21 L7  W17 3.0
+ 12 Chaporkar, Nihar       ENSDK65B   377   481/ 10  L8  W19 W10 L4  W22 3.0
+ 13 Hildenbrand, Jace      TCEF722T   501   513/ 98  W25 D8  L1  L5  W18 2.5
+ 14 Wei, Brayden           ETSBK90F   262   456/ 32  W9  D2  L4  W15 L5  2.5
+ 15 Du, Charles            SOMEA15U   560   471/ 19  D23 D9  L18 L14 W24 2.0
+ 16 Douglas, Timothy       BNTBK28Z   404   355/ 14  L7  W24 L22 L21 W23 2.0
+ 17 Bawa, Neer             TLICE81P   373   340/ 16  L1  L22 W23 W25 L11 2.0
+ 18 So, Brandon            CCDCK01X   361   387/  8  L2  W25 W15 L9  L13 2.0
+ 19 Liu, Sheldon           BCACK02F   264   252/  7  L4  L12 BYE L10 W25 2.0
+ 20 Zhang, David           SOMBK41P   130   157/ 14  L3  W26 L9  L23 BYE 2.0
+ 21 Lagzdin, Mikhail       BCABJ96R   100   441/  5  W26 L3  L11 W16 L10 2.0
+ 22 Ly, Tian               SOMCJ98R   100   282/  8  L5  W17 W16 L8  L12 2.0
+ 23 Chen, Tony             CMMEJ96Q   400   204/  5  D15 L11 L17 W20 L16 1.5
+ 24 Wu, Hao-en             CMCEJ96P   400   100/  4  L10 L16 L25 BYE L15 1.0
+ 25 Tripathi, Aditya       ARMDJ96M   300   100/  5  L13 L18 W24 L17 L19 1.0
+ 26 Abdelwahab, AbdelrahmanCMCFK03W   538   428/ 16  L21 L20 U   U   U   0.0

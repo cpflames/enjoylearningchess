@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Brewster, Alexander    LYCFH74P   500   839/  3  W5  W4  W3  3.0
+  2 Semu, Zeke             CIADK06J   180   180/  9  L4  BYE W4  2.0
+  3 Mcneil, Mason          VSTGJ49Y   441   443/ 15  BYE W5  L1  2.0
+  4 Yoder, Luke            HSCFH74M   500   193/  3  W2  L1  L2  1.0
+  5 Woolsey, Grant         BLPBH74L   100   100/  2  L1  L3  U   0.0

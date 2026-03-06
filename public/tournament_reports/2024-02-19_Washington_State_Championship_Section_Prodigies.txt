@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 tot 
+  1 Zhou, Yuchen           CHREJ42H  1477  1543/566  W10 W7  D3  D5  L2  D9  W8  W6  W4  6.5
+  2 Chen, Andy             SOMDK05J  1564  1582/ 47  L9  W8  W6  D4  W1  W7  L3  W5  W10 6.5
+  3 Shankaranand, Deeksha  EBSFI74Y  1421  1535/273  D6  L4  D1  D7  W10 W5  W2  W9  W8  6.5
+  4 Wong, Kate             LMSF459M  1392  1502/178  W7  W3  L5  D2  W9  W8  W6  D10 L1  6.0
+  5 Shah, Kanav            LMAF295Q  1453  1472/175  W8  W6  W4  D1  L7  L3  W10 L2  D9  5.0
+  6 Bharadwaj, Samarth     DISDE78A  1461  1431/167  D3  L5  L2  W9  W8  D10 L4  L1  D7  3.5
+  7 Kokati, Pranav         OMSI814P  1481  1443/287  L4  L1  W10 D3  W5  L2  D9  L8  D6  3.5
+  8 Gupta, Krishang        GTMGE37V  1485  1430/ 52  L5  L2  W9  W10 L6  L4  L1  W7  L3  3.0
+  9 Xu, Zoe                SOMEG70A  1463  1402/320  W2  L10 L8  L6  L4  D1  D7  L3  D5  2.5
+ 10 Pai, Vihaan            CHAEK17C  1329  1305/225  L1  W9  L7  L8  L3  D6  L5  D4  L2  2.0

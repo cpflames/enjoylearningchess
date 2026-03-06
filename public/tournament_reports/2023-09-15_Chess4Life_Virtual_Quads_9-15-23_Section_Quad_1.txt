@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Liu, Yuntao            STTG505Y  1622  1626/280  W4  W2  D3  2.5
+  2 Kunisetty, Chekresh    XXXFK99L  1374  1415/ 42  W3  L1  W4  2.0
+  3 Cheng, Alan            CHRFJ71K  1411  1417/122  L2  W4  D1  1.5
+  4 Huang, Emily           OMSHB39A  1354  1309/296  L1  L3  L2  0.0

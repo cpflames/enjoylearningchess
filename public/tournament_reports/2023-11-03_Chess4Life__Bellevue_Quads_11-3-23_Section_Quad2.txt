@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, Melvin           ETSFJ89Z   939  1047/  6  W4  W2  W3  3.0
+  2 Naik, Shreyas          ETSEJ98X   420   436/ 15  W3  L1  L4  1.0
+  3 Desai, Sharanam        CMCD678T   705   656/ 48  L2  W4  L1  1.0
+  4 Chen, Alex             DGHCK03T   353   388/ 12  L1  L3  W2  1.0

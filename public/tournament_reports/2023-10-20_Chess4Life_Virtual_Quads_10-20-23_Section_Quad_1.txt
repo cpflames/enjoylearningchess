@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bimod, Karthik         SLLHW89E  1280  1451/ 57  W2  W4  W3  3.0
+  2 Sangal Lopez, Dev      CTNH515J  1494  1501/396  L1  W3  W4  2.0
+  3 Benedict, Blaine       HSCIK07Q  1413  1399/ 27  W4  L2  L1  1.0
+  4 Siu, Liam              EDGFT534  1483  1410/ 18  L3  L1  L2  0.0

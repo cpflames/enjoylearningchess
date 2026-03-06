@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Gupta, Krishna         CNCG802T   791   842/ 30  BYE W5  W2  3.0
+  2 Kuluru, Samith         LEOHI99K   901   894/218  W5  W3  L1  2.0
+  3 Wu, Dennis             SCDDJ54B   832   819/201  W4  L2  W5  2.0
+  4 Armitage-selig, PhoenixSUZAJ31Z   100   416/  1  L3  BYE U   1.0
+  5 Mishra, Angad          RKWEK70V   487   464/ 67  L2  L1  L3  0.0

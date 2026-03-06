@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sampathi Rao, Sri JayraSSMFK37Y   804   885/ 50  D2  W3  W4  2.5
+  2 Khandhedia, Dhruvin NirCNCE257G   834   827/ 30  D1  L4  W3  1.5
+  3 Li, Alice              OPWCJ98C   877   831/ 45  W4  L1  L2  1.0
+  4 Paine, Clara           TLIEK01Z   688   697/ 28  L3  W2  L1  1.0

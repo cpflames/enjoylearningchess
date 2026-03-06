@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Acharya, Arnav         KMNG746Q   917   960/ 46  W3  W4  D2  2.5
+  2 Datti, Suhas           SHVHK47U   869   938/ 76  W4  W3  D1  2.5
+  3 Kandar, Aarav          FISDK21U   799   789/ 35  L1  L2  W4  1.0
+  4 Yu, Owen               MEDEC65S   815   745/ 84  L2  L1  L3  0.0

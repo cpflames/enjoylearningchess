@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Malsam, John           GPSL425S  1453  1461/118  BYE W9  W5  W3  4.0
+  2 Shumaker, Shane        GPSJC35P   985  1066/  8  W4  W11 HPB W5  3.5
+  3 Le, Preston            GPSKK98Y   850   914/  7  W6  BYE W8  L1  3.0
+  4 Ebel, Parker           GPSL777Y   552   738/ 18  L2  W6  W10 W7  3.0
+  5 Price, Rachel          GPSKF94S   883   882/ 29  W10 W8  L1  L2  2.0
+  6 Miller, Samuel         GPSJJ82P   900   641/  4  L3  L4  W13 W14 2.0
+  7 Whipple, Jax           GPSJJ82N   900   589/  4  L11 W14 W12 L4  2.0
+  8 Hoke, Cayla            GPSJJ82M   900   629/  3  W13 L5  L3  HPB 1.5
+  9 Brown, Sean            GPSJJ82L   900  1057/  1  BYE L1  HPB LF  1.5
+ 10 Kensok, Kayson         GPSJJ82J   900   578/  3  L5  W13 L4  HPB 1.5
+ 11 Hamsher, Jack          GPSKA99G   687   714/ 15  W7  L2  U   LF  1.0
+ 12 Yarde-bush, Donara     GPSMJ82H  1200   289/  1  U   U   L7  BYE 1.0
+ 13 Russell, Grant         GPSJI295   555   424/  8  L8  L10 L6  HPB 0.5
+ 14 Arias, Jared           GPSKJ82F  1000   256/  2  HPB L7  U   L6  0.5

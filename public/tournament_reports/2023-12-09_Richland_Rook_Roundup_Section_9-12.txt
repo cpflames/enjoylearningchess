@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Rahman, Zayd           HHSJF83W  1397  1449/127  W10 W9  D6  W12 W5  4.5
+  2 Dillingham, Daniel     KCCGB73M  1262  1385/237  W12 W4  L5  W7  W6  4.0
+  3 Li, Roy                IDXCY99P  1204  1244/ 15  L4  W12 W13 W11 W9  4.0
+  4 Chung, Ethan           LLMH108U  1593  1569/364  W3  L2  W9  D6  W8  3.5
+  5 Li, Jessie             IDXFY99Q  1527  1486/ 15  L9  W11 W2  W13 L1  3.0
+  6 Deng, Stanley          LECFK22E  1415  1421/296  W7  W8  D1  D4  L2  3.0
+  7 Kaiphanliam, Kieren SisCWHJK52X  1167  1180/ 25  L6  W14 W8  L2  W11 3.0
+  8 Arias Padilla, Jose    RICL888V  1236  1207/ 84  W14 L6  L7  W10 L4  2.0
+  9 Chavez Vargas, Angel   CWHM858A  1169  1179/ 48  W5  L1  L4  W14 L3  2.0
+ 10 Dillingham, Annabella  KCCH229F  1150  1093/231  L1  W13 L12 L8  W14 2.0
+ 11 Guizar, Kevin          CWHKI02P   797   818/ 72  W13 L5  W14 L3  L7  2.0
+ 12 Mendoza, Leonardo      CWHK1126   873   872/269  L2  L3  W10 L1  L13 1.0
+ 13 Santana, Andy          CHWKH849   798   793/243  L11 L10 L3  L5  W12 1.0
+ 14 Ynigues, Keahi         CDKJJ62N   900   428/  5  L8  L7  L11 L9  L10 0.0

@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wu, Ruichen            CDWEK08F   271   429/ 16  W2  W5  W3  3.0
+  2 Tripathi, Naksh        BRHCJ98P   268   279/ 51  L1  BYE W4  2.0
+  3 Fang, Ian              DISBH82W   100   322/  2  BYE W4  L1  2.0
+  4 Venkatesh, Anya        HMNBJ30F   274   220/ 38  W5  L3  L2  1.0
+  5 Zheng, Raymond         BCABH95J   149   100/  4  L4  L1  BYE 1.0

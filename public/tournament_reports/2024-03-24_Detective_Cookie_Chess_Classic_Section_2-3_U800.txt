@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Hoang, Leonard Bach    STQAK88E   751   811/ 34  D14 W11 W21 W6  W2  4.5
+  2 Oh, Seojoon            SSMDJ70T   772   804/ 29  W5  W15 W4  W3  L1  4.0
+  3 Xiao, Luke             EASDC79Q   709   728/ 39  W12 W22 W7  L2  W8  4.0
+  4 Zhen, Liam             DCCC622V   538   604/127  W16 W9  L2  W17 W10 4.0
+  5 Prasanna, Charan       LMADJ46Z   311   536/ 18  L2  W14 W25 W21 W7  4.0
+  6 Chou, Eugene           SSMDJ56Y   784   756/ 33  W11 D21 W8  L1  W15 3.5
+  7 Wong, Eric             DCCDK13H   566   559/ 20  W13 W10 L3  W16 L5  3.0
+  8 Tan, Mathew            THUDJ76C   469   483/ 25  W17 W25 L6  W19 L3  3.0
+  9 Kaviyarasan, Jai       SSMCJ29E   391   419/ 15  W24 L4  W12 L10 W16 3.0
+ 10 Anant Sundaram, Parth  SSMDJ56Q   378   411/ 20  W19 L7  W20 W9  L4  3.0
+ 11 Too, Amelia            THUDK87Q   327   381/ 33  L6  L1  W23 W20 W17 3.0
+ 12 Ni, Nicole             NPTDJ03A   517   487/ 15  L3  W18 L9  W25 W19 3.0
+ 13 Venkatesan, Vaibhav    SSMDJ56L   141   289/ 22  L7  L19 W18 W22 W21 3.0
+ 14 Kang, Mason            SSMDJ29J   350   355/ 24  D1  L5  L17 W23 W22 2.5
+ 15 Michael, Sophia        DCCD704F   440   400/ 59  W18 L2  L16 W24 L6  2.0
+ 16 Ramasubramanian, SamartSSMDJ03G   307   317/ 10  L4  W24 W15 L7  L9  2.0
+ 17 Ouyang, Ray            DCCDJ48J   253   277/ 10  L8  W23 W14 L4  L11 2.0
+ 18 Lu, Andy               JINCJ02X   100   111/  9  L15 L12 L13 BYE W25 2.0
+ 19 Mody, Jeet             LKDDH93P   226   263/ 10  L10 W13 W22 L8  L12 2.0
+ 20 Seth, Avyaan           SSMDH89C   300   100/  4  L22 BYE L10 L11 W24 2.0
+ 21 Mavila, Mukund         TBKDK62K   450   410/ 23  W23 D6  L1  L5  L13 1.5
+ 22 Adane, Biniyam         DCCDK13F   361   225/ 10  W20 L3  L19 L13 L14 1.0
+ 23 Peng, Zhenlong         MESDJ48G   100   100/ 13  L21 L17 L11 L14 BYE 1.0
+ 24 Macdougall, Lincoln    DCCDH89B   300   100/  4  L9  L16 BYE L15 L20 1.0
+ 25 Phok, Winston          DCCCH88Z   200   100/  4  BYE L8  L5  L12 L18 1.0

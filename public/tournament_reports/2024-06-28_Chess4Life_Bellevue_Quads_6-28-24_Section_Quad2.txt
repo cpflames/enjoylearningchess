@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Thangakumar, Pranav    SSMFJ49C   963  1125/ 42  W4  W3  W2  3.0
+  2 Verma, Reyansh         RBREJ20M  1002  1046/ 30  W3  W4  L1  2.0
+  3 Chaporkar, Nihar       ENSDK65B  1044  1018/ 50  L2  L1  W4  1.0
+  4 Li, Hanson             MEDF507H  1067   986/112  L1  L2  L3  0.0

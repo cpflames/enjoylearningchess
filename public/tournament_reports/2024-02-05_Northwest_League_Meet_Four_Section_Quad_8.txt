@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Fransico-woodenlegs, JoMRDL680H   581   615/ 45  D3  LF  W4  1.5
+  2 Lee, Jensen            MRDK947B   625   615/ 36  D4  LF  D3  1.0
+  3 Eckermann, Garrett     FERLJ60A   608   611/  8  D1  LF  D2  1.0
+  4 Simmons, Sean          SHMJH985   569   543/149  D2  LF  L1  0.5

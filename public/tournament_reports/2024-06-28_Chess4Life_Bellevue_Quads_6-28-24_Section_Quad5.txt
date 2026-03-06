@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kuluru, Samith         LEOHI99K   627   729/262  W3  W4  D2  2.5
+  2 Paine, Clara           TLIEK01Z   718   699/ 48  L4  W3  D1  1.5
+  3 Deepak, Sairaghav      PLKIA52Q   620   603/ 62  L1  L2  W4  1.0
+  4 Bawa, Neer             LAVCE81P   619   602/ 37  W2  L1  L3  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bikkula, Charan        BLMHJ23A  1163  1183/230  W3  L4  W2  2.0
+  2 Burtram, Dayton        BLMIG77M  1180  1173/265  W4  D3  L1  1.5
+  3 Li, Harry              BCAEG30G  1173  1167/386  L1  D2  W4  1.5
+  4 Dhameeja, Ved          GRREJ98F  1090  1083/104  L2  W1  L3  1.0

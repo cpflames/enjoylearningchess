@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hsiao, Aaron           OMSG338U  1078  1102/ 38  L2  W4  W3  2.0
+  2 Kumarswamy, Adarsh     CHRI755Y  1074  1099/362  W1  L3  W4  2.0
+  3 Sabarish, Ananya       BCADG02Z  1096  1091/159  D4  W2  L1  1.5
+  4 Fang, Weiai            LAVD696W  1057  1013/245  D3  L1  L2  0.5

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Dela Pena, Brandon     CKHJH80R   900  1000/  5  W4  W3  W2  W3  W3  5.0
+  2 Khan, Sami             DRMGH80Q   600   595/  5  L3  W4  L1  L4  W4  2.0
+  3 Diloy, Sylvester       BRMJH80P   900   825/  5  W2  L1  W4  L1  L1  2.0
+  4 Van Bogart, Albert     ASAHH80N   700   442/  5  L1  L2  L3  W2  L2  1.0
+
+ All Unrated-player Section: Ratings capped at 1000

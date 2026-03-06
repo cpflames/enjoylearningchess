@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pan, Peng-ruei         SSME759R   998  1011/ 35  W4  W3  D2  2.5
+  2 Li, Harry              SSSEG30G   867   888/291  D3  W4  D1  2.0
+  3 Bikkula, Charan        BLMHJ23A   857   826/159  D2  L1  D4  1.0
+  4 Nandakiran, Vidyuth    SSME617C   647   642/ 40  L1  L2  D3  0.5

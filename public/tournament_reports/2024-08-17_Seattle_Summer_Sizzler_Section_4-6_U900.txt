@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Meenakshi Sundaram, AdhCDWFK00E   819   922/ 16  W14 W12 L2  W8  W3  W7  5.0
+  2 Berjis, Adrina         MEDE230U   834   948/148  W9  W3  W1  W7  W10 L4  5.0
+  3 Vinoth Ganapathy, PavitAUDEH96J   755   780/ 20  W16 L2  W14 W11 L1  W10 4.0
+  4 Lin, Elliot            THUFJ71G   835   838/ 41  L6  L10 W13 W12 W11 W2  4.0
+  5 Singhal, Aryash        SYCE595L   780   773/ 93  W11 W8  L7  L10 D6  W14 3.5
+  6 Xia, Jethro            BCSEK47R   731   760/ 93  W4  L7  L11 W9  D5  W12 3.5
+  7 Lin, Ethan             THUFJ71H   791   817/ 40  D10 W6  W5  L2  W8  L1  3.5
+  8 Zhang, Arwen           SOME484A   734   709/120  W13 L5  W9  L1  L7  W15 3.0
+  9 Abhilash, Lavina       CRIEK07R   707   666/113  L2  W16 L8  L6  W15 W13 3.0
+ 10 Vanavada, Kaushik      BRHGB86U   468   670/ 17  D7  W4  D12 W5  L2  L3  3.0
+ 11 Khamsi, Gabriel        KMDFK26Y   740   691/ 11  L5  W13 W6  L3  L4  W16 3.0
+ 12 Prasanna, Charan       LMADJ46Z   767   714/ 32  W15 L1  D10 L4  W14 L6  2.5
+ 13 Ramayanam, Hanvitha    RSAFH65C   500   416/  6  L8  L11 L4  W15 W16 L9  2.0
+ 14 Schechter, Elizabeth   MEDE373X   563   527/ 89  L1  W15 L3  W16 L12 L5  2.0
+ 15 Balaji, Lakshanya      TMBGH65B   600   138/  6  L12 L14 D16 L13 L9  L8  0.5
+ 16 Saravanan, Aapti       FRWEH65A   400   138/  6  L3  L9  D15 L14 L13 L11 0.5

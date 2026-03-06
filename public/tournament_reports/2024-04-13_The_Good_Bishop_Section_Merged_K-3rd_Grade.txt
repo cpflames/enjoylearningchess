@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Brar, Angad            CENDJ52A   498   558/ 35  W5  W3  W2  W4  W6  5.0
+  2 Samsonov, Kirill       UPPDH98S   100   280/ 10  W4  W5  L1  W6  W3  4.0
+  3 Kunz, Ava              STCCJ18J   225   266/ 10  W6  L1  W4  W5  L2  3.0
+  4 Williams, Neall Darren ASAAH80W   100   172/  5  L2  W6  L3  L1  W5  2.0
+  5 Ledesma, Paul          ASAAH80V   100   100/  5  L1  L2  W6  L3  L4  1.0
+  6 Khan, Inaya            CHPDH80U   300   100/  5  L3  L4  L5  L2  L1  0.0

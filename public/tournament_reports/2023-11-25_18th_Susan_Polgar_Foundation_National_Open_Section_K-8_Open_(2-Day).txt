@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Seela, Shashank        EVJHI74N  1595  1623/203  D8  W13 W5  W6  W4  4.5
+  2 Yadav, Arjun           EVJG664A  1532  1570/117  W13 W11 D4  W8  W6  4.5
+  3 Stroud, Jeb            HSCIK22V  1370  1387/ 63  W16 W5  L6  W9  D8  3.5
+  4 Dhawan, Viraj          OVLHI96U  1366  1430/ 94  W17 W10 D2  W11 L1  3.5
+  5 Sharma, Soham          LMSHK09Q  1541  1518/ 58  W12 L3  L1  W13 W11 3.0
+  6 Cen, Evan              TYEII97D  1515  1511/184  W15 W7  W3  L1  L2  3.0
+  7 Avula, Varshith Reddy  RHJH110R  1343  1340/208  W18 L6  L11 W14 W10 3.0
+  8 Mandhana, Aarav        KMNI434A  1190  1316/ 61  D1  W12 W10 L2  D3  3.0
+  9 Thungathurthi, PranavarINGHG82R   929   963/ 59  L10 W17 W14 L3  D12 2.5
+ 10 Gupta, Krishang        GTMGE37V  1492  1423/ 40  W9  L4  L8  W15 L7  2.0
+ 11 Koripella, Dheeran     INGH610W  1412  1385/ 55  W14 L2  W7  L4  L5  2.0
+ 12 Lee, Justin            CNLH732V  1171  1140/ 71  L5  L8  D15 W17 D9  2.0
+ 13 Raghavendra, Srihari   INGHH19D  1159  1152/ 57  L2  L1  W16 L5  W18 2.0
+ 14 Zhang, Andy            MEDF885X   761   782/ 38  L11 W18 L9  L7  W17 2.0
+ 15 De, Rishik             INGHJ87T  1152  1116/ 50  L6  D16 D12 L10 HPB 1.5
+ 16 Nadupalli, Varun       TMBHK06T   726   705/ 45  L3  D15 L13 L18 BYE 1.5
+ 17 Felon, Ewen            MIEG372J   719   699/ 36  L4  L9  W18 L12 L14 1.0
+ 18 Kautzman, Michael      LADIJ72Q   800   598/  5  L7  L14 L17 W16 L13 1.0

@@ -1,0 +1,40 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wang, Raymond          FRALK66P  1586  1605/ 26  W35 L8  L22 D14 D28 2.0
+  2 Davis, Caian           FRALK67M  1399  1414/ 31  L36 D9  W24 W16 L29 2.5
+  3 Zhu, Junyu             FRALJ21L  1100   784/  2  L37 U   U   L17 U   0.0
+  4 Mathly, Jabril         FRALJ59S   400   400/  9  L38 L11 L26 U   L31 0.0
+  5 Loya, Henry            FRAL3183   400   400/  6  L39 U   U   U   U   0.0
+  6 Giang, Bill            FRAMK66M  1110  1400/  4  U   W10 L25 U   L30 1.0
+  7 Chen, Wenney           FRAMJ21K  1200   924/  1  U   U   U   U   L34 0.0
+  8 Cheng, Edward          GARLC74W  1920  1931/453  U   W1  W35 W27 L22 3.0
+  9 Teh, Logan             GARMH765  1568  1574/124  L14 D2  W36 W28 L23 2.5
+ 10 Kasha, Elliot          GARL235P  1251  1318/112  W15 L6  W37 L31 W24 3.0
+ 11 Farny, Soren           GARLJ587  1333  1335/414  W16 W4  L38 D33 L25 2.5
+ 12 Schmeichel, Trevor     GARK3868  1187  1242/159  L17 U   W39 W32 L27 2.0
+ 13 Yu, Edison             GARMK66J  1204  1206/ 22  W18 U   U   U   U   1.0
+ 14 Demberel, Amana        LCOKJ14E  1804  1775/117  W9  L22 D27 D1  L35 2.0
+ 15 El-khasha, Ashley      LCOJJ21J   900   883/  1  L10 U   U   U   U   0.0
+ 16 Ding, Marcus           LCOMK66T  1168  1124/ 16  L11 L23 L28 L2  L37 0.0
+ 17 Love, Murrow           LCOM2596  1073  1175/274  W12 L24 L30 W3  W36 3.0
+ 18 Gomes, Caetano         LCOM799X   648   648/  9  L13 L25 L31 U   U   0.0
+ 19 Gomes, Chloe           LCOKJ21H  1000  1038/  1  U   U   L33 U   U   0.0
+ 20 Shi, Gavin             LCOJH855  1572  1589/373  U   U   U   U   W38 1.0
+ 21 Chapple, Nate          LCOMK66U  1329  1278/  7  U   U   U   U   L39 0.0
+ 22 Zhang, Eric            LSSM8773  2221  2237/234  W27 W14 W1  W35 W8  5.0
+ 23 Xuan, Owen             LSSK5792  1933  1914/280  L28 W16 U   W36 W9  3.0
+ 24 Wang, Felicity         LSSKJ02F  1816  1775/305  W29 W17 L2  W38 L10 3.0
+ 25 Peng, Brandon          LSSMA154  1804  1824/469  W30 W18 W6  W37 W11 5.0
+ 26 Wang, Daniel           LSSL8287  1770  1748/626  L31 U   W4  W39 U   2.0
+ 27 Eksarevskly, Albert    LSSJ530Y  1802  1794/104  L22 W35 D14 L8  W12 2.5
+ 28 Szeto, Sophie          LSSMH023  1650  1643/352  W23 D36 W16 L9  D1  3.0
+ 29 Lakshminarayanan, RishiLSSLD542  1643  1643/177  L24 W37 U   U   W2  2.0
+ 30 Li, Emma               LSSJ521Q  1518  1530/361  L25 U   W17 U   W6  2.0
+ 31 Peng, Christopher      LSSJ2702  1481  1579/183  W26 W38 W18 W10 W4  5.0
+ 32 Dong, Timothy          LSSJ929M  1316  1314/195  U   W39 U   L12 U   1.0
+ 33 Bushfield, Stuart      LSSLF350  1441  1439/360  U   U   W19 D11 U   1.5
+ 34 Schmidt-warnecke, Max  LSSL6188  1314  1319/178  U   U   U   U   W7  1.0
+ 35 Anandam, Akash         SPRM141D  1472  1484/ 62  L1  L27 L8  L22 W14 1.0
+ 36 Ta, Louis              SPRM291U  1213  1236/ 39  W2  D28 L9  L23 L17 1.5
+ 37 Odegard, Owen          SPRMK40J  1298  1281/ 37  W3  L29 L10 L25 W16 2.0
+ 38 Chivers, Roman         SPRJ5495  1526  1498/150  W4  L31 W11 L24 L20 2.0
+ 39 Laporte, Andy          SPRKK67S  1415  1368/ 27  W5  L32 L12 L26 W21 2.0

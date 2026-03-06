@@ -1,0 +1,41 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Lan, Jonathan          MEDD968F  1061  1213/118  W31 W15 W32 W11 W4  5.0
+  2 Wang, Harvey           OPWBJ68G  1027  1232/ 70  W17 W29 W6  D7  W10 4.5
+  3 Yun, Daniel D          BCACK87Z  1241  1228/297  W19 L25 W27 W29 W14 4.0
+  4 Ma, Lewis              SOMC587M  1116  1161/ 87  W30 W27 W33 W10 L1  4.0
+  5 Wang, Hengsheen        EVGB704V   994  1095/ 69  W18 L6  W30 W33 W11 4.0
+  6 Kakkad, Vayu           DCTDK50L  1290  1268/495  W26 W5  L2  D20 W18 3.5
+  7 Li, Roy                IDXCY99P  1264  1204/ 10  L27 W31 W15 D2  W20 3.5
+  8 Kandar, Aarav          FISDK21U  1039  1030/ 45  W35 L33 W16 D19 W21 3.5
+  9 Zhang, Harvey          CHRD515V   953   977/ 45  L33 W36 D21 W22 W19 3.5
+ 10 Rachiba, Alisa         EVPDK08E  1249  1214/ 52  W28 W14 W25 L4  L2  3.0
+ 11 Babbar, Riaan          ENDDJ98D  1169  1126/ 10  W16 W34 W20 L1  L5  3.0
+ 12 Das, Sambuddha Sekhar  ENDDK47S  1163  1118/ 75  L20 W35 L19 W27 W29 3.0
+ 13 Jiang, Nathan          SCDDG71Q  1002   981/110  W21 L32 L17 W31 W26 3.0
+ 14 Chen, Julian           CNHBK32C   944   966/ 35  W37 L10 W38 W17 L3  3.0
+ 15 Wang, Evan             FRWD929Z   915   924/110  W40 L1  L7  W37 W32 3.0
+ 16 Liu, Bihe              KKNBB78J   850   882/ 61  L11 W40 L8  W34 W23 3.0
+ 17 Balaji, Arjun          CMCDH75P   817   961/ 53  L2  W22 W13 L14 W25 3.0
+ 18 Mahale, Avneesh        CNHB993F   728   898/ 86  L5  W26 W34 W25 L6  3.0
+ 19 Balasubramanian, ChidhuCNCCK94J   854   910/ 20  L3  W37 W12 D8  L9  2.5
+ 20 Hu, Yi-en Pi           BCADK35P   848   974/ 33  W12 W23 L11 D6  L7  2.5
+ 21 Ivanov, Matvei         EABCK34E   804   846/ 25  L13 W24 D9  W32 L8  2.5
+ 22 Vijay, Adith           SOMDD20K  1131  1042/ 35  L29 L17 W35 L9  W33 2.0
+ 23 Deng, Arthur           OPWCC90Y  1023   957/ 69  W36 L20 L29 W28 L16 2.0
+ 24 Reddy, Aarav           CAVDJ83W   962   814/  9  L32 L21 L37 W30 W36 2.0
+ 25 Fan, Theodore          EASBK42S   917   907/ 38  W39 W3  L10 L18 L17 2.0
+ 26 Wang, Wenyou           MEDDK93J   915   882/ 39  L6  L18 W36 W38 L13 2.0
+ 27 Zou, Jinhan            SSMDH14T   913   938/ 58  W7  L4  L3  L12 W35 2.0
+ 28 Pleasants, Gabriel     DCCD149G   911   848/ 53  L10 L38 W39 L23 W37 2.0
+ 29 Schasteen, Noble       DCCDA04C   848   918/ 27  W22 L2  W23 L3  L12 2.0
+ 30 Tan, Charlie           MEDC273V   838   804/ 49  L4  W39 L5  L24 W38 2.0
+ 31 Goel, Atharva          MRLD436Y   824   823/ 47  L1  L7  W40 L13 W34 2.0
+ 32 Vasamsetty, Chetan     SHFDJ38Y   722   779/ 41  W24 W13 L1  L21 L15 2.0
+ 33 Lew, Abigail           OPWD645P   708   824/105  W9  W8  L4  L5  L22 2.0
+ 34 Karthik, Sai           BCAD261S   917   828/108  W38 L11 L18 L16 L31 1.0
+ 35 Edelman, Charles       WOBDJ85E   821   737/ 10  L8  L12 L22 W39 L27 1.0
+ 36 Bhattacharjee, Satvik  TIMCE65Q   814   735/ 41  L23 L9  L26 W40 L24 1.0
+ 37 Verma, Satvik          WONCG80T   668   662/ 45  L14 L19 W24 L15 L28 1.0
+ 38 Chadha, Saahan         SHSDK64R   448   532/ 10  L34 W28 L14 L26 L30 1.0
+ 39 Lawrence, Peter        LKDCK33G   387   357/ 13  L25 L30 L28 L35 D40 0.5
+ 40 Anyanwu, Jayden        STKDK54D   105   121/ 14  L15 L16 L31 L36 D39 0.5

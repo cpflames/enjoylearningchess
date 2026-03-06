@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wu, Dennis             SCDDJ54B   829   885/192  D2  D3  W4  2.0
+  2 Song, Charlie          KJHIJ08F   925   912/ 38  D1  L4  W3  1.5
+  3 Bala, Anirudh          SNRGD50M   876   877/ 35  W4  D1  L2  1.5
+  4 Kuluru, Samith         LEOHI99K   872   848/203  L3  W2  L1  1.0

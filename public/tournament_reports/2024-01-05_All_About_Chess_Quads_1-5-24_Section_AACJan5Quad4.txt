@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yu, Eric               SOMBK25N   737   896/ 44  W4  W2  W3  3.0
+  2 Mahale, Avneesh        CNHB993F   860   866/ 95  W3  L1  W4  2.0
+  3 Abhilash, Lavina       CRIEK07R   691   690/ 66  L2  W4  L1  1.0
+  4 Sathyamurthy, Sreeshan BLWHJ24M   771   691/ 56  L1  L3  L2  0.0

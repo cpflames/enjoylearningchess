@@ -1,0 +1,28 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Raj, Jayahari          UHVJ227V  1301  1349/161  W20 W21 W16 W12 W7  5.0
+  2 Kissinger, Lou         HOMIK76W  1174  1181/ 25  L14 W26 W18 W7  W12 4.0
+  3 Vavilin, Caleb         CJSIK30C  1059  1150/ 20  W4  W6  L12 W21 W9  4.0
+  4 Young Byle, Tynan      SENJK829  1103  1167/144  L3  W13 W17 W11 W8  4.0
+  5 Gorlachev, David       FMPIK30B   839   947/ 25  W9  L11 W15 D6  W17 3.5
+  6 Cruz, Justin           PRHKJ91C  1107  1104/ 15  W13 L3  W14 D5  W16 3.5
+  7 Villanueva, Kirian     CPLIH895  1111  1149/216  W24 W14 W11 L2  L1  3.0
+  8 Holten, David          FFSKJ90X   729   854/ 10  W15 L12 W10 W18 L4  3.0
+  9 Smith, Christian       HSCJJ90K   272   530/ 10  L5  W19 W23 W16 L3  3.0
+ 10 Burleson, Mason        FMPIJ90W   882   856/ 10  W22 L16 L8  W24 W20 3.0
+ 11 Sears, Luke            PRHLK12B  1676  1601/ 20  W19 W5  L7  L4  W21 3.0
+ 12 Brinson, Ozzy          FMPJJ91B  1124  1129/ 10  W23 W8  W3  L1  L2  3.0
+ 13 Gahan, Antonio         CJSJK30A   778   771/ 20  L6  L4  D24 W27 W26 2.5
+ 14 Liksakov, Nathan       CCCJJ25Q   900   972/  5  W2  L7  L6  W22 D15 2.5
+ 15 Kozinchenko, Timothy   CCCJJ25P   900   767/  5  L8  W20 L5  W23 D14 2.5
+ 16 Wilson, Nadia          HSCJJ91A   890   820/ 10  W25 W10 L1  L9  L6  2.0
+ 17 Gorlachev, Veronica    FMPLK15T   850   835/ 20  L21 W24 L4  W26 L5  2.0
+ 18 Wonnell, Asher         FMPJJ90N   649   608/ 10  D26 W27 L2  L8  D22 2.0
+ 19 Bloomer, Dylan         HOMJK29K   523   480/ 14  L11 L9  BYE L20 W27 2.0
+ 20 Tsarenko, Joshua       ABEIJ25N   800   621/  5  L1  L15 W25 W19 L10 2.0
+ 21 Garcia, Diego          PRHKJ41D  1143  1082/ 10  W17 L1  W22 L3  L11 2.0
+ 22 Williams, Joseph       FMPJJ90P   680   648/ 10  L10 W25 L21 L14 D18 1.5
+ 23 Slattery, Hank         HOMJK29N   484   414/  9  L12 BYE L9  L15 D25 1.5
+ 24 Truong, Tein           PRHKK11W   781   730/ 19  L7  L17 D13 L10 BYE 1.5
+ 25 Bruns, Tyler           CCCJJ25L   900   313/  4  L16 L22 L20 BYE D23 1.5
+ 26 O'meara, Joshua        CCCKJ25K  1000   482/  5  D18 L2  W27 L17 L13 1.5
+ 27 Williams, Nathanael    FMPLJ90D   100   100/  9  BYE L18 L26 L13 L19 1.0

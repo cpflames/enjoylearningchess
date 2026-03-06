@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Khandelwal, Anay       CHRGA10L   608   631/ 32  W4  W3  L2  2.0
+  2 George, Ameya          EBSDK88Y   601   626/ 72  L3  W4  W1  2.0
+  3 Leon, Vikram           EBSBH74X   573   613/ 15  W2  L1  W4  2.0
+  4 Ram, Krishna           EBSCH76B   554   475/ 25  L1  L2  L3  0.0

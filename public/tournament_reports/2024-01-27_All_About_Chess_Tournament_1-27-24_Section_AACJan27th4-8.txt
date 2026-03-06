@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ghosh, Snehil          CBRE738T  1349  1360/121  W21 W14 W13 D2  W6  4.5
+  2 Pan, Peng-ruei         SSME759R  1225  1291/ 80  W15 W7  W4  D1  W3  4.5
+  3 Joshi, Yash            PFCH280R  1173  1190/162  W11 W8  W10 W13 L2  4.0
+  4 Ngu, Elliott           CGRG452U  1040  1070/120  W18 W9  L2  W10 W7  4.0
+  5 Mangla, Atharv         GRRDK07C   832   855/ 59  W22 L13 W23 W18 W14 4.0
+  6 Mehta, Shaan           WMEGK27A  1061  1035/ 15  W17 L10 W11 W8  L1  3.0
+  7 Dhameeja, Ved          GRREJ98F   950   943/ 73  W19 L2  W17 W15 L4  3.0
+  8 Juarez-caballero, CristSNIGD76Z   871   876/115  W20 L3  W12 L6  W15 3.0
+  9 Menezes, Ronit         CLHEK44M   749   735/ 32  W12 L4  L18 W20 W16 3.0
+ 10 Baruch, Noam           PHAEJ83G   709   874/ 13  BYE W6  L3  L4  W13 3.0
+ 11 Sharan, Aadya          EVJGJ59A   617   671/  9  L3  W22 L6  D12 W21 2.5
+ 12 Chung, Adrien          IMSGJ47D   600   679/  5  L9  W16 L8  D11 W18 2.5
+ 13 Ward, Benjamin         WMEGK32Q  1127  1071/ 25  W16 W5  L1  L3  L10 2.0
+ 14 Feng, Levi             SOMEJ59B   903   810/ 13  W23 L1  L15 W17 L5  2.0
+ 15 Verma, Ishaan          INGIJ58Z   665   710/  9  L2  W19 W14 L7  L8  2.0
+ 16 Brakenridge, Bryce     SOMFK89D   580   559/ 37  L13 L12 W22 W19 L9  2.0
+ 17 Malhotra, Sartaj       KNDFK69K   499   504/ 45  L6  W20 L7  L14 W22 2.0
+ 18 Yang, Maximilian       SOMF632J   404   526/ 39  L4  W21 W9  L5  L12 2.0
+ 19 Chitlangia, Rishi      LAVEJ60G   370   403/ 11  L7  L15 W21 L16 BYE 2.0
+ 20 Fong, Kennen           SOMFK45J   187   220/  9  L8  L17 BYE L9  W23 2.0
+ 21 Sarychev, Aleksei      GEKJJ98N   683   574/ 58  L1  L18 L19 W23 L11 1.0
+ 22 Lacroix, Charlie       PPPF767K   276   243/ 21  L5  L11 L16 BYE L17 1.0
+ 23 Burks, Oliver          SNIFK45G   100   100/  9  L14 BYE L5  L21 L20 1.0

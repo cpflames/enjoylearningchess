@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Huang, Clora           SOMEK31H   951  1109/ 50  W2  W4  W3  3.0
+  2 Pan, Peng-ruei         SSME759R  1094  1077/ 50  L1  W3  D4  1.5
+  3 Bikkula, Charan        BLMHJ23A   813   841/165  W4  L2  L1  1.0
+  4 Chaudhuri, Arihant     CHAE703E  1141  1065/229  L3  L1  D2  0.5

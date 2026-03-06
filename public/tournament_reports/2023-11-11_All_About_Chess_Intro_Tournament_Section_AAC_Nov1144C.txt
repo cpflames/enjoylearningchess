@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Abdelwahab, AbdelrahmanCMCFK03W   428   611/ 20  D7  W9  W4  W8  3.5
+  2 Chhay, Lincoln         CLHEK33V   654   693/  9  W10 W13 W5  L6  3.0
+  3 Sreeram, Vihaan        REEEK01U   477   591/  7  W11 L5  W7  W10 3.0
+  4 Malhotra, Sartaj       KNDFK69K   450   576/ 32  W12 W6  L1  W14 3.0
+  5 Baruch, Noam           PHAEJ83G   400   682/  4  W9  W3  L2  W11 3.0
+  6 Gandhi, Amrit          BNTEJ83F   400   721/  4  W17 L4  W8  W2  3.0
+  7 Jayasinghe, Sihas      RSAFJ83E   500   529/  4  D1  W17 L3  W13 2.5
+  8 Sarychev, Aleksei      GEKJJ98N   541   518/ 22  W14 W15 L6  L1  2.0
+  9 Ip, Evan               SOMEI14G   289   307/ 14  L5  L1  W18 W17 2.0
+ 10 Preyapongpisan, Angus  CLHFJ83D   500   468/  4  L2  W12 W15 L3  2.0
+ 11 Chea, Elena            SOMFJ83B   500   370/  4  L3  W18 W17 L5  2.0
+ 12 Richter, Sophia        CRIEJ83A   400   336/  4  L4  L10 W16 W15 2.0
+ 13 Hsieh, Cheryl          BLWFJ82X   500   298/  4  W16 L2  D14 L7  1.5
+ 14 Wilbur, Alex           IPEEJ82U   400   289/  4  L8  W16 D13 L4  1.5
+ 15 Jensen, Jacob          FCEEJ82T   400   160/  4  W18 L8  L10 L12 1.0
+ 16 Ray, Dylan             NCSEJ82S   400   100/  4  L13 L14 L12 W18 1.0
+ 17 Sajeeth, Samay         RKWEJ82R   400   100/  4  L6  L7  L11 L9  0.0
+ 18 Fong, Isaac            DISEJ82Q   400   100/  4  L15 L11 L9  L16 0.0

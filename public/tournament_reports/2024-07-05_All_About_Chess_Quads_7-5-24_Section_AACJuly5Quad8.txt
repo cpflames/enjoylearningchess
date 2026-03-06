@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sajeeth, Samay         RKWEJ82R   273   336/ 12  BYE W2  W3  3.0
+  2 Shin, Joshua           CRKBJ63R   212   222/ 66  W3  L1  BYE 2.0
+  3 Paidapathi, Kiaan      SHSBJ99C   253   179/ 91  L2  BYE L1  1.0

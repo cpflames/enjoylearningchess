@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xu, Zoe                SOMEG70A  1371  1391/299  W3  W4  W2  3.0
+  2 He, Oliver             ENDDK71V  1159  1176/245  W4  W3  L1  2.0
+  3 Higa, Jet              ADUN7934   859   899/ 58  L1  L2  W4  1.0
+  4 Sembium, Aditi         BCADK25W  1136  1063/222  L2  L1  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Saboo, Ishaan          EVJGJ59Q   725   750/ 41  W2  L4  W3  2.0
+  2 Bhasin, Palash         SNIFH95H   701   738/ 17  L1  W3  W4  2.0
+  3 Wang, Jacob Z          BLWFE71A   730   697/ 91  W4  L2  L1  1.0
+  4 Sarychev, Aleksei      GEKJJ98N   698   675/ 95  L3  W1  L2  1.0

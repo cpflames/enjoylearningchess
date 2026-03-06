@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Karthik, Sai           BCAD261S   963   963/ 99  W3  W4  D2  2.5
+  2 Ensz, Arlo             RHJHK62C   792   799/ 60  D4  W6  D1  2.0
+  3 Titterington, Henry    ENADJ88R   278   371/  6  L1  W5  W6  2.0
+  4 Doronin, Victor        BMNG335T   704   703/ 78  D2  L1  W5  1.5
+  5 Li, Chris              CNHCJ89W   100   133/  9  W6  L3  L4  1.0
+  6 Kenzhebayeva, Alira    PKRCJ83Z   200   100/  3  L5  L2  L3  0.0

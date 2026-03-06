@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chevuri, Tattva        REJGC06V  1087  1115/313  W6  W2  W5  W3  W4  5.0
+  2 Goel, Advit            CMCCG22F   823   851/ 63  W3  L1  W4  W5  W6  4.0
+  3 Satishkumar, Gautham   RCSEC88L   516   631/ 32  L2  W4  W6  L1  W5  3.0
+  4 Deepak, Sairaghav      PLKIA52Q   455   509/ 28  W5  L3  L2  W6  L1  2.0
+  5 Surenyants, Artem      NLAEJ61M   656   524/  8  L4  W6  L1  L2  L3  1.0
+  6 Chen, Logan            APODJ69K   633   460/ 10  L1  L5  L3  L4  L2  0.0

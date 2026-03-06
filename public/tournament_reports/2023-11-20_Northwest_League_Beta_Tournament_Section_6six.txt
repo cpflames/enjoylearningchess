@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Morgen, Briar          SQULJ72Z  1100  1081/  3  W5  W3  W2  3.0
+  2 Valeos, Connor         MDIIK41H   609   658/ 15  W8  W7  L1  2.0
+  3 Greer, Nathan          LYEK566W   596   653/ 17  W6  L1  W7  2.0
+  4 Simmons, Sean          SHMJH985   589   594/145  L7  W8  W6  2.0
+  5 Fransico-woodenlegs, JoMRDL680H   571   546/ 37  L1  L6  W8  1.0
+  6 Clarke, Jonathan       BLHJG05B   469   473/ 17  L3  W5  L4  1.0
+  7 Crediford, Nilay       FERJF28K   557   549/ 29  W4  L2  L3  1.0
+  8 Kerr, Ethan            BLHLJ06N   538   459/ 33  L2  L4  L5  0.0

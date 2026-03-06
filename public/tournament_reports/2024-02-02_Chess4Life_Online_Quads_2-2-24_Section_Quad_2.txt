@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhao, Dennis           OPWH525E  1243  1290/348  L3  W2  W4  2.0
+  2 He, Oliver             ENDDK71V  1327  1322/300  W4  L1  D3  1.5
+  3 Bansal, Vivaan         EVJJ452J  1266  1276/109  W1  L4  D2  1.5
+  4 Maharaja, Imai         HMNDK34K  1369  1333/148  L2  W3  L1  1.0

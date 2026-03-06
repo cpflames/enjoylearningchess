@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Gilani, Arsh           TMBIJ98T   924  1075/ 20  W2  W4  W3  3.0
+  2 Kandar, Aarav          FISDK21U   987  1010/ 68  L1  W3  W4  2.0
+  3 Goel, Advit            CMCCG22F   959   939/ 74  W4  L2  L1  1.0
+  4 Garg, Vihaan           CMCDJ10X   969   894/214  L3  L1  L2  0.0

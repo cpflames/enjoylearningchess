@@ -1,0 +1,110 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Suresh Balaji, Shri ThaSWRDK91T   689   801/ 89   W52  W58  W29  W27  W11 5.0
+  2 Hedstrom, Elliot       WEDCK92C   652   817/ 57   W19  W33  W30  W12  W14 5.0
+  3 Tharian, Isaac         TOPDK39K   457   708/ 36   W68  W95  W7   W24  W18 5.0
+  4 Lim, Oliver            DISCC58T   554   641/ 80   W47  D60  W43  W49  W20 4.5
+  5 Lagzdin, Mikhail       BCABJ96R   537   610/ 25   W105 D43  W60  W53  W23 4.5
+  6 Lawardy, Clayton       DCTCK13P   644   655/ 29   W92  W34  L14  W60  W30 4.0
+  7 Westerfield, Michael   EVGCJ68V   627   657/ 15   W64  W17  L3   W37  W32 4.0
+  8 Zhao, Emma             SSSCK28L   599   623/ 29   W82  W37  W39  L18  W24 4.0
+  9 Shing, Lucas           HZFCJ74H   578   570/ 40   L84  W77  W63  W59  W34 4.0
+ 10 Hu, Ryan               OPWAJ97N   566   589/ 53   W54  W40  L18  W39  W33 4.0
+ 11 Gorski, Corvin         KSTDJ74N   553   632/ 20   W85  W41  W61  W23  L1  4.0
+ 12 Velummylum, Xavier     SCDDK39X   542   622/ 19   W55  W42  W67  L2   W36 4.0
+ 13 Steele, John           NOWCJ55E   481   559/ 10   W95  W48  L23  W40  W44 4.0
+ 14 Muppalla, Vyom         OPWBK19F   479   632/ 20   W96  W72  W6   W25  L2  4.0
+ 15 Ma, Caroline           BCSBK93V   445   540/ 49   W69  W84  L24  W61  W26 4.0
+ 16 Berjis, Liana          MEDBB72R   438   522/104   W100 W83  L27  W72  W25 4.0
+ 17 Ta, Jaxson             KSTCJ54Z   402   535/ 14   W70  L7   WF   W28  W27 4.0
+ 18 Ni, Nicole             NPTDJ03A   311   517/ 10   W77  W50  W10  W8   L3  4.0
+ 19 Simons, Winston        LKDBK28S   265   488/ 15   L2   W70  W73  W79  W50 4.0
+ 20 Lam, Sebastian         OPWBJ97R   479   511/ 15   W86  D45  W79  W21  L4  3.5
+ 21 Yang, Katharine        LKDBK86C   446   463/ 54   D79  W104 W53  L20  W52 3.5
+ 22 Huang, Kohei           LKDDK27Z   307   374/ 10   D104 L79  W88  W55  W49 3.5
+ 23 Yang, Jonathan         LKDBK55R   681   644/ 47   W63  W76  W13  L11  L5  3.0
+ 24 Wang, Aaron            BCAC631T   615   604/ 73   W80  W35  W15  L3   L8  3.0
+ 25 Romero, Oliver         SNIDK44Z   588   565/ 23   W65  W59  W31  L14  L16 3.0
+ 26 Zhen, Liam             DCCC622V   584   538/122   W83  L39  W82  W35  L15 3.0
+ 27 Wang, Edda             FRWBK34Z   565   570/ 50   W66  W38  W16  L1   L17 3.0
+ 28 Grimm, Gia             EHADJ55G   517   474/ 29   W106 L61  W65  L17  W62 3.0
+ 29 Linseman, Aidan        HLYDJ89F   511   496/  8   W94  W44  L1   L36  W61 3.0
+ 30 Muthinti, Abhiram      RKWCK27S   475   494/ 34   W97  W62  L2   W38  L6  3.0
+ 31 Allyn, William         THOCJ48A   470   435/ 15   W98  W102 L25  L44  W64 3.0
+ 32 Alnatour, Zayn         WMEBK93Z   469   468/ 49   W99  L67  W84  W41  L7  3.0
+ 33 Bigelow, Atlas         WMEBJ61F   433   442/ 19   W88  L2   W66  W62  L10 3.0
+ 34 Chauhan, Kiana         CRKBK28R   430   449/ 29   W89  L6   W47  W76  L9  3.0
+ 35 Sharma, Sidarth        EVGBJ75G   425   416/ 37   W101 L24  W86  L26  W65 3.0
+ 36 Menezes, Kian          CLHBJ97B   385   419/ 23   L48  W96  W56  W29  L12 3.0
+ 37 Lawrence, Peter        LKDCK33G   378   394/ 27   W57  L8   W99  L7   W71 3.0
+ 38 Sharma, Samarth        EVGBJ75K   365   417/ 38   W107 L27  W48  L30  W72 3.0
+ 39 Douglas, Timothy       BNTBK28Z   362   423/ 28   W71  W26  L8   L10  W73 3.0
+ 40 Chang, Timothy         CBRDK44E   346   367/ 24   W108 L10  W69  L13  W75 3.0
+ 41 Tiwari, Ashwin         LKDBJ43F   343   371/ 15   W73  L11  W90  L32  W76 3.0
+ 42 Armstrong, Benjamin    EVGDK54R   336   336/ 24   W90  L12  L72  W95  W78 3.0
+ 43 Armstrong, Josephine   EVGBK86A   333   389/ 40   W103 D5   L4   W80  D45 3.0
+ 44 Lew, Theodore          OPWBK28X   325   370/ 59   W91  L29  W78  W31  L13 3.0
+ 45 Zhang, Jerry           BCACK64C   320   372/ 33   W102 D20  L49  W54  D43 3.0
+ 46 Demopulos, Arianna     EVGCK54N   289   357/ 30   L67  W68  L76  W94  W58 3.0
+ 47 Maheshwari, Om         LKDBJ61P   122   248/ 13   L4   W71  L34  W77  W79 3.0
+ 48 Magnin, Hugo           FAPBH94D   100   478/  5   W36  L13  L38  W63  W59 3.0
+ 49 Pradeepkumar, Adrit    LKDCK54S   624   545/ 68   D53  W81  W45  L4   L22 2.5
+ 50 Pham, Sienna           OPWD599W   514   446/ 25   W93  L18  D54  W85  L19 2.5
+ 51 Luo, Vivian            LKDDK84U   309   270/ 30   L76  L89  W100 D56  W85 2.5
+ 52 Kumar, Ashvik          LKDBK28T   285   293/ 15   L1   D88  W57  W91  L21 2.5
+ 53 Yang, Andrew           NOWBK28U   221   283/ 20   D49  W87  L21  L5   W88 2.5
+ 54 Park-brinck, August    WEDCJ54U   133   220/ 10   L10  W74  D50  L45  W91 2.5
+ 55 Westover, Thomas       NOWBJ54M   109   185/ 15   L12  D91  W87  L22  W82 2.5
+ 56 Iyer, Advit            HLYDH94C   300   278/  5   L59  W92  L36  D51  W80 2.5
+ 57 Barnes, Ethan          WEDCH94B   200   216/  5   L37  D80  L52  W87  W81 2.5
+ 58 Hanlon, Benjamin       LKDCK54U   548   467/ 43   L72  L1   W68  W89  L46 2.0
+ 59 Cavazzi, Duncan        SLBCJ61J   413   373/  9   W56  L25  W89  L9   L48 2.0
+ 60 Dai, Pax               NOWBJ68M   342   346/ 20   W74  D4   L5   L6   D69 2.0
+ 61 Zhao, Kevin            EVGDK54M   333   349/ 25   W75  W28  L11  L15  L29 2.0
+ 62 Patel, Kian            EVGBK55W   298   285/ 23   W78  L30  W75  L33  L28 2.0
+ 63 Sha, Ryan              MEDDJ87G   242   252/ 15   L23  W100 L9   L48  W99 2.0
+ 64 Young, Mariella        FAPBJ54Q   239   233/ 10   L7   L69  W70  W99  L31 2.0
+ 65 Stuart, Alicia         REECK41M   184   202/ 28   L25  W108 L28  W90  L35 2.0
+ 66 Bilanko, Beau          LKDCJ68T   122   139/ 15   L27  W107 L33  L78  W1012.0
+ 67 Farkas, Connor         PERDH94A   300   603/  3   W46  W32  L12  U    U   2.0
+ 68 Marshall, Gavin        LKDDH93Z   300   269/  5   L3   L46  L58  W102 W92 2.0
+ 69 Xia, Eric              LKDBH93Y   100   251/  5   L15  W64  L40  D82  D60 2.0
+ 70 Johnson, Max           WEDCH93X   200   219/  5   L17  L19  L64  W106 W93 2.0
+ 71 Kuo, Nathan            PKRBH93W   100   174/  5   L39  L47  W106 W93  L37 2.0
+ 72 Wallace, Jozy          LKDDH93V   300   391/  5   W58  L14  W42  L16  L38 2.0
+ 73 Kuo, Max               NOWBH93U   100   233/  5   L41  W105 L19  W92  L39 2.0
+ 74 Armitage, Matthias     LKDCH93T   200   100/  5   L60  L54  L93  W100 W94 2.0
+ 75 Peechara, Aman         HLYDH93S   300   179/  5   L61  W97  L62  W84  L40 2.0
+ 76 Zhao, Benjamin         IPECH93R   200   332/  5   W51  L23  W46  L34  L41 2.0
+ 77 Mody, Jeet             LKDDH93P   300   226/  5   L18  L9   W96  L47  W95 2.0
+ 78 Gordon, Tessa          LKDDH93N   300   169/  5   L62  W94  L44  W66  L42 2.0
+ 79 Gaddam, Aryan          RKWBJ99T   546   445/ 21   D21  W22  L20  L19  L47 1.5
+ 80 Moultray, Jordan       LKDCK54G   202   181/ 20   L24  D57  W103 L43  L56 1.5
+ 81 Zhong, Dirk            NOWBJ54P   189   120/ 10   D87  L49  L91  W86  L57 1.5
+ 82 Scott, Duncan          WEDCJ54Y   188   175/ 10   L8   W101 L26  D69  L55 1.5
+ 83 Rogers, Madeleine      LKDDC58E   182   162/ 12   L26  L16  HPB  HPB  HPB 1.5
+ 84 Stark, Lachlan         LKDBK28V   174   186/ 15   W9   L15  L32  L75  D89 1.5
+ 85 Heart-myers, Alice     VIWCJ70F   117   100/ 27   L11  D103 WF   L50  L51 1.5
+ 86 Halabi, Alexa-grace    EHACJ12Z   100   100/ 10   L20  W93  L35  L81  D90 1.5
+ 87 Robertson, Zoe         LKDCK28G   100   100/ 14   D81  L53  L55  L57  W96 1.5
+ 88 Li, Isaac              ETSBH93M   100   139/  5   L33  D52  L22  W103 L53 1.5
+ 89 Gahlot, Meera          EBSCH93L   200   184/  5   L34  W51  L59  L58  D84 1.5
+ 90 Cho, Ayla              SYRCH93K   200   100/  5   L42  W106 L41  L65  D86 1.5
+ 91 Yip, Jacob             LKDCH93J   200   100/  5   L44  D55  W81  L52  L54 1.5
+ 92 Luo, Sophie            LKDBK85X   240   162/ 30   L6   L56  W101 L73  L68 1.0
+ 93 Starbird, Henry        LKDBJ54E   100   100/ 10   L50  L86  W74  L71  L70 1.0
+ 94 Rogers, Charlotte      NOWBJ54H   100   100/ 10   L29  L78  W108 L46  L74 1.0
+ 95 Starbird, Thomas       LKDDJ54V   100   100/ 10   L13  L3   W102 L42  L77 1.0
+ 96 Burks, Thomas          LKDCJ54T   100   100/  9   L14  L36  L77  BYE  L87 1.0
+ 97 Didelius, Pearce       LKDBJ54F   100   108/  7   L30  L75  W109 U    U   1.0
+ 98 Fernandez, Tomas       EPIDJ42M   100   100/  5   L31  BYE  LF   U    U   1.0
+ 99 Pollock, Connor        ARHBH93H   100   100/  5   L32  W109 L37  L64  L63 1.0
+100 Hernandez Mcintyre, LeoLKDDH93G   300   100/  5   L16  L63  L51  L74  W1091.0
+101 Cimic, Emir            LKDCH93F   200   100/  5   L35  L82  L92  W109 L66 1.0
+102 Ji, Max                LKDBH93E   100   100/  5   L45  L31  L95  L68  W1061.0
+103 Cimic, Eyden           LKDBH93C   100   100/  4   L43  D85  L80  L88  U   0.5
+104 Israel, Miles          PERCH93B   200   229/  2   D22  L21  LF   U    U   0.5
+105 Bhangare, Aarya        LKDBK85B   100   100/  4   L5   L73  LF   U    U   0.0
+106 Hanlon, Eleanor        LKDCK53X   100   100/ 29   L28  L90  L71  L70  L1020.0
+107 Falk, Emi              IPECH93A   200   100/  2   L38  L66  LF   U    U   0.0
+108 Xiao, Sophia           LKDDH92Z   300   100/  3   L40  L65  L94  U    U   0.0
+109 Mooney, Kiera          LKDCH92Y   200   100/  4   U    L99  L97  L101 L1000.0

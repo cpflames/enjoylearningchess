@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sabarish, Ananya       BCADG02Z   732   906/132  W4  W2  W3  3.0
+  2 Chaturvedi, Raghav     TYEIK75J   937   930/123  W3  L1  W4  2.0
+  3 Yu, Eric               SOMBK25N   748   737/ 41  L2  W4  L1  1.0
+  4 Lishchenko, Leonid     HSCBJ99A   762   662/  9  L1  L3  L2  0.0

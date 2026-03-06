@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ge, Jeremy             SSMBJ88K   100   486/  3  W4  D2  W3  2.5
+  2 Krogstad, Jaiden       NCSEJ88J   400   486/  3  W3  D1  W4  2.5
+  3 Nandakiran, Advaith    SSMBJ88H   100   100/  3  L2  D4  L1  0.5
+  4 Brakenridge, Ryan      SOMBK05L   100   100/ 11  L1  D3  L2  0.5

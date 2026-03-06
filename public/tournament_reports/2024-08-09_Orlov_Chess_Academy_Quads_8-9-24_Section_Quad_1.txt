@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ackerman, Ryan         ADUNC514  1929  1930/241  W3  W4  W2  3.0
+  2 Bhaskara, Yash         ICKJI539  1363  1355/340  D4  W3  L1  1.5
+  3 Fan, Theodore          EASBK42S   987  1027/ 70  L1  L2  W4  1.0
+  4 Arun, Advaith          STLJ777F  1178  1154/ 94  D2  L1  L3  0.5

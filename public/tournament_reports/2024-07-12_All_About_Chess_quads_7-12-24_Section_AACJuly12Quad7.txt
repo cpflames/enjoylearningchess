@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Patrick         SSSBK01J   532   615/106  W2  W3  W4  3.0
+  2 Sajeeth, Samay         RKWEJ82R   336   380/ 15  L1  W5  W6  2.0
+  3 Nam, Alex              BLWDH75Q   473   448/ 34  D4  L1  W5  1.5
+  4 Mirchandani, Kavir     MEDBJ97A   100   206/ 34  D3  W6  L1  1.5
+  5 Mirchandani, Kiaan     MEDDK92Z   382   297/ 45  D6  L2  L3  0.5
+  6 Paidapathi, Kiaan      SHSBJ99C   179   141/ 94  D5  L4  L2  0.5

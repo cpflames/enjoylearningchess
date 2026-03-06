@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yu, Eric               SOMBK25N   851   961/ 80  W2  W4  W3  3.0
+  2 Huang, Jaden           ENDCJ63S   773   827/ 85  L1  W3  W4  2.0
+  3 Sarychev, Aleksei      GEKJJ98N   821   794/119  W4  L2  L1  1.0
+  4 Wang, Jacob Z          BLWFE71A   780   709/121  L3  L1  L2  0.0

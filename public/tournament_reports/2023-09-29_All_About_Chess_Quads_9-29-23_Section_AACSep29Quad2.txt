@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Veiga, Gabriel         REJHJ31Y  1147  1272/138  W3  W4  W2  3.0
+  2 Han, Victor            HSCFB39P  1161  1191/122  W4  W3  L1  2.0
+  3 Joshi, Yash            PFCH280R  1185  1161/130  L1  L2  W4  1.0
+  4 Narayan, Bhargav       EVJID962  1176  1108/194  L2  L1  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Arwen           SOME484A   791   909/ 64  W4  W3  W2  3.0
+  2 Bidasaria, Kush        PFCH357C   767   797/ 86  W3  W4  L1  2.0
+  3 Mahale, Avneesh        CNHB993F   749   727/ 70  L2  L1  W4  1.0
+  4 Sathyamurthy, Sreeshan BLWHJ24M   727   655/ 42  L1  L2  L3  0.0

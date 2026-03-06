@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Sreeram, Aditya        CEIE340K   715   764/ 40  W6  W8  W4  W3  L2  4.0
+  2 Bilguun, Telmuun       PKWEK18D   662   732/ 10  W11 W12 L3  W6  W1  4.0
+  3 Pole, Davis            CMBEH99E   597   737/ 10  W14 W10 W2  L1  W5  4.0
+  4 Yang, Allen            BASEK17F   225   490/  9  W5  W13 L1  W7  W9  4.0
+  5 Goolla, Vihaas         DHLE487Q   615   614/ 24  L4  W11 W14 W10 L3  3.0
+  6 Varala, Anish          DHLFK16J   581   609/ 14  L1  W15 W12 L2  W10 3.0
+  7 Zhou, Nolan            MRLF280K   586   492/ 58  L12 D9  WF  L4  W11 2.5
+  8 Collinson, Flynn       WEDFJ76E   361   364/ 22  W15 L1  L10 D12 BYE 2.5
+  9 Vallela, Likhith Reddy DHLDK17S   294   329/ 14  L10 D7  W15 W14 L4  2.5
+ 10 Dixit, Shivaan         LMADK18F   941   819/ 16  W9  L3  W8  L5  L6  2.0
+ 11 Cozad, Chloe           MCGE531M   273   269/ 66  L2  L5  BYE W13 L7  2.0
+ 12 Castaneda, Cristian    RFPFH75X   500   387/  5  W7  L2  L6  D8  D14 2.0
+ 13 Bhatia, Saanvi         DISD761T   247   222/ 29  HPB L4  LF  L11 W15 1.5
+ 14 Liu, Amelia            ENADH97V   175   169/  9  L3  BYE L5  L9  D12 1.5
+ 15 Peters, Tyler          CBRDH75W   300   100/  4  L8  L6  L9  BYE L13 1.0

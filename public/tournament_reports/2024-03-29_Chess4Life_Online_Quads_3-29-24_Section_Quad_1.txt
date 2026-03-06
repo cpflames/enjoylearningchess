@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Patel, Aarya           REEFK30E  1493  1526/139  W4  W2  D3  2.5
+  2 Sinha, Agastya         BRHEA75C  1364  1416/206  W3  L1  W4  2.0
+  3 He, Oliver             ENDDK71V  1568  1546/347  L2  W4  D1  1.5
+  4 Hildenbrand, Blane     PSMI122V  1367  1323/302  L1  L3  L2  0.0

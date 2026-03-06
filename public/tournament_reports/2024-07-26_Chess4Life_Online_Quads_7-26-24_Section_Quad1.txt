@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ganesan, Vidur         RBRE940K  1282  1419/235  W2  W3  W4  3.0
+  2 Patel, Aarya           REEFK30E  1393  1386/173  L1  W4  D3  1.5
+  3 Singh, Rushil          TWFGB52N  1390  1384/142  W4  L1  D2  1.5
+  4 Joshi, Vyom            LEOIH81X  1322  1267/288  L3  L2  L1  0.0

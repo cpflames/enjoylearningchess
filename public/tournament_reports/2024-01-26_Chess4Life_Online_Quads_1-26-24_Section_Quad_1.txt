@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Palathingal, Rafael    KKNE196R  1647  1661/119  W2  D4  W3  2.5
+  2 Kunisetty, Chekresh    ENSFK99L  1417  1479/ 70  L1  W3  W4  2.0
+  3 Bimod, Karthik         SLLHW89E  1557  1534/ 77  W4  L2  L1  1.0
+  4 Chan, Aiden            COGI917M  1507  1475/134  L3  D1  L2  0.5

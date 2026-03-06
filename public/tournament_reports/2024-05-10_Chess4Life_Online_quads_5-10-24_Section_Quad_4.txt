@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Liao, Joe              MEDGE93Z   574   667/ 41  W4  W3  W2  3.0
+  2 Mehrotra, Ashank       PLKI457S   545   557/ 46  W3  W4  L1  2.0
+  3 Lee, Julianus          CDWDK90C   516   475/ 26  L2  L1  W4  1.0
+  4 Gao, Eason             CHRDH75U   209   169/  6  L1  L2  L3  0.0

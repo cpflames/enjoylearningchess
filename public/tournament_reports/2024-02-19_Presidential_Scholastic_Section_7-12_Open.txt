@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Belgau, Stephen        JFMIK76X  1473  1585/ 64  W22 W10 D2  W9  W4  4.5
+  2 Wirkkala, Zane         HSCKC64H  1650  1657/ 54  W24 W13 D1  D4  W10 4.0
+  3 Mandhana, Aarav        KMNI434A  1414  1440/ 73  W16 W20 L4  W19 W11 4.0
+  4 Ayalew, Brook          DCCIJ71Q  1580  1594/ 10  W25 W11 W3  D2  L1  3.5
+  5 Seela, Shashank        EVJHI74N  1623  1583/208  W12 L9  W21 L10 W14 3.0
+  6 Zhang, Owen            FHVI995H  1528  1497/257  W14 D21 D9  L11 W17 3.0
+  7 Liu, Bichen            KKNHK00D  1515  1495/116  L21 W8  D14 W15 HPB 3.0
+  8 Urali, Sanjay          OMSG315D  1458  1443/371  D15 L7  W23 W21 D9  3.0
+  9 Hildenbrand, Blane     PSMI122V  1385  1431/275  W17 W5  D6  L1  D8  3.0
+ 10 Stroud, Jeb            FHVIK22V  1373  1408/ 98  W23 L1  W18 W5  L2  3.0
+ 11 Kakkad, Vayu           DCTDK50L  1336  1358/509  W19 L4  W20 W6  L3  3.0
+ 12 Zhao, Dennis           OPWH525E  1290  1294/353  L5  W15 L19 W18 W20 3.0
+ 13 Avula, Varshith Reddy  RHJH110R  1375  1352/217  W18 L2  D16 L14 W19 2.5
+ 14 Bhaskara, Yash         ICKJI539  1228  1294/293  L6  W17 D7  W13 L5  2.5
+ 15 Chopra, Aaryaman       BISIK30K  1208  1243/ 74  D8  L12 W22 L7  W21 2.5
+ 16 Joshi, Vyom            LEOIH81X  1197  1218/246  L3  W24 D13 L17 W22 2.5
+ 17 Bhargava, Saarth       STLIF29W  1196  1188/ 90  L9  L14 BYE W16 L6  2.0
+ 18 Kosau, Mikhail         OMSIG08J  1156  1174/ 34  L13 W25 L10 L12 W24 2.0
+ 19 Vutukuri, Niharika     REJHB12L  1051  1071/ 85  L11 BYE W12 L3  L13 2.0
+ 20 Frohbieter, Dominic    HABIK76U  1084  1087/ 29  BYE L3  L11 W23 L12 2.0
+ 21 Chatterjee, Sasmit     RHJIH23M  1228  1242/ 89  W7  D6  L5  L8  L15 1.5
+ 22 Lu, Jacob              BLMII11F  1215  1186/319  L1  D23 L15 W25 L16 1.5
+ 23 Villanueva, Kirian     CPLIH895  1149  1135/221  L10 D22 L8  L20 W25 1.5
+ 24 Talathi, Shrey         SMSGK61Z  1299  1210/187  L2  L16 L25 BYE L18 1.0
+ 25 Bansal, Vivaan         EVJJ452J  1276  1205/114  L4  L18 W24 L22 L23 1.0

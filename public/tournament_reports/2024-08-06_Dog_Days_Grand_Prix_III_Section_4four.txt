@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Melnik, Mark           TCIDH69M   293   464/ 15  W9  W5  W3  3.0
+  2 Neff, Joseph           CCXDH69L   382   383/ 22  L3  W4  W8  2.0
+  3 Louws, Micah           CUEBJ16B   287   375/ 34  W2  W7  L1  2.0
+  4 Russell, Huxley        BLEDH73W   198   223/ 19  BYE L2  W7  2.0
+  5 Khadimi, Matin         CEEFH67V   349   328/  9  W8  L1  D6  1.5
+  6 Neff, William          CCXBH69K   213   188/ 20  L7  BYE D5  1.5
+  7 Gilday, Finn           CIAEJ17C   307   257/ 25  W6  L3  L4  1.0
+  8 Hardin, Noah           LYADH68E   221   197/ 12  L5  W9  L2  1.0
+  9 Khadimi, Mohadissa     CEEDH66Q   300   100/  2  L1  L8  BYE 1.0

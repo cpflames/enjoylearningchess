@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mangla, Atharv         GRREK07C   596   624/ 31  W4  W3  D2  2.5
+  2 Brakenridge, Bryce     SOMFK89D   498   578/ 27  W3  W4  D1  2.5
+  3 Bysani, Aakash         SSMBK01D   454   432/ 23  L2  L1  W4  1.0
+  4 Balaji, Pranav         INGGJ96J   424   289/  6  L1  L2  L3  0.0

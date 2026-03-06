@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lahue, Ihsan           WAVIJ69P   957  1037/132  D4  W2  W3  2.5
+  2 Singh, Atharva         SKIHK06G   956   989/ 26  W3  L1  W4  2.0
+  3 Pandian, Arjun         HSCFD93L   985   956/ 40  L2  W4  L1  1.0
+  4 Goel, Advit            CMCCG22F   956   909/ 83  D1  L3  L2  0.5

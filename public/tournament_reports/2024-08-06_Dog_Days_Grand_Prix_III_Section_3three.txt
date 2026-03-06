@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mcneil, Mason          VSTGJ49Y   551   791/ 32  W8  W2  W3  3.0
+  2 Fine-gucker, Logan     EAGE535R   707   732/108  W4  L1  W6  2.0
+  3 Neff, Josiah           CCXGH69Q   707   723/ 24  W6  W7  L1  2.0
+  4 Smith, Benjamin        BLEDG44D   644   637/ 48  L2  D8  W7  1.5
+  5 Crompton, Callum       FACFE89B   687   628/ 77  L7  L6  W8  1.0
+  6 Russell, Emerson       BLEFK23A   616   602/ 85  L3  W5  L2  1.0
+  7 Jobes, Tobin           HSCGH67G   490   508/  6  W5  L3  L4  1.0
+  8 Kaur, Prabhkirat       IREEE41C   701   636/ 41  L1  D4  L5  0.5

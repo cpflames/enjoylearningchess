@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Grewal, Harshan        FACIK33H  1105  1147/ 63  W7  W2  D3  2.5
+  2 Peterson, Kylan        MRDM175Q  1148  1149/ 91  W4  L1  W5  2.0
+  3 Luna, Max              FERKJ85Y  1062  1072/ 26  D8  W5  D1  2.0
+  4 Moors, Samuel          BLHJH93D   868   918/ 96  L2  W7  W6  2.0
+  5 Mendez, Efrain         MRDLJ85N  1069  1013/ 10  W6  L3  L2  1.0
+  6 Qureshi, Danish        BLNGF36V   828   814/111  L5  W8  L4  1.0
+  7 Mcloughlin, Vaughn     CUEFK36N   797   796/ 45  L1  L4  W8  1.0
+  8 Rennie, Elias          BVEFH77C   833   757/  8  D3  L6  L7  0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Gollapally, Arnav      BLMJ499J  1337  1324/141  D2  W4  W3  2.5
+  2 Leon, Nikhil           EBSF587T   886   993/120  D1  W3  W4  2.5
+  3 Mangla, Atharv         GRRDK07C   791   776/107  D4  L2  L1  0.5
+  4 Cheruku, Adhrith       RCSE827Q   849   822/ 93  D3  L1  L2  0.5

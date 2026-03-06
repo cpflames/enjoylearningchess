@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hildenbrand, Jace      TCEF722T  1056  1062/142  W3  W6  L2  2.0
+  2 Rennie, Elias          BVEFH77C   966   987/ 29  W5  L4  W1  2.0
+  3 Cleary, Matteo         SMWEJ17L   907   914/ 15  L1  W5  WF  2.0
+  4 Buckham, George        SKYCK37E   927   902/ 71  L6  W2  L5  1.0
+  5 Triano, Tony           SKYEJ17K   852   843/ 39  L2  L3  W4  1.0
+  6 Naranjo-romero, Enoch  FERKH65S  1000   981/  2  W4  L1  LF  1.0

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Iyer, Sathvik          RCSFJ28H   466   587/ 23  W4  W3  W2  3.0
+  2 Suresh, Shruti         MTWE650Q   385   409/ 34  W5  W4  L1  2.0
+  3 Cummings Nasief, Jovi  PL1GX82J   458   409/ 11  D6  L1  W5  1.5
+  4 Lu, Tianmu             BVSEH97W   368   319/  8  L1  L2  W6  1.0
+  5 Nori, Vishnu Vallabha  CBRAJ06A   100   120/ 10  L2  W6  L3  1.0
+  6 Suresh, Anirudh        BRHAJ55Q   100   100/  9  D3  L5  L4  0.5

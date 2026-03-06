@@ -1,0 +1,35 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Whalen, Jack           TRHGK96P  1013  1133/ 28  W14 W10 W9  W4  W3  5.0
+  2 Geelhood, Alec         CDKII90A   932   996/ 89  W28 D12 W17 W9  W8  4.5
+  3 Ramos, Zachary         DEHGK71L  1029  1053/ 26  W22 W11 W7  W8  L1  4.0
+  4 Hong, Sidney           JMLG478H   877   937/ 93  W30 W21 W6  L1  W13 4.0
+  5 Chavez, Jessie         BMCFK53S   832   848/ 20  W31 W18 L8  W16 W10 4.0
+  6 Fultz, Heath           JMLH853S  1040  1001/ 45  D17 W27 L4  W29 W12 3.5
+  7 Gogic, Arian           JMLHK96A   889   887/ 35  W23 W19 L3  D12 W17 3.5
+  8 Yuan, Edward           LECFK69S   987   968/ 68  W15 W13 W5  L3  L2  3.0
+  9 Vasquez, Mateo         MCUEK26G   892   873/ 80  W24 W20 L1  L2  W18 3.0
+ 10 Allmon, Jeremiah       JMLHJ81X   760   751/ 10  W25 L1  W30 W26 L5  3.0
+ 11 Kermani, Kirabella     LLMHG24N   692   697/115  W29 L3  L12 W23 W25 3.0
+ 12 Hall, Grayden          JMLHK68M   691   785/ 29  W26 D2  W11 D7  L6  3.0
+ 13 Lara, Salvador         STPHK68N   679   688/ 27  W16 L8  W31 W27 L4  3.0
+ 14 Mauseth, Shannon       JMLG483U   555   578/ 40  L1  W25 L16 W31 W26 3.0
+ 15 Sanborn, Ryder         JMLGJ81E   550   519/ 10  L8  L29 W33 W32 W27 3.0
+ 16 Prasad, Sonali         JMLHK68K   286   528/ 24  L13 W23 W14 L5  W19 3.0
+ 17 Cress, Emmett          JMLHH54B   566   656/ 37  D6  W22 L2  W21 L7  2.5
+ 18 Gonzalez, Blanca       JMLHJ81M   163   323/  9  BYE L5  D21 W20 L9  2.5
+ 19 Espinoza, Alejandro    JMLGJ81G   670   546/ 10  W34 L7  L26 W30 L16 2.0
+ 20 Wallace, Brandon       JMLGF29H   585   520/ 25  W32 L9  D29 L18 D21 2.0
+ 21 Miranda, Santiago      STPH437Y   578   536/ 80  W33 L4  D18 L17 D20 2.0
+ 22 Saenz, Abigail         STPG672R   565   518/ 40  L3  L17 L32 W33 W29 2.0
+ 23 Wallace, Madysyn       JMLIJ81U   506   488/ 10  L7  L16 W34 L11 W30 2.0
+ 24 Thompson, Ayden        JMLIJ98S   490   434/ 33  L9  W32 L27 L25 W31 2.0
+ 25 Kresse, Matthew        JMLIJ81N   387   430/ 10  L10 L14 W28 W24 L11 2.0
+ 26 Li, Junyi              IDXHY99G   335   413/ 10  L12 W28 W19 L10 L14 2.0
+ 27 Wright, Andrew         JMLIK95Q   123   194/ 22  BYE L6  W24 L13 L15 2.0
+ 28 Clayton, Slade         JMLIJ81T   520   395/ 10  L2  L26 L25 D34 W32 1.5
+ 29 Ramirez, Izabel        MTPGA77W   367   393/ 35  L11 W15 D20 L6  L22 1.5
+ 30 Jones, Devon           JMLG407J   485   424/ 69  L4  W33 L10 L19 L23 1.0
+ 31 Evans, Daymein         STPI267E   391   347/ 18  L5  W34 L13 L14 L24 1.0
+ 32 Perez-serrano, ChristiaSTPGJ80U   223   225/ 10  L20 L24 W22 L15 L28 1.0
+ 33 Foster, Kolbi          JMLIJ62M   800   195/  5  L21 L30 L15 L22 W34 1.0
+ 34 Mendoza-ramirez, DanielSTPGJ80V   229   150/ 10  L19 L31 L23 D28 L33 0.5

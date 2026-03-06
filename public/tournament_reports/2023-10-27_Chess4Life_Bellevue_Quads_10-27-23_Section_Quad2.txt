@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Fang, Weiai            THRD696W   814   835/174  U   D3  W2  1.5
+  2 Tan, Charlie           MEDC273V   856   838/ 44  W3  U   L1  1.0
+  3 Nagpal, Ronen          WMEEK13Q   660   658/ 24  L2  D1  U   0.5

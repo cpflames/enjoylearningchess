@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Ghosh, Snehil          CBRE738T  1199  1208/ 96  W2  BYE 2.0
+  2 Yang, Nicholas         CHRDG23U   893   907/ 78  L1  W3  1.0
+  3 Friesen, Eli           PKRDK27G   820   794/ 17  BYE L2  1.0

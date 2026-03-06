@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dhameeja, Ved          GRREJ98F   747   824/ 50  D2  W4  W3  2.5
+  2 Shimao, Alexander      GRRHG77V   715   810/ 86  D1  W3  W4  2.5
+  3 Zhang, Amy             SOMDC03P   782   742/ 74  W4  L2  L1  1.0
+  4 Berjis, Adrina         MEDE230U   643   585/ 90  L3  L1  L2  0.0

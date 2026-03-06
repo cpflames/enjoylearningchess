@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Cheng, Selina          DCCG413R  1526  1669/488  W2  W5  W6  W3  W4  5.0
+  2 Deng, Lily             HHSK5007  1770  1740/361  L1  W6  W4  W5  L3  3.0
+  3 Zhang, Iris            TMBJ858X  1660  1647/377  W6  L4  W5  L1  W2  3.0
+  4 Li, Emma               LSSJ521Q  1578  1549/358  L5  W3  L2  W6  L1  2.0
+  5 Duran, Violet          TXXGZ87W  1273  1311/  4  W4  L1  L3  L2  WF  2.0
+  6 Lakshminarayanan, KaavyOMSH210E  1071  1064/ 75  L3  L2  L1  L4  LF  0.0

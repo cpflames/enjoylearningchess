@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chou, Jocelyn          RHJGJ88W   600   425/  3  W2  L4  W3  2.0
+  2 Li, Ryan               BUSBJ88U   100   425/  3  L1  W3  W4  2.0
+  3 Koster, John           SPTAJ88T   100   225/  3  W4  L2  L1  1.0
+  4 Chen, Zachary          PKRFJ88S   500   225/  3  L3  W1  L2  1.0
+
+ All Unrated-player Section: Ratings capped at 1000

@@ -1,0 +1,34 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Merriman, Dann         WMNEF79Y  1618  1674/544  HPB W12 W21 W4  W3  4.5
+  2 Kokati, Pranav         OMSI814P  1487  1520/265  W31 W21 L4  W11 W10 4.0
+  3 Chen, Andy             SOMDK05J  1481  1573/ 21  W13 W23 W5  W7  L1  4.0
+  4 Condit, Noah           KMDIA59Q  1456  1523/162  WF  W26 W2  L1  W9  4.0
+  5 Davies, Cedric         ADUN184T  1646  1647/ 25  W25 W8  L3  D9  W16 3.5
+  6 Ogier, Alix            SAMKC70T  1526  1533/ 25  D12 W29 HPB W13 D7  3.5
+  7 Long, Phil             ADONU48K  1476  1538/ 16  W18 W24 W16 L3  D6  3.5
+  8 Marinescu, Andra       ADUN412W  1435  1477/ 30  W14 L5  HPB W24 W20 3.5
+  9 Hamlett, James         ADUN4372  1499  1509/ 99  W28 W22 HPB D5  L4  3.0
+ 10 Shih, Tai              OVLHE60P  1443  1437/223  D29 W15 HPB W27 L2  3.0
+ 11 Dhawan, Viraj          OVLHI96U  1340  1366/ 89  D16 W19 HPB L2  W26 3.0
+ 12 Dale, Luke             MTSKJ10P  1325  1355/ 96  D6  L1  D30 W21 W27 3.0
+ 13 Yuan, Chen             ETSCJ15Z  1294  1350/ 89  L3  W32 W17 L6  W22 3.0
+ 14 Anand, Lakshana        RSAFC68H  1193  1269/ 92  L8  L17 W32 W25 W23 3.0
+ 15 Blue-day, Alexander    ADUNK60J  1126  1243/ 18  D20 L10 HPB W29 W28 3.0
+ 16 Siddem, Sid            RHJKC34V  1643  1603/487  D11 W20 L7  W28 L5  2.5
+ 17 Foltenyi, Vilmos       ADUNK09V  1422  1374/ 15  L26 W14 L13 W31 D18 2.5
+ 18 Pai, Vihaan            CHAEK17C  1288  1296/189  L7  D28 W19 D22 D17 2.5
+ 19 Mishra, Aakash         EBSE439K   955  1006/ 93  HPB L11 L18 W33 W30 2.5
+ 20 Shih, Bei              OVLF630G  1431  1394/225  D15 L16 HPB W30 L8  2.0
+ 21 Koppala, Venu          GRSNI95S  1429  1396/ 20  W33 L2  L1  L12 W31 2.0
+ 22 Shook, Stephan         ADUNJ89J  1423  1376/  4  W32 L9  HPB D18 L13 2.0
+ 23 Shankaranand, Deeksha  EBSFI74Y  1387  1345/258  W30 L3  HPB D26 L14 2.0
+ 24 Shah, Kanav            LMAF295Q  1354  1341/134  W27 L7  D26 L8  HPB 2.0
+ 25 Pantea, Joshua         ABEJK63M  1348  1306/ 26  L5  W33 L27 L14 W32 2.0
+ 26 Chang, Allen           ADUNK02T  1256  1277/ 11  W17 L4  D24 D23 L11 2.0
+ 27 Tang, Hsiang-ju        CMHKJ89H  1000  1253/  5  L24 W31 W25 L10 L12 2.0
+ 28 Koppala, Sambhav       SKRHG20G  1307  1281/122  L9  D18 W29 L16 L15 1.5
+ 29 Li, Edgar              WOBD883Y  1239  1214/177  D10 L6  L28 L15 W33 1.5
+ 30 Wani, Vivaan Vikram    GTMIK15E   837   842/ 30  L23 BYE D12 L20 L19 1.5
+ 31 Joseph, Veronique      SJOEJ04S  1303  1246/152  L2  L27 W33 L17 L21 1.0
+ 32 Zhang, Aaron           RSAEC74T  1104  1061/ 81  L22 L13 L14 BYE L25 1.0
+ 33 Raj, Skandha           EVGBK55U  1125  1043/ 72  L21 L25 L31 L19 L29 0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Qin, Skyler            OPWAJ97T   828   923/ 65  W3  W4  W2  3.0
+  2 Sankrithi, Vivaan      HSCAK61R   857   859/ 78  W4  W3  L1  2.0
+  3 Charuvil Vinu, Suryen  RSHAJ89R   736   715/ 28  L1  L2  W4  1.0
+  4 Hu, Ryan               OPWAJ97N   576   537/ 38  L2  L1  L3  0.0

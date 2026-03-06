@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Plesko, Francis        HSCEK03B   823   846/ 26  L4  W3  W2  2.0
+  2 Kocherlakota, Vihaan   TMBGA65P   820   844/ 98  W3  W4  L1  2.0
+  3 Yalamanchili, Nikhil   LMAFK63R   813   784/ 53  L2  L1  W4  1.0
+  4 Wong, Claire           BCABK86D   780   761/ 86  W1  L2  L3  1.0

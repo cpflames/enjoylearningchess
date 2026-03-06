@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Juchau, Dave           ADUN8936  1700  1701/ 26  W3  W4  W2  3.0
+  2 Yang, Nicholas         CHRDG23U   865   939/110  W4  W3  L1  2.0
+  3 Byelashova, Darya      SGHDK51X   969   948/110  L1  L2  W4  1.0
+  4 Gupta, Aayansh         CNCEH73A   719   690/ 12  L2  L1  L3  0.0

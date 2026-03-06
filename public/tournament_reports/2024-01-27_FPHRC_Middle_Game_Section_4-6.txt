@@ -1,0 +1,31 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Khetan, Reyansh        OESET80L  1137  1210/ 60  W27 W15 W4  W2  W5  5.0
+  2 Wong, Aiden            LBCGI77E  1284  1265/ 25  W21 W12 W23 L1  W6  4.0
+  3 Holczer, Owen          HSSGZ83P   600   742/  5  L11 W26 W19 W10 W8  4.0
+  4 Vy, Evan               LBCGK12N   733   817/ 20  W20 W17 L1  W13 W15 4.0
+  5 Meyer, Brendyn         YLMHJ90J   748   821/ 20  D6  W25 W9  W8  L1  3.5
+  6 Jannsen, Kevin         LBCGK12P   992   989/ 20  D5  W14 W16 W7  L2  3.5
+  7 Subramanian, Varun     PREEJ91Z   687   691/ 10  W26 W11 L8  L6  W12 3.0
+  8 Zhang, Brian           GRSFA38L   746   741/196  W13 W22 W7  L5  L3  3.0
+  9 Shove, Emmett          HSCGJ91X   518   519/ 10  L15 W27 L5  W26 W20 3.0
+ 10 Durfey, Dylan          LMDGK29Y   503   492/ 19  W28 L23 W20 L3  W21 3.0
+ 11 Gorlachev, Michael     FMPFK15W   430   564/ 20  W3  L7  L13 W22 W23 3.0
+ 12 Rozum, Julian          LLSFK12L   403   504/ 15  W29 L2  W22 W16 L7  3.0
+ 13 Holczer, Henry         HSSFZ83N   500   663/  5  L8  W18 W11 L4  W17 3.0
+ 14 Romashchenko, Daniel   FMPGJ25H   600   621/  5  D16 L6  D24 W18 W19 3.0
+ 15 Zhou, Tianyi           DFXEJ25G   400   765/  5  W9  L1  W17 W23 L4  3.0
+ 16 Einarson, Aiden        SAKFD84D   605   588/110  D14 W24 L6  L12 W25 2.5
+ 17 Zhang, Andrew          GRSEE47Z   453   447/ 68  W30 L4  L15 W25 L13 2.0
+ 18 Wilson, Lorea          HSCFJ91U   447   371/ 10  L22 L13 W28 L14 W29 2.0
+ 19 Brown, Jonah           FMPHJ90H   417   382/ 10  L23 W28 L3  W29 L14 2.0
+ 20 Feeney, Gideon         FMPEJ91V   298   326/ 10  L4  W30 L10 W24 L9  2.0
+ 21 Lamb, Morgan           FMPEJ91L   111   173/ 10  L2  W29 L25 W27 L10 2.0
+ 22 Turner, Aubrie Lynn    CPRFB07F   329   348/ 28  W18 L8  L12 L11 W26 2.0
+ 23 Mittelstadt, Emily     CJSGJ25F   600   544/  5  W19 W10 L2  L15 L11 2.0
+ 24 Jennings, Brayden      LMDFJ25E   500   326/  5  D25 L16 D14 L20 W28 2.0
+ 25 Zalozh, Maxsym         FMPFK12J   330   314/ 15  D24 L5  W21 L17 L16 1.5
+ 26 Richards, Bryan        CPRFK51N   195   183/ 20  L7  L3  W30 L9  L22 1.0
+ 27 Maddox, Isaiah         FMPFJ91J   100   100/  9  L1  L9  L29 L21 W30 1.0
+ 28 Olsen, Henning         CHUGJ25C   600   104/  5  L10 L19 L18 W30 L24 1.0
+ 29 Barlow, Colten         HOMGJ25B   600   100/  5  L12 L21 W27 L19 L18 1.0
+ 30 Collison, Bruce        CPTEJ25A   400   100/  5  L17 L20 L26 L28 L27 0.0

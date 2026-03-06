@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Scollon, Owen          FHVI734D  1712  1741/466  W5  W4  W2  W3  W7  5.0
+  2 Zhang, Owen            FHVI995H  1518  1528/252  W8  W7  L1  W9  W3  4.0
+  3 Hildenbrand, Blane     PSMI122V  1381  1385/270  W6  W11 W4  L1  L2  3.0
+  4 Stroud, Jeb            FHVIK22V  1384  1373/ 93  W10 L1  L3  W7  W9  3.0
+  5 Choukalas, Kevin       LYMGJ65Q  1095  1003/ 10  L1  W10 L9  W8  W11 3.0
+  6 Egland, Crosby         VSTH264S   748   757/ 37  L3  L8  W11 BYE W10 3.0
+  7 Kozaczuk, James        SHKI108A  1256  1236/192  W9  L2  W8  L4  L1  2.0
+  8 Smith, Cooper          NWBHJ71P   769   780/ 15  L2  W6  L7  L5  BYE 2.0
+  9 Fowler, Logan          LYMIK35E   609   685/ 14  L7  BYE W5  L2  L4  2.0
+ 10 Cancelosi, Nicholas    VSTGM25W   719   669/ 49  L4  L5  BYE D11 L6  1.5
+ 11 Raaka, Aiden           LYMHA97F   549   541/ 55  BYE L3  L6  D10 L5  1.5

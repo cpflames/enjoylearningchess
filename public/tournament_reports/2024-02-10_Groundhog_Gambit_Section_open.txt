@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Reddy, Eshan           SGSI336Y  1547  1561/310  W9  W7  D2  W4  W3  4.5
+  2 Patterson, Ben         CHHLI54X  1525  1540/101  W6  W8  D1  W3  W7  4.5
+  3 Keener, Karl           HLHIY40G  1316  1321/127  BYE W4  W7  L2  L1  3.0
+  4 Chertov, Michael       RGHKJ27K  1000  1173/  5  W5  L3  W8  L1  W10 3.0
+  5 Santilli, Tristen      MHSMH668   894   877/143  L4  W6  L9  W10 D8  2.5
+  6 Wilson, Nicholas       LBYHJ58B   616   718/ 10  L2  L5  W10 D8  W9  2.5
+  7 Sherwood, Leo          FREII58J  1084  1078/ 76  BYE L1  L3  W9  L2  2.0
+  8 Hochheimer, Noah       SGSHF37G   978   944/216  W10 L2  L4  D6  D5  2.0
+  9 Brown, Donavan         EVAMJ87U   874   853/ 24  L1  W10 W5  L7  L6  2.0
+ 10 Summerfield, Leilani   MMJHJ27G   700   343/  5  L8  L9  L6  L5  L4  0.0

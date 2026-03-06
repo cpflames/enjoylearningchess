@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Abhilash, Lavina       SNIEK07R   423   527/ 32  W4  W2  W3  3.0
+  2 Bysani, Aakash         SSMBK01D   256   358/  6  W3  L1  W4  2.0
+  3 Berjis, Liana          MEDBB72R   416   362/ 43  L2  W4  L1  1.0
+  4 Zhang, Patrick         SSSAK01J   178   122/  9  L1  L3  L2  0.0

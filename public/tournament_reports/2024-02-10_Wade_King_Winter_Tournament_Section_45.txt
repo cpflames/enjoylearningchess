@@ -1,0 +1,25 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Hildenbrand, Jace      TCEF722T   888   983/116  W24 W8  W7  W5  W3  5.0
+  2 King, Oliver           WKEEK36M   836   830/ 40  W16 W11 L3  W14 W6  4.0
+  3 Mcloughlin, Vaughn     CUEFK36N   563   714/ 23  W17 W23 W2  W7  L1  4.0
+  4 Verduin, Skyler        CUEFJ26K   500   840/  5  W21 L7  W15 W8  W5  4.0
+  5 Celaya, Benito         CIAF505E   965   920/ 71  W14 W9  W6  L1  L4  3.0
+  6 Larcom, Korbin         CEEFJ87V   711   710/ 70  W15 W10 L5  W11 L2  3.0
+  7 Everbeck, Reed         FACFK83A   564   612/ 30  W20 W4  L1  L3  W14 3.0
+  8 Harrison, Keegan       WKEF385Y   551   630/  9  W18 L1  W16 L4  W10 3.0
+  9 Betz, Fox              WKEEK23C   530   543/ 15  W19 L5  W17 L10 W16 3.0
+ 10 Crompton, Callum       FACFE89B   516   532/ 59  W22 L6  W18 W9  L8  3.0
+ 11 Thomson, Cole          CUEEK36B   282   435/ 10  W12 L2  W23 L6  W15 3.0
+ 12 Grennan, Sebastian     CARFJ26J   500   458/  5  L11 L16 W21 W17 W13 3.0
+ 13 Wilkison, Ethan        EAGFK36C   458   370/ 23  L23 L17 W20 W18 L12 2.0
+ 14 Swanson, Ashton        CUEFK23B   214   276/ 27  L5  W19 W24 L2  L7  2.0
+ 15 Crenshaw, Grayson      WKEEJ26H   400   377/  5  L6  W22 L4  W19 L11 2.0
+ 16 Sawaya, Bo             COLEJ26G   400   446/  5  L2  W12 L8  W23 L9  2.0
+ 17 Cibrian, Sebastian     BIRFJ26F   500   366/  5  L3  W13 L9  L12 W22 2.0
+ 18 Whiteford, Victor      HPVEJ26E   400   298/  5  L8  W21 L10 L13 W24 2.0
+ 19 Trafton, Rhys          CAREJ26D   400   234/  5  L9  L14 W22 L15 W21 2.0
+ 20 Podorean, Toma         WKEEJ26C   400   126/  5  L7  D24 L13 L21 W23 1.5
+ 21 Miles, Jack            WKEEK82S   287   226/ 15  L4  L18 L12 W20 L19 1.0
+ 22 Livingston-owings, BakeCOLEJ26B   400   100/  5  L10 L15 L19 W24 L17 1.0
+ 23 Ragsdale, Milo         PAREJ26A   400   161/  5  W13 L3  L11 L16 L20 1.0
+ 24 Cohen, Nava            CAREJ25Z   400   100/  5  L1  D20 L14 L22 L18 0.5

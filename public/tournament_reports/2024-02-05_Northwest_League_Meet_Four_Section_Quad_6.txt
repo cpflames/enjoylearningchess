@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Masterson, Emmett      LYEM300S   843   868/ 47  D4  LF  W2  1.5
+  2 Chiapellone, Teo       SHMMG88R   860   852/110  W3  LF  L1  1.0
+  3 Volker, Rune           FERKK47N   741   753/ 22  L2  LF  W4  1.0
+  4 Gutierrez, Diego       BLHM233E   791   762/ 19  D1  LF  L3  0.5

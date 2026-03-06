@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Eric             WPPF803M  1230  1231/130  W4  L2  W3  2.0
+  2 Sreraman, Rohit        BCADG92Q  1107  1146/217  L3  W1  W4  2.0
+  3 Chevuri, Tattva        CBRGC06V  1141  1118/329  W2  L4  L1  1.0
+  4 Rackoff, Dylan         BLWG507J  1088  1079/245  L1  W3  L2  1.0

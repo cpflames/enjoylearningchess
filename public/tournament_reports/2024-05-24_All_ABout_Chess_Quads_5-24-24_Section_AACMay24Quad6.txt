@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Krogstad, Jaxon        NCSCJ88M   821   802/ 79  W2  W3  L4  2.0
+  2 Zhang, Patrick         SSSBK01J   559   593/ 93  L1  W4  D3  1.5
+  3 Bolisetty, Varun       CBRCJ73Z   560   594/ 34  W4  L1  D2  1.5
+  4 Huang, Jaden           ENDCJ63S   680   644/ 76  L3  L2  W1  1.0

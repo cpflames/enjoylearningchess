@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mangla, Atharv         GRRDK07C   776   763/110  W4  L3  D2  1.5
+  2 Swain, Samarth         MMEBJ58S   731   732/124  W3  L4  D1  1.5
+  3 Kang, Mason            SSMDJ29J   731   732/ 48  L2  W1  D4  1.5
+  4 Jahani, Nikan          SNIFK89A   699   711/ 97  L1  W2  D3  1.5

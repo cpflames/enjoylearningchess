@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kandar, Aarav          FISDK21U  1157  1308/112  W3  W2  W4  3.0
+  2 Patel, Aarya           REEFK30E  1402  1393/170  W4  L1  W3  2.0
+  3 Yang, Jimmy            BASEG45S  1294  1264/204  L1  W4  L2  1.0
+  4 Taylor, Ryder          KAMK385C  1076  1044/387  L2  L3  L1  0.0

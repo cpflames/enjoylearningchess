@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ram, Krishna           EBSCH76B   359   383/  8  W3  W4  L2  2.0
+  2 Sood, Ayansh           BCADH76H   429   424/ 11  W4  L3  W1  2.0
+  3 Zhang, Dustin          CCDBJ46J   162   294/ 21  L1  W2  W4  2.0
+  4 Revuru, Nimeesha       RCMEW81Y   225   156/ 16  L2  L1  L3  0.0

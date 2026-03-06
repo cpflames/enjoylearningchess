@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Battula, Keerthi Sri SiCMCF733D   520   576/ 15  W3  D2  W4  2.5
+  2 Sood, Ayansh           BCADH76H   455   460/ 19  W4  D1  L3  1.5
+  3 Deshmukh, Dhruv        ENDDH79Q   426   441/ 27  L1  D4  W2  1.5
+  4 Tripathi, Naksh        BRHCJ98P   459   400/ 70  L2  D3  L1  0.5

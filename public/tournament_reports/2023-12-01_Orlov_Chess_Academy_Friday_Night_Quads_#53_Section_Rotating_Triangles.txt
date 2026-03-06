@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Friesen, Eli           PKRDK27G   712   820/ 16  W5  W2  W6  3.0
+  2 Edwin, Elijah          BCSDC24D  1136  1106/148  W4  L1  W3  2.0
+  3 Yang, Nicholas         CHRDG23U   888   893/ 76  W6  W4  L2  2.0
+  4 Xu, Ethan              BENEK98S   734   714/ 96  L2  L3  W5  1.0
+  5 Li, Chris              CNHCJ89W   184   255/ 15  L1  W6  L4  1.0
+  6 Titterington, Henry    ENADJ88R   425   364/ 12  L3  L5  L1  0.0

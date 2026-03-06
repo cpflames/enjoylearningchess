@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pai, Samiksha          SSMDJ19X   669   696/ 48  W4  W5  W2  3.0
+  2 Charles, Benjamin      SOMAJ06G   481   496/ 23  W3  W4  L1  2.0
+  3 Shin, Joshua           CRKBJ63R   247   268/ 73  L2  BYE W5  2.0
+  4 Mirchandani, Kiaan     MEDDK92Z   297   270/ 47  L1  L2  BYE 1.0
+  5 Mirchandani, Kavir     MEDBJ97A   206   213/ 37  W6  L1  L3  1.0
+  6 Li, Ethan James        SOMBK00K   305   250/ 56  L5  U   U   0.0

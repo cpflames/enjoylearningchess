@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Cha, Samuel            BASGK18Z  1571  1617/225  HPB W7  W5  W10 W3  4.5
+  2 Ramaswamy, Rishi       OMSJS63U  1397  1467/100  W8  W12 W10 D3  W4  4.5
+  3 Subramanian, Thrinay   SPTI466R  1539  1535/123  W15 W6  W4  D2  L1  3.5
+  4 Sriram, Aahan          BCAEC03K  1273  1275/ 58  W16 W17 L3  W11 L2  3.0
+  5 Xu, Yang               CNCE649B  1251  1263/ 95  W9  L10 L1  W17 W12 3.0
+  6 Joshi, Vyom            LEOIH81X  1217  1218/179  W18 L3  D9  W12 D7  3.0
+  7 Ghosh, Snehil          CBRE738T  1183  1188/ 65  D14 L1  W16 W15 D6  3.0
+  8 Zhang, Kevin           SPTF809Y   923   972/ 88  L2  L13 BYE W16 W11 3.0
+  9 Ye, Alex               ENDEH51L   929  1034/ 76  L5  BYE D6  W13 D10 3.0
+ 10 Prashant, Niranjan     PFCG468K  1480  1444/105  W13 W5  L2  L1  D9  2.5
+ 11 Alagumalai, Gautham    TMBHF64S  1118  1066/200  L17 W14 W13 L4  L8  2.0
+ 12 Robison, Emmett        SASIK05G  1109  1081/ 11  WF  L2  W17 L6  L5  2.0
+ 13 Grandhi, Dhruv         JMRIC63M   991   998/ 34  L10 W8  L11 L9  W15 2.0
+ 14 Bates, Killian         HEAIK18M   911   901/ 19  D7  L11 L15 BYE D17 2.0
+ 15 Swaminath, Ankita      CNCG571R  1094  1044/ 74  L3  D16 W14 L7  L13 1.5
+ 16 Phillips-acheson, SebasEMHH817T   935   904/226  L4  D15 L7  L8  BYE 1.5
+ 17 Confer, Braden         HSCGK00V   600   953/  5  W11 L4  L12 L5  D14 1.5
+ 18 Nelson, Ellis          BRYEB28C   928   917/ 45  L6  U   U   U   U   0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ramanathan, Varun      LEOIK88H   862  1009/ 45  W3  W2  W4  3.0
+  2 Lahue, Ihsan           WAVIJ69P   941   957/129  W4  L1  W3  2.0
+  3 Wang, Evan             PLKHB88C   883   862/ 65  L1  W4  L2  1.0
+  4 Acharya, Arnav         KMNG746Q   853   786/ 65  L2  L3  L1  0.0

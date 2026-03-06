@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Berjis, Liana          MEDBB72R   332   402/ 68  W3  W4  W2  3.0
+  2 Paidipathi, Kiaan      SHSBJ99C   147   161/ 17  W4  D3  L1  1.5
+  3 Krotenko, Maksim       CBRDJ84A   300   100/  3  L1  D2  D4  1.0
+  4 Vatsan, Maitri         SSMBK00S   108   100/ 17  L2  L1  D3  0.5

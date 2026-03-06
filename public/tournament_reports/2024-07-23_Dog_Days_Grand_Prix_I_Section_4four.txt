@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mcneil, Mason          VSTGJ49Y   416   585/ 26  W5  W4  W2  3.0
+  2 Kaur, Prabhkirat       IREEE41C   584   577/ 35  W7  W3  L1  2.0
+  3 Neff, Joseph           CCXDH69L   402   412/ 17  W8  L2  W6  2.0
+  4 Neff, William          CCXBH69K   161   317/ 15  W6  L1  W5  2.0
+  5 Khadimi, Matin         CEEFH67V   485   349/  6  L1  W8  L4  1.0
+  6 Louws, Micah           CUEBJ16B   289   262/ 28  L4  W7  L3  1.0
+  7 Melnik, Mark           TCIDH69M   206   193/  9  L2  L6  W8  1.0
+  8 Brown, Jordan          HSCCJ64H   100   100/ 11  L3  L5  L7  0.0

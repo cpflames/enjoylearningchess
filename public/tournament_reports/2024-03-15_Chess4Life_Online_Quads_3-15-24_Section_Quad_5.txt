@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mcintyre, Isaac        ETSE466S   816   807/197  W4  W3  L2  2.0
+  2 Agarwal, Avyukt        KKNGF24X   767   744/ 47  D3  L4  W1  1.5
+  3 Leon, Nikhil           HSCF587T   602   630/102  D2  L1  W4  1.5
+  4 O'leary, Desmond       XXXGJ11S   559   579/  5  L1  W2  L3  1.0

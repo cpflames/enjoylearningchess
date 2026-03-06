@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Goel, Advit            RCSCG22F   776   767/ 45  L3  W4  W2  2.0
+  2 Ramanathan, Varun      LEOIK88H   661   658/ 25  W4  D3  L1  1.5
+  3 Menon, Ritwik          WLDG974D   507   569/ 26  W1  D2  L4  1.5
+  4 Wright, William        PTFBB71M   640   615/ 78  L2  L1  W3  1.0

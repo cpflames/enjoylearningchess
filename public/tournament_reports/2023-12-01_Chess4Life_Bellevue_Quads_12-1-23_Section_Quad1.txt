@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Condit, Noah           KMDIA59Q  1467  1493/171  W3  W2  W4  3.0
+  2 Talathi, Shrey         SNEGK61Z  1217  1267/179  W4  L1  W3  2.0
+  3 He, Oliver             ENDDK71V  1229  1221/264  L1  W4  L2  1.0
+  4 Ganesan, Vidur         RBRE940K  1252  1194/143  L2  L3  L1  0.0

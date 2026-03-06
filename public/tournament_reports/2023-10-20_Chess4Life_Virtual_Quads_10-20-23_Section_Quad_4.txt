@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhong, Alan            TISLN778   960  1064/ 55  W3  W4  W2  3.0
+  2 Rackoff, Dylan         BLWG507J   987   946/234  W4  L3  L1  1.0
+  3 Karthik, Sai           BCAD261S   945   915/ 85  L1  W2  L4  1.0
+  4 Taylor, Ryder          KAMK385C   780   794/339  L2  L1  W3  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 He, Oliver             ENDDK71V  1221  1235/272  W3  W2  W4  3.0
+  2 Fang, Weiai            LAVD696W   855   868/190  W4  L1  D3  1.5
+  3 Sampathi Rao, Sri JayraSSMFK37Y   773   811/ 33  L1  W4  D2  1.5
+  4 Lishchenko, Leonid     HSCBJ99A   962   762/  6  L2  L3  L1  0.0

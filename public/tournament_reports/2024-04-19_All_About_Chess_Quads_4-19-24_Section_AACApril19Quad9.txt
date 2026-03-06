@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Patrick         SSSBK01J   367   439/ 73  D2  W4  W3  2.5
+  2 Bolisetty, Varun       CBRCJ73Z   265   402/ 16  D1  W3  W4  2.5
+  3 Krogstad, Jaiden       NCSEJ88J   310   285/ 54  W4  L2  L1  1.0
+  4 Shin, Joshua           CRKBJ63R   289   206/ 46  L3  L1  L2  0.0

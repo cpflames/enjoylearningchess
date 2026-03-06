@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Benson, Nicholas       MLLIH96A   800  1412/  4  W5  W3  W4  W2  BYE 5.0
+  2 Foster, Tyshawn        HRLIH95Z   800  1108/  4  BYE W5  W3  L1  W4  4.0
+  3 Howard, Logan          ABDKK80A   854   850/ 19  W4  L1  L2  BYE W5  3.0
+  4 Calicchia-roberts, KylaHRLIH95Y   800   548/  4  L3  BYE L1  W5  L2  2.0
+  5 Witt, Lyle             HQMIH95X   800   239/  4  L1  L2  BYE L4  L3  1.0

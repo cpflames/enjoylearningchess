@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Graham, Isaac          HCCGJ42K   746   804/ 50  W3  W2  W4  3.0
+  2 Griesmann, Max         ARDDH66S   300   695/  3  W4  L1  W3  2.0
+  3 Olson, Beth            ADUNH66R  1300   485/  3  L1  W4  L2  1.0
+  4 Lin, Christianne       HCCFG77D   400   358/ 18  L2  L3  L1  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Elmieh, Niko           CRKE777E   843   898/ 64  W3  W2  D4  2.5
+  2 Bolisetty, Varun       CBRCJ73Z   788   825/ 64  W4  L1  W3  2.0
+  3 Swain, Samarth         MMEBJ58S   738   731/121  L1  W4  L2  1.0
+  4 Bysani, Aakash         SSMBK01D   830   768/162  L2  L3  D1  0.5

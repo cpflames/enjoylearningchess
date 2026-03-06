@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Reddy, Eshan           SGSI336Y  1455  1547/305  W8  W5  W3  W2  W4  5.0
+  2 Patterson, Ben         CHHLI54X  1541  1537/ 91  W12 W6  W4  L1  W7  4.0
+  3 Davis, Aiden           ADCKK70N  1365  1380/ 43  W7  W12 L1  W6  W10 4.0
+  4 Legard, Benjamin       LWCMK57Z  1273  1273/ 17  W9  W13 L2  W8  L1  3.0
+  5 Triplett, Caleb        ADCKK70P  1150  1154/ 20  W10 L1  W11 L7  W12 3.0
+  6 Walstrom, Nathan       LWCMK57J  1117  1139/ 39  W11 L2  W10 L3  W9  3.0
+  7 Sherwood, Leo          FREII58J   983  1082/ 67  L3  W8  W13 W5  L2  3.0
+  8 Brown, Donovan         EVAMJ87U  1055  1036/  9  L1  L7  W12 L4  BYE 2.0
+  9 Warren, Emmitt         ADCKK70M  1023   950/  9  L4  L10 BYE W11 L6  2.0
+ 10 Hochheimer, Noah       SGSHF37G   979   978/211  L5  W9  L6  W13 L3  2.0
+ 11 Santilli, Tristen      MHSMH668   848   829/128  L6  BYE L5  L9  W13 2.0
+ 12 Elkins, Indiana        HSCIC15D  1116  1051/ 73  L2  L3  L8  BYE L5  1.0
+ 13 Davis, Jaxon           ADCIK50R   764   718/ 24  BYE L4  L7  L10 L11 1.0

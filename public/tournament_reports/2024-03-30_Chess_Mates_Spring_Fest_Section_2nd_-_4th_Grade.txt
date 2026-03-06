@@ -1,0 +1,31 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Pleasants, Gabriel     THUD149G  1076  1070/ 73  L17 W6  W13 W4  W2  4.0
+  2 Muscutt, Abraham       HSCEJ71L   976   986/ 40  W24 W5  W9  W3  L1  4.0
+  3 Leneway, Owen          CSIDK91V   712   777/ 44  W20 W17 W10 L2  W12 4.0
+  4 Kekre, Sohum           CSICK24M   696   756/ 34  W27 W21 W12 L1  W10 4.0
+  5 Velummylum, Xavier     SCDDK39X   622   703/ 24  W28 L2  W20 W23 W8  4.0
+  6 Li, Anyi               LKDCJ55F   937   911/ 40  D18 L1  W26 W15 W11 3.5
+  7 Nagpal, Ronen          WMEEK13Q   838   772/ 52  W19 L13 W17 L11 W18 3.0
+  8 Sheker, Wesley         DCTEJ69H   747   708/ 39  W26 L12 W19 W13 L5  3.0
+  9 Sabharwal, Vihaan      DCTCK87T   632   643/ 48  W16 W15 L2  L12 W23 3.0
+ 10 Zhen, Liam             DCCC622V   604   612/132  W29 W23 L3  W14 L4  3.0
+ 11 Yorks, Cameron         THODJ74Q   590   600/ 25  L21 W18 W29 W7  L6  3.0
+ 12 Shing, Lucas           HZFCJ74H   570   648/ 45  W22 W8  L4  W9  L3  3.0
+ 13 Taulu, Otso            CSICJ70S   500   581/ 31  W25 W7  L1  L8  W22 3.0
+ 14 Muthinti, Abhiram      RKWCK27S   494   493/ 39  L23 W16 W22 L10 W21 3.0
+ 15 Newell, Asher          CSICJ75Z   489   531/ 10  W30 L9  W21 L6  W19 3.0
+ 16 Surineni, Aaditri      MSMDJ52D   240   305/ 19  L9  L14 D25 W26 W24 2.5
+ 17 Liu, Jayden            EVGCK54X   478   493/ 20  W1  L3  L7  L19 W27 2.0
+ 18 Ben Simon, Golan       SJCCJ48B   466   471/ 15  D6  L11 W27 D24 L7  2.0
+ 19 Tang, Khai             THUEJ48Q   408   420/ 20  L7  W25 L8  W17 L15 2.0
+ 20 Armstrong, Benjamin    EVGDK54R   336   329/ 29  L3  W30 L5  L22 W28 2.0
+ 21 Mossyakov, David       PKWCJ42T   192   292/ 15  W11 L4  L15 W29 L14 2.0
+ 22 Mcconaghy, James       MAGCH88L   200   373/  5  L12 W27 L14 W20 L13 2.0
+ 23 Sethanandha, Marvin    CSIDH88K   300   487/  5  W14 L10 W24 L5  L9  2.0
+ 24 Tan, Mathew            THUDJ76C   483   417/ 30  L2  W28 L23 D18 L16 1.5
+ 25 Ferreira Choo, Leo     THOCH88G   200   190/  5  L13 L19 D16 L27 W29 1.5
+ 26 Davis, Ethan           WEDDJ68S   368   221/  9  L8  L29 L6  L16 BYE 1.0
+ 27 Noebels, Keane         BRYCJ68N   266   234/ 15  L4  L22 L18 W25 L17 1.0
+ 28 Bloom, Aurora          SJCCJ14P   205   100/  9  L5  L24 L30 BYE L20 1.0
+ 29 Steinberg, Theo        EVGCH97R   196   156/ 10  L10 W26 L11 L21 L25 1.0
+ 30 Lo, Easton             WEDCH88E   200   185/  3  L15 L20 W28 U   U   1.0

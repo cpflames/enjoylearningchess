@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Siripurapu, Pranal     EALLH88T  1302  1704/  6  W3  W4  W2  3.0
+  2 Maharaja, Imai         HMNDK34K  1309  1318/174  W4  D3  L1  1.5
+  3 Joshi, Vyom            LEOIH81X  1275  1269/271  L1  D2  D4  1.0
+  4 Satish, Sathvik        RHJIK18Y  1274  1235/ 11  L2  L1  D3  0.5

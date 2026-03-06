@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Leon, Vikram           EBSBH74X   342   440/  6  W4  W3  W2  3.0
+  2 Garcia, Jose           ISEBK07J   100   147/ 15  D3  W4  L1  1.5
+  3 Li, Brian              CGRBH72Y   100   221/  3  D2  L1  W4  1.5
+  4 Chanda, Rishabh        BCAAH72X   100   100/  3  L1  L2  L3  0.0

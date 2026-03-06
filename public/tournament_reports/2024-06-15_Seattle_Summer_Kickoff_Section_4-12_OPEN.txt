@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Shah, Kanav            LMAF295Q  1460  1469/200  L12 W10 W13 W9  W2  4.0
+  2 Lizon, Abhay           TYEHJ87S  1346  1417/ 23  W18 W12 W3  W5  L1  4.0
+  3 Friedenson, Isaac      VVMHK21N  1329  1422/ 49  W15 W6  L2  W7  W10 4.0
+  4 Ma, Ziliang            DCCGA69N  1434  1441/ 94  W20 L8  W12 W6  D5  3.5
+  5 Gao, Ziqian            MMEEK10U  1380  1388/ 34  W14 WF  W8  L2  D4  3.5
+  6 Liu, Vincent           ILAF546Q  1563  1526/220  W17 L3  W9  L4  W11 3.0
+  7 Polonsky, Daniel       LIHK946P  1431  1403/ 72  W13 L9  W16 L3  W12 3.0
+  8 Miskelly, Sachin       BLAKJ59V  1324  1331/  9  W16 W4  L5  L10 W13 3.0
+  9 Ganesan, Vidur         RBRE940K  1266  1294/221  W19 W7  L6  L1  W16 3.0
+ 10 Xu, Yang               CNCE649B  1246  1249/174  D11 L1  W18 W8  L3  2.5
+ 11 Ray, Iain              EPSH392B   906  1022/103  D10 L17 W20 W19 L6  2.5
+ 12 Rachiba, Alisa         EVPDK08E  1127  1182/134  W1  L2  L4  W17 L7  2.0
+ 13 Chaurasia, Vihaan      HMNGH65G  1112  1129/155  L7  W15 L1  W14 L8  2.0
+ 14 Huang, Clora           SOMEK31H  1072  1064/133  L5  L16 W15 L13 W19 2.0
+ 15 Lin, Annan             THOEC02D  1061  1065/ 54  L3  L13 L14 W18 W17 2.0
+ 16 Zhang, Bowen           REEDK46L  1054  1078/ 44  L8  W14 L7  W20 L9  2.0
+ 17 Wang, Eric             WPPF803M  1237  1171/153  L6  W11 D19 L12 L15 1.5
+ 18 Wang, Evan             FRWD929Z  1068  1022/139  L2  D20 L10 L15 BYE 1.5
+ 19 Du, Charles            SOMEA15U  1038   989/107  L9  BYE D17 L11 L14 1.5
+ 20 Bhambri, Vansh         KNDEJ57J  1123  1053/ 28  L4  D18 L11 L16 U   0.5

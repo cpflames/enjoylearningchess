@@ -1,0 +1,31 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Narkhede, Kshitij      CRKCA27K  1239  1360/ 93  W26 W16 W2  W3  W6  5.0
+  2 Ma, Lewis              SOMC587M  1253  1267/109  W12 W10 L1  W17 W7  4.0
+  3 Thanikonda, Kruti      CMCDK84W  1248  1263/105  W19 W4  W9  L1  W11 4.0
+  4 Naveh, Yaniv           SOMDK62Z   968  1020/ 40  W27 L3  W26 W13 W9  4.0
+  5 Ghosh, Snehil          CBRE738T  1362  1325/136  W18 D8  W17 L7  W15 3.5
+  6 Yuan, Chen             ETSCJ15Z  1247  1248/104  W20 W15 D7  W8  L1  3.5
+  7 Zandanov, Leonid       ENACK31Q  1148  1173/ 78  W25 W29 D6  W5  L2  3.5
+  8 Bhambri, Vansh         KNDEJ57J  1057  1108/ 15  W14 D5  W10 L6  W17 3.5
+  9 Rachiba, Alisa         EVPDK08E  1191  1151/ 71  W13 W11 L3  W20 L4  3.0
+ 10 Fang, Weiai            LAVD696W  1007   992/219  W21 L2  L8  W25 W19 3.0
+ 11 Byelashova, Darya      SGHDK51X   874   876/ 62  W28 L9  W21 W19 L3  3.0
+ 12 Guruprasad, Saketh     RBREE50W   662   637/ 25  L2  L21 W30 W22 W24 3.0
+ 13 Benita-nagdeep, KrishanRBRCK56N   612   727/ 39  L9  W28 W16 L4  W18 3.0
+ 14 Singh, Aarika          BCAEK30Z   489   605/ 29  L8  W24 L19 W21 W20 3.0
+ 15 Karthik, Sai           BCAD261S   939   924/125  W30 L6  D25 W16 L5  2.5
+ 16 Baruch, Noam           PHAEJ83G   874   827/ 18  W23 L1  L13 L15 W25 2.0
+ 17 Yang, Jimmy            BASEG45S   861   863/115  W24 W18 L5  L2  L8  2.0
+ 18 Naveh, Ido             SOMEK63G   740   707/ 38  L5  L17 W23 W29 L13 2.0
+ 19 Pradeepkumar, Adrit    LKDCK54S   644   652/ 55  L3  W22 W14 L11 L10 2.0
+ 20 Badi, Shreya           MTWEK52A   634   607/ 50  L6  W30 W29 L9  L14 2.0
+ 21 Muthinti, Abhiram      RKWCK27S   428   475/ 29  L10 W12 L11 L14 W29 2.0
+ 22 Brittain, Elouise      DCTEK86Z   100   149/ 17  L29 L19 W28 L12 W27 2.0
+ 23 Sambathraj, Raghav     WDMCJ31B   200   451/  5  L16 L25 L18 W30 W26 2.0
+ 24 Mahadikar, Pratvi      JUADJ31A   300   454/  5  L17 L14 W27 W26 L12 2.0
+ 25 Li, Anyi               LKDCJ55F   517   560/ 15  L7  W23 D15 L10 L16 1.5
+ 26 Sidhu, Ekamjot         WMEEK34G   630   477/ 10  L1  W27 L4  L24 L23 1.0
+ 27 Reddi, Sarayu          ARDDJ30W   300   102/  5  L4  L26 L24 W28 L22 1.0
+ 28 Srivastava, Shriya     FRWCJ30U   200   100/  5  L11 L13 L22 L27 W30 1.0
+ 29 Sanganaboina, Anika    RBRCJ30S   200   272/  5  W22 L7  L20 L18 L21 1.0
+ 30 Nallamothu, Jasmitha   SSMDJ30Q   300   100/  5  L15 L20 L12 L23 L28 0.0

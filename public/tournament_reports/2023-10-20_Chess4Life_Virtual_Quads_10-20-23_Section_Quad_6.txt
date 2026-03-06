@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Menon, Ritwik          WLDG974D   367   507/ 23  W6  W5  W2  3.0
+  2 Shao, Lang             SOMBK14U   382   405/ 21  W3  W4  L1  2.0
+  3 Savitala, Jayanth      REDJJ90C   900   412/  3  L2  W6  W5  2.0
+  4 Elali, Yasmeen         SCOE865X   400   146/  8  L5  L2  W6  1.0
+  5 Safarova, Banuchichak  HEAHG52S   266   247/ 26  W4  L1  L3  1.0
+  6 Orth, Nicholas         XXXDJ90B   300   100/  3  L1  L3  L4  0.0

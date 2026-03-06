@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Naveh, Yaniv           SOMDK62Z   649   789/ 25  W8  W3  W9  W2  W5  5.0
+  2 Yu, Eric               SOMBK25N   538   626/ 21  W9  W7  W6  L1  W3  4.0
+  3 Mahale, Avneesh        CNHB993F   777   728/ 81  W4  L1  W8  W5  L2  3.0
+  4 Zhang, Patrick         SSSAK01J   408   400/ 38  L3  L5  BYE W7  W8  3.0
+  5 Zhang, David           SOMBK41P   334   457/ 29  W6  W4  W7  L3  L1  3.0
+  6 Ge, Jeremy             SSMBJ88K   526   453/ 17  L5  D8  L2  W9  BYE 2.5
+  7 Nandakiran, Advaith    SSMBJ88H   100   130/ 10  BYE L2  L5  L4  W9  2.0
+  8 Chang, Nathan          MMECK42T   252   240/ 16  L1  D6  L3  BYE L4  1.5
+  9 Chen, Helen            BLWBK41R   172   111/ 12  L2  BYE L1  L6  L7  1.0

@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Schasteen, Noble       DCCDA04C   918  1170/ 32  W19 W2  D15 W9  W3  4.5
+  2 Ma, Lewis              SOMC587M  1175  1199/ 95  WF  L1  W11 W15 W7  4.0
+  3 Thanikonda, Kruti      CMCDK84W  1162  1177/ 97  W21 W22 W13 W5  L1  4.0
+  4 Zandanov, Leonid       WLBCK31Q  1185  1166/ 69  W6  L9  W20 D13 W12 3.5
+  5 Li, Bohan              BNYDW86W  1089  1102/ 14  W17 W20 W9  L3  D6  3.5
+  6 Wang, Wenyou           MEDDK93J   882  1001/ 44  L4  W23 W16 W11 D5  3.5
+  7 Wang, Hengsheen        EVGB704V  1085  1063/ 79  L20 W14 W19 W10 L2  3.0
+  8 Deng, Arthur           OPWCC90Y  1050  1010/ 79  L13 L17 W14 W18 W19 3.0
+  9 Zou, Jinhan            SSMDH14T   938  1029/ 63  W23 W4  L5  L1  W15 3.0
+ 10 Liu, Bihe              KKNBB78J   882   936/ 66  L15 W18 W22 L7  W13 3.0
+ 11 He, Jizhou             OPWC789B   968   976/ 62  W18 D15 L2  L6  W21 2.5
+ 12 Chen, Julian           CNHBK32C   966   954/ 40  D14 L13 W17 W16 L4  2.5
+ 13 Wu, Jayden             UCDC495Q   826   930/ 65  W8  W12 L3  D4  L10 2.5
+ 14 Oh, Seojoon            SSMDJ70T   813   869/ 10  D12 L7  L8  W22 W20 2.5
+ 15 Wang, Harvey           OPWBJ68G  1232  1163/ 75  W10 D11 D1  L2  L9  2.0
+ 16 Chen, Felix Y          DISDA67A   942   887/ 65  L22 W21 L6  L12 W23 2.0
+ 17 Mahale, Avneesh        CNHB993F   836   812/102  L5  W8  L12 L19 BYE 2.0
+ 18 Goel, Atharva          MRLD436Y   823   796/ 51  L11 L10 BYE L8  W22 2.0
+ 19 Li, Alice              OPWCJ98C   739   751/ 27  L1  BYE L7  W17 L8  2.0
+ 20 Jiang, Kyle            MEDBK35B   856   850/ 57  W7  L5  L4  D21 L14 1.5
+ 21 Jin, Yi                MEDCE79S   834   806/ 45  L3  L16 W23 D20 L11 1.5
+ 22 Shih, Kei              UCDC982C   809   770/ 49  W16 L3  L10 L14 L18 1.0
+ 23 Li, Rebecca            SCDCJ62B   757   694/105  L9  L6  L21 BYE L16 1.0

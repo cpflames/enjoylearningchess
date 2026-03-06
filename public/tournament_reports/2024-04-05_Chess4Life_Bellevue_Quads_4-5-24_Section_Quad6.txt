@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Koster, John           SPTAJ88T   533   550/ 47  W3  L2  W4  2.0
+  2 Sairam, Advaith        RBRAK01Q   478   522/ 65  W4  W1  L3  2.0
+  3 Huang, Ryan            CNHAJ56H   367   481/ 18  L1  W4  W2  2.0
+  4 Wong, Aiden            CNHDK17Z   530   426/ 56  L2  L3  L1  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lin, Luna              OPWCK01W   659   675/ 46  W4  W2  L3  2.0
+  2 Guruprasad, Saketh     RBREE50W   637   660/ 28  W3  L1  W4  2.0
+  3 Koster, John           SPTAJ88T   641   604/ 31  L2  L4  W1  1.0
+  4 Oruganti, Mihika      HGMIJ55V   609   521/  6  L1  W3  L2  1.0

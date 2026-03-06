@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hildenbrand, Blane     PSMI122V  1368  1421/335  W6  W2  W3  3.0
+  2 Stroud, Jeb            FHVIK22V  1456  1436/136  W5  L1  W4  2.0
+  3 Luna, Max              FERKJ85Y  1167  1176/ 35  W4  W5  L1  2.0
+  4 Bannister, Cypress     HORGK36L   824   852/ 59  L3  W6  L2  1.0
+  5 Fredette, Blaise       BECFH95C   968   946/ 18  L2  L3  D6  0.5
+  6 Qureshi, Danish        BLNGF36V   940   902/120  L1  L4  D5  0.5

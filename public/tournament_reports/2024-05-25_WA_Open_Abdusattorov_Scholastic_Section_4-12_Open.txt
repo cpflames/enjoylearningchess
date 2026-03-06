@@ -1,0 +1,35 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Tang, Hsiang-ju        CMHKJ89H  1253  1438/  9  W28 W24 W6  W3  4.0
+  2 Badri, Sriram          SPLEV67W  1311  1447/ 22  W23 W5  W8  W10 4.0
+  3 Hetamsaria, Aadi       NPRK888H  1690  1669/167  W25 W26 W9  L1  3.0
+  4 Patel, Aarya           REEFK30E  1425  1422/164  W16 D12 D13 W20 3.0
+  5 Zuo, Jonathan          PROIK05V  1357  1372/ 24  W18 L2  W27 W13 3.0
+  6 Avula, Guru Harshith ReBRHE633Y  1332  1348/140  W27 W15 L1  W12 3.0
+  7 Maharaja, Imai         HMNDK34K  1347  1341/198  L20 W34 W18 W16 3.0
+  8 Yang, Jimmy            BASEG45S  1298  1311/190  W34 W22 L2  W15 3.0
+  9 Hetamsaria, Aayan      BISIG19R  1278  1319/ 71  W19 W20 L3  W22 3.0
+ 10 Rao, Deepak Sri KartikeBPSH517J  1456  1439/149  W33 D13 W14 L2  2.5
+ 11 Shah, Aarit            MTWF710Y  1414  1381/ 63  W17 D14 L12 W24 2.5
+ 12 Juneja, Eesha          SLLHT13X  1121  1210/ 36  W29 D4  W11 L6  2.5
+ 13 Chopra, Aaryaman       BISIK30K  1266  1280/ 81  W30 D10 D4  L5  2.0
+ 14 Avula, Varshith Reddy  RHJH110R  1236  1230/230  W31 D11 L10 D21 2.0
+ 15 Zhang, Kevin           WOBF809Y  1134  1131/124  WF  L6  W19 L8  2.0
+ 16 Bieniosek, Kieran      EVGJ712Z  1133  1142/ 44  L4  W29 W28 L7  2.0
+ 17 Rachiba, Alisa         EVPDK08E  1130  1127/129  L11 W30 L22 W28 2.0
+ 18 Satish Kumar, Sai NavanCENFH21Y  1129  1136/ 68  L5  W23 L7  W29 2.0
+ 19 Ye, Alex               ENDEH51L  1058  1101/121  L9  W25 L15 W26 2.0
+ 20 Wu, Harry              CNHFJ72P  1137  1197/ 14  W7  L9  W26 L4  2.0
+ 21 Li, Ron                OVLFH73V  1042  1072/  4  L26 D33 W32 D14 2.0
+ 22 Du, Charles            SOMEA15U   926  1038/103  W32 L8  W17 L9  2.0
+ 23 Law, Caleb             EASFJ87R   906   984/ 27  L2  L18 W34 W27 2.0
+ 24 Wilson, David ManchesteEGTEJ72N   771   834/  7  BYE L1  W33 L11 2.0
+ 25 Lu, Jacob              BLMII11F  1145  1130/326  L3  L19 D30 W33 1.5
+ 26 Chabot, Troy           BRSKK15U  1250  1201/ 53  W21 L3  L20 L19 1.0
+ 27 Chong, Jacob           RSHFF24L  1053  1023/124  L6  W31 L5  L23 1.0
+ 28 Muscutt, Abraham       HSCEJ71L  1004  1002/ 59  L1  W32 L16 L17 1.0
+ 29 Iyer, Hrishaan Arjun   BNTFJ57L   979   959/ 32  L12 L16 W31 L18 1.0
+ 30 Upasani, Neil          SSMEJ57C  1098  1067/ 61  L13 L17 D25 D32 1.0
+ 31 Bhende, Shaurya        MMEEK24T   910   892/ 41  L14 L27 L29 W34 1.0
+ 32 Xu, Jeffery            TYEGJ88V  1239  1126/ 53  L22 L28 L21 D30 0.5
+ 33 Sembium, Aditi         BCADK25W  1140  1063/282  L10 D21 L24 L25 0.5
+ 34 Kumar, Rishuraj        PENFK45Y  1059   976/ 77  L8  L7  L23 L31 0.0

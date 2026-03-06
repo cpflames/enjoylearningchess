@@ -1,0 +1,72 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Merriman, Dann         WMNEF79Y  1514  1618/540  W14 W21 W3  W8  W2  5.0
+  2 Cen, Evan              TYEII97D  1461  1515/179  W22 W12 W17 W9  L1  4.0
+  3 Palathingal, Rafael    KKNE196R  1406  1456/ 89  W23 W26 L1  W18 W8  4.0
+  4 Kato, Erik             BLLJG89L  1533  1524/ 31  W13 L18 W21 W11 D5  3.5
+  5 Ramaswamy, Rishi       OMSJS63U  1467  1473/105  L21 W16 W18 W12 D4  3.5
+  6 Karri, Aditya          REEFC55V  1334  1353/352  L26 W25 W23 W17 D10 3.5
+  7 Pantea, Joshua         ABEJK63M  1258  1348/ 21  U   W29 W30 D10 W16 3.5
+  8 Low, Ethan             VHOFX32M  1484  1479/ 10  W20 W11 W9  L1  L3  3.0
+  9 Mohan, Vishnu          KKNFF41R  1388  1391/119  W28 W15 L8  L2  W20 3.0
+ 10 Shankaranand, Deeksha  EBSFI74Y  1378  1387/254  W29 L17 W15 D7  D6  3.0
+ 11 Mohan, Laya            LEOI617P  1338  1342/166  W30 L8  W28 L4  W24 3.0
+ 12 Kakkad, Vayu           DCTDK50L  1271  1288/485  W31 L2  W24 L5  W23 3.0
+ 13 Sundar, Jeraldin       BUSJK01C  1269  1277/ 10  L4  L24 W22 W28 W25 3.0
+ 14 Chien, Jeffrey         OVLGF41X  1251  1269/120  L1  W32 W26 L16 W17 3.0
+ 15 Xu, Jeffery            TYEGJ88V  1208  1257/ 30  W27 L9  L10 W31 W18 3.0
+ 16 Amalo, Eliot           HSCI282X  1354  1326/112  D25 L5  W31 W14 L7  2.5
+ 17 Shi, Gavin             ADDJH855  1618  1548/363  W19 W10 L2  L6  L14 2.0
+ 18 Shah, Kanav            LMAF295Q  1371  1354/130  W24 W4  L5  L3  L15 2.0
+ 19 Wakeman, Oliver        INLKG10Y  1259  1222/ 89  L17 L23 W29 L25 W30 2.0
+ 20 Anand, Lakshana        RSAFC68H  1246  1193/ 87  L8  L30 W32 W26 L9  2.0
+ 21 Hetamsaria, Aayan      TYEIG19R  1218  1222/ 44  W5  L1  L4  L24 W31 2.0
+ 22 Nguyen, Viet           TMBG508J  1218  1172/169  L2  L31 L13 W32 W29 2.0
+ 23 Xu, Yang               CNCE649B  1208  1202/110  L3  W19 L6  W30 L12 2.0
+ 24 Joshi, Vyom            LEOIH81X  1160  1178/201  L18 W13 L12 W21 L11 2.0
+ 25 Prabhu, Varun          HLYG329U  1063  1123/ 60  D16 L6  D27 W19 L13 2.0
+ 26 Wani, Vivaan Vikram    GTMIK15E   666   837/ 26  W6  L3  L14 L20 W28 2.0
+ 27 Balayoghan, Keeran     OMSG477N  1437  1331/100  L15 L28 D25 L29 W32 1.5
+ 28 De, Rishik             INGHJ87T  1204  1152/ 46  L9  W27 L11 L13 L26 1.0
+ 29 Wang, Isaac            CLHEK00U  1195  1155/ 17  L10 L7  L19 W27 L22 1.0
+ 30 Chow, Jayden           INLK1684   996  1000/127  L11 W20 L7  L23 L19 1.0
+ 31 Stall, David           INLJB36G   600   794/  9  L12 W22 L16 L15 L21 1.0
+ 32 Tsen, Eric             AGBDK18P   459   456/ 62  U   L14 L20 L22 L27 0.0
+
+Rating Report For National Chess Day Scholastic Section K-12 U1200
+ pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Palod, Menang          REJIK61M  1098  1282/108  W30 W21 W23 W4  W9  5.0
+  2 Zandanov, Leonid       WLBCK31Q  1170  1246/ 47  L4  W35 W32 W15 W7  4.0
+  3 Jayadevan, Kunal       SCDD893P  1095  1169/ 80  W28 WF  L7  W10 W15 4.0
+  4 Jiang, Nathan          EINHJ95G   700  1423/  5  W2  W10 W22 L1  W16 4.0
+  5 Hessel, Riot           LIYIJ96D   800  1308/  5  W32 W13 L9  W12 W11 4.0
+  6 Yu, Patrick            BOTM621D  1164  1154/ 27  L15 D24 W28 W29 W20 3.5
+  7 King, Miles            WSAJK48E  1144  1170/ 20  W25 W33 W3  D9  L2  3.5
+  8 Chopra, Aaryaman       BISIK30K  1113  1108/ 54  L33 W36 W21 D20 W18 3.5
+  9 Chabot, Troy           BRSKK15U  1097  1182/ 15  W27 W26 W5  D7  L1  3.5
+ 10 Das, Sambuddha Sekhar  ENDDK47S  1166  1162/ 55  W36 L4  W14 L3  W27 3.0
+ 11 Raj, Skandha           EVGBK55U  1116  1125/ 67  W26 W20 L15 W23 L5  3.0
+ 12 Black, Stas            WPPF368F  1105  1107/106  L20 W25 W27 L5  W24 3.0
+ 13 Shi, Shawn             JIND356Y  1058  1053/ 25  W31 L5  L29 W26 W22 3.0
+ 14 Kedarisetty, Ishan     INGG300B  1006  1016/157  L22 W31 L10 W34 W23 3.0
+ 15 Kedarisetty, Shreyas   INGHH60G   979  1111/150  W6  W16 W11 L2  L3  3.0
+ 16 Luo, Peter             SHVE664K  1191  1167/ 68  W19 L15 W24 D18 L4  2.5
+ 17 Vutukuri, Niharika     REJHB12L  1081  1031/ 68  W34 L27 L20 W19 D21 2.5
+ 18 Crabbe, Tyler          CPKL655P  1062  1036/ 89  L21 W30 W33 D16 L8  2.5
+ 19 Rachiba, Alisa         EVPDK08E  1004   993/ 37  L16 D28 W35 L17 W29 2.5
+ 20 Bates, Killian         HEAIK18M   901   994/ 24  W12 L11 W17 D8  L6  2.5
+ 21 Ang-lee, Ellery        EINIH848   717   893/ 34  W18 L1  L8  W35 D17 2.5
+ 22 Zhang, Nathan          EINIK00X  1199  1104/ 10  W14 L23 L4  W25 L13 2.0
+ 23 Jayadevan, Neel        SCDG230P  1038  1014/100  W29 W22 L1  L11 L14 2.0
+ 24 Deng, Arthur           OPWCC90Y  1001   995/ 59  D35 D6  L16 W33 L12 2.0
+ 25 Ramanathan, Hamsini    OPWIH41M   968   950/ 60  L7  L12 W30 L22 W34 2.0
+ 26 Cheruku, Adhrith       RCSE827Q   928   922/ 77  L11 L9  W31 L13 W33 2.0
+ 27 Verma, Eshaan          EALKC02S   799   881/156  L9  W17 L12 W32 L10 2.0
+ 28 Bangari, Ishaan        FRWFJ96C   500   943/  5  L3  D19 L6  D36 W32 2.0
+ 29 Friedenson, Isaac      VVMHK21N   463   544/ 15  L23 BYE W13 L6  L19 2.0
+ 30 Branum, Luther         REGHK91C   845   831/ 15  L1  L18 L25 D31 W36 1.5
+ 31 Cadman, Howard         OESCN727   715   743/ 28  L13 L14 L26 D30 W35 1.5
+ 32 Ye, Alex               ENDEH51L  1034   963/ 81  L5  W34 L2  L27 L28 1.0
+ 33 Phillips-acheson, SebasEMHH817T   904   875/231  W8  L7  L18 L24 L26 1.0
+ 34 Sinha, Rian            UPAI790Y   731   728/ 15  L17 L32 W36 L14 L25 1.0
+ 35 Sreraman, Rohit        BCADG92Q  1166  1029/168  D24 L2  L19 L21 L31 0.5
+ 36 Sreraman, Rahul        BCADJ42L  1000   893/162  L10 L8  L34 D28 L30 0.5

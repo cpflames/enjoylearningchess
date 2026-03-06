@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jin, Michael           HMNGD09X   573   849/  5  W2  W4  W3  3.0
+  2 Menon, Ritwik          WLDG974D   700   727/ 44  L1  W3  W4  2.0
+  3 Mcintyre, Isaac        ETSE466S   568   577/217  W4  L2  L1  1.0
+  4 Kuluru, Samith         LEOHI99K   750   650/256  L3  L1  L2  0.0

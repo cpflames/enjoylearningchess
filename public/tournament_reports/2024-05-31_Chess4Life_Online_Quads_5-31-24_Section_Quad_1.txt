@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Krishnakumar, Vishresh EALKJ46M  1470  1538/ 57  W3  W4  W2  3.0
+  2 Zhong, Alan            TISLN778  1440  1456/ 82  W4  W3  L1  2.0
+  3 Patel, Aarya           REEFK30E  1422  1402/167  L1  L2  W4  1.0
+  4 Maharaja, Imai         HMNDK34K  1341  1296/201  L2  L1  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bikkula, Charan        BLMHJ23A  1193  1220/242  W3  L2  W4  2.0
+  2 Han, Victor            PPPFB39P  1329  1301/185  L4  W1  D3  1.5
+  3 Li, Harry              BCAEG30G  1132  1152/392  L1  W4  D2  1.5
+  4 Pan, Peng-yu           SSMCK24P  1171  1157/108  W2  L3  L1  1.0

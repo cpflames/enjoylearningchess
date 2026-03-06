@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Naik, Shreyas          ETSEJ98X   274   469/  6  W5  W6  W3  3.0
+  2 Fu, Yo-yo              ETSAJ98Q   100   463/  3  D6  D3  W4  2.0
+  3 Pandit, Vihaan         LAVFJ99D   629   573/  9  W4  D2  L1  1.5
+  4 Kommidi, Agasthya      HSCDK01S   412   344/  6  L3  W5  L2  1.0
+  5 Tripathi, Naksh        BRHDJ98P   300   182/  3  L1  L4  W6  1.0
+  6 Lin, Luna              OPWCK01W   164   146/  6  D2  L1  L5  0.5

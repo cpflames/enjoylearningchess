@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Panell, Amanda         ADUNC92B   691   953/ 24  W23 W3  W6  W11 W5  5.0
+  2 Mukherjee, Anjalika    UPAGJ94B   668   739/ 13  L3  W23 W9  W15 W11 4.0
+  3 Wang, Lijuan           ADUNH79Z  1300   994/  5  W2  L1  W14 W13 W7  4.0
+  4 Razmov, Siana          HZFBK93Y   686   692/116  W17 W20 D11 L5  W12 3.5
+  5 Zhang, Arwen           SOME484A   697   764/104  W19 W10 D7  W4  L1  3.5
+  6 Ajay, Aria             LCSBK07M   667   797/ 62  W12 W8  L1  D7  W13 3.5
+  7 Wong, Claire           BCABK86D   673   714/ 58  W21 W13 D5  D6  L3  3.0
+  8 Han, Kaiyi             SOMBK42P   733   703/ 55  W22 L6  L15 W10 W16 3.0
+  9 Li, Crystal            ADUNH79X  1300   604/  5  L10 W19 L2  W18 W15 3.0
+ 10 Mei, Felicity          BCABK89R   630   617/ 54  W9  L5  D12 L8  W17 2.5
+ 11 Zhang, Amy             SOMDC03P   740   729/110  W16 W14 D4  L1  L2  2.5
+ 12 Covey, Lashawna        ADUNH79W  1300   615/  5  L6  W22 D10 W14 L4  2.5
+ 13 Ge, Emma               SSMBJ56J   750   706/ 47  W15 L7  W16 L3  L6  2.0
+ 14 George, Ameya          EBSEK88Y   680   629/ 45  W18 L11 L3  L12 W19 2.0
+ 15 Ni, Nicole             NPTDJ03A   487   499/ 20  L13 W17 W8  L2  L9  2.0
+ 16 Balasubramanian, PrakriAGNFW80U   500   487/  5  L11 W18 L13 W19 L8  2.0
+ 17 Stuart, Alicia         REECK41M   202   229/ 32  L4  L15 WF  W22 L10 2.0
+ 18 Cauich-miller, Amalia  HSCDH79V   300   319/  4  L14 L16 BYE L9  W22 2.0
+ 19 Guruswamy, Tejal       CPJHK10X   369   347/ 22  L5  L9  W22 L16 L14 1.0
+ 20 Stojsavljevic, Ava     SSMAJ12Q   100   100/ 16  BYE L4  U   U   U   1.0
+ 21 Stojsavljevic, Amy     ADUNH79U  1300   351/  1  L7  BYE U   U   U   1.0
+ 22 Mahadikar, Pratvi      JUADJ31A   477   325/ 20  L8  L12 L19 L17 L18 0.0
+ 23 Prasanna, Supriti      REOEJ52H   334   325/ 12  L1  L2  LF  U   U   0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Jacob Z          BLWFE71A   697   789/ 72  W2  W4  D3  2.5
+  2 Chai, Chloe            NCSDJ59R   679   730/ 48  L1  W3  W4  2.0
+  3 Jahani, Nikan          SNIFK89A   761   719/ 48  D4  L2  D1  1.0
+  4 Sarychev, Aleksei      GEKJJ98N   669   626/ 86  D3  L1  L2  0.5

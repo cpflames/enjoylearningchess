@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Sankrithi, Vivaan      HSCAK61R   730   780/ 65  W2  W5  D3  W4  W6  4.5
+  2 Wong, Claire           BCABK86D   368   542/ 30  L1  W9  W8  W5  W3  4.0
+  3 Jiang, Kyle            MEDBK35B   704   665/ 25  W10 W7  D1  D6  L2  3.0
+  4 Razmov, Siana          HZFBK93Y   539   518/ 61  W9  W8  L6  L1  W10 3.0
+  5 Ajay, Aria             LCSBK07M   220   390/ 14  W6  L1  W7  L2  W8  3.0
+  6 Yao, Roger             THOBK88C   579   561/ 30  L5  W10 W4  D3  L1  2.5
+  7 Byelashova, Sofia      SGHBK01K   484   301/  7  WF  L3  L5  W10 L9  2.0
+  8 Liu, Kyle              CNHBK00Z   100   195/  4  BYE L4  L2  W9  L5  2.0
+  9 Ranjith, Janani        SHVBK65E   130   138/ 32  L4  L2  D10 L8  W7  1.5
+ 10 Lew, Theodore          OPWBK28X   293   219/ 25  L3  L6  D9  L7  L4  0.5

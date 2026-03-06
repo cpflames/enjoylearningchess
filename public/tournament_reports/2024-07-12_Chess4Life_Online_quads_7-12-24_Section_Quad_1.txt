@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kandar, Aarav          FISDK21U  1308  1362/115  W4  W3  W2  3.0
+  2 Yun, Daniel D          LAVCK87Z  1307  1306/338  W3  W4  L1  2.0
+  3 Bhattacharjee, ArchishmBLWHA45Y  1107  1103/196  L2  L1  W4  1.0
+  4 Verma, Reyansh         RBREJ20M  1046  1006/ 33  L1  L2  L3  0.0

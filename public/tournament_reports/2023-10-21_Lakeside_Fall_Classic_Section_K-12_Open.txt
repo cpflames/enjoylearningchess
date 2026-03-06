@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Seela, Shashank        EVJHI74N  1510  1595/198  W10 W2  W8  W7  W3  5.0
+  2 Wakeman, Oliver        INLKG10Y  1222  1394/ 94  W7  L1  W4  W6  W8  4.0
+  3 Chang, Liam            LEOH5238  1475  1461/130  W4  L6  W5  W8  L1  3.0
+  4 Maharaja, Imai         HMNDK34K  1246  1270/ 99  L3  W9  L2  BYE W7  3.0
+  5 Konde, Tayshu          LKWI355E  1215  1230/136  L8  BYE L3  W11 W10 3.0
+  6 Xu, Yang               CNCE649B  1202  1268/115  W9  W3  L7  L2  W11 3.0
+  7 Evin, Terrick          EBSCC54L  1376  1347/137  L2  W10 W6  L1  L4  2.0
+  8 Wang, Derek            MEDFF70G  1368  1345/192  W5  W11 L1  L3  L2  2.0
+  9 Chien, Jeffrey         OVLGF41X  1269  1211/124  L6  L4  W11 L10 BYE 2.0
+ 10 Zandanov, Leonid       WLBCK31Q  1246  1220/ 51  L1  L7  BYE W9  L5  2.0
+ 11 Nguyen, Viet           TMBG508J  1172  1101/173  BYE L8  L9  L5  L6  1.0

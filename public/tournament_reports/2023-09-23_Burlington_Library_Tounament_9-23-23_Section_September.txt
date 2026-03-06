@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Vendeland, Alexa       ALLH441X  1200  1219/ 93  W5  W6  W2  3.0
+  2 Taitano, Mila          HSCL673R   899   935/ 24  W7  W4  L1  2.0
+  3 Clark, Finn            MSNEJ99M   400   478/  2  L6  BYE W9  2.0
+  4 Vendeland, Xander      ALLED01Q   870   849/ 71  W8  L2  D6  1.5
+  5 Soto, Tony             LUUIJ99L   800   738/  3  L1  W9  D7  1.5
+  6 Morales-ortega, Zaul   WVEFJ99J   500   855/  3  W3  L1  D4  1.5
+  7 Morales, Antonio       LUUHJ99H   700   698/  3  L2  W8  D5  1.5
+  8 Raygoza, Ciro          LUUHJ99G   700   338/  2  L4  L7  BYE 1.0
+  9 Gutierrez, Juan        WVEGJ99F   600   112/  2  BYE L5  L3  1.0

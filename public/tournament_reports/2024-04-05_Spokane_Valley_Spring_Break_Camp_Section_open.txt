@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zhou, Bryan            LBYGK50Q  1112  1138/ 20  W11 W5  W6  W4  D3  4.5
+  2 Huang, Matthew         LBYHJ05S  1395  1235/ 10  W10 W6  L3  W7  D4  3.5
+  3 Elkins, Indiana        HSCIC15D  1052  1070/ 83  W8  L4  W2  W11 D1  3.5
+  4 Wilson, Nicholas       LBYHJ58B   846   966/ 20  W9  W3  W8  L1  D2  3.5
+  5 Edlund, Caleb          WAXGJ88D   682   786/ 30  W12 L1  D7  W9  W10 3.5
+  6 Mcintyre, John         HSCFJ63F   704   787/ 25  W13 L2  L1  W14 W7  3.0
+  7 Zhou, Ethan            LBYEK50C   919   883/ 25  W14 W10 D5  L2  L6  2.5
+  8 Skelton, Jax           MMCH558V   616   658/ 18  L3  W13 L4  D10 W11 2.5
+  9 Hsu, Max               TNTDK05W   533   587/ 18  L4  D11 W14 L5  W12 2.5
+ 10 Skelton, Tucker        MDRFC00F   659   642/ 20  L2  L7  W13 D8  L5  1.5
+ 11 Scott, Liam            PSPEK50P   650   627/ 40  L1  D9  W12 L3  L8  1.5
+ 12 Young, Daniel          TNTGJ96U   510   484/ 35  L5  D14 L11 W13 L9  1.5
+ 13 Tortorelli, Trey       NWCFJ73E   526   474/ 20  L6  L8  L10 L12 W14 1.0
+ 14 Autry-dalsanders, Reed COBFK48X   608   508/ 42  L7  D12 L9  L6  L13 0.5

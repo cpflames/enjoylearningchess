@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Scollon, Owen          FHVI734D  1763  1779/473  U   W2  W3  2.0
+  2 Mishra, Abhinav        TMBIB02W  1738  1724/126  W3  L1  U   1.0
+  3 Vijeyanandh, Vishnu    TMBIF63Z  1118  1115/174  L2  U   L1  0.0

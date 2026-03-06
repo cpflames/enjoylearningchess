@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Padmanabhuni, Vihaan   LMADH69J   300   746/  3  W3  W2  D5  2.5
+  2 Mishra, Angad          RKWEK70V   556   574/ 81  W6  L1  W4  2.0
+  3 Lee, Julianus          CDWDK90C   458   515/ 32  L1  W4  W6  2.0
+  4 Mehrotra, Ashank       PLKI457S   535   484/ 52  W5  L3  L2  1.0
+  5 Jayaraman, Smrithi     BAEHW998   274   290/ 12  L4  D6  D1  1.0
+  6 Chen, Evan             CDICK60B   348   308/ 14  L2  D5  L3  0.5

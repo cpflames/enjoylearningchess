@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lebedinsky, Alexander  EVJH958F  1387  1475/274  W3  W4  W2  3.0
+  2 Prashant, Niranjan     PFCG468K  1405  1378/180  W4  L3  L1  1.0
+  3 Xu, Zoe                SOMEG70A  1362  1345/340  L1  W2  L4  1.0
+  4 Han, Victor            PPPFB39P  1325  1316/179  L2  L1  W3  1.0

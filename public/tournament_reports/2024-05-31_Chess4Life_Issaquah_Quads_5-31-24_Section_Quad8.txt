@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 George, Ameya          EBSDK88Y   558   592/ 66  W3  W7  W4  3.0
+  2 Chen, Emmett           CGRAH72N   100   443/  2  BYE D4  W6  2.5
+  3 Niu, Edwin             BCAAH73D   114   235/  7  L1  W5  W7  2.0
+  4 Su, Spencer            WCECH72M   200   385/  3  W6  D2  L1  1.5
+  5 Noman, Raaim           AMOAH72K   100   100/  2  L7  L3  BYE 1.0
+  6 Zuehlsdorff, Theo      ISEAH74V   252   159/  5  L4  BYE L2  1.0
+  7 Yau, Sophie            SHSEH72J   400   172/  3  W5  L1  L3  1.0

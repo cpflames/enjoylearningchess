@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mangla, Atharv         GRRDK07C   855   992/ 62  W4  W3  W2  3.0
+  2 Ge, Jeremy             SSMBJ88K   838   849/ 60  W3  D4  L1  1.5
+  3 Juarez-caballero, CristSNIGD76Z   876   849/118  L2  L1  W4  1.0
+  4 Yu, Eric               SOMBK25N   868   816/ 50  L1  D2  L3  0.5

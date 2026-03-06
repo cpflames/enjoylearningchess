@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sampathi Rao, Sri JayraSSMFK37Y   933  1087/ 62  W2  W3  W4  3.0
+  2 Khandhedia, Dhruvin NirCNCE257G  1025  1016/ 46  L1  D4  W3  1.5
+  3 Bravenboer, Jake       OPWDJ97Y  1001   974/ 73  W4  L1  L2  1.0
+  4 Kocherlakota, Vihaan   EBSGA65P   937   901/ 84  L3  D2  L1  0.5

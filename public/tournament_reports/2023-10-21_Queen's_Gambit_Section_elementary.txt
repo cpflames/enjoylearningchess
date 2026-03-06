@@ -1,0 +1,22 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zhou, Bryan            LBYGK50Q  1050  1112/ 15  W9  W13 W3  W6  W10 5.0
+  2 Zhou, Ethan            LBYEK50C   603   829/ 15  W21 D4  W7  W8  W5  4.5
+  3 Avey, Jesse            MDRGK50F   758   836/ 33  W11 W20 L1  W9  W6  4.0
+  4 Wang, Kelby            SKKD796Y   948   937/121  W15 D2  W12 L5  W13 3.5
+  5 Samiev, Alexander      SSPGK22P  1057  1005/ 15  W14 W7  L6  W4  L2  3.0
+  6 Bai, Kelin             SKKFD75J   983   964/192  W10 W8  W5  L1  L3  3.0
+  7 Dahlke, Braxton        ORSEK49Q   615   615/ 25  W17 L5  L2  W20 W15 3.0
+  8 Sherwood, Cole         FREDD99U   589   592/ 49  W18 L6  W15 L2  W19 3.0
+  9 Mcnees, Porter         SKKFK37S   446   538/ 15  L1  W16 W20 L3  W12 3.0
+ 10 Blanton, Maveryk       SRIFK48T   439   523/ 24  L6  W17 W16 W14 L1  3.0
+ 11 Hsu, Max               TNTDK05W   264   430/  8  L3  W18 L13 W17 W14 3.0
+ 12 Scott, Liam            PSPEK50P   730   658/ 15  W19 L14 L4  W13 L9  2.0
+ 13 Sherwood, Owen         FREFH61U   686   657/ 46  W16 L1  W11 L12 L4  2.0
+ 14 Hochheimer, Luca       SGSF179R   560   527/ 53  L5  W12 W19 L10 L11 2.0
+ 15 Young, Daniel          TNTGJ96U   398   377/ 10  L4  W21 L8  W18 L7  2.0
+ 16 Hooker, Apryl          GRCFJ93P   500   308/  5  L13 L9  L10 W19 W21 2.0
+ 17 Smith, Gideon          FREAJ93N   100   218/  4  L7  L10 W21 L11 BYE 2.0
+ 18 Noble, Colter          HUTDJ93M   300   173/  4  L8  L11 BYE L15 W20 2.0
+ 19 Vonner, Kai            HUTDJ96X   152   100/  8  L12 BYE L14 L16 L8  1.0
+ 20 Hopkins, Beatrice      MCSEK48P   100   100/  9  BYE L3  L9  L7  L18 1.0
+ 21 Hooker, Jaina          GRCBJ93L   100   100/  4  L2  L15 L17 BYE L16 1.0

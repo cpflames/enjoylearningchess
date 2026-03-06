@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 He, Oliver             ENDDK71V  1185  1240/253  W4  W3  D2  2.5
+  2 Ganesan, Vidur         RBRE940K  1248  1252/132  W3  D4  D1  2.0
+  3 Patnaik, Rishabhdeva   CRKFG72D  1104  1097/132  L2  L1  W4  1.0
+  4 Hildenbrand, Blane     PSMJ122V  1128  1091/222  L1  D2  L3  0.5

@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sathyamurthy, Sreeshan BLWHJ24M   711   779/ 77  W3  BYE W2  3.0
+  2 Pan, Peng-chi          SSMCK24N   902   868/ 48  BYE W3  L1  2.0
+  3 Bysani, Aakash         SSMBK01D   592   562/ 97  L1  L2  BYE 1.0

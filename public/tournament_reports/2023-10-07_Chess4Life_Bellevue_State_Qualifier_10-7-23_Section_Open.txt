@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kang, Jinue            OMSI2661  1442  1467/294  W13 W15 D2  W8  W4  4.5
+  2 Shah, Aarit            MTWF710Y  1369  1394/ 44  W14 W17 D1  W11 W6  4.5
+  3 Chien, Jeffrey         OVLGF41X  1248  1251/115  D7  L9  W17 W10 W8  3.5
+  4 He, Oliver             ENDDK71V  1178  1184/228  W6  L11 W7  W15 L1  3.0
+  5 Palkar, Ridhaan        HGMH528U  1231  1204/ 18  W12 L8  L15 W17 W11 3.0
+  6 Agrawal, Anay          PLKGE67A   929  1056/ 63  L4  W13 W9  W14 L2  3.0
+  7 Dashore, Atharv        GTMI775F   795   976/ 15  D3  D10 L4  W16 W14 3.0
+  8 Kunisetty, Chekresh    ENSFK99L  1457  1405/ 56  W16 W5  D11 L1  L3  2.5
+  9 Sreraman, Rohit        BCADG92Q  1222  1166/163  L15 W3  L6  D12 W16 2.5
+ 10 Chopra, Aaryaman       BISIK30K  1148  1113/ 49  L11 D7  W13 L3  BYE 2.5
+ 11 Hildenbrand, Blane     PSMJ122V  1116  1161/210  W10 W4  D8  L2  L5  2.5
+ 12 Guilanians, Gavin      OPWH645B   786   834/ 27  L5  BYE L14 D9  W15 2.5
+ 13 Sreraman, Rahul        BCADJ42L  1048  1000/157  L1  L6  L10 BYE W17 2.0
+ 14 Acharya, Arnav         KMNG746Q   933   933/ 40  L2  W16 W12 L6  L7  2.0
+ 15 Gongadi, Sricharan     OMSHK90N   849   925/ 18  W9  L1  W5  L4  L12 2.0
+ 16 Zeitlin, Tom           WOBEI56H   977   904/ 43  L8  L14 BYE L7  L9  1.0
+ 17 Grigoryan, Vlad        HSSJZ95Y   153   153/ 11  WF  L2  L3  L5  L13 1.0

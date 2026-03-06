@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Everbeck, Grey         FACDK83D   490   510/ 29  W9  D3  W4  D2  W5  4.0
+  2 Rosenlieb, Yonit       SKYDK37F   450   491/ 15  W8  W4  W7  D1  D3  4.0
+  3 Weinberger, Mateo      WKECJ64V   353   425/  9  BYE D1  W6  W7  D2  4.0
+  4 Verduin, Bentley       CUEDK37A   244   298/ 10  W6  L2  L1  W8  W7  3.0
+  5 Grennan, Zane          CARCJ25Y   200   121/  4  L7  BYE W9  D6  L1  2.5
+  6 Price, Renley          WKEDJ25X   300   138/  4  L4  W9  L3  D5  BYE 2.5
+  7 Leak, Clayton          WKEDJ64X   140   172/ 10  W5  W8  L2  L3  L4  2.0
+  8 Hiett, Adrian          CARCJ25W   200   100/  4  L2  L7  BYE L4  W9  2.0
+  9 Hamstreet, Cody        CARCJ25V   200   100/  4  L1  L6  L5  BYE L8  1.0

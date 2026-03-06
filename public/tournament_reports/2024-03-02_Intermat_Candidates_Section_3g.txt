@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, Andy             SOMDK05J  1556  1552/ 55  W4  W3  L2  2.0
+  2 Bharadwaj, Samarth     DISDE78A  1418  1444/175  L3  W4  W1  2.0
+  3 Li, Edgar              WOBD883Y  1435  1457/204  W2  L1  W4  2.0
+  4 Kakkad, Vayu           DCTDK50L  1358  1314/512  L1  L2  L3  0.0

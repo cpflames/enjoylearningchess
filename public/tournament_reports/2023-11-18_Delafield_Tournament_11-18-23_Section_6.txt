@@ -1,0 +1,32 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Pantoja, Cain          OCHG228C   800   962/ 35  W15 W12 W7  W8  W4  5.0
+  2 Trevino-gonzalez, RamirOCHGK69A   809   850/ 25  W28 D6  W20 W7  W9  4.5
+  3 Lucatero, Lucas        OCHGF32U   809   820/ 39  W27 W9  W8  L4  W12 4.0
+  4 Hong, Sidney           JMLG478H   804   877/ 88  W18 W11 W5  W3  L1  4.0
+  5 Harmon, Aj             OCHG697N   584   677/ 44  W23 W19 L4  W15 W10 4.0
+  6 Wallace, Brandon       JMLGF29H   483   585/ 20  W24 D2  L9  W30 W20 3.5
+  7 Doss, Ryder            RRGG578Y   866   837/ 36  W14 W10 L1  L2  W13 3.0
+  8 Mejia, Vincent         RRGG271G   588   607/ 86  W29 W13 L3  L1  W30 3.0
+  9 Kubalek, Evander       RRGGD38R   564   605/ 44  W31 L3  W6  W19 L2  3.0
+ 10 Mauseth, Shannon       JMLG483U   537   555/ 35  W22 L7  W24 W14 L5  3.0
+ 11 Saenz, Abigail         STPG672R   465   565/ 35  W16 L4  L15 W17 W22 3.0
+ 12 Jones, Devon           JMLG407J   460   485/ 64  W25 L1  W23 W26 L3  3.0
+ 13 Merryman, Weston       JMLG399H   422   493/ 39  W26 L8  W25 W20 L7  3.0
+ 14 Pleasant, Rahman       STPGK53D   272   331/ 14  L7  BYE W27 L10 W24 3.0
+ 15 Espinoza, Alejandro    JMLGJ81G   600   670/  5  L1  W30 W11 L5  W21 3.0
+ 16 Munoz, Perla           RRGGJ81F   600   415/  4  L11 L18 BYE W31 W28 3.0
+ 17 Sanborn, Ryder         JMLGJ81E   600   550/  5  W21 L20 W18 L11 W26 3.0
+ 18 Gonzalez-jacobo, Isaac STPGJ81D   600   492/  5  L4  W16 L17 D24 W31 2.5
+ 19 Penafiel, Jhon         JMLGJ80Z   600   391/  4  BYE L5  W21 L9  D25 2.5
+ 20 Hayes, Jack            RRGG127B   580   551/ 24  W30 W17 L2  L13 L6  2.0
+ 21 Ramirez, Izabel        STPGA77W   384   367/ 30  L17 W22 L19 W27 L15 2.0
+ 22 Harris, Ethan          RRGGJ80Y   600   328/  5  L10 L21 W28 W25 L11 2.0
+ 23 Zuniga-lara, Yair      STPGJ80X   600   100/  4  L5  L24 L12 BYE D27 1.5
+ 24 Phillips, Oliver       RRGGJ80W   600   284/  5  L6  W23 L10 D18 L14 1.5
+ 25 Mendoza-ramirez, DanielSTPGJ80V   600   229/  5  L12 W29 L13 L22 D19 1.5
+ 26 Perez-serrano, ChristiaSTPGJ80U   600   223/  5  L13 D27 W29 L12 L17 1.5
+ 27 Porcayo, Christian     JMLGJ80T   600   100/  5  L3  D26 L14 L21 D23 1.0
+ 28 Santacruz, Jose        STPGJ80S   600   106/  5  L2  L31 L22 W29 L16 1.0
+ 29 Badillo-chavez, MaddalyHIGGJ80R   600   100/  4  L8  L25 L26 L28 BYE 1.0
+ 30 Correa, Jovani         STPGJ80Q   600   284/  5  L20 L15 W31 L6  L8  1.0
+ 31 Badillo-chavez, MarilynHIGGJ80P   600   189/  5  L9  W28 L30 L16 L18 1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Suresh, Shruti         MTWE650Q   400   488/  9  W3  W2  W4  3.0
+  2 Koster, John           SPTAJ88T   202   210/  9  L4  L1  W3  1.0
+  3 Naik, Shreyas          ETSEJ98X   366   319/ 21  L1  W4  L2  1.0
+  4 Tharian, Isaac         TOPDK39K   299   273/ 17  W2  L3  L1  1.0

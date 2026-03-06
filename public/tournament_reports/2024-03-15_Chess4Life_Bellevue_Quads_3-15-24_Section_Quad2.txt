@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kocherlakota, Vihaan   EBSGA65P   842   951/ 65  W2  W3  W4  3.0
+  2 Siddiqui, Kaamil       BLCJD777   964   941/238  L1  W5  W6  2.0
+  3 Naik, Shreyas          ETSEJ98X   721   740/ 55  W4  L1  W5  2.0
+  4 Pandit, Vihaan         LAVFJ99D   580   575/ 38  L3  W6  L1  1.0
+  5 Yong, Jionni           RDWFW86B   465   482/ 17  W6  L2  L3  1.0
+  6 Tharian, Isaac         TOPDK39K   530   457/ 31  L5  L4  L2  0.0

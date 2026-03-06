@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kolar Shashinandan, ShaCHRDJ44R   211   448/ 10  W3  D6  W8  W4  W2  4.5
+  2 Jiang, Yuanyi          MMECJ58J   573   581/ 10  W4  W7  W5  W6  L1  4.0
+  3 Kuchhal, Pranshi       RSAEB17P   481   432/ 27  L1  L5  BYE W8  W6  3.0
+  4 Casal, Matthias        EBSEK47A   307   326/ 10  L2  BYE W9  L1  W7  3.0
+  5 Liu, Lia               ENADJ58F   150   235/  9  BYE W3  L2  L7  W9  3.0
+  6 Holostov, Benjamin     CRKCJ94A   470   436/ 15  W8  D1  W7  L2  L3  2.5
+  7 He, Joshua             CHRBJ72H   331   299/ 29  W9  L2  L6  W5  L4  2.0
+  8 Shen, Nolan            CDIDJ28A   300   153/  4  L6  W9  L1  L3  BYE 2.0
+  9 Lo, Edwin              BUSDJ27Z   300   100/  4  L7  L8  L4  BYE L5  1.0

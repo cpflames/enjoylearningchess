@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Luna, Max              FERKJ85Y  1011  1072/ 17  W4  W2  LF  2.0
+  2 Brown, Sofia           MRDM128V  1107  1095/ 35  W3  L1  LF  1.0
+  3 Putnam, Israel         LYEKA22J   958   969/ 31  L2  W4  LF  1.0
+  4 Clayton, Evan          SHMLA71G  1023   965/ 40  L1  L3  LF  0.0

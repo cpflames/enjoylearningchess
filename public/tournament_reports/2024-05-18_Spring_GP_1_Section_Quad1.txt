@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Stroud, Jeb            HSCIK22V  1338  1449/127  W3  W2  W4  3.0
+  2 Hildenbrand, Blane     PSMI122V  1387  1405/326  W4  L1  W3  2.0
+  3 Kozaczuk, James        SHKI108A  1236  1246/195  L1  W4  L2  1.0
+  4 Zhang, Owen            FHVI995H  1473  1393/274  L2  L3  L1  0.0

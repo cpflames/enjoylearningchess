@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Amalo, Eliot           HSCI282X  1326  1329/117  W13 D7  D4  W8  W2  4.0
+  2 He, Oliver             ENDDK71V  1235  1248/277  W6  D4  W7  W5  L1  3.5
+  3 Xu, Matthew            EVJG715C  1136  1136/152  W9  L8  W11 W10 D4  3.5
+  4 Hildenbrand, Blane     PSMI122V  1012  1144/246  W11 D2  D1  W7  D3  3.5
+  5 Deng, Arthur           OPWCC90Y   957  1050/ 74  W14 W13 D8  L2  W10 3.5
+  6 Zhu, Kevin             CSME865U   999  1005/406  L2  L11 W14 W12 W8  3.0
+  7 Sathish, Ritwin        RSAFC54Z  1092  1099/ 65  W10 D1  L2  L4  W9  2.5
+  8 Arul, Anshul           EGMI664P  1041  1046/ 35  W12 W3  D5  L1  L6  2.5
+  9 Guilanians, Gavin      OPWH645B   965   934/ 37  L3  L12 W13 W11 L7  2.0
+ 10 Barrenkala, Surya      EVJG238E   965   946/ 57  L7  W14 W12 L3  L5  2.0
+ 11 Iyer, Amshul           IMSIK11M   759   840/ 18  L4  W6  L3  L9  W13 2.0
+ 12 Senthilkumar, SiddhanthTMBHG15U   697   717/ 74  L8  W9  L10 L6  WF  2.0
+ 13 Li, Chuling            CNHF567N  1007   932/ 75  L1  L5  L9  W14 L11 1.0
+ 14 Empil, Lander          BBTJJ82B   977   867/ 14  L5  L10 L6  L13 LF  0.0

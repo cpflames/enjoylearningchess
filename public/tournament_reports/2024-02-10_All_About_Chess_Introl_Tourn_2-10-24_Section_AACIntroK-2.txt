@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Pan, Peng-yu           SSMCK24P   619   729/ 36  W14 W7  W3  W2  4.0
+  2 Pan, Peng-chi          SSMCK24N   689   679/ 30  W13 W4  W6  L1  3.0
+  3 Bysani, Aakash         SSMBK01D   602   610/ 79  W16 W5  L1  W9  3.0
+  4 Menezes, Kian          CLHBJ97B   319   385/ 18  W8  L2  W14 W11 3.0
+  5 Swain, Samarth         MMEBJ58S   418   450/ 14  W9  L3  W15 W6  3.0
+  6 Sathyamurthy, Shreyus  BLWBJ60Z   254   279/ 24  W15 W11 L2  L5  2.0
+  7 Brakenridge, Ryan      SOMBK05L   100   168/ 24  W10 L1  L9  W15 2.0
+  8 Gupta, Pavan           CHACJ27T   200   173/  4  L4  L13 W12 W14 2.0
+  9 Wortman, Alexander     SOMBJ31M   160   268/  6  L5  W16 W7  L3  2.0
+ 10 Shah, Krisha           CEIBJ27R   100   113/  4  L7  L14 W16 W13 2.0
+ 11 Duran, Leon            NCSBJ27Q   100   217/  4  W12 L6  W13 L4  2.0
+ 12 Kuramoto, Emi          SOMBJ58N   100   100/  8  L11 L15 L8  W16 1.0
+ 13 Dua, Ayaan             CRICJ27P   200   100/  4  L2  W8  L11 L10 1.0
+ 14 Li, Amelia             SSMBJ27N   100   100/  4  L1  W10 L4  L8  1.0
+ 15 Phadnis, Akash         DISAJ27M   100   100/  4  L6  W12 L5  L7  1.0
+ 16 Dietrich, Luka         ISEAJ27L   100   100/  4  L3  L9  L10 L12 0.0

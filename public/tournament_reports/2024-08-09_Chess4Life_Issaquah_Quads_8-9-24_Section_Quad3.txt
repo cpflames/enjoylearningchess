@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Liu, Brayden           NPTEH69D   708   737/ 12  W4  L3  W2  2.0
+  2 Kuluru, Samith         LEOHI99K   704   733/274  W3  W4  L1  2.0
+  3 Lechner, Ryker         HSCF496J   702   732/ 87  L2  W1  W4  2.0
+  4 Xiong, Micah           SCDDK39Y   690   608/ 38  L1  L2  L3  0.0

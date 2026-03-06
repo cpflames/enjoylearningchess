@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Patel, Aarya           REEFK30E  1529  1592/122  W4  W3  W2  3.0
+  2 Bimod, Karthik         SLLHW89E  1512  1506/ 86  D3  W4  L1  1.5
+  3 Hildenbrand, Blane     PSMI122V  1433  1444/286  D2  L1  W4  1.5
+  4 Kang, William          SOMHC12H  1434  1384/ 92  L1  L2  L3  0.0

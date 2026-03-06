@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bhandari, Aarav        CBRDJ06H   423   525/ 25  W3  W2  W4  3.0
+  2 Nam, Alex              BLWDH75Q   365   386/ 10  W4  L1  W6  2.0
+  3 Vatsan, Maitri         SSMBK00S   243   256/ 72  L1  D6  W5  1.5
+  4 Shin, Joshua           CRKBJ63R   190   198/ 52  L2  W5  L1  1.0
+  5 Paidipathi, Kiaan      SHSBJ99C   215   178/ 77  W6  L4  L3  1.0
+  6 Nandakiran, Advaith    SSMBJ88H   260   191/ 55  L5  D3  L2  0.5

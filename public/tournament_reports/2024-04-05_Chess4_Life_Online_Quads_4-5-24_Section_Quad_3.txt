@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tian, Eric             SOMFI80S  1172  1176/151  L3  W4  W2  2.0
+  2 Kandar, Aarav          FISDK21U  1145  1156/ 88  W4  W3  L1  2.0
+  3 Navarro, Sebastian     TT1HX59S   964  1053/ 21  W1  L2  W4  2.0
+  4 Song, Charlie          KJHIJ08F  1053   990/ 50  L2  L1  L3  0.0

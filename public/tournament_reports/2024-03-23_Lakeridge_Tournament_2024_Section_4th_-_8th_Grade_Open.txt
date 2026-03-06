@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Patnaik, Rishabhdeva   CRKFG72D  1228  1352/167  W11 W9  D10 W2  W3  4.5
+  2 Xu, Yang               CNCE649B  1219  1289/143  W8  W6  D5  L1  W9  3.5
+  3 Bates-callaghan, EmmettBCSEJ49J  1174  1204/ 75  D16 W17 W4  W10 L1  3.5
+  4 Flores Uriegas, Andres HLYE159F  1094  1186/ 61  D5  W12 L3  W16 W10 3.5
+  5 Kwan-uchiyama, Avery   JINFH22T  1366  1329/ 91  D4  W16 D2  D11 D8  3.0
+  6 Wang, Isaac            CLHEK00U  1237  1214/ 66  W15 L2  L11 W12 W17 3.0
+  7 Xu, Alex               EMSH500U  1154  1151/140  W18 L10 L8  W13 W11 3.0
+  8 Figatner, Jonathan     LKDF165L   948  1108/ 24  L2  W15 W7  D9  D5  3.0
+  9 Joshi, Vyom            LEOIH81X  1267  1239/265  W13 L1  W14 D8  L2  2.5
+ 10 Pan, Jesse             ENSCJ61R  1237  1220/ 20  W14 W7  D1  L3  L4  2.5
+ 11 Dhameeja, Ved          GRREJ98F   983  1084/ 91  L1  W13 W6  D5  L7  2.5
+ 12 Zhang, Kyrene          LKDFC84Y  1114  1078/193  D17 L4  D15 L6  W14 2.0
+ 13 Chu, Joshua            EASFC73V  1088  1052/ 29  L9  L11 W18 L7  W16 2.0
+ 14 Wang, Evan             FRWD929Z  1007  1003/125  L10 W18 L9  W15 L12 2.0
+ 15 Ward, Benjamin         IMSGK32Q  1086  1017/ 39  L6  L8  D12 L14 WF  1.5
+ 16 Zhu, Alex              LKDFJ55P   862   886/ 25  D3  L5  W17 L4  L13 1.5
+ 17 Savage, Ethan          IMSIH94R   800   889/  5  D12 L3  L16 W18 L6  1.5
+ 18 Nagpal, Ronen          WMEEK13Q   911   838/ 47  L7  L14 L13 L17 LF  0.0

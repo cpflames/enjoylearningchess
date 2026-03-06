@@ -1,0 +1,76 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chavez, Jessie         BMCEK53S   808  1070/ 35  W17 W12 W22 W27 W4  5.0
+  2 Naungayan, Landon      CRPFJ80K   991  1041/ 30  W15 W5  L8  W22 W21 4.0
+  3 Cress, Emmett          JMLHH54B   970  1053/ 55  U   W35 W45 W25 W8  4.0
+  4 Allmon, Jeremiah       JMLHJ81X   934  1007/ 20  W34 W16 W20 W21 L1  4.0
+  5 Picicci, Logan         RRGIK52T   918   979/ 25  W7  L2  W69 W33 W19 4.0
+  6 Chung, Ian             LIBEG54U   897   937/104  W36 W11 L21 W51 W27 4.0
+  7 Vanderschoor, Peyton   MTPF490Y   848   881/ 64  L5  W43 W48 W30 W28 4.0
+  8 Trevino-gonzalez, RamirOCHGK69A   808   965/ 45  W38 W69 W2  W9  L3  4.0
+  9 Rost, Landon           JMLHJ02G   700   950/  5  W56 W53 W43 L8  W17 4.0
+ 10 Hong, Sidney           JMLG478H   962   932/112  L16 W19 D38 W59 W31 3.5
+ 11 Gogic, Arian           JMLHK96A   947   942/ 54  W42 L6  W47 D14 W35 3.5
+ 12 Yuan, Edward           LECFK69S   944   934/ 78  D33 L1  W59 W52 W37 3.5
+ 13 Lukson, Luka           LECFF91D   897   887/ 45  D35 L33 W39 W64 W38 3.5
+ 14 Hertelendy, Chris      LIBI832Z   589   686/ 45  W60 L38 W67 D11 W33 3.5
+ 15 Bates, Lucas           LECFK96Q   896   860/ 20  L2  L20 W70 W63 W39 3.0
+ 16 Moe, Steven            OCHHH29P   890   875/ 50  W10 L4  W46 L28 W48 3.0
+ 17 Hong, Samira           MCGDB77R   808   818/ 72  L1  W49 W23 W26 L9  3.0
+ 18 Hemperly, Harper       HSCEI09E   800   763/ 61  L69 W25 L27 W70 W49 3.0
+ 19 Oh, Sarah              OERFC73R   790   792/ 79  W44 L10 W30 W57 L5  3.0
+ 20 Graham, Benjamin       RRGID22G   772   774/ 90  W45 W15 L4  L31 W50 3.0
+ 21 Coates, Ethan          BLSI820M   768   855/ 40  W46 W42 W6  L4  L2  3.0
+ 22 Hall, Grayden          JMLHK68M   760   807/ 47  W47 W34 L1  L2  W51 3.0
+ 23 Gomez, Anthony         OCHHD08B   640   654/ 56  U   W54 L17 W67 W57 3.0
+ 24 Gonzalez-jacobo, Isaac STPGJ81D   638   648/ 15  L43 L30 W72 W54 W42 3.0
+ 25 Barnett, Eli           CDKIJ81S   597   652/ 20  W52 L18 W71 L3  W43 3.0
+ 26 Mauseth, Shannon       JMLG483U   578   598/ 45  L64 W72 W32 L17 W45 3.0
+ 27 Mejia, Xavior          RRGI533Y   576   736/132  W29 W44 W18 L1  L6  3.0
+ 28 Hayes, Jack            RRGG127B   551   612/ 29  W71 L46 W61 W16 L7  3.0
+ 29 Espinoza, Alejandro    JMLGJ81G   493   642/ 20  L27 W32 L42 W69 W47 3.0
+ 30 Li, Junyi              IDXHY99G   413   607/ 15  W63 W24 L19 L7  W44 3.0
+ 31 Schutz, Victoria       CHJGJ59P   281   443/ 17  L59 W58 W50 W20 L10 3.0
+ 32 London, Matthew        BLSHJ02D   700   606/  5  W57 L29 L26 W62 W46 3.0
+ 33 Hickman, Joshua        VISFJ45T   884   862/ 10  D12 W13 W37 L5  L14 2.5
+ 34 Wang, Evan             TRHDJ78X   866   798/ 28  L4  L22 D64 W75 W59 2.5
+ 35 Schutz, Henry          KCCFJ80M   846   824/ 27  D13 L3  W55 W65 L11 2.5
+ 36 Chin, Ian              LECEF95D   813   756/ 81  L6  D37 W40 L39 W65 2.5
+ 37 Lucatero, Lucas        OCHGF32U   724   719/ 49  W48 D36 L33 W40 L12 2.5
+ 38 Dodson, Tyson          KCCH234D   702   726/ 56  L8  W14 D10 W55 L13 2.5
+ 39 Penafiel, Jhon         JMLGJ80Z   513   575/ 18  D65 W62 L13 W36 L15 2.5
+ 40 Foster, Kolbi          JMLIJ62M   227   357/ 19  W75 D52 L36 L37 W64 2.5
+ 41 Martinez, Miguel       RRGHJ81Q   190   300/ 19  D55 L59 W75 L42 W69 2.5
+ 42 Huang, Maxwell         LECE520H   886   809/ 49  L11 L21 W29 W41 L24 2.0
+ 43 Romero, Osias          RRGI973N   745   703/ 99  W24 L7  L9  W60 L25 2.0
+ 44 Castaneda, Alonso      MCUEK69H   658   615/ 44  L19 L27 W54 W53 L30 2.0
+ 45 Banuelos, Arturo       MCUFD90C   658   629/156  L20 W50 L3  W71 L26 2.0
+ 46 Sanborn, Ryder         JMLGJ81E   641   619/ 29  L21 W28 L16 W72 L32 2.0
+ 47 Morris, Tyson          GVMIK68Q   640   618/ 30  L22 W51 L11 W66 L29 2.0
+ 48 Schaaf, Garrett        PCAG801E   636   609/ 29  L37 W64 L7  W74 L16 2.0
+ 49 Mariscal, Jonathan     MCUFK69F   629   580/ 44  L50 L17 W66 W61 L18 2.0
+ 50 Prasad, Sonali         JMLHK68K   614   560/ 44  W49 L45 L31 W73 L20 2.0
+ 51 Kubalek, Evander       RRGGD38R   602   574/ 54  W53 L47 W73 L6  L22 2.0
+ 52 Mejia, Vincent         RRGG271G   507   474/106  L25 D40 W60 L12 D55 2.0
+ 53 Duarte, Carlos         OCHHK52U   502   465/ 35  L51 L9  W58 L44 W74 2.0
+ 54 Thompson, Ayden        JMLIJ98S   478   461/ 48  W62 L23 L44 L24 W73 2.0
+ 55 Gonzalez, Blanca       JMLHJ81M   353   376/ 24  D41 W65 L35 L38 D52 2.0
+ 56 Perez-serrano, ChristiaSTPGJ80U   260   262/ 20  L9  D75 L65 D68 W70 2.0
+ 57 Wright, Andrew         JMLIK95Q   200   289/ 36  L32 W74 W63 L19 L23 2.0
+ 58 Porcayo, Christian     JMLGJ80T   178   159/ 23  L72 L31 L53 BYE W75 2.0
+ 59 Mendoza-ramirez, DanielSTPGJ80V   154   309/ 19  W31 W41 L12 L10 L34 2.0
+ 60 Rodriguez, Priscilla   STPGJ45S   100   199/  8  L14 BYE L52 L43 W71 2.0
+ 61 Macduff, Benjamin      JMLHJ02C   700   349/  5  W68 L63 L28 L49 W72 2.0
+ 62 Saenz, Abigail         STPG672R   575   471/ 50  L54 L39 W68 L32 D67 1.5
+ 63 Munoz, Perla           RRGGJ81F   531   457/ 24  L30 W61 L57 L15 D66 1.5
+ 64 Miranda, Santiago      STPH437Y   447   454/ 90  W26 L48 D34 L13 L40 1.5
+ 65 Penrod, Lynlee         RRGGF17G   374   372/ 30  D39 L55 W56 L35 L36 1.5
+ 66 Evans, Daymein         STPI267E   300   282/ 28  W73 L71 L49 L47 D63 1.5
+ 67 Phillips, Oliver       RRGGJ80W   276   292/ 11  W74 L70 L14 L23 D62 1.5
+ 68 Harris, Ethan          RRGGJ80Y   234   159/ 13  L61 L73 L62 D56 BYE 1.5
+ 69 Lara, Salvador         STPHK68N   688   623/ 32  W18 L8  L5  L29 L41 1.0
+ 70 Kresse, Matthew        JMLIJ81N   513   458/ 18  U   W67 L15 L18 L56 1.0
+ 71 Jones, Devon           JMLG407J   416   353/ 84  L28 W66 L25 L45 L60 1.0
+ 72 Munoz, Miguel          RRGIJ81H   353   307/ 24  W58 L26 L24 L46 L61 1.0
+ 73 Badillo-chavez, MarilynHIGGJ80P   107   113/ 19  L66 W68 L51 L50 L54 1.0
+ 74 Badillo-chavez, MaddalyHIGGJ80R   100   100/ 17  L67 L57 BYE L48 L53 1.0
+ 75 Cervantes, Angel       OCHHJ02B   700   100/  5  L40 D56 L41 L34 L58 0.5

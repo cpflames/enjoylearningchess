@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hildenbrand, Blane     PSMI122V  1145  1310/251  W4  W3  W2  3.0
+  2 Vendeland, Alexa       ALLH441X  1203  1231/ 99  W6  W4  L1  2.0
+  3 Bowman, Finn           SHMLD50L  1158  1168/ 82  W5  L1  W6  2.0
+  4 Zhang, Owen            FHVH995H  1407  1350/240  L1  L2  W5  1.0
+  5 Taitano, Mila          HSCL673R   921   938/ 30  L3  W6  L4  1.0
+  6 Putnam, Israel         LYEKA22J  1050   982/ 25  L2  L5  L3  0.0

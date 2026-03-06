@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sabarish, Ananya       BCADG02Z   984  1007/138  W3  L4  W2  2.0
+  2 Garg, Vihaan           CMCDJ10X  1056  1034/201  W4  D3  L1  1.5
+  3 Sreraman, Rahul        BCADJ42L   939   949/189  L1  D2  W4  1.5
+  4 Mcintyre, Isaac        ETSE466S   917   908/188  L2  W1  L3  1.0

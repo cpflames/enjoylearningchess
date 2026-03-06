@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lin, Shelley           DISCH72Q   280   290/ 12  D2  W4  D3  2.0
+  2 Shen, Nolan            CDIDJ28A   178   242/ 15  D1  W3  D4  2.0
+  3 Li, Brian              CGRBH72Y   221   164/  6  D4  L2  D1  1.0
+  4 Li, Henry              CMCDK03M   204   170/  9  D3  L1  D2  1.0

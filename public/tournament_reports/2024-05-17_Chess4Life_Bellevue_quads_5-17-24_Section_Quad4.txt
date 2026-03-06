@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Naik, Shreyas          ETSEJ98X   850   933/ 69  W4  W2  W3  3.0
+  2 Paine, Clara           TLIEK01Z   715   771/ 42  W3  L1  W4  2.0
+  3 Wong, Claire           BCABK86D   759   733/ 75  L2  W4  L1  1.0
+  4 Hu, Maxwell            BCABK03N   698   632/ 37  L1  L3  L2  0.0

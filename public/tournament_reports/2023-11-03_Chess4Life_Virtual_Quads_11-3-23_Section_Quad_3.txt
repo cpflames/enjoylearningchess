@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xie, Leon              CNHF264X  1014  1132/150  W3  W4  W2  3.0
+  2 Karthik, Sai           BCAD261S   921   996/ 91  W4  W3  L1  2.0
+  3 Sreraman, Rahul        BCADJ42L  1023   996/173  L1  L2  W4  1.0
+  4 Kuluru, Samith         LEOHI99K  1030   951/197  L2  L1  L3  0.0

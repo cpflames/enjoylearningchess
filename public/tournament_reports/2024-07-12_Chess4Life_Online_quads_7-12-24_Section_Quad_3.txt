@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bui, Edwin             FRVEK90H   938  1041/ 70  W4  W2  D3  2.5
+  2 Rizvi, Ayaan           CPJIC91V   995  1020/147  W3  L1  W4  2.0
+  3 Edmond, Alec           CSIEH03G   984   987/215  L2  W4  D1  1.5
+  4 Balaji, Arjun          CMCDH75P  1011   930/ 62  L1  L3  L2  0.0

@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sinha, Pratyaksh       REEDJ69N   300   319/  2  WF  W2  D3  2.5
+  2 Sairam, Advaith        RBRBK01Q   100   129/  7  W3  L1  WF  2.0
+  3 Jara Monesinos, SantiagWHRDJ69M   300   100/  2  L2  WF  D1  1.5
+
+ All Unrated-player Section: Ratings capped at 1000

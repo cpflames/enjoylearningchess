@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Niu, Edwin             BCAAH73D   178   275/ 12  W3  D4  W2  2.5
+  2 Lin, Shelley           DISCH72Q   167   228/  6  W4  W3  L1  2.0
+  3 Zhang, Eli             BCABH69C   100   100/  9  L1  L2  W4  1.0
+  4 Bach, Lan              MCIAH74U   100   100/  8  L2  D1  L3  0.5

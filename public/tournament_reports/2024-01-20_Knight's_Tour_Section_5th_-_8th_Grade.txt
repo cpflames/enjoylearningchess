@@ -1,0 +1,36 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Belgau, Stephen        JFMIK76X  1422  1443/ 54  W7  W14 W5  W9  W2  5.0
+  2 Villanueva, Kirian     CPLIH895  1095  1111/211  W33 W13 W15 W6  L1  4.0
+  3 Olson, Rainn           PNRIK76K  1048  1033/ 25  L15 W30 W19 W28 W9  4.0
+  4 Kumar, Vijesh          JFMIK76B   988   980/ 15  W31 L6  W7  W18 W10 4.0
+  5 Satish Kumar, Sai NavanCENFH21Y   878   979/ 51  W29 W8  L1  W15 W13 4.0
+  6 O'neil, Owen           TLEFG89E   422   696/ 12  W18 W4  W21 L2  W8  4.0
+  7 Casino, Eli            STCFI15Q   876   867/ 37  L1  W26 L4  W30 W19 3.0
+  8 Aubry, Jacob           GRIIK18R   796   800/ 15  W16 L5  W25 W17 L6  3.0
+  9 Murphy, Tristan        YLMIK18X   792   801/ 20  W34 W27 W28 L1  L3  3.0
+ 10 Colon, Xavier          STCIF98F   698   751/ 75  W17 L15 W35 W12 L4  3.0
+ 11 Shields, Conor         KOPGK51J   691   662/ 24  L28 L17 BYE W25 W26 3.0
+ 12 Velichko, Ivan         ASAFK63Z   647   646/ 62  L21 BYE W22 L10 W29 3.0
+ 13 Meyer, Brendyn         YLMHJ90J   530   658/ 10  W35 L2  W29 W21 L5  3.0
+ 14 Garcia-cobian, Rafael  PMSHK38E   530   550/ 48  W26 L1  W27 L19 W30 3.0
+ 15 Keogh, Seiya           WOEFJ51N   500   973/  5  W3  W10 L2  L5  W28 3.0
+ 16 Avvaru, Siddharth      CENFJ51M   500   629/  5  L8  L29 W24 W27 W20 3.0
+ 17 Meka, Suhaas           REOFJ51J   500   774/  5  L10 W11 W20 L8  W22 3.0
+ 18 Little, Wyatt          REOFJ51H   500   728/  5  L6  W31 W23 L4  W21 3.0
+ 19 Zhong, Sebastian       REOFK24D   399   479/ 15  D30 W32 L3  W14 L7  2.5
+ 20 Roorbach, Narin        PIOFK16G   782   698/ 15  W25 L21 L17 W34 L16 2.0
+ 21 Carrell, Samuel        STCG150C   724   681/ 42  W12 W20 L6  L13 L18 2.0
+ 22 Paras, Liam            STCGK61Q   640   578/ 15  L23 W24 L12 W35 L17 2.0
+ 23 Blood, Jason           GRIIK76A   610   566/ 15  W22 L28 L18 L29 W34 2.0
+ 24 Woods, Lewis           LELFJ51E   500   287/  5  L32 L22 L16 W31 W35 2.0
+ 25 Seabourn, Clayton      FLUFJ51D   500   456/  5  L20 W34 L8  L11 W32 2.0
+ 26 Zola, Nate             REOFJ51B   500   394/  5  L14 L7  W31 W32 L11 2.0
+ 27 Reynolds, Luke         FLUGJ51A   600   309/  4  BYE L9  L14 L16 W33 2.0
+ 28 Odupitan, Oliver       STCG964H   588   631/ 19  W11 W23 L9  L3  L15 2.0
+ 29 Seaunier, Lathan       HFLHJ50Z   700   621/  5  L5  W16 L13 W23 L12 2.0
+ 30 Cushing, Hunter        FLUHJ50Y   700   435/  5  D19 L3  W32 L7  L14 1.5
+ 31 Odupitan, Olivia       STCHJ50X   700   100/  4  L4  L18 L26 L24 BYE 1.0
+ 32 Richards, Bryan        CPRFK51N   277   236/ 10  W24 L19 L30 L26 L25 1.0
+ 33 Welborn, Robert        CPRFK51D   100   100/  9  L2  L35 L34 BYE L27 1.0
+ 34 Arora, Gia             REOFJ50T   500   255/  5  L9  L25 W33 L20 L23 1.0
+ 35 Vanderpham, Jackson    REOFJ50R   500   212/  5  L13 W33 L10 L22 L24 1.0

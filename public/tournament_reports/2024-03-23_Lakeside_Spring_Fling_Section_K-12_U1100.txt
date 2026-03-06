@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Annapureddy, Pranav    BISH449G  1097  1136/155  BYE W4  W5  W6  L2  4.0
+  2 Bell, Raimi            OBKGF77Y  1099  1108/ 41  L6  W8  D3  W9  W1  3.5
+  3 Healey, Liam           INMMK56A   971  1042/ 39  W9  L5  D2  W8  W4  3.5
+  4 Liu, Evan              CLHEC52M  1067  1073/ 35  W7  L1  W6  W5  L3  3.0
+  5 Zong, Zara             LSSMJ50K   982  1015/ 27  W8  W3  L1  L4  W7  3.0
+  6 Bates, Killian         HEAIK18M   949   977/ 38  W2  W7  L4  L1  BYE 3.0
+  7 Meka, Suhaas           REOFJ51J   934   891/ 28  L4  L6  W9  BYE L5  2.0
+  8 Mitra, Rishab          OPWF138L   929   895/180  L5  L2  BYE L3  W9  2.0
+  9 Ang-lee, Ellery        EINIH848   893   811/ 38  L3  BYE L7  L2  L8  1.0

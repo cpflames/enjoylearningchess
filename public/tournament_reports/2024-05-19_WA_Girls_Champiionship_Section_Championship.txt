@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Cheng, Selina          TLMG413R  1621  1635/543  W6  W2  D3  W7  W5  4.5
+  2 Zhang, Iris            REDJ858X  1601  1599/401  W7  L1  W6  W3  W8  4.0
+  3 Xu, Zoe                SOMEG70A  1345  1367/345  W8  D5  D1  L2  W7  3.0
+  4 Bian, Erin             LMSII91Y  2166  2166/196  W5  HPB HPB U   U   2.0
+  5 Mathur, Aashi          PLKI522S  1309  1316/330  L4  D3  HPB W8  L1  2.0
+  6 Wu, Shanna             CNHDJ72M  1183  1147/ 13  L1  L7  L2  BYE HPB 1.5
+  7 Sembium, Aditi         BCADK25W  1134  1140/278  L2  W6  D8  L1  L3  1.5
+  8 Thanikonda, Kruti      CMCDK84W  1108  1087/140  L3  BYE D7  L5  L2  1.5

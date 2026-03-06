@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Armitage-selig, PhoenixSUZAJ31Z   564   618/ 28  W6  W2  W3  3.0
+  2 Yin, David             CGRFH67L   500   492/  3  W5  L1  W4  2.0
+  3 Gao, Eason             CHRDH75U   108   189/ 15  D4  W6  L1  1.5
+  4 Song, Owen             CCAAH67J   100   288/  3  D3  W5  L2  1.5
+  5 Melendez, Rafael       CS1GZ774   371   185/  5  L2  L4  W6  1.0
+  6 Owen, Alia             HSCGH67K   600   100/  3  L1  L3  L5  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chung, Ethan           LLMH108U  1569  1630/367  W3  W4  D2  2.5
+  2 Scott, Dane            HSCN293V  1491  1550/ 60  W4  D3  D1  2.0
+  3 Van, Ocean             CWHNK699  1571  1561/236  L1  D2  D4  1.0
+  4 Dillingham, Gregg      ADUNH327  1766  1709/158  L2  L1  D3  0.5

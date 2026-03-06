@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Scott, Dane            ADUN293V  1550  1594/ 63  W4  W3  W2  3.0
+  2 Dillingham, Gregg      ADUNH327  1709  1690/161  W3  W4  L1  2.0
+  3 Koglin, Timmy          ADUNB450  1155  1178/129  L2  L1  W4  1.0
+  4 Talbot, Matthew        ADUN3667  1240  1203/367  L1  L2  L3  0.0

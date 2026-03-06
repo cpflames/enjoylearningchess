@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Young, Henry           SCMFH67U   500   975/  3  W4  W3  W2  3.0
+  2 Young, Walter          MMIIH67T   800   625/  3  W3  W4  L1  2.0
+  3 Lin, Hsuan Hao         HSSDZ75L   300   338/  3  L2  L1  W4  1.0
+  4 Abdukarimov, Samin     BENAH67S   100   100/  3  L1  L2  L3  0.0
+
+ All Unrated-player Section: Ratings capped at 1000

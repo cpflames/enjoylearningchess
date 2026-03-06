@@ -1,0 +1,37 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ramirez, Kane          WIWDJ72E   658   807/ 60  W28 W3  W10 W24 W4  5.0
+  2 Hong, Samira           MCGDB77R   509   589/ 48  W14 W16 L7  W21 W15 4.0
+  3 Wang, Evan             TRHDJ78X   300   741/  5  W31 L1  W14 W9  W7  4.0
+  4 Zarate, Eli            CDKDJ78W   300   813/  5  W6  W9  W8  W7  L1  4.0
+  5 Carranza, Aly Omar     RCEDJ78V   300   594/  5  W21 L10 W25 W11 W8  4.0
+  6 Dahl, August           MTPCJ78U   200   509/  5  L4  D26 W23 W30 W18 3.5
+  7 York, Logan            KCCD527F   688   670/ 28  W25 W20 W2  L4  L3  3.0
+  8 Einarson, Finn         ORWC256K   577   574/ 41  W13 W15 L4  W18 L5  3.0
+  9 Johnson, Ramses        MTPBK53Q   343   400/ 20  W26 L4  W19 L3  W27 3.0
+ 10 Geelhood, Beckett      CDKDK96U   212   381/ 15  W29 W5  L1  L15 W24 3.0
+ 11 Paeschke, Riley        MTPD271X   196   279/ 30  D23 D17 W34 L5  W28 3.0
+ 12 Bosted, Ryker          MTPDJ78T   300   323/  5  D30 W23 L18 W27 D17 3.0
+ 13 Franco, Rozlind        MTPDJ78S   300   306/  5  L8  W32 D27 W34 D19 3.0
+ 14 Esparza, Scartett      MTPDJ78Q   300   408/  5  L2  W33 L3  W32 W30 3.0
+ 15 Samson, Lincoln        KCCBJ78N   100   516/  5  W17 L8  W20 W10 L2  3.0
+ 16 Wallace, Atalie        MTPDJ78L   300   359/  5  W32 L2  D17 D19 W33 3.0
+ 17 Nelson, Miloe          CRPD915Y   400   366/ 26  L15 D11 D16 W29 D12 2.5
+ 18 Hedgecock, Lily        HSCDK97G   350   351/ 15  W34 D24 W12 L8  L6  2.5
+ 19 Mcwhirk, Tristen       CRPC669F   244   253/ 14  D22 W27 L9  D16 D13 2.5
+ 20 Castaneda, Ricky       MTPDJ78K   300   308/  5  W35 L7  L15 D26 W34 2.5
+ 21 Rangel, Marianna       MTPDJ78J   300   308/  5  L5  W35 W28 L2  D26 2.5
+ 22 Anderson, Kaia         MTPDJ78H   300   165/  5  D19 L30 D26 D28 W35 2.5
+ 23 Garcia, Sebastian      BMCDJ78G   300   288/  5  D11 L12 L6  W31 W25 2.5
+ 24 Arrington, Ashton      MTPDJ78F   300   343/  5  W33 D18 W30 L1  L10 2.5
+ 25 Leveque, Emily         MTPDJ78E   300   248/  5  L7  W31 L5  W35 L23 2.0
+ 26 Menjivar, Valery       RFRDJ78D   300   249/  5  L9  D6  D22 D20 D21 2.0
+ 27 Reagan, Paxton         MCGCK96W   109   112/ 22  W36 L19 D13 L12 L9  1.5
+ 28 Badillo-chavez, LeandroFZACJ78C   200   116/  5  L1  W29 L21 D22 L11 1.5
+ 29 Hernandez, Ezekiel     MTPCJ78B   200   100/  5  L10 L28 W33 L17 D32 1.5
+ 30 Webb, Bode             LIBAJ77Y   100   166/  5  D12 W22 L24 L6  L14 1.5
+ 31 Dutcher, Hudson        MCGCJ77X   200   100/  5  L3  L25 D32 L23 W36 1.5
+ 32 Mejia, Victor          CRPCJ77W   200   100/  5  L16 L13 D31 L14 D29 1.0
+ 33 Schlegel, Atticus      MCGCJ77V   200   100/  5  L24 L14 L29 W36 L16 1.0
+ 34 Mcwhirk, Jace          RFPAJ77T   100   100/  5  L18 W36 L11 L13 L20 1.0
+ 35 York, Isabelle         KCCBJ77S   100   100/  5  L20 L21 W36 L25 L22 1.0
+ 36 Lathrop, Lev           MTPBK38K   100   100/  9  L27 L34 L35 L33 L31 0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Moore, Ethan           CRKEJ49L   461   644/ 12  W4  W2  W3  3.0
+  2 Mamilla, Bhavishya     EVGHH88N   700   630/  3  W3  L1  W4  2.0
+  3 Srinivasan, Shriyan    SCDFK16B   448   441/ 16  L2  W4  L1  1.0
+  4 Swain, Samarth         MMEBJ58S   479   400/ 48  L1  L3  L2  0.0

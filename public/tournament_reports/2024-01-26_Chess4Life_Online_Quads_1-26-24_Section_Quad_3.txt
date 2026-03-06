@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hildenbrand, Blane     PSMI122V  1283  1377/258  W4  W2  W3  3.0
+  2 Budhraja, Jai          EBSGA16E  1212  1259/104  W3  L1  W4  2.0
+  3 Zhong, Alan            TISLN778  1287  1261/ 70  L2  W4  L1  1.0
+  4 Tian, Eric             SOMFI80S  1258  1194/136  L1  L3  L2  0.0

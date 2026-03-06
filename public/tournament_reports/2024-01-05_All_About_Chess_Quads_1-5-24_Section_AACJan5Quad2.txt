@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Shrivastava, Parasme   BLMGK00N  1017  1107/ 30  W4  W3  D2  2.5
+  2 Bikkula, Charan        BLMHJ23A  1015  1106/179  W3  W4  D1  2.5
+  3 Zhao, William          STTDH70M  1082  1030/100  L2  L1  WF  1.0
+  4 Tsapkov, David         SNIFJ82A  1046   996/ 13  L1  L2  LF  0.0

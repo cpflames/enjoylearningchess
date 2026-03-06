@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Yuan, Chen             ETSCJ15Z  1184  1280/ 80  D3  W12 W8  W2  W4  4.5
+  2 Evin, Terrick          EBSCC54L  1319  1329/126  W9  W11 W4  L1  W5  4.0
+  3 Das, Sambuddha Sekhar  ENDDK47S   814  1039/ 40  D1  W9  W11 L4  W6  3.5
+  4 Ma, Lewis              SOMC587M  1214  1212/ 67  W10 W8  L2  W3  L1  3.0
+  5 Chen, Felix Y          DISDA67A   863   988/ 51  L11 W6  W7  W8  L2  3.0
+  6 Pan, David             MEDC330Y   957   932/ 65  HPB L5  W10 WF  L3  2.5
+  7 Swaminath, Akshita     CNCD295Z   780   802/ 81  L8  W10 L5  HPB W12 2.5
+  8 Lan, Jonathan          MEDD968F  1155  1102/100  W7  L4  L1  L5  W9  2.0
+  9 Liu, Bihe              KKNBB78J   953   915/ 46  L2  L3  W12 BYE L8  2.0
+ 10 He, Jizhou             OPWC789B   917   849/ 39  L4  L7  L6  W12 BYE 2.0
+ 11 Maharaja, Imai         HMNDK34K  1190  1153/ 71  W5  L2  L3  LF  U   1.0
+ 12 Tsen, Eric             AGBDK18P   495   473/ 49  BYE L1  L9  L10 L7  1.0

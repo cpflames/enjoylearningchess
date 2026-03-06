@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ackerman, Ryan         ADUNC514  1927  1929/235  W4  W3  W2  3.0
+  2 Utsler, Matthew        LWAMK03C  1487  1484/ 35  W3  W4  L1  2.0
+  3 Sarangi, Samarth       CBRDH69F   116   185/ 15  L2  L1  W4  1.0
+  4 Shen, Sylvia           BRHCJ59T   264   220/ 12  L1  L2  L3  0.0

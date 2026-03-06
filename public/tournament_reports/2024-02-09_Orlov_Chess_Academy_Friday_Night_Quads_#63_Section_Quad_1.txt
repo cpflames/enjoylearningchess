@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ghosh, Snehil          CBRE738T  1360  1362/131  W2  W3  BYE 3.0
+  2 Xu, Ethan              BENEK98S   728   750/110  L1  BYE W3  2.0
+  3 Kullmann, Rex          MISDZ89V   644   618/ 30  BYE L1  L2  1.0

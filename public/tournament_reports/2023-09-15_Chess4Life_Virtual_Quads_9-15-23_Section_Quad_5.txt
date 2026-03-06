@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Patnaik, Rishabhdeva   CRKFG72D  1044  1143/116  W3  W4  W2  3.0
+  2 Sreraman, Rahul        BCADJ42L  1054  1018/147  W4  L3  L1  1.0
+  3 Chevuri, Tattva        CBRGC06V   895   901/293  L1  W2  L4  1.0
+  4 Mcintyre, Isaac        ETSE466S  1019   992/169  L2  L1  W3  1.0

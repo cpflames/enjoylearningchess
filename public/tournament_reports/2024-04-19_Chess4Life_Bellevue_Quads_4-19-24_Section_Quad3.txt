@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kullmann, Rex          HSCDZ89V  1013  1068/ 58  W3  W4  D2  2.5
+  2 Jiang, Kyle            MEDBK35B   997   994/ 86  D4  D3  D1  1.5
+  3 Chaturvedi, Raghav     TYEIK75J   930   946/126  L1  D2  W4  1.5
+  4 Kocherlakota, Vihaan   EBSGA65P   989   937/ 81  D2  L1  L3  0.5

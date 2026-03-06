@@ -1,0 +1,36 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Shi, Ted               OMSHD099  1802  1830/308  W28 W11 D2  W16 W5  4.5
+  2 Summerfield, William   FAPIG77R  1752  1804/146  W30 W12 D1  W15 W6  4.5
+  3 Lin, Michael           BASEC97F  1702  1705/318  W21 D4  D24 W19 W14 4.0
+  4 Leong, Aiden Zi Chee   DTSKX657  1500  1664/111  W14 D3  D15 W8  W16 4.0
+  5 Yondon, Odbayar        LMAFK97T  1762  1767/194  W20 W7  W17 D6  L1  3.5
+  6 Eksarevskiy, Albert    LSSJ530Y  1755  1760/ 94  W29 W19 W9  D5  L2  3.5
+  7 Chen, Andy             SOMDK05J  1573  1582/ 26  W31 L5  W29 D13 W17 3.5
+  8 Pisan, Kai             CHYK404C  1753  1716/466  W23 L17 W28 L4  W25 3.0
+  9 Merriman, Dann         WMNEF79Y  1674  1651/549  W25 W27 L6  D12 D13 3.0
+ 10 Subramanian, Thrinay   TYEI466R  1535  1538/128  W33 D15 L16 W24 D12 3.0
+ 11 Zhou, Yuchen           CHREJ42H  1510  1502/548  W35 L1  W31 L14 W26 3.0
+ 12 Kang, Jinue            OMSI2661  1467  1486/299  W26 L2  W34 D9  D10 3.0
+ 13 Singhal, Palash        SKNLH323  1417  1465/159  L15 W25 W26 D7  D9  3.0
+ 14 Tan, Johnny            CLEKJ72U  1000  1575/  5  L4  W21 W27 W11 L3  3.0
+ 15 Li, Edward             REDJ768S  1821  1783/329  W13 D10 D4  L2  D19 2.5
+ 16 Ren, Aaron Song        ENAEG67B  1689  1664/170  D24 W18 W10 L1  L4  2.5
+ 17 Ogier, Alix            SAMKC70T  1533  1541/ 29  W22 W8  L5  HPB L7  2.5
+ 18 Yadlapati, Arush       TSTJA47S  1500  1453/205  D32 L16 L20 W34 W24 2.5
+ 19 Tan, Nathan            UCDE412Y  1479  1483/177  WF  L6  W22 L3  D15 2.5
+ 20 Van Gorkom, Joshua RyanCWAKB02N  1342  1345/ 78  L5  L31 W18 D22 W27 2.5
+ 21 Li, Edgar              WOBD883Y  1224  1257/187  L3  L14 W33 D27 W29 2.5
+ 22 Kaiphanliam, Kieren SisCWHJK52X  1058  1167/ 20  L17 W23 L19 D20 W31 2.5
+ 23 Talathi, Shrey         SNEGK61Z  1250  1217/176  L8  L22 W32 L26 W33 2.0
+ 24 Asakura, Tomoaki       EACLK98T  1211  1244/ 19  D16 W32 D3  L10 L18 2.0
+ 25 Saloranta, Leo         MCRKB40A  1201  1246/171  L9  L13 W30 W28 L8  2.0
+ 26 Jin, Wanho             INLJJ72T   900  1289/  5  L12 W30 L13 W23 L11 2.0
+ 27 Zhang, Bowen           RKWFK55F  1406  1356/ 31  W34 L9  L14 D21 L20 1.5
+ 28 Mathur, Aashi          PLKI522S  1364  1325/318  L1  W33 L8  L25 D30 1.5
+ 29 Su, Alfred             WOBF929B  1302  1266/273  L6  W35 L7  D31 L21 1.5
+ 30 Wang, Ares             MEDFJ77J  1239  1211/303  L2  L26 L25 W32 D28 1.5
+ 31 Prabhu, Varun          LEOG329U  1094  1117/ 70  L7  W20 L11 D29 L22 1.5
+ 32 Boylan, Samuel         MISGZ87X   600   951/  5  D18 L24 L23 L30 W34 1.5
+ 33 Rios, Nicholas         HCCGJ77M  1062   979/  8  L10 L28 L21 BYE L23 1.0
+ 34 Kajava, Riku           AGBFK94X   477   477/  9  L27 BYE L12 L18 L32 1.0
+ 35 Rohitasuke, Kenji      SWHLC677  1027  1011/ 85  L11 L29 U   U   U   0.0

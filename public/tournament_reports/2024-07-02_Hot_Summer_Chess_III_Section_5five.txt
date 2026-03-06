@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Neff, Josiah           CCXGH69Q   249   307/  9  W4  D3  W6  2.5
+  2 Neff, Joseph           CCXDH69L   247   306/  9  D6  W5  W3  2.5
+  3 Melnik, Mark           TCIDH69M   151   206/  6  W5  D1  L2  1.5
+  4 Russell, Huxley        BLEDH73W   150   161/ 11  L1  W6  D5  1.5
+  5 Manookin, Adam         HSCEF67L   270   184/ 50  L3  L2  D4  0.5
+  6 Elder, Hunter          CUECH68K   200   100/  3  D2  L4  L1  0.5

@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Neff, Joseph           CCXDH69L   306   448/ 12  W7  W6  W2  3.0
+  2 Day, Nolan             SKYCJ15W   310   360/ 16  W5  W4  L1  2.0
+  3 Neff, William          CCXBH69K   100   160/  9  L6  W8  W7  2.0
+  4 Hardin, Noah           LYADH68E   300   356/  3  W8  L2  W6  2.0
+  5 Neff, Kathryn          CCXEH69N   100   138/  6  L2  D7  W8  1.5
+  6 Bae, Micaiah           FACCJ64T   283   259/ 21  W3  L1  L4  1.0
+  7 Dunn, Luke             CAREH68Q   100   100/  6  L1  D5  L3  0.5
+  8 Brown, Jordan          HSCCJ64H   100   100/  5  L4  L3  L5  0.0

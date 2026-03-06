@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Taylor, Ryder          KAMK385C   781   800/349  W4  L3  W2  2.0
+  2 Bassen, Abel           WEHEZ72M   765   789/ 38  W3  W4  L1  2.0
+  3 Karthick, Adithya      GTMHK07P   736   778/ 12  L2  W1  W4  2.0
+  4 Ramanathan, Varun      LEOIK88H   713   640/ 33  L1  L2  L3  0.0

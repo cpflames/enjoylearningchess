@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tripathi, Naksh        BRHDJ98P   172   205/  9  L4  W3  W2  2.0
+  2 Shen, Selina           SOMCJ96L   164   215/  6  W3  W4  L1  2.0
+  3 Sairam, Advaith        RBRBK01Q   100   100/  5  L2  L1  W4  1.0
+  4 Uppala, Vihaan         BCAAJ94F   100   100/  3  W1  L2  L3  1.0

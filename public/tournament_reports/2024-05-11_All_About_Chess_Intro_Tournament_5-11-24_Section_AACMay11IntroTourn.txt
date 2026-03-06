@@ -1,0 +1,22 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Surapaneni, Manoah     PROCH77Z   576   697/  9  W18 W20 W4  W3  4.0
+  2 Bolisetty, Varun       CBRCJ73Z   521   598/ 28  D19 W15 W8  W9  3.5
+  3 Swain, Samarth         MMEBJ58S   661   668/ 88  W13 W17 W6  L1  3.0
+  4 Zhang, Patrick         SSSBK01J   543   559/ 90  W16 W10 L1  W13 3.0
+  5 Sud, Amay              CBRDH75G   300   511/  4  L10 W16 W11 W12 3.0
+  6 Penta, Abhi            SHSDH75F   300   626/  4  W21 W9  L3  W10 3.0
+  7 Dong, Marcus           CBRDB54T   446   437/ 14  D15 L8  W21 W19 2.5
+  8 Ferro, Ethan           SNEEH75E   400   557/  4  D11 W7  L2  W15 2.5
+  9 Li, Ethan James        SOMBK00K   453   442/ 40  W14 L6  W17 L2  2.0
+ 10 Venkatesh, Anya        HMNBJ30F   338   410/ 59  W5  L4  W14 L6  2.0
+ 11 Bhandari, Aarav        CBRDJ06H   449   423/ 22  D8  D19 L5  W20 2.0
+ 12 Penta, Ved             SHSAJ06E   248   256/  8  L20 W18 W19 L5  2.0
+ 13 Phadnis, Akash         DISAJ27M   203   234/ 11  L3  BYE W20 L4  2.0
+ 14 Zhao, Bruce            CBRDH75D   300   257/  4  L9  W21 L10 W17 2.0
+ 15 Nam, Alex              BLWDH75Q   394   365/  7  D7  L2  W18 L8  1.5
+ 16 Chang, Nathan          MMECK42T   183   163/ 30  L4  L5  BYE U   1.0
+ 17 Peters, Tyler          CBRDH75W   100   100/  7  BYE L3  L9  L14 1.0
+ 18 Haribabu, Vinoochan    CBRFH75C   500   109/  4  L1  L12 L15 W21 1.0
+ 19 Wong, Hugo             CBRDH75B   300   235/  4  D2  D11 L12 L7  1.0
+ 20 Logesh, Ishan          KKNEH74Z   400   176/  4  W12 L1  L13 L11 1.0
+ 21 Saddi, Veeksha         GRRBK07G   266   100/  7  L6  L14 L7  L18 0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nidamarthi, Nikhil     BLWE375J  1203  1213/203  L2  W3  W4  2.0
+  2 Babbar, Riaan          ENDDJ98D  1107  1150/ 44  W1  D4  D3  2.0
+  3 Bikkula, Charan        BLMHJ23A  1123  1131/216  W4  L1  D2  1.5
+  4 Li, Harry              SSSEG30G  1163  1113/366  L3  D2  L1  0.5

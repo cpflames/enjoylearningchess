@@ -1,0 +1,39 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ahsant, Nickrad        WELBJ56K   792   938/ 25  W20 W12 W3  W10 W6  5.0
+  2 Liang, Grace           BASD183K   775   842/ 32  W17 D15 W16 W11 W10 4.5
+  3 Srinivasan, Atul       TBKAK65P   633   690/ 40  BYE W33 L1  W23 W16 4.0
+  4 Bigelow, Atlas         WMEBJ61F   520   693/ 34  W37 D7  D9  W22 W11 4.0
+  5 Lai, Ryan              SHSAH70N   100   784/  5  L16 W35 W18 W12 W13 4.0
+  6 Chaporkar, Nihar       ENSDK65B   760   775/ 41  W18 D19 W15 W7  L1  3.5
+  7 Muppalla, Vyom         OPWBK19F   682   699/ 30  W32 D4  W19 L6  W20 3.5
+  8 Zhang, David           SOMBK41P   794   751/102  W24 W13 L10 L16 W23 3.0
+  9 Chang, Ethan An Tong   BNTCJ59M   724   687/ 19  D21 W24 D4  L13 W25 3.0
+ 10 Hu, Ryan               OPWAJ97N   701   722/ 72  W26 W14 W8  L1  L2  3.0
+ 11 Zhang, Marina          SSMBJ56B   611   615/ 71  BYE W27 W22 L2  L4  3.0
+ 12 Lam, Sebastian         OPWBJ97R   605   603/ 37  WF  L1  W25 L5  W26 3.0
+ 13 Wright, William        PTFBB71M   582   604/108  W28 L8  W26 W9  L5  3.0
+ 14 Guity, Sage            SYRD251G   547   526/ 60  W36 L10 D32 D20 W27 3.0
+ 15 Lalithmani, Vidyuth    WDEBJ99V   537   591/ 30  W29 D2  L6  W21 D17 3.0
+ 16 Sang, Andy             IMBBK65W   522   638/ 51  W5  W28 L2  W8  L3  3.0
+ 17 Venkatesan, Vaibhav    SSMDJ56L   499   565/ 45  L2  W29 HPB W19 D15 3.0
+ 18 Dhillon, Veer          ETSAJ02P   479   530/ 20  L6  W36 L5  W32 W22 3.0
+ 19 Ramana, Vihaan         KKNBJ99P   536   524/ 40  W30 D6  L7  L17 W28 2.5
+ 20 Xiong, Maxwell         CSICK92H   506   525/ 35  L1  W21 W27 D14 L7  2.5
+ 21 Siva, Vikaat           DISAJ30L   462   456/ 60  D9  L20 W34 L15 W32 2.5
+ 22 Shao, Lang             SOMBK14U   718   634/ 41  W25 W23 L11 L4  L18 2.0
+ 23 Sairam, Advaith        RBRAK01Q   521   484/ 92  W38 L22 W33 L3  L8  2.0
+ 24 Wang, Edda             FRWBK34Z   518   462/ 65  L8  L9  W29 L27 W35 2.0
+ 25 Velichko, Kristina     ASABK07V   414   397/ 81  L22 W30 L12 W31 L9  2.0
+ 26 Goyal, Avyukt          CNHAJ65X   339   339/ 32  L10 W31 L13 W36 L12 2.0
+ 27 Taylor, Anderson       OPWBK65L   244   292/ 20  W35 L11 L20 W24 L14 2.0
+ 28 Zhang, Kyle            OPWAJ19N   147   231/ 27  L13 L16 W30 W33 L19 2.0
+ 29 Martinez, Theoden      SYRCH70L   200   302/  5  L15 L17 L24 W34 W33 2.0
+ 30 Mcquerry, Asher        KSHCH70K   200   192/  5  L19 L25 L28 W37 W34 2.0
+ 31 Steensma, Cormac       KSHCH70J   200   152/  5  L33 L26 W35 L25 W36 2.0
+ 32 Stuart, Alicia         REECK41M   294   291/ 47  L7  W37 D14 L18 L21 1.5
+ 33 Lew, Theodore          OPWBK28X   289   225/ 74  W31 L3  L23 L28 L29 1.0
+ 34 Sterba, Pavel          NOWAK34L   100   100/ 31  HPB HPB L21 L29 L30 1.0
+ 35 Gardner, Teagan        SYRDJ42V   100   100/ 14  L27 L5  L31 BYE L24 1.0
+ 36 Duraikondaar, Dhaswin  FRWBH75Y   100   100/ 15  L14 L18 W37 L26 L31 1.0
+ 37 Taylor, Sloane         SYRBH70G   100   100/  4  L4  L32 L36 L30 BYE 1.0
+ 38 Saravanakumar, PrithiviCDWDH70F   300   100/  1  L23 LF  U   U   U   0.0

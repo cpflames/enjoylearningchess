@@ -1,0 +1,42 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ybarra, Caleb          CKKIK96F   983  1120/ 38  W21 W16 W18 W7  W2  5.0
+  2 Dillingham, Annabella  KCCH229F   997  1048/249  W14 W5  W17 W6  L1  4.0
+  3 Cress, Emmett          JMLHH54B   847   970/ 51  HPB W15 D9  W19 W10 4.0
+  4 Lukson, Luka           LECFF91D   837   897/ 40  W8  L7  W27 W28 W11 4.0
+  5 Allmon, Jeremiah       JMLHJ81X   751   934/ 15  W10 L2  W31 W9  W12 4.0
+  6 Chavez, Israel         MCUEK69M   735   932/ 45  W11 W12 W28 L2  W13 4.0
+  7 Picicci, Logan         RRGIK52T   687   918/ 20  W13 W4  W24 L1  W21 4.0
+  8 Dodson, Tyson          KCCH234D   685   702/ 51  L4  W30 D37 W35 W23 3.5
+  9 Harrington, Ephraim    TRHIK96E   971   953/ 43  D34 W20 D3  L5  W24 3.0
+ 10 Lum, Boaz              TRHCJ62C   969   947/ 20  L5  W34 W35 W16 L3  3.0
+ 11 Moe, Steven            OCHHH29P   915   890/ 45  L6  W25 W26 W17 L4  3.0
+ 12 Wang, Evan             TRHDJ78X   867   866/ 23  W22 L6  W25 W18 L5  3.0
+ 13 Vanderschoor, Peyton   MTPF490Y   857   848/ 59  L7  W26 W29 W24 L6  3.0
+ 14 Oh, Sarah              OERFC73R   821   790/ 74  L2  L28 W39 W38 W26 3.0
+ 15 Hong, Samira           MCGDB77R   804   808/ 67  HPB L3  W34 D30 W29 3.0
+ 16 Hall, Grayden          JMLHK68M   704   760/ 42  W41 L1  W38 L10 W28 3.0
+ 17 Kermani, Kirabella     LLMHG24N   680   698/125  W29 W32 L2  L11 W30 3.0
+ 18 Naranjo, Urijah        RRGI253A   677   724/ 44  W38 W23 L1  L12 W27 3.0
+ 19 Mariscal, Jonathan     MCUFK69F   656   629/ 39  L35 W39 W32 L3  W31 3.0
+ 20 Doss, Ryder            RRGG578Y   834   797/ 45  HPB L9  W22 L23 W35 2.5
+ 21 Mendez, Jaden          MTPFI40R   814   787/ 55  L1  W27 D23 W37 L7  2.5
+ 22 Lemon, Bryce           KCCHF01G   704   688/ 41  L12 D35 L20 W34 W37 2.5
+ 23 Gomez, Anthony         OCHHD08B   612   640/ 52  W33 L18 D21 W20 L8  2.5
+ 24 Banuelos, Arturo       MCUFD90C   651   658/151  W36 W41 L7  L13 L9  2.0
+ 25 Hertelendy, Chris      WIWI832Z   651   589/ 40  W39 L11 L12 L31 W40 2.0
+ 26 Prasad, Sonali         JMLHK68K   639   614/ 39  W40 L13 L11 W33 L14 2.0
+ 27 Barnett, Eli           CDKIJ81S   631   597/ 15  W31 L21 L4  W40 L18 2.0
+ 28 Morris, Tyson          GVMIK68Q   629   640/ 25  W37 W14 L6  L4  L16 2.0
+ 29 Mejia, Xavior          RRGI533Y   603   576/127  L17 W33 L13 W32 L15 2.0
+ 30 Kresse, Matthew        JMLIJ81N   430   513/ 14  HPB L8  W41 D15 L17 2.0
+ 31 Munoz, Miguel          RRGIJ81H   214   353/ 19  L27 W36 L5  W25 L19 2.0
+ 32 Wright, Andrew         JMLIK95Q   125   200/ 31  BYE L17 L19 L29 W38 2.0
+ 33 Johnson, Eli           KCCHJ24B   700   414/  5  L23 L29 W36 L26 W39 2.0
+ 34 Romero, Osias          RRGI973N   790   745/ 94  D9  L10 L15 L22 W41 1.5
+ 35 Duarte, Carlos         OCHHK52U   466   502/ 30  W19 D22 L10 L8  L20 1.5
+ 36 Clayton, Slade         JMLIJ81T   395   343/ 14  L24 L31 L33 D41 BYE 1.5
+ 37 Foster, Kolbi          JMLIJ62M   209   227/ 14  L28 BYE D8  L21 L22 1.5
+ 38 Trevino-gonzalez, MariaOCHH767V   600   509/ 45  L18 W40 L16 L14 L32 1.0
+ 39 Senda, Libni           OCHHJ81R   326   276/ 14  L25 L19 L14 BYE L33 1.0
+ 40 Martinez, Miguel       RRGHJ81Q   222   190/ 14  L26 L38 BYE L27 L25 1.0
+ 41 Hahl, Cameron          BMCEJ79N   898   722/ 25  L16 L24 L30 D36 L34 0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ramana, Vihaan         KKNBJ99P   524   669/ 43  W3  W4  W2  3.0
+  2 Armitage-selig, PhoenixSUZAJ31Z   581   534/ 34  W4  L3  L1  1.0
+  3 Bose, Suhan            BRHCH65Z   481   461/  9  L1  W2  L4  1.0
+  4 Anand, Grahil          TMCFJ89Y   466   455/ 37  L2  L1  W3  1.0

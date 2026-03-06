@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Harry              SSSEG30G   997  1010/303  W4  L2  W3  2.0
+  2 Nidamarthi, Nikhil     RSAE375J   925   966/166  L3  W1  W4  2.0
+  3 Burtram, Dayton        BLMIG77M   973   942/223  W2  L4  L1  1.0
+  4 Xing, Andrew           SSSCK62E   914   900/ 66  L1  W3  L2  1.0

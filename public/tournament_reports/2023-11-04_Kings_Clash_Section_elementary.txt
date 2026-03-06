@@ -1,0 +1,25 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Whalen, Jack           DSRGK96P   810  1013/ 23  W19 W13 W5  W12 W2  5.0
+  2 Bingo, Julian          LBYFK50N   897   954/ 15  W21 W8  W12 W3  L1  4.0
+  3 Avey, Jesse            MDRGK50F   836   879/ 38  W23 W6  W4  L2  W10 4.0
+  4 Lindly, Kellen         SRIFK06E   974   896/  9  W14 W16 L3  W7  W9  4.0
+  5 Bai, Kelin             SKKFD75J   964   950/197  W17 W15 L1  W8  D12 3.5
+  6 Jude, Atticus          HSCEJ88G   400   678/  5  W11 L3  L9  W16 W15 3.0
+  7 Hsu, Max               TNTDK05W   430   533/ 13  L12 W19 W11 L4  W13 3.0
+  8 Blanton, Maveryk       SRIFK48T   523   548/ 29  W20 L2  W21 L5  W14 3.0
+  9 Hochheimer, Luca       SGSF179R   527   543/ 58  L13 W23 W6  W17 L4  3.0
+ 10 Mcnees, Porter         SKKFK37S   538   567/ 20  W24 L12 W13 W14 L3  3.0
+ 11 Sherwood, Owen         FREFH61U   657   610/ 51  L6  W20 L7  W23 W17 3.0
+ 12 Samiev, Alexander      SSPGK22P  1005   954/ 20  W7  W10 L2  L1  D5  2.5
+ 13 Edlund, Caleb          WAXGJ88D   600   454/  5  W9  L1  L10 W20 L7  2.0
+ 14 Young, Daniel          TNTGJ96U   377   403/ 15  L4  W18 W15 L10 L8  2.0
+ 15 Sherwood, Cole         FREDD99U   592   539/ 54  W18 L5  L14 W19 L6  2.0
+ 16 Liu, Eddy              SGSBJ96V   546   442/  9  W22 L4  L17 L6  W21 2.0
+ 17 Hetnar, Ryan           ORSGK49H   235   303/ 14  L5  W24 W16 L9  L11 2.0
+ 18 Zhang, Alex            SKKCJ88B   200   210/  5  L15 L14 L19 W22 W24 2.0
+ 19 Harvey-jones, Liam     HSCGJ88A   600   267/  5  L1  L7  W18 L15 D20 1.5
+ 20 Vonner, Kai            HUTDJ96X   100   147/ 13  L8  L11 W22 L13 D19 1.5
+ 21 Noble, Colter          HUTDJ93M   173   185/  9  L2  D22 L8  W24 L16 1.5
+ 22 Vukasin, Guinevere     HSCEJ87Z   400   100/  5  L16 D21 L20 L18 W23 1.5
+ 23 Stewart, Ben           SJVDJ87Y   300   112/  5  L3  L9  W24 L11 L22 1.0
+ 24 Nicholas, Adelaide     HSCDJ87W   300   100/  5  L10 L17 L23 L21 L18 0.0

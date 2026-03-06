@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nam, Alex              BLWDH75Q   453   496/ 41  W4  W3  W2  3.0
+  2 Chou, Leila            FRIAJ46G   229   276/ 34  W3  W4  L1  2.0
+  3 Paidapathi, Kiaan      SHSBJ99C   141   141/ 97  L2  L1  W4  1.0
+  4 Oh, Neo                BLWAH67Q   100   100/  3  L1  L2  L3  0.0

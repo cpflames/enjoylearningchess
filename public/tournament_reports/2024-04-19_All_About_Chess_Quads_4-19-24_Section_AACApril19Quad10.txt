@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bhandari, Aarav        CBRDJ06H   100   319/ 15  W4  W5  W3  3.0
+  2 Vatsan, Maitri         SSMBK00S   103   243/ 69  W6  D3  W4  2.5
+  3 Chang, Nathan          MMECK42T   205   213/ 25  W5  D2  L1  1.5
+  4 Paidipathi, Kiaan      SHSBJ99C   129   121/ 71  L1  W6  L2  1.0
+  5 Nandakiran, Advaith    SSMBJ88H   100   100/ 43  L3  L1  W6  1.0
+  6 Mutha, Vihaan          CNHAH79R   100   100/  3  L2  L4  L5  0.0

@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Frenk, Rafael          CSIBJ75L   100   819/  5  W7  W5  W2  D4  W8  4.5
+  2 Gupta, Akshay          BCABF62T   619   647/ 33  W6  W3  L1  W7  W4  4.0
+  3 Liu, Nia               SOMBJ84Y   100   260/  9  BYE L2  W6  W9  W10 4.0
+  4 Yang, Jonathan         LKDBK55R   511   560/ 22  WF  W8  W5  D1  L2  3.5
+  5 Liu, Connor            SCDBK94D   499   485/ 29  W9  L1  L4  W10 W6  3.0
+  6 Sharma, Samarth        EVGBJ75K   100   255/  5  L2  W9  L3  W8  L5  2.0
+  7 Yang, Katharine        LKDBK86C   421   342/ 24  L1  W10 D8  L2  L9  1.5
+  8 Liu, Louis             CNHBJ75J   100   194/  5  W10 L4  D7  L6  L1  1.5
+  9 Li, Bryan              MEDAJ75H   100   100/  5  L5  L6  L10 L3  W7  1.0
+ 10 Sharma, Sidarth        EVGBJ75G   100   100/  5  L8  L7  W9  L5  L3  1.0

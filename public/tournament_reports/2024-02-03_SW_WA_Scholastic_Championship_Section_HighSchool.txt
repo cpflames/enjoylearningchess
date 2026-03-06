@@ -1,0 +1,104 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Vansickle, Blake       PCILK81L  1343  1495/ 14   W55  W39  W9   W30  W8  5.0
+  2 Craven, Naato'si       CORMK82D  1469  1486/ 15   W63  W37  D5   W44  W22 4.5
+  3 Aubry, Jesse           CAPJK76P  1336  1375/ 25   W65  W59  W21  D22  W19 4.5
+  4 King, Miles            NKPJK48E  1335  1381/ 41   W66  W58  W12  W50  D6  4.5
+  5 Raj, Jayahari          UHVJ227V  1127  1301/156   W69  W47  D2   W16  W25 4.5
+  6 Sears, Luke            PRHLK12B  1714  1676/ 15   W42  W13  W11  D19  D4  4.0
+  7 Fonseca, Kenzo         WAVJA91R  1445  1425/133   W89  W57  L30  W39  W32 4.0
+  8 Lelli, Andrew          CAPMK81Q  1344  1370/ 10   W64  W14  W31  W35  L1  4.0
+  9 Marty, Treyton         TLOLK80X  1204  1302/ 10   W67  W15  L1   W74  W35 4.0
+ 10 Hernandez-robledo, MariITPKK81F  1049  1085/ 10   W71  L50  W43  W77  W45 4.0
+ 11 Kim, Lucas             HSCKK80H  1033  1167/ 10   W100 W49  L6   W46  W50 4.0
+ 12 Shelton, Isaac         SENM3855   995  1085/ 45   W72  W81  L4   W79  W24 4.0
+ 13 Strey, Malcolm         OHSKK80V   995  1136/ 15   W45  L6   W66  W78  W27 4.0
+ 14 Gipson, Landon         NKPLJ50L   843  1110/ 15   W77  L8   W47  W26  W28 4.0
+ 15 Gong, Charles          OHSKJ41P  1000  1418/  5   W17  L9   W34  W29  W30 4.0
+ 16 Haelle, Joshua         JPPMK82E  1640  1467/ 10   W54  D20  W33  L5   W44 3.5
+ 17 Ross, Ben              SENMK81N  1311  1290/ 15   L15  W83  D55  W54  W53 3.5
+ 18 Sherin, Jack           OHSMK81W  1265  1251/ 15   W92  L22  W63  D53  W55 3.5
+ 19 Herrera, Brian         NKPMJ93K  1134  1214/ 25   W68  W75  W24  D6   L3  3.5
+ 20 Young Byle, Tynan      SENJK829   984  1103/139   W94  D16  W51  L24  W56 3.5
+ 21 Cruz, Justin           PRHKJ91C   949  1107/ 10   W101 W23  L3   D56  W51 3.5
+ 22 Wirkkala-scheller, LogaNSLJJ41N   900  1407/  5   W34  W18  W27  D3   L2  3.5
+ 23 Morrill, Matthew       PCILK81Y  1547  1306/ 10   W97  L21  D54  W42  D33 3.0
+ 24 Zheng, Aiden           OHSJK76Y  1523  1347/ 10   W88  W32  L19  W20  L12 3.0
+ 25 Abbott, Caleb          JPPKK81S  1479  1322/ 10   W43  L35  W89  W36  L5  3.0
+ 26 Johnson, Charles       SENKK81V  1288  1215/ 15   W98  W52  L35  L14  W63 3.0
+ 27 Dunkin, Colby          RHRLK80M  1273  1178/ 10   W90  W53  L22  W59  L13 3.0
+ 28 Priest, Gabriel        WFWMK82B  1269  1188/ 15   W91  W60  L44  W41  L14 3.0
+ 29 White, Preston         CORLK81J  1251  1178/ 10   W99  W86  L50  L15  W64 3.0
+ 30 Roesler, Evan          NKPLJ93H  1125  1159/ 25   W93  W79  W7   L1   L15 3.0
+ 31 Layton, Jonah          WFWKK80E  1105  1082/ 15   W70  W80  L8   L45  W65 3.0
+ 32 Larios, Juan           NKPMK56C   946  1000/ 30   W73  L24  W64  W81  L7  3.0
+ 33 Rodriguez, Alec        NKPLJ93J   915  1021/ 25   W46  D51  L16  W84  D23 3.0
+ 34 Causey, Avery          CEHJK75B   911   983/ 10   L22  W67  L15  W90  W71 3.0
+ 35 Carbajal-vargas, Eric  PRHKK78R   898  1074/ 10   W74  W25  W26  L8   L9  3.0
+ 36 Simmons, Rj            CIRJK76E   895   913/ 20   L75  W68  W70  L25  W74 3.0
+ 37 Flanigan, Jordan       ABDLK79C   874   907/ 10   W102 L2   L46  W67  W73 3.0
+ 38 Desai, Kenji           NKPMJ77G   867   872/ 20   L47  W69  L45  W92  W75 3.0
+ 39 Hickner, Saulomon      NKPMK56B   844   958/ 30   W48  L1   W75  L7   W77 3.0
+ 40 Hovley, Xavier         SKPJK75H   725   759/ 10   L80  L70  W83  W69  W78 3.0
+ 41 Martin-mendoza, Alvaro FOXKK77S   700   820/ 15   L50  W71  W95  L28  W79 3.0
+ 42 Earhart, Nathan        MMRKK77U   609   777/ 10   L6   W101 W49  L23  W81 3.0
+ 43 Morgan, Gunnar         RHRL4097   406   605/  9   L25  BYE  L10  W83  W82 3.0
+ 44 King, Kevin            JPPJJ52N   147   526/  8   BYE  W82  W28  L2   L16 3.0
+ 45 Lambert, Nolan         SENMJ41M  1200  1073/  5   L13  W87  W38  W31  L10 3.0
+ 46 Flores, Jeremy         RALJJ41L   900   990/  5   L33  W97  W37  L11  W59 3.0
+ 47 Lin, Daniel            RALJJ41J   900  1057/  5   W38  L5   L14  W88  W57 3.0
+ 48 Trueax-hortman, Mateo  PELJJ41H   900   886/  5   L39  L55  W99  W62  W58 3.0
+ 49 Crawford, Kenyon       ABDKJ41F  1000   927/  5   W61  L11  L42  W66  W60 3.0
+ 50 Briggs, Anthony        SENMJ41E  1200  1218/  5   W41  W10  W29  L4   L11 3.0
+ 51 Ibanez, Viviana        WFWMK82F  1509  1384/ 14   W62  D33  L20  W52  L21 2.5
+ 52 Foster, Josiah         ONLJK74R   699   755/ 10   W96  L26  D84  L51  W85 2.5
+ 53 Morgan, Joshua         TMWLH795   642   781/ 21   W56  L27  W96  D18  L17 2.5
+ 54 Blood, Jonathan        CAPJK73E   607   741/ 19   L16  W72  D23  L17  W84 2.5
+ 55 Garcia, Diego          PRHKJ41D  1000  1143/  5   L1   W48  D17  W82  L18 2.5
+ 56 Zabarenko-yarosh, NikitCORMJ41C  1200   885/  5   L53  W90  W61  D21  L20 2.5
+ 57 Howard, Logan          ABDKK80A   865   854/ 15   W76  L7   L74  W68  L47 2.0
+ 58 Estrada, Emma          ABDLK79D   756   749/ 15   W103 L4   L77  W70  L48 2.0
+ 59 Truong, Tein           PRHKK11W   740   781/ 15   W78  L3   W80  L27  L46 2.0
+ 60 Nieda, Zach            SENLK56D   717   726/ 10   W95  L28  L79  W72  L49 2.0
+ 61 Hestand, Skye          FOXKK79R   700   671/ 15   L49  W100 L56  L73  W94 2.0
+ 62 Raupp, Julia           FOXMK78D   545   551/ 14   L51  L74  BYE  L48  W97 2.0
+ 63 Leblanc, Samuel        JPPJJ52P   429   546/  9   L2   W102 L18  W93  L26 2.0
+ 64 Ferguson, Ben          PRHKJ41B  1000   946/  5   L8   W76  L32  W80  L29 2.0
+ 65 Cornish, Joshua        ITPJJ41A   900   716/  5   L3   L77  W100 W96  L31 2.0
+ 66 Mason, Ryan            QLTLJ40Z  1100   701/  5   L4   W103 L13  L49  W93 2.0
+ 67 Kourani, Jayden        CORLJ40Y  1100   709/  5   L9   L34  W102 L37  W96 2.0
+ 68 Fedorenko, Nadia       PRHJJ40X   900   812/  5   L19  L36  W76  L57  W86 2.0
+ 69 Jeronimo, Nery         FOXKJ40W  1000   665/  5   L5   L38  W103 L40  W88 2.0
+ 70 Martin Mendoza, Dema   FOXJJ40U   900   756/  5   L31  W40  L36  L58  W91 2.0
+ 71 Kabanuk, Peter         HSCKJ40T  1000   756/  5   L10  L41  W87  W85  L34 2.0
+ 72 Holt, Michael          QLTLJ40S  1100   639/  5   L12  L54  W98  L60  W87 2.0
+ 73 Moeckel, David         WFWKJ40Q  1000   790/  5   L32  L89  W91  W61  L37 2.0
+ 74 Zapf, Cian             TMWMJ40P  1200   869/  5   L35  W62  W57  L9   L36 2.0
+ 75 Evans, Michael         CORLJ40N  1100   857/  5   W36  L19  L39  W86  L38 2.0
+ 76 Plaza, Micah           WFWMJ40M  1200   681/  5   L57  L64  L68  W99  W90 2.0
+ 77 Smith, Jacob           QLTMJ40K  1200   875/  5   L14  W65  W58  L10  L39 2.0
+ 78 Stratis, Edith         NAPMJ40J  1200   666/  5   L59  W98  W85  L13  L40 2.0
+ 79 Lynch, Isaiah          WVYJJ40H   900   819/  5   W85  L30  W60  L12  L41 2.0
+ 80 Pablo Lopez, Royer     FOXJJ40F   900   769/  5   W40  L31  L59  L64  W92 2.0
+ 81 Wood, Kaiden           RHRMJ40E  1200   755/  5   W87  L12  W86  L32  L42 2.0
+ 82 Dunlap, Nathan         TMWKK80Y  1168   861/ 10   D83  L44  W88  L55  L43 1.5
+ 83 Sabey, Joey            NSLKJ40D  1000   578/  5   D82  L17  L40  L43  W1011.5
+ 84 Papenfuse, William     PRHJJ40C   900   583/  5   L86  W99  D52  L33  L54 1.5
+ 85 Eddy, Chase            TMWKK79B   739   597/ 10   L79  W93  L78  L71  L52 1.0
+ 86 Vu, Ryan               SENMK79H   657   616/ 15   W84  L29  L81  L75  L68 1.0
+ 87 Barker, Colby          FOXKK78H   616   556/ 15   L81  L45  L71  W100 L72 1.0
+ 88 Meyer, Liliana         ABDJK73S   557   553/ 10   L24  W94  L82  L47  L69 1.0
+ 89 Mcgrath, Liam          PELJJ40B   900  1033/  3   L7   W73  L25  U    U   1.0
+ 90 Garcia, Darinel        FOXJJ40A   900   541/  5   L27  L56  W101 L34  L76 1.0
+ 91 Cherry, Christopher    QLTKJ39Z  1000   426/  5   L28  L95  L73  W102 L70 1.0
+ 92 Chapman, Kassie        ABDJJ39Y   900   495/  5   L18  L96  W94  L38  L80 1.0
+ 93 Fraker, Ohmrin         FOXKJ39X  1000   427/  5   L30  L85  W97  L63  L66 1.0
+ 94 Perezpenn, Marshall    QLTLJ39W  1100   371/  5   L20  L88  L92  W98  L61 1.0
+ 95 Mcgrath, Cowyn         PELLJ39V  1100   594/  3   L60  W91  L41  U    U   1.0
+ 96 Flores, Mario          FOXKJ39U  1000   505/  5   L52  W92  L53  L65  L67 1.0
+ 97 Dexheimer, Melody      SKPJK72Y   594   448/ 10   L23  L46  L93  D101 L62 0.5
+ 98 Jackson, Simeone       FOXJJ39T   900   305/  5   L26  L78  L72  L94  D99 0.5
+ 99 Fieweger, Reagan       SENKJ39S  1000   298/  5   L29  L84  L48  L76  D98 0.5
+100 Gavorra, Ava           SENKJ39R  1000   245/  5   L11  L61  L65  L87  D1020.5
+101 Tennant, Mason         SENKJ39P  1000   289/  5   L21  L42  L90  D97  L83 0.5
+102 Julio-solano, Osvaldo  FOXJJ39N   900   250/  5   L37  L63  L67  L91  D1000.5
+103 Phillips, Jack         MNOKJ39M  1000   300/  3   L58  L66  L69  U    U   0.0

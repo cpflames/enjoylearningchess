@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wilkerson, Gabriel     BHMMJ85Z  1200  1381/  3  W5  W3  W2  3.0
+  2 Hodges, Xander         BLHMB63W   898   968/ 43  W8  W4  L1  2.0
+  3 Reiss, Madelyn         BLHMJ21Y   909   960/ 53  W7  L1  W6  2.0
+  4 Masterson, Emmett      LYEM300S   899   923/ 36  W6  L2  W7  2.0
+  5 Chiapellone, Teo       SHMMG88R   907   922/ 94  L1  D7  W8  1.5
+  6 Luna, Max              FERKJ85Y  1000   776/  3  L4  W8  L3  1.0
+  7 Siadal, Carson         MRDKK41F   969   896/ 12  L3  D5  L4  0.5
+  8 Qureshi, Danish        BLEGF36V   913   823/ 96  L2  L6  L5  0.0

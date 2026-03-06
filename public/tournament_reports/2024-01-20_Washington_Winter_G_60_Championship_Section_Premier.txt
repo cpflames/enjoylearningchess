@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Thorwe, Pratik         ADUNK10D  1940  2003/ 14  W17 W12 W7  W3  4.0
+  2 Willy, Stephen         HSCIH17K  2224  2216/548  W10 W8  L3  W6  3.0
+  3 Gavrysh, Leonid        ADUN816H  2050  2056/ 60  W16 W18 W2  L1  3.0
+  4 Palathingal, Rafael    HSCE196R  1575  1647/116  W19 L7  W12 W11 3.0
+  5 Yu, Peter              ADUNJ50C  1300  1941/  4  D6  W14 L8  W13 2.5
+  6 Merritt, Jude          MTTLJ57P  1833  1876/  8  D5  W19 W9  L2  2.5
+  7 Pupols, Viktors        ADUN8503  2200  2187/ 60  W15 W4  L1  U   2.0
+  8 Ackerman, Ryan         ADUNC514  1919  1933/215  W11 L2  W5  U   2.0
+  9 Cheng, Selina          TLMG413R  1638  1641/501  L12 W17 L6  W16 2.0
+ 10 Saddi, Neevan Reddy    GRREH87M  1658  1657/214  L2  W16 L11 W18 2.0
+ 11 Chen, Andy             SOMDK05J  1558  1564/ 38  L8  BYE W10 L4  2.0
+ 12 Lee, Sam               ADUNJ50B  1300  1706/  4  W9  L1  L4  W17 2.0
+ 13 Kaelin, Alexander      ADUN8539  1896  1860/217  L18 D15 W14 L5  1.5
+ 14 Jones, Davey V         ADUNC10L  1724  1710/ 31  HPB L5  L13 W19 1.5
+ 15 Roesch, Jeremy         ADUNK20K  1662  1723/  8  L7  D13 W18 U   1.5
+ 16 Rubaiyat, Rhadean      ICKID40L  1577  1555/158  L3  L10 W19 L9  1.0
+ 17 Anandkumar, Haituka    STLJ238P  1570  1538/383  L1  L9  BYE L12 1.0
+ 18 Raja, Rian             SKWG786E  1483  1498/124  W13 L3  L15 L10 1.0
+ 19 Hanson, Roger          ADUNJ69X  1515  1397/  8  L4  L6  L16 L14 0.0

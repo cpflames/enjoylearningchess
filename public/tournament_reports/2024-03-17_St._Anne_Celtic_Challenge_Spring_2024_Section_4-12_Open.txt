@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Fedorov, Vladimir      EVJJF17D  1382  1476/256  W11 W2  W3  W5  W6  5.0
+  2 Foltz, Karsten         HTNI306D  1297  1347/167  W8  L1  W11 W7  W3  4.0
+  3 Mohan, Vishnu          KKNFF41R  1301  1301/134  W4  W5  L1  W10 L2  3.0
+  4 Chaurasia, Vihaan      HMNGH65G  1081  1091/135  L3  L9  W8  W12 W10 3.0
+  5 Nair, Ishan            SKIG670E  1217  1210/163  W9  L3  W10 L1  D7  2.5
+  6 Kosau, Mikhail         OMSIG08J  1174  1163/ 39  L10 W12 D7  W11 L1  2.5
+  7 Chabot, Troy           BRSKK15U  1297  1236/ 34  W12 L10 D6  L2  D5  2.0
+  8 Dhameeja, Ved          GRREJ98F   972   983/ 86  L2  L11 L4  W9  W12 2.0
+  9 Zong, Zara             LSSMJ50K   977   982/ 22  L5  W4  L12 L8  W11 2.0
+ 10 Deepak, Advait         BRHGD74M   847   958/ 55  W6  W7  L5  L3  L4  2.0
+ 11 Lee, Justin            CNLH732V  1108  1059/ 84  L1  W8  L2  L6  L9  1.0
+ 12 Jayadevan, Neel        SCDG230P  1052   994/110  L7  L6  W9  L4  L8  1.0

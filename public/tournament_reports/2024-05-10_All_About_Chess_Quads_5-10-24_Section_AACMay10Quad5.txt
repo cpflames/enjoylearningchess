@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yu, Eric               SOMBK25N   916   936/ 74  W4  L3  W2  2.0
+  2 Ge, Jeremy             SSMBJ88K   896   922/129  W3  W4  L1  2.0
+  3 Pan, Peng-chi          SSMCK24N   885   915/ 91  L2  W1  W4  2.0
+  4 Sathyamurthy, Sreeshan EVJHJ24M   870   796/ 96  L1  L2  L3  0.0

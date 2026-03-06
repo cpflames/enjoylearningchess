@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chang, Ethan An Tong   BNTCJ59M   666   724/ 14  W10 W4  W6  W2  W7  5.0
+  2 Bolisetty, Varun       CBRCJ73Z   402   506/ 21  W11 W12 W3  L1  W4  4.0
+  3 Laughlin, Selah        VLCAJ04G   507   458/ 19  W5  L6  L2  W13 W12 3.0
+  4 Goolla, Devansh        DHLCK16Z   100   323/ 19  W7  L1  W11 W6  L2  3.0
+  5 Mirchandani, Kavir     MEDBJ97A   100   177/ 28  L3  BYE W12 L7  W9  3.0
+  6 Yang, Boris            SSSCH76C   200   413/  5  W8  W3  L1  L4  W10 3.0
+  7 Ram, Krishna           EBSCH76B   200   359/  5  L4  W10 W8  W5  L1  3.0
+  8 Worthington, Andrew    LIBBJ52Q   152   114/ 26  L6  W13 L7  L12 BYE 2.0
+  9 Svoboda, Cj            LIBBJ45W   100   100/ 19  L12 L11 W13 BYE L5  2.0
+ 10 Bossert, Jack          LIBCH80C   100   109/ 11  L1  L7  BYE W11 L6  2.0
+ 11 Madhan, Kaashvi        RCSBH76A   100   140/  5  L2  W9  L4  L10 W13 2.0
+ 12 Duraikondaar, Dhaswin  FRWBH75Y   100   183/  5  W9  L2  L5  W8  L3  2.0
+ 13 Lahiri, Purnava        RCSAJ71Y   100   100/ 17  BYE L8  L9  L3  L11 1.0

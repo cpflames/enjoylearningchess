@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Leon, Nikhil           EBSF587T  1012  1076/126  D2  W4  W3  2.5
+  2 Verma, Reyansh         RBREJ20M  1002  1002/ 27  D1  W3  L4  1.5
+  3 Fan, Theodore          EASBK42S  1016   987/ 67  W4  L2  L1  1.0
+  4 Lew, Abigail           OPWD645P   954   942/147  L3  L1  W2  1.0

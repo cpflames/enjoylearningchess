@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Joshi, Vyom            LEOIH81X  1304  1303/232  W4  W3  L2  2.0
+  2 Bansal, Vivaan         EVJJ452J  1256  1266/106  L3  W4  W1  2.0
+  3 Maheshwari, Vihaan     DGHK695W  1168  1203/104  W2  L1  W4  2.0
+  4 Kandar, Aarav          FISDK21U  1066  1026/ 59  L1  L2  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bimod, Karthik         SLLHW89E  1325  1330/ 48  L2  W4  W3  2.0
+  2 Maharaja, Imai         HMNDK34K  1179  1234/ 81  W1  L3  W4  2.0
+  3 Huang, Emily           OMSHB39A  1309  1296/299  D4  W2  L1  1.5
+  4 Neyland, Dashel        HSCFK03K  1201  1159/ 12  D3  L1  L2  0.5

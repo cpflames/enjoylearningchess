@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Maheshwari, Vihaan     SKNJ695W  1287  1316/123  W4  D2  W3  2.5
+  2 Ramanathan, Varun      LEOIK88H  1210  1276/ 55  W3  D1  W4  2.5
+  3 Joshi, Vyom            LEOIH81X  1218  1196/249  L2  W4  L1  1.0
+  4 Sreraman, Rohit        BCADG92Q  1146  1094/220  L1  L3  L2  0.0

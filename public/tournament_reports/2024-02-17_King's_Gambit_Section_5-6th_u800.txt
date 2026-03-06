@@ -1,0 +1,49 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Schutz, Henry          KCCFJ80M   747   846/ 22  W23 D6  W13 W11 W3  4.5
+  2 Trevino-gonzalez, RamirOCHGK69A   784   808/ 40  W12 W5  L4  W15 W10 4.0
+  3 Chavez, Jessie         BMCFK53S   753   808/ 30  W14 W9  W35 W4  L1  4.0
+  4 Menjivar, Bryan        RFRFJ80L   701   790/ 20  W15 W21 W2  L3  W12 4.0
+  5 Munoz, Salvador        BMCFK53B   665   727/ 33  W16 L2  W18 W29 W13 4.0
+  6 Moguel, Gerardo        RFRFK96N   592   654/ 45  W30 D1  D32 W17 W14 4.0
+  7 Ramirez, Kane          WIWDJ72E   757   734/ 78  L13 W38 D26 W24 W21 3.5
+  8 Sanborn, Ryder         JMLGJ81E   660   641/ 24  HPB L29 W46 W33 W23 3.5
+  9 Harmon, Aj             OCHG697N   652   641/ 54  W24 L3  D33 W39 W27 3.5
+ 10 Penafiel, Jhon         JMLGJ80Z   402   513/ 13  HPB W25 W28 W27 L2  3.5
+ 11 Wagner, Adam           MTPFJ79U   367   542/ 23  HPB W22 W39 L1  W20 3.5
+ 12 Dahl, Heidi            MTPFH58K   549   565/ 40  L2  W26 W34 W32 L4  3.0
+ 13 Moncada, Orlando       MCUFK69D   543   636/ 39  W7  W20 L1  W35 L5  3.0
+ 14 York, Jackson          KCCF472Y   534   554/ 40  L3  W18 W42 W16 L6  3.0
+ 15 Munoz, Perla           RRGGJ81F   525   531/ 19  L4  W34 W47 L2  W32 3.0
+ 16 Bowles, Nathaniel      MTPFJ80J   523   519/ 20  L5  W33 W36 L14 W35 3.0
+ 17 Corey, Owen            MTPF956S   337   416/ 49  W46 D23 D29 L6  W30 3.0
+ 18 Rangel, Valentino      TREFJ79X   261   376/ 20  W42 L14 L5  W36 W29 3.0
+ 19 Langston, Felicity     MTPF424K   125   315/ 52  W47 L32 D21 D22 W31 3.0
+ 20 Olivo, James           BMCF632U   609   558/ 40  D29 L13 W40 W26 L11 2.5
+ 21 Soto, Elijah           RFPFD86Q   576   552/ 35  W25 L4  D19 W28 L7  2.5
+ 22 Wallace, Brandon       JMLGF29H   548   513/ 34  U   L11 W43 D19 W40 2.5
+ 23 Mejia, Vincent         RRGG271G   529   507/101  L1  D17 W41 W37 L8  2.5
+ 24 Ramirez, Yasmine       MCUFK69C   494   484/ 44  L9  D37 W38 L7  W42 2.5
+ 25 Garza, Riot            TREFJ80F   402   365/ 20  L21 L10 W44 D42 W39 2.5
+ 26 Jones, Devon           JMLG407J   400   416/ 79  W31 L12 D7  L20 W43 2.5
+ 27 Flemming, Robert       MTPFJ80G   343   338/ 25  D40 W43 W37 L10 L9  2.5
+ 28 Schutz, Victoria       CHJGJ59P   226   281/ 12  D43 W41 L10 L21 W38 2.5
+ 29 Barrera, Brad          SCJFJ45N   477   470/ 10  D20 W8  D17 L5  L18 2.0
+ 30 Tawoj, Harold          TREFJ53X   423   335/  8  L6  L35 W45 W34 L17 2.0
+ 31 Rodriguez, Andres      MCUFJ62L   371   285/ 15  L26 L46 W48 W47 L19 2.0
+ 32 Ibarra, Angel          CRPFJ79W   340   345/ 25  D41 W19 D6  L12 L15 2.0
+ 33 Guzman, Allison        MCUFJ45P   258   305/ 10  W48 L16 D9  L8  D37 2.0
+ 34 Mendoza, Omar          RFPFK69E   139   175/ 20  W36 L15 L12 L30 W44 2.0
+ 35 Terry, Luke            LIBFJ24A   500   393/  5  W44 W30 L3  L13 L16 2.0
+ 36 Van, Gia               CRPFJ23Y   500   187/  5  L34 W45 L16 L18 W47 2.0
+ 37 Fultz, Parker          TREFJ23X   500   268/  5  W45 D24 L27 L23 D33 2.0
+ 38 Merryman, Weston       JMLG399H   617   507/ 48  HPB L7  L24 W46 L28 1.5
+ 39 Porcayo, Christian     JMLGJ80T   176   178/ 19  HPB W40 L11 L9  L25 1.5
+ 40 Martinez, Alexandra    MCUFJ45H   100   131/ 10  D27 L39 L20 W41 L22 1.5
+ 41 Mosqueda, Diego        MCGFJ45J   100   106/ 10  D32 L28 L23 L40 W46 1.5
+ 42 Hernandez, Genie       MTPFK96J   100   133/ 23  L18 W48 L14 D25 L24 1.5
+ 43 Garcia, Emma           MCUFJ45L   100   132/ 10  D28 L27 L22 W48 L26 1.5
+ 44 Badillo-chavez, MarilynHIGGJ80P   179   107/ 14  L35 L47 L25 W45 L34 1.0
+ 45 Murguia Valdivia, RocioRCEFJ53U   100   100/  8  L37 L36 L30 L44 W48 1.0
+ 46 Szendre, Jason         RRGGJ53Y   100   110/ 13  L17 W31 L8  L38 L41 1.0
+ 47 Benitez Iznaga, EstefanRCEFJ23W   500   100/  5  L19 W44 L15 L31 L36 1.0
+ 48 Badillo-chavez, MaddalyHIGGJ80R   100   100/ 13  L33 L42 L31 L43 L45 0.0

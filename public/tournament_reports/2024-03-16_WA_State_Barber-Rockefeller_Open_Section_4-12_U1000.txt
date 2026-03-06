@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Nadupalli, Varun       TMBHK06T   753   880/ 55  W15 W19 D6  W5  W7  4.5
+  2 Olson, Benjamin        BLCIG50S   924   920/148  W7  D4  L5  W13 W6  3.5
+  3 Gupta, Shivam          EVJG474W   748   777/ 87  W16 D17 D4  D10 W9  3.5
+  4 Gokul, Shravan         EVJGJ89U   716   781/ 25  W20 D2  D3  D11 W10 3.5
+  5 Du, Charles            SOMEA15U   716   825/ 75  W8  D9  W2  L1  W11 3.5
+  6 Xia, Jethro            BCSEK47R   710   833/ 62  W13 W11 D1  W9  L2  3.5
+  7 Yen, Apollo            REJGG78H   696   701/102  L2  W20 W19 W17 L1  3.0
+  8 Bhandula, Aarav        PLKHH96K   700   568/  5  L5  L14 W20 W19 W16 3.0
+  9 Davies, Damien         MCEFK68U   906   851/ 69  W14 D5  W17 L6  L3  2.5
+ 10 Jain, Khushal          EVJIK95B   806   749/ 25  L19 W15 W14 D3  L4  2.5
+ 11 Zhang, Arwen           SOME484A   767   744/ 94  W12 L6  W16 D4  L5  2.5
+ 12 Bhandula, Sparsh       DISFJ03S   450   523/ 10  L11 D13 W18 L14 W17 2.5
+ 13 Vinoth Ganapathy, PavitAUDEH96J   400   656/  5  L6  D12 W15 L2  W14 2.5
+ 14 Upasani, Neil          SSMEJ57C   606   591/ 29  L9  W8  L10 W12 L13 2.0
+ 15 Guruswamy, Tejal       CPJHK10X   222   355/ 12  L1  L10 L13 W18 W19 2.0
+ 16 Namburi, Shriniketh    TMBHJ20A   100   274/  9  L3  W18 L11 W20 L8  2.0
+ 17 Kukreja, Aarav         SOMF433H   583   561/ 58  W18 D3  L9  L7  L12 1.5
+ 18 Chuvashov, Ari         HSCGK02C   898   563/ 11  L17 L16 L12 L15 W20 1.0
+ 19 Srinivas, Sharav       RKWEI03B   580   514/ 45  W10 L1  L7  L8  L15 1.0
+ 20 Prashant, Geetanjali   JINEH96H   400   100/  5  L4  L7  L8  L16 L18 0.0

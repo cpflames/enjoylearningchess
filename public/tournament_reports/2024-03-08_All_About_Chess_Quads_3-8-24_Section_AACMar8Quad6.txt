@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Juarez-caballero, CristSNIGD76Z   701   843/132  W3  W2  W4  3.0
+  2 Jahani, Nikan          SNIFK89A   708   682/ 42  W4  L1  L3  1.0
+  3 Chai, Chloe            NCSDJ59R   705   680/ 42  L1  L4  W2  1.0
+  4 Sarychev, Aleksei      GEKJJ98N   683   664/ 80  L2  W3  L1  1.0

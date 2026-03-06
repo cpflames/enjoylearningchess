@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Xiao, Luke             EASDC79Q   677   709/ 34  W13 W10 W2  W5  L3  4.0
+  2 Razmov, Siana          HZFBK93Y   669   760/106  W3  W4  L1  W7  W5  4.0
+  3 Vigneshwaran, Thavan   AUDCJ19U   246   525/ 10  L2  W13 W6  W8  W1  4.0
+  4 Lin, Luna              OPWCK01W   723   685/ 58  W8  L2  L5  W13 W10 3.0
+  5 Karanam, Aadya         CHKDK84K   580   620/ 77  W11 W6  W4  L1  L2  3.0
+  6 Charuvil Vinu, Suryen  RSHAJ89R   715   637/ 33  W9  L5  L3  W11 D7  2.5
+  7 Khanzode, Advait       SSMDJ56W   581   532/ 29  L10 W12 W11 L2  D6  2.5
+  8 Besati, Arnav          RKWDJ74G   575   519/ 29  L4  W9  D10 L3  BYE 2.5
+  9 Kang, Mason            SSMDJ29J   384   350/ 19  L6  L8  D12 BYE W13 2.5
+ 10 Yang, Charles          BLCCJ19S   225   361/ 10  W7  L1  D8  W12 L4  2.5
+ 11 Koul, Navika           RSADJ83L   100   123/ 22  L5  BYE L7  L6  W12 2.0
+ 12 Upadhyay, Sahar        SNECJ56N   100   100/  9  BYE L7  D9  L10 L11 1.5
+ 13 Srinivas, Siri         RKWCK89Q   372   303/ 37  L1  L3  BYE L4  L9  1.0

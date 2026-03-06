@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Austin A           PLKH438B  1444  1550/144  W3  W2  W4  3.0
+  2 Chen, William          INGH550N  1593  1555/102  W4  L1  L3  1.0
+  3 Prashant, Niranjan     PFCG468K  1481  1463/123  L1  L4  W2  1.0
+  4 Xu, Zoe                SOMEG70A  1380  1383/293  L2  W3  L1  1.0

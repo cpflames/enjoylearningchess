@@ -1,0 +1,30 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Tagor, Bental          ADUNJ89M  1886  1999/ 11  D3  W16 W20 D2  W4  W9  5.0
+  2 Cheng, Edward          GARLC74W  1841  1909/444  D15 W3  W17 D1  W7  W4  5.0
+  3 Verma, Darsh           WONHB52K  1763  1834/200  D1  L2  W28 W11 W23 W10 4.5
+  4 Colombo, Dominic M     GIGMJ74P  1961  1956/ 57  W29 W13 BYE W5  L1  L2  4.0
+  5 Kuipers, Miles         TSTL6766  1816  1836/556  W26 W8  W9  L4  L10 W14 4.0
+  6 Joshi, Atharva         SKNL1352  1800  1815/338  D25 W14 D7  W8  L9  W17 4.0
+  7 Gupta, Saahil          VCEIT84E  1777  1796/ 99  W21 D17 D6  W25 L2  W16 4.0
+  8 Mishra, Abhinav        TMBIB02W  1746  1782/106  W22 L5  W27 L6  W18 W12 4.0
+  9 Flavin, Finnegan       VADGH65Q  1742  1802/ 37  W11 W19 L5  W20 W6  L1  4.0
+ 10 Ramaswamy, Rishi       INTJS63U  1636  1744/120  W12 D20 D18 W13 W5  L3  4.0
+ 11 Olson, Travis          ADUN8893  1796  1801/141  L9  W15 D16 L3  W26 W20 3.5
+ 12 Jammalamadaka, Varnika OVLJD216  1767  1748/502  L10 D28 W26 W21 D17 L8  3.0
+ 13 Campbell, Tim          ADUN3836  1758  1748/121  BYE L4  W24 L10 L16 W25 3.0
+ 14 Boey, Chad             ADUN800V  1716  1727/ 37  D18 L6  D15 W27 W25 L5  3.0
+ 15 Garine, Ujwal          TSTKB99A  1754  1754/220  D2  L11 D14 L23 W19 W28 3.0
+ 16 Razmov, Gabriel        ADDIC26K  1712  1737/314  W23 L1  D11 D18 W13 L7  3.0
+ 17 Bharathy Mohan, Aarav  FRWFC98B  1619  1641/316  BYE D7  L2  W19 D12 L6  3.0
+ 18 Rodriguez, Odysseus    ADUNI89X  1868  1830/ 14  D14 D25 D10 D16 L8  HPB 2.5
+ 19 Wei, Te                ADUNK02V  1790  1728/ 17  W27 L9  D21 L17 L15 W26 2.5
+ 20 Zhang, Michelle        MEDH889L  1777  1759/351  W28 D10 L1  L9  W21 L11 2.5
+ 21 Han, Shuyi             TYEHK47W  1642  1629/326  L7  BYE D19 L12 L20 W27 2.5
+ 22 Vanpoucke, Vernon      ADUNJ685  1827  1763/  5  L8  D26 L25 D28 L24 BYE 2.0
+ 23 Lim, Hayul             VCEHQ94C  1803  1762/ 75  L16 L27 BYE W15 L3  U   2.0
+ 24 Caluza, Severo         ADBNX44A  1800  1781/  8  HPB L29 L13 HPB W22 U   2.0
+ 25 Wang, Leonardo         CKNH233K  1708  1695/ 84  D6  D18 W22 L7  L14 L13 2.0
+ 26 Saddi, Neevan Reddy    GRREH87M  1724  1672/206  L5  D22 L12 BYE L11 L19 1.5
+ 27 Dann, William          ADUN554B  1666  1631/ 71  L19 W23 L8  L14 D28 L21 1.5
+ 28 Nallabothula, Vineesh  EBSH764Q  1644  1622/287  L20 D12 L3  D22 D27 L15 1.5
+ 29 Karthikeyan, HarishkumaREJIJ81A  1822  1826/221  L4  W24 U   U   U   U   1.0

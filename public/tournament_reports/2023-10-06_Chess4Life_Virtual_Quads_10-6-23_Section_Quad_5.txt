@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Goel, Advit            RCSCG22F   525   734/ 36  W2  W4  W3  3.0
+  2 Patel, Yajurva         EALKK10Z   739   720/ 11  L1  BYE W5  2.0
+  3 Wani, Vivaan Vikram    GTMIK15E   697   666/ 21  D4  W5  L1  1.5
+  4 Shao, Lang             SOMBK14U   420   432/ 16  D3  L1  BYE 1.5
+  5 Sardarli, Adnan        MISD671W   572   521/ 86  BYE L3  L2  1.0

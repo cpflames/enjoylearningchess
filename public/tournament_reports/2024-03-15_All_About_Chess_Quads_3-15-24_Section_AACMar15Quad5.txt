@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jahani, Nikan          SNIFK89A   682   761/ 45  W4  D3  W2  2.5
+  2 Chai, Chloe            NCSDJ59R   680   679/ 45  D3  W4  L1  1.5
+  3 Woo, Nina              NCSEJ06R   672   626/  7  D2  D1  L4  1.0
+  4 Sharma, Srishti        ISMGJ88P   670   644/ 29  L1  L2  W3  1.0

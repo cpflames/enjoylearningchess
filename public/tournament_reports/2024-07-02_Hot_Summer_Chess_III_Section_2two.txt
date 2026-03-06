@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Love, Charles          SHML458N  1248  1287/106  W4  W2  W6  3.0
+  2 Vance, Sawyer          FHVHJ32E  1214  1210/ 18  W5  L1  W4  2.0
+  3 Luna, Max              FERKJ85Y  1176  1101/ 38  L6  L4  W5  1.0
+  4 Singh, Jagteshwar      MRDMJ25M   927   953/ 58  L1  W3  L2  1.0
+  5 Qureshi, Danish        BLNGF36V   859   870/126  L2  W6  L3  1.0
+  6 Fine-gucker, Logan     EAGE535R   852   867/ 93  W3  L5  L1  1.0

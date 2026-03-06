@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pan, Peng-ruei         SSME759R  1471  1471/126  D2  W4  W3  2.5
+  2 Babbar, Riaan          ENDDJ98D  1150  1257/ 47  D1  W3  W4  2.5
+  3 Thanikonda, Kruti      CMCDK84W  1175  1169/133  W4  L2  L1  1.0
+  4 Chulki, Aayush         BLMIJ17Y  1168  1117/139  L3  L1  L2  0.0

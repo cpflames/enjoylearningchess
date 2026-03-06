@@ -1,0 +1,30 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Jammalamadaka, Vihaan  WPPGJ90F  2050  2070/376  W15 W13 W4  W9  4.0
+  2 Vemparala, Nikash      OVLII078  2207  2208/417  W25 W11 W14 D3  3.5
+  3 Lu, Yiding             BASH865Z  2187  2190/285  W21 W8  W6  D2  3.5
+  4 Willy, Stephen         HSCIH17K  2224  2214/569  W24 W7  L1  W13 3.0
+  5 Verma, Darsh           WONHB52K  1821  1812/209  W16 L14 W25 W11 3.0
+  6 Scollon, Owen          FHVI734D  1779  1787/477  W26 W17 L3  W14 3.0
+  7 Wang, Leonardo         CKNH233K  1799  1790/107  W29 L4  D15 W16 2.5
+  8 Frederick, Benjamin    EMSGS57X  1499  1501/253  WF  L3  D10 W22 2.5
+  9 Liu, Bichen            KKNHK00D  1495  1539/120  W18 D19 W20 L1  2.5
+ 10 Tang, Haosen           EPSIH941  1331  1420/235  L11 W21 D8  W20 2.5
+ 11 Mishra, Abhinav        TMBIB02W  1724  1720/130  W10 L2  W17 L5  2.0
+ 12 Cheng, Selina          TLMG413R  1629  1584/521  L17 W22 L16 W27 2.0
+ 13 Yadav, Arjun           BLWG664A  1570  1576/121  W27 L1  W23 L4  2.0
+ 14 Raja, Rian             SKWG786E  1465  1501/139  W23 W5  L2  L6  2.0
+ 15 Koripella, Dheeran     INGH610W  1441  1458/ 70  L1  W27 D7  D18 2.0
+ 16 Ma, Ziliang            DCCGA69N  1380  1447/ 68  L5  W24 W12 L7  2.0
+ 17 Amalo, Eliot           HSCI282X  1329  1413/121  W12 L6  L11 W25 2.0
+ 18 Vijeyanandh, Vishnu    TMBIF63Z  1115  1230/178  L9  D28 W24 D15 2.0
+ 19 Ramkumar, Nikhil       RBRG115E  1805  1797/254  W28 D9  U   U   1.5
+ 20 Zhang, Owen            FHVI995H  1497  1453/261  D22 W26 L9  L10 1.5
+ 21 Hildenbrand, Blane     PSMI122V  1403  1382/294  L3  L10 W26 D23 1.5
+ 22 Raghavendra, Srihari   INGHH19D  1152  1213/ 61  D20 L12 W28 L8  1.5
+ 23 Wani, Vivaan Vikram    GTMIK15E   994  1011/ 47  L14 BYE L13 D21 1.5
+ 24 Shih, Tai              OVLHE60P  1453  1413/231  L4  L16 L18 W29 1.0
+ 25 Stroud, Jeb            FHVIK22V  1452  1437/107  L2  W29 L5  L17 1.0
+ 26 Chintalapudi, Srihaan  CPJG662W  1339  1299/135  L6  L20 L21 BYE 1.0
+ 27 Huang, Emily           OMSHB39A  1328  1317/319  L13 L15 W29 L12 1.0
+ 28 Dhawan, Viraj          OVLHI96U  1436  1387/101  L19 D18 L22 U   0.5
+ 29 Avula, Varshith Reddy  RHJH110R  1352  1291/221  L7  L25 L27 L24 0.0

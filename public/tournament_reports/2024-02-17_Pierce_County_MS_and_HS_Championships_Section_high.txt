@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Mullen, Hana           SMZKK81C  1204  1315/ 36  W14 W9  W17 W7  W4  5.0
+  2 Gregory, Lucas         HSCJJ22S   900  1442/  5  D4  W13 W21 W5  W7  4.5
+  3 Remington, Jayden      ERDLJ22R  1100  1181/  5  L7  W19 W15 W16 W10 4.0
+  4 Olson, Brynden         ETVMK82C  1283  1289/ 33  D2  W14 W16 W8  L1  3.5
+  5 Larson, Oscar          SMZKK80P  1118  1135/ 15  W23 D21 W6  L2  W11 3.5
+  6 Lightfoot, Aj          ETVMK56T  1267  1121/ 10  W20 L17 L5  W21 W16 3.0
+  7 Crabbe, Tyler          CPKL655P  1041  1119/ 98  W3  W22 W10 L1  L2  3.0
+  8 Amon, Hans             ETVLK78L   980   990/ 22  W25 L10 W23 L4  W17 3.0
+  9 Callon, Joseph         ETVLJ76S   476   599/ 12  BYE L1  L11 W20 W21 3.0
+ 10 Bartoy, Ben            FOSLJ22P  1100  1099/  5  W19 W8  L7  W12 L3  3.0
+ 11 Chau, Phu              MTTKJ22N  1000   989/  5  W13 L16 W9  W17 L5  3.0
+ 12 Rath, Khuntarri        MTTKJ22M  1000   914/  5  L16 W18 W22 L10 W15 3.0
+ 13 Lowe, Titus            ETVJK76T   952   946/ 18  L11 L2  W20 W23 D14 2.5
+ 14 Nguyen, Hayden         MTTLJ22L  1100  1035/  5  L1  L4  W19 W22 D13 2.5
+ 15 Bush, Amelia           ROGJK75F   763   733/  9  L21 BYE L3  W18 L12 2.0
+ 16 Brooks, Jake           ETVMK56E   704   817/ 13  W12 W11 L4  L3  L6  2.0
+ 17 Moore, Jaiden          ERDMJ22K  1200   939/  5  W24 W6  L1  L11 L8  2.0
+ 18 Doyle, Kodiak          ETVKJ22J  1000   619/  5  L22 L12 W25 L15 W23 2.0
+ 19 Pham, Hayden           MTTKJ22H  1000   817/  5  L10 L3  L14 W25 W22 2.0
+ 20 Dao, Phu Minh          MTTJJ22G   900   569/  5  L6  D24 L13 L9  W25 1.5
+ 21 Jones, Carson          ETVJJ22E   900   807/  5  W15 D5  L2  L6  L9  1.5
+ 22 Manda, Clyde           SMZJJ22D   900   696/  5  W18 L7  L12 L14 L19 1.0
+ 23 Lal, Shaan             ERDLJ22B  1100   556/  5  L5  W25 L8  L13 L18 1.0
+ 24 Mcafee, Dylan          ETVKJ22A  1000   618/  2  L17 D20 U   U   U   0.5
+ 25 Brimmage, Connor       MTTKJ21Z  1000   246/  5  L8  L23 L18 L19 L20 0.0

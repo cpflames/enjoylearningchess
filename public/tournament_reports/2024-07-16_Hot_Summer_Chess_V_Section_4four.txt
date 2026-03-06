@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Neff, Josiah           CCXGH69Q   415   587/ 15  W2  W3  W4  3.0
+  2 Mcneil, Mason          VSTGJ49Y   348   416/ 23  L1  W4  W5  2.0
+  3 Khadimi, Matin         CEEFH67V   500   485/  3  W5  L1  W6  2.0
+  4 Gilday, Finn           CIAEJ17C   330   307/ 22  W6  L2  L1  1.0
+  5 Louws, Micah           CUEBJ16B   314   289/ 25  L3  W6  L2  1.0
+  6 Hardin, Noah           LYADH68E   356   162/  6  L4  L5  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bikkula, Charan        BLMHJ23A   955  1027/193  D4  W3  W2  2.5
+  2 Dhameeja, Ved          GRREJ98F   943   975/ 76  W3  W4  L1  2.0
+  3 Huang, Clora           SOMEK31H   973   943/ 79  L2  L1  W4  1.0
+  4 Mangla, Atharv         GRRDK07C   924   881/ 76  D1  L2  L3  0.5

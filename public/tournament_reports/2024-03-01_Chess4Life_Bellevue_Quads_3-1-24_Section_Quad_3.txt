@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Koster, John           SPTAJ88T   604   610/ 34  L3  W4  W2  2.0
+  2 Deepak, Sairaghav      PLKIA52Q   534   564/ 40  W4  W3  L1  2.0
+  3 Tharian, Isaac         TOPDK39K   445   530/ 28  W1  L2  W4  2.0
+  4 Gagnier, Madeleine     HSCC251F   494   414/ 41  L2  L1  L3  0.0

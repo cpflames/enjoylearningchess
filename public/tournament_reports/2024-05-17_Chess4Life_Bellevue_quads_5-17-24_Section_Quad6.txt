@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Khandelwal, Anay       CHRGA10L   586   635/ 27  W4  W3  W2  3.0
+  2 Tripathi, Naksh        BRHCJ98P   407   432/ 65  W3  W4  L1  2.0
+  3 Njonge, Jeremy         SNPK100U   402   355/205  L2  L1  WF  1.0
+  4 Lee, Benjamin          BDDJH74Y   900   100/  2  L1  L2  LF  0.0

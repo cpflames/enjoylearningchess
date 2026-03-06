@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chevuri, Tattva        CBRGC06V  1059  1141/326  W3  W4  W2  3.0
+  2 Fang, Weiai            LAVD696W   992  1018/222  W4  W3  L1  2.0
+  3 Goel, Advit            CMCCG22F   939   928/ 77  L1  L2  W4  1.0
+  4 Zakonov, Peter         BCALH925   958   890/ 19  L2  L1  L3  0.0

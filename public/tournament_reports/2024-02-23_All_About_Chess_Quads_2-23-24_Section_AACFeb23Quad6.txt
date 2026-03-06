@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pan, Peng-chi          SSMCK24N   695   737/ 41  W2  D4  W3  2.5
+  2 Malhotra, Sartaj       KNDFK69K   580   636/ 51  L1  W3  W4  2.0
+  3 Krogstad, Jaxon        NCSCJ88M   686   638/ 44  W4  L2  L1  1.0
+  4 Yan, Alyan             NCSDJ63Q   500   478/ 21  L3  D1  L2  0.5

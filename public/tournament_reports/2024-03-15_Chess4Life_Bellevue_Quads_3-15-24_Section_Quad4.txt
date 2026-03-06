@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Gagnier, Madeleine     HSCC251F   414   466/ 44  W3  W4  W2  3.0
+  2 Venkatesh, Anya        HMNBJ30F   268   256/ 22  D4  W3  L1  1.5
+  3 Lai, Brycen            WLBDK02D   100   120/  6  L1  L2  W4  1.0
+  4 Saravanan, Navin       FRWAJ85A   116   100/ 21  D2  L1  L3  0.5

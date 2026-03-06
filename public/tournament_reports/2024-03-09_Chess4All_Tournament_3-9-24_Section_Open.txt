@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Yu, Peter              ADUNJ50C  1896  1889/ 14  W4  D3  W8  W2  W7  4.5
+  2 He, Oliver             ENDDK71V  1423  1526/334  W12 W8  W7  L1  W3  4.0
+  3 Hard, Adam             ADUNH79Y  1319  1431/ 22  W11 D1  W5  W7  L2  3.5
+  4 Pantea, Joshua         ABEJK63M  1320  1364/ 52  L1  W11 W9  D5  W10 3.5
+  5 Yuan, Chen             ETSCJ15Z  1234  1279/114  W6  L7  L3  D4  W9  2.5
+  6 Bhaskara, Yash         ICKJI539  1294  1255/297  L5  L9  BYE D11 W12 2.5
+  7 Goupinets, Andrew      ADUNJ69S  1575  1536/ 27  W9  W5  L2  L3  L1  2.0
+  8 Hildenbrand, Blane     PSMI122V  1444  1403/290  W10 L2  L1  L9  BYE 2.0
+  9 Ghosh, Snehil          CBRE738T  1297  1294/149  L7  W6  L4  W8  L5  2.0
+ 10 Raj, Skandha           EVGBK55U  1150  1132/110  L8  W12 L11 BYE L4  2.0
+ 11 Wang, Harvey           OPWBJ68G  1165  1172/102  L3  L4  W10 D6  HPB 2.0
+ 12 Sembium, Aditi         BCADK25W  1229  1168/264  L2  L10 HPB U   L6  0.5

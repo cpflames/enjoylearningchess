@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Scollon, Owen          FHVI734D  1741  1763/471  W6  W4  W2  W3  W9  5.0
+  2 Stroud, Jeb            FHVIK22V  1408  1452/103  W10 W3  L1  W5  W4  4.0
+  3 Hildenbrand, Blane     PSMI122V  1449  1433/283  W9  L2  W5  L1  W7  3.0
+  4 Vance, Sawyer          FHVHJ32E  1332  1278/  7  W7  L1  W10 W6  L2  3.0
+  5 Vendeland, Alexa       HSCH441X  1207  1201/106  W8  W6  L3  L2  W10 3.0
+  6 Choukalas, Kevin       LYMGJ65Q  1003   986/ 15  L1  L5  W7  L4  W8  2.0
+  7 Williams, Conner       LYMIK35D   552   571/ 19  L4  W9  L6  D8  L3  1.5
+  8 Mcneil, Mason          VSTGJ49Y   356   444/ 10  L5  L10 W9  D7  L6  1.5
+  9 Cancelosi, Nicholas    VSTGM25W   669   612/ 54  L3  L7  L8  W10 L1  1.0
+ 10 Aguila-contreras, EdgarHORHJ65J   610   594/ 13  L2  W8  L4  L9  L5  1.0

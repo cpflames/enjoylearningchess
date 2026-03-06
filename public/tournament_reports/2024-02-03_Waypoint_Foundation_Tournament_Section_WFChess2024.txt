@@ -1,0 +1,107 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Malone, Hayden         EPHMJ37G  1200  1000/  6   W62  W30  W28  W15  W16  W2  6.0
+  2 Ochoa Medina, Julian   QUJIJ37F   800  1000/  6   W45  W21  W11  W24  W17  L1  5.0
+  3 Weitzel, Drew          EPHJJ37D   900  1000/  5   W43  W61  W37  W35  D4   U   4.5
+  4 Santiago, Emanuel      QUJHJ37C   700  1000/  5   W49  W10  W19  W29  D3   U   4.5
+  5 Gutierrez, Lydia       QHSMJ37A  1200  1000/  5   W64  L15  W40  W50  W29  U   4.0
+  6 Yurian, Bruce          EPHLJ36Z  1100  1000/  5   W38  W32  L15  W58  W28  U   4.0
+  7 Fox, Collin            NLCKJ36Y  1000  1000/  5   W91  W34  W13  L17  W31  U   4.0
+  8 Chamberlain, Roger     MOLKJ36X  1000  1000/  5   W84  W33  W57  L16  W35  U   4.0
+  9 Naidenov, Isaak        SOAKJ36W  1000   952/  5   W92  L35  W67  W36  W37  U   4.0
+ 10 Schneider, James       COCKJ36V  1000  1000/  5   W69  L4   W85  W34  W30  U   4.0
+ 11 Lester, Travis         EPHKJ36U  1000  1000/  5   W70  W59  L2   W38  W47  U   4.0
+ 12 Perdue, Chance         LAHJJ36S   900  1000/  5   W71  W41  L17  W70  W42  U   4.0
+ 13 Ponce-mota, Andres     EPHJJ36R   900  1000/  5   W86  W47  L7   W68  W21  U   4.0
+ 14 Mclain, Ben            EPHJJ36P   900  1000/  5   W74  W77  L24  W45  W22  U   4.0
+ 15 Sureshkumar, Nikhilesh MOCIJ36N   800  1000/  5   W96  W5   W6   L1   W24  U   4.0
+ 16 Polupan, Timothy       SOKIJ36M   800  1000/  5   W99  W25  W26  W8   L1   U   4.0
+ 17 Claassen, Benjamin     MOCHJ36L   700  1000/  5   W103 W51  W12  W7   L2   U   4.0
+ 18 Naidenov, Ethan        HSCFJ36K   500   985/  5   L32  W65  W59  W55  W50  U   4.0
+ 19 Gales, Paul            MOLKJ36J  1000   924/  5   W85  W60  L4   W62  D20  U   3.5
+ 20 Naidenov, Grace        HSCIJ36H   800   876/  5   L46  W94  W86  W23  D19  U   3.5
+ 21 Taylor-mohs, Jackson   MOLMJ36G  1200   943/  5   W63  L2   W69  W53  L13  U   3.0
+ 22 Gumiran, John Paul     MOLMJ36F  1200   828/  5   W67  L57  W83  W33  L14  U   3.0
+ 23 Pugh, Emily            EPHMJ36E  1200   898/  5   W65  W31  L29  L20  W53  U   3.0
+ 24 Chafee, Zane           LAHLJ36D  1100  1000/  5   W39  W82  W14  L2   L15  U   3.0
+ 25 Gutierrez, Luis        QHSKJ36C  1000   817/  5   W68  L16  L70  W52  W72  U   3.0
+ 26 Vasquez, Alexander     NLCKJ36B  1000   855/  5   W93  W36  L16  L37  W68  U   3.0
+ 27 Carson, Kosumi         LAHJJ36A   900   692/  5   L42  W72  L68  W92  W70  U   3.0
+ 28 Kalmbach, Matthias     MOLJJ35Z   900  1000/  5   W94  W46  L1   W41  L6   U   3.0
+ 29 Parrish, Caches        LAHJJ35Y   900   992/  5   W75  W48  W23  L4   L5   U   3.0
+ 30 Vasquez, Michael       NLCIJ35X   800   992/  5   W95  L1   W43  W46  L10  U   3.0
+ 31 Tun, Isaiah            MENIJ35W   800   785/  5   W97  L23  W71  W48  L7   U   3.0
+ 32 Schneider, Daniel      COCIJ35V   800   857/  5   W18  L6   L42  W93  W69  U   3.0
+ 33 Fox, Liam              NLCIJ35U   800   801/  5   W100 L8   W74  L22  W73  U   3.0
+ 34 Adams, Belle           EPMHJ35T   700   834/  5   W76  L7   W44  L10  W75  U   3.0
+ 35 Fancher, Patrick       QUJHJ35S   700   997/  5   W88  W9   W55  L3   L8   U   3.0
+ 36 Paluch, Zachary        MOCHJ35Q   700   748/  5   W78  L26  W80  L9   W74  U   3.0
+ 37 Rodriguez, Eli         MLCHJ35P   700   945/  5   W79  W56  L3   W26  L9   U   3.0
+ 38 Schmidt, Harrison      MOCGJ35N   600   880/  5   L6   W98  W51  L11  W80  U   3.0
+ 39 Santiago, Josue        QUJGJ35K   600   708/  5   L24  L99  W100 W77  W55  U   3.0
+ 40 Garza, Lesandro        MOCGJ35J   600   807/  5   L51  W76  L5   W78  W57  U   3.0
+ 41 Polupan, Jason         SOKGJ35H   600   832/  5   W81  L12  W82  L28  W58  U   3.0
+ 42 Weitzel, Colton        EPPGJ35F   600   907/  5   W27  L55  W32  W56  L12  U   3.0
+ 43 Goleta, Evan           COCGJ35D   600   858/  5   L3   W81  L30  W89  W56  U   3.0
+ 44 Goleta, Alec           COCEJ35B   400   738/  5   L57  W92  L34  W63  W62  U   3.0
+ 45 Sureshkumar, Sanjay    LVTEJ34Z   400   822/  5   L2   W91  W60  L14  W61  U   3.0
+ 46 Colver, Kenny          EPCEJ34Y   400   895/  5   W20  L28  W61  L30  W59  U   3.0
+ 47 Macdonald, Liam        MPKEJ34X   400   879/  5   W89  L13  W63  W57  L11  U   3.0
+ 48 Van Dyke, Micah        NLCDJ34W   300   797/  5   W58  L29  W64  L31  W65  U   3.0
+ 49 Singh, Rajveer         EPCDJ34V   300   654/  5   L4   L69  W101 W84  W64  U   3.0
+ 50 Warnick, Marwan        MOLMJ34U  1200   829/  5   W83  D53  W52  L5   L18  U   2.5
+ 51 Stice, Malachi         LAHKJ34T  1000   785/  5   W40  L17  L38  D73  W82  U   2.5
+ 52 Deherrera, Gabby       EPHJJ34S   900   693/  5   D73  W66  L50  L25  W85  U   2.5
+ 53 Pascual Calletano, MichQUJIJ34R   800   758/  5   W87  D50  W73  L21  L23  U   2.5
+ 54 Smith, Jordan          EPHLJ34Q  1100   433/  5   D66  L73  D78  L72  W86  U   2.0
+ 55 Palmer, Mason          MOLJJ34P   900   599/  5   W101 W42  L35  L18  L39  U   2.0
+ 56 Beck, Oliver           MOLJJ34N   900   568/  5   W72  L37  W84  L42  L43  U   2.0
+ 57 Deherrera, Isabelle    EPMIJ34M   800   751/  5   W44  W22  L8   L47  L40  U   2.0
+ 58 Klopov, Ezekiel        HSCHJ34L   700   588/  5   L48  W96  W99  L6   L41  U   2.0
+ 59 Goleta, Kate           COCHJ34K   700   570/  5   W102 L11  L18  W71  L46  U   2.0
+ 60 Cleman, Zoe            EPMHJ34J   700   421/  5   W104 L19  L45  L75  W96  U   2.0
+ 61 Hintz, Hunter          NLCHJ34G   700   578/  5   W80  L3   L46  W94  L45  U   2.0
+ 62 Avila, Markus          QUJHJ34E   700   578/  5   L1   W95  W77  L19  L44  U   2.0
+ 63 Malone, David          EPMHJ34D   700   530/  5   L21  W75  L47  L44  W97  U   2.0
+ 64 Yosting, Zachary       MLCHJ34C   700   440/  5   L5   W97  L48  W95  L49  U   2.0
+ 65 Pryor, Gracie          MOCGJ34B   600   539/  5   L23  L18  W98  W76  L48  U   2.0
+ 66 Sandoval, Levi         HSCGJ34A   600   390/  5   D54  L52  D93  L80  W100 U   2.0
+ 67 Lewis, Norah           QUJGJ33Z   600   499/  5   L22  W79  L9   L74  W94  U   2.0
+ 68 Aldaas, Nathan         MPNGJ33Y   600   723/  5   L25  W88  W27  L13  L26  U   2.0
+ 69 Avila Birrueta, IgnacioQUJGJ33X   600   700/  5   L10  W49  L21  W90  L32  U   2.0
+ 70 Rodriguez, Lukas       MLCGJ33W   600   771/  5   L11  W103 W25  L12  L27  U   2.0
+ 71 Van Dyke, Isaiah       NLCGJ33V   600   486/  5   L12  W104 L31  L59  W89  U   2.0
+ 72 Sandoval, Aj           HSCGJ33U   600   539/  5   L56  L27  W103 W54  L25  U   2.0
+ 73 Noble, Luke            MLFGJ33T   600   663/  5   D52  W54  L53  D51  L33  U   2.0
+ 74 Klopov, Silas          HSCFJ33S   500   613/  5   L14  W90  L33  W67  L36  U   2.0
+ 75 Stuart, Josiah         SGPFJ33Q   500   539/  5   L29  L63  W79  W60  L34  U   2.0
+ 76 Anderson, James        QMEEJ33L   400   491/  5   L34  L40  W91  L65  W90  U   2.0
+ 77 Schneider, Jonathan    COCEJ33K   400   506/  5   W90  L14  L62  L39  W93  U   2.0
+ 78 Ochoa, Sebastian       QGEDJ33J   300   468/  5   L36  D93  D54  L40  W95  U   2.0
+ 79 Paulson, Carter        EPCBJ33H   100   257/  4   L37  L67  L75  BYE  W101 U   2.0
+ 80 Kiehn, Amelia          QGEBJ33G   100   453/  5   L61  W101 L36  W66  L38  U   2.0
+ 81 Springs, Evangeline    EPHJJ33F   900   423/  4   L41  L43  D96  W91  U    U   1.5
+ 82 Sandoval, Jonathan     HSCIJ33E   800   476/  5   W98  L24  L41  D85  L51  U   1.5
+ 83 Springs, Ransom        EPPGJ33D   600   546/  4   L50  W87  L22  D86  U    U   1.5
+ 84 Fox, Kenzie            NLCGJ33C   600   384/  5   L8   W100 L56  L49  D88  U   1.5
+ 85 Gonzalez, Isaiah       EPPGJ33B   600   449/  5   L19  W102 L10  D82  L52  U   1.5
+ 86 Miller, Jace           SGPFJ33A   500   518/  5   L13  W89  L20  D83  L54  U   1.5
+ 87 Semenko, Matthew       SGPFJ32Z   500   230/  5   L53  L83  L90  D96  W102 U   1.5
+ 88 Tempel, Josh           EPGEJ32Y   400   336/  5   L35  L68  L92  W98  D84  U   1.5
+ 89 Mclain, Andrew         EPMHJ32X   700   243/  5   L47  L86  W97  L43  L71  U   1.0
+ 90 Tempel, Ryan           EPMHJ32W   700   262/  5   L77  L74  W87  L69  L76  U   1.0
+ 91 Block, Matteha         HSCGJ32V   600   226/  5   L7   L45  L76  L81  W103 U   1.0
+ 92 Massey, Jay            EPPGJ32U   600   479/  4   L9   L44  W88  L27  U    U   1.0
+ 93 Henning, Liliana       EPPGJ32T   600   328/  5   L26  D78  D66  L32  L77  U   1.0
+ 94 Nelson, Conrad         EPPGJ32S   600   290/  5   L28  L20  W102 L61  L67  U   1.0
+ 95 Hurlbert, Joey         EPPFJ32R   500   230/  5   L30  L62  W104 L64  L78  U   1.0
+ 96 Deherrera, Annie       EPPFJ32Q   500   296/  5   L15  L58  D81  D87  L60  U   1.0
+ 97 Firl, William          EPPFJ32P   500   209/  5   L31  L64  L89  W103 L63  U   1.0
+ 98 Alexander, Elizabeth   EPCEJ32N   400   199/  5   L82  L38  L65  L88  W104 U   1.0
+ 99 Steele, Ryan           EPCEJ32M   400   654/  3   L16  W39  L58  U    U    U   1.0
+100 Chacon, Naomi          EPCEJ32K   400   173/  5   L33  L84  L39  W104 L66  U   1.0
+101 Roberts, Adelaide      EPPGJ32J   600   100/  5   L55  L80  L49  D102 L79  U   0.5
+102 Deherrera, Trevor      EPCDJ32H   300   100/  5   L59  L85  L94  D101 L87  U   0.5
+103 Colver, Rose           EPCDJ32G   300   100/  5   L17  L70  L72  L97  L91  U   0.0
+104 Schneider, David       COCCJ32F   200   100/  5   L60  L71  L95  L100 L98  U   0.0
+
+ All Unrated-player Section: Ratings capped at 1000

@@ -1,0 +1,28 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Agrawal, Anay          PLKGE67A  1056  1198/ 68  W27 D17 W5  W8  W2  4.5
+  2 Ma, Ziliang            MERGA69N  1037  1206/ 34  W6  W7  W4  W11 L1  4.0
+  3 Zhang, Aaron           RSAEC74T  1014  1104/ 77  W13 L9  W25 W7  W11 4.0
+  4 Trochesset, David      REJHG98F  1061  1095/ 67  W26 W18 L2  D6  W17 3.5
+  5 Ye, Alex               ENDEH51L   963  1066/ 86  W24 W14 L1  W9  D10 3.5
+  6 Herrera, Brian         NKPMJ93K  1200  1187/  5  L2  W19 W18 D4  W14 3.5
+  7 Zhen, Hongren          DCCIC02Z  1191  1154/170  W15 L2  W20 L3  W21 3.0
+  8 Chabot, Troy           BRSKK15U  1182  1128/ 20  L25 W16 W23 L1  W15 3.0
+  9 Luo, Peter             SHVE664K  1167  1134/ 73  W20 W3  L11 L5  W22 3.0
+ 10 Fudge, Alice           LMSG400B  1148  1107/ 53  D16 W21 D17 D15 D5  3.0
+ 11 Tunuguntla, Sai SrithanEMDFK78V  1042  1057/181  W12 W25 W9  L2  L3  3.0
+ 12 Rodriguez, Alec        NKPLJ93J  1100   891/  5  L11 L15 W26 W25 W18 3.0
+ 13 Roesler, Evan          NKPLJ93H  1100   896/  5  L3  W27 L15 W20 W19 3.0
+ 14 Lee, Justin            CNLH732V  1132  1086/ 61  W23 L5  W22 D17 L6  2.5
+ 15 Rusia, Naman           EPSHI64T   819   908/ 80  L7  W12 W13 D10 L8  2.5
+ 16 Larios, Juan           NKPMK56C   610   720/ 10  D10 L8  W21 L18 W25 2.5
+ 17 Yugay, Dmitriy         KMNIJ93G   800  1054/  5  W19 D1  D10 D14 L4  2.5
+ 18 Van Gorkom, Joshua     CWAJB02N   969   928/ 68  W22 L4  L6  W16 L12 2.0
+ 19 Hoffman, David         PEREJ98J   949   836/  9  L17 L6  BYE W24 L13 2.0
+ 20 Hickner, Saulomon      NKPMK56B   626   636/ 10  L9  W24 L7  L13 W27 2.0
+ 21 Katipally, Rishan      WOBFK31N   329   353/  9  BYE L10 L16 W26 L7  2.0
+ 22 Johansen, Hank         LMSGJ93F   600   670/  5  L18 W26 L14 W23 L9  2.0
+ 23 Cooper, Alexander      LKDG835H   409   401/ 22  L14 BYE L8  L22 D24 1.5
+ 24 Diskin, Riley          SLDHJ93E   700   421/  5  L5  L20 W27 L19 D23 1.5
+ 25 Yen, Apollo            REJGG78H   658   666/ 72  W8  L11 L3  L12 L16 1.0
+ 26 Calhoun, Peter         SLDFJ93C   500   100/  4  L4  L22 L12 L21 BYE 1.0
+ 27 Aldrich, Daniel        SLDGJ93B   600   100/  4  L1  L13 L24 BYE L20 1.0

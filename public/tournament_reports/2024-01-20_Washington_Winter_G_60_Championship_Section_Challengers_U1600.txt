@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Evin, Terrick          EBSCC54L  1444  1542/158  W12 W7  W6  W4  4.0
+  2 Goupinets, Andrew      ADUNJ69S  1588  1576/ 13  W11 L6  W8  W7  3.0
+  3 Xu, Zoe                SOMEG70A  1445  1463/311  W13 W8  L4  W6  3.0
+  4 Shah, Kanav            LMAF295Q  1451  1468/154  D5  W10 W3  L1  2.5
+  5 Ma, Lewis              SOMC587M  1199  1240/ 99  D4  L11 W14 W9  2.5
+  6 Koripella, Dheeran     INGH610W  1435  1441/ 64  W9  W2  L1  L3  2.0
+  7 He, Oliver             ENDDK71V  1325  1332/294  W14 L1  W11 L2  2.0
+  8 Talathi, Shrey         SNEGK61Z  1267  1299/183  W10 L3  L2  W13 2.0
+  9 Chaudhuri, Arihant     CHAE703E  1258  1255/247  L6  W12 W13 L5  2.0
+ 10 Krishnan, Advait       REJI570Q  1544  1484/142  L8  L4  W12 D11 1.5
+ 11 Pai, Vihaan            CHAEK17C  1302  1303/211  L2  W5  L7  D10 1.5
+ 12 Blue-day, Alexander    ADUNK60J  1243  1212/ 22  L1  L9  L10 W14 1.0
+ 13 Babbar, Riaan          ENDDJ98D  1153  1103/ 18  L3  D14 L9  L8  0.5
+ 14 Bates, Killian         HEAIK18M   964   949/ 34  L7  D13 L5  L12 0.5

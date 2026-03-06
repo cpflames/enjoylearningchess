@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Qureshi, Danish        BLNGF36V   856   940/117  W7  W5  W3  3.0
+  2 Rennie, Elias          BVEFH77C   761   844/ 14  W11 W4  W8  3.0
+  3 Bormuth, Silas         LYCF542J   895   889/ 23  W6  W8  L1  2.0
+  4 Buckham, George        SKYCK37E   757   747/ 51  W9  L2  W10 2.0
+  5 Brewster, Alexander    LYCFH74P   839   789/  6  W10 L1  W9  2.0
+  6 Bormuth, Lucas         LYCDD92J   537   533/ 14  L3  D7  W11 1.5
+  7 Kaur, Prabhkirat       IREEE41C   346   378/ 18  L1  D6  W12 1.5
+  8 Aguila-contreras, EdgarHORHJ65J   694   663/ 35  W12 L3  L2  1.0
+  9 Feaster, Ethan         FERJH73Y   365   435/  5  L4  W11 L5  1.0
+ 10 Slagle, Lily           PARBJ25R   100   141/ 20  L5  W12 L4  1.0
+ 11 Mcneil, Mason          VSTGJ49Y   443   380/ 18  L2  L9  L6  0.0
+ 12 Nymeyer, Mason         EAGEK35Z   136   100/ 28  L8  L10 L7  0.0

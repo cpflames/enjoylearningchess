@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ma, Lewis              SOMC587M  1264  1306/115  W4  W3  W2  3.0
+  2 Zhang, Bowen           REEDK46L  1032  1054/ 39  W3  D4  L1  1.5
+  3 Wu, Jayden             UCDC495Q   957   972/ 76  L2  L1  W4  1.0
+  4 Zhao, William          STTDH70M  1223  1154/112  L1  D2  L3  0.5

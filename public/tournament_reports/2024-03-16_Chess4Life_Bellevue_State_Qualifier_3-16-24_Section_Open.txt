@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Patnaik, Aditya        EVJIA02G  1110  1287/ 70  W12 W9  W2  W3  W4  5.0
+  2 Siddiqui, Farhaan      BLCLH166  1058  1110/233  W11 W8  L1  W5  D3  3.5
+  3 Sharma, Parth          RSAGG29G  1071  1137/ 54  W7  W4  W15 L1  D2  3.5
+  4 Dai, Alex              CHRFC43N  1330  1285/134  W10 L3  W12 W6  L1  3.0
+  5 Tandon, Ayaan          CRKFG07U  1043  1027/ 49  D14 D15 W7  L2  W8  3.0
+  6 Yang, Jimmy            BASEG45S   989   994/141  L8  W14 W13 L4  W11 3.0
+  7 Kocherlakota, Vihaan   EBSGA65P   951   960/ 69  L3  BYE L5  W9  W12 3.0
+  8 Borkar, Siddharth      MRLFJ29B   830   934/ 22  W6  L2  W9  W15 L5  3.0
+  9 Siddiqui, Kaamil       BLCJD777   941   919/243  W13 L1  L8  L7  W14 2.0
+ 10 Yang, Nicholas         CHRDG23U   903   855/ 89  L4  L13 W14 L12 BYE 2.0
+ 11 Tsay, Elon             NOWDK07B   885   849/ 50  L2  L12 BYE W13 L6  2.0
+ 12 Vasamsetty, Chetan     SHFDJ38Y   863   885/ 61  L1  W11 L4  W10 L7  2.0
+ 13 Palla, Shrita          NRCJH98B   900   795/  5  L9  W10 L6  L11 W15 2.0
+ 14 Bravenboer, Jake       OPWDJ97Y   840   789/ 55  D5  L6  L10 BYE L9  1.5
+ 15 Kachachi, Cyrus        OPWD763G   816   778/ 68  BYE D5  L3  L8  L13 1.5

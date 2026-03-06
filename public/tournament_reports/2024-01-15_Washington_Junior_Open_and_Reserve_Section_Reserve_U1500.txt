@@ -1,0 +1,63 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Zhang, Owen            FHVI995H  1350  1475/244  W13 W32 W10 W9  4.0
+  2 Meyerzon, Daniel       INTKJ242  1301  1422/437  W54 W45 W20 W8  4.0
+  3 Shih, Bei              OVLF630G  1394  1441/229  D22 W38 W17 W18 3.5
+  4 Mandhana, Aarav        KMNI434A  1383  1414/ 68  W43 W11 D18 W24 3.5
+  5 He, Oliver             ENDDK71V  1318  1384/287  D46 W44 W22 W26 3.5
+  6 Rastogi, Atharv        PFCG377H  1420  1431/101  W34 L10 W19 W32 3.0
+  7 Wakeman, Oliver        INLKG10Y  1373  1383/106  D44 W40 D24 W33 3.0
+  8 Avula, Varshith Reddy  BRHH110R  1340  1375/212  W35 W33 W31 L2  3.0
+  9 Sankrithi, Sarang      HSCEB11D  1309  1363/230  W51 W12 W36 L1  3.0
+ 10 Cheng, Alan            CHRFJ71K  1287  1344/143  W62 W6  L1  W35 3.0
+ 11 Pantea, Joshua         ABEJK63M  1277  1314/ 41  W25 L4  W52 W37 3.0
+ 12 Saloranta, Leo         MCRKB40A  1246  1322/175  W14 L9  W56 W30 3.0
+ 13 Yugay, Dmitriy         KMNIJ93G  1216  1321/ 14  L1  W60 W27 W31 3.0
+ 14 Evin, Terrick          EBSCC54L  1466  1444/154  L12 W46 W34 D20 2.5
+ 15 Stroud, Jeb            FHVIK22V  1382  1373/ 81  W23 L20 D42 W36 2.5
+ 16 Huang, Emily           OMSGB39A  1339  1328/315  L45 W54 D23 W42 2.5
+ 17 Pai, Vihaan            CHAEK17C  1301  1302/207  W58 D37 L3  W49 2.5
+ 18 Weng, Bright           BEND850P  1296  1314/ 77  W47 W52 D4  L3  2.5
+ 19 Chabot, Troy           BRSKK15U  1282  1297/ 29  W55 D26 L6  W45 2.5
+ 20 Kakkad, Vayu           DCTDK50L  1268  1302/499  W59 W15 L2  D14 2.5
+ 21 Hetamsaria, Aayan      TYEIG19R  1215  1220/ 54  L38 W61 D25 W46 2.5
+ 22 Fei, Derek             SPTGJ01E  1231  1275/ 90  D3  W49 L5  W39 2.5
+ 23 Yun, Daniel D          LAVCK87Z  1226  1249/307  L15 W59 D16 W40 2.5
+ 24 Chaudhuri, Arihant     CHAE703E  1152  1258/243  W39 W30 D7  L4  2.5
+ 25 Flores Uriegas, Andres HLYE159F  1036  1133/ 51  L11 W43 D21 W50 2.5
+ 26 Syal, Yash             CDIFC10R  1384  1361/117  W42 D19 D37 L5  2.0
+ 27 Hildenbrand, Blane     PSMI122V  1310  1283/255  L37 W58 L13 W52 2.0
+ 28 Hessel, Riot           LIYIJ96D  1308  1212/  9  L52 L47 W62 W53 2.0
+ 29 Bablani, Arnav         LMSI1146  1306  1272/214  W53 L36 L35 W56 2.0
+ 30 Xu, Yang               CNCE649B  1294  1276/129  W48 L24 W51 L12 2.0
+ 31 Maharaja, Imai         HMNDK34K  1311  1285/134  W61 W56 L8  L13 2.0
+ 32 Li, Edgar              WOBD883Y  1257  1264/191  W60 L1  W38 L6  2.0
+ 33 Yuan, Chen             ETSCJ15Z  1257  1247/ 99  W57 L8  W47 L7  2.0
+ 34 Zhao, Dennis           OPWH525E  1244  1243/345  L6  W62 L14 W54 2.0
+ 35 Rachiba, Alisa         EVPDK08E  1214  1220/ 56  L8  W57 W29 L10 2.0
+ 36 Bhaskara, Yash         ICKJI539  1201  1228/288  W50 W29 L9  L15 2.0
+ 37 Chatterjee, Sasmit     RHJIH23M  1199  1228/ 84  W27 D17 D26 L11 2.0
+ 38 El Husseini, Mahdi     JUHMJ57M  1200  1269/  4  W21 L3  L32 W51 2.0
+ 39 Nair, Ishan            FRWG670E  1301  1259/153  L24 W53 D45 L22 1.5
+ 40 Bharadwaj, Anish       WPPJI530  1282  1243/317  D49 L7  W48 L23 1.5
+ 41 Zhu, Aiden             SOMDC77X  1275  1207/ 98  L56 D48 L46 W60 1.5
+ 42 Lu, Jacob              BLMII11F  1229  1215/314  L26 W55 D15 L16 1.5
+ 43 Nerella, Abhiram       HGMII18R   908   971/  9  L4  L25 W55 D47 1.5
+ 44 Ganesan, Vidur         RBRE940K  1190  1176/156  D7  L5  L49 W58 1.5
+ 45 Kossuri, Neil          SKWG696L  1204  1211/ 80  W16 L2  D39 L19 1.5
+ 46 Das, Sambuddha Sekhar  ENDDK47S  1149  1164/ 84  D5  L14 W41 L21 1.5
+ 47 Vijeyanandh, Vishnu    TMBIF63Z  1126  1118/172  L18 W28 L33 D43 1.5
+ 48 Lee, Justin            CNLH732V  1115  1108/ 79  L30 D41 L40 W61 1.5
+ 49 Mishra, Aakash         EBSE439K  1047  1073/107  D40 L22 W44 L17 1.5
+ 50 Avula, Guru Harshith ReBRHE633Y  1333  1247/112  L36 L51 W61 L25 1.0
+ 51 Agrawal, Anay          PLKGE67A  1189  1165/ 77  L9  W50 L30 L38 1.0
+ 52 Han, Victor            HSCFB39P  1150  1136/156  W28 L18 L11 L27 1.0
+ 53 Raj, Skandha           EVGBK55U  1168  1123/ 86  L29 L39 W57 L28 1.0
+ 54 Saken, Alan            NLMCK25Z  1166  1103/  9  L2  L16 W59 L34 1.0
+ 55 Lebedinsky, Alexander  EVJH958F  1042   985/245  L19 L42 L43 BYE 1.0
+ 56 Zhao, William          STTDH70M  1030  1039/104  W41 L31 L12 L29 1.0
+ 57 Sembium, Aditi         BCADK25W   939   939/238  L33 L35 L53 W62 1.0
+ 58 Choi, Hunter           UPAGE80A  1151  1087/227  L17 L27 D60 L44 0.5
+ 59 Chuvashov, Ari         HSCGK02C   979   898/  6  L20 L23 L54 HPB 0.5
+ 60 Zhang, Aaron           RSAEC74T   972   955/ 99  L32 L13 D58 L41 0.5
+ 61 Edwin, Elijah          BCSDC24D  1059  1000/157  L31 L21 L50 L48 0.0
+ 62 Han, Spencer           HSCEK75L  1038   974/147  L10 L34 L28 L57 0.0

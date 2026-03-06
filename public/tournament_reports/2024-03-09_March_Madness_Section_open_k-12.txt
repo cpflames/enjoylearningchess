@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Keener, Karl           HLHIY40G  1321  1387/132  W13 W14 W7  W2  W4  5.0
+  2 Patterson, Ben         CHHLI54X  1540  1518/106  W8  W9  W4  L1  W7  4.0
+  3 Wilson, Nicholas       LBYHJ58B   718   846/ 15  L18 W12 W14 W5  W6  4.0
+  4 Sherwood, Leo          FREII58J  1078  1084/ 81  W16 W15 L2  W8  L1  3.0
+  5 Lave', Francis         ICPJY99L   939   880/ 10  L14 W17 W10 L3  W15 3.0
+  6 Eberlein, Jacob        ICPJY99M   937   843/ 10  L15 W16 W9  W13 L3  3.0
+  7 Dishanni, Logan        ICPMY45T   730   821/ 15  W12 W18 L1  W15 L2  3.0
+  8 Lund, Connor           ICPLY66Q   617   712/ 14  L2  W19 W18 L4  W10 3.0
+  9 Jones, Vincent         ICPKY52L   400   486/  8  BYE L2  L6  W19 W13 3.0
+ 10 Ferguson, Jordan       ICPKY99N   877   782/ 10  D17 W11 L5  W14 L8  2.5
+ 11 Dishanni, Jonah        ICPIY59G   686   643/ 10  W19 L10 L15 D18 W16 2.5
+ 12 Demeyer, Dominic       ICPKY98Q  1000   631/  4  L7  L3  D16 BYE W18 2.5
+ 13 Kendall, Matthew       ICPJY99J   482   473/  9  L1  BYE W17 L6  L9  2.0
+ 14 Hanley, Perpetua       HSCJJ05V   900   735/  5  W5  L1  L3  L10 W19 2.0
+ 15 Roman, Noah            ICPIY98P   800   785/  5  W6  L4  W11 L7  L5  2.0
+ 16 Barb, Augustine        ICPIY98N   800   531/  5  L4  L6  D12 W17 L11 1.5
+ 17 Abernathy, Samuel      ICPIY98M   800   351/  4  D10 L5  L13 L16 BYE 1.5
+ 18 Kanyer, Zachary        MMJIJ05T   800   599/  5  W3  L7  L8  D11 L12 1.5
+ 19 Zenk, Charles          ICPIY98L   800   131/  4  L11 L8  BYE L9  L14 1.0

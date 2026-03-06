@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Han, Kaiyi             SOMBK42P   531   733/ 50  W11 W2  W9  W5  W3  5.0
+  2 Velichko, Kristina     ASABK07V   373   525/ 67  W14 L1  W8  W4  W5  4.0
+  3 Gupta, Akshay          BCABF62T   644   608/ 63  W7  W10 L5  W9  L1  3.0
+  4 Chauhan, Kiana         CRKBK28R   418   430/ 24  W8  L9  W7  L2  W11 3.0
+  5 Nair, Vihaan           FRWAJ97F   284   424/ 30  W13 W6  W3  L1  L2  3.0
+  6 Kotsinyan, Erik        EVPBJ56F   396   373/ 25  L9  L5  W14 W13 W12 3.0
+  7 Lin, Evan              THUBJ72G   245   334/ 20  L3  W12 L4  W11 W10 3.0
+  8 Esparza-chen, Katya    WMNBJ73L   308   312/ 34  L4  W13 L2  W12 W14 3.0
+  9 Raman, Arjun           ETSBH96Y   100   509/  5  W6  W4  L1  L3  W13 3.0
+ 10 Lew, Theodore          OPWBK28X   400   325/ 54  W12 L3  L11 W14 L7  2.0
+ 11 Esparza-chen, Elysia   WMNBJ73M   201   228/ 30  L1  W14 W10 L7  L4  2.0
+ 12 Cooney, Cyrus          SANBK89P   100   100/ 20  L10 L7  D13 L8  L6  0.5
+ 13 Lundquist, Matthew     SANBH96X   100   100/  5  L5  L8  D12 L6  L9  0.5
+ 14 Branlund, Jack         SANBH96W   100   100/  5  L2  L11 L6  L10 L8  0.0

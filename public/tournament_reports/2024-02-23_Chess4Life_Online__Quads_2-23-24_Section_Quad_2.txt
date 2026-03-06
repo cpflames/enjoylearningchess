@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhong, Alan            TISLN778  1261  1329/ 73  W2  W3  D4  2.5
+  2 Maharaja, Imai         HMNDK34K  1282  1304/159  L1  W4  W3  2.0
+  3 Palod, Menang          REJIK61M  1294  1269/114  W4  L1  L2  1.0
+  4 Kuan, Hans             GRRFK32S  1260  1221/ 39  L3  L2  D1  0.5

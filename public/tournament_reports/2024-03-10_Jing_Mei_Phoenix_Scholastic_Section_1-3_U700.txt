@@ -1,0 +1,61 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Iakymenko, Nazar       SHSBJ19V   592   736/ 10  W47 W23 W35 W3  W4  5.0
+  2 Razmov, Siana          HZFBK93Y   596   669/101  W39 D31 W32 W12 W10 4.5
+  3 Rogov, Richard         MEDCJ68U   681   723/ 34  W37 W9  W6  L1  W11 4.0
+  4 Hu, Ryan               OPWAJ97N   537   593/ 43  W40 W53 W25 W14 L1  4.0
+  5 Bysani, Aakash         SSMBK01D   580   584/105  W41 L35 W38 W22 W20 4.0
+  6 Khanzode, Advait       SSMDJ56W   538   581/ 24  W48 W24 L3  W35 W21 4.0
+  7 Parihar, Advay         SOMDD66D   533   531/ 45  L54 W43 W36 W25 W26 4.0
+  8 Li, Bryan              MEDAJ75H   440   490/ 35  L28 W55 W41 W39 W14 4.0
+  9 Lalithmani, Vidyuth    WDEBJ99V   434   549/ 20  W50 L3  W42 W45 W15 4.0
+ 10 Zhen, Liam             DCCC622V   628   626/112  W26 W54 D12 W15 L2  3.5
+ 11 Xu, Derek              SSMDK24Q   528   577/ 33  W42 D28 W13 W31 L3  3.5
+ 12 Chong, Ethan           SMCDA10E   500   538/ 25  W33 W45 D10 L2  W31 3.5
+ 13 Besati, Arnav          RKWDJ74G   630   575/ 25  W38 L20 L11 W47 W32 3.0
+ 14 Ge, Emma               SSMBJ56J   526   520/ 27  W46 W21 W20 L4  L8  3.0
+ 15 Gu, Vincent            OPWAK00L   556   540/ 38  W60 W36 W29 L10 L9  3.0
+ 16 Sane, Anay             SSMDJ56T   514   445/ 25  L43 W49 L37 W40 W38 3.0
+ 17 Bigelow, Atlas         WMEBJ61F   480   433/ 14  W55 L25 L26 W37 W39 3.0
+ 18 Michael, Sophia        DCCD704F   450   440/ 54  W27 L29 W47 D32 D28 3.0
+ 19 Ramasubramanian, SamartSSMDJ03G   300   307/  5  W49 L32 L39 W41 W37 3.0
+ 20 Shafigulin, Timur      XXXCD97N   438   462/ 14  W56 W13 L14 W44 L5  3.0
+ 21 Cen, Andrew            JINCK69R   421   450/ 70  W44 L14 W54 W29 L6  3.0
+ 22 Lu, Clemence           JINDK84Y   420   438/ 30  L29 W33 W34 L5  W42 3.0
+ 23 Kang, Mason            SSMDJ29J   391   384/ 15  W51 L1  L43 W48 W44 3.0
+ 24 Zheng, Ethan H         RCSCJ29K   349   353/ 10  W57 L6  L44 W54 W43 3.0
+ 25 Anant Sundaram, Parth  SSMDJ56Q   258   378/ 15  W52 W17 L4  L7  W45 3.0
+ 26 Prasanna, Charan       LMADJ46Z   234   311/ 13  L10 W50 W17 W52 L7  3.0
+ 27 Jiang, Kyle            SSMDK93D   100   224/ 23  L18 W60 L30 W46 W49 3.0
+ 28 Gridasov, Robert       LAVDJ03F   300   500/  5  W8  D11 L31 W43 D18 3.0
+ 29 Pradhyun Sai, Battala  SSMCJ03E   200   512/  5  W22 W18 L15 L21 W35 3.0
+ 30 Nguyen, Kaden          JINCJ74K   378   319/ 10  L45 L42 W27 W58 D34 2.5
+ 31 Zhang, Marina          SSMBJ56B   318   391/ 32  W58 D2  W28 L11 L12 2.5
+ 32 Liu, Louis             CNHBJ75J   258   301/ 14  WF  W19 L2  D18 L13 2.5
+ 33 Venkatesan, Vaibhav    SSMDJ56L   126   195/ 14  L12 L22 D51 W60 W53 2.5
+ 34 Wang, Maxwell          JINBJ03D   100   274/  5  L53 W40 L22 W36 D30 2.5
+ 35 Navya Jeevan, Rutvi    BRHDK31B   317   350/ 34  W59 W5  L1  L6  L29 2.0
+ 36 Mavila, Mukund         TBKDK62K   279   246/ 13  WF  L15 L7  L34 W54 2.0
+ 37 Pai, Samiksha          SSMDJ19X   260   276/ 23  L3  W48 W16 L17 L19 2.0
+ 38 Ranjith, Janani        SHVBK65E   247   252/ 74  L13 W56 L5  W57 L16 2.0
+ 39 Lin, Evan              THUBJ72G   217   245/ 15  L2  W58 W19 L8  L17 2.0
+ 40 Malhotra, Dilraj       MAHBK02Y   200   204/ 44  L4  L34 W50 L16 W57 2.0
+ 41 Esparza-chen, Elysia   WMNBJ73M   194   201/ 25  L5  W52 L8  L19 W58 2.0
+ 42 Hiremath, Ojas         KKNCJ03C   200   328/  5  L11 W30 L9  W53 L22 2.0
+ 43 Besati, Avantika       RKWDJ73W   110   240/ 18  W16 L7  W23 L28 L24 2.0
+ 44 Thomas, David Cijo     TBKCJ03B   200   274/  5  L21 W46 W24 L20 L23 2.0
+ 45 Ni, Nicole             NPTDJ03A   300   311/  5  W30 L12 W53 L9  L25 2.0
+ 46 Sin, Benjamin          JINC259D   230   174/ 15  L14 L44 D49 L27 W55 1.5
+ 47 Esparza-chen, Katya    WMNBJ73L   208   196/ 24  L1  W51 L18 L13 D50 1.5
+ 48 Lim, Leo               JINDJ87E   175   150/ 15  L6  L37 W56 L23 D52 1.5
+ 49 Liu, Steven            CNHBJ02Z   100   100/  5  L19 L16 D46 W51 L27 1.5
+ 50 Edgar, James           JINCJ02Y   200   100/  4  L9  L26 L40 BYE D47 1.5
+ 51 Lu, Andy               JINCJ02X   200   100/  5  L23 L47 D33 L49 W60 1.5
+ 52 Austin, Tenne          JINCJ02W   200   100/  5  L25 L41 W55 L26 D48 1.5
+ 53 Esparza-chen, Lucien   WMNDJ98Z   284   214/ 34  W34 L4  L45 L42 L33 1.0
+ 54 Zhang, Emily           SSMCJ13L   161   171/ 10  W7  L10 L21 L24 L36 1.0
+ 55 Koul, Navika           RSADJ83L   100   100/ 18  L17 L8  L52 W56 L46 1.0
+ 56 Prashant, Gautham      JINBJ02V   100   100/  4  L20 L38 L48 L55 BYE 1.0
+ 57 He, William            JINCJ02U   200   100/  3  L24 BYE U   L38 L40 1.0
+ 58 Li, Ewam               JINBJ02T   100   100/  5  L31 L39 W60 L30 L41 1.0
+ 59 Lu, Josiah             JINCJ02R   200   100/  1  L35 HPB HPB U   U   1.0
+ 60 Dortch, Maya           JINDK23F   181   100/ 10  L15 L27 L58 L33 L51 0.0

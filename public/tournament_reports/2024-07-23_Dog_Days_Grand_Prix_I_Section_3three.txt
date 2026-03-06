@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Buckham, George        SKYCK37E   749   894/ 63  W3  W2  W4  3.0
+  2 Triano, Tony           SKYEJ17K   790   802/ 30  W5  L1  W6  2.0
+  3 Neff, Josiah           CCXGH69Q   587   634/ 18  L1  D4  W5  1.5
+  4 Fine-gucker, Logan     EAGE535R   815   764/102  D6  D3  L1  1.0
+  5 Verduin, Bentley       CUEDK37A   589   583/ 43  L2  W6  L3  1.0
+  6 Smith, Benjamin        BLEDG44D   705   644/ 42  D4  L5  L2  0.5

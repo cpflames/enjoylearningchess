@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wong, Claire           BCABK86D   681   780/ 83  W2  D3  W4  2.5
+  2 Menon, Ritwik          WLDG974D   727   751/ 47  L1  W4  W3  2.0
+  3 Aquino, Emiliano       SSMJ6132   717   715/115  W4  D1  L2  1.5
+  4 Jain, Anvay            EBSG874Z   672   598/ 71  L3  L2  L1  0.0

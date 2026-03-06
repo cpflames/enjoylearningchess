@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Olson, Travis          ADUN8893  1864  1864/155  W4  W3  W2  3.0
+  2 Yang, Nicholas         CHRDG23U   917   924/102  W3  W4  L1  2.0
+  3 Melomed, Samuel        CCDF223B   566   565/ 13  L2  L1  W4  1.0
+  4 Button, Robert         MEDEH75N   400   169/  3  L1  L2  L3  0.0

@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Jones, Davey V         ADUNC10L  1658  1700/ 38  W5  D4  1.5
+  2 Goupinets, Andrew      ADUNJ69S  1446  1476/ 37  W6  U   1.0
+  3 Yates, Daniel          ADUNE71Y  1301  1303/ 26  W7  U   1.0
+  4 Cambareri, Michael     ADIN5579  2029  2019/240  U   D1  0.5
+  5 Machakos, Seth         ADINY96P  1845  1823/  5  L1  U   0.0
+  6 Yin, Aiden             BCXEZ75U  1634  1542/  6  L2  U   0.0
+  7 Vinoth Ganapathy, PavitAUDEH96J   667   667/  9  L3  U   0.0

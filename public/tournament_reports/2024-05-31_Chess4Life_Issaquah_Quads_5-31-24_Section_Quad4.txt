@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Deshmukh, Dhruv        ENDDH79Q   426   430/ 18  W4  L3  W2  2.0
+  2 Holostov, Benjamin     CRKDJ94A   396   410/ 23  W3  W4  L1  2.0
+  3 Chen, Evan             CDICK60B   302   348/ 11  L2  W1  W4  2.0
+  4 Shen, Nolan            CDIDJ28A   243   178/ 12  L1  L2  L3  0.0

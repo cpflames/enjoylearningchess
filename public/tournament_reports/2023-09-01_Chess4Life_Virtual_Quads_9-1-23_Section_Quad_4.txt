@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Eric             BCAF803M  1216  1237/ 97  L4  W2  W3  2.0
+  2 Balaji, Sidharth       EVJHC22H  1202  1227/ 58  W3  L1  W4  2.0
+  3 Maharaja, Imai         RKWDK34K  1215  1190/ 68  L2  W4  L1  1.0
+  4 Bansal, Vivaan         EVJJ452J  1199  1178/ 97  W1  L3  L2  1.0

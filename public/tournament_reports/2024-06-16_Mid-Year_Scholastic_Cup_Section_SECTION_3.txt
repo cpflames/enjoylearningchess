@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Das, Sambuddha Sekhar  ENDDK47S  1257  1324/149  W8  W6  L3  W9  W2  4.0
+  2 Babbar, Riaan          ENDDJ98D  1223  1280/ 71  W9  D3  W4  W7  L1  3.5
+  3 Raj, Skandha           EVGBK55U  1174  1230/135  W10 D2  W1  D6  L4  3.0
+  4 Narkhede, Kshitij      CRKCA27K  1250  1261/110  L6  W5  L2  W8  W3  3.0
+  5 Lee, Justin            CNLH732V  1163  1169/108  L7  L4  BYE W10 W9  3.0
+  6 Wu, Harry              CNHFJ72P  1197  1207/ 19  W4  L1  W8  D3  L10 2.5
+  7 Zhao, William          STTDH70M  1227  1200/140  W5  HPB HPB L2  L8  2.0
+  8 Nair, Ishan            SKIG670E  1210  1193/168  L1  W10 L6  L4  W7  2.0
+  9 Wang, Hengsheen        EVGB704V  1161  1132/113  L2  BYE W10 L1  L5  2.0
+ 10 Mishra, Aakash         EBSE439K  1245  1163/127  L3  L8  L9  L5  W6  1.0

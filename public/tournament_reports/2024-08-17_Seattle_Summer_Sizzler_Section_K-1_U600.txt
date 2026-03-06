@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Sairam, Advaith        RBRAK01Q   484   598/ 98  W10 W3  W5  W4  L2  W9  5.0
+  2 Premjith, Arnav        FRVBJ20D   438   529/ 14  W14 W6  L4  W16 W1  W5  5.0
+  3 Liu, Louis             CNHBJ75J   346   491/ 34  W17 L1  W15 W12 W4  W11 5.0
+  4 Velichko, Kristina     ASABK07V   397   504/ 87  W11 W9  W2  L1  L3  W7  4.0
+  5 Pande, Aryan           DCSB493M   400   439/ 11  W18 W15 L1  W6  W11 L2  4.0
+  6 Niu, Edwin             BCAAH73D   237   378/ 21  W7  L2  W9  L5  W8  D10 3.5
+  7 Chin, Kheiron          HSCAJ19P   486   410/ 50  L6  W12 W16 L11 W13 L4  3.0
+  8 Berjis, Liana          MEDBB72R   448   357/120  L15 W18 L12 W14 L6  W16 3.0
+  9 Suresh Balaji, Shri JivHSCAK40B   491   436/ 54  W13 L4  L6  W15 W16 L1  3.0
+ 10 Agarwal, Sahaj         KKNAH96F   100   199/ 10  L1  L11 D18 W17 W12 D6  3.0
+ 11 Sankar, Laya           EBSBK11E   100   269/ 15  L4  W10 W13 W7  L5  L3  3.0
+ 12 Xu, Ruiping            SSMBH87E   100   152/ 10  BYE L7  W8  L3  L10 W17 3.0
+ 13 Saravanan, Navin       FRWAJ85A   267   230/ 35  L9  W17 L11 W18 L7  D14 2.5
+ 14 Venkatesh, Aarav       CHRBH64X   100   204/  6  L2  L16 W17 L8  W15 D13 2.5
+ 15 Yin, Nolan             CCDBH64W   100   185/  6  W8  L5  L3  L9  L14 W18 2.0
+ 16 Goyal, Avyukt          CNHAJ65X   293   235/ 49  BYE W14 L7  L2  L9  L8  2.0
+ 17 Siddhartha, Samyukta   SDVAH64V   100   100/  6  L3  L13 L14 L10 W18 L12 1.0
+ 18 Elpula, Lalith Kumar   BRHAH64T   100   100/  6  L5  L8  D10 L13 L17 L15 0.5

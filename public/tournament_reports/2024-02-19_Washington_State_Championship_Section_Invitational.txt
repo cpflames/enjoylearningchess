@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 tot 
+  1 Wang, Ted              STTEK13D  2069  2072/275  W10 W4  W3  D5  L9  W7  D6  D2  W8  6.5
+  2 Thorwe, Pratik         ADUNK10D  2004  2003/ 23  W7  W8  D10 L4  W3  L5  D9  D1  W6  5.5
+  3 Bhaskaran, Siddharth   HMNE152J  1846  1904/ 67  D5  W9  L1  W6  L2  W8  U   D4  W7  5.0
+  4 Tagor, Bental          ADUNJ89M  1943  1970/ 24  W9  L1  W6  W2  W8  U   L7  D3  D5  5.0
+  5 Sprumont, Oscar        ADUNK10E  2014  2004/ 21  D3  W7  W9  D1  L6  W2  L8  U   D4  4.5
+  6 Airapetian, Chouchanik ADUND039  2000  1959/ 29  L8  W10 L4  L3  W5  D9  D1  D7  L2  3.5
+  7 Eksarevskly, Albert    LSSJ530Y  1794  1822/112  L2  L5  W8  W9  LF  L1  W4  D6  L3  3.5
+  8 Thomas, Damarcus       ADUN161X  1918  1887/ 29  W6  L2  L7  W10 L4  L3  W5  L9  L1  3.0
+  9 Nallappa, Vijay        REJID40S  1713  1750/396  L4  L3  L5  L7  W1  D6  D2  W8  U   3.0
+ 10 Ackerman, Ryan         ADUNC514  1933  1900/219  L1  L6  D2  L8  LF  U   U   U   U   0.5

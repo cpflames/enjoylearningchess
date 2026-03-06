@@ -1,0 +1,42 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Huang, Maxwell         LECE520H   782   886/ 44  W13 W25 W28 W5  W10 5.0
+  2 Chin, Ian              LECEF95D   687   813/ 76  W16 W3  D5  W9  W6  4.5
+  3 Pumphrey, Brooks       CRPEJ79M   713   723/ 25  W14 L2  W27 W15 W12 4.0
+  4 Castaneda, Alonso      MCUEK69H   629   658/ 39  W26 L5  W29 W16 W11 4.0
+  5 Hemperly, Harper       HSCEI09E   786   800/ 56  W12 W4  D2  L1  W13 3.5
+  6 Liang, Jane            LECEJ60T   694   699/ 40  W34 W11 D10 W22 L2  3.5
+  7 Qin, Mason             LECEK97A   509   519/ 34  W27 D15 W24 L10 W22 3.5
+  8 Guzman, Tom            MTPEJ79D   339   383/ 19  HPB W19 L22 W24 W23 3.5
+  9 Jimenez, Diego         RCEEJ53P   100   286/ 10  D22 W35 W23 L2  W21 3.5
+ 10 Shaw, Ryder            RFPEJ23U   400   694/  5  W17 W26 D6  W7  L1  3.5
+ 11 Rosales, Gavin         TREE340W   540   529/ 29  W21 L6  W31 W20 L4  3.0
+ 12 Garcia, Sergio         BMCE733M   471   491/ 40  L5  W29 W18 W28 L3  3.0
+ 13 Guzman, Melany         MCUEK69G   436   462/ 45  L1  W17 W38 W30 L5  3.0
+ 14 Blanco, Dominic        KCCEK38V   404   386/ 10  L3  L24 W40 W38 W28 3.0
+ 15 Levey, Shannon         RFPE389R   400   429/ 55  HPB D7  W39 L3  W29 3.0
+ 16 Wonders, Rennick Lee   RFPEJ62K   392   417/ 20  L2  W32 W41 L4  W27 3.0
+ 17 Monzon, Jesus Adrian   RCEEJ79J   272   295/ 14  L10 L13 BYE W37 W30 3.0
+ 18 Erecia, Kaliyah        MCGEJ53S   178   242/ 10  D36 D31 L12 W41 W26 3.0
+ 19 Pena, Felipe           HTEEI88M   324   303/ 38  HPB L8  W35 L21 W34 2.5
+ 20 Cozad, Chloe           MCGE531M   290   292/ 52  L25 W41 W32 L11 D24 2.5
+ 21 Dickinson, Alexandria  RFPEK97N   262   262/ 29  L11 D37 W36 W19 L9  2.5
+ 22 Nunez, Juan            RFREJ79F   232   305/ 20  D9  W39 W8  L6  L7  2.5
+ 23 Soto, Josiah           RFREJ79H   165   231/ 19  HPB W36 L9  W25 L8  2.5
+ 24 Madrigal Ramos, Yaslin TREEJ62H   109   240/ 15  W33 W14 L7  L8  D20 2.5
+ 25 Pheysey, Jackson       CRPEE81Y   565   471/ 53  W20 L1  L30 L23 W35 2.0
+ 26 Williams, Grant        CRPEJ62J   341   313/ 15  L4  L10 W33 W31 L18 2.0
+ 27 Quintero, Raul         RFREJ79K   254   257/ 20  L7  W40 L3  W39 L16 2.0
+ 28 Bickford, Connor       KCCEK38T   240   272/ 10  W38 W34 L1  L12 L14 2.0
+ 29 Worthington, Aaron     LIBEJ53N   226   241/ 15  W40 L12 L4  W32 L15 2.0
+ 30 Martin, Clyde          TREEJ53R   196   202/ 15  L32 W33 W25 L13 L17 2.0
+ 31 Donovan, Reeve         KCCEJ59N   100   134/ 13  D35 D18 L11 L26 W41 2.0
+ 32 Bonnell, Chase         KCCEJ23T   400   171/  5  W30 L16 L20 L29 W38 2.0
+ 33 Mata, Staten           LIBEJ23S   400   100/  4  L24 L30 L26 BYE W37 2.0
+ 34 Orozco, Keenan         MTPE793F   399   302/ 34  L6  L28 D37 W36 L19 1.5
+ 35 Sellers, William       MTPEJ45E   230   166/ 10  D31 L9  L19 W40 L25 1.5
+ 36 Bell, Dominic          TREEJ23R   400   100/  5  D18 L23 L21 L34 W39 1.5
+ 37 Garcia, Metzi          MCUEJ44Z   100   100/  9  L41 D21 D34 L17 L33 1.0
+ 38 Stevens, Gianna        TREEJ53Q   100   100/ 14  L28 BYE L13 L14 L32 1.0
+ 39 Cortez, Kataleya       TREEJ62E   100   100/ 18  BYE L22 L15 L27 L36 1.0
+ 40 Meza, Neymar           MCUEJ23Q   400   100/  4  L29 L27 L14 L35 BYE 1.0
+ 41 Mitchell, Magnolia     KCCEJ23P   400   100/  5  W37 L20 L16 L18 L31 1.0

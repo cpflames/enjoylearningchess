@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Yu, Peter              ADUNJ50C  1882  1872/ 23  WF  W7  L3  W6  W8  4.0
+  2 Marcelia, David        ADUNK21F  1653  1701/ 98  W10 W12 D4  D5  W3  4.0
+  3 Boulis, Christos       NWSKC84T  1846  1841/627  W13 W17 W1  D4  L2  3.5
+  4 Eksarevskly, Albert    LSSJ530Y  1811  1806/128  W9  W8  D2  D3  D5  3.5
+  5 Bharathy Mohan, Aarav  FRWFC98B  1674  1681/366  W11 D6  W7  D2  D4  3.5
+  6 Ghosh, Snehil          CBRE738T  1311  1382/173  W19 D5  W17 L1  W9  3.5
+  7 Raja, Rian             SKWG786E  1508  1508/149  W14 L1  L5  W15 W13 3.0
+  8 Mohan, Vishnu          KKNFF41R  1328  1367/148  W16 L4  W10 W12 L1  3.0
+  9 Ganesan, Vidur         RBRE940K  1214  1270/229  L4  W14 W15 W17 L6  3.0
+ 10 Alvarado, Alexander    ADUNJ69R  1254  1262/ 21  L2  W18 L8  W19 W12 3.0
+ 11 Nerella, Abhiram       HGMII18R  1148  1176/ 33  L5  W16 L12 W18 W17 3.0
+ 12 Mullen, Hana           SMZKK81C  1319  1288/ 46  W18 L2  W11 L8  L10 2.0
+ 13 Moghe, Arjun           REJGA42C  1273  1241/144  L3  L15 W19 W16 L7  2.0
+ 14 Rachiba, Alisa         EVPDK08E  1182  1126/138  L7  L9  L16 BYE W18 2.0
+ 15 Byelashov, Alex        ADUNH71K  1122  1120/ 10  L17 W13 L9  L7  W19 2.0
+ 16 Byelashova, Darya      SGHDK51X   955   969/107  L8  L11 W14 L13 BYE 2.0
+ 17 Shivhare, Devluv       MTSJW57H  1427  1261/ 10  W15 L3  L6  L9  L11 1.0
+ 18 Byelashova, Sofia      SGHBK01K   759   743/ 72  L12 L10 BYE L11 L14 1.0
+ 19 O'sullivan, Colin      ADUNH86L   539   535/ 17  L6  BYE L13 L10 L15 1.0

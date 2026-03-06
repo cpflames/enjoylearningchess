@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Patel, Aarya           REEFK30E  1312  1299/ 80  L2  W4  W3  2.0
+  2 Tian, Eric             SOMFI80S  1073  1134/119  W1  L3  W4  2.0
+  3 Phadke, Mahi           STLHF90B  1160  1135/ 37  L4  W2  L1  1.0
+  4 Garg, Vihaan           CMCDJ10X  1052  1054/187  W3  L1  L2  1.0

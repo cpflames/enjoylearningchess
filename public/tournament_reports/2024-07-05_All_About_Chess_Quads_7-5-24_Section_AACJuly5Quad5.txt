@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pan, Peng-chi          SSMCK24N   885   895/115  W2  L4  W3  2.0
+  2 Bolisetty, Varun       CBRCJ73Z   758   828/ 58  L1  W3  W4  2.0
+  3 Bysani, Aakash         SSMBK01D   868   830/159  W4  L2  L1  1.0
+  4 Jahani, Nikan          SNIFK89A   784   771/ 88  L3  W1  L2  1.0

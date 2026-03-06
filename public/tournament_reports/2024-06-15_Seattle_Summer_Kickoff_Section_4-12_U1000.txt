@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Nawagamudewage, Inura  MDEHJ11V   835  1021/  9  W15 W6  D2  W3  W5  4.5
+  2 Nawagamudewage, NaadithMELEJ11W   927  1058/  9  W12 W10 D1  W4  W8  4.5
+  3 Bates, Killian         HEAIK18M   977  1009/ 43  W11 W5  W4  L1  W9  4.0
+  4 Bhende, Shaurya        MMEEK24T   892   896/ 46  W7  W17 L3  L2  W10 3.0
+  5 Kalian, Illia          VIWFI13T   793   828/ 94  WF  L3  W9  W7  L1  3.0
+  6 Chaurasia, Ishi        HMNEK22B   788   770/101  W19 L1  W18 L8  W17 3.0
+  7 Vinoth Ganapathy, PavitAUDEH96J   667   755/ 14  L4  W11 W14 L5  W15 3.0
+  8 Paley, Harold          VIEFH70Q   500   863/  5  L10 W12 W15 W6  L2  3.0
+  9 Davies, Damien         MCEFK68U   836   805/ 84  W16 W18 L5  D10 L3  2.5
+ 10 Singhal, Aryash        SYCE595L   752   780/ 87  W8  L2  W16 D9  L4  2.5
+ 11 Xia, Jethro            BCSEK47R   749   731/ 87  L3  L7  W19 W16 D12 2.5
+ 12 Shah, Aarush           LEOGK00C   675   686/ 37  L2  L8  BYE W14 D11 2.5
+ 13 Guruswamy, Tejal       CPJHK10X   525   482/ 30  HPB L14 L17 W18 WF  2.5
+ 14 Dattani, Shaurya       LEOGJ57G   793   684/ 19  L17 W13 L7  L12 BYE 2.0
+ 15 Bilguun, Telmuun       PKWEK18D   732   693/ 15  L1  W19 L8  W17 L7  2.0
+ 16 Gowda, Aarav           THOEK87E   638   596/ 39  L9  BYE L10 L11 W18 2.0
+ 17 Alvarez Minguez, VictorMAGEJ75Q   144   335/ 18  W14 L4  W13 L15 L6  2.0
+ 18 Wright, Victoria       MMIGJ17P   534   450/ 96  WF  L9  L6  L13 L16 1.0
+ 19 Clouse, Henry          SYREH70P   400   266/  3  L6  L15 L11 BYE LF  1.0

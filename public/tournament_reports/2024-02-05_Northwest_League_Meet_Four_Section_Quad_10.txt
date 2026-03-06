@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Graybill, Daniel       FERJJ60C   336   467/  6  LF  W4  W3  2.0
+  2 Crediford, Nilay       FERJF28K   416   397/ 37  LF  L3  W4  1.0
+  3 Macmillan, Zaiden      BLHJJ85P   358   376/ 12  LF  W2  L1  1.0
+  4 Russell, Reagan        BLHKJ72W   372   310/ 11  LF  L1  L2  0.0

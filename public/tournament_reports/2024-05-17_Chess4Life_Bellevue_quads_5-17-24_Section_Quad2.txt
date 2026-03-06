@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lin, Luna              OPWCK01W   825  1051/ 83  W3  W2  W4  3.0
+  2 Li, Hanson             MEDF507H  1012  1037/103  W4  L1  W3  2.0
+  3 Chong, Jacob           RSHFF24L  1101  1053/120  L1  W4  L2  1.0
+  4 Bravenboer, Jake       OPWDJ97Y   966   901/ 83  L2  L3  L1  0.0

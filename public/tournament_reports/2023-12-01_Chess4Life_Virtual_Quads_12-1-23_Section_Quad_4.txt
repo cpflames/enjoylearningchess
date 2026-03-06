@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Garg, Vihaan           CMCDJ10X  1040  1064/193  L2  W4  W3  2.0
+  2 Kandar, Aarav          FISDK21U  1030  1057/ 48  W1  W3  L4  2.0
+  3 Sreraman, Rahul        BCADJ42L  1045  1018/183  W4  L2  L1  1.0
+  4 Hildenbrand, Blane     PSMI122V  1036  1012/241  L3  L1  W2  1.0

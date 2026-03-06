@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Shawn              SOMCJ11N  1545  1537/ 38  W3  W4  L2  2.0
+  2 Ma, Lewis              SOMC587M  1508  1507/169  W4  L3  W1  2.0
+  3 Babbar, Riaan          ENDDJ98D  1223  1314/ 92  L1  W2  W4  2.0
+  4 Burtram, Dayton        BLMIG77M  1284  1244/280  L2  L1  L3  0.0

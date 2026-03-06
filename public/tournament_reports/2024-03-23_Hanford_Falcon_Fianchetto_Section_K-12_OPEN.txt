@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Arias Padilla, Jose    RICL888V  1209  1410/109  W22 W4  W7  W2  W8  5.0
+  2 Repalle, Vibhav        HHSJK31L  1340  1370/100  W6  W11 W8  L1  W7  4.0
+  3 Li, Jessie             IDXFY99Q  1434  1406/ 25  D5  W17 W15 L4  W12 3.5
+  4 Chavez Vargas, Angel   CWHM858A  1347  1354/ 72  W10 L1  W9  W3  D6  3.5
+  5 Cress, Emmett          JMLHH54B  1053  1167/ 60  D3  W21 W14 L8  W11 3.5
+  6 Moreno Prado, Brandon  CWHMC596   847  1066/242  L2  W19 W13 W14 D4  3.5
+  7 Mendoza, Oscar         CWHKI229  1242  1236/307  W20 W18 L1  W15 L2  3.0
+  8 Kaiphanliam, Kieren SisCWHJK52X  1232  1241/ 49  W19 W9  L2  W5  L1  3.0
+  9 Chavez, Jessie         BMCEK53S  1070  1075/ 40  W17 L8  L4  W20 W15 3.0
+ 10 Naungayan, Landon      CRPFJ80K  1041  1053/ 35  L4  W13 L11 W21 W16 3.0
+ 11 Li, Roy                IDXCY99P  1197  1175/ 25  W16 L2  W10 D12 L5  2.5
+ 12 Alford, Isaiah         CWHL925Y  1105  1095/ 35  L15 W20 W18 D11 L3  2.5
+ 13 Perez Birrueta, Rafael CWHJK60W   961   966/ 58  D14 L10 L6  W19 W20 2.5
+ 14 Hassan, Ahmad          RRGI714R  1292  1206/177  D13 W22 L5  L6  D18 2.0
+ 15 Allmon, Jeremiah       JMLHJ81X  1007  1018/ 25  W12 W16 L3  L7  L9  2.0
+ 16 Paw Myint, John Sein   CWHJJ81W   872   878/ 20  L11 L15 W17 W18 L10 2.0
+ 17 Dedmond, Charles       CWHKJ81L   479   519/ 14  L9  L3  L16 BYE W21 2.0
+ 18 Fultz, Heath           JMLH853S  1079  1018/ 69  W21 L7  L12 L16 D14 1.5
+ 19 Arias Padilla, Alondra RICKK68G   969   862/ 14  L8  L6  L20 L13 BYE 1.0
+ 20 Schlotthauer, Ava      LIBLJ53Z   647   671/ 23  L7  L12 W19 L9  L13 1.0
+ 21 Wampole, Caleb         CWHJ133K   605   604/ 72  L18 L5  W22 L10 L17 1.0
+ 22 Luna Rocha, Sergio Jr  CWHL3108   902   841/208  L1  L14 L21 U   U   0.0

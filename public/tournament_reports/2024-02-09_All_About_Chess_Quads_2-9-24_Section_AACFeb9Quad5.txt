@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kolter, Aidan          SNIEJ60J   700   828/ 12  W2  W4  W3  3.0
+  2 Krogstad, Jaxon        NCSCJ88M   538   646/ 33  L1  W3  W4  2.0
+  3 Pan, Peng-chi          SSMCK24N   735   689/ 26  W4  L2  L1  1.0
+  4 Abhilash, Lavina       CRIEK07R   615   545/ 75  L3  L1  L2  0.0

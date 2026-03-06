@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Momotok, Charlie       KCCCK38Q   275   316/ 11  L4  W3  W2  W5  3.0
+  2 Bickford, Connor       KCCEK38T   272   304/ 14  W5  W4  L1  W6  3.0
+  3 Bickford, Zane         KCCCJ22Y   205   189/  9  W6  L1  D5  D4  2.0
+  4 Bossert, Jack          LIBCH80C   200   128/  4  W1  L2  L6  D3  1.5
+  5 Bonnell, Chase         KCCEJ23T   171   152/  9  L2  W6  D3  L1  1.5
+  6 Mitchell, Magnolia     KCCEJ23P   100   100/  9  L3  L5  W4  L2  1.0

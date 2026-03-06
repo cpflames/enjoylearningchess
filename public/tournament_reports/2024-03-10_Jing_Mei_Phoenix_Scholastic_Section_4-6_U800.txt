@@ -1,0 +1,35 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Mirpuri, Shrevin Hiro  OMSGJ03R   600  1112/  5  W8  W13 W24 W15 W7  5.0
+  2 Chenchu Arun, Krish    SSMEJ74U   391   755/ 19  D20 W19 W27 W9  W10 4.5
+  3 Marella, Akhil         CHREK93L   630   681/ 48  W25 L5  W18 W26 W14 4.0
+  4 Gaddam, Vihaan         SSMEJ28E   455   745/ 15  W19 L10 W11 W20 W15 4.0
+  5 Jiang, Jason           SSMFK94Q   297   655/ 24  W11 W3  L7  W12 W24 4.0
+  6 Chen, Kevin            AUDEJ87P   687   673/ 15  W28 L24 W22 D8  W27 3.5
+  7 Malhotra, Sartaj       KNDFK69K   604   656/ 59  W31 D27 W5  W14 L1  3.5
+  8 Lin, Ethan             THUFJ71H   527   667/ 15  L1  W33 W21 D6  W19 3.5
+  9 Xia, Jethro            BCSEK47R   755   710/ 57  L14 W28 W17 L2  W25 3.0
+ 10 Du, Charles            SOMEA15U   694   716/ 70  W18 W4  L15 W13 L2  3.0
+ 11 Slettebak, Jordan      EMSG604V   659   634/ 53  L5  W30 L4  W24 W31 3.0
+ 12 Upasani, Neil          SSMEJ57C   632   606/ 24  W30 L14 W23 L5  W26 3.0
+ 13 Wu, Max                JINFK90J   542   620/ 14  W29 L1  W20 L10 W21 3.0
+ 14 Boo, Yenwei            JINGK80U   400   537/ 10  W9  W12 W26 L7  L3  3.0
+ 15 Lai, Kaiden            JINGJ03Q   600   765/  5  W17 W22 W10 L1  L4  3.0
+ 16 Mamadgi, Uthkarsh      PLKGJ47A   766   626/ 10  L24 D20 W25 W27 L18 2.5
+ 17 Abhilash, Lavina       CRIEK07R   547   518/ 88  L15 W31 L9  D18 W29 2.5
+ 18 Shah, Aarush           LEOGK00C   369   443/ 18  L10 W32 L3  D17 W16 2.5
+ 19 Inampudi, Tanvisree    RHJGB45J   764   691/ 33  L4  L2  W31 W23 L8  2.0
+ 20 Jain, Anvay            EBSG874Z   742   680/ 43  D2  D16 L13 L4  W28 2.0
+ 21 Dortch, Miles          JINFK30P   735   630/ 20  L27 W29 L8  W32 L13 2.0
+ 22 Mallu, Rushank Reddy   BRHEK93H   517   458/ 61  W32 L15 L6  L25 W33 2.0
+ 23 Schechter, Elizabeth   MEDE373X   490   435/ 68  W33 L26 L12 L19 W32 2.0
+ 24 Lin, Elliot            THUFJ71G   471   533/ 15  W16 W6  L1  L11 L5  2.0
+ 25 Peng, Eric             SSMFJ31E   163   353/  9  L3  W34 L16 W22 L9  2.0
+ 26 Ma, Daniel             JINFJ03N   500   476/  5  W34 W23 L14 L3  L12 2.0
+ 27 Chirita, Adrian        CBEEJ93A   370   417/ 13  W21 D7  L2  L16 L6  1.5
+ 28 Kwan-uchiyama, Amelia  JINEF71R   301   286/ 24  L6  L9  D29 W30 L20 1.5
+ 29 Havish, Battala        SSMEJ03L   400   207/  4  L13 L21 D28 WF  L17 1.5
+ 30 Wang, Ivanka           JINEJ63P   100   100/  9  L12 L11 L32 L28 BYE 1.0
+ 31 Toma, Eiji             JINFJ03K   500   117/  4  L7  L17 L19 BYE L11 1.0
+ 32 Rangrajan, Sana        ENSFJ03J   500   169/  5  L22 L18 W30 L21 L23 1.0
+ 33 Yang, Jacob            JINEJ03H   400   100/  3  L23 L8  HPB HPB L22 1.0
+ 34 Kukreja, Aarav         SOMF433H   693   583/ 53  L26 L25 HPB LF  U   0.5

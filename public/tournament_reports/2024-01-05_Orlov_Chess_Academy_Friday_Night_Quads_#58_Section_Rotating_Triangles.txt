@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ghosh, Snehil          CBRE738T  1226  1245/100  BYE W3  W2  3.0
+  2 Edwin, Elijah          BCSDC24D  1106  1091/150  W4  BYE L1  2.0
+  3 Xu, Ethan              BENEK98S   693   714/105  W5  L1  W4  2.0
+  4 Hedstrom, Elliot       WEDCK92C   581   563/ 47  L2  W5  L3  1.0
+  5 Li, Chris              CNHCJ89W   209   195/ 20  L3  L4  BYE 1.0

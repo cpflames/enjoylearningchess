@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kerr, Ethan            BLHLJ06N   482   562/ 41  W2  W3  LF  2.0
+  2 Wright, Makayla        MRDMK32N   516   515/ 28  L1  W4  LF  1.0
+  3 Russell, Emerson       BLEFK23A   562   516/ 41  D4  L1  LF  0.5
+  4 Clarke, Jonathan       BLHJG05B   479   448/ 23  D3  L2  LF  0.5

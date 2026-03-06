@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Maheshwari, Vihaan     SKNJ695W  1074  1134/111  W3  W2  U   2.0
+  2 Ganesan, Vidur         RBRE940K  1176  1163/158  U   L1  W3  1.0
+  3 Sreraman, Rohit        BCADG92Q  1080  1035/210  L1  U   L2  0.0

@@ -1,0 +1,41 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zamora-kapoor, Eva     STTAJ41W   423   627/ 20  W39 W27 W38 W4  W6  5.0
+  2 Armitage-selig, PhoenixSUZAJ31Z   350   635/ 17  W22 W20 W5  W9  W8  5.0
+  3 Huang, Nolan           EVGAJ67D   591   586/ 25  W17 L7  W37 W12 W11 4.0
+  4 Sairam, Advaith        RBRAK01Q   531   553/ 59  W18 W12 W11 L1  W17 4.0
+  5 Chin, Kheiron          HSCAJ19P   526   549/ 24  W21 W15 L2  W24 W10 4.0
+  6 Siva, Vikaat           DISAJ30L   443   557/ 25  W36 W16 W7  W8  L1  4.0
+  7 Suresh Balaji, Shri JivHSCAK40B   335   491/ 48  W32 W3  L6  W25 W9  4.0
+  8 Koster, John           SPTAJ88T   557   533/ 44  W30 W13 W10 L6  L2  3.0
+  9 Kondapalli, Keyura     EVGAJ67E   441   439/ 25  W37 W19 W27 L2  L7  3.0
+ 10 Sheehy, Julian         BRYAJ67A   425   418/ 15  W31 W24 L8  W14 L5  3.0
+ 11 Li, Ryder              MEDAJ66R   328   347/ 38  W38 W29 L4  W26 L3  3.0
+ 12 Rogov, Audrey          MEDAJ66D   294   328/ 39  W26 L4  W28 L3  W20 3.0
+ 13 Zhou, George           BRYAJ65T   265   276/ 20  W33 L8  L24 W21 W26 3.0
+ 14 Fernandez, Jeronimo    EPIAJ42A   251   276/ 10  L27 W39 W29 L10 W28 3.0
+ 15 Ahmadi, Andrew         LKDAJ66H   246   258/ 10  W28 L5  L25 W33 W39 3.0
+ 16 Liu, Henry             WEDAJ66Q   229   256/ 10  W34 L6  L26 W31 W29 3.0
+ 17 Lawardy, Calya         BRYAJ66A   100   253/  9  L3  W38 W39 W19 L4  3.0
+ 18 Adoc, Lluc             PERAJ54N   100   197/ 10  L4  L26 W35 W32 W24 3.0
+ 19 Karaca, Jasmine        LKDAJ66B   193   197/ 20  W25 L9  D20 L17 W30 2.5
+ 20 Zhang, Mya             EVGAJ66G   135   188/ 29  W40 L2  D19 W30 L12 2.5
+ 21 Huang, Elliot          LKDAJ54D   100   160/ 10  L5  D33 W34 L13 W25 2.5
+ 22 Hungwe, Rukudzo        LKDAH92X   100   208/  5  L2  D23 L30 W34 W36 2.5
+ 23 Chan, Conan            EPIAJ41Y   187   137/ 10  L29 D22 D32 L27 W38 2.0
+ 24 Zhao, Jerry            EVGAH97K   163   193/ 10  W35 L10 W13 L5  L18 2.0
+ 25 Tang, Ryder            MEDAJ66E   100   120/ 15  L19 W40 W15 L7  L21 2.0
+ 26 Tzeng, Caden           LKDAH92V   100   197/  5  L12 W18 W16 L11 L13 2.0
+ 27 Farkas, Jacob          PERAH92U   100   351/  4  W14 L1  L9  W23 LF  2.0
+ 28 Wang, Kyle             NCSAH92T   100   131/  5  L15 W36 L12 W37 L14 2.0
+ 29 Stewart, Kai           PERAH92S   100   139/  5  W23 L11 L14 W40 L16 2.0
+ 30 Song, Andrew Seungyu   PKRAJ41X   100   100/ 10  L8  D32 W22 L20 L19 1.5
+ 31 Allen, Henry           LKDAJ54J   100   100/ 14  L10 D34 D33 L16 D35 1.5
+ 32 Hirai, Ian             LKDAH92P   100   100/  5  L7  D30 D23 L18 D33 1.5
+ 33 Swigon, Bruno          WEDAH92N   100   100/  5  L13 D21 D31 L15 D32 1.5
+ 34 Leong, Adam            BRYAH92K   100   100/  5  L16 D31 L21 L22 W40 1.5
+ 35 Yang, Debra            ECLAH92J   100   100/  5  L24 L37 L18 W39 D31 1.5
+ 36 Heart-myers, Eleanor   VIWAJ71T   100   100/ 26  L6  L28 W40 L38 L22 1.0
+ 37 Shopay, Cade           LKDAJ54L   100   100/  8  L9  W35 L3  L28 LF  1.0
+ 38 Stratiev, Peter        LKDAH92H   100   100/  5  L11 L17 L1  W36 L23 1.0
+ 39 Pour-moezzi, Liliana   LKDAH92G   100   100/  5  L1  L14 L17 L35 L15 0.0
+ 40 Lindley, Marina        LKDAH92F   100   100/  5  L20 L25 L36 L29 L34 0.0

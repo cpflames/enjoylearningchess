@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pandit, Vihaan         LAVFJ99D   453   624/ 32  W2  W3  W4  3.0
+  2 Wong, Aiden            CNHDK17Z   490   525/ 50  L1  W4  W3  2.0
+  3 Yong, Jionni           RDWFW86B   498   465/ 14  W4  L1  L2  1.0
+  4 Pradeep Kumar, Abhinav TBKFK47V   438   362/ 12  L3  L2  L1  0.0

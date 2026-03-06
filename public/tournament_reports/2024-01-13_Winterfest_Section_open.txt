@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Patterson, Ben         CHHLI54X  1537  1525/ 96  W8  W4  W2  L3  W5  4.0
+  2 Davis, Aiden           ADCKK70N  1380  1390/ 48  W6  W7  L1  W8  W3  4.0
+  3 Keener, Karl           HLHIY40G  1259  1316/123  W11 W5  W4  W1  L2  4.0
+  4 Sherwood, Leo          FREII58J  1082  1084/ 72  W12 L1  L3  W11 W8  3.0
+  5 Peterson, Eli          ADCKH13G  1047  1064/ 35  W9  L3  W6  W7  L1  3.0
+  6 Dybdahl, Matthew       EGMHF49N   723   838/ 10  L2  W9  L5  W10 W7  3.0
+  7 Brown, Donovan         EVAMJ87U   911   874/ 19  W10 L2  W12 L5  L6  2.0
+  8 Santilli, Tristen      MHSMH668   901   894/138  L1  W12 W11 L2  L4  2.0
+  9 Wilson, Nicholas       LBYHJ58B   700   616/  5  L5  L6  L10 W12 W11 2.0
+ 10 Dittrich, Lance        DPHKJ58A  1000   589/  5  L7  L11 W9  L6  W12 2.0
+ 11 Sparre, Elijah         HDPII82W   598   586/ 24  L3  W10 L8  L4  L9  1.0
+ 12 Bucknell, Jaxsen       SAWIJ93Q   450   405/ 18  L4  L8  L7  L9  L10 0.0

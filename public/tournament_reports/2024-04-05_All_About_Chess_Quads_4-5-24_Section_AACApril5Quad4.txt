@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pan, Peng-chi          SSMCK24N   880   897/ 67  W4  W3  L2  2.0
+  2 Mangla, Atharv         GRRDK07C   863   885/ 91  L3  W4  W1  2.0
+  3 Ge, Jeremy             SSMBJ88K   845   872/107  W2  L1  W4  2.0
+  4 Saboo, Ishaan          EVJGJ59Q   792   725/ 38  L1  L2  L3  0.0

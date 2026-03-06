@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chen, Julian           CNHBK32C   926  1168/ 55  W17 W3  W9  W4  W5  5.0
+  2 Vijay, Adith           SOMDD20K  1040  1051/ 45  D5  L9  W15 W10 W7  3.5
+  3 Wu, Jayden             UCDC495Q   998  1076/ 90  W7  L1  D5  W9  W8  3.5
+  4 Su, Oliver             JINDD01U   965  1026/125  W16 W10 D8  L1  W12 3.5
+  5 Jiang, Nathan          SCDDG71Q   923  1019/120  D2  W11 D3  W8  L1  3.0
+  6 Tsen, Eric             AGBDK18P   896   899/138  L8  W18 L10 W17 W13 3.0
+  7 Dharamshi, Anay        CBRCK42U   957   965/ 60  L3  W17 W13 W14 L2  3.0
+  8 Kullmann, Rex          HSCDZ89V  1036  1013/ 55  W6  W13 D4  L5  L3  2.5
+  9 Fang, Weiai            LAVD696W   997   989/237  D15 W2  L1  L3  W14 2.5
+ 10 Pan, Peng-yu           SSMCK24P   832   897/ 69  W12 L4  W6  L2  D11 2.5
+ 11 Xing, Andrew           SSSCK62E  1029   959/ 97  D14 L5  L12 W18 D10 2.0
+ 12 Naveh, Yaniv           SOMDK62Z  1020   954/ 45  L10 L16 W11 W15 L4  2.0
+ 13 Pan, Peng-chi          SSMCK24N   925   880/ 64  W18 L8  L7  W16 L6  2.0
+ 14 Ge, Jeremy             SSMBJ88K   860   845/104  D11 D15 W16 L7  L9  2.0
+ 15 Rogov, Richard         MEDCJ68U   737   764/ 49  D9  D14 L2  L12 W17 2.0
+ 16 Chai, Chloe            NCSDJ59R   753   763/ 56  L4  W12 L14 L13 W18 2.0
+ 17 Li, Eason              BLWD593L   723   691/ 25  L1  L7  W18 L6  L15 1.0
+ 18 Abebe, Asher           SNIDK44W   716   620/ 14  L13 L6  L17 L11 L16 0.0

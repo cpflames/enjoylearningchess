@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Khandelwal, Anay       CHRGA10L   635   608/ 29  W3  L2  WF  2.0
+  2 Sairam, Advaith        RBRAK01Q   518   521/ 87  WF  W1  L3  2.0
+  3 Tripathi, Naksh        BRHCJ98P   432   459/ 67  L1  WF  W2  2.0

@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 tot 
+  1 Whale, Nicholas        ADUNJ751  2072  2106/286  W6  W7  W9  L5  L3  W10 W2  W4  W8  7.0
+  2 Zhou, David            ADUN130N  2080  2103/ 35  L4  W8  W6  W7  W9  D5  L1  W10 W3  6.5
+  3 Gavrysh, Leonid        ADUN816H  2056  2085/ 69  W9  L4  W5  D8  W1  W6  W10 W7  L2  6.5
+  4 Jammalamadaka, Vihaan  WPPGJ90F  2021  2050/372  W2  W3  W8  W6  L7  W9  L5  L1  W10 6.0
+  5 Levine, David M        ADUN7815  2200  2180/ 13  W7  L9  L3  W1  W10 D2  W4  D8  D6  5.5
+  6 Colombo, Dominic M     GIGMJ74P  1941  1962/ 71  L1  W10 L2  L4  W8  L3  W7  W9  D5  4.5
+  7 Roesch, Carson         BLHL120K  1931  1933/274  L5  L1  W10 L2  W4  D8  L6  L3  W9  3.5
+  8 Moroney, Timothy       ADUN276J  2158  2102/ 58  W10 L2  L4  D3  L6  D7  D9  D5  L1  3.0
+  9 Wong-godfrey, Emerson  BUSKH83E  1919  1901/508  L3  W5  L1  W10 L2  L4  D8  L6  L7  2.5
+ 10 Wei, Te                ADUNK02V  1728  1692/ 26  L8  L6  L7  L9  L5  L1  L3  L2  L4  0.0

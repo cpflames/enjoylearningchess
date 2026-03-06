@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pan, Peng-yu           SSMCK24P  1008  1032/ 83  D2  W4  D3  2.0
+  2 Dharamshi, Anay        CBRCK42U  1005  1030/ 69  D1  W3  D4  2.0
+  3 Nandakiran, Vidyuth    SSME617C  1010  1008/ 94  W4  L2  D1  1.5
+  4 Huang, Clora           SOMEK31H   987   940/103  L3  L1  D2  0.5

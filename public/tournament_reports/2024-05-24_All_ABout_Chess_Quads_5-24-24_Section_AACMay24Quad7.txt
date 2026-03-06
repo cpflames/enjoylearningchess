@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mazer, Harvey          SNEDJ59E   476   551/ 18  W4  W5  W2  3.0
+  2 Li, Ethan James        SOMBK00K   387   416/ 46  W6  W3  L1  2.0
+  3 Nam, Alex              BLWDH75Q   386   390/ 13  W5  L2  W4  2.0
+  4 Shin, Joshua           CRKBJ63R   198   200/ 55  L1  W6  L3  1.0
+  5 Vatsan, Maitri         SSMBK00S   256   208/ 75  L3  L1  D6  0.5
+  6 Chang, Nathan          MMECK42T   163   119/ 33  L2  L4  D5  0.5

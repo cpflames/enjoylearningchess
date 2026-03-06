@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Patel, Aarya           REEFK30E  1197  1363/ 92  W2  W3  W4  3.0
+  2 Zhou, Nathan           NJHI215X  1419  1399/ 68  L1  D4  W3  1.5
+  3 Maharaja, Imai         HMNDK34K  1385  1352/119  W4  L1  L2  1.0
+  4 Joshi, Vyom            LEOIH81X  1219  1200/212  L3  D2  L1  0.5

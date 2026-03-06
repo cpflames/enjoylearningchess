@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zandanov, Leonid       ENACK31Q  1214  1461/ 98  W2  W4  W9  W7  W8  5.0
+  2 Sharma, Soham          LMSHK09Q  1480  1487/ 68  L1  W6  W12 W9  W4  4.0
+  3 Amalo, Eliot           HSCI282X  1413  1370/126  L12 L14 W16 W10 W7  3.0
+  4 Das, Sambuddha Sekhar  ENDDK47S  1285  1304/129  W6  L1  W14 W11 L2  3.0
+  5 Friedenson, Isaac      VVMHK21N  1216  1220/ 39  W15 D7  D11 D8  D9  3.0
+  6 Luo, Peter             SHVE664K  1135  1168/113  L4  L2  W15 W12 W11 3.0
+  7 Zhao, Dennis           OPWH525E  1294  1286/358  W13 D5  W10 L1  L3  2.5
+  8 Chabot, Troy           BRSKK15U  1259  1237/ 44  L10 W16 W13 D5  L1  2.5
+  9 Hetamsaria, Aayan      TYEIG19R  1239  1251/ 62  W14 W12 L1  L2  D5  2.5
+ 10 Mitra, Rahul           OPWIH53N  1128  1160/295  W8  D11 L7  L3  W14 2.5
+ 11 Moghe, Arjun           REJGA42C  1222  1182/120  W16 D10 D5  L4  L6  2.0
+ 12 Wang, Harvey           OPWBJ68G  1172  1160/107  W3  L9  L2  L6  W15 2.0
+ 13 Deng, Arthur           OPWCC90Y  1144  1097/108  L7  W15 L8  L14 W16 2.0
+ 14 Zhang, Nathan          EINIK00X  1102  1118/ 20  L9  W3  L4  W13 L10 2.0
+ 15 Vanavada, Kaushik      BRHGB86U   335   468/ 11  L5  L13 L6  W16 L12 1.0
+ 16 Deepak, Advait         BRHGD74M   958   873/ 60  L11 L8  L3  L15 L13 0.0

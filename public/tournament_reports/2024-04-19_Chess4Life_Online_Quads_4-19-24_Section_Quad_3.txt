@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yang, Jimmy            BASEG45S  1013  1126/165  W2  W4  W3  3.0
+  2 Song, Charlie          KJHIJ08F   990  1022/ 53  L1  W3  W4  2.0
+  3 Wu, Jasper             IMSI3471  1046  1011/143  W4  L2  L1  1.0
+  4 Gongadi, Sricharan     OMSHK90N   925   869/ 21  L3  L1  L2  0.0

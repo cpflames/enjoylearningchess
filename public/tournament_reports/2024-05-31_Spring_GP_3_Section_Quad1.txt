@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nipges, Jaxon          FERK382B  1360  1424/108  W3  W2  W4  3.0
+  2 Zhang, Owen            FHVI995H  1399  1396/280  W4  L1  W3  2.0
+  3 Luna, Max              FERKJ85Y  1162  1167/ 32  L1  W4  L2  1.0
+  4 Kozaczuk, James        SHKI108A  1198  1148/201  L2  L3  L1  0.0

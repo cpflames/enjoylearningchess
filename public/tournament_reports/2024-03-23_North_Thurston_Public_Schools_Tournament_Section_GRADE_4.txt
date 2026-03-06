@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Maranan, Ethan         SLTEJ52F   436   596/  9  U   W8  W12 W6  W3  4.0
+  2 Carey, Richard         LELEH85D   400   689/  5  W4  W7  W6  L3  W8  4.0
+  3 Strozyk, Alden         CPIEH85C   400   684/  5  W8  W12 W10 W2  L1  4.0
+  4 Henry, Gabriel         PLGEH85A   400   459/  5  L2  D5  W11 W7  D6  3.0
+  5 Ahmed, Aarez           PLGEH84Z   400   311/  5  L7  D4  L8  W10 W11 2.5
+  6 Rohde, Mark            LELEH84X   400   414/  5  W10 W9  L2  L1  D4  2.5
+  7 Stanton, Pierce        LELEH84T   400   359/  5  W5  L2  W9  L4  D10 2.5
+  8 De Quina, Christian    LELEH84S   400   382/  5  L3  L1  W5  W9  L2  2.0
+  9 Concepcion, Amaziah    CPIEH84R   400   118/  4  W11 L6  L7  L8  BYE 2.0
+ 10 Cook, Titus            WOEEH84Q   400   203/  5  L6  W11 L3  L5  D7  1.5
+ 11 Paul, Ezra             WOEEH84P   400   100/  4  L9  L10 L4  BYE L5  1.0
+ 12 Ramirez, Dylan         LELEH84M   400   191/  2  BYE L3  L1  U   U   1.0

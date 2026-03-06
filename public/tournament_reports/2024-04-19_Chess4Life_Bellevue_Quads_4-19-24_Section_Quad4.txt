@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Agrawal, Ayaansh       WONBJ99W   909   962/ 40  W2  W3  BYE 3.0
+  2 Li, Hanson             MEDF507H   917   912/ 89  L1  BYE W3  2.0
+  3 Tsen, Eric             AGBDK18P   856   807/144  BYE L1  L2  1.0

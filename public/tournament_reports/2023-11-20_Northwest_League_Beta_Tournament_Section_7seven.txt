@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Arnett, Taylan         SQUKK71A   364   531/  7  W4  W7  W3  3.0
+  2 Green, Henry           LYELJ72X  1100   530/  3  D7  W6  W5  2.5
+  3 Wright, Makayla        MRDMK32N   443   458/ 22  W6  W5  L1  2.0
+  4 Russell, Reagan        BLHKJ72W  1000   433/  3  L1  W8  W7  2.0
+  5 Delong, Sophia         BLHJK03A   374   336/ 15  W8  L3  L2  1.0
+  6 Macmillan, Zaiden      BLHJJ85P   140   180/  6  L3  L2  W8  1.0
+  7 Harris, Eli            MRDLJ85Q   254   235/  6  D2  L1  L4  0.5
+  8 Ziesing, Kendra        FERJJ85G   100   100/ 11  L5  L4  L6  0.0

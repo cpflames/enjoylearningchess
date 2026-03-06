@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xu, Ethan              BENEK98S   685   733/ 72  W6  W3  D2  2.5
+  2 Ting, Sophia           KSHDK64W   601   647/ 44  W5  W4  D1  2.5
+  3 Jang, Jinwon           VIEG561P   827   797/ 68  W4  L1  W5  2.0
+  4 Roychoudhury, Vikram   RKWDK00M   300   364/  3  L3  L2  W6  1.0
+  5 Gu, Vincent            OPWAK00L   100   364/  3  L2  W6  L3  1.0
+  6 Li, Ethan James        SOMBK00K   100   100/  3  L1  L5  L4  0.0

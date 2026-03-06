@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Podorean, Toma         WKEEJ26C   248   408/ 13  W5  W2  W3  3.0
+  2 Russell, Huxley        BLEDH73W   223   280/ 22  W4  L1  W6  2.0
+  3 Hardin, Noah           LYADH68E   197   244/ 15  W6  W5  L1  2.0
+  4 Bae, Micaiah           FACCJ64T   180   208/ 27  L2  W6  W5  2.0
+  5 Neff, William          CCXBH69K   188   105/ 23  L1  L3  L4  0.0
+  6 Brown, Jordan          HSCCJ64H   100   100/ 17  L3  L4  L2  0.0

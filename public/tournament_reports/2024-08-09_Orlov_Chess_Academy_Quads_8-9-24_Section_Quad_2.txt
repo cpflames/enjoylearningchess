@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xu, Ethan              BENEK98S   754   793/117  D2  U   W3  1.5
+  2 Doronin, Victor        BMNG335T   665   696/110  D1  D3  U   1.0
+  3 Yang, Nicholas         CHRDG23U   945   884/118  U   D2  L1  0.5

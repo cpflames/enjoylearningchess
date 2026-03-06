@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dhameeja, Ved          GRREJ98F   773   794/ 42  W2  L4  W3  2.0
+  2 Bidasaria, Kush        PFCH357C   721   767/ 83  L1  W3  W4  2.0
+  3 Shimao, Alexander      GRRHG77V   775   740/ 74  W4  L2  L1  1.0
+  4 Mahale, Avneesh        CNHB993F   721   702/ 59  L3  W1  L2  1.0

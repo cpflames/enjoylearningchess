@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chien, Jeffrey         OVLGF41X  1298  1395/158  W9  W4  W2  D6  W5  4.5
+  2 Pan, Peng-ruei         SSME759R  1461  1473/107  W3  W6  L1  W4  W7  4.0
+  3 Hughes, Weston         SMSII26V  1207  1216/ 64  L2  W9  L4  BYE W6  3.0
+  4 Yakkali, Karthik VedantKKNF301E  1179  1228/ 71  W7  L1  W3  L2  BYE 3.0
+  5 Mitra, Rahul           OPWIH53N  1064  1128/290  BYE W7  L6  W8  L1  3.0
+  6 Srimurugan, Rudran     OPWHJ98L  1274  1269/ 25  W8  L2  W5  D1  L3  2.5
+  7 Budhraja, Jai          EBSGA16E  1345  1286/114  L4  L5  W8  W9  L2  2.0
+  8 Shapiro, Maksim        LMAEK10R  1101  1072/ 58  L6  BYE L7  L5  W9  2.0
+  9 Nachiappan, Lakshmanan RHJHJ87Q  1104  1040/ 23  L1  L3  BYE L7  L8  1.0

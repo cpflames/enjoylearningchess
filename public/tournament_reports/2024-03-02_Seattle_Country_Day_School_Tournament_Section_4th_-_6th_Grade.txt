@@ -1,0 +1,54 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zhu, Aiden             SOMDC77X  1203  1285/118  W31 W16 W8  W10 W4  5.0
+  2 Kim, Dylan             SCDFK38L  1232  1271/186  W40 W14 W7  D3  W11 4.5
+  3 Luo, Peter             SHVE664K  1078  1154/ 98  W42 W20 W18 D2  W12 4.5
+  4 Pan, Jesse             ENSCJ61R  1231  1237/ 15  W30 W17 W13 W9  L1  4.0
+  5 Huang, Edwin           OMSG616M  1092  1088/ 82  W32 L18 W27 W16 W14 4.0
+  6 Bansal, Aarini         SOMFK14R  1079  1078/178  W33 W19 L10 W21 W15 4.0
+  7 Ward, Benjamin         IMSGK32Q  1076  1086/ 35  W34 W21 L2  W23 W22 4.0
+  8 Yang, Jimmy            BASEG45S   936   989/136  W44 W24 L1  W25 W13 4.0
+  9 Jayadevan, Neel        SCDG230P  1014  1052/105  W35 W23 W11 L4  D10 3.5
+ 10 Wang, Evan             FRWD929Z   968  1007/120  W37 W41 W6  L1  D9  3.5
+ 11 Patnaik, Rishabhdeva   CRKFG72D  1249  1207/157  W25 W15 L9  W17 L2  3.0
+ 12 Chaurasia, Vihaan      REJGH65G  1130  1081/130  L41 W46 W26 W19 L3  3.0
+ 13 Dhameeja, Ved          GRREJ98F   975   972/ 81  W36 W22 L4  W18 L8  3.0
+ 14 Michiels, Peter        THOFB73Z   951   944/ 30  W45 L2  W33 W24 L5  3.0
+ 15 Mehta, Shaan           IMSGK27A   889   883/ 29  W48 L11 W31 W38 L6  3.0
+ 16 Nelson, Ellis          BRYEB28C   885   905/ 65  W28 L1  W34 L5  W26 3.0
+ 17 Kumar, Rishuraj        PENFK45Y   860   865/ 48  W29 L4  W41 L11 W31 3.0
+ 18 Zhu, Alex              LKDFJ55P   834   862/ 20  W49 W5  L3  L13 W33 3.0
+ 19 Kadri, Eshan           XXOGW869   800   797/ 19  W50 L6  W42 L12 W35 3.0
+ 20 Reimer, Oliver         LKDFG59D   776   781/ 62  W52 L3  W45 HPB HPB 3.0
+ 21 Guzman, Nate           TPSF939A   772   778/136  W47 L7  W35 L6  W39 3.0
+ 22 Desai, Rian            SCDE335Q   764   780/ 34  W51 L13 W29 W27 L7  3.0
+ 23 Kalian, Illia          VIWFI13T   751   746/ 76  W53 L9  W46 L7  W37 3.0
+ 24 Wishwas, Rishab        LKDEK91Q   684   709/ 77  W39 L8  W36 L14 W38 3.0
+ 25 Shields, Conor         KOPGK51J   662   689/ 29  L11 W37 W39 L8  W36 3.0
+ 26 Jiang, Nathan          SCDDG71Q   981   923/115  W43 D27 L12 W32 L16 2.5
+ 27 Thompson, Grant        MGVF337E   748   750/ 30  W38 D26 L5  L22 W43 2.5
+ 28 Small, Yuli            JHYEK39Q   315   437/ 15  L16 L31 W40 D42 W41 2.5
+ 29 Hampton, Eli           JHYEK39V   313   464/ 15  L17 W32 L22 D41 W42 2.5
+ 30 Srebrnik, Mika         SJCEJ48R   608   505/ 10  L4  W48 L38 L37 W49 2.0
+ 31 Friedman, Elliot       SCDE896K   509   540/ 37  L1  W28 L15 W45 L17 2.0
+ 32 Karp, Wyatt            CBEEJ92W   477   466/ 19  L5  L29 W49 L26 W50 2.0
+ 33 Littlefield-davis, SebaTHUEK13G   476   523/ 10  L6  W50 L14 W47 L18 2.0
+ 34 Takala, Greysen        VIWFE55T   462   461/ 68  L7  W47 L16 L39 W51 2.0
+ 35 Solanki, Aksh          WELEJ28M   431   465/ 10  L9  W51 L21 W50 L19 2.0
+ 36 Thompson, Blake        SCDGB35S   400   406/  9  L13 W53 L24 W46 L25 2.0
+ 37 Mccorkindale, Anders   THOFJ48V   356   402/ 15  L10 L25 W53 W30 L23 2.0
+ 38 Wang, Leonart          SCDFJ15M   500   569/  5  L27 W43 W30 L15 L24 2.0
+ 39 Craver, Ezra           SJCFJ15L   500   510/  5  L24 W44 L25 W34 L21 2.0
+ 40 Tang, Khai             THUEJ48Q   624   424/ 10  L2  L45 L28 W53 D46 1.5
+ 41 Barnes-salvi, Giorgio  SCDEK39Z   499   538/ 10  W12 L10 L17 D29 L28 1.5
+ 42 Srinivasan, Shriyan    SCDFK16B   471   448/ 13  L3  W49 L19 D28 L29 1.5
+ 43 Powell, Marshall       BRYEJ69B   402   380/ 15  L26 L38 D51 W48 L27 1.5
+ 44 Davis, Connor          SCDEG26X   400   306/ 10  L8  L39 L47 D51 W53 1.5
+ 45 Collinson, Flynn       WEDFJ76E   331   354/ 13  L14 W40 L20 L31 D47 1.5
+ 46 Alvarez Minguez, VictorMAGEJ75Q   137   144/ 13  BYE L12 L23 L36 D40 1.5
+ 47 Goe-bright, Malachi    THOEJ15K   400   320/  5  L21 L34 W44 L33 D45 1.5
+ 48 Stanley, Allison       MAGF872Q   320   233/ 97  L15 L30 L50 L43 BYE 1.0
+ 49 Turner, Camden         CPREJ50V   311   250/ 27  L18 L42 L32 BYE L30 1.0
+ 50 Mathew, Basu           SCDEJ15J   400   226/  5  L19 L33 W48 L35 L32 1.0
+ 51 Pule, Kingston         MAGFJ15H   500   211/  5  L22 L35 D43 D44 L34 1.0
+ 52 Laird, James           SCDFJ15G   500   379/  1  L20 U   U   U   U   0.0
+ 53 Shanley, Camille       MAGFJ15F   500   100/  5  L23 L36 L37 L40 L44 0.0

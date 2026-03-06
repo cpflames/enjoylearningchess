@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 He, Oliver             ENDDK71V  1526  1592/337  W2  W3  W4  3.0
+  2 Kang, Danny            NPRJH30U  1468  1491/ 78  L1  W4  W3  2.0
+  3 Patel, Aarya           REEFK30E  1558  1506/133  D4  L1  L2  0.5
+  4 Sinha, Agastya         BRHEA75C  1356  1342/200  D3  L2  L1  0.5

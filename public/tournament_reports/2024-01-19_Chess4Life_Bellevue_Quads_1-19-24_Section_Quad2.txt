@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Suresh, Shruti         MTWE650Q   419   521/ 18  W4  W3  W2  3.0
+  2 Gomon, Zachary         AGBDJ83U   356   384/ 10  W3  W4  L1  2.0
+  3 Tripathi, Naksh        BRHCJ98P   328   298/ 31  L2  L1  W4  1.0
+  4 Xu, Jacky Y            SOMAJ59K   251   128/  6  L1  L2  L3  0.0

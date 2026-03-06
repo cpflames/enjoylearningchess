@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Iyer, Amshul           IMSIK11M   919  1051/ 33  W2  W4  W3  3.0
+  2 Jin, Michael           HMNGD09X   872   932/ 14  L1  W3  W4  2.0
+  3 Bui, Edwin             FRVEK90H  1041   964/ 73  D4  L2  L1  0.5
+  4 Bassen, Abel           WHAEZ72M   832   808/ 61  D3  L1  L2  0.5

@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Katipally, Sahan       WOBCK31R   554   789/ 21  W8  W5  W2  W3  W7  5.0
+  2 Benita-nagdeep, KrishanRBRCK56N   446   620/ 24  W12 W9  L1  W6  W5  4.0
+  3 Li, Alice              OPWCJ98C   755   697/ 14  L5  WF  W6  L1  W8  3.0
+  4 Zhen, Liam             DCCC622V   564   512/ 77  L6  W11 W10 L5  WF  3.0
+  5 Liu, Kyle              CNHBK00Z   393   570/ 14  W3  L1  W9  W4  L2  3.0
+  6 Dasari, Arjun          RSACK64P   307   443/ 10  W4  W7  L3  L2  W10 3.0
+  7 Agrawal, Ayaansh       WONBJ99W   520   482/ 10  W11 L6  D8  W9  L1  2.5
+  8 Ranjith, Janani        SHVBK65E   303   321/ 46  L1  BYE D7  W12 L3  2.5
+  9 Luo, Vivienne          SHVC703P   612   522/ 75  W10 L2  L5  L7  W11 2.0
+ 10 Hedstrom, Elliot       WEDCK92C   355   324/ 29  L9  W12 L4  W11 L6  2.0
+ 11 Manning, Luisa         MAPCJ92V   200   135/  5  L7  L4  W12 L10 L9  1.0
+ 12 Prasad, Rhea           DHLAJ92U   100   100/  4  L2  L10 L11 L8  LF  0.0

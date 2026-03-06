@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Davis, Aiden           ADCKK70N  1323  1365/ 38  W7  W4  W5  D2  W9  4.5
+  2 Deng, Stanley          LECFK22E  1458  1425/281  W9  W11 W8  D1  L3  3.5
+  3 Campbell, Sebastian    ASPII79A  1079  1128/184  L8  W9  W4  D6  W2  3.5
+  4 Santilli, Tristen      MHSMH668   676   848/124  W6  L1  L3  BYE W8  3.0
+  5 Keener, Karl           HLHIY40G  1321  1275/113  W10 L8  L1  W11 W7  3.0
+  6 Walstrom, Nathan       LWCMK57J  1143  1097/ 30  L4  D7  W10 D3  BYE 3.0
+  7 Hochheimer, Noah       SGSHF37G   943   979/206  L1  D6  W11 W8  L5  2.5
+  8 Brown, Donovan         EVAMJ87U  1200  1055/  5  W3  W5  L2  L7  L4  2.0
+  9 Sherwood, Leo          FREII58J   998   983/ 62  L2  L3  BYE W10 L1  2.0
+ 10 Davis, Jaxon           ADCIK50R   775   764/ 20  L5  BYE L6  L9  W11 2.0
+ 11 Bucknell, Jaxsen       SAWIJ93Q   635   582/  8  BYE L2  L7  L5  L10 1.0

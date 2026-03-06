@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Titterington, Henry    ENADJ88R   364   554/ 15  W6  W4  W5  3.0
+  2 Vijaybalaji, Bharg     AUDFJ61N   500   669/  3  W5  L3  W4  2.0
+  3 Surenyants, Artem      NLAEJ61M   400   656/  3  L4  W2  W6  2.0
+  4 Doronin, Victor        BMNG335T   711   660/ 84  W3  L1  L2  1.0
+  5 Gomon, Zachary         AGBDJ83U   360   356/  7  L2  W6  L1  1.0
+  6 Li, Chris              CNHCJ89W   255   209/ 18  L1  L5  L3  0.0

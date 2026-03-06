@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nandakiran, Vidyuth    SSME617C   574   589/ 31  W4  D2  W5  2.5
+  2 Abdelwahab, AbdelrahmanCMCFK03W   526   568/ 11  W6  D1  W3  2.5
+  3 Abhilash, Lavina       SNIEK07R   502   497/ 24  W5  W4  L2  2.0
+  4 Zhang, Patrick         SSSAK01J   100   178/  6  L1  L3  W6  1.0
+  5 Bysani, Aakash         SSMBK01D   100   256/  3  L3  W6  L1  1.0
+  6 Sanchez, Kaylee        FRIFK08P   100   100/  8  L2  L5  L4  0.0

@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zhang, Owen            FHVI995H  1404  1473/271  W8  W2  W4  W3  W5  5.0
+  2 Grewal, Harshan        FACIK33H   980  1148/ 56  W10 L1  W3  W4  W7  4.0
+  3 Stroud, Jeb            FHVIK22V  1446  1400/122  W7  W5  L2  L1  W8  3.0
+  4 Hildenbrand, Blane     PSMI122V  1363  1319/318  W6  W11 L1  L2  W9  3.0
+  5 Choukalas, Kevin       LYMGJ65Q   986   996/ 20  W9  L3  W6  W8  L1  3.0
+  6 Bhandula, Aarav        PLKHH96K   563   644/ 13  L4  W7  L5  BYE W11 3.0
+  7 Qureshi, Danish        BLNGF36V   881   828/108  L3  L6  BYE W11 L2  2.0
+  8 Cancelosi, Nicholas    VSTGM25W   612   642/ 59  L1  W10 W9  L5  L3  2.0
+  9 Aguila-contreras, EdgarHORHJ65J   599   580/ 26  L5  BYE L8  W10 L4  2.0
+ 10 Assink, Cayden         LYMHH77D   700   372/  4  L2  L8  W11 L9  BYE 2.0
+ 11 Morrison, Brayden      VSTGJ65E   318   278/ 17  BYE L4  L10 L7  L6  1.0

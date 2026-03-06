@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jiang, Kyle            MEDBK35B   947   997/ 83  D2  W4  W3  2.5
+  2 Iyer, Amshul           IMSIK11M   840   902/ 21  D1  W3  D4  2.0
+  3 Goel, Advit            CMCCG22F   909   882/ 86  W4  L2  L1  1.0
+  4 Bangard, Dhruv         TBKBK65D   892   843/ 74  L3  L1  D2  0.5

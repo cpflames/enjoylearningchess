@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Studer, Nolan          MCICH65W   200   554/  3  W4  W2  W3  3.0
+  2 Li, Ethan Y            CMCAH68J   100   167/  6  D3  L1  W4  1.5
+  3 Han, Isaac             CGRAH65V   100   118/  3  D2  D4  L1  1.0
+  4 Zhang, Allison         ISEAH65T   100   100/  3  L1  D3  L2  0.5

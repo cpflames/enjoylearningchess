@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Jacob Z          BLWFE71A   709   737/124  W4  W3  D2  2.5
+  2 Sharma, Srishti        ISMGJ88P   666   716/ 48  W3  W4  D1  2.5
+  3 Zhang, Patrick         SSSBK01J   619   556/100  L2  L1  D4  0.5
+  4 Vatsan, Maitri         SSMBK00S   396   393/ 85  L1  L2  D3  0.5

@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hildenbrand, Blane     PSMI122V  1421  1445/338  W4  W3  W2  3.0
+  2 Zhang, Owen            FHVI995H  1391  1375/289  W6  W7  L1  2.0
+  3 Rennie, Elias          BVEFH77C   912   941/ 20  W8  L1  W7  2.0
+  4 Singh, Jagteshwar      MRDMJ25M   874   927/ 55  L1  W8  W5  2.0
+  5 Qureshi, Danish        BLNGF36V   902   859/123  L7  W6  L4  1.0
+  6 Manly, Shafter         CUEFA72M   798   791/ 62  L2  L5  W8  1.0
+  7 Verduin, Skyler        CUEFJ26K   757   779/ 26  W5  L2  L3  1.0
+  8 Triano, Tony           SKYEJ17K   757   699/ 21  L3  L4  L6  0.0

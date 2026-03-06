@@ -1,0 +1,39 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Deng, Stanley          LECFK22E  1421  1503/301  W4  W25 W14 W3  W2  5.0
+  2 Palm, Caleb            LIBK919S  1439  1446/200  W8  W17 W9  W7  L1  4.0
+  3 Dillingham, Daniel     KCCGB73M  1398  1404/245  W5  W24 W27 L1  W9  4.0
+  4 Kaiphanliam, Kieren SisCWHJK52X  1180  1205/ 30  L1  W33 W32 W13 W10 4.0
+  5 Chavez Vargas, Angel   CWHM858A  1179  1213/ 53  L3  W23 W17 W15 W8  4.0
+  6 Fultz, Heath           JMLH853S  1001  1039/ 50  W22 L27 W26 W20 W7  4.0
+  7 Mendoza, Oscar         CWHKI229  1229  1208/292  W10 W29 W15 L2  L6  3.0
+  8 Arias Padilla, Jose    RICL888V  1207  1189/ 89  L2  W34 W21 W14 L5  3.0
+  9 Graham, Connor         CWHL5610  1172  1175/199  W11 W26 L2  W21 L3  3.0
+ 10 Hitt, Maylee           RRGIK96D  1089  1079/ 38  L7  W18 W24 W22 L4  3.0
+ 11 Cryan, Kenneth         CMLL3456  1076  1051/102  L9  W28 L20 W27 W12 3.0
+ 12 Dillingham, Annabella  KCCH229F  1032   999/239  L15 W35 W25 W16 L11 3.0
+ 13 Geelhood, Alec         CDKII90A   996   975/ 94  W16 L21 W29 L4  W24 3.0
+ 14 Ybarra, Caleb          CKKIK96F   990   999/ 28  W32 W30 L1  L8  W26 3.0
+ 15 Gogic, Arian           JMLHK96A   887   954/ 40  W12 W19 L7  L5  W27 3.0
+ 16 Kane, Jarret           CWHKJ97S   851   843/132  L13 W37 W30 L12 W29 3.0
+ 17 Harrington, Ephraim    TRHIK96E   839   889/ 33  W20 L2  L5  W33 W30 3.0
+ 18 Field, Ada             HHHHJ81V   691   747/ 10  L24 L10 W36 W31 W22 3.0
+ 19 Barnett, Eli           CDKIJ81S   505   631/ 10  W38 L15 L23 W25 W32 3.0
+ 20 Guizar, Kevin          CWHKI02P   839   842/ 80  L17 W31 W11 L6  D21 2.5
+ 21 Prasad, Sonali         JMLHK68K   528   650/ 29  W37 W13 L8  L9  D20 2.5
+ 22 Mendoza, Leonardo      CWHK1126   872   818/274  L6  W38 W34 L10 L18 2.0
+ 23 Coates, Ethan          BLSI820M   832   777/ 30  L27 L5  W19 L30 W34 2.0
+ 24 Santana, Andy          CWHKH849   793   800/248  W18 L3  L10 W34 L13 2.0
+ 25 Hall, Preston          CWHJ6381   743   718/104  W33 L1  L12 L19 W37 2.0
+ 26 Dodson, Tyson          KCCH234D   740   741/ 41  W28 L9  L6  W35 L14 2.0
+ 27 Perez Birrueta, Rafael CWHJK60W   713   798/ 38  W23 W6  L3  L11 L15 2.0
+ 28 Mejia, Xavior          RRGI533Y   676   625/117  L26 L11 L31 W36 W35 2.0
+ 29 Cress, Emmett          JMLHH54B   656   673/ 42  W36 L7  L13 W32 L16 2.0
+ 30 Trevino-gonzalez, MariaOCHH767V   568   600/ 40  W35 L14 L16 W23 L17 2.0
+ 31 Schlotthauer, Ava      LIBLJ53Z  1100   583/  5  L34 L20 W28 L18 W33 2.0
+ 32 Chavez, Jessie         BMCFK53S   848   753/ 25  L14 W36 L4  L29 L19 1.0
+ 33 Gomez, Anthony         OCHHD08B   685   612/ 47  L25 L4  W38 L17 L31 1.0
+ 34 Thompson, Ayden        JMLIJ98S   434   454/ 38  W31 L8  L22 L24 L23 1.0
+ 35 Gonzalez, Blanca       JMLHJ81M   323   314/ 14  L30 L12 W37 L26 L28 1.0
+ 36 Wampole, Caleb         CWHJ133K   308   300/ 53  L29 L32 L18 L28 W38 1.0
+ 37 Munoz, Miguel          RRGIJ81H   100   133/ 10  L21 L16 L35 W38 L25 1.0
+ 38 Wright, Andrew         JMLIK95Q   194   125/ 27  L19 L22 L33 L37 L36 0.0

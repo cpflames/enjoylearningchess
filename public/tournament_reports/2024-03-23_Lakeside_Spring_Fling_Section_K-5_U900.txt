@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Guzman, Nate           TPSF939A   778   941/141  W8  W3  W11 D2  W6  4.5
+  2 Du, Charles            SOMEA15U   825   901/ 80  W14 W6  W5  D1  D3  4.0
+  3 Agrawal, Ayaansh       WONBJ99W   740   809/ 35  W16 L1  W4  W9  D2  3.5
+  4 Xia, Jethro            BCSEK47R   833   800/ 67  L11 W12 L3  W15 W5  3.0
+  5 Luo, Vivienne          SHVC703P   754   765/120  W15 W7  L2  W8  L4  3.0
+  6 Sinha, Ishayu          CDWFJ24F   746   780/ 20  W9  L2  W7  W11 L1  3.0
+  7 Chadha, Saahan         ENDDK64R   568   671/ 31  W13 L5  L6  W10 W12 3.0
+  8 Garhwal, Eshvin        MISEE23D   526   652/ 43  L1  W16 W13 L5  W11 3.0
+  9 Gowda, Aarav           THOEK87E   419   578/ 30  L6  W14 W10 L3  D13 2.5
+ 10 Razmov, Siana          HZFBK93Y   760   686/111  W12 L11 L9  L7  W14 2.0
+ 11 Udelson, Wyatt         LAVCA96H   730   714/ 58  W4  W10 L1  L6  L8  2.0
+ 12 Sarkar, Hridik         FRVEK04W   493   516/ 38  L10 L4  W16 W13 L7  2.0
+ 13 George, Ameya          EBSEK88Y   800   680/ 40  L7  W15 L8  L12 D9  1.5
+ 14 Zhang, David           SOMBK41P   724   604/ 72  L2  L9  L15 W16 L10 1.0
+ 15 Trochesset, Marc       RKWE379R   474   441/ 35  L5  L13 W14 L4  L16 1.0
+ 16 Foss, Gunnar           MAPEH92D   400   360/  5  L3  L8  L12 L14 W15 1.0

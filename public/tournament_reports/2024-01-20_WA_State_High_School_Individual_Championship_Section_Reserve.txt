@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 r10 tot 
+  1 Aister, Aj             TJHLJ76T   737   912/ 15  D12 D12 D15 W15 W10 W10 W6  W6  D2  D2  7.5
+  2 Nguyen, Nathan         TJHKJ50P  1000  1072/ 10  W4  D4  D13 D13 W17 W17 W14 W14 D1  D1  7.5
+  3 Martin, Vainoa         TJHLK56Q   897   912/ 20  W15 W15 D7  D7  L6  L6  W11 W11 W12 W12 7.0
+  4 Roberts, Noah          SPRK3819   829   883/ 20  L2  D2  D16 D16 W18 W18 D7  W7  W6  W6  7.0
+  5 Koehler, Blake         SPRLJ76R   676   781/ 15  D9  D9  L12 L12 W16 W16 W13 W13 D7  D7  6.0
+  6 Aujla, Sihaan          BLHL413P   870   853/ 30  W18 W18 D17 W17 W3  W3  L1  L1  L4  L4  5.5
+  7 Healey, Liam           INMMK56A   818   853/ 18  W16 W16 D3  D3  D14 D14 D4  L4  D5  D5  5.5
+  8 Rangel Mejia, Pedro    TJHMK56H   506   652/ 20  D13 D13 L14 L14 D15 W15 W18 W18 D9  D9  5.5
+  9 Ye, Tristan            INLJJ50M   900   714/  8  D5  D5  D18 L18 HPB HPB W17 W17 D8  D8  5.5
+ 10 Miller, Chloe          LSSK2385   916   880/127  HPB HPB D11 D11 L1  L1  HPB HPB W17 W17 5.0
+ 11 Gipson, Landon         NKPLJ50L  1100   843/ 10  D14 D14 D10 D10 D13 D13 L3  L3  W16 W16 5.0
+ 12 Zong, Zara             LSSMJ50K  1200   907/  6  D1  D1  W5  W5  HPB HPB HPB HPB L3  L3  5.0
+ 13 Yin, Daniel            ISSM116Y   994   920/392  D8  D8  D2  D2  D11 D11 L5  L5  D14 W14 4.5
+ 14 Moors, Samuel          BLHJH93D   944   894/ 85  D11 D11 W8  W8  D7  D7  L2  L2  D13 L13 4.5
+ 15 Herb, Daniel           SPRJJ50J   900   468/  8  L3  L3  D1  L1  D8  L8  L16 L16 WF  WF  3.0
+ 16 Sharma, Sanchit        TJHKJ50G  1000   620/ 10  L7  L7  D4  D4  L5  L5  W15 W15 L11 L11 3.0
+ 17 Yohannes, Senay        SPRJJ50F   900   432/  8  BYE BYE D6  L6  L2  L2  L9  L9  L10 L10 2.5
+ 18 Lovejoy, Owen          SPRMJ50E  1200   532/  8  L6  L6  D9  W9  L4  L4  L8  L8  LF  LF  1.5

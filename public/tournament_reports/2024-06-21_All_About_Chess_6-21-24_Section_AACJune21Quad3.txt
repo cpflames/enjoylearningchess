@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mahale, Avneesh        CNHB993F   950  1057/154  W3  W4  W2  3.0
+  2 Chai, Chloe            NCSDJ59R   912   916/ 90  D4  W3  L1  1.5
+  3 Bysani, Aakash         SSMBK01D   889   873/153  L1  L2  W4  1.0
+  4 Pan, Peng-chi          SSMCK24N   911   862/109  D2  L1  L3  0.5

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Vatsan, Maitri         SSMBK00S   100   319/  5  D5  W6  W4  2.5
+  2 Abhilash, Lavina       CRIEK07R   548   529/ 41  W3  L4  W5  2.0
+  3 Zhang, Patrick         SSSAK01J   444   436/ 18  L2  W5  W6  2.0
+  4 Sarychev, Aleksei      GEKJJ98N   900   472/  3  W6  W2  L1  2.0
+  5 Harstad, Raia          FRIFJ98M   500   187/  3  D1  L3  L2  0.5
+  6 Sanchez, Kaylee        FRIFK08P   137   100/ 16  L4  L1  L3  0.0

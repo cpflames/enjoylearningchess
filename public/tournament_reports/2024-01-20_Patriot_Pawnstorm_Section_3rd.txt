@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wang, Evan             TRHDJ78X   826   899/ 13  W13 W6  W8  W5  W3  5.0
+  2 Zarate, Eli            CDKDJ78W   729   733/ 15  W14 W24 L3  W10 W9  4.0
+  3 Nelson, Miloe          CRPD915Y   407   734/ 36  W7  W4  W2  W8  L1  4.0
+  4 Hong, Samira           MCGDB77R   662   649/ 58  D9  L3  W18 W21 W14 3.5
+  5 Geelhood, Beckett      CDKDK96U   437   507/ 25  W23 W25 W12 L1  D7  3.5
+  6 Ruiz, Andre            BMCDJ53K   300   636/  5  W15 L1  D14 W12 W13 3.5
+  7 York, Logan            KCCD527F   689   645/ 36  L3  D10 W22 W11 D5  3.0
+  8 Carranza, Aly Omar     RCEDJ78V   594   580/ 10  W11 W19 L1  L3  W20 3.0
+  9 Menjivar, Valery       RFRDJ78D   387   456/ 15  D4  W18 D13 W20 L2  3.0
+ 10 Garcia, Sebastian      BMCDJ78G   333   393/ 15  D12 D7  W25 L2  W17 3.0
+ 11 Gonzales, Ezra         CRPDJ61Y   284   332/ 13  L8  W15 W24 L7  W21 3.0
+ 12 Marroquin, Chase       CRPDJ62A   452   420/ 13  D10 W22 L5  L6  W24 2.5
+ 13 Bosted, Ryker          MTPDJ78T   435   446/ 15  L1  W16 D9  W19 L6  2.5
+ 14 Arrington, Ashton      MTPDJ78F   420   432/ 15  L2  W23 D6  W16 L4  2.5
+ 15 Kerr, Lenda            MTPDJ61T   100   100/  9  L6  L11 BYE D24 D23 2.0
+ 16 Tovar, Jaime           BMCDJ53J   300   172/  5  L24 L13 W23 L14 W25 2.0
+ 17 Garcia Salas, Emmanuel RFPDJ53H   300   100/  4  L19 WF  L20 W25 L10 2.0
+ 18 Medina, Solomon        RFPDJ53G   300   252/  5  D21 L9  L4  W22 D19 2.0
+ 19 Gonzalez, David        CRPDJ53E   300   230/  5  W17 L8  D21 L13 D18 2.0
+ 20 Vasquez, Josue         MCUDJ53D   300   205/  5  D22 D21 W17 L9  L8  2.0
+ 21 Appelgate, Damon       RCEDJ53C   300   171/  5  D18 D20 D19 L4  L11 1.5
+ 22 Hernandez, Jordan      RCEDJ53B   300   100/  4  D20 L12 L7  L18 BYE 1.5
+ 23 Gomez Cacho, Elizabeth RCEDJ53A   300   100/  4  L5  L14 L16 BYE D15 1.5
+ 24 Mendoza, Zaira         RCEDJ52Z   300   156/  5  W16 L2  L11 D15 L12 1.5
+ 25 Alvarado, Mateo        RCEDJ52Y   300   100/  4  WF  L5  L10 L17 L16 1.0

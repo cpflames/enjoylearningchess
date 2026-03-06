@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sreraman, Rahul        BCADJ42L  1018  1097/150  W2  W3  D4  2.5
+  2 Yin, Daniel            ISSM116Y  1051  1072/379  L1  W4  W3  2.0
+  3 Zhu, Kevin             CSME865U  1038  1013/398  W4  L1  L2  1.0
+  4 Pandian, Arjun         HSCFD93L  1010   967/ 34  L3  L2  D1  0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Leon, Nikhil           HSCF587T   528   785/111  W4  W2  W3  3.0
+  2 Friesen, Eli           LAVDK27G   896   880/ 36  W3  L1  W4  2.0
+  3 Mehrotra, Ashank       PLKI457S   503   545/ 43  L2  W4  L1  1.0
+  4 Mcintyre, Isaac        ETSE466S   845   733/206  L1  L3  L2  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Chris              CNHCJ89W   421   491/ 57  W4  D3  W2  2.5
+  2 Gupta, Aayansh         CNCEH73A   690   649/ 15  W3  W4  L1  2.0
+  3 Shen, Sylvia           BRHCJ59T   255   264/  9  L2  D1  D4  1.0
+  4 Sarangi, Samarth       CBRDH69F   100   116/ 12  L1  L2  D3  0.5

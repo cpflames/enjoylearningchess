@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sembium, Aditi         BCADK25W   952  1030/244  D4  W5  W3  2.5
+  2 Vanama, Nikhil         PFCM7951  1038  1042/645  W5  L3  W4  2.0
+  3 Burtram, Dayton        BLMIG77M   919   983/241  W6  W2  L1  2.0
+  4 Xing, Andrew           SSSCK62E   957   937/ 81  D1  D6  L2  1.0
+  5 Nandakiran, Vidyuth    SSME617C   899   892/ 71  L2  L1  W6  1.0
+  6 Mahale, Avneesh        CNHB993F   983   917/108  L3  D4  L5  0.5

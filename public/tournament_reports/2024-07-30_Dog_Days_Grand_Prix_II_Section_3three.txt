@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Triano, Tony           SKYEJ17K   802   804/ 33  L5  W6  W2  2.0
+  2 Aguila-contreras, EdgarHORHJ65J   792   805/ 55  W3  W5  L1  2.0
+  3 Neff, Josiah           CCXGH69Q   634   707/ 21  L2  W4  W6  2.0
+  4 Fine-gucker, Logan     EAGE535R   764   707/105  L6  L3  W5  1.0
+  5 Smith, Benjamin        BLEDG44D   644   644/ 45  W1  L2  L4  1.0
+  6 Russell, Emerson       BLEFK23A   615   616/ 82  W4  L1  L3  1.0

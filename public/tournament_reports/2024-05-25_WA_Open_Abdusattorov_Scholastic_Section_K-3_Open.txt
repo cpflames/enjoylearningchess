@@ -1,0 +1,30 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Ma, Lewis              SOMC587M  1337  1368/137  W17 W22 W16 W4  4.0
+  2 Li, Shawn              SOMCJ11N  1123  1238/ 19  W27 W6  W15 W7  4.0
+  3 He, Jizhou             OPWC789B  1052  1162/ 90  W29 D7  W22 W16 3.5
+  4 Thanikonda, Kruti      CMCDK84W  1087  1145/144  W19 W23 W13 L1  3.0
+  5 Qin, Skyler            OPWAJ97T   932  1000/ 77  L7  W29 W26 W15 3.0
+  6 Bravenboer, Jake       OPWDJ97Y   901   999/ 87  W21 L2  W25 W13 3.0
+  7 Weng, Bright           BEND850P  1213  1218/ 95  W5  D3  W11 L2  2.5
+  8 Vijay, Adith           SOMDD20K  1115  1093/ 59  L23 W28 W12 D10 2.5
+  9 Li, Alice              OPWCJ98C  1007   994/ 65  W26 L16 D19 W21 2.5
+ 10 Rogov, Richard         MEDCJ68U  1007  1024/ 68  W25 L13 W23 D8  2.5
+ 11 Zou, Jinhan            SSMDH14T  1178  1138/116  W20 L15 L7  W23 2.0
+ 12 Sardar, Ekam           VCEDW80Q  1107  1069/  4  L13 W24 L8  W25 2.0
+ 13 Wu, Shanna             CNHDJ72M  1147  1124/ 17  W12 W10 L4  L6  2.0
+ 14 Gu, Vincent            OPWAK00L   783   798/ 51  L15 L20 BYE W22 2.0
+ 15 Xie, Isaac             THRDK25T  1038  1041/ 49  W14 W11 L2  L5  2.0
+ 16 Deng, Arthur           OPWCC90Y  1120  1118/122  W18 W9  L1  L3  2.0
+ 17 Xu, Natalie            CNHC137A   933   920/ 86  L1  L19 W28 W24 2.0
+ 18 Ge, Jeremy             SSMBJ88K   962   916/139  L16 L26 W29 W28 2.0
+ 19 Tsen, Eric             AGBDK18P   873   908/162  L4  W17 D9  D20 2.0
+ 20 Fang, Weiai            LAVD696W   900   891/258  L11 W14 D21 D19 2.0
+ 21 Lam, Sebastian         OPWBJ97R   594   605/ 33  L6  BYE D20 L9  1.5
+ 22 Dharamshi, Anay        CBRCK42U  1091  1030/ 92  W24 L1  L3  L14 1.0
+ 23 Li, Emma               THRDJ98A   876   883/ 42  W8  L4  L10 L11 1.0
+ 24 Kachachi, Cyrus        OPWD763G   793   784/ 80  L22 L12 W27 L17 1.0
+ 25 Mei, Felicity          BCABK89R   838   824/ 69  L10 W27 L6  L12 1.0
+ 26 Hu, Ryan               OPWAJ97N   689   701/ 67  L9  W18 L5  L27 1.0
+ 27 Gattamneni, Viraj      OPWD934M   899   837/ 44  L2  L25 L24 W26 1.0
+ 28 Premjith, Arnav        FRVBJ20D   438   438/  8  BYE L8  L17 L18 1.0
+ 29 Han, Kaiyi             SOMBK42P   756   722/ 71  L3  L5  L18 BYE 1.0

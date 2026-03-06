@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mangla, Atharv         GRRDK07C   812   838/ 85  W4  D2  D3  2.0
+  2 Sathyamurthy, Sreeshan BLWHJ24M   788   826/ 83  W3  D1  D4  2.0
+  3 Saboo, Ishaan          EVJGJ59Q   818   814/ 32  L2  W4  D1  1.5
+  4 Desai, Vivaan          BCAAJ49H   799   746/ 19  L1  L3  D2  0.5

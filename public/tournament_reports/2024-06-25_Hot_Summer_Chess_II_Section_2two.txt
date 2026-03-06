@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Aguila-contreras, EdgarHORHJ65J   707   730/ 44  W6  W4  D3  2.5
+  2 Cancelosi, Nicholas    VSTGM25W   507   626/ 68  W7  D3  W5  2.5
+  3 Russell, Emerson       BLEFK23A   541   597/ 73  W8  D2  D1  2.0
+  4 Smith, Benjamin        BLEDG44D   505   599/ 30  W5  L1  W6  2.0
+  5 Buckham, George        SKYCK37E   747   671/ 54  L4  W8  L2  1.0
+  6 Verduin, Bentley       CUEDK37A   468   458/ 31  L1  W7  L4  1.0
+  7 Javed, Peter           SKYCK36U   413   363/ 24  L2  L6  WF  1.0
+  8 Mcneil, Mason          VSTGJ49Y   380   348/ 20  L3  L5  LF  0.0

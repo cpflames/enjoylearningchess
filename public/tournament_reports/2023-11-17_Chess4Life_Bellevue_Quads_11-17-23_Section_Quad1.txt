@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 He, Oliver             ENDDK71V  1240  1297/256  W2  D3  W4  2.5
+  2 Ganesan, Vidur         RBRE940K  1252  1270/135  L1  W4  W3  2.0
+  3 Xu, Zoe                SOMEG70A  1391  1359/302  W4  D1  L2  1.5
+  4 He, Jizhou             OPWC789B   991   968/ 57  L3  L2  L1  0.0

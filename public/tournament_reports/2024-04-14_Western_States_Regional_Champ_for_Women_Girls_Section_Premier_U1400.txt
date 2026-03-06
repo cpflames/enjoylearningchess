@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Savchenko, Yana        ADUNH80A  1300  1431/  4  BYE W4  D3  W2  W3  4.5
+  2 Agaian, Angela         MCRLD833  1220  1215/299  HPB HPB W4  L1  BYE 3.0
+  3 Sundar, Jeraldin       BUSJK01C  1140  1142/ 29  D4  BYE D1  W4  L1  3.0
+  4 Miller, Chloe          LSSK2385   880   878/133  D3  L1  L2  L3  HPB 1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, William          INGH550N  1655  1681/179  W4  W3  W2  3.0
+  2 Evin, Terrick          EBSCC54L  1546  1557/200  W3  W4  L1  2.0
+  3 Joshi, Yash            PFCH280R  1357  1367/209  L2  L1  W4  1.0
+  4 Lebedinsky, Alexander  EVJH958F  1475  1422/277  L1  L2  L3  0.0

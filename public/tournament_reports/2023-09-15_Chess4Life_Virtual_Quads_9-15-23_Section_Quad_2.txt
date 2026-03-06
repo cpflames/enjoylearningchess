@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xie, Michael           EVJH549C  1299  1355/385  W3  D2  W4  2.5
+  2 Bimod, Karthik         SLLHW89E  1306  1325/ 45  D4  D1  W3  2.0
+  3 Wang, Eric             BCAF803M  1237  1229/100  L1  W4  L2  1.0
+  4 Benedict, Blaine       HSCIK07Q  1323  1273/ 18  D2  L3  L1  0.5

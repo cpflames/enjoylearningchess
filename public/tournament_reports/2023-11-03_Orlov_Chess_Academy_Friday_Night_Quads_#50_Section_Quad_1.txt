@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Ares             MEDFJ77J  1244  1253/288  W4  W2  D3  2.5
+  2 Ghosh, Snehil          CBRE738T  1053  1081/ 82  W3  L1  W4  2.0
+  3 Edwin, Elijah          BCSDC24D  1148  1130/140  L2  W4  D1  1.5
+  4 Friesen, Eli           PKRDK27G   763   750/ 10  L1  L3  L2  0.0

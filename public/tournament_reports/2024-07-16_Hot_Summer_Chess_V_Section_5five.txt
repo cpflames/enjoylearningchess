@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Russell, Huxley        BLEDH73W   161   228/ 14  W3  W4  L2  2.0
+  2 Neff, Kathryn          CCXEH69N   138   204/  9  D5  D3  W1  2.0
+  3 Manookin, Jared        HSCED11V   250   227/ 53  L1  D2  W6  1.5
+  4 Neff, William          CCXBH69K   160   161/ 12  W6  L1  D5  1.5
+  5 Manookin, Adam         HSCEF67L   184   174/ 53  D2  D6  D4  1.5
+  6 Brown, Jordan          HSCCJ64H   100   100/  8  L4  D5  L3  0.5

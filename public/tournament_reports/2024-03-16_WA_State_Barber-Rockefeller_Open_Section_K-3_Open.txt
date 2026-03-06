@@ -1,0 +1,32 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Das, Sambuddha Sekhar  ENDDK47S  1231  1285/124  W17 D18 W19 W8  W2  4.5
+  2 Ma, Lewis              SOMC587M  1306  1317/120  W14 W13 W9  W5  L1  4.0
+  3 Thanikonda, Kruti      CMCDK84W  1232  1226/126  L21 W31 W17 W12 W10 4.0
+  4 Rachiba, Alisa         EVPDK08E  1246  1242/105  L18 W26 W28 W13 W8  4.0
+  5 Zandanov, Leonid       ENACK31Q  1211  1214/ 93  W31 W12 W10 L2  D7  3.5
+  6 Deng, Arthur           OPWCC90Y  1159  1144/103  W26 D19 L18 W14 W9  3.5
+  7 Zou, Jinhan            SSMDH14T  1051  1061/ 92  W29 W30 L8  W20 D5  3.5
+  8 Lan, Jonathan          MEDD968F  1159  1158/133  W22 W21 W7  L1  L4  3.0
+  9 Liu, Bihe              KKNBB78J  1075  1079/ 84  W27 W15 L2  W21 L6  3.0
+ 10 Edwin, Elijah          BCSDC24D  1061  1071/170  W28 W25 L5  W18 L3  3.0
+ 11 Fang, Weiai            LAVD696W  1023   997/232  L19 L28 W26 W24 W18 3.0
+ 12 Xie, Isaac             THRDK25T  1004  1019/ 40  W23 L5  W24 L3  W21 3.0
+ 13 Wu, Jayden             UCDC495Q   972   998/ 81  W24 L2  W15 L4  W25 3.0
+ 14 Ge, Jeremy             SSMBJ88K   842   910/ 93  L2  W27 W25 L6  W22 3.0
+ 15 Li, Alice              OPWCJ98C   744   877/ 42  W16 L9  L13 W27 W20 3.0
+ 16 Pan, Peng-chi          SSMCK24N  1009   964/ 56  L15 W22 L21 W23 D17 2.5
+ 17 Tsen, Eric             AGBDK18P   883   920/126  L1  W29 L3  W19 D16 2.5
+ 18 Su, Oliver             JINDD01U   849   984/115  W4  D1  W6  L10 L11 2.5
+ 19 Jiang, Kyle            MEDBK35B   810   903/ 72  W11 D6  L1  L17 W26 2.5
+ 20 Yao, Roger Yutang      THOBK88C   908   848/ 65  L25 W23 W30 L7  L15 2.0
+ 21 Xu, Natalie            CNHC137A   898   933/ 82  W3  L8  W16 L9  L12 2.0
+ 22 Zhang, Amy             SOMDC03P   843   816/101  L8  L16 W29 W30 L14 2.0
+ 23 Zhang, David           SOMBK41P   741   724/ 67  L12 L20 BYE L16 W27 2.0
+ 24 Benita-nagdeep, KrishanRBRCK56N   727   728/ 43  L13 BYE L12 L11 W31 2.0
+ 25 Agrawal, Ayaansh       WONBJ99W   688   740/ 30  W20 L10 L14 W29 L13 2.0
+ 26 Sun, Ethan             JINCK94M   836   808/ 68  L6  L4  L11 W31 L19 1.0
+ 27 Ruan, Jiyong           SHSCJ19W   830   736/ 10  L9  L14 W31 L15 L23 1.0
+ 28 Pan, Peng-yu           SSMCK24P   827   852/ 61  L10 W11 L4  U   U   1.0
+ 29 Reddy, Aarav           CAVDJ83W   814   715/ 13  L7  L17 L22 L25 BYE 1.0
+ 30 Sanganaboina, Anika    RBRCJ30S   272   272/  8  BYE L7  L20 L22 U   1.0
+ 31 Luo, Vivienne          SHVC703P   866   754/115  L5  L3  L27 L26 L24 0.0

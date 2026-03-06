@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ramos, Zachary         DEHGK71L  1053  1189/ 31  W10 W7  W5  W2  W6  5.0
+  2 Whalen, Jack           ENTGK96P  1159  1167/ 36  W9  W3  W6  L1  W8  4.0
+  3 Vasquez, Mateo         MCUEK26G   873   946/ 85  W14 L2  W13 W8  W5  4.0
+  4 Schaaf, Garrett        PCAG801E   617   636/ 24  W18 L5  W16 W15 W11 4.0
+  5 Yuan, Edward           LECFK69S   968   944/ 73  W16 W4  L1  W9  L3  3.0
+  6 Pantoja, Cain          OCHG228C   962   949/ 40  W13 W15 L2  W10 L1  3.0
+  7 Hong, Sidney           JMLG478H   937   903/ 98  W17 L1  L8  W13 W15 3.0
+  8 Trevino-gonzalez, RamirOCHGK69A   850   860/ 30  W19 W12 W7  L3  L2  3.0
+  9 Kubalek, Evander       RRGGD38R   605   602/ 49  L2  W14 W19 L5  D10 2.5
+ 10 Sanborn, Ryder         JMLGJ81E   519   564/ 15  L1  W17 W12 L6  D9  2.5
+ 11 Porcayo, Christian     JMLGJ80T   100   235/ 10  D12 L13 W18 W19 L4  2.5
+ 12 Mejia, Vincent         RRGG271G   607   533/ 91  D11 L8  L10 D16 W19 2.0
+ 13 Munoz, Perla           RRGGJ81F   415   512/  9  L6  W11 L3  L7  W16 2.0
+ 14 Badillo-chavez, MarilynHIGGJ80P   189   179/  9  L3  L9  BYE D18 D17 2.0
+ 15 Schutz, Victoria       CHJGJ59P   100   226/  7  BYE L6  W17 L4  L7  2.0
+ 16 Jones, Devon           JMLG407J   424   400/ 74  L5  W18 L4  D12 L13 1.5
+ 17 Harris, Ethan          RRGGJ80Y   328   234/  9  L7  L10 L15 BYE D14 1.5
+ 18 Szendre, Jason         RRGGJ53Y   600   100/  4  L4  L16 L11 D14 BYE 1.5
+ 19 Badillo-chavez, MaddalyHIGGJ80R   100   100/  8  L8  BYE L9  L11 L12 1.0

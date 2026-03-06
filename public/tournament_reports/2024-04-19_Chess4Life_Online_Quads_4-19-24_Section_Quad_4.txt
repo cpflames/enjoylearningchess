@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Garg, Vihaan           CMCDJ10X   885  1003/223  W4  W3  W2  3.0
+  2 Bala, Anirudh          TMCGD50M   879   877/ 49  D3  W4  L1  1.5
+  3 Bui, Edwin             SFREK90H   963   940/ 44  D2  L1  W4  1.5
+  4 Kuluru, Samith         LEOHI99K   691   653/242  L1  L2  L3  0.0

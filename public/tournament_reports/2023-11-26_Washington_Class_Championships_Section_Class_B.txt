@@ -1,0 +1,27 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Rankin, Andrew         MISNZ87R  1300  1905/  6  W25 W11 D4  D3  W9  D5  4.5
+  2 Merrikin, David        ADUNG78Q  1737  1764/ 18  W13 W17 L3  W20 D5  W10 4.5
+  3 Demberel, Amana        LCOLJ14E  1614  1735/103  D14 W8  W2  D1  D6  W12 4.5
+  4 Lopez, Francisco J     ADUN1605  1799  1810/ 30  W18 D6  D1  D15 W16 HPB 4.0
+  5 Tu, Robin              ADUN9951  1777  1792/338  HPB W23 W22 D6  D2  D1  4.0
+  6 Kehl, Hans             ADUNJ69W  1300  1831/  6  W26 D4  W10 D5  D3  D7  4.0
+  7 Tatikonda, Nihanth     CPJJ926F  1681  1693/239  D23 L9  W18 W22 W15 D6  4.0
+  8 Davies, Cedric         ADUN184T  1647  1654/ 31  L20 L3  W13 W25 W24 W14 4.0
+  9 Juchau, Dave           ADUN8936  1644  1672/ 18  D21 W7  D15 W14 L1  W16 4.0
+ 10 Nallappa, Vijay        REJID40S  1744  1734/383  WF  D15 L6  W19 W11 L2  3.5
+ 11 L'heureux, Jeffrey     ADUNJ69V  1300  1739/  6  W24 L1  W12 D16 L10 W17 3.5
+ 12 Jones, Davey V         ADUNC10L  1744  1724/ 28  HPB HPB L11 W23 W20 L3  3.0
+ 13 Rubaiyat, Rhadean      ICKID40L  1599  1577/154  L2  L19 L8  BYE W26 W24 3.0
+ 14 Bimod, Karthik         SLLHW89E  1510  1540/ 66  D3  D20 W17 L9  W22 L8  3.0
+ 15 Anandkumar, Haituka    STLJ238P  1494  1559/375  W16 D10 D9  D4  L7  D20 3.0
+ 16 Allen, Robert J        ADUNF120  1700  1666/ 20  L15 W25 W24 D11 L4  L9  2.5
+ 17 Buck, Stephen J        ADUN8800  1672  1645/ 39  W19 L2  L14 HPB W23 L11 2.5
+ 18 Siddem, Sid            RHJKC34V  1603  1575/493  L4  W26 L7  L24 W25 D21 2.5
+ 19 Sankar, Abhay          NRCK6545  1595  1572/405  L17 W13 D20 L10 D21 D23 2.5
+ 20 Devadithya, Hiruna     ISSK5494  1519  1533/715  W8  D14 D19 L2  L12 D15 2.5
+ 21 Bharadwaj, Samarth     DISDE78A  1465  1471/154  D9  L22 L23 W26 D19 D18 2.5
+ 22 Kokati, Pranav         OMSI814P  1520  1499/270  HPB W21 L5  L7  L14 D26 2.0
+ 23 Sharma, Devansh        TSTJF88S  1477  1487/189  D7  L5  W21 L12 L17 D19 2.0
+ 24 Palathingal, Rafael    KKNE196R  1440  1432/102  L11 BYE L16 W18 L8  L13 2.0
+ 25 Frederick, Benjamin    EMSGS57X  1565  1512/245  L1  L16 D26 L8  L18 BYE 1.5
+ 26 Condit, Noah           KMDIA59Q  1523  1467/168  L6  L18 D25 L21 L13 D22 1.0

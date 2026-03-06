@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ghosh, Snehil          CBRE738T  1001  1053/ 79  W3  W5  W4  3.0
+  2 Ensz, Arlo             RHJHK62C   754   792/ 57  W5  W6  D3  2.5
+  3 Vutukuri, Niharika     REJHB12L  1031  1000/ 71  L1  W4  D2  1.5
+  4 Xu, Ethan              BENEK98S   790   771/ 84  W6  L3  L1  1.0
+  5 Agarwal, Arnav         HMNEJ98E   439   426/  8  L2  L1  D6  0.5
+  6 Mao, Aidan             CHRCJ94D   200   389/  3  L4  L2  D5  0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, David           SOMBK41P   660   687/108  W2  L4  W3  2.0
+  2 Khandelwal, Anay       CHRGA10L   631   676/ 35  L1  W3  W4  2.0
+  3 Liu, Brayden           NPTEH69D   737   683/ 15  W4  L2  L1  1.0
+  4 Jain, Anvay            EBSG874Z   576   572/ 77  L3  W1  L2  1.0

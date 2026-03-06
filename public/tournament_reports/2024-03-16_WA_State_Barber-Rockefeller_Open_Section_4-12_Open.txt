@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Gao, Ziqian            MMEEK10U  1223  1441/ 25  W6  W3  W2  W8  W4  5.0
+  2 Polonsky, Daniel       LIHK946P  1340  1370/ 56  W7  W5  L1  W3  W8  4.0
+  3 Chabot, Troy           BRSKK15U  1236  1259/ 39  W8  L1  W5  L2  W7  3.0
+  4 Ghosh, Snehil          CBRE738T  1294  1275/154  L5  D7  W8  W6  L1  2.5
+  5 De, Rishik             INGHJ87T  1123  1142/ 65  W4  L2  L3  W7  L6  2.0
+  6 Vijayaguru, Ashwin     OHSJK95L  1372  1295/ 22  L1  L8  D7  L4  W5  1.5
+  7 Gupta, Ishaan          EALJ660Y  1176  1135/ 91  L2  D4  D6  L5  L3  1.0
+  8 Luo, Peter             SHVE664K  1154  1135/108  L3  W6  L4  L1  L2  1.0

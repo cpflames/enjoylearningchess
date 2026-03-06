@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sreeram, Vihaan        BLWEK01U   674   760/ 25  W3  D2  W4  2.5
+  2 Liu, Brayden           XXXDH69D   691   686/  6  W4  D1  L3  1.5
+  3 Dasari, Ranveer        SSMFJ31X   688   657/ 25  L1  L4  W2  1.0
+  4 Chen, Alex             DGHCK03T   642   626/ 23  L2  W3  L1  1.0

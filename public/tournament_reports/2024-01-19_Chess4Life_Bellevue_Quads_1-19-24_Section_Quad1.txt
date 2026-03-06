@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wilson, Kyden          ADUNJ99B   930  1032/  9  W3  W4  W2  3.0
+  2 Gagnier, Ian           HSCFC72H  1106  1084/162  W4  W3  L1  2.0
+  3 Fang, Weiai            LAVD696W   826   806/196  L1  L2  W4  1.0
+  4 Pandit, Vihaan         LAVFJ99D   436   425/ 23  L2  L1  L3  0.0

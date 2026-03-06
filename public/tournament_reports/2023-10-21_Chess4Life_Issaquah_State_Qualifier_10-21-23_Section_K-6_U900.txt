@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Sreraman, Rahul        BCADJ42L   893   959/167  W10 W6  W8  W2  W3  5.0
+  2 Ting, Sophia           KSHDK64W   703   744/ 57  W15 W7  W13 L1  W8  4.0
+  3 Abbott, Elliott        WOBFF07R   526   545/ 36  W11 L8  W14 W9  L1  3.0
+  4 Ambardekar, Arjun      WLDEZ96E   504   480/ 42  W16 L13 L9  W10 W5  3.0
+  5 Du, Charles            SOMEA15U   471   477/ 24  L8  W11 W12 W13 L4  3.0
+  6 Mangla, Atharv         GRREK07C   593   617/ 25  W9  L1  W7  L8  W13 3.0
+  7 So, Brandon            CCDCK01X   387   418/ 13  W12 L2  L6  W11 W14 3.0
+  8 Mukherjee, Anjalika    UPAGJ94B   600   740/  5  W5  W3  L1  W6  L2  3.0
+  9 Holostov, Benjamin     CRKCJ94A   200   507/  5  L6  W10 W4  L3  W12 3.0
+ 10 Wang, Jasper           ENDEK01P   174   240/  8  L1  L9  W16 L4  W15 2.0
+ 11 Tripathi, Aditya       ARMDJ96M   100   173/ 10  L3  L5  W15 L7  W16 2.0
+ 12 Ma, Miles              SHSEJ93Z   400   246/  5  L7  W15 L5  W14 L9  2.0
+ 13 Wernsing, Michael      SSMEJ93Y   400   411/  5  W14 W4  L2  L5  L6  2.0
+ 14 Tripathi, Naksh        BRHDJ98P   205   163/ 14  L13 W16 L3  L12 L7  1.0
+ 15 Zhang, David           SOMBK41P   157   100/ 19  L2  L12 L11 D16 L10 0.5
+ 16 Naredi, Anahita        CRKDJ93X   300   100/  5  L4  L14 L10 D15 L11 0.5

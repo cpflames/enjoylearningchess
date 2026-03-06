@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ganesan, Vidur         RBRE940K  1207  1244/110  D4  W3  W5  2.5
+  2 Diament, Tobias        BASJG65V  1052  1107/  9  W5  L4  W6  2.0
+  3 Chevuri, Tattva        CBRGC06V  1004  1075/302  W6  L1  W4  2.0
+  4 Xu, Matthew            RCSG715C  1133  1136/147  D1  W2  L3  1.5
+  5 He, Oliver             CRIDK71V  1252  1178/223  L2  D6  L1  0.5
+  6 Tran, Alex             MEDFB10C   991   966/ 60  L3  D5  L2  0.5

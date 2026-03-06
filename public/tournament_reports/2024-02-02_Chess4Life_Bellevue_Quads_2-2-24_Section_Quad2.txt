@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zakonov, Peter         BCALH925   846   904/ 13  W3  W2  W4  3.0
+  2 Deepak, Sairaghav      PLKIA52Q   548   607/ 34  W4  L1  D3  1.5
+  3 Krishnakumar, Vishresh EALKJ46M  1000   712/  3  L1  W4  D2  1.5
+  4 Bangard, Dhruv         TBKBK65D   676   597/ 53  L2  L3  L1  0.0

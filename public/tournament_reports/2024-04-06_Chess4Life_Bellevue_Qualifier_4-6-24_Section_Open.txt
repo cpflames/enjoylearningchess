@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Dong, Daniel           MEDE396A  1099  1267/ 49  W5  W3  W2  W7  W6  5.0
+  2 Chevuri, Tattva        CBRGC06V  1185  1198/351  W11 W8  L1  W10 W5  4.0
+  3 Singh, Atharva         SKIHK06G   989  1008/ 31  W6  L1  W9  L5  W10 3.0
+  4 Ivanov, Matvei         EABCK34E   909   941/ 45  D12 D10 L5  W11 W7  3.0
+  5 Khandhedia, Dhruvin NirCNCE257G   860   988/ 38  L1  W11 W4  W3  L2  3.0
+  6 Iyer, Amshul           IMSIK11M   902   915/ 25  L3  BYE W13 W12 L1  3.0
+  7 Xu, Alex               EMSH500U  1151  1098/145  D10 W9  W12 L1  L4  2.5
+  8 Du, Charles            SOMEA15U   916   893/ 89  BYE L2  L10 D9  W12 2.5
+  9 Zeitlin, Tom           WOBEI56H   808   818/ 71  W13 L7  L3  D8  BYE 2.5
+ 10 Yang, Nicholas         CHRDG23U   906   917/ 99  D7  D4  W8  L2  L3  2.0
+ 11 Vasamsetty, Chetan     SHFDJ38Y   885   855/ 65  L2  L5  BYE L4  W13 2.0
+ 12 Yu, Jonathan           MEDFH88R   823   788/  8  D4  W13 L7  L6  L8  1.5
+ 13 Li, Chuling            CNHF567N   932   802/ 79  L9  L12 L6  BYE L11 1.0

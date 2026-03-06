@@ -1,0 +1,25 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Gavrysh, Iryna         ADUNI36C  1520  1538/ 23  W24 D17 L5  W21 W16 W4  4.5
+  2 Gadde, Arnav           ENSFJ39D  1489  1561/161  D10 W19 W16 D4  D3  W15 4.5
+  3 Liu, Vincent           ILAF546Q  1487  1538/192  L8  W24 W14 W13 D2  W6  4.5
+  4 Adair, Derek           ADUN7556  1593  1599/  6  W22 D5  W17 D2  W6  L1  4.0
+  5 Krishnan, Advait       REJI570Q  1507  1544/138  W18 D4  W1  L6  D10 W13 4.0
+  6 Marcelais, Kai         REDKA64J  1563  1572/172  W20 W14 W8  W5  L4  L3  4.0
+  7 Rabadan, Michael       ADUNE34H  1503  1492/ 22  D21 L13 W19 D8  W14 D11 3.5
+  8 Joseph, Veronique      SJOEJ04S  1238  1392/163  W3  W15 L6  D7  L13 W18 3.5
+  9 Wong, Kate             LMSF459M  1425  1432/166  L15 L11 D18 W24 W22 W16 3.5
+ 10 Liu, Bichen            KKNHK00D  1516  1515/112  D2  L16 W21 W22 D5  HPB 3.5
+ 11 Shankaranand, Deeksha  EBSFI74Y  1345  1421/264  L23 W9  L22 W19 W12 D7  3.5
+ 12 Manzon Jr, Pablo       ADUNB245  1533  1484/  5  L14 W20 L15 W17 L11 WF  3.0
+ 13 Singh, Balbir          ADUNK95S  1530  1515/ 36  D19 W7  HPB L3  W8  L5  3.0
+ 14 Dale, Luke             MTSKJ10P  1355  1386/102  W12 L6  L3  W20 L7  W21 3.0
+ 15 Hendricks, David       ADUNB791  1579  1548/120  W9  L8  W12 D16 HPB L2  3.0
+ 16 Dawson, Glen           ADUNJ69U  1300  1358/  5  BYE W10 L2  D15 L1  L9  2.5
+ 17 Yang, Yuchang          SHHGK16L  1252  1260/ 84  WF  D1  L4  L12 L20 W24 2.5
+ 18 Yates, Daniel          ADUNE71Y  1302  1314/ 21  L5  D22 D9  HPB W21 L8  2.5
+ 19 Prashant, Niranjan     PFCG468K  1409  1399/137  D13 L2  L7  L11 W24 W20 2.5
+ 20 Raja, Rian             SKWG786E  1416  1372/111  L6  L12 W24 L14 W17 L19 2.0
+ 21 Bablani, Arnav         LMSI1146  1363  1306/210  D7  BYE L10 L1  L18 L14 1.5
+ 22 Marinescu, Andra       ADUN412W  1477  1434/ 35  L4  D18 W11 L10 L9  LF  1.5
+ 23 Kokati, Pranav         OMSI814P  1499  1518/271  W11 U   U   U   U   U   1.0
+ 24 Yuan, Chen             ETSCJ15Z  1350  1257/ 95  L1  L3  L20 L9  L19 L17 0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Merriman, Dann         WMNEF79Y  1727  1725/604  W4  W3  D2  2.5
+  2 Shi, Gavin             LCOJH855  1639  1647/397  W3  W4  D1  2.5
+  3 Chaporkar, Nihar       ENSDK65B  1178  1189/ 62  L2  L1  W4  1.0
+  4 Zhang, Aaron           SHSJ389W  1068  1047/ 19  L1  L2  L3  0.0

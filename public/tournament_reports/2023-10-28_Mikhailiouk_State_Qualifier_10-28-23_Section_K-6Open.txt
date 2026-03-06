@@ -1,0 +1,27 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Patel, Aarya           REEFK30E  1156  1312/ 77  W21 W16 W5  W6  W3  5.0
+  2 Chien, Jeffrey         OVLGF41X  1211  1221/129  W26 W10 W11 L3  W9  4.0
+  3 Zandanov, Leonid       WLBCK31Q  1220  1248/ 56  W23 W15 W18 W2  L1  4.0
+  4 Chaurasia, Vihaan      HMNGH65G  1104  1107/120  W19 L18 W21 W16 W12 4.0
+  5 Ganesan, Vidur         RBRE940K  1242  1231/121  W17 W9  L1  D12 W10 3.5
+  6 Gao, Ziqian            MMEEK10U  1173  1186/ 15  D12 W7  W8  L1  W15 3.5
+  7 Nguyen, Viet           TMBG508J  1101  1076/178  L18 L6  W13 W19 W17 3.0
+  8 Sreraman, Rohit        BCADG92Q  1001  1016/178  W13 L11 L6  W14 W18 3.0
+  9 Huang, Edwin           OMSG616M  1032  1029/ 72  W24 L5  W19 W11 L2  3.0
+ 10 Deng, Arthur           OPWCC90Y   995  1023/ 64  W14 L2  W22 W18 L5  3.0
+ 11 Shapiro, Maksim        LMAEK10R   851   932/ 44  W22 W8  L2  L9  W16 3.0
+ 12 Bhende, Shaurya        MMEEK24T   703   899/ 32  D6  W23 W15 D5  L4  3.0
+ 13 Sun, Ethan             JINCK94M   815   824/ 39  L8  D14 L7  W23 W22 2.5
+ 14 Khandhedia, Dhruvin    LMAEJ89V   400   839/  5  L10 D13 W23 L8  W21 2.5
+ 15 Xie, Isaac             THRDK25T  1018   967/ 30  W25 L3  L12 W20 L6  2.0
+ 16 Hsiao, Aaron           OMSG338U   924   905/ 25  W20 L1  W17 L4  L11 2.0
+ 17 Hu, Yi-en Pi           BCADK35P   869   833/ 23  L5  W24 L16 W25 L7  2.0
+ 18 Thanikonda, Kruti      RCSDK84W  1102  1075/ 83  W7  W4  L3  L10 L8  2.0
+ 19 Berjis, Adrina         MEDE230U   518   571/ 82  L4  W20 L9  L7  W24 2.0
+ 20 Kadri, Eshan           XXOGW869   600   555/  5  L16 L19 W24 L15 W25 2.0
+ 21 Hong, Jamie            MEDF577Q   673   655/ 34  L1  W25 L4  D22 L14 1.5
+ 22 Gokul, Shravan         EVJGJ89U   600   594/  5  L11 W26 L10 D21 L13 1.5
+ 23 Chaurasia, Ishi        HMNEK22B   769   712/ 82  L3  L12 L14 L13 W26 1.0
+ 24 Shriram, Nikhil        WPPFJ89T   500   364/  5  L9  L17 L20 W26 L19 1.0
+ 25 Dinges, Oscar          SLDFJ92X   301   333/ 10  L15 L21 W26 L17 L20 1.0
+ 26 Hirani, Jia            EPSG905R   475   367/ 32  L2  L22 L25 L24 L23 0.0

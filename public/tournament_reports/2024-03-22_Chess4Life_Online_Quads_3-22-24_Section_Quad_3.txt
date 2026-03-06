@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ramanathan, Varun      LEOIK88H  1276  1376/ 58  W2  W3  W4  3.0
+  2 Joshi, Vyom            LEOIH81X  1239  1275/268  L1  W4  W3  2.0
+  3 Sun, Yian              ENDF238S  1262  1243/ 77  W4  L1  L2  1.0
+  4 Budhraja, Jai          EBSGA16E  1286  1218/117  L3  L2  L1  0.0

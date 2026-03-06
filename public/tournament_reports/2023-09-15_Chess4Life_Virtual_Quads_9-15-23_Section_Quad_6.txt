@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yin, Daniel            ISSM116Y  1055  1051/376  W2  L4  W3  2.0
+  2 He, Raymond            HSCKK82K   875   940/ 66  L1  W3  W4  2.0
+  3 Taylor, Ryder          KAMK385C   919   901/327  W4  L2  L1  1.0
+  4 Garg, Vihaan           CMCDJ10X   919   901/173  L3  W1  L2  1.0

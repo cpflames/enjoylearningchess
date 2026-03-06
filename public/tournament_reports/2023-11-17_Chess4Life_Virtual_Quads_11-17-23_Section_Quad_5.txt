@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Gilani, Arsh           TMBIJ98T   494   635/ 11  W3  W6  W2  3.0
+  2 Goel, Advit            RCSCG22F   767   751/ 48  W6  W4  L1  2.0
+  3 Ramanathan, Varun      LEOIK88H   658   669/ 28  L1  W5  W4  2.0
+  4 Joshi, Aahana          GTMHK47D   653   615/ 19  W5  L2  L3  1.0
+  5 Wu, Albert             EVGB682N   469   461/ 37  L4  L3  W6  1.0
+  6 Pandit, Vihaan         LAVFJ99D   508   436/ 20  L2  L1  L5  0.0

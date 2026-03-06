@@ -1,0 +1,22 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Keane, Brendan         MAYIK04V  1162  1216/  9  BYE W12 W6  W4  W3  5.0
+  2 Shvets, Vasili         KENJJ86U   900   999/  5  W7  W10 L3  W6  W9  4.0
+  3 Zimmers, Masa          NWJIK04M   780   912/ 10  W14 W13 W2  W8  L1  4.0
+  4 Haroldson-margel, CyrusNWJHJ86S   700  1028/  5  W8  W21 W5  L1  W7  4.0
+  5 Onstot, Riley          KENJB82G   506   639/ 23  W11 W9  L4  L10 W16 3.0
+  6 Cerdera, Owen          NWJIJ86R   800   832/  5  W19 W15 L1  L2  W12 3.0
+  7 Samoei, Caleb          HSCHJ86Q   700   780/  5  L2  W19 W15 W13 L4  3.0
+  8 Neerukonda, Srikrishna DIMIK04K   640   706/  9  L4  BYE W10 L3  W13 3.0
+  9 Trinh, Jordan          NWJGJ86P   600   733/  5  W16 L5  W14 W12 L2  3.0
+ 10 Vu, Tom                NWJGJ86N   600   674/  5  W20 L2  L8  W5  W17 3.0
+ 11 Nguyen, Tyler          NWJHJ86M   700   635/  5  L5  W16 L13 W14 W15 3.0
+ 12 Nguyen, Justin         NWJGJ86L   600   555/  5  W17 L1  W18 L9  L6  2.0
+ 13 Kelogg, Zachary        KENLJ86K  1100   597/  5  W18 L3  W11 L7  L8  2.0
+ 14 Robinson, Kamiah       TAFKJ86J  1000   438/  5  L3  W17 L9  L11 W20 2.0
+ 15 Phan, Etienne          RCCEJ86G   400   457/  5  W21 L6  L7  W18 L11 2.0
+ 16 Letinsky, Lizzy        NWJIJ86F   800   349/  4  L9  L11 BYE W19 L5  2.0
+ 17 Thai, Kylan            RIDDJ86E   300   320/  5  L12 L14 W20 W21 L10 2.0
+ 18 Robinson, Romeel       TAFGJ86D   600   337/  5  L13 W20 L12 L15 W19 2.0
+ 19 Thai, Milan            RIDEJ86C   400   176/  5  L6  L7  W21 L16 L18 1.0
+ 20 Letinsky, Grace        RIDFJ86B   500   100/  4  L10 L18 L17 BYE L14 1.0
+ 21 Ngetich, Neema         HSCDJ86A   300   100/  4  L15 L4  L19 L17 BYE 1.0

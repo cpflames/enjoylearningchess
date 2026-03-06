@@ -1,0 +1,51 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zhang, David           SOMBK41P   678   794/ 97  W35 W31 W34 W5  D3  4.5
+  2 Juneja, Parth          JWECW80P   725   814/  5  W22 D18 W26 W13 W6  4.5
+  3 Gong, Fedora           RSMDK37C   605   819/ 25  W37 W19 W23 W8  D1  4.5
+  4 Charuvil Vinu, Suryen  RSHAJ89R   687   717/ 43  L21 W45 W19 W17 W16 4.0
+  5 Ponmuhilan, Dharsaan   RGOCW80N   663   731/  5  W45 W21 W28 L1  W18 4.0
+  6 Rahul, Rihaan          SBOAW80L   100   905/  5  W25 W16 W7  W15 L2  4.0
+  7 Marrugo, Emilio        OPWDE25J   754   782/ 67  W32 D12 L6  W23 W21 3.5
+  8 Chaporkar, Nihar       ENSDK65B   763   760/ 36  W20 W44 W11 L3  D10 3.5
+  9 Zhen, Liam             DCCC622V   625   627/142  W36 L34 W33 W31 D11 3.5
+ 10 Srinivasan, Atul       TBKAK65P   597   633/ 36  W46 L23 W35 W32 D8  3.5
+ 11 Li, Bryan              MEDAJ75H   594   611/ 60  W47 W43 L8  W22 D9  3.5
+ 12 Kesavan, Suhaan        SPXBW80J   602   649/  5  W38 D7  L15 W25 W28 3.5
+ 13 Desai, Vivaan          BCAAJ49H   735   687/ 32  L34 W49 W27 L2  W35 3.0
+ 14 Wong, Claire           BCABK86D   733   681/ 80  L19 W37 L21 W27 W36 3.0
+ 15 Zhang, Marina          SSMBJ56B   601   611/ 67  W49 D27 W12 L6  D20 3.0
+ 16 Verma, Satvik          WONCG80T   577   588/ 60  W48 L6  W46 W34 L4  3.0
+ 17 Deepesh, Dhwani        BRHDK31A   539   552/ 39  W50 L28 W24 L4  W40 3.0
+ 18 Lin, Evan              THUBJ72G   533   612/ 35  W40 D2  D30 W28 L5  3.0
+ 19 Wei, Brayden           ETSBK90F   487   593/ 67  W14 L3  L4  W46 W30 3.0
+ 20 Alle, Vihaan Shaurya   MLEBJ72B   463   544/ 38  L8  W38 D25 W26 D15 3.0
+ 21 Le, An                 MHEDJ73S   449   638/ 14  W4  L5  W14 W30 L7  3.0
+ 22 Jia, Andrew            EASCD27T   348   486/ 28  L2  W40 W44 L11 W31 3.0
+ 23 Alok, Aditya           JWECW80H   200   707/  5  W29 W10 L3  L7  W32 3.0
+ 24 Stallard, Calvin       HSCCH73H   200   553/  5  L26 W42 L17 W33 W34 3.0
+ 25 Gupta, Akshay          BCABF62T   608   582/ 68  L6  W48 D20 L12 W37 2.5
+ 26 Bolisetty, Varun       CBRCJ73Z   594   578/ 39  W24 D30 L2  L20 W42 2.5
+ 27 Ranjith, Janani        SHVBK65E   402   409/ 93  WF  D15 L13 L14 W43 2.5
+ 28 Li, Ethan              THRAJ97M   748   671/ 55  W33 W17 L5  L18 L12 2.0
+ 29 Xiong, Maxwell         CSICK92H   614   506/ 30  L23 L46 W45 L40 W47 2.0
+ 30 Su, Pin-ruei           RFKBH96G   612   565/ 25  W42 D26 D18 L21 L19 2.0
+ 31 Dhillon, Veer          ETSAJ02P   512   479/ 15  W41 L1  W43 L9  L22 2.0
+ 32 Chin, Kheiron          HSCAJ19P   503   486/ 44  L7  W47 W41 L10 L23 2.0
+ 33 Anand, Krishna         RSAAJ95V   502   456/ 29  L28 WF  L9  L24 W46 2.0
+ 34 Sang, Andy             IMBBK65W   492   522/ 46  W13 W9  L1  L16 L24 2.0
+ 35 Deshmukh, Dhruv        ENDDH79Q   410   426/ 15  L1  W39 L10 W41 L13 2.0
+ 36 Ram, Krishna           EBSCH76B   383   367/ 13  L9  L41 W47 W39 L14 2.0
+ 37 Stuart, Alicia         REECK41M   218   294/ 42  L3  L14 W38 W44 L25 2.0
+ 38 Singh, Suhavi          BCABH87B   100   111/ 13  L12 L20 L37 BYE W49 2.0
+ 39 Bose, Rishaan          SNECH73G   200   211/  5  L44 L35 W49 L36 W45 2.0
+ 40 Islam, Zayan           EXPDH73F   300   353/  4  L18 L22 BYE W29 L17 2.0
+ 41 Song, Leonardo         CCDAH73E   100   341/  5  L31 W36 L32 L35 W44 2.0
+ 42 Westover, Thomas       NOWBJ54M   304   270/ 28  L30 L24 W48 D43 L26 1.5
+ 43 Niu, Edwin             BCAAH73D   100   114/  4  BYE L11 L31 D42 L27 1.5
+ 44 Rosenlieb, Yonit       SKYDK37F   532   414/ 33  W39 L8  L22 L37 L41 1.0
+ 45 Pan, Jingyi            SSMBH76N   171   162/  9  L5  L4  L29 W48 L39 1.0
+ 46 Kaimalangara Sujesh, AaSBOCW80G   200   309/  5  L10 W29 L16 L19 L33 1.0
+ 47 Alle, Diya Advaitha    MLEDJ14R   147   152/ 10  L11 L32 L36 W49 L29 1.0
+ 48 Gupta, Ishka           RSHBJ19R   132   100/ 12  L16 L25 L42 L45 BYE 1.0
+ 49 Duraikondaar, Dhaswin  FRWBH75Y   183   100/ 10  L15 L13 L39 L47 L38 0.0
+ 50 Prasad, Rhea           DHLAJ92U   100   100/ 11  L17 LF  U   U   U   0.0

@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Liu, Bihe              KKNBB78J   936   938/ 71  W9  W12 W2  W3  L4  4.0
+  2 Yao, Roger Yutang      THOBK88C   843   845/ 50  W10 W7  L1  W6  W8  4.0
+  3 Frenk, Rafael          CSIBJ75L   819   846/ 10  W16 W14 W4  L1  W6  4.0
+  4 Zhang, David           SOMBK41P   687   751/ 51  W13 W8  L3  W10 W1  4.0
+  5 Gupta, Akshay          BCABF62T   663   596/ 43  L14 W15 L6  W17 W9  3.0
+  6 Ajay, Aria             LCSBK07M   582   599/ 42  W18 W11 W5  L2  L3  3.0
+  7 Nevraumont, Mara       SCDBK40M   386   394/ 20  W19 L2  W13 L9  W14 3.0
+  8 Baer, Naava            EVGBK85Q   378   420/ 25  W15 L4  W14 W16 L2  3.0
+  9 Bogomolov, Henry       SSMBJ72J   346   417/ 15  L1  W18 W11 W7  L5  3.0
+ 10 Pang, Lucas            BCSBK93Q   262   378/ 30  L2  W19 W12 L4  W15 3.0
+ 11 Drake, Matthew         BRYBJ68D   100   215/  8  BYE L6  L9  W13 W16 3.0
+ 12 Stawitz, Bohdan        BRYBK92E   385   329/ 35  W17 L1  L10 L15 W19 2.0
+ 13 Constantine, Aden      EVGBI17H   201   175/ 34  L4  BYE L7  L11 W17 2.0
+ 14 Soulios, Konstantinos  BFDBK88D   128   228/ 14  W5  L3  L8  W18 L7  2.0
+ 15 Bartram, Clark         THOBJ47Q   100   224/  4  L8  L5  BYE W12 L10 2.0
+ 16 Bosse, Kepler          WEDBJ68H   213   168/ 10  L3  D17 W18 L8  L11 1.5
+ 17 Olmsted, Mia           HRYBJ47P   100   100/  5  L12 D16 W19 L5  L13 1.5
+ 18 Cord, Alec             BRYBJ47N   100   100/  4  L6  L9  L16 L14 BYE 1.0
+ 19 Winkler, Aaron         THOBJ47M   100   100/  4  L7  L10 L17 BYE L12 1.0

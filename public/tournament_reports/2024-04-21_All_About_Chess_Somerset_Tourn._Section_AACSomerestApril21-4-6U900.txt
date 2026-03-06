@@ -1,0 +1,48 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Thangakumar, Pranav    SSMFJ49C   745   959/ 29  W47 W40 W5  W2  W4  5.0
+  2 Zhu, Alex              LKDFJ55P   897   958/ 35  W30 W7  W6  L1  W3  4.0
+  3 Du, Charles            SOMEA15U   893   913/ 94  W26 W14 W8  W18 L2  4.0
+  4 Kukreja, Aarav         SOMF433H   884   909/ 68  W37 W23 W29 W13 L1  4.0
+  5 Naveh, Ido             SOMEK63G   818   847/ 48  W27 W17 L1  W24 W14 4.0
+  6 Lo, Ella               SOMFB94E   799   818/ 41  W31 W33 L2  W26 W18 4.0
+  7 Yang, Michael          SOMFK00G   676   778/ 22  W44 L2  W33 W19 W12 4.0
+  8 Sinha, Ishayu          CDWFJ24F   742   748/ 30  W32 W45 L3  W17 D9  3.5
+  9 Smacinih, Alexander    SOMFG83H   640   678/ 80  W36 L12 W44 W29 D8  3.5
+ 10 Wu, Ruichen            CDWEK08F   429   662/ 21  D11 L13 W35 W22 W29 3.5
+ 11 Iyer, Hrishaan Arjun   BNTFJ57L   833   796/ 23  D10 W34 L13 W31 D20 3.0
+ 12 Elmieh, Niko           CRKE777E   811   780/ 45  W28 W9  L18 W15 L7  3.0
+ 13 Chenchu Arun, Krish    SSMEJ74U   782   788/ 34  D46 W10 W11 L4  D19 3.0
+ 14 Wang, Jacob Z          BLWFE71A   671   692/ 99  W24 L3  W32 W30 L5  3.0
+ 15 Kini, Arjun            SSMEH88B   602   561/ 10  L34 W47 W45 L12 W30 3.0
+ 16 Burmistrov, Maya       SSMEJ19Z   579   525/ 20  L45 L31 W39 W34 W47 3.0
+ 17 Dasari, Ranveer        SSMFJ31X   562   569/ 14  W35 L5  W34 L8  W46 3.0
+ 18 Hewitt, Preston        SSMEH81U   317   590/ 10  W21 W19 W12 L3  L6  3.0
+ 19 Berjis, Adrina         MEDE230U   867   800/132  W25 L18 W38 L7  D13 2.5
+ 20 Upasani, Neil          SSMEJ57C   840   752/ 44  L38 W46 L30 W40 D11 2.5
+ 21 Zhang, Arwen           SOME484A   764   684/109  L18 W28 L31 D27 W37 2.5
+ 22 Einarson, Aiden        SAKFD84D   753   664/138  L40 D27 W46 L10 W42 2.5
+ 23 Chang, Lucas           CBRFK46F   716   663/ 31  W41 L4  L26 W45 D25 2.5
+ 24 Malhotra, Sartaj       KNDFK69K   615   598/ 72  L14 W39 W40 L5  D26 2.5
+ 25 Brakenridge, Bryce     SOMFK89D   553   533/ 51  L19 L32 W36 W33 D23 2.5
+ 26 Badi, Shreya           MTWEK52A   535   589/ 74  L3  W36 W23 L6  D24 2.5
+ 27 Peng, Eric             SSMFJ31E   423   495/ 34  L5  D22 W37 D21 D35 2.5
+ 28 Dragusanu, Clara       SSMEH81S   528   517/ 19  L12 L21 D47 W46 W38 2.5
+ 29 Jiang, Jason           SSMFK94Q   797   722/ 34  W39 W38 L4  L9  L10 2.0
+ 30 You, Jin               SNIEH58R   557   556/ 27  L2  W41 W20 L14 L15 2.0
+ 31 Rathinasabapathy, VarsiINGGJ60E   394   452/ 22  L6  W16 W21 L11 L39 2.0
+ 32 Prashanth, Aswanth     SMVGI99W   284   361/ 21  L8  W25 L14 W38 L43 2.0
+ 33 Yuen, Hudson           WELEJ74Z   253   305/  9  BYE L6  L7  L25 W45 2.0
+ 34 Leung, Katherine       SOME360H   195   288/ 31  W15 L11 L17 L16 W44 2.0
+ 35 Thakur, Adarsh         SOMFH78W   500   383/  5  L17 D37 L10 W44 D27 2.0
+ 36 Li, Zachary            CDWEH78V   400   402/  5  L9  L26 L25 W43 W40 2.0
+ 37 Badi, Sanvi            MTWE151Y   474   437/ 63  L4  D35 L27 W39 L21 1.5
+ 38 Yang, Maximilian       SOMF632J   536   483/ 53  W20 L29 L19 L32 L28 1.0
+ 39 Chea, Elena            SOMFJ83B   370   334/  9  L29 L24 L16 L37 W31 1.0
+ 40 Fong, Kennen           SOMFK45J   304   317/ 18  W22 L1  L24 L20 L36 1.0
+ 41 Gao, Alexander         SOMEK44G   274   253/ 12  L23 L30 BYE U   U   1.0
+ 42 Teng, Lincoln          SOMEK88N   232   293/  7  U   U   U   W47 L22 1.0
+ 43 Teng, Lyndon           SOMEK88Q   225   265/  7  U   U   U   L36 W32 1.0
+ 44 Burks, Oliver          SNIFK45G   120   100/ 16  L7  BYE L9  L35 L34 1.0
+ 45 Li, Eli                SOMEH78T   400   311/  5  W16 L8  L15 L23 L33 1.0
+ 46 Ip, Evan               SOMEI14G   311   301/ 23  D13 L20 L22 L28 L17 0.5
+ 47 Wang, Ryan             SOMEK44A   291   242/ 10  L1  L15 D28 L42 L16 0.5

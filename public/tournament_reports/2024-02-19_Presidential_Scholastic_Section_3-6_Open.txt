@@ -1,0 +1,49 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Rao, Atharv            SOMFB90T  1389  1528/ 81  W28 W30 W14 W13 W5  5.0
+  2 Li, Edgar              WOBD883Y  1264  1396/196  W45 D23 W29 W7  W9  4.5
+  3 Prashant, Niranjan     PFCG468K  1414  1440/156  D27 W26 D12 W16 W13 4.0
+  4 Shah, Aarit            MTWF710Y  1381  1416/ 54  W34 W31 L5  W33 W14 4.0
+  5 Syal, Yash             CDIFC10R  1307  1425/129  W37 W29 W4  W8  L1  4.0
+  6 Raja, Rian             SKWG786E  1498  1475/129  D26 L20 W38 W19 W25 3.5
+  7 He, Oliver             ENDDK71V  1379  1393/313  W17 D15 W25 L2  W26 3.5
+  8 Ma, Ziliang            DCCGA69N  1355  1380/ 64  W19 W32 W11 L5  D12 3.5
+  9 Chintalapudi, Srihaan  CPJG662W  1301  1339/132  D39 W27 W10 W15 L2  3.5
+ 10 Tie, Mike              ENDF856Y  1315  1335/128  W21 D25 L9  W40 W27 3.5
+ 11 Weng, Bright           BEND850P  1314  1336/ 82  W36 W18 L8  D20 W28 3.5
+ 12 Pan, Peng-ruei         SSME759R  1289  1318/ 91  D47 W39 D3  W18 D8  3.5
+ 13 Cheng, Alan            CHRFJ71K  1344  1357/148  W35 W24 W20 L1  L3  3.0
+ 14 Balayoghan, Keeran     OMSG477N  1331  1343/105  W40 W16 L1  W34 L4  3.0
+ 15 Maharaja, Imai         HMNDK34K  1268  1282/156  W44 D7  W23 L9  D20 3.0
+ 16 Su, Alfred             SPTF929B  1266  1265/278  W48 L14 W35 L3  W38 3.0
+ 17 Ganesan, Vidur         RBRE940K  1216  1218/172  L7  L38 W44 W43 W29 3.0
+ 18 Chen, Xinyu            SOMFD08V  1196  1260/ 71  W22 L11 W32 L12 W30 3.0
+ 19 Wang, Isaac            CLHEK00U  1193  1233/ 50  L8  W44 W31 L6  W33 3.0
+ 20 Xu, Jeffery            TYEGJ88V  1183  1239/ 49  WF  W6  L13 D11 D15 3.0
+ 21 Tunuguntla, Sai SrithanEMDFK78V  1222  1227/219  L10 W46 L33 W32 W34 3.0
+ 22 Zhang, Bowen           RKWFK55F  1356  1312/ 36  L18 W47 D28 L26 W37 2.5
+ 23 Ghosh, Snehil          CBRE738T  1325  1300/141  W41 D2  L15 L28 W40 2.5
+ 24 Xu, Yang               CNCE649B  1276  1244/134  W42 L13 D40 L27 W41 2.5
+ 25 Patnaik, Rishabhdeva   CRKFG72D  1263  1249/152  W46 D10 L7  W42 L6  2.5
+ 26 Yun, Daniel D          LAVCK87Z  1249  1275/312  D6  L3  W41 W22 L7  2.5
+ 27 Avula, Guru Harshith ReBRHE633Y  1247  1253/117  D3  L9  W47 W24 L10 2.5
+ 28 Gagnier, Ian           HSCFC72H  1213  1239/182  L1  W36 D22 W23 L11 2.5
+ 29 Mohan, Vishnu          KKNFF41R  1391  1344/124  W33 L5  L2  W35 L17 2.0
+ 30 Kuan, Hans             GRRFK32S  1299  1260/ 36  W38 L1  L34 W36 L18 2.0
+ 31 Cui, Max               CBRF946C  1296  1236/191  W43 L4  L19 L37 W42 2.0
+ 32 Deng, Arthur           OPWCC90Y  1267  1208/ 93  WF  L8  L18 L21 W44 2.0
+ 33 Wang, Eric             WPPF803M  1245  1230/127  L29 W37 W21 L4  L19 2.0
+ 34 Wang, Harvey           OPWBJ68G  1200  1191/ 90  L4  W43 W30 L14 L21 2.0
+ 35 Lan, Jonathan          MEDD968F  1192  1159/128  L13 W45 L16 L29 W43 2.0
+ 36 Flores Uriegas, Andres HLYE159F  1133  1094/ 56  L11 L28 W45 L30 W46 2.0
+ 37 Raj, Skandha           EVGBK55U  1117  1113/ 96  L5  L33 W48 W31 L22 2.0
+ 38 Bhattacharjee, PratyushTIME602T  1059  1094/ 57  L30 W17 L6  W39 L16 2.0
+ 39 Agrawal, Anay          PLKGE67A  1165  1110/ 82  D9  L12 L42 L38 W47 1.5
+ 40 Das, Sambuddha Sekhar  ENDDK47S  1163  1130/104  L14 W48 D24 L10 L23 1.5
+ 41 Rachiba, Alisa         EVPDK08E  1151  1104/ 76  L23 D42 L26 W47 L24 1.5
+ 42 Kakarlapudi, Sreeram MuMEDE687Z   847   903/ 35  L24 D41 W39 L25 L31 1.5
+ 43 Wang, Wenyou           MEDDK93J  1007   964/ 54  L31 L34 W46 L17 L35 1.0
+ 44 Zakaria, Abid          CDWFJ28T   846   848/ 10  L15 L19 L17 W45 L32 1.0
+ 45 Marulasiddappa, ShamithXXXFJ20G   500   536/  5  L2  L35 L36 L44 W48 1.0
+ 46 Santhosh, Saanvi       AUDFJ20F   500   593/  5  L25 L21 L43 W48 L36 1.0
+ 47 Rios, Nicholas         HCCGJ77M   979   947/ 13  D12 L22 L27 L41 L39 0.5
+ 48 Premjith, Vaishnav     FRVFJ20E   500   140/  5  L16 L40 L37 L46 L45 0.0

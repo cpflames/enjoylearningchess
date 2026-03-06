@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 He, Raymond            HSCKK82K  1053  1106/ 77  W3  W2  WF  3.0
+  2 Garg, Vihaan           CMCDJ10X  1004  1052/184  W4  L1  W3  2.0
+  3 Zhu, Kevin             CSME865U  1013   999/401  L1  W4  L2  1.0
+  4 Xie, Leon              CNHF264X  1119  1049/144  L2  L3  LF  0.0

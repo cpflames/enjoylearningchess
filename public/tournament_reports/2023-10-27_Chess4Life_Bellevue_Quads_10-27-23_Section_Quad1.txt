@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wakeman, Oliver        INLKG10Y  1394  1421/ 97  W2  W4  W3  3.0
+  2 Ganesan, Vidur         RBRE940K  1251  1242/116  L1  W3  D4  1.5
+  3 He, Oliver             CRIDK71V  1174  1159/242  W4  L2  L1  1.0
+  4 Huang, Edwin           MEDG616M  1042  1032/ 67  L3  L1  D2  0.5

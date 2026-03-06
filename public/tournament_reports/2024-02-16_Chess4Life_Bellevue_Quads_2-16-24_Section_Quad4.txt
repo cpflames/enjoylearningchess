@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mukund, Anirudh        LAVGK18S   676   721/ 47  L4  W3  W2  2.0
+  2 Bao, David             SSSCK25B   665   716/ 24  W3  W4  L1  2.0
+  3 Du, Charles            SOMEA15U   733   694/ 65  L2  L1  W4  1.0
+  4 Paine, Clara           TLIEK01Z   702   673/ 23  W1  L2  L3  1.0

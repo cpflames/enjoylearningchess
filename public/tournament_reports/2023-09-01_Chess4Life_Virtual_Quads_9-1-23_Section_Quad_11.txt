@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Balaji, Arjun          CMCDH75P   659   817/ 48  W3  W2  W4  3.0
+  2 Kondapally, Reyhan     XXXKD48F   708   664/  9  L4  L1  W3  1.0
+  3 Li, Chufei             CNHD389T   699   669/ 55  L1  W4  L2  1.0
+  4 Sampathi Rao, Sri JayraSSMFK37Y   654   638/ 16  W2  L3  L1  1.0

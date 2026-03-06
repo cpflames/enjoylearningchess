@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Hughes, Weston         SMSII26V  1177  1207/ 60  W12 W15 W6  W2  W5  5.0
+  2 Satish Kumar, Sai NavanCENFH21Y   979   999/ 56  W13 W11 W3  L1  W6  4.0
+  3 Colon, Xavier          STCIF98F   751   851/ 80  W10 W8  L2  W4  W9  4.0
+  4 Reimer, Oliver         LKDFG59D   755   776/ 59  W14 W7  D5  L3  W11 3.5
+  5 Guerrero, Rory         STCI343R   707   753/ 28  W19 W12 D4  W11 L1  3.5
+  6 Albertson, Devlen      KEYHK21T   695   756/ 10  W18 W9  L1  W10 L2  3.0
+  7 Schulte, Joey          STCHD62Q   633   639/ 38  W15 L4  L9  W13 W14 3.0
+  8 Odupitan, Oliver       STCG964H   631   631/ 24  W16 L3  W14 L9  W15 3.0
+  9 Rehberger, Jack        STCH916D   497   636/ 19  W17 L6  W7  W8  L3  3.0
+ 10 Carrell, Sam           STCG943D   400   484/  9  L3  W19 W18 L6  W17 3.0
+ 11 Sickelton, Caeli       STCIK61A   645   605/ 10  W20 L2  W13 L5  L4  2.0
+ 12 Paras, Liam            STCGK61Q   578   534/ 20  L1  L5  W17 L18 W20 2.0
+ 13 Grasseth, Jack         STCHF63F   505   481/ 25  L2  W16 L11 L7  W19 2.0
+ 14 Ramirez, Peyton        STCGK61L   470   454/ 10  L4  W20 L8  W17 L7  2.0
+ 15 Flinders, Thayden      STCGJ19A   600   425/  5  L7  L1  W16 W19 L8  2.0
+ 16 Price, Jacob           ELKGJ18Z   600   291/  5  L8  L13 L15 W20 W18 2.0
+ 17 Gamad, Liam            MWIIJ39H   780   510/ 10  L9  W18 L12 L14 L10 1.0
+ 18 Thomson, Kaine         ELKHK53T   100   178/  9  L6  L17 L10 W12 L16 1.0
+ 19 Townsend, Howard       ELKHK60U   202   159/ 15  L5  L10 D20 L15 L13 0.5
+ 20 Odupitan, Olivia       STCHJ50X   100   100/  9  L11 L14 D19 L16 L12 0.5

@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Black, Stas            WPPF368F  1097  1163/125  W8  W12 W5  W4  D2  4.5
+  2 Mirpuri, Shrevin Hiro  OMSGJ03R  1112  1230/ 10  D3  W8  W11 W5  D1  4.0
+  3 Kedarisetty, Ishan     INGG300B  1038  1081/171  D2  W10 W9  D7  W4  4.0
+  4 Nandakiran, Vidyuth    SSME617C  1068  1051/ 88  W10 W9  W7  L1  L3  3.0
+  5 Kedarisetty, Shreyas   INGHH60G  1061  1060/165  W6  W11 L1  L2  W7  3.0
+  6 Davis, Cameron         AKKGH96P   600   796/  5  L5  L7  W8  W9  W10 3.0
+  7 Huang, Clora           SOMEK31H  1057  1021/ 95  W12 W6  L4  D3  L5  2.5
+  8 Say, Kaleb             AKKHK30Q   546   530/ 10  L1  L2  L6  W12 W11 2.0
+  9 Mansfield, Jared       AKKHK30J   271   309/  9  BYE L4  L3  L6  W12 2.0
+ 10 Curnutt, Lachlan       AKKGH96N   600   494/  5  L4  L3  W12 W11 L6  2.0
+ 11 Looney, Aishanique     AKKGH96M   600   153/  4  WF  L5  L2  L10 L8  1.0
+ 12 Trump, Hugo            AKKGH96L   600   100/  5  L7  L1  L10 L8  L9  0.0

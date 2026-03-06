@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Liang, Jane            LECEJ60T   685   710/ 48  W4  D2  W3  2.5
+  2 Qin, Mason             LECEK97A   512   534/ 41  L3  D1  W4  1.5
+  3 Smith, Jeremiah        KCCI651S   646   591/ 11  W2  L4  L1  1.0
+  4 Schutz, Victoria       CHJGJ59P   477   479/ 25  L1  W3  L2  1.0

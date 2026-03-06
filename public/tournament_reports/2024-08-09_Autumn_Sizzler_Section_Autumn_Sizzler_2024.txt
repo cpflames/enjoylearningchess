@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wilson, Nicholas       LBYHJ58B   963  1134/ 30  W11 W15 W2  D6  W8  4.5
+  2 Keener, Karl           HLHIY40G  1310  1303/152  W13 W9  L1  W12 W6  4.0
+  3 Morton, Braylon        FLMGJ27F   924   977/ 28  W16 W19 L12 W7  W11 4.0
+  4 Mcintyre, John         HSCFJ63F   839   937/ 45  W17 L6  W15 W13 W12 4.0
+  5 Avey, Jesse            MDRGK50F   795   851/ 73  W23 D12 L7  W20 W14 3.5
+  6 Hassel, Riot           RGHIH66P   800  1200/  5  W14 W4  W8  D1  L2  3.5
+  7 Lindly, Kellen         SRIFK06E  1058   999/ 48  L15 W16 W5  L3  W19 3.0
+  8 Samiev, Alexander      SSPGK22P   965   956/ 45  W22 W21 L6  W9  L1  3.0
+  9 Wang, Kelby            SKKD796Y   751   763/151  W18 L2  W19 L8  W17 3.0
+ 10 Scott, Liam            PSPEK50P   617   643/ 54  L12 BYE L14 W16 W18 3.0
+ 11 Birch, David           EGMGH66N   600   894/  5  L1  W18 W21 W14 L3  3.0
+ 12 Van Brunt, Levi        OELFY97G  1209  1097/ 11  W10 D5  W3  L2  L4  2.5
+ 13 Clark, Phineas         HSCFJ05Q   660   655/ 20  L2  W23 D20 L4  W21 2.5
+ 14 Bai, Kelin             SKKFD75J   957   898/227  L6  W17 W10 L11 L5  2.0
+ 15 Young, Daniel          TNTGJ96U   472   499/ 50  W7  L1  L4  L18 W23 2.0
+ 16 Heal, Thomas           LOEIH66M   800   526/  5  L3  L7  W23 L10 W20 2.0
+ 17 Aguayo, Chase          LSPHH66L   700   591/  5  L4  L14 W22 W21 L9  2.0
+ 18 Birch, Jonathan        EGMFH66K   500   497/  4  L9  L11 BYE W15 L10 2.0
+ 19 Modha, Reyansh         LBYEH68R   100   180/  8  BYE L3  L9  W22 L7  2.0
+ 20 Ganesend, Darshini     RVBDH66H   300   364/  5  L21 W22 D13 L5  L16 1.5
+ 21 Jude, Atticus          HSCEJ88G   678   568/ 10  W20 L8  L11 L17 L13 1.0
+ 22 Scott, Vivian          HSCBH66G   100   100/  4  L8  L20 L17 L19 BYE 1.0
+ 23 Morton, Klay           BBOCH66E   200   100/  4  L5  L13 L16 BYE L15 1.0

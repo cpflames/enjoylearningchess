@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Scollon, Owen          FHVI734D  1787  1780/509  D2  W3  W4  2.5
+  2 Stroud, Jeb            FHVIK22V  1379  1393/145  D1  L4  W3  1.5
+  3 Zhang, Owen            FHVI995H  1506  1479/301  W4  L1  L2  1.0
+  4 Kozaczuk, James        SHKI108A  1175  1207/210  L3  W2  L1  1.0

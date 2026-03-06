@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Olson, Travis          ADUN8893  1864  1864/158  W3  W5  W4  3.0
+  2 Gupta, Aayansh         CNCEH73A   400   698/  3  L4  W6  W5  2.0
+  3 Doronin, Victor        BMNG335T   683   705/ 90  L1  W4  D6  1.5
+  4 Yang, Nicholas         CHRDG23U   924   893/105  W2  L3  L1  1.0
+  5 Titterington, Henry    ENADJ88R   526   523/ 41  W6  L1  L2  1.0
+  6 Nishino, Anne          BCACH74F   212   287/  6  L5  L2  D3  0.5

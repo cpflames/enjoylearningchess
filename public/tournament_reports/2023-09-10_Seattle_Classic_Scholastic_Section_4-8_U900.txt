@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zhang, Nathan          EINIK00X   800  1199/  5  W8  W4  W5  W2  W6  5.0
+  2 Spearman, Emery        DCCG101R   510   787/ 41  W7  W3  D6  L1  W5  3.5
+  3 Bondalakunta, Krishna  CNCFK25A   871   830/ 79  L4  L2  W10 W8  W7  3.0
+  4 Davies, Damien         MCEFK68U   538   668/ 49  W3  L1  L8  W10 W9  3.0
+  5 Ang-lee, Ellery        EINIH848   524   717/ 29  W6  W9  L1  W7  L2  3.0
+  6 Chen, Max Y            DISEK76L   835   815/ 51  L5  W8  D2  W9  L1  2.5
+  7 Yen, Apollo            REJGG78H   770   710/ 62  L2  W10 W9  L5  L3  2.0
+  8 Slettebak, Jordan      EMSG604V   654   662/ 38  L1  L6  W4  L3  W10 2.0
+  9 Pan, Harry             MEDEE67X   703   609/ 66  W10 L5  L7  L6  L4  1.0
+ 10 Abhilash, Lavina       CRIEK07R   497   423/ 29  L9  L7  L3  L4  L8  0.0

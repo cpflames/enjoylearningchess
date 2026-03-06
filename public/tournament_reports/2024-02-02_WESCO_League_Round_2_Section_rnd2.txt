@@ -1,0 +1,25 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Li, Richard            JACLC87V  1257  1259/ 34  W16 1.0
+  2 Britt, Liam            STNMA86S  1097  1119/ 45  W14 1.0
+  3 Lyford, Nathan         STNL942Q  1079  1091/ 54  W17 1.0
+  4 Mittal, Sanyam         JACL2663  1099  1104/105  W19 1.0
+  5 Morin-cotton, NathanielAHSK4895  1045  1089/175  W13 1.0
+  6 Subramaniam, Sanjit    JACMK59N  1018  1034/ 13  W15 1.0
+  7 Hasse, Nikos           EDWLB11Q   963   969/ 22  W20 1.0
+  8 Geng, Tommy            JACKF12Q   934   936/ 53  W18 1.0
+  9 Tsang, Ian             JACLK59F  1350  1350/  2  W22 1.0
+ 10 Williams, Jakob        STNJJ63X   628   628/  2  W23 1.0
+ 11 Pawling, Owen          EDWMJ46X  1200  1350/  1  W24 1.0
+ 12 Oetzel, Gage           AHSJJ46W   900  1200/  1  W21 1.0
+ 13 Gupta, Shreyank        JACN309A  1236  1197/ 32  L5  0.0
+ 14 Kirschten, Jacob       EDWLC85L  1019   996/ 19  L2  0.0
+ 15 Tiley, Jamie           AHSLJ17X   849   831/ 19  L6  0.0
+ 16 Vincenzi, Franklin     AHSKK59W   730   727/ 11  L1  0.0
+ 17 Pape, Neil             EDWLK59R   851   835/ 10  L3  0.0
+ 18 Henry, Riley           AHSKK58L   358   358/  4  L8  0.0
+ 19 Appel, Jaden           AHSJJ46V   900   708/  1  L4  0.0
+ 20 Kupchenkoi, Illia      STNJJ64B   864   587/  2  L7  0.0
+ 21 Sastri, Navneeth       JACLJ46U  1100   800/  1  L12 0.0
+ 22 Fryer, Hunter          AHSJJ46R   900   950/  1  L9  0.0
+ 23 Banchero, Andrew       EDWJJ46Q   900   396/  1  L10 0.0
+ 24 Knox, Daniel           STNLJ46P  1100   950/  1  L11 0.0

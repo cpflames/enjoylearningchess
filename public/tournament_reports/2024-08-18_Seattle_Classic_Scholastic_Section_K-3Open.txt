@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Ma, Lewis              SOMC587M  1491  1508/166  W8  W7  W4  W3  4.0
+  2 Zandanov, Leonid       ENACK31Q  1268  1262/132  W9  L3  W14 W7  3.0
+  3 Cui, Sky               SRGDZ79Y  1116  1253/ 15  W6  W2  W11 L1  3.0
+  4 Xie, Isaac             THRDK25T  1041  1089/ 53  W15 W5  L1  W10 3.0
+  5 Pan, Peng-yu           SSMCK24P  1136  1123/139  W14 L4  D6  W12 2.5
+  6 Yeh, George            COSBH64S   100  1169/  4  L3  W9  D5  W11 2.5
+  7 Vijay, Adith           SOMDD20K  1093  1087/ 63  W10 L1  W13 L2  2.0
+  8 Wu, Jayden             UCDC495Q   997   982/104  L1  W12 L10 W14 2.0
+  9 Khudyev, Elina         EPIBJ97Q   874   873/ 38  L2  L6  BYE W13 2.0
+ 10 Han, Kaiyi             SOMBK42P   756   793/ 77  L7  BYE W8  L4  2.0
+ 11 Bravenboer, Jake       OPWDJ97Y  1105  1058/ 97  D12 W13 L3  L6  1.5
+ 12 Pan, Peng-chi          SSMCK24N   872   858/125  D11 L8  W15 L5  1.5
+ 13 Ajay, Aria             LCSBK07M   717   684/ 74  BYE L11 L7  L9  1.0
+ 14 Wong, Claire           BCABK86D   782   763/ 96  L5  W15 L2  L8  1.0
+ 15 Savaram, Arjun         XXXBH64R   100   361/  3  L4  L14 L12 BYE 1.0

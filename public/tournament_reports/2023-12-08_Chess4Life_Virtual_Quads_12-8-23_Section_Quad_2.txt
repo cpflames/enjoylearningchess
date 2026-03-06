@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tian, Eric             SOMFI80S  1297  1311/130  W3  W4  L2  2.0
+  2 Joshi, Vyom            LEOIH81X  1275  1295/223  W4  L3  W1  2.0
+  3 Bansal, Vivaan         EVJJ452J  1212  1256/103  L1  W2  W4  2.0
+  4 Ghosh, Snehil          CBRE738T  1266  1199/ 95  L2  L1  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dharamshi, Anay        CBRCK42U  1052  1143/ 85  W3  W4  W2  3.0
+  2 Pan, Peng-yu           SSMCK24P  1040  1006/ 99  W4  L3  L1  1.0
+  3 Chou, Eugene           SSMDJ56Y   960   947/ 55  L1  W2  L4  1.0
+  4 Bhasin, Palash         SNIFH95H   940   932/ 31  L2  L1  W3  1.0

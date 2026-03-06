@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mendez, Efrain         MRDLJ85N  1100  1382/  3  W3  W5  W2  3.0
+  2 Miller, Aiden          MRDLK41B   438   498/ 11  W8  W4  L1  2.0
+  3 Falcon, Alessandro     FERKJ85L  1000   863/  3  L1  W7  W6  2.0
+  4 Montgomery, Marcus     MRDJJ85K   900   622/  3  W6  L2  W5  2.0
+  5 Crediford, Nilay       FERJF28K   452   454/ 21  W7  L1  L4  1.0
+  6 Weiss, Kai             BLHM948F   445   428/ 15  L4  W8  L3  1.0
+  7 Palmer, Paige          MRDJJ85J   900   302/  3  L5  L3  W8  1.0
+  8 Ziesing, Kendra        FERJJ85G   900   100/  3  L2  L6  L7  0.0

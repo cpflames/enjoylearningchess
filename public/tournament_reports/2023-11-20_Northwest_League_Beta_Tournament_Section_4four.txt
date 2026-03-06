@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Siadal, Carson         MRDKK41F   896   969/ 15  W4  W7  D3  2.5
+  2 Singh, Arshaan         FERJK22R   900   914/ 40  L5  W6  W7  2.0
+  3 Singh, Jagteshwar      MRDMJ25M   890   923/ 40  D6  W5  D1  2.0
+  4 Aujla, Sihaan          BLHL413P   878   879/ 16  L1  W8  D5  1.5
+  5 Kaur, Abjit            MRDJK40X   867   879/  9  W2  L3  D4  1.5
+  6 Qureshi, Danish        BLEGF36V   823   837/ 99  D3  L2  W8  1.5
+  7 Freeman, Eagle         MRDJJ85S   840   802/  6  W8  L1  L2  1.0
+  8 Volker, Rune           FERKK47N   907   805/ 14  L7  L4  L6  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mahale, Avneesh        CNHB993F   727   802/ 73  W3  W2  L4  2.0
+  2 Han, Spencer           HSCEK75L   788   794/129  W4  L1  D3  1.5
+  3 Zhang, Arwen           SOME484A   909   879/ 67  L1  W4  D2  1.5
+  4 Shrivastava, Parasme   BLMGK00N   772   755/ 18  L2  L3  W1  1.0

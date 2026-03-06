@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Lai, Ryan              SHSAH70N   652   841/ 19  W11 W3  W6  W2  4.0
+  2 Hoang, Leonard Bach    MRPBK88E   788   833/ 43  W9  W5  W4  L1  3.0
+  3 Bolisetty, Varun       CBRCJ73Z   767   761/ 71  W10 L1  W12 W7  3.0
+  4 Desai, Vivaan          BCAAJ49H   638   727/ 39  W13 W8  L2  W6  3.0
+  5 Shagas, Joshua         DCTDK87R   655   702/ 50  BYE L2  W10 W8  3.0
+  6 Bigelow, Atlas         WMEBJ61F   693   651/ 37  BYE W7  L1  L4  2.0
+  7 Duraikondaar, Dhaswin  FRWBH75Y   100   138/ 18  BYE L6  W11 L3  2.0
+  8 Swain, Samarth         MMEBJ58S   901   824/130  BYE L4  W9  L5  2.0
+  9 Lalithmani, Vidyuth    WDEBJ99V   591   556/ 34  L2  W13 L8  D12 1.5
+ 10 De, Adwik              SSMAJ29V   424   391/ 34  L3  D11 L5  W13 1.5
+ 11 Lu, Andy               JINCJ02X   111   101/ 12  L1  D10 L7  BYE 1.5
+ 12 Gui, Joyce             OPWBH92C   448   448/ 21  U   BYE L3  D9  1.5
+ 13 Evans, Henry           BRYCJ67Z   142   119/ 18  L4  L9  BYE L10 1.0

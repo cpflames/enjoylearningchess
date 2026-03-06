@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hildenbrand, Blane     PSMI122V  1079  1196/190  W4  W3  W2  3.0
+  2 Tsai, Adam             DISIB02H  1106  1077/ 80  W3  L4  L1  1.0
+  3 Tian, Eric             SOMFI80S  1063  1045/113  L2  L1  W4  1.0
+  4 Sreraman, Rahul        BCADJ42L  1052  1037/141  L1  W2  L3  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nandakiran, Vidyuth    SSME617C   848   871/ 60  W2  W4  L3  2.0
+  2 Zhang, Arwen           SOME484A   835   835/ 73  L1  D3  W4  1.5
+  3 Sathyamurthy, Sreeshan BLWHJ24M   740   771/ 53  L4  D2  W1  1.5
+  4 Mahale, Avneesh        CNHB993F   908   860/ 92  W3  L1  L2  1.0

@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Tsay, Elon             NOWDK07B   778   768/ 36  W15 W8  W7  W4  L2  4.0
+  2 Zhang, Henry           OPWFA78F   455   574/ 19  L7  W10 W6  W9  W1  4.0
+  3 Howell, Carlos         SRTGK38Y   494   510/ 37  W16 L7  W9  D8  W5  3.5
+  4 Zhang, William         ISEBJ58L   100   584/  5  D9  W13 W5  L1  W8  3.5
+  5 Yong, Jionni           RDWFW86B   485   498/ 11  W10 W6  L4  W7  L3  3.0
+  6 Tripathi, Naksh        BRHCJ98P   276   328/ 28  W12 L5  L2  W11 W10 3.0
+  7 Jiang, Yuanyi          MMECJ58J   200   573/  5  W2  W3  L1  L5  W12 3.0
+  8 Wei, Brayden           ETSBK90F   411   415/ 52  W11 L1  W15 D3  L4  2.5
+  9 Koster, John           SPTAJ88T   260   301/ 23  D4  W14 L3  L2  W15 2.5
+ 10 Lo, Elliot             BUSBJ58H   100   240/  5  L5  L2  W16 W13 L6  2.0
+ 11 Liu, Lia               ENADJ58F   300   150/  5  L8  D12 D13 L6  W14 2.0
+ 12 Chen, Eason            SSMAJ59F   186   174/  8  L6  D11 D14 W15 L7  2.0
+ 13 Gao, Ian               CHAAJ58D   100   139/  5  D14 L4  D11 L10 W16 2.0
+ 14 Zhang, Jocelyn         CNHCK31Z   182   100/ 14  D13 L9  D12 L16 L11 1.0
+ 15 Garcia, Jose           ISEBK07J   100   100/  8  L1  W16 L8  L12 L9  1.0
+ 16 Liu, Acen              ENABJ58C   100   100/  5  L3  L15 L10 W14 L13 1.0

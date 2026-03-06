@@ -1,0 +1,27 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Legard, Benjamin       LWCMK57Z  1273  1286/ 20  W26 W7  W22 3.0
+  2 Nuss, Sean             LWCMK92T  1215  1226/ 30  W23 W14 W24 3.0
+  3 Walstrom, Nathan       LWCMK57J  1139  1224/ 42  W5  W19 W15 3.0
+  4 Ambalavanan, Varun     LWCMK347  1408  1433/357  W17 D12 W13 2.5
+  5 Allestad, Peter        CNYKJ84W  1702  1527/  7  L3  W18 W21 2.0
+  6 Brey, Yuan             LWCMJ84R  1174  1141/  7  L8  W11 W25 2.0
+  7 Price, Rachel          GPSKF94S   882   919/ 32  W22 L1  W26 2.0
+  8 Lacey, Paige           CNYMK58E   827  1041/  4  W6  W20 L11 2.0
+  9 Watters, Quercus       LWCMJ31V  1200  1148/  1  HPB W23 HPB 2.0
+ 10 Roberts, Max           LWCMJ31U  1200   882/  1  HPB W26 HPB 2.0
+ 11 Dwonsh, Josh           GPSKJ31S  1000  1108/  3  W25 L6  W8  2.0
+ 12 Malsam, John           GPSL425S  1461  1435/121  L13 D4  W17 1.5
+ 13 Clark, Tyson           MLSKJ84P  1011  1151/  6  W12 HPB L4  1.5
+ 14 Le, Preston            GPSKK98Y   914   889/ 10  W24 L2  D23 1.5
+ 15 Ash Hewankorn-joseph, TMLSKJ84J   639   786/  6  W21 HPB L3  1.5
+ 16 Sherbinin, Micheal     LWCJJ89D  1337  1250/  5  HPB L17 HPB 1.0
+ 17 Marver, Braeden        CNYMB07X  1309  1298/ 21  L4  W16 L12 1.0
+ 18 Poffenroth, Ryan       LWCMK92Q   809   809/  9  HPB L5  HPB 1.0
+ 19 Ebel, Parker           GPSL777Y   738   734/ 19  HPB L3  HPB 1.0
+ 20 Sheikh, Laura          LWCKC498   766   755/ 86  HPB L8  HPB 1.0
+ 21 Shumaker, Shane        GPSJC35P  1066   991/ 10  L15 HPB L5  0.5
+ 22 Galarza, Adrian        MLSJJ84Q  1040   934/  6  L7  HPB L1  0.5
+ 23 Redder, Hudson         CNYK469Y   715   743/  8  L2  L9  D14 0.5
+ 24 Hills, Kamari          MLSLJ31R  1100   514/  2  L14 HPB L2  0.5
+ 25 Groom, Zeke            MLSLJ31Q  1100   675/  2  L11 HPB L6  0.5
+ 26 Estock, Sum            CNYJJ31N   900   555/  3  L1  L10 L7  0.0

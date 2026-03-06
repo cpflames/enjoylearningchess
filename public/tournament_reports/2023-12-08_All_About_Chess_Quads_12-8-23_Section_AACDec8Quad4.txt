@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Amy             SOMDC03P   640   739/ 80  D4  W3  W2  2.5
+  2 Berjis, Adrina         MEDE230U   618   677/101  W3  W4  L1  2.0
+  3 Pan, Peng-yu           SSMCK24P   691   654/ 13  L2  L1  W4  1.0
+  4 Lim, Oliver            DISCC58T   652   598/ 70  D1  L2  L3  0.5

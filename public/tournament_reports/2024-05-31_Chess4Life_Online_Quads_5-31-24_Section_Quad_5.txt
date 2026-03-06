@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kuluru, Samith         LEOHI99K   678   750/253  W4  W3  W2  3.0
+  2 Menon, Ritwik          WLDG974D   713   700/ 41  W3  W4  L1  2.0
+  3 Lee, Julianus          CDWDK90C   475   458/ 29  L2  L1  W4  1.0
+  4 Gao, Eason             CHRDH75U   169   153/  9  L1  L2  L3  0.0

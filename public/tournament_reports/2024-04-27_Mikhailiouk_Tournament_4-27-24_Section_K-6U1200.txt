@@ -1,0 +1,35 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Yang, Jimmy            BASEG45S  1117  1279/178  W7  W10 W6  W2  W5  5.0
+  2 Sreraman, Rohit        BCADG92Q  1071  1162/238  W15 W20 W3  L1  W9  4.0
+  3 Chaurasia, Vihaan      HMNGH65G  1091  1139/140  W4  W12 L2  W14 W13 4.0
+  4 Upasani, Neil          SSMEJ57C   752   955/ 49  L3  W34 W11 W20 W8  4.0
+  5 Hu, Yi-en Pi           BCADK35P  1161  1162/ 65  W21 D16 W17 W9  L1  3.5
+  6 Gupta, Vihaan          WOBF172N  1027  1046/ 20  W23 W13 L1  D18 W17 3.5
+  7 Lin, Luna              OPWCK01W   791   897/ 72  L1  W25 D29 W28 W16 3.5
+  8 Bell, Raimi            OBKGF77Y  1108  1082/ 46  W18 W11 L9  W16 L4  3.0
+  9 Pan, Peng-yu           SSMCK24P  1032  1048/ 88  W22 W14 W8  L5  L2  3.0
+ 10 Ge, Jeremy             SSMBJ88K   979   982/121  W25 L1  W15 L13 W18 3.0
+ 11 Yen, Apollo            REJGG78H   910   907/112  W26 L8  L4  W19 W23 3.0
+ 12 Shapiro, Maksim        LMAEK10R  1072  1024/ 63  W34 L3  L18 W24 W27 3.0
+ 13 Oh, Seojoon            SSMDJ70T   895   937/ 44  W32 L6  W22 W10 L3  3.0
+ 14 Puranik, Armin         SSMDJ56Z   894   893/ 39  W33 L9  W27 L3  W26 3.0
+ 15 Meka, Suhaas           REOFJ51J   822   870/ 47  L2  W31 L10 W32 W20 3.0
+ 16 Jiang, Kyle            MEDBK35B   994   974/ 91  W24 D5  W28 L8  L7  2.5
+ 17 Pan, Peng-chi          SSMCK24N   925   901/ 83  D30 W19 L5  W29 L6  2.5
+ 18 Lai, Austin            EVGCK94F   779   845/ 60  L8  W26 W12 D6  L10 2.5
+ 19 Mukherjee, Anjalika    UPAGJ94B   739   747/ 18  D28 L17 W33 L11 W29 2.5
+ 20 Thangakumar, Pranav    SSMFJ49C   959   912/ 34  W31 L2  W21 L4  L15 2.0
+ 21 Bangard, Dhruv         TBKBK65D   857   813/ 82  L5  W30 L20 L26 W28 2.0
+ 22 Xia, Jethro            BCSEK47R   730   729/ 77  L9  W32 L13 L27 W31 2.0
+ 23 Benita-nagdeep, KrishanRBRCK56N   728   697/ 48  L6  L27 W30 W33 L11 2.0
+ 24 Velichko, Ivan         ASAFK63Z   552   559/ 77  L16 L33 W34 L12 W32 2.0
+ 25 Dragusanu, Clara       SSMEH81S   517   526/ 24  L10 L7  L26 W30 W33 2.0
+ 26 Phaneesh, Saanvi       SSME983M   441   559/ 64  L11 L18 W25 W21 L14 2.0
+ 27 Bhatt, Rayaan          EPSFH76P   500   728/  5  L29 W23 L14 W22 L12 2.0
+ 28 Sreraman, Rahul        BCADJ42L   930   849/221  D19 W29 L16 L7  L21 1.5
+ 29 Sreeram, Aditya        CEIE340K   733   715/ 35  W27 L28 D7  L17 L19 1.5
+ 30 Pareek, Aarohi         SSMEJ55S   477   470/ 26  D17 L21 L23 L25 W34 1.5
+ 31 Peng, Eric             SSMFJ31E   495   478/ 39  L20 L15 L32 W34 L22 1.0
+ 32 Shah, Rachit           BNTDK44K   953   820/ 57  L13 L22 W31 L15 L24 1.0
+ 33 Hirani, Jia            EPSG905R   367   378/ 37  L14 W24 L19 L23 L25 1.0
+ 34 Singh, Sehaj           CDWGK16N   360   285/ 12  L12 L4  L24 L31 L30 0.0

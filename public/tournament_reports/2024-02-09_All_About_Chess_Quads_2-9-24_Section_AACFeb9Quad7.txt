@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sankapal, Pranav       SNECJ61E   454   598/ 15  W2  W4  W3  3.0
+  2 Yan, Alyan             NCSDJ63Q   488   507/ 15  L1  W3  W4  2.0
+  3 Chai, Chloe            NCSDJ59R   469   432/ 21  W4  L2  L1  1.0
+  4 Sathyamurthy, Shreyus  BLWBJ60Z   307   254/ 20  L3  L1  L2  0.0

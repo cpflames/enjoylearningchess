@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Shiankarev, Slava      KAMLJ77F  1261  1261/  6  W12 1.0
+  2 Li, Richard            JACLC87V  1252  1257/ 33  W13 1.0
+  3 Gupta, Shreyank        JACN309A  1231  1236/ 31  W14 1.0
+  4 Nguyenphuoc, Timon     KAMLD25H  1118  1144/ 29  W11 1.0
+  5 Guilliams, Avery       KAML231A  1016  1022/ 43  W15 1.0
+  6 Taylor, Ryder          KAMK385C   774   781/346  W16 1.0
+  7 Tsang, Ian             JACLK59F  1100  1350/  1  W17 1.0
+  8 Ho, Kevin              KAMKJ64E  1000  1300/  1  W18 1.0
+  9 Fojas, Caden           KAMLK59K  1400  1384/ 16  D10 0.5
+ 10 Britt, Liam            STNMA86S  1125  1144/ 34  D9  0.5
+ 11 Lyford, Nathan         STNL942Q  1106  1079/ 53  L4  0.0
+ 12 Kupchenko, Illia       STNJJ64B   900   864/  1  L1  0.0
+ 13 Echevarria, Alex       LWDMJ64A  1200   864/  1  L2  0.0
+ 14 Williams, Jack         LWDMJ63Y  1200   843/  1  L3  0.0
+ 15 Williams, Jakob        STNJJ63X   900   628/  1  L5  0.0
+ 16 Laplante, Audrey       STNJJ63W   900   397/  1  L6  0.0
+ 17 Labrecque, Wyatt       LWDMJ63U  1200   950/  1  L7  0.0
+ 18 Kaczkielo, Jakub       STNMJ63T  1200   900/  1  L8  0.0

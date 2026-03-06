@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sathyamurthy, Shreyus  BLWBJ60Z   251   381/ 14  W4  W3  W2  3.0
+  2 Chettiyarath, Vihaan   BLWCJ81Y   226   253/ 14  W3  W4  L1  2.0
+  3 Paidipathi, Kiaan      SHSBJ99C   100   102/ 48  L2  L1  W4  1.0
+  4 Krotenko, Maksim       CBRDJ84A   100   100/  6  L1  L2  L3  0.0

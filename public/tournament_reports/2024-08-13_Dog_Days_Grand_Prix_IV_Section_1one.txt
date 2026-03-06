@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Stroud, Jeb            FHVIK22V  1430  1502/154  W2  D5  W3  2.5
+  2 Scollon, Owen          FHVI734D  1768  1746/518  L1  W6  W4  2.0
+  3 Zhang, Owen            FHVI995H  1535  1512/307  W5  D4  L1  1.5
+  4 Hildenbrand, Blane     PSMI122V  1431  1435/356  W6  D3  L2  1.5
+  5 Kozaczuk, James        SHKI108A  1167  1181/218  L3  D1  WF  1.5
+  6 Luna, Max              FERKJ85Y  1101  1093/ 40  L4  L2  LF  0.0

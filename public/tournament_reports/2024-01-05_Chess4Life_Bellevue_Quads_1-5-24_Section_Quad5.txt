@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Paine, Clara           TLIFK01Z   255   417/ 12  W5  W2  W4  3.0
+  2 Tripathi, Naksh        BRHCJ98P   167   265/ 20  W3  L1  W5  2.0
+  3 Koster, John           SPTAJ88T   284   260/ 18  L2  D4  W6  1.5
+  4 Xu, Jacky Y            HSCAJ59K   100   251/  3  W6  D3  L1  1.5
+  5 Sairam, Advaith        RBRBK01Q   115   114/ 13  L1  W6  L2  1.0
+  6 Prasad, Romil          RSACJ59X   237   100/  6  L4  L5  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Qian, Daniel           PFCM7807  1953  1962/336  W4  W3  W2  3.0
+  2 Chen, William          INGH550N  1693  1703/197  W3  W4  L1  2.0
+  3 Pan, Peng-ruei         SSME759R  1558  1536/160  L2  L1  D4  0.5
+  4 Syal, Yash             CDIFC10R  1431  1428/165  L1  L2  D3  0.5

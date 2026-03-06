@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ma, Lewis              SOMC587M  1161  1175/ 91  W2  W3  W5  L4  BYE 4.0
+  2 Babbar, Riaan          ENDDJ98D  1126  1153/ 14  L1  BYE W3  W5  W4  4.0
+  3 Zhang, Kyrene          LKDFC84Y  1046  1046/183  W4  L1  L2  BYE W5  3.0
+  4 Lee, Justin            CNLH732V  1140  1115/ 75  L3  W5  BYE W1  L2  3.0
+  5 Suresh Balaji, Shri ThaSWRDK91T   607   595/ 69  BYE L4  L1  L2  L3  1.0

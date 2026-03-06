@@ -1,0 +1,51 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Berjis, Adrina         MEDE230U   792   933/114  W31 W6  W15 W5  W4  5.0
+  2 Reimer, Oliver         LKDFG59D   759   779/ 49  W21 W18 L5  W29 W9  4.0
+  3 Xia, Jethro            BCSEK47R   736   755/ 52  W32 W24 L4  W33 W11 4.0
+  4 Wu, Taylor             MEDFJ76J   640   774/ 10  W26 W7  W3  W14 L1  4.0
+  5 Upasani, Neil          SSMEJ57C   614   763/ 10  W48 W8  W2  L1  W17 4.0
+  6 Kukreja, Aarav         SOMF433H   553   653/ 46  W42 L1  W40 W22 W14 4.0
+  7 Thangakumar, Pranav    SSMFJ49C   426   575/  9  W37 L4  WF  W13 W16 4.0
+  8 Zhang, Vincent         MEDFJ44M   500   798/  5  W39 L5  W44 W28 W15 4.0
+  9 Guzman, Nate           TPSF939A   768   772/131  W45 W17 D11 W10 L2  3.5
+ 10 Zhu, Alex              LKDFJ55P   676   665/ 10  W47 D29 W28 L9  W24 3.5
+ 11 Pham, Weston           OPWE538U   670   704/ 30  W33 W25 D9  W12 L3  3.5
+ 12 Du, Charles            SOMEA15U   780   733/ 62  W30 W16 L14 L11 W33 3.0
+ 13 Williams, Kaan         MEDEK33X   770   692/ 14  L20 W26 W31 L7  WF  3.0
+ 14 Kalian, Illia          VIWFI13T   699   687/ 66  W46 W19 W12 L4  L6  3.0
+ 15 Chang, Lucas           CBRFK46F   660   669/ 21  W22 W34 L1  W32 L8  3.0
+ 16 Afshar, Ryan           MEDF939D   555   572/ 14  W27 L12 W21 W34 L7  3.0
+ 17 Zhang, Charles         MEDE120W   546   560/ 10  W35 L9  W46 W20 L5  3.0
+ 18 Friedman, Elliot       SCDE896K   538   509/ 32  W49 L2  L33 W43 W35 3.0
+ 19 Ewaldsson, Aida        MEDEG73P   446   452/ 35  W50 L14 L34 W46 W32 3.0
+ 20 Pradeep Kumar, Abhinav TBKFK47V   260   438/  9  W13 D38 D29 L17 W28 3.0
+ 21 Turner, Aubrie Lynn    CPRFB07F   249   329/ 23  L2  W49 L16 WF  W29 3.0
+ 22 Yan, Nathan            MEDFK32E   100   386/  8  L15 W44 W39 L6  W31 3.0
+ 23 Taylor, Aidan          MGVFJ44K   500   423/  3  L29 W47 HPB HPB W30 3.0
+ 24 Schechter, Elizabeth   MEDE373X   515   499/ 55  W36 L3  D43 W38 L10 2.5
+ 25 Zhou, Stella           MEDE422P   401   384/ 23  BYE L11 L32 D26 W43 2.5
+ 26 Fratangelo, Vincent    SFBFJ44H   500   435/  5  L4  L13 W49 D25 W42 2.5
+ 27 Lee, Aiden             TBKEJ44G   400   356/  5  L16 L30 D37 W48 W38 2.5
+ 28 Takala, Greysen        VIWFE55T   602   543/ 59  W41 W43 L10 L8  L20 2.0
+ 29 Das, Suveer            MEDF936V   400   416/ 15  W23 D10 D20 L2  L21 2.0
+ 30 Chen, Grace            MEDF841H   368   368/ 20  L12 W27 HPB HPB L23 2.0
+ 31 Mccorkindale, Anders   THOFJ48V   339   356/ 10  L1  W42 L13 W41 L22 2.0
+ 32 Chernenko, Boris       BRYEJ68Z   239   298/ 15  L3  W41 W25 L15 L19 2.0
+ 33 So, Jason              MEDEJ87M   100   293/ 10  L11 W37 W18 L3  L12 2.0
+ 34 Lawlor, Bruce          SYRFJ44D   500   531/  4  W44 L15 W19 L16 LF  2.0
+ 35 Gray, Macario          SYRFJ44C   500   273/  5  L17 L45 W47 W40 L18 2.0
+ 36 Lai, Mason             EPIFJ44B   500   187/  5  L24 L40 L42 W49 W46 2.0
+ 37 Coolbaugh, Kyler       SYRFJ44A   500   273/  5  L7  L33 D27 D42 W48 2.0
+ 38 Parker, Mason          CPRFH69X   444   373/ 30  L43 D20 W45 L24 L27 1.5
+ 39 Turner, Camden         CPREJ50V   396   311/ 23  L8  L48 L22 W50 D41 1.5
+ 40 Gupta, Pari            MEDE684L   261   252/ 46  U   W36 L6  L35 HPB 1.5
+ 41 Chen, Zachary          MEDEJ43Z   400   160/  5  L28 L32 W50 L31 D39 1.5
+ 42 Vig, Yuvraj            MEDEJ43Y   400   222/  5  L6  L31 W36 D37 L26 1.5
+ 43 Newman, Gabriella      MGVEJ43W   400   299/  5  W38 L28 D24 L18 L25 1.5
+ 44 Heart-myers, Sebastian VIWF537F   581   484/ 68  L34 L22 L8  HPB HPB 1.0
+ 45 Jade, Kevin            MEDFJ87N   368   353/ 13  L9  W35 L38 LF  U   1.0
+ 46 Richards, Bryan        CPRFK51N   236   195/ 15  L14 W50 L17 L19 L36 1.0
+ 47 Hedgecock, Gracie      HSCEJ62D   100   100/  9  L10 L23 L35 BYE L49 1.0
+ 48 Liang, Emma            MEDEJ43V   400   178/  4  L5  W39 LF  L27 L37 1.0
+ 49 Jackson, Joe           SYRFJ43T   500   100/  5  L18 L21 L26 L36 W47 1.0
+ 50 Rodriguez-ramirez, ElenHVBEJ43R   400   100/  4  L19 L46 L41 L39 BYE 1.0

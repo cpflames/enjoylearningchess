@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Battula, Keerthi Sri SiCMCF733D   331   520/ 12  W2  W3  W4  3.0
+  2 Deshmukh, Dhruv        ENDDH79Q   394   426/ 24  L1  W4  W3  2.0
+  3 Magnin, Hugo           FAPBH94D   388   357/ 14  W4  L1  L2  1.0
+  4 Goyal, Avyukt          CNHAJ65X   339   259/ 35  L3  L2  L1  0.0

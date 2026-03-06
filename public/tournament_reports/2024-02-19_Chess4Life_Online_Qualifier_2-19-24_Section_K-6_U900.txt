@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Acharya, Arnav         KMNG746Q   786   859/ 69  W14 W17 W16 W4  4.0
+  2 Devlin, Austin         OSEGK25F   805   815/ 69  W13 L4  W5  W16 3.0
+  3 Arvind, Neeti          SHSGG66L   601   659/ 33  L6  W11 W15 W10 3.0
+  4 Qureshi, Haroon        RBRDJ95Y   542   762/ 17  W7  W2  W10 L1  3.0
+  5 Kaushal, Ayaan         CAVE975V   770   773/ 23  W11 D6  L2  W9  2.5
+  6 Verma, Reyansh         RBREJ20M   400   739/  4  W3  D5  L9  W17 2.5
+  7 Sinha, Ishayu          CDWFJ24F   679   701/  7  L4  W13 D17 W8  2.5
+  8 Gupta, Krishna         CNCG802T   842   780/ 34  W17 L10 W12 L7  2.0
+  9 Bui, Edwin             SFREK90H   745   701/ 20  BYE L16 W6  L5  2.0
+ 10 Bhairav, Rachit        RCSCC41S   708   688/ 22  W15 W8  L4  L3  2.0
+ 11 Bawa, Neer             TLICE81P   340   425/ 20  L5  L3  W18 W12 2.0
+ 12 Davis, Nathan          GTMGJ66C   708   633/172  W16 D14 L8  L11 1.5
+ 13 Mehta, Anika           EBSFB71K   410   415/  6  L2  L7  W14 D15 1.5
+ 14 Chitlangia, Rishi      LAVEJ60G   361   347/ 18  L1  D12 L13 WF  1.5
+ 15 Lee, Julianus          CDWDK90C   100   224/  8  L10 W18 L3  D13 1.5
+ 16 Kasturiya, Saina       PLKGJ20J   600   540/  4  L12 W9  L1  L2  1.0
+ 17 Sampath, Rithvik       TBKG898E   466   463/ 11  L8  L1  D7  L6  0.5
+ 18 Prabhu, Anirudh        FRVFK62M   316   195/  6  U   L15 L11 LF  0.0

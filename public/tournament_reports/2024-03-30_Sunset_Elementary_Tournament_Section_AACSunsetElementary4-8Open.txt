@@ -1,0 +1,28 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chen, William          INGH550N  1609  1616/156  W11 W14 W10 W2  D3  4.5
+  2 Prashant, Niranjan     PFCG468K  1357  1384/169  W24 W15 W5  L1  W10 4.0
+  3 Pan, Peng-ruei         SSME759R  1479  1472/115  W18 L5  W8  W7  D1  3.5
+  4 Kwan-uchiyama, Avery   JINFH22T  1329  1315/ 96  W19 W6  L7  D5  W16 3.5
+  5 Wilcox, Daelen         MMII748C  1078  1216/ 70  W23 W3  L2  D4  W14 3.5
+  6 Kan, Kaleb             BLWFF53E  1071  1100/251  W26 L4  W21 D14 W15 3.5
+  7 Kakani, Nehanth        KMNI979H   987  1201/ 40  W9  W13 W4  L3  D8  3.5
+  8 Yuan, Chen             ETSCJ15Z  1279  1259/119  D16 W27 L3  W20 D7  3.0
+  9 Wang, Isaac            CLHEK00U  1214  1194/ 71  L7  W12 L11 W23 W20 3.0
+ 10 Nidamarthi, Nikhil     BLWE375J  1178  1203/200  W20 W22 L1  W11 L2  3.0
+ 11 Bikkula, Charan        BLMHJ23A  1095  1123/213  L1  W25 W9  L10 W21 3.0
+ 12 Keogh, Seiya           WOEFJ51N   941  1028/ 20  L13 L9  W24 W17 W19 3.0
+ 13 Mitra, Rahul           OPWIH53N  1160  1125/300  W12 L7  D23 L15 W22 2.5
+ 14 Dhameeja, Ved          GRREJ98F  1084  1080/ 96  W25 L1  W26 D6  L5  2.5
+ 15 Bansal, Aarini         SOMFK14R  1078  1076/183  W21 L2  D22 W13 L6  2.5
+ 16 Yang, Jimmy            BASEG45S  1005  1013/162  D8  L17 W27 W22 L4  2.5
+ 17 Wu, Jasper             IMSI3471  1107  1046/140  L22 W16 L20 L12 W23 2.0
+ 18 Huttelmaier, Alex      OMSH218R  1036  1001/179  L3  L23 L19 W24 W25 2.0
+ 19 Huang, Clora           SOMEK31H  1021   987/100  L4  L21 W18 W26 L12 2.0
+ 20 Juarez-caballero, CristSNIGD76Z   948   975/145  L10 W24 W17 L8  L9  2.0
+ 21 Sathyamurthy, Sreeshan EVJHJ24M   826   867/ 88  L15 W19 L6  W25 L11 2.0
+ 22 Narayan, Keshav        CMCFE45H   916   921/ 89  W17 L10 D15 L16 L13 1.5
+ 23 Du, Charles            SOMEA15U   901   916/ 85  L5  W18 D13 L9  L17 1.5
+ 24 Feng, Levi             SOMEJ59B  1021   949/ 23  L2  L20 L12 L18 W26 1.0
+ 25 Einarson, Aiden        SAKFD84D   907   832/129  L14 L11 BYE L21 L18 1.0
+ 26 Tian, Grace            CRIGE89L   665   637/176  L6  BYE L14 L19 L24 1.0
+ 27 Antezana Garvizu, ChrisSLBID91W   618   610/114  BYE L8  L16 U   U   1.0

@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Wang, Ted              STTEK13D  2130  2144/293  W6  W5  W2  W9  4.0
+  2 Kona, Vidip            RSAFI26J  2076  2075/339  W7  W8  L1  W5  3.0
+  3 Yondon, Odbayar        LMAFK97T  1812  1805/230  D4  D9  D7  W10 2.5
+  4 Bharathy Mohan, Aarav  FRWFC98B  1612  1657/345  D3  W10 D9  D7  2.5
+  5 Lin, Michael           BASEC97F  1765  1774/338  W11 L1  W8  L2  2.0
+  6 Cao, Max               JINFJ12C  1742  1731/ 16  L1  L7  BYE W11 2.0
+  7 Palathingal, Rafael    KKNE196R  1736  1748/148  L2  W6  D3  D4  2.0
+  8 Gadde, Arnav           ENSFJ39D  1602  1614/182  W10 L2  L5  BYE 2.0
+  9 Shankaranand, Deeksha  EBSFI74Y  1553  1570/280  BYE D3  D4  L1  2.0
+ 10 Saddi, Neevan Reddy    GRREH87M  1770  1720/237  L8  L4  W11 L3  1.0
+ 11 Chen, Andy             SOMDK05J  1574  1542/ 62  L5  BYE L10 L6  1.0

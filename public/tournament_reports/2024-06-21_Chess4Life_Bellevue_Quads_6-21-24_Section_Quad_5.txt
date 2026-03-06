@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Liao, Joe              MEDGE93Z   600   697/ 50  W2  W4  W3  3.0
+  2 Chen, Eason            SSMAJ59F   622   623/ 48  L1  W3  W4  2.0
+  3 Santhosh, Saanvi       AUDFJ20F   527   511/  8  W4  L2  L1  1.0
+  4 Li, Ethan              UNKAH68J   100   100/  3  L3  L1  L2  0.0

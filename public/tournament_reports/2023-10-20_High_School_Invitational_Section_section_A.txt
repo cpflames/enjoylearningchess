@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Coe, Michael           UHIMK70Q  1533  1561/ 27  W9  W3  W4  W6  4.0
+  2 Hart, Wyatt            RGRMJ89E  1200  1305/  4  L3  W9  W10 W7  3.0
+  3 Ambalavanan, Varun     LWCMK347  1396  1408/354  W2  L1  W6  D4  2.5
+  4 Sherbinin, Micheal     LWCJJ89D   900  1337/  4  W11 W7  L1  D3  2.5
+  5 Hillaire, Kellee       UHIKJ89C  1000   924/  4  L6  D8  W12 W10 2.5
+  6 Legard, Benjamin       LWCMK57Z  1205  1192/  8  W5  W10 L3  L1  2.0
+  7 Tsema, Mark            SHPJK57V  1047  1024/  8  W12 L4  W11 L2  2.0
+  8 Tommyhawk, Bob         RGRMK56Z   749   809/  8  L10 D5  D9  W11 2.0
+  9 Hartman, Joseph        CSNJK57L  1168  1075/  8  L1  L2  D8  W12 1.5
+ 10 Sheikh, Laura          HUTKC498   719   741/ 81  W8  L6  L2  L5  1.0
+ 11 Mendoza, Mathew        RGRMJ89A  1200   629/  4  L4  W12 L7  L8  1.0
+ 12 Trammell, Asher        INNKJ88Z  1000   315/  4  L7  L11 L5  L9  0.0

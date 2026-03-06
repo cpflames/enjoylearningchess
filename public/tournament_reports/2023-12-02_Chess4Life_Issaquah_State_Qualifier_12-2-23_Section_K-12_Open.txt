@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Greisen, Alfred        EALKK95M  1259  1333/ 33  W3  W7  W2  W4  W5  5.0
+  2 He, Oliver             ENDDK71V  1221  1221/269  W5  W4  L1  D3  W6  3.5
+  3 Holostov, Michael      PLKGJ94C  1006  1061/ 14  L1  W5  BYE D2  W7  3.5
+  4 Bhattacharjee, PratyushTIME602T  1065  1059/ 52  W6  L2  W7  L1  BYE 3.0
+  5 Lahiri, Priyadarshi    EVJH191Q   971   953/ 49  L2  L3  W6  BYE L1  2.0
+  6 Empil, Lander          BBTJJ82B   905   840/  7  L4  BYE L5  W7  L2  2.0
+  7 Shukla, Arjun          PFCHK46C   781   737/ 18  BYE L1  L4  L6  L3  1.0

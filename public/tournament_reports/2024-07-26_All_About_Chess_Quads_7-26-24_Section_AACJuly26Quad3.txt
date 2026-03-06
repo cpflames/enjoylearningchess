@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sarychev, Aleksei      GEKJJ98N   860   859/137  L2  W3  W4  2.0
+  2 Swain, Samarth         MMEBJ58S   631   738/118  W1  W4  L3  2.0
+  3 Kolter, Aidan          SNIEJ60J   762   763/ 21  D4  L1  W2  1.5
+  4 Jahani, Nikan          SNIFK89A   751   699/ 94  D3  L2  L1  0.5

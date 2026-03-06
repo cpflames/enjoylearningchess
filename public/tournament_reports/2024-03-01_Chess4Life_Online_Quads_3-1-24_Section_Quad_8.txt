@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Leon, Nikhil           HSCF587T   520   602/ 99  W4  W2  W3  3.0
+  2 Mishra, Angad          RKWEK70V   465   478/ 73  W3  L1  W4  2.0
+  3 Armitage-selig, PhoenixSUZAJ31Z   477   387/  7  L2  W4  L1  1.0
+  4 Adji, Amadeo           SJKBJ13X   100   100/  3  L1  L3  L2  0.0

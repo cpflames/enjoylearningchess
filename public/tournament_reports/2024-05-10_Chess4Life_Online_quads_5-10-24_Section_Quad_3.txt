@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bui, Edwin             FRVEK90H   914   950/ 55  W4  D3  W2  2.5
+  2 Friesen, Eli           LAVDK27G   880   896/ 39  W3  W4  L1  2.0
+  3 Leon, Nikhil           HSCF587T   785   802/114  L2  D1  W4  1.5
+  4 Yang, Michael          SOMFK00G   784   718/ 30  L1  L2  L3  0.0

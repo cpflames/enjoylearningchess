@@ -1,0 +1,81 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Evin, Terrick          EBSCC54L  1429  1449/147  W33 W22 W10 W6  W4  5.0
+  2 Das, Sambuddha Sekhar  ENDDK47S  1118  1149/ 80  W49 W23 W11 W7  W9  5.0
+  3 Wang, Hengsheen        EVGB704V  1095  1085/ 74  W68 D16 W39 W37 W15 4.5
+  4 Bandai, Yugo           MCEDA31C  1161  1163/ 75  W48 W38 W17 W8  L1  4.0
+  5 Pan, David             MEDC330Y   973   951/ 80  W67 W24 W19 L9  W22 4.0
+  6 Lin, Vivienne          CSIDK99D   903   920/ 32  W41 W26 W12 L1  W20 4.0
+  7 Jiang, Kyle            MEDBK35B   844   856/ 52  W51 W27 W20 L2  W19 4.0
+  8 Yao, Roger Yutang      THOBK88C   835   843/ 45  W53 W45 W30 L4  W23 4.0
+  9 Fang, Weiai            LAVD696W   795   855/187  W71 W29 W35 W5  L2  4.0
+ 10 Shagas, Joshua         DCTDK87R   697   717/ 37  W54 W31 L1  W46 W25 4.0
+ 11 Leneway, Owen          CSIDK91V   669   689/ 29  W79 W47 L2  W31 W26 4.0
+ 12 Xu, William            DCTDK93M   636   657/ 91  W75 W62 L6  W28 W24 4.0
+ 13 Berjis, Liana          MEDBB72R   416   486/ 76  L55 W57 W49 W32 W17 4.0
+ 14 Kelley, Simon          EVGDJ75T   100   355/  9  W66 L19 W41 W40 W37 4.0
+ 15 Jin, Yi                MEDCE79S   850   834/ 40  W50 W44 D37 W16 L3  3.5
+ 16 Hedstrom, Elliot       WEDCK92C   386   581/ 44  W63 D3  W18 L15 W38 3.5
+ 17 Xiao, Luke             EASDC79Q   710   677/ 29  W52 W28 L4  W44 L13 3.0
+ 18 Tsen, Eric             AGBDK18P   696   631/ 87  W80 L30 L16 W39 W43 3.0
+ 19 Yang, Jonathan         LKDBK55R   560   577/ 27  W58 W14 L5  W27 L7  3.0
+ 20 Jariwala, Vidur        THODK87P   552   566/ 20  W76 W55 L7  W30 L6  3.0
+ 21 Yu, Yanxi              MEDD577W   507   464/ 14  W61 L35 L33 W71 W48 3.0
+ 22 Lawardy, Clayton       DCTCK13P   487   587/ 19  W34 L1  W48 W35 L5  3.0
+ 23 Liu, Adam              EVGDK54W   428   508/ 20  W43 L2  W70 W34 L8  3.0
+ 24 Land, Kai              EVGDK54P   391   428/ 15  W78 L5  W54 W29 L12 3.0
+ 25 Tan, Mai               MEDCK93R   390   389/ 28  L62 W80 W67 W33 L10 3.0
+ 26 Shing, Lucas           HZFCJ74H   380   437/ 10  W64 L6  W53 W61 L11 3.0
+ 27 Sabharwal, Vihaan      DCTCK87T   284   341/ 33  W42 L7  W75 L19 W50 3.0
+ 28 Hanlon, Benjamin       LKDCK54U   281   334/ 33  W59 L17 W58 L12 W60 3.0
+ 29 Kullmann, Rex          HSCDZ89V   241   306/ 15  W77 L9  W65 L24 W54 3.0
+ 30 Nevraumont, Mara       SCDBK40M   231   386/ 15  W60 W18 L8  L20 W58 3.0
+ 31 Zhao, Kevin            EVGDK54M   229   321/ 15  W69 L10 W59 L11 W61 3.0
+ 32 Sharma, Samarth        EVGBJ75K   228   302/ 15  W70 L39 W36 L13 W59 3.0
+ 33 Alle, Vihaan Shaurya   MLEBJ72B   167   316/ 10  L1  W72 W21 L25 W46 3.0
+ 34 Pelto Anderson, Jack   BRYCJ68W   200   453/  5  L22 W50 W45 L23 W44 3.0
+ 35 Westerfield, Michael   EVGCJ68V   200   573/  5  W46 W21 L9  L22 W45 3.0
+ 36 Rogov, Richard         MEDCJ68U   200   382/  5  W40 L37 L32 W53 W47 3.0
+ 37 Kekre, Sohum           CSICK24M   533   531/ 24  W56 W36 D15 L3  L14 2.5
+ 38 Armstrong, Josephine   EVGBK86A   437   426/ 25  W74 L4  D62 W57 L16 2.5
+ 39 Stawitz, Bohdan        BRYBK92E   336   364/ 25  D57 W32 L3  L18 W62 2.5
+ 40 Luo, Sophie            LKDBK85X   294   282/ 20  L36 W71 D43 L14 W63 2.5
+ 41 Igini, Vaughn          FAPDJ75W   100   173/ 10  L6  D64 L14 W69 W66 2.5
+ 42 Bilanko, Beau          LKDCJ68T   200   191/  5  L27 L48 D52 W72 W65 2.5
+ 43 Davis, Ethan           WEDDJ68S   300   368/  5  L23 W52 D40 W62 L18 2.5
+ 44 Yang, Katharine        LKDBK86C   342   331/ 29  W72 L15 W73 L17 L34 2.0
+ 45 Li, Leo                MEDD545N   329   320/ 18  W73 L8  L34 W56 L35 2.0
+ 46 Luo, Vivian            LKDDK84U   305   299/ 20  L35 W74 W55 L10 L33 2.0
+ 47 Constantine, Aden      EVGBI17H   193   201/ 30  W65 L11 L61 W55 L36 2.0
+ 48 Yang, Andrew           NOWBK28U   159   231/ 10  L4  W42 L22 W75 L21 2.0
+ 49 Sharma, Sidarth        EVGBJ75G   141   218/ 14  L2  W79 L13 W73 U   2.0
+ 50 Kolsky, Ira            EVGCK53Y   100   161/ 10  L15 L34 W79 W64 L27 2.0
+ 51 Heart-myers, Alice     VIWCJ70F   100   111/ 10  L7  L75 W74 D65 D57 2.0
+ 52 Aguiluz, Mateo         BRYCJ68R   200   186/  5  L17 L43 D42 D76 W73 2.0
+ 53 Noebels, Keane         BRYCJ68N   200   253/  5  L8  W60 L26 L36 W75 2.0
+ 54 Dai, Pax               NOWBJ68M   100   230/  5  L10 W69 L24 W70 L29 2.0
+ 55 Klein, Michael         BRYDJ68K   300   244/  5  W13 L20 L46 L47 W70 2.0
+ 56 Goland, Leo            BRYDJ68J   300   159/  5  L37 L67 W76 L45 W71 2.0
+ 57 Bosse, Kepler          WEDBJ68H   100   213/  5  D39 L13 W64 L38 D51 2.0
+ 58 Dubois, Decklan        BRYDJ68E   300   221/  5  L19 W76 L28 W66 L30 2.0
+ 59 Drake, Matthew         BRYBJ68D   100   100/  4  L28 WF  L31 W74 L32 2.0
+ 60 Hoover, Miles          DCTCJ68C   200   156/  5  L30 L53 W69 W79 L28 2.0
+ 61 Redman, George         VIWDJ68B   300   223/  5  L21 W63 W47 L26 L31 2.0
+ 62 Cord, Nico             BRYDJ68A   300   275/  5  W25 L12 D38 L43 L39 1.5
+ 63 Evans, Henry           BRYCJ67Z   200   100/  5  L16 L61 D77 W68 L40 1.5
+ 64 Xenakis, Jude          BRYDJ67X   300   100/  5  L26 D41 L57 L50 W68 1.5
+ 65 Zulauf, Calder         BRYCJ67W   200   100/  5  L47 W68 L29 D51 L42 1.5
+ 66 Derleth, Ava           EVGB579V   130   100/ 24  L14 L73 W72 L58 L41 1.0
+ 67 Lakkaraju, Ari         EVGCK54F   103   150/  8  L5  W56 L25 LF  U   1.0
+ 68 Hanlon, Eleanor        LKDCK53X   100   100/ 20  L3  L65 BYE L63 L64 1.0
+ 69 Sullivan, Colin        BRYCJ67V   200   100/  5  L31 L54 L60 L41 W79 1.0
+ 70 Novitski-thomson, CordeBRYBJ67U   100   100/  5  L32 W77 L23 L54 L55 1.0
+ 71 Lagat, Lexine          LAUDJ67T   300   100/  5  L9  L40 W80 L21 L56 1.0
+ 72 May, Matthew           BRYBJ67S   100   100/  5  L44 L33 L66 L42 W76 1.0
+ 73 Bonnett, June          BRYCJ67R   200   100/  5  L45 W66 L44 L49 L52 1.0
+ 74 Wonderly, Hazel        BRYDJ67Q   300   100/  4  L38 L46 L51 L59 BYE 1.0
+ 75 Cohen, Sienna          BRYBJ67P   100   100/  5  L12 W51 L27 L48 L53 1.0
+ 76 Rao, Kiran             EVGBJ67N   100   100/  5  L20 L58 L56 D52 L72 0.5
+ 77 Parman, Leo            WEDDJ67L   300   100/  3  L29 L70 D63 U   U   0.5
+ 78 Gault, Benjamin        FAPBJ67J   100   100/  1  L24 LF  U   U   U   0.0
+ 79 Wonderly, Freddie      BRYBJ67H   100   100/  5  L11 L49 L50 L60 L69 0.0
+ 80 Agnos, Mabel           BRYBJ67F   100   100/  3  L18 L25 L71 U   U   0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jiang, Kyle            MEDBK35B  1054  1147/111  W2  W4  W3  3.0
+  2 Kumar, Rishuraj        PENFK45Y   968  1014/ 85  L1  W3  W4  2.0
+  3 Verma, Reyansh         RBREJ20M   992   972/ 39  W4  L2  L1  1.0
+  4 Du, Charles            SOMEA15U   989   919/110  L3  L1  L2  0.0

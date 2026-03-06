@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Muscutt, Abraham       HSCEJ71L   986   983/ 45  W4  W5  W3  D2  W6  4.5
+  2 Meka, Suhaas           REOFJ51J   850   822/ 42  W8  L3  W5  D1  W4  3.5
+  3 Small, Yuli            JHYEK39Q   497   521/ 25  W7  W2  L1  L4  W8  3.0
+  4 Goe-bright, Malachi    THOEJ15K   320   429/  9  L1  BYE W7  W3  L2  3.0
+  5 Turner, Camden         CPREJ50V   250   295/ 31  BYE L1  L2  W8  W7  3.0
+  6 Turner, Aubrie Lynn    CPRFB07F   348   374/ 31  U   U   W8  W7  L1  2.0
+  7 Goe-bright, Orion      THOEH80T   400   109/  5  L3  W8  L4  L6  L5  1.0
+  8 Budomo, Joshua         BKDFH80S   500   100/  5  L2  L7  L6  L5  L3  0.0

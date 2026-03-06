@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Willy, Stephen         HSCIH17K  2214  2219/573  W3  W5  W2  W6  4.0
+  2 Scollon, Owen          FHVI734D  1809  1830/487  W6  W7  L1  W5  3.0
+  3 Mishra, Abhinav        TMBIB02W  1720  1720/133  L1  W4  D7  BYE 2.5
+  4 Cheng, Selina          TLMG413R  1603  1594/529  L5  L3  BYE W7  2.0
+  5 Verma, Darsh           WONHB52K  1812  1792/213  W4  L1  D6  L2  1.5
+  6 Liu, Bichen            KKNHK00D  1539  1544/123  L2  BYE D5  L1  1.5
+  7 Frederick, Benjamin    EMSGS57X  1501  1492/256  BYE L2  D3  L4  1.5

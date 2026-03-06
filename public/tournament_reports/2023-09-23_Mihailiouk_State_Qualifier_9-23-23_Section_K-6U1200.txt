@@ -1,0 +1,41 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Anand, Lakshana        RSAFC68H  1063  1246/ 82  W22 W9  W5  W3  W4  5.0
+  2 Das, Sambuddha Sekhar  ENDDK47S  1039  1207/ 45  W12 W13 D6  W17 W7  4.5
+  3 Han, Victor            HSCFB39P  1142  1161/119  W26 W21 W8  L1  W14 4.0
+  4 Gao, Ziqian            MMEEK10U  1069  1173/ 10  W23 W27 W11 W6  L1  4.0
+  5 Yu, Michael            EVJGK95D   649   944/ 10  W19 W14 L1  W33 W12 4.0
+  6 Black, Stas            WPPF368F  1089  1105/101  W28 W35 D2  L4  W21 3.5
+  7 Ma, Ziliang            MERGA69N   969  1037/ 29  W37 W30 D17 W11 L2  3.5
+  8 Kulkarni, Anika        REEFK21E   941   983/109  W24 W39 L3  D9  W23 3.5
+  9 He, Jizhou             OPWC789B   849   980/ 44  W31 L1  W32 D8  W17 3.5
+ 10 Deng, Arthur           OPWCC90Y   901  1012/ 49  L11 D24 W34 W18 W19 3.5
+ 11 Zandanov, Leonid       WLBCK31Q  1196  1170/ 42  W10 W16 L4  L7  W24 3.0
+ 12 Ganesan, Vidur         RBRE940K  1087  1071/104  L2  W34 W25 W16 L5  3.0
+ 13 Xie, Isaac             THRDK25T  1028  1018/ 25  W36 L2  W27 L14 W28 3.0
+ 14 Zhang, Aaron           RSAEC74T   938   955/ 69  W29 L5  W28 W13 L3  3.0
+ 15 Pan, David             MEDC330Y   932   915/ 70  W38 L17 L23 W36 W32 3.0
+ 16 Zhang, Bowen           REEEK46L   924   951/ 26  W32 L11 W30 L12 W27 3.0
+ 17 Ghosh, Snehil          CBRE738T  1140  1098/ 73  W25 W15 D7  L2  L9  2.5
+ 18 Lan, Jonathan          MEDD968F  1102  1039/105  L35 W33 D21 L10 W30 2.5
+ 19 Sailer, Shaunak        OPWGC25Z   943   914/210  L5  W36 W35 D23 L10 2.5
+ 20 Deng, Alison           OMSGC56H   933   886/ 82  L30 W37 D22 L24 W34 2.5
+ 21 Zou, Jinhan            SSMDH14T   908   913/ 53  W40 L3  D18 W22 L6  2.5
+ 22 Thanikonda, Kruti      RCSDK84W   767   806/ 70  L1  W38 D20 L21 W33 2.5
+ 23 Raj, Skandha           EVGBK55U   795   846/ 57  L4  W31 W15 D19 L8  2.5
+ 24 Confer, Braden         HSCGK00V   953   965/ 10  L8  D10 W26 W20 L11 2.5
+ 25 Shapiro, Maksim        LMAEK10R   899   851/ 39  L17 W29 L12 L32 W39 2.0
+ 26 Deepak, Advait         BRHGD74M   894   847/ 50  L3  L32 L24 W38 W37 2.0
+ 27 Chen, Felix Y          DISDA67A   988   927/ 55  BYE L4  L13 W29 L16 2.0
+ 28 Huang, Clora           SOMEK31H   823   801/ 24  L6  W40 L14 W31 L13 2.0
+ 29 Berjis, Adrina         MEDE230U   582   603/ 69  L14 L25 W40 L27 W35 2.0
+ 30 Singhal, Aryash        SYCE595L   574   696/ 52  W20 L7  L16 W35 L18 2.0
+ 31 Yang, Michael          SOMFK00G   500   699/  5  L9  L23 W37 L28 W36 2.0
+ 32 Meenakshi Sundaram, AdhCDWFK00E   500   825/  5  L16 W26 L9  W25 L15 2.0
+ 33 Han, Spencer           HSCEK75L  1051   945/117  D34 L18 W39 L5  L22 1.5
+ 34 Fang, Weiai            THRD696W   810   781/163  D33 L12 L10 W39 L20 1.5
+ 35 Chen, Max Y            DISEK76L   815   753/ 56  W18 L6  L19 L30 L29 1.0
+ 36 Yen, Apollo            REJGG78H   710   658/ 67  L13 L19 W38 L15 L31 1.0
+ 37 Xia, Jethro            BCSEK47R   692   630/ 27  L7  L20 L31 W40 L26 1.0
+ 38 Hirani, Jia            CSMG905R   507   475/ 27  L15 L22 L36 L26 W40 1.0
+ 39 Shah, Aarush           LEOGK00C   600   388/  4  BYE L8  L33 L34 L25 1.0
+ 40 Zhigaloff, Nikita      SUBEK00B   400   100/  5  L21 L28 L29 L37 L38 0.0

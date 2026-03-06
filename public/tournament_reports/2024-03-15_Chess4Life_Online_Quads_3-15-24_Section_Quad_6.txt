@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chaporkar, Nihar       ENSDK65B   530   520/ 16  W4  W3  L2  2.0
+  2 Mehrotra, Ashank       PLKI457S   446   463/ 26  L3  W4  W1  2.0
+  3 Armitage-selig, PhoenixSUZAJ31Z   372   350/ 12  W2  L1  L4  1.0
+  4 Jayaraman, Smrithi     BAEHW998   256   274/  9  L1  L2  W3  1.0

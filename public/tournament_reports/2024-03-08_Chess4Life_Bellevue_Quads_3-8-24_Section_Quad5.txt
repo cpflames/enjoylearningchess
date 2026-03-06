@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Grimm, Gia             EHADJ55G   422   432/ 20  D3  W2  BYE 2.5
+  2 Revuru, Nimeesha       RCMEW81Y   141   237/  5  BYE L1  W3  2.0
+  3 Sairam, Advaith        RBRAK01Q   388   339/ 44  D1  BYE L2  1.5

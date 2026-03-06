@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kleweno, Parker        BNTFK02L   284   417/  6  W3  W4  W2  3.0
+  2 Wei, Brayden           ETSBK90F   329   262/ 27  L4  W3  L1  1.0
+  3 Paine, Clara           TLIFK01Z   100   113/  6  L1  L2  W4  1.0
+  4 Lee, Grayson           CNHBK02J   100   113/  6  W2  L1  L3  1.0

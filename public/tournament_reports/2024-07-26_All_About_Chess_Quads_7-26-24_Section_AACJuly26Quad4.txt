@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kang, Mason            SSMDJ29J   623   684/ 42  W3  W2  W4  3.0
+  2 Sathyamurthy, Shreyus  BLWBJ60Z   458   473/ 72  W4  L1  W5  2.0
+  3 Charles, Benjamin      SOMAJ06G   442   462/ 17  L1  W5  W6  2.0
+  4 Shin, Joshua           CRKBJ63R   222   247/ 69  L2  W6  L1  1.0
+  5 Paidapathi, Kiaan      SHSBJ99C   141   180/100  W6  L3  L2  1.0
+  6 Li, Ethan James        SOMBK00K   444   305/ 55  L5  L4  L3  0.0

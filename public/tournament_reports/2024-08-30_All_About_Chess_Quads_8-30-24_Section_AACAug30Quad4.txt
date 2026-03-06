@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Anyi               LKDCJ55F   919  1038/ 60  W2  W3  W4  3.0
+  2 Huang, Jaden           ENDCJ63S   879   923/ 97  L1  W4  W3  2.0
+  3 Elmieh, Niko           CRKE777E   898   876/ 67  W4  L1  L2  1.0
+  4 Sathyamurthy, Sreeshan EVJHJ24M   899   824/105  L3  L2  L1  0.0

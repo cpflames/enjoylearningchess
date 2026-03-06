@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nandakiran, Vidyuth    SSME617C   955  1068/ 83  W3  W2  D4  2.5
+  2 Sembium, Aditi         BCADK25W  1032  1057/258  W4  L1  W3  2.0
+  3 Huang, Clora           SOMEK31H  1099  1057/ 90  L1  W4  L2  1.0
+  4 Li, Harry              SSSEG30G   986   948/354  L2  L3  D1  0.5

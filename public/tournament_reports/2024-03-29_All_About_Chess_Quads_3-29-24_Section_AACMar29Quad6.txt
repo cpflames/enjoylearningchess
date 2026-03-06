@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bhasin, Palash         SNIFH95H   628   692/  6  L3  W4  W2  2.0
+  2 Sarychev, Aleksei      GEKJJ98N   626   646/ 89  W4  W3  L1  2.0
+  3 Abhilash, Lavina       CRIEK07R   518   595/ 91  W1  L2  W4  2.0
+  4 Pai, Samiksha          SSMDJ19X   519   452/ 29  L2  L1  L3  0.0

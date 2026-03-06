@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Woo, Nina              NCSEJ06R   630   706/ 13  W4  W2  W3  3.0
+  2 Huang, Jaden           ENDCJ63S   535   530/ 60  W5  L1  W6  2.0
+  3 Li, Ethan James        SOMBK00K   520   521/ 23  W6  W4  L1  2.0
+  4 Bolisetty, Varun       CBRCJ73Z   255   265/ 13  L1  L3  W5  1.0
+  5 Chang, Nathan          MMECK42T   240   180/ 19  L2  D6  L4  0.5
+  6 Bhandari, Aarav        CBRDJ06H   100   100/ 12  L3  D5  L2  0.5

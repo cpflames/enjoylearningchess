@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sathyamurthy, Shreyus  BLWBJ60Z   228   342/ 32  W4  D2  W3  2.5
+  2 Vatsan, Maitri         SSMBK00S   209   226/ 37  L3  D1  W4  1.5
+  3 Malhotra, Dilraj       MAHBK02Y   282   239/ 33  W2  L4  L1  1.0
+  4 Shin, Joshua           CRKBJ63R   243   214/ 29  L1  W3  L2  1.0

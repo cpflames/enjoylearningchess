@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Joshi, Vyom            LEOIH81X  1233  1257/207  W4  W3  W2  3.0
+  2 He, Oliver             ENDDK71V  1193  1178/234  W3  W4  L1  2.0
+  3 Bangard, Dhruv         TBKBK65D   728   740/ 35  L2  L1  W4  1.0
+  4 Esparza-chen, Lucien   WMNDJ98Z   674   592/  6  L1  L2  L3  0.0

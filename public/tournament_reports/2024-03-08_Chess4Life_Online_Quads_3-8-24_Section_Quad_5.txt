@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Menon, Ritwik          WLDG974D   588   582/ 32  W5  W4  L2  2.0
+  2 Chaporkar, Nihar       ENSDK65B   481   530/ 13  L4  W3  W1  2.0
+  3 Armitage-selig, PhoenixSUZAJ31Z   387   372/  9  BYE L2  W5  2.0
+  4 O'leary, Desmond       XXXGJ11S   600   559/  2  W2  L1  BYE 2.0
+  5 Dewitt, Benjamin       PKRDJ11R   300   100/  2  L1  BYE L3  1.0

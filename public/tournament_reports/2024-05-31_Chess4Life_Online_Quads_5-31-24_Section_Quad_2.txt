@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ganesan, Vidur         RBRE940K  1300  1302/210  L3  W4  W2  2.0
+  2 Joshi, Vyom            LEOIH81X  1325  1322/285  W4  W3  L1  2.0
+  3 Taylor, Ryder          KAMK385C   986  1114/381  W1  L2  W4  2.0
+  4 Kandar, Aarav          FISDK21U  1182  1120/106  L2  L1  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yin, Daniel            ISSM116Y   904   925/422  W3  W4  L2  2.0
+  2 Bui, Edwin             FRVEK90H   950   958/ 58  W4  L3  W1  2.0
+  3 Bangard, Dhruv         TBKBK65D   829   886/ 90  L1  W2  W4  2.0
+  4 Agrawal, Sakash        MEDEC98H   836   769/142  L2  L1  L3  0.0

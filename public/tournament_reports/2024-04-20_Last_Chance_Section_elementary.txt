@@ -1,0 +1,32 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Moss, Solomon          HSCGH79G   816   982/ 85  W20 W11 W9  W15 W3  5.0
+  2 Wang, Kelby            SKKD796Y   924   912/136  L11 W14 W12 W18 W9  4.0
+  3 Anderson, Christopher LHSCF712R   812   921/ 64  W13 W23 W6  W5  L1  4.0
+  4 Mcintyre, John         HSCFJ63F   787   864/ 30  W14 W25 W7  L6  W11 4.0
+  5 Samiev, Alexander      SSPGK22P   995   965/ 40  W30 D8  W17 L3  W15 3.5
+  6 Morton, Braylon        FLMGJ27F   970   959/ 18  W28 W10 L3  W4  D7  3.5
+  7 Bai, Kelin             SKKFD75J   956   934/212  W26 W19 L4  W16 D6  3.5
+  8 Scott, Liam            PSPEK50P   627   687/ 45  W29 D5  L15 W27 W17 3.5
+  9 Higgins, Peter         GONFJ57Y   686   713/ 25  W18 W22 L1  W23 L2  3.0
+ 10 Young, Daniel          TNTGJ96U   484   506/ 40  W24 L6  L23 W30 W21 3.0
+ 11 Brown, Claire          CATDJ62Y   453   634/ 25  W2  L1  W24 W19 L4  3.0
+ 12 Moss, Silas            HDPE843D   437   551/ 24  L15 W21 L2  W24 W23 3.0
+ 13 Centers, Lorenzo       ICPGY985   374   463/ 14  L3  L16 W31 W22 W26 3.0
+ 14 Laughlin, Selah        VLCAJ04G   368   507/ 14  L4  L2  BYE W25 W19 3.0
+ 15 Avey, Jesse            MDRGK50F   845   817/ 63  W12 D17 W8  L1  L5  2.5
+ 16 Autry-dalsanders, Reed COBFK48X   508   534/ 47  L23 W13 W22 L7  D18 2.5
+ 17 Eberlein, Joseph       ICPGY98J   506   558/ 10  W31 D15 L5  W26 L8  2.5
+ 18 Stark, Owen            RVBDH79D   300   573/  5  L9  W28 W27 L2  D16 2.5
+ 19 Rodwell, Oliver        MDRCJ27D   655   594/ 25  W21 L7  W29 L11 L14 2.0
+ 20 Hasbrouk, Ezra         FARGK22L   428   365/ 12  L1  L24 L21 BYE W29 2.0
+ 21 Stokes, Harrison       CEVGH79B   600   383/  5  L19 L12 W20 W29 L10 2.0
+ 22 Hanley, Joachim        HSCDH79A   300   407/  5  W27 L9  L16 L13 W28 2.0
+ 23 Willis, Zachary        ICPGY97U   600   566/  5  W16 L3  W10 L9  L12 2.0
+ 24 Mertens, Louis         ICPGY97S   600   398/  5  L10 W20 L11 L12 W30 2.0
+ 25 Yadav, Yuvaan          PVEEH78Z   400   442/  4  HPB L4  D26 L14 W27 2.0
+ 26 Laughlin, Canon        VLCEJ05P   466   424/ 15  L7  W30 D25 L17 L13 1.5
+ 27 Abernathy, Nathan      ICPGY98B   595   414/ 10  L22 W31 L18 L8  L25 1.0
+ 28 Spindler, Patrick      ICPGY98E   481   339/ 10  L6  L18 L30 W31 L22 1.0
+ 29 Lave', Sean            ICPGY98D   351   238/  9  L8  BYE L19 L21 L20 1.0
+ 30 Roegele, Arionah       HLHFH78Y   500   209/  5  L5  L26 W28 L10 L24 1.0
+ 31 Bacon, Imogen          LBYEH78X   400   100/  4  L17 L27 L13 L28 BYE 1.0

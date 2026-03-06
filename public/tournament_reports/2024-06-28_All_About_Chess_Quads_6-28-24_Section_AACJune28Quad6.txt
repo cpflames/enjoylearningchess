@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jahani, Nikan          SNIFK89A   760   784/ 85  W4  W3  D2  2.5
+  2 Wang, Jacob Z          BLWFE71A   737   739/127  D3  W4  D1  2.0
+  3 Swain, Samarth         MMEBJ58S   638   639/102  D2  L1  W4  1.5
+  4 Vatsan, Maitri         SSMBK00S   393   364/ 88  L1  L2  L3  0.0

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sharma, Saumya         ENSGK99H   256   438/ 28  W2  W3  W4  3.0
+  2 Leon, Vikram           EBSBH74X   100   342/  3  L1  W6  W5  2.0
+  3 Lai, Brycen            WLBDK02D   251   248/ 21  D4  L1  W6  1.5
+  4 Zuehlsdorff, Theo      ISEAH74V   100   252/  3  D3  W5  L1  1.5
+  5 Bach, Lan              MCIAH74U   100   100/  3  D6  L4  L2  0.5
+  6 Kocherlakota, Adithya  EBSBH74T   100   100/  3  D5  L2  L3  0.5

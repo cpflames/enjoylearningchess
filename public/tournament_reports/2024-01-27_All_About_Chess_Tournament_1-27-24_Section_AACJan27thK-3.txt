@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Dharamshi, Anay        CBRCK42U   592   821/ 15  W7  W4  W2  W3  W6  5.0
+  2 Ge, Jeremy             SSMBJ88K   861   838/ 57  W13 W9  L1  W11 W12 4.0
+  3 Krogstad, Jaxon        NCSCJ88M   590   620/ 27  W10 W6  W11 L1  W15 4.0
+  4 Skelton, Malcolm       SNECK41T   324   433/ 21  BYE L1  W15 W12 W8  4.0
+  5 Yan, Leo               SOMDK44P   575   519/ 15  W14 L11 W9  L6  W10 3.0
+  6 Bysani, Aakash         SSMBK01D   542   559/ 64  W8  L3  W7  W5  L1  3.0
+  7 Li, Ethan James        SOMBK00K   100   353/  8  L1  W10 L6  W13 W11 3.0
+  8 Fong, Mercer           SOMDK43T   232   284/ 10  L6  D13 W14 W9  L4  2.5
+  9 Menezes, Kian          CLHBJ97B   371   319/ 14  W15 L2  L5  L8  BYE 2.0
+ 10 Skelton, Conrad        SNEAJ81Z   293   257/ 15  L3  L7  BYE W15 L5  2.0
+ 11 Srikrishna, Srivishnu  SHSBJ61H   272   328/ 13  W12 W5  L3  L2  L7  2.0
+ 12 Hsu, Molly             SOMDK44U   435   293/  8  L11 D14 W13 L4  L2  1.5
+ 13 Malhotra, Dilraj       MAHBK02Y   343   282/ 30  L2  D8  L12 L7  W14 1.5
+ 14 Burks, Phillip         SNIDK43P   136   100/  9  L5  D12 L8  BYE L13 1.5
+ 15 Brakenridge, Ryan      SOMBK05L   100   100/ 20  L9  BYE L4  L10 L3  1.0

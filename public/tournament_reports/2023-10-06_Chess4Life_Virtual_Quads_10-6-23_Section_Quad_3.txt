@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 He, Raymond            HSCKK82K  1038  1053/ 75  W4  L2  W3  2.0
+  2 Garg, Vihaan           CMCDJ10X   898   980/178  L3  W1  W4  2.0
+  3 Sreraman, Rahul        BCADJ42L  1097  1048/153  W2  L4  L1  1.0
+  4 Acharya, Arnav         KMNG746Q   941   933/ 35  L1  W3  L2  1.0

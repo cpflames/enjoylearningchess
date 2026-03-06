@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sairam, Advaith        RBRBK01Q   359   368/ 29  W4  L3  W2  2.0
+  2 Grimm, Gia             EHADJ55G   331   355/  8  W3  W4  L1  2.0
+  3 Tripathi, Naksh        BRHCJ98P   298   330/ 34  L2  W1  W4  2.0
+  4 Bhat, Parth            MRLDJ46K   300   100/  3  L1  L2  L3  0.0

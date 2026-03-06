@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Shih, Bei              OVLF630G  1441  1433/234  L14 W22 W16 W10 W3  4.0
+  2 Wang, Derek            MEDFF70G  1345  1335/197  L6  W21 W18 W12 W10 4.0
+  3 Pai, Vihaan            CHAEK17C  1303  1329/216  W25 W17 W5  W9  L1  4.0
+  4 Wang, Eric             WPPF803M  1189  1245/122  HPB HPB W23 W20 W9  4.0
+  5 Zhang, Michael M       MEDF668Q  1088  1150/424  W21 W18 L3  W8  HPB 3.5
+  6 Latuskiewicz, Matthew  EPSFK21S   877  1098/ 30  W2  W16 L9  W25 D7  3.5
+  7 Ghosh, Snehil          CBRE738T  1415  1360/129  L17 W25 D14 W11 D6  3.0
+  8 Sriram, Aahan          BCAEC03K  1275  1231/ 63  L18 W24 W17 L5  W14 3.0
+  9 Kim, Dylan             SCDFK38L  1248  1232/181  W19 W23 W6  L3  L4  3.0
+ 10 Wang, Isaac            CLHEK00U  1192  1193/ 45  W24 W20 W12 L1  L2  3.0
+ 11 Raj, Skandha           EVGBK55U  1123  1117/ 91  L12 W13 W19 L7  W16 3.0
+ 12 Feng, Levi             SOMEJ59B   810  1021/ 18  W11 W14 L10 L2  W17 3.0
+ 13 Kumar, Rishuraj        PENFK45Y   804   856/ 38  L16 L11 BYE W23 W21 3.0
+ 14 Dong, Daniel           MEDE396A  1065  1099/ 44  W1  L12 D7  W18 L8  2.5
+ 15 Chen, Xinyu            SOMFD08V  1278  1196/ 66  L23 L19 W20 HPB HPB 2.0
+ 16 Huang, Clora           SOMEK31H  1069  1043/ 71  W13 L6  L1  W24 L11 2.0
+ 17 Bhambri, Vansh         KNDEJ57J  1036  1057/ 10  W7  L3  L8  W19 L12 2.0
+ 18 Law, Caleb             EASFJ87R   865   923/ 18  W8  L5  L2  L14 W24 2.0
+ 19 Hong, Jamie            MEDF577Q   833   855/ 48  L9  W15 L11 L17 WF  2.0
+ 20 Zhang, Andy            MEDF885X   782   874/ 43  W22 L10 L15 L4  W25 2.0
+ 21 Nagpal, Ronen          WMEEK13Q   805   779/ 38  L5  L2  D25 BYE L13 1.5
+ 22 Chen, Xinyan           SOMEI38B  1066   978/ 53  L20 L1  L24 HPB HPB 1.0
+ 23 Don, Benjamin          MEDF861Q   882   887/110  W15 L9  L4  L13 LF  1.0
+ 24 Agrawal, Sakash        MEDEC98H   816   812/131  L10 L8  W22 L16 L18 1.0
+ 25 Li, Hanson             MEDF507H   987   917/ 87  L3  L7  D21 L6  L20 0.5

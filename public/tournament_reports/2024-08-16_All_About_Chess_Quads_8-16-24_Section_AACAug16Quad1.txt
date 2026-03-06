@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Syal, Yash             CDIFC10R  1423  1437/171  W3  W2  W4  3.0
+  2 Upasani, Neil          SSMEJ57C  1067  1081/ 64  D4  L1  W3  1.5
+  3 Chai, Chloe            NCSDJ59R   897   924/ 99  L1  W4  L2  1.0
+  4 Nidamarthi, Nikhil     BLWE375J  1161  1107/226  D2  L3  L1  0.5

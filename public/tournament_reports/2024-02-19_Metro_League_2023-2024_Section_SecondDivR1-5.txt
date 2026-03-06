@@ -1,0 +1,46 @@
+pos last name first       id numb   start end/#gms  r1a r1b r2a r2b r3a r3b r4a r4b r5a r5b tot 
+  1 Yu, Edison             GARMK66J  1206  1208/ 30  U   U   L43 L43 W20 W20 L11 W11 W34 L34 4.0
+  2 Cole, Reece            GARK3567  1108  1089/153  W36 D36 W41 W41 W18 D18 L10 W10 W29 D29 7.5
+  3 Ameha, Abel            GARMJ16V  1033  1013/ 13  L37 W37 U   U   W22 W22 U   U   U   U   3.0
+  4 Pedapalli, Arnav       GARLJ77N  1307  1298/ 21  U   U   W42 W42 U   U   W15 W15 D33 L33 4.5
+  5 Jensen, Eli            GARLJ21G  1100   893/ 10  L38 W38 W20 W20 L37 W37 L13 W13 D31 W31 6.5
+  6 Harris, Gabe           GARMK67D   789   535/  4  L39 L39 U   U   U   U   U   U   U   U   0.0
+  7 Mckay, Gerard          GARJJ21F   900   100/  2  L40 L40 U   U   U   U   U   U   U   U   0.0
+  8 Ross, Julian           GARLH218  1117  1044/207  U   U   U   U   L36 L36 U   U   U   U   0.0
+  9 Huang, Jason           GARLK89Y  1010   989/ 23  U   U   U   U   U   U   U   U   L30 L30 0.0
+ 10 Healey, Liam           INMMK56A   853   894/ 28  W19 L19 W37 W37 W33 L33 W2  L2  L41 D41 5.5
+ 11 Kangas, Jonah          INMKJ21E  1000  1449/  8  W17 W17 W36 W36 W32 W32 W1  L1  U   U   7.0
+ 12 Bither, Benjamin       INMKK66V   854   810/  8  W20 L20 U   U   U   U   U   U   W40 W40 3.0
+ 13 Groebner, Teddy        INMKJ76X   745   838/ 13  W21 W21 L39 D39 U   U   W5  L5  W38 W38 5.5
+ 14 Goss, Henry            INMLJ21D  1100   904/  4  L22 L22 U   U   W34 D34 U   U   U   U   1.5
+ 15 Marczak, Avi           INMKJ21B  1000   974/  6  U   U   W38 L38 L27 W27 L4  L4  U   U   2.0
+ 16 Moynihan, Carter       INMKJ21A  1000   873/  2  U   U   U   U   U   U   W40 W40 U   U   2.0
+ 17 Beaulieu, Nolan        INMJD387   556   562/ 22  L11 L11 L28 L28 L35 W35 L44 L44 W42 W42 3.0
+ 18 Finn, Nathan           INMLJ76Z   624   694/  7  U   U   U   U   L2  D2  U   U   U   U   0.5
+ 19 Devich, Etta           INMMK66X   868   869/ 15  L10 W10 L27 L27 U   U   U   U   U   U   1.0
+ 20 Nessan, Simon          INMJ4001   448   601/ 15  L12 W12 L5  L5  L1  L1  D42 D42 W37 W37 4.0
+ 21 Konnick, Keirin        INMMJ20W  1200   442/  2  L13 L13 U   U   U   U   U   U   U   U   0.0
+ 22 De Botton, Javari      INMKJ20V  1000   774/  8  W14 W14 L31 L31 L3  L3  U   U   L36 L36 2.0
+ 23 Goss, Henry            INMKJ20T  1000  1272/  2  U   U   W30 L30 U   U   U   U   U   U   1.0
+ 24 Moynihan, Carter       INMKJ20S  1000   873/  2  U   U   W40 W40 U   U   U   U   U   U   2.0
+ 25 Montejano, Oliver      INMKJ20R  1000   440/  2  U   U   U   U   U   U   L45 W45 U   U   1.0
+ 26 Godfrey, Cole          INMKJ20P  1000   535/  2  U   U   U   U   U   U   U   U   L39 L39 0.0
+ 27 Schmidt-warnecke, Max  LSSL6188  1319  1307/184  U   U   W19 W19 W15 L15 W36 W36 U   U   5.0
+ 28 Walsh, Anjali          LSSLC095  1114  1118/359  U   U   W17 W17 U   U   U   U   U   U   2.0
+ 29 Miller, Chloe          LSSK2385   880   880/129  U   U   U   U   U   U   U   U   L2  D2  0.5
+ 30 Feng, William          LSSMJ20N  1200  1292/  6  U   U   L23 W23 U   U   W38 W38 W9  W9  5.0
+ 31 Zong, Zara             LSSMJ50K   907   919/ 12  U   U   W22 W22 U   U   L39 W39 D5  L5  3.5
+ 32 Dhillon, Rohan         LSSL6836  1342  1311/212  U   U   U   U   L11 L11 U   U   U   U   0.0
+ 33 Dong, Timothy          LSSJ929M  1314  1299/199  U   U   U   U   L10 W10 U   U   D4  W4  2.5
+ 34 Chen, Oliver           LSSL8031  1280  1224/274  U   U   U   U   L14 D14 W37 W37 L1  W1  3.5
+ 35 Zhao, Alex             LSSM5829   893   872/ 60  U   U   U   U   W17 L17 W41 W41 U   U   3.0
+ 36 Roberts, Noah          SPRK3819   883   981/ 30  L2  D2  L11 L11 W8  W8  L27 L27 W22 W22 4.5
+ 37 O'donnell, Henry       SPRKJ76V   946   783/ 15  W3  L3  L10 L10 W5  L5  L34 L34 L20 L20 2.0
+ 38 Reynolds, James        SPRJJ77H   768   750/ 14  W5  L5  L15 W15 L41 W41 L30 L30 L13 L13 3.0
+ 39 Koehler, Blake         SPRLJ76R   781   862/ 25  W6  W6  W13 D13 W42 W42 W31 L31 W26 W26 8.5
+ 40 Herb, Daniel           SPRJJ50J   468   445/ 18  W7  W7  L24 L24 U   U   L16 L16 L12 L12 2.0
+ 41 Lovejoy, Owen          SPRMJ50E   532   635/ 16  U   U   L2  L2  W38 L38 L35 L35 W10 D10 2.5
+ 42 Yohannes, Senay        SPRJJ50F   446   432/ 18  U   U   L4  L4  L39 L39 D20 D20 L17 L17 1.0
+ 43 Schmeichel, Trevor     GARL3868  1242  1287/161  U   U   W1  W1  U   U   U   U   U   U   2.0
+ 44 Loya, Henry            FRAL3183   400   538/  8  U   U   U   U   U   U   W17 W17 U   U   2.0
+ 45 Mathly, Jabril         FRALJ59S   400   400/ 11  U   U   U   U   U   U   W25 L25 U   U   1.0

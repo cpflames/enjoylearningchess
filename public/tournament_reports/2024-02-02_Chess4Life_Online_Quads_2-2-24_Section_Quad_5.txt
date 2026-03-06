@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Goel, Advit            CMCCG22F   921   959/ 71  W2  L4  W3  2.0
+  2 Singh, Atharva         SKIHK06G   916   956/ 23  L1  W3  W4  2.0
+  3 Garg, Vihaan           CMCDJ10X  1014   969/211  W4  L2  L1  1.0
+  4 Mcintyre, Isaac        ETSE466S   908   893/191  L3  W1  L2  1.0

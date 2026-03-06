@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, William          INGH550N  1655  1675/188  W3  W4  W2  3.0
+  2 Li, Austin A           PLKH438B  1553  1554/213  W4  W3  L1  2.0
+  3 Zhao, William          STTDH70M  1200  1225/143  L1  L2  W4  1.0
+  4 Xu, Zoe                SOMEG70A  1375  1325/354  L2  L1  L3  0.0

@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Jerry           HSCEJ11Q   400   997/  2  BYE W5  W2  3.0
+  2 Ewaldsson, Aida        MEDEG73P   528   602/ 43  W4  W6  L1  2.0
+  3 Swagath, Pranav        BCADK23N   413   439/ 26  L5  W7  W6  2.0
+  4 Berjis, Liana          MEDBB72R   412   438/ 99  L2  BYE W5  2.0
+  5 Schechter, Elizabeth   MEDE373X   507   490/ 63  W3  L1  L4  1.0
+  6 Ge, Emma               SSMBJ56J   601   526/ 22  W7  L2  L3  1.0
+  7 Swagath, Varun         BCAAJ11P   100   100/  2  L6  L3  BYE 1.0

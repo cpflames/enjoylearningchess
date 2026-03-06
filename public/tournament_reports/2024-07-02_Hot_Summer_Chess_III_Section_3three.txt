@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Aguila-contreras, EdgarHORHJ65J   730   864/ 47  W6  W4  W3  3.0
+  2 Buckham, George        SKYCK37E   671   715/ 57  W3  L5  W4  2.0
+  3 Manly, Shafter         CUEFA72M   791   749/ 65  L2  W6  L1  1.0
+  4 Verduin, Skyler        CUEFJ26K   779   740/ 29  W5  L1  L2  1.0
+  5 Cancelosi, Nicholas    VSTGM25W   626   610/ 71  L4  W2  L6  1.0
+  6 Russell, Emerson       BLEFK23A   597   600/ 76  L1  L3  W5  1.0

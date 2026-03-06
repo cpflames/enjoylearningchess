@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lakshminarayanan, KaavyOMSH210E  1064  1075/ 78  W5  W4  W3  3.0
+  2 Li, Chris              CNHCJ89W   292   311/ 51  W4  BYE L5  2.0
+  3 Agarwal, Ronyl         INGGH76G   600   790/  2  BYE W5  L1  2.0
+  4 Zeeshan, Hamza         CRKDJ15N   313   272/ 23  L2  L1  BYE 1.0
+  5 Yang, Justin           ENSFH76E   500   538/  3  L1  L3  W2  1.0

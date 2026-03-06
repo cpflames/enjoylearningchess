@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Lee, Justin            CNLH732V  1046  1118/ 94  W10 W2  D3  W4  W5  4.5
+  2 Kumar, Rishuraj        PENFK45Y   949  1027/ 63  W5  L1  W9  W3  W4  4.0
+  3 Zhang, Kevin           WOBF809Y  1214  1180/116  W7  W6  D1  L2  W8  3.5
+  4 Michiels, Peter        THOFB73Z   857   869/ 40  W9  W7  W6  L1  L2  3.0
+  5 Mulugeta, Imnet        DCCGH94N   541   699/ 10  L2  W8  W7  W6  L1  3.0
+  6 Meka, Suhaas           REOFJ51J   933   850/ 37  W8  L3  L4  L5  BYE 2.0
+  7 Aker, Pepper           THUF181G   685   643/100  L3  L4  L5  BYE W9  2.0
+  8 Stanley, Allison       MAGF872Q   233   225/101  L6  L5  BYE D9  L3  1.5
+  9 Pule, Kingston         MAGFJ15H   211   212/  9  L4  BYE L2  D8  L7  1.5
+ 10 Derleth, Sophia        EVGG326U   608   604/ 96  L1  U   U   U   U   0.0

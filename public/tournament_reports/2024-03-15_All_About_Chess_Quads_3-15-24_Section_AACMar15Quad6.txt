@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sarychev, Aleksei      GEKJJ98N   664   669/ 83  W5  W2  L4  2.0
+  2 Krogstad, Jaxon        NCSCJ88M   651   662/ 55  W3  L1  W5  2.0
+  3 Bysani, Aakash         SSMBK01D   584   589/107  L2  W4  BYE 2.0
+  4 Swain, Samarth         MMEBJ58S   536   555/ 42  BYE L3  W1  2.0
+  5 Lacroix, Charlie       PPPF767K   492   452/ 33  L1  BYE L2  1.0

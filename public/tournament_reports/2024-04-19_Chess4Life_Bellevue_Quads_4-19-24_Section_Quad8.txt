@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Almuayyad, Omar        RHJGJ59J   276   245/ 11  L3  W5  BYE 2.0
+  2 Zhang, Dustin          CCDBJ46J   171   166/ 15  L4  BYE W3  2.0
+  3 Niranjan, Tulsi        CRIFJ75F   100   160/ 11  W1  W4  L2  2.0
+  4 Lai, Brycen            WLBDK02D   135   137/ 12  W2  L3  D5  1.5
+  5 Prabhu, Anika          BCADH79S   300   100/  2  BYE L1  D4  1.5

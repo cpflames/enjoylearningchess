@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Satish, Sathvik        RHJIK18Y  1165  1274/  8  D2  W3  W4  2.5
+  2 Bhaskara, Yash         ICKJI539  1255  1267/300  D1  D4  W3  2.0
+  3 Gilani, Arsh           TMBIJ98T  1185  1169/ 26  W4  L1  L2  1.0
+  4 Kandar, Aarav          FISDK21U  1184  1145/ 85  L3  D2  L1  0.5

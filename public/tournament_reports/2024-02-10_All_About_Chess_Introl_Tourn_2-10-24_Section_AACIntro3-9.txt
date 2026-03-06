@@ -1,0 +1,22 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Sarychev, Aleksei      GEKJJ98N   544   642/ 68  W18 W9  W13 W6  4.0
+  2 Menezes, Ronit         CLHEK44M   735   718/ 36  W10 W8  L6  W11 3.0
+  3 Badi, Shreya           MTWEK52A   607   582/ 54  W15 W17 L7  W12 3.0
+  4 Brakenridge, Bryce     SOMFK89D   559   564/ 41  W19 L6  W10 W7  3.0
+  5 Phadnis, Neil          DISDK44Y   531   539/ 29  W11 L7  W18 W8  3.0
+  6 Sharma, Sristhi        ISMGJ88P   360   590/ 16  W14 W4  W2  L1  3.0
+  7 Rathinasabapathy, VarsiINGGJ60E   206   352/ 12  W20 W5  W3  L4  3.0
+  8 Yang, Maximilian       SOMF632J   526   504/ 43  W21 L2  W14 L5  2.0
+  9 Chitlangia, Rishi      LAVEJ60G   403   361/ 15  W16 L1  L12 W13 2.0
+ 10 Verma, Aditeya         BLWEJ58X   293   340/  8  L2  W19 L4  W18 2.0
+ 11 Fong, Kennen           SOMFK45J   220   304/ 13  L5  W16 W17 L2  2.0
+ 12 Kuramoto, Sho          SOMDJ58T   100   182/  7  L17 BYE W9  L3  2.0
+ 13 Burks, Oliver          SNIFK45G   100   120/ 12  BYE W20 L1  L9  2.0
+ 14 Gupta, Neil            CHAEJ27Y   400   423/  4  L6  W15 L8  W17 2.0
+ 15 Fong, Mercer           SOMDK43T   284   252/ 14  L3  L14 W21 D20 1.5
+ 16 Li, Flora              SSMFJ27X   500   126/  4  L9  L11 D20 W19 1.5
+ 17 Chai, Chloe            NCSDJ59R   432   352/ 25  W12 L3  L11 L14 1.0
+ 18 Badi, Sanvi            MTWE151Y   234   215/ 43  L1  W21 L5  L10 1.0
+ 19 Burks, Phillip         SNIDK43P   100   100/ 12  L4  L10 BYE L16 1.0
+ 20 Juneja, Anhad          CBRFJ27W   500   100/  4  L7  L13 D16 D15 1.0
+ 21 Ravva, Shourya         SSMDJ27U   300   100/  3  L8  L18 L15 BYE 1.0

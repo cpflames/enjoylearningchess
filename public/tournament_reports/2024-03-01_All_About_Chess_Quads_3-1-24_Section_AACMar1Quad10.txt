@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Swain, Samarth         MMEBJ58S   330   378/ 28  W2  W3  D4  2.5
+  2 Pai, Samiksha          SSMDJ19X   182   246/ 10  L1  W4  W3  2.0
+  3 Malhotra, Dilraj       MAHBK02Y   220   200/ 39  W4  L1  L2  1.0
+  4 Vatsan, Maitri         SSMBK00S   285   210/ 43  L3  L2  D1  0.5

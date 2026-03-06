@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Krishnakumar, Vishresh EALKJ46M  1369  1382/ 40  W10 W3  D2  W9  W4  4.5
+  2 Chevuri, Tattva        REJGC06V  1200  1318/362  W5  W4  D1  W8  W6  4.5
+  3 Khandhedia, Dhruvin NirCNCE257G   988  1025/ 43  W12 L1  W7  L4  W9  3.0
+  4 Vinoth Kumar, Yuvan AdaEVJIH88U   908  1128/  8  W6  L2  W9  W3  L1  3.0
+  5 Bui, Edwin             SFREK90H   818   963/ 41  L2  W6  L11 W7  W8  3.0
+  6 Siripurapu, Pranal     EALLH88T  1704  1382/ 11  L4  L5  W12 W10 L2  2.0
+  7 Sreraman, Rohit        BCADG92Q  1168  1071/233  L9  W11 L3  L5  W12 2.0
+  8 Sreraman, Rahul        BCADJ42L   965   930/216  W11 L9  W10 L2  L5  2.0
+  9 Chu, Skylar            SOMC579R   774   867/ 33  W7  W8  L4  L1  L3  2.0
+ 10 Goel, Advit            CMCCG22F   864   843/ 94  L1  W12 L8  L6  D11 1.5
+ 11 Chan, Dylan            PKRGK26X   713   723/ 25  L8  L7  W5  L12 D10 1.5
+ 12 Sreeram, Aditya        CEIE340K   746   733/ 30  L3  L10 L6  W11 L7  1.0

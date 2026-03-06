@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xin, Eric              PROF922V   815   949/ 29  W4  W3  W2  3.0
+  2 Sunil, Avyukth         JWEHN88H   816   849/ 27  W3  W4  L1  2.0
+  3 Friesen, Eli           LAVDK27G   806   785/ 51  L2  L1  W4  1.0
+  4 Menon, Riaan           EBSCH83A   808   731/ 26  L1  L2  L3  0.0

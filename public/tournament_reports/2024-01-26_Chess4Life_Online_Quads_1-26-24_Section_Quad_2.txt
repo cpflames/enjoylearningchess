@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wakeman, Oliver        INLKG10Y  1242  1347/119  W3  W4  D2  2.5
+  2 Patel, Aarya           REEFK30E  1409  1414/110  W4  D3  D1  2.0
+  3 Singh, Rushil          SNEGB52N  1375  1367/128  L1  D2  W4  1.5
+  4 Maharaja, Imai         HMNDK34K  1288  1235/140  L2  L1  L3  0.0

@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Rachiba, Alisa         EVPDK08E   938  1249/ 47  W9  W4  W8  W3  D2  4.5
+  2 Kakkad, Vayu           DCTDK50L  1288  1290/490  W10 W7  D3  D4  D1  3.5
+  3 Yun, Daniel D          LAVCK87Z  1237  1241/292  W11 W13 D2  L1  W7  3.5
+  4 Li, Edgar              WOBD883Y  1214  1224/182  W12 L1  W13 D2  W8  3.5
+  5 Zhao, William          STTDH70M  1122  1089/ 86  L13 W11 L7  W12 W14 3.0
+  6 Sembium, Aditi         BCADK25W  1063  1048/227  L14 W12 W15 L8  W9  3.0
+  7 Zhang, Bowen           REEDK46L  1001  1032/ 36  W15 L2  W5  W14 L3  3.0
+  8 Raj, Skandha           EVGBK55U  1043  1058/ 76  HPB W14 L1  W6  L4  2.5
+  9 Das, Sambuddha Sekhar  ENDDK47S  1243  1163/ 70  L1  W10 L14 W13 L6  2.0
+ 10 Karthik, Sai           BCAD261S   963   917/103  L2  L9  L11 BYE W15 2.0
+ 11 Wang, Evan             FRWD929Z   935   915/105  L3  L5  W10 W15 L12 2.0
+ 12 Wang, Wenyou           MEDDK93J   932   915/ 34  L4  L6  BYE L5  W11 2.0
+ 13 Gutta, Anirudh         MISDZ87Z   887   909/  4  W5  L3  L4  L9  BYE 2.0
+ 14 Xu, Natalie            CNHC137A   784   877/ 73  W6  L8  W9  L7  L5  2.0
+ 15 Le, An                 MHEDJ73S   300   518/  4  L7  BYE L6  L11 L10 1.0

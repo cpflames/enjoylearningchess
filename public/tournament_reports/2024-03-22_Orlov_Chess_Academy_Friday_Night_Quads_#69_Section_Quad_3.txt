@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zeeshan, Hamza         CRKDJ15N   383   423/  9  W4  W3  L2  2.0
+  2 Heydarova, Aliya       BLWEH95D   400   485/  3  L3  W4  W1  2.0
+  3 Li, Ryder              MEDAJ66R   347   328/ 33  W2  L1  L4  1.0
+  4 Li, Chris              CNHCJ89W   318   309/ 43  L1  L2  W3  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kuppa, Karthikeya      HSCEH64A   400   938/  3  W2  W4  W3  3.0
+  2 Yoon, Spencer          HSCHH63Z   700   590/  3  L1  W3  W4  2.0
+  3 Saravanan, Aapti       FRWEH65A   138   183/  9  W4  L2  L1  1.0
+  4 Yadavilli, Arush       HSCIH63Y   800   100/  3  L3  L1  L2  0.0

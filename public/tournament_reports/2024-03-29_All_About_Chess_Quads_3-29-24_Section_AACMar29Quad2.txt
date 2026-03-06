@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chulki, Aayush         BLMIJ17Y  1116  1168/136  L4  W2  W3  2.0
+  2 Burtram, Dayton        BLMIG77M  1207  1199/259  D3  L1  W4  1.5
+  3 Li, Harry              SSSEG30G  1158  1163/363  D2  W4  L1  1.5
+  4 Nidamarthi, Nikhil     RSAE375J  1210  1178/195  W1  L3  L2  1.0

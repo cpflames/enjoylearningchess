@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Roesch, Carson         BLHL120K  1771  1787/249  W6  W2  W4  3.0
+  2 Kuzin, Ethan           SHML7567  1407  1468/308  W7  L1  W5  2.0
+  3 Lee, Jae-yoon          SHMLC734  1576  1576/106  L5  W6  W7  2.0
+  4 Frost, Ignatius        SHMKJ64P  1578  1565/ 91  D8  W5  L1  1.5
+  5 Zhang, Owen            FHVI995H  1304  1321/224  W3  L4  L2  1.0
+  6 Stroud, Jeb            HSCIK22V  1426  1425/ 50  L1  L3  W8  1.0
+  7 Scollon, Owen          FHVI734D  1634  1592/444  L2  W8  L3  1.0
+  8 Lewis, Theo            FERMK29P  1351  1336/ 85  D4  L7  L6  0.5

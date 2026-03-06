@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Palathingal, Rafael    KKNE196R  1546  1575/112  W3  W4  W2  3.0
+  2 Patel, Aarya           REEFK30E  1386  1409/107  W4  W3  L1  2.0
+  3 Maharaja, Imai         HMNDK34K  1285  1288/137  L1  L2  W4  1.0
+  4 He, Oliver             ENDDK71V  1384  1325/290  L2  L1  L3  0.0

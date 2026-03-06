@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tin, Isaac             SQUKK99V   646   714/ 17  W2  W3  LF  2.0
+  2 Peper, James           BLHLB93F   633   632/ 32  L1  W4  LF  1.0
+  3 Peterson, Caden        BHMKJ85V   641   639/ 17  W4  L1  LF  1.0
+  4 Becker, Griffin        SHMJJ59Z   647   545/  8  L3  L2  LF  0.0

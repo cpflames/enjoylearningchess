@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bhaskara, Yash         ICKJI539  1333  1405/322  W2  W4  D3  2.5
+  2 Chevuri, Tattva        CBRGC06V  1342  1370/378  L1  W3  W4  2.0
+  3 Ganesan, Vidur         RBRE940K  1321  1333/204  W4  L2  D1  1.5
+  4 Siripurapu, Pranal     EALLH88T  1447  1370/ 20  L3  L1  L2  0.0

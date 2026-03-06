@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yang, Nicholas         CHRDG23U   874   932/ 67  W4  W3  W2  3.0
+  2 Xu, Ethan              BENEK98S   740   765/ 78  W3  W4  L1  2.0
+  3 Jang, Jinwon           VIEG561P   797   751/ 71  L2  L1  W4  1.0
+  4 Swagath, Pranav        BCADK23N   436   413/ 23  L1  L2  L3  0.0

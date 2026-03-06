@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Evan             TRHDJ78X   803   936/ 36  W2  W3  W4  3.0
+  2 Hemperly, Harper       HSCEI09E   777   822/ 69  L1  W4  W3  2.0
+  3 Talbot, Byran          ADUNH80D  1300   723/  3  W4  L1  L2  1.0
+  4 Schutz, Henry          KCCFJ80M   872   775/ 35  L3  L2  L1  0.0

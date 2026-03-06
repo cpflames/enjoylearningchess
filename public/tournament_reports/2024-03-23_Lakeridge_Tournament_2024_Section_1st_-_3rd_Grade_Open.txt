@@ -1,0 +1,25 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zhang, Harvey          CHRD515V  1119  1172/ 60  W16 W14 D3  W13 W2  4.5
+  2 Sabarish, Ananya       BCADG02Z   996  1096/156  W9  W5  W11 W4  L1  4.0
+  3 Kullmann, Rex          HSSDZ89V   813  1036/ 50  W21 W8  D1  W6  D5  4.0
+  4 Shah, Rachit           BNTDK44K   811   953/ 52  WF  W20 W15 L2  W8  4.0
+  5 He, Jizhou             OPWC789B   893   985/ 76  W24 L2  W12 W11 D3  3.5
+  6 Wu, Jayden             UCDC495Q   998   998/ 85  HPB W23 D10 L3  W14 3.0
+  7 Su, Oliver             JINDD01U   984   965/120  L10 W17 L14 W19 W18 3.0
+  8 Lew, Abigail           OPWD645P   909   926/129  W19 L3  W16 W18 L4  3.0
+  9 Frenk, Rafael          CSIBJ75L   846   888/ 15  L2  W19 L13 W21 W16 3.0
+ 10 Bravenboer, Jake       OPWDJ97Y   841   925/ 64  W7  D15 D6  D14 D13 3.0
+ 11 Fan, Theodore          EASBK42S   819   928/ 52  W13 W12 L2  L5  W15 3.0
+ 12 Li, Anyi               LKDCJ55F   965   937/ 35  W17 L11 L5  D15 W21 2.5
+ 13 Chen, Julian           CNHBK32C   928   926/ 50  L11 W22 W9  L1  D10 2.5
+ 14 Jiang, Kyle            MEDBK35B   903   917/ 77  W22 L1  W7  D10 L6  2.5
+ 15 Ivanov, Matvei         EABCK34E   940   909/ 40  W18 D10 L4  D12 L11 2.0
+ 16 Tsay, Elon             NOWDK07B   849   832/ 55  L1  W24 L8  W17 L9  2.0
+ 17 Shang, Maxwell         MEDD292N   837   807/ 39  L12 L7  W22 L16 W23 2.0
+ 18 Dharamshi, Anay        CBRCK42U   880   828/ 52  L15 WF  W20 L8  L7  2.0
+ 19 Rogov, Richard         MEDCJ68U   735   737/ 44  L8  L9  W24 L7  W22 2.0
+ 20 Zhang, Ethan           BUSCI73C   897   805/ 33  D23 L4  L18 L22 W24 1.5
+ 21 Qin, Skyler            OPWAJ97T   923   862/ 69  L3  LF  W23 L9  L12 1.0
+ 22 Xiong, Micah           SCDDK39Y   733   690/ 35  L14 L13 L17 W20 L19 1.0
+ 23 Reddy, Aarav           CRIDJ83W   715   669/ 18  D20 L6  L21 D24 L17 1.0
+ 24 Yang, Andrew           CNHC575T   708   633/ 43  L5  L16 L19 D23 L20 0.5

@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Savitala, Jayanth      REDJJ90C   412   541/  5  W2  U   W3  2.0
+  2 Shao, Lang             SOMBK14U   311   337/ 26  L1  W3  U   1.0
+  3 Xie, Elon              CNHDK17N   422   350/ 19  U   L2  L1  0.0

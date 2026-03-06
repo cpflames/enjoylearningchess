@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Singh, Jagteshwar      MRDMJ25M   899   929/ 48  W3  D2  LF  1.5
+  2 Singh, Arshaan         FERJK22R   893   893/ 48  D4  D1  LF  1.0
+  3 Aujla, Sihaan          BLHL413P   891   892/ 34  L1  W4  LF  1.0
+  4 Moors, Samuel          BLHJH93D   894   863/ 87  D2  L3  LF  0.5

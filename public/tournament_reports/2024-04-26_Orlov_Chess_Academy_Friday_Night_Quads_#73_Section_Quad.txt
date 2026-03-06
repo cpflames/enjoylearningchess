@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Olson, Travis          ADUN8893  1864  1864/152  W4  W3  W2  3.0
+  2 Hu, Kieran             GISDJ14Z   605   648/ 11  W3  W4  L1  2.0
+  3 Sarkar, Hridik         FRVEK04W   542   533/ 44  L2  L1  W4  1.0
+  4 Zeeshan, Hamza         CRKDJ15N   341   313/ 21  L1  L2  L3  0.0

@@ -1,0 +1,25 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 r10 tot 
+  1 Davis, Caian           FRALK67M  1367  1399/ 26  W24 W24 L3  D3  W13 W13 W10 W10 D2  D2  7.5
+  2 Laporte, Andy          SPRKK67S  1245  1415/ 22  W8  W8  D13 W13 W12 W12 D3  D3  D1  D1  7.5
+  3 Heo, Nash              TJHLJ88F  1228  1381/ 37  W16 W16 W1  D1  W14 W14 D2  D2  D4  D4  7.5
+  4 Deng, Austin           NPRKJ89K  1397  1376/ 15  D10 D10 D18 D18 W21 W21 D12 W12 D3  D3  6.5
+  5 Pedapalli, Arnav       GARLJ77N  1300  1307/ 15  D7  D7  D21 D21 D18 D18 W14 W14 W12 D12 6.5
+  6 Wang, Raymond          FRALK66P  1717  1586/ 21  D9  W9  D14 D14 L10 D10 D8  D8  W18 W18 6.0
+  7 Mullen, Hana           SMZKK81C  1099  1204/ 31  D5  D5  D22 D22 W15 D15 D18 W18 D9  D9  6.0
+  8 Maxwell, Cory          ABMM883A  1052  1167/ 32  L2  L2  W19 W19 D22 D22 D6  D6  W17 W17 6.0
+  9 Ta, Louis              SPRM291U  1183  1213/ 34  D6  L6  D16 D16 D20 D20 W15 W15 D7  D7  5.5
+ 10 Odegard, Owen          SPRMK40J  1157  1298/ 32  D4  D4  W20 W20 W6  D6  L1  L1  D13 D13 5.5
+ 11 Larios, Juan           NKPMK56C   707   946/ 25  L13 L13 D17 D17 D19 D19 W24 D24 W21 W21 5.5
+ 12 Greisen, Alfred        EALKK95M  1346  1302/ 48  W17 W17 W15 W15 L2  L2  D4  L4  L5  D5  5.0
+ 13 Mayans, Alexander      ABMMC67U  1195  1213/ 33  W11 W11 D2  L2  L1  L1  W22 D22 D10 D10 5.0
+ 14 Yu, Edison             GARMK66J  1185  1204/ 21  W19 W19 D6  D6  L3  L3  L5  L5  W22 W22 5.0
+ 15 Herrera, Brian         NKPMJ93K  1209  1134/ 20  W23 W23 L12 L12 L7  D7  L9  L9  W24 W24 4.5
+ 16 Rodriguez, Alec        NKPLJ93J   819   915/ 20  L3  L3  D9  D9  D24 D24 D21 L21 W23 W23 4.5
+ 17 Deng, Lucas            SCHL172H  1110  1070/ 85  L12 L12 D11 D11 D23 W23 W20 D20 L8  L8  4.0
+ 18 Roesler, Evan          NKPLJ93H   989  1125/ 20  W22 D22 D4  D4  D5  D5  D7  L7  L6  L6  4.0
+ 19 Hickner, Saulomon      NKPMK56B   661   844/ 25  L14 L14 L8  L8  D11 D11 W23 W23 D20 D20 4.0
+ 20 Wakeman, Oliver        INLKG10Y  1383  1242/116  D21 D21 L10 L10 D9  D9  L17 D17 D19 D19 3.5
+ 21 Britt, Liam            STNMA86S  1144  1097/ 44  D20 D20 D5  D5  L4  L4  D16 W16 L11 L11 3.5
+ 22 Sundar, Jeraldin       BUSJK01C  1232  1140/ 25  L18 D18 D7  D7  D8  D8  L13 D13 L14 L14 3.0
+ 23 Romero, Daniel         HVAJJ50Q   900   757/ 10  L15 L15 W24 W24 D17 L17 L19 L19 L16 L16 2.5
+ 24 Desai, Kenji           NKPMJ77G  1112   867/ 15  L1  L1  L23 L23 D16 D16 L11 D11 L15 L15 1.5

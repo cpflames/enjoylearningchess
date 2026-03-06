@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Huang, Ryan            CNHAJ56H   481   611/ 21  W4  W3  W2  3.0
+  2 Bose, Suhan            BRHCH65Z   461   490/ 12  W3  W4  L1  2.0
+  3 Sood, Ayansh           BCADH76H   456   425/ 28  L2  L1  W4  1.0
+  4 Nakamoto, Luca         SCDBH74H   442   282/  6  L1  L2  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Deshmukh, Dhruv        ENDDH79Q   627   725/ 39  W4  W2  D3  2.5
+  2 Khandelwal, Anay       CHRGA10L   641   678/ 41  W3  L1  W4  2.0
+  3 Margo, Joshua          CHRCH72W   633   654/  6  L2  W4  D1  1.5
+  4 Abbott, Elliott        WOBFF07R   650   563/ 44  L1  L3  L2  0.0

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Krishnan, Raj          BCADJ49N   300   626/  3  W5  W6  W2  3.0
+  2 Xu, Jacky Y            SOMAJ59K   128   227/  9  W6  W4  L1  2.0
+  3 Shah, Mahi             ETSBK62H   100   178/  7  L4  W5  W6  2.0
+  4 Singh, Vivaan          SSMFJ49M   500   304/  3  W3  L2  W5  2.0
+  5 Sankar, Laya           RLEBK11E   100   100/  9  L1  L3  L4  0.0
+  6 Wu, Hao-en             CMCEJ96P   100   100/  7  L2  L1  L3  0.0

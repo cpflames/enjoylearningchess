@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Harry              SSSEG30G  1113  1109/369  W4  W3  L2  2.0
+  2 Pan, Peng-yu           SSMCK24P   964  1008/ 80  L3  W4  W1  2.0
+  3 Dharamshi, Anay        CBRCK42U   957  1005/ 66  W2  L1  W4  2.0
+  4 Mahale, Avneesh        CNHB993F   954   890/132  L1  L2  L3  0.0

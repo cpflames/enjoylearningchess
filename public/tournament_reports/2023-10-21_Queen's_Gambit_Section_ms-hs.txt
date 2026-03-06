@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Patterson, Ben         CHHLI54X  1469  1541/ 86  W13 W6  W3  W2  W4  5.0
+  2 Reddy, Eshan           SGSI336Y  1444  1455/300  W15 W7  W4  L1  W5  4.0
+  3 Davis, Aiden           ADCKK70N  1303  1323/ 33  W16 W12 L1  W7  W6  4.0
+  4 Keener, Karl           HLHIY40G  1342  1321/108  W18 W14 L2  W13 L1  3.0
+  5 Elkins, Indiana        HSCIC15D  1117  1116/ 69  W8  L10 W11 W9  L2  3.0
+  6 Walstrom, Nathan       LWCMK57J  1115  1143/ 26  W9  L1  W15 W12 L3  3.0
+  7 Campbell, Sebastian    ASPII79A  1053  1079/179  W19 L2  W10 L3  W11 3.0
+  8 Ferguson, Jordan       ICPKY99N  1000   877/  5  L5  L15 W19 W17 W14 3.0
+  9 Eberlein, Jacob        ICPJY99M   900   937/  5  L6  W19 W14 L5  W13 3.0
+ 10 Sherwood, Leo          FREII58J  1011   998/ 58  D11 W5  L7  L14 W12 2.5
+ 11 Lave', Francis         ICPJY99L   900   939/  5  D10 W18 L5  W16 L7  2.5
+ 12 Hochheimer, Noah       SGSHF37G   956   943/201  W17 L3  W16 L6  L10 2.0
+ 13 Webb, Rogan            HDPHC51Z   844   831/ 46  L1  BYE W18 L4  L9  2.0
+ 14 Lund, Connor           ICPLY66Q   502   617/  9  BYE L4  L9  W10 L8  2.0
+ 15 Wright, Elijah         NCLLJ93R  1100  1025/  3  L2  W8  L6  BYE U   2.0
+ 16 Hanley, Leo            ICPMY99K  1200   739/  5  L3  W17 L12 L11 W19 2.0
+ 17 Bucknell, Jaxsen       SAWIJ93Q   800   635/  4  L12 L16 BYE L8  W18 2.0
+ 18 Kendall, Matthew       ICPJY99J   900   482/  5  L4  L11 L13 W19 L17 1.0
+ 19 Lamothe, Robert        ICPJY99H   900   227/  5  L7  L9  L8  L18 L16 0.0

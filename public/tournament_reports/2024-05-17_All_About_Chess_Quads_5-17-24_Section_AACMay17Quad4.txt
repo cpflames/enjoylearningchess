@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ge, Jeremy             SSMBJ88K   922   941/132  W4  W3  L2  2.0
+  2 Li, Anyi               LKDCJ55F   887   918/ 48  L3  W4  W1  2.0
+  3 Pan, Peng-chi          SSMCK24N   915   936/ 94  W2  L1  W4  2.0
+  4 Mangla, Atharv         GRRDK07C   861   791/104  L1  L2  L3  0.0

@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Hu, Yi-en Pi           BCADK35P   921  1045/ 43  W5  D2  W9  W3  W4  4.5
+  2 Sikhakolli, Jashyant   XXXDJ47B   300  1119/  5  W9  D1  W10 W7  D3  4.0
+  3 Kim, Matthew           RKWFK88G   939   949/ 30  W8  W10 D7  L1  D2  3.0
+  4 Mavila, Madhav         GTMI230L   701   728/ 41  W12 L7  W8  W5  L1  3.0
+  5 Mei, Felicity          BCABK89R   438   629/ 40  L1  W6  W11 L4  W7  3.0
+  6 Mamadgi, Uthkarsh      PLKGJ47A   600   766/  5  L7  L5  W12 W9  W10 3.0
+  7 Bangari, Ishaan        FRWFJ96C   915   889/ 15  W6  W4  D3  L2  L5  2.5
+  8 Bayya, Shrihan         CBRDJ74M   679   656/ 15  L3  W12 L4  D10 W11 2.5
+  9 Parasurama, Chinmayi   CPJG679F   885   823/ 28  L2  W11 L1  L6  HPB 1.5
+ 10 Goel, Atharva          MRLD436Y   796   738/ 56  W11 L3  L2  D8  L6  1.5
+ 11 Vanavada, Kaushik      BRHGB86U   400   335/  6  L10 L9  L5  W12 L8  1.0
+ 12 Prasanna, Charan       LMADJ46Z   300   100/  4  L4  L8  L6  L11 BYE 1.0

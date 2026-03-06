@@ -1,0 +1,28 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Pan, Jesse             ENSCJ61R   200  1246/  5  W14 W18 W2  W8  W7  5.0
+  2 Goel, Advit            CMCCG22F   713   823/ 58  W20 W25 L1  W11 W8  4.0
+  3 Tsen, Eric             AGBDK18P   631   785/ 92  D24 W13 W16 D7  W9  4.0
+  4 Hildenbrand, Jace      TCEF722T   889   888/111  L7  W27 W21 W17 W13 4.0
+  5 Khandhedia, Dhruvin NirLMAE257G   410   500/ 12  L9  BYE D14 W16 W15 3.5
+  6 Sinha, Pratyaksh       REEDJ69N   319   627/  7  W10 L9  D15 W14 W17 3.5
+  7 Zeitlin, Tom           WOBEI56H   839   854/ 52  W4  D16 W11 D3  L1  3.0
+  8 Vasamsetty, Chetan     SHFDJ38Y   779   798/ 46  W12 W19 W9  L1  L2  3.0
+  9 Ting, Sophia           KSHDK64W   744   744/ 62  W5  W6  L8  W18 L3  3.0
+ 10 Bhutani, Mihir         CRKCK90Q   639   632/ 17  L6  W12 L19 W25 W20 3.0
+ 11 Yen, Apollo            REJGG78H   609   623/ 87  W26 W21 L7  L2  W19 3.0
+ 12 Haloi, Rishav          CNCG871Z   477   600/ 23  L8  L10 W23 W21 W18 3.0
+ 13 Li, Rebecca            BCACJ62B   809   757/101  D23 L3  W27 W19 L4  2.5
+ 14 Takala, Greysen        VIWFE55T   616   600/ 44  L1  W22 D5  L6  W24 2.5
+ 15 Xie, Ann               CCDBK03P   565   523/ 14  L21 W26 D6  W24 L5  2.5
+ 16 Phadnis, Neil          DISDK44Y   561   574/ 20  W22 D7  L3  L5  W23 2.5
+ 17 Li, Chufei             CNHD389T   669   611/ 60  L25 W20 W24 L4  L6  2.0
+ 18 Bravenboer, Jake       OPWDJ97Y   610   581/ 20  W27 L1  W25 L9  L12 2.0
+ 19 Howell, Carlos         SRTGK38Y   496   494/ 32  WF  L8  W10 L13 L11 2.0
+ 20 Hoard, Otis            VIWF690B   517   468/ 51  L2  L17 BYE W22 L10 2.0
+ 21 Taulu, Otso            CIACJ70S   381   454/ 10  W15 L11 L4  L12 W25 2.0
+ 22 He, Joshua             CHRBJ72H   123   177/ 14  L16 L14 W26 L20 W27 2.0
+ 23 Davis, Nathan          SFRGJ66C   744   623/164  D13 L24 L12 W26 L16 1.5
+ 24 Arul, Aarav            LMAD158P   327   388/ 10  D3  W23 L17 L15 L14 1.5
+ 25 Liu, Sheldon           MEDCK02F   537   477/ 27  W17 L2  L18 L10 L21 1.0
+ 26 Lenz, Wendell          HSCAJ61Q   100   100/  4  L11 L15 L22 L23 BYE 1.0
+ 27 Maheshwari, Om         LKDBJ61P   100   100/  4  L18 L4  L13 BYE L22 1.0

@@ -1,0 +1,39 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Hirschowitz, David     ADUNF002  1275  1424/151  W30 W34 W6  W16 W4  5.0
+  2 Frost, Ignatius        SHMKJ64P  1501  1489/115  W9  W26 L13 W25 W16 4.0
+  3 Gradin, Brian          ADUNH77M  1300  1479/  5  W15 L16 W12 W21 W17 4.0
+  4 Lubetkin, Zack         ADUNC01B  1087  1270/ 25  W24 W11 W23 W13 L1  4.0
+  5 Aitken, Kevin          ADONW80T  1300  1609/  5  W25 D8  W19 W14 D6  4.0
+  6 Rutgers, Bert          ADUNH068  1615  1598/117  W21 W12 L1  W8  D5  3.5
+  7 Hard, Adam             ADUNH79Y  1431  1449/ 27  D31 W10 L14 W18 W13 3.5
+  8 Hildenbrand, Blane     PSMI122V  1285  1377/310  W32 D5  W31 L6  W19 3.5
+  9 Britt, Liam            STNMA86S  1135  1213/ 58  L2  W37 W11 W22 HPB 3.5
+ 10 Burgert, Jeffrey M     ADUNK20A  1511  1472/ 16  L14 L7  W28 W26 W25 3.0
+ 11 Vance, Sawyer          FHVHJ32E  1278  1222/ 12  W35 L4  L9  W28 W30 3.0
+ 12 Alvarado, Alexander    ADUNJ69R  1192  1254/ 16  W17 L6  L3  W36 W22 3.0
+ 13 Rosenblum, Jacob       ADUNK19S   916  1130/ 10  W36 W18 W2  L4  L7  3.0
+ 14 Herr, Jacob            ADINY99V  1150  1307/ 10  W10 D19 W7  L5  D20 3.0
+ 15 Berry, Garcia          BHMLK99Z  1110  1176/ 46  L3  L17 W35 W33 W23 3.0
+ 16 Weinfurt, Boris        ADUNG091  1053  1226/ 99  W33 W3  W22 L1  L2  3.0
+ 17 North, Jesse           ADUNH77L  1300  1326/  5  L12 W15 W24 W23 L3  3.0
+ 18 Zhang, Owen            FHVI995H  1453  1404/266  W38 L13 D26 L7  W31 2.5
+ 19 Hopkins, Kyle L        ADUNK20H  1371  1365/ 10  W27 D14 L5  W31 L8  2.5
+ 20 Rodney, Michael        ADUNH77K  1300  1115/  5  L28 W27 L21 W34 D14 2.5
+ 21 Holmes, Megan          ADUNE64S  1159  1169/ 33  L6  W35 W20 L3  HPB 2.5
+ 22 Xu, Yang               CNCE649B  1305  1240/153  W34 W30 L16 L9  L12 2.0
+ 23 Zhao, Dennis           OPWH525E  1286  1231/363  W29 W28 L4  L17 L15 2.0
+ 24 Bowman, Finn           SHMLD50L  1221  1157/ 97  L4  W29 L17 L30 W34 2.0
+ 25 Cui, Sky               SRGDZ79Y   300  1033/  5  L5  W32 W36 L2  L10 2.0
+ 26 Blue-day, Alexander    ADUNK60J  1163  1164/ 31  W37 L2  D18 L10 HPB 2.0
+ 27 Clayton, Evan          SHMLA71G  1066  1009/ 51  L19 L20 L30 W32 W35 2.0
+ 28 Yang, Jimmy            BASEG45S  1126  1109/170  W20 L23 L10 L11 W36 2.0
+ 29 Cornejo Arriaga, AlexeiLLLFG91C   620   622/ 22  L23 L24 L33 W37 W38 2.0
+ 30 Colich, Medi           ADUN8912   722   866/ 16  L1  L22 W27 W24 L11 2.0
+ 31 Kaech, Stone           FERN6398  1470  1406/460  D7  W33 L8  L19 L18 1.5
+ 32 O'sullivan, Colin      ADUNH86L   481   485/  8  L8  L25 W38 L27 HPB 1.5
+ 33 Wakeman, Oliver        INLKG10Y  1347  1272/123  L16 L31 W29 L15 U   1.0
+ 34 King, Oliver           WKEEK36M   988   943/ 57  L22 L1  W37 L20 L24 1.0
+ 35 Duggan, Joseph         ADUNH77J  1300   614/  5  L11 L21 L15 W38 L27 1.0
+ 36 Henken, David          ADUNH77H  1300   672/  5  L13 W38 L25 L12 L28 1.0
+ 37 Berry, Wayne           ADUNH77G  1300   254/  4  L26 L9  L34 L29 BYE 1.0
+ 38 Bapanapalli, Arihant   HEAIH77F   800   135/  5  L18 L36 L32 L35 L29 0.0

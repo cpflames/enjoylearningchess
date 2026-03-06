@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Neff, Josiah           CCXGH69Q   782   876/ 30  W4  W3  W2  3.0
+  2 Mcneil, Mason          VSTGJ49Y   761   747/ 38  D3  W4  L1  1.5
+  3 Aguila-contreras, EdgarHORHJ65J   647   667/ 64  D2  L1  W4  1.5
+  4 Smith, Benjamin        BLEDG44D   630   567/ 54  L1  L2  L3  0.0

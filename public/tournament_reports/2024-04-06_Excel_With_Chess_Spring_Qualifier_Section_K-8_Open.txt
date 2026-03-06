@@ -1,0 +1,28 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Pan, Peng-ruei         SSME759R  1457  1471/123  W27 W18 W10 D2  W4  4.5
+  2 Prashant, Niranjan     PFCG468K  1384  1402/174  W25 W16 W9  D1  W10 4.5
+  3 Kanchanakuntla, Anish RTFEFJ31G   707   940/ 10  L16 W25 W11 W8  W9  4.0
+  4 Patnaik, Rishabhdeva   CRKFG72D  1352  1344/172  W20 W19 D15 W7  L1  3.5
+  5 Yen, Apollo            REJGG78H   701   910/107  W11 L10 W18 D20 W16 3.5
+  6 Vancha, Pradyun Reddy  ICSIH81K   800  1065/  5  L23 W26 W19 D16 W15 3.5
+  7 Wang, Isaac            CLHEK00U  1194  1158/ 76  L21 W22 W12 L4  W17 3.0
+  8 Grandhi, Dhruv         WPPIC63M  1129  1089/ 44  W13 L12 W21 L3  W19 3.0
+  9 Kumar, Rishuraj        PENFK45Y  1027  1050/ 68  W22 W21 L2  W15 L3  3.0
+ 10 Fang, Weiai            LAVD696W   989  1057/242  W14 W5  L1  W12 L2  3.0
+ 11 Zhu, Alex              LKDFJ55P   886   897/ 30  L5  W13 L3  W24 W21 3.0
+ 12 Pan, Peng-yu           SSMCK24P   910   964/ 77  W17 W8  L7  L10 W23 3.0
+ 13 Upasani, Neil          SSMEJ57C   755   840/ 39  L8  L11 W26 W18 W20 3.0
+ 14 Chenchu Arun, Krish    SSMEJ74U   737   782/ 29  L10 W27 L16 W25 W24 3.0
+ 15 Zou, Jinhan            SSMDH14T  1243  1192/102  W26 W23 D4  L9  L6  2.5
+ 16 Thungathurthi, PranavarINGHG82R   963   982/ 64  W3  L2  W14 D6  L5  2.5
+ 17 Wang, Jacob Z          BLWFE71A   608   730/ 88  L12 D20 W27 W23 L7  2.5
+ 18 Tsen, Eric             AGBDK18P   899   856/142  BYE L1  L5  L13 W26 2.0
+ 19 Pan, Peng-chi          SSMCK24N   897   891/ 72  W24 L4  L6  W22 L8  2.0
+ 20 Kostikov, Ivan         PLKIJ29Z   826   826/ 10  L4  D17 W25 D5  L13 2.0
+ 21 Oh, Seojoon            SSMDJ70T   804   824/ 34  W7  L9  L8  W27 L11 2.0
+ 22 Mcclenahan, Nicklas    AGBFK26V   753   739/ 39  L9  L7  BYE L19 W27 2.0
+ 23 Iyer, Hrishaan Arjun   BNTFJ57L   869   833/ 18  W6  L15 D24 L17 L12 1.5
+ 24 Bhandula, Aarav        PLKHH96K   568   563/  9  L19 BYE D23 L11 L14 1.5
+ 25 Einarson, Aiden        SAKFD84D   832   753/133  L2  L3  L20 L14 BYE 1.0
+ 26 Kasturiya, Soham       CRKCJ29M   782   690/  9  L15 L6  L13 BYE L18 1.0
+ 27 Sharma, Sanskar        BNTEJ28S   868   662/ 10  L1  L14 L17 L21 L22 0.0

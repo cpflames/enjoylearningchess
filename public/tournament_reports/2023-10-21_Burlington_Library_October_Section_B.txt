@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mccullough, Drew       PSMIJ93T   800  1232/  3  W6  W4  W3  3.0
+  2 Soto, Tony             LUUIJ99L   738   769/  6  W5  D3  W6  2.5
+  3 Vendeland, Xander      ALLED01Q   849   847/ 74  W4  D2  L1  1.5
+  4 Hildenbrand, Jace      TCEF722T   513   526/101  L3  L1  W5  1.0
+  5 Clark, Finn            MSNEJ99M   478   395/  5  L2  W6  L4  1.0
+  6 Gigot, June            EDIDJ93S   300   100/  3  L1  L5  L2  0.0

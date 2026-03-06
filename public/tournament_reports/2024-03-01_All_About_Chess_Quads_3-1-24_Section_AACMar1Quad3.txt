@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Huang, Clora           SOMEK31H   943  1092/ 82  W2  W4  W3  3.0
+  2 Sembium, Aditi         BCADK25W  1011  1032/255  L1  W3  W4  2.0
+  3 Nandakiran, Vidyuth    SSME617C   975   955/ 80  W4  L2  L1  1.0
+  4 Han, Spencer           HSCEK75L   981   908/153  L3  L1  L2  0.0

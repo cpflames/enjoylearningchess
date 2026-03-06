@@ -1,0 +1,28 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kayali, Kana           EBSCJ29N   200  1120/  5  W2  W6  W12 W7  W5  5.0
+  2 Rogov, Richard         MEDCJ68U   506   666/ 24  L1  W11 W9  W8  W10 4.0
+  3 Churchill, Camden      LAVCK47J   276   435/ 25  W25 W15 L5  W23 W14 4.0
+  4 Agarwal, Avyaan        RCMDW81K   300   723/  5  L12 W16 W18 W6  W7  4.0
+  5 Kasturiya, Soham       CRKCJ29M   200   782/  5  W19 W18 W3  W17 L1  4.0
+  6 Sane, Anay             SSMDJ56T   280   407/ 10  W11 L1  W22 L4  W24 3.0
+  7 Daniel, Lemuel         BLCCJ29L   200   656/  5  W27 W17 W10 L1  L4  3.0
+  8 Zheng, Ethan H         RCSCJ29K   200   349/  5  L15 W26 W20 L2  W23 3.0
+  9 Kang, Mason            SSMDJ29J   300   572/  5  W16 L12 L2  W26 W17 3.0
+ 10 Xu, Augus              ENDCJ29H   200   468/  4  WF  W20 L7  W12 L2  3.0
+ 11 Stern, Eli             RCSCJ29F   200   524/  5  L6  L2  W15 W16 W18 3.0
+ 12 Zhao, Emma             SSSCK28L   601   599/ 24  W4  W9  L1  L10 D15 2.5
+ 13 Venkata, Vedant        RSACJ47Y   363   263/ 10  L18 W25 L23 D21 W19 2.5
+ 14 Shah, Aarav            EBSDJ75R   106   189/ 10  D23 W21 L17 W19 L3  2.5
+ 15 Kaviyarasan, Jai       SSMCJ29E   200   391/  5  W8  L3  L11 W22 D12 2.5
+ 16 Karanam, Aadya         CHKDK84K   667   562/ 62  L9  L4  BYE L11 W25 2.0
+ 17 Shukla, Aaryan         GRRCK42V   666   583/ 23  W22 L7  W14 L5  L9  2.0
+ 18 Anant, Parth           SSMDJ70R   266   317/ 10  W13 L5  L4  W25 L11 2.0
+ 19 Khanzode, Advait       SSMDJ56W   227   163/  9  L5  BYE W24 L14 L13 2.0
+ 20 Jiang, Kyle            SSMDK93D   118   100/ 18  W26 L10 L8  L24 BYE 2.0
+ 21 Iyer, Avyukt           SSMCJ29D   200   100/  5  D24 L14 L26 D13 W27 2.0
+ 22 Martin-berliner, LucienBRKDJ29C   300   222/  5  L17 W27 L6  L15 W26 2.0
+ 23 Battala, Pradhyun Sai  SSMCJ29A   200   176/  5  D14 D24 W13 L3  L8  2.0
+ 24 Sunil, Arjun           BLWCJ28Y   200   102/  5  D21 D23 L19 W20 L6  2.0
+ 25 Sridhar, Vasudevan     WELDJ28W   300   100/  5  L3  L13 W27 L18 L16 1.0
+ 26 Kshirsagar, Aarush     RKWCJ28V   200   100/  5  L20 L8  W21 L9  L22 1.0
+ 27 Bronnikov, Denis       CLHCJ28U   200   100/  4  L7  L22 L25 BYE L21 1.0

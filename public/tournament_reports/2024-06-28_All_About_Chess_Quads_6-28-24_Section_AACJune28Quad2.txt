@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ma, Lewis              SOMC587M  1362  1379/145  W4  W3  L2  2.0
+  2 Zhao, William          STTDH70M  1225  1300/146  L3  W4  W1  2.0
+  3 Joshi, Yash            PFCH280R  1397  1365/218  W2  L1  L4  1.0
+  4 Han, Victor            PPPFB39P  1368  1342/191  L1  L2  W3  1.0

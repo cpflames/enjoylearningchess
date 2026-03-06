@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Shubin, Daniel         ADUNF498  2253  2265/537  W6  D3  D2  W4  W5  4.0
+  2 Min, Ryan              INTJ5430  2138  2172/401  W4  W5  D1  D3  W6  4.0
+  3 Willy, Stephen         HSCIH17K  2232  2222/540  D5  D1  W6  D2  L4  2.5
+  4 Liu, Austin            SKNJ530J  2128  2133/351  L2  D6  W5  L1  W3  2.5
+  5 Lu, Yiding             BASH865Z  2121  2108/276  D3  L2  L4  W6  L1  1.5
+  6 Wang, Ted              STTEK13D  2099  2069/266  L1  D4  L3  L5  L2  0.5

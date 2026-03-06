@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 tot 
+  1 Wang, Leonardo         CKNH233K  1785  1808/ 98  L2  W8  D3  D7  W4  W9  W5  W10 D6  6.5
+  2 Boulis, Christos       NWSKC84T  1763  1781/606  W1  D3  W7  D4  W9  L5  D10 D6  W8  6.0
+  3 Ramaswamy, Rishi       INTJS63U  1692  1724/147  D6  D2  D1  W8  W7  D4  D9  L5  W10 5.5
+  4 Razmov, Gabriel        ADDIC26K  1774  1776/328  W5  W10 D6  D2  L1  D3  L7  W8  W9  5.5
+  5 Palathingal, Rafael    KKNE196R  1781  1781/132  L4  D9  W8  W10 W6  W2  L1  W3  L7  5.5
+  6 Bharathy Mohan, Aarav  FRWFC98B  1621  1653/329  D3  W7  D4  D9  L5  W10 L8  D2  D1  4.5
+  7 Cheng, Selina          TLMG413R  1641  1638/510  W10 L6  L2  D1  L3  L8  W4  L9  W5  3.5
+  8 Karamali, Saiya        ADUN586R  1724  1692/ 38  D9  L1  L5  L3  W10 W7  W6  L4  L2  3.5
+  9 Gadde, Arnav           ENSFJ39D  1558  1585/175  D8  D5  D10 D6  L2  L1  D3  W7  L4  3.5
+ 10 Lee, Boas              ADUNC814  1721  1624/ 30  L7  L4  D9  L5  L8  L6  D2  L1  L3  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Palathingal, Rafael    KKNE196R  1539  1540/105  D3  W2  W4  2.5
+  2 He, Oliver             ENDDK71V  1248  1300/280  W4  L1  W3  2.0
+  3 Hetamsaria, Aayan      TYEIG19R  1222  1247/ 47  D1  W4  L2  1.5
+  4 Zhao, Dennis           OPWH525E  1304  1244/341  L2  L3  L1  0.0

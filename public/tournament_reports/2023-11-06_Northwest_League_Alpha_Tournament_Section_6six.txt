@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lee, Rylan             MDIIG67J   558   735/ 16  W7  W5  W2  3.0
+  2 Phillips, Lucas        BLHL696K   552   642/ 18  W6  W3  L1  2.0
+  3 Lee, Jensen            MRDK947B   536   609/ 25  W4  L2  W7  2.0
+  4 Gutierrez, Diego       BLHM233E   610   639/ 11  L3  W6  W5  2.0
+  5 Fransico-woodenlegs, JoMRDL680H   589   571/ 34  W8  L1  L4  1.0
+  6 Simmons, Sean          SHMJH985   630   589/142  L2  L4  W8  1.0
+  7 Gamble, Lydia          BLHMI96B   624   562/ 24  L1  D8  L3  0.5
+  8 Kerr, Ethan            BLHLJ06N   618   538/ 30  L5  D7  L6  0.5

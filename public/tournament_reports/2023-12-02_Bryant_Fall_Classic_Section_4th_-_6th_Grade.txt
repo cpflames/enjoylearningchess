@@ -1,0 +1,45 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chien, Jeffrey         OVLGF41X  1284  1330/149  W31 W15 W5  W11 W6  5.0
+  2 Zhu, Aiden             LLSDC77X  1235  1275/ 94  W20 W14 W4  D3  W10 4.5
+  3 Patnaik, Rishabhdeva   CRKFG72D  1193  1263/147  W7  W17 W12 D2  W11 4.5
+  4 Zhao, William          STTDH70M  1089  1099/ 91  W36 W19 L2  W29 W12 4.0
+  5 Raghunathan, Vidur     CSME878A  1028  1038/ 67  W37 W26 L1  W27 W19 4.0
+  6 Zhang, Harvey          CHRD515V   977  1107/ 50  W22 W29 W10 W9  L1  4.0
+  7 Edmond, Ivy            WWDGD81E  1165  1145/268  L3  W23 W28 W26 D8  3.5
+  8 Edmond, Alec           CSIEH03G   939  1011/207  W44 W9  L11 W31 D7  3.5
+  9 Kwan-uchiyama, Avery   JINFH22T  1406  1340/ 77  W30 L8  W13 L6  W21 3.0
+ 10 Choi, Hunter           UPAGE80A  1187  1151/223  W32 W16 L6  W18 L2  3.0
+ 11 Lin, Annan             THOEC02D  1121  1118/ 39  W21 W18 W8  L1  L3  3.0
+ 12 Tunuguntla, Sai SrithanEMDFK78V   952   939/196  W23 W39 L3  W32 L4  3.0
+ 13 Nelson, Ellis          BRYEB28C   926   902/ 55  W27 W28 L9  L21 W26 3.0
+ 14 Wang, Devin            MEDEK01T   824   810/ 12  W38 L2  W20 L19 W29 3.0
+ 15 Mazalov, Denis         NLAEK10S   810   793/ 18  W33 L1  L32 W39 W28 3.0
+ 16 Reimer, Oliver         LKDFG59D   803   772/ 39  W43 L10 L31 W37 W30 3.0
+ 17 Sheker, Wesley         DCTEJ69H   723   722/ 29  W34 L3  L21 W33 W32 3.0
+ 18 Wishwas, Rishab        LKDEK91Q   685   715/ 62  W24 L11 W37 L10 W31 3.0
+ 19 Nagpal, Ronen          WMEEK13Q   658   726/ 29  W41 L4  W33 W14 L5  3.0
+ 20 Kumar, Rishuraj        ENAFK45Y   512   553/ 29  L2  W43 L14 W42 W25 3.0
+ 21 Nagle, Sam             WEDEJ76A   376   614/ 10  L11 W40 W17 W13 L9  3.0
+ 22 Gowda, Aarav           THOEK87E   314   445/ 15  L6  W42 L26 W41 W27 3.0
+ 23 Newell, Jonathan       THOEK87B   205   333/ 10  L12 L7  D24 W44 W37 2.5
+ 24 Wilson, Noah           BRYFJ69F   500   468/  5  L18 L32 D23 W36 W38 2.5
+ 25 Hu, Elliott            CSIE837H   681   581/ 29  L39 L33 W36 W35 L20 2.0
+ 26 Xia, Jethro            BCSEK47R   679   674/ 42  W40 L5  W22 L7  L13 2.0
+ 27 Derleth, Sophia        EVGG326U   653   608/ 95  L13 W44 W38 L5  L22 2.0
+ 28 O'connell, Jackson     NOWE792U   622   619/ 35  W35 L13 L7  W38 L15 2.0
+ 29 Schultz, Theodore      WEDEK91Y   614   612/ 29  W42 L6  W39 L4  L14 2.0
+ 30 Heart-myers, Sebastian VIWF537F   603   553/ 60  L9  L38 W41 W40 L16 2.0
+ 31 Berjis, Adrina         MEDE230U   587   618/ 98  L1  W34 W16 L8  L18 2.0
+ 32 Hedstrom, Parker       WEDF498Y   482   564/ 48  L10 W24 W15 L12 L17 2.0
+ 33 Prins, Lincoln         BRYEJ69E   400   526/  5  L15 W25 L19 L17 W40 2.0
+ 34 Kelly Reyes, Aya       MISFZ87N   500   325/  5  L17 L31 L35 W43 W42 2.0
+ 35 Yuknewicz, Tyler       BRYEJ69D   400   382/  5  L28 L37 W34 L25 W39 2.0
+ 36 Newell, Benjamin       THOEK87J   366   300/ 10  L4  D41 L25 L24 W44 1.5
+ 37 Bosse, Odin            DCTEK87H   323   337/ 10  L5  W35 L18 L16 L23 1.0
+ 38 Bilanko, Bingham       LKDEJ69C   400   353/  5  L14 W30 L27 L28 L24 1.0
+ 39 Powell, Marshall       BRYEJ69B   400   399/  5  W25 L12 L29 L15 L35 1.0
+ 40 Novitski-thomson, OctavBRYEJ69A   400   255/  5  L26 L21 W44 L30 L33 1.0
+ 41 Chernenko, Boris       BRYEJ68Z   400   167/  5  L19 D36 L30 L22 D43 1.0
+ 42 Schefe, Elsie          VIWFJ68Y   500   181/  5  L29 L22 W43 L20 L34 1.0
+ 43 Liachko, Luke          BRYEJ68X   400   100/  5  L16 L20 L42 L34 D41 0.5
+ 44 Verheul, Mia May       WEDFK83S   163   100/ 10  L8  L27 L40 L23 L36 0.0

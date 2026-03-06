@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lee, Grayson           CNHBK02J   295   503/ 14  W2  W3  W4  3.0
+  2 Hu, Maxwell            BCABK03N   387   418/ 21  L1  W4  W3  2.0
+  3 Tripathi, Naksh        BRHCJ98P   386   352/ 46  W4  L1  L2  1.0
+  4 Singh, Vivaan          SSMFJ49M   362   251/  9  L3  L2  L1  0.0

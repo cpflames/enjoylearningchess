@@ -1,0 +1,28 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Airapetian, Chouchanik ADUND039  2015  2000/ 20  L17 W20 W14 W6  W5  4.0
+  2 Kuhner, Mary           ADUND44Q  1811  1805/ 66  W25 L10 W15 W9  W8  4.0
+  3 Deng, Lily             HHSK5007  1779  1770/356  L6  W23 W17 W16 W10 4.0
+  4 Zhang, Michelle        MEDH889L  1752  1761/338  W15 W16 W8  L5  W11 4.0
+  5 Wei, Te                ADUNK02V  1719  1790/ 11  W22 W11 W10 W4  L1  4.0
+  6 Fung, Nola             ADUNK09X  1345  1565/ 11  W3  W9  D7  L1  W16 3.5
+  7 Karamali, Saiya        ADUN586R  1736  1702/ 22  W12 D14 D6  L10 W17 3.0
+  8 Zhang, Iris            TMBJ858X  1702  1685/363  W23 W17 L4  W18 L2  3.0
+  9 Gavrysh, Iryna         ADUNI36C  1526  1520/ 17  W19 L6  W25 L2  W18 3.0
+ 10 Cheng, Selina          THUG413R  1521  1577/478  W26 W2  L5  W7  L3  3.0
+ 11 Anandkumar, Haituka    STLJ238P  1428  1448/360  W21 L5  W22 W13 L4  3.0
+ 12 Sundar, Jeraldin       BUSJK01C  1273  1269/  5  L7  W27 L16 W19 W21 3.0
+ 13 Marinescu, Andra       ADUN412W  1481  1435/ 26  HPB L18 W20 L11 W23 2.5
+ 14 Meng, Miranda          OPWEH69P  1409  1433/135  W27 D7  L1  U   W22 2.5
+ 15 Shankaranand, Deeksha  EBSFI74Y  1345  1343/244  L4  W21 L2  W20 HPB 2.5
+ 16 Wong, Kate             LMSF459M  1436  1425/160  W24 L4  W12 L3  L6  2.0
+ 17 Mathur, Aashi          PLKI522S  1355  1382/309  W1  L8  L3  W24 L7  2.0
+ 18 Agaian, Angela         MCRLD833  1187  1220/297  HPB W13 HPB L8  L9  2.0
+ 19 Anand, Lakshana        RSAFC68H  1087  1063/ 77  L9  L25 W27 L12 BYE 2.0
+ 20 Deng, Alison           OMSGC56H   940   933/ 77  BYE L1  L13 L15 W26 2.0
+ 21 Panell, Amanda         ADUNC92B   693   694/ 17  L11 L15 W26 WF  L12 2.0
+ 22 Xu, Zoe                SOMEG70A  1265  1239/278  L5  W26 L11 HPB L14 1.5
+ 23 Patel, Aarya           REEFK30E  1199  1165/ 60  L8  L3  D24 WF  L13 1.5
+ 24 Parasurama, Chinmayi   CNCG679F   718   742/ 14  L16 HPB D23 L17 HPB 1.5
+ 25 Mohan, Laya            LEOI617P  1347  1338/161  L2  W19 L9  LF  U   1.0
+ 26 Sunil, Avni            LMAEK01B   400   296/  4  L10 L22 L21 BYE L20 1.0
+ 27 Arvind, Neeti          SHSGG66L   577   572/ 23  L14 L12 L19 LF  U   0.0

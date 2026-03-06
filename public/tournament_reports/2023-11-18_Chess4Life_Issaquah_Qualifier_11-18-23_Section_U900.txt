@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Mcintyre, Isaac        ETSE466S   870   952/182  W8  W7  W10 W3  W4  5.0
+  2 Cho, Sungho            CRKF120X   853   805/ 11  W15 L3  W11 W10 W8  4.0
+  3 Bravenboer, Jake       OPWDJ97Y   300   650/ 10  W5  W2  W4  L1  W10 4.0
+  4 Mathur, Vivaan         CBRFK76F   890   845/ 38  W11 W14 L3  W5  L1  3.0
+  5 Tsen, Eric             AGBDK18P   716   696/ 82  L3  W15 W6  L4  W9  3.0
+  6 Shao, Lang             SOMBK14U   337   440/ 31  L12 W9  L5  W14 W11 3.0
+  7 Liu, Sheldon           MEDCK02F   273   423/ 17  W9  L1  W14 L8  W15 3.0
+  8 Li, Ryan               BUSBJ88U   425   495/  8  L1  D13 W12 W7  L2  2.5
+  9 Mangla, Atharv         GRREK07C   651   554/ 39  L7  L6  W13 W16 L5  2.0
+ 10 Mukund, Anirudh        KMNGK18S   624   588/ 36  W13 W12 L1  L2  L3  2.0
+ 11 Holostov, Benjamin     CRKCJ94A   507   470/ 10  L4  W16 L2  W12 L6  2.0
+ 12 Anand, Grahil          TMCFJ89Y   157   275/  8  W6  L10 L8  L11 W16 2.0
+ 13 Tripathi, Aditya       ARMDJ96M   173   195/ 18  L10 D8  L9  L15 W14 1.5
+ 14 Chen, Evan             CDICK60B   508   302/  8  W16 L4  L7  L6  L13 1.0
+ 15 Saravanan, Navin       FRWAJ85A   343   277/ 10  L2  L5  L16 W13 L7  1.0
+ 16 Niranjan, Tulsi        CRIFJ75F   500   109/  5  L14 L11 W15 L9  L12 1.0

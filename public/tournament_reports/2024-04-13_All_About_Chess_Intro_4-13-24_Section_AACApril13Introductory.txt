@@ -1,0 +1,22 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Sarychev, Aleksei      GEKJJ98N   675   783/ 99  W11 W10 W9  W3  4.0
+  2 Chu, Skylar            SOMC579R   798   774/ 28  L16 W5  W6  W11 3.0
+  3 Swain, Samarth         MMEBJ58S   751   757/ 68  W18 W4  W7  L1  3.0
+  4 Menezes, Kian          CLHBJ97B   480   534/ 30  W12 L3  W16 W15 3.0
+  5 Dragusanu, Clara       SSMEH81S   239   415/  9  W21 L2  W10 W9  3.0
+  6 Krogstad, Jaxon        NCSCJ88M   707   672/ 65  W8  D16 L2  W12 2.5
+  7 Moore, Ethan           CRKEJ49L   644   610/ 16  W19 W14 L3  D8  2.5
+  8 Mazer, Harvey          SNEDJ59E   267   358/ 10  L6  W21 W14 D7  2.5
+  9 Huang, Jaden           ENDCJ63S   530   496/ 64  W20 W17 L1  L5  2.0
+ 10 Liu, Anton             CBRFH87Y   395   423/  9  W13 L1  L5  W16 2.0
+ 11 Venkatesh, Anya        HMNBJ30F   247   353/ 47  L1  W13 W17 L2  2.0
+ 12 Chu, Melody            JINAJ02K   165   205/  8  L4  BYE W19 L6  2.0
+ 13 Madsen, Levi           BLWCH80Z   200   268/  4  L10 L11 W21 W18 2.0
+ 14 Chang, Nathan          MMECK42T   180   205/ 22  BYE L7  L8  W17 2.0
+ 15 Chen, Andy             SOMBH80Y   100   285/  4  L17 W19 W18 L4  2.0
+ 16 Zhang, Patrick         SSSBK01J   299   367/ 70  W2  D6  L4  L10 1.5
+ 17 Krogstad, Jaiden       NCSEJ88J   389   310/ 51  W15 L9  L11 L14 1.0
+ 18 Sealey, Isaac          SNIDK43S   278   228/ 18  L3  W20 L15 L13 1.0
+ 19 Nori, Vishnu Vallabha  CBRAJ06A   192   100/  7  L7  L15 L12 BYE 1.0
+ 20 Chen, Helen            BLWBK41R   181   100/ 37  L9  L18 BYE L21 1.0
+ 21 Werth, James           SOMBH80X   100   100/  4  L5  L8  L13 W20 1.0

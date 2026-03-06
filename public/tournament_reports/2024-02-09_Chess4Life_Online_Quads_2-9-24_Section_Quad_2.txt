@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 He, Oliver             ENDDK71V  1317  1379/308  W4  W2  D3  2.5
+  2 Singh, Rushil          SNEGB52N  1367  1379/131  W3  L1  W4  2.0
+  3 Palod, Menang          REJIK61M  1282  1294/111  L2  W4  D1  1.5
+  4 Maharaja, Imai         HMNDK34K  1333  1268/151  L1  L3  L2  0.0

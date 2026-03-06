@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Pantea, Joshua         ABEJK63M  1319  1320/ 47  W3  W3  2.0
+  2 Yohannes, Senay        SPRJJ50F   432   446/ 10  W4  W4  2.0
+  3 Herb, Daniel           SPRJJ50J   468   468/ 10  L1  L1  0.0
+  4 Sagar, Rekha           ADUNJ50D  1300   100/  2  L2  L2  0.0

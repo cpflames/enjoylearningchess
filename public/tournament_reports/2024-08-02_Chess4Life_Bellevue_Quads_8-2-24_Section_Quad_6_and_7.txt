@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Magnin, Hugo           FAPBH94D   357   569/ 17  W2  W6  W4  3.0
+  2 Wong, Aiden            CNHDK17Z   566   570/ 68  L1  W4  W3  2.0
+  3 Gui, Joyce             OPWBH92C   299   315/  7  D6  W5  L2  1.5
+  4 Sood, Ayansh           BCADH76H   497   456/ 25  W5  L2  L1  1.0
+  5 Peng, Huiyun           CERDH66V   300   196/  3  L4  L3  W6  1.0
+  6 Zhang, Dustin          CCDBJ46J   294   244/ 24  D3  L1  L5  0.5

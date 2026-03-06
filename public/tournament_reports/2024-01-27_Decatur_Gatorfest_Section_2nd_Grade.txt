@@ -1,0 +1,33 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Evin, Terrick          EBSCC54L  1542  1553/163  W21 W20 W2  W9  W3  5.0
+  2 Lawardy, Clayton       DCTCK13P   587   644/ 24  W26 W31 L1  W13 W11 4.0
+  3 Kekre, Sohum           CSICK24M   531   696/ 29  W27 W7  W19 W16 L1  4.0
+  4 Sabharwal, Vihaan      DCTCK87T   361   632/ 43  W15 L9  W14 W8  W7  4.0
+  5 Ben Simon, Golan       SJCCJ48B   200   734/  5  L20 W21 W10 W19 W9  4.0
+  6 Rogov, Richard         MEDCJ68U   383   410/ 15  D29 W25 L7  W28 W17 3.5
+  7 Pradeepkumar, Adrit    LKDCK54S   659   629/ 45  W22 L3  W6  W18 L4  3.0
+  8 Benita-nagdeep, KrishanRBRCK56N   628   612/ 34  W23 W10 L9  L4  W16 3.0
+  9 Hedstrom, Elliot       WEDCK92C   563   652/ 52  W24 W4  W8  L1  L5  3.0
+ 10 Zhen, Liam             DCCC622V   489   507/ 92  W13 L8  L5  W31 W24 3.0
+ 11 Taulu, Otso            CSICJ70S   452   453/ 20  W28 L19 W27 W24 L2  3.0
+ 12 Huynh, Daniel          DCTCK87U   100   257/  9  L16 L14 W21 W27 W26 3.0
+ 13 Allyn, William         THOCJ48A   200   504/  5  L10 W23 W20 L2  W18 3.0
+ 14 Calimpong, Spruce      PCMCJ47Z   200   541/  5  L17 W12 L4  W20 W19 3.0
+ 15 Venkata, Vedant        RSACJ47Y   200   363/  5  L4  L24 W23 W25 W22 3.0
+ 16 Lim, Oliver            DISCC58T   598   554/ 75  W12 W17 D18 L3  L8  2.5
+ 17 Shing, Lucas           HZFCJ74H   407   390/ 20  W14 L16 D28 W26 L6  2.5
+ 18 Chen, Bryan            SOMCK33S   299   335/  9  W30 W29 D16 L7  L13 2.5
+ 19 Gagnier, Madeleine     HSCC251F   624   566/ 28  W32 W11 L3  L5  L14 2.0
+ 20 Li, Anyi               LKDCJ55F   542   517/ 10  W5  L1  L13 L14 W28 2.0
+ 21 Noebels, Keane         BRYCJ68N   253   266/ 10  L1  L5  L12 W32 W29 2.0
+ 22 Aguiluz, Mateo         BRYCJ68R   186   177/ 10  L7  L27 W30 W29 L15 2.0
+ 23 Heart-myers, Alice     VIWCJ70F   111   154/ 15  L8  L13 L15 W30 W31 2.0
+ 24 Seibel, Logan          BRYCJ47X   200   315/  5  L9  W15 W31 L11 L10 2.0
+ 25 Chen, Alan             SOMCK33F   259   176/ 12  L31 L6  W32 L15 D27 1.5
+ 26 Evans, Henry           BRYCJ67Z   100   105/ 10  L2  W30 D29 L17 L12 1.5
+ 27 Cherry, Gabrielle      MRICJ47W   200   165/  5  L3  W22 L11 L12 D25 1.5
+ 28 Van, Negev             SJCCJ47V   200   213/  5  L11 W32 D17 L6  L20 1.5
+ 29 O'brien, Aria          DCTCJ47U   200   100/  5  D6  L18 D26 L22 L21 1.0
+ 30 Romero, Norah          THOCJ47S   200   100/  5  L18 L26 L22 L23 W32 1.0
+ 31 Chin, Ronan            MAGCJ47R   200   100/  5  W25 L2  L24 L10 L23 1.0
+ 32 Wang, Kiara            MRPCK04A   100   100/ 17  L19 L28 L25 L21 L30 0.0

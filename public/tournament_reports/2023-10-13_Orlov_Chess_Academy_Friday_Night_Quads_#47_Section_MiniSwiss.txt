@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xu, Ethan              BENEK98S   765   790/ 81  W5  W3  D2  2.5
+  2 Doronin, Victor        BMNG335T   684   704/ 75  W6  W5  D1  2.5
+  3 Ting, Sophia           KSHDK64W   714   703/ 52  W4  L1  W6  2.0
+  4 Kumar, Nilaksh         SPTEK06Y   424   451/ 24  L3  W6  W5  2.0
+  5 Myaskovsky, David      CNCFJ26M   425   375/ 13  L1  L2  L4  0.0
+  6 Myaskovsky, Evan       CNCBJ96E   100   100/  3  L2  L4  L3  0.0

@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Pan, Peng-ruei         SSME759R  1079  1110/ 58  W6  W2  L5  W3  W4  4.0
+  2 Tsapkov, David         SNIFJ82A   938  1111/  8  W10 L1  W7  W8  W5  4.0
+  3 Nidamarthi, Nikhil     RSAE375J   960   969/174  W7  D4  W10 L1  W12 3.5
+  4 Dhameeja, Ved          GRREJ98F   824   925/ 55  W9  D3  W6  W5  L1  3.5
+  5 Bikkula, Charan        BLMHJ23A  1007   993/173  W12 W8  W1  L4  L2  3.0
+  6 Baruch, Noam           PHAEJ83G   682   709/  9  L1  W12 L4  W9  W11 3.0
+  7 Nandakiran, Vidyuth    SSME617C   766   797/ 54  L3  W9  L2  W10 W8  3.0
+  8 Du, Charles            SOMEA15U   370   395/ 34  W11 L5  W12 L2  L7  2.0
+  9 Zhou, Allison          SOMEJ76P   400   613/  5  L4  L7  W11 L6  W10 2.0
+ 10 Naveh, Ido             SOMEK63G   906   801/ 24  L2  W11 L3  L7  L9  1.0
+ 11 Lacroix, Charlie       PPPF767K   302   276/ 17  L8  L10 L9  W12 L6  1.0
+ 12 Shah, Kyler            MMEEJ76N   400   100/  5  L5  L6  L8  L11 L3  0.0

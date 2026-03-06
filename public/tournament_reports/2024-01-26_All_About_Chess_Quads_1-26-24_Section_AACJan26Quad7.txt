@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Moore, Ethan           CRKEJ49L   400   783/  3  W2  W3  W4  3.0
+  2 Yan, Alyan             NCSDJ63Q   288   375/  9  L1  W4  W3  2.0
+  3 Krogstad, Jaiden       NCSEJ88J   318   306/ 18  W4  L1  L2  1.0
+  4 Pareek, Aarohi         SSMEJ55S   360   195/  6  L3  L2  L1  0.0

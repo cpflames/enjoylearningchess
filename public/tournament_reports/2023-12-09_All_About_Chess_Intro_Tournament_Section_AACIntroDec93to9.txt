@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Sarychev, Aleksei      GEKJJ98N   483   644/ 35  W12 W8  W5  W3  4.0
+  2 Du, Charles            SOMEA15U   599   607/ 43  W10 W4  L3  W6  3.0
+  3 Jayasinghe, Sihas      RSAFJ83E   529   580/  8  W11 W9  W2  L1  3.0
+  4 Kolter, Aidan          SNIEJ60J   400   630/  4  W5  L2  W9  W8  3.0
+  5 Naidu, Pranavi         BLMIC73S   522   504/ 39  L4  W7  L1  W9  2.0
+  6 Sealey, Isaac          SNIDK43S   100   178/  9  L8  W12 W11 L2  2.0
+  7 Park, Jiseung          IPEEJ60H   400   255/  4  L9  L5  W12 W10 2.0
+  8 Chitlangia, Rishi      LAVEJ60G   400   393/  4  W6  L1  W10 L4  2.0
+  9 Hsieh, Cheryl          BLWFJ82X   298   291/  8  W7  L3  L4  L5  1.0
+ 10 Koul, Navika           RSADJ83L   100   100/  8  L2  W11 L8  L7  1.0
+ 11 Vongole, Vishruth      RCSDJ60F   300   100/  4  L3  L10 L6  W12 1.0
+ 12 Rathinasabapathy, VarsiINGGJ60E   600   100/  4  L1  L6  L7  L11 0.0

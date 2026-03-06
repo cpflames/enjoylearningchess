@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Joshi, Yash            PFCH280R  1373  1401/203  W4  W2  W3  3.0
+  2 Li, Harry              BCAEG30G  1117  1173/383  W3  L1  W4  2.0
+  3 Babbar, Riaan          ENDDJ98D  1232  1202/ 60  L2  W4  L1  1.0
+  4 Nandakiran, Vidyuth    SSME617C  1061  1020/107  L1  L3  L2  0.0

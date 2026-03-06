@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sood, Ayansh           BCADH76H   424   463/ 13  W2  W3  WF  3.0
+  2 Wang, Max              CCDAK03S   283   290/ 15  L1  WF  W3  2.0
+  3 Niu, Edwin             BCAAH73D   235   178/  9  WF  L1  L2  1.0

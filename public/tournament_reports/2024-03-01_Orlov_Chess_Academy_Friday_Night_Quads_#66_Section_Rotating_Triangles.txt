@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ghosh, Snehil          CBRE738T  1300  1297/144  W4  W5  D2  2.5
+  2 Wang, Isaac            CLHEK00U  1233  1238/ 53  W6  W4  D1  2.5
+  3 Zeeshan, Hamza         CRKDJ15N   300   550/  3  W5  W6  L4  2.0
+  4 Sarkar, Hridik         FRVEK04W   497   545/ 31  L1  L2  W3  1.0
+  5 Titterington, Henry    ENADJ88R   401   406/ 30  L3  L1  W6  1.0
+  6 Li, Chris              CNHCJ89W   368   318/ 37  L2  L3  L5  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sasaki, Hanzo          MEDDK34B   656   822/ 32  W2  W4  W3  3.0
+  2 Koster, John           SPTAJ88T   625   702/ 62  L1  W3  W4  2.0
+  3 Jain, Anvay            EBSG874Z   837   774/ 65  W4  L2  L1  1.0
+  4 George, Ameya          EBSEK88Y   592   538/ 60  L3  L1  L2  0.0

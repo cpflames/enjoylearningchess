@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chevuri, Tattva        REJGC06V  1298  1369/395  W3  W4  W2  3.0
+  2 Bhaskara, Yash         ICKJI539  1408  1395/334  W4  W3  L1  2.0
+  3 Bravenboer, Jake       OPWDJ97Y  1101  1105/ 93  L1  L2  W4  1.0
+  4 Leon, Nikhil           EBSF587T  1076  1036/129  L2  L1  L3  0.0

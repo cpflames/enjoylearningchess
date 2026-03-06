@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Luna, Max              FERKJ85Y   932   955/ 11  W8  W5  W4  3.0
+  2 Peper, James           BLHLB93F   679   678/ 24  L5  W8  W7  2.0
+  3 Phillips, Lucas        BLHL696K   642   680/ 21  D4  W6  D5  2.0
+  4 Tin, Isaac             SQUKK99V   629   656/  9  D3  W7  L1  1.5
+  5 Lee, Jensen            MRDK947B   609   658/ 28  W2  L1  D3  1.5
+  6 Russell, Emerson       BLEFK23A   697   631/ 28  L7  L3  W8  1.0
+  7 Ziesing, Evan          FERKJ85R   476   489/ 11  W6  L4  L2  1.0
+  8 Peterson, Caden        BHMKJ85V   648   493/  6  L1  L2  L6  0.0

@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Chang, Allen           ADUNK02T  1277  1471/ 17  W15 W4  W7  W10 L2  W5  5.0
+  2 Rao, Atharv            SOMFB90T  1274  1391/ 72  L5  W11 W14 W16 W1  D4  4.5
+  3 Polonsky, Daniel       LBSK946P  1215  1291/ 38  BYE W12 D5  L4  WF  W9  4.5
+  4 Boddy, Kyle            ADUNH98N  1285  1361/ 24  W7  L1  W15 W3  D9  D2  4.0
+  5 Fedorov, Vladimir      EVJJF17D  1318  1382/251  W2  W8  D3  D9  W10 L1  4.0
+  6 Meyerzon, Daniel       INTKJ242  1281  1301/433  L10 W18 L9  W14 W8  D7  3.5
+  7 Singh, Rushil          SNEGB52N  1257  1278/115  L4  W15 L1  WF  W16 D6  3.5
+  8 Pai, Vihaan            CHAEK17C  1349  1334/200  W12 L5  L16 W11 L6  W15 3.0
+  9 Pantea, Joshua         ABEJK63M  1306  1303/ 32  W18 L13 W6  D5  D4  L3  3.0
+ 10 Morgan, Hunter         ADUN1999  1327  1350/101  W6  W14 W13 L1  L5  LF  3.0
+ 11 Haining, Breck         ADUNK09G  1300  1275/ 10  L13 L2  W17 L8  HPB W16 2.5
+ 12 Greisen, Johanna       INGIF61C  1397  1336/ 29  L8  L3  W18 D13 W17 L14 2.5
+ 13 Nair, Ishan            FRWG670E  1257  1301/149  W11 W9  L10 D12 LF  U   2.5
+ 14 Greisen, Alfred        EALKK95M  1298  1259/ 28  W17 L10 L2  L6  L15 W12 2.0
+ 15 Foltenyi, Vilmos       ADUNK09V  1374  1313/ 21  L1  L7  L4  W17 W14 L8  2.0
+ 16 Ganesan, Vidur         RBRE940K  1270  1252/140  U   W17 W8  L2  L7  L11 2.0
+ 17 Smith, Andrew          ADUN6334  1218  1130/ 28  L14 L16 L11 L15 L12 WF  1.0
+ 18 Zandanov, Leonid       WLBCK31Q  1244  1185/ 64  L9  L6  L12 LF  U   U   0.0

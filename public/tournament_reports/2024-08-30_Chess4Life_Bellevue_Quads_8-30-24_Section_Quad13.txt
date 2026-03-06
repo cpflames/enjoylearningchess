@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xu, Jacky Y            SOMBJ59K   173   334/ 23  W4  W2  W3  3.0
+  2 Liu, Darwin            WOBAJ44Q   139   158/ 15  W3  L1  WF  2.0
+  3 Taylor, Maverick       ENAAJ46F   181   100/  6  L2  W4  L1  1.0
+  4 Zuehlsdorff, Theo      ISEAH74V   159   100/  7  L1  L3  LF  0.0

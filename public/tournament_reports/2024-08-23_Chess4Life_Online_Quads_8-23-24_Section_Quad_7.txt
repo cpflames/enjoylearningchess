@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yalamanchili, Nikhil   LMAFK63R   831   969/ 59  W3  W2  W4  3.0
+  2 Kaushal, Ayaan         CAVE975V   854   880/ 40  W4  L1  W3  2.0
+  3 Arvind, Neeti          SHSGG66L   835   813/ 42  L1  W4  L2  1.0
+  4 Gong, Fedora           RSMDK37C   819   746/ 28  L2  L3  L1  0.0

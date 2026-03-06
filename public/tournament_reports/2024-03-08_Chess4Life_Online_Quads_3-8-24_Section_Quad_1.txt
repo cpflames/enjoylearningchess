@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhong, Alan            TISLN778  1329  1464/ 76  W4  W3  W2  3.0
+  2 Joshi, Vyom            LEOIH81X  1196  1308/252  W3  W4  L1  2.0
+  3 Patel, Aarya           REEFK30E  1609  1558/130  L2  L1  W4  1.0
+  4 Benedict, Blaine       HSCIK07Q  1417  1356/ 33  L1  L2  L3  0.0

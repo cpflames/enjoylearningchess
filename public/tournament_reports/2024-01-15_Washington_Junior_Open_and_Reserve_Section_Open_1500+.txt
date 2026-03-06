@@ -1,0 +1,30 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Willy, Stephen         HSCIH17K  2222  2224/544  W16 W15 W12 W4  4.0
+  2 Chang, Eddie           INTM6270  2031  2043/218  W17 W24 W8  W13 4.0
+  3 Garine, Ujwal          TSTKB99A  1740  1741/229  L19 W28 W24 W15 3.0
+  4 Scollon, Owen          FHVI734D  1622  1712/461  W23 W5  W7  L1  3.0
+  5 Merritt, Jude          MTTLJ57P  1100  1833/  4  W10 L4  W22 W14 3.0
+  6 Yondon, Odbayar        LMAFK97T  1773  1754/205  L24 W17 D11 W19 2.5
+  7 Mishra, Abhinav        TMBIB02W  1756  1747/115  W28 D19 L4  W21 2.5
+  8 Demberel, Amana        LCOLJ14E  1735  1735/107  W29 W25 L2  D10 2.5
+  9 Saddi, Neevan Reddy    GRREH87M  1672  1658/210  L25 W29 W18 D12 2.5
+ 10 Shi, Gavin             LCOJH855  1544  1572/372  L5  W20 W27 D8  2.5
+ 11 Sharma, Devansh        TSTJF88S  1487  1542/193  D21 D18 D6  W23 2.5
+ 12 Gupta, Krishang        GTMGE37V  1423  1485/ 43  BYE W14 L1  D9  2.5
+ 13 Bhaskaran, Siddharth   HMNE152J  1867  1846/ 59  D18 W22 D19 L2  2.0
+ 14 Bharathy Mohan, Aarav  FRWFC98B  1641  1626/320  W20 L12 W25 L5  2.0
+ 15 Chen, William          INGH550N  1591  1600/124  W27 L1  W26 L3  2.0
+ 16 Palathingal, Rafael    HSCE196R  1540  1546/109  L1  L23 W28 W26 2.0
+ 17 Chen, Andy             SOMDK05J  1537  1558/ 35  L2  L6  W29 W25 2.0
+ 18 Liu, Vincent           ILAF546Q  1534  1547/201  D13 D11 L9  W27 2.0
+ 19 Kato, Erik             BLLJG89L  1524  1588/ 35  W3  D7  D13 L6  2.0
+ 20 Shah, Kanav            LMAF295Q  1451  1451/150  L14 L10 BYE W24 2.0
+ 21 Cheng, Selina          TLMG413R  1677  1638/497  D11 D26 D23 L7  1.5
+ 22 Zhang, Iris            REDJ858X  1661  1642/386  D26 L13 L5  W28 1.5
+ 23 Shih, Tai              OVLHE60P  1437  1453/227  L4  W16 D21 L11 1.5
+ 24 Devadithya, Hiruna     ISSK5494  1533  1528/719  W6  L2  L3  L20 1.0
+ 25 Zhou, Yuchen           CHREJ42H  1483  1477/557  W9  L8  L14 L17 1.0
+ 26 Bharadwaj, Samarth     DISDE78A  1471  1461/158  D22 D21 L15 L16 1.0
+ 27 Wong, Kate             LMSF459M  1432  1392/169  L15 BYE L10 L18 1.0
+ 28 Raja, Rian             SKWG786E  1532  1483/120  L7  L3  L16 L22 0.0
+ 29 Kokati, Pranav         OMSI814P  1521  1481/278  L8  L9  L17 U   0.0

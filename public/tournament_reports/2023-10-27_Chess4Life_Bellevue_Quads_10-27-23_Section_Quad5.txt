@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Paine, Clara           TLIFK01Z   113   255/  9  W2  W3  W4  3.0
+  2 Tripathi, Aditya       ARMDJ96M   173   173/ 13  L1  W4  D3  1.5
+  3 Tripathi, Naksh        BRHCJ98P   163   167/ 17  W4  L1  D2  1.5
+  4 Grigoryan, Vlad        HSSLZ95Y   153   100/ 14  L3  L2  L1  0.0

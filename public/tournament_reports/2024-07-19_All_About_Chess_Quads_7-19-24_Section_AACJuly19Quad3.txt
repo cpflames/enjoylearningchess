@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chou, Eugene           SSMDJ56Y   885  1003/ 75  D2  W4  W3  2.5
+  2 Ge, Jeremy             SSMBJ88K  1053  1054/163  D1  W3  D4  2.0
+  3 Pan, Peng-chi          SSMCK24N   895   889/118  W4  L2  L1  1.0
+  4 Han, Spencer           PPPEK75L   971   918/187  L3  L1  D2  0.5

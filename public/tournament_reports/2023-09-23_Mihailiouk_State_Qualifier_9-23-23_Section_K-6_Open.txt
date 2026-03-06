@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Balayoghan, Keeran     SPTG477N  1349  1356/ 90  L3  W14 W16 W12 W7  4.0
+  2 Shankaranand, Deeksha  EBSFI74Y  1343  1378/249  W5  W12 D10 W4  D3  4.0
+  3 Syal, Yash             CDIFC10R  1170  1359/ 91  W1  D4  W15 W10 D2  4.0
+  4 Pai, Vihaan            CHAEK17C  1218  1276/180  W14 D3  W7  L2  W10 3.5
+  5 Maharaja, Imai         HMNDK34K  1153  1194/ 75  L2  W17 BYE D15 W11 3.5
+  6 Xu, Yang               CNCE649B  1263  1246/100  W9  L10 L8  W14 W12 3.0
+  7 Li, Edgar              WOBD883Y  1215  1225/168  W17 W11 L4  W8  L1  3.0
+  8 Luo, Peter             SHVE664K  1114  1169/ 58  L11 BYE W6  L7  W15 3.0
+  9 Sembium, Aditi         BCADK25W  1090  1115/216  L6  W16 W11 HPB HPB 3.0
+ 10 Narkhede, Kshitij      CRKCA27K  1197  1239/ 88  W15 W6  D2  L3  L4  2.5
+ 11 Singh, Rushil          SNEGB52N  1326  1257/110  W8  L7  L9  W13 L5  2.0
+ 12 Ma, Lewis              SOMC587M  1212  1173/ 72  W16 L2  W13 L1  L6  2.0
+ 13 Satish Kumar, Sai NavanCENFH21Y   929   910/ 42  BYE L15 L12 L11 W17 2.0
+ 14 Arora, Ayaansh         FRWFK00J   500   890/  5  L4  L1  W17 L6  W16 2.0
+ 15 Shaikot, Sabeer        ENSF147Q  1508  1408/210  L10 W13 L3  D5  L8  1.5
+ 16 Sinha, Aadya           ETSGK00H   600   600/  5  L12 L9  L1  W17 L14 1.0
+ 17 Gaddam, Vihaan         HLCFV43A   400   357/  9  L7  L5  L14 L16 L13 0.0

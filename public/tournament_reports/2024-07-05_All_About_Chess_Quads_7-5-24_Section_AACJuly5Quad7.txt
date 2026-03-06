@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pai, Samiksha          SSMDJ19X   639   648/ 42  W4  L3  W2  2.0
+  2 Swain, Samarth         MMEBJ58S   639   648/105  W3  W4  L1  2.0
+  3 Zhang, Patrick         SSSBK01J   556   532/103  L2  W1  L4  1.0
+  4 Nam, Alex              BLWDH75Q   468   473/ 31  L1  L2  W3  1.0

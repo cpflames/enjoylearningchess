@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Edwin, Elijah          BCSDC24D  1051  1061/165  W6  W4  W2  3.0
+  2 Plesko, Francis        HSCEK03B   716   730/ 17  W3  W6  L1  2.0
+  3 Titterington, Henry    ENADJ88R   419   498/ 35  L2  W5  W4  2.0
+  4 Krishna, Vihaan        ENSC263E   466   454/ 13  W5  L1  L3  1.0
+  5 Li, Chris              CNHCJ89W   318   318/ 40  L4  L3  W6  1.0
+  6 Zeeshan, Hamza         CRKDJ15N   550   383/  6  L1  L2  L5  0.0

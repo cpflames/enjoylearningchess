@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ge, Jeremy             SSMBJ88K   648   670/ 38  D2  W4  W3  2.5
+  2 Jahani, Nikan          SNIFK89A   396   560/ 16  D1  W3  W4  2.5
+  3 Chai, Chloe            NCSDJ59R   586   520/  9  W4  L2  L1  1.0
+  4 Malhotra, Dilraj       MAHCK02Y   378   327/ 20  L3  L1  L2  0.0

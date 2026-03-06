@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Moors, Samuel          BLHJH93D   850   937/ 68  W8  W3  D2  2.5
+  2 Singh, Jagteshwar      MRDMJ25M   830   890/ 37  W7  W5  D1  2.5
+  3 Guifarro, Jack         BHMKJ85X  1000  1025/  3  W4  L1  W6  2.0
+  4 Singh, Arshaan         FERJK22R   896   900/ 37  L3  W8  W5  2.0
+  5 Russell, Emerson       BLEFK23A   680   697/ 25  W6  L2  L4  1.0
+  6 Peterson, Everest      MRDK836M   884   834/ 31  L5  W7  L3  1.0
+  7 Peterson, Caden        BHMLJ85V  1100   648/  3  L2  L6  W8  1.0
+  8 Valeos, Connor         MDIIK41H   669   609/ 12  L1  L4  L7  0.0

@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Meenakshi Sundaram, AdhCDWFK00E   809   819/ 10  W7  1.0
+  2 Brakenridge, Bryce     SOMFK89D   555   580/ 32  W5  1.0
+  3 Ravindran, Riyaan      CBRFJ57K  1009  1015/  5  W6  1.0
+  4 Agarwal, Lakshya       REEFJ57E   488   512/  5  W8  1.0
+  5 Meenakshi Sundaram, PavCDWBJ99Z   447   420/ 10  L2  0.0
+  6 Agrawal, Ayaansh       WONBJ99W   649   641/ 20  L3  0.0
+  7 Liu, Austin            SOMDG01C   476   466/ 24  L1  0.0
+  8 Pelliciotti, Luigi     THODJ56U   240   216/  5  L4  0.0

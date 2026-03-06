@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Miroshnichenko, DmitriiADUNH96T  1300  1627/  5  W2  W3  W8  W4  W7  5.0
+  2 Gao, Ziqian            MMEEK10U  1186  1223/ 20  L1  W9  W6  W5  W4  4.0
+  3 Nerella, Abhiram       HGMII18R  1168  1146/ 23  W5  L1  L4  BYE W9  3.0
+  4 Sikhakolli, Jashyant   ADUNH96S  1300  1215/  5  W6  D8  W3  L1  L2  2.5
+  5 Soykal, Toprak         MMEDK25R   679   700/ 41  L3  BYE W9  L2  D6  2.5
+  6 Yang, Jimmy            BASEG45S   994  1008/146  L4  W7  L2  W8  D5  2.5
+  7 Kim, Matthew           RKWFK88G   949   913/ 34  L8  L6  BYE W9  L1  2.0
+  8 Bhambri, Vansh         KNDEJ57J  1145  1123/ 24  W7  D4  L1  L6  HPB 2.0
+  9 Sankara, Prithvi       EVJHH96Q   700   310/  4  BYE L2  L5  L7  L3  1.0

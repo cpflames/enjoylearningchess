@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bravenboer, Jake       OPWDJ97Y   999  1101/ 90  W4  W3  D2  2.5
+  2 Leon, Nikhil           EBSF587T   993  1012/123  L3  W4  D1  1.5
+  3 Li, Hanson             MEDF507H  1103  1067/109  W2  L1  L4  1.0
+  4 Jiang, Kyle            MEDBK35B  1095  1061/105  L1  L2  W3  1.0

@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Luna, Max              FERKJ85Y  1072  1162/ 29  W3  W4  W2  3.0
+  2 Berry, Garcia          BHMLK99Z  1176  1168/ 49  W6  W5  L1  2.0
+  3 Bormuth, Silas         LYCF542J   837   895/ 20  L1  W7  W5  2.0
+  4 Qureshi, Danish        BLNGF36V   814   856/114  W7  L1  W6  2.0
+  5 Hildenbrand, Jace      TCEF722T  1027   982/133  W8  L2  L3  1.0
+  6 Fine-gucker, Logan     EAGE535R   839   825/ 87  L2  W8  L4  1.0
+  7 Ignacio, Richard       BVEFH74C   500   567/  3  L4  L3  D8  0.5
+  8 Buckham, George        SKYCK37E   823   757/ 48  L5  L6  D7  0.5

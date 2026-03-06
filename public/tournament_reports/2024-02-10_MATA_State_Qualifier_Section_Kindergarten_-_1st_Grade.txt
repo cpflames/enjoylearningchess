@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Fan, Theodore          EASBK42S   810   819/ 47  W15 W12 W3  W4  D2  4.5
+  2 Gupta, Akshay          BCABF62T   596   656/ 48  W6  W14 D5  W11 D1  4.0
+  3 Hu, Ryan               OPWAJ97N   490   602/ 30  W13 W8  L1  W5  W7  4.0
+  4 Byelashova, Sofia      SGHBK01K   421   508/ 32  W16 W17 W8  L1  W9  4.0
+  5 Gaddam, Aryan          RKWBJ99T   460   546/ 16  W7  W9  D2  L3  W11 3.5
+  6 Singhal, Sanyukt       FRVBJ30P   100   396/  5  L2  L11 W15 W19 W14 3.0
+  7 Kulkarni, Savitru      MYHAJ30N   100   408/  5  L5  W19 W10 W13 L3  3.0
+  8 Espinosa, Lorenzo      RSABJ30M   100   417/  5  W18 L3  L4  W12 W13 3.0
+  9 Siva, Vikaat           DISAJ30L   100   385/  5  W19 L5  W14 W16 L4  3.0
+ 10 Agarwal, Vedaang       ENDBJ30H   100   267/  5  L12 W15 L7  W20 W16 3.0
+ 11 Lalithmani, Vidyuth    WDEBJ99V   486   434/ 15  L14 W6  W12 L2  L5  2.0
+ 12 Soma, Tej Krishna      EMDAJ30G   100   281/  5  W10 L1  L11 L8  W20 2.0
+ 13 Venkatesh, Anya        HMNBJ30F   100   228/  5  L3  W18 W17 L7  L8  2.0
+ 14 Vigneshwaran, Akhil    ENSAJ30E   100   303/  5  W11 L2  L9  W18 L6  2.0
+ 15 Singh, Aadit           BCABJ30D   100   114/  5  L1  L10 L6  D17 W18 1.5
+ 16 Baskar, Nithvik        LYSBJ30C   100   100/  5  L4  D20 W19 L9  L10 1.5
+ 17 Suhasan, Nehaa         SFRBJ30B   100   100/  5  W20 L4  L13 D15 L19 1.5
+ 18 Li, Ryder              MEDAJ66R   282   166/ 15  L8  L13 W20 L14 L15 1.0
+ 19 Uppala, Vihaan         BCABJ94F   100   100/  8  L9  L7  L16 L6  W17 1.0
+ 20 Ghosh, Oishani         BCAAJ56E   106   100/ 14  L17 D16 L18 L10 L12 0.5

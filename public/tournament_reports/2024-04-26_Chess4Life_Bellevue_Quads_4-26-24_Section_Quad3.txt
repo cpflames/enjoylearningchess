@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Vasamsetty, Chetan     SHFDJ38Y   855   941/ 68  W3  W2  D4  2.5
+  2 Lin, Vivienne          CSIDK99D   920   933/ 35  W4  L1  W3  2.0
+  3 Li, Hanson             MEDF507H   912   875/ 92  L1  W4  L2  1.0
+  4 Wong, Claire           BCABK86D   771   746/ 64  L2  L3  D1  0.5

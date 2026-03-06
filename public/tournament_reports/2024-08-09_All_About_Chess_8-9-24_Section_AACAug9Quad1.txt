@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Shawn              SOMCJ11N  1380  1522/ 30  W2  W3  W4  3.0
+  2 Chen, William          INGH550N  1719  1669/206  L1  D4  D3  1.0
+  3 Syal, Yash             CDIFC10R  1428  1423/168  D4  L1  D2  1.0
+  4 Rastogi, Atharv        PFCG377H  1404  1404/109  D3  D2  L1  1.0

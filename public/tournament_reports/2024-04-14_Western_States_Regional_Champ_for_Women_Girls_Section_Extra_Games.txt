@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Patel, Aarya           REEFK30E  1491  1496/147  W4  1.0
+  2 Savchenko, Yana        ADUNH80A  1431  1485/  5  W3  1.0
+  3 Mathur, Aashi          PLKI522S  1318  1303/323  L2  0.0
+  4 Sundar, Jeraldin       BUSJK01C  1142  1136/ 30  L1  0.0

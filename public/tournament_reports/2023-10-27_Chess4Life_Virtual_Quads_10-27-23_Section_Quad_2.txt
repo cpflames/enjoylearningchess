@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sun, Yian              ENDF238S  1172  1303/ 69  W2  W3  W4  3.0
+  2 Maharaja, Imai         HMNDK34K  1277  1286/105  L1  W4  W3  2.0
+  3 Neyland, Dashel        HSCFK03K  1194  1178/ 18  W4  L1  L2  1.0
+  4 Hildenbrand, Blane     PSMJ122V  1189  1128/219  L3  L2  L1  0.0

@@ -1,0 +1,51 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zhu, Aiden             SOMDC77X  1207  1224/103  W19 W15 W5  W4  D2  4.5
+  2 Das, Sambuddha Sekhar  ENDDK47S  1164  1178/ 89  W42 W30 W6  W11 D1  4.5
+  3 Bravenboer, Jake       OPWDJ97Y   729   846/ 36  W47 D9  W26 W10 W11 4.5
+  4 Deng, Arthur           OPWCC90Y  1010  1042/ 84  W33 W28 W13 L1  W9  4.0
+  5 Lew, Abigail           OPWD645P   824   841/110  W48 W24 L1  W18 W14 4.0
+  6 Tsen, Eric             AGBDK18P   785   805/ 97  W35 W8  L2  W19 W16 4.0
+  7 Shah, Rachit           BNTDK44K   720   742/ 40  W45 W31 L11 W33 W12 4.0
+  8 Hanlon, Benjamin       LKDCK54U   334   548/ 38  W39 L6  W38 W13 W24 4.0
+  9 Bandai, Yugo           MCEDA31C  1163  1123/ 80  W32 D3  W25 W12 L4  3.5
+ 10 Gorski, Corvin         KSTDJ74N   455   552/ 10  D25 W36 W15 L3  W27 3.5
+ 11 Jin, Yi                MEDCE79S   806   806/ 50  W34 W16 W7  L2  L3  3.0
+ 12 Fang, Weiai            LAVD696W   806   790/201  W43 W29 W14 L9  L7  3.0
+ 13 Ting, Sophia           KSHDK64W   755   723/ 69  W44 W22 L4  L8  W32 3.0
+ 14 Pradeepkumar, Adrit    LKDCK54S   665   659/ 40  W50 W38 L12 W20 L5  3.0
+ 15 Xu, William            DCTDK93M   657   637/ 96  W46 L1  L10 W23 W33 3.0
+ 16 Gilbert, Noah          QAEDJ74L   400   483/ 10  W41 L11 W35 W22 L6  3.0
+ 17 Tan, Mai               MEDCK93R   389   391/ 33  L22 W45 L27 W26 W35 3.0
+ 18 Lawrence, Peter        LKDCK33G   357   348/ 17  L38 WF  W37 L5  W34 3.0
+ 19 Kullmann, Rex          MISDZ89V   306   384/ 20  L1  W46 W39 L6  W38 3.0
+ 20 Taskar, Ethan          MYHCJ55J   200   503/  5  L29 W32 W31 L14 W30 3.0
+ 21 Grimm, Gia             EHADJ55G   300   331/  5  L30 L35 W48 W42 W29 3.0
+ 22 Li, Anyi               LKDCJ55F   200   542/  5  W17 L13 W29 L16 W31 3.0
+ 23 Shing, Lucas           HZFCJ74H   437   407/ 15  D26 L25 W36 L15 W42 2.5
+ 24 Rogov, Richard         MEDCJ68U   382   383/ 10  W37 L5  W47 D27 L8  2.5
+ 25 Steele, John           NOWCJ55E   200   481/  5  D10 W23 L9  L29 W45 2.5
+ 26 Lee, David             NOWCF80M   200   342/  5  D23 W49 L3  L17 W47 2.5
+ 27 Silberstein, Natan     LKDDJ55D   300   339/  5  L31 W43 W17 D24 L10 2.5
+ 28 Chadha, Saahan         ENDDK64R   532   543/ 13  W40 L4  W34 U   U   2.0
+ 29 Taulu, Otso            CSICJ70S   454   452/ 15  W20 L12 L22 W25 L21 2.0
+ 30 Noonan, Ansel          LKDCK94L   442   403/ 13  W21 L2  L33 W45 L20 2.0
+ 31 Zhao, Kevin            EVGDK54M   321   333/ 20  W27 L7  L20 W44 L22 2.0
+ 32 Luo, Vivian            LKDDK84U   299   309/ 25  L9  L20 W49 W47 L13 2.0
+ 33 Michael, Sophia        DCCD704F   182   282/ 34  L4  W40 W30 L7  L15 2.0
+ 34 Igini, Vaughn          FAPDJ75W   173   202/ 15  L11 W41 L28 W37 L18 2.0
+ 35 Moultray, Jordan       LKDCK54G   102   202/ 15  L6  W21 L16 W39 L17 2.0
+ 36 Dai, Irene             NOWDJ55C   300   169/  5  D49 L10 L23 D48 W46 2.0
+ 37 Zhang, Amy             EVGCJ55A   200   142/  5  L24 W48 L18 L34 W44 2.0
+ 38 Ta, Jaxson             KSTCJ54Z   200   328/  5  W18 L14 L8  W43 L19 2.0
+ 39 Scott, Duncan          WEDCJ54Y   200   188/  5  L8  W44 L19 L35 W43 2.0
+ 40 Sonnonstine, Ty        WEDDJ54X   300   100/  5  L28 L33 L42 D41 W48 1.5
+ 41 Starbird, Thomas       LKDDJ54V   300   100/  5  L16 L34 L45 D40 W49 1.5
+ 42 Bilanko, Beau          LKDCJ68T   191   122/ 10  L2  L47 W40 L21 L23 1.0
+ 43 Mancini, Deven         NOWDE19K   146   102/ 15  L12 L27 W46 L38 L39 1.0
+ 44 Hanlon, Eleanor        LKDCK53X   100   100/ 24  L13 L39 BYE L31 L37 1.0
+ 45 Park-brinck, August    WEDCJ54U   200   133/  5  L7  L17 W41 L30 L25 1.0
+ 46 Burks, Thomas          LKDCJ54T   200   100/  5  L15 L19 L43 W49 L36 1.0
+ 47 Jeffrey, Tanner        WEDCJ54S   200   100/  5  L3  W42 L24 L32 L26 1.0
+ 48 Robertson, Zoe         LKDCK28G   124   100/  9  L5  L37 L21 D36 L40 0.5
+ 49 Landback, Maxwell      VIWCJ69Z   100   100/ 10  D36 L26 L32 L46 L41 0.5
+ 50 Li, Mia                NOWDJ54R   300   256/  1  L14 LF  U   U   U   0.0

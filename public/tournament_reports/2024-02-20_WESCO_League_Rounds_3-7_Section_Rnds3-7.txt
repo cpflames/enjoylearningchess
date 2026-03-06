@@ -1,0 +1,53 @@
+pos last name first       id numb   start end/#gms  rd3 rd4 rd5 rd6 rd7 tot 
+  1 Banchero, Andrew       EDWJJ46Q   396  1046/  5  W37 D38 U   W9  W16 3.5
+  2 Bun, Peter             MRRL761P   893   946/ 30  U   W35 W49 D22 W28 3.5
+  3 Fojas, Caden           KAMLK59K  1384  1405/ 20  W18 W32 U   W12 W25 4.0
+  4 Britt, Liam            STNMA86S  1119  1119/ 49  W28 L13 D17 U   W32 2.5
+  5 Nguyenphuoc, Timon     KAMLD25H  1144  1148/ 32  U   U   W44 L6  W30 2.0
+  6 Oetzel, Gage           AHSJJ46W  1200  1528/  3  U   U   U   W5  W33 2.0
+  7 Guilliams, Avery       KAML231A  1022  1114/ 47  W22 W10 U   W28 W29 4.0
+  8 Fryer, Hunter          AHSJJ46R   950   950/  4  W34 U   U   L11 W37 2.0
+  9 Labrecque, Wyatt       LWDMJ63U   950   892/  4  U   L16 U   L1  W35 1.0
+ 10 Williams, John         LWDMJ19L  1200   970/  3  U   L7  U   W29 W34 2.0
+ 11 Zhang, Victor          MUEK5390  1784  1786/193  W38 U   W13 W8  W36 4.0
+ 12 Morin-cotton, NathanielAHSK4895  1089  1076/177  U   U   U   L3  D13 0.5
+ 13 Whang, Joey            MRRMK59H  1033  1027/ 25  L24 W4  L11 L17 D12 1.5
+ 14 Tiley, Jamie           AHSLJ17X   831   827/ 21  U   U   U   L16 D15 0.5
+ 15 Tran, Bao Tai          MRRMK59E   807   856/ 11  L21 W34 L16 W18 D14 2.5
+ 16 Shiakarev, Slava       KAMLJ77F  1261  1176/ 11  L17 W9  W15 W14 L1  3.0
+ 17 Li, Richard            JACLC87V  1259  1283/ 38  W16 W21 D4  W13 U   3.5
+ 18 Gupta, Shreyank        JACN309A  1197  1156/ 36  L3  W24 W34 L15 U   2.0
+ 19 Lyford, Nathan         STNL942Q  1091  1042/ 55  U   L44 U   U   U   0.0
+ 20 Mittal, Sanyam         JACL2663  1104  1116/107  W27 U   W46 U   U   2.0
+ 21 Kirschten, Jacob       EDWLC85L   996  1007/ 21  W15 L17 U   U   U   1.0
+ 22 Subramaniam, Sanjit    JACMK59N  1034   985/ 17  L7  W25 L35 D2  U   1.5
+ 23 Kolli, Vaibhav         JACKK905   964   960/ 84  L43 U   U   W33 U   1.0
+ 24 Hasse, Nikos           EDWLB11Q   969   970/ 25  W13 L18 U   L40 U   1.0
+ 25 Ngo, Joshua            EDWKB43H   962   917/ 92  W45 L22 U   L32 L3  1.0
+ 26 Geng, Tommy            JACKF12Q   936   975/ 56  W49 W36 U   W37 U   3.0
+ 27 Taylor, Ryder          KAMK385C   859   860/365  L20 U   U   W41 U   1.0
+ 28 Vincenzi, Franklin     AHSKK59W   727   703/ 14  L4  U   U   L7  L2  0.0
+ 29 Pape, Neil             EDWLK59R   835   802/ 12  U   U   U   L10 L7  0.0
+ 30 Luu, Jesse             SATLK328   491   490/ 27  W31 U   U   L42 L5  1.0
+ 31 Sanchez, Rafael        MRRLK58R   216   100/ 11  L30 U   U   U   U   0.0
+ 32 Echevarria, Alex       LWDMJ64A   864   964/  4  U   L3  U   W25 L4  1.0
+ 33 Tally, Brena           MRRLK59D   316   316/  9  U   L48 L50 L23 L6  0.0
+ 34 Kupchenkoi, Illia      STNJJ64B   587   483/  6  L8  L15 L18 U   L10 0.0
+ 35 Williams, Jakob        STNJJ63X   628   660/  5  U   L2  W22 U   L9  1.0
+ 36 Pawling, Owen          EDWMJ46X  1350   994/  3  U   L26 U   U   L11 0.0
+ 37 Espinales, Rafael      MRRKJ19K  1000   569/  3  L1  U   U   L26 L8  0.0
+ 38 Tsang, Ian             JACLK59F  1350  1297/  6  L11 D1  W48 W44 U   2.5
+ 39 Sastri, Navneeth       JACLJ46U   800   800/  2  U   U   U   W52 U   1.0
+ 40 Williams, Jack         LWDMJ63Y   843  1098/  2  U   U   U   W24 U   1.0
+ 41 Appel, Jaden           AHSJJ46V   708   587/  3  W46 U   U   L27 U   1.0
+ 42 Knoth, Isaac           LWDMJ19J  1200   900/  1  U   U   U   W30 U   1.0
+ 43 Calico, Mac            KAMKJ19H  1000  1352/  1  W23 U   U   U   U   1.0
+ 44 Robles, Osmar          MRRKJ77D   737   831/  8  U   W19 L5  L38 U   1.0
+ 45 Dutchover, Alize       MRRKJ19G  1000   602/  3  L25 W46 L47 U   U   1.0
+ 46 Laplante, Audrey       STNJJ63W   397   228/  4  L41 L45 L20 U   U   0.0
+ 47 Ho, Kevin              KAMKJ64E  1300   967/  3  U   U   W45 L51 U   1.0
+ 48 Kaczkielo, Jakub       STNMJ63T   900   800/  3  U   W33 L38 U   U   1.0
+ 49 Ding, Calvin           KAMKJ19E  1000   559/  2  L26 U   L2  U   U   0.0
+ 50 Le, Benjamin           KAML339F   908   910/ 20  U   U   W33 U   U   1.0
+ 51 Huling, Grant          AHSLK59T   856   902/ 13  U   U   U   W47 U   1.0
+ 52 Ivannikov, Heorhii     MRRLJ19D  1100   575/  1  U   U   U   L39 U   0.0

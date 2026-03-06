@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Thanikonda, Kruti      RCSDK84W  1074  1162/ 92  W3  W4  W2  3.0
+  2 Han, Spencer           HSCEK75L  1076  1038/143  W4  L3  L1  1.0
+  3 Burtram, Dayton        BLMIG77M   968   957/232  L1  W2  L4  1.0
+  4 Li, Harry              SSSEG30G   944   940/323  L2  L1  W3  1.0

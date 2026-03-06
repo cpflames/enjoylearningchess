@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Owen            FHVI995H  1393  1399/277  L3  W4  W2  2.0
+  2 Hildenbrand, Blane     PSMI122V  1405  1409/329  W4  W3  L1  2.0
+  3 Palmer, Evan           BHMKI90S  1253  1304/180  W1  L2  W4  2.0
+  4 Kozaczuk, James        SHKI108A  1246  1198/198  L2  L1  L3  0.0

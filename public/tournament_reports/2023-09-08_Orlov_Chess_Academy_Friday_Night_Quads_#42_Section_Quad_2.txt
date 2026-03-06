@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xu, Jeffery            MEDGJ88V  1024  1090/ 17  W2  W3  W4  3.0
+  2 Zhang, Kevin           SPTF809Y   959   923/ 84  L1  L4  W3  1.0
+  3 Hu, Yi-en Pi           BCADK35P   887   869/ 18  W4  L1  L2  1.0
+  4 Jang, Jinwon           VIEG561P   796   803/ 62  L3  W2  L1  1.0

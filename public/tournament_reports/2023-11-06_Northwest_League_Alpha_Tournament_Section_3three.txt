@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chiu, Yi Jun           SHMM347E  1079  1142/ 29  W8  W3  D2  2.5
+  2 Mcconaughy, Marcus     SHMK798W  1018  1098/ 25  W7  W5  D1  2.5
+  3 Wang, Gavin            BHMM7042  1089  1109/ 35  W4  L1  W6  2.0
+  4 Carpenter, Jonas       FERK274G  1007  1034/ 58  L3  W7  W5  2.0
+  5 Clayton, Evan          SHMLA71G  1093  1058/ 27  W6  L2  L4  1.0
+  6 Putnam, Israel         LYEKA22J  1015   989/ 17  L5  W8  L3  1.0
+  7 Kaur, Abjit            MRDJK40X   973   867/  6  L2  L4  D8  0.5
+  8 Volker, Rune           FERKK47N   974   907/ 11  L1  L6  D7  0.5

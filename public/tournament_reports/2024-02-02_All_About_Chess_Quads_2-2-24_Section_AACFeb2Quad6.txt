@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Saboo, Ishaan          EVJGJ59Q   760   779/ 12  W2  L3  W4  2.0
+  2 Jahani, Nikan          SNIFK89A   755   774/ 30  L1  W4  W3  2.0
+  3 Pan, Peng-chi          SSMCK24N   687   735/ 23  W4  W1  L2  2.0
+  4 Moore, Ethan           CRKEJ49L   783   581/  6  L3  L2  L1  0.0

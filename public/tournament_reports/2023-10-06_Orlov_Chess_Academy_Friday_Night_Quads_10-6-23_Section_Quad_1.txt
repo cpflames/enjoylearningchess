@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Olson, Travis          ADUN8893  1787  1793/132  W2  W3  W4  3.0
+  2 Wang, Ares             MEDFJ77J  1212  1250/280  L1  W4  D3  1.5
+  3 Isitt, Ben             INGIJ98W  1136  1397/  6  W4  L1  D2  1.5
+  4 Wang, Isaac            CLHEK00U  1252  1195/ 12  L3  L2  L1  0.0

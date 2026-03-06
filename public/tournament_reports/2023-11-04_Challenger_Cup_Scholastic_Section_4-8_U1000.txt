@@ -1,0 +1,31 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Lizon, Abhay           TYEHJ87S   700  1381/  5  W23 W13 W9  W3  W2  5.0
+  2 Friedenson, Isaac      VVMHK21N   544   907/ 20  W6  W7  W11 W8  L1  4.0
+  3 Li, Hanson             MEDF507H   928   987/ 82  W25 W18 W10 L1  W8  4.0
+  4 Wang, Devin            MEDEK01T   235   824/  7  W14 W5  L8  W23 W16 4.0
+  5 Olson, Benjamin        BLCIG50S   899   924/143  W12 L4  W28 W18 W10 4.0
+  6 Sailer, Shaunak        OPWGC25Z   861   902/225  L2  W24 W19 W11 D7  3.5
+  7 Nelson, Ellis          BRYEB28C   917   926/ 50  W24 L2  W20 W9  D6  3.5
+  8 Yao, Roger             THOBK88C   816   835/ 40  W27 W19 W4  L2  L3  3.0
+  9 Deng, Alison           OMSGC56H   856   867/ 91  WF  W17 L1  L7  W18 3.0
+ 10 Lo, Ella               SOMFB94E   770   799/ 36  W30 W15 L3  W21 L5  3.0
+ 11 Confer, Braden         HSCGK00V   974   941/ 20  W26 W28 L2  L6  W15 3.0
+ 12 Berjis, Adrina         MEDE230U   571   643/ 87  L5  L16 W29 W24 W23 3.0
+ 13 Rogovoy, Alexander     TIMEK14Y   897   881/ 21  WF  L1  L18 W28 W19 3.0
+ 14 Srivastava, Manya      FRWG758W   587   668/ 66  L4  L23 W30 W20 W21 3.0
+ 15 Law, Caleb             EASFJ87R   500   782/  5  W22 L10 D16 W17 L11 2.5
+ 16 Tian, Grace            CRIGE89L   782   767/162  L19 W12 D15 W26 L4  2.5
+ 17 Nachiappan, Lakshmanan RHJHJ87Q   700   739/  5  W20 L9  D23 L15 W26 2.5
+ 18 Chen, Leon             SNRED24U   623   709/ 45  W21 L3  W13 L5  L9  2.0
+ 19 Chen, Kevin            AUDEJ87P   400   708/  5  W16 L8  L6  W22 L13 2.0
+ 20 Huttelmaier, Evelyn    CHRF757Z   781   718/151  L17 W27 L7  L14 W25 2.0
+ 21 Bhimisetty, Sankalp    OMSIG69J   903   811/ 27  L18 W25 W22 L10 L14 2.0
+ 22 Inampudi, Tanvisree    BRHGB45J   758   689/ 18  L15 W30 L21 L19 W29 2.0
+ 23 Dhameeja, Ved          GRREJ98F   794   747/ 47  L1  W14 D17 L4  L12 1.5
+ 24 Abhilash, Lavina       CRIEK07R   550   542/ 58  L7  L6  D27 L12 W28 1.5
+ 25 Velichko, Ivan         ASAFK63Z   649   610/ 43  L3  L21 D26 W27 L20 1.5
+ 26 Yen, Apollo            REJGG78H   666   617/ 77  L11 W29 D25 L16 L17 1.5
+ 27 Singh, Aarika          BCAEK30Z   338   345/ 14  L8  L20 D24 L25 W30 1.5
+ 28 Agarwal, Kavir         MEDE152U   766   677/ 34  W29 L11 L5  L13 L24 1.0
+ 29 Jade, Kevin            MEDFJ87N   500   315/  5  L28 L26 L12 W30 L22 1.0
+ 30 So, Jason              MEDEJ87M   400   100/  5  L10 L22 L14 L29 L27 0.0

@@ -1,0 +1,47 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Roesch, Carson         BLHL120K  1925  1927/263  W32 W34 2.0
+  2 Lee, Jae-yoon          SHMLC734  1585  1601/120  W34 W32 2.0
+  3 Werner, Ross           SHMMB91H  1499  1501/132  W23 W21 2.0
+  4 Kuzin, Ethan           SHML7567  1456  1463/320  W37 W16 2.0
+  5 Love, Charles          SHML458N  1284  1287/ 97  W42 W39 2.0
+  6 Bowman, Finn           SHMLD50L  1121  1159/ 86  W13 W40 2.0
+  7 Gutierrez, Diego       BLHM233E   734   791/ 17  W39 W42 2.0
+  8 Kerr, Ethan            BLHLJ06N   399   482/ 39  W43 W36 2.0
+  9 Frost, Ignatius        SHMKJ64P  1503  1500/102  W35 D10 1.5
+ 10 Trushkov, Max          FERL616A  1411  1419/180  W22 D9  1.5
+ 11 Morgen, Briar          SQULJ72Z   900   907/  9  W19 D31 1.5
+ 12 Palmer, Evan           BHMKI90S  1352  1330/166  L14 W14 1.0
+ 13 Berry, Garcia          BHMLK99Z  1185  1180/ 37  L6  W15 1.0
+ 14 Chiu, Yi Jun           SHMM347E  1150  1176/ 38  W12 L12 1.0
+ 15 Bosch, Declan          SHMJE38K  1126  1142/ 68  W33 L13 1.0
+ 16 Nipges, Jaxon          FERK382B  1117  1124/ 97  W20 L4  1.0
+ 17 Mcconaughy, Marcus     SHMK798W  1109  1062/ 34  W40 L27 1.0
+ 18 Clayton, Evan          SHMLA71G  1017  1023/ 38  W27 U   1.0
+ 19 Putnam, Israel         LYEKA22J   988   958/ 29  L11 W41 1.0
+ 20 Reiss, Madelyn         BLHMJ21Y   901   918/ 59  L16 W37 1.0
+ 21 Singh, Arshaan         FERJK22R   877   893/ 46  W38 L3  1.0
+ 22 Aujla, Sihaan          BLHL413P   853   891/ 32  L10 W35 1.0
+ 23 Montgomery, Marcus     MRDJJ85K   644   722/  7  L3  W38 1.0
+ 24 Tin, Isaac             SQUKK99V   627   646/ 15  W36 L26 1.0
+ 25 Eckermann, Garrett     FERLJ60A   593   679/  5  W41 U   1.0
+ 26 Fransico-woodenlegs, JoMRDL680H   578   625/ 42  U   W24 1.0
+ 27 Peterson, Caden        BHMKJ85V   565   628/ 12  L18 W17 1.0
+ 28 Crediford, Nilay       FERJF28K   440   467/ 34  W45 U   1.0
+ 29 Macmillan, Zaiden      BLHJJ85P   269   324/  9  W44 U   1.0
+ 30 Delong, Sophia         BLHJK03A   240   268/ 20  W46 U   1.0
+ 31 Harris, Eli            MRDLJ85Q   267   310/ 11  U   D11 0.5
+ 32 Lewis, Theo            FERMK29P  1447  1431/ 98  L1  L2  0.0
+ 33 Wilkerson, Gabriel     BHMMJ85Z  1349  1288/ 10  L15 U   0.0
+ 34 Peterson, Kylan        MRDM175Q  1215  1209/ 83  L2  L1  0.0
+ 35 Siadal, Carson         MRDKK41F   997   956/ 19  L9  L22 0.0
+ 36 Masterson, Emmett      LYEM300S   951   843/ 45  L24 L8  0.0
+ 37 Singh, Jagteshwar      MRDMJ25M   934   899/ 46  L4  L20 0.0
+ 38 Phillips, Lucas        BLHL696K   779   720/ 28  L21 L23 0.0
+ 39 Volker, Rune           FERKK47N   775   741/ 20  L7  L5  0.0
+ 40 Conwell, Atticus       BHMLK71E   754   737/ 11  L17 L6  0.0
+ 41 Peper, James           BLHLB93F   678   633/ 30  L25 L19 0.0
+ 42 Lee, Jensen            MRDK947B   647   625/ 34  L5  L7  0.0
+ 43 Graybill, Daniel       FERJJ60C   541   126/  3  L8  U   0.0
+ 44 Ziesing, Evan          FERKJ85R   424   371/ 14  L29 U   0.0
+ 45 Russell, Reagan        BLHKJ72W   353   318/  8  L28 U   0.0
+ 46 Ziesing, Kendra        FERJJ85G   100   100/ 14  L30 U   0.0

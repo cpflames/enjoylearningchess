@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Li, Jessie             IDXFY99Q   500  1644/  5  W3  W4  W5  W6  W2  5.0
+  2 Li, Roy                IDXCY99P   200  1264/  5  W6  W8  W3  W4  L1  4.0
+  3 Samiev, Alexander      SSPGK22P  1046  1057/ 10  L1  W11 L2  W9  W5  3.0
+  4 Bai, Kelin             SKKFD75J   990   983/187  W11 L1  W9  L2  W10 3.0
+  5 Wang, Kelby            SKKD796Y   966   948/116  W9  W10 L1  W8  L3  3.0
+  6 Hochheimer, Luca       SGSF179R   510   560/ 48  L2  W12 W10 L1  W8  3.0
+  7 Vonner, Kai            HUTDJ96X   300   152/  4  L10 L9  L8  BYE W11 2.0
+  8 King, Charlie          CVCCJ96W   200   398/  5  W12 L2  W7  L5  L6  2.0
+  9 Liu, Eddy              SGSBJ96V   100   546/  4  L5  W7  L4  L3  BYE 2.0
+ 10 Young, Daniel          TNTGJ96U   600   398/  5  W7  L5  L6  W11 L4  2.0
+ 11 King, Ava              CVCDJ96T   300   100/  4  L4  L3  BYE L10 L7  1.0
+ 12 Judge, Lillian         PSPDJ96S   300   100/  2  L8  L6  U   U   U   0.0

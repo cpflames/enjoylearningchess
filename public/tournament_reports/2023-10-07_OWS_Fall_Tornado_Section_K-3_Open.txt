@@ -1,0 +1,29 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kakkad, Vayu           DCTDK50L  1185  1271/480  W25 W18 W10 W3  W5  5.0
+  2 Zhao, William          STTDH70M  1139  1154/ 75  W19 W12 L5  W18 W13 4.0
+  3 Thanikonda, Kruti      CMCDK84W  1040  1102/ 78  W21 W22 W13 L1  W12 4.0
+  4 Wang, Hengsheen        EVGB704V   898   972/ 59  L26 W23 WF  W10 W7  4.0
+  5 Raj, Skandha           EVGBK55U   846  1116/ 62  W8  W16 W2  W6  L1  4.0
+  6 Wang, Harvey           OPWBJ68G   857  1007/ 60  D7  W24 W16 L5  W15 3.5
+  7 Das, Sambuddha Sekhar  ENDDK47S  1207  1166/ 50  D6  W15 D14 W17 L4  3.0
+  8 Ma, Lewis              SOMC587M  1173  1124/ 77  L5  L20 W24 W26 W17 3.0
+  9 Lan, Jonathan          MEDD968F  1039  1011/110  L22 W21 L12 W20 W18 3.0
+ 10 Deng, Arthur           OPWCC90Y  1012  1001/ 54  W23 W26 L1  L4  W21 3.0
+ 11 He, Jizhou             OPWC789B   980   958/ 49  L13 W28 W25 L12 W22 3.0
+ 12 Rachiba, Alisa         EVPDK08E   858  1004/ 32  W14 L2  W9  W11 L3  3.0
+ 13 Fan, Theodore          EASBK42S   701   917/ 33  W11 W17 L3  W14 L2  3.0
+ 14 Edwin, Elijah          BCSDC24D  1215  1148/137  L12 W19 D7  L13 W23 2.5
+ 15 Jiang, Kyle            MEDBK35B   694   821/ 35  D24 L7  W19 W16 L6  2.5
+ 16 Jiang, Nathan          SCDCG71Q  1076  1002/105  W20 L5  L6  L15 W26 2.0
+ 17 Liu, Bihe              KKNBB78J   915   897/ 51  W28 L13 W20 L7  L8  2.0
+ 18 Wang, Evan             FRWD929Z   890   871/ 95  W27 L1  W26 L2  L9  2.0
+ 19 Marrugo, Emilio        OPWDE25J   821   799/ 42  L2  L14 L15 W28 W27 2.0
+ 20 Chen, Julian           CNHBK32C   820   837/ 25  L16 W8  L17 L9  W25 2.0
+ 21 Sun, Ethan             JINCK94M   817   815/ 34  L3  L9  W28 W25 L10 2.0
+ 22 Vasamsetty, Chetan     SHFDJ38Y   742   769/ 31  W9  L3  LF  BYE L11 2.0
+ 23 Mahale, Avneesh        CNHB993F   702   728/ 64  L10 L4  W27 W24 L14 2.0
+ 24 Xing, Andrew           SSSCK62E   927   856/ 52  D15 L6  L8  L23 W28 1.5
+ 25 Karthik, Sai           BCAD261S   848   777/ 79  L1  W27 L11 L21 L20 1.0
+ 26 Hoang, Leonard Bach    STQAK88E   655   673/ 14  W4  L10 L18 L8  L16 1.0
+ 27 Tsen, Eric             AGBDK18P   498   459/ 58  L18 L25 L23 BYE L19 1.0
+ 28 Karanam, Aadya         CHKDK84K   677   605/ 38  L17 L11 L21 L19 L24 0.0

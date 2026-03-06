@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Deng, Stanley          LECFK22E  1499  1458/276  W3  W4  L5  L2  BYE 3.0
+  2 Chen, Andy             SOMDK05J  1392  1374/  8  L4  L5  BYE W1  W3  3.0
+  3 Palathingal, Rafael    KKNE196R  1392  1374/ 80  L1  BYE W4  W5  L2  3.0
+  4 Li, Edgar              WOBD883Y  1148  1215/163  W2  L1  L3  BYE W5  3.0
+  5 Narkhede, Kshitij      CRKCA27K  1113  1197/ 83  BYE W2  W1  L3  L4  3.0

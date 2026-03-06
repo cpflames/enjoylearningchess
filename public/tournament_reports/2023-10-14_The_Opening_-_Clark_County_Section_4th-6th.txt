@@ -1,0 +1,32 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wong, Aiden            LBCGI77E   763  1024/ 15  W19 W11 W2  W4  W3  5.0
+  2 Patnaik, Rishabhdeva   CRKFG72D  1127  1104/129  W28 W5  L1  W21 W8  4.0
+  3 Damrau, Austin         PIVFK95E  1081  1068/ 35  W14 W10 W22 W7  L1  4.0
+  4 Jannsen, Kevin         LBCGK12P   926   953/ 10  W27 W18 W6  L1  W9  4.0
+  5 Einarson, Aiden        SAKFD84D   525   619/ 95  W23 L2  W19 W25 W16 4.0
+  6 Xiao, Tianyu           DFXFJ92A   500   928/  5  W17 W9  L4  W10 W7  4.0
+  7 Zhang, Brian           GRSFA38L   749   746/191  W20 W12 W16 L3  L6  3.0
+  8 Nagpal, Ronen          WMEEK13Q   657   660/ 22  W21 L22 W26 W14 L2  3.0
+  9 Vy, Evan               LBCGK12N   626   665/ 10  W15 L6  W13 W22 L4  3.0
+ 10 Stoer, Tobias          WEDFE46C   522   574/ 31  W24 L3  W27 L6  W21 3.0
+ 11 Gorlachev, Michael     FMPFK15W   366   430/ 15  W30 L1  W20 L16 W22 3.0
+ 12 Rozum, Julian          LLSFK12L   338   403/ 10  W25 L7  L21 W31 W24 3.0
+ 13 Zalozh, Maxsym         FMPFK12J   222   330/ 10  W31 L16 L9  W23 W25 3.0
+ 14 Subramanian, Varun     PREEJ91Z   400   687/  5  L3  W24 W17 L8  W18 3.0
+ 15 Heaward, Adam          FMPFJ91Y   500   495/  5  L9  L25 W29 W19 W17 3.0
+ 16 Shove, Emmett          HSCGJ91X   600   518/  5  D26 W13 L7  W11 L5  2.5
+ 17 Durfey, Dylan          LMDGK29Y   541   503/ 14  L6  BYE L14 W26 L15 2.0
+ 18 Zhang, Andrew          GRSEE47Z   487   453/ 63  W29 L4  L25 W20 L14 2.0
+ 19 Xie, Caroline          DFXFJ91W   500   368/  5  L1  W30 L5  L15 W29 2.0
+ 20 Feeney, Gideon         FMPEJ91V   400   298/  5  L7  W29 L11 L18 W30 2.0
+ 21 Wilson, Lorea          HSCFJ91U   500   447/  5  L8  W31 W12 L2  L10 2.0
+ 22 Aryku, Nathan          HOMFJ91T   500   460/  4  WF  W8  L3  L9  L11 2.0
+ 23 Miller, Mason          FMPFJ91S   500   225/  5  L5  L27 W30 L13 W31 2.0
+ 24 Godsey, Hadassah       HSCEJ91R   400   355/  5  L10 L14 W28 W27 L12 2.0
+ 25 Miller, John           HSCGJ91Q   600   406/  5  L12 W15 W18 L5  L13 2.0
+ 26 Downing, Jack          HSCGJ91P   600   340/  5  D16 W28 L8  L17 D27 2.0
+ 27 Markarian, Jameson     MCOGJ91N   600   281/  5  L4  W23 L10 L24 D26 1.5
+ 28 Wood, Desmond          HSCEJ91M   400   100/  4  L2  L26 L24 L29 BYE 1.0
+ 29 Lamb, Morgan           FMPEJ91L   400   111/  5  L18 L20 L15 W28 L19 1.0
+ 30 Maddox, Isaiah         FMPFJ91J   500   100/  4  L11 L19 L23 BYE L20 1.0
+ 31 Miller, Awna           FMPEJ91H   400   100/  4  L13 L21 BYE L12 L23 1.0

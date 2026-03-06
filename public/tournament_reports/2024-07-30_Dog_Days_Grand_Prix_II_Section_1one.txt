@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Scollon, Owen          FHVI734D  1780  1788/512  W4  W2  W3  3.0
+  2 Hildenbrand, Blane     PSMI122V  1438  1439/350  W5  L1  W6  2.0
+  3 Stroud, Jeb            FHVIK22V  1393  1403/148  W6  W4  L1  2.0
+  4 Kozaczuk, James        SHKI108A  1207  1207/213  L1  L3  W5  1.0
+  5 Moors, Samuel          BLHJH93D  1032  1033/102  L2  W6  L4  1.0
+  6 Hildenbrand, Jace      TCEF722T   982   950/136  L3  L5  L2  0.0

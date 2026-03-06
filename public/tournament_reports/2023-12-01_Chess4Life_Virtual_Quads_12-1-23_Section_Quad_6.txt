@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ramanathan, Varun      LEOIK88H   669   713/ 30  W4  BYE D3  2.5
+  2 Sabarish, Ananya       BCADG02Z   663   674/126  L3  BYE W4  2.0
+  3 Karthik, Sai           BCAD261S   828   793/111  W2  L4  D1  1.5
+  4 Srivastava, Manya      FRWG758W   668   652/ 69  L1  W3  L2  1.0

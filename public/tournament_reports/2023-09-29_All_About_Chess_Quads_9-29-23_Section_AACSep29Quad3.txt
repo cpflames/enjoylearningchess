@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhao, William          STTDH70M  1115  1139/ 70  W2  W4  D3  2.5
+  2 Pan, Peng-ruei         SSME759R   924   998/ 32  L1  W3  W4  2.0
+  3 Juarez-caballero, CristSNIGD76Z  1069  1032/ 86  D4  L2  D1  1.0
+  4 Han, Spencer           HSCEK75L   945   914/120  D3  L1  L2  0.5

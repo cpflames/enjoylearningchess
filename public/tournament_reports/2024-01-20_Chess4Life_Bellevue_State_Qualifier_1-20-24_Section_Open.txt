@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Gagnier, Ian           HSCFC72H  1084  1220/167  W2  W3  W5  W4  W7  5.0
+  2 Ivanov, Matvei         EABCK34E   846  1015/ 30  L1  W6  W8  W5  W4  4.0
+  3 Bala, Anirudh          TMCGD50M   877   948/ 40  W6  L1  L4  W7  W8  3.0
+  4 Goel, Advit            CMCCG22F   851   921/ 68  D8  W7  W3  L1  L2  2.5
+  5 Zeitlin, Tom           WOBEI56H   854   868/ 57  W7  W8  L1  L2  L6  2.0
+  6 Vasamsetty, Chetan     SHFDJ38Y   798   822/ 51  L3  L2  L7  W8  W5  2.0
+  7 Maheshwari, Vihaan     SKNJ695W  1203  1074/109  L5  L4  W6  L3  L1  1.0
+  8 Acharya, Arnav         KMNG746Q   970   853/ 62  D4  L5  L2  L6  L3  0.5

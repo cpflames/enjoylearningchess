@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Sharma, Srishti        ISMGJ88P   686   670/ 26  W12 L6  W8  W4  3.0
+  2 Huang, Jaden           ENDCJ63S   400   487/ 51  L4  W7  W6  W10 3.0
+  3 Verma, Aditeya         BLWEJ58X   311   428/ 17  W13 W8  L4  W7  3.0
+  4 Woo, Nina              NCSEJ06R   400   672/  4  W2  W5  W3  L1  3.0
+  5 Hsieh, Cheryl          BLWFJ82X   291   338/ 12  W14 L4  W9  D6  2.5
+  6 Zhang, Chuxuan         BCAFK02N   265   398/ 14  W9  W1  L2  D5  2.5
+  7 Mirchandani, Kiaan     MEDDK92Z   241   269/ 34  W10 L2  W11 L3  2.0
+  8 Kamasani, Dharshith    FCEDJ06Q   300   341/  4  W11 L3  L1  W12 2.0
+  9 Chatterjee, Kahaan     SNICJ06P   200   234/  4  L6  W11 L5  W13 2.0
+ 10 Maeung, Leo            BLWFJ06M   500   245/  4  L7  W13 W12 L2  2.0
+ 11 Kuramoto, Sho          SOMDJ58T   182   129/ 11  L8  L9  L7  W14 1.0
+ 12 Dunn, William          FCEEJ06L   400   109/  4  L1  W14 L10 L8  1.0
+ 13 Sharma, Stavya         SSMCJ06K   200   100/  4  L3  L10 W14 L9  1.0
+ 14 Bhandari, Aarav        CBRDJ06H   300   100/  4  L5  L12 L13 L11 0.0

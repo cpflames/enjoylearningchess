@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 He, Oliver             ENDDK71V  1322  1317/305  W6  W2  L3  W4  W5  4.0
+  2 Phadke, Mahi           STLHF90B  1215  1234/ 47  W4  L1  W5  W3  W6  4.0
+  3 Gagnier, Ian           HSCFC72H  1188  1213/177  W5  W6  W1  L2  W4  4.0
+  4 Vasamsetty, Chetan     SHFDJ38Y   822   863/ 56  L2  W5  W6  L1  L3  2.0
+  5 Bravenboer, Jake       OPWDJ97Y   813   804/ 44  L3  L4  L2  W6  L1  1.0
+  6 Zeitlin, Tom           WOBEI56H   868   797/ 62  L1  L3  L4  L5  L2  0.0

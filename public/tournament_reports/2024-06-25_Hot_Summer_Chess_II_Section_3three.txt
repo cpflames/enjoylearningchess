@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kaur, Prabhkirat       IREEE41C   398   440/ 24  W4  D5  W3  2.5
+  2 Louws, Micah           CUEBJ16B   419   406/ 16  W6  L3  W5  2.0
+  3 Gilday, Finn           CIAEJ17C   245   325/ 16  W8  W2  L1  2.0
+  4 Neff, Josiah           CCXGH69Q   146   249/  6  L1  W7  W6  2.0
+  5 Neff, Joseph           CCXDH69L   190   247/  6  W7  D1  L2  1.5
+  6 Russell, Huxley        BLEDH73W   171   150/  8  L2  W8  L4  1.0
+  7 Dunn, Luke             CAREH68Q   400   100/  3  L5  L4  W8  1.0
+  8 Neff, William          CCXBH69K   100   100/  6  L3  L6  L7  0.0

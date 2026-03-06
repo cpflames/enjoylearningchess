@@ -1,0 +1,32 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Deng, Arthur           OPWCC90Y  1042  1267/ 89  W14 D15 W6  W8  W4  4.5
+  2 Ma, Lewis              SOMC587M  1240  1253/104  W21 W26 W16 L4  W10 4.0
+  3 Wang, Harvey           OPWBJ68G  1163  1212/ 80  W7  W11 L4  W13 W12 4.0
+  4 Zhao, William          STTDH70M  1039  1223/109  W18 W8  W3  W2  L1  4.0
+  5 Pan, Jesse             ENSCJ61R  1246  1231/ 10  D17 W23 W12 D10 D7  3.5
+  6 Zhu, Aiden             SOMDC77X  1210  1203/113  D23 W17 L1  W28 W14 3.5
+  7 Hu, Yi-en Pi           BCADK35P  1045  1136/ 48  L3  W24 W9  W16 D5  3.5
+  8 Lan, Jonathan          MEDD968F  1213  1192/123  W22 L4  W19 L1  W17 3.0
+  9 Das, Sambuddha Sekhar  ENDDK47S  1197  1163/ 99  W13 L12 L7  W19 W22 3.0
+ 10 Zhang, Harvey          CHRD515V  1107  1119/ 55  W29 D19 W15 D5  L2  3.0
+ 11 Wang, Wenyou           MEDDK93J  1001  1007/ 49  W31 L3  L14 W24 W23 3.0
+ 12 Edwin, Elijah          BCSDC24D  1000  1051/162  W25 W9  L5  W18 L3  3.0
+ 13 Wang, Evan             FRWD929Z   924   968/115  L9  W25 W30 L3  W20 3.0
+ 14 Fang, Weiai            LAVD696W   825  1007/214  L1  W21 W11 W15 L6  3.0
+ 15 Rachiba, Alisa         EVPDK08E  1244  1191/ 66  W27 D1  L10 L14 W28 2.5
+ 16 Shi, Shawn             WOBD356Y  1053  1037/ 30  W28 W30 L2  L7  D18 2.5
+ 17 Wang, Hengsheen        EVGB704V   980  1001/ 87  D5  L6  W31 W26 L8  2.5
+ 18 Jiang, Kyle            MEDBK35B   850   928/ 62  L4  W27 W20 L12 D16 2.5
+ 19 Shah, Rachit           BNTDK44K   742   829/ 44  BYE D10 L8  L9  W26 2.5
+ 20 Ivanov, Matvei         EABCK34E  1015   940/ 35  L30 W29 L18 W31 L13 2.0
+ 21 Chen, Julian           CNHBK32C   954   928/ 45  L2  L14 L24 W27 W30 2.0
+ 22 Shih, Kei              UCDC982C   933   915/ 57  L8  L28 W29 W30 L9  2.0
+ 23 Wu, Jayden             UCDC495Q   930   930/ 70  D6  L5  D27 W25 L11 2.0
+ 24 Yao, Roger Yutang      THOBK88C   845   852/ 55  L26 L7  W21 L11 W31 2.0
+ 25 Tan, Charlie           MEDC273V   804   790/ 53  L12 L13 BYE L23 W29 2.0
+ 26 Zou, Jinhan            SSMDH14T  1029   962/ 68  W24 L2  D28 L17 L19 1.5
+ 27 He, Jizhou             OPWC789B   976   901/ 66  L15 L18 D23 L21 BYE 1.5
+ 28 Qin, Skyler            OPWAJ97T   867   874/ 57  L16 W22 D26 L6  L15 1.5
+ 29 Fan, Theodore          EASBK42S   907   810/ 42  L10 L20 L22 BYE L25 1.0
+ 30 Jin, Yi                MEDCE79S   806   781/ 55  W20 L16 L13 L22 L21 1.0
+ 31 Tsen, Eric             AGBDK18P   777   715/106  L11 BYE L17 L20 L24 1.0

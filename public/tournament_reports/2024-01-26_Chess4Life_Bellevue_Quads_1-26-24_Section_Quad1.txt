@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lebedinsky, Alexander  EVJH958F   985  1215/248  W2  W4  W3  3.0
+  2 He, Oliver             ENDDK71V  1332  1327/297  L1  W3  W4  2.0
+  3 Chevuri, Tattva        CBRGC06V  1110  1114/320  W4  L2  L1  1.0
+  4 Joshi, Vyom            LEOIH81X  1303  1217/235  L3  L1  L2  0.0

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sankar, Deethya        HSCAH63X   100   858/  3  W6  W5  W2  3.0
+  2 Lee, Zachary           STTAH63W   100   561/  3  W4  W3  L1  2.0
+  3 Yip, Jayne             CBRIH63U   800   393/  3  W5  L2  W4  2.0
+  4 Beasley, Jacques       LLFBH65J   100   136/  6  L2  W6  L3  1.0
+  5 Wells, Julia           HSCCH63T   200   228/  3  L3  L1  W6  1.0
+  6 Yip, Jasmine           CBRDH63R   300   100/  3  L1  L4  L5  0.0

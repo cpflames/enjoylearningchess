@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Das, Sambuddha Sekhar  ENDDK47S  1118  1231/119  W15 W18 W8  D3  W7  4.5
+  2 Rachiba, Alisa         EVPDK08E  1178  1177/ 91  L14 W13 W12 W15 W3  4.0
+  3 Babbar, Riaan          ENDDJ98D  1118  1146/ 36  W22 W17 W7  D1  L2  3.5
+  4 Zou, Jinhan            SSMDH14T  1021  1051/ 87  W10 WF  D9  L7  W12 3.5
+  5 Xing, Andrew           SSSCK62E   953  1029/ 92  W16 L7  W22 W9  D6  3.5
+  6 Puranik, Armin         SSMDJ56Z   946  1026/ 25  L12 W11 W10 W8  D5  3.5
+  7 Thanikonda, Kruti      CMCDK84W  1262  1232/121  W21 W5  L3  W4  L1  3.0
+  8 Zandanov, Leonid       ENACK31Q  1259  1211/ 88  W13 W14 L1  L6  W15 3.0
+  9 Deng, Arthur           OPWCC90Y  1208  1159/ 98  W11 D12 D4  L5  W14 3.0
+ 10 Luo, Vivienne          SHVC703P   767   866/110  L4  W19 L6  W20 W13 3.0
+ 11 Sun, Ethan             JINCK94M   820   836/ 63  L9  L6  D19 W18 W17 2.5
+ 12 Tsen, Eric             AGBDK18P   739   883/121  W6  D9  L2  W14 L4  2.5
+ 13 Bangard, Dhruv         TBKBK65D   825   837/ 63  L8  L2  W21 W16 L10 2.0
+ 14 Su, Oliver             JINDD01U   810   849/110  W2  L8  W16 L12 L9  2.0
+ 15 Wadhwani, Ren          DCCDK13K   803   842/ 36  L1  W20 W17 L2  L8  2.0
+ 16 Zhang, David           SOMBK41P   765   741/ 63  L5  BYE L14 L13 W20 2.0
+ 17 Chou, Eugene           SSMDJ56Y   754   765/ 23  W20 L3  L15 W22 L11 2.0
+ 18 Kakarlapudi, Jairam IshMEDB585M   640   691/ 35  W19 L1  L20 L11 W22 2.0
+ 19 Oh, Seojoon            SSMDJ70T   870   772/ 24  L18 L10 D11 L21 BYE 1.5
+ 20 Jiang, Kyle            MEDBK35B   928   810/ 67  L17 L15 W18 L10 L16 1.0
+ 21 Chu, Skylar            SOMC579R   847   798/ 24  L7  L22 L13 W19 U   1.0
+ 22 Hoang, Leonard Bach    STQAK88E   802   751/ 29  L3  W21 L5  L17 L18 1.0

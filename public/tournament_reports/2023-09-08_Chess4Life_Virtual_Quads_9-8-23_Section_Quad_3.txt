@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yin, Daniel            ISSM116Y   958  1055/373  W2  W4  L3  2.0
+  2 He, Oliver             CRIDK71V  1154  1139/211  L1  D3  W4  1.5
+  3 Sreraman, Rahul        BCADJ42L  1037  1054/144  L4  D2  W1  1.5
+  4 Hildenbrand, Blane     PSMI122V  1196  1148/193  W3  L1  L2  1.0

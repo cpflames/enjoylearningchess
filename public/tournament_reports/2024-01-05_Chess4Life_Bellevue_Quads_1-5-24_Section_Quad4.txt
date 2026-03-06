@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Naik, Shreyas          ETSEJ98X   554   686/ 30  W4  W3  W2  3.0
+  2 Kachachi, Cyrus        OPWD763G   575   593/ 47  W3  W4  L1  2.0
+  3 Deepak, Sairaghav      HSCIA52Q   462   455/ 23  L2  L1  W4  1.0
+  4 Suresh, Shruti         MTWE650Q   499   419/ 15  L1  L2  L3  0.0

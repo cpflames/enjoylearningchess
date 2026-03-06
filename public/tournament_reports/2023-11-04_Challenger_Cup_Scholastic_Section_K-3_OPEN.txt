@@ -1,0 +1,25 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Evin, Terrick          EBSCC54L  1347  1429/142  W10 W3  W6  W2  W5  5.0
+  2 Das, Sambuddha Sekhar  ENDDK47S  1162  1251/ 60  W7  W9  W5  L1  W8  4.0
+  3 Bandai, Yugo           MCEDA31C  1090  1164/ 65  W18 L1  W13 W14 W6  4.0
+  4 Vijay, Adith           SOMDD20K  1112  1131/ 30  D13 W19 W8  L5  W7  3.5
+  5 Zandanov, Leonid       WLBCK31Q  1248  1244/ 61  W17 W11 L2  W4  L1  3.0
+  6 Edwin, Elijah          BCSDC24D  1130  1136/145  W20 W12 L1  W9  L3  3.0
+  7 Pan, David             MEDC330Y   915   973/ 75  L2  W24 W11 W16 L4  3.0
+  8 Ma, Lewis              SOMC587M  1124  1116/ 82  W21 W14 L4  W10 L2  3.0
+  9 Wang, Hengsheen        EVGB704V   972   994/ 64  W24 L2  W12 L6  W15 3.0
+ 10 He, Jizhou             OPWC789B   958   991/ 54  L1  W18 W19 L8  W14 3.0
+ 11 Wang, Harvey           OPWBJ68G  1007  1027/ 65  W15 L5  L7  W13 W17 3.0
+ 12 Chen, Julian           CNHBK32C   837   944/ 30  W22 L6  L9  W23 W16 3.0
+ 13 Wang, Evan             FRWD929Z   871   935/100  D4  W22 L3  L11 W23 2.5
+ 14 Jin, Yi                MEDCE79S   811   850/ 35  W16 L8  W20 L3  L10 2.0
+ 15 Hu, Yi-en Pi           BCADK35P   833   848/ 28  L11 W17 L16 W20 L9  2.0
+ 16 Rachiba, Alisa         EVPDK08E   993   938/ 42  L14 W21 W15 L7  L12 2.0
+ 17 Karthik, Sai           BCAD261S   996   963/ 96  L5  L15 W22 W18 L11 2.0
+ 18 Jiang, Kyle            MEDBK35B   849   838/ 42  L3  L10 BYE L17 W22 2.0
+ 19 Sun, Ethan             JINCK94M   824   812/ 43  W23 L4  L10 L22 BYE 2.0
+ 20 Liu, Bihe              KKNBB78J   897   850/ 56  L6  W23 L14 L15 D21 1.5
+ 21 Bhattacharjee, Satvik  TIMCE65Q   878   814/ 36  L8  L16 L23 BYE D20 1.5
+ 22 Wang, Wenyou           MEDDK93J  1043   932/ 30  L12 L13 L17 W19 L18 1.0
+ 23 Su, Oliver             JINDD01U  1002   893/100  L19 L20 W21 L12 L13 1.0
+ 24 Mittal, Oas            BRHCJ87L   200   566/  2  L9  L7  U   U   U   0.0

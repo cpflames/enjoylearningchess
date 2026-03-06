@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Caine, Spencer         SIAGJ63E   600  1021/  4  W6  W13 WF  W2  W3  5.0
+  2 Watt, Camden           PVVFJ63D   500   644/  5  W7  W12 D5  L1  W8  3.5
+  3 Albert, Silas          FSSEJ73C   310   377/  9  BYE L10 W13 W4  L1  3.0
+  4 Stewart, Ben           SJVDJ87Y   112   243/ 10  D8  D9  W6  L3  W12 3.0
+  5 Glessing, Maximus      SJVEJ63C   400   538/  4  HPB W8  D2  W7  L6  3.0
+  6 Anderson-woody, Hazen  NSVFJ63B   500   452/  5  L1  W11 L4  W13 W5  3.0
+  7 Swift, Ian             SWEEJ63A   400   374/  5  L2  W14 W12 L5  W11 3.0
+  8 Brown, Claire          CATDJ62Y   300   350/  5  D4  L5  W9  W12 L2  2.5
+  9 Boring, Wyatt          FREGJ62X   600   192/  5  L10 D4  L8  D11 W13 2.0
+ 10 Pemberton, Addison     SJVEJ62W   400   777/  2  W9  W3  LF  U   U   2.0
+ 11 Jacobsen, Ryker        ORSEJ62T   400   100/  4  L13 L6  WF  D9  L7  1.5
+ 12 Flores, Maria          ORSDJ62S   300   100/  5  W14 L2  L7  L8  L4  1.0
+ 13 Glenn, Charlie         CHTDJ62R   300   100/  5  W11 L1  L3  L6  L9  1.0
+ 14 Pemberton, James       SJVBJ62P   100   100/  2  L12 L7  LF  U   U   0.0

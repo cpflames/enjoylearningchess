@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Liu, Yuntao            STTG505Y  1626  1647/283  W2  W4  W3  3.0
+  2 Benedict, Blaine       HSCIK07Q  1273  1357/ 21  L1  W3  W4  2.0
+  3 Cheng, Alan            CHRFJ71K  1417  1401/125  W4  L2  L1  1.0
+  4 Kunisetty, Chekresh    XXXFK99L  1415  1358/ 45  L3  L1  L2  0.0

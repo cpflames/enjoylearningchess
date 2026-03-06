@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ghosh, Snehil          CBRE738T  1317  1349/116  W15 W4  W2  W3  W5  5.0
+  2 Lin, Annan             THOEC02D  1118  1124/ 44  W16 W7  L1  W8  W6  4.0
+  3 Appineni, Arnav        CHKEG26A  1053  1062/ 25  W22 W18 W6  L1  W8  4.0
+  4 Naveh, Ido             SOMEK63G   714   740/ 33  W20 L1  W11 D12 W14 3.5
+  5 Nelson, Ellis          BRYEB28C   902   885/ 60  W17 L8  W18 W7  L1  3.0
+  6 Muscutt, Abraham       HSCEJ71L   736   751/ 15  W19 W11 L3  W9  L2  3.0
+  7 Sheker, Wesley         DCTEJ69H   722   747/ 34  W13 L2  W10 L5  W12 3.0
+  8 Du, Charles            SOMEA15U   698   780/ 57  W10 W5  W14 L2  L3  3.0
+  9 Soltani, Everett       WEDEK91N   433   443/ 39  L11 W22 W23 L6  W19 3.0
+ 10 Srebrnik, Mika         SJCEJ48R   400   608/  5  L8  W17 L7  W15 W16 3.0
+ 11 Tang, Khai             THUEJ48Q   400   624/  5  W9  L6  L4  W18 W17 3.0
+ 12 Jones, Maximillian     BFDEK87K   795   721/ 25  L18 W21 W15 D4  L7  2.5
+ 13 Chernenko, Boris       BRYEJ68Z   167   239/ 10  L7  D16 W21 L17 W20 2.5
+ 14 Gowda, Aarav           THOEK87E   463   419/ 25  D21 W23 L8  D16 L4  2.0
+ 15 Powell, Marshall       BRYEJ69B   399   402/ 10  L1  W19 L12 L10 W23 2.0
+ 16 Tentor, Jalil          BFDEK39U   342   341/ 10  L2  D13 W20 D14 L10 2.0
+ 17 Newell, Jonathan       THOEK87B   333   352/ 15  L5  L10 W22 W13 L11 2.0
+ 18 Newell, Benjamin       THOEK87J   300   406/ 15  W12 L3  L5  L11 W22 2.0
+ 19 Chin, Elliott          MAGEK39L   243   226/ 14  L6  L15 BYE W23 L9  2.0
+ 20 Alvarez Minguez, VictorMAGEJ75Q   163   137/  9  L4  BYE L16 W21 L13 2.0
+ 21 Ward, Jasper           DCTEJ48P   400   100/  4  D14 L12 L13 L20 BYE 1.5
+ 22 Bosse, Odin            DCTEK87H   337   257/ 14  L3  L9  L17 BYE L18 1.0
+ 23 Brittain, Elouise      DCTEK86Z   138   100/ 12  BYE L14 L9  L19 L15 1.0

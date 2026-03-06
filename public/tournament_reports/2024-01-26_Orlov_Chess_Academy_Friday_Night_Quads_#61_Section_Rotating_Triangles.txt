@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Isitt, Ben             INGIJ98W  1315  1362/ 20  W2  D4  W5  2.5
+  2 Shah, Kanav            LMAF295Q  1468  1460/157  L1  W3  W4  2.0
+  3 Wang, Isaac            CLHEK00U  1186  1192/ 40  W5  L2  W6  2.0
+  4 Ghosh, Snehil          CBRE738T  1328  1317/111  W6  D1  L2  1.5
+  5 Desai, Vivaan          BCAAJ49H   100   967/  3  L3  W6  L1  1.0
+  6 Friesen, Eli           PKRDK27G   794   769/ 20  L4  L5  L3  0.0

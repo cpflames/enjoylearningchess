@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Garg, Vihaan           CMCDJ10X   975  1035/231  W4  W3  L2  2.0
+  2 Balaji, Arjun          CMCDH75P   961  1029/ 56  L3  W4  W1  2.0
+  3 Tian, Eric             SOMFI80S  1106  1064/168  W2  L1  L4  1.0
+  4 Singh, Atharva         SKIHK06G  1078  1043/ 42  L1  L2  W3  1.0

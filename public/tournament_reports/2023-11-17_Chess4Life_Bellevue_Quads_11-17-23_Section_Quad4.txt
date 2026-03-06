@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hu, Maxwell            BCABK03N   389   462/ 12  W5  W6  W2  3.0
+  2 Tharian, Isaac         TOPDK39K   242   299/ 14  W4  W3  L1  2.0
+  3 Koster, John           SPTAJ88T   225   202/  6  D6  L2  W5  1.5
+  4 Margetan, Alston       MRTCW85Y   200   100/  3  L2  L5  W6  1.0
+  5 Kalva, Shivani         AUDEJ82D   400   134/  3  L1  W4  L3  1.0
+  6 Chen, Zachary          PKRFJ88S   225   113/  6  D3  L1  L4  0.5

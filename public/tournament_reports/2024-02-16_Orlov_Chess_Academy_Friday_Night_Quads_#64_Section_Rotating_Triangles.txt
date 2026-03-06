@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Shah, Kanav            LMAF295Q  1450  1453/166  W2  W4  BYE 3.0
+  2 Yang, Nicholas         CHRDG23U   888   893/ 83  L1  BYE W5  2.0
+  3 Xu, Ethan              BENEK98S   750   806/112  U   W5  W4  2.0
+  4 Yang, Jimmy            BASEG45S   863   835/118  W5  L1  L3  1.0
+  5 Chadha, Saahan         ENDDK64R   574   539/ 21  L4  L3  L2  0.0

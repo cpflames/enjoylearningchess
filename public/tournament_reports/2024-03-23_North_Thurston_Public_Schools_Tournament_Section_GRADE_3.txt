@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Owens, Pickens         LELDH84L   300   692/  5  W7  L3  W13 W6  W2  4.0
+  2 Unger, Cooper          SBADH84K   300   693/  5  W15 W14 W3  W4  L1  4.0
+  3 Steadman, Cade         EVFDH84J   300   658/  5  W6  W1  L2  W7  D4  3.5
+  4 Reynolds, Pierce       IGNDH84H   300   555/  5  W5  W13 W8  L2  D3  3.5
+  5 Alfani, Elijah         LELDH84G   300   339/  5  L4  W9  L11 W12 W8  3.0
+  6 Mattos, Jaxon          PLGDH84F   300   435/  5  L3  W10 W14 L1  W11 3.0
+  7 Marx, Alex             LELDH84E   300   407/  4  L1  BYE W9  L3  W10 3.0
+  8 Rodrigues-vargas, MelodLELDH84D   300   274/  5  D9  W15 L4  W11 L5  2.5
+  9 Strozyk, Ryan          CPIDH84C   300   249/  5  D8  L5  L7  W15 W13 2.5
+ 10 Gause, Rachel          LCYDH83Y   300   253/  4  U   L6  W15 W13 L7  2.0
+ 11 Boxell, Colby          PLGDH83X   300   175/  5  L13 W12 W5  L8  L6  2.0
+ 12 Barrett, Tiernan       PLGDH83W   300   100/  4  L14 L11 BYE L5  W15 2.0
+ 13 Mclaughey, Oliver      IGNDH83V   300   100/  5  W11 L4  L1  L10 L9  1.0
+ 14 Callender, Moyra       EVFDH83T   300   235/  3  W12 L2  L6  U   U   1.0
+ 15 Lam, Caleb             CPIDH83S   300   100/  5  L2  L8  L10 L9  L12 0.0
+
+ All Unrated-player Section: Ratings capped at 1000

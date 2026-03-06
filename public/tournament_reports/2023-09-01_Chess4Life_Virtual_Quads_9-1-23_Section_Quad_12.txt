@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Guilanians, Gavin      OPWH645B   642   786/ 23  W3  W4  W2  3.0
+  2 Chan, Jaxon            EASFK30M   645   680/ 33  W4  W3  L1  2.0
+  3 Vignesh, Anirudh       BLWC594Q   635   603/  9  L1  L2  W4  1.0
+  4 Kandar, Aarav          FISDK21U   633   551/ 21  L2  L1  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Thanikonda, Kruti      CMCDK84W  1177  1248/100  W3  D2  W4  2.5
+  2 Pan, Peng-ruei         SSME759R  1235  1225/ 75  W4  D1  L3  1.5
+  3 Joshi, Yash            PFCH280R  1196  1173/157  L1  L4  W2  1.0
+  4 Li, Harry              SSSEG30G  1142  1132/334  L2  W3  L1  1.0

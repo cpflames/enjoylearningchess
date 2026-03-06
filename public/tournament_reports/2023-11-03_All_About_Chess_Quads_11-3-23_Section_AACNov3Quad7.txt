@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yu, Eric               ETSBK25N   167   372/ 13  W4  W2  W3  3.0
+  2 Krogstad, Jaxon        NCSCJ88M   200   342/  3  W3  L1  W4  2.0
+  3 Paidipathi, Kiaan      SHSBJ99C   152   147/ 14  L2  W4  L1  1.0
+  4 Vatsan, Maitri         SSMBK00S   197   108/ 14  L1  L3  L2  0.0

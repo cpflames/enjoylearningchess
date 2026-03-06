@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nandakiran, Vidyuth    SSME617C   870   975/ 77  W2  W3  D4  2.5
+  2 Xing, Andrew           SSSCK62E   937   933/ 84  L1  D4  W3  1.5
+  3 Mangla, Atharv         GRRDK07C   961   924/ 73  W4  L1  L2  1.0
+  4 Ge, Jeremy             SSMBJ88K   875   863/ 71  L3  D2  D1  1.0

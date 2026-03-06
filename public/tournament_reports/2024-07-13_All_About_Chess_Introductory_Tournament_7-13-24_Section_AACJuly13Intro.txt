@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Zhang, Patrick         SSSBK01J   615   674/110  W5  W7  W2  W4  4.0
+  2 Swain, Samarth         MMEBJ58S   564   572/112  W9  W3  L1  W7  3.0
+  3 Nam, Alex              BLWDH75Q   448   453/ 38  W10 L2  W11 W8  3.0
+  4 Hsieh, Cheryl          BLWFJ82X   338   343/ 16  D11 W8  W10 L1  2.5
+  5 Liu, Evan              CEIAH68A   100   147/  3  L1  L10 BYE W11 2.0
+  6 Hsieh, Will            BLWBH67Z   100   100/  3  L7  BYE D8  D10 2.0
+  7 Chen, Helen            BLWBK41R   100   128/ 45  W6  L1  D9  L2  1.5
+  8 Gu, Ximu               ENDAJ05X   100   100/  7  BYE L4  D6  L3  1.5
+  9 Smith, Kenji           JMRDH67Y   300   100/  3  L2  L11 D7  BYE 1.5
+ 10 Zhang, Nathan          SSMBH67X   100   163/  4  L3  W5  L4  D6  1.5
+ 11 Li, Henry              CNHAH67W   100   163/  4  D4  W9  L3  L5  1.5

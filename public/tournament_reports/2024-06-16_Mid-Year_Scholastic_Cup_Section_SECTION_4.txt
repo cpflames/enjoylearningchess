@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wang, Harvey           OPWBJ68G  1070  1209/128  W9  W6  W7  W5  W2  5.0
+  2 Chaudhuri, Agnivesh    CHAEB55V  1080  1093/244  HPB HPB W3  W7  L1  3.0
+  3 Razmov, Siana          HZFBK93Y   786   886/137  L6  W8  L2  W4  W7  3.0
+  4 Yalamanchili, Nikhil   LMAFK63R   758   813/ 47  L7  BYE W8  L3  W5  3.0
+  5 Ye, Alex               ENDEH51L  1101  1031/126  W8  L7  W6  L1  L4  2.0
+  6 Byelashova, Darya      SGHDK51X   967   955/103  W3  L1  L5  HPB HPB 2.0
+  7 Sankrithi, Vivaan      HSCAK61R   949   942/ 98  W4  W5  L1  L2  L3  2.0
+  8 Byelashova, Sofia      SGHBK01K   829   759/ 68  L5  L3  L4  HPB HPB 1.0
+  9 Mazalov, Denis         NLAEK10S   751   746/ 29  L1  U   U   U   U   0.0

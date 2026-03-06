@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Cleary, Matteo         SMWEJ17L   823   907/ 13  W5  W4  W2  3.0
+  2 Rennie, Elias          BVEFH77C   757   761/ 11  W6  W7  L1  2.0
+  3 Triano, Tony           SKYEJ17K   672   673/ 15  L4  W8  W5  2.0
+  4 Aguila-contreras, EdgarHORHJ65J   630   694/ 32  W3  L1  W7  2.0
+  5 Russell, Emerson       BLEFK23A   574   568/ 67  L1  W6  L3  1.0
+  6 Cancelosi, Nicholas    VSTGM25W   535   507/ 65  L2  L5  W8  1.0
+  7 Smith, Benjamin        BLEDG44D   519   505/ 27  W8  L2  L4  1.0
+  8 Kaur, Prabhkirat       IREEE41C   409   346/ 15  L7  L3  L6  0.0

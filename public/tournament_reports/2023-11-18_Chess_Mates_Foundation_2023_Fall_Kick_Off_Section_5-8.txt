@@ -1,0 +1,32 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zhang, Kevin           WOBF809Y   987  1282/ 96  W17 W9  W10 W7  W2  5.0
+  2 Sankrithi, Sarang      HSCEB11D  1376  1384/221  W20 W4  W11 W8  L1  4.0
+  3 Patnaik, Rishabhdeva   CRKFG72D  1097  1123/137  W25 L8  W21 W19 W11 4.0
+  4 Lee, Justin            CNLH732V  1086  1171/ 66  W27 L2  W23 W10 W8  4.0
+  5 Hughes, Weston         SMSII26V  1079  1148/ 50  W26 L6  W28 W12 W9  4.0
+  6 Das, Sambuddha Sekhar  ENDDK47S  1251  1243/ 65  W23 W5  D7  L9  W15 3.5
+  7 Xu, Alex               EMSH500U  1126  1123/125  W30 W29 D6  L1  W16 3.5
+  8 Khatib, Kenan          IMSIC566  1266  1254/245  W21 W3  W12 L2  L4  3.0
+  9 Chien, Jeffrey         OVLGF41X  1263  1237/139  W22 L1  W20 W6  L5  3.0
+ 10 Zhu, Aiden             SOMDC77X  1240  1202/ 84  W16 W18 L1  L4  W21 3.0
+ 11 Keane, Brendan         MAYIK04V  1216  1184/ 14  W24 W15 L2  W13 L3  3.0
+ 12 Edmond, Ivy            HTNGD81E  1205  1165/263  W28 W19 L8  L5  W25 3.0
+ 13 Mooney, Ian Samuel     WHIIJ76M   800   902/  5  L15 W24 W18 L11 W19 3.0
+ 14 Mooney, Zack           CSIFJ76L   500   674/  5  L18 W22 L19 W28 W20 3.0
+ 15 Yang, Lucas            LKWFK86V   965   963/ 34  W13 L11 D17 W18 L6  2.5
+ 16 Service, Everett       CHUHK12K   485   532/ 15  L10 D27 W29 W17 L7  2.5
+ 17 Polson, Samuel         MVEIJ76K   800   681/  5  L1  W31 D15 L16 W24 2.5
+ 18 Reimer, Oliver         LKDFG59D   818   800/ 29  W14 L10 L13 L15 W30 2.0
+ 19 Kalian, Illia          VIWFI13T   649   666/ 51  WF  L12 W14 L3  L13 2.0
+ 20 Binoj, Advay           AGBFK32J   648   641/ 20  L2  W30 L9  W29 L14 2.0
+ 21 Mcclenahan, Nicklas    AGBFK26V   644   678/ 20  L8  W25 L3  W30 L10 2.0
+ 22 Lohr, Jackson          AGBFK46G   582   534/ 14  L9  L14 L26 BYE W31 2.0
+ 23 Stoer, Tobias          WEDFE46C   574   582/ 36  L6  W26 L4  L25 W29 2.0
+ 24 Hedstrom, Parker       WEDF498Y   484   496/ 38  L11 L13 BYE W26 L17 2.0
+ 25 Wu, Taylor             MEDFJ76J   500   640/  5  L3  L21 W27 W23 L12 2.0
+ 26 Chor, Linus            CSIFJ76H   500   487/  5  L5  L23 W22 L24 W28 2.0
+ 27 Speirs, Arran          AGBFJ76G   500   230/  4  L4  D16 L25 L31 BYE 1.5
+ 28 Redick, Alton          WEDFE50P   400   335/  8  L12 BYE L5  L14 L26 1.0
+ 29 Stanley, Allison       MAGF872Q   363   320/ 93  BYE L7  L16 L20 L23 1.0
+ 30 Polson, Jude           MVEFJ76F   500   409/  5  L7  L20 W31 L21 L18 1.0
+ 31 Collinson, Flynn       WEDFJ76E   500   272/  4  LF  L17 L30 W27 L22 1.0

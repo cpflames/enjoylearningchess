@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Haining, Kyle          ADUNK338  2298  2313/518  W14 W13 BYE D2  HPB W8  5.0
+  2 Jiang, Brandon         BLLL7768  2223  2257/525  W17 W5  W11 D1  W4  D3  5.0
+  3 Liu, Austin            SKNJ530J  2072  2128/346  W12 D7  W8  HPB W11 D2  4.5
+  4 Sundaram, Siddarth MeenADUNK02X  2472  2455/ 12  D8  W12 D5  W10 L2  W9  4.0
+  5 He, Daniel             ADUNC697  2357  2355/293  W9  L2  D4  D8  W6  W11 4.0
+  6 Willy, Stephen         HSCIH17K  2203  2199/535  W10 L11 W15 D7  L5  W13 3.5
+  7 Omori, Michael         ADON4258  2152  2146/327  D16 D3  W17 D6  L9  D12 3.0
+  8 Min, Ryan              OMSJ5430  2115  2130/396  D4  W16 L3  D5  W10 L1  3.0
+  9 Lu, Yiding             BASH865Z  2107  2121/271  L5  L10 W12 W17 W7  L4  3.0
+ 10 Wang, Ted              STTEK13D  2073  2076/261  L6  W9  W16 L4  L8  BYE 3.0
+ 11 Kona, Vidip            RSAFI26J  2019  2040/326  BYE W6  L2  W14 L3  L5  3.0
+ 12 Pupols, Viktors        ADUN8503  2178  2164/ 57  L3  L4  L9  W16 W15 D7  2.5
+ 13 Wan, Bertrand          NPRMK421  2044  2029/269  BYE L1  L14 D15 WF  L6  2.5
+ 14 Aliyev, Timur          ADUNK62F  2355  2336/ 19  L1  BYE W13 L11 U   U   2.0
+ 15 Sprumont, Oscar        ADUNK10E  2047  2031/ 13  HPB HPB L6  D13 L12 D16 2.0
+ 16 Jammalamadaka, Vihaan  WPPGJ90F  2042  2019/363  D7  L8  L10 L12 BYE D15 2.0
+ 17 Yang, Alexander        OMSHD81J  2068  2043/213  L2  BYE L7  L9  LF  U   1.0

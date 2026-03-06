@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dharamshi, Anay        CBRCK42U  1085  1136/119  W4  D2  W3  2.5
+  2 Sembium, Aditi         BCADK25W  1002  1052/290  D3  D1  W4  2.0
+  3 Upasani, Neil          SSMEJ57C  1081  1049/ 67  D2  D4  L1  1.0
+  4 Nandakiran, Vidyuth    SSME617C  1020   979/110  L1  D3  L2  0.5

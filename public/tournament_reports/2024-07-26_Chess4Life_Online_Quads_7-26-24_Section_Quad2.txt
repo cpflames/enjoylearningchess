@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Navarro, Sebastian     TT1HX59S  1168  1260/ 32  W2  W4  W3  3.0
+  2 Chaporkar, Nihar       ENSDK65B  1161  1178/ 59  L1  W3  W4  2.0
+  3 Kossuri, Neil          SKWG696L  1172  1140/ 89  W4  L2  L1  1.0
+  4 Garg, Vihaan           CMCDJ10X   993   952/240  L3  L1  L2  0.0

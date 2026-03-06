@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bannister, Cypress     HORGK36L   773   827/ 51  W3  W6  W6  3.0
+  2 Keele, Brendyn         HORHJ65M   750   641/  7  L6  D3  BYE 1.5
+  3 Aguila-contreras, EdgarHORHJ65J   612   610/  8  L1  D2  W7  1.5
+  4 Jackson, Henry         HORHJ49S   700   822/  1  D5  BYE U   1.5
+  5 Cruz, Noah             HORIJ49R   800   867/  2  D4  W8  U   1.5
+  6 Castro, Ezaykiel       CIAGK35V   452   515/  8  W2  L1  L1  1.0
+  7 Taylor, Hunter         HORI639M   381   365/ 10  D8  U   L3  0.5
+  8 Carpenter, Tanner      HORHJ49Q   700   375/  2  D7  L5  U   0.5

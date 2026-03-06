@@ -1,0 +1,51 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Gupta, Vivaan          EALLF01U  1575  1600/ 25  W6  W16 W5  D2  W7  4.5
+  2 Rao, Deepak Sri KartikeBPSH517J  1377  1434/135  W34 W19 W37 D1  W10 4.5
+  3 Preizler, Adrian       JUHKD229  1501  1511/183  W21 W18 W27 L7  W11 4.0
+  4 Zhao, Dennis           OPWH525E  1267  1287/335  W44 L27 W21 W18 W17 4.0
+  5 Bharadwaj, Anish       TSTJI530  1221  1282/313  W40 W47 L1  W27 W12 4.0
+  6 Chabot, Troy           BRSKK15U  1128  1282/ 25  L1  W40 W31 W13 W14 4.0
+  7 Ayalew, Brook          DCCIJ71Q   800  1580/  5  W17 W25 W14 W3  L1  4.0
+  8 Liu, Bichen            KKNHK00D  1552  1516/107  D32 W41 L11 W37 W26 3.5
+  9 Xie, Max               EVJJI185  1531  1503/430  W33 D10 W32 L11 W28 3.5
+ 10 Keane, Brendan         MAYIK04V  1184  1283/ 19  W48 D9  W30 W22 L2  3.5
+ 11 Aubry, Jesse           CAPJK76P  1084  1344/ 15  W12 D30 W8  W9  L3  3.5
+ 12 Foltz, Karsten         HTNI306D  1387  1356/156  L11 W36 W19 W29 L5  3.0
+ 13 Xie, Michael           EVJH549C  1373  1333/402  L27 W44 W20 L6  W29 3.0
+ 14 Joshi, Dhroov          REDKD083  1254  1256/ 97  W45 W35 L7  W33 L6  3.0
+ 15 Bhargava, Saarth       STLIF29W  1237  1196/ 86  WF  L29 L33 W45 W32 3.0
+ 16 Lechner, Liam          DCCJ591P  1206  1192/ 86  W46 L1  L35 W40 W33 3.0
+ 17 Fong, Matthew          RASJ683T  1185  1187/191  L7  W39 W45 W35 L4  3.0
+ 18 Kosau, Mikhail         OMSIG08J  1153  1156/ 29  W43 L3  W42 L4  W34 3.0
+ 19 Wu, Jasper             IMSI3471  1131  1128/127  W49 L2  L12 W47 W36 3.0
+ 20 Zaballa, Sebastian     BAII970Z  1129  1123/ 10  W50 L22 L13 W48 W35 3.0
+ 21 Marnadi, Ethan         TMBHE62G  1107  1126/ 62  L3  W43 L4  W39 W30 3.0
+ 22 Calo, Jude             REGI3425  1370  1345/205  W28 W20 D29 L10 U   2.5
+ 23 Chatterjee, Sasmit     RHJIH23M  1281  1199/ 80  L35 L45 D41 W44 W37 2.5
+ 24 Balaji, Sidharth       EVJHC22H  1227  1163/ 63  W38 L37 D34 L26 W43 2.5
+ 25 Bhaskara, Yash         ICKJI539  1226  1201/284  W39 L7  D28 D34 D27 2.5
+ 26 Chopra, Aaryaman       BISIK30K  1209  1179/ 64  D41 L32 W47 W24 L8  2.5
+ 27 Ephrem, Yabi           DCCJC72Q  1024  1148/ 91  W13 W4  L3  L5  D25 2.5
+ 28 Vutukuri, Niharika     REJHB12L  1010  1051/ 81  L22 W50 D25 W31 L9  2.5
+ 29 Mitra, Rahul           OPWIH53N   902  1064/286  W31 W15 D22 L12 L13 2.5
+ 30 Sundar, Jeraldin       BUSJK01C  1277  1232/ 15  W36 D11 L10 D32 L21 2.0
+ 31 Vutukuri, Adhrith      TSTJ326L  1254  1178/ 64  L29 W38 L6  L28 W42 2.0
+ 32 Xu, Alex               EMSH500U  1123  1150/130  D8  W26 L9  D30 L15 2.0
+ 33 Don, Alexander Wf      BUSH958V  1110  1106/188  L9  W48 W15 L14 L16 2.0
+ 34 Goldman, Rowan         BUSH633N  1076  1067/107  L2  W49 D24 D25 L18 2.0
+ 35 Huttelmaier, Alex      OMSH218R   996  1036/174  W23 L14 W16 L17 L20 2.0
+ 36 Lahiri, Priyadarshi    EVJH191Q   987   971/ 45  L30 L12 W46 W41 L19 2.0
+ 37 Sahoo, Reyansh         SKIH459D   965   988/ 53  WF  W24 L2  L8  L23 2.0
+ 38 Ma, Zihao              DCCK380M   799   719/ 10  L24 L31 L43 W49 W46 2.0
+ 39 Naficy, Camdyn         SARI488A   764   756/140  L25 L17 W50 L21 W47 2.0
+ 40 Rust, Connor Joseph    BOTKK08J   694   804/  9  L5  L6  W49 L16 W48 2.0
+ 41 Aubry, Jacob           GRIIK18R   601   796/ 10  D26 L8  D23 L36 W45 2.0
+ 42 Shukla, Arjun          PFCHK46C   811   781/ 14  LF  W46 L18 D43 L31 1.5
+ 43 Li, Junyi              IDXHY99G   178   335/  5  L18 L21 W38 D42 L24 1.5
+ 44 Rajan, Vivaan          GTMH301F   902   846/ 24  L4  L13 L48 L23 BYE 1.0
+ 45 Wani, Vivaan Vikram    GTMIK15E   826   829/ 40  L14 W23 L17 L15 L41 1.0
+ 46 Singh, Shayantam       SKIHK21P   504   478/ 10  L16 L42 L36 W50 L38 1.0
+ 47 Black, Nolan           NISHK73R   399   390/ 14  BYE L5  L26 L19 L39 1.0
+ 48 Smith, Cooper          NWBHJ71P   700   777/  5  L10 L33 W44 L20 L40 1.0
+ 49 Khudyeva, Bagima       ISMIJ71N   800   441/  5  L19 L34 L40 L38 W50 1.0
+ 50 Kompelli, Rishi        BOTKJ71M  1000   105/  5  L20 L28 L39 L46 L49 0.0

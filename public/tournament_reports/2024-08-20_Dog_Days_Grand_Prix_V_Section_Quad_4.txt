@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kaur, Prabhkirat       IREEE41C   626   695/ 47  W4  W3  W2  3.0
+  2 Neff, Joseph           CCXDH69L   515   508/ 28  D3  W4  L1  1.5
+  3 Melnik, Mark           TCIDH69M   441   457/ 21  D2  L1  W4  1.5
+  4 Louws, Micah           CUEBJ16B   373   314/ 40  L1  L2  L3  0.0

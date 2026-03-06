@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Syal, Yash             CDIFC10R  1375  1431/162  D3  W2  W4  2.5
+  2 Ghosh, Snehil          CBRE738T  1382  1402/176  W4  L1  W3  2.0
+  3 Ma, Lewis              SOMC587M  1379  1358/148  D1  D4  L2  1.0
+  4 Joshi, Yash            PFCH280R  1365  1326/221  L2  D3  L1  0.5

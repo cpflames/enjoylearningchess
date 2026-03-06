@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Qiu, Aichen            INTMB56Z  1532  1560/119  BYE W17 W3  W4  W2  W5  6.0
+  2 Wirkkala-scheller, LogaNSLJJ41N  1407  1346/ 11  L5  W18 W11 W12 L1  W3  4.0
+  3 Kolenski, Drew         LSSLI420  1369  1365/174  W13 W14 L1  W6  W4  L2  4.0
+  4 Larson, Oscar          SMZKK80P  1135  1196/ 20  BYE W5  W8  L1  L3  W12 4.0
+  5 Roberts, Noah          SPRK3819  1011  1167/ 37  W2  L4  W9  W15 W10 L1  4.0
+  6 White, Preston         CORLK81J  1178  1160/ 16  W18 D8  W17 L3  L9  W14 3.5
+  7 Wang, Gavin            BHMM7042  1131  1137/ 48  HPB HPB D10 D8  W16 D9  3.5
+  8 Lambert, Nolan         SENMJ41M  1073  1109/ 11  W16 D6  L4  D7  W15 D10 3.5
+  9 Zong, Zara             LSSMJ50K   919   977/ 17  L17 F19 L5  W18 W6  D7  2.5
+ 10 Palmer, Evan           BHMKI90S  1319  1274/175  HPB HPB D7  W14 L5  D8  3.0
+ 11 Koehler, Blake         SPRLJ76R   923   936/ 30  HPB HPB L2  L13 W18 W16 3.0
+ 12 Latham, Cash           MRDL658Y   893   981/ 26  HPB HPB W14 L2  W13 L4  3.0
+ 13 Larios, Juan           NKPMK56C  1000   973/ 36  L3  W16 L15 W11 L12 D17 2.5
+ 14 Crum, Connor           SENJK76S  1031  1043/ 16  W19 L3  L12 L10 W17 L6  2.0
+ 15 Taylor, Ryder          KAMK385C   862   849/375  HPB HPB W13 L5  L8  L18 2.0
+ 16 Karthik, Shreya        JACLA701   827   842/ 61  L8  L13 W18 W17 L7  L11 2.0
+ 17 Craig-lundry, Kevin    JUHKF41H  1170  1024/ 12  W9  L1  L6  L16 L14 D13 1.5
+ 18 Ferguson, Ben          PRHKJ41B   946   834/ 11  L6  L2  L16 L9  L11 W15 1.0
+ 19 Tatikonda, Nihanth     BOTJ926F  1732  1696/259  L14 X9  U   U   U   U   1.0

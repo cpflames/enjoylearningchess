@@ -1,0 +1,35 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Balayoghan, Keeran     OMSG477N  1356  1437/ 95  W23 W4  W19 W13 W3  5.0
+  2 Rastogi, Atharv        PFCG377H  1419  1420/ 97  W22 W7  W5  L3  W9  4.0
+  3 Chung, Connor          OPWH786L  1217  1305/ 68  W33 W14 W15 W2  L1  4.0
+  4 Joshi, Vyom            LEOIH81X  1169  1209/193  W26 L1  W27 W19 W14 4.0
+  5 Nair, Ishan            FRWG670E  1148  1265/126  W31 W11 L2  W12 W13 4.0
+  6 Wang, Eric             WPPF803M  1229  1213/105  W30 L8  W24 D9  W18 3.5
+  7 Luo, Peter             SHVE664K  1169  1191/ 63  W28 L2  W25 W15 D8  3.5
+  8 Xu, Jeffery            TYEGJ88V  1113  1208/ 25  W18 W6  L13 W10 D7  3.5
+  9 Bhattacharjee, PratyushTIME602T   882  1113/ 38  W10 W21 W11 D6  L2  3.5
+ 10 Syal, Yash             CDIFC10R  1359  1305/ 96  L9  W34 W20 L8  W22 3.0
+ 11 Zhao, Dennis           OPWH525E  1313  1267/330  W24 L5  L9  W30 W20 3.0
+ 12 Xu, Yang               CNCE649B  1246  1208/105  W17 L19 W23 L5  W24 3.0
+ 13 Hetamsaria, Aayan      ICSIG19R  1215  1218/ 39  W25 W20 W8  L1  L5  3.0
+ 14 Marnadi, Ethan         TMBHE62G  1101  1107/ 57  W27 L3  W26 W16 L4  3.0
+ 15 Srimurugan, Rudran     OPWHJ98L   700  1192/  5  W21 W16 L3  L7  W19 3.0
+ 16 Xu, Alex               EMSH500U  1178  1126/120  W34 L15 D18 L14 W23 2.5
+ 17 Schoenfeld, Sam        OPWEB27K   744   733/ 46  L12 L27 D29 W33 W28 2.5
+ 18 Hoffman, David         PEREJ98J   400   949/  5  L8  W30 D16 W28 L6  2.5
+ 19 Patnaik, Rishabhdeva   CRKFG72D  1145  1127/124  W29 W12 L1  L4  L15 2.0
+ 20 Kannapiran, Arnav      OPWF983P   970   955/ 74  W32 L13 L10 W26 L11 2.0
+ 21 Sailer, Shaunak        OPWGC25Z   914   873/215  L15 L9  W34 L24 W29 2.0
+ 22 Deng, Alison           OMSGC56H   886   856/ 87  L2  L26 W31 W25 L10 2.0
+ 23 Lahiri, Priyadarshi    INGH191Q   869   876/ 35  L1  W29 L12 W27 L16 2.0
+ 24 Huang, Clora           SOMEK31H   801   824/ 29  L11 W31 L6  W21 L12 2.0
+ 25 Pham, Weston           OPWE538U   648   670/ 25  L13 W32 L7  L22 W30 2.0
+ 26 Zhang, Arwen           SOME484A   536   652/ 55  L4  W22 L14 L20 W33 2.0
+ 27 Li, Yueze              COGIJ98G   800   791/  5  L14 W17 L4  L23 W32 2.0
+ 28 Metzmaker, Kyren       OPWF430W   581   586/141  L7  HPB W33 L18 L17 1.5
+ 29 Kumar, Rishuraj        ENAFK45Y   451   506/ 20  L19 L23 D17 W34 L21 1.5
+ 30 Yang, Michael          SOMFK00G   699   647/ 10  L6  L18 W32 L11 L25 1.0
+ 31 Zhang, Henry           OPWFA78F   465   455/ 14  L5  L24 L22 L32 W34 1.0
+ 32 Agarwal, Arnav         HMNEJ98E   400   439/  5  L20 L25 L30 W31 L27 1.0
+ 33 Mitra, Rishab          OPWF138L   687   592/171  L3  HPB L28 L17 L26 0.5
+ 34 Berjis, Adrina         MEDE230U   603   515/ 74  L16 L10 L21 L29 L31 0.0

@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Wong-godfrey, Emerson  BUSKH83E  1871  1937/494  D6  W9  W11 W12 W5  HPB 5.0
+  2 Zhu, Jamie             EVJH558E  1876  1950/347  D3  W6  D5  W11 W7  W10 5.0
+  3 Whale, Nicholas        ADUNJ751  2089  2066/277  D2  D5  W13 D10 D6  D4  3.5
+  4 Sellers, Matt          ADONW856  1300  1984/  5  HPB D14 W10 L5  W8  D3  3.5
+  5 Patankar, Vijay        KMNJC78Y  1816  1881/272  W12 D3  D2  W4  L1  D7  3.5
+  6 Xu, Owen               SOME896M  1811  1831/181  D1  L2  W15 HPB D3  W11 3.5
+  7 Bartron, Paul R        ADUNI325  2054  2025/ 10  W13 L11 HPB W9  L2  D5  3.0
+  8 Gavrysh, Leonid        ADUN816H  2017  1981/ 51  D14 L10 D9  W13 L4  BYE 3.0
+  9 Razmov, Valentin       ADUNB02T  1852  1861/137  D10 L1  D8  L7  W13 W14 3.0
+ 10 Bhaskaran, Siddharth   HMNE152J  1797  1815/ 55  D9  W8  L4  D3  WF  L2  3.0
+ 11 Pozharskii, Denis      MISNZ87S  1300  1769/  6  W15 W7  L1  L2  D14 L6  2.5
+ 12 Ackerman, Ryan         ADUNC514  1956  1919/212  L5  W15 W14 L1  LF  L13 2.0
+ 13 Ramkumar, Nikhil       RBRG115E  1849  1829/243  L7  BYE L3  L8  L9  W12 2.0
+ 14 Nallabothula, Varin    REDK457A  1825  1800/399  D8  D4  L12 D15 D11 L9  2.0
+ 15 Hanson, Roger          ADUNJ69X  1300  1515/  4  L11 L12 L6  D14 BYE U   1.5

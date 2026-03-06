@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Empil, Lander          BBTJJ82B   900   905/  3  W4  W3  W2  3.0
+  2 Li, Chengxuan          CRADK03V   398   489/  9  W3  W4  L1  2.0
+  3 Chou, Jocelyn          RHJGJ88W   425   428/  6  L2  L1  W4  1.0
+  4 Naik, Shreyas          ETSEJ98X   436   366/ 18  L1  L2  L3  0.0

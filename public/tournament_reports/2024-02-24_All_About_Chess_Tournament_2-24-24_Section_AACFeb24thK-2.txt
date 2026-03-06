@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Pan, Peng-chi          SSMCK24N   737   902/ 46  W7  W5  W10 W2  W6  5.0
+  2 Dharamshi, Anay        CBRCK42U   783   839/ 31  W9  W11 W3  L1  W5  4.0
+  3 Pan, Peng-yu           SSMCK24P   817   810/ 52  W6  W4  L2  D5  W9  3.5
+  4 Krogstad, Jaxon        NCSCJ88M   638   609/ 49  W12 L3  W11 L6  W10 3.0
+  5 Ge, Jeremy             SSMBJ88K   860   810/ 79  W8  L1  W7  D3  L2  2.5
+  6 Li, Ethan James        SOMBK00K   353   423/ 13  L3  D12 W8  W4  L1  2.5
+  7 Battala, Pradhyun Sai  SSMCJ29A   176   336/ 10  L1  W8  L5  D10 W12 2.5
+  8 Zhang, Patrick         SSSAK01J   391   350/ 53  L5  L7  L6  W12 W11 2.0
+  9 Swain, Samarth         MMEBJ58S   312   330/ 25  L2  L10 W12 W11 L3  2.0
+ 10 Bysani, Aakash         SSMBK01D   706   592/ 95  L11 W9  L1  D7  L4  1.5
+ 11 Leung, Olivia          SOMCJ58Q   123   189/  9  W10 L2  L4  L9  L8  1.0
+ 12 Chou, Leila            SSMAJ46G   100   100/  8  L4  D6  L9  L8  L7  0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Han, Victor            PPPFB39P  1154  1206/132  W2  D3  W4  2.5
+  2 Joshi, Yash            PFCH280R  1142  1163/139  L1  W4  W3  2.0
+  3 Pan, Peng-ruei         SSME759R  1055  1076/ 41  W4  D1  L2  1.5
+  4 Zhao, William          STTDH70M  1154  1077/ 78  L3  L2  L1  0.0

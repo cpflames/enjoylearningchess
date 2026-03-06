@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Huang, Jaden           ENDCJ63S   701   712/ 70  W4  L3  W2  2.0
+  2 Jahani, Nikan          SNIFK89A   658   683/ 70  W3  W4  L1  2.0
+  3 Swain, Samarth         MMEBJ58S   609   661/ 84  L2  W1  W4  2.0
+  4 Sathyamurthy, Shreyus  BLWBJ60Z   592   520/ 60  L1  L2  L3  0.0

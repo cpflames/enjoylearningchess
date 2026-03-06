@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Han, Samuel            UNKEH68N   400   683/  2  W3  WF  W2  3.0
+  2 Kuo, Anna              WOBAH68M   100   350/  2  WF  W3  L1  2.0
+  3 Bach, Lan              MCIAH74U   100   100/  5  L1  L2  WF  1.0

@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Rennie, Elias          BVEFH77C   941  1004/ 23  W4  D2  W5  2.5
+  2 Volker, Rune           FERKK47N   919  1000/ 37  W5  D1  W3  2.5
+  3 Qureshi, Danish        BLNGF36V   867   876/136  BYE W4  L2  2.0
+  4 Verduin, Skyler        CUEFJ26K   908   852/ 40  L1  L3  BYE 1.0
+  5 Buckham, George        SKYCK37E   894   851/ 65  L2  BYE L1  1.0

@@ -1,0 +1,22 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Huang, Clora           SOMEK31H   850  1001/ 39  W14 W4  W6  W7  W5  5.0
+  2 Liu, Jace              CNHDK00Y   779   815/ 14  W15 L5  W14 W13 W7  4.0
+  3 Fang, Weiai            THRD696W   781   804/168  W9  W8  L7  D4  W12 3.5
+  4 Singhal, Aryash        SYCE595L   753   791/ 67  W17 L1  W9  D3  W8  3.5
+  5 George, Ameya          EBSEK88Y   668   800/ 35  W18 W2  D10 W6  L1  3.5
+  6 Guzman, Nate           TPSF939A   778   768/126  W21 W13 L1  L5  W14 3.0
+  7 Agarwal, Kavir         MEDE152U   738   766/ 29  W19 W12 W3  L1  L2  3.0
+  8 Wishwas, Rishab        LKDEK91Q   688   665/ 52  W20 L3  W15 W16 L4  3.0
+  9 Tsen, Eric             AGBDK18P   456   550/ 67  L3  W20 L4  W18 W13 3.0
+ 10 Wu, Dennis             SCDDJ54B   864   816/183  L13 W16 D5  HPB HPB 2.5
+ 11 Mallu, Rushank Reddy   BRHEK93H   467   430/ 35  L12 D19 L18 W21 W16 2.5
+ 12 Qin, Skyler            OPWAJ97T   800   721/ 15  W11 L7  L13 W17 L3  2.0
+ 13 Hayashi, Charles       EPSFJ96B   668   658/ 10  W10 L6  W12 L2  L9  2.0
+ 14 Hedstrom, Parker       WEDF498Y   489   484/ 34  L1  W21 L2  W20 L6  2.0
+ 15 Qureshi, Haroon        RBRDJ95Y   353   362/ 10  L2  W18 L8  L19 W21 2.0
+ 16 Singh, Aarika          BCAEK30Z   248   284/  8  BYE L10 W19 L8  L11 2.0
+ 17 Chirita, Adrian        CBEEJ93A   400   464/  3  L4  HPB HPB L12 W19 2.0
+ 18 Gibbs, Calvin          MADFJ92Y   500   396/  5  L5  L15 W11 L9  W20 2.0
+ 19 Dinges, Oscar          SLDFJ92X   500   301/  5  L7  D11 L16 W15 L17 1.5
+ 20 Karp, Wyatt            CBEEJ92W   400   196/  5  L8  L9  W21 L14 L18 1.0
+ 21 More, Prisha           RSADK64G   258   169/ 15  L6  L14 L20 L11 L15 0.0

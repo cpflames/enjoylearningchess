@@ -1,0 +1,31 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chung, Ian             LIBEG54U   790   879/ 96  W18 W10 W8  W2  W7  5.0
+  2 Chavez, Israel         MCUEK69M   630   715/ 30  W19 W6  W4  L1  W9  4.0
+  3 Castaneda, Alonso      MCUEK69H   582   613/ 29  W27 L4  W16 W11 W8  4.0
+  4 Ramos, Charleston      FZAEK71F   364   571/ 26  W23 W3  L2  W10 W13 4.0
+  5 Hemperly, Harper       HSCEI09E   805   769/ 46  W16 W15 L7  D6  W14 3.5
+  6 Garcia, Sergio         BMCE733M   400   508/ 25  W29 L2  W20 D5  W15 3.5
+  7 Huang, Maxwell         LECE520H   630   643/ 29  W20 W11 W5  L8  L1  3.0
+  8 Pheysey, Jackson       CRPEE81Y   565   586/ 38  W21 W12 L1  W7  L3  3.0
+  9 Groom, Colin           BMCE641S   551   547/ 38  D17 W13 D14 W12 L2  3.0
+ 10 Hahl, Cameron          BMCEJ79N   483   505/ 10  W22 L1  W19 L4  W18 3.0
+ 11 Pumphrey, Brooks       CRPEJ79M   424   419/ 10  W28 L7  W21 L3  W24 3.0
+ 12 Guzman, Melany         MCUEK69G   393   400/ 30  W30 L8  W26 L9  W22 3.0
+ 13 Mora, Jesus            MCUEK53R   341   361/ 20  W24 L9  W28 W25 L4  3.0
+ 14 Liang, Jane            LECEJ60T   630   576/ 25  D25 W17 D9  D15 L5  2.5
+ 15 Samson, Colette        KCCEB97M   428   438/ 20  W26 L5  W18 D14 L6  2.5
+ 16 Mccall, Connor         LECEK97C   314   347/ 10  L5  W25 L3  D26 W20 2.5
+ 17 Wonders, Rennick Lee   RFPEJ62K   400   314/  5  D9  L14 L25 W29 W26 2.5
+ 18 Qin, Mason             LECEK97A   277   287/ 20  L1  W22 L15 W28 L10 2.0
+ 19 Quintero, Raul         RFREJ79K   220   235/ 10  L2  W29 L10 L22 W25 2.0
+ 20 Soto, Josiah           RFREJ79H   202   236/ 10  L7  W30 L6  W21 L16 2.0
+ 21 Cozad, Chloe           MCGE531M   144   164/ 37  L8  W24 L11 L20 W27 2.0
+ 22 Williams, Grant        CRPEJ62J   400   225/  5  L10 L18 W23 W19 L12 2.0
+ 23 Madrigal Ramos, Yaslin TREEJ62H   400   150/  5  L4  L26 L22 W30 W28 2.0
+ 24 Gonzalez, Marcus       BMCEJ62G   400   151/  5  L13 L21 W29 W27 L11 2.0
+ 25 Guzman, Tom            MTPEJ79D   173   188/ 10  D14 L16 W17 L13 L19 1.5
+ 26 De La Mora, Efren      BMCEJ79B   100   130/ 10  L15 W23 L12 D16 L17 1.5
+ 27 Stamper, Alia          LECEC52F   159   100/ 10  L3  L28 W30 L24 L21 1.0
+ 28 Fierro, Jaden          RFREJ62F   400   100/  5  L11 W27 L13 L18 L23 1.0
+ 29 Cortez, Kataleya       TREEJ62E   400   100/  5  L6  L19 L24 L17 D30 0.5
+ 30 Hedgecock, Gracie      HSCEJ62D   400   100/  5  L12 L20 L27 L23 D29 0.5

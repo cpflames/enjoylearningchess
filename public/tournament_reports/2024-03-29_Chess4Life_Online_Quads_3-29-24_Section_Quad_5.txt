@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mcintyre, Isaac        ETSE466S   724   845/203  W4  W3  W2  3.0
+  2 Wu, Dennis             SCDDJ54B   763   774/207  W3  W4  L1  2.0
+  3 Bui, Edwin             SFREK90H   675   654/ 28  L2  L1  W4  1.0
+  4 Ramsby, Ender          AGBIK739   585   530/ 78  L1  L2  L3  0.0

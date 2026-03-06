@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 George, Ameya          EBSDK88Y   592   601/ 69  L4  W3  W2  2.0
+  2 Leon, Vikram           EBSBH74X   550   573/ 12  W3  W4  L1  2.0
+  3 Lu, Kathryn            CHRE191C   512   487/ 19  L2  L1  W4  1.0
+  4 Sood, Ayansh           BCADH76H   463   455/ 16  W1  L2  L3  1.0

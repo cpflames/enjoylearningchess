@@ -1,0 +1,32 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Carranza, Aly Omar     RCEDJ78V   580   743/ 15  W9  W26 W12 W7  W5  5.0
+  2 York, Logan            KCCD527F   645   644/ 40  WF  W28 L5  W6  W7  4.0
+  3 Geelhood, Beckett      CDKDK96U   629   695/ 34  LF  W20 W21 W12 W14 4.0
+  4 Menjivar, Valery       RFRDJ78D   488   561/ 24  WF  W18 W14 L5  W8  4.0
+  5 Marroquin, Chase       CRPDJ62A   485   628/ 23  W30 W13 W2  W4  L1  4.0
+  6 Rangel, Marianna       MTPDJ78J   244   430/ 19  HPB W29 W15 L2  W20 3.5
+  7 Arrington, Ashton      MTPDJ78F   459   464/ 25  W17 W25 W19 L1  L2  3.0
+  8 Garcia, Sebastian      BMCDJ78G   408   416/ 25  W27 L12 W26 W13 L4  3.0
+  9 Bosted, Ryker          MTPDJ78T   390   411/ 24  L1  D17 W27 W16 D15 3.0
+ 10 Zavala, Daniel         MCUDJ44V   272   273/  9  L12 WF  L18 W23 W24 3.0
+ 11 Gonzalez, David        CRPDJ53E   269   283/ 15  W31 L14 L13 W27 W25 3.0
+ 12 Van, Minh              CRPDJ23N   300   545/  5  W10 W8  L1  L3  W19 3.0
+ 13 Rosales, Teodulo       TREDJ23M   300   421/  5  W16 L5  W11 L8  W22 3.0
+ 14 Carlisle, Gunnar       KCCDJ23L   300   483/  5  W21 W11 L4  W18 L3  3.0
+ 15 Nelson, Miloe          CRPD915Y   678   571/ 46  L26 W23 L6  W17 D9  2.5
+ 16 Billings, Atlas        MCGDJ44X   248   258/  9  L13 W30 W25 L9  D18 2.5
+ 17 Duarte, Jonathan       MCUDJ44T   100   224/  9  L7  D9  W29 L15 W28 2.5
+ 18 Richardson, Ezra       LIBDJ23K   300   352/  5  W20 L4  W10 L14 D16 2.5
+ 19 Vasquez, Josue         MCUDJ53D   307   261/ 15  D29 W24 L7  D22 L12 2.0
+ 20 Gonzales, Ezra         CRPDJ61Y   300   279/ 23  L18 L3  W31 W30 L6  2.0
+ 21 Mendoza, Zaira         RCEDJ52Z   156   170/ 10  L14 W31 L3  L25 W30 2.0
+ 22 Hernandez, Jordan      RCEDJ53B   100   155/  8  LF  D27 W28 D19 L13 2.0
+ 23 Soto, Anariah          RFRDJ61S   100   122/  9  HPB L15 D24 L10 W31 2.0
+ 24 Natareno Trejo, Chris  RCEDJ23J   300   107/  4  HPB L19 D23 W26 L10 2.0
+ 25 Garcia, Emmanuel       RFPDJ23H   300   100/  4  WF  L7  L16 W21 L11 2.0
+ 26 Blanco, Gabi           KCCDK38U   150   169/ 10  W15 L1  L8  L24 D29 1.5
+ 27 Alvarado, Mateo        RCEDJ52Y   100   100/  8  L8  D22 L9  L11 BYE 1.5
+ 28 Kerr, Lenda            MTPDJ61T   100   100/ 16  BYE L2  L22 D29 L17 1.5
+ 29 Guzman Guzman, KimberlyRCEDJ23G   300   100/  5  D19 L6  L17 D28 D26 1.5
+ 30 Moulton, Madison       KCCDJ44S   100   100/  9  L5  L16 BYE L20 L21 1.0
+ 31 Conway, Jorja          KCCDJ23E   300   100/  4  L11 L21 L20 BYE L23 1.0

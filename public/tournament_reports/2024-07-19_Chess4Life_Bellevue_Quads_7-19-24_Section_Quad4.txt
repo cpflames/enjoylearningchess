@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Guilanians, Gavin      OPWH645B   931   945/ 43  W4  L3  W2  2.0
+  2 Tsay, Elon             NOWDK07B   927   942/ 74  W3  W4  L1  2.0
+  3 Vasamsetty, Chetan     SHFDJ38Y   896   920/ 75  L2  W1  W4  2.0
+  4 Joby, Alan             ENSCE06C   788   734/ 24  L1  L2  L3  0.0

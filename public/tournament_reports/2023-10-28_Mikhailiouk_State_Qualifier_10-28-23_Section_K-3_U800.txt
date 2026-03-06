@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Tsen, Eric             AGBDK18P   550   726/ 72  W10 W11 W5  W6  W8  5.0
+  2 Bangard, Dhruv         TBKBK65D   740   731/ 40  W13 W8  L6  W12 W5  4.0
+  3 Qin, Skyler            OPWAJ97T   721   690/ 20  L12 D4  W9  W10 W6  3.5
+  4 Lin, Luna              OPWCK01W   276   527/ 22  W9  D3  W7  L5  W11 3.5
+  5 Soykal, Toprak         MMEDK25R   615   617/ 32  W16 W7  L1  W4  L2  3.0
+  6 Tummuru, Nirvan        FRWDK06N   405   518/ 16  W17 W12 W2  L1  L3  3.0
+  7 Dasari, Arjun          RSACK64P   443   462/ 15  W14 L5  L4  W16 W12 3.0
+  8 Srinivasan, Atul       TBKAK65P   429   446/ 19  W15 L2  W13 W11 L1  3.0
+  9 Qu, Yuwen              RSABK86G   559   507/ 29  L4  D10 L3  W17 W14 2.5
+ 10 Gu, Leo                SCDBK31Y   167   290/ 15  L1  D9  W15 L3  W16 2.5
+ 11 Berjis, Liana          MEDBB72R   373   333/ 60  WF  L1  W17 L8  L4  2.0
+ 12 Rajesh Kumar, Dhruva   XXXAJ89S   100   444/  5  W3  L6  W14 L2  L7  2.0
+ 13 More, Prisha           RSADK64G   169   159/ 19  L2  W15 L8  L14 BYE 2.0
+ 14 Charuvil, Suryen Vinu  RSHAJ89R   100   259/  5  L7  W16 L12 W13 L9  2.0
+ 15 Sandres-baker, Idris   PKRBJ89Q   100   100/  4  L8  L13 L10 BYE W17 2.0
+ 16 Ranjith, Janani        SHVBK65E   321   217/ 50  L5  L14 BYE L7  L10 1.0
+ 17 Shriram, Maya          BCABJ89P   100   100/  4  L6  BYE L11 L9  L15 1.0

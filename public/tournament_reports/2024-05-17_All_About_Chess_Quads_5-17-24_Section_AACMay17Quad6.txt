@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Krogstad, Jaxon        NCSCJ88M   660   821/ 76  W3  W2  W4  3.0
+  2 Wang, Jacob Z          BLWFE71A   709   678/110  L4  L1  W3  1.0
+  3 Huang, Jaden           ENDCJ63S   712   680/ 73  L1  W4  L2  1.0
+  4 Moore, Ethan           CRKEJ49L   648   636/ 27  W2  L3  L1  1.0

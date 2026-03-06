@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zakaria, Abid          CDWFJ28T   906   931/ 29  W2  L4  W3  2.0
+  2 Tsay, Elon             NOWDK07B   900   927/ 71  L1  W3  W4  2.0
+  3 Jin, Michael           HMNGD09X   906   872/ 11  W4  L2  L1  1.0
+  4 Sridhar, Riya          TBKFG37Y   901   875/ 87  L3  W1  L2  1.0

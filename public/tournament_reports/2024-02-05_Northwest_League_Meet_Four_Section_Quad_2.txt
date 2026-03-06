@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nipges, Jaxon          FERK382B  1124  1196/ 99  W2  W3  LF  2.0
+  2 Palmer, Evan           BHMKI90S  1331  1296/169  L1  LF  LF  0.0
+  3 Peterson, Kylan        MRDM175Q  1209  1180/ 84  LF  L1  LF  0.0

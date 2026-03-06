@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Evan             TRHDJ78X   741   826/  8  W4  W3  W2  3.0
+  2 York, Logan            KCCD527F   670   689/ 31  W3  W4  L1  2.0
+  3 Samson, Lincoln        KCCBJ78N   588   572/ 13  L2  L1  W4  1.0
+  4 Marroquin, Chase       CRPDJ62A   543   452/  8  L1  L2  L3  0.0

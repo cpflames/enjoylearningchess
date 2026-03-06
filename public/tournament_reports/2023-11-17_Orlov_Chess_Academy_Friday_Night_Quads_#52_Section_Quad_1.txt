@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Shah, Kanav            LMAF295Q  1369  1393/142  W4  D3  W2  2.5
+  2 Isitt, Ben             INGIJ98W  1293  1315/ 17  W3  W4  L1  2.0
+  3 Wang, Ares             MEDFJ77J  1252  1239/298  L2  D1  D4  1.0
+  4 Wang, Isaac            CLHEK00U  1255  1219/ 32  L1  L2  D3  0.5

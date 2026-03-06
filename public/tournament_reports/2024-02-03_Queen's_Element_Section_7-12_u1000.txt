@@ -1,0 +1,43 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Rowley, Jayden         OTHJJ46D   900  1401/  5  W29 W14 W7  W4  W6  5.0
+  2 Dillingham, Annabella  KCCH229F   999   997/244  L23 W28 W27 W11 W10 4.0
+  3 Geelhood, Alec         CDKII90A   975  1001/ 99  W24 W10 W9  L6  W13 4.0
+  4 Gogic, Arian           JMLHK96A   954  1010/ 45  W25 W23 W17 L1  W11 4.0
+  5 Moe, Steven            OCHHH29P   916   915/ 40  W26 L11 W28 W34 W18 4.0
+  6 Harrington, Ephraim    TRHIK96E   889   971/ 38  W37 W13 W34 W3  L1  4.0
+  7 Guizar, Kevin          CWHKI02P   842   963/ 85  W21 W8  L1  W17 W20 4.0
+  8 Ybarra, Caleb          CKKIK96F   999   983/ 33  W12 L7  W22 D9  W21 3.5
+  9 Cress, Emmett          JMLHH54B   673   847/ 47  W14 W35 L3  D8  W23 3.5
+ 10 Mendoza, Leonardo      CWHK1126   818   802/278  WF  L3  W38 W30 L2  3.0
+ 11 Perez Birrueta, Rafael CWHJK60W   798   865/ 43  W15 W5  W19 L2  L4  3.0
+ 12 Graham, Benjamin       RRGID22G   789   772/ 85  L8  W38 W29 L18 W27 3.0
+ 13 Romero, Osias          RRGI973N   731   790/ 89  W35 L6  W31 W19 L3  3.0
+ 14 Lopez, Maya            CWHM3058   693   689/ 86  L9  L1  W41 W39 W34 3.0
+ 15 Naranjo, Urijah        RRGI253A   683   677/ 39  L11 L19 W42 W31 W30 3.0
+ 16 Schlotthauer, Ava      LIBLJ53Z   583   622/ 10  L22 W33 L23 W37 W25 3.0
+ 17 Picicci, Logan         RRGIK52T   582   687/ 15  W41 W24 L4  L7  W26 3.0
+ 18 Beckley, Ethan         CWHJH76F   553   642/ 24  W40 L37 W25 W12 L5  3.0
+ 19 Patrico, Brandon       STPHJ46C   700   780/  5  W30 W15 L11 L13 W24 3.0
+ 20 Billow, Charlie        CDKJJ46B   900   732/  5  L31 W32 W26 W23 L7  3.0
+ 21 Kermani, Kirabella     LLMHG24N   697   680/120  L7  D22 W36 W33 L8  2.5
+ 22 Wampole, Caleb         CWHJ133K   300   490/ 58  W16 D21 L8  L24 W36 2.5
+ 23 Coates, Ethan          BLSI820M   777   768/ 35  W2  L4  W16 L20 L9  2.0
+ 24 Hall, Grayden          JMLHK68M   761   704/ 37  L3  L17 W40 W22 L19 2.0
+ 25 Philo, Demetri         MOAIK96C   746   703/ 33  L4  W27 L18 W28 L16 2.0
+ 26 Dodson, Tyson          KCCH234D   741   685/ 46  L5  W31 L20 W38 L17 2.0
+ 27 Prasad, Sonali         JMLHK68K   650   639/ 34  W39 L25 L2  W35 L12 2.0
+ 28 Mejia, Xavior          RRGI533Y   625   603/122  W32 L2  L5  L25 W41 2.0
+ 29 Wallace, Madysyn       JMLIJ81U   488   463/ 15  L1  W42 L12 L36 W39 2.0
+ 30 Thompson, Ayden        JMLIJ98S   454   478/ 43  L19 W40 W37 L10 L15 2.0
+ 31 Dedmond, Charles       CWHKJ81L   353   479/ 10  W20 L26 L13 L15 W37 2.0
+ 32 Gonzalez, Blanca       JMLHJ81M   314   353/ 19  L28 L20 L35 W42 W38 2.0
+ 33 Senda, Libni           OCHHJ81R   192   326/ 10  D36 L16 W39 L21 D35 2.0
+ 34 Munoz, Miguel          RRGIJ81H   133   214/ 14  BYE W36 L6  L5  L14 2.0
+ 35 Kane, Jarret           CWHKJ97S   843   731/137  L13 L9  W32 L27 D33 1.5
+ 36 Miranda, Santiago      STPH437Y   536   447/ 85  D33 L34 L21 W29 L22 1.5
+ 37 Morris, Tyson          GVMIK68Q   741   629/ 20  L6  W18 L30 L16 L31 1.0
+ 38 Duarte, Carlos         OCHHK52U   544   466/ 25  W42 L12 L10 L26 L32 1.0
+ 39 Evans, Daymein         STPI267E   347   300/ 23  L27 W41 L33 L14 L29 1.0
+ 40 Martinez, Miguel       RRGHJ81Q   272   222/ 10  L18 L30 L24 L41 W42 1.0
+ 41 Foster, Kolbi          JMLIJ62M   195   209/ 10  L17 L39 L14 W40 L28 1.0
+ 42 Khuong, Nikki          CWHMJ46A  1200   100/  5  L38 L29 L15 L32 L40 0.0

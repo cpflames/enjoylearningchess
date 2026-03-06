@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Leon, Vikram           EBSBH74X   613   632/ 18  W4  W3  L2  2.0
+  2 Gupta, Akshay          BCABF62T   582   611/ 71  L3  W4  W1  2.0
+  3 Lee, Julianus          CDWDK90C   580   611/ 38  W2  L1  W4  2.0
+  4 Gagnier, Madeleine     HSCC251F   532   457/ 52  L1  L2  L3  0.0

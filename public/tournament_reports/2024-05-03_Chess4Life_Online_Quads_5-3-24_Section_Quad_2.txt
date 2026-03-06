@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Navarro, Sebastian     TT1HX59S  1053  1160/ 24  W4  W3  W2  3.0
+  2 Sembium, Aditi         BCADK25W  1133  1134/273  W3  W4  L1  2.0
+  3 Mukkala, Arjun         PLKI363W   919   926/ 10  L2  L1  W4  1.0
+  4 Yin, Daniel            ISSM116Y  1001   934/416  L1  L2  L3  0.0

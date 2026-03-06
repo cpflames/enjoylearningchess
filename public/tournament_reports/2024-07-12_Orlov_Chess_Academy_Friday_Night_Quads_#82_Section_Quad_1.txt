@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Olson, Travis          ADUN8893  1869  1869/164  W4  W3  W2  3.0
+  2 Yang, Nicholas         CHRDG23U   939   956/113  W3  W4  L1  2.0
+  3 Doronin, Victor        BMNG335T   724   724/102  L2  L1  W4  1.0
+  4 Titterington, Henry    ENADJ88R   513   493/ 47  L1  L2  L3  0.0

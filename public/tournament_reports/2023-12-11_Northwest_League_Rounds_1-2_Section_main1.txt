@@ -1,0 +1,25 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Stroud, Jeb            HSCIK22V  1393  1418/ 70  W17 W4  2.0
+  2 Bass, Garrison         SHML3805   455   496/ 20  W21 W21 2.0
+  3 Kozaczuk, James        SHKI108A  1254  1256/187  W24 D17 1.5
+  4 Hildenbrand, Blane     PSMI122V  1144  1145/248  W18 L1  1.0
+  5 Volker, Rune           FERKK47N   765   789/ 16  W8  U   1.0
+  6 Peper, James           BLHLB93F   667   680/ 26  U   W16 1.0
+  7 Gutierrez, Diego       BLHM233E   679   698/ 13  U   W19 1.0
+  8 Russell, Emerson       BLEFK23A   590   625/ 35  L5  W15 1.0
+  9 Fransico-woodenlegs, JoMRDL680H   558   590/ 39  W19 U   1.0
+ 10 Clarke, Jonathan       BLHJG05B   491   523/ 19  U   W20 1.0
+ 11 Kerr, Ethan            BLHLJ06N   417   443/ 35  U   W14 1.0
+ 12 Wright, Makayla        MRDMK32N   500   531/ 24  W20 U   1.0
+ 13 Delong, Sophia         BLHJK03A   336   305/ 17  L14 W22 1.0
+ 14 Harris, Eli            MRDLJ85Q   235   269/  8  W13 L11 1.0
+ 15 Eckermann, Garrett     FERLJ60A  1100   599/  2  W23 L8  1.0
+ 16 Becker, Griffin        SHMJJ59Z   900   398/  2  W22 L6  1.0
+ 17 Wilson, Nathaniel      SHKIE45V  1297  1278/ 86  L1  D3  0.5
+ 18 Singh, Arshaan         FERJK22R   893   880/ 42  L4  U   0.0
+ 19 Crediford, Nilay       FERJF28K   549   496/ 31  L9  L7  0.0
+ 20 Ziesing, Evan          FERKJ85R   489   424/ 13  L12 L10 0.0
+ 21 Russell, Reagan        BLHKJ72W   433   310/  5  L2  L2  0.0
+ 22 Ziesing, Kendra        FERJJ85G   100   100/ 13  L16 L13 0.0
+ 23 Carpintero, Aimar      BLHMJ59Y  1200   370/  1  L15 U   0.0
+ 24 Graybill, Daniel       FERJJ60C   541   541/  2  L3  U   0.0

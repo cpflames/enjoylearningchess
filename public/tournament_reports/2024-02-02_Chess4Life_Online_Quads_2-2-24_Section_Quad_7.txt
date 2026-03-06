@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kuluru, Samith         LEOHI99K   717   901/215  W2  W3  W4  3.0
+  2 Taylor, Ryder          KAMK385C   843   859/363  L1  W4  W3  2.0
+  3 Naenna, Patanin        SPLFQ28H   788   766/220  W4  L1  L2  1.0
+  4 Lechner, Ryker         HSCF496J   777   702/ 79  L3  L2  L1  0.0

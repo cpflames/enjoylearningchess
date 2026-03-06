@@ -1,0 +1,50 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Roesch, Carson         BLHL120K  1801  1810/254  W16 W14 2.0
+  2 Lewis, Theo            FERMK29P  1380  1423/ 94  W15 W20 2.0
+  3 Wilkerson, Gabriel     BHMMJ85Z  1278  1313/  7  W38 W37 2.0
+  4 Wang, Gavin            BHMM7042  1176  1201/ 40  W39 W23 2.0
+  5 Berry, Garcia          BHMLK99Z  1173  1191/ 33  W41 W35 2.0
+  6 Masterson, Emmett      LYEM300S   915   930/ 41  W45 W49 2.0
+  7 Phillips, Lucas        BLHL696K   680   759/ 23  W46 W18 2.0
+  8 Green, Henry           LYELJ72X   530   747/  5  W36 W42 2.0
+  9 Mendez, Efrain         MRDLJ85N  1382  1300/  5  D12 W46 1.5
+ 10 Love, Charles          SHML458N  1268  1263/ 93  D34 W39 1.5
+ 11 Morgen, Briar          SQULJ72Z  1081   983/  5  W44 D36 1.5
+ 12 Putnam, Israel         LYEKA22J  1011  1050/ 22  D9  W40 1.5
+ 13 Clayton, Evan          SHMLA71G   985  1017/ 37  D35 W22 1.5
+ 14 Lee, Jae-yoon          SHMLC734  1566  1573/116  W32 L1  1.0
+ 15 Frost, Ignatius        SHMKJ64P  1558  1531/ 98  L2  W38 1.0
+ 16 Palmer, Evan           BHMKI90S  1320  1332/162  L1  W19 1.0
+ 17 Leon, Christian        SHMK1052  1180  1153/133  L22 W41 1.0
+ 18 Bosch, Declan          SHMJE38K  1168  1131/ 64  W24 L7  1.0
+ 19 Peterson, Kylan        MRDM175Q  1163  1174/ 79  W33 L16 1.0
+ 20 Bowman, Finn           SHMLD50L  1150  1158/ 79  W37 L2  1.0
+ 21 Mcconaughy, Marcus     SHMK798W  1108  1098/ 30  L23 W34 1.0
+ 22 Carpenter, Jonas       FERK274G  1075  1077/ 68  W17 L13 1.0
+ 23 Siadal, Carson         MRDKK41F   969   997/ 17  W21 L4  1.0
+ 24 Luna, Max              FERKJ85Y   955   958/ 13  L18 W25 1.0
+ 25 Chiapellone, Teo       SHMMG88R   807   815/104  W43 L24 1.0
+ 26 Tin, Isaac             SQUKK99V   656   654/ 11  L27 W45 1.0
+ 27 Gutierrez, Diego       BLHM233E   639   679/ 12  W26 U   1.0
+ 28 Fransico-woodenlegs, JoMRDL680H   546   558/ 38  LF  W48 1.0
+ 29 Clarke, Jonathan       BLHJG05B   473   491/ 18  W48 U   1.0
+ 30 Wright, Makayla        MRDMK32N   458   500/ 23  LF  W31 1.0
+ 31 Hoekema, Connor        SQUKJ60D  1000   478/  2  W47 L30 1.0
+ 32 Trushkov, Max          FERL616A  1510  1476/176  L14 D33 0.5
+ 33 Chiu, Yi Jun           SHMM347E  1156  1150/ 36  L19 D32 0.5
+ 34 Nipges, Jaxon          FERK382B  1114  1096/ 93  D10 L21 0.5
+ 35 Singh, Jagteshwar      MRDMJ25M   923   920/ 42  D13 L5  0.5
+ 36 Montgomery, Marcus     MRDJJ85K   622   644/  5  L8  D11 0.5
+ 37 Pounder, Jacob         MRDLG96X  1052  1022/ 35  L20 L3  0.0
+ 38 Moors, Samuel          BLHJH93D   993   983/ 73  L3  L15 0.0
+ 39 Reiss, Madelyn         BLHMJ21Y   960   939/ 55  L4  L10 0.0
+ 40 Singh, Arshaan         FERJK22R   914   893/ 41  LF  L12 0.0
+ 41 Aujla, Sihaan          BLHL413P   879   859/ 18  L5  L17 0.0
+ 42 Volker, Rune           FERKK47N   805   765/ 15  LF  L8  0.0
+ 43 Freeman, Eagle         MRDJJ85S   802   747/  7  L25 U   0.0
+ 44 Peper, James           BLHLB93F   678   667/ 25  L11 U   0.0
+ 45 Lee, Jensen            MRDK947B   658   611/ 30  L6  L26 0.0
+ 46 Peterson, Caden        BHMKJ85V   493   474/  8  L7  L9  0.0
+ 47 Kerr, Ethan            BLHLJ06N   459   417/ 34  L31 U   0.0
+ 48 Skeels, Peter          SQUKK99T   293   252/  8  L29 L28 0.0
+ 49 Graybill, Daniel       FERJJ60C   900   541/  1  LF  L6  0.0

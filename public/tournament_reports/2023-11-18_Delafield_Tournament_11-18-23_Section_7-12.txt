@@ -1,0 +1,59 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Deng, Stanley          LECFK22E  1425  1456/286  W35 W14 W18 W8  W3  5.0
+  2 Dillingham, Daniel     KCCGB73M  1241  1262/232  D12 W16 W19 W13 W7  4.5
+  3 Mendoza, Oscar         CWHKI229  1206  1229/287  W24 W6  W17 W11 L1  4.0
+  4 Graham, Connor         CWHL5610  1182  1172/194  W37 L7  W21 W22 W17 4.0
+  5 Dillingham, Annabella  KCCH229F  1162  1150/226  W38 L15 W29 W20 W18 4.0
+  6 Hassan, Ahmad          RRGI714R  1111  1113/158  W40 L3  W33 W39 W19 4.0
+  7 Hitt, Maylee           RRGIK96D   986  1089/ 33  W48 W4  W20 W9  L2  4.0
+  8 Fultz, Heath           JMLH853S   927  1040/ 40  W57 W10 W15 L1  W25 4.0
+  9 Bragg, Brennen         CWHJK68P   801   956/ 18  W54 W21 W31 L7  W16 4.0
+ 10 Alford, Isaiah         CWHL925Y  1147  1115/ 25  W25 L8  W32 W36 D11 3.5
+ 11 Gogic, Arian           JMLHK96A   694   889/ 30  W45 W46 W13 L3  D10 3.5
+ 12 Guizar, Kevin          CWHKI02P   659   797/ 67  D2  L36 W37 W47 W30 3.5
+ 13 Chavez Vargas, Angel   CWHM858A  1211  1169/ 43  W36 W31 L11 L2  W35 3.0
+ 14 Hernandez, Marcelo     CWHLK986  1143  1105/187  W39 L1  L22 W41 W36 3.0
+ 15 Martinez, Ricky        CWHKC794   998   977/210  W42 W5  L8  L25 W39 3.0
+ 16 Geelhood, Alec         CDKII90A   947   932/ 84  W50 L2  W34 W26 L9  3.0
+ 17 Moe, Steven            OCHHH29P   899   916/ 35  W26 W33 L3  W28 L4  3.0
+ 18 Luna Rocha, Sergio Jr  CWHL3108   864   902/205  W51 W22 L1  W27 L5  3.0
+ 19 Mendoza, Leonardo      CWHK1126   860   873/264  W52 W32 L2  W44 L6  3.0
+ 20 Kane, Jarret           CWHKJ97S   843   851/127  W58 W34 L7  L5  W38 3.0
+ 21 Hall, Paxton           LLMHH14U   786   813/ 76  W55 L9  L4  W40 W29 3.0
+ 22 Coates, Ethan          BLSI820M   766   832/ 25  W43 L18 W14 L4  W42 3.0
+ 23 Medrano, Axel          CWHJB48G   700   684/ 44  W56 L35 L36 W43 W44 3.0
+ 24 Lara, Salvador         STPHK68N   650   679/ 22  L3  L40 W58 W45 W31 3.0
+ 25 Naranjo, Urijah        RRGI253A   576   683/ 34  L10 W48 W51 W15 L8  3.0
+ 26 Thompson, Ayden        JMLIJ98S   319   490/ 28  L17 W57 W56 L16 W46 3.0
+ 27 Allmon, Jeremiah       JMLHJ81X   700   760/  5  L46 W45 W40 L18 W32 3.0
+ 28 Paw Myint, John Sein   CWHJJ81W   900   742/  5  L47 W53 W41 L17 W34 3.0
+ 29 Alford, Trey           CWHM636B   856   826/ 30  W53 W47 L5  D30 L21 2.5
+ 30 Field, Ada             HHHHJ81V   700   691/  5  L32 W52 W35 D29 L12 2.5
+ 31 Ybarra, Caleb          CKKIK96F  1071   990/ 23  W41 L13 L9  W46 L24 2.0
+ 32 Romero, Osias          RRGI973N   753   731/ 84  W30 L19 L10 W51 L27 2.0
+ 33 Perez Birrueta, Rafael CWHJK60W   748   713/ 33  W49 L17 L6  L42 W47 2.0
+ 34 Kermani, Kirabella     LLMHG24N   726   692/110  W44 L20 L16 W53 L28 2.0
+ 35 Hall, Grayden          JMLHK68M   682   691/ 24  L1  W23 L30 W55 L13 2.0
+ 36 Dodson, Tyson          KCCH234D   653   740/ 36  L13 W12 W23 L10 L14 2.0
+ 37 Picicci, Logan         RRGIK52T   609   582/ 10  L4  L41 L12 W48 W53 2.0
+ 38 Miranda, Santiago      STPH437Y   609   578/ 75  L5  L42 W54 W56 L20 2.0
+ 39 Torres, Brandon        STPHK52W   531   569/ 15  L14 W50 W43 L6  L15 2.0
+ 40 Beckley, Ethan         CWHJH76F   522   553/ 19  L6  W24 L27 L21 W56 2.0
+ 41 Martinez, Antonio      TCPKG40W   483   539/ 48  L31 W37 L28 L14 W55 2.0
+ 42 Duarte, Carlos         OCHHK52U   466   544/ 20  L15 W38 L44 W33 L22 2.0
+ 43 Wallace, Madysyn       JMLIJ81U   800   506/  5  L22 W55 L39 L23 W52 2.0
+ 44 Clayton, Slade         JMLIJ81T   800   520/  5  L34 W58 W42 L19 L23 2.0
+ 45 Barnett, Eli           CDKIJ81S   800   505/  5  L11 L27 W57 L24 W50 2.0
+ 46 Hall, Preston          CWHJ6381   804   743/ 99  W27 L11 D47 L31 L26 1.5
+ 47 Mejia, Xavior          RRGI533Y   710   676/112  W28 L29 D46 L12 L33 1.5
+ 48 Evans, Daymein         STPI267E   411   391/ 13  L7  L25 D49 L37 W51 1.5
+ 49 Senda, Libni           OCHHJ81R   700   192/  5  L33 L51 D48 L50 W58 1.5
+ 50 Wampole, Caleb         CWHJ133K   340   308/ 48  L16 L39 L53 W49 L45 1.0
+ 51 Prasad, Sonali         JMLHK68K   292   286/ 19  L18 W49 L25 L32 L48 1.0
+ 52 Martinez, Miguel       RRGHJ81Q   700   272/  5  L19 L30 L55 W54 L43 1.0
+ 53 Kresse, Matthew        JMLIJ81N   800   387/  5  L29 L28 W50 L34 L37 1.0
+ 54 Gonzalez, Blanca       JMLHJ81M   700   163/  5  L9  L56 L38 L52 W57 1.0
+ 55 Dedmond, Charles       CWHKJ81L  1000   353/  5  L21 L43 W52 L35 L41 1.0
+ 56 Hewes, Stella          RRGHJ81K   700   284/  5  L23 W54 L26 L38 L40 1.0
+ 57 Zambrano, Trino        STPHK52S   276   205/ 14  L8  L26 L45 D58 L54 0.5
+ 58 Munoz, Miguel          RRGIJ81H   800   100/  5  L20 L44 L24 D57 L49 0.5

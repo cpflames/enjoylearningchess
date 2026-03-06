@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wannamaker, Linus      IDXIY45B  1604  1633/ 78  W4  W6  W2  W3  W7  5.0
+  2 Carper, Jack           PULKG86W  1444  1450/170  W7  W5  L1  W8  W3  4.0
+  3 Davis, Aiden           ADCKK70N  1299  1303/ 28  W8  W4  W6  L1  L2  3.0
+  4 Campbell, Sebastian    ASPII79A  1047  1053/174  L1  L3  W5  BYE W9  3.0
+  5 Davis, Jaxon           ADCIK50R   653   775/ 16  BYE L2  L4  W9  W8  3.0
+  6 Walstrom, Nathan       LWCMK57J  1109  1115/ 21  W9  L1  L3  W7  U   2.0
+  7 Hochheimer, Noah       SGSHF37G   944   956/196  L2  W8  W9  L6  L1  2.0
+  8 Webb, Rogan            HDPHC51Z   909   844/ 42  L3  L7  BYE L2  L5  1.0
+  9 Avey, Jesse            MDRGK50F   826   758/ 28  L6  BYE L7  L5  L4  1.0

@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Liu, Evan              CLHEC52M   879  1067/ 30  W22 W18 W10 W2  W3  5.0
+  2 Zhang, Bowen           REEDK46L   951  1001/ 31  W13 W12 W9  L1  W7  4.0
+  3 Confer, Braden         HSCGK00V   965   974/ 15  W6  D5  W14 W4  L1  3.5
+  4 Chen, Felix Y          DISDA67A   927   942/ 60  W19 D7  W5  L3  W12 3.5
+  5 Huang, Clora           SOMEK31H   824   850/ 34  W25 D3  L4  W22 W11 3.5
+  6 Thorrington, James     SANF547U   707   742/ 51  L3  W25 W13 D12 W14 3.5
+  7 Rogovoy, Alexander     TIMEK14Y   678   897/ 17  W16 D4  W24 W9  L2  3.5
+  8 Qin, Skyler            OPWAJ97T   928   800/ 10  L18 D22 W23 D14 W17 3.0
+  9 Sailer, Shaunak        OPWGC25Z   873   861/220  W23 W17 L2  L7  W18 3.0
+ 10 Chen, Max Y            DISEK76L   753   824/ 61  W15 W24 L1  L11 W16 3.0
+ 11 Wun, Kaden             SOMGK95F   692   815/ 22  LF  W15 W18 W10 L5  3.0
+ 12 Singhal, Aryash        SYCE595L   760   753/ 62  W20 L2  W17 D6  L4  2.5
+ 13 Davies, Damien         MCEFK68U   668   665/ 54  L2  W20 L6  D15 W22 2.5
+ 14 Stiepleman, Leo        WMEF191U   415   532/ 43  BYE W16 L3  D8  L6  2.5
+ 15 Hayashi, Charles       EPSFJ96B   500   668/  5  L10 L11 W19 D13 W23 2.5
+ 16 Kannapiran, Arnav      OPWF983P   955   844/ 78  L7  L14 BYE W21 L10 2.0
+ 17 Cheruku, Gaurik        DISGI58C   598   575/ 29  W21 L9  L12 W20 L8  2.0
+ 18 George, Ameya          EBSEK88Y   578   668/ 30  W8  L1  L11 W24 L9  2.0
+ 19 Nelson, Owen           THUFD35B   567   520/ 20  L4  D21 L15 D23 W25 2.0
+ 20 Fordham, Ezra          GRWEJ96A   400   329/  4  L12 L13 W25 L17 WF  2.0
+ 21 Katipally, Rishan      WOBFK31N   931   329/  5  L17 D19 L22 L16 BYE 1.5
+ 22 Pantea, Zion           ABEEK63Y   555   549/ 18  L1  D8  W21 L5  L13 1.5
+ 23 Wright, Victoria       MMIGJ17P   551   506/ 67  L9  BYE L8  D19 L15 1.5
+ 24 Schasteen, Noble       DCCDA04C   965   848/ 22  WF  L10 L7  L18 LF  1.0
+ 25 Iyer, Adil             BRSEJ95Z   400   100/  4  L5  L6  L20 BYE L19 1.0

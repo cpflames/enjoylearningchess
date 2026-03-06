@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Woo, Nina              NCSEJ06R   706   786/ 16  D2  W4  W3  2.5
+  2 Krogstad, Jaxon        NCSCJ88M   672   720/ 68  D1  D3  W4  2.0
+  3 Wang, Jacob Z          BLWFE71A   697   671/ 94  D4  D2  L1  1.0
+  4 Jahani, Nikan          SNIFK89A   696   641/ 62  D3  L1  L2  0.5

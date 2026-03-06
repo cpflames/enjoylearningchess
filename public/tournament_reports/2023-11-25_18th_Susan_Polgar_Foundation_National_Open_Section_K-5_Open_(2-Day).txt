@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Xu, Zoe                SOMEG70A  1359  1445/307  W17 W7  D2  W5  W6  4.5
+  2 Yang, Larry            UCEFZ87T   500  1677/  5  W10 W6  D1  W9  W8  4.5
+  3 Weng, Bright           BEND850P  1281  1296/ 73  W19 L5  W18 W13 W9  4.0
+  4 Li, Moses              CDWDK26L   925  1104/ 70  L6  D10 W19 W12 W13 3.5
+  5 Wu, Harry              CNHFJ72P  1022  1152/  5  W16 W3  D9  L1  W11 3.5
+  6 Avula, Guru Harshith ReBRHE633Y  1310  1333/108  W4  L2  W7  W11 L1  3.0
+  7 Zhu, Aiden             SOMDC77X  1202  1230/ 89  W8  L1  L6  W14 W15 3.0
+  8 Deng, Stanley          LECFK22E  1456  1415/291  L7  W17 D11 W16 L2  2.5
+  9 Maharaja, Imai         HMNDK34K  1352  1320/124  W14 W18 D5  L2  L3  2.5
+ 10 Kim, Dylan             SCDFK38L  1293  1266/171  L2  D4  L12 W19 W17 2.5
+ 11 Chaudhuri, Arihant     CHAE703E  1058  1152/239  W12 W13 D8  L6  L5  2.5
+ 12 Sankrithi, Sarang      HSCEB11D  1384  1309/226  L11 L14 W10 L4  W16 2.0
+ 13 He, Oliver             ENDDK71V  1297  1229/261  W15 L11 W14 L3  L4  2.0
+ 14 Flores Uriegas, Andres HLYE159F  1014  1036/ 47  L9  W12 L13 L7  W18 2.0
+ 15 Wu, Dennis             SCDDJ54B   816   829/186  L13 BYE D16 HPB L7  2.0
+ 16 Chaudhuri, Agnivesh    CHAEB55V  1248  1173/226  L5  W19 D15 L8  L12 1.5
+ 17 Sembium, Aditi         BCADK25W  1048  1011/231  L1  L8  BYE D18 L10 1.5
+ 18 Law, Caleb             EASFJ87R   782   794/  9  BYE L9  L3  D17 L14 1.5
+ 19 Wilson, David ManchesteEGTEJ72N   400   711/  4  L3  L16 L4  L10 BYE 1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Paine, Clara           TLIFK01Z   417   480/ 15  W4  W2  W3  3.0
+  2 Wang, Jasper           ENDDK01P   240   281/ 11  W3  L1  W4  2.0
+  3 Krishnan, Layla        AGBFJ49P   500   166/  3  L2  W4  L1  1.0
+  4 Saravanan, Navin       FRWAJ85A   198   116/ 18  L1  L3  L2  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bimod, Karthik         SLLHW89E  1571  1636/ 94  W3  W4  W2  3.0
+  2 He, Oliver             ENDDK71V  1577  1568/344  D4  W3  L1  1.5
+  3 Patel, Aarya           REEFK30E  1506  1493/136  L1  L2  W4  1.0
+  4 Zhong, Alan            TISLN778  1464  1440/ 79  D2  L1  L3  0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Huang, Jaden           ENDDJ63S   311   474/ 13  W2  W4  D3  2.5
+  2 Chai, Chloe            NCSDJ59R   300   522/  3  L1  W3  W4  2.0
+  3 Ge, Jeremy             SSMBJ88K   532   500/ 32  W4  L2  D1  1.5
+  4 Shin, Joshua           CRKBJ63R   261   215/ 13  L3  L1  L2  0.0

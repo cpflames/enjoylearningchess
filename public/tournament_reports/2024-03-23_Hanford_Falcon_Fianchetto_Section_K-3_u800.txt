@@ -1,0 +1,56 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Dickinson, James       RFPC801C   657   762/ 58  W26 W14 W19 W7  D2  4.5
+  2 Menjivar, Valery       RFRDJ78D   616   776/ 34  W6  W18 W13 W8  D1  4.5
+  3 Carranza, Aly Omar     RCEDJ78V   761   755/ 25  W16 W24 L8  W19 W15 4.0
+  4 Song, Luke             OERCJ00X   683   664/ 10  L17 W25 W26 W21 W12 4.0
+  5 Nelson, Miloe          CRPD915Y   573   579/ 56  L19 W52 W18 W39 W16 4.0
+  6 Hedgecock, Lily        HSCDK97G   348   559/ 30  L2  W41 W23 W22 W24 4.0
+  7 Mosqueda, Luke         LIBDH90L   300   707/  5  W46 W20 W17 L1  W13 4.0
+  8 Marroquin, Chase       CRPDJ62A   620   657/ 33  W27 W17 W3  L2  D9  3.5
+  9 Gadd, Joel             CRPDJ00U   521   537/ 10  W21 L19 W32 W36 D8  3.5
+ 10 Webb, Bode             KCCAJ77Y   316   394/ 32  L13 D30 W11 W49 W31 3.5
+ 11 Song, Eli              OERBH90J   100   389/  5  D37 W45 L10 W29 W30 3.5
+ 12 Bauer, Ezra            LIBDH90G   300   470/  5  D39 W37 W33 W30 L4  3.5
+ 13 Einarson, Finn         ORWC256K   534   542/ 69  W10 W28 L2  W35 L7  3.0
+ 14 Van, Minh              CRPDJ23N   439   432/ 15  W32 L1  L21 W44 W34 3.0
+ 15 Magdangal, Alexine     CTKDJ00W   426   430/ 10  L28 W34 W35 W41 L3  3.0
+ 16 Rosenbaum, Conlee      MCGCJ22Z   400   421/ 15  L3  W36 W31 W34 L5  3.0
+ 17 Reagan, Paxton         MCGCK96W   378   465/ 52  W4  L8  L7  W37 W36 3.0
+ 18 Mendoza, Zaira         RCEDJ52Z   335   406/ 20  W23 L2  L5  W43 W38 3.0
+ 19 Garcilazo Mendoza, SebaRFRDJ00V   323   478/ 10  W5  W9  L1  L3  W41 3.0
+ 20 Hiivala, Annaleigh     CRPDJ00L   307   345/ 10  L24 L7  W53 W40 W39 3.0
+ 21 Dutcher, Hudson        MCGCJ77X   296   407/ 34  L9  W22 W14 L4  W42 3.0
+ 22 Muniz, Ivan            BMCBH90E   100   370/  5  W47 L21 W46 L6  W32 3.0
+ 23 Garcia, Sebastian      BMCDJ78G   600   520/ 35  L18 W33 L6  W45 D28 2.5
+ 24 Turner, Micah          MCGCJ22X   487   471/ 15  W20 L3  W28 D31 L6  2.5
+ 25 Harpster, Maverick     LIVDJ00R   421   363/ 10  D33 L4  L30 W54 W35 2.5
+ 26 Pena, Leo              HTEBJ00S   375   358/ 10  L1  W53 L4  D46 W49 2.5
+ 27 Zavala, Daniel         MCUDJ44V   373   329/ 19  L8  L35 D39 W48 W46 2.5
+ 28 Gonzales, Ezra         CRPDJ61Y   279   341/ 28  W15 L13 L24 W53 D23 2.5
+ 29 Badillo-chavez, LeandroFZACJ78C   260   227/ 25  D48 L31 W54 L11 W45 2.5
+ 30 Vasquez, Josue         MCUDJ53D   242   289/ 25  W40 D10 W25 L12 L11 2.5
+ 31 Natareno Trejo, Chris  RCEDJ23J   169   225/ 13  W55 W29 L16 D24 L10 2.5
+ 32 Lee, Joseph            MCGDJ00M   283   246/ 10  L14 W43 L9  W55 L22 2.0
+ 33 Nguyen, Angela         CRPDJ00Q   273   248/ 10  D25 L23 L12 D50 W47 2.0
+ 34 Duarte, Jonathan       MCUDJ44T   209   210/ 19  W49 L15 W55 L16 L14 2.0
+ 35 Benner, Oliver         LIBAJ52R   204   227/ 25  W54 W27 L15 L13 L25 2.0
+ 36 Gonzalez, Luna         BMCDJ61X   183   199/ 15  W50 L16 W43 L9  L17 2.0
+ 37 Gonzalez, David        CRPDJ53E   163   182/ 24  D11 L12 D40 L17 W55 2.0
+ 38 Garcia, Emmanuel       RFPDJ23H   124   120/ 14  L41 D49 W51 D42 L18 2.0
+ 39 Campbell, Arianna J    RFRDJ00E   100   187/ 10  D12 W51 D27 L5  L20 2.0
+ 40 Escobedo, Ayden        BMCDJ00D   100   110/ 10  L30 D50 D37 L20 W52 2.0
+ 41 Kershaw, Tanner        LIVCH90D   200   258/  5  W38 L6  W52 L15 L19 2.0
+ 42 Cardenas, Brian        RCEDH90C   100   180/  4  U   D47 W48 D38 L21 2.0
+ 43 Frias, Andres          CRPDH90B   300   100/  4  BYE L32 L36 L18 W53 2.0
+ 44 Mcwhirk, Jace          RFPAJ77T   178   109/ 18  U   L54 BYE L14 D50 1.5
+ 45 Worthington, Andrew    LIBBJ52Q   112   102/ 19  D51 L11 W50 L23 L29 1.5
+ 46 Guzman Guzman, KimberlyRCEDJ23G   100   131/ 10  L7  W48 L22 D26 L27 1.5
+ 47 Svoboda, Cj            LIBBJ45W   100   100/ 15  L22 D42 L49 W51 L33 1.5
+ 48 Mcwhirk, Tristan       CRPC669F   100   100/ 29  D29 L46 L42 L27 W54 1.5
+ 49 Landen, Gwen           CRPDH89Z   300   100/  5  L34 D38 W47 L10 L26 1.5
+ 50 Ladino-quiroz, Aaron   RCEDH89W   300   100/  5  L36 D40 L45 D33 D44 1.5
+ 51 Ramos, Allison         CRPDH89V   300   100/  4  D45 L39 L38 L47 BYE 1.5
+ 52 Lathrop, Lev           MTPBK38K   261   118/ 32  L53 L5  L41 BYE L40 1.0
+ 53 Escobedo, Brady        BMCDJ00B   100   100/ 10  W52 L26 L20 L28 L43 1.0
+ 54 Bawden, Sawyer         MCUBJ45U   100   100/ 18  L35 W44 L29 L25 L48 1.0
+ 55 Ramirez, Mylani        CTKDH89U   300   100/  4  L31 BYE L34 L32 L37 1.0

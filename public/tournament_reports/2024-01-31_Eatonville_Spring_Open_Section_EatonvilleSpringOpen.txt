@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Olson, Brynden         ETVMK82C  1267  1283/ 28  W4  W2  W3  3.0
+  2 Amon, Hans             ETVLK78L   976   980/ 17  W6  L1  W5  2.0
+  3 Lowe, Titus            ETLJK76T   934   952/ 13  W5  W4  L1  2.0
+  4 Brooks, Jake           ETVMK56E   697   704/  8  L1  L3  W6  1.0
+  5 Stumph, Charlotte      ETVKJ46Y  1000   675/  3  L3  W6  L2  1.0
+  6 Callon, Joseph         ETVLJ76S   547   476/  8  L2  L5  L4  0.0

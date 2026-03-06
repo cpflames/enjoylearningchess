@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kumarswamy, Adarsh     CHRI755Y   863   946/347  W4  W2  W3  3.0
+  2 Kullmann, Rex          MISDZ89V   618   680/ 33  W3  L1  D4  1.5
+  3 Bravenboer, Jake       OPWDJ97Y   898   840/ 51  L2  W4  L1  1.0
+  4 Sinha, Ishayu          CDWFJ24F   701   658/ 10  L1  L3  D2  0.5

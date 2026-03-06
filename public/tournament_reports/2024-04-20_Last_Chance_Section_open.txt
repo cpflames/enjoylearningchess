@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Deng, Stanley          LECFK22E  1614  1629/325  W9  W8  W5  D2  W3  4.5
+  2 Patterson, Ben         CHHLI54X  1728  1725/111  W4  W10 W6  D1  W8  4.5
+  3 Keener, Karl           HLHIY40G  1387  1389/137  W18 W13 W7  W5  L1  4.0
+  4 Dishanni, Logan        ICPMY45T   821   980/ 20  L2  W11 W15 W6  W10 4.0
+  5 Lindly, Kellen         SRIFK06E  1096  1101/ 38  W19 W16 L1  L3  W12 3.0
+  6 Wilson, Nicholas       LBYHJ58B   966   963/ 25  W11 W15 L2  L4  W14 3.0
+  7 Lave', Francis         ICPJY99L   880   882/ 15  L10 W18 L3  W13 W15 3.0
+  8 Santilli, Tristen      MHSMH668   877   923/148  W12 L1  W13 W16 L2  3.0
+  9 Eberlein, Jacob        ICPJY99M   843   870/ 15  L1  W14 W12 L10 W16 3.0
+ 10 Lund, Connor           ICPLY66Q   712   854/ 19  W7  L2  W17 W9  L4  3.0
+ 11 Hanley, Perpetua       HSCJJ05V   735   679/  9  L6  L4  BYE L15 W19 2.0
+ 12 Dishanni, Jonah        ICPIY59G   643   643/ 14  L8  BYE L9  W17 L5  2.0
+ 13 Fahlstrom, Lawrence    ICPHY989   409   574/ 10  W14 L3  L8  L7  W18 2.0
+ 14 Roegele, Tyson         HLHJH79F   900   668/  5  L13 L9  W18 W19 L6  2.0
+ 15 Petersen, Karl         CEVHH79E   700   668/  4  BYE L6  L4  W11 L7  2.0
+ 16 Peters, Jude           ICPHY97V   700   751/  5  W17 L5  W19 L8  L9  2.0
+ 17 Dishanni, Caden        ICPMY99X   864   635/  9  L16 L19 L10 L12 BYE 1.0
+ 18 Ferguson, Jordan       ICPKY99N   782   678/ 14  L3  L7  L14 BYE L13 1.0
+ 19 Hanley, Leo            ICPMY99K   739   629/ 10  L5  W17 L16 L14 L11 1.0

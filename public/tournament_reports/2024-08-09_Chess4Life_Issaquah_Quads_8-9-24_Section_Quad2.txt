@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Evan             PLKHB88C   961   962/ 76  W2  L3  W4  2.0
+  2 George, Ameya          EBSEK88Y   745   847/ 81  L1  W4  W3  2.0
+  3 Davies, Damien         MCEFK68U   805   827/ 87  D4  W1  L2  1.5
+  4 Tsay, Elon             NOWDK07B   942   871/ 77  D3  L2  L1  0.5

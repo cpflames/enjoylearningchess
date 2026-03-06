@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ramirez, Efraim        ADUND81X  1385  1487/ 14  W3  W4  W2  3.0
+  2 Dillingham, Daniel     KCCGB73M  1385  1398/240  W4  W3  L1  2.0
+  3 Camacho, Alexis        CWHNB214  1296  1286/162  L1  L2  W4  1.0
+  4 York, Tim              ADUNG34M  1328  1217/  9  L2  L1  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sreraman, Rohit        BCADG92Q  1094  1206/223  W4  W3  W2  3.0
+  2 Tian, Eric             SOMFI80S  1166  1172/148  W3  W4  L1  2.0
+  3 Yang, Jimmy            BASEG45S  1007  1005/157  L2  L1  W4  1.0
+  4 Yin, Daniel            ISSM116Y  1068  1001/413  L1  L2  L3  0.0

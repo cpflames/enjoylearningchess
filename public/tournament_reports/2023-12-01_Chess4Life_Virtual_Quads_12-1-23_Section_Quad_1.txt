@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chan, Aiden            COGI917M  1358  1457/128  W3  W4  W2  3.0
+  2 Patel, Aarya           REEFK30E  1363  1343/ 95  W4  L3  L1  1.0
+  3 Huang, Emily           OMSHB39A  1358  1339/311  L1  W2  L4  1.0
+  4 Foltz, Karsten         HTNI306D  1356  1338/159  L2  L1  W3  1.0

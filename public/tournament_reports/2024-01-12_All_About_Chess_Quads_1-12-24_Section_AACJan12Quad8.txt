@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Krogstad, Jaiden       NCSEJ88J   222   301/ 12  W6  W5  D2  2.5
+  2 Chettiyarath, Vihaan   BLWCJ81Y   207   264/  8  D3  W4  D1  2.0
+  3 Mazer, Harvey          SNEDJ59E   300   288/  3  D2  D6  W5  2.0
+  4 Paidipathi, Kiaan      SHSBJ99C   133   101/ 42  L5  L2  W6  1.0
+  5 Pasyavula, Vithun      SOMDJ59C   300   100/  3  W4  L1  L3  1.0
+  6 Vatsan, Maitri         SSMBK00S   100   100/ 25  L1  D3  L4  0.5

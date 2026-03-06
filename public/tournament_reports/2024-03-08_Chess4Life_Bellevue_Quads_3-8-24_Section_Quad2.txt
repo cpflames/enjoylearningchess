@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Deshpande, Keshav      WOBG420G  1138  1160/ 98  W4  W3  D2  2.5
+  2 Hu, Yi-en Pi           BCADK35P  1136  1134/ 54  D3  W4  D1  2.0
+  3 Kumarswamy, Adarsh     CHRI755Y   946   967/350  D2  L1  W4  1.5
+  4 Kocherlakota, Vihaan   EBSGA65P   885   842/ 62  L1  L2  L3  0.0

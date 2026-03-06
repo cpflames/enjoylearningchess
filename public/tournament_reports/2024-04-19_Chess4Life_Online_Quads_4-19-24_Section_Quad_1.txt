@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Siripurapu, Pranal     EALLH88T  1382  1509/ 14  D3  W2  W4  2.5
+  2 Patel, Aarya           REEFK30E  1496  1492/150  D4  L1  W3  1.5
+  3 Syal, Yash             CDIFC10R  1396  1415/149  D1  W4  L2  1.5
+  4 He, Oliver             ENDDK71V  1560  1507/355  D2  L3  L1  0.5

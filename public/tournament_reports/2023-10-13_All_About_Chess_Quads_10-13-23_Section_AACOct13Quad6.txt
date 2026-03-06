@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Amy             SOMDC03P   511   658/ 62  W4  W2  W3  3.0
+  2 Abhilash, Lavina       CRIEK07R   529   556/ 44  W3  L1  W4  2.0
+  3 Sarychev, Aleksei      GEKJJ98N   472   443/  6  L2  W4  L1  1.0
+  4 Malhotra, Sartaj       KNDFK69K   511   421/ 25  L1  L3  L2  0.0

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bae, Micaiah           FACCJ64T   208   335/ 30  W6  W4  D2  2.5
+  2 Khadimi, Mohadissa     CEEDH66Q   100   328/  5  W3  W5  D1  2.5
+  3 Neff, Kathryn          CCXEH69N   204   259/ 12  L2  W6  W4  2.0
+  4 Khadimi, Matin         CEEFH67V   328   260/ 12  W5  L1  L3  1.0
+  5 Neff, William          CCXBH69K   105   101/ 26  L4  L2  W6  1.0
+  6 Brown, Jordan          HSCCJ64H   100   100/ 20  L1  L3  L5  0.0

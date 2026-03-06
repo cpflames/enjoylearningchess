@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Desai, Sharanam        CMCD678T   563   705/ 45  W4  W3  W2  3.0
+  2 Qi, Andrew             SREEK62P   620   639/  7  W3  W4  L1  2.0
+  3 Wong, Aiden            CNHDK17Z   583   548/ 29  L2  L1  W4  1.0
+  4 Fu, Yo-yo              ETSAJ98Q   463   350/  6  L1  L2  L3  0.0

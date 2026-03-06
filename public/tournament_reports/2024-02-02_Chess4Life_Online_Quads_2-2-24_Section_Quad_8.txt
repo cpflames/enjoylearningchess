@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, Leon             SNRED24U   701   781/ 56  D2  W4  W3  2.5
+  2 Chang, Ethan An Tong   BNTCJ59M   541   672/  6  D1  W6  W5  2.5
+  3 Joshi, Aahana          GTMHK47D   615   675/ 22  W4  W5  L1  2.0
+  4 Sardarli, Adnan        MISD671W   704   647/108  L3  L1  W6  1.0
+  5 Arvind, Neeti          SHSGG66L   657   601/ 29  W6  L3  L2  1.0
+  6 Taylor, Maverick       ENAAJ46F   100   181/  3  L5  L2  L4  0.0

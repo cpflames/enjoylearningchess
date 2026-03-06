@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tiwari, Prakhar        TMBK785R  1423  1444/ 92  W3  W2  BYE 3.0
+  2 Zhang, Kevin           WOBF809Y  1282  1282/ 98  U   L1  W3  1.0
+  3 Yu, Patrick            BOTM621D  1154  1128/ 29  L1  BYE L2  1.0

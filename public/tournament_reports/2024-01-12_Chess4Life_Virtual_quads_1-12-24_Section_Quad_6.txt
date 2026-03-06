@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Naik, Shreyas          ETSEJ98X   686   673/ 33  W4  L2  W5  2.0
+  2 Yang, Michael          SOMFK00G   647   654/ 13  W5  W1  L3  2.0
+  3 Sardarli, Adnan        MISD671W   621   614/101  W6  L4  W2  2.0
+  4 Meymandi-li, Alvin     CNCCJ64F   373   460/ 15  L1  W3  W6  2.0
+  5 Dasgupta, Om           FRWGK23P   295   318/  6  L2  W6  L1  1.0
+  6 Almuayyad, Omar        RHJGJ59J   600   100/  3  L3  L5  L4  0.0

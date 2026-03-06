@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Salal, Zikrain         PFCHJ82Z  1301  1341/ 69  W6  W4  W2  W3  W5  5.0
+  2 He, Oliver             ENDDK71V  1178  1174/239  D5  W3  L1  W6  W4  3.5
+  3 Sreraman, Rohit        BCADG92Q  1029  1001/173  L4  L2  W5  L1  W6  2.0
+  4 Holostov, Michael      PLKGJ94C   600   954/  5  W3  L1  W6  L5  L2  2.0
+  5 Iyer, Amshul           IMSIK11M   695   808/  8  D2  L6  L3  W4  L1  1.5
+  6 Mcintyre, Isaac        ETSE466S   906   870/177  L1  W5  L4  L2  L3  1.0

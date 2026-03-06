@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yondon, Odbayar        LMAFK97T  1797  1785/222  W3  W4  L2  2.0
+  2 Bharathy Mohan, Aarav  FRWFC98B  1590  1612/337  D4  D3  W1  2.0
+  3 Xiong, Michael         MEDF115A  1596  1581/276  L1  D2  D4  1.0
+  4 Shah, Kanav            LMAF295Q  1458  1468/182  D2  L1  D3  1.0

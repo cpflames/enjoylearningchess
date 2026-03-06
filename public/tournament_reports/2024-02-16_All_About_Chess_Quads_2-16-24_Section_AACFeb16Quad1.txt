@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Qian, Daniel           PFCM7807  1885  1889/317  W3  W4  W2  3.0
+  2 Li, Austin A           PLKH438B  1435  1456/177  W4  W3  L1  2.0
+  3 Thanikonda, Kruti      CMCDK84W  1263  1274/108  L1  L2  W4  1.0
+  4 Joshi, Yash            PFCH280R  1309  1268/171  L2  L1  L3  0.0

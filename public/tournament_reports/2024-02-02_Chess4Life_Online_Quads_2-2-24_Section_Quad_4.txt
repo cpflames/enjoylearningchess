@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Empil, Lander          BBTJJ82B  1094  1203/ 23  W4  W2  W3  3.0
+  2 Rackoff, Dylan         BLWG507J  1043  1088/242  W3  L1  W4  2.0
+  3 Girroir, Arrow         ACNDQ003  1110  1080/ 37  L2  W4  L1  1.0
+  4 Kandar, Aarav          FISDK21U  1052   987/ 65  L1  L3  L2  0.0

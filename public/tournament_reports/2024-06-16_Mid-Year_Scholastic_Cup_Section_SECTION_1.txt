@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Razmov, Gabriel        ADDIC26K  1829  1840/349  L5  W6  W2  W4  D3  3.5
+  2 Mishra, Abhinav        TMBIB02W  1731  1752/144  L3  W4  L1  W5  W6  3.0
+  3 Boulis, Christos       NWSKC84T  1869  1846/622  W2  D5  L4  D6  D1  2.5
+  4 Bimod, Karthik         SLLHW89E  1667  1690/107  D6  L2  W3  L1  W5  2.5
+  5 Yondon, Odbayar        LMAFK97T  1819  1791/246  W1  D3  D6  L2  L4  2.0
+  6 Liu, Bichen            KKNHK00D  1620  1623/138  D4  L1  D5  D3  L2  1.5

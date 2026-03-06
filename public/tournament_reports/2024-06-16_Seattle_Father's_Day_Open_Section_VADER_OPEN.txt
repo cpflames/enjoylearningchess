@@ -1,0 +1,25 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Degenbaev, Aziz        ADUNJ12D  2332  2332/ 16  W16 W7  D3  D6  W5  4.0
+  2 Vemparala, Nikash      OVLII078  2237  2244/428  W9  W8  W6  D5  D3  4.0
+  3 Vijayakumar, Advaith   NRCL6655  2201  2213/308  W10 W4  D1  W14 D2  4.0
+  4 Cheng, Selina          TLMG413R  1660  1722/554  W24 L3  W18 W7  W8  4.0
+  5 Porter, Ryan W         ADUNF05C  2295  2292/ 31  W12 W11 W14 D2  L1  3.5
+  6 Gavrysh, Leonid        ADUN816H  2065  2070/ 90  W13 W23 L2  D1  W12 3.5
+  7 Saddi, Neevan Reddy    GRREH87M  1705  1715/253  W21 L1  W10 L4  W17 3.0
+  8 Merriman, Dann         WMNEF79Y  1680  1703/598  W22 L2  W13 W11 L4  3.0
+  9 Bharathy Mohan, Aarav  FRWFC98B  1637  1674/361  L2  W21 L11 W22 W14 3.0
+ 10 Shi, Gavin             LCOJH855  1614  1635/391  L3  W22 L7  W18 W16 3.0
+ 11 Ramkumar, Nikhil       RBRG115E  1808  1793/264  W20 L5  W9  L8  D13 2.5
+ 12 Frederick, Benjamin    EMSGS57X  1652  1655/267  L5  D20 W23 W17 L6  2.5
+ 13 Guity, Walter          ADUND92T  1547  1603/ 20  L6  W16 L8  W15 D11 2.5
+ 14 Moroney, Timothy       ADUN276J  2111  2080/ 68  W19 W18 L5  L3  L9  2.0
+ 15 Tatikonda, Nihanth     BOTJ926F  1696  1642/264  L18 W19 L17 L13 W20 2.0
+ 16 Cen, Evan              TYEII97D  1657  1640/214  L1  L13 W20 W19 L10 2.0
+ 17 Goupinets, Andrew      ADUNJ69S  1476  1487/ 40  HPB HPB W15 L12 L7  2.0
+ 18 Ma, Ziliang            DCCGA69N  1441  1454/ 98  W15 L14 L4  L10 BYE 2.0
+ 19 Evin, Terrick          EBSCC54L  1557  1531/205  L14 L15 W21 L16 D22 1.5
+ 20 Singh, Balbir          ADUNK95S  1496  1486/ 51  L11 D12 L16 W23 L15 1.5
+ 21 Hirschowitz, David     ADUNF002  1492  1448/160  L7  L9  L19 BYE D23 1.5
+ 22 Pai, Vihaan            CHAEK17C  1365  1356/249  L8  L10 BYE L9  D19 1.5
+ 23 Mohan, Vishnu          KKNFF41R  1341  1328/143  BYE L6  L12 L20 D21 1.5
+ 24 Cook, Jack             ADUNH70D  1300  1319/  1  L4  U   U   U   U   0.0

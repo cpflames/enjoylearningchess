@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Alle, Vihaan Shaurya   MLEBJ72B   316   466/ 13  D2  W6  W5  2.5
+  2 Doronin, Victor        BMNG335T   660   683/ 87  D1  W4  D3  2.0
+  3 Sembium, Aditi         BCADK25W  1011   939/234  W4  L5  D2  1.5
+  4 Titterington, Henry    ENADJ88R   497   487/ 21  L3  L2  W6  1.0
+  5 Mirthipati, Akshar     CHREJ59U   400   356/  3  L6  W3  L1  1.0
+  6 Shen, Sylvia           BRHCJ59T   200   281/  3  W5  L1  L4  1.0

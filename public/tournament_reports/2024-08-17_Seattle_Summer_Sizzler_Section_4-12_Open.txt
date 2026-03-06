@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Ma, Lewis              SOMC587M  1365  1491/162  BYE D3  W7  D11 W2  W6  5.0
+  2 Nawagamudewage, NaadithMELEJ11W  1058  1476/ 15  W10 W6  W3  W13 L1  W5  5.0
+  3 Hetamsaria, Aadi       NPRK888H  1683  1665/179  W12 D1  L2  W7  W8  W11 4.5
+  4 Maharaja, Imai         HMNDK34K  1345  1345/215  W17 L13 L5  W9  W14 W10 4.0
+  5 Nawagamudewage, Inura  MDEHJ11V  1021  1269/ 15  L6  W18 W4  W10 W11 L2  4.0
+  6 Hetamsaria, Aayan      BISIG19R  1384  1392/ 83  W5  L2  W16 D8  W13 L1  3.5
+  7 Prashant, Niranjan     PFCG468K  1378  1372/186  D9  W16 L1  L3  W18 W13 3.5
+  8 Friedenson, Isaac      VVMHK21N  1422  1403/ 55  W15 L11 W12 D6  L3  W17 3.5
+  9 Deng, Alison           OMSGC56H  1012  1078/105  D7  L10 W15 L4  W16 W18 3.5
+ 10 Ao, Ethan              NPRKJ24V  1417  1371/ 24  L2  W9  W14 L5  W12 L4  3.0
+ 11 Avula, Guru Harshith ReBRHE633Y  1348  1355/146  W18 W8  D13 D1  L5  L3  3.0
+ 12 Avula, Varshith Reddy  RHJH110R  1230  1229/236  L3  W15 L8  W18 L10 W14 3.0
+ 13 Pan, Peng-ruei         SSME759R  1576  1501/169  W14 W4  D11 L2  L6  L7  2.5
+ 14 Rachiba, Alisa         EVPDK08E  1126  1107/144  L13 W17 L10 W15 L4  L12 2.0
+ 15 Huang, Clora           SOMEK31H  1072  1027/142  L8  L12 L9  L14 W17 W16 2.0
+ 16 Nadupalli, Varun       TMBHK06T   763   770/ 70  BYE L7  L6  W17 L9  L15 2.0
+ 17 Nellore, Vidya         RHJIH65D   800   733/  6  L4  L14 W18 L16 L15 L8  1.0
+ 18 Du, Charles            SOMEA15U   905   842/119  L11 L5  L17 L12 L7  L9  0.0

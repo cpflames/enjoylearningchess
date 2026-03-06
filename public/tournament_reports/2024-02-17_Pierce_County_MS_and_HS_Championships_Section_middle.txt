@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Frohbieter, Dominic    HABIK76U   968  1084/ 25  W4  W6  W2  W5  W7  5.0
+  2 Bennett-warner, DominicCLYIJ21X   800  1034/  5  W10 W3  L1  W7  W5  4.0
+  3 Henkel, James          ETLGJ21W   600   779/  5  W9  L2  L5  W11 W6  3.0
+  4 Tucker, Colin          MTIGJ21V   600   700/  5  L1  W10 L6  W9  W12 3.0
+  5 Merrill, Judah         MTIGJ21U   600   873/  5  W12 W7  W3  L1  L2  3.0
+  6 Smith, Troy            ETLHK73D   690   722/ 10  W11 L1  W4  W8  L3  3.0
+  7 Minkel, Nolan          ETLHJ21T   700   704/  5  W8  L5  W9  L2  L1  2.0
+  8 Eide, Berkly           MTIGJ21S   600   464/  5  L7  W11 W10 L6  L9  2.0
+  9 Hurlbut, Decklan       ORGGJ21Q   600   522/  5  L3  W12 L7  L4  W8  2.0
+ 10 Can, Nguyen            LKRHJ21P   700   269/  5  L2  L4  L8  L12 W11 1.0
+ 11 Kurkov, Isaac          ORGIJ21N   800   275/  5  L6  L8  W12 L3  L10 1.0
+ 12 Olson, Rafe            ETLGJ21M   600   298/  5  L5  L9  L11 W10 L4  1.0

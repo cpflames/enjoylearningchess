@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Colon, Xavier          STCIF98F   851   957/ 85  W15 W17 W16 W14 W2  5.0
+  2 Joshi, Vyom            LEOIH81X  1308  1284/257  W16 W5  W9  W3  L1  4.0
+  3 Frohbieter, Dominic    HABIK76U  1087  1096/ 34  W11 W6  W14 L2  W9  4.0
+  4 Guerrero, Rory         STCI343R   753   767/ 33  W21 L14 W19 W8  W12 4.0
+  5 Rehberger, Jack        STCH916D   636   753/ 24  W23 L2  W22 W12 W8  4.0
+  6 Sickelton, Caeli       STCIK61A   605   669/ 15  W22 L3  W23 W16 W14 4.0
+  7 Baker, Jack            STCH814U   492   731/ 25  W12 W11 L8  W15 W19 4.0
+  8 Carr, Gabriel          HPRHK51R   698   711/ 20  W17 W13 W7  L4  L5  3.0
+  9 Schulte, Joey          STCHD62Q   639   728/ 42  W19 WF  L2  W11 L3  3.0
+ 10 Odupitan, Olivia       STCHJ50X   100   233/ 13  L14 BYE L15 W18 W17 3.0
+ 11 Marley, John           CHWH932E   907   831/ 20  L3  L7  W13 L9  W21 2.0
+ 12 Albertson, Devlen      KEYHK21T   756   688/ 15  L7  W23 W21 L5  L4  2.0
+ 13 Odupitan, Oliver       STCG964H   631   573/ 29  W18 L8  L11 L19 W23 2.0
+ 14 Garcia-cobian, Rafael  PMSHK38E   550   579/ 53  W10 W4  L3  L1  L6  2.0
+ 15 Kolaski, Noah          ELKIK61C   486   467/ 15  L1  L19 W10 L7  W20 2.0
+ 16 Catayas, Ianess        APRHK51M   284   309/ 19  L2  W18 L1  L6  BYE 2.0
+ 17 Townsend, Howard       ELKHK60U   159   168/ 19  L8  L1  BYE W20 L10 2.0
+ 18 Baker, Dean            ELKHH99M   700   239/  5  L13 L16 W20 L10 W22 2.0
+ 19 Waweru, Brandon        CHWHH99L   700   585/  5  L9  W15 L4  W13 L7  2.0
+ 20 Daza, Natalie          ELKGK60Z   352   182/  8  HPB HPB L18 L17 L15 1.0
+ 21 Thomson, Kaine         ELKHK53T   178   140/ 13  L4  L22 L12 BYE L11 1.0
+ 22 Stairs, Aiden          CHWIH99K   800   135/  5  L6  W21 L5  L23 L18 1.0
+ 23 Simons, Uriah          ELKIH99J   800   345/  5  L5  L12 L6  W22 L13 1.0

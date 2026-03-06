@@ -1,0 +1,159 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bharadwaj, Samarth     DISDE78A  1406  1445/188   W31  W16  W27  W13  W7  5.0
+  2 Zhu, Aiden             SOMDC77X  1400  1434/132   W46  W17  W43  W12  W9  5.0
+  3 He, Oliver             ENDDK71V  1484  1483/363   W30  W38  W14  D25  W24 4.5
+  4 Li, Edgar              WOBD883Y  1479  1480/213   W18  W15  W37  D11  W25 4.5
+  5 Kakkad, Vayu           DCTDK50L  1301  1285/520   W19  W39  L29  W96  W41 4.0
+  6 Schasteen, Noble       DCCDA04C  1255  1234/ 47   L32  W102 W100 W86  W29 4.0
+  7 Das, Sambuddha Sekhar  ENDDK47S  1238  1257/144   W20  W40  W67  W26  L1  4.0
+  8 Babbar, Riaan          ENDDJ98D  1230  1232/ 57   W91  W41  W68  D29  D11 4.0
+  9 Lan, Jonathan          MEDD968F  1158  1174/138   W49  W42  W83  W22  L2  4.0
+ 10 Zhang, Harvey          CHRD515V  1150  1132/ 70   L50  W64  W105 W94  W44 4.0
+ 11 Wu, Shanna             CNHDJ72M  1143  1183/ 10   W51  W90  W71  D4   D8  4.0
+ 12 Sabarish, Ananya       BCADG02Z  1091  1113/164   W75  W44  W120 L2   W47 4.0
+ 13 Jayadevan, Kunal       SCDD893P  1090  1127/ 95   W52  W32  W72  L1   W43 4.0
+ 14 Chen, Felix Y          DISDA67A  1074  1108/ 75   W53  W45  L3   W54  W46 4.0
+ 15 Wang, Evan             FRWD929Z  1046  1068/135   W56  L4   W80  W59  W49 4.0
+ 16 Xie, Isaac             THRDK25T  1019  1038/ 45   W95  L1   W106 W61  W65 4.0
+ 17 Ting, Sophia           KSHDK64W  1012  1038/ 98   W76  L2   W66  W97  W50 4.0
+ 18 Byelashova, Darya      SGHDK51X   878   977/ 91   L4   W105 W113 W84  W34 4.0
+ 19 Karthik, Sai           BCAD261S   865   969/133   L5   W65  W130 W108 W37 4.0
+ 20 Sreraman, Rahul        BCADJ42L   849   936/226   L7   W66  W141 W120 W38 4.0
+ 21 Iyer, Satvik           CSMDB60D   786   880/ 30   L26  W108 W142 W72  W40 4.0
+ 22 Li, Emma               THRDJ98A   594   876/ 38   W145 W92  W23  L9   W73 4.0
+ 23 Weng, Bright           BEND850P  1255  1213/ 91   W47  W88  L22  W53  D28 3.5
+ 24 Hu, Yi-en Pi           BCADK35P  1162  1148/ 70   D92  W100 W82  W33  L3  3.5
+ 25 Zou, Jinhan            SSMDH14T  1155  1178/112   W93  W73  W111 D3   L4  3.5
+ 26 Vijay, Adith           SOMDD20K  1118  1115/ 55   W21  W28  W115 L7   D31 3.5
+ 27 Edwin, Elijah          BCSDC24D  1071  1076/175   W54  W96  L1   W55  D32 3.5
+ 28 Chou, Eugene           SSMDJ56Y   932   960/ 52   W61  L26  W70  W98  D23 3.5
+ 29 Naveh, Yaniv           SOMDK62Z   905  1076/ 55   W63  W36  W5   D8   L6  3.5
+ 30 Puranik, Armin         SSMDJ56Z   893   905/ 44   L3   W79  W137 D67  W83 3.5
+ 31 Leneway, Owen          CSIDK91V   870   915/ 54   L1   W106 W112 W107 D26 3.5
+ 32 Wadhwani, Ren          ORADK13K   865   953/ 45   W6   L13  W117 W119 D27 3.5
+ 33 Chai, Chloe            NCSDJ59R   693   831/ 72   D89  W35  W135 L24  W86 3.5
+ 34 Rachiba, Alisa         EVPDK08E  1193  1130/125   W157 L43  W102 W52  L18 3.0
+ 35 Sreraman, Rohit        BCADG92Q  1162  1092/243   D48  L33  W78  D92  W1033.0
+ 36 Zhao, William          STTDH70M  1105  1051/131   W74  L29  L64  W135 W98 3.0
+ 37 Pleasants, Gabriel     THUD149G  1070  1056/ 78   W94  W50  L4   W58  L19 3.0
+ 38 Kullmann, Rex          MISDZ89V  1068  1048/ 63   W55  L3   W79  W57  L20 3.0
+ 39 Garg, Vihaan           CMCDJ10X  1003   975/228   W57  L5   L65  W110 W1003.0
+ 40 Su, Oliver             JINDD01U   995   975/135   W58  L7   W69  W63  L21 3.0
+ 41 Bravenboer, Jake       OPWDJ97Y   974   967/ 77   BYE  L8   W127 W62  L5  3.0
+ 42 Vasamsetty, Chetan     SHFDJ38Y   941   896/ 72   W78  L9   L108 W137 WF  3.0
+ 43 Oh, Seojoon            SSMDJ70T   937   994/ 49   W59  W34  L2   W68  L13 3.0
+ 44 Tsay, Elon             NOWDK07B   911   921/ 65   W62  L12  W110 W64  L10 3.0
+ 45 Tsen, Eric             AGBDK18P   894   873/158   W98  L14  W128 L65  W1073.0
+ 46 Lew, Abigail           OPWD645P   870   879/139   L2   W80  W114 W115 L14 3.0
+ 47 Mangla, Atharv         GRRDK07C   850   860/ 99   L23  W107 W138 W111 L12 3.0
+ 48 Sorensen, Rhys         THODJ48N   818   825/ 19   D35  L89  W81  W82  D67 3.0
+ 49 Zarate, Eli            CDKDJ78W   809   827/ 25   L9   W127 W116 W71  L15 3.0
+ 50 Chadha, Saahan         ENDDK64R   799   847/ 41   W10  L37  W118 W121 L17 3.0
+ 51 Van Dyke, Micah        NLCDJ34W   797   754/ 10   L11  W69  L119 W139 W1093.0
+ 52 Goel, Atharva          MRLD436Y   772   798/ 71   L13  W84  W85  L34  W1133.0
+ 53 Kachachi, Cyrus        OPWD763G   768   793/ 76   L14  W70  W145 L23  W1083.0
+ 54 Qureshi, Haroon        RBRDJ95Y   759   770/ 25   L27  W137 W147 L14  W1153.0
+ 55 Zhang, Amy             NBEDF80L   756   768/ 30   L38  W114 W122 L27  W1173.0
+ 56 Carranza, Aly Omar     RCEDJ78V   755   735/ 30   L15  W128 L121 W138 W1113.0
+ 57 Zhang, Amy             SOMDC03P   731   740/120   L39  W141 W123 L38  W1193.0
+ 58 Distefano, Nico        IMADJ08Y   725   742/ 10   L40  W130 W148 L37  W1123.0
+ 59 Siek, Peter            HMODK62A   694   713/ 20   L43  W116 W134 L15  W1183.0
+ 60 Tyburski, Stefan       SAJDJ09A   684   667/  9   L73  L71  W144 W116 W1203.0
+ 61 Jain, Asmi             SGSDB47J   681   691/ 66   L28  W151 W124 L16  W1223.0
+ 62 Geelhood, Beckett      CDKDK96U   676   678/ 44   L44  W136 W152 L41  W1233.0
+ 63 Mosqueda, Luke         LIBDH90L   667   685/ 16   L29  W134 W126 L40  W1213.0
+ 64 Gorski, Corvin         KSTDJ74N   632   784/ 25   W154 L10  W36  L44  W88 3.0
+ 65 Prasanna, Charan       LMADJ46Z   606   767/ 26   W139 L19  W39  W45  L16 3.0
+ 66 Yorks, Cameron         THODJ74Q   600   674/ 30   W144 L20  L17  W148 W89 3.0
+ 67 Phadnis, Neil          DISDK44Y   590   763/ 39   W85  W91  L7   D30  D48 3.0
+ 68 Hsu, Max               TNTDK05W   587   740/ 23   W132 W93  L8   L43  W92 3.0
+ 69 Sasaki, Hanzo          MEDDK34B   575   628/ 26   W158 L51  L40  W134 W93 3.0
+ 70 Yan, Leo               SOMDK44P   549   623/ 25   W122 L53  L28  W152 W94 3.0
+ 71 Sane, Anay             SSMDJ56T   461   668/ 40   W103 W60  L11  L49  W96 3.0
+ 72 Surineni, Aaditri      MSMDJ52D   305   566/ 24   W113 W81  L13  L21  W97 3.0
+ 73 Lin, Vivienne          CSIDK99D   933   892/ 40   W60  L25  W109 D83  L22 2.5
+ 74 Marrugo, Emilio        OPWDE25J   778   754/ 62   L36  D82  W133 D89  D84 2.5
+ 75 Menjivar, Valery       RFRDJ78D   776   727/ 39   L12  L83  W154 D130 W1242.5
+ 76 Edelman, Charles       WOBDJ85E   737   687/ 15   L17  L111 W155 D131 W1302.5
+ 77 Agarwal, Avyaan        RCSDW81K   723   640/ 10   L88  L120 W146 W141 D85 2.5
+ 78 Xu, Derek              SSMDK24Q   702   680/ 43   L42  D135 L35  W126 W1312.5
+ 79 Sinha, Pratyaksh       REEDJ69N   627   639/ 12   W118 L30  L38  D87  W1332.5
+ 80 Karanam, Aadya         CHKDK84K   620   614/ 82   W155 L46  L15  D132 W1352.5
+ 81 Khanzode, Advait       SSMDJ56W   580   576/ 49   D86  L72  L48  W129 W1322.5
+ 82 Brar, Angad            CENDJ52A   558   589/ 40   W133 D74  L24  L48  W1362.5
+ 83 Sivanand, Raga         OPWDG97Z   557   660/ 35   W147 W75  L9   D73  L30 2.5
+ 84 Chong, Ethan           SMCDA10E   538   632/ 30   W148 L52  W90  L18  D74 2.5
+ 85 Tan, Mathew            DCCDJ76C   417   549/ 35   L67  W104 L52  W99  D77 2.5
+ 86 Mavila, Mukund         TBKDK62K   410   583/ 28   D81  W99  W89  L6   L33 2.5
+ 87 Armstrong, Benjamin    EVGDK54R   329   452/ 34   L111 W155 L96  D79  W1272.5
+ 88 Fang, Weiai            LAVD696W   980   900/254   W77  L23  L107 W128 L64 2.0
+ 89 Wang, Evan             TRHDJ78X   936   849/ 41   D33  W48  L86  D74  L66 2.0
+ 90 Wang, Kelby            SKKD796Y   912   828/141   W97  L11  L84  L113 W1412.0
+ 91 Ruiz, Andre            BMCDJ53K   828   755/ 20   L8   L67  W140 L112 W1422.0
+ 92 Liu, Jace              CNHDK00Y   815   805/ 19   D24  L22  W129 D35  L68 2.0
+ 93 Gupta, Satvik          EMDDK00A   806   744/ 15   L25  L68  W143 W114 L69 2.0
+ 94 Hong, Samira           MCGDB77R   757   725/ 82   L37  W110 W132 L10  L70 2.0
+ 95 Farias Martinez, Enoel RFRDJ00Y   738   604/ 10   L16  L115 W156 L117 W1432.0
+ 96 Velummylum, Xavier     SCDDK39X   714   686/ 33   BYE  L27  W87  L5   L71 2.0
+ 97 Ramirez, Kane          WIWDJ72E   678   639/ 91   L90  W121 W151 L17  L72 2.0
+ 98 Battuguldur, Tugs-erdenWOBDK17X   665   648/ 15   L45  W152 W136 L28  L36 2.0
+ 99 Marroquin, Chase       CRPDJ62A   657   581/ 38   L100 L86  W158 L85  W1452.0
+100 Jariwala, Vidur        THODK87P   650   667/ 40   W99  L24  L6   W147 L39 2.0
+101 York, Logan            KCCD527F   644   538/ 45   L116 L145 W157 L118 W1482.0
+102 Kang, Mason            SSMDJ29J   644   623/ 39   W117 L6   L34  L122 W1472.0
+103 Brown, Claire          CATDJ62Y   634   585/ 30   L71  L132 W149 W142 L35 2.0
+104 Smith, Benjamin        BLEDG44D   634   536/ 21   L141 L85  W150 L123 W1462.0
+105 Sherwood, Cole         FREDD99U   621   639/ 78   W142 L18  L10  W145 LF  2.0
+106 Li, Chufei             WOBD389T   620   582/ 70   W143 L31  L16  L124 W1492.0
+107 Pai, Samiksha          SSMDJ19X   595   639/ 39   W119 L47  W88  L31  L45 2.0
+108 Hedgecock, Lily        HSCDK97G   559   604/ 35   W146 L21  W42  L19  L53 2.0
+109 Xu, William            DCTDK93M   555   519/116   L121 W158 L73  W151 L51 2.0
+110 Tham, Lucas            EVGD984X   539   546/ 34   W123 L94  L44  L39  W1502.0
+111 Desai, Sharanam        CMCD678T   521   579/ 64   W87  W76  L25  L47  L56 2.0
+112 Besati, Arnav          RKWDJ74G   519   523/ 34   L135 W156 L31  W91  L58 2.0
+113 Rampally, Viraali      LKWDC95B   508   534/ 23   L72  W157 L18  W90  L52 2.0
+114 Venkatesan, Vaibhav    SSMDJ56L   497   499/ 41   W125 L55  L46  L93  W1512.0
+115 Wang, Jasper           ENDDK01P   485   539/ 21   W126 W95  L26  L46  L54 2.0
+116 Everbeck, Grey         FACDK83D   474   492/ 42   W101 L59  L49  L60  W1552.0
+117 Land, Kai              EVGDK54P   457   488/ 25   L102 W149 L32  W95  L55 2.0
+118 Anant Sundaram, Parth  SSMDJ56Q   451   475/ 30   L79  W125 L50  W101 L59 2.0
+119 Verduin, Bentley       CUEDK37A   420   463/ 25   L107 W153 W51  L32  L57 2.0
+120 Kamasani, Dharshith    FCEDJ06Q   415   462/ 14   W153 W77  L12  L20  L60 2.0
+121 Mazer, Harvey          SNEDJ59E   358   476/ 15   W109 L97  W56  L50  L63 2.0
+122 Billings, Atlas        MCGDJ44X   348   432/ 19   L70  W140 L55  W102 L61 2.0
+123 Deshmukh, Dhruv        ENDDH79Q   342   410/ 10   L110 W154 L57  W104 L62 2.0
+124 Franco, Rozlind        MTPDJ78S   287   379/ 15   L130 W144 L61  W106 L75 2.0
+125 Esparza, Scartett      MTPDJ78Q   286   312/ 23   L114 L118 L131 W158 W1372.0
+126 Mirchandani, Kiaan     MEDDK92Z   269   354/ 39   L115 W143 L63  L78  W1392.0
+127 Nelson, Miloe          CRPD915Y   579   519/ 61   W156 L49  L41  D136 L87 1.5
+128 Gadd, Joel             CRPDJ00U   537   508/ 15   W150 L56  L45  L88  D1341.5
+129 Garcia, Sebastian      BMCDJ78G   520   440/ 40   L134 D133 L92  L81  W1521.5
+130 Gridasov, Robert       LAVDJ03F   500   517/ 10   W124 L58  L19  D75  L76 1.5
+131 Garcilazo Mendoza, SebaRFRDJ00V   478   419/ 15   L136 L147 W125 D76  L78 1.5
+132 Grimm, Gia             EHADJ55G   417   439/ 39   L68  W103 L94  D80  L81 1.5
+133 Bosted, Ryker          MTPDJ78T   374   373/ 34   L82  D129 L74  W154 L79 1.5
+134 Mehta, Jahnavi         CNCDJ11K   325   361/ 20   W129 L63  L59  L69  D1281.5
+135 Esparza-chen, Lucien   WMNDJ98Z   323   404/ 48   W112 D78  L33  L36  L80 1.5
+136 Kapiko, Kannen         COBDJ26S   269   321/ 20   W131 L62  L98  D127 L82 1.5
+137 Galvan, Eli            MINDJ08J   531   461/ 10   W149 L54  L30  L42  L1251.0
+138 Bauer, Ezra            LIBDH90G   495   450/ 12   L151 W146 L47  L56  U   1.0
+139 Gilbert, Noah          QAEDJ74L   475   386/ 20   L65  L148 W153 L51  L1261.0
+140 Arrington, Ashton      MTPDJ78F   475   364/ 35   L152 L122 L91  L146 W1571.0
+141 Snyder, Damien         CEEDC98M   454   454/ 29   W104 L57  L20  L77  L90 1.0
+142 Kelley, Simon          EVGDJ75T   443   415/ 19   L105 W150 L21  L103 L91 1.0
+143 Van, Minh              CRPDJ23N   432   364/ 20   L106 L126 L93  W153 L95 1.0
+144 Rosales, Teodulo       TREDJ23M   421   323/ 10   L66  L124 L60  L150 W1581.0
+145 Chang, Timothy         CBRDK44E   417   415/ 34   L22  W101 L53  L105 L99 1.0
+146 Jiang, Kyle            SSMDK93D   388   346/ 38   L108 L138 L77  W140 L1041.0
+147 Magdangal, Alexine     CTKDJ00W   370   369/ 18   L83  W131 L54  L100 L1021.0
+148 Kundur, Saanvi         ORLDJ52B   342   338/ 15   L84  W139 L58  L66  L1011.0
+149 Gonzales, Ezra         CRPDJ61Y   341   308/ 33   L137 L117 L103 W156 L1061.0
+150 Zavala, Daniel         MCUDJ44V   329   291/ 24   L128 L142 L104 W144 L1101.0
+151 Samsonov, Kirill       UPPDH98S   280   286/ 15   W138 L61  L97  L109 L1141.0
+152 Gonzalez, David        CRPDJ53E   182   204/ 29   W140 L98  L62  L70  L1291.0
+153 Wallace, Atalie        MTPDJ78L   177   122/ 18   L120 L119 L139 L143 BYE 1.0
+154 Acosta, Oliver         SAJDJ08K   453   327/ 10   L64  L123 L75  L133 D1560.5
+155 Paeschke, Riley        MTPD271X   431   346/ 50   L80  L87  L76  D157 L1160.5
+156 Mendoza, Zaira         RCEDJ52Z   406   306/ 25   L127 L112 L95  L149 D1540.5
+157 Hiivala, Annaleigh     CRPDJ00L   345   283/ 15   L34  L113 L101 D155 L1400.5
+158 Rangel, Marianna       MTPDJ78J   389   273/ 29   L69  L109 L99  L125 L1440.0

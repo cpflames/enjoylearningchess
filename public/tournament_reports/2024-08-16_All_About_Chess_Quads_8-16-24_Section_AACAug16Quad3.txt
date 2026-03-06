@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bhandari, Aarav        CBRDJ06H   464   632/ 34  W3  W2  W4  3.0
+  2 Pai, Samiksha          SSMDJ19X   696   676/ 51  W4  L1  W3  2.0
+  3 Sathyamurthy, Shreyus  BLWBJ60Z   473   451/ 75  L1  W4  L2  1.0
+  4 Shin, Joshua           CRKBJ63R   268   234/ 76  L2  L3  L1  0.0

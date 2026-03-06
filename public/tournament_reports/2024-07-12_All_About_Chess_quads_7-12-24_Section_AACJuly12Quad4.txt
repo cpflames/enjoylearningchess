@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mahale, Avneesh        CNHB993F  1057  1140/157  W2  W4  W3  3.0
+  2 Han, Spencer           PPPEK75L   905   971/184  L1  W3  W4  2.0
+  3 Ge, Jeremy             SSMBJ88K  1105  1053/160  W4  L2  L1  1.0
+  4 Bolisetty, Varun       CBRCJ73Z   828   788/ 61  L3  L1  L2  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pan, Peng-chi          SSMCK24N   868  1009/ 51  W4  W2  W3  3.0
+  2 Han, Spencer           HSCEK75L   908   932/156  W3  L1  W4  2.0
+  3 Zhang, Amy             SOMDC03P   858   843/ 96  L2  W4  L1  1.0
+  4 Mangla, Atharv         GRRDK07C   890   812/ 82  L1  L3  L2  0.0

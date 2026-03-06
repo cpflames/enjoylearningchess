@@ -1,0 +1,56 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Appineni, Arnav        CHKEG26A   836  1053/ 20  W11 W19 W17 W14 W8  5.0
+  2 Dhameeja, Ved          GRREJ98F   825   950/ 68  W42 D12 W15 W16 W5  4.5
+  3 Nandakiran, Vidyuth    SSME617C   871   889/ 65  L12 W32 W38 W24 W21 4.0
+  4 Chen, Max Y            DISEK76L   824   850/ 66  W43 L7  W50 W36 W20 4.0
+  5 Parasurama, Chinmayi   CPJG679F   809   885/ 24  W48 W40 W7  W23 L2  4.0
+  6 Li, Timothy            CRIHE29R   743   784/159  W55 L8  W43 W40 W23 4.0
+  7 Ravindran, Riyaan      CBRFJ57K   500  1009/  4  WF  W4  L5  W17 W19 4.0
+  8 Bhambri, Vansh         KNDEJ57J   400  1036/  5  W22 W6  W9  W21 L1  4.0
+  9 Spearman, Emery        DCCG101R   787   786/ 46  W50 W44 L8  W37 D11 3.5
+ 10 Feng, Levi             SOMEJ59B   728   903/  8  W36 W20 L21 D18 W33 3.5
+ 11 Xia, Jethro            BCSEK47R   674   736/ 47  L1  W49 W44 W33 D9  3.5
+ 12 Pantea, Zion           ABEEK63Y   551   775/ 29  W3  D2  L18 W45 W28 3.5
+ 13 Jain, Khushal          EVJIK95B   868   806/ 20  W39 L23 L40 W43 W38 3.0
+ 14 Rajeswaran, Raghav     RHJHJ57H   700   802/  5  W46 D24 W35 L1  D16 3.0
+ 15 Zhang, Arwen           SOME484A   841   822/ 81  W41 D28 L2  W32 D18 3.0
+ 16 Meenakshi Sundaram, AdhCDWFK00E   825   809/  9  HPB W48 W28 L2  D14 3.0
+ 17 Sun, Ethan             JINCK94M   815   821/ 53  W49 W25 L1  L7  W42 3.0
+ 18 Tamanaha, Ryden        BLWG132N   793   807/ 54  L25 W42 W12 D10 D15 3.0
+ 19 Shah, Hridhaan         CBRE561Z   764   773/ 50  W51 L1  W46 W31 L7  3.0
+ 20 Inampudi, Tanvisree    RHJGB45J   721   764/ 28  W47 L10 W25 W27 L4  3.0
+ 21 Berjis, Adrina         MEDE230U   679   792/109  W30 W27 W10 L8  L3  3.0
+ 22 Velichko, Ivan         ASAFK63Z   668   647/ 58  L8  L50 W48 W52 W39 3.0
+ 23 Kolter, Aidan          SNIEJ60J   630   700/  9  W53 W13 W31 L5  L6  3.0
+ 24 Yen, Apollo            REJGG78H   623   676/ 92  W54 D14 D33 L3  W40 3.0
+ 25 Dattani, Shaurya       LEOGJ57G   600   764/  5  W18 L17 L20 W41 W36 3.0
+ 26 Judd, George           PUREJ57F   400   583/  5  L28 W41 L36 W51 W37 3.0
+ 27 Elmieh, Niko           CRKE777E   884   811/ 40  W38 L21 W39 L20 D29 2.5
+ 28 Sreeram, Vihaan        BLWEK01U   624   672/ 17  W26 D15 L16 W35 L12 2.5
+ 29 Lin, Ethan             THUFJ71H   561   527/ 10  L33 L52 W51 W50 D27 2.5
+ 30 Agarwal, Lakshya       REEFJ57E   500   488/  4  L21 L39 BYE D46 W45 2.5
+ 31 Rajesh, Rishaan        CLHEJ57D   400   652/  5  W37 W45 L23 L19 D35 2.5
+ 32 Upasani, Neil          SSMEJ57C   400   614/  5  D45 L3  W52 L15 W46 2.5
+ 33 Su, Oliver             JINDD01U   893   810/105  W29 D35 D24 L11 L10 2.0
+ 34 Malhotra, Sartaj       KNDFK69K   582   499/ 40  L40 L43 L45 W55 W50 2.0
+ 35 Wishwas, Rishab        LKDEK91Q   715   670/ 67  W52 D33 L14 L28 D31 2.0
+ 36 Hong, Jamie            MEDF577Q   655   639/ 39  L10 W51 W26 L4  L25 2.0
+ 37 Kukreja, Aarav         EGBF433H   605   553/ 41  L31 W55 W54 L9  L26 2.0
+ 38 Jahani, Nikan          SNIFK89A   586   568/ 24  L27 W47 L3  W44 L13 2.0
+ 39 Gokul, Shravan         EVJGJ89U   549   539/ 15  L13 W30 L27 W49 L22 2.0
+ 40 Sarkar, Hridik         FRVEK04W   473   548/ 23  W34 L5  W13 L6  L24 2.0
+ 41 Lin, Elliot            THUFJ71G   462   471/ 10  L15 L26 W55 L25 W52 2.0
+ 42 Gowda, Aarav           THOEK87E   445   463/ 20  L2  L18 W47 W54 L17 2.0
+ 43 Yang, Maximilian       SOMF632J   355   404/ 34  L4  W34 L6  L13 W53 2.0
+ 44 Rathinasabapathy, VarsiINGGJ60E   100   206/  8  BYE L9  L11 L38 W49 2.0
+ 45 Mallu, Rushank Reddy   BRHEK93H   681   604/ 51  D32 L31 W34 L12 L30 1.5
+ 46 Phaneesh, Saanvi       SSME983M   468   443/ 45  L14 W53 L19 D30 L32 1.5
+ 47 Shah, Aarush           LEOGK00C   388   322/  9  L20 L38 L42 D48 W55 1.5
+ 48 Kim, Harrison          THUFK94V   328   360/ 10  L5  L16 L22 D47 W54 1.5
+ 49 Thakur, Devyan         BRHEJ74W   343   274/ 10  L17 L11 W53 L39 L44 1.0
+ 50 Jiang, Jason           SSMFK94Q   252   281/ 14  L9  W22 L4  L29 L34 1.0
+ 51 Chenchu Arun, Krish    SSMEJ74U   236   217/  9  L19 L36 L29 L26 BYE 1.0
+ 52 Tun, Harrison          BRWEJ57B   400   352/  5  L35 W29 L32 L22 L41 1.0
+ 53 Gunturu, Arnav         RHJGJ57A   600   100/  4  L23 L46 L49 BYE L43 1.0
+ 54 Prashanth, Aswanth     SMVGI99W   363   284/ 16  L24 BYE L37 L42 L48 1.0
+ 55 Leung, Katherine       SOME360H   326   243/ 22  L6  L37 L41 L34 L47 0.0

@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ghosh, Snehil          CBRE738T  1300  1311/168  BYE W3  W2  3.0
+  2 Heydarov, Rasul        BLWFH95F   975   991/ 11  W3  BYE L1  2.0
+  3 Yang, Nicholas         CHRDG23U   893   865/107  L2  L1  BYE 1.0

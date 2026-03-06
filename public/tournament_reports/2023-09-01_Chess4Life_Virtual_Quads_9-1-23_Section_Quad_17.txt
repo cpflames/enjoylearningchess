@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Rajeshkumar, Dhruva    BRHBK58G   100   332/  6  W3  W4  W2  3.0
+  2 Wei, Brayden           ETSBK90F   312   312/ 21  W4  W3  L1  2.0
+  3 Yang, Leo              HMNEK01G   400   100/  3  L1  L2  D4  0.5
+  4 Garg, Atharv           CHRFK01F   500   100/  3  L2  L1  D3  0.5

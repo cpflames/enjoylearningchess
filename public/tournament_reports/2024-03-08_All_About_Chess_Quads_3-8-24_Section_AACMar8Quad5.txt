@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ge, Jeremy             SSMBJ88K   841   901/ 85  W2  D3  W4  2.5
+  2 Pan, Peng-yu           SSMCK24P   785   827/ 58  L1  W4  W3  2.0
+  3 Zhang, Arwen           SOME484A   787   767/ 89  D4  D1  L2  1.0
+  4 Dharamshi, Anay        CBRCK42U   805   752/ 37  D3  L2  L1  0.5

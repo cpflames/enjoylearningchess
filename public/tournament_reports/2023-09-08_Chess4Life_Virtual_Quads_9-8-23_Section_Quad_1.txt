@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Foltz, Karsten         HTNI306D  1336  1434/142  W3  W2  D4  2.5
+  2 Liu, Yuntao            STTG505Y  1638  1622/277  W4  L1  W3  2.0
+  3 Cheng, Alan            CHRFJ71K  1429  1411/119  L1  W4  L2  1.0
+  4 Xie, Michael           EVJH549C  1315  1299/382  L2  L3  D1  0.5

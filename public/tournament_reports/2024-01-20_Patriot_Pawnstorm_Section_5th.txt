@@ -1,0 +1,34 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Naungayan, Landon      CRPFJ80K   833  1011/ 15  W19 W4  W3  W6  W2  5.0
+  2 Vanderschoor, Peyton   MTPF490Y   832   879/ 49  W20 W11 W10 W9  L1  4.0
+  3 Lukson, Luka           LECFF91D   815   837/ 35  W15 W18 L1  W13 W11 4.0
+  4 Mendez, Jaden          MTPFI40R   684   748/ 45  W24 L1  W19 W18 W12 4.0
+  5 Menjivar, Bryan        RFRFJ80L   620   703/ 10  L25 W7  W20 W8  W9  4.0
+  6 Gardner, Grayson       MTPFH05D   534   705/ 35  W32 W8  W16 L1  W17 4.0
+  7 Dahl, Heidi            MTPFH58K   524   549/ 35  D28 L5  W33 W14 W16 3.5
+  8 Banuelos, Arturo       MCUFD90C   768   725/141  W29 L6  W28 L5  W19 3.0
+  9 Schutz, Henry          KCCFJ80M   755   747/ 17  W22 W13 W17 L2  L5  3.0
+ 10 Oh, Sarah              OERFC73R   736   705/ 64  W23 W14 L2  L12 W20 3.0
+ 11 Munoz, Salvador        BMCFK53B   647   667/ 23  W26 L2  W29 W17 L3  3.0
+ 12 Butler, Brandon        RFPF693M   564   591/ 34  W27 L17 W15 W10 L4  3.0
+ 13 Moguel, Gerardo        RFRFK96N   547   547/ 35  W31 L9  W30 L3  W24 3.0
+ 14 Ramirez, Yasmine       MCUFK69C   521   527/ 34  W33 L10 W25 L7  W18 3.0
+ 15 Flemming, Robert       MTPFJ80G   363   366/ 15  L3  W31 L12 D26 W27 2.5
+ 16 Tawoj, Harold          TREFJ53X   500   423/  3  BYE HPB L6  W28 L7  2.5
+ 17 Ramirez, Kane          WIWDJ72E   831   742/ 68  W21 W12 L9  L11 L6  2.0
+ 18 York, Jackson          KCCF472Y   575   534/ 35  W30 L3  W21 L4  L14 2.0
+ 19 Leanos, Brian          TREFJ80H   490   502/ 10  L1  W24 L4  W29 L8  2.0
+ 20 Moncada, Orlando       MCUFK69D   416   422/ 29  L2  W26 L5  W30 L10 2.0
+ 21 Anderson, Keegan       BMCFJ80C   396   339/ 10  L17 W32 L18 L24 W31 2.0
+ 22 Rangel, Valentino      TREFJ79X   328   287/ 10  L9  L30 W23 L27 W29 2.0
+ 23 Kubalek, Janae         RFPF201M   311   283/ 32  L10 D33 L22 W25 D26 2.0
+ 24 Ibarra, Angel          CRPFJ79W   299   320/ 15  L4  L19 W31 W21 L13 2.0
+ 25 Muniz, Christopher     BMCFJ79V   276   308/ 10  W5  L28 L14 L23 W30 2.0
+ 26 Garza, Riot            TREFJ80F   245   267/ 10  L11 L20 W32 D15 D23 2.0
+ 27 Gonzalez, Benicio      BMCFH26B   171   173/ 18  L12 L29 BYE W22 L15 2.0
+ 28 Soto, Elijah Ray       RFPFJ53W   500   382/  4  D7  W25 L8  L16 U   1.5
+ 29 Wagner, Adam           MTPFJ79U   348   297/ 14  L8  W27 L11 L19 L22 1.0
+ 30 Langston, Felicity     MTPF424K   175   170/ 42  L18 W22 L13 L20 L25 1.0
+ 31 Sarmiento, Cassidee    TREFJ53V   500   100/  5  L13 L15 L24 W33 L21 1.0
+ 32 Murguia Valdivia, RocioRCEFJ53U   500   100/  3  L6  L21 L26 BYE U   1.0
+ 33 Gomez Cacho, Gustavo   RCEFJ53T   500   100/  4  L14 D23 L7  L31 U   0.5

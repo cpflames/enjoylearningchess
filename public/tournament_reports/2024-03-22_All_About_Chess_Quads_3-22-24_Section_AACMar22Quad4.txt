@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Juarez-caballero, CristSNIGD76Z   870   948/140  W3  W2  D4  2.5
+  2 Dharamshi, Anay        CBRCK42U   823   880/ 48  W4  L1  W3  2.0
+  3 Pan, Peng-yu           SSMCK24P   852   832/ 64  L1  W4  L2  1.0
+  4 Ge, Jeremy             SSMBJ88K   910   847/ 96  L2  L3  D1  0.5

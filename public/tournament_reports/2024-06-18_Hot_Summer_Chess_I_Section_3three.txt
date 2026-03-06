@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Triano, Tony           SKYEJ17K   673   757/ 18  W5  W4  W2  3.0
+  2 Bannister, Altair      EAGCK36Y   601   612/ 57  W6  W3  L1  2.0
+  3 Verduin, Bentley       CUEDK37A   463   468/ 28  W7  L2  W6  2.0
+  4 Russell, Emerson       BLEFK23A   568   541/ 70  W8  L1  D5  1.5
+  5 Kaur, Prabhkirat       IREEE41C   378   398/ 21  L1  W8  D4  1.5
+  6 Gilday, Finn           CIAEJ17C   239   245/ 13  L2  W7  L3  1.0
+  7 Neff, Josiah           HSCGH69Q   600   146/  3  L3  L6  W8  1.0
+  8 Neff, Kathryn          HSCEH69N   400   100/  3  L4  L5  L7  0.0

@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Phadke, Mahi           STLHF90B  1135  1215/ 42  W5  W4  W2  W3  W6  5.0
+  2 Bu, Ethan              BASGK38W  1055  1049/ 17  W7  D3  L1  W6  W8  3.5
+  3 Holostov, Michael      PLKGJ94C   954  1006/ 10  W8  D2  W4  L1  W5  3.5
+  4 Padamatinti, Sriman    GTMIA77K   911   897/ 11  W6  L1  L3  W8  W7  3.0
+  5 Iyer, Amshul           IMSIK11M   808   759/ 13  L1  L6  W8  W7  L3  2.0
+  6 Li, Yueze              COGIJ98G   791   790/ 10  L4  W5  W7  L2  L1  2.0
+  7 Haloi, Rishav          CNCG871Z   492   477/ 18  L2  W8  L6  L5  L4  1.0
+  8 Sinha, Aarav           ISMI886W   278   256/ 28  L3  L7  L5  L4  L2  0.0

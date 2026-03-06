@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Swain, Samarth         MMEBJ58S   668   752/ 91  W4  W3  W2  3.0
+  2 Sathyamurthy, Shreyus  BLWBJ60Z   520   579/ 63  W3  W4  L1  2.0
+  3 Bolisetty, Varun       CBRCJ73Z   598   560/ 31  L2  L1  W4  1.0
+  4 Li, Ethan James        SOMBK00K   442   387/ 43  L1  L2  L3  0.0

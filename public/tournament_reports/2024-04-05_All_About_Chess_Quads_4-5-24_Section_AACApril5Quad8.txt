@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Krogstad, Jaiden       NCSEJ88J   232   389/ 47  W5  W2  W3  3.0
+  2 Malhotra, Dilraj       MAHBK02Y   288   298/ 52  W4  L1  W5  2.0
+  3 Paidipathi, Kiaan      SHSBJ99C   100   129/ 68  BYE W4  L1  2.0
+  4 Vatsan, Maitri         SSMBK00S   180   103/ 66  L2  L3  BYE 1.0
+  5 Bhandari, Aarav        CBRDJ06H   105   100/  9  L1  BYE L2  1.0

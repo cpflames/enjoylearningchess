@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Pantoja, Cain          OCHG228C   949  1129/ 45  W10 W5  W7  D3  W4  4.5
+  2 Hong, Sidney           JMLG478H   903  1030/103  W12 W4  L3  W7  W8  4.0
+  3 Ramos, Zachary         DEHGK71L  1189  1177/ 36  L5  W10 W2  D1  W9  3.5
+  4 Naungayan, Landon      CRPFJ80K  1011  1025/ 20  W9  L2  W5  W6  L1  3.0
+  5 Lum, Boaz              TRHCJ62C   896   969/ 15  W3  L1  L4  W12 W7  3.0
+  6 Hong, Samira           MCGDB77R   649   804/ 63  W8  L7  W12 L4  W11 3.0
+  7 Vasquez, Mateo         MCUEK26G   946   925/ 90  W11 W6  L1  L2  L5  2.0
+  8 Wang, Evan             TRHDJ78X   899   867/ 18  L6  W11 L9  W10 L2  2.0
+  9 Vanderschoor, Peyton   MTPF490Y   879   857/ 54  L4  W12 W8  L11 L3  2.0
+ 10 Doss, Ryder            RRGG578Y   837   834/ 41  L1  L3  W11 L8  W12 2.0
+ 11 Trevino-gonzalez, RamirOCHGK69A   860   784/ 35  L7  L8  L10 W9  L6  1.0
+ 12 Lucatero, Lucas        OCHGF32U   820   724/ 44  L2  L9  L6  L5  L10 0.0

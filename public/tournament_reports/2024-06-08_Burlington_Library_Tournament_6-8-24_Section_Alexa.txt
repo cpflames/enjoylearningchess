@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Vendeland, Alexa       HSCH441X  1274  1359/120  W2  W3  W4  3.0
+  2 Zhang, Owen            SHMI995H  1396  1386/283  L1  W4  W3  2.0
+  3 Rennie, Elias          BVEFH77C   844   912/ 17  W4  L1  L2  1.0
+  4 Palmer, Evan           BHMKI90S  1304  1225/183  L3  L2  L1  0.0

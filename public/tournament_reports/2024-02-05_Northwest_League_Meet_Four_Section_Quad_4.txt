@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Vance, Sawyer          FHVHJ32E   700  1332/  2  W4  LF  W2  2.0
+  2 Reiss, Madelyn         BLHMJ21Y   918   939/ 61  W3  LF  L1  1.0
+  3 Morgen, Briar          SQULJ72Z   907   871/ 11  L2  LF  D4  0.5
+  4 Latham, Cash           MRDL658Y   901   893/ 22  L1  LF  D3  0.5

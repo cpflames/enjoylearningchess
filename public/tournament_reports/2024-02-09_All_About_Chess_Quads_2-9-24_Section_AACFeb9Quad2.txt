@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Han, Victor            HSCFB39P  1230  1278/162  W3  D2  W4  2.5
+  2 Joshi, Yash            PFCH280R  1339  1309/168  L4  D1  W3  1.5
+  3 Shrivastava, Parasme   BLMGK00N  1116  1114/ 42  L1  W4  L2  1.0
+  4 Nidamarthi, Nikhil     RSAE375J  1112  1111/183  W2  L3  L1  1.0

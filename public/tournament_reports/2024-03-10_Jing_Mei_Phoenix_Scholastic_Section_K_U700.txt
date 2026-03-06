@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chin, Kheiron          HSCAJ19P   404   508/ 15  W9  W3  L4  W5  W7  4.0
+  2 Chen, Eason            SSMAJ59F   333   478/ 23  W11 W6  W7  L4  W8  4.0
+  3 Mallu, Devashreetha RedBRHAJ73Q   246   434/ 25  W12 L1  W6  W9  W4  4.0
+  4 Dhillon, Veer          EATAJ02P   100   606/  5  W16 W8  W1  W2  L3  4.0
+  5 Rogov, Audrey          MEDAJ66D   259   277/ 29  W15 L7  W10 L1  W12 3.0
+  6 Trespalacios, James    JINAJ02N   100   327/  5  W13 L2  L3  W15 W11 3.0
+  7 Xie, Harvey            JINAJ02M   100   397/  5  W14 W5  L2  W8  L1  3.0
+  8 Chang, Liliana         JINAJ12S   388   319/ 10  W10 L4  W11 L7  L2  2.0
+  9 Zhang, Kyle            OPWAJ19N   100   128/ 10  L1  D12 W13 L3  D10 2.0
+ 10 Bhattacharyya, Aaria   BCAAJ02L   100   100/  5  L8  W16 L5  D12 D9  2.0
+ 11 Chu, Melody            JINAJ02K   100   165/  5  L2  W13 L8  W14 L6  2.0
+ 12 Ni, Grace              JINAJ02J   100   120/  5  L3  D9  W14 D10 L5  2.0
+ 13 Mao, Kaiya             MEDAJ41Q   135   100/ 14  L6  L11 L9  WF  D14 1.5
+ 14 Sterba, Pavel          NOWAK34L   100   100/ 28  L7  W15 L12 L11 D13 1.5
+ 15 Lam, Theo              JINAJ02H   100   100/  4  L5  L14 D16 L6  BYE 1.5
+ 16 Andken, Wren           JINAJ12K   100   100/  8  L4  L10 D15 LF  U   0.5

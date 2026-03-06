@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sampathi Rao, Sri JayraSSMFK37Y   811   802/ 36  W4  W3  D2  2.5
+  2 Lin, Luna              OPWCK01W   636   657/ 38  W6  W5  D1  2.5
+  3 Tripathi, Naksh        BRHCJ98P   265   276/ 23  D5  L1  W4  1.5
+  4 Sairam, Advaith        RBRBK01Q   114   127/ 16  L1  W6  L3  1.0
+  5 Chen, Eason            SSMAJ59F   100   186/  3  D3  L2  D6  1.0
+  6 Sankar, Laya           RLEBK11E   100   100/  6  L2  L4  D5  0.5

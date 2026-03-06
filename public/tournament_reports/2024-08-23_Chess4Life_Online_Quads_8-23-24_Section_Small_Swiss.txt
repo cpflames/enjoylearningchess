@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sunil, Shruti          JWEEW805   400   899/  3  W3  W4  W5  3.0
+  2 Kulkarni, Samik        KKNAH67M   313   331/  9  W6  W5  L3  2.0
+  3 Gao, Eason             CHRDH75U   223   335/ 24  L1  W6  W2  2.0
+  4 Dasgupta, Noyananshu   XXXCH64G   200   522/  3  W5  L1  W6  2.0
+  5 Safarova, Banuchichak  HEAHG52S   356   291/ 32  L4  L2  L1  0.0
+  6 Kamaraju, Akhil        DISDH66C   147   100/  6  L2  L3  L4  0.0

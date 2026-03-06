@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bansal, Vivaan         EVJJ452J  1193  1310/120  W3  W2  W4  3.0
+  2 Babbar, Riaan          ENDDJ98D  1280  1287/ 74  W4  L1  W3  2.0
+  3 Nidamarthi, Nikhil     BLWE375J  1212  1168/217  L1  D4  L2  0.5
+  4 Ge, Jeremy             SSMBJ88K  1131  1105/157  L2  D3  L1  0.5

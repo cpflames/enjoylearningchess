@@ -1,0 +1,28 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zhang, Kyrene          LKDFC84Y  1046  1114/188  W16 W11 D6  W5  W2  4.5
+  2 Huang, Clora           SOMEK31H  1059  1069/ 66  W14 W10 W9  W3  L1  4.0
+  3 Figatner, Jonathan     LKDF165L   916   948/ 19  W20 W15 W8  L2  W6  4.0
+  4 Mcclenahan, Nicklas    AGBFK26V   678   794/ 25  W24 L6  W7  W20 W8  4.0
+  5 Tunuguntla, Sai SrithanEMDFK78V  1176  1136/206  W17 D7  W10 L1  W11 3.5
+  6 Latuskiewicz, Matthew  EPSFK21S   804   878/ 20  W19 W4  D1  W9  L3  3.5
+  7 Smith, Peter           LKDF751W   700   727/ 46  W27 D5  L4  W21 W15 3.5
+  8 Mazalov, Denis         NLAEK10S   793   786/ 23  W18 W13 L3  W15 L4  3.0
+  9 Reimer, Oliver         LKDFG59D   772   759/ 44  W21 W22 L2  L6  W17 3.0
+ 10 Wishwas, Rishab        LKDEK91Q   670   684/ 72  W25 L2  L5  W22 W20 3.0
+ 11 Kalian, Illia          VIWFI13T   664   699/ 61  W26 L1  W22 W13 L5  3.0
+ 12 O'connell, Jackson     NOWE792U   619   603/ 40  L13 L20 W14 W23 W19 3.0
+ 13 Zhu, Alex              LKDFJ55P   500   676/  5  W12 L8  W17 L11 W18 3.0
+ 14 Hu, Elliott            CSIE837H   581   546/ 33  L2  D24 L12 WF  W21 2.5
+ 15 Takala, Greysen        VIWFE55T   600   581/ 49  W23 L3  W26 L8  L7  2.0
+ 16 Lohr, Jackson          AGBFK46G   534   446/ 18  L1  L26 L24 BYE W25 2.0
+ 17 Lu, Quinton            WEDEK91U   488   470/ 24  L5  W25 L13 WF  L9  2.0
+ 18 Soltani, Everett       WEDEK91N   481   433/ 34  L8  L23 BYE W26 L13 2.0
+ 19 Kelley, Scott          LKDFG63C   400   359/ 10  L6  W27 L21 W25 L12 2.0
+ 20 Karp, Wyatt            CBEEJ92W   388   477/ 14  L3  W12 W23 L4  L10 2.0
+ 21 Collinson, Flynn       WEDFJ76E   272   331/  8  L9  BYE W19 L7  L14 2.0
+ 22 Speirs, Arran          AGBFJ76G   230   308/  8  WF  L9  L11 L10 W26 2.0
+ 23 Zhu, Aiden             LKDFJ55N   500   417/  5  L15 W18 L20 L12 W24 2.0
+ 24 Bilanko, Bingham       LKDEJ69C   353   393/  9  L4  D14 W16 LF  L23 1.5
+ 25 Wang, Katelyn          NOWEJ55M   400   147/  5  L10 L17 W27 L19 L16 1.0
+ 26 Liechty, Asher         LKDEJ55L   400   242/  5  L11 W16 L15 L18 L22 1.0
+ 27 Mehrotra, Arin         BCSEJ55K   400   100/  3  L7  L19 L25 LF  U   0.0

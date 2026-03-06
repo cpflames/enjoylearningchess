@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Arvind, Neeti          SHSGG66L   738   835/ 39  D3  W2  W4  2.5
+  2 Kaushal, Ayaan         CAVE975V   818   831/ 34  W4  L1  W3  2.0
+  3 Li, Rebecca            SCDCJ62B   742   750/122  D1  W4  L2  1.5
+  4 Kuluru, Samith         LEOHI99K   729   656/265  L2  L3  L1  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kandar, Aarav          FISDK21U  1026  1052/ 62  L2  W3  W4  2.0
+  2 Zhu, Kevin             CSME865U  1014  1046/411  W1  W4  L3  2.0
+  3 Sabarish, Ananya       BCADG02Z  1007  1042/141  W4  L1  W2  2.0
+  4 Wang, Hengsheen        EVGB704V  1063   980/ 82  L3  L2  L1  0.0

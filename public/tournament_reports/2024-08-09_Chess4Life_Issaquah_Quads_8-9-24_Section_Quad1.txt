@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Joshi, Vyom            LEOIH81X  1267  1309/291  W3  W4  W2  3.0
+  2 Chaporkar, Nihar       ENSDK65B  1189  1174/ 65  W4  D3  L1  1.5
+  3 Holostov, Michael      PLKGJ94C   981  1023/ 27  L1  D2  W4  1.5
+  4 Zhang, Aaron           SHSJ389W  1047   992/ 22  L2  L1  L3  0.0

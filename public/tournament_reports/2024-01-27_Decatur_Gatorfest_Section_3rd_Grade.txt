@@ -1,0 +1,39 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kakkad, Vayu           DCTDK50L  1302  1336/504  W17 W11 W20 W5  W3  5.0
+  2 Zhu, Aiden             SOMDC77X  1224  1210/108  W21 W12 W8  L3  W9  4.0
+  3 Das, Sambuddha Sekhar  ENDDK47S  1178  1197/ 94  W18 W13 W10 W2  L1  4.0
+  4 Schasteen, Noble       DCCDA04C  1170  1146/ 37  W24 L5  W15 W22 W10 4.0
+  5 Naveh, Yaniv           SOMDK62Z   759   968/ 35  W36 W4  W7  L1  W8  4.0
+  6 Sorensen, Rhys         THODJ48N   300   996/  5  L10 W33 W21 W11 W7  4.0
+  7 Sabarish, Ananya       BCADG02Z  1042   997/146  W26 W22 L5  W13 L6  3.0
+  8 Pleasants, Gabriel     DCCD149G   848   846/ 58  W28 W14 L2  W17 L5  3.0
+  9 Tsen, Eric             AGBDK18P   805   777/102  W29 L15 W24 W23 L2  3.0
+ 10 Fang, Weiai            LAVD696W   790   857/206  W6  W19 L3  W15 L4  3.0
+ 11 Maibaum, Bryce         CSID124D   778   788/ 34  W31 L1  W25 L6  W14 3.0
+ 12 Shagas, Joshua         DCTDK87R   717   683/ 42  W34 L2  L18 W28 W26 3.0
+ 13 Karanam, Aadya         CHKDK84K   661   667/ 58  W35 L3  W26 L7  W25 3.0
+ 14 Razmov, Siana          HZFBK93Y   629   642/ 91  W33 L8  W27 W20 L11 3.0
+ 15 Jariwala, Vidur        THODK87P   569   623/ 30  W38 W9  L4  L10 W29 3.0
+ 16 Chadha, Saahan         ENDDK64R   543   570/ 15  HPB HPB U   W31 W32 3.0
+ 17 Yorks, Cameron         THODJ74Q   492   517/ 10  L1  W30 W35 L8  W33 3.0
+ 18 Kullmann, Rex          MISDZ89V   384   535/ 25  L3  W34 W12 L21 W22 3.0
+ 19 Pelliciotti, Luigi     THODJ56U   216   390/ 10  W25 L10 L22 W35 W23 3.0
+ 20 Zhang, Amy             NBEDF80L   692   651/ 10  W27 W23 L1  L14 D21 2.5
+ 21 Tan, Mathew            DCCDJ76C   475   566/ 15  L2  W31 L6  W18 D20 2.5
+ 22 Leneway, Owen          CSIDK91V   689   649/ 34  W37 L7  W19 L4  L18 2.0
+ 23 Xu, William            DCTDK93M   637   560/101  W32 L20 W29 L9  L19 2.0
+ 24 Too, Amelia            DCCDK87Q   357   342/ 23  L4  W36 L9  L29 W27 2.0
+ 25 Liu, Alexander         DCTDK87N   323   339/ 10  L19 W32 L11 W34 L13 2.0
+ 26 Cord, Nico             BRYDJ68A   275   324/ 10  L7  W37 L13 W30 L12 2.0
+ 27 Igini, Vaughn          FAPDJ75W   202   218/ 20  L20 W38 L14 W37 L24 2.0
+ 28 Wang, Kenzo            MRPDK03Z   159   143/ 16  L8  L35 BYE L12 W34 2.0
+ 29 Goland, Leo            BRYDJ68J   159   238/  9  L9  BYE L23 W24 L15 2.0
+ 30 Parman, Leo            WEDDJ67L   100   107/  7  BYE L17 L31 L26 W38 2.0
+ 31 Brandon, Grady         THODJ48M   300   331/  5  L11 L21 W30 L16 W35 2.0
+ 32 Ouyang, Ray            DPIDJ48J   300   253/  5  L23 L25 W36 W38 L16 2.0
+ 33 Backnol, Ieyen         TFEDJ48H   300   341/  5  L14 L6  W37 W36 L17 2.0
+ 34 Peng, Zhenlong         MESDJ48G   300   100/  5  L12 L18 W38 L25 L28 1.0
+ 35 Zeng, Youshi           DCTDJ48F   300   147/  5  L13 W28 L17 L19 L31 1.0
+ 36 Krouse, Evie           DCTDJ48E   300   100/  4  L5  L24 L32 L33 HPB 0.5
+ 37 Krouse, Alexie         DCTDJ48D   300   100/  4  L22 L26 L33 L27 HPB 0.5
+ 38 Liu, Emily             DCTDJ48C   300   100/  5  L15 L27 L34 L32 L30 0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Berjis, Liana          MEDBB72R   402   416/ 71  W3  W4  L2  2.0
+  2 Zhang, Patrick         SSSAK01J   389   408/ 34  W4  L3  W1  2.0
+  3 Balaji, Pranav         INGGJ96J   289   352/  9  L1  W2  W4  2.0
+  4 Krogstad, Jaiden       NCSEJ88J   334   222/  9  L2  L1  L3  0.0

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lacroix, Charlie       PPPF767K   407   513/ 39  W4  W2  W3  3.0
+  2 Zhang, Patrick         SSSBK01J   355   361/ 63  W6  L1  W5  2.0
+  3 Shin, Joshua           CRKBJ63R   230   289/ 43  W5  W4  L1  2.0
+  4 Vatsan, Maitri         SSMBK00S   193   182/ 59  L1  L3  W6  1.0
+  5 Bhandari, Aarav        CBRDJ06H   100   105/  7  L3  W6  L2  1.0
+  6 Chettiyarath, Vihaan   BLWCJ81Y   172   100/ 34  L2  L5  L4  0.0

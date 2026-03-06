@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Vijayaguru, Ashwin     OHSJK95L  1314  1372/ 17  W6  W2  W4  W3  W5  5.0
+  2 Aubry, Jesse           CAPJK76P  1344  1336/ 20  W3  L1  W5  W6  W4  4.0
+  3 Crabbe, Tyler          CPKL655P  1036  1041/ 93  L2  W5  W7  L1  BYE 3.0
+  4 Blood, Jonathan        CAPJK73E   570   607/ 14  W7  W6  L1  BYE L2  3.0
+  5 Rajesh, Gagan Karthik  OHSJF06V   971   940/ 22  BYE L3  L2  W7  L1  2.0
+  6 Leblanc, Samuel        JPPJJ52P   900   429/  4  L1  L4  BYE L2  W7  2.0
+  7 King, Kevin            JPPJJ52N   900   147/  4  L4  BYE L3  L5  L6  1.0

@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bhattacharjee, Satvik  TIMCE65Q   735   917/ 46  W21 W9  W2  W3  W5  5.0
+  2 Tsay, Elon             NOWDK07B   722   778/ 31  W17 W11 L1  W15 W6  4.0
+  3 Sun, Ethan             JINCK94M   812   815/ 48  W16 W14 D4  L1  W9  3.5
+  4 Bao, David             SSSCK25B   726   733/ 17  W13 W10 D3  L5  W15 3.5
+  5 Shukla, Aaryan         GRRCK42V   467   666/ 18  BYE W7  D8  W4  L1  3.5
+  6 Du, Charles            SOMEA15U   395   599/ 39  D7  W23 W14 W8  L2  3.5
+  7 Goel, Advit            RCSCG22F   751   713/ 53  D6  L5  W19 W12 D8  3.0
+  8 Chan, Dylan            PKRGK26X   728   701/ 15  W22 W15 D5  L6  D7  3.0
+  9 Chan, Logan            PKREK28J   614   635/ 15  W19 L1  W18 W11 L3  3.0
+ 10 Satishkumar, Gautham   RCSEC88L   521   516/ 27  W23 L4  L11 W18 W17 3.0
+ 11 Chen, Logan            APODJ69K   300   633/  5  W12 L2  W10 L9  W16 3.0
+ 12 Zhang, David           SOMBK41P   457   429/ 33  L11 BYE W20 L7  D13 2.5
+ 13 Anand, Grahil          TMCFJ89Y   275   330/ 13  L4  L19 W22 W14 D12 2.5
+ 14 Zhao, Emma             SSSCK28L   704   601/ 19  W18 L3  L6  L13 BYE 2.0
+ 15 Cen, Andrew            JINCK69R   576   550/ 55  W20 L8  W16 L2  L4  2.0
+ 16 Li, Ryan Lingjun       BUSBJ88U   529   494/ 18  L3  W17 L15 W19 L11 2.0
+ 17 Wang, Aaron            BCAC631T   242   266/ 63  L2  L16 W21 W20 L10 2.0
+ 18 Tripathi, Aditya       ARMDJ96M   195   228/ 23  L14 W21 L9  L10 W22 2.0
+ 19 Jiang, Jason           SSMFK94Q   100   252/  9  L9  W13 L7  L16 W21 2.0
+ 20 Jiang, Kyle            SSMDK93D   100   160/  9  L15 W22 L12 L17 W23 2.0
+ 21 Saravanan, Navin       FRWAJ85A   277   198/ 15  L1  L18 L17 W23 L19 1.0
+ 22 He, Joshua             CHRBJ72H   275   123/  9  L8  L20 L13 BYE L18 1.0
+ 23 Lahiri, Purnava        RCSAJ71Y   100   100/  9  L10 L6  BYE L21 L20 1.0

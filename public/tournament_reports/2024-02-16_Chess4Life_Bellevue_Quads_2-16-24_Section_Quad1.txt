@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tunuguntla, Sai SrithanEMDFK78V  1138  1222/214  W2  D3  W4  2.5
+  2 Ganesan, Vidur         RBRE940K  1196  1216/167  L1  W4  W3  2.0
+  3 Chintalapudi, Srihaan  CPJG662W  1332  1301/127  W4  D1  L2  1.5
+  4 Oruganti, Yuvan        HGMGJ55U  1086   969/  6  L3  L2  L1  0.0

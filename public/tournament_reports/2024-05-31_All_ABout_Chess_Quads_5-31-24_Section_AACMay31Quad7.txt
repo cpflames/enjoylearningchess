@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nam, Alex              BLWDH75Q   390   438/ 16  W5  D3  W4  2.5
+  2 Chang, Nathan          MMECK42T   119   198/ 35  BYE W4  D3  2.5
+  3 Bhandari, Aarav        CBRDJ06H   525   468/ 28  D4  D1  D2  1.5
+  4 Nandakiran, Advaith    SSMBJ88H   191   166/ 58  D3  L2  L1  0.5
+  5 Vatsan, Maitri         SSMBK00S   208   190/ 76  L1  U   U   0.0

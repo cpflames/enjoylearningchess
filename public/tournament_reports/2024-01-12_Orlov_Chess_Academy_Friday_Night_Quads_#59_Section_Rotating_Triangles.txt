@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Plesko, Francis        HSCEK03B   687   716/ 14  BYE W3  W5  3.0
+  2 Ting, Sophia           KSHDK64W   744   755/ 64  HPB W5  W6  2.5
+  3 Desetty, Arnav SashreekCSEEJ59H   400   515/  3  W6  L1  W4  2.0
+  4 Shah, Parth            BCADJ59G   300   229/  3  D5  D6  L3  1.0
+  5 Titterington, Henry    ENADJ88R   440   401/ 27  D4  L2  L1  0.5
+  6 Li, Chris              CNHCJ89W   195   187/ 23  L3  D4  L2  0.5

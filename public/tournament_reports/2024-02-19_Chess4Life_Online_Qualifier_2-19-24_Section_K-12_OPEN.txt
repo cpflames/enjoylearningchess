@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Shaikot, Sabeer        ENSF147Q  1326  1354/222  W5  D2  W6  W7  3.5
+  2 Ramanathan, Varun      LEOIK88H  1115  1210/ 52  W10 D1  W3  D5  3.0
+  3 Sinha, Agastya         BRHEA75C  1379  1356/197  D4  W7  L2  W6  2.5
+  4 Sathish, Ritwin        RSAFC54Z  1080  1127/ 73  D3  L5  W13 W11 2.5
+  5 Sreraman, Rohit        BCADG92Q  1035  1107/214  L1  W4  W12 D2  2.5
+  6 Empil, Lander          BBTJJ82B  1206  1192/ 32  W13 W8  L1  L3  2.0
+  7 Yang, Brandon          CMCF154A  1169  1162/ 29  W12 L3  W8  L1  2.0
+  8 Sreraman, Rahul        BCADJ42L   951   950/200  W9  L6  L7  W12 2.0
+  9 Safarova, Banuchichak  HEAHG52S   247   356/ 29  L8  L12 BYE W13 2.0
+ 10 Kuluru, Samith         LEOHI99K   894   875/221  L2  D13 L11 BYE 1.5
+ 11 Konde, Tayshu          LKWI355E  1245  1217/142  U   U   W10 L4  1.0
+ 12 Kumarswamy, Adarsh     CHRI755Y   908   863/344  L7  W9  L5  L8  1.0
+ 13 Kocherlakota, Vihaan   EBSGA65P   947   867/ 53  L6  D10 L4  L9  0.5

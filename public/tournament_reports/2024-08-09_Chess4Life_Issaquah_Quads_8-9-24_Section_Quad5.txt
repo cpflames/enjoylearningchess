@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Jasper           ENDDK01P   539   659/ 24  W3  W4  W2  3.0
+  2 Chen, Alex             ENDCK03T   543   500/ 29  W4  L3  L1  1.0
+  3 Zhang, William         ISEBJ58L   467   447/ 17  L1  W2  L4  1.0
+  4 Holostov, Benjamin     CRKDJ94A   410   409/ 26  L2  L1  W3  1.0

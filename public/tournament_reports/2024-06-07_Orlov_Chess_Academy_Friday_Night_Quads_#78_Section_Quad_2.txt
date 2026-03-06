@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Doronin, Victor        BMNG335T   705   702/ 93  W3  W4  L2  2.0
+  2 Gupta, Aayansh         CNCEH73A   698   687/  6  W4  L3  W1  2.0
+  3 Heydarova, Aliya       BLWEH95D   615   638/ 12  L1  W2  W4  2.0
+  4 Nishino, Anne          BCACH74F   287   280/  9  L2  L1  L3  0.0

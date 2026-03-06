@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sathyamurthy, Shreyus  BLWBJ60Z   393   614/ 47  W3  W2  W4  3.0
+  2 Huang, Jaden           ENDCJ63S   496   535/ 57  W4  L1  W3  2.0
+  3 Swain, Samarth         MMEBJ58S   555   479/ 45  L1  D4  L2  0.5
+  4 Lacroix, Charlie       PPPF767K   452   407/ 36  L2  D3  L1  0.5

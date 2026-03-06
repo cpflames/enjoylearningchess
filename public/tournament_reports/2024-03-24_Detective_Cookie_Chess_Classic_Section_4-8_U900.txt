@@ -1,0 +1,46 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kukreja, Aarav         SOMF433H   561   884/ 63  W36 W11 W4  W7  W9  5.0
+  2 Mahadevan, Aran        ICSIH89S   800  1306/  5  W8  W28 W14 W18 W3  5.0
+  3 Sampathi Rao, Sri JayraSSMFK37Y   885   922/ 55  W39 W16 W15 W6  L2  4.0
+  4 Pantea, Zion           DCCEK63Y   775   818/ 34  W20 W34 L1  W14 W15 4.0
+  5 Shi, Bryant            DCCHJ50S   669   695/ 15  W42 L6  W20 W33 W18 4.0
+  6 Aker, Pepper           THUF181G   438   685/ 96  W43 W5  W27 L3  W12 4.0
+  7 Hernandez, Juan David  DCCFK14B   428   620/ 10  W33 W21 W25 L1  W13 4.0
+  8 Shah, Aarush           LEOGK00C   463   583/ 28  L2  W45 D11 W26 W21 3.5
+  9 Nadupalli, Varun       TMBHK06T   880   833/ 60  W29 L14 W22 W28 L1  3.0
+ 10 Spearman, Emery        DCCF101R   786   729/ 51  W23 L15 L19 W40 W29 3.0
+ 11 Mavila, Madhav         GTMI230L   758   725/ 51  W40 L1  D8  W23 D17 3.0
+ 12 Sinha, Ishayu          CDWFJ24F   780   742/ 25  W35 W17 L18 W16 L6  3.0
+ 13 Zhang, Arwen           SOME484A   744   697/ 99  W24 L18 W39 W19 L7  3.0
+ 14 Lin, Ethan             THUFJ71H   638   680/ 25  W45 W9  L2  L4  W33 3.0
+ 15 Lin, Elliot            THUFJ71G   626   692/ 25  W30 W10 L3  W27 L4  3.0
+ 16 Erickson, Harvey       DCCGK14F   620   607/ 10  W31 L3  W40 L12 W30 3.0
+ 17 Craver, Ezra           SJCFJ15L   510   538/ 10  W38 L12 D26 W25 D11 3.0
+ 18 Curnutt, Lachlan       AKKGH96N   494   615/  9  WF  W13 W12 L2  L5  3.0
+ 19 Chirita, Adrian        CBEEJ93A   487   566/ 23  W44 L27 W10 L13 W28 3.0
+ 20 Peng, Eric             SSMFJ31E   349   455/ 19  L4  W32 L5  W43 W27 3.0
+ 21 Littlefield-davis, SebaTHUEK13G   523   481/ 15  D37 L7  W35 W36 L8  2.5
+ 22 Koh, Joshua            HCCGJ20B   506   468/ 10  L28 W42 L9  D24 W36 2.5
+ 23 Guruswamy, Tejal       CPJHK10X   355   369/ 17  L10 D36 W37 L11 W38 2.5
+ 24 Adane, Joseph          DCCFK13W   194   286/ 12  L13 L33 W31 D22 W39 2.5
+ 25 Ayaalew, Amen          DCCGH89R   600   461/  4  HPB W37 L7  L17 W34 2.5
+ 26 Ayaalew, Rekik         DCCGH89Q   600   480/  3  U   BYE D17 L8  W35 2.5
+ 27 Jain, Anvay            EBSG874Z   680   612/ 48  W41 W19 L6  L15 L20 2.0
+ 28 Malhotra, Sartaj       KNDFK69K   656   635/ 64  W22 L2  W30 L9  L19 2.0
+ 29 Tang, Khai             THUEJ48Q   424   408/ 15  L9  L30 W41 W32 L10 2.0
+ 30 Chan, Asaph            DCCFH89M   500   459/  5  L15 W29 L28 W39 L16 2.0
+ 31 Spitzenberger, Gwen    AKKHH89L   700   204/  5  L16 L39 L24 W45 W43 2.0
+ 32 Phok, Sidney           DCCFH89K   500   265/  5  L34 L20 W45 L29 W40 2.0
+ 33 Mao, Gary              EINHH89J   700   465/  5  L7  W24 W34 L5  L14 2.0
+ 34 Say, Kaleb             AKKHK30Q   530   437/ 15  W32 L4  L33 D35 L25 1.5
+ 35 Route-brooks, Sir VontrDCCEK13E   213   232/  9  L12 W44 L21 D34 L26 1.5
+ 36 Yu, Andy               DCCEH89H   400   281/  5  L1  D23 W38 L21 L22 1.5
+ 37 Dutton, August         AKKGH89G   600   161/  5  D21 L25 L23 L38 W42 1.5
+ 38 Yu, Kevin              DCCGH89F   600   151/  5  L17 D41 L36 W37 L23 1.5
+ 39 Zhao, Jinyi            DCCEJ03M   400   295/  8  L3  W31 L13 L30 L24 1.0
+ 40 Mansfield, Jared       AKKHK30J   309   269/ 14  L11 W43 L16 L10 L32 1.0
+ 41 Looney, Aishanique     AKKGH96M   153   100/  9  L27 D38 L29 L42 D45 1.0
+ 42 Trump, Hugo            AKKGH96L   100   100/ 10  L5  L22 L43 W41 L37 1.0
+ 43 Bao, Jarack            DCCEH89E   400   100/  5  L6  L40 W42 L20 L31 1.0
+ 44 Gowtham, Arav          EBSEH89D   400   100/  2  L19 L35 HPB HPB U   1.0
+ 45 Timmons, Tea           DCCEK16M   100   100/ 18  L14 L8  L32 L31 D41 0.5

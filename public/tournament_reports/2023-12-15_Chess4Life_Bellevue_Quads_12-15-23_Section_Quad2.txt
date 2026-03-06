@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Naik, Shreyas          ETSEJ98X   343   554/ 27  W4  W6  W2  3.0
+  2 Bravenboer, Jake       OPWDJ97Y   581   583/ 23  W6  W3  L1  2.0
+  3 Suresh, Shruti         MTWE650Q   488   499/ 12  W5  L2  W4  2.0
+  4 Meymandi-li, Alvin     CNCCJ64F   405   378/  9  L1  W5  L3  1.0
+  5 Prasad, Romil          RSACJ59X   200   237/  3  L3  L4  W6  1.0
+  6 Koster, John           SPTAJ88T   359   284/ 15  L2  L1  L5  0.0

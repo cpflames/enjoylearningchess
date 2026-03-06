@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Han, Victor            HSCFB39P  1278  1426/165  W2  W3  W4  3.0
+  2 Joshi, Yash            PFCH280R  1268  1337/174  L1  W4  W3  2.0
+  3 Chen, William          INGH550N  1658  1601/139  W4  L1  L2  1.0
+  4 Thanikonda, Kruti      CMCDK84W  1274  1234/111  L3  L2  L1  0.0

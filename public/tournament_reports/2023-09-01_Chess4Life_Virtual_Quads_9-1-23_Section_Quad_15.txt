@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xin, Eric              MRLF922V   400   564/  6  W3  W2  W4  3.0
+  2 Ching, Victor          XXXCK07D   344   407/ 14  W4  L1  W3  2.0
+  3 Song, Oliver           HSCEF09J   332   319/ 63  L1  W4  L2  1.0
+  4 Urali, Vijay           MEDC919P   384   291/ 52  L2  L3  L1  0.0

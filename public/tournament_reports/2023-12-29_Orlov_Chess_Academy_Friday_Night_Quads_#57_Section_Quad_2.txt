@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ghosh, Snehil          CBRE738T  1208  1226/ 98  W2  W4  BYE 3.0
+  2 Thanikonda, Kruti      RCSDK84W  1080  1074/ 89  L1  W3  W4  2.0
+  3 Qin, Skyler            OPWAJ97T   764   770/ 37  W4  L2  U   1.0
+  4 Bravenboer, Jake       OPWDJ97Y   583   561/ 26  L3  L1  L2  0.0

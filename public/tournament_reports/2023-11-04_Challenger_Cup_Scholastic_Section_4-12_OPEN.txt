@@ -1,0 +1,39 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Rubaiyat, Rhadean      ICKID40L  1574  1599/149  W11 W36 D9  W4  W2  4.5
+  2 Liu, Bichen            KKNHK00D  1519  1552/102  W16 W7  W17 W3  L1  4.0
+  3 Hetamsaria, Aadi       CHOK888H  1603  1606/152  W20 W13 W5  L2  W14 4.0
+  4 Koripella, Dheeran     INGI610W  1362  1412/ 50  W22 W21 W12 L1  W10 4.0
+  5 Raja, Rian             SKWG786E  1307  1405/100  W35 W18 L3  W11 W12 4.0
+  6 Xu, Yang               CNCE649B  1268  1312/120  L10 W23 W30 W26 W9  4.0
+  7 Avula, Varshith Reddy  BRHH110R  1279  1343/203  W38 L2  D8  W24 W18 3.5
+  8 Wang, Isaac            CLHEK00U  1144  1221/ 27  L9  W35 D7  W23 W17 3.5
+  9 Shah, Kanav            LMAF295Q  1341  1369/139  W8  W14 D1  D18 L6  3.0
+ 10 Yugay, Dmitriy         KMNIJ93G  1054  1216/ 10  W6  L17 W21 W25 L4  3.0
+ 11 Chien, Jeffrey         OVLGF41X  1221  1263/134  L1  W27 W24 L5  W29 3.0
+ 12 Chatterjee, Sasmit     RHJIH23M  1251  1281/ 75  W34 W24 L4  W13 L5  3.0
+ 13 Avula, Guru Harshith ReBRHE633Y  1310  1320/ 98  W32 L3  W16 L12 W26 3.0
+ 14 Nair, Ishan            FRWG670E  1255  1282/135  W31 L9  W33 W19 L3  3.0
+ 15 Wang, Ares             MEDFJ77J  1253  1248/293  L23 W28 W34 D17 D19 3.0
+ 16 Ma, Ziliang            MERGA69N  1206  1231/ 39  L2  W38 L13 W33 W25 3.0
+ 17 Su, Alfred             SPTF929B  1318  1302/268  W28 W10 L2  D15 L8  2.5
+ 18 Bhimisetty, Sankeerth  INTL995Q  1553  1501/ 71  W37 L5  W25 D9  L7  2.5
+ 19 Prashant, Niranjan     PFCG468K  1460  1409/131  W26 L25 W20 L14 D15 2.5
+ 20 Ganesan, Vidur         RBRE940K  1256  1248/129  L3  W32 L19 D30 W23 2.5
+ 21 Xu, Jeffery            TYEGJ88V  1257  1227/ 35  W33 L4  L10 D32 W31 2.5
+ 22 Srimurugan, Rudran     OPWHJ98L  1192  1151/ 10  L4  L33 W27 D31 W32 2.5
+ 23 Lahiri, Priyadarshi    INGH191Q   876   987/ 40  W15 L6  W37 L8  L20 2.0
+ 24 Meyerzon, Daniel       INTKJ242  1331  1281/427  W29 L12 L11 L7  W30 2.0
+ 25 Maharaja, Imai         HMNDK34K  1322  1293/113  W30 W19 L18 L10 L16 2.0
+ 26 Agrawal, Anay          PLKGE67A  1198  1189/ 73  L19 W31 W36 L6  L13 2.0
+ 27 Olson, Rainn           PNRIK76K  1067  1048/ 20  L36 L11 L22 W35 W34 2.0
+ 28 Prabhu, Varun          HLYG329U  1123  1094/ 65  L17 L15 L31 W38 W33 2.0
+ 29 Luo, Peter             SHVE664K  1134  1109/ 78  L24 L34 W38 W36 L11 2.0
+ 30 Ye, Alex               ENDEH51L  1066  1075/ 91  L25 W37 L6  D20 L24 1.5
+ 31 Vutukuri, Niharika     REJHB12L  1000  1010/ 76  L14 L26 W28 D22 L21 1.5
+ 32 Bhattacharjee, PratyushTIME602T  1113  1082/ 43  L13 L20 W35 D21 L22 1.5
+ 33 Huttelmaier, Alex      OMSH218R  1011   996/169  L21 W22 L14 L16 L28 1.0
+ 34 Huang, Clora           SOMEK31H   962   951/ 47  L12 W29 L15 L37 L27 1.0
+ 35 Lu, Ian                CRIFE83J   849   852/202  L5  L8  L32 L27 W38 1.0
+ 36 Patel, Aarya           REEFK30E  1219  1172/ 87  W27 L1  L26 L29 U   1.0
+ 37 Wang, Eric             WPPF803M  1213  1146/109  L18 L30 L23 W34 U   1.0
+ 38 Tunuguntla, Sai SrithanEMDFK78V  1057   961/186  L7  L16 L29 L28 L35 0.0

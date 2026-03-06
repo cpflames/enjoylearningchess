@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, Xinyan           SOMEI38B  1008  1114/ 45  W2  W4  W3  3.0
+  2 Mcintyre, Isaac        ETSE466S   996  1019/166  L1  W3  W4  2.0
+  3 Yin, Daniel            ISSM116Y   983   958/370  W4  L2  L1  1.0
+  4 Tan, Charlie           MEDC273V   915   856/ 42  L3  L1  L2  0.0

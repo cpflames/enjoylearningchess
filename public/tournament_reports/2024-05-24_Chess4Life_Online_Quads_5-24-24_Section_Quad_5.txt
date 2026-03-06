@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chaporkar, Nihar       ENSDK65B   716   763/ 31  W4  W3  D2  2.5
+  2 Arvind, Neeti          SHSGG66L   659   738/ 36  W3  W4  D1  2.5
+  3 Armitage-selig, PhoenixSUZAJ31Z   610   564/ 25  L2  L1  D4  0.5
+  4 Iyer, Sathvik          RCSFJ28H   587   548/ 26  L1  L2  D3  0.5

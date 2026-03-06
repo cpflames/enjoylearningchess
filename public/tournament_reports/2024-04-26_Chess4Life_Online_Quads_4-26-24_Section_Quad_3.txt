@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chong, Jacob           RSHFF24L   982  1110/112  W4  W2  W3  3.0
+  2 Wu, Jasper             IMSI3471  1011  1033/146  W3  L1  W4  2.0
+  3 Bui, Edwin             SFREK90H   940   931/ 47  L2  W4  L1  1.0
+  4 Singh, Atharva         SKIHK06G  1008   930/ 34  L1  L3  L2  0.0

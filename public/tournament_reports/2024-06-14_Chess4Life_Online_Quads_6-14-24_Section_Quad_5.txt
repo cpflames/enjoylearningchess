@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lee, Julianus          CDWDK90C   515   580/ 35  W3  W4  W2  3.0
+  2 Wang, Aaron            BCAC631T   478   475/ 89  W4  W3  L1  2.0
+  3 Niranjan, Tulsi        CRIFJ75F   237   237/ 16  L1  L2  W4  1.0
+  4 Gao, Eason             CHRDH75U   153   108/ 12  L2  L1  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Vatsan, Maitri         SSMBK00S   226   285/ 40  D2  W3  W4  2.5
+  2 Pai, Samiksha          SSMDJ19X   100   182/  7  D1  W4  D3  2.0
+  3 Chettiyarath, Vihaan   BLWCJ81Y   118   100/ 25  D4  L1  D2  1.0
+  4 Paidipathi, Kiaan      SHSBJ99C   100   100/ 58  D3  L2  L1  0.5

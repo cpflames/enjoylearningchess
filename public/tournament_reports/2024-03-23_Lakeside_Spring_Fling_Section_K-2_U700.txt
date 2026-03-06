@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ge, Emma               SSMBJ56J   508   640/ 37  W6  W8  W3  W4  W5  5.0
+  2 Hasson, Ari            SJCAJ47L   627   554/ 25  L5  W9  L8  W3  W7  3.0
+  3 Sang, Andy             IMBBK65W   464   463/ 36  W9  W4  L1  L2  W8  3.0
+  4 Liu, Louis             CNHBJ75J   301   334/ 18  W7  L3  W5  L1  BYE 3.0
+  5 Ranjith, Janani        SHVBK65E   291   385/ 84  W2  W6  L4  W8  L1  3.0
+  6 Li, Jeremy             IMBBJ87A   182   191/  9  L1  L5  D7  BYE W9  2.5
+  7 Qu, Ziyou              BRBAJ86W   100   140/  8  L4  BYE D6  W9  L2  2.5
+  8 Gui, Joyce             OPWBH92C   100   299/  4  BYE L1  W2  L5  L3  2.0
+  9 Prasad, Rhea           DHLAJ92U   100   100/  8  L3  L2  BYE L7  L6  1.0

@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Bui, Edwin             SFREK90H   616   745/ 17  W14 W7  W8  D4  3.5
+  2 Yang, Michael          SOMFK00G   654   676/ 17  W11 L4  W14 W8  3.0
+  3 Davis, Nathan          GTMGJ66C   623   708/168  W16 W12 D4  D6  3.0
+  4 Sardarli, Adnan        MISD671W   614   704/105  W13 W2  D3  D1  3.0
+  5 Rabindranath, Guhan    EMDEH35G   511   649/ 21  L6  W15 W12 W7  3.0
+  6 Kaushal, Ayaan         CAVE975V   780   770/ 19  W5  L8  W9  D3  2.5
+  7 Yeh, Michael           WKEGK74V   684   652/ 80  W10 L1  W11 L5  2.0
+  8 Xin, Eric              MRLF922V   638   632/ 16  W15 W6  L1  L2  2.0
+  9 Zhou, Nolan            MRLF280K   607   586/ 54  L12 W16 L6  W14 2.0
+ 10 Mishra, Angad          RKWEK70V   466   427/ 56  L7  L14 W16 W13 2.0
+ 11 Xie, Elon              CNHDK17N   304   409/ 29  L2  W13 L7  W12 2.0
+ 12 Sreeram, Aditya        CEIE340K   866   746/ 25  W9  L3  L5  L11 1.0
+ 13 Li On Wing, Nathaniel  SBYEJ55Z   400   189/  4  L4  L11 W15 L10 1.0
+ 14 Gupta, Ishika          CHKDJ55X   300   410/  4  L1  W10 L2  L9  1.0
+ 15 Sychev, Robert         TPSBJ84Z   163   101/  9  L8  L5  L13 D16 0.5
+ 16 Chao, Hans             XXXAJ55W   100   100/  4  L3  L9  L10 D15 0.5

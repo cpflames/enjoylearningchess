@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Evan             PLKHB88C   962   986/ 79  L2  W3  W4  2.0
+  2 Garg, Vihaan           CMCDJ10X   952   979/243  W1  W4  L3  2.0
+  3 Yang, Michael          SOMFK00G   933   969/ 39  W4  L1  W2  2.0
+  4 Bui, Edwin             FRVEK90H   964   884/ 76  L3  L2  L1  0.0

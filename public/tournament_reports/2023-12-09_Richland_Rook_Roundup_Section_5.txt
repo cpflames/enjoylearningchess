@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bates, Lucas           LECFK96Q   746   896/ 15  W21 W22 W8  W6  W5  5.0
+  2 Vanderschoor, Peyton   MTPF490Y   814   832/ 44  W10 L4  W12 W9  W7  4.0
+  3 Schutz, Henry          KCCFJ80M   755   779/  9  BYE L8  W17 W4  W11 4.0
+  4 Naungayan, Landon      CRPFJ80K   711   833/ 10  W17 W2  W5  L3  W6  4.0
+  5 Lukson, Luka           LECFF91D   824   815/ 30  W9  W7  L4  W15 L1  3.0
+  6 Banuelos, Arturo       MCUFD90C   789   768/136  W20 W21 W15 L1  L4  3.0
+  7 Mariscal, Jonathan     MCUFK69F   686   689/ 30  W16 L5  W20 W8  L2  3.0
+  8 Mendez, Jaden          MTPFI40R   664   684/ 40  W18 W3  L1  L7  W12 3.0
+  9 Moguel, Gerardo        RFRFK96N   546   547/ 30  L5  W13 W19 L2  W18 3.0
+ 10 Olivo, James           BMCF632U   403   497/ 30  L2  W17 W21 L11 W15 3.0
+ 11 Bowles, Nathaniel      MTPFJ80J   616   555/ 10  D14 L15 W18 W10 L3  2.5
+ 12 Ramirez, Yasmine       MCUFK69C   556   521/ 29  D23 W19 L2  W14 L8  2.5
+ 13 Vargas, Ayrabella      MTPFJ79R   100   227/  8  HPB L9  W14 D20 D19 2.5
+ 14 Rodriguez, Andres      MCUFJ62L   500   350/  5  D11 W23 L13 L12 W20 2.5
+ 15 Soto, Elijah           RFPFD86Q   634   588/ 25  W22 W11 L6  L5  L10 2.0
+ 16 Ibarra, Angel          CRPFJ79W   347   299/ 10  L7  L20 D23 D21 W22 2.0
+ 17 Corey, Owen            MTPF956S   257   259/ 39  L4  L10 L3  BYE W23 2.0
+ 18 Gonzalez, Soraya       BMCF254U   207   216/ 14  L8  BYE L11 W22 L9  2.0
+ 19 Engle, Chance          MTPFJ79S   100   174/  8  HPB L12 L9  W23 D13 2.0
+ 20 Flemming, Robert       MTPFJ80G   415   363/ 10  L6  W16 L7  D13 L14 1.5
+ 21 Wagner, Adam           MTPFJ79U   399   348/  9  L1  L6  L10 D16 BYE 1.5
+ 22 Langston, Felicity     MTPF424K   247   175/ 37  L15 L1  BYE L18 L16 1.0
+ 23 Hernandez, Genie       MTPFK96J   100   100/ 13  D12 L14 D16 L19 L17 1.0

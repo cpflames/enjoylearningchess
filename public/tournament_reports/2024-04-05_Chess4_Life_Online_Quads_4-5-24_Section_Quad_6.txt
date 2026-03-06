@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mehrotra, Ashank       PLKI457S   458   507/ 34  W3  U   W2  2.0
+  2 Ambardekar, Arjun      WLDEZ96E   517   487/ 50  U   W3  L1  1.0
+  3 Thirey, Joshua         HCSGH82X   600   100/  2  L1  L2  U   0.0

@@ -1,0 +1,30 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Damrau, Austin         PIVFK95E  1068  1221/ 40  W28 W29 W14 W6  W4  5.0
+  2 Wang, Eric             WPPF803M  1159  1189/119  W17 W21 W20 L4  W11 4.0
+  3 Srimurugan, Rudran     OPWHJ98L  1151  1183/ 15  L4  W26 W5  W22 W10 4.0
+  4 Tunuguntla, Sai SrithanEMDFK78V   939  1176/201  W3  W15 W16 W2  L1  4.0
+  5 Gagnier, Ian           HSCFC72H  1074  1106/159  W27 D6  L3  W12 W14 3.5
+  6 Hsiao, Aaron           OMSG338U   924  1078/ 35  W19 D5  W25 L1  W16 3.5
+  7 Nachiappan, Lakshmanan RHJHJ87Q   801  1048/ 14  L20 W8  W15 D14 W17 3.5
+  8 Ye, Alex               ENDEH51L  1074  1042/102  L22 L7  W23 W29 W18 3.0
+  9 Xie, Isaac             THRDK25T   967  1004/ 35  W13 L14 W29 L11 W20 3.0
+ 10 Rackoff, Dylan         BLWG507J   946  1043/239  L14 W13 W24 W20 L3  3.0
+ 11 Li, Harry              SSSEG30G   940  1046/328  W18 L16 W19 W9  L2  3.0
+ 12 Tinwala, Mufaddal      NCSEK90P   814   984/ 14  L16 W19 W18 L5  W22 3.0
+ 13 Shen, Enoch            EVJGH90P  1169  1108/ 63  L9  L10 W26 D25 W24 2.5
+ 14 Friedenson, Isaac      VVMHK21N  1154  1131/ 29  W10 W9  L1  D7  L5  2.5
+ 15 Black, Stas            WPPF368F  1124  1086/115  W26 L4  L7  W28 HPB 2.5
+ 16 Shapiro, Maksim        LMAEK10R  1123  1101/ 54  W12 W11 L4  D17 L6  2.5
+ 17 Michiels, Peter        THOFB73Z   959   951/ 20  L2  W23 W28 D16 L7  2.5
+ 18 Zhen, Hongren          DCCIC02Z  1154  1083/175  L11 W24 L12 W21 L8  2.0
+ 19 Huang, Clora           SOMEK31H  1134  1059/ 61  L6  L12 L11 W26 W28 2.0
+ 20 Chen, Xinyan           SOMEI38B  1114  1066/ 50  W7  W22 L2  L10 L9  2.0
+ 21 Kim, Matthew           RKWFK88G   976   939/ 25  W23 L2  L22 L18 W25 2.0
+ 22 Taylor, Ryder          KAMK385C   755   843/360  W8  L20 W21 L3  L12 2.0
+ 23 Marella, Akhil         CHREK93L   608   626/ 39  L21 L17 L8  BYE W27 2.0
+ 24 Iyer, Hrishaan Arjun   BNTFJ57L   500   890/  5  W25 L18 L10 W27 L13 2.0
+ 25 Hu, Yi-en Pi           BCADK35P   974   921/ 38  L24 W27 L6  D13 L21 1.5
+ 26 Lu, Ian                CRIFE83J   852   817/207  L15 L3  L13 L19 W29 1.0
+ 27 Naveh, Ido             SOMEK63G   801   714/ 28  L5  L25 BYE L24 L23 1.0
+ 28 Sathyamurthy, Sreeshan EVJHJ24M   637   615/ 63  L1  BYE L17 L15 L19 1.0
+ 29 Brakenridge, Bryce     SOMFK89D   578   555/ 31  BYE L1  L9  L8  L26 1.0

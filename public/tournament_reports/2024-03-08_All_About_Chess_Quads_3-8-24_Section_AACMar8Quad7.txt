@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sharma, Sristhi        ISMGJ88P   573   686/ 22  W3  W4  W2  3.0
+  2 Bysani, Aakash         SSMBK01D   562   580/100  W4  W3  L1  2.0
+  3 Sathyamurthy, Shreyus  BLWBJ60Z   431   428/ 41  L1  L2  W4  1.0
+  4 Huang, Jaden           ENDCJ63S   479   400/ 47  L2  L1  L3  0.0

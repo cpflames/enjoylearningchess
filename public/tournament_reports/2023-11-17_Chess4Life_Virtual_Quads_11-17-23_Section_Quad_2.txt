@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tian, Eric             SOMFI80S  1134  1204/122  D4  W2  W3  2.5
+  2 Zhong, Alan            TISLN778  1192  1203/ 61  W3  L1  W4  2.0
+  3 Hildenbrand, Blane     PSMJ122V  1091  1082/225  L2  W4  L1  1.0
+  4 Sreraman, Rohit        BCADG92Q  1141  1095/192  D1  L3  L2  0.5

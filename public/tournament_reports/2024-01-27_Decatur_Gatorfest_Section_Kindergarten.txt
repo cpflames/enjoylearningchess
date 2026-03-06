@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Qin, Skyler            OPWAJ97T   758   867/ 52  W11 W3  W7  W2  W4  5.0
+  2 Sankrithi, Vivaan      HSCAK61R   882   857/ 75  W15 W6  W9  L1  W10 4.0
+  3 Hasson, Ari            SJCAJ47L   100   686/  5  W4  L1  W5  W9  W7  4.0
+  4 Sheehy, Julian         BRYAJ67A   408   425/ 10  L3  W15 W11 W8  L1  3.0
+  5 Zhou, George           BRYAJ65T   100   265/ 15  L7  W12 L3  W11 W9  3.0
+  6 Gao, Summer            MEDAJ66J   100   168/  8  WF  L2  L8  W14 W13 3.0
+  7 Dundon, Miles          THOAJ47K   100   492/  5  W5  W10 L1  W13 L3  3.0
+  8 Nevraumont, Jules      SCDAJ66F   134   156/ 10  L13 W14 W6  L4  D12 2.5
+  9 Anand, Krishna         RSAAJ95V   289   284/ 10  W14 W13 L2  L3  L5  2.0
+ 10 Li, Bryan              MEDAJ75H   239   219/ 15  W12 L7  L13 W15 L2  2.0
+ 11 Ghosh, Oishani         BCAAJ56E   100   106/  9  L1  BYE L4  L5  W15 2.0
+ 12 Huang, Cameron         THOAJ47G   100   100/  4  L10 L5  D14 BYE D8  2.0
+ 13 Chan, Ashton           BRYAJ47F   100   157/  5  W8  L9  W10 L7  L6  2.0
+ 14 Seibel, Jameson        BRYAJ47E   100   100/  4  L9  L8  D12 L6  BYE 1.5
+ 15 Heart-myers, Eleanor   VIWAJ71T   100   100/ 13  L2  L4  BYE L10 L11 1.0

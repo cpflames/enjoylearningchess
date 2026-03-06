@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jean Francois, Fritz   XXXJJ82E   900  1818/  3  W2  W3  W4  3.0
+  2 Tiwari, Prakhar        TMBK785R  1436  1423/ 90  L1  L4  W3  1.0
+  3 Xie, Michael           EVJH549C  1374  1373/397  W4  L1  L2  1.0
+  4 Huang, Emily           OMSHB39A  1356  1358/308  L3  W2  L1  1.0

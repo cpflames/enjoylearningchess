@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lin, Luna              OPWCK01W   513   636/ 35  W4  W3  D2  2.5
+  2 Tran, Phong            BENF232E   756   736/ 21  W3  D4  D1  2.0
+  3 Nguyen, Gavyn          SNRGK24U   629   554/  7  L2  L1  W4  1.0
+  4 Meymandi-li, Alvin     CNCCJ64F   378   373/ 12  L1  D2  L3  0.5

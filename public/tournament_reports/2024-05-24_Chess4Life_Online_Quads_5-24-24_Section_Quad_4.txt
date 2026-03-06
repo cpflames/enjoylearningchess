@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wong, Ryan             TYEHK01H   816   883/ 12  W4  W3  D2  2.5
+  2 Yang, Michael          SOMFK00G   718   834/ 33  W3  W4  D1  2.5
+  3 Wu, Dennis             SCDDJ54B   774   748/210  L2  L1  W4  1.0
+  4 Mcintyre, Isaac        ETSE466S   733   662/209  L1  L2  L3  0.0

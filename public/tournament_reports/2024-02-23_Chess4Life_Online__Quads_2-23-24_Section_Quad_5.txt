@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sreraman, Rahul        BCADJ42L   950   968/203  D2  D3  W4  2.0
+  2 Guilanians, Gavin      OPWH645B   934   931/ 40  D1  W4  L3  1.5
+  3 Garg, Vihaan           CMCDJ10X   894   903/217  L4  D1  W2  1.5
+  4 Desai, Vivaan          BCAAJ49H   967   886/  6  W3  L2  L1  1.0

@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Vendeland, Alexa       HSCH441X  1201  1223/109  W3  D2  W4  2.5
+  2 Palmer, Evan           BHMKI90S  1274  1253/177  D4  D1  BYE 2.0
+  3 King, Oliver           WKEEK36M   885   902/ 47  L1  BYE W5  2.0
+  4 Grewal, Harshen        FACIK33H   952   979/ 46  D2  W5  L1  1.5
+  5 Vendeland, Xander      HSCED01Q   859   811/ 87  BYE L4  L3  1.0

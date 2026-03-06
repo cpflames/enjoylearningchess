@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jin, Michael           HMNGD09X   849   906/  8  W3  W2  W4  3.0
+  2 Kuluru, Samith         LEOHI99K   650   627/259  W4  L1  L3  1.0
+  3 Liao, Joe              MEDGE93Z   612   600/ 47  L1  L4  W2  1.0
+  4 Mehta, Nalin           REJIH69H   800   583/  3  L2  W3  L1  1.0

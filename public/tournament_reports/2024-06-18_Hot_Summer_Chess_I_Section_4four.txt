@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Javed, Peter           SKYCK36U   375   413/ 22  W6  D2  W5  2.5
+  2 Louws, Micah           CUEBJ16B   366   419/ 13  W5  D1  W3  2.5
+  3 Russell, Huxley        BLEDH73W   100   171/  5  D4  W6  L2  1.5
+  4 Melnik, Mark           TCIDH69M   300   151/  3  D3  L5  W6  1.5
+  5 Neff, Joseph           HSCDH69L   300   190/  3  L2  W4  L1  1.0
+  6 Neff, William          HSCBH69K   100   100/  3  L1  L3  L4  0.0

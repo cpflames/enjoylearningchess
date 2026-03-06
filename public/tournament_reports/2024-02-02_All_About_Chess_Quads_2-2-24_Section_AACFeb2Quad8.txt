@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bysani, Aakash         SSMBK01D   559   652/ 67  W4  D2  W3  2.5
+  2 Han, Kaiyi             SOMBK42P   508   632/ 35  W3  D1  W4  2.5
+  3 Sarychev, Aleksei      GEKJJ98N   574   542/ 61  L2  W4  L1  1.0
+  4 Sankapal, Pranav       SNECJ61E   534   454/ 12  L1  L3  L2  0.0

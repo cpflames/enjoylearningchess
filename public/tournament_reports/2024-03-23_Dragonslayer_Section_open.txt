@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Reddy, Eshan           SGSI336Y  1561  1559/315  W7  W5  D2  W3  W4  4.5
+  2 Davis, Aiden           ADCKK70N  1390  1414/ 53  W4  W3  D1  W7  W6  4.5
+  3 Lindly, Kellen         SRIFK06E  1089  1096/ 33  W6  L2  W5  L1  BYE 3.0
+  4 Hochheimer, Noah       SGSHF37G   944   995/220  L2  W7  W6  BYE L1  3.0
+  5 Brewer, Miles          COBFK38B   823   822/ 29  BYE L1  L3  L6  W7  2.0
+  6 Anderson, Christopher LHSCF712R   806   812/ 59  L3  BYE L4  W5  L2  2.0
+  7 Morton, Braylon        FLMGJ27F  1066   970/ 13  L1  L4  BYE L2  L5  1.0

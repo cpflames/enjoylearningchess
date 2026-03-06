@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Fan, Theodore          EASBK42S   923  1016/ 64  W3  W2  BYE 3.0
+  2 Heydarov, Rasul        BLWFH95F   991  1015/ 13  BYE L1  W3  2.0
+  3 Chevuri, Tattva        REJGC06V  1382  1298/392  L1  BYE L2  1.0

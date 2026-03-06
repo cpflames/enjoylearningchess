@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Narayan, Keshav        CMCFE45H   893   916/ 84  W2  L3  W4  2.0
+  2 Li, Harry              SSSEG30G   888   913/294  L1  W4  W3  2.0
+  3 Shrivastava, Parasme   BLMGK00N   801   872/  9  W4  W1  L2  2.0
+  4 Han, Spencer           HSCEK75L   914   825/123  L3  L2  L1  0.0

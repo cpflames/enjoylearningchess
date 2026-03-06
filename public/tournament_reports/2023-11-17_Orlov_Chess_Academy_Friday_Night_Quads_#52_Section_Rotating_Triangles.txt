@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xu, Ethan              BENEK98S   741   734/ 93  W3  W6  L2  2.0
+  2 Doronin, Victor        BMNG335T   703   711/ 81  W4  L3  W1  2.0
+  3 Plesko, Francis        HSCEK03B   616   642/  9  L1  W2  W5  2.0
+  4 Titterington, Henry    ENADJ88R   371   425/  9  L2  W5  W6  2.0
+  5 Li, Chris              CNHCJ89W   133   184/ 12  W6  L4  L3  1.0
+  6 Esparza-chen, Lucien   WMNDJ98Z   405   309/ 14  L5  L1  L4  0.0

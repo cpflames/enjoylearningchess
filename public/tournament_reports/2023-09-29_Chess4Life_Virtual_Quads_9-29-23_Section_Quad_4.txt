@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Joshi, Vyom            LEOIH81X  1143  1169/188  L2  W3  W4  2.0
+  2 Patnaik, Rishabhdeva   CRKFG72D  1143  1145/119  W1  L4  D3  1.5
+  3 Hildenbrand, Blane     PSMI122V  1151  1151/202  W4  L1  D2  1.5
+  4 Patel, Aarya           REEFK30E  1165  1138/ 63  L3  W2  L1  1.0

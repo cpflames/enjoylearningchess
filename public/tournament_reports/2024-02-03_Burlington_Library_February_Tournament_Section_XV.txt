@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Vendeland, Xander      ALLED01Q   839   901/ 80  W5  W2  W3  3.0
+  2 Smith, Cooper          NWBHJ71P   797   769/ 11  W4  L1  W6  2.0
+  3 Peterson, Caden        BHMKJ85V   628   641/ 15  W6  W5  L1  2.0
+  4 Clark, Finn            MSNEJ99M   422   394/ 11  L2  W6  L5  1.0
+  5 Hauptman, Elian        HSCHJ44N   700   517/  3  L1  L3  W4  1.0
+  6 Gigot, June            EDIDJ93S   100   100/  9  L3  L4  L2  0.0

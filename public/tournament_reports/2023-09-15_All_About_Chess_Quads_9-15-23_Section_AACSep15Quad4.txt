@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Raj, Skandha           EVGBK55U   785   795/ 52  W4  W2  L3  2.0
+  2 Shimao, Alexander      GRRHG77V   711   747/ 68  W3  L1  W4  2.0
+  3 Mahale, Avneesh        CNHB993F   746   768/ 53  L2  W4  W1  2.0
+  4 Berjis, Adrina         MEDE230U   645   582/ 64  L1  L3  L2  0.0

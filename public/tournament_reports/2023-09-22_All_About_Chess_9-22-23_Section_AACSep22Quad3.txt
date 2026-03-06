@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dhameeja, Ved          GRREJ98F   744   773/ 39  W3  W4  L2  2.0
+  2 Shimao, Alexander      GRRHG77V   747   775/ 71  W4  L3  W1  2.0
+  3 Shrivasava, Parasme    BLMGK00N   600   840/  3  L1  W2  W4  2.0
+  4 Romero, Oliver         SNIDK44Z   645   588/ 18  L2  L1  L3  0.0

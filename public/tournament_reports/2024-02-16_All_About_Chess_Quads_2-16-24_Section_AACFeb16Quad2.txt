@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Burtram, Dayton        BLMIG77M   983  1074/244  W3  W4  D2  2.5
+  2 Mahale, Avneesh        CNHB993F   941  1056/114  W4  W3  D1  2.5
+  3 Sembium, Aditi         BCADK25W  1041  1011/252  L1  L2  W4  1.0
+  4 Li, Harry              SSSEG30G  1028   951/345  L2  L1  L3  0.0

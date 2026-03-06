@@ -1,0 +1,27 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Patel, Aarya           REEFK30E  1592  1609/127  W17 W16 W4  W2  W3  5.0
+  2 Anand, Lakshana        RSAFC68H  1207  1214/104  W10 W7  W14 L1  W6  4.0
+  3 Wang, Nicole           SOMF428S  1039  1056/ 75  W12 W11 W8  W14 L1  4.0
+  4 Huang, Clora           SOMEK31H  1092  1099/ 87  W18 W5  L1  W11 W7  4.0
+  5 Burmistrov, Maya       SSMEJ19Z   516   688/ 10  W22 L4  W23 W16 W14 4.0
+  6 Zhang, Arwen           SOME484A   822   787/ 86  W23 L8  W13 W9  L2  3.0
+  7 Badi, Shreya           MTWEK52A   582   628/ 59  W26 L2  W12 W8  L4  3.0
+  8 Ewaldsson, Aida        MEDEG73P   452   528/ 40  W25 W6  L3  L7  W20 3.0
+  9 Aker, Pepper           THUF181G   406   504/ 81  W20 L14 W15 L6  W18 3.0
+ 10 Phaneesh, Saanvi       SSME983M   368   456/ 54  L2  D13 W26 D15 W16 3.0
+ 11 Schechter, Elizabeth   MEDE373X   499   507/ 60  W24 L3  W22 L4  D12 2.5
+ 12 Chen, Grace            MEDF841H   368   405/ 25  L3  W24 L7  W22 D11 2.5
+ 13 Liang, Emma            MEDEJ43V   178   319/  9  W15 D10 L6  L18 W21 2.5
+ 14 Berjis, Adrina         MEDE230U   933   875/119  W19 W9  L2  L3  L5  2.0
+ 15 Mossyakova, Yana       PKWFK04P   715   501/ 10  L13 W20 L9  D10 D19 2.0
+ 16 Cook-bugaighis, RoubaixEVGEE61C   620   573/ 27  W21 L1  W18 L5  L10 2.0
+ 17 Zhou, Stella           MEDE422P   384   334/ 28  L1  L22 W19 L20 W25 2.0
+ 18 Pareek, Aarohi         SSMEJ55S   327   348/ 16  L4  W21 L16 W13 L9  2.0
+ 19 Schefe, Elsie          VIWFJ68Y   227   210/ 13  L14 D26 L17 WF  D15 2.0
+ 20 Badi, Sanvi            MTWE151Y   215   251/ 48  L9  L15 W24 W17 L8  2.0
+ 21 Doerr, Gemma           MEDFK83R   163   179/ 13  L16 L18 W25 W24 L13 2.0
+ 22 Owens, Zoe             WELEJ89V   400   335/  5  L5  W17 L11 L12 W26 2.0
+ 23 Gupta, Pari            MEDE684L   252   265/ 49  L6  W25 L5  LF  U   1.0
+ 24 Jeppsen, Lucy          SYREJ13W   400   100/  4  L11 L12 L20 L21 BYE 1.0
+ 25 Raas-bergquist, Svea   VIWFJ13V   500   100/  5  L8  L23 L21 W26 L17 1.0
+ 26 Hla, Sophia            MEDFJ13U   500   100/  5  L7  D19 L10 L25 L22 0.5

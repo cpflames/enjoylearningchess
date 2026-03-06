@@ -1,0 +1,52 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Roesch, Carson         BLHL120K  1810  1812/256  W42 W16 2.0
+  2 Lee, Jae-yoon          SHMLC734  1573  1585/118  W13 W42 2.0
+  3 Kuzin, Ethan           SHML7567  1447  1456/318  W41 W25 2.0
+  4 Lewis, Theo            FERMK29P  1423  1447/ 96  W19 W14 2.0
+  5 Love, Charles          SHML458N  1263  1284/ 95  W15 W49 2.0
+  6 Luna, Max              FERKJ85Y   958  1011/ 15  W40 W30 2.0
+  7 Lee, Jensen            MRDK947B   611   647/ 32  W48 W50 2.0
+  8 Nipges, Jaxon          FERK382B  1096  1117/ 95  D22 W41 1.5
+  9 Aujla, Sihaan          BLHL413P   859   870/ 20  W49 D10 1.5
+ 10 Latham, Cash           MRDL658Y   854   901/ 20  W43 D9  1.5
+ 11 Freeman, Eagle         MRDJJ85S   747   786/  9  W26 D38 1.5
+ 12 Frost, Ignatius        SHMKJ64P  1531  1503/100  L14 W18 1.0
+ 13 Palmer, Evan           BHMKI90S  1332  1352/164  L2  W39 1.0
+ 14 Wilkerson, Gabriel     BHMMJ85Z  1313  1349/  9  W12 L4  1.0
+ 15 Berry, Garcia          BHMLK99Z  1191  1185/ 35  L5  W43 1.0
+ 16 Peterson, Kylan        MRDM175Q  1174  1215/ 81  W39 L1  1.0
+ 17 Bowman, Finn           SHMLD50L  1168  1121/ 84  L30 W36 1.0
+ 18 Mcconaughy, Marcus     SHMK798W  1098  1109/ 32  W45 L12 1.0
+ 19 Brown, Sofia           MRDM128V  1097  1107/ 33  L4  W45 1.0
+ 20 Putnam, Israel         LYEKA22J   982   994/ 26  W29 U   1.0
+ 21 Masterson, Emmett      LYEM300S   930   942/ 42  W38 U   1.0
+ 22 Singh, Jagteshwar      MRDMJ25M   920   934/ 44  D8  D37 1.0
+ 23 Singh, Arshaan         FERJK22R   880   877/ 44  L24 W44 1.0
+ 24 Peterson, Everest      MRDK836M   834   830/ 33  W23 L29 1.0
+ 25 Chiapellone, Teo       SHMMG88R   815   853/106  W37 L3  1.0
+ 26 Volker, Rune           FERKK47N   789   775/ 18  L11 W46 1.0
+ 27 Phillips, Lucas        BLHL696K   759   772/ 25  L36 W40 1.0
+ 28 Green, Henry           LYELJ72X   747   769/  6  W47 U   1.0
+ 29 Gutierrez, Diego       BLHM233E   698   734/ 15  L20 W24 1.0
+ 30 Conwell, Atticus       BHMLK71E   664   754/  9  W17 L6  1.0
+ 31 Eckermann, Garrett     FERLJ60A   599   593/  4  W32 L33 1.0
+ 32 Fransico-woodenlegs, JoMRDL680H   590   578/ 41  L31 W47 1.0
+ 33 Arnett, Taylan         SQUKK71A   531   587/  8  U   W31 1.0
+ 34 Wright, Makayla        MRDMK32N   531   547/ 25  U   W51 1.0
+ 35 Oscarson, Ethan        SQUKK99S   459   512/  7  U   W48 1.0
+ 36 Becker, Griffin        SHMJJ59Z   398   653/  4  W27 L17 1.0
+ 37 Reiss, Madelyn         BLHMJ21Y   939   901/ 57  L25 D22 0.5
+ 38 Peper, James           BLHLB93F   680   678/ 28  L21 D11 0.5
+ 39 Trushkov, Max          FERL616A  1476  1411/178  L16 L13 0.0
+ 40 Mendez, Efrain         MRDLJ85N  1300  1069/  7  L6  L27 0.0
+ 41 Wang, Gavin            BHMM7042  1201  1159/ 42  L3  L8  0.0
+ 42 Bosch, Declan          SHMJE38K  1131  1126/ 66  L1  L2  0.0
+ 43 Carpenter, Jonas       FERK274G  1077  1016/ 70  L10 L15 0.0
+ 44 Morgen, Briar          SQULJ72Z   983   900/  6  U   L23 0.0
+ 45 Moors, Samuel          BLHJH93D   983   944/ 75  L18 L19 0.0
+ 46 Tin, Isaac             SQUKK99V   654   628/ 12  U   L26 0.0
+ 47 Clarke, Jonathan       BLHJG05B   523   479/ 21  L28 L32 0.0
+ 48 Crediford, Nilay       FERJF28K   496   440/ 33  L7  L35 0.0
+ 49 Bass, Garrison         SHML3805   496   487/ 22  L9  L5  0.0
+ 50 Kerr, Ethan            BLHLJ06N   443   424/ 36  U   L7  0.0
+ 51 Delong, Sophia         BLHJK03A   305   288/ 18  U   L34 0.0

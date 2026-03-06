@@ -1,0 +1,31 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Nam, Jinmo             GRRJC101  1387  1525/200  W25 WF  D2  W15 W9  W3  5.5
+  2 Raja, Rian             SKWG786E  1508  1568/155  W22 W21 D1  W10 D3  W8  5.0
+  3 Li, Shawn              SOMCJ11N  1522  1545/ 35  BYE W6  W5  W9  D2  L1  4.5
+  4 Manzon Jr, Pablo       ADUNB245  1502  1474/ 17  W23 D12 L15 W25 D7  W17 4.0
+  5 Xu, Zoe                SOMEG70A  1394  1419/360  W27 W7  L3  W13 L8  W15 4.0
+  6 Pai, Vihaan            CHAEK17C  1356  1352/254  W30 L3  D14 W23 WF  D7  4.0
+  7 Zhang, Nathan          EINIK00X  1118  1325/ 26  W20 L5  W17 W21 D4  D6  4.0
+  8 Danilescu, Joseph      XXXLH64K  1100  1499/  6  L21 W22 W26 W11 W5  L2  4.0
+  9 Siddem, Sid            LWAKC34V  1551  1532/505  W13 W26 W10 L3  L1  D11 3.5
+ 10 Gupta, Krishang        GTMGE37V  1412  1419/ 62  W16 W14 L9  L2  D15 W13 3.5
+ 11 Gao, Ziqian            MMEEK10U  1388  1387/ 40  D29 D18 W30 L8  W21 D9  3.5
+ 12 Deng, Arthur           OPWCC90Y  1172  1284/141  W19 D4  L18 D14 HPB W23 3.5
+ 13 Thornock, Simon        ADUNH71N  1317  1321/ 12  L9  W28 W20 L5  W26 L10 3.0
+ 14 Louie, Henry           ADUNI286  1300  1304/ 14  W17 L10 D6  D12 D16 HPB 3.0
+ 15 Chaudhuri, Arihant     CHAE703E  1295  1321/266  HPB W24 W4  L1  D10 L5  3.0
+ 16 Wu, Shanna             CNHDJ72M  1124  1198/ 23  L10 L20 D22 W24 D14 W26 3.0
+ 17 Strauss, Madison Lati  ADUNH64J  1300  1293/  6  L14 W27 L7  W19 W20 L4  3.0
+ 18 Goupinets, Andrew      ADUNJ69S  1487  1476/ 43  D24 D11 W12 HPB LF  U   2.5
+ 19 Jordan, Christian      ADUN5057  1418  1347/138  L12 W29 L21 L17 W25 HPB 2.5
+ 20 Li, Edgar              WOBD883Y  1405  1342/224  L7  W16 L13 W28 L17 D21 2.5
+ 21 Das, Sambuddha Sekhar  ENDDK47S  1324  1330/155  W8  L2  W19 L7  L11 D20 2.5
+ 22 Babbar, Riaan          ENDDJ98D  1249  1223/ 89  L2  L8  D16 W29 L23 W27 2.5
+ 23 Wu, Harry              CNHFJ72P  1207  1189/ 25  L4  D25 W29 L6  W22 L12 2.5
+ 24 Chabot, Troy           BRSKK15U  1201  1162/ 59  D18 L15 L25 L16 W28 W29 2.5
+ 25 Dhar, Kavish           SLLGQ44B   947  1013/ 21  L1  D23 W24 L4  L19 W30 2.5
+ 26 Dale, Luke             MTSKJ10P  1386  1314/114  W28 L9  L8  W30 L13 L16 2.0
+ 27 Sembium, Aditi         BCADK25W  1063  1002/287  L5  L17 L28 BYE W30 L22 2.0
+ 28 Dhar, Aarna            JWEEW80R   786   814/ 17  L26 L13 W27 L20 L24 BYE 2.0
+ 29 Byelashova, Darya      SGHDK51X   948   934/115  D11 L19 L23 L22 BYE L24 1.5
+ 30 Byelashova, Sofia      SGHBK01K   726   704/ 80  L6  BYE L11 L26 L27 L25 1.0

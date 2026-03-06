@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tian, Eric             SOMFI80S  1102  1166/145  W3  W4  W2  3.0
+  2 Yin, Daniel            ISSM116Y  1090  1068/410  W4  D3  L1  1.5
+  3 Zakaria, Abid          CDWFJ28T   840   893/ 16  L1  D2  W4  1.5
+  4 Karthik, Sai           BCAD261S   924   865/128  L2  L1  L3  0.0

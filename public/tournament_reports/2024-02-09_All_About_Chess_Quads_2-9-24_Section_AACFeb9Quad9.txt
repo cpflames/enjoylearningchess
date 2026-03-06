@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Swain, Samarth         MMEBJ58S   362   418/ 10  W4  W2  W5  3.0
+  2 Vatsan, Maitri         SSMBK00S   100   209/ 34  W3  L1  W4  2.0
+  3 Wortman, Alexander     SOMBJ31M   100   160/  2  L2  W5  BYE 2.0
+  4 Paidipathi, Kiaan      SHSBJ99C   198   141/ 53  L1  BYE L2  1.0
+  5 Nandakiran, Advaith    SSMBJ88H   100   100/ 23  BYE L3  L1  1.0

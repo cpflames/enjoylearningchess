@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chang, Ethan An Tong   BNTCJ59M   672   666/  9  W2  W4  L3  2.0
+  2 Lee, Julianus          CDWDK90C   328   499/ 17  L1  W3  W4  2.0
+  3 Sardarli, Adnan        MISD671W   619   569/113  L4  L2  W1  1.0
+  4 Mehrotra, Ashank       PLKI457S   521   503/ 40  W3  L1  L2  1.0

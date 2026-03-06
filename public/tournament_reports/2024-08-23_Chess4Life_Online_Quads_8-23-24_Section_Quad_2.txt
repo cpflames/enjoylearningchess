@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kang, William          TYEHC12H  1384  1397/ 95  W4  L2  W3  2.0
+  2 Maharaja, Imai         HMNDK34K  1345  1367/218  W3  W1  L4  2.0
+  3 Kandar, Aarav          FISDK21U  1362  1338/118  L2  W4  L1  1.0
+  4 Joshi, Vyom            LEOIH81X  1309  1297/294  L1  L3  W2  1.0

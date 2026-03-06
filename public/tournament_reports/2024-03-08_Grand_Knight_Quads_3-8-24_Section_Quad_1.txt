@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Merriman, Dann         WMNEF79Y  1638  1656/573  W4  W3  D2  2.5
+  2 Lin, Michael           BASEC97F  1706  1713/326  W3  W4  D1  2.5
+  3 Xu, Zoe                SOMEG70A  1464  1457/328  L2  L1  W4  1.0
+  4 Yun, Daniel D          LAVCK87Z  1325  1300/318  L1  L2  L3  0.0

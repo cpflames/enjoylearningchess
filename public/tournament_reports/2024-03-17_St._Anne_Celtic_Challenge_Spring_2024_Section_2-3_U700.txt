@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Leneway, Owen          CSIDK91V   649   712/ 39  D10 W7  W2  W6  W4  4.5
+  2 Yorks, Cameron         THODJ74Q   589   590/ 20  D7  W10 L1  W9  W6  3.5
+  3 Zhen, Liam             DCCC622V   626   584/117  L6  W8  W5  L4  W10 3.0
+  4 Guity, Sage            SYRD251G   552   547/ 55  W8  L6  W11 W3  L1  3.0
+  5 Thomas, David Cijo     TBKCJ03B   274   341/ 10  W11 L9  L3  W10 W8  3.0
+  6 Mavila, Mukund         TBKDK62K   246   450/ 18  W3  W4  W9  L1  L2  3.0
+  7 Santiago, Joseph       SANCJ74B   237   296/  9  D2  L1  L10 BYE W9  2.5
+  8 Esparza-chen, Lucien   WMNDJ98Z   378   323/ 43  L4  L3  BYE W11 L5  2.0
+  9 Stuart, Alicia         REECK41M   171   184/ 23  BYE W5  L6  L2  L7  2.0
+ 10 Kotsinyan, Robert      EVPDJ56V   519   457/ 24  D1  L2  W7  L5  L3  1.5
+ 11 Venkatesan, Vaibhav    SSMDJ56L   195   141/ 17  L5  BYE L4  L8  U   1.0

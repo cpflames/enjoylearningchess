@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xing, Andrew           SSSCK62E   826   927/ 47  D2  W3  W4  2.5
+  2 Narayan, Keshav        CMCFE45H   903   893/ 81  D1  L4  W3  1.5
+  3 Bikkula, Charan        BLMHJ23A   890   857/156  W4  L1  L2  1.0
+  4 Shrivastava, Parasme   BLMGK00N   840   801/  6  L3  W2  L1  1.0

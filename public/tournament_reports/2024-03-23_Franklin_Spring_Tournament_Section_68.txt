@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Scollon, Owen          FHVI734D  1787  1805/482  W8  W6  W3  W2  W4  5.0
+  2 Stroud, Jeb            FHVIK22V  1437  1461/112  W10 W5  W4  L1  W3  4.0
+  3 Hildenbrand, Blane     PSMI122V  1382  1367/299  W11 W15 L1  W7  L2  3.0
+  4 Vendeland, Alexa       HSCH441X  1223  1230/114  W12 W7  L2  W6  L1  3.0
+  5 Grewal, Harshen        FACIK33H   979   980/ 51  W9  L2  W11 L8  W10 3.0
+  6 Harrison, Gabriel      FACI865H   977  1004/ 66  W14 L1  W10 L4  W8  3.0
+  7 Melius, Mason          FACGF58R   897   920/ 59  W13 L4  W12 L3  W11 3.0
+  8 Qureshi, Danish        BLNGF36V   837   881/104  L1  W13 W15 W5  L6  3.0
+  9 Burt, Colton           LYCH617Z   706   719/ 49  L5  L10 W13 W14 BYE 3.0
+ 10 Bannister, Cypress     HORGK36L   827   824/ 56  L2  W9  L6  W12 L5  2.0
+ 11 Boulos, Andrew         FACG217Z   772   757/ 64  L3  W14 L5  W15 L7  2.0
+ 12 Truong, Justin         FACGK82R   557   551/ 19  L4  BYE L7  L10 W15 2.0
+ 13 Egland, Crosby         VSTH264S   757   677/ 41  L7  L8  L9  BYE D14 1.5
+ 14 Aguila-contreras, EdgarHORHJ65J   572   542/ 20  L6  L11 BYE L9  D13 1.5
+ 15 Morrison, Brayden      VSTGJ65E   342   318/ 13  BYE L3  L8  L11 L12 1.0

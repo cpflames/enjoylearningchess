@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Olson, Travis          ADUN8893  1864  1869/161  W4  W3  W2  3.0
+  2 Havaldar, Karsh        CSBEI03F  1583  1577/ 53  W5  W4  L1  2.0
+  3 Gupta, Aayansh         CNCEH73A   687   719/  9  W6  L1  W5  2.0
+  4 Doronin, Victor        BMNG335T   702   704/ 96  L1  L2  W6  1.0
+  5 Titterington, Henry    ENADJ88R   523   513/ 44  L2  W6  L3  1.0
+  6 Sarangi, Samarth       CBRDH69F   300   114/  3  L3  L5  L4  0.0

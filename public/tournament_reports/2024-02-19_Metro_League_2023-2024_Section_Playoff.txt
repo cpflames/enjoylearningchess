@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Demberel, Amana        LCOLJ14E  1775  1777/118  W6  1.0
+  2 Shi, Gavin             LCOJH855  1589  1593/374  W7  1.0
+  3 Ding, Marcus           LCOMK66T  1124  1094/ 17  L8  0.0
+  4 Love, Murrow           LCOM2596  1175  1184/275  W9  1.0
+  5 Gomes, Caetano         LCOM799X   648   350/ 10  L10 0.0
+  6 Pedapalli, Arnav       GARLJ77N  1298  1295/ 22  L1  0.0
+  7 Yu, Edison             GARMK66J  1208  1203/ 31  L2  0.0
+  8 Cole, Reece            GARK3567  1089  1120/154  W3  1.0
+  9 Jensen, Eli            GARLJ21G   893   882/ 11  L4  0.0
+ 10 Zhao, Derek            GARJS46L   721   728/ 32  W5  1.0
+ 11 Wang, Raymond          FRALK66P  1605  1585/ 27  D16 0.5
+ 12 Davis, Caian           FRALK67M  1414  1415/ 32  W17 1.0
+ 13 Giang, Bill            FRAMK66M  1400  1226/  5  L18 0.0
+ 14 Mathly, Jabril         FRALJ59S   400   384/ 12  L19 0.0
+ 15 Loya, Henry            FRAL3183   538   600/  9  W20 1.0
+ 16 Roberts, Noah          SPRK3819   981  1011/ 31  D11 0.5
+ 17 O'donnell, Henry       SPRKJ76V   783   781/ 16  L12 0.0
+ 18 Koehler, Blake         SPRLJ76R   862   923/ 26  W13 1.0
+ 19 Lovejoy, Owen          SPRMJ50E   635   650/ 17  W14 1.0
+ 20 Reynolds, James        SPRJJ77H   750   700/ 15  L15 0.0

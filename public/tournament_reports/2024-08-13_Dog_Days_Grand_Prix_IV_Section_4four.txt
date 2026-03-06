@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Smith, Benjamin        BLEDG44D   637   630/ 51  W2  W5  L3  2.0
+  2 Cleary, Marco          SMWCJ16G   428   506/  8  L1  W3  W6  2.0
+  3 Neff, Joseph           CCXDH69L   383   515/ 25  W4  L2  W1  2.0
+  4 Russell, Emerson       BLEFK23A   602   529/ 88  L3  L6  W5  1.0
+  5 Melnik, Mark           TCIDH69M   464   441/ 18  W6  L1  L4  1.0
+  6 Louws, Micah           CUEBJ16B   375   373/ 37  L5  W4  L2  1.0

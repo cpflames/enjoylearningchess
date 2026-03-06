@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Lum, Boaz              TRHCJ62C  1021   896/ 10  W16 W10 W4  W5  L2  4.0
+  2 Samson, Lincoln        KCCBJ78N   572   588/ 18  L11 W13 W12 W7  W1  4.0
+  3 Dahl, August           MTPCJ78U   547   541/ 14  W12 W6  L5  W8  W10 4.0
+  4 Johnson, Ramses        MTPBK53Q   499   591/ 30  W7  W8  L1  W6  W5  4.0
+  5 Dickinson, James       RFPC801C   458   484/ 38  W14 W11 W3  L1  L4  3.0
+  6 Reagan, Paxton         MCGCK96W   174   273/ 32  W17 L3  W9  L4  W15 3.0
+  7 Hahl, Mason            BMCCJ52X   200   404/  5  L4  W17 W10 L2  W14 3.0
+  8 Badillo-chavez, LeandroFZACJ78C   116   202/ 10  W15 L4  W11 L3  D9  2.5
+  9 Bright, Wyatt          MTPCJ52V   200   177/  5  L10 W16 L6  W12 D8  2.5
+ 10 Webb, Bode             KCCAJ77Y   181   209/ 17  W9  L1  L7  W16 L3  2.0
+ 11 Lathrop, Lev           MTPBK38K   100   107/ 13  W2  L5  L8  L15 BYE 2.0
+ 12 Mejia, Victor          CRPCJ77W   100   105/  9  L3  BYE L2  L9  W13 2.0
+ 13 Dutcher, Hudson        MCGCJ77X   100   100/ 14  BYE L2  D15 D14 L12 2.0
+ 14 Epperson, Owen         MTPCJ52U   200   151/  5  L5  D15 W17 D13 L7  2.0
+ 15 Benner, Oliver         LIBAJ52R   100   100/  5  L8  D14 D13 W11 L6  2.0
+ 16 Schlegel, Atticus      MCGCJ77V   100   100/ 14  L1  L9  BYE L10 D17 1.5
+ 17 Worthington, Andrew    LIBBJ52Q   100   100/  4  L6  L7  L14 BYE D16 1.5

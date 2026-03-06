@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xu, Zoe                SOMEG70A  1278  1380/290  W2  W4  W3  3.0
+  2 Veiga, Gabriel         REJHJ31Y  1275  1299/144  L1  W3  W4  2.0
+  3 Kuan, Hans             GRRFK32S  1332  1299/ 31  W4  L2  L1  1.0
+  4 Han, Victor            PPPFB39P  1203  1154/129  L3  L1  L2  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Huang, Jaden           ENDCJ63S   496   701/ 67  W3  W2  W4  3.0
+  2 Moore, Ethan           CRKEJ49L   610   605/ 19  D4  L1  W3  1.5
+  3 Abhilash, Lavina       CRIEK07R   623   584/104  L1  W4  L2  1.0
+  4 Menezes, Kian          CLHBJ97B   534   493/ 33  D2  L3  L1  0.5

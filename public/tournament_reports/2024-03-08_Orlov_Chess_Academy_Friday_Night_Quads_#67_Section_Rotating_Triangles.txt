@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yang, Nicholas         CHRDG23U   893   903/ 85  BYE W4  W5  3.0
+  2 Titterington, Henry    ENADJ88R   406   419/ 32  W5  BYE L3  2.0
+  3 Rajan, Samvid          REECK05K   374   462/ 23  W4  L5  W2  2.0
+  4 Sarkar, Hridik         FRVEK04W   545   493/ 33  L3  L1  BYE 1.0
+  5 Krishna, Vihaan        ENSC263E   473   466/ 10  L2  W3  L1  1.0

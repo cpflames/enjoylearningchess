@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lum, Boaz              TRHCJ62C   963   963/ 31  W3  W4  L2  2.0
+  2 Chung, Ian             LIBEG54U   937   944/107  W4  L3  W1  2.0
+  3 Chin, Ian              LECEF95D   741   787/ 92  L1  W2  D4  1.5
+  4 Hemperly, Harper       HSCEI09E   822   781/ 72  L2  L1  D3  0.5

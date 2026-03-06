@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Jacob Z          BLWFE71A   715   817/133  W2  W3  W4  3.0
+  2 Mazer, Harvey          SNEDJ59E   551   644/ 21  L1  W4  W3  2.0
+  3 Sharma, Srishti        ISMGJ88P   642   618/ 54  W4  L1  L2  1.0
+  4 Swain, Samarth         MMEBJ58S   648   564/108  L3  L2  L1  0.0

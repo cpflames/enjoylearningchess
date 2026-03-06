@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yan, Alyan             NCSDJ63Q   375   488/ 12  W4  W3  W2  3.0
+  2 Krogstad, Jaiden       NCSEJ88J   306   344/ 21  W3  W4  L1  2.0
+  3 Shin, Joshua           CRKBJ63R   259   243/ 26  L2  L1  W4  1.0
+  4 Chettiyarath, Vihaan   BLWCJ81Y   253   173/ 17  L1  L2  L3  0.0

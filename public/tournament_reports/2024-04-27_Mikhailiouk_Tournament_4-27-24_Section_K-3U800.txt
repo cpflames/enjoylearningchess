@@ -1,0 +1,38 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ge, Emma               SSMBJ56J   689   871/ 56  W14 W24 W10 W8  W6  5.0
+  2 Roy Chowdhury, Avyaan  THRCH82M   675   785/ 10  W16 W25 D7  W3  W8  4.5
+  3 Bysani, Aakash         SSMBK01D   640   698/130  WF  W12 W15 L2  W13 4.0
+  4 Spataro, Anna          STTCK65C   565   646/ 30  W37 L8  W30 W10 W15 4.0
+  5 Qu, Yuwen              RSABK86G   681   729/ 62  D6  W32 D20 W21 W17 4.0
+  6 Menon, Riaan           EBSCH83A   770   788/ 18  D5  W30 W19 W7  L1  3.5
+  7 Xu, Derek              SSMDK24Q   577   702/ 38  W18 W17 D2  L6  W20 3.5
+  8 Chen, Eason            SSMAJ59F   652   675/ 33  W27 W4  W22 L1  L2  3.0
+  9 Li, Bryan              MEDAJ75H   645   591/ 50  L28 L27 W26 W29 W23 3.0
+ 10 Zhang, Marina          SSMBJ56B   624   619/ 57  W29 W28 L1  L4  W24 3.0
+ 11 Khanzode, Advait       SSMDJ56W   609   580/ 44  W34 L15 W16 L13 W25 3.0
+ 12 Venkatesan, Vaibhav    SSMDJ56L   483   497/ 36  W36 L3  D33 W18 D19 3.0
+ 13 Kotsinyan, Robert      EVPDJ56V   457   487/ 29  L19 W37 W35 W11 L3  3.0
+ 14 Gaddam, Aryan          RKWBJ99T   445   452/ 26  L1  L33 W32 W35 W21 3.0
+ 15 Ramasubramanian, SamartSSMDJ03G   443   581/ 20  W20 W11 L3  W23 L4  3.0
+ 16 Sane, Anay             SSMDJ56T   418   461/ 35  L2  W36 L11 W30 W22 3.0
+ 17 Su, Pin-ruei           RFKBH96G   447   567/ 15  W21 L7  W24 W22 L5  3.0
+ 18 Zhang, Emily           SSMCJ13L   171   407/ 15  L7  W31 W25 L12 W33 3.0
+ 19 Bogomolov, Henry       SSMBJ72J   734   670/ 50  W13 L22 L6  W27 D12 2.5
+ 20 Kang, Mason            SSMDJ29J   687   644/ 34  L15 W26 D5  W33 L7  2.5
+ 21 Dhillon, Veer          ETSAJ02P   606   512/ 10  L17 W29 W27 L5  L14 2.0
+ 22 Sairam, Advaith        RBRBK01Q   528   508/ 80  W31 W19 L8  L17 L16 2.0
+ 23 Siva, Vikaat           DISAJ30L   534   462/ 50  L30 W34 W28 L15 L9  2.0
+ 24 Chin, Kheiron          HSCAJ19P   525   483/ 34  W35 L1  L17 W34 L10 2.0
+ 25 Anand, Krishna         RSAAJ95V   516   476/ 20  W33 L2  L18 W28 L11 2.0
+ 26 Deng, Lucas            DISCH87X   500   443/ 15  D32 L20 L9  D37 W31 2.0
+ 27 De, Adwik              SSMAJ29V   396   411/ 25  L8  W9  L21 L19 W34 2.0
+ 28 Kotsinyan, Erik        EVPBJ56F   373   372/ 30  W9  L10 L23 L25 W35 2.0
+ 29 Rogov, Audrey          MEDAJ66D   274   287/ 54  L10 L21 W36 L9  W37 2.0
+ 30 Sharma, Stavya         SSMCJ06K   135   243/ 18  W23 L6  L4  L16 W36 2.0
+ 31 Velichko, Kristina     ASABK07V   525   412/ 72  L22 L18 D37 W32 L26 1.5
+ 32 Pan, Jingyi            SSMBH76N   100   171/  4  D26 L5  L14 L31 BYE 1.5
+ 33 Huang, Maike           SSMDH76M   300   328/  5  L25 W14 D12 L20 L18 1.5
+ 34 Dugar, Tamyra          SSMCJ13B   220   169/ 13  L11 L23 BYE L24 L27 1.0
+ 35 Gupta, Nitara          SSMCH87Q   100   100/  8  L24 BYE L13 L14 L28 1.0
+ 36 Singh, Suhavi          BCABH87B   100   100/  9  L12 L16 L29 BYE L30 1.0
+ 37 Yang, Ethan            SSMCH76L   200   213/  5  L4  L13 D31 D26 L29 1.0

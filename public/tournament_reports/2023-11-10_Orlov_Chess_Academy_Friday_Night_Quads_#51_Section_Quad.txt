@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Ares             MEDFJ77J  1248  1252/295  L3  W2  BYE 2.0
+  2 Isitt, Ben             INGIJ98W  1335  1293/ 14  BYE L1  D3  1.5
+  3 Wang, Isaac            CLHEK00U  1221  1255/ 29  W1  U   D2  1.5

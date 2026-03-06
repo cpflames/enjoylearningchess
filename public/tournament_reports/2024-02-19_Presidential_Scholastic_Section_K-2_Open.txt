@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Liu, Bihe              KKNBB78J   938  1111/ 76  W12 W11 W5  W4  W3  5.0
+  2 Xu, Natalie            CNHC137A   877   899/ 77  WF  L15 W6  W12 W8  4.0
+  3 Yao, Roger Yutang      THOBK88C   852   908/ 60  W13 D4  W15 W5  L1  3.5
+  4 Bhattacharjee, Satvik  TIMCE65Q   917   935/ 51  W8  D3  W10 L1  D6  3.0
+  5 Balasubramanian, ChidhuCNCCK94J   910   912/ 25  W16 W7  L1  L3  W12 3.0
+  6 Ge, Jeremy             SSMBJ88K   880   875/ 68  W9  D10 L2  W15 D4  3.0
+  7 Sun, Ethan             JINCK94M   821   820/ 58  W14 L5  W9  L8  W15 3.0
+  8 Li, Alice              OPWCJ98C   751   819/ 32  L4  W13 W11 W7  L2  3.0
+  9 Luo, Vivienne          SHVC703P   721   750/ 95  L6  W18 L7  W13 W11 3.0
+ 10 Yu, Eric               SOMBK25N   816   796/ 55  W18 D6  L4  L11 W14 2.5
+ 11 Qin, Skyler            OPWAJ97T   874   828/ 62  W17 L1  L8  W10 L9  2.0
+ 12 Zhang, Ethan           BUSCI73C   786   772/ 23  L1  W17 W14 L2  L5  2.0
+ 13 Kakarlapudi, Jairam IshMEDB585M   644   640/ 30  L3  L8  W16 L9  W18 2.0
+ 14 Han, Kaiyi             SOMBK42P   632   635/ 40  L7  W16 L12 W17 L10 2.0
+ 15 Srinivasan, Atul       TBKAK65P   504   545/ 27  BYE W2  L3  L6  L7  2.0
+ 16 Pan, Peng-yu           SSMCK24P   729   620/ 41  L5  L14 L13 L18 W17 1.0
+ 17 Krogstad, Jaxon        NCSCJ88M   646   570/ 38  L11 L12 W18 L14 L16 1.0
+ 18 Premjith, Arnav        FRVBJ20D   100   438/  5  L10 L9  L17 W16 L13 1.0

@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Xin, Eric              MRLF922V   632   754/ 21  W12 W9  W3  D2  W4  4.5
+  2 Mukund, Anirudh        LAVGK18S   597   676/ 44  D10 W6  W4  D1  W5  4.0
+  3 Lagzdin, Mikhail       BCABJ96R   545   558/ 15  W15 W7  L1  L5  W8  3.0
+  4 Xie, Ann               CCDBK03P   523   530/ 19  W14 W8  L2  W13 L1  3.0
+  5 Mishra, Angad          RKWEK70V   427   529/ 61  L7  W10 W12 W3  L2  3.0
+  6 Rao, Aadvik            SOMBB57X   306   420/ 43  W11 L2  L8  W10 W9  3.0
+  7 Doshi, Ishaan          LAVDJ54C   300   529/  5  W5  L3  L9  W14 W12 3.0
+  8 Li, Chengxuan          CRADK03V   489   469/ 14  W13 L4  W6  D9  L3  2.5
+  9 Wong, Aiden            CNHDK17Z   472   470/ 39  W16 L1  W7  D8  L6  2.5
+ 10 Anand, Grahil          TMCFJ89Y   330   349/ 18  D2  L5  W11 L6  W16 2.5
+ 11 Suresh, Sanath         HMNEJ54A   400   248/  5  L6  D15 L10 W16 W13 2.5
+ 12 Naik, Shreyas          ETSEJ98X   673   582/ 38  L1  W16 L5  W15 L7  2.0
+ 13 Sun, Olivia            SOMCK03G   151   202/  7  L8  W14 W15 L4  L11 2.0
+ 14 He, Joshua             CHRBJ72H   177   158/ 19  L4  L13 W16 L7  D15 1.5
+ 15 Mirchandani, Kiaan     MEDDK92Z   207   158/ 25  L3  D11 L13 L12 D14 1.0
+ 16 Mirchandani, Kavir     MEDBJ97A   100   100/ 20  L9  L12 L14 L11 L10 0.0

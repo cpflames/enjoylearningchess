@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Davis, Roman           HSCGK16K   873   886/ 19  WF  W4  L2  W5  W3  4.0
+  2 Devlin, Austin         PLBGK25F   815   866/ 74  W7  W5  W1  L3  W6  4.0
+  3 Einarson, Aiden        SAKFD84D   575   637/120  W10 D6  D7  W2  L1  3.0
+  4 Bolin, Jesse           HRLHH95Q   700   524/  4  W9  L1  L5  BYE W8  3.0
+  5 Gil, Eli               WAVGH95P   600   749/  5  W6  L2  W4  L1  W9  3.0
+  6 Fry, Brayden           OSEGJ39G   738   683/ 10  L5  D3  W8  W7  L2  2.5
+  7 Gill, Kellen           MLLGH95N   600   485/  4  L2  W9  D3  L6  BYE 2.5
+  8 Catayas, Ianess        APRHK51M   309   304/ 22  LF  BYE L6  W9  L4  2.0
+  9 Nixon, Kyson           HSCHH95M   700   100/  4  L4  L7  BYE L8  L5  1.0
+ 10 Lindsley, Exavier      HRLHH95L   700   282/  1  L3  U   U   U   U   0.0

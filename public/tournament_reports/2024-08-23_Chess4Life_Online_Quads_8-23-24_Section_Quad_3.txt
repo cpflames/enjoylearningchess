@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kwan-uchiyama, Avery   JINFH22T  1290  1304/107  L2  W4  W3  2.0
+  2 Navarro, Sebastian     TT1HX59S  1260  1282/ 35  W1  W3  L4  2.0
+  3 Yun, Daniel D          LAVCK87Z  1308  1274/342  W4  L2  L1  1.0
+  4 Chaporkar, Nihar       ENSDK65B  1174  1172/ 68  L3  L1  W2  1.0

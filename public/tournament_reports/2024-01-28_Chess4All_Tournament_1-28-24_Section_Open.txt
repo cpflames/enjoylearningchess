@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Maharaja, Imai         HMNDK34K  1235  1369/145  L5  W7  W11 W10 W12 4.0
+  2 Yu, Peter              ADUNJ50C  1941  1896/  9  W12 D4  W6  W5  D3  4.0
+  3 Boulis, Christos       NWSKC84T  1763  1763/597  W8  W13 L5  W4  D2  3.5
+  4 Palathingal, Rafael    KKNE196R  1669  1678/123  W7  D2  W9  L3  HPB 3.0
+  5 Ren, Aaron Song        ENAEG67B  1664  1662/175  W1  W9  W3  L2  L7  3.0
+  6 Shah, Kanav            LMAF295Q  1460  1456/161  D10 W12 L2  W13 HPB 3.0
+  7 Hildenbrand, Blane     PSMI122V  1377  1408/262  L4  L1  BYE W9  W5  3.0
+  8 Syal, Yash             CDIFC10R  1342  1307/124  L3  D10 L12 BYE W13 2.5
+  9 Kalyana Sundaram, RaghaTSTL6071  1425  1394/280  W11 L5  L4  L7  BYE 2.0
+ 10 Nerella, Abhiram       HGMII18R   971  1053/ 14  D6  D8  D13 L1  D11 2.0
+ 11 Zandanov, Leonid       WLBCK31Q  1166  1148/ 73  L9  BYE L1  D12 D10 2.0
+ 12 Deng, Austin           NPRKJ89K  1376  1342/ 20  L2  L6  W8  D11 L1  1.5
+ 13 Shreeraam, Seshasayee  INGGD91F  1018  1008/ 39  BYE L3  D10 L6  L8  1.5

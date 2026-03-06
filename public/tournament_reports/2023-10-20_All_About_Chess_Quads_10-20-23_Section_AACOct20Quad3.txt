@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Juarez-caballero, CristSNIGD76Z  1045  1068/ 92  W2  D4  W3  2.5
+  2 Xing, Andrew           SSSCK62E   878   938/ 60  L1  W3  W4  2.0
+  3 Yao, Justin            BLWH490Q   918   899/ 64  W4  L2  L1  1.0
+  4 Li, Harry              SSSEG30G   913   869/297  L3  D1  L2  0.5

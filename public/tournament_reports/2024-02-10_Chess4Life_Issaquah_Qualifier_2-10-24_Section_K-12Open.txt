@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Pravlik, Aiden         FRIE416H  1194  1210/247  W11 L6  W9  W2  W4  4.0
+  2 Empil, Lander          BBTJJ82B  1203  1206/ 28  W5  W7  W4  L1  D3  3.5
+  3 Barrenkala, Surya      EVJG238E   946  1020/ 62  W10 L4  W7  W6  D2  3.5
+  4 Sun, Yian              ENDF238S  1303  1262/ 74  W9  W3  L2  W5  L1  3.0
+  5 Bravenboer, Jake       OPWDJ97Y   804   898/ 48  L2  W8  W6  L4  BYE 3.0
+  6 Ting, Sophia           KSHDK64W   733   850/ 78  BYE W1  L5  L3  W8  3.0
+  7 Kachachi, Cyrus        OPWD763G   694   816/ 64  W8  L2  L3  BYE W9  3.0
+  8 Holostov, Michael      PLKGJ94C  1061   963/ 19  L7  L5  W10 W11 L6  2.0
+  9 Dharamshi, Anay        CBRCK42U   821   820/ 20  L4  W11 L1  W10 L7  2.0
+ 10 Bhairav, Rachit        RCSCC41S   728   708/ 18  L3  BYE L8  L9  W11 2.0
+ 11 Bao, David             SSSCK25B   733   665/ 21  L1  L9  BYE L8  L10 1.0

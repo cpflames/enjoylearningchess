@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Naenna, Patanin        SPLFQ28H   766   872/223  W2  D4  W3  2.5
+  2 He, Raymond            HSCKK82K   840   859/ 97  L1  W3  W4  2.0
+  3 Chen, Leon             SNRED24U   781   764/ 59  W4  L2  L1  1.0
+  4 Wu, Dennis             SCDDJ54B   819   763/204  L3  D1  L2  0.5

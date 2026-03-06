@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Keogh, Seiya           WOEFJ51N  1028  1064/ 25  W16 W11 W2  W7  W5  5.0
+  2 Ha, Fata               EVFFH86A   500   849/  5  W9  W6  L1  W10 W12 4.0
+  3 Hafen, Luke            LELFH85Z   500   832/  5  L4  W9  W6  W8  W7  4.0
+  4 Ellis, Peter           EVFFH85Y   500   741/  5  W3  D8  L7  W14 W10 3.5
+  5 Howard, Logan          PLGFH85W   500   640/  5  L7  W15 W14 W12 L1  3.0
+  6 Stallings, Paxton      PLGFH85V   500   577/  5  W14 L2  L3  W15 W13 3.0
+  7 Hopkins, Ethan         LCYFH85T   500   814/  5  W5  W10 W4  L1  L3  3.0
+  8 Mroszczyk, Vander      WOEFH85R   500   510/  5  W12 D4  L10 L3  W16 2.5
+  9 Casas, Ian             MDMFH85Q   500   456/  5  L2  L3  D13 W16 W15 2.5
+ 10 Newman, Claire         PLGFH85P   500   531/  5  W13 L7  W8  L2  L4  2.0
+ 11 Hohstadt, Kane         PLGFH85M   500   321/  5  W15 L1  L12 L13 W14 2.0
+ 12 Mendoza, Joseph        LELFH85K   500   387/  5  L8  W16 W11 L5  L2  2.0
+ 13 Wyatt, Gause           LELFH85J   500   280/  5  L10 L14 D9  W11 L6  1.5
+ 14 Duke, Hannah           MDMFH85H   500   261/  5  L6  W13 L5  L4  L11 1.0
+ 15 Williams, Abigail      LELFH85F   500   172/  5  L11 L5  W16 L6  L9  1.0
+ 16 Canche, Abigail        PLGFH85E   500   100/  5  L1  L12 L15 L9  L8  0.0

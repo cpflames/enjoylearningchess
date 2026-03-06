@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Gu, Leo                SCDBK31Y   413   519/ 33  W2  W5  W6  3.0
+  2 Tripathi, Naksh        BRHCJ98P   395   402/ 75  L1  W3  WF  2.0
+  3 Sankar, Laya           EBSBK11E   269   322/ 18  W4  L2  W5  2.0
+  4 Saravanan, Navin       FRWAJ85A   230   240/ 37  L3  W6  LF  1.0
+  5 Menon, Rohan           WLDFK05B   215   218/ 12  W6  L1  L3  1.0
+  6 Zhang, Eli             BCABH69C   356   243/ 18  L5  L4  L1  0.0

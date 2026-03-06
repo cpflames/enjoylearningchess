@@ -1,0 +1,3 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Scollon, Owen          FHVI734D  1805  1809/483  W2  1.0
+  2 Stroud, Jeb            FHVIK22V  1461  1455/113  L1  0.0

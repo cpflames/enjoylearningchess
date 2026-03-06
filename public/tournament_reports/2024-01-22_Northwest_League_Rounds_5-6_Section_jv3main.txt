@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Stroud, Jeb            FHVIK22V  1373  1376/ 83  W4  W6  2.0
+  2 Oscarson, Ethan        SQUKK99S   512   563/ 10  W16 W18 2.0
+  3 Carpintero, Aimar      BLHMJ59Y   144   267/  4  W18 D13 1.5
+  4 Chiapellone, Teo       SHMMG88R   853   860/108  L1  W14 1.0
+  5 Becker, Griffin        SHMJJ59Z   653   647/  6  L6  W15 1.0
+  6 Arnett, Taylan         SQUKK71A   623   661/ 11  W5  L1  1.0
+  7 Simmons, Sean          SHMJH985   594   569/147  W14 L8  1.0
+  8 Graybill, Daniel       FERJJ60C   126   336/  4  U   W7  1.0
+  9 Russell, Reagan        BLHKJ72W   318   372/  9  U   W17 1.0
+ 10 Macmillan, Zaiden      BLHJJ85P   324   358/ 10  U   W11 1.0
+ 11 Herboth, Quinn         SQUKK99M   273   245/ 10  D12 L10 0.5
+ 12 Harris, Eli            MRDLJ85Q   310   301/ 12  D11 U   0.5
+ 13 Delong, Sophia         BLHJK03A   268   270/ 21  U   D3  0.5
+ 14 Russell, Emerson       BLEFK23A   616   562/ 39  L7  L4  0.0
+ 15 Eckermann, Garrett     FERLJ60A   679   608/  6  U   L5  0.0
+ 16 Fransico-woodenlegs, JoMRDL680H   625   581/ 43  L2  U   0.0
+ 17 Crediford, Nilay       FERJF28K   467   416/ 35  U   L9  0.0
+ 18 Skeels, Peter          SQUKK99T   186   148/ 12  L3  L2  0.0

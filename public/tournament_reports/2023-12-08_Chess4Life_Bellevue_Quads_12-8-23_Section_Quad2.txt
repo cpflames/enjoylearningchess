@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sabarish, Ananya       BCADG02Z   674   732/129  W4  W3  W2  3.0
+  2 Mukund, Anirudh        LAVGK18S   588   597/ 39  W3  W4  L1  2.0
+  3 Naik, Shreyas          ETSEJ98X   319   343/ 24  L2  L1  W4  1.0
+  4 Hu, Maxwell            BCABK03N   462   383/ 15  L1  L2  L3  0.0

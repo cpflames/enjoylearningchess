@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kozaczuk, James        SHKI108A  1148  1185/204  W4  W2  W3  3.0
+  2 Singh, Jagteshwar      MRDMJ25M   953   969/ 61  W5  L1  W6  2.0
+  3 Qureshi, Danish        BLNGF36V   870   912/129  W6  W4  L1  2.0
+  4 Fine-gucker, Logan     EAGE535R   867   859/ 96  L1  L3  W5  1.0
+  5 Bannister, Cypress     HORGK36L   852   820/ 62  L2  W6  L4  1.0
+  6 Manly, Shafter         CUEFA72M   749   695/ 68  L3  L5  L2  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nidamarthi, Nikhil     RSAE375J   969  1076/177  W4  W2  W3  3.0
+  2 Xing, Andrew           SSSCK62E   918   957/ 78  W3  L1  W4  2.0
+  3 Burtram, Dayton        BLMIG77M   945   919/238  L2  W4  L1  1.0
+  4 Mangla, Atharv         GRREK07C   899   832/ 54  L1  L3  L2  0.0

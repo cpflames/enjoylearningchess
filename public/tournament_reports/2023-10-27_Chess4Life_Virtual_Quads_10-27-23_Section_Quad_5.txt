@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sreraman, Rahul        BCADJ42L   959  1023/170  W4  W3  W2  3.0
+  2 Karthik, Sai           BCAD261S   915   921/ 88  W3  W4  L1  2.0
+  3 Taylor, Ryder          KAMK385C   794   777/342  L2  L1  W4  1.0
+  4 Lechner, Ryker         HSCF496J   649   610/ 71  L1  L2  L3  0.0

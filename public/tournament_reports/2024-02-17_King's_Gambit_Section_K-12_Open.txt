@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Deng, Stanley          LECFK22E  1559  1616/311  W9  W11 W7  W2  W4  5.0
+  2 Deng, Lily             HHSK5007  1740  1724/366  W18 W5  W3  L1  W7  4.0
+  3 Arias Padilla, Jose    RICL888V  1212  1237/ 99  W22 W10 L2  W20 W11 4.0
+  4 Chavez Vargas, Angel   CWHM858A  1163  1267/ 62  W25 W13 W6  W8  L1  4.0
+  5 Kaiphanliam, Kieren SisCWHJK52X  1143  1223/ 39  W19 L2  W21 W17 W6  4.0
+  6 Dillingham, Daniel     KCCGB73M  1392  1346/255  W23 W24 L4  W9  L5  3.0
+  7 Mendoza, Oscar         CWHKI229  1208  1223/297  W21 W17 L1  W15 L2  3.0
+  8 Fultz, Heath           JMLH853S  1106  1084/ 59  L24 W23 W10 L4  W20 3.0
+  9 Guizar, Kevin          CWHKI02P   963  1024/ 90  L1  W25 W16 L6  W14 3.0
+ 10 Mendoza, Leonardo      CWHK1126   802   966/283  W14 L3  L8  W19 W17 3.0
+ 11 Hall, Preston          CWHJ6381   718   948/109  W15 L1  W14 W16 L3  3.0
+ 12 Wampole, Caleb         CWHJ133K   490   577/ 62  BYE L16 L17 W25 W15 3.0
+ 13 Hassan, Ahmad          RRGI714R  1217  1166/167  HPB L4  L20 W23 W22 2.5
+ 14 Pantoja, Cain          OCHG228C  1129  1052/ 50  L10 W19 L11 W24 L9  2.0
+ 15 Hitt, Maylee           RRGIK96D  1095  1022/ 48  L11 W22 W24 L7  L12 2.0
+ 16 Hong, Sidney           JMLG478H  1030   962/107  HPB W12 L9  L11 D21 2.0
+ 17 Naungayan, Landon      CRPFJ80K  1025   991/ 25  W20 L7  W12 L5  L10 2.0
+ 18 Gogic, Arian           JMLHK96A  1010   947/ 49  L2  L20 L22 BYE W23 2.0
+ 19 Vasquez, Mateo         MCUEK26G   925   896/ 95  L5  L14 W25 L10 W24 2.0
+ 20 Beckley, Ethan         CWHJH76F   642   783/ 29  L17 W18 W13 L3  L8  2.0
+ 21 Schlotthauer, Ava      LIBLJ53Z   622   666/ 14  L7  BYE L5  D22 D16 2.0
+ 22 Perez Birrueta, Rafael CWHJK60W   865   854/ 48  L3  L15 W18 D21 L13 1.5
+ 23 Moreno Prado, Brandon  CWHMC596   864   818/232  L6  L8  BYE L13 L18 1.0
+ 24 Paw Myint, John Sein   CWHJJ81W   742   766/ 10  W8  L6  L15 L14 L19 1.0
+ 25 Fedorov, Aleksandr     SODKJ24C  1000   236/  4  L4  L9  L19 L12 BYE 1.0

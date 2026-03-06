@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Siddiqui, Kaamil       BLCJD777   919  1062/246  W2  W4  W3  3.0
+  2 Kumarswamy, Adarsh     CHRI755Y   967   991/353  L1  W3  W4  2.0
+  3 Tsen, Eric             AGBDK18P   920   905/129  W4  L2  L1  1.0
+  4 Kocherlakota, Vihaan   EBSGA65P   960   882/ 72  L3  L1  L2  0.0

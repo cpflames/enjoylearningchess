@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Obulisamy, Jaikrishnaa EALLK894  1559  1631/122  W3  W4  W2  3.0
+  2 Liu, Yuntao            STTG505Y  1647  1645/286  W4  W3  L1  2.0
+  3 Siu, Liam              EDGFT534  1497  1483/ 15  L1  L2  W4  1.0
+  4 Gupta, Krishang        FRVGE37V  1430  1392/ 31  L2  L1  L3  0.0

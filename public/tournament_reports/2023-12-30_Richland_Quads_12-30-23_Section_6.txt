@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 York, Jackson          KCCF472Y   523   575/ 30  W6  W7  W4  W3  4.0
+  2 Samson, Colette        KCCEB97M   438   427/ 24  W5  L3  W7  W6  3.0
+  3 Qin, Mason             LECEK97A   287   371/ 24  D4  W2  W5  L1  2.5
+  4 Gonzales, Ezra         CRPDJ61Y   249   284/  8  D3  W6  L1  BYE 2.5
+  5 Webb, Bode             LIBAJ77Y   188   181/ 12  L2  BYE L3  W7  2.0
+  6 Schutz, Victoria       CHJGJ59P   600   100/  3  L1  L4  BYE L2  1.0
+  7 Donovan, Reeve         KCCEJ59N   400   100/  3  BYE L1  L2  L5  1.0

@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Han, Spencer           PPPEK75L   895   984/175  W4  W2  W5  3.0
+  2 Krogstad, Jaxon        NCSCJ88M   800   860/ 85  W3  L1  W4  2.0
+  3 Sarychev, Aleksei      GEKJJ98N   830   821/116  L2  W5  BYE 2.0
+  4 Wang, Jacob Z          BLWFE71A   827   780/118  L1  BYE L2  1.0
+  5 Swain, Samarth         MMEBJ58S   740   701/ 96  U   L3  L1  0.0

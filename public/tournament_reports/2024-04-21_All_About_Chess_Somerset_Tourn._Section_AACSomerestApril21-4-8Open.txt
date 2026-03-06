@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chen, Andy             SOMDK05J  1542  1570/ 67  W10 W4  W3  W5  W8  5.0
+  2 Rao, Atharv            SOMFB90T  1545  1493/ 90  W13 W6  L4  L3  W7  3.0
+  3 Patnaik, Rishabhdeva   CRKFG72D  1344  1340/177  W9  W7  L1  W2  L11 3.0
+  4 Black, Stas            WPPF368F  1163  1202/130  W11 L1  W2  W6  L9  3.0
+  5 Vijay, Krish           TYEG144B   934  1038/ 44  L6  W13 W10 L1  W12 3.0
+  6 Wang, Isaac            CLHEK00U  1158  1152/ 81  W5  L2  D9  L4  W13 2.5
+  7 Dhameeja, Ved          GRREJ98F  1080  1090/101  W14 L3  D8  W11 L2  2.5
+  8 Nandakiran, Vidyuth    SSME617C  1008  1027/ 99  W12 L10 D7  W9  L1  2.5
+  9 Huang, Clora           SOMEK31H   940  1008/108  L3  W14 D6  L8  W4  2.5
+ 10 Wang, Nicole           SOMF428S  1056  1027/ 80  L1  W8  L5  L12 W14 2.0
+ 11 Feng, Levi             SOMEJ59B   949   958/ 28  L4  W12 L14 L7  W3  2.0
+ 12 Shannon, Liam          TLMHK58J   837   872/146  L8  L11 W13 W10 L5  2.0
+ 13 Bansal, Aarini         SOMFK14R  1076  1003/188  L2  L5  L12 W14 L6  1.0
+ 14 Menezes, Ronit         CLHEK44M   902   865/ 52  L7  L9  W11 L13 L10 1.0

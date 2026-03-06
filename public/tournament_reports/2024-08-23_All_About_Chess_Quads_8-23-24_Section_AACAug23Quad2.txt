@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bikkula, Charan        BLMHJ23A  1162  1179/256  W4  W2  L3  2.0
+  2 Mahale, Avneesh        CNHB993F  1140  1164/160  W3  L1  W4  2.0
+  3 Nidamarthi, Nikhil     BLWE375J  1119  1100/233  L2  L4  W1  1.0
+  4 Ge, Jeremy             SSMBJ88K  1136  1113/175  L1  W3  L2  1.0
