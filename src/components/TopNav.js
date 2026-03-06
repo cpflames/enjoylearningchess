@@ -16,7 +16,7 @@ export default function TopNav() {
         <span className="dropdown-label">Chess</span>
         <div className="dropdown-content">
           <Link to="/ratings">Ratings Calculator</Link>
-          <Link to="/results">Tournament Results</Link>
+          <Link to="/player-results">Tournament Results</Link>
           <Link to="/pgn">PGN Cleaner</Link>
           <Link to="/notation">Notation Reader</Link>
           <Link to="/playchess">Play Bots</Link>
@@ -25,6 +25,7 @@ export default function TopNav() {
       <div className="dropdown">
         <span className="dropdown-label">Tools</span>
         <div className="dropdown-content">
+          <Link to="/results">Tournament Results Checker</Link>
           <Link to="/spelling">Spelling Test</Link>
           <Link to="/etymize">Etymize</Link>
           <Link to="/connect4">Connect 4</Link>
