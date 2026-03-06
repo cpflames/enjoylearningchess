@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import os
 import time
 import random
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse
 import json
 from datetime import datetime
 import argparse
@@ -52,8 +52,16 @@ def scrape_tournament_reports(base_url, output_dir=_DEFAULT_OUTPUT_DIR, incremen
             if link and link.get('href'):
                 href = link['href']
                 if href.endswith('.html'):
+                    url = urljoin(base_url, href)
+                    # Some pages use protocol-relative hrefs like //report24-25/file.html
+                    # which urljoin resolves to https://report24-25/... (wrong host).
+                    # If the host doesn't match the base URL, rebuild using the correct host.
+                    base_parsed = urlparse(base_url)
+                    url_parsed = urlparse(url)
+                    if url_parsed.netloc != base_parsed.netloc:
+                        url = f"{base_parsed.scheme}://{base_parsed.netloc}{url_parsed.path}"
                     tournament_info.append({
-                        'url': urljoin(base_url, href),
+                        'url': url,
                         'director': cells[1].text.strip(),
                         'city': cells[2].text.strip(),
                         'date': cells[3].text.strip()
@@ -113,6 +121,10 @@ def scrape_tournament_reports(base_url, output_dir=_DEFAULT_OUTPUT_DIR, incremen
 
                         output_path = os.path.join(output_dir, filename)
 
+                        if filename in existing_files:
+                            print(f"  Skipping (already exists): {filename}")
+                            continue
+
                         with open(output_path, 'w', encoding='utf-8') as f:
                             f.write(pre.text.strip())
                         print(f"  Saved: {output_path}")
@@ -157,9 +169,13 @@ if __name__ == "__main__":
     parser.add_argument(
         '--all',
         action='store_true',
-        help='Download all reports, ignoring existing files (full re-fetch)'
+        help='Check all reports (no early stop); skip individual files that already exist'
+    )
+    parser.add_argument(
+        '--url',
+        default="https://ratingsnw.com/tournreports.html",
+        help='URL of the page containing tournament report links'
     )
     args = parser.parse_args()
 
-    main_url = "https://ratingsnw.com/tournreports.html"
-    scrape_tournament_reports(main_url, incremental=not args.all)
+    scrape_tournament_reports(args.url, incremental=not args.all)
