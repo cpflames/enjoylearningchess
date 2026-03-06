@@ -23,6 +23,7 @@ export default function PlayerResults(): JSX.Element {
   const [reports, setReports] = useState<{ [filename: string]: string }>({});
   const [loadedCount, setLoadedCount] = useState(0);
   const [totalCount, setTotalCount] = useState(0);
+  const [indexLoaded, setIndexLoaded] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
@@ -30,6 +31,7 @@ export default function PlayerResults(): JSX.Element {
       .then(response => response.json())
       .then((files: string[]) => {
         setTotalCount(files.length);
+        setIndexLoaded(true);
         // Process files sequentially to avoid overwhelming the server
         files.reduce((promise, filename) => {
           return promise.then(() =>
@@ -60,7 +62,9 @@ export default function PlayerResults(): JSX.Element {
     window.history.replaceState({}, '', value ? `?${newParams}` : window.location.pathname);
   };
 
-  const isLoading = loadedCount < totalCount;
+  // indexLoaded guards against showing "no results" before the index.json fetch
+  // completes (at which point both loadedCount and totalCount are still 0)
+  const isLoading = !indexLoaded || loadedCount < totalCount;
 
   const matchingReports = Object.entries(reports).filter(
     ([, content]) => playerName && content.includes(playerName)
