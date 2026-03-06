@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Qian, Jack Letian      CTXHX04Z  1983  1984/137  W5  W2  W4  W6  4.0
+  2 Bala Gowda, Nihal V    CTXHX04F  1221  1289/173  W3  L1  W6  W4  3.0
+  3 Orekar, Theodore       CTXHZ23W   700  1095/  4  L2  W5  W7  W8  3.0
+  4 Wong, Madison          NYXHX08C  1284  1268/116  W7  W6  L1  L2  2.0
+  5 Tikranian, Raphael     CTXHZ23V   700   894/  4  L1  L3  W8  W7  2.0
+  6 Janusaitis, John P     CTXHZ23U   700   949/  4  W8  L4  L2  L1  1.0
+  7 Cheng, Madeline        CTXHZ28S   383   503/  9  L4  W8  L3  L5  1.0
+  8 Walker, Brendan        CTXHZ74N   835   736/ 28  L6  L7  L5  L3  0.0

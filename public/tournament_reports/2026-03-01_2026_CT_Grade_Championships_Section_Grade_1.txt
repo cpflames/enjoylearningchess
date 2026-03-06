@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Negi, Rishaan          CTXBZ50P  1098  1111/ 45  W5  W2  W4  3.0
+  2 Antonopoulos, Sasha    CTXBZ29U   745   752/  7  W4  L1  W3  2.0
+  3 Patterson, Aland       NYXBZ257   100   742/  2  HPB W5  L2  1.5
+  4 Oka, Harrison          CTXBZ255   100   356/  2  L2  BYE L1  1.0
+  5 Zheng, Chian-mu        NYXBZ254   786   717/  2  L1  L3  BYE 1.0

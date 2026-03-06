@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Dubrovsky, Seann       CTXJX06F  1720  1752/109  W5  W2  W4  W3  4.0
+  2 Natarajan, Neil        BCCIV24M  2007  1987/111  W4  L1  W3  BYE 3.0
+  3 Newman, Cole           NYXJZ23N   900  1280/  3  BYE W5  L2  L1  2.0
+  4 Bala Gowda, Nibha V    CTXJX04C   905   910/174  L2  BYE L1  W5  2.0
+  5 Cordero, Rafael        CTXJZ23M   900   514/  3  L1  L3  BYE L4  1.0

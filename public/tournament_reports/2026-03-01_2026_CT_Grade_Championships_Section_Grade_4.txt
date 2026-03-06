@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Seto, Brendan T        NYXEZ29Z  1628  1637/  8  W10 W4  W6  W2  4.0
+  2 Santhosh Kumar, Kr     MAXEZ52M  1427  1428/  8  W15 W7  W3  L1  3.0
+  3 Buyuktosunoglu, Jo     NYXEZ24N   400  1197/  4  W14 W5  L2  W7  3.0
+  4 Faruquie, Zayan        NYXEZ529   690   793/ 12  W13 L1  W11 W6  3.0
+  5 Chow, Benjamin N       NYXEZ522   850   868/ 12  W11 L3  W8  W12 3.0
+  6 Bhattacharya, Orko     NYXEZ24M  1003   959/  4  W9  W12 L1  L4  2.0
+  7 Gandhi, Kahaan         CTXEZ29X   917   913/  8  W16 L2  W9  L3  2.0
+  8 Pan, Max               NYXEZ24L   400   480/  3  WF  W10 L5  L9  2.0
+  9 Chen, Elliot           NYXEZ24K   400   657/  4  L6  W13 L7  W8  2.0
+ 10 Jain, Dravya           NYXEZ24J   400   405/  4  L1  L8  W17 W16 2.0
+ 11 Shrayer, Rafaela J     NYXEZ24H   400   536/  3  L5  WF  L4  W14 2.0
+ 12 Moguel, Enoc           NYXEZ24G   664   648/  4  W17 L6  W14 L5  2.0
+ 13 Harnal, Sanjit         NYXEZ525   100   238/  6  L4  L9  BYE W15 2.0
+ 14 Hart, Landon           CTXEZ24F   400   341/  4  L3  W15 L12 L11 1.0
+ 15 Galasso, Gianna Noel   CTXEZ68B   391   330/ 21  L2  L14 W16 L13 1.0
+ 16 Bruce, Charlie All     CTXEZ24E   400   143/  4  L7  W17 L15 L10 1.0
+ 17 Virmani, Niels         CTXEZ24D   400   100/  3  L12 L16 L10 BYE 1.0

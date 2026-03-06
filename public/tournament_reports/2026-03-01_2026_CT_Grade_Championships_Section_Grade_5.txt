@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Su, Ziyang             NYXFZ24C  1381  1383/  4  W7  W4  D2  W3  3.5
+  2 Ilichev, Timur         CTXFZ71H   999  1067/ 15  W10 W9  D1  W8  3.5
+  3 Clancy, Daniel Callao  NYXFZ33L  1345  1333/ 12  W14 W5  W8  L1  3.0
+  4 Chin, Gregory          CTXFZ528   870   906/ 19  W15 L1  W14 W9  3.0
+  5 Aurora, Neil           CTXEZ52H   983   992/ 12  W17 L3  W11 W7  3.0
+  6 Demichele, Brandon     NYXFZ24B   500   746/  4  D13 L7  W17 W14 2.5
+  7 Mathivanan, Rayan      CTXFX08F   749   785/134  L1  W6  W16 L5  2.0
+  8 Shaw, Alden            NYXFZ24A   500   820/  4  W12 W11 L3  L2  2.0
+  9 Vira, Dilan            NYXFZ249   731   727/  4  W16 L2  W15 L4  2.0
+ 10 Vinesh, Rishaan        NYXFZ248   500   654/  3  L2  L16 BYE W13 2.0
+ 11 Cote, George Bened     CTXFZ247   500   447/  3  BYE L8  L5  W17 2.0
+ 12 Meconiates, Evan       CTXFZ246   500   493/  3  L8  BYE L13 W15 2.0
+ 13 Ganesh, Sarvesh        CTXFZ29N   840   756/ 13  D6  L14 W12 L10 1.5
+ 14 Portegies, Jason       CTXEX04D   722   712/124  L3  W13 L4  L6  1.0
+ 15 Sell, Declan           NYXFZ245   500   320/  4  L4  W17 L9  L12 1.0
+ 16 Caleb Mcnamara, Wy     NYXFZ244   500   585/  3  L9  W10 L7  U   1.0
+ 17 Horna, Charles         NYXFZ243   500   100/  4  L5  L15 L6  L11 0.0

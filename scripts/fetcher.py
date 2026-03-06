@@ -9,7 +9,11 @@ from datetime import datetime
 import argparse
 
 
-def scrape_tournament_reports(base_url, output_dir="../public/tournament_reports", incremental=True):
+_SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+_DEFAULT_OUTPUT_DIR = os.path.join(_SCRIPT_DIR, "..", "public", "tournament_reports")
+
+
+def scrape_tournament_reports(base_url, output_dir=_DEFAULT_OUTPUT_DIR, incremental=True):
     """
     Scrape tournament reports from the given base URL.
 

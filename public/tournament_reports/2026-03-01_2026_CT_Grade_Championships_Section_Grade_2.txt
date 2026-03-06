@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Ing, Ethan             CTXCX05B  1163  1161/121  W7  W3  D2  W5  3.5
+  2 Nugent, Stephen        NYXCZ29T   988  1008/  7  W4  W6  D1  BYE 3.5
+  3 Varma, Sebastian       CTXCZ253   793   811/  3  WF  L1  W5  W4  3.0
+  4 Fair, Charles          NYXCZ24Z   485   521/  3  L2  BYE W6  L3  2.0
+  5 Peng, Brody            NYXCZ42C   530   545/  7  BYE W7  L3  L1  2.0
+  6 Gujar, Vedant          CTXCZ50Q   560   533/ 19  BYE L2  L4  W7  2.0
+  7 Zhao, Ian              CTXCZ24Y   381   333/  3  L1  L5  BYE L6  1.0

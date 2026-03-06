@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Stern, Jett            NYXDZ25S   300   905/  4  W8  W6  W2  W3  4.0
+  2 Prathy, Rohan          NYXDZ25R   300   571/  4  W9  W10 L1  W7  3.0
+  3 Knudsen, Woodrow       NYXDZ25Q   300   630/  4  W11 W12 W4  L1  3.0
+  4 Vissicchio, Dylan      CTXDZ25P   300   473/  4  W13 W11 L3  W6  3.0
+  5 Cote, Alexander        CTXDZ25M   300   241/  3  L10 BYE W12 W11 3.0
+  6 Meconiates, Leo        CTXCZ25H   200   431/  4  W7  L1  W9  L4  2.0
+  7 Kerin, Titus           NYXCZ25F   200   294/  4  L6  W8  W10 L2  2.0
+  8 Geller, Adam           CTXDZ25E   300   178/  3  L1  L7  BYE W10 2.0
+  9 D'alessandro, Felix    NYXDZ25D   300   270/  4  L2  W13 L6  W12 2.0
+ 10 Talatala, Sashi Ledres NYXDZ25B   300   100/  4  W5  L2  L7  L8  1.0
+ 11 Bergman, Jonathan      NYXCZ25A   200   115/  4  L3  L4  W13 L5  1.0
+ 12 Luse, Emerson          CTXCZ259   200   100/  3  WF  L3  L5  L9  1.0
+ 13 Bruce, Theodore        CTXCZ258   200   100/  3  L4  L9  L11 BYE 1.0
+
+ All Unrated-player Section: Ratings capped at 1000

@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Kerin, Titus           NYXCZ25F   294   373/  6  W4  W3  2.0
+  2 Stern, Jett            NYXDZ25S   905   905/  5  U   W5  1.0
+  3 Geller, Adam           CTXDZ25E   178   133/  4  U   L1  0.0
+  4 Cote, Alexander        CTXDZ25M   241   181/  4  L1  U   0.0
+  5 Bruce, Theodore        CTXCZ258   100   100/  4  U   L2  0.0

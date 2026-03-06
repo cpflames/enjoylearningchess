@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Vivek, Thanish BhavanamBCADH74G   961   989/ 80  W5  L7  W3  W2  W4  4.0
+  2 Garg, Vihaan           CMCFJ10X  1026  1026/295  W9  W10 W7  L1  W3  4.0
+  3 Serna Mengual, Andrea  FRDHH62H   607   717/ 37  BYE W8  L1  W7  L2  3.0
+  4 Friesen, Eli           LAVFK27G   846   849/ 71  L7  W11 W9  W5  L1  3.0
+  5 Kasturiya, Soham       CRKEJ29M   741   761/ 16  L1  BYE W8  L4  W10 3.0
+  6 Abdukarimov, Samin     ARDBH67S   856   813/247  L10 L9  BYE W8  W11 3.0
+  7 Anand, Grahil          GTMHJ89Y   700   726/ 72  W4  W1  L2  L3  L8  2.0
+  8 Kadri, Eshan           NSTIW869   779   740/ 33  W11 L3  L5  L6  W7  2.0
+  9 Studer, Nolan          MCIEH65W   766   733/ 36  L2  W6  L4  L11 BYE 2.0
+ 10 He, Joshua             CHRDJ72H   696   676/124  W6  L2  L11 BYE L5  2.0
+ 11 Siravuri, Arjun        PLKHF40F   700   682/  5  L8  L4  W10 W9  L6  2.0

@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Qi, Andrew             SREGK62P   675   730/ 35  D5  W9  W4  W3  W2  4.5
+  2 Debnath, Shriya        CMCEG92L   413   533/ 19  W12 D4  W5  W6  L1  3.5
+  3 Fang, Ian              DISDH82W   477   507/ 22  W8  W11 W6  L1  D5  3.5
+  4 Sarth, Avyan           CNHFF40E   500   614/  5  W10 D2  L1  W7  W9  3.5
+  5 Johnson, Bryce         OPSDK11K   283   429/ 20  D1  W10 L2  W8  D3  3.0
+  6 Serna Mengual, Adriana OPWEH62M   388   408/ 35  W14 W7  L3  L2  W10 3.0
+  7 Mattoo, Avyaan         HWEFG68K   442   398/ 67  W13 L6  D11 L4  W12 2.5
+  8 Singh, Reyansh         LDHCH58A   265   275/ 20  L3  D12 W13 L5  W11 2.5
+  9 Mukunthu, Advika       CMCFH24X   434   384/ 27  L11 L1  W12 W13 L4  2.0
+ 10 Song, Noah             GRRBG33F   316   298/ 28  L4  L5  W14 W11 L6  2.0
+ 11 Mohan, Rinit           SNREF92V   208   208/ 20  W9  L3  D7  L10 L8  1.5
+ 12 Mehta, Anish           NLMBH11D   100   128/ 13  L2  D8  L9  W14 L7  1.5
+ 13 Purohit, Nishka        BCACG23S   265   206/ 15  L7  W14 L8  L9  U   1.0
+ 14 Anand, Aveer           LMACF40D   200   100/  4  L6  L13 L10 L12 U   0.0

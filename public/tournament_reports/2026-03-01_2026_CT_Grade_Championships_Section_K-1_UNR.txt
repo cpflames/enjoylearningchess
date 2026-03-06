@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Busch, Luke            NYXBZ26D   100   860/  4  W7  W8  W3  W2  4.0
+  2 Adhikari, Pritesh      CTXBZ26C   100   580/  4  W14 W5  W4  L1  3.0
+  3 Bruce, Poppy Ruthe     CTXAZ26A   100   527/  4  W6  W16 L1  W9  3.0
+  4 Aldama, Nicolas        CTXAZ269   100   450/  4  W12 W9  L2  W7  3.0
+  5 Wang, Alexandra        NYXAZ268   100   420/  4  W10 L2  W11 W13 3.0
+  6 Confessore, Charlie    NYXBZ267   100   430/  4  L3  W18 W8  W10 3.0
+  7 Cote, Sebastian        CTXBZ266   100   300/  4  L1  W14 W13 L4  2.0
+  8 Fuchs, Streeter        NYXBZ265   100   300/  4  W17 L1  L6  W15 2.0
+  9 Warner, Brennan Joseph NYXAZ264   100   240/  4  W13 L4  W15 L3  2.0
+ 10 Loessberg, Harrison    CTXAZ263   100   220/  4  L5  W17 W16 L6  2.0
+ 11 Cheng, Amelia Tai      NYXAZ262   100   170/  4  L15 W12 L5  W14 2.0
+ 12 Merturi, Donovan       CTXBZ25Z   100   170/  4  L4  L11 W18 W16 2.0
+ 13 Dunleavy, William CorneCTXAZ25Y   100   100/  4  L9  W15 L7  L5  1.0
+ 14 Zhao, Lia              CTXAZ25X   100   100/  4  L2  L7  W17 L11 1.0
+ 15 Frissora, Wesley       CTXAZ25W   100   100/  4  W11 L13 L9  L8  1.0
+ 16 Fall, Henry            CTXBZ25V   100   100/  4  W18 L3  L10 L12 1.0
+ 17 Harnal, Sanav          NYXAZ25U   100   100/  4  L8  L10 L14 W18 1.0
+ 18 Gruppo, Henry          CTXBZ25T   100   100/  4  L16 L6  L12 L17 0.0
+
+ All Unrated-player Section: Ratings capped at 1000

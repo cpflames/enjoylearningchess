@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Krayn, Aaron           CTXKZ23L  1741  1758/  4  W5  W2  W4  W3  4.0
+  2 Ghosh, Arush           CTXJX00W  1706  1693/156  W4  L1  W3  BYE 3.0
+  3 Bloom, Jake Dillon     NYXKZ23K   900   955/  3  BYE W5  L2  L1  2.0
+  4 Henry, Tucker Charles  CTXKZ32X  1202  1194/ 11  L2  BYE L1  D5  1.5
+  5 Zilberman, Elliot      CTXKZ53F  1190  1128/ 11  L1  L3  BYE D4  1.5

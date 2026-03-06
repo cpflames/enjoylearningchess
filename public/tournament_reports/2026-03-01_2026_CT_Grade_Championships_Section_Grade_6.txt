@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Tkaczewski, Krystian   CTXGZ69F  1876  1876/ 41  W3  W2  W4  W5  4.0
+  2 Wen, Liam Felix        CTXGZ38V  1083  1090/ 15  W5  L1  W6  W4  3.0
+  3 Hernas, Alexander      NYXGZ242   878   902/  4  L1  W4  W5  W6  3.0
+  4 Ekizian, Mark          NYXGZ23Z   688   672/  4  W6  L3  L1  L2  1.0
+  5 Lee, Colin             NYXGZ23Y   564   570/  4  L2  W6  L3  L1  1.0
+  6 Virmani, Ronin         CTXGZ23X   600   183/  4  L4  L5  L2  L3  0.0

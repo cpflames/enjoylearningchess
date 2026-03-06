@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Bhargava, Kushagra     CTXIX00P  2043  2046/159  W5  W4  W2  W3  4.0
+  2 Joyce, Jackson         NYXIX06T  1635  1645/ 69  W7  W3  L1  W4  3.0
+  3 Jiang, Zen             CTXIZ557  1457  1454/ 20  W6  L2  W5  L1  2.0
+  4 Song, Ames Min-li      NYXIZ23S  1247  1259/  4  W8  L1  W6  L2  2.0
+  5 Weintraub, Brandon     NYXIZ555  1119  1125/  8  L1  W8  L3  W7  2.0
+  6 Hovsepyan, Sevak       NYXIZ23R   800  1077/  4  L3  W7  L4  W8  2.0
+  7 Chen, Brandon          NYXIZ23Q   954   912/  4  L2  L6  W8  L5  1.0
+  8 Tang, Matthew          CTXIZ23P   800   518/  4  L4  L5  L7  L6  0.0

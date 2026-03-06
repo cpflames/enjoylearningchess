@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Hickey, Jackson        CTXDZ54S  1026  1070/  8  W9  W12 W3  W5  4.0
+  2 Clancy, Adrian         NYXDZ29P   764   860/  8  W16 W8  D5  W6  3.5
+  3 Snell, Bode P          CTXDZ52B   783   813/ 15  W14 W4  L1  W7  3.0
+  4 Vijay Karthik, Vikram  CTXDZ30R   453   712/ 18  W6  L3  W12 W11 3.0
+  5 Mashkov, Maximilia     CTXDX07J   974   953/ 44  W15 W7  D2  L1  2.5
+  6 Ahluwalia, Taj         CTXDZ54F   901   836/ 16  L4  W14 W10 L2  2.0
+  7 Garg, Parth            NYXDZ24X   300   637/  4  W13 L5  W8  L3  2.0
+  8 Hovsepyan, Haik Gr     NYXDZ24W   300   599/  4  W11 L2  L7  W16 2.0
+  9 Chen, Mufan            NYXDZ24V   300   364/  4  L1  L10 W14 W15 2.0
+ 10 Li, Aidyn              NYXDZ24U   300   533/  4  L12 W9  L6  W13 2.0
+ 11 Simon-vermot, Wesley   CTXDZ50V   736   668/ 12  L8  W16 W13 L4  2.0
+ 12 Baskin, Alison Rai     NYXDZ24T   673   660/  3  W10 L1  L4  U   1.0
+ 13 Rong, Eric             CTXDZ24S   300   263/  4  L7  W15 L11 L10 1.0
+ 14 Warner, Nolan Jame     NYXDZ24R   300   100/  3  L3  L6  L9  BYE 1.0
+ 15 Qi, Ella               NYXDZ24Q   300   182/  4  L5  L13 W16 L9  1.0
+ 16 Song, Aaron Wang-m     NYXDZ24P   346   261/  4  L2  L11 L15 L8  0.0

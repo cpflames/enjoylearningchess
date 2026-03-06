@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Ing, Nathan            CTXAZ26F   100   500/  1  BYE W2  2.0
+  2 Simon-vermot, Theo     CTXAZ26E   100   100/  1  HPB L1  0.5
+
+ All Unrated-player Section: Ratings capped at 1000

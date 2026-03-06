@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Lopez, Sebastian A     CTXLZ272  1663  1682/  8  W3  W2  2.0
+  2 Moguel, Ixoye          NYXLZ23J  1389  1382/  1  BYE L1  1.0
+  3 Aronian, Jack          NYXLZ23H  1557  1542/  1  L1  U   0.0
