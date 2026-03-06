@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Vatsan, Maitri         SSMCK00S   454   606/154  W3  W4  W2  3.0
+  2 Moore, Ethan           CRKFJ49L   468   498/ 48  W4  W3  L1  2.0
+  3 Xiong, Aria            DISBH14J   431   410/ 40  L1  L2  W4  1.0
+  4 Ram, Yaalini           SNECH87H   421   340/ 60  L2  L1  L3  0.0

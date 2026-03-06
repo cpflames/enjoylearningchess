@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Heydarov, Rasul        BLWGH95F  1137  1106/ 42  W4  W2  L3  2.0
+  2 Kulkarni, Samik        KKNBH67M   818   854/ 35  W3  L1  W4  2.0
+  3 Nishino, Anne          BCADH74F   894   909/122  L2  W4  W1  2.0
+  4 Dayani, Viraj          SRAF118W   383   374/ 25  L1  L3  L2  0.0

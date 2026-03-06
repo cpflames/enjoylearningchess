@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kwan-uchiyama, Avery   JINGH22T  1439  1456/127  W11 W4  D5  W3  W6  4.5
+  2 Lee, Justin            CNLI732V  1198  1224/118  W7  L3  W13 W11 W8  4.0
+  3 Xu, Jeffery            TYEHJ88V  1101  1222/ 66  W8  W2  W6  L1  D4  3.5
+  4 Chou, Eugene           SSMEJ56Y  1131  1168/113  W10 L1  W9  W7  D3  3.5
+  5 Bikkula, Charan        BLMIJ23A  1205  1234/264  W16 W14 D1  L6  W12 3.5
+  6 Vijay, Adith           SOMED20K  1219  1239/ 78  W13 W12 L3  W5  L1  3.0
+  7 Sreeram, Vihaan        BLWFK01U  1023  1052/ 66  L2  W17 W12 L4  W11 3.0
+  8 Puranik, Armin         SSMEJ56Z   962   989/ 68  L3  W16 W17 W10 L2  3.0
+  9 Novruzov, David        SMVIG76S   753   819/  9  BYE L11 L4  W17 W14 3.0
+ 10 Agarwal, Kavir         MEDF152U   928   922/ 78  L4  BYE D14 L8  W15 2.5
+ 11 Lin, Vivienne          CSIEK99D  1030  1020/ 64  L1  W9  W16 L2  L7  2.0
+ 12 Oh, Seojoon            SSMEJ70T  1194  1143/108  W15 L6  L7  W13 L5  2.0
+ 13 Mangla, Atharv         GRREK07C  1025  1016/187  L6  W15 L2  L12 W16 2.0
+ 14 Upasani, Neil          SSMFJ57C  1087  1013/118  W17 L5  D10 D15 L9  2.0
+ 15 Chai, Chloe            NCSEJ59R   890   847/140  L12 L13 BYE D14 L10 1.5
+ 16 Su, Oliver             JINED01U  1025   935/166  L5  L8  L11 BYE L13 1.0
+ 17 Liu, Ariana            JINFG61M   500   427/  4  L14 L7  L8  L9  BYE 1.0

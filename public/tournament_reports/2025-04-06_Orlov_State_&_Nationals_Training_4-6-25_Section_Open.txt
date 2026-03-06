@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Lai, Austin            EVGDK94F  1050  1098/108  W3  1.0
+  2 Frenk, Rafael          CSICJ75L  1103  1105/ 61  W4  1.0
+  3 Zhang, Kevin           WOBG809Y  1301  1261/179  L1  0.0
+  4 Mccarthy, Eugene       CDLEG73B   539   539/  8  L2  0.0

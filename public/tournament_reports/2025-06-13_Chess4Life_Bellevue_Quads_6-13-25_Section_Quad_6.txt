@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wong, Aiden            CHREK17Z   590   685/103  W3  W4  D2  2.5
+  2 Namjoshi, Aarav        KKNBG78Z   602   690/ 14  W4  W3  D1  2.5
+  3 Desetty, Arnav SashreekRSAFJ59H   583   561/ 21  L1  L2  W4  1.0
+  4 Abdukarimov, Samin     BENAH67S   576   496/116  L2  L1  L3  0.0

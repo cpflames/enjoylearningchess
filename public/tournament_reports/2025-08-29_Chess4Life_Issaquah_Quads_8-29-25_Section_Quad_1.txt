@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhen Rampenthal, Quinn SASIH53C  1202  1214/ 90  D3  W2  L4  1.5
+  2 Roy, Rishi             RCSFW75W  1320  1295/ 12  W4  L1  D3  1.5
+  3 Tsay, Elon             LKDEK07B  1214  1222/177  D1  D4  D2  1.5
+  4 Barrenkala, Surya      EVJH238E  1257  1254/ 92  L2  D3  W1  1.5

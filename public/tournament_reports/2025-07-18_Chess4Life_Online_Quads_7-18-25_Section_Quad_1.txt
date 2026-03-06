@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Joshi, Vyom            NRCJH81X  1387  1419/362  W3  W4  W2  3.0
+  2 Verma, Reyansh         RBRFJ20M  1265  1235/ 96  W4  L3  L1  1.0
+  3 Lee, Jayden            TMCHG30S  1044  1083/  8  L1  W2  L4  1.0
+  4 Ginotra, Karman        RKWFB15D  1206  1188/ 98  L2  L1  W3  1.0

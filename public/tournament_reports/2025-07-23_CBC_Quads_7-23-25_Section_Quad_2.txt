@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mar, Eliana            HCCFK20V   606   721/ 34  W3  W4  W2  3.0
+  2 Wang, Samuel           HCCIK25H   805   777/ 29  W4  W3  L1  2.0
+  3 Fetchero, Noelle       BLCG505H   432   431/ 71  L1  L2  W4  1.0
+  4 Yu, Andrew             HCCDK20X   285   253/ 24  L2  L1  L3  0.0

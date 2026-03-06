@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Paidapathi, Kiaan      SHSCJ99C   397   496/207  W3  W2  W4  3.0
+  2 Nelson, Harvey         CMCFG67L   430   420/ 26  W4  L1  W5  2.0
+  3 Cheung, Nathan         CBRFG71N   152   185/  9  L1  W5  BYE 2.0
+  4 Karanam, Dhruthi       LCSCH10X   134   111/ 13  L2  BYE L1  1.0
+  5 Haycraft, Ethan        IFSCG36K   137   100/  8  BYE L3  L2  1.0

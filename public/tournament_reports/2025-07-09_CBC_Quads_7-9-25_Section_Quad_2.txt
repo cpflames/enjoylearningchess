@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Connors, Jude          HCCJK20S   488   600/ 12  W3  W4  W2  3.0
+  2 Mar, Eliana            HCCFK20V   627   606/ 31  W4  W3  L1  2.0
+  3 Yu, Andrew             HCCDK20X   278   285/ 21  L1  L2  W4  1.0
+  4 Ryland, Judah          HCCGG28L   240   189/  9  L2  L1  L3  0.0

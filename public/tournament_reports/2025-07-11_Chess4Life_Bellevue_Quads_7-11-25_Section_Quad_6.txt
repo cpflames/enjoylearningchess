@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tan, Wilson            BRBBG35N   427   578/ 17  W2  W4  W3  3.0
+  2 Bajpai, Shagun         SSMEH04Y   434   474/  9  L1  W3  W4  2.0
+  3 Zeitlin, Guy           WOBBG55N   341   339/ 18  W4  L2  L1  1.0
+  4 Awasthi, Anay          NLMAG32T   480   344/  9  L3  L1  L2  0.0

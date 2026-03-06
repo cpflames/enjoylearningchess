@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dayani, Viraj          SRAF118W   374   414/ 27  W3  U   D2  1.5
+  2 Rehmeyer, Malcolm      FHMHH62C   671   652/ 32  U   W3  D1  1.5
+  3 Zeeshan, Harris        CRIBH61J   130   112/ 36  L1  L2  U   0.0

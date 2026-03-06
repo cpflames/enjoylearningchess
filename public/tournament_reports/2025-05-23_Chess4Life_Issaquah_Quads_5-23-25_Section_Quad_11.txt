@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kalashnyk, Artur       MAHEG30K   400   583/  3  W2  W4  D3  2.5
+  2 Brudvig, Axel          HSEEG30J   400   461/  3  L1  W3  W4  2.0
+  3 Yao, Jason             HSEDG30H   300   361/  3  W4  L2  D1  1.5
+  4 Noman, Arhum           HSEBG30F   100   100/  3  L3  L1  L2  0.0
+
+ All Unrated-player Section: Ratings capped at 1000

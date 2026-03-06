@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Sears, Luke            PRHMK12B  1399  1389/ 41  D3  W7  W6  W2  D4  4.0
+  2 Cruz, Justin           PRHLJ91C  1282  1272/ 41  W7  W8  D4  L1  W3  3.5
+  3 Boyes, Elijah          HSCMG82Y   916  1063/ 10  D1  W9  W5  W4  L2  3.5
+  4 Gorlachev, David       FMPJK30B  1123  1141/ 40  W5  W6  D2  L3  D1  3.0
+  5 Boyes, Jonny           HSCJG82X   719   806/  9  L4  BYE L3  W7  W8  3.0
+  6 Brinson, Ozzy          FMPKJ91B  1026  1008/ 23  W9  L4  L1  W8  BYE 3.0
+  7 Holten, David          COELJ90X   863   825/ 24  L2  L1  BYE L5  W9  2.0
+  8 Williams, Joseph       FMPKJ90P   659   637/ 24  BYE L2  W9  L6  L5  2.0
+  9 Voreis, Elliott        FMPKG47C  1000   247/  4  L6  L3  L8  BYE L7  1.0

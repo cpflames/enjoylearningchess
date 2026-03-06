@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Liu, Aaron             SSMDH52C   984  1179/ 30  W5  W3  W2  W7  W4  5.0
+  2 Li, Ethan James        SOMCK00K   741   927/143  BYE W4  L1  W5  W6  4.0
+  3 Chu, Skylar            SOMD579R  1153  1155/101  W6  L1  W5  W4  BYE 4.0
+  4 Swain, Samarth         MMECJ58S  1077  1026/264  W7  L2  W6  L3  L1  2.0
+  5 Sun, Ethan             JINDK94M   768   776/ 77  L1  BYE L3  L2  W7  2.0
+  6 Xu, Augus              ENDDJ29H   807   800/ 28  L3  W7  L4  BYE L2  2.0
+  7 Zhang, Eric            SOMDK64M   980   865/ 77  L4  L6  BYE L1  L5  1.0

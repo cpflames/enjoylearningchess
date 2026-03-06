@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Brown, Northern        ADUND135  1863  1865/318  W3  W2  U   2.0
+  2 Chevuri, Tattva        REJHC06V  1322  1337/451  U   L1  W3  1.0
+  3 Zhen Rampenthal, Quinn SASIH53C  1242  1222/ 81  L1  U   L2  0.0

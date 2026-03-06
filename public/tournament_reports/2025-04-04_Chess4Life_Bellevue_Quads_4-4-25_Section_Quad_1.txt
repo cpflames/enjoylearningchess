@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Gagnier, Ian           HSCGC72H  1513  1528/231  W4  W3  W2  3.0
+  2 Chevuri, Tattva        REJHC06V  1282  1274/439  D3  W4  L1  1.5
+  3 Verma, Reyansh         RBRFJ20M  1114  1142/ 82  D2  L1  W4  1.5
+  4 Yang, Michael          SOMGK00G  1093  1053/ 84  L1  L2  L3  0.0

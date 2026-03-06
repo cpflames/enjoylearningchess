@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Daniel, Lemuel         MMEDJ29L   971  1080/ 71  W5  D4  W3  W6  W2  4.5
+  2 Swain, Samarth         MMECJ58S  1150  1146/288  W7  W3  W4  W5  L1  4.0
+  3 Desai, Vivaan          BCABJ49H   844   887/ 74  W8  L2  L1  W7  W4  3.0
+  4 Sharma, Sidarth        EVGCJ75G   756   815/103  W6  D1  L2  W8  L3  2.5
+  5 Madsen, Levi           BLWDH80Z   775   804/ 23  L1  W6  W7  L2  D8  2.5
+  6 Xu, Augus              ENDDJ29H   840   781/ 38  L4  L5  W8  L1  D7  1.5
+  7 Li, Ethan James        SOMCK00K   793   733/167  L2  D8  L5  L3  D6  1.0
+  8 Menezes, Kian          MEDCJ97B   727   676/ 96  L3  D7  L6  L4  D5  1.0

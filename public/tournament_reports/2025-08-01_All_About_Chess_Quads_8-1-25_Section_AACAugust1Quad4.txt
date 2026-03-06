@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Joseph, George         CDIDH11C   786   806/ 66  W4  W3  D2  2.5
+  2 Raghavan, Anirudh      FRWEG42Z   655   658/ 36  L3  W4  D1  1.5
+  3 Sathyamurthy, Shreyus  BLWCJ60Z   643   621/165  W2  L1  L4  1.0
+  4 Kang, Mason            SSMEJ29J   582   579/ 64  L1  L2  W3  1.0

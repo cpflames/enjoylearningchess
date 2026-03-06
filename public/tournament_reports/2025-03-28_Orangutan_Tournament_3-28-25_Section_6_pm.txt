@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Buck, August           WWDDG65L   648   799/  7  W3  W3  W2  L2  U   U   3.0
+  2 Wagner, Drew           ADUNH06R   827   849/ 21  U   U   L1  W1  W3  W3  3.0
+  3 Fuhriman, Tai          WWDDH06W   690   618/ 14  L1  L1  U   U   L2  L2  0.0

@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Mohammed, Farhan       CRKEH14M   833   944/ 40  W20 W7  W8  W6  D2  4.5
+  2 Chang, Lucas           REJGK46F   789   917/ 47  W13 D5  W3  W7  D1  4.0
+  3 Sealey, Isaac          SNIEK43S   370   734/ 31  W15 W21 L2  W8  W6  4.0
+  4 Romero, Oliver         SNIEK44Z   654   752/ 33  L6  W22 W14 W12 W9  4.0
+  5 Kolter, Aidan          SNIFJ60J   675   759/ 42  W19 D2  L7  W13 W12 3.5
+  6 Chai, Chloe            NCSEJ59R   793   813/150  W4  W9  W16 L1  L3  3.0
+  7 Menezes, Ronit         SCDFK44M   879   870/111  W11 L1  W5  L2  W16 3.0
+  8 Mazer, Harvey          SNEEJ59E   774   765/ 50  W18 W14 L1  L3  W13 3.0
+  9 Nam, Alex              BLWEH75Q   720   728/ 95  W17 L6  W10 W16 L4  3.0
+ 10 You, Jin               SNIFH58R   556   587/ 32  L12 W20 L9  W14 W15 3.0
+ 11 Wang, Jacob Z          EVJGE71A   659   599/167  L7  L17 D19 W22 W18 2.5
+ 12 Kukreja, Aarav         TYEG433H   780   714/ 88  W10 L16 W17 L4  L5  2.0
+ 13 Tam, Azure             CSEFJ19Y   652   633/ 20  L2  W19 W15 L5  L8  2.0
+ 14 Liu, Kasper            EVJGG47V   600   510/  5  W21 L8  L4  L10 W19 2.0
+ 15 Mcclenahan, Nicklas    ENVGK26V   738   663/ 49  L3  W18 L13 W21 L10 2.0
+ 16 Malhotra, Sartaj       KNDGK69K   717   678/104  W22 W12 L6  L9  L7  2.0
+ 17 Vazir, Haani           SNIFK44N   326   424/ 20  L9  W11 L12 L18 W21 2.0
+ 18 Yan, Alyan             NCSEJ63Q   478   467/ 26  L8  L15 W20 W17 L11 2.0
+ 19 Mou, Nicholas          DISFG50N   248   310/  9  L5  L13 D11 W20 L14 1.5
+ 20 Cheung, Nathan         CBRFG71N   100   152/  7  L1  L10 L18 L19 W22 1.0
+ 21 Gandhi, Amrit          BNTFJ83F   665   537/ 19  L14 L3  W22 L15 L17 1.0
+ 22 Rozenfeld, Dennis      CBRFG50L   278   181/ 10  L16 L4  L21 L11 L20 0.0

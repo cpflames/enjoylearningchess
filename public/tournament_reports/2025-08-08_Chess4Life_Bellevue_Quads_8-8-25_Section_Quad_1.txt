@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, Eason            SOMBJ59F  1154  1268/139  W3  W4  W2  3.0
+  2 Sabarish, Ananya       BCAEG02Z  1135  1169/216  W5  W3  L1  2.0
+  3 Verma, Reyansh         RBRFJ20M  1235  1201/ 99  L1  L2  W6  1.0
+  4 Cai, Emily             CNHCH60H  1037  1031/ 84  W6  L1  L5  1.0
+  5 Mandore, Ishaan        WPPGJ70V  1019  1011/ 38  L2  L6  W4  1.0
+  6 Helmy, Yaseen          MEDFH64B  1165  1122/ 43  L4  W5  L3  1.0

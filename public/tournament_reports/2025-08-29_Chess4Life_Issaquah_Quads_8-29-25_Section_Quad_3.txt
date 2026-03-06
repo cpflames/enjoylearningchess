@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Roy, Ricky             RCSFW75V   750   949/ 12  W3  W2  W4  3.0
+  2 Rabena, Akira          MAHFH44G   807   855/ 16  W4  L1  W3  2.0
+  3 Lee, Jaydon            RSHFH25S   889   849/ 54  L1  W4  L2  1.0
+  4 Lee, Zachary           STTAH63W   804   733/ 58  L2  L3  L1  0.0

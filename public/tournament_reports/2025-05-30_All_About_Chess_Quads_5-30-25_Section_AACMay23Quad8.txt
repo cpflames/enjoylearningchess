@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mirchandani, Kavir     MEDCJ97A   441   589/119  W4  W2  W3  3.0
+  2 Zhang, Chuxuan         GRRGK02N   394   379/ 27  W3  L1  L4  1.0
+  3 Chang, Nathan          MMEDK42T   453   418/129  L2  W4  L1  1.0
+  4 Nelson, Harvey         CMCFG67L   415   393/ 32  L1  L3  W2  1.0

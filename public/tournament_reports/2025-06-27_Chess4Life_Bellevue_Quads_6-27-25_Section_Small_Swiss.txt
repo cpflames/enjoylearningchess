@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Luo, Felix             NPTAG27U   100   500/  3  W5  W7  W6  3.0
+  2 Beasley, Chloe         LLFEH65R   100   148/ 20  BYE W6  D4  2.5
+  3 Shah, Jiyan            ARWAG27T   100   122/  2  W7  L4  BYE 2.0
+  4 Goyal, Shivansh        FRWDG27Q   300   125/  3  L6  W3  D2  1.5
+  5 Abdukarimov, Umid      BENAG27P   100   100/  2  L1  BYE D7  1.5
+  6 Mathur-badam, Arin     BMNBG27N   100   131/  3  W4  L2  L1  1.0
+  7 El Fassy Fihry, Summer LLFDG27K   300   100/  3  L3  L1  D5  0.5

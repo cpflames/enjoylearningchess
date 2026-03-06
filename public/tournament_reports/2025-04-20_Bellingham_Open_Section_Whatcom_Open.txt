@@ -1,0 +1,30 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Fletcher, Andrew       ADUN5371  1933  2025/ 74  W8  W13 W18 W12 W4  5.0
+  2 Yu, Peter              ADUNJ50C  2100  2120/ 48  W20 W9  W3  D4  W11 4.5
+  3 Nm Panda, Vedic        ADUNG37P  2250  2242/  5  W28 W10 L2  W6  W7  4.0
+  4 Thorwe, Pratik         ADUNK10D  2033  2043/ 58  W27 W21 W5  D2  L1  3.5
+  5 Mc Geary, Bill H       ADUN6752  2210  2193/  5  W16 W19 L4  D9  W12 3.5
+  6 Garine, Ujwal          TSTLB99A  1811  1842/269  W17 D12 W26 L3  W13 3.5
+  7 Deng, Stanley          LLMGK22E  1666  1727/384  L12 W8  W29 W18 L3  3.0
+  8 Smygov, David          ADUNG97D  1558  1708/ 15  L1  L7  W22 W26 W19 3.0
+  9 Breslauer, Arlo        ADUN193A  1562  1690/ 30  W26 L2  W10 D5  HPB 3.0
+ 10 Scollon, Owen          SHMJ734D  1776  1774/575  W25 L3  L9  W21 W20 3.0
+ 11 Roesch, Carson         BLHM120K  1904  1883/324  L13 W27 W21 W24 L2  3.0
+ 12 Bare, Russell          ADUNG37M  1300  1906/  5  W7  D6  W23 L1  L5  2.5
+ 13 Gilbert, Christopher   ADUN2539  1504  1577/ 69  W11 L1  D14 W15 L6  2.5
+ 14 Roesch, Jeremy         ADUNK20K  1723  1710/ 13  W15 L18 D13 D19 D17 2.5
+ 15 Raj, Skandha           EVGCK55U  1391  1459/185  L14 W22 D19 L13 W25 2.5
+ 16 Stroud, Jeb            SHMJK22V  1594  1590/216  L5  L25 D27 W28 W24 2.5
+ 17 Wilson, Drake          ADUNH77P  1424  1526/  8  L6  L28 BYE W23 D14 2.5
+ 18 Pupols, Viktors        ADUN8503  2200  2170/112  W22 W14 L1  L7  U   2.0
+ 19 Shi, Gavin             LCOKH855  1702  1679/467  W29 L5  D15 D14 L8  2.0
+ 20 Chase, Warren D        ADUND460  1571  1572/ 10  L2  L23 W25 W29 L10 2.0
+ 21 Hildenbrand, Blane     STNJ122V  1559  1573/407  W23 L4  L11 L10 BYE 2.0
+ 22 Havaldar, Karsh        CSBFI03F  1582  1577/ 72  L18 L15 L8  BYE W26 2.0
+ 23 Litt, Fred             ADUNR925  1846  1793/ 65  L21 W20 L12 L17 W29 2.0
+ 24 Herr, Jacob            ADINY99V  1307  1348/ 14  BYE L26 W28 L11 L16 2.0
+ 25 Gradin, Brian          ADUNH77M  1479  1455/ 10  L10 W16 L20 D27 L15 1.5
+ 26 Echaure, Samuel        ADUNG37L  2013  1934/  5  L9  W24 L6  L8  L22 1.0
+ 27 Bharath, Bhavik        ADUNH71C  1563  1551/ 17  L4  L11 D16 D25 U   1.0
+ 28 Griffith, Nelsen       ADUNG37J  1626  1590/  4  L3  W17 L24 L16 U   1.0
+ 29 Hard, Adam             ADUNH79Y  1370  1345/ 41  L19 BYE L7  L20 L23 1.0

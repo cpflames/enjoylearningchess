@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Louws, Micah           CUECJ16B   473   553/ 67  W4  W2  W3  3.0
+  2 Hardin, Noah           LYAEH68E   533   452/ 35  W3  L1  L4  1.0
+  3 Triano, Crystal        SKYCG72H   217   224/ 25  L2  W4  L1  1.0
+  4 Arevalo, Aryanne       CEEDG72K   126   162/ 25  L1  L3  W2  1.0

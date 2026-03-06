@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Heydarova, Aliya       BLWFH95D   805   820/ 44  W4  D2  W3  2.5
+  2 Jang, Jinwon           VIEH561P   860   864/119  W3  D1  W4  2.5
+  3 Zarate, Gabriel        EMDBH62S   515   503/ 37  L2  W4  L1  1.0
+  4 Goel, Dhruv            NCSDG66E   300   106/  3  L1  L3  L2  0.0

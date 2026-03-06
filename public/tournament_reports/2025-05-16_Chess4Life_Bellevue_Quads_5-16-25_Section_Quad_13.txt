@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Awasthi, Anay          NLMAG32T   100   578/  3  W3  W2  W4  3.0
+  2 Dai, Leo               BCABG48M   100   189/  9  W4  L1  W3  2.0
+  3 Prabhu, Anika          BCAEH79S   100   101/ 19  L1  W4  L2  1.0
+  4 Rangarajan, Dhev       NLABH51F   100   100/ 19  L2  L3  L1  0.0

@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Victor, Paul           ADUNH58Y  1257  1350/ 20  W8  W6  W2  W5  W7  5.0
+  2 Zhang, Patrick         SSSCK01J  1232  1257/341  W7  W3  L1  W6  W5  4.0
+  3 Jayakrishnan, Chethan KGTMIH06G   932   966/ 33  W10 L2  L9  BYE W6  3.0
+  4 Shah, Aariv            PFCH527D   925   942/ 38  L6  L7  BYE W8  W9  3.0
+  5 Anbuselvam, Mithran    HEAGH61F  1111  1090/215  D9  WF  W8  L1  L2  2.5
+  6 Gui, Joyce             OPWCH92C  1003  1007/155  W4  L1  W7  L2  L3  2.0
+  7 Gu, Vincent            OPWBK00L  1026  1019/125  L2  W4  L6  W9  L1  2.0
+  8 Foster, Chad           ADUNH69R  1042   997/ 40  L1  W9  L5  L4  BYE 2.0
+  9 Durbhakula, Amogh      LMAHK63U   950   919/ 38  D5  L8  W3  L7  L4  1.5
+ 10 Karthik, Sai           BCAE261S  1076  1037/149  L3  LF  U   U   U   0.0

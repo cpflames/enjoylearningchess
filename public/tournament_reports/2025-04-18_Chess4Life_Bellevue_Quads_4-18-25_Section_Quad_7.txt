@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lee, Zachary           STTAH63W   715   846/ 44  W3  W4  W2  3.0
+  2 Gupta, Akshay          HMNCF62T   706   738/ 99  W4  W3  L1  2.0
+  3 Tharanian, Advay       DGHG855X   664   649/ 24  L1  L2  W4  1.0
+  4 Zhang, David           SOMCK41P   701   618/151  L2  L1  L3  0.0

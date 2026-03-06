@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Patrick         SSSCK01J  1177  1217/325  W3  W4  D2  2.5
+  2 Zhang, Aaron           RSAFC74T  1202  1184/175  W4  L3  D1  1.5
+  3 Mohammed, Farhan       CRKEH14M  1155  1125/ 93  L1  W2  L4  1.0
+  4 Swain, Samarth         MMECJ58S   964   981/333  L2  L1  W3  1.0

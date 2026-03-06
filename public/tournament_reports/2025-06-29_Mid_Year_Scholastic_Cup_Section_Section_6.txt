@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chadha, Saahan         ENDEK64R  1009  1081/ 74  W5  W4  W3  L2  W6  4.0
+  2 Wu, Jonathan           UCDDK14H  1040  1117/119  W7  D3  HPB W1  W4  4.0
+  3 Razmov, Siana          HSCCK93Y   986  1004/203  W8  D2  L1  W6  W9  3.5
+  4 Dolar, Evan            FACFA81A   951   951/ 55  W9  L1  W7  W8  L2  3.0
+  5 Lam, Sebastian         OPWCJ97R   779   815/106  L1  W9  L6  W7  W8  3.0
+  6 Gong, Fedora           RSMEK37C   866   830/ 57  W10 L7  W5  L3  L1  2.0
+  7 Armitage-selig, PhoenixSUZBJ31Z   803   782/ 83  L2  W6  L4  L5  BYE 2.0
+  8 Zeng, Liam             SHSAH05U   722   704/ 60  L3  BYE W9  L4  L5  2.0
+  9 Zhang, Eli             CHRCH69C   742   665/ 82  L4  L5  L8  BYE L3  1.0
+ 10 Srinivas, Pranav       TBKCG35F   149   149/  9  L6  U   U   U   U   0.0

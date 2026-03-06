@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jean Francois, Fritz   XXXKJ82E  1507  1640/ 12  W4  W2  W3  3.0
+  2 Rao, Deepak Sri KartikeBPSI517J  1481  1483/218  W3  L1  D4  1.5
+  3 Ganesan, Vidur         RBRF940K  1500  1479/317  L2  W4  L1  1.0
+  4 Nerella, Abhiram       INTJI18R  1381  1363/ 47  L1  L3  D2  0.5

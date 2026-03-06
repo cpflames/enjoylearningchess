@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Rish-brown, Jackson    HMOFH57T  1179  1189/ 80  W3  W4  L2  2.0
+  2 Menon, Ritwik          ICKH974D  1172  1183/114  W4  L3  W1  2.0
+  3 Nachiappan, Lakshmanan RHJIJ87Q  1043  1106/ 81  L1  W2  W4  2.0
+  4 Yang, Michael          SOMGK00G  1082  1020/113  L2  L1  L3  0.0

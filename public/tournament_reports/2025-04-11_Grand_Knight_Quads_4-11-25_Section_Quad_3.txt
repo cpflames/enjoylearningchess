@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Guruprasad, Saketh     WELFE50W   944  1054/ 50  W4  W3  W2  3.0
+  2 Fan, Theodore          LTLCK42S   963   979/ 96  W3  W4  L1  2.0
+  3 Lichtbach, Bryce       PKRFG92F  1095   941/  6  L2  L1  W4  1.0
+  4 Pan, Jingyuan          EVJHH73P   730   695/ 38  L1  L2  L3  0.0

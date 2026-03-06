@@ -1,0 +1,27 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Yue, Jayden            WMEBG55Q   100   928/  5  W19 W15 W3  W8  W2  5.0
+  2 Singhal, Arjun         RSABH23X   171   474/ 15  W13 W18 W6  W5  L1  4.0
+  3 Zarate, Gabriel        EMDBH62S   503   556/ 41  WF  W17 L1  W16 W8  4.0
+  4 Han, Isaac             CGRBH65V   102   356/ 20  W11 L5  W18 W9  D7  3.5
+  5 Anand, Nivaan          MCEBH64F   547   551/ 86  HPB W4  W10 L2  W11 3.5
+  6 Judun Karthick Kumar, ABENBH54W   234   363/ 23  W20 D10 L2  W18 W15 3.5
+  7 Li, James              BENBH35Y   310   357/ 10  W26 W21 L8  W17 D4  3.5
+  8 Zeitlin, Guy           WOBBG55N   100   522/  5  W9  W16 W7  L1  L3  3.0
+  9 Rajeswaran, Mithran    BENBH35R   242   290/ 19  L8  W23 W14 L4  W16 3.0
+ 10 Ko, William            LAVAG55M   100   424/  4  W12 D6  L5  W19 HPB 3.0
+ 11 Dai, Kevin             CMCAH23V   100   248/ 14  L4  W24 W25 W15 L5  3.0
+ 12 Jacob, Noah            BNTBH23U   152   216/ 10  L10 W20 L16 W22 W17 3.0
+ 13 Ralph, Rowan           BNTBG55L   100   216/  5  L2  W22 L17 D14 W21 2.5
+ 14 Nguyen, Khanh          PHABG55K   100   195/  5  L15 W19 L9  D13 W20 2.5
+ 15 Pettett, Nolan         EBSBH35V   251   238/ 15  W14 L1  W21 L11 L6  2.0
+ 16 Harikrishnan, SrivathsaBRHBG78U   235   230/ 16  W23 L8  W12 L3  L9  2.0
+ 17 Jain, Piasha           CMCBH78M   205   195/ 19  W24 L3  W13 L7  L12 2.0
+ 18 Milletari, Valerian    JINAH35X   312   266/ 15  W22 L2  L4  L6  W24 2.0
+ 19 Li, Eli                BENBH36B   287   249/ 10  L1  L14 W24 L10 W26 2.0
+ 20 Naveen Kumar, Dharaa   CHRAG55J   100   100/  5  L6  L12 W23 D21 L14 1.5
+ 21 Guan, Andrew           CNHBH23W   195   126/ 14  W25 L7  L15 D20 L13 1.5
+ 22 Feng, Riley            CHRBG55G   100   100/  5  L18 L13 W26 L12 D23 1.5
+ 23 Singh, Yash            MTWBG55F   100   100/  5  L16 L9  L20 W26 D22 1.5
+ 24 Aktas, Ela             PHAAG55D   100   100/  5  L17 L11 L19 W25 L18 1.0
+ 25 Chen, Noan             AGBBG55C   100   100/  4  L21 D26 L11 L24 HPB 1.0
+ 26 Sreeram, Arundhati     CEIBG55A   100   100/  5  L7  D25 L22 L23 L19 0.5

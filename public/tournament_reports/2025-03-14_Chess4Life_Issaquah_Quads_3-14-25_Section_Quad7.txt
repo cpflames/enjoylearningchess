@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Prabhu, Anika          BCAEH79S   100   198/ 10  BYE W4  W2  3.0
+  2 Madadi, Hannah         CGRCH65Y   159   225/ 21  W6  W3  L1  2.0
+  3 Bazaz, Aditya          CBREG65E   400   275/  3  W7  L2  W6  2.0
+  4 Manikantan, Tejas      CHACH34E   100   100/  6  D5  L1  BYE 1.5
+  5 Rajkumar, Prithvi      CSMBG65D   100   101/  3  D4  L6  W7  1.5
+  6 Deshmukh, Maithili     SHSAG71H   150   110/  6  L2  W5  L3  1.0
+  7 Mattoo, Eshaan         HWEAG68F   100   100/  5  L3  BYE L5  1.0

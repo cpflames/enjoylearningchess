@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Russell, Emerson       BLEGK23A   741   755/109  W2  L3  W4  2.0
+  2 Buckham, George        SKYEK37E   680   717/120  L1  W4  W3  2.0
+  3 Smith, Benjamin        BLEEG44D   733   721/ 90  D4  W1  L2  1.5
+  4 Ravitsky, Avigail      FACFH95B   610   578/ 37  D3  L2  L1  0.5

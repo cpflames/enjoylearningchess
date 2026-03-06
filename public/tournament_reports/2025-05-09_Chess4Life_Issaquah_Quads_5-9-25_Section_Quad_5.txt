@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 De, Adwik              SSMBJ29V   482   477/ 72  BYE D3  D2  2.0
+  2 Bansal, Aarav          CRKCH28J   497   488/ 35  D3  BYE D1  2.0
+  3 Chanda, Rishabh        BCAAH72X   414   429/ 46  D2  D1  BYE 2.0

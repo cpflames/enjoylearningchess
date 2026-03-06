@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Naik, Shreyas          MTWFJ98X   851   853/131  W3  W4  L2  2.0
+  2 Namjoshi, Aarav        KKNBG78Z   784   806/ 20  W4  L3  W1  2.0
+  3 Almuayyad, Omar        RHJHJ59J   695   763/ 58  L1  W2  W4  2.0
+  4 Li, Leo                BCAAH11J   700   634/ 62  L2  L1  L3  0.0

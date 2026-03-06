@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jungali, Rishab        HSCFG25N   500   862/  3  W4  W3  W2  3.0
+  2 Yao, Jason             DISDG30H   349   449/ 12  W3  W4  L1  2.0
+  3 Fang, Kayla            ENADH14P   358   359/ 21  L2  L1  W4  1.0
+  4 Chen, Carson           NCSCH14L   411   334/ 23  L1  L2  L3  0.0

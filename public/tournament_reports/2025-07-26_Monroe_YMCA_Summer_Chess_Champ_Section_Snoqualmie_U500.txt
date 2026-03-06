@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chen, Pengyu           RCRAZ677   538   587/ 14  D9  W10 W3  W5  W4  4.5
+  2 Deshpande, Sushant     CMCCG43P   285   381/ 21  W10 W3  D5  L4  W8  3.5
+  3 Jayakrishnan, Archith  FRVBG58A   498   496/ 29  W4  L2  L1  W7  W5  3.0
+  4 Chen, Siyang           ADBNZ546  1300   449/  5  L3  W9  W8  W2  L1  3.0
+  5 Manikandan, Abhinav    MOBDH78P   272   313/ 29  W6  W8  D2  L1  L3  2.5
+  6 Vuggirala, Hanvick     MOBEG24Q   400   231/  5  L5  D7  W10 L8  W9  2.5
+  7 Savani, Akshar         INGGG24P   600   368/  4  U   D6  W9  L3  W10 2.5
+  8 Yang, Claude           SCDCK65F   130   133/ 31  BYE L5  L4  W6  L2  2.0
+  9 Ghosh, Oishani         CBRBJ56E   236   215/ 79  D1  L4  L7  W10 L6  1.5
+ 10 Karthik, Haswin        MOBDG24M   300   100/  5  L2  L1  L6  L9  L7  0.0

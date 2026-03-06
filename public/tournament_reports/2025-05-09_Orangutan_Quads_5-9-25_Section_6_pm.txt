@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jariwala, Vidur        THOEK87P   816   928/ 95  W4  W3  W2  3.0
+  2 Reimer, Oliver         IMSGG59D   949   935/119  W3  W4  L1  2.0
+  3 Mathew, Reuben         MRIAG33B   100   678/  3  L2  L1  W4  1.0
+  4 Rosenthal, Eli         THUCG58B   656   603/ 24  L1  L2  L3  0.0

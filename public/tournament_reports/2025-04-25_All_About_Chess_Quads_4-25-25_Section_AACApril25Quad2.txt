@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sathyamurthy, Sreeshan EVJIJ24M   882   910/169  L3  W5  W2  2.0
+  2 Agarwal, Kavir         MEDF152U   949   958/ 98  W5  W4  L1  2.0
+  3 Jahani, Nikan          IMSGK89A   770   844/164  W1  L6  W4  2.0
+  4 Sarychev, Aleksei      GEKKJ98N   930   885/251  W6  L2  L3  1.0
+  5 Li, Ethan James        SOMCK00K   844   823/176  L2  L1  W6  1.0
+  6 Singla, Atharv         TWFHF53S   783   770/ 55  L4  W3  L5  1.0

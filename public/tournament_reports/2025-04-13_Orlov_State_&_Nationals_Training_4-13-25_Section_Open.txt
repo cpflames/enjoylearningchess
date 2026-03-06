@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Zhang, Kevin           WOBG809Y  1261  1280/180  W7  1.0
+  2 Yeh, George            COSCH64S   963   976/ 23  W9  1.0
+  3 Lai, Austin            EVGDK94F  1098  1122/109  W8  1.0
+  4 Ruan, Jiyong           SHSDJ19W   927   984/ 62  W6  1.0
+  5 Gu, Leo                SCDCK31Y   727   743/ 69  W10 1.0
+  6 Zou, Jinhan            SSMEH14T  1286  1241/186  L4  0.0
+  7 Sreeram, Vihaan        BLWFK01U  1173  1153/ 71  L1  0.0
+  8 Xiong, Maxwell         CSIDK92H  1058  1033/ 92  L3  0.0
+  9 Qureshi, Haroon        RBREJ95Y   736   721/ 42  L2  0.0
+ 10 Mccarthy, Eugene       CDLEG73B   517   500/ 11  L5  0.0

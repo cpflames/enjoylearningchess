@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Leo                BCAAH11J   619   733/ 51  W4  W3  W2  3.0
+  2 Magnin, Hugo           FAPCH94D   579   578/ 50  D3  W4  L1  1.5
+  3 Voss, Jayden           WOBBH15J   546   525/ 13  D2  L1  D4  1.0
+  4 Huang, Damon           CHRCG71K   517   475/ 22  L1  L2  D3  0.5

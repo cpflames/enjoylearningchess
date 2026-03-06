@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wild, Edward           WMNAG92D   331   493/ 15  W4  W3  L2  2.0
+  2 Hu, Ryan               OPWBJ97N   779   751/119  L3  W4  W1  2.0
+  3 Luo, Vivienne          NPTD703P   690   625/152  W2  L1  L4  1.0
+  4 Abuhuwaij, Adam        TBKCG92E   357   388/ 15  L1  L2  W3  1.0

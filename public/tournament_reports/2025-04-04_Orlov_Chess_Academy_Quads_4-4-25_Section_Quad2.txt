@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Esparza-chen, Lucien   WMNEJ98Z   487   608/ 72  W4  W3  W2  3.0
+  2 Rehmeyer, Malcolm      FHMHH62C   638   618/ 37  W3  W4  L1  2.0
+  3 Dayani, Viraj          SRAF118W   389   370/ 35  L2  L1  W4  1.0
+  4 Zeeshan, Harris        CRIBH61J   102   100/ 42  L1  L2  L3  0.0

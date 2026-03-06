@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Prather, Tristan       HSCJG26M   808   912/  6  D2  W3  W4  2.5
+  2 Qureshi, Danish        BLNHF36V   956   968/226  D1  W4  W5  2.5
+  3 Mccarthy, Eugene       CDLEG73B   659   684/ 27  W5  L1  BYE 2.0
+  4 Clark, Finn            JFRFJ99M   609   590/ 48  BYE L2  L1  1.0
+  5 Newton, Ezekiel        HSCGG26N   884   704/  5  L3  BYE L2  1.0

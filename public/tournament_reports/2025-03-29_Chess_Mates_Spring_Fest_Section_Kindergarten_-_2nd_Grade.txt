@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Gray, Carter           COSBH33E   918   969/ 40  W9  W7  W2  W3  W6  5.0
+  2 Bigelow, Atlas         WMECJ61F   828   838/ 76  W4  W6  L1  W8  W3  4.0
+  3 Wright, William        THUCB71M   769   747/138  W5  W8  W7  L1  L2  3.0
+  4 Astafyeva, Veronica    MRPCH51S   188   254/ 19  L2  W10 L6  W9  W11 3.0
+  5 Hobart-beaumari, Kiran CSICG99K   141   201/  9  L3  BYE D9  D6  W10 3.0
+  6 Koehler, Ezra          CSICG99D   100   196/  9  BYE L2  W4  D5  L1  2.5
+  7 Townsdin, Lance        MUKAH01M   400   375/  8  W11 L1  L3  L10 W8  2.0
+  8 Deng, Leo              CSICG51B   200   356/  5  W10 L3  W11 L2  L7  2.0
+  9 Neshmonin, Dimitri     JHYBG98W   202   148/  9  L1  D11 D5  L4  BYE 2.0
+ 10 Duraikondaar, Dhaswin  FRWCH75Y   265   214/ 54  L8  L4  BYE W7  L5  2.0
+ 11 Vanbruaene, Leiden     HFSAG51A   100   100/  4  L7  D9  L8  BYE L4  1.5

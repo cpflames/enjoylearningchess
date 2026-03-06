@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mohammed, Farhan       CRKEH14M  1049  1070/ 56  W4  W3  D2  2.5
+  2 Karanam, Aadya         CHKEK84K   940   940/131  L3  W4  D1  1.5
+  3 Deng, Lucas            DISDH87X   898   884/ 78  W2  L1  L4  1.0
+  4 Sarychev, Aleksei      GEKKJ98N   885   875/254  L1  L2  W3  1.0

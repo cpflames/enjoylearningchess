@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Senthil, Vibha         RSADG28T   672   806/ 15  W3  W2  W4  3.0
+  2 Raghavan, Anirudh      FRWEG42Z   693   720/ 28  W4  L1  W3  2.0
+  3 Ram, Yaalini           SNECH87H   637   618/116  L1  W4  L2  1.0
+  4 Reddy, Aariv           GRRCK34T   682   591/103  L2  L3  L1  0.0

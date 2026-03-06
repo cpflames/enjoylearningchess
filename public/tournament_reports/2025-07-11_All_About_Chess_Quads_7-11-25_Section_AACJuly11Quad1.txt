@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Kyle            SKNN8003  1579  1586/446  W3  W4  W2  3.0
+  2 Mohammed, Farhan       CRKEH14M  1125  1168/ 96  W4  W3  L1  2.0
+  3 Mahale, Avneesh        CNHC993F  1049  1054/262  L1  L2  W4  1.0
+  4 Krogstad, Jaxon        NCSDJ88M  1071  1022/192  L2  L1  L3  0.0

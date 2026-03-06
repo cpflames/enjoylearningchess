@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Balan, Vidyut          LAVEH68B   291   485/ 38  W4  W2  W3  3.0
+  2 Revuru, Nimeesha       RCMFW81Y   343   314/ 33  W3  L1  L4  1.0
+  3 Tripathi, Aditya       ARMEJ96M   316   296/ 29  L2  W4  L1  1.0
+  4 Abdukarimov, Samin     BENAH67S   357   323/ 77  L1  L3  W2  1.0

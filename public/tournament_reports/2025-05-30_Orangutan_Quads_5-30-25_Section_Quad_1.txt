@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yao, Roger Yutang      THOCK88C   763   861/120  W4  D3  D2  2.0
+  2 Yorks, Cameron         CSIEJ74Q   859   867/ 60  W3  L4  D1  1.5
+  3 Jariwala, Vidur        THOEK87P   928   915/ 98  L2  D1  W4  1.5
+  4 Marriott, Nicolas      HTNGH52X   945   901/ 29  L1  W2  L3  1.0

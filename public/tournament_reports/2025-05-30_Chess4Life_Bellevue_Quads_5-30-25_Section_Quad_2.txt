@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mandore, Ishaan        WPPGJ70V   880   998/ 32  W3  D2  W4  2.5
+  2 Yang, Michael          SOMGK00G  1078  1099/101  W4  D1  W3  2.5
+  3 Becklund, Ezra         JDSHH11H   998   964/ 47  L1  W4  L2  1.0
+  4 Khandelwal, Anay       OMSHA10L   839   792/ 89  L2  L3  L1  0.0

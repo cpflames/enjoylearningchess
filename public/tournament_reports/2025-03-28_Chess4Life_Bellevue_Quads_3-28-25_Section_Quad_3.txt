@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Du, Charles            SOMFA15U   881   976/147  W2  D3  W4  2.5
+  2 Becklund, Ezra         JDSIH11H   910   940/ 31  L1  W4  W3  2.0
+  3 Kulkarni, Samik        KKNBH67M   976   934/ 46  D4  D1  L2  1.0
+  4 Kennedy, Owen          TWFHH14N   864   827/ 31  D3  L2  L1  0.5

@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nandakiran, Advaith    SSMCJ88H   392   527/167  W2  W3  W4  3.0
+  2 Nelson, Harvey         CMCFG67L   420   415/ 29  L1  W4  W5  2.0
+  3 Gu, Ximu               ENDBJ05X   412   398/ 76  W5  L1  BYE 2.0
+  4 Haycraft, Ethan        IFSCG36K   100   100/ 14  BYE L2  L1  1.0
+  5 Zhu, Aron              SOMCH30W   125   100/ 36  L3  BYE L2  1.0

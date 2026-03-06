@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Molleda, Eric          RSHFG59A   361   367/ 10  W4  L2  W3  2.0
+  2 Nadimpalli, Saathvik   CNCDH16G   252   297/ 10  L3  W1  W4  2.0
+  3 Kocherlakota, Adithya  EBSBH74T   292   254/ 23  W2  L4  L1  1.0
+  4 Sathish, Viraat        NSTHG37S   700   183/  3  L1  W3  L2  1.0

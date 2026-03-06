@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Vijay, Adith           SOMED20K  1325  1348/ 88  W3  W5  D2  W4  W7  4.5
+  2 Li, Harry              SPTFG30G  1232  1293/495  W6  W4  D1  W5  W3  4.5
+  3 Sharan, Aadya          EVJHJ59A   933  1028/ 40  L1  W8  W4  W6  L2  3.0
+  4 Juarez-caballero, CristISMHD76Z  1137  1099/186  W7  L2  L3  L1  W8  2.0
+  5 Elmieh, Niko           CRKF777E  1026  1006/ 95  W8  L1  W7  L2  L6  2.0
+  6 Narayan, Keshav        INGGE45H   921   920/ 94  L2  L7  W8  L3  W5  2.0
+  7 Su, Oliver             JINED01U   913   918/176  L4  W6  L5  W8  L1  2.0
+  8 Yen, Apollo            REJHG78H   853   773/154  L5  L3  L6  L7  L4  0.0

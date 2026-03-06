@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Liu, Acen              ENACJ58C   101   258/ 13  D2  W3  W4  2.5
+  2 Yadav, Divyansh        TBKCG75M   200   290/  3  D1  W4  D3  2.0
+  3 Fang, Roger            ENABH14K   100   136/  8  W4  L1  D2  1.5
+  4 Rajkumar, Prithvi      CSMBG65D   101   100/  6  L3  L2  L1  0.0

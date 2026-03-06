@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Eric Q          SOMDK64M   954  1056/123  W3  W4  W2  3.0
+  2 Balaji, Pranav         INGHJ96J   930   901/ 82  W4  L3  L1  1.0
+  3 Sarychev, Aleksei      GEKKJ98N   858   849/278  L1  W2  L4  1.0
+  4 Sivakumar, Vedant      INGHH63H   897   877/ 93  L2  L1  W3  1.0

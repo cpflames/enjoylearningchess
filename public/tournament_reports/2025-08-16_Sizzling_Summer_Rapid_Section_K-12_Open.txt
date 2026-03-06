@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 tot 
+  1 Inforzato, Andrew      HABIH09C  1504  1499/ 37  W6  W8  W7  W2  W3  D5  D4  6.0
+  2 Oruganti, Yuvan        HGMHJ55U   962   988/ 32  W5  L7  W4  L1  W6  L3  W8  4.0
+  3 Xiong, Lydia           TSTJI43T  1196  1206/166  U   W5  W8  L7  L1  W2  W6  4.0
+  4 Anand, Krishna         RSABJ95V   599   679/ 74  L7  W6  L2  L5  BYE W8  D1  3.5
+  5 Chang, Ethan An Tong   SOMDJ59M   765   781/ 36  L2  L3  L6  W4  W8  D1  BYE 3.5
+  6 Bigelow, Atlas         WMECJ61F   986   923/ 95  L1  L4  W5  W8  L2  BYE L3  3.0
+  7 Cha, Samuel            BASHK18Z  1583  1566/253  W4  W2  L1  W3  U   U   U   3.0
+  8 Srinivas, Venkatesh    XXXCG23B   200   280/  6  BYE L1  L3  L6  L5  L4  L2  1.0

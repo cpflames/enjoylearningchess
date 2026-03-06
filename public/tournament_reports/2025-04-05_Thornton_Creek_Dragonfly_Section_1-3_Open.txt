@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Charuvil Vinu, Suryen  RSHBJ89R   666   781/ 93  L2  BYE W4  W3  W6  4.0
+  2 Lawardy, Clayton       DCTDK13P   703   780/ 62  W1  D6  W3  W5  L4  3.5
+  3 Shing, Lucas           HZFDJ74H   752   760/110  W5  W4  L2  L1  W7  3.0
+  4 Ta, Jaxson             KSTDJ54Z   673   689/ 53  W7  L3  L1  BYE W2  3.0
+  5 Zhen, Liam             DCCD622V   687   685/190  L3  W7  W6  L2  BYE 3.0
+  6 Allyn, William         THODJ48A   615   614/ 52  BYE D2  L5  W7  L1  2.5
+  7 Yang, Jonathan         LKDCK55R   723   595/ 81  L4  L5  BYE L6  L3  1.0

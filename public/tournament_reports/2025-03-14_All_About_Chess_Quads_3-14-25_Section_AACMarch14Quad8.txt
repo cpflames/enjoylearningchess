@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Karthikeyan, Akhilan   CRKFH13C   373   525/ 22  W4  W3  W2  3.0
+  2 Dang, Aaron            SOMCH60W   387   383/ 31  D3  W4  L1  1.5
+  3 Gu, Ximu               ENDBJ05X   316   304/ 40  D2  L1  D4  1.0
+  4 Zhu, Anna              SOMDH30X   357   299/ 24  L1  L2  D3  0.5

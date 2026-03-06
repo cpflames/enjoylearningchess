@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Wang, Leonardo         CKNI233K  1863  1904/161  W5  W3  D2  W4  3.5
+  2 Yondon, Odbayar        INGGK97T  1849  1858/299  D7  W4  D1  D3  2.5
+  3 Kona, Vidip            TIMGI26J  2215  2194/398  W6  L1  W7  D2  2.5
+  4 Rao, Deepak Sri KartikeBPSI517J  1531  1589/226  W8  L2  W10 L1  2.0
+  5 Wu, Harry              SASGJ72P  1559  1583/ 66  L1  L6  W9  W8  2.0
+  6 Syal, Yash             PFCGC10R  1630  1644/228  L3  W5  D8  D7  2.0
+  7 Sankrithi, Sarang      HSCGB11D  1545  1568/314  D2  D10 L3  D6  1.5
+  8 Cheng, Selina          TLMH413R  1743  1700/599  L4  W9  D6  L5  1.5
+  9 Cheng, Alan            LMSGJ71K  1543  1519/185  D10 L8  L5  BYE 1.5
+ 10 Shankaranand, Deeksha  EBSGI74Y  1679  1644/331  D9  D7  L4  U   1.0

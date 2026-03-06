@@ -1,0 +1,27 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kandar, Aarav          FISEK21U  1228  1245/159  W9  W3  W18 W2  W5  5.0
+  2 Valenti, Ender         FMPEK12X   814   830/ 30  W11 W4  W17 L1  W10 4.0
+  3 Pipchenko, Andronicus  FMPFH53Z   404   542/ 15  W24 L1  W12 W17 W6  4.0
+  4 Gorlachev, Isaac       FMPEK17A   346   504/ 35  W16 L2  W23 W14 W13 4.0
+  5 Einarson, Finn         OBKD256K   726   698/129  W7  L18 W9  W6  L1  3.0
+  6 Shove, Ian             FMPEJ24X   296   412/ 20  W21 W8  W10 L5  L3  3.0
+  7 Maddox, Isaiah         FMPFJ91J   158   341/ 23  L5  W20 W8  L10 W17 3.0
+  8 Marak, Gideon          FMPEG84A   503   440/ 10  W12 L6  L7  W15 W19 3.0
+  9 Maddox, Raelynn        FMPDJ92M   214   327/ 25  L1  W15 L5  W24 W16 3.0
+ 10 Valenti, Jack          FMPDK12U   440   447/ 30  W26 W22 L6  W7  L2  3.0
+ 11 Vekhov, Samuel         FMPDH53J   193   293/ 10  L2  W16 L14 W20 W15 3.0
+ 12 Kazakov, Elijah        FMPFG83U   134   258/ 10  L8  W21 L3  W26 W14 3.0
+ 13 Knox, Abraham          HSCFG83Y   467   420/ 10  L15 W26 W19 W18 L4  3.0
+ 14 Kazakov, Phillip       FMPFG84D   715   488/ 10  W19 L17 W11 L4  L12 2.0
+ 15 Peterson, Nolan        HOMFG83P   100   170/ 10  W13 L9  W22 L8  L11 2.0
+ 16 Wright, Harrison       FMPDG47M   300   222/  5  L4  L11 W21 W22 L9  2.0
+ 17 Marak, Israel          FMPFH53U   311   322/ 15  W25 W14 L2  L3  L7  2.0
+ 18 Wei, Bill              FMPFG83W   337   406/  9  W20 W5  L1  L13 U   2.0
+ 19 Clayton, Oliver        FMPEH53T   155   170/ 15  L14 W25 L13 W23 L8  2.0
+ 20 Twining, Jaxson        LLSEG47L   400   190/  5  L18 L7  W26 L11 W24 2.0
+ 21 Micu, Grace            FMPEG47K   400   142/  5  L6  L12 L16 W25 W23 2.0
+ 22 Feeney, Gideon         FMPFJ91V   237   186/ 20  W23 L10 L15 L16 W26 2.0
+ 23 Douglas, Michael       FMPEG47J   400   100/  5  L22 W24 L4  L19 L21 1.0
+ 24 Mangrum, Hugh          FMPDG47G   300   100/  5  L3  L23 W25 L9  L20 1.0
+ 25 Burlacu, Emanuel       FMPDG47F   300   100/  4  L17 L19 L24 L21 BYE 1.0
+ 26 Marsh, Micah           FMPDG47E   300   100/  5  L10 L13 L20 L12 L22 0.0

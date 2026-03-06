@@ -1,0 +1,49 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Raja, Rian             SKWH786E  1642  1658/225  W18 W20 D3  W13 3.5
+  2 Chen, William          INGI550N  1522  1556/288  W27 W8  D13 W16 3.5
+  3 Friedenson, Isaac      VVMIK21N  1456  1537/ 75  W25 W21 D1  W15 3.5
+  4 Rastogi, Atharv        PFCH377H  1465  1508/130  W26 W24 W23 D6  3.5
+  5 Salal, Zikrain         PFCIJ82Z  1388  1487/ 78  W38 D12 W17 W22 3.5
+  6 Shih, Bei              OVLG630G  1440  1484/251  W47 W41 W14 D4  3.5
+  7 Barrenkala, Surya      EVJH238E  1158  1315/ 84  L20 W29 W24 W23 3.0
+  8 Avula, Varshith Reddy  RHJI110R  1355  1380/280  W36 L2  W40 W27 3.0
+  9 Ma, Ziliang            DCCHA69N  1436  1432/167  L37 W28 W26 W21 3.0
+ 10 Dragusanu, Stephane    EVJIH75V  1281  1345/ 24  L12 W38 W36 W20 3.0
+ 11 Seela, Shashank        EVJII74N  1546  1537/232  L33 W46 W34 W30 3.0
+ 12 Cha, Samuel            BASHK18Z  1578  1563/246  W10 D5  L16 W33 2.5
+ 13 Shih, Tai              OVLIE60P  1454  1466/240  W28 W37 D2  L1  2.5
+ 14 Sharma, Soham          LMSIK09Q  1519  1504/ 96  W32 W33 L6  D18 2.5
+ 15 Rao, Deepak Sri KartikeBPSI517J  1589  1572/230  W29 D34 W22 L3  2.5
+ 16 Gundimeda, Arjun       PLKIK06W  1443  1456/ 14  D46 W19 W12 L2  2.5
+ 17 Inforzato, Andrew      HABIH09C  1487  1463/ 19  D19 W43 L5  W35 2.5
+ 18 Chevuri, Tattva        REJHC06V  1311  1337/446  L1  W42 W41 D14 2.5
+ 19 Cress, Emmett          JMLIH54B  1242  1315/ 99  D17 L16 W46 W34 2.5
+ 20 Lizon, Abhay           TYEIJ87S  1417  1410/ 27  W7  L1  W25 L10 2.0
+ 21 Chintalapudi, Srihaan  CPJH662W  1221  1244/157  W31 L3  W43 L9  2.0
+ 22 Singh, Rushil          TWFHB52N  1432  1416/161  W40 W35 L15 L5  2.0
+ 23 Liu, Yichen            TMBII31R  1429  1400/ 23  W42 W39 L4  L7  2.0
+ 24 Ashcroft, Austen       HSCIH02R  1320  1303/ 13  W44 L4  L7  W40 2.0
+ 25 Phadke, Mahi           STLIF90B  1213  1235/ 61  L3  W31 L20 W43 2.0
+ 26 Nguyen, Vuong Tien ThinMARIG70K  1218  1224/ 21  L4  W44 L9  W41 2.0
+ 27 Westover, Charlotte    IMSI365V  1269  1269/317  L2  W48 W39 L8  2.0
+ 28 Tallapaneni, Hanish    CDZHH06J  1209  1218/ 24  L13 L9  W44 W36 2.0
+ 29 Delacroix, Styles      HSCHG93F  1289  1288/ 25  L15 L7  W38 W42 2.0
+ 30 Deshpande, Keshav      CHOH420G  1349  1324/129  L39 W47 W37 L11 2.0
+ 31 Balayoghan, Keeran     OMSH477N  1487  1433/124  L21 L25 W47 W37 2.0
+ 32 Xu, Alex               EMSI500U  1249  1234/174  L14 L36 W48 W39 2.0
+ 33 Singh, Atharva         HEAIK06G  1274  1285/ 72  W11 L14 D35 L12 1.5
+ 34 Chien, Jeffrey         OVLHF41X  1378  1358/189  W48 D15 L11 L19 1.5
+ 35 Bell, Raimi            OBKHF77Y  1059  1114/ 85  W45 L22 D33 L17 1.5
+ 36 Juarez-caballero, CristISMHD76Z  1099  1099/190  L8  W32 L10 L28 1.0
+ 37 Nagarkar, Arhant       HSCHB82K  1192  1197/ 69  W9  L13 L30 L31 1.0
+ 38 Barni, Silas           SQIIG85T  1155  1131/  9  L5  L10 L29 W48 1.0
+ 39 Agrawal, Anay          PLKHE67A  1098  1101/100  W30 L23 L27 L32 1.0
+ 40 Menon, Ritwik          ICKH974D  1183  1173/105  L22 W45 L8  L24 1.0
+ 41 Cardon, Erik           ANCIH12J  1110  1046/  8  WF  L6  L18 L26 1.0
+ 42 Zhen Rampenthal, Quinn SASIH53C  1171  1161/ 65  L23 L18 W45 L29 1.0
+ 43 Gunasekaran, Sarshan   SKIHG68C   823   823/  7  BYE L17 L21 L25 1.0
+ 44 Nishio, Richard Hiroji LIYHH09B  1016  1013/ 22  L24 L26 L28 W47 1.0
+ 45 Chaurasia, Vihaan      REJHH65G  1340  1256/222  L35 L40 L42 W46 1.0
+ 46 Raghavendra, Srihari   INGIH19D  1203  1176/ 88  D16 L11 L19 L45 0.5
+ 47 Hendricks, Jonathan    FRCHH09A  1198  1072/  9  L6  L30 L31 L44 0.0
+ 48 Nachiappan, Lakshmanan RHJIJ87Q  1133  1065/ 72  L34 L27 L32 L38 0.0

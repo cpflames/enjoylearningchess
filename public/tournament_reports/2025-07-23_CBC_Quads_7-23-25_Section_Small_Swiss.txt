@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Ryan, Charles          HCCIG23W   800  1001/  4  W4  W2  W3  W5  4.0
+  2 Chadha, Gauransh       WOBDG23V   300   647/  3  W3  L1  W5  BYE 3.0
+  3 Fetchero, Caleb        BLCEK56R   401   401/ 38  L2  BYE L1  W4  2.0
+  4 Wong, Ethan            HCCEG23T   400   247/  3  L1  W5  BYE L3  2.0
+  5 Fetchero, Eva          BLCBG62Z   100   100/  8  BYE L4  L2  L1  1.0

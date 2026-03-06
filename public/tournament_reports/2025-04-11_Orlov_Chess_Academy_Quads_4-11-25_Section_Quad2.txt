@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zeeshan, Hamza         CRKEJ15N   745   771/ 81  W3  W4  L2  2.0
+  2 Karnik, Rohan          WAVJG59F   872   860/ 12  W4  L3  W1  2.0
+  3 Doronin, Victor        BMNH335T   665   734/122  L1  W2  W4  2.0
+  4 Saravanan, Maadhav     CSMF555W   630   574/ 36  L2  L1  L3  0.0

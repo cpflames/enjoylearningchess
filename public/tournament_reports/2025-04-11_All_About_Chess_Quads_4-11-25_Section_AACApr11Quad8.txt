@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Huang, Jaden           ENDDJ63S   728   796/207  W3  W4  D2  2.5
+  2 Li, Ethan James        SOMCK00K   733   725/170  W4  L3  D1  1.5
+  3 Sathyamurthy, Shreyus  BLWCJ60Z   701   674/145  L1  W2  L4  1.0
+  4 Charles, Benjamin      SOMBJ06G   640   632/116  L2  L1  W3  1.0

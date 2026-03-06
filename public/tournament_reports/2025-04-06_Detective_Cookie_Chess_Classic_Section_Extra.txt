@@ -1,0 +1,3 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Liu, Louis             CNHCJ75J   812   816/ 90  W2  1.0
+  2 Zhen, Daniel           DCCEG46C   351   351/  5  L1  0.0

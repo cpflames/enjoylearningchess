@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wu, Wynston            MEDCJ86Y   316   505/ 24  W3  W2  W4  3.0
+  2 So, Jason              MEDFJ87M   340   396/ 17  W4  L1  W3  2.0
+  3 Serena, Gabriele       SBMEG64Y   359   331/ 25  L1  W4  L2  1.0
+  4 Lakshmanan, Vian       RBRBH56N   362   269/ 22  L2  L3  L1  0.0

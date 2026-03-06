@@ -1,0 +1,25 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Johnson, Caleb         CRPFG64R   562   818/ 10  W23 W9  W7  W5  W2  5.0
+  2 Hemperly, Harper       HSCFI09E   789   812/117  W20 W3  W10 W8  L1  4.0
+  3 Garcia, Emma           OCHGJ45L   568   692/ 60  W16 L2  W15 W14 W8  4.0
+  4 Guzman, Tom            MTPFJ79D   558   666/ 54  W17 L14 W22 W7  W10 4.0
+  5 Worthington, Aaron     LIBFJ53N   480   684/ 54  D6  W19 W9  L1  W14 3.5
+  6 Einarson, Aiden        OBKGD84D   796   757/187  D5  L8  W24 W21 W12 3.5
+  7 Garcia, Sergio         BMCF733M   727   701/ 90  W18 W11 L1  L4  W15 3.0
+  8 Larimer, Thomas        LLMGJ79Q   480   597/ 25  W24 W6  W14 L2  L3  3.0
+  9 Cabasug, Raphael       SJKF177N   789   738/ 52  W19 L1  L5  W23 W17 3.0
+ 10 Orme, Sam              MCUFH43F   654   642/ 35  W22 W21 L2  W11 L4  3.0
+ 11 Shaw, Ryder            RFPFJ23U   529   503/ 60  W12 L7  W16 L10 D21 2.5
+ 12 Miranda, Saul          STPGH43E   133   306/ 30  L11 W18 D21 W16 L6  2.5
+ 13 Krieg, Remi            LIVFJ01J   132   145/ 34  W21 L22 L18 D20 WF  2.5
+ 14 Pumphrey, Brooks       CRPFJ79M   761   686/ 68  W15 W4  L8  L3  L5  2.0
+ 15 Erevia, Kaliyah        MCGFJ53S   399   412/ 60  L14 W17 L3  W18 L7  2.0
+ 16 Trejo, Zahir           ESGFH27K   256   264/ 20  L3  W20 L11 L12 W22 2.0
+ 17 Macatangay, Elijah     CTKGH43C   202   246/ 15  L4  L15 W20 W22 L9  2.0
+ 18 De La Torre, Ian R     LIBFK97E   382   351/ 70  L7  L12 W13 L15 W19 2.0
+ 19 Garcia, Metzi          MCUFJ44Z   415   353/ 59  L9  L5  D23 W24 L18 1.5
+ 20 Kimball, Samantha      WEKFG42G   500   100/  5  L2  L16 L17 D13 W24 1.5
+ 21 Sanchez, Salem         BMCFG64N   517   379/ 10  L13 L10 D12 L6  D11 1.0
+ 22 Santana, Luis          ESGFH27N   347   272/ 20  L10 W13 L4  L17 L16 1.0
+ 23 Marquez, Kevin         MYAF200M   227   220/ 24  L1  D24 D19 L9  LF  1.0
+ 24 Corrales, Jorge        ESGGH27J   100   100/ 17  L8  D23 L6  L19 L20 0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ram, Yaalini           SNECH87H   250   391/ 52  W3  W4  W2  3.0
+  2 Xiong, Aria            DISBH14J   295   304/ 32  W4  W3  L1  2.0
+  3 Zhu, Aron              SOMCH30W   100   107/ 20  L1  L2  W4  1.0
+  4 Kulal, Om              RSAAG65J   100   100/  3  L2  L1  L3  0.0

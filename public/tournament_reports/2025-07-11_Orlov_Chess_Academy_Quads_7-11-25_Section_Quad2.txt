@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Raghavan, Anirudh      FRWEG42Z   548   693/ 25  W4  W2  W3  3.0
+  2 Brown, Benjamin        OLHEG25W   400   651/  3  W3  L1  W4  2.0
+  3 Zeeshan, Harris        CRIBH61J   293   347/ 54  L2  W4  L1  1.0
+  4 Brown, Brandon         SCXNY107   651   530/ 12  L1  L3  L2  0.0

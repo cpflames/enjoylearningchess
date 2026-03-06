@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Nachiappan, Lakshmanan RHJIJ87Q   942  1133/ 68  W6  W3  L4  W10 W2  4.0
+  2 Meenakshi Sundaram, AdhHEAGK00E  1007  1119/ 38  W15 W5  W9  W4  L1  4.0
+  3 Anbuselvam, Mithran    HEAGH61F  1157  1178/185  W16 L1  W8  W5  W4  4.0
+  4 Rogov, Richard         MEDDJ68U  1157  1149/123  W10 W13 W1  L2  L3  3.0
+  5 Daniel, Lemuel         MMEDJ29L  1080  1077/ 76  W14 L2  W11 L3  W10 3.0
+  6 Mohammed, Farhan       CRKEH14M   980   967/ 48  L1  W15 L12 W8  W11 3.0
+  7 Bell, Raimi            OBKHF77Y  1109  1059/ 81  L11 L8  W15 W14 W9  3.0
+  8 Ma, Caroline           BCSCK93V   606   776/ 93  D9  W7  L3  L6  W12 2.5
+  9 Rajeswaran, Raghav     RHJIJ57H   950   941/ 49  D8  W11 L2  W12 L7  2.5
+ 10 Judd, George           PURFJ57F   931   934/ 59  L4  W14 W13 L1  L5  2.0
+ 11 Liu, Alvin             RSAFH37P   929   924/ 14  W7  L9  L5  W13 L6  2.0
+ 12 Meenakshi Sundaram, PavCDWCJ99Z   686   717/ 32  L13 W16 W6  L9  L8  2.0
+ 13 Reimer, Oliver         IMSGG59D   990   934/111  W12 L4  L10 L11 W16 2.0
+ 14 Bogomolov, Henry       ENDCJ72J   791   797/ 81  L5  L10 W16 L7  W15 2.0
+ 15 Zhou, Max              BCSBH51K   740   716/ 15  L2  L6  L7  W16 L14 1.0
+ 16 Jayasinghe, Sihas      TMBGJ83E   812   697/ 56  L3  L12 L14 L15 L13 0.0

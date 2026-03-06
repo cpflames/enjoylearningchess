@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Garg, Vihaan           CMCEJ10X  1047  1038/260  L2  W11 1.0
+  2 Zhang, Patrick         SSSCK01J  1013  1047/250  W1  U   1.0
+  3 Li, Anyi               LKDDJ55F  1306  1331/139  W8  U   1.0
+  4 Zhang, Kevin           WOBG809Y  1315  1328/175  W9  U   1.0
+  5 Chen, Max Y            DISFK76L  1070  1087/108  W10 U   1.0
+  6 Lai, Ryan              SHSBH70N  1286  1277/ 87  D7  U   0.5
+  7 Chen, Felix Y          DISEA67A  1156  1166/108  D6  U   0.5
+  8 Zou, Jinhan            SSMEH14T  1320  1295/178  L3  U   0.0
+  9 Chou, Eugene           SSMEJ56Y  1146  1131/108  L4  U   0.0
+ 10 Ruan, Jiyong           SHSDJ19W   928   909/ 53  L5  U   0.0
+ 11 Yeh, George            COSCH64S   956   931/ 16  U   L1  0.0

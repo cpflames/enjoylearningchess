@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Deng, Lucas            DISDH87X  1027  1079/ 93  D3  W2  W4  2.5
+  2 Li, Ethan James        SOMCK00K  1013  1033/199  W4  L1  W3  2.0
+  3 Sarychev, Aleksei      GEKKJ98N   908   906/272  D1  D4  L2  1.0
+  4 Huang, Jaden           ENDDJ63S  1015   959/233  L2  D3  L1  0.5

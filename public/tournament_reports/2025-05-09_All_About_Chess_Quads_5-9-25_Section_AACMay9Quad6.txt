@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Charles, Benjamin      SOMBJ06G   623   658/126  W2  W3  WF  3.0
+  2 Gu, Ximu               ENDBJ05X   373   412/ 70  L1  W4  D3  1.5
+  3 Mirchandani, Kavir     MEDCJ97A   470   441/116  D4  L1  D2  1.0
+  4 Chang, Nathan          MMEDK42T   445   404/123  D3  L2  LF  0.5

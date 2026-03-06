@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sadoyan, David         CGRDG32F   300   838/  3  W3  W2  W4  3.0
+  2 Bommakanti, Ayaansh    BENAG32E   100   485/  3  W4  L1  W5  2.0
+  3 Zhang, Dylan           CGRAG32C   100   306/  1  L1  BYE HPB 1.5
+  4 Schechter, Emma        MEDAH23S   257   255/ 25  L2  W5  L1  1.0
+  5 Dietrich, Luka         OPWAJ27L   168   120/ 45  BYE L4  L2  1.0

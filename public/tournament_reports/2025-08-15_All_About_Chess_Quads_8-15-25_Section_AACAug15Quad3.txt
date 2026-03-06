@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Gui, Joyce             OPWCH92C  1007  1024/158  W4  W3  L2  2.0
+  2 Li, Ethan James        SOMCK00K   999  1018/208  L3  W4  W1  2.0
+  3 Mahale, Avneesh        CNHC993F   985   957/268  W2  L1  L4  1.0
+  4 Joseph, George         CDIDH11C   916   908/ 72  L1  L2  W3  1.0

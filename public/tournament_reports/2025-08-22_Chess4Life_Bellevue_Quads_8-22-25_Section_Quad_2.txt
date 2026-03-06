@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Roy, Rishi             RCSFW75W  1268  1320/  9  W2  W4  D3  2.5
+  2 Yeh, George            COSCH64S  1053  1145/ 38  L1  W3  W4  2.0
+  3 Zhen Rampenthal, Quinn SASIH53C  1234  1202/ 87  D4  L2  D1  1.0
+  4 Yang, Michael          SOMGK00G  1170  1130/125  D3  L1  L2  0.5

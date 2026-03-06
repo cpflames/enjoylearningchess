@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yen, Lucas             ETSBH56P   347   366/ 21  D2  D3  U   1.0
+  2 Bansal, Aarav          HSCCH28J   487   466/ 28  D1  U   D3  1.0
+  3 Zhang, Jake            BCACH34S   401   405/  8  U   D1  D2  1.0

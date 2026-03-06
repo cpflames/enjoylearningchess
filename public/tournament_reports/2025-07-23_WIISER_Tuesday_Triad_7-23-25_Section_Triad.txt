@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Sankrithi, Sarang      HSCGB11D  1556  1574/338  U   U   W2  W2  W3  D3  3.5
+  2 Sankrithi, Vivaan      HSCBK61R  1338  1346/172  W3  D3  L1  L1  U   U   1.5
+  3 Sankrithi, Siva        ADUNI948  1406  1377/122  L2  D2  U   U   L1  D1  1.0

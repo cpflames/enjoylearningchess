@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Luo, Leo               BUSEH45C  1072  1217/ 30  W15 W2  W13 W3  D4  4.5
+  2 Srinivasan, Atul       TBKBK65P   985  1051/ 87  WF  L1  W9  W8  W6  4.0
+  3 Shan, Jie              ADUNH70B  1150  1182/ 24  W17 W14 W11 L1  W5  4.0
+  4 Volpe, Laila           ADUNG30N  1300  1264/  5  D12 W20 W14 W11 D1  4.0
+  5 Oruganti, Yuvan        HGMHJ55U   970  1010/ 21  W10 L11 W15 W12 L3  3.0
+  6 Vinoth Ganapathy, PavitAUDFH96J   886   961/ 45  W7  L12 W16 W13 L2  3.0
+  7 Bell, Raimi            OBKHF77Y  1114  1092/ 90  L6  W19 D12 W14 D11 3.0
+  8 Mitta, Arjun           ADUNG36T   726   827/ 10  W18 L13 W20 L2  W12 3.0
+  9 Mudragada, Sanjay KaushGTMGG96Y   762   827/ 34  L14 W17 L2  W20 W13 3.0
+ 10 Gabel, Drake           ABBNZ45R  1300   947/  5  L5  L15 W17 W18 W16 3.0
+ 11 Borkar, Siddharth      MRLGJ29B  1064  1066/ 45  W19 W5  L3  L4  D7  2.5
+ 12 Golan, Elliot          ADUNH58X   963   960/ 30  D4  W6  D7  L5  L8  2.0
+ 13 Singhal, Aryash        HIEF595L  1056   998/138  W16 W8  L1  L6  L9  2.0
+ 14 Mohammed, Farhan       CRKEH14M  1055  1026/ 69  W9  L3  L4  L7  W19 2.0
+ 15 Borkar, Rohan          WDMD243X   878   885/ 44  L1  W10 L5  L16 W18 2.0
+ 16 Prasanna, Charan       LMAEJ46Z   769   802/ 77  L13 W18 L6  W15 L10 2.0
+ 17 Zeng, Liam             SHSAH05U   786   723/ 51  L3  L9  L10 L19 W20 1.0
+ 18 Xu, Natalie            CNHD137A  1018   897/134  L8  L16 W19 L10 L15 1.0
+ 19 Balaji, Arjun          CMCEH75P   812   781/ 87  L11 L7  L18 W17 L14 1.0
+ 20 Balaji, Sai Nidhish    RHJGG30L   600   322/  4  HPB L4  L8  L9  L17 0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, Alex             ENDDK03T   866   969/ 66  W4  W2  W3  3.0
+  2 Meenakshi Sundaram, PavCDWCJ99Z   822   850/ 40  W3  L1  W4  2.0
+  3 Anand, Krishna         RSABJ95V   644   666/ 57  L2  W4  L1  1.0
+  4 Zeng, Liam             SHSAH05U   913   810/ 45  L1  L3  L2  0.0

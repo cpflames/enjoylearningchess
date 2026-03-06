@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 He, Joshua             CHRCJ72H   636   729/ 91  W7  L6  W4  W11 W2  4.0
+  2 Joseph, George         CDIDH11C   697   727/ 27  W8  W13 W11 W6  L1  4.0
+  3 Zhou, Nathan           SOMDG61K   300   745/  5  D4  W19 W13 D5  W7  4.0
+  4 Zheng, Ethan H         RCSDJ29K   593   666/ 20  D3  W8  L1  W9  W5  3.5
+  5 Sankapal, Pranav       SNEDJ61E   678   656/ 39  W10 W14 D6  D3  L4  3.0
+  6 Wu, Max                SOMCG79G   436   537/ 10  W18 W1  D5  L2  D11 3.0
+  7 Ram, Yaalini           SNECH87H   391   421/ 57  L1  W18 W14 W15 L3  3.0
+  8 Kannappan, Anirudh     BLWDK42Q   423   442/ 24  L2  L4  W19 W14 W16 3.0
+  9 Wang, Ethan            SOMCH23P   224   335/  9  L11 W20 W12 L4  W19 3.0
+ 10 Li, Jeremy             SOMCJ87A   344   377/ 40  L5  L12 W18 W13 W15 3.0
+ 11 Malhotra, Dilraj       MAHCK02Y   631   595/ 87  W9  W15 L2  L1  D6  2.5
+ 12 Jiao, Elizabeth        JINDG61J   300   330/  4  L13 W10 L9  HPB W20 2.5
+ 13 Paidapathi, Kiaan      SHSCJ99C   552   497/180  W12 L2  L3  L10 W18 2.0
+ 14 Zhang, Jiayan          JINDG61H   300   259/  5  W20 L5  L7  L8  W17 2.0
+ 15 Zhao, Eric             SSMCG61G   200   238/  5  W19 L11 W17 L7  L10 2.0
+ 16 Wu, Oliver             JINCG61D   200   269/  2  W17 HPB HPB U   L8  2.0
+ 17 Raijee, Harleen        SNICH87G   100   100/  9  L16 BYE L15 D19 L14 1.5
+ 18 Liu, Emilia            JINCG61B   200   100/  4  L6  L7  L10 WF  L13 1.0
+ 19 Zhang, James           JINCG61A   200   100/  5  L15 L3  L8  D17 L9  0.5
+ 20 Chole, Advik           SSMCG60X   200   100/  3  L14 L9  HPB LF  L12 0.5

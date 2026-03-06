@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Pleasants, Gabriel     THUE149G  1149  1237/127  W24 W7  W6  W2  W4  5.0
+  2 Leneway, Owen          CSIEK91V  1161  1163/101  W18 W9  W8  L1  W11 4.0
+  3 Lin, Vivienne          CSIEK99D  1154  1133/ 75  W15 L10 W5  W7  W8  4.0
+  4 Frenk, Rafael          CSICJ75L  1122  1103/ 60  W22 D5  W10 W6  L1  3.5
+  5 Shing, Lucas           HZFDJ74H   666   752/105  W21 D4  L3  W19 W9  3.5
+  6 Agrawal, Ayaansh       WONCJ99W   944   932/ 55  W16 W11 L1  L4  W18 3.0
+  7 Margetan, Alston       MTWDW85Y   592   622/ 36  W20 L1  W13 L3  W19 3.0
+  8 Zhang, Amy             CSIEF80L  1054  1028/ 77  W12 W14 L2  W15 L3  3.0
+  9 Astafiev, Vitaly       MRPEH52U   744   754/ 25  W17 L2  W12 W14 L5  3.0
+ 10 Zhen, Liam             DCCD622V   668   696/182  W25 W3  L4  L11 W16 3.0
+ 11 Sethanandha, Marvin    CSIEH88K   582   635/ 40  W23 L6  W17 W10 L2  3.0
+ 12 Thomson, Desmond       BTHEG51G   400   681/  5  L8  W16 L9  W25 W14 3.0
+ 13 Bretz, Deacon          BTHEG51F   400   526/  5  L14 W24 L7  W17 W15 3.0
+ 14 Williams, Bodhi        BRYDH33J   565   567/ 10  W13 L8  W18 L9  L12 2.0
+ 15 Chantarachoti, BrightonMUKDH15W   481   468/ 22  L3  W19 W21 L8  L13 2.0
+ 16 Hotchkin, Otis         CSIDK92J   391   402/ 24  L6  L12 W20 W22 L10 2.0
+ 17 Larson, Akash          CSIDG99N   265   324/ 10  L9  W20 L11 L13 W22 2.0
+ 18 Rebrikov, Maksim       MEDEJ43D   250   305/ 10  L2  W25 L14 W21 L6  2.0
+ 19 Huang, Tandy           THUDG99C   100   152/  9  BYE L15 W23 L5  L7  2.0
+ 20 Mathew, Ryan           CSIEG51D   400   230/  5  L7  L17 L16 W23 W25 2.0
+ 21 Neshmonin, Arthur      CSIDG99J   113   136/ 13  L5  BYE L15 L18 W24 2.0
+ 22 Twombly-borst, Henry   CWAEA01R   208   198/ 45  L4  D23 W24 L16 L17 1.5
+ 23 Tran, Nikola           AGBEG51C   400   100/  4  L11 D22 L19 L20 BYE 1.5
+ 24 Perianayagam, Gautham  CSIEG99T   392   271/ 14  L1  L13 L22 BYE L21 1.0
+ 25 Bates, Emmett          CSIEG99E   144   100/  9  L10 L18 BYE L12 L20 1.0

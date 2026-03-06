@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mcneil, Mason          VSTHJ49Y   721   805/ 60  W3  L2  W4  2.0
+  2 Miller, Tobin          LYCHG27V   736   815/  6  L4  W1  W6  2.0
+  3 Fine-gucker, Logan     EAGF535R   801   823/137  L1  W6  W5  2.0
+  4 Davis, Bear            SQUJG33Z   809   809/ 11  W2  D5  L1  1.5
+  5 Gong, Fedora           RSMEK37C   830   816/ 60  W6  D4  L3  1.5
+  6 Cancelosi, Nicholas    VSTHM25W   791   709/112  L5  L3  L2  0.0

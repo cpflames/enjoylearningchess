@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Young, Jayden          FACJ621U   718   899/ 44  W7  W3  W2  3.0
+  2 Davis, Bear            SQUJG33Z   737   809/  8  W4  W5  L1  2.0
+  3 Cancelosi, Nicholas    VSTHM25W   765   791/109  W8  L1  W7  2.0
+  4 Lervik, Henry          CEEFK36P   665   713/ 57  L2  W6  W8  2.0
+  5 Ritchie, Rowan         SMWGH40C   767   757/ 35  W6  L2  HPB 1.5
+  6 Reynolds, Elliot       WKECJ64U   714   652/ 47  L5  L4  BYE 1.0
+  7 Reynolds, Bennett      WKECJ64R   783   721/ 42  L1  D8  L3  0.5
+  8 Kaur, Prabhkirat       IREFE41C   691   641/ 55  L3  D7  L4  0.5

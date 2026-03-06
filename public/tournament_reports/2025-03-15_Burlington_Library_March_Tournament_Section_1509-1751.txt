@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Stroud, Jeb            SHMJK22V  1514  1594/211  D4  W3  W2  2.5
+  2 Scollon, Owen          SHMJ734D  1751  1742/560  W3  W4  L1  2.0
+  3 Nipges, Jaxon          FERL382B  1509  1509/147  L2  L1  W4  1.0
+  4 Mcgee, Connor          MRDJH30Z  1606  1561/ 17  D1  L2  L3  0.5

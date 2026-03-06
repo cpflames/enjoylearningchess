@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ackerman, Ryan         ADUNC514  1793  1796/311  W2  U5  U3  W4  W6  3.0
+  2 Chung, Warren          REJIG48Z  1355  1356/ 22  L1  U6  W5  U3  W4  2.0
+  3 Kim, Marcus            CHOGG30B   390   583/  8  W6  L4  U1  U2  W5  2.0
+  4 Rehmeyer, Malcolm      FHMHH62C   578   618/ 51  U5  W3  U6  L1  L2  1.0
+  5 Jang, Jinwon           VIEH561P   987   944/155  U4  U1  L2  W6  L3  1.0
+  6 Nishino, Anne          BCADH74F   849   779/167  L3  U2  U4  L5  L1  0.0

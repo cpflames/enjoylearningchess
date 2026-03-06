@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Becklund, Ezra         JDSIH11H   900   988/ 36  D2  W4  W3  2.5
+  2 Davies, Damien         HEAGK68U   929   954/117  D1  W3  D4  2.0
+  3 Khandelwal, Anay       OMSHA10L   896   878/ 80  W4  L2  L1  1.0
+  4 Du, Charles            SOMFA15U   938   882/155  L3  L1  D2  0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 George, Ameya          EBSFK88Y   960  1036/152  W4  W3  D2  2.5
+  2 Deshmukh, Dhruv        ENDEH79Q   923   937/ 98  L3  W4  D1  1.5
+  3 Mudragada, Sanjay KaushGTMGG96Y   981   952/ 44  W2  L1  L4  1.0
+  4 Sridhar, Riya          TBKGG37Y   981   952/ 99  L1  L2  W3  1.0

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Tsay, Elon             LKDEK07B  1085  1193/170  W2  U5  W3  W4  U6  3.0
+  2 Ackerman, Ryan         ADUNC514  1802  1771/323  L1  U6  W5  U3  W4  2.0
+  3 Karnik, Rohan          WAVJG59F   892   894/ 34  W6  U4  L1  U2  W5  2.0
+  4 Chen, Aiden            BCAIF50G   614   621/ 23  U5  U3  W6  L1  L2  1.0
+  5 Rehmeyer, Malcolm      FHMHH62C   584   585/ 57  U4  U1  L2  W6  L3  1.0
+  6 Galande, Nandan        CSMEG65K   324   294/  9  L3  U2  L4  L5  U1  0.0

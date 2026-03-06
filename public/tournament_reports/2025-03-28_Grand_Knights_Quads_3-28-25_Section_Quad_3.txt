@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wu, Jonathan           UCDDK14H   942   958/ 83  W4  W2  L3  2.0
+  2 Meenakshi Sundaram, AdhHEAGK00E  1005  1007/ 33  W3  L1  W4  2.0
+  3 Chen, Eason            SOMBJ59F  1082  1068/112  L2  W4  W1  2.0
+  4 Raghavendran, Vedanth  DCSBH24C   290   290/  8  L1  L3  L2  0.0

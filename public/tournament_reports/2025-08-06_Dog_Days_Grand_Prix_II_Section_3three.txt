@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kaur, Prabhkirat       IREFE41C   565   811/ 67  W7  W5  W2  3.0
+  2 Cancelosi, Nicholas    VSTHM25W   768   803/124  W4  W3  L1  2.0
+  3 Russell, Emerson       BLEGK23A   733   741/106  W8  L2  W6  2.0
+  4 Smith, Benjamin        BLEEG44D   716   733/ 87  L2  W8  W5  2.0
+  5 Westergreen, Korben    HORIH39X   736   704/ 42  W6  L1  L4  1.0
+  6 Ravitsky, Avigail      FACFH95B   622   610/ 34  L5  W7  L3  1.0
+  7 Buckham, George        SKYEK37E   729   680/117  L1  L6  W8  1.0
+  8 Triano, Tony           SKYFJ17K   578   516/ 65  L3  L4  L7  0.0

@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Orsino, Thomas         WHMIH40B   836   911/ 39  W2  W5  W3  3.0
+  2 Aguila-contreras, EdgarHORIJ65J   731   747/105  L1  BYE W5  2.0
+  3 Clark, Finn            JFRFJ99M   548   538/ 40  BYE D4  L1  1.5
+  4 Mccarthy, Eugene       CDLEG73B   539   517/ 10  L5  D3  BYE 1.5
+  5 Dolan, Rodion          ANCGH12G   783   732/ 11  W4  L1  L2  1.0

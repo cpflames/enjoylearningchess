@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yorks, Cameron         CSIEJ74Q   843   925/ 49  W3  W4  W2  3.0
+  2 Wagner, Drew           ADUNH06R   817   827/ 17  W4  W3  L1  2.0
+  3 Buck, August           WWDDG65L   300   648/  3  L1  L2  W4  1.0
+  4 Fuhriman, Tai          WWDDH06W   759   610/  7  L2  L1  L3  0.0

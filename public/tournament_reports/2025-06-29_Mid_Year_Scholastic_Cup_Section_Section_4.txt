@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Jiang, Kyle            MEDCK35B  1244  1356/180  W4  W9  D5  W7  D2  4.0
+  2 Sreraman, Rohit        BCAEG92Q  1313  1330/320  W3  L7  HPB W4  D1  3.0
+  3 Bravenboer, Jake       OPWEJ97Y  1250  1271/171  L2  W10 D8  D5  W6  3.0
+  4 Rachiba, Alisa         EVPEK08E  1288  1289/241  L1  W6  W7  L2  D5  2.5
+  5 Rengarajan, Anirudh    DIAFZ75J  1243  1254/ 56  D6  D8  D1  D3  D4  2.5
+  6 Lee, Justin            CNLI732V  1280  1270/138  D5  L4  W9  W8  L3  2.5
+  7 He, Jizhou             MEDD789B  1255  1264/166  W10 W2  L4  L1  HPB 2.5
+  8 Ge, Emma               SSMCJ56J  1221  1206/166  D9  D5  D3  L6  D10 2.0
+  9 Byelashova, Sofia      SGHCK01K  1274  1226/202  D8  L1  L6  D10 BYE 2.0
+ 10 Byelashova, Darya      SGHEK51X  1239  1194/230  L7  L3  BYE D9  D8  2.0

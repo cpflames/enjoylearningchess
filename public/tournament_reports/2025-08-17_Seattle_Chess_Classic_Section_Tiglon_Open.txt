@@ -1,0 +1,58 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Sundaram, Siddarth MeenADUNK02X  2455  2463/ 50  W56 W21 W4  W3  D2  W6  5.5
+  2 Degenbaev, Aziz        ADUNJ12D  2395  2408/ 53  W22 W55 W6  W7  D1  W8  5.5
+  3 Panda, Vedic           ADUNG37P  2283  2285/ 11  W47 W30 W15 L1  D14 W7  4.5
+  4 Chinni, Rishabh        FRWI241C  2191  2191/261  W41 W37 L1  W28 D10 W14 4.5
+  5 Gottumukkala, Ananth   ADUNG432  2165  2153/377  D49 W34 L18 W11 W36 W15 4.5
+  6 Kurungod Anoop, Pranav ADUNK760  2143  2154/276  W24 W40 L2  W18 W9  L1  4.0
+  7 Kona, Vidip            TIMGI26J  2246  2243/420  W33 W35 W32 L2  W17 L3  4.0
+  8 Jiang, Brandon         BLLM7768  2215  2213/552  HPB W16 W36 D9  W32 L2  4.0
+  9 Fletcher, Andrew       ADUN5371  2071  2072/ 85  D25 W38 W20 D8  L6  W24 4.0
+ 10 Wang, Leonardo         CKNI233K  1884  1916/172  L44 W27 W40 W19 D4  D12 4.0
+ 11 Li, Shawn              SOMDJ11N  1704  1840/117  W14 L29 W55 L5  W22 W21 4.0
+ 12 Tessiore, Luca         EMSIP42N  2111  2096/221  W27 L36 HPB W39 W30 D10 4.0
+ 13 Patankar, Vijay        KMNKC78Y  1903  1889/316  L54 D26 D38 W42 W27 W25 4.0
+ 14 Alkin, Ido             MISKZ41G  1999  2001/  6  L11 W23 W37 W21 D3  L4  3.5
+ 15 Thorwe, Pratik         ADUNK10D  1961  1959/ 69  W26 W54 L3  D36 W33 L5  3.5
+ 16 Ayalew, Brook          DCCJJ71Q  1806  1857/ 66  D19 L8  W26 W44 D29 D20 3.5
+ 17 Loving, Jason          ADUNG22T  2037  2044/  5  D38 W25 W44 W29 L7  U   3.5
+ 18 Pikh, Akim             BLWFH64N  1966  1981/ 66  D42 W49 W5  L6  U   W37 3.5
+ 19 Porter, Ryan W         ADUNF05C  2298  2278/ 78  D16 W43 HPB L10 W20 HPB 3.5
+ 20 Yondon, Odbayar        INGGK97T  1929  1921/325  D23 W42 L9  W41 L19 D16 3.0
+ 21 Nallappa, Vijay        REDJD40S  1879  1870/459  W45 L1  W54 L14 W38 L11 3.0
+ 22 Nicoski, Aaron         ADUN598C  1821  1813/ 99  L2  W46 W43 L32 L11 W45 3.0
+ 23 Syal, Yash             PFCGC10R  1653  1703/255  D20 L14 D34 D37 W41 D33 3.0
+ 24 Scollon, Owen          SHMJ734D  1754  1800/592  L6  W48 HPB D35 W31 L9  3.0
+ 25 Maokhampio, Lucas      VOSFW79V  1708  1740/ 16  D9  L17 HPB W46 W28 L13 3.0
+ 26 Strong, Edward         ADUN4304  1681  1711/479  L15 D13 L16 W49 W53 D30 3.0
+ 27 Nam, Jinmo             GRRKC101  1724  1724/240  L12 L10 W52 W51 L13 W43 3.0
+ 28 Miller, Travis         ADUNG22S  1837  1810/  6  L43 W51 W50 L4  L25 W44 3.0
+ 29 Montgomery, Eamon      MISNZ41F  2189  2172/  4  W39 W11 HPB L17 D16 U   3.0
+ 30 Zhou, Yuchen           CHRFJ42H  1863  1858/648  W50 L3  HPB W53 L12 D26 3.0
+ 31 Nedumpurakkal Thahir, IRHJKK46Y  1930  1891/ 99  L36 L39 W49 W40 L24 W46 3.0
+ 32 Lin, Michael           BASFC97F  1916  1925/359  W51 W53 L7  W22 L8  U   3.0
+ 33 Gao, Ziqian            BLWFK10U  1794  1786/117  L7  W52 W45 HPB L15 D23 3.0
+ 34 Caluza, Severo         ADBNX44A  1704  1720/ 17  HPB L5  D23 W54 D35 HPB 3.0
+ 35 Reutter, Karl          ADUN3486  1863  1852/136  W52 L7  HPB D24 D34 HPB 3.0
+ 36 Jones, Davey V         ADUNC10L  1671  1766/ 72  W31 W12 L8  D15 L5  U   2.5
+ 37 Bharathy Mohan, Aarav  SKIGC98B  1787  1799/441  W57 L4  L14 D23 W43 L18 2.5
+ 38 Takayoshi, Evan        ADUNE25R  1701  1719/ 37  D17 L9  D13 W50 L21 D39 2.5
+ 39 Vanpoucke, Vernon      ADUNJ685  1760  1764/ 14  L29 W31 HPB L12 D45 D38 2.5
+ 40 Shankaranand, Deeksha  EBSGI74Y  1666  1691/355  W48 L6  L10 L31 W51 HPB 2.5
+ 41 Yuodelis, Kenneth      NPRL3681  1753  1761/497  L4  W57 HPB L20 L23 W53 2.5
+ 42 Wentz, Austin          ADUNK09W  1701  1705/ 16  D18 L20 HPB L13 W50 HPB 2.5
+ 43 Yuan, Chen             ETSDJ15Z  1505  1555/185  W28 L19 L22 W55 L37 L27 2.0
+ 44 Maharaja, Imai         HMNEK34K  1602  1615/329  W10 HPB L17 L16 HPB L28 2.0
+ 45 Yang, Jimmy            BASFG45S  1527  1550/263  L21 W56 L33 HPB D39 L22 2.0
+ 46 Pai, Vihaan            CHAFK17C  1607  1599/318  L55 L22 BYE L25 W47 L31 2.0
+ 47 Subramanian, Thrinay   SPTJ466R  1804  1743/183  L3  L50 L51 W52 L46 W54 2.0
+ 48 Vega, Isaac            ADONW943  1929  1892/148  L40 L24 HPB U   W54 HPB 2.0
+ 49 Merriman, Dann         WMNFF79Y  1742  1701/650  D5  L18 L31 L26 D52 D50 1.5
+ 50 Liu, Merrick           XXOHW75U  1520  1528/  6  L30 W47 L28 L38 L42 D49 1.5
+ 51 Ganesan, Vidur         SKWG940K  1633  1614/356  L32 L28 W47 L27 L40 HPB 1.5
+ 52 James, Johnny          ADUNH59B   855   893/ 10  L35 L33 L27 L47 D49 BYE 1.5
+ 53 Tessiore, Lorenzo      ADUNG22R  1625  1588/  4  BYE L32 HPB L30 L26 L41 1.5
+ 54 Xu, Zoe                SOMFG70A  1603  1594/394  W13 L15 L21 L34 L48 L47 1.0
+ 55 Gupta, Anand           ADUN7167  1908  1871/571  W46 L2  L11 L43 U   U   1.0
+ 56 Kulick, Noah           ADUNG22Q  1805  1778/  2  L1  L45 HPB HPB U   U   1.0
+ 57 Pupols, Viktors        ADUN8503  2200  2164/122  L37 L41 U   U   U   U   0.0

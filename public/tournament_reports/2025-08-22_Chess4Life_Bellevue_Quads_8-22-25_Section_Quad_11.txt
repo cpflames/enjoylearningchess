@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Beasley, Chloe         LLFEH65R   144   228/ 25  W3  W2  U   2.0
+  2 Lakshmanan, Vian       RBRBH56N   195   189/ 33  U   L1  W3  1.0
+  3 He, Alex               ETSAG28F   174   100/ 11  L1  U   L2  0.0

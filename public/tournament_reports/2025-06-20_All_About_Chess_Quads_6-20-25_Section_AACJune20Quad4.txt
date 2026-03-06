@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bolisetty, Varun       CBRDJ73Z   986  1045/177  D2  W4  W3  2.5
+  2 Huang, Jaden           ENDDJ63S   959   961/236  D1  W3  L4  1.5
+  3 Zhang, Eric Q          SOMDK64M   986   954/120  W4  L2  L1  1.0
+  4 Sivakumar, Vedant      INGHH63H   907   897/ 90  L3  L1  W2  1.0

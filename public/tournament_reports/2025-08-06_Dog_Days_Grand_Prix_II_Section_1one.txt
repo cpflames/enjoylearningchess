@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Owen            SHMJ995H  1621  1662/379  D3  W2  W4  2.5
+  2 Scollon, Owen          SHMJ734D  1777  1768/581  W4  L1  W3  2.0
+  3 Stroud, Jeb            SHMJK22V  1531  1548/230  D1  W4  L2  1.5
+  4 Hildenbrand, Blane     STNJ122V  1538  1497/413  L2  L3  L1  0.0

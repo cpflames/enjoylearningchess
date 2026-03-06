@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kozaczuk, James        BHMJ108A  1228  1314/259  W4  W2  W3  3.0
+  2 Thompson, Hugo         SSNHH55A  1132  1179/ 17  W3  L1  W4  2.0
+  3 Vendeland, Alexa       HSCI441X  1282  1239/137  L2  W4  L1  1.0
+  4 Qureshi, Danish        BLNHF36V  1067  1024/191  L1  L3  L2  0.0

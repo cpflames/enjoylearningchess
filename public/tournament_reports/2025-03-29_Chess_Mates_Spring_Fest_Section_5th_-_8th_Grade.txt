@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Anbuselvam, Mithran    HEAGH61F  1001  1110/170  W4  W12 W3  W2  W5  5.0
+  2 Kalian, Illia          WHIGI13T  1106  1108/137  W6  W9  W8  L1  W4  4.0
+  3 Tang, Khai             THUFJ48Q   472   675/ 54  BYE W6  L1  W9  D8  3.5
+  4 Bretz, Levi            BTHHG51R   700   895/  5  L1  W13 W9  W7  L2  3.0
+  5 Chantarachoti, Beamer  HPTGH15Z   711   737/ 20  L7  BYE W10 W8  L1  3.0
+  6 Haywood, Quinn         BTHFG51Q   500   684/  5  L2  L3  W11 W13 W10 3.0
+  7 Cabrera Gomez, Juan DieBTHGG51P   600   704/  5  W5  L8  W12 L4  W13 3.0
+  8 Barker, Harvey         HTNGH06X   934   885/ 20  W10 W7  L2  L5  D3  2.5
+  9 Aker, Pepper           THUG181G   715   672/134  W11 L2  L4  L3  BYE 2.0
+ 10 Cao, Jack              CSIFG51M   500   504/  5  L8  W11 L5  W12 L6  2.0
+ 11 Hennessey, Parker      BTHGG51L   600   328/  4  L9  L10 L6  BYE W12 2.0
+ 12 Koehler, Kai           QAEFG51J   500   219/  5  W13 L1  L7  L10 L11 1.0
+ 13 Tran, Nora             FHMHG51H   700   100/  4  L12 L4  BYE L6  L7  1.0

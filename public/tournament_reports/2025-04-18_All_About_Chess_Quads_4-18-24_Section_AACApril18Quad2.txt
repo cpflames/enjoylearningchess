@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Agarwal, Avyaan        RCSEW81K  1068  1139/ 70  W4  W2  L3  2.0
+  2 Chen, Max Y            DISFK76L  1186  1180/117  W3  L1  D4  1.5
+  3 Zhang, Aaron           RSAFC74T  1173  1171/149  L2  D4  W1  1.5
+  4 Ge, Jeremy             SOMCJ88K  1200  1168/302  L1  D3  D2  1.0

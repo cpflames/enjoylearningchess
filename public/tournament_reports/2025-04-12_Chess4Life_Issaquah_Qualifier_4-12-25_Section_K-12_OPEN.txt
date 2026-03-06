@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Pravlik, Aiden         FRIF416H  1281  1292/262  W12 W6  W3  D2  D5  4.0
+  2 Iyer, Satvik           CSMEB60D   866   975/ 40  D8  W7  W4  D1  D3  3.5
+  3 Chen, Eason            SOMBJ59F  1107  1109/121  W11 W9  L1  W10 D2  3.5
+  4 Clore, Sylas           MTIGH08P   787   842/ 13  BYE D10 L2  W11 W7  3.5
+  5 Karri, Aditya          REEGC55V  1471  1463/367  U   BYE W13 W9  D1  3.5
+  6 Vivek, Thanish BhavanamBCACH74G   829   844/ 56  W14 L1  L11 W13 W9  3.0
+  7 Xu, James              BASEK62S   719   761/ 19  D10 L2  W12 W8  L4  2.5
+  8 Su, Vincent            AJSIA52P   692   760/ 31  D2  W12 L9  L7  W10 2.5
+  9 Prasad, Shrey          EPSIK46U   929   907/ 22  W13 L3  W8  L5  L6  2.0
+ 10 Davis, Nathan          GTMHJ66C   887   830/187  D7  D4  W14 L3  L8  2.0
+ 11 Dasari, Ranveer        SSMGJ31X   749   750/ 36  L3  W13 W6  L4  L12 2.0
+ 12 Bhutani, Mihir         CRKDK90Q   776   740/ 32  L1  L8  L7  BYE W11 2.0
+ 13 Talukdar, Yuvaan       RBRBH76K   744   679/ 88  L9  L11 L5  L6  BYE 1.0
+ 14 Sinha, Aarav           ISMJ886W   327   319/ 38  L6  BYE L10 U   U   1.0

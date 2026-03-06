@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bhasin, Palash         ISMGH95H  1146  1147/166  W2  D4  D3  2.0
+  2 Nandakiran, Vidyuth    SSMF617C   995  1051/211  L1  W3  W4  2.0
+  3 Deng, Lucas            DISDH87X  1079  1074/ 96  W4  L2  D1  1.5
+  4 Swain, Samarth         MMECJ58S   998   964/330  L3  D1  L2  0.5

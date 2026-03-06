@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhao, Kevin            EVGEK54M   917  1000/ 67  W3  W2  W4  3.0
+  2 Gupta, Akshay          HMNCF62T   798   810/110  D4  L1  W3  1.5
+  3 Khandelwal, Anay       OMSHA10L   792   779/ 92  L1  W4  L2  1.0
+  4 Balan, Vidyut          LAVEH68B   833   781/ 59  D2  L3  L1  0.5

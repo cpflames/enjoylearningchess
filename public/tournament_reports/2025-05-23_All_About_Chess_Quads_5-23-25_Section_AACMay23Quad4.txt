@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Huang, Jaden           ENDDJ63S   758   860/224  W4  W2  W3  3.0
+  2 Zahand, Chase          CEIEH64H   498   528/ 23  W3  L1  L4  1.0
+  3 Sarangi, Samarth       CBREH69F   762   717/142  L2  W4  L1  1.0
+  4 Liaw, Ezra             LSOGW79E   745   705/ 33  L1  L3  W2  1.0

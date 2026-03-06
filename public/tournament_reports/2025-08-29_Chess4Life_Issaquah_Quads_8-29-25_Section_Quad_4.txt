@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chanda, Rishabh        BCAAH72X   626   695/ 69  W2  L4  W3  2.0
+  2 Petluri, Anish         CCDBH48F   652   705/ 28  L1  W3  W4  2.0
+  3 Singh, Vihaan          RIDEG25R   864   789/ 26  W4  L2  L1  1.0
+  4 Abdukarimov, Samin     BENAH67S   574   582/145  L3  W1  L2  1.0

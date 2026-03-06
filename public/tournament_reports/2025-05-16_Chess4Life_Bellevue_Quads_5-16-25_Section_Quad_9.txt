@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Molleda, Eric          LLFEG59A   357   466/ 16  D2  W4  W3  2.5
+  2 Yen, Lucas             ETSBH56P   366   372/ 24  D1  W3  L4  1.5
+  3 Nishanth, Ahan         RSAAH60N   352   331/ 21  W4  L2  L1  1.0
+  4 Deshpande, Sushant     CMCCG43P   401   363/ 13  L3  L1  W2  1.0

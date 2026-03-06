@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Arora, Kyra            BCABH34R   154   188/  8  W2  L3  W4  2.0
+  2 Ramesh, Mithran        OVLFH15G   100   116/  7  L1  W4  D3  1.5
+  3 Kong, Ethan            DISHH82Z   118   126/  6  L4  W1  D2  1.5
+  4 Bach, Lan              MCIBH74U   128   100/ 26  W3  L2  L1  1.0

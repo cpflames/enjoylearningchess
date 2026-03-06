@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nishanth, Ahan         RSAAH60N   331   331/ 24  W3  W4  L2  2.0
+  2 Yadav, Divyansh        TBKCG75M   238   275/ 22  W4  L3  W1  2.0
+  3 Dai, Leo               BCABG48M   189   174/ 12  L1  W2  L4  1.0
+  4 Zhang, Lydia           CHREH34U   197   174/  9  L2  L1  W3  1.0

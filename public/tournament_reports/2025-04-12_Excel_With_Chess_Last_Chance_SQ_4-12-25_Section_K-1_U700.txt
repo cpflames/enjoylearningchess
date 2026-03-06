@@ -1,0 +1,27 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Sairam, Advaith        RBRBK01Q   640   649/158  W19 W14 W4  L3  W9  4.0
+  2 Chiang, Austin         CNHBH59V   670   669/ 27  W23 L4  W13 W6  W3  4.0
+  3 Manjunatha, Neeraj RaghSTVBH24D   592   642/ 10  W18 W15 W12 W1  L2  4.0
+  4 Mannem, Vayu           RKWBG92J   290   427/ 13  W26 W2  L1  W10 W13 4.0
+  5 Goyal, Avyukt          CNHBJ65X   654   639/135  L12 W16 W17 W8  W7  4.0
+  6 Rajeswaran, Mithran    BENBH35R   290   409/ 24  W24 D13 W7  L2  W15 3.5
+  7 Chanda, Rishabh        BCAAH72X   376   427/ 39  W17 W10 L6  W12 L5  3.0
+  8 Tian, Elizabeth        ENDAG44J   100   352/  5  L16 W19 W11 L5  W18 3.0
+  9 Karaca, Aslan          LKDAH50Z   504   479/ 65  W21 L12 W22 W14 L1  3.0
+ 10 Luo, Lucas             CAVBG44H   100   343/  5  W25 L7  W15 L4  W16 3.0
+ 11 Jain, Piasha           CMCBH78M   195   225/ 24  L13 W24 L8  W21 W20 3.0
+ 12 Tang, Jaime            SHSBG44F   100   488/  5  W5  W9  L3  L7  D14 2.5
+ 13 Tian, Isabella         ENDAG44E   100   376/  5  W11 D6  L2  W16 L4  2.5
+ 14 Rogov, Audrey          MEDBJ66D   272   301/ 84  W22 L1  W21 L9  D12 2.5
+ 15 Jacob, Noah            BNTBH23U   216   224/ 15  W20 L3  L10 W17 L6  2.0
+ 16 King, Donte            OBKAG56W   160   193/ 15  W8  L5  W25 L13 L10 2.0
+ 17 Bansal, Aarit          RSAAG43Z   100   222/  5  L7  W18 L5  L15 W23 2.0
+ 18 Popali, Keyansh        BENBH51B   182   185/ 10  L3  L17 W26 W22 L8  2.0
+ 19 Lee, Seunghan          CGRBG43Y   100   160/  5  L1  L8  L20 W25 W24 2.0
+ 20 Panaich, Nihal         WMEBG43W   100   100/  5  L15 L21 W19 W23 L11 2.0
+ 21 Xie, Ethan             CLHAG43V   100   100/  5  L9  W20 L14 L11 D25 1.5
+ 22 Iyer, Asha             BNTBG43U   100   100/  5  L14 W23 L9  L18 D26 1.5
+ 23 Aktas, Ela             PHAAG55D   100   100/ 10  L2  L22 W24 L20 L17 1.0
+ 24 Volkov, Luka           NLMBG43T   100   100/  5  L6  L11 L23 W26 L19 1.0
+ 25 Chen, Noan             AGBBG55C   100   100/  9  L10 D26 L16 L19 D21 1.0
+ 26 Todi, Vihaan           CAVAG43S   100   100/  5  L4  D25 L18 L24 D22 1.0

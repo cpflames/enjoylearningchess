@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Madhavapeddi, Sumith   TMMGG21U   600  1064/  4  W18 W4  W8  W3  4.0
+  2 Pulla, Arohan          AUDDG51U   192   484/ 34  W5  W19 W9  W8  4.0
+  3 Madhavapeddi, Sriyansh XXXEG21T   400   836/  4  W11 W10 W6  L1  3.0
+  4 Porter, Hunter         MEDAG21S   100   662/  4  W12 L1  W13 W9  3.0
+  5 Tallapaneni, Thanvish  SWSCG21R   200   506/  4  L2  W17 W11 W12 3.0
+  6 Mohammed, Ameen        MTAGG21Q   600   583/  4  W16 W7  L3  W17 3.0
+  7 Sinha, Ethan           CDWDG21N   300   575/  4  W13 L6  W15 W10 3.0
+  8 Etienne, Yann          CDVBG21M   100   363/  4  W22 W14 L1  L2  2.0
+  9 Mccaffrey, John Hunter CDVDG21L   300   309/  4  W21 W20 L2  L4  2.0
+ 10 Porter, Dexter         MEDAG21K   100   341/  4  W19 L3  W20 L7  2.0
+ 11 Snyder, Mugen          MRJFG21J   500   324/  4  L3  W21 L5  W18 2.0
+ 12 Gokulakrishnan, Sritej XXXAG21G   100   290/  4  L4  W22 W14 L5  2.0
+ 13 Mount, Hugh            XXXGG21E   600   227/  4  L7  W16 L4  D14 1.5
+ 14 Nguyen, Ethan          XXXCG21D   200   133/  4  W17 L8  L12 D13 1.5
+ 15 Ancheta, Teilani       XXXEG21C   400   120/  4  L20 W18 L7  D16 1.5
+ 16 Colin, Dante           PTKCG21A   200   200/  4  L6  L13 W22 D15 1.5
+ 17 Karthik, Haswin        MOBDG24M   100   100/  9  L14 L5  W21 L6  1.0
+ 18 Colin, Marcus          PTKEG20Z   400   100/  4  L1  L15 W19 L11 1.0
+ 19 Prasad, Rhea           MOBAJ92U   113   100/ 61  L10 L2  L18 W20 1.0
+ 20 Snyder, Jin            XXXEG20Y   400   100/  4  W15 L9  L10 L19 1.0
+ 21 Udawatta, Ranuga       RIDEG20X   400   100/  4  L9  L11 L17 W22 1.0
+ 22 Mount, Gordon          TAHDG20W   300   100/  4  L8  L12 L16 L21 0.0

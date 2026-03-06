@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nerella, Abhiram       INTJI18R  1386  1413/ 53  W3  W4  D2  2.5
+  2 Gagnier, Ian           HSCGC72H  1548  1548/239  W4  W3  D1  2.5
+  3 Zhen Rampenthal, Quinn SASIH53C  1179  1183/ 73  L1  L2  W4  1.0
+  4 Campos, Mateo          WELFH11K  1140  1104/ 34  L2  L1  L3  0.0

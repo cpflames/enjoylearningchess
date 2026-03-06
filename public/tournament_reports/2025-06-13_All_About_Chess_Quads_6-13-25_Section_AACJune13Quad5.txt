@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Charles, Benjamin      SOMBJ06G   752   788/138  W4  W3  L2  2.0
+  2 Sarangi, Samarth       CBREH69F   717   774/145  L3  W4  W1  2.0
+  3 Chai, Chloe            NCSEJ59R   769   740/158  W2  L1  L4  1.0
+  4 Balaji, Pranav         INGHJ96J   795   758/ 76  L1  L2  W3  1.0

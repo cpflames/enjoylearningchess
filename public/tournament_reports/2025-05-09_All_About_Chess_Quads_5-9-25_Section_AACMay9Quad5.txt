@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Balaji, Pranav         INGHJ96J   598   795/ 67  W2  W4  W3  3.0
+  2 Huang, Jaden           ENDDJ63S   770   776/218  L1  W3  W4  2.0
+  3 Reddy, Aariv           GRRCK34T   577   584/ 71  W4  L2  L1  1.0
+  4 Sarangi, Samarth       CBREH69F   730   635/136  L3  L1  L2  0.0

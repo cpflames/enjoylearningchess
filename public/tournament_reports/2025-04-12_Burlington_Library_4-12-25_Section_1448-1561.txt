@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Owen            SHMJ995H  1448  1570/350  W2  W3  W4  3.0
+  2 Hildenbrand, Blane     STNJ122V  1543  1559/403  L1  W4  W3  2.0
+  3 Mcgee, Connor          MRDJH30Z  1561  1536/ 20  W4  L1  L2  1.0
+  4 Nipges, Jaxon          FERL382B  1509  1456/150  L3  L2  L1  0.0

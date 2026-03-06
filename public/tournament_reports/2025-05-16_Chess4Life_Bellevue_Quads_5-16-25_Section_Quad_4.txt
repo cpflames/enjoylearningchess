@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, Albert           LKWD728A   771   909/ 43  W4  W2  W3  3.0
+  2 Zhao, Jerry            EVGAH97K   726   716/ 63  W3  L1  L4  1.0
+  3 Tripathi, Naksh        BRHDJ98P   814   778/108  L2  W4  L1  1.0
+  4 Margetan, Alston       MTWDW85Y   766   744/ 47  L1  L3  W2  1.0

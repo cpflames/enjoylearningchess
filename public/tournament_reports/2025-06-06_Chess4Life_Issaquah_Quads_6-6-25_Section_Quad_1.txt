@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhen Rampenthal, Quinn SASIH53C  1183  1227/ 76  W3  W4  W2  3.0
+  2 Yang, Michael          SOMGK00G  1099  1083/104  D4  W3  L1  1.5
+  3 Kennerud, Caedmon      LGHGH61R   849   869/ 30  L1  L2  W4  1.0
+  4 George, Ameya          EBSFK88Y  1003   960/149  D2  L1  L3  0.5

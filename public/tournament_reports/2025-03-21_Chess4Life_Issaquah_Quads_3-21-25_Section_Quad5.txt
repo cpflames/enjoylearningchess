@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Shen, Nolan            CDIEJ28A   369   405/ 29  W4  L2  W3  2.0
+  2 Lin, Shelley           DISDH72Q   326   383/ 21  D5  W1  D4  2.0
+  3 Revuru, Nimeesha       RCMFW81Y   314   320/ 35  BYE W5  L1  2.0
+  4 Bansal, Aarav          HSCCH28J   410   369/ 18  L1  BYE D2  1.5
+  5 Abdukarimov, Samin     BENAH67S   323   291/ 79  D2  L3  BYE 1.5

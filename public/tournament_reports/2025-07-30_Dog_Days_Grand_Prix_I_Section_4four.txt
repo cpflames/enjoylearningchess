@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hardin, Noah           LYAEH68E   405   533/ 32  W5  W4  W2  3.0
+  2 Bannister, Altair      EAGDK36Y   574   574/ 81  W6  W3  L1  2.0
+  3 Kaur, Prabhkirat       IREFE41C   589   565/ 64  W4  L2  W5  2.0
+  4 Triano, Crystal        SKYCG72H   207   217/ 22  L3  L1  W6  1.0
+  5 Fine-gucker, Audrey    EAGCG71W   100   100/ 28  L1  D6  L3  0.5
+  6 Arevalo, Aryanne       CEEDG72K   174   126/ 22  L2  D5  L4  0.5

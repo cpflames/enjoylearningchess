@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jang, Jinwon           VIEH561P  1031  1056/149  W4  W3  D2  2.5
+  2 Karnik, Rohan          WAVJG59F   917   998/ 21  W3  W4  D1  2.5
+  3 Heydarova, Aliya       BLWFH95D   894   878/ 56  L2  L1  W4  1.0
+  4 Nishino, Anne          BCADH74F   857   797/154  L1  L2  L3  0.0

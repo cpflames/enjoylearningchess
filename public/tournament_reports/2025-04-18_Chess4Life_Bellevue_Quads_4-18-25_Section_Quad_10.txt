@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Singh, Anitej          OMSIH76J   449   495/ 28  W2  W4  L3  2.0
+  2 Huang, Damon           CHRCG71K   463   500/ 14  L1  W3  W4  2.0
+  3 Abdukarimov, Samin     BENAH67S   476   474/ 93  D4  L2  W1  1.5
+  4 Zhang, Claire          MEDEJ43M   466   405/ 13  D3  L1  L2  0.5

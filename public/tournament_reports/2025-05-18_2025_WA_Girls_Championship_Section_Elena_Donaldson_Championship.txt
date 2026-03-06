@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bayrambeyli, Emel      LCOKH50T  1836  1852/ 15  W7  D2  W12 W3  W4  4.5
+  2 Shankaranand, Deeksha  EBSGI74Y  1607  1632/344  W5  D1  HPB W9  D3  3.5
+  3 Cheng, Selina          TLMH413R  1677  1680/609  W9  W12 D4  L1  D2  3.0
+  4 Zhang, Iris            REDK858X  1579  1579/412  W11 D7  D3  W5  L1  3.0
+  5 Rachiba, Alisa         EVPEK08E  1210  1288/236  L2  W8  W11 L4  W7  3.0
+  6 Tulsukchuentanat, ProudWOBGH63C   820   920/ 26  U   HPB HPB W8  W11 3.0
+  7 Patel, Aarya           REJGK30E  1482  1459/235  L1  D4  HPB W10 L5  2.0
+  8 Byelashova, Darya      SGHEK51X  1222  1190/211  L12 L5  BYE L6  W9  2.0
+  9 Li, Anyi               LKDDJ55F  1326  1301/163  L3  W11 W10 L2  L8  2.0
+ 10 Khudyev, Elina         EPICJ97Q  1174  1148/ 94  HPB HPB L9  L7  BYE 2.0
+ 11 Byelashova, Sofia      SGHCK01K   992   945/183  L4  L9  L5  BYE L6  1.0
+ 12 Wu, Shanna             CNHEJ72M  1670  1645/ 83  W8  L3  L1  U   U   1.0

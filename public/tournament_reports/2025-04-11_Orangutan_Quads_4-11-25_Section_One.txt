@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ta, Jaxson             KSTDJ54Z   689   763/ 56  W4  W3  W2  3.0
+  2 Ben Simon, Golan       SJCDJ48B   636   617/ 55  D3  W4  L1  1.5
+  3 Tentor, Jalil          BFDFK39U   480   507/ 19  D2  L1  W4  1.5
+  4 Yee, Miles             WWDBG79S   464   395/ 10  L1  L2  L3  0.0

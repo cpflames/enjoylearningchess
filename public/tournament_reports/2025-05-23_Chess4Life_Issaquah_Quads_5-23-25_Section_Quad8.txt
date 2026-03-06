@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xie, Nolan             CGRCH82P   335   475/ 29  W2  W3  W4  3.0
+  2 Fang, Kayla            ENADH14P   331   358/ 18  L1  W4  W3  2.0
+  3 Li, Ethan Y            CMCBH68J   274   254/ 26  W4  L1  L2  1.0
+  4 Song, Noah             GRRAG33F   344   161/  6  L3  L2  L1  0.0

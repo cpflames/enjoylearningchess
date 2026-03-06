@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sepehri, Arman         BISIG51T   800  1334/  3  W3  W4  W2  3.0
+  2 Guruprasad, Saketh     WELFE50W   931   944/ 47  W4  W3  L1  2.0
+  3 Chiang, Austin         CNHBH59V   618   643/ 21  L1  L2  W4  1.0
+  4 Goyal, Avyukt          CNHBJ65X   706   654/130  L2  L1  L3  0.0

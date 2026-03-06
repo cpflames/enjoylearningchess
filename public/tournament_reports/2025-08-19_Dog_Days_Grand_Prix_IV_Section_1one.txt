@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Scollon, Owen          SHMJ734D  1726  1754/587  W3  W2  W4  3.0
+  2 Zhang, Owen            SHMJ995H  1666  1653/385  W4  L1  D3  1.5
+  3 Stroud, Jeb            SHMJK22V  1636  1628/236  L1  W4  D2  1.5
+  4 Fredette, Blaise       BECGH95C  1247  1235/ 92  L2  L3  L1  0.0

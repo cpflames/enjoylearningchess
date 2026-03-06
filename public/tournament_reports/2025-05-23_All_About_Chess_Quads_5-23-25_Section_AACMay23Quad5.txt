@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Paidapathi, Kiaan      SHSCJ99C   466   483/213  W4  L2  W3  2.0
+  2 Chang, Nathan          MMEDK42T   404   453/126  D3  W1  D4  2.0
+  3 Zhang, Chuxuan         GRRGK02N   425   394/ 24  D2  D4  L1  1.0
+  4 Gu, Ximu               ENDBJ05X   398   377/ 79  L1  D3  D2  1.0

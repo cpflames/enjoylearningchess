@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mccarthy, Eugene       CDLEG73B   671   674/ 19  W2  W3  L4  2.0
+  2 Clark, Finn            JFRFJ99M   538   600/ 43  L1  W4  W3  2.0
+  3 Zheng, Jayden          JFRFG72Y   460   471/ 18  W4  L1  L2  1.0
+  4 Aguila-contreras, EdgarHORIJ65J   654   604/113  L3  L2  W1  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Naik, Shreyas          ETAFJ98X   826   841/111  W4  W3  L2  2.0
+  2 Campos, Mateo          WELFH11K   819   836/ 20  L3  W4  W1  2.0
+  3 Talukdar, Yuvaan       RBRBH76K   765   744/ 84  W2  L1  L4  1.0
+  4 Gokul, Shravan         EVJHJ89U   734   722/ 59  L1  L2  W3  1.0

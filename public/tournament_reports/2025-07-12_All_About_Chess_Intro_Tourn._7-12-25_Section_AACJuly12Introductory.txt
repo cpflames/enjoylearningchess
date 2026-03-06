@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Reddy, Aariv           GRRCK34T   699   682/100  W5  W2  L3  W4  3.0
+  2 Treves, Simon          NOWEK28A   383   478/ 25  W7  L1  W6  W3  3.0
+  3 Gu, Ximu               ENDBJ05X   426   523/ 99  W8  W4  W1  L2  3.0
+  4 Hsieh, Cheryl          ICKGJ82X   432   427/ 24  W6  L3  W5  L1  2.0
+  5 Rajan, Yash            CDIDH58J   257   271/ 24  L1  W7  L4  W8  2.0
+  6 Rajan, Aadhi           CDIAG32V   177   211/ 11  L4  W8  L2  W7  2.0
+  7 Li, Yongwei            BLWDG26R   300   100/  4  L2  L5  W8  L6  1.0
+  8 Treves, Sarah          NOWCG27Z   100   100/  7  L3  L6  L7  L5  0.0

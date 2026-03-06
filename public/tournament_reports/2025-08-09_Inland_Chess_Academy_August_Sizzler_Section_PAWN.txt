@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Modha, Reyansh         LBYFH68R   346   686/ 18  W10 W4  W2  W3  W5  5.0
+  2 Wendler, Fallyn        NSVDH40Q   513   563/ 48  W11 W6  L1  W9  W4  4.0
+  3 Bray, Grant            HDPBG38N   387   506/ 17  W8  W12 W5  L1  W9  4.0
+  4 Richards, Benjamin     NSVDH49S   469   455/ 40  W13 L1  W11 W7  L2  3.0
+  5 Phelps, Scott          SGSDH40T   555   523/ 29  WF  W9  L3  W6  L1  3.0
+  6 Jeary, Cassidy         MMCGH02H   240   298/  9  W14 L2  W13 L5  W10 3.0
+  7 Lashley, Aunah         NSVDH49P   129   145/ 41  L12 BYE W14 L4  W15 3.0
+  8 Alvarez, Luis          MAECG24G   200   182/  5  L3  L14 D15 W12 W13 2.5
+  9 Modrell, Myles         LBYDG26D   349   308/ 10  W15 L5  W12 L2  L3  2.0
+ 10 Jessen, Carl           WNDCG24F   200   100/  4  L1  L13 BYE W11 L6  2.0
+ 11 Dickson, Huxley        HUTEG24D   400   174/  5  L2  W15 L4  L10 W14 2.0
+ 12 Dickson, Quentin       LBYGG24C   600   100/  4  W7  L3  L9  L8  BYE 2.0
+ 13 Crawford, Zoey         FREDG24B   300   100/  5  L4  W10 L6  D14 L8  1.5
+ 14 Crawford, Noah         FREBG24A   100   100/  5  L6  W8  L7  D13 L11 1.5
+ 15 Mallett, Audry         FEPFG23X   500   100/  4  L9  L11 D8  BYE L7  1.5

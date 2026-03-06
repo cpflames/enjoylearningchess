@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Deng, Lucas            DISDH87X   985  1027/ 90  W4  W2  L3  2.0
+  2 Zhang, Eric Q          SOMDK64M  1050  1066/114  W3  L1  W4  2.0
+  3 Mohammed, Farhan       CRKEH14M   969  1020/ 82  L2  W4  W1  2.0
+  4 Swain, Samarth         MMECJ58S  1048   965/319  L1  L3  L2  0.0

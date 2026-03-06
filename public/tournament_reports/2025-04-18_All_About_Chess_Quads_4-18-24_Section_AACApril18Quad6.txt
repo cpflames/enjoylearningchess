@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Ethan James        SOMCK00K   725   844/173  W3  W4  W2  3.0
+  2 Balaji, Pranav         INGHJ96J   702   701/ 59  W4  D3  L1  1.5
+  3 Mirchandani, Kiaan     MEDEK92Z   649   665/119  L1  D2  W4  1.5
+  4 Sathyamurthy, Shreyus  BLWCJ60Z   674   595/148  L2  L1  L3  0.0

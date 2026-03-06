@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ferris, Sam            LLLAG54F   191   356/ 10  W4  W2  W3  3.0
+  2 Hardin, Noah           LYAEH68E   452   450/ 38  W3  L1  W4  2.0
+  3 Arevalo, Aryanne       CEEDG72K   162   194/ 28  L2  W4  L1  1.0
+  4 Louws, Micah           CUECJ16B   553   401/ 70  L1  L3  L2  0.0

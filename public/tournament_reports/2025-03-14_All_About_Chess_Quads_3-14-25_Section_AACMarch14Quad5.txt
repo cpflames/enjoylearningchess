@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Woo, Nina              NCSFJ06R   774   903/ 24  W2  W4  W3  3.0
+  2 Mallapragada, Mihir    CBRF254M   725   780/ 38  L1  W3  W4  2.0
+  3 Li, Ethan James        SOMCK00K   768   741/139  W4  L2  L1  1.0
+  4 Huang, Jaden           ENDDJ63S   748   671/190  L3  L1  L2  0.0

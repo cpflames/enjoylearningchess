@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hildenbrand, Jace      TCEG722T  1129  1173/153  W7  D2  W3  2.5
+  2 Ferris, Ari            BFMFG98H   979  1068/ 43  W9  D1  W6  2.5
+  3 Orsino, Thomas         WHMIH40B  1118  1142/ 62  W8  W4  L1  2.0
+  4 Fredette, Blaise       BECGH95C  1261  1247/ 89  W5  L3  W8  2.0
+  5 Bhatta, Nihal          CIAFK82Z  1008  1047/ 63  L4  W7  W9  2.0
+  6 Le, Braden             FACFK23D   892   881/ 36  BYE D9  L2  1.5
+  7 Ravitsky, Koby         WHMIG73J   992   952/ 23  L1  L5  BYE 1.0
+  8 Mcneil, Mason          VSTHJ49Y   931   908/ 71  L3  BYE L4  1.0
+  9 Qureshi, Danish        BLNHF36V  1011   956/223  L2  D6  L5  0.5

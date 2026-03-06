@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ferris, Ari            BFMFG98H   639   692/ 28  W6  W6  W2  3.0
+  2 Mccarthy, Eugene       CDLEG73B   674   681/ 22  W4  W3  L1  2.0
+  3 Fisk, Oliver           FACFK82T   645   627/ 33  W5  L2  W4  2.0
+  4 Orlowski, Benjamin     JFRFG72S   142   200/ 12  L2  W5  L3  1.0
+  5 Born, Kamren           BURJG27J   900   167/  3  L3  L4  W6  1.0
+  6 Born, Xzavier          LUUHG27H   700   100/  3  L1  L1  L5  0.0

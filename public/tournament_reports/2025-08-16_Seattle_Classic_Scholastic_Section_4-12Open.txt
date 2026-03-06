@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Shi, Gavin             LCOKH855  1790  1803/499  W9  W5  W2  W4  4.0
+  2 Kang, Danny            NPRKH30U  1558  1565/ 94  W7  W8  L1  W9  3.0
+  3 Hughes, Weston         MTSJI26V  1388  1399/ 93  W12 D6  D4  W8  3.0
+  4 Zhang, Kevin           WOBG809Y  1404  1406/196  W11 W14 D3  L1  2.5
+  5 Wadhwani, Ren          ORAEK13K  1347  1353/ 96  W13 L1  W6  D7  2.5
+  6 Tsay, Elon             LKDEK07B  1193  1214/174  W10 D3  L5  W11 2.5
+  7 Anbuselvam, Mithran    HEAGH61F  1108  1159/223  L2  W16 W17 D5  2.5
+  8 Lee, Justin            KINI732V  1270  1265/142  W16 L2  W14 L3  2.0
+  9 Grandhi, Dhruv         INTJC63M  1188  1207/ 81  L1  W17 W10 L2  2.0
+ 10 Ferris, Ari            BFMFG98H  1075  1086/ 56  L6  W12 L9  W16 2.0
+ 11 Li, Rebecca            SCDDJ62B   827   854/156  L4  BYE W15 L6  2.0
+ 12 Chadha, Saahan         ENDEK64R  1081  1067/ 78  L3  L10 W13 D14 1.5
+ 13 Alagumalai, Gautham    TMBIF64S  1066  1018/204  L5  D15 L12 BYE 1.5
+ 14 Gui, Joyce             OPWCH92C  1045  1044/165  W15 L4  L8  D12 1.5
+ 15 Memon, Emad            XXXFG20V   500   855/  4  L14 D13 L11 W17 1.5
+ 16 Mukherjee, Anjalika    UPAHJ94B  1037   986/ 65  L8  L7  BYE L10 1.0
+ 17 Ma, Caroline           BCSCK93V   990   928/105  BYE L9  L7  L15 1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mohammed, Farhan       CRKEH14M   733   743/ 32  W4  L2  W3  2.0
+  2 Kesher, Zavi           BENEH62L   645   693/ 38  L3  W1  W4  2.0
+  3 Zhang, David           SOMCK41P   678   648/143  W2  L4  L1  1.0
+  4 Namburi, Shriniketh    TMBIJ20A   630   616/ 26  L1  W3  L2  1.0

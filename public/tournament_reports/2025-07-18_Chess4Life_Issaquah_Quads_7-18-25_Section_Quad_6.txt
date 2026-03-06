@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wu, Wynston            MEDCJ86Y   278   316/ 21  W3  L2  W4  2.0
+  2 Fang, Roger            ENABH14K   303   328/ 20  D4  W1  D3  2.0
+  3 Zhang, Dylan           CGRAG32C   290   287/ 16  L1  W4  D2  1.5
+  4 Madadi, Hannah         CGRCH65Y   246   193/ 41  D2  L3  L1  0.5

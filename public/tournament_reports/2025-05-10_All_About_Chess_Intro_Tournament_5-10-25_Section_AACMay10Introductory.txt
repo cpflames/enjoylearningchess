@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Zhao, Emma             BASDK28L   723   806/ 58  W19 W6  W3  W2  4.0
+  2 Ip, Egan               SOMCK41L   692   692/ 56  W9  W8  W7  L1  3.0
+  3 Zhang, David           SOMCK41P   645   660/160  W22 W11 L1  W4  3.0
+  4 Reddy, Aariv           GRRCK34T   584   593/ 75  W20 W15 W5  L3  3.0
+  5 Ip, Evan               SOMFI14G   507   512/ 42  W18 W17 L4  W10 3.0
+  6 Treves, Simon          NOWEK28A   303   337/ 17  W16 L1  W18 D7  2.5
+  7 Zhu, Milly             SOMDG50D   276   337/  9  W13 W19 L2  D6  2.5
+  8 Gu, Ximu               ENDBJ05X   412   412/ 74  W23 L2  D9  W15 2.5
+  9 Rajan, Yash            CDIDH58J   100   257/ 20  L2  W23 D8  W16 2.5
+ 10 Joshi, Aahan           SNECG33A   200   359/  4  L21 W12 W11 L5  2.0
+ 11 Chai, Aaron            SSMCH58L   156   205/ 11  W14 L3  L10 W17 2.0
+ 12 Rastogi, Ishan         GRREG32Z   400   187/  4  L15 L10 W20 W19 2.0
+ 13 Chidura, Arjun         EACAG32Y   100   159/  4  L7  D22 D17 W18 2.0
+ 14 Williams, Joey         SNECG32X   200   127/  4  L11 L18 W23 W22 2.0
+ 15 Chang, Florence        BLWDG67K   187   203/  8  W12 L4  D16 L8  1.5
+ 16 Chen, Luna             RSABG32W   100   122/  4  L6  W20 D15 L9  1.5
+ 17 Kulal, Om              RSAAG65J   100   100/ 20  BYE L5  D13 L11 1.5
+ 18 Rajan, Aadhi           CDIAG32V   100   100/  4  L5  W14 L6  L13 1.0
+ 19 Haycraft, Ethan        IFSCG36K   100   100/ 12  L1  L7  W22 L12 1.0
+ 20 Gondipalli, Vidhura    EACBG42K   100   100/  8  L4  L16 L12 W23 1.0
+ 21 Mamilla, Bhavishya     EVGIH88N   508   531/ 10  W10 U   U   U   1.0
+ 22 Sembium, Adithi        RCKBW768   100   100/  4  L3  D13 L19 L14 0.5
+ 23 Chaudhary, Virat       ENDBG32U   100   100/  4  L8  L9  L14 L20 0.0

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Louws, Micah           CUECJ16B   401   583/ 73  W5  W6  W2  3.0
+  2 Hardin, Noah           LYAEH68E   450   569/ 41  W4  W3  L1  2.0
+  3 Triano, Tony           SKYFJ17K   516   535/ 68  W6  L2  W4  2.0
+  4 Buckham, George        SKYEK37E   717   640/123  L2  W5  L3  1.0
+  5 Ravitsky, Avigail      FACFH95B   578   523/ 40  L1  L4  W6  1.0
+  6 Shenouda, Olivia       VSTGG22X   600   117/  3  L3  L1  L5  0.0

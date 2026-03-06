@@ -1,0 +1,27 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Astafiev, Vitaly       MRPEH52U   754   855/ 30  W13 W10 D6  W5  W2  4.5
+  2 Krzeszowski, Anthony   CPBGI41R   658   790/ 53  W19 W8  W7  W3  L1  4.0
+  3 Lillie, Kingston       HCCFH78C   677   754/ 18  W17 W16 W4  L2  W9  4.0
+  4 Jariwala, Vidur        THOEK87P   772   784/ 84  W9  W21 L3  W6  D7  3.5
+  5 Takala, Greysen        WHIGE55T   625   643/113  D15 W22 W10 L1  W14 3.5
+  6 Srebrnik, Mika         SJCFJ48R   672   704/ 35  W23 W14 D1  L4  W13 3.5
+  7 Paley, Harold          IMSGH70Q   725   734/ 17  WF  W18 L2  W8  D4  3.5
+  8 Armstrong, Benjamin    EVGEK54R   503   575/ 78  W12 L2  W20 L7  W21 3.0
+  9 Soules, Matt           EPIFG70H   470   542/ 10  L4  W24 W11 W16 L3  3.0
+ 10 Gowda, Aarav           THOFK87E   596   590/ 44  W25 L1  L5  W15 W17 3.0
+ 11 Wyker, Sean            CSIFG47Z   500   536/  5  L14 W23 L9  W19 W18 3.0
+ 12 Wyker, Liam            WHIGG47Y   600   445/  5  L8  L20 W26 W23 W16 3.0
+ 13 Hoard, Otis            WHIG690B   468   519/ 56  L1  W15 W18 D14 L6  2.5
+ 14 Fink, Hugh             EPIFG70J   506   533/ 10  W11 L6  W17 D13 L5  2.5
+ 15 Susanto, Mogens        OLWFH52G   350   386/ 12  D5  L13 W22 L10 W23 2.5
+ 16 Newell, Benjamin       THOFK87J   526   471/ 30  W26 L3  W19 L9  L12 2.0
+ 17 Goe-bright, Malachi    THOFJ15K   429   411/ 14  L3  W25 L14 W20 L10 2.0
+ 18 Newell, Jonathan       THOFK87B   581   507/ 30  W24 L7  L13 W25 L11 2.0
+ 19 Turner, Aubrie Lynn    CPRGB07F   374   353/ 36  L2  W26 L16 L11 W24 2.0
+ 20 Turner, Camden         CPRFJ50V   315   326/ 41  L21 W12 L8  L17 W26 2.0
+ 21 Lee, Julianus          CDWEK90C   623   578/ 60  W20 L4  HPB HPB L8  2.0
+ 22 Goe-bright, Orion      THOFH80T   109   100/  9  BYE L5  L15 L24 W25 2.0
+ 23 Lee, Aiden             TBKFJ44G   415   338/ 23  L6  L11 W24 L12 L15 1.0
+ 24 Hunter, Kai            CDNFG47X   500   127/  5  L18 L9  L23 W22 L19 1.0
+ 25 Grein, Kendal          CPRFG62K   133   100/  9  L10 L17 BYE L18 L22 1.0
+ 26 Penny, Clementine      ICAEG47W   400   100/  4  L16 L19 L12 BYE L20 1.0

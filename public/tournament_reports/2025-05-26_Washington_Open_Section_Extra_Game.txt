@@ -1,0 +1,3 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Lagzdin, Mikhail       BCACJ96R  1176  1171/ 85  D2  0.5
+  2 Byelashov, Alex        ADUNH71K  1116  1121/ 21  D1  0.5

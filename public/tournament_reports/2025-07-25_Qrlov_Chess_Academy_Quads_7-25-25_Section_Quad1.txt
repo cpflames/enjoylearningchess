@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Karnik, Rohan          WAVJG59F   894   912/ 37  W6  U3  U2  W5  D4  2.5
+  2 Lin, Annan             THOFC02D   966   956/ 92  L5  W4  U1  W3  U6  2.0
+  3 Mathew, Reuben         MRIAG33B   705   759/ 20  U4  U1  W6  L2  W5  2.0
+  4 Doronin, Victor        BMNH335T   714   723/134  U3  L2  U5  W6  D1  1.5
+  5 Yao, Roger Yutang      THOCK88C   942   899/126  W2  U6  U4  L1  L3  1.0
+  6 Sijin, Ryan            BENCG24X   200   320/  3  L1  U5  L3  L4  U2  0.0

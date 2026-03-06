@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Hernandez, Marcelo     CWHMK986  1096  1239/206  W18 W2  W7  W4  W8  5.0
+  2 Cabasug, Gabriel       HHSKE46S   973  1105/ 39  W10 L1  W5  W6  W4  4.0
+  3 Holzgrove, Judah       SLNMG71F   572   793/  9  L17 BYE W9  W5  W7  4.0
+  4 Stiepleman, Jacob      BAIL693F  1084  1090/ 21  W6  W12 W8  L1  L2  3.0
+  5 Paw Myint, John Sein   CWHKJ81W   991   968/ 44  W11 W9  L2  L3  W14 3.0
+  6 Gomez, Albert          CWHMJ40R   919   942/ 34  L4  W11 W10 L2  W13 3.0
+  7 Mavila, Madhav         JACJ230L  1033  1014/ 73  W14 W17 L1  W12 L3  3.0
+  8 Vinothkumar, Krithik   APOJ759X  1036  1019/ 52  W19 W15 L4  W13 L1  3.0
+  9 Sahdev, Shaurya        NRCJH45P   751   778/ 14  W13 L5  L3  W16 W15 3.0
+ 10 Hertelendy, Chris      LIBJ832Z   677   812/ 76  L2  W18 L6  W17 W12 3.0
+ 11 Hamsher, Jack          GPSLA99G   694   761/ 22  L5  L6  W19 W15 W17 3.0
+ 12 Coates, Ethan          SODJ820M   944   895/ 75  W16 L4  W14 L7  L10 2.0
+ 13 Davis, Bear            SQUJG33Z   900   737/  5  L9  W19 W17 L8  L6  2.0
+ 14 Medrano, Axel          CWHKB48G   714   720/ 68  L7  W16 L12 W18 L5  2.0
+ 15 Lara, Aliya            CWHKE20N   549   556/ 73  BYE L8  W18 L11 L9  2.0
+ 16 Wampole, Caleb         CWHK133K   653   625/118  L12 L14 BYE L9  W19 2.0
+ 17 Perez Birrueta, Rafael CWHKK60W   875   788/ 88  W3  L7  L13 L10 L11 1.0
+ 18 Morris, Tyson          GVHJK68Q   729   636/ 69  L1  L10 L15 L14 BYE 1.0
+ 19 Arias Padilla, Alondra RICLK68G   717   626/ 57  L8  L13 L11 BYE L16 1.0

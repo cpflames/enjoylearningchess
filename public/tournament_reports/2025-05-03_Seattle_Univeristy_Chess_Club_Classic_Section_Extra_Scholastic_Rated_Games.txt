@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Inforzato, Andrew      HABIH09C  1488  1491/ 24  W6  W4  2.0
+  2 Medawar, Josiah        KINGG33P   795   920/  5  W5  W7  2.0
+  3 Ye, Alex               ENDFH51L  1199  1211/273  W7  W6  2.0
+  4 Meenakshi Sundaram, PavCDWCJ99Z   850   848/ 41  BYE L1  1.0
+  5 Zeng, Liam             SHSAH05U   810   786/ 46  L2  BYE 1.0
+  6 Chen, Alex             ENDDK03T   969   954/ 68  L1  L3  0.0
+  7 Anand, Krishna         RSABJ95V   666   651/ 59  L3  L2  0.0

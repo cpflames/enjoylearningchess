@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chenchu Arun, Krish    SSMFJ74U   840  1003/ 64  W4  W6  W8  W2  W9  5.0
+  2 Ni, Nicole             JINEJ03A   739   864/ 34  W11 W3  W9  L1  W8  4.0
+  3 Pai, Samiksha          SSMEJ19X   825   846/108  W13 L2  W10 W8  W4  4.0
+  4 Malhotra, Sartaj       KNDGK69K   720   717/ 99  L1  W12 W13 W5  L3  3.0
+  5 Vig, Yuvraj            MEDFJ43Y   383   563/ 15  W9  L8  W6  L4  W12 3.0
+  6 Kolter, Aidan          SNIFJ60J   744   706/ 32  W12 L1  L5  W13 W11 3.0
+  7 Pasyavula, Vithun      SOMEJ59C   454   402/ 27  HPB L9  L12 BYE W13 2.5
+  8 Kukreja, Aarav         TYEG433H   827   780/ 83  W10 W5  L1  L3  L2  2.0
+  9 Aker, Pepper           WMSG181G   746   694/125  L5  W7  L2  W10 L1  2.0
+ 10 Lu, Clemence           JINEK84Y   411   409/ 42  L8  W11 L3  L9  BYE 2.0
+ 11 Gupta, Dhruva          CMCEH24Z   310   305/ 19  L2  L10 BYE W12 L6  2.0
+ 12 Yu, Aiden              JINEG61L   400   298/  5  L6  L4  W7  L11 L5  1.0
+ 13 Kwan-uchiyama, Amelia  JINFF71R   286   250/ 28  L3  BYE L4  L6  L7  1.0

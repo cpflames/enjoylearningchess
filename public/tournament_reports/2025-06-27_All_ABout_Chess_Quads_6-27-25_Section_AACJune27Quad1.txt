@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ge, Jeremy             SOMCJ88K  1280  1383/338  W4  W3  W2  3.0
+  2 Dharamshi, Anay        CBRDK42U  1341  1329/233  D3  W4  L1  1.5
+  3 Bikkula, Charan        BLMIJ23A  1234  1248/267  D2  L1  W4  1.5
+  4 Li, Harry              SPTFG30G  1256  1197/527  L1  L2  L3  0.0

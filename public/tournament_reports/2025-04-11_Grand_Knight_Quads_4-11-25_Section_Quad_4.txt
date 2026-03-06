@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hu, Maxwell            BCABK03N   680   738/ 63  W4  W2  W3  3.0
+  2 Mehta, Anaisha         MEDDG91G   444   438/ 27  W3  L1  L4  1.0
+  3 Niu, Edwin             SOMBH73D   615   560/ 62  L2  W4  L1  1.0
+  4 Ko, William            LAVAG55M   359   385/ 10  L1  L3  W2  1.0

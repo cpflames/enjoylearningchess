@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Serena, Gabriele       SBMEG64Y   310   359/ 22  U   W3  W2  2.0
+  2 Lai, Brycen            CLHEK02D   233   232/ 67  W3  U   L1  1.0
+  3 Anand, Reyansh         LMACG25F   200   100/  2  L2  L1  U   0.0

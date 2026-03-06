@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Damrau, Austin         ELKGK95E  1233  1251/125  W5  W2  W4  W7  D3  4.5
+  2 Brouner, Simon         KLLHH47V   957  1061/ 23  W10 L1  W3  W4  W7  4.0
+  3 Meka, Suhaas           NOVGJ51J   964   987/107  W11 W8  L2  W6  D1  3.5
+  4 Bell, Raimi            OBKHF77Y  1092  1069/ 95  W9  W6  L1  L2  W8  3.0
+  5 Einarson, Aiden        OBKGD84D   772   810/197  L1  W12 L7  W8  W9  3.0
+  6 Barnard, Luke          CXPHG84V   411   616/ 15  W7  L4  W10 L3  W11 3.0
+  7 Haney, Elise           BHNHJ39E   925   856/ 10  L6  W11 W5  L1  L2  2.0
+  8 Lemay, Wilder          BHNGG85K   819   782/ 10  W12 L3  W9  L5  L4  2.0
+  9 Drake, Oliver          PLBGG85H   731   703/ 15  L4  W10 L8  W12 L5  2.0
+ 10 Moser, Alan            BHNHG29N   700   406/  5  L2  L9  L6  L11 W12 1.0
+ 11 Smith, Odin            BHNHG84Y   627   527/ 10  L3  L7  L12 W10 L6  1.0
+ 12 Brostrom, Eira         BHNHJ38R   600   534/ 15  L8  L5  W11 L9  L10 1.0

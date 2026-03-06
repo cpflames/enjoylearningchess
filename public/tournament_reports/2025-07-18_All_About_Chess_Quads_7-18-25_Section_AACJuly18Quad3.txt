@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Charles, Benjamin      SOMBJ06G   808   849/150  W4  W3  L2  2.0
+  2 Sarangi, Samarth       CBREH69F   799   846/154  L3  W4  W1  2.0
+  3 Sarychev, Aleksei      ISSKJ98N   872   833/284  W2  L1  L4  1.0
+  4 Balaji, Pranav         INGHJ96J   829   803/ 88  L1  L2  W3  1.0

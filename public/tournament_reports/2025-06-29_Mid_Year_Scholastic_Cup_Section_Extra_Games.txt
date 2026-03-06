@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Byelashov, Alex        ADUNH71K  1076  1082/ 24  W3  U   1.0
+  2 Ma, Ziliang            DCCHA69N  1336  1351/182  U   W4  1.0
+  3 Zeng, Liam             SHSAH05U   704   696/ 61  L1  U   0.0
+  4 Byelashova, Darya      SGHEK51X  1194  1178/231  U   L2  0.0

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Newton, Jacob          HSCJG26P   900  1250/  3  W5  W2  W3  3.0
+  2 Newton, Ezekiel        HSCGG26N   600   884/  3  W6  L1  W4  2.0
+  3 Prather, Tristan       HSCJG26M   900   808/  3  D4  W5  L1  1.5
+  4 Clark, Finn            JFRFJ99M   600   609/ 46  D3  W6  L2  1.5
+  5 Mccarthy, Eugene       CDLEG73B   681   659/ 25  L1  L3  W6  1.0
+  6 Mccarthy, Evelyn       CDLBG71Z   199   185/ 13  L2  L4  L5  0.0

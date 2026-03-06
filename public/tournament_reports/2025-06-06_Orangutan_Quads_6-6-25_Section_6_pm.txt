@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bartram, Clark         DCTCJ47Q   583   599/ 25  W4  W3  W2  3.0
+  2 Crystal, Jordan        KSTBG57S   141   241/ 13  W3  W4  L1  2.0
+  3 Greenhat, Teddy        KSTBG28N   100   170/  3  L2  L1  W4  1.0
+  4 Ross-fiano, Julien     KSTBG28M   100   100/  3  L1  L2  L3  0.0

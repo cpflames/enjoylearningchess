@@ -1,0 +1,32 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Daniel, Lemuel         MMEDJ29L  1037  1152/ 91  W24 W15 W13 W5  4.0
+  2 Jiang, Yuanyi          MMEDJ58J  1012  1127/ 54  W31 W18 W4  W3  4.0
+  3 Datta, Ishana          KKNDH60X   908  1031/ 43  W19 W9  W6  L2  3.0
+  4 Ma, Caroline           BCSCK93V   798   990/102  W12 W14 L2  W17 3.0
+  5 Dixit, Ved             ENSDH63Q   923  1007/ 43  W28 W7  W21 L1  3.0
+  6 Ruan, Jiyong           SHSDJ19W  1002  1026/ 71  W20 W25 L3  W13 3.0
+  7 Balasubramanian, ChidhuCNCDK94J  1200  1185/ 43  W26 L5  W15 W14 3.0
+  8 Xing, Andrew           CNHDK62E  1050  1047/172  W23 L13 W24 W21 3.0
+  9 Cai, Emily             CNHCH60H  1051  1037/ 81  W22 L3  W26 D10 2.5
+ 10 Chen, Alex             ENDDK03T   980   974/ 74  L16 W20 W19 D9  2.5
+ 11 Zhou, Nathan           SOMDG61K   804   877/ 19  L14 D12 W23 W16 2.5
+ 12 Kayali, Kana           EBSDJ29N   954   960/ 42  L4  D11 W30 W27 2.5
+ 13 Kulkarni, Samik        KKNBH67M   957   968/ 66  W30 W8  L1  L6  2.0
+ 14 Zhang, Ryan            SHVBH60U   967   964/ 55  W11 L4  W25 L7  2.0
+ 15 Yin, Nolan             CCDBH64W   916   924/ 67  W29 L1  L7  W25 2.0
+ 16 Johnson, Lars          HSCDG74D   651   777/ 24  W10 L17 W27 L11 2.0
+ 17 Juneja, Parth          JWEDW80P  1014   973/ 15  L25 W16 W18 L4  2.0
+ 18 Maokhampio, Corina     VOSDW79T   790   841/  9  W27 L2  L17 W26 2.0
+ 19 Bansal, Neev           KKNDH05Z   721   794/ 19  L3  W22 L10 W30 2.0
+ 20 Liu, Louis             CNHCJ75J   806   823/ 99  L6  L10 W28 W24 2.0
+ 21 Tripathi, Naksh        BRHDJ98P   778   753/110  BYE BYE L5  L8  2.0
+ 22 Charuvil Vinu, Suryen  RSHBJ89R   851   834/102  L9  L19 W31 W29 2.0
+ 23 Meenakshi Sundaram, PavCDWCJ99Z   848   818/ 45  L8  D30 L11 W31 1.5
+ 24 Raghavendran, Vedanth  DCSBH24C   854   817/ 27  L1  W29 L8  L20 1.0
+ 25 Zhao, Emma             BASDK28L   806   796/ 62  W17 L6  L14 L15 1.0
+ 26 Nishino, Anne          BCADH74F   797   775/158  L7  W28 L9  L18 1.0
+ 27 Alok, Aditya           JWEDW80H  1014   914/ 15  L18 W31 L16 L12 1.0
+ 28 Sang, Andy             IMBCK65W   735   674/106  L5  L26 L20 BYE 1.0
+ 29 Xu, Louis              MEDAH34T   723   663/ 39  L15 L24 BYE L22 1.0
+ 30 Salvi, Ekansh          SBODW767   843   773/  4  L13 D23 L12 L19 0.5
+ 31 Johnson, Elke          HSCCG73L   738   673/ 24  L2  L27 L22 L23 0.0

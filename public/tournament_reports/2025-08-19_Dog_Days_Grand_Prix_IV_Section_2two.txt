@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ferrell, Luka Lee      JFRFG98L  1129  1172/ 37  D4  W6  W2  2.5
+  2 Ferris, Ari            BFMFG98H  1003  1075/ 52  W3  W5  L1  2.0
+  3 Moors, Samuel          BLHKH93D  1097  1111/125  L2  W4  W5  2.0
+  4 Bhatta, Nihal          CIAFK82Z  1034  1026/ 69  D1  L3  D6  1.0
+  5 Ravitsky, Koby         WHMIG73J  1049  1030/ 29  W6  L2  L3  1.0
+  6 Orsino, Thomas         WHMIH40B  1135  1071/ 68  L5  L1  D4  0.5

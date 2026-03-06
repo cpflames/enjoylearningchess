@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chung, Warren          REJIG48Z  1409  1430/  4  W4  W3  W2  3.0
+  2 Karnik, Rohan          WAVJG59F   850   917/ 18  W3  W4  L1  2.0
+  3 Jang, Jinwon           VIEH561P  1070  1031/146  L2  L1  W4  1.0
+  4 Isami, Daichi          ADUNG33C  1300   554/  3  L1  L2  L3  0.0

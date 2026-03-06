@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhen Rampenthal, Quinn SASIH53C  1143  1179/ 70  W2  BYE W3  3.0
+  2 Chen, Alex             ENDDK03T   954   980/ 70  L1  W3  BYE 2.0
+  3 Mohammed, Farhan       CRKEH14M  1116  1055/ 64  BYE L2  L1  1.0

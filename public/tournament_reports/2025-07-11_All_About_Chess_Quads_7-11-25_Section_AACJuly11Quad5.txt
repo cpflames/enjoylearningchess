@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, Luna             RSABG32W   393   418/ 24  W3  W4  D2  2.5
+  2 Snow, Tor              SNEEK43V   336   389/ 14  W4  W3  D1  2.5
+  3 Tanguturi, Ishitha     ESLFG27E   500   173/  3  L1  L2  W4  1.0
+  4 Kulal, Om              RSAAG65J   100   100/ 23  L2  L1  L3  0.0

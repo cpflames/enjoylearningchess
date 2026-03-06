@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Rastogi, Atharv        PFCH377H  1400  1465/126  W3  W2  D4  2.5
+  2 Chen, William          INGI550N  1482  1490/275  W4  L1  W3  2.0
+  3 Burtram, Dayton        SKNJG77M  1462  1435/346  L1  W4  L2  1.0
+  4 Ye, Alex               ENDFH51L  1350  1326/241  L2  L3  D1  0.5

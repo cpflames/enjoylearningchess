@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Subramanian, Thrinay   SPTJ466R  1690  1804/177  W8  W4  W2  W7  W5  5.0
+  2 Li, Shawn              SOMDJ11N  1620  1687/111  W3  W7  L1  D5  W4  3.5
+  3 Shi, Gavin             LCOKH855  1732  1723/487  L2  W9  D4  D6  W10 3.0
+  4 Syal, Yash             PFCGC10R  1649  1653/249  W6  L1  D3  W10 L2  2.5
+  5 Chen, Andy             SOMEK05J  1596  1610/135  L7  W10 W9  D2  L1  2.5
+  6 Gupta, Krishang        GTMHE37V  1563  1583/106  L4  W8  L7  D3  W9  2.5
+  7 Gao, Ziqian            BLWFK10U  1686  1662/112  W5  L2  W6  L1  L8  2.0
+  8 Maharaja, Imai         HMNEK34K  1604  1577/320  L1  L6  D10 L9  W7  1.5
+  9 Raja, Rian             SKWH786E  1661  1616/239  D10 L3  L5  W8  L6  1.5
+ 10 He, Oliver             ENDEK71V  1580  1541/438  D9  L5  D8  L4  L3  1.0

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Au, Vincent            ADUNG50Z  1300  1170/  3  L3  W4  W2  2.0
+  2 Zhen Rampenthal, Quinn SASIH53C  1011  1043/ 51  W5  W3  L1  2.0
+  3 Krogstad, Jaxon        NCSDJ88M  1095  1105/181  W1  L2  W6  2.0
+  4 Brouner, Simon         KLLHH47V   942   934/ 13  D6  L1  W5  1.5
+  5 Dao, Benjamin          HZNMG50Y  1200   802/  3  L2  W6  L4  1.0
+  6 Lechner, Ryker         HSCG496J   827   794/123  D4  L5  L3  0.5

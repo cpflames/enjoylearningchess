@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mohn, Jason            CPJGG25T   600   992/  3  W2  W3  W4  3.0
+  2 Krishna Preasad, SaadhvHSCGG25S   600   650/  3  L1  W4  W3  2.0
+  3 Singh, Vihaan Vikram   RIDFG25R   500   346/  3  W4  L1  L2  1.0
+  4 Tang, Tony             BASAG25Q   100   100/  3  L3  L2  L1  0.0
+
+ All Unrated-player Section: Ratings capped at 1000

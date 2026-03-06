@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mohammed, Farhan       CRKEH14M  1175  1242/102  W2  W3  D4  2.5
+  2 Chou, Eugene           SSMEJ56Y  1183  1207/131  L1  W4  W3  2.0
+  3 Zhang, Patrick         SSSCK01J  1276  1232/336  W4  L1  L2  1.0
+  4 Elmieh, Niko           CRKF777E  1070  1051/110  L3  L2  D1  0.5

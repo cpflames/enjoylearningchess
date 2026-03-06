@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Delacroix, Styles      HSCHG93F  1068  1221/ 15  W9  W3  W2  W5  W6  5.0
+  2 Nguyen, Vuong Tien ThinMARIG70K  1173  1170/ 12  W7  W12 L1  W13 W5  4.0
+  3 Shields, Conor         KOPHK51J   695   775/ 63  W14 L1  W9  D4  W13 3.5
+  4 Bell, Raimi            OBKHF77Y  1153  1109/ 76  W8  L6  W10 D3  W12 3.5
+  5 Byelashova, Darya      SGHEK51X  1119  1097/188  W11 W13 W6  L1  L2  3.0
+  6 Rehberger, Jack        STCI916D   882   923/ 44  W15 W4  L5  W8  L1  3.0
+  7 Paras, Liam            STCHK61Q   673   670/ 34  L2  W10 W14 L12 D11 2.5
+  8 Ramirez, Peyton        STCHK61L   657   687/ 34  L4  W15 W12 L6  D10 2.5
+  9 Garcia, Christian      ELKHH10N   409   417/ 25  L1  W17 L3  W16 D15 2.5
+ 10 Medici, John Maverick  ELKIH08Q   674   649/ 14  BYE L7  L4  W15 D8  2.5
+ 11 Flinders, Thayden      STCHJ19A   584   546/ 25  L5  L16 W17 W14 D7  2.5
+ 12 Young, Asher S         ELKIH08R   825   791/ 15  W16 L2  L8  W7  L4  2.0
+ 13 Carrell, Sam           STCH943D   677   654/ 26  W17 L5  W16 L2  L3  2.0
+ 14 Townsend, Howard       ELKIK60U   145   175/ 27  L3  BYE L7  L11 W16 2.0
+ 15 Mcguire, Madeleine     HSCIH57Q   341   329/ 17  L6  L8  BYE L10 D9  1.5
+ 16 Soyangco, Rylan        ELKHH07U   168   198/ 10  L12 W11 L13 L9  L14 1.0
+ 17 Van Vleck, Christopher SFIHG62Q   700   100/  3  L13 L9  L11 BYE U   1.0

@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Mathew, Reuben         MRIAG33B   649   688/ 14  U2  W5  W4  W3  U   3.0
+  2 Isami, Daichi          ADUNG33C   554   665/  5  U1  U   U5  W4  W3  2.0
+  3 Anand, Nivaan          MCEBH64F   558   524/ 99  W5  U4  U   L1  L2  1.0
+  4 Kim, Marcus            CHOGG30B   447   390/  5  U   U3  L1  L2  U5  0.0
+  5 Bharadwaj, Rohan       WPPGG28P   600   114/  2  L3  L1  U2  U   U4  0.0

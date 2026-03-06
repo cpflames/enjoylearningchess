@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Pan, Peng-yu           SSMDK24P  1069  1134/204  W3  W2  W4  W7  W5  5.0
+  2 Xiong, Maxwell         CSIDK92H   973   978/ 84  W7  L1  W6  W4  D3  3.5
+  3 Ramana, Vihaan         KKNCJ99P   794   842/ 77  L1  W7  W5  BYE D2  3.5
+  4 Nishino, Anne          BCADH74F   793   804/132  W6  W5  L1  L2  BYE 3.0
+  5 Jiang, Callie          UCDAH47C   594   603/ 36  BYE L4  L3  W6  L1  2.0
+  6 Charuvil Vinu, Suryen  RSHBJ89R   710   666/ 89  L4  BYE L2  L5  W7  2.0
+  7 Sang, Andy             IMBCK65W   741   669/ 98  L2  L3  BYE L1  L6  1.0

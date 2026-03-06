@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sijin, Ryan            BENCG24X   487   539/ 10  W3  U   D2  1.5
+  2 Hayward, Luke          FRIDH63N   814   796/ 14  U   W3  D1  1.5
+  3 Zeeshan, Harris        CRIBH61J   322   300/ 59  L1  L2  U   0.0

@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Yondon, Odbayar        INGGK97T  1858  1864/304  W15 W9  D4  W13 W22 4.5
+  2 Gadde, Arnav           GTMGJ39D  1701  1705/229  W20 D6  W8  W19 W17 4.5
+  3 Ma, Lewis              SOMD587M  1479  1495/228  W14 D10 W16 W5  WF  4.5
+  4 Merriman, Dann         WMNFF79Y  1718  1729/635  W18 W12 D1  D9  W13 4.0
+  5 Zhu, Aiden             SOMEC77X  1303  1332/178  W21 W11 W10 L3  W14 4.0
+  6 Li, Shawn              SOMDJ11N  1563  1572/ 95  W19 D2  W17 D8  W20 4.0
+  7 Evin, Terrick          EBSDC54L  1416  1412/247  W17 L8  W19 W20 W21 4.0
+  8 Yuan, Chen             ETSDJ15Z  1517  1526/174  WF  W7  L2  D6  W19 3.5
+  9 Chen, Andy             SOMEK05J  1626  1641/114  W13 L1  W22 D4  W15 3.5
+ 10 Sankrithi, Sarang      HSCGB11D  1568  1535/318  WF  D3  L5  W14 W16 3.5
+ 11 Kayali, Kana           EBSDJ29N  1002   954/ 38  W16 L5  L14 WF  WF  3.0
+ 12 Yun, Daniel D          LAVDK87Z  1444  1425/378  W22 L4  L13 W15 D18 2.5
+ 13 Lam, Myron             LKDF605K  1125  1221/ 40  L9  W18 W12 L1  L4  2.0
+ 14 Wishwas, Rishab        LKDFK91Q   647   716/ 87  L3  WF  W11 L10 L5  2.0
+ 15 Maharaja, Imai         HMNEK34K  1599  1557/294  L1  W22 W18 L12 L9  2.0
+ 16 Kallaraikal Robin, RohiEHWGG38F   600   550/  3  L11 WF  L3  WF  L10 2.0
+ 17 Bhandari, Aarav        CBREJ06H  1013  1004/141  L7  W20 L6  D21 L2  1.5
+ 18 Luo, Peter             SOMF664K  1233  1222/154  L4  L13 L15 W22 D12 1.5
+ 19 Tsay, Elon             LKDEK07B  1011  1005/147  L6  W21 L7  L2  L8  1.0
+ 20 Appineni, Arnav        SWLFG26A   960   938/ 69  L2  L17 W21 L7  L6  1.0
+ 21 Kasala, Avyukt         CDWEG60F   495   569/ 10  L5  L19 L20 D17 L7  0.5
+ 22 Tsen, Eric             AGBEK18P  1005   987/236  L12 L15 L9  L18 L1  0.0

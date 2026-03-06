@@ -1,0 +1,33 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Lagzdin, Mikhail       BCACJ96R  1164  1255/ 74  W19 W14 W7  W5  D3  4.5
+  2 Ivanov, Matvei         EABDK34E  1080  1195/114  W30 W29 W4  D3  W7  4.5
+  3 Dharamshi, Anay        CBRDK42U  1284  1298/205  W28 W8  W9  D2  D1  4.0
+  4 Khudyev, Elina         EPICJ97Q  1148  1168/ 86  W27 W10 L2  W15 W8  4.0
+  5 Zhang, Patrick         SSSCK01J  1033  1156/271  W31 W17 W11 L1  W13 4.0
+  6 Chu, Skylar            SOMD579R  1072  1055/112  L18 D26 W27 W22 W10 3.5
+  7 Bolisetty, Varun       CBRDJ73Z  1095  1087/158  W24 W23 L1  W12 L2  3.0
+  8 Koster, John           SPTBJ88T   930   980/121  W12 L3  W18 W19 L4  3.0
+  9 Swain, Samarth         MMECJ58S  1198  1159/280  W21 W20 L3  L10 W18 3.0
+ 10 Wu, Jayden             UCDD495Q   947   974/147  W25 L4  W29 W9  L6  3.0
+ 11 Yu, Eric               SOMCK25N  1119  1087/136  W26 W18 L5  L13 W22 3.0
+ 12 Zhou, Nathan           SOMDG61K   745   869/ 10  L8  W27 W14 L7  W19 3.0
+ 13 Kulkarni, Samik        KKNBH67M   934   947/ 51  L23 W24 W30 W11 L5  3.0
+ 14 Pande, Aryan           DCSB493M   901   940/ 47  W32 L1  L12 W17 W21 3.0
+ 15 Zhang, Ryan            SHVBH60U   974   954/ 46  L20 W21 W31 L4  W25 3.0
+ 16 Benita-nagdeep, KrishanSOMDK56N   883   860/ 92  L29 L30 W26 W31 W20 3.0
+ 17 Ge, Jeremy             SOMCJ88K  1299  1235/296  W22 L5  HPB L14 W26 2.5
+ 18 Xu, Augus              ENDDJ29H   800   840/ 33  W6  L11 L8  W23 L9  2.0
+ 19 Zhang, Eric            SOMDK64M   846   835/ 88  L1  W25 W20 L8  L12 2.0
+ 20 Menezes, Kian          MEDCJ97B   725   760/ 88  W15 L9  L19 W24 L16 2.0
+ 21 Huang, Jaden           ENDDJ63S   762   779/201  L9  L15 W28 W29 L14 2.0
+ 22 Li, Bryan              MEDBJ75H   839   842/108  L17 W32 W23 L6  L11 2.0
+ 23 Joseph, George         CDIDH11C   734   757/ 40  W13 L7  L22 L18 W30 2.0
+ 24 Nishino, Anne          BCADH74F   804   784/137  L7  L13 W32 L20 W31 2.0
+ 25 Zhen, Liam             DCCD622V   696   687/186  L10 L19 BYE W30 L15 2.0
+ 26 Liu, Louis             CNHCJ75J   806   799/ 85  L11 D6  L16 W32 L17 1.5
+ 27 Sabharwal, Vihaan      DCTDK87T   806   781/ 77  L4  L12 L6  D28 W32 1.5
+ 28 Li, Ethan James        SOMCK00K   874   808/159  L3  L31 L21 D27 W29 1.5
+ 29 Xu, Louis              MEDAH34T   679   672/ 31  W16 L2  L10 L21 L28 1.0
+ 30 Yin, Nolan             CCDBH64W   760   718/ 47  L2  W16 L13 L25 L23 1.0
+ 31 Datta, Ishana          KKNDH60X   758   727/ 30  L5  W28 L15 L16 L24 1.0
+ 32 Charles, Benjamin      SOMBJ06G   692   607/105  L14 L22 L24 L26 L27 0.0

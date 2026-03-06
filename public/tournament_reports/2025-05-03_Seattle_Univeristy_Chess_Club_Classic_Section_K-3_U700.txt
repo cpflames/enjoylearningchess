@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Medawar, Linnea        KSHCG33N   200   665/  5  W6  W3  L2  W5  W4  4.0
+  2 Iyer, Anirudh          RSACH36Q   530   595/ 19  W4  WF  W1  L3  W6  4.0
+  3 Chen, Pengyu           RCRAZ677   453   538/  9  W5  L1  W6  W2  BYE 4.0
+  4 Pool, James            ORACH88Y   340   374/ 14  L2  BYE W5  W6  L1  3.0
+  5 Wang, Cameron          CNHCG33M   200   157/  4  L3  D6  L4  L1  ZPB 1.0
+  6 Singhal, Arjun         RSABH23X   514   385/ 25  L1  D5  L3  L4  L2  0.5

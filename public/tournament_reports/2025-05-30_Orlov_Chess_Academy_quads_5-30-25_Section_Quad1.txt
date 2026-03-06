@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ackerman, Ryan         ADUNC514  1805  1809/306  W3  W4  W2  3.0
+  2 Chung, Warren          REJIG48Z  1490  1398/ 10  W4  L3  L1  1.0
+  3 Zeeshan, Hamza         CRKEJ15N   946   997/ 87  L1  W2  L4  1.0
+  4 Daniel, Lemuel         MMEDJ29L  1152  1156/ 94  L2  L1  W3  1.0

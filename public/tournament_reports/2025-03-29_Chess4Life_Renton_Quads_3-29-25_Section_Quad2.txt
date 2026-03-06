@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kennerud, Caedmon      LGHGH61R   664   692/  9  W4  W3  W2  3.0
+  2 Cherenkov, Max         MAHBG50W   100   389/  3  D3  W4  L1  1.5
+  3 Degaonkar, Saanvi      CMCFG50V   500   389/  3  D2  L1  W4  1.5
+  4 Degaonkar, Shaarvi     CMCCG50U   200   100/  3  L1  L2  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Khandelwal, Anay       OMSHA10L   878   955/ 83  D2  W3  W4  2.5
+  2 Gokul, Shravan         EVJHJ89U   873   905/ 66  D1  W4  WF  2.5
+  3 Lee, Jaydon            RSHFH25S   864   866/ 45  W4  L1  LF  1.0
+  4 Mishra, Angad          RKWFK70V   881   801/114  L3  L2  L1  0.0

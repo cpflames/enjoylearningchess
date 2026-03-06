@@ -1,0 +1,51 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Lai, Ryan              SHSBH70N  1404  1441/110  W18 W23 W30 W3  W8  5.0
+  2 Ren, Easton            CMCBH68Z  1305  1311/110  W21 W6  D10 W4  W9  4.5
+  3 Chen, Eason            SOMBJ59F  1164  1184/131  W45 W16 W7  L1  W11 4.0
+  4 Hoang, Leonard Bach    MRPBK88E   987  1018/ 60  W27 W26 W15 L2  W16 4.0
+  5 Zhou, Max              BCSBH51K   716   858/ 20  W25 L9  W31 W23 W14 4.0
+  6 Li, Bryan              MEDBJ75H   842   965/118  W41 L2  W43 W17 W13 4.0
+  7 Yin, Nolan             CCDBH64W   923   948/ 60  W47 W31 L3  W18 W15 4.0
+  8 Qin, Skyler            OPWBJ97T  1359  1336/174  W20 W19 W13 D9  L1  3.5
+  9 Pande, Aryan           DCSB493M  1038  1076/ 57  W35 W5  W14 D8  L2  3.5
+ 10 Zhang, Ryan            SHVBH60U   954   967/ 51  W36 W12 D2  L11 W26 3.5
+ 11 Srinivasan, Atul       TBKBK65P   989   985/ 83  D28 W42 W24 W10 L3  3.5
+ 12 Manjunatha, Neeraj RaghSTVBH24D   642   655/ 15  W50 L10 D41 W32 W24 3.5
+ 13 Koster, John           SPTBJ88T   980   974/126  W33 W22 L8  W19 L6  3.0
+ 14 Desai, Vivaan          BCABJ49H   887   865/ 79  W37 W32 L9  W22 L5  3.0
+ 15 Charuvil Vinu, Suryen  RSHBJ89R   781   851/ 98  W44 W17 L4  W39 L7  3.0
+ 16 Hu, Ryan               OPWBJ97N   777   801/127  W38 L3  W36 W30 L4  3.0
+ 17 Gu, Vincent            OPWBK00L  1054  1001/115  W40 L15 W20 L6  W33 3.0
+ 18 Hu, Maxwell            BCABK03N   635   655/ 71  L1  W29 W44 L7  W32 3.0
+ 19 Tao, Hongxi            LTLBH98A   792   796/ 24  W48 L8  W33 L13 W34 3.0
+ 20 Talukdar, Yuvaan       RBRBH76K   628   732/ 96  L8  W37 L17 W43 W39 3.0
+ 21 Niu, Edwin             SOMBH73D   560   603/ 67  L2  L41 W42 W36 W30 3.0
+ 22 Qu, Ziyou              BRBBJ86W   710   710/ 28  W46 L13 W34 L14 W37 3.0
+ 23 Kulkarni, Samik        KKNBH67M   901   859/ 59  W29 L1  W35 L5  D27 2.5
+ 24 Zamora-kapoor, Eva     STTBJ41W   670   645/ 85  D42 W28 L11 W25 L12 2.5
+ 25 Han, Isaac             CGRBH65V   338   500/ 30  L5  W27 D26 L24 W45 2.5
+ 26 Goyal, Avyukt          CNHBJ65X   639   632/140  W49 L4  D25 W41 L10 2.5
+ 27 Chai, Bobby            FAPBH05T   527   549/ 15  L4  L25 W48 W38 D23 2.5
+ 28 Wang, Max              CGRBK03S   533   512/ 48  D11 L24 L32 W49 W31 2.5
+ 29 Gangineni, Sarvesh     MMEBH62Q   430   446/ 45  L23 L18 D49 W42 W41 2.5
+ 30 Yue, Jayden            WMEBG55Q   928   781/ 10  W34 W43 L1  L16 L21 2.0
+ 31 Young, Mariella        NOWBJ54Q   347   371/ 29  BYE L7  L5  W35 L28 2.0
+ 32 Zhang, Mya             EVGBJ66G   148   227/ 58  BYE L14 W28 L12 L18 2.0
+ 33 Hu, Ethan              CNHBH35U   497   515/ 20  L13 W46 L19 W44 L17 2.0
+ 34 Mukherjee, Anahita     PENBJ14K   465   480/ 33  L30 W49 L22 W40 L19 2.0
+ 35 Zhang, Kyle            OPWBJ19N   548   528/ 57  L9  W38 L23 L31 W44 2.0
+ 36 Adoc, Lluc             PERBJ54N   468   466/ 45  L10 W50 L16 L21 W46 2.0
+ 37 Mannem, Vayu           RKWBG92J   427   450/ 18  L14 L20 W50 W45 L22 2.0
+ 38 Li, James              BENBH35Y   357   398/ 15  L16 L35 W47 L27 W43 2.0
+ 39 Gray, Carter           COSBH33E   969   857/ 45  L43 W47 W45 L15 L20 2.0
+ 40 Fu, Yo-yo              ETSBJ98Q   552   497/ 31  L17 L44 W46 L34 W48 2.0
+ 41 Sheehy, Julian         BRYBJ67A   409   430/ 40  L6  W21 D12 L26 L29 1.5
+ 42 Longhurst, Clyde       SCDBG69X   309   340/  9  D24 L11 L21 L29 W49 1.5
+ 43 Dhillon, Veer          BNTBJ02P   488   481/ 45  W39 L30 L6  L20 L38 1.0
+ 44 Huang, Tzuyu           SCDBJ14G   387   374/ 20  L15 W40 L18 L33 L35 1.0
+ 45 Liang, Dangdang        MEDBJ12R   557   491/ 55  L3  W48 L39 L37 L25 1.0
+ 46 Li, Ryder              MEDBJ66R   324   304/ 89  L22 L33 L40 W47 L36 1.0
+ 47 Arora, Neal            ORLBH57B   453   381/ 14  L7  L39 L38 L46 W50 1.0
+ 48 Zeitlin, Guy           WOBBG55N   395   341/ 15  L19 L45 L27 W50 L40 1.0
+ 49 Jacob, Noah            BNTBH23U   224   193/ 20  L26 L34 D29 L28 L42 0.5
+ 50 Li, Eli                BENBH36B   249   173/ 15  L12 L36 L37 L48 L47 0.0

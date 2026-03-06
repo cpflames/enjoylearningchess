@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Arul, Aarav            LMAE158P   406   459/ 16  W3  W4  W2  3.0
+  2 Lakshmanan, Vian       RBRBH56N   213   184/ 16  W4  L3  L1  1.0
+  3 Tang, Rufus            BASDG74N   125   131/  5  L1  W2  L4  1.0
+  4 Dai, Leo               BCABG48M   174   158/ 15  L2  L1  W3  1.0

@@ -1,0 +1,62 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Pujara, Shyam          ADUNG29B  1161  1386/  6  W36 W41 W10 W5  W4  W11 6.0
+  2 Chadic, Tre            ADUNG29A  1300  1396/  6  L10 W46 W49 W19 W15 W13 5.0
+  3 Chaturvedi, Raghav     BISJK75J  1117  1219/163  W59 W26 L4  W45 W24 W14 5.0
+  4 Boulanger, Valentin    INGHB07H  1190  1275/ 65  W34 W15 W3  D6  L1  W20 4.5
+  5 Ge, Emma               SSMCJ56J  1025  1221/161  W53 W40 W25 L1  D12 W21 4.5
+  6 Natarajan, Ruhaan      ASHGW75X  1085  1177/  6  W29 W45 W42 D4  D7  D8  4.5
+  7 Khatib, Kenan          IMSJC566  1190  1249/269  W38 W24 D13 HPB D6  W18 4.5
+  8 Chhibber, Krish        FNEIU577   794  1076/ 11  W55 L19 W50 W29 W10 D6  4.5
+  9 Woltjer, Jordan        ADUNG38C  1199  1275/  9  D28 W54 W21 W18 HPB HPB 4.5
+ 10 Jiang, Kyle            MEDCK35B  1094  1218/170  W2  W12 L1  W26 L8  W24 4.0
+ 11 Lan, Jonathan          MEDE968F  1186  1214/179  W47 D18 W20 W23 D14 L1  4.0
+ 12 Byelashova, Darya      SGHEK51X  1170  1191/222  W52 L10 D16 W42 D5  W31 4.0
+ 13 Khudyev, Elina         EPICJ97Q  1148  1222/ 99  W37 W32 D7  HPB W16 L2  4.0
+ 14 Anand, Lakshana        TMBGC68H  1204  1222/166  W33 W31 W19 HPB D11 L3  4.0
+ 15 Sembium, Aditi         BCAEK25W  1203  1202/351  W30 L4  W47 W48 L2  W32 4.0
+ 16 Wu, Jayden             UCDD495Q  1010  1184/165  HPB W17 D12 W25 L13 W27 4.0
+ 17 Chung, Warren          REJIG48Z  1398  1336/ 16  L41 L16 W39 W54 W46 W25 4.0
+ 18 Tsay, Elon             LKDEK07B  1111  1131/161  W57 D11 W27 L9  W36 L7  3.5
+ 19 Zeitlin, Tom           WOBFI56H  1096  1118/121  W48 W8  L14 L2  D22 W42 3.5
+ 20 Zhang, Patrick         SSSCK01J  1143  1141/308  D58 W28 L11 W30 W23 L4  3.5
+ 21 Rish-brown, Jackson    HMOFH57T  1239  1205/ 72  D54 W58 L9  W41 W28 L5  3.5
+ 22 Byelashova, Sofia      SGHCK01K  1003  1026/193  L25 L29 WF  W38 D19 W43 3.5
+ 23 Liu, Bihe              KKNCB78J  1189  1173/158  W50 W51 HPB L11 L20 W37 3.5
+ 24 Rios, Nicholas         HCCHJ77M  1120  1111/ 35  W60 L7  W34 W32 L3  L10 3.0
+ 25 Wong, Gabriel          HEAGH35K  1137  1133/ 36  W22 W35 L5  L16 W48 L17 3.0
+ 26 Huang, Clora           SOMFK31H  1188  1148/191  W44 L3  W38 L10 D42 D33 3.0
+ 27 Oh, Seojoon            SSMEJ70T  1191  1154/127  L31 W37 L18 W34 W35 L16 3.0
+ 28 Anbuselvam, Mithran    HEAGH61F  1090  1092/206  D9  L20 W33 W53 L21 D30 3.0
+ 29 Sabarish, Ananya       BCAEG02Z  1066  1057/209  L6  W22 W35 L8  L32 W48 3.0
+ 30 Zhao, Kevin            EVGEK54M   853   917/ 64  L15 D44 W58 L20 W41 D28 3.0
+ 31 Pande, Aryan           DCSB493M  1056  1042/ 67  W27 L14 L48 W47 W45 L12 3.0
+ 32 Li, Wei                ADUNG28Y  1300  1019/  5  BYE L13 W51 L24 W29 L15 3.0
+ 33 Razmov, Siana          HSCCK93Y   965   986/198  L14 W59 L28 D43 W44 D26 3.0
+ 34 Foster, Chad           ADUNH69R  1047  1042/ 36  L4  W55 L24 L27 W47 W46 3.0
+ 35 Davies, Damien         HEAGK68U   966  1016/127  W43 L25 L29 W49 L27 W53 3.0
+ 36 Groff, Shane           ADUNG28W   939  1006/  4  L1  W52 W43 HPB L18 HPB 3.0
+ 37 Rish-brown, Jacob      HMOFK61J   974   999/ 82  L13 L27 W59 W51 W53 L23 3.0
+ 38 Nachiappan, Lakshmanan RHJIJ87Q  1065  1043/ 78  L7  W60 L26 L22 W50 W45 3.0
+ 39 Qu, Yuwen              RSACK86G  1010  1020/131  L40 L53 L17 W59 W51 W49 3.0
+ 40 Mckendry, Matthew      ADUNF245  1156  1124/165  W39 L5  L45 W50 HPB HPB 3.0
+ 41 Acevedo, Samuel        ADUNH71B  1043  1041/ 17  W17 L1  D53 L21 L30 W55 2.5
+ 42 Mei, Felicity          MMECK89R   939   982/106  W46 W49 L6  L12 D26 L19 2.5
+ 43 Wakeman, Oliver        INLLG10Y  1148  1069/149  L35 W56 L36 D33 W55 L22 2.5
+ 44 Juneja, Parth          JWEDW80P   973   923/ 21  L26 D30 L54 W61 L33 W56 2.5
+ 45 Rangel, Brandon ZacariaADUNG28V  1300   877/  5  BYE L6  W40 L3  L31 L38 2.0
+ 46 Wu, Jonathan           UCDDK14H  1101  1047/110  L42 L2  W56 W60 L17 L34 2.0
+ 47 Wang, Bowen            RCRBZ45J   100   831/  6  L11 W57 L15 L31 L34 W54 2.0
+ 48 Schemmer, Coby         ADUNG28U  1300   858/  5  L19 BYE W31 L15 L25 L29 2.0
+ 49 Pan, Peng-yu           SSMDK24P  1143  1062/220  W56 L42 L2  L35 W54 L39 2.0
+ 50 Li, Alice              OPWDJ98C  1033   963/118  L23 W61 L8  L40 L38 WF  2.0
+ 51 Mohammed, Farhan       CRKEH14M  1039   969/ 79  W61 L23 L32 L37 L39 W60 2.0
+ 52 Kennedy, Owen          TWFHH14N  1030   996/ 46  L12 L36 LF  U   W58 W61 2.0
+ 53 Wang, Hengsheen        BASC704V  1173  1078/163  L5  W39 D41 L28 L37 L35 1.5
+ 54 Komara, Vasishta NarayaFRWFG75F   657   711/ 29  D21 L9  W44 L17 L49 L47 1.5
+ 55 Alok, Aditya           JWEDW80H   914   849/ 21  L8  L34 D61 W58 L43 L41 1.5
+ 56 Wong, Claire           BCACK86D   957   873/148  L49 L43 L46 D57 W60 L44 1.5
+ 57 O'sullivan, Colin      ADUNH86L   584   580/ 29  L18 L47 L60 D56 D61 D58 1.5
+ 58 Raghavan, Anirudh      FRWEG42Z   538   548/ 22  D20 L21 L30 L55 L52 D57 1.0
+ 59 Nair, Vihaan           FRWBJ97F   734   703/ 70  L3  L33 L37 L39 BYE LF  1.0
+ 60 Gupta, Dhruva          CMCEH24Z   785   742/ 35  L24 L38 W57 L46 L56 L51 1.0
+ 61 Zhao, Jerry            EVGAH97K   716   675/ 69  L51 L50 D55 L44 D57 L52 1.0

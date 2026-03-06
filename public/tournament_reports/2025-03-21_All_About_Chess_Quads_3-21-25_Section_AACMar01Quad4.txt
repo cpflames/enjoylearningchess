@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sembium, Aditi         BCAEK25W   972  1089/335  W4  W3  W2  3.0
+  2 Sarychev, Aleksei      GEKKJ98N   969   995/231  W3  W4  L1  2.0
+  3 Sathyamurthy, Sreeshan EVJIJ24M   958   935/160  L2  L1  W4  1.0
+  4 Li, Ethan James        SOMCK00K   927   860/146  L1  L2  L3  0.0

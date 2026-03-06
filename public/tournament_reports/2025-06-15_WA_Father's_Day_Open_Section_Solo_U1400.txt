@@ -1,0 +1,37 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Qin, Skyler            OPWBJ97T  1286  1415/186  W24 D3  W12 W11 W7  4.5
+  2 Ren, Easton            CMCBH68Z  1330  1436/120  W27 W10 W8  W7  HPB 4.5
+  3 Byelashova, Sofia      SGHCK01K  1026  1274/198  W15 D1  W25 D6  W10 4.0
+  4 Patnaik, Rishabhdeva   PLKGG72D  1211  1345/239  W28 W5  L7  W8  W14 4.0
+  5 Li, Peng               ADUNG28C  1306  1346/  5  W23 L4  W33 W26 W6  4.0
+  6 Qin, Shenghao          ADUNH86P  1219  1328/ 15  W21 W25 W9  D3  L5  3.5
+  7 Chung, Warren          REJIG48Z  1356  1369/ 27  W13 W30 W4  L2  L1  3.0
+  8 Wang, Isaac            CLHFK00U  1392  1376/140  W20 W14 L2  L4  W19 3.0
+  9 Zhu, Aiden             SOMEC77X  1388  1372/194  W26 W16 L6  D13 D12 3.0
+ 10 Samara, Ferris         ADUNH00C  1137  1209/  7  W19 L2  W29 W24 L3  3.0
+ 11 Nawagamudewage, Inura  MDEIJ11V  1356  1345/ 39  W33 D12 W17 L1  D13 3.0
+ 12 Jiang, Kyle            MEDCK35B  1218  1244/175  W36 D11 L1  W17 D9  3.0
+ 13 Ye, Alex               ENDFH51L  1303  1310/302  L7  W35 W16 D9  D11 3.0
+ 14 Lee, Justin            CNLI732V  1283  1280/133  W34 L8  W27 W23 L4  3.0
+ 15 Chaturvedi, Raghav     BISJK75J  1219  1216/168  L3  W31 L23 W27 W24 3.0
+ 16 Rengarajan, Anirudh    DIAFZ75J  1229  1243/ 51  W29 L9  L13 W33 W26 3.0
+ 17 Mohammed, Farhan       CRKEH14M  1020  1104/ 87  W18 W32 L11 L12 D20 2.5
+ 18 Chaurasia, Vihaan      REJHH65G  1218  1177/233  L17 L23 W31 W29 D21 2.5
+ 19 Chim, Zander           XXXIH34X   626   854/ 10  L10 HPB W32 W25 L8  2.5
+ 20 Rish-brown, Jackson    HMOFH57T  1205  1179/ 77  L8  L24 W36 W28 D17 2.5
+ 21 Rish-brown, Jacob      HMOFK61J   999  1061/ 87  L6  L33 W34 W30 D18 2.5
+ 22 Han, Kaiyi             SOMCK42P  1188  1160/149  L25 L29 HPB W35 W23 2.5
+ 23 Anbuselvam, Mithran    HEAGH61F  1092  1111/211  L5  W18 W15 L14 L22 2.0
+ 24 Zhang, Patrick         SSSCK01J  1171  1159/319  L1  W20 W30 L10 L15 2.0
+ 25 Chen, Julian           CNHCK32C  1356  1284/137  W22 L6  L3  L19 W34 2.0
+ 26 Aksutina, Eva          HTNHG47U  1192  1170/ 17  L9  W34 W28 L5  L16 2.0
+ 27 Rogov, Richard         MEDDJ68U  1130  1105/133  L2  W36 L14 L15 W35 2.0
+ 28 Jung, Kaspian          ADDIG28B   800  1000/  4  L4  BYE L26 L20 W33 2.0
+ 29 Wu, Jonathan           UCDDK14H  1047  1040/115  L16 W22 L10 L18 D30 1.5
+ 30 Luo, Leo               BUSEH45C  1217  1141/ 35  W35 L7  L24 L21 D29 1.5
+ 31 Swain, Samarth         MMECJ58S  1029   998/327  D32 L15 L18 L34 W36 1.5
+ 32 Woltjer, Jordan        ADUNG38C  1275  1146/ 12  D31 L17 L19 HPB HPB 1.5
+ 33 Wu, Jayden             UCDD495Q  1184  1122/170  L11 W21 L5  L16 L28 1.0
+ 34 Gu, Vincent            OPWBK00L  1068  1026/120  L14 L26 L21 W31 L25 1.0
+ 35 Tao, Hongxi            LTLBH98A   796   772/ 28  L30 L13 BYE L22 L27 1.0
+ 36 Tulsukchuentanat, ProudWOBGH63C   920   869/ 30  L12 L27 L20 BYE L31 1.0

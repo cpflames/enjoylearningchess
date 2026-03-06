@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bolisetty, Varun       CBRDJ73Z  1050  1066/166  D2  W3  D4  2.0
+  2 Mahale, Avneesh        CNHC993F  1012  1039/236  D1  D4  W3  2.0
+  3 Mangla, Atharv         GRREK07C  1016   992/190  W4  L1  L2  1.0
+  4 Bysani, Aakash         SSMCK01D   998   979/278  L3  D2  D1  1.0

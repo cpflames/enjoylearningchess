@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Deng, Lucas            DISDH87X   783   866/ 67  W2  D3  W4  2.5
+  2 Karanam, Aadya         SWLEK84K   751   803/120  L1  W4  W3  2.0
+  3 Sarangi, Samarth       CBREH69F   739   756/122  W4  D1  L2  1.5
+  4 Shah, Rachit           BNTEK44K   843   746/110  L3  L2  L1  0.0

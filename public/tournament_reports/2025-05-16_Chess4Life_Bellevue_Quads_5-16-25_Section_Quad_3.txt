@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sridhar, Riya          TBKGG37Y   854   981/ 96  W4  W3  W2  3.0
+  2 Zhao, Kevin            EVGEK54M   852   853/ 58  W3  D4  L1  1.5
+  3 Naik, Shreyas          MTWFJ98X   840   818/122  L2  L1  W4  1.0
+  4 Lee, Zachary           STTAH63W   825   780/ 52  L1  D2  L3  0.5

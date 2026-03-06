@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Astafiev, Vitaly DmitriMRPEH52U   855   893/ 34  W2  W5  W4  W3  U   4.0
+  2 Ben Simon, Golan       WEDDJ48B   747   753/ 73  L1  U   W5  W4  W3  3.0
+  3 Astafyeva, Veronica    MRPCH51S   219   298/ 33  W5  D4  U   L1  L2  1.5
+  4 Hasson, Ari            SJCBJ47L   642   592/ 80  U   D3  L1  L2  W5  1.5
+  5 Ben Simon, Lavie       WEDBG44L   253   202/ 10  L3  L1  L2  U   L4  0.0

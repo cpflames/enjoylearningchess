@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Jung, Kaspian          ADDIG28B  1000  1093/  5  W2  U   1.0
+  2 Byelashov, Alex        ADUNH71K  1121  1076/ 23  L1  D5  0.5
+  3 Olson, Travis          ADUN8893  1869  1863/165  D4  U   0.5
+  4 Mohan, Vishnu          SKIGF41R  1718  1726/199  D3  U   0.5
+  5 Tulsukchuentanat, ProudWOBGH63C   869   887/ 31  U   D2  0.5

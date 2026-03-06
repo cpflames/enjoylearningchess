@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yeh, George            COSCH64S   979  1021/ 30  W3  W2  U   2.0
+  2 Sarkar, Hridik         FRVFK04W   875   886/ 90  U   L1  W3  1.0
+  3 Chen, Albert           LKWD728A   909   855/ 45  L1  U   L2  0.0

@@ -1,0 +1,49 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Satish Kumar, Sai NavanJFMGH21Y  1473  1503/111  W15 W14 W13 W3  W7  5.0
+  2 Nguyen, Richard        STCGH47W  1019  1093/ 20  W31 W16 W9  D7  W10 4.5
+  3 Damrau, Austin         ELKGK95E  1278  1282/110  W34 W17 W4  L1  W18 4.0
+  4 Rish-brown, Jackson    HMOFH57T   940   978/ 42  W33 W20 L3  W15 W12 4.0
+  5 Casino, Eli            STCGI15Q   969   967/ 66  W28 L9  W30 W23 W14 4.0
+  6 Rish-brown, Jacob      HMOFK61J   869   960/ 52  W47 D8  W24 D12 W13 4.0
+  7 Rachiba, Alisa         EVPEK08E  1230  1225/207  W30 W18 W11 D2  L1  3.5
+  8 Hopkins, Declan        REOFJ52J  1048  1033/ 29  W27 D6  W25 L10 W17 3.5
+  9 Einarson, Aiden        OBKGD84D   675   829/177  W45 W5  L2  D11 W25 3.5
+ 10 Meka, Suhaas           NOVGJ51J   935   960/ 97  W38 W32 D12 W8  L2  3.5
+ 11 Judd, George           PURFJ57F   938   931/ 54  W35 W44 L7  D9  W24 3.5
+ 12 Keogh, Seiya           NOVGJ51N  1061  1026/ 55  W29 W21 D10 D6  L4  3.0
+ 13 Little, Wyatt          NOVGJ51H   944   934/ 55  W40 W19 L1  W16 L6  3.0
+ 14 Zhong, Sebastian       NOVGK24D   919   903/ 60  W36 L1  W29 W19 L5  3.0
+ 15 Mcguire, Grace         HSCGH57R   456   526/ 25  L1  W36 W44 L4  W32 3.0
+ 16 Hopkins, Spencer       REOFJ52M   694   695/ 30  W41 L2  W33 L13 W29 3.0
+ 17 Bassen, Abel           KLKFZ72M   835   830/ 71  W42 L3  W27 W32 L8  3.0
+ 18 Anbuselvam, Mithran    HEAGH61F   897   894/155  BYE L7  W31 W20 L3  3.0
+ 19 Ruda, Greyson          ELKGK51P   469   502/ 30  W48 L13 W22 L14 W33 3.0
+ 20 Fournier, Jackson      HSCGH99G   523   572/ 10  W46 L4  W35 L18 W31 3.0
+ 21 Chen, Max Sheng        CPREG74G   761   692/ 10  W26 L12 L28 W40 W27 3.0
+ 22 Mcguire, Sophia        HSCEH57G   124   308/ 18  BYE L24 L19 W34 W30 3.0
+ 23 Pole, Davis            DRMFH99E   737   685/ 14  L44 W39 BYE L5  W28 3.0
+ 24 Buractaon, Alexander   OBKFG78E   642   628/ 14  D39 W22 L6  W26 L11 2.5
+ 25 Siek, Peter            HMOEK62A   783   758/ 38  W37 HPB L8  W28 L9  2.5
+ 26 Keys, Malachi          CPREG62P   400   438/  5  L21 D40 W39 L24 W38 2.5
+ 27 Coronado, Bruce        PURFG74A   394   446/ 10  L8  W37 L17 W36 L21 2.0
+ 28 Myaskovsky, David      SKIGJ26M   375   433/ 18  L5  W45 W21 L25 L23 2.0
+ 29 Kwon, Leo              ELKGH07Y   395   417/ 10  L12 W43 L14 W41 L16 2.0
+ 30 Arora, Gia             NOVGJ50T   446   425/ 14  L7  W47 L5  W35 L22 2.0
+ 31 Ramirez, Quintin       STCGH47T   378   386/ 13  L2  W42 L18 W46 L20 2.0
+ 32 Redman, Jameson        EVPEG62N   400   452/  4  BYE L10 W34 L17 L15 2.0
+ 33 Turner, Camden         CPRFJ50V   295   315/ 36  L4  W46 L16 W44 L19 2.0
+ 34 Short, Austin          HMOFH38T   450   411/ 14  L3  W38 L32 L22 W40 2.0
+ 35 Martinez, Asher        CMBEJ18Y   241   256/ 19  L11 W41 L20 L30 W46 2.0
+ 36 Garcia, Alex           ELKGH99A   128   209/ 10  L14 L15 W42 L27 W45 2.0
+ 37 Maupin, Isaac          HMOEG62M   400   310/  5  L25 L27 D38 D39 W44 2.0
+ 38 Twombly-borst, Henry   CWAEA01R   182   195/ 35  L10 L34 D37 W43 L26 1.5
+ 39 Zhang, Aer             CWAEG62L   400   289/  5  D24 L23 L26 D37 D42 1.5
+ 40 Griffin, Trae          ELKEG73W   371   326/  9  L13 D26 BYE L21 L34 1.5
+ 41 Grein, Kendal          CPRFG62K   500   133/  5  L16 L35 W47 L29 D43 1.5
+ 42 Lenny, Vincent         UPPEG62J   400   162/  5  L17 L31 L36 W47 D39 1.5
+ 43 Mendoza, Caleb         LCHFG73U   118   118/  9  U   L29 W45 L38 D41 1.5
+ 44 Pirogova, Valeriia     NARFG62H   500   252/  5  W23 L11 L15 L33 L37 1.0
+ 45 Yang, Claire           LCHFG62G   500   100/  4  L9  L28 L43 BYE L36 1.0
+ 46 Raddatz, Michael       ELKFG62F   500   100/  4  L20 L33 BYE L31 L35 1.0
+ 47 Lenny, Victor          NARGG62E   600   100/  4  L6  L30 L41 L42 BYE 1.0
+ 48 Huang, Lucas           CHWGG62C   600   105/  1  L19 U   U   U   U   0.0

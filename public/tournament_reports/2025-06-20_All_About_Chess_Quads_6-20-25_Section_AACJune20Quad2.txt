@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ge, Jeremy             SOMCJ88K  1297  1280/335  D3  W2  L4  1.5
+  2 Zhang, Aaron           RSAFC74T  1192  1202/172  W4  L1  D3  1.5
+  3 Zhang, Patrick         SSSCK01J  1159  1177/322  D1  D4  D2  1.5
+  4 Li, Harry              SPTFG30G  1265  1256/524  L2  D3  W1  1.5

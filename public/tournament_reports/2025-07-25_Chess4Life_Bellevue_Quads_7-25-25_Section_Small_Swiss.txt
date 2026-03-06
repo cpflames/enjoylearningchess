@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Guddanti, Akshara      LMACG43E   311   403/ 19  W6  W4  W2  3.0
+  2 Yadav, Dhavit          TBKAG35T   100   229/ 14  W3  W5  L1  2.0
+  3 Srivastava, Hriyansh   MTWDG25E   300   274/  3  L2  W6  W4  2.0
+  4 Tuna, Tarik            BNTBG25D   100   106/  3  W5  L1  L3  1.0
+  5 Joshi, Reyansh         NLAAG25B   100   100/  3  L4  L2  W6  1.0
+  6 Abdukarimov, Umid      BENAG27P   100   100/ 10  L1  L3  L5  0.0

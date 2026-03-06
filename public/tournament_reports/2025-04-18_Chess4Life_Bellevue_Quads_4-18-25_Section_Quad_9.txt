@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xu, Jacky Y            SOMCJ59K   563   679/105  W3  W4  W2  3.0
+  2 Zhang, Eli             BCACH69C   562   579/ 67  W4  W3  L1  2.0
+  3 Kunz, Anikin           BURKH44A   485   464/ 41  L1  L2  W4  1.0
+  4 Ganesh, Sidhan         BCACG52A   500   343/  6  L2  L1  L3  0.0

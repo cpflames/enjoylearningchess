@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bui, Bryant            RDSFH52W  1085  1288/ 80  W10 W7  W3  W8  W4  5.0
+  2 Rish-brown, Jackson    HMOFH57T  1101  1119/ 56  W12 L8  W9  W3  D5  3.5
+  3 Zhang, Patrick         SSSCK01J  1183  1178/279  W11 W4  L1  L2  W9  3.0
+  4 Kalian, Illia          WHIGI13T  1108  1127/142  W6  L3  W11 W7  L1  3.0
+  5 Wu, Jonathan           UCDDK14H   958  1019/ 88  L7  D9  W6  W11 D2  3.0
+  6 Hoffman, David         PERFJ98J   930   976/ 44  L4  W10 L5  W12 W8  3.0
+  7 Lin, Vivienne          CSIEK99D  1133  1112/ 80  W5  L1  D8  L4  W12 2.5
+  8 Anbuselvam, Mithran    HEAGH61F  1110  1081/175  D9  W2  D7  L1  L6  2.0
+  9 Rish-brown, Jacob      HMOFK61J   975   976/ 66  D8  D5  L2  W10 L3  2.0
+ 10 Barker, Harvey         HTNGH06X   885   888/ 25  L1  L6  W12 L9  W11 2.0
+ 11 Lin, Annan             THOFC02D  1022   942/ 84  L3  W12 L4  L5  L10 1.0
+ 12 Karanam, Aadya         SWLEK84K   821   751/117  L2  L11 L10 L6  L7  0.0

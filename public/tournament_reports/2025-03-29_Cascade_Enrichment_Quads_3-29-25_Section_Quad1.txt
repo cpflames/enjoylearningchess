@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kennedy, Owen          TWFHH14N   827   865/ 34  W4  W3  W2  3.0
+  2 Sharma, Kabir          CKNGG78M   721   716/  8  W3  W4  L1  2.0
+  3 Gupta, Kiaan           CAVCH82V   365   332/ 13  L2  L1  L4  0.0
+  4 Soffe, Morgan          MTSMG49G  1200   516/  3  L1  L2  W3  1.0

@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Belonozhko, Isaac      FMPBH53M   413   442/ 15  W3  W6  W4  L2  W8  4.0
+  2 Boyes, Naomi           HSCBG84G   100   295/  8  BYE W5  W8  W1  L3  4.0
+  3 Farris, Oliad          VTAAG47T   100   475/  5  L1  W9  W11 W4  W2  4.0
+  4 Cruz, Levi             FMPCJ92J   151   246/ 22  W10 W8  L1  L3  W9  3.0
+  5 Lupekha, Elias         FFSCG47S   200   229/  5  D9  L2  D10 W11 W6  3.0
+  6 Smith, Soren           SPWBG84F   100   145/  9  W11 L1  W7  D9  L5  2.5
+  7 Douglas, Lucas         FMPCG47R   200   100/  4  L8  D10 L6  BYE W11 2.5
+  8 Morgan, Paige          FMPCG84H   211   180/  9  W7  L4  L2  W10 L1  2.0
+  9 Arnett, Harlie         FMPCG47Q   200   100/  4  D5  L3  BYE D6  L4  2.0
+ 10 Maddox, Ellis          FMPBG47P   100   100/  4  L4  D7  D5  L8  BYE 2.0
+ 11 Shove, Owen            FMPBG47N   100   100/  4  L6  BYE L3  L5  L7  1.0

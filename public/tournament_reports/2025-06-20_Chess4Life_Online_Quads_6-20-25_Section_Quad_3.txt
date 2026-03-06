@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mathew, Reuben         MRIAG33B   688   705/ 17  W4  W3  D2  2.5
+  2 Diaz, Gerardo          CPCIH11F   485   533/  8  BYE W4  D1  2.5
+  3 Lee, Julianus          CDWEK90C   654   627/ 67  W5  L1  BYE 2.0
+  4 Nishanth, Ahan         RSAAH60N   249   254/ 34  L1  L2  W5  1.0
+  5 Zeng, Alex             CMCBG27X   100   100/  2  L3  BYE L4  1.0

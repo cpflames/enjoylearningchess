@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Guity, Walter          ADUND92T  1627  1656/ 35  W15 W5  W9  W12 W10 5.0
+  2 Moroney, Timothy       ADUN276J  2066  2078/ 87  W22 W14 W17 W11 W13 5.0
+  3 Sankrithi, Siva        ADUNI948  1400  1412/ 87  W7  W18 D4  W20 WF  4.5
+  4 Berg, Leonard          REDKG38E  1000  1405/  4  W21 WF  D3  W16 W18 4.5
+  5 Khudyev, Emil          ADUNG38D  1300  1488/  5  W12 L1  W19 W15 W9  4.0
+  6 June, Peter            ADUN9213  1906  1887/353  W17 W8  W14 L13 W22 4.0
+  7 Woltjer, Jordan        ADUNG38C  1300  1199/  5  L3  W20 W16 W18 W21 4.0
+  8 Tan, Johnny            CLELJ72U  1562  1574/ 25  WF  L6  W22 W17 W11 4.0
+  9 Ramola, Atharv         REDJ684P   931  1083/ 26  W19 W10 L1  W23 L5  3.0
+ 10 Anbuselvam, Mithran    HEAGH61F  1178  1168/190  W16 L9  W12 D19 L1  2.5
+ 11 Joshi, Vyom            NRCJH81X  1332  1362/346  D14 W22 W13 L2  L8  2.5
+ 12 Sidhu, Ruhaan          NRCJJ77E  1191  1189/ 20  L5  W15 L10 L1  W23 2.0
+ 13 Ma, Ziliang            DCCHA69N  1453  1436/163  W23 L17 L11 W6  L2  2.0
+ 14 Raj, Skandha           EVGCK55U  1398  1391/180  D11 L2  L6  W22 D17 2.0
+ 15 Lee, Justin            CNLI732V  1224  1205/123  L1  L12 W23 L5  W19 2.0
+ 16 Nguyen, Andrew         CLEKG46Z   854   894/  9  L10 W21 L7  L4  W20 2.0
+ 17 Chakravarthy, Sidhanth REDK1564  1184  1237/345  L6  W13 L2  L8  D14 1.5
+ 18 Sundararajan, GirisudhaADUNH43S   906   888/ 10  D20 L3  W21 L7  L4  1.5
+ 19 Sivalingam, Lenin RavinADUNG38B  1300  1004/  5  L9  W23 L5  D10 L15 1.5
+ 20 Sahdev, Shaurya        NRCJH45P   773   751/  9  D18 L7  WF  L3  L16 1.5
+ 21 Sadhu, Shanmukha       RHJHG75L   674   645/ 14  L4  L16 L18 WF  L7  1.0
+ 22 Byelashov, Alex        ADUNH71K  1139  1116/ 20  L2  L11 L8  L14 L6  0.0
+ 23 Porad-brand, Lewis     CLEKH22V  1031   955/ 26  L13 L19 L15 L9  L12 0.0

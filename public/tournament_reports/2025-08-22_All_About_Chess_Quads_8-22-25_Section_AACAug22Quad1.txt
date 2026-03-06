@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Patrick         SSSCK01J  1308  1380/356  W2  W4  W3  3.0
+  2 Kulkarni, Samik        KKNBH67M  1155  1220/ 79  L1  W3  W4  2.0
+  3 Dhameeja, Ved          GRRFJ98F  1254  1208/194  D4  L2  L1  0.5
+  4 Mohammed, Farhan       CRKEH14M  1242  1199/105  D3  L1  L2  0.5

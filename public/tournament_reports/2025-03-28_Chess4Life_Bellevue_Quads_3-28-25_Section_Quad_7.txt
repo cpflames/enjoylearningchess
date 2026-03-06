@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kunz, Anikin           BURKH44A   477   485/ 38  W4  W3  L2  2.0
+  2 Balan, Vidyut          LAVEH68B   427   452/ 44  L3  W4  W1  2.0
+  3 Bansal, Aarav          HSCCH28J   369   351/ 21  W2  L1  L4  1.0
+  4 Yen, Lucas             ETSBH56P   362   347/ 19  L1  L2  W3  1.0

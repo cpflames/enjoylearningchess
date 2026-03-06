@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Lum, Boaz              LIBDJ62C  1250  1322/ 77  W13 W11 W6  W12 W4  5.0
+  2 Menjivar, Bryan        OCHGJ80L   899  1082/ 69  L4  W14 W7  W11 W5  4.0
+  3 Hong, Samira           MCGEB77R   967  1019/112  W16 D4  L11 W8  W10 3.5
+  4 Mosqueda, Luke         LIBEH90L  1115  1130/ 60  W2  D3  D12 W9  L1  3.0
+  5 Singh, Yuvraj          LIBDH56L   869   987/ 28  D12 D9  W13 W6  L2  3.0
+  6 Naungayan, Landon      RRGGJ80K  1071  1065/ 70  W17 W8  L1  L5  W14 3.0
+  7 Phillips, Henry        MCGFH43N  1136  1103/ 30  L8  W10 L2  W16 W11 3.0
+  8 Chavez, Israel         MCUFK69M   931   960/ 89  W7  L6  W15 L3  W17 3.0
+  9 Chin, Ian              LECFF95D   976   997/125  D10 D5  W16 L4  W12 3.0
+ 10 Vasquez, Mateo         MCUFK26G   836   881/144  D9  L7  W17 W13 L3  2.5
+ 11 Carranza, Aly Omar     RCEEJ78V   988   986/ 60  W14 L1  W3  L2  L7  2.0
+ 12 Vanderschoor, Peyton   JMLG490Y  1111  1068/104  D5  W15 D4  L1  L9  2.0
+ 13 Castaneda, Amaure Jr   RFPEH27B   941   896/ 24  L1  W17 L5  L10 BYE 2.0
+ 14 Mendez, Jaden          JMLGI40R   838   820/ 84  L11 L2  BYE W15 L6  2.0
+ 15 Menjivar, Valery       RFREJ78D   804   775/ 73  BYE L12 L8  L14 W16 2.0
+ 16 Pumphrey, Brooks       CRPFJ79M   833   761/ 63  L3  BYE L9  L7  L15 1.0
+ 17 Ramirez, Kane          WIWEJ72E   850   770/117  L6  L13 L10 BYE L8  1.0

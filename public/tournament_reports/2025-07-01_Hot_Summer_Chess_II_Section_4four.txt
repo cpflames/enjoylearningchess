@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Westergreen, Korben    HORIH39X   639   787/ 30  W3  W2  W4  3.0
+  2 Davis, Buzz            FACGH39Y   558   624/ 31  W4  L1  W6  2.0
+  3 Smith, Benjamin        BLEEG44D   579   607/ 75  L1  W6  W5  2.0
+  4 Kaur, Prabhkirat       IREFE41C   641   603/ 58  L2  W5  L1  1.0
+  5 Javed, Angelica        VSTFK36A   411   417/ 26  W6  L4  L3  1.0
+  6 Louws, Micah           CUECJ16B   603   493/ 58  L5  L3  L2  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lee, Zachary           STTAH63W   780   804/ 55  W3  W2  L4  2.0
+  2 Lee, Owain             LLFEG59B   765   794/ 19  W4  L1  W3  2.0
+  3 Talukdar, Yuvaan       RBRBH76K   754   731/102  L1  W4  L2  1.0
+  4 Zhang, Eli             CHRCH69C   771   742/ 78  L2  L3  W1  1.0

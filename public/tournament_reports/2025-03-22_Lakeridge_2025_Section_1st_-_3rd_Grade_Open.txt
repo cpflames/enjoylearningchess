@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Frenk, Rafael          CSICJ75L  1086  1122/ 55  W10 W7  W6  W4  L2  4.0
+  2 Byelashova, Sofia      SGHCK01K  1014  1073/162  L3  W13 W9  W8  W1  4.0
+  3 Cai, Emily             CNHCH60H   760   975/ 65  W2  L4  W14 W6  D5  3.5
+  4 Zhang, Patrick         SSSCK01J  1013  1052/262  W16 W3  D5  L1  W9  3.5
+  5 Ahsant, Nickrad        WELCJ56K  1096  1093/ 73  W17 D9  D4  W7  D3  3.5
+  6 Ivanov, Matvei         EABDK34E  1077  1051/106  W15 W8  L1  L3  W10 3.0
+  7 Gray, Carter           COSBH33E   900   918/ 35  W14 L1  W12 L5  W11 3.0
+  8 Simons, Winston        LKDCK28S   845   870/ 40  W11 L6  W13 L2  W12 3.0
+  9 Yeh, George            COSCH64S   975   963/ 22  W12 D5  L2  W11 L4  2.5
+ 10 Hu, Ryan               OPWBJ97N   789   779/116  L1  L14 W15 W18 L6  2.0
+ 11 Lam, Sebastian         OPWCJ97R   715   729/ 84  L8  W15 W16 L9  L7  2.0
+ 12 Joseph, George         CDIDH11C   725   734/ 35  L9  W17 L7  W13 L8  2.0
+ 13 Ta, Jaxson             KSTDJ54Z   663   673/ 49  W18 L2  L8  L12 W16 2.0
+ 14 Yang, Jonathan         LKDCK55R   718   723/ 77  L7  W10 L3  W16 L17 2.0
+ 15 Sharma, Sidarth        EVGCJ75G   787   756/ 98  L6  L11 L10 W17 W18 2.0
+ 16 Shing, Lucas           HZFDJ74H   745   666/100  L4  W18 L11 L14 L13 1.0
+ 17 Menezes, Kian          MEDCJ97B   817   725/ 83  L5  L12 L18 L15 W14 1.0
+ 18 Margetan, Alston       MTWDW85Y   645   592/ 31  L13 L16 W17 L10 L15 1.0

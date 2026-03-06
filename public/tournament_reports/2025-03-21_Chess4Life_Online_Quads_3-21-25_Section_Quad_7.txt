@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kocherlakota, Adithya  EBSBH74T   142   199/ 12  W3  U   D2  1.5
+  2 Nishanth, Ahan         RSAAH60N   322   326/ 13  U   W3  D1  1.5
+  3 Molleda, Eric          RSHFG59A   500   100/  2  L1  L2  U   0.0

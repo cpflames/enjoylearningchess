@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kesher, Zavi           BENEH62L   693   691/ 40  W3  L2  U   1.0
+  2 Hu, Maxwell            BCABK03N   678   680/ 60  U   W1  L3  1.0
+  3 Tharanian, Advay       DGHG855X   683   683/ 16  L1  U   W2  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mehta, Ishaan          SSMFK65Y   448   503/ 20  D2  W4  W3  2.5
+  2 James, Jubal           XXXHG48Q   700   596/  3  D1  W3  W4  2.5
+  3 Li, Brian              CGRCH72Y   262   263/ 22  W4  L2  L1  1.0
+  4 Miller, Varia          HSCBG59H   256   152/  6  L3  L1  L2  0.0

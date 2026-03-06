@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Eric            SOMDK64M   838   980/ 73  W4  W2  W3  3.0
+  2 Agarwal, Kavir         MEDF152U   915   928/ 74  W3  L1  W4  2.0
+  3 Sivakumar, Vedant      INGHH63H   791   785/ 78  L2  W4  L1  1.0
+  4 Deng, Lucas            DISDH87X   852   775/ 58  L1  L3  L2  0.0

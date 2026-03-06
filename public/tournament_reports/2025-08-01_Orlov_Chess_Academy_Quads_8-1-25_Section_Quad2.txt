@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Doronin, Victor        BMNH335T   723   748/137  D2  W3  U5  W4  U   2.5
+  2 Wagstaff, Kellan       EMSGG24J   600   822/  3  D1  U   U3  W5  W4  2.5
+  3 Sijin, Ryan            BENCG24X   320   441/  5  U4  L1  U2  U   W5  1.0
+  4 Ferris, Sam            LLLAG54F   191   191/  7  U3  U5  U   L1  L2  0.0
+  5 Rehmeyer, Malcolm      FHMHH62C   585   524/ 59  U   U4  U1  L2  L3  0.0

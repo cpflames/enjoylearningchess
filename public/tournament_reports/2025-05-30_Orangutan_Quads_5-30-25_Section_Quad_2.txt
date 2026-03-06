@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tentor, Jalil          BFDFK39U   507   654/ 22  D3  W2  D4  2.0
+  2 Bansal, Neev           KKNDH05Z   794   798/ 22  W4  L1  W3  2.0
+  3 Ovetskiy, Peter        HZFCG80E   843   805/ 13  D1  W4  L2  1.5
+  4 Lee, Aiden             HZFBG79U   654   599/  9  L2  L3  D1  0.5

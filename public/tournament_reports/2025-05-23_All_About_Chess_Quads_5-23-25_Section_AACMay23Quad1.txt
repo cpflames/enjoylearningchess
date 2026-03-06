@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ge, Jeremy             SOMCJ88K  1144  1196/319  W3  W4  L2  2.0
+  2 Bhasin, Palash         ISMGH95H  1204  1228/154  W4  L3  W1  2.0
+  3 Li, Harry              SPTFG30G  1257  1267/515  L1  W2  W4  2.0
+  4 Ye, Alex               ENDFH51L  1214  1144/279  L2  L1  L3  0.0

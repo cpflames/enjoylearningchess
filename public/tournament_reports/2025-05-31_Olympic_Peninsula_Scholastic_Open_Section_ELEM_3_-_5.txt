@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Rish-brown, Jackson    HMOFH57T  1115  1239/ 66  W13 W12 W2  W4  W5  5.0
+  2 Byelashova, Darya      SGHEK51X  1190  1170/216  W8  W6  L1  D3  W10 3.5
+  3 Rish-brown, Jacob      HMOFK61J   921   974/ 76  W11 L9  W7  D2  W4  3.5
+  4 Byelashova, Sofia      SGHCK01K   963  1003/188  W10 W5  W9  L1  L3  3.0
+  5 Glaser, Liam           PCLFG34P  1233  1172/ 14  W7  L4  W6  W8  L1  3.0
+  6 Johnson, Lars          HSCDG74D   777   855/ 29  W9  L2  L5  W12 W11 3.0
+  7 Einarson, Finn         OBKD256K   723   751/144  L5  W14 L3  D11 W8  2.5
+  8 Johnson, Elke          HSCCG73L   673   695/ 29  L2  W10 W11 L5  L7  2.0
+  9 Muscutt, Abraham       ALSFJ71L  1026   948/ 69  L6  W3  L4  L10 W12 2.0
+ 10 Rosenthal, Eli         THUCG58B   603   665/ 29  L4  L8  W12 W9  L2  2.0
+ 11 Churchill, Lucian      FVAEG74F   601   619/ 10  L3  W13 L8  D7  L6  1.5
+ 12 Buractaon, Alexander   OBKFG78E   587   587/ 24  W14 L1  L10 L6  L9  1.0
+ 13 Oneppo, Bennett        SLHEG45E   748   698/ 12  L1  L11 U   U   U   0.0
+ 14 Judd, George           PURFJ57F   817   728/ 66  L12 L7  U   U   U   0.0

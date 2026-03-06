@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yang, Justin           SPTNJ486  1342  1343/109  U   W3  W2  2.0
+  2 Rehmeyer, Malcolm      FHMHH62C   618   630/ 39  W3  U   L1  1.0
+  3 Dayani, Viraj          SRAF118W   370   356/ 37  L2  L1  U   0.0

@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Viswanatha, Sruti      REJH289A   933  1100/  9  W5  D3  W7  W4  3.5
+  2 Anand, Lakshana        TMBGC68H  1182  1184/157  L3  W5  W6  W8  3.0
+  3 Balasubramanian, PrakriAGNGW80U  1015  1069/ 14  W2  D1  W4  L5  2.5
+  4 Razmov, Siana          HSCCK93Y   943   965/192  W7  W6  L3  L1  2.0
+  5 Cai, Emily             CNHCH60H  1041  1051/ 77  L1  L2  W8  W3  2.0
+  6 Datta, Ishana          KKNDH60X   825   908/ 39  W8  L4  L2  W7  2.0
+  7 Qu, Yuwen              RSACK86G  1086  1010/125  L4  W8  L1  L6  1.0
+  8 Gui, Joyce             OPWCH92C  1085   974/150  L6  L7  L5  L2  0.0

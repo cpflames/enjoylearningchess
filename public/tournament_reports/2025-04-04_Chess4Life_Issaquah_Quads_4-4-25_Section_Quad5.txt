@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Madadi, Hannah         CGRCH65Y   211   292/ 27  D2  W3  W4  2.5
+  2 Fang, Roger            ENABH14K   136   218/ 11  D1  W4  W5  2.5
+  3 Manikantan, Tejas      CHACH34E   100   121/  8  W5  L1  BYE 2.0
+  4 Wang, Mason            CCDAH04W   100   100/  5  BYE L2  L1  1.0
+  5 Li, George             HSCAH57Y   167   100/  9  L3  BYE L2  1.0

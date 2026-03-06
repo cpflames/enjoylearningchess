@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Zhou, Bryan            LBYHK50Q  1193  1306/ 47  D3  W6  D2  W5  3.0
+  2 Li, Jessie             IDXGY99Q  1460  1454/ 44  W8  W5  D1  D3  3.0
+  3 Mcintyre, John B       HSCGJ63F  1259  1284/ 79  D1  D4  W7  D2  2.5
+  4 Li, Roy                IDXDY99P  1141  1164/ 44  W6  D3  L5  W8  2.5
+  5 Keener, Karl           HLHJY40G  1287  1283/176  W7  L2  W4  L1  2.0
+  6 Kelley, Jacob          HSCKG87E  1301  1168/  9  L4  L1  W8  D7  1.5
+  7 Tran, Kieu             ODSLH03P  1132  1107/ 15  L5  W8  L3  D6  1.5
+  8 Duncan, Andy           ADUNG78R  1300   723/  4  L2  L7  L6  L4  0.0

@@ -1,0 +1,3 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Paine, Tammy           ADUNG38A   614   715/  4  W2  1.0
+  2 Huttelmaier, Evelyn    CHRG757Z   662   631/166  L1  0.0

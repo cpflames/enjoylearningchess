@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Venkatesh, Aiden       WEDAH37S   488   569/ 40  W6  W4  L2  W3  W5  4.0
+  2 Stultz, Isaac          WEDAH04B   370   500/ 14  WF  W3  W1  L4  W8  4.0
+  3 Chin, Kheiron          HSCAJ19P   524   510/107  W7  L2  W5  L1  W4  3.0
+  4 Karaca, Aslan          LKDAH50Z   481   477/ 55  W9  L1  W6  W2  L3  3.0
+  5 Ta, Jaiden             KSTAG56Y   316   336/ 10  W8  W7  L3  W9  L1  3.0
+  6 Law, Apollo            WEDAH03Y   151   215/ 14  L1  W8  L4  W7  BYE 3.0
+  7 Patten, Lenna          SGAAG45A   179   139/  9  L3  L5  BYE L6  W9  2.0
+  8 Sayre, Dante           WEDAG48J   100   100/  4  L5  L6  D9  BYE L2  1.5
+  9 Bellam, Siddhant       WDEAG51Z   100   100/  7  L4  BYE D8  L5  L7  1.5

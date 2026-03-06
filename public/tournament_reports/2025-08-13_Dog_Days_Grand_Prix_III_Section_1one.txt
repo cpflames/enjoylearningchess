@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Stroud, Jeb            SHMJK22V  1548  1636/233  W3  W2  W4  3.0
+  2 Zhang, Owen            SHMJ995H  1662  1666/382  W4  L1  W3  2.0
+  3 Scollon, Owen          SHMJ734D  1768  1726/584  L1  W4  L2  1.0
+  4 Orsino, Thomas         WHMIH40B  1142  1135/ 65  L2  L3  L1  0.0

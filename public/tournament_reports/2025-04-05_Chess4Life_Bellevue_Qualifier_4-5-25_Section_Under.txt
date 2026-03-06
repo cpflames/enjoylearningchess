@@ -1,0 +1,27 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Rajan, Samvid          REEDK05K   622   722/ 38  W17 W10 W2  W5  L3  4.0
+  2 Lee, Jaydon            RSHFH25S   771   789/ 38  W12 W3  L1  W14 W8  4.0
+  3 Dhole, Arjun           DISE752D   489   638/ 61  W19 L2  W18 W13 W1  4.0
+  4 Chantarachoti, BrightonMUKDH15W   468   577/ 27  W23 L5  W24 W15 W14 4.0
+  5 Song, Ryan             BASEA66T   709   714/ 30  W9  W4  W16 L1  D6  3.5
+  6 Sreeram, Aditya        CEIF340K   699   682/ 55  W24 L13 W10 W9  D5  3.5
+  7 Masuda, Ikaika         INGGH61X   652   624/ 38  D21 L8  W11 W22 W13 3.5
+  8 Kamaraju, Akhil        DISEH66C   465   492/ 52  L22 W7  W19 W16 L2  3.0
+  9 Kurmakaev, Ian         NLACH81J   378   459/ 20  L5  W21 W22 L6  W16 3.0
+ 10 Singh, Vivaan          SSMGJ49M   392   423/ 21  W26 L1  L6  W17 W15 3.0
+ 11 Molleda, Eric          RSHFG59A   100   361/  7  L13 W17 L7  W18 W21 3.0
+ 12 Deng, Leo              CSICG51B   356   411/ 10  L2  L15 W21 W19 W20 3.0
+ 13 Sambathraj, Raghav     MRLDJ31B   422   517/ 24  W11 W6  D14 L3  L7  2.5
+ 14 Chantarachoti, Beamer  HPTGH15Z   737   670/ 25  W18 W20 D13 L2  L4  2.5
+ 15 Kocherlakota, Adithya  EBSBH74T   238   292/ 20  L16 W12 W20 L4  L10 2.0
+ 16 Perianayagam, Gautham  CSIEG99T   271   320/ 19  W15 W22 L5  L8  L9  2.0
+ 17 Venkatesh, Anya        HMNCJ30F   293   289/ 88  L1  L11 W25 L10 W24 2.0
+ 18 Han, Isaac             CGRBH65V   356   338/ 25  L14 W23 L3  L11 W26 2.0
+ 19 Jin, Charlie           SOMDK42J   237   245/ 36  L3  W26 L8  L12 W25 2.0
+ 20 Masuda, Kapono         INGGG71L   464   394/ 16  W25 L14 L15 W24 L12 2.0
+ 21 Lee, Siyoon            WOBDG65A   306   285/ 10  D7  L9  L12 W23 L11 1.5
+ 22 Zeitlin, Guy           WOBBG55N   522   395/ 10  W8  L16 L9  L7  D23 1.5
+ 23 Serena, Gabriele       SNBEG64Y   236   201/ 10  L4  L18 W26 L21 D22 1.5
+ 24 Lai, Brycen            CLHEK02D   312   254/ 57  L6  W25 L4  L20 L17 1.0
+ 25 Arora, Kyra            BCABH34R   188   119/ 13  L20 L24 L17 W26 L19 1.0
+ 26 Rangarajan, Dhev       NLABH51F   100   100/ 16  L10 L19 L23 L25 L18 0.0

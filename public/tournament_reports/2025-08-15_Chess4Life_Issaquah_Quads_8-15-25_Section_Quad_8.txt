@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Purohit, Nishka        BCABG23S   100   578/  3  W6  W4  W3  3.0
+  2 Noman, Raaim           AMOBH72K   133   254/ 14  D3  W6  W4  2.5
+  3 Deshmukh, Maithili     SHSAG71H   147   201/ 14  D2  W5  L1  1.5
+  4 Naredi, Ishanvi        CRKBG78G   100   127/  8  W5  L1  L2  1.0
+  5 Yadav, Dhavit          TBKAG35T   208   146/ 20  L4  L3  W6  1.0
+  6 Abdukarimov, Umid      BENAG27P   100   100/ 19  L1  L2  L5  0.0

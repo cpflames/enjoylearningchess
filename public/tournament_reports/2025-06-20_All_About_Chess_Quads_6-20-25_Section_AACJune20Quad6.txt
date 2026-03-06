@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jahani, Nikan          IMSGK89A   771   807/179  W4  W3  D2  2.5
+  2 Ram, Yaalini           SNECH87H   737   752/107  W3  D4  D1  2.0
+  3 Joseph, George         CDIDH11C   643   629/ 57  L2  L1  W4  1.0
+  4 Balaji, Vaibhav        SSMCH28Z   615   580/ 64  L1  D2  L3  0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yorks, Cameron         CSIEJ74Q   925   902/ 52  W3  W4  L2  2.0
+  2 Jariwala, Vidur        THOEK87P   725   757/ 74  W4  L3  W1  2.0
+  3 Fuhriman, Tai          WWDDH06W   610   690/ 10  L1  W2  W4  2.0
+  4 Yao, Roger Yutang      THOCK88C   640   579/107  L2  L1  L3  0.0

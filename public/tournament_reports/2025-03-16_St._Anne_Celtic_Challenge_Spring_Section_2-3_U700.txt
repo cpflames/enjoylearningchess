@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Shing, Lucas           OCXDJ74H   581   745/ 95  WF  W8  W2  D4  W5  4.5
+  2 Yin, Nolan             CCDBH64W   561   723/ 37  W17 W7  L1  W9  W4  4.0
+  3 Cauich-miller, Marco   CSDCJ97P   460   539/ 23  W16 L5  W14 W10 W6  4.0
+  4 Dai, Gordon            ENDDK87Y   680   700/ 61  W13 W6  W5  D1  L2  3.5
+  5 Meenakshi Sundaram, PavCDWCJ99Z   501   543/ 19  W11 W3  L4  W8  L1  3.0
+  6 Wang, Edda             FRWCK34Z   584   582/ 90  W14 L4  W12 W7  L3  3.0
+  7 Luo, Vivienne          NPTD703P   745   690/149  W12 L2  W10 L6  W11 3.0
+  8 Kotsinyan, Erik        EVPCJ56F   449   451/ 45  W18 L1  W11 L5  W12 3.0
+  9 Velichko, Kristina     ASACK07V   687   630/142  L10 W18 W13 L2  W15 3.0
+ 10 Santiago, Joseph       SANDJ74B   402   392/ 28  W9  L13 L7  L3  W16 2.0
+ 11 Astafyeva, Veronica    MRPCH51S   100   188/ 14  L5  W16 L8  W13 L7  2.0
+ 12 Myaskovsky, Evan       CNCCJ96E   323   320/ 18  L7  W17 L6  W14 L8  2.0
+ 13 Dwyer, Magnus          THUDG99P   320   320/ 10  L4  W10 L9  L11 W17 2.0
+ 14 Fritzky, Isla          SANCH16T   100   141/  7  L6  BYE L3  L12 W18 2.0
+ 15 Lu, Andy               JINDJ02X   167   251/ 25  LF  U   W18 W16 L9  2.0
+ 16 Abhishek, Aditi        KKNCG60D   200   100/  5  L3  L11 W17 L15 L10 1.0
+ 17 Lundquist, Matthew     SANCH96X   130   100/ 15  L2  L12 L16 W18 L13 1.0
+ 18 Berryman Ellison, AnderSANCH16S   500   100/  6  L8  L9  L15 L17 L14 0.0

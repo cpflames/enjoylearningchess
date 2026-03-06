@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zeng, Liam             SHSAH05U   722   771/ 32  W14 W5  W4  W2  W7  5.0
+  2 Karaca, Aslan          LKDAH50Z   477   504/ 60  D11 W7  W3  L1  W5  3.5
+  3 Pressley, Adrian       DCCBG45P   100   423/  5  D8  W9  L2  W10 W11 3.5
+  4 Chin, Kheiron          HSCAJ19P   510   505/112  W13 W15 L1  D7  W8  3.5
+  5 Jayakrishnan, Archith  FRVBG58A   346   376/ 14  W12 L1  W8  W6  L2  3.0
+  6 Gomez, Camilo          RITBG45M   100   220/  4  L7  BYE W12 L5  W13 3.0
+  7 Dai, Kevin             CMCAH23V   248   315/ 19  W6  L2  W15 D4  L1  2.5
+  8 Karaca, Jasmine        LKDBJ66B   217   281/ 60  D3  W10 L5  W9  L4  2.5
+  9 Ghosh, Oishani         CBRBJ56E   251   238/ 69  D10 L3  W11 L8  W14 2.5
+ 10 Watson, Oren           JHYBG45H   100   217/  5  D9  L8  W14 L3  W15 2.5
+ 11 Crystal, Jordan        KSTBG57S   100   141/ 10  D2  D14 L9  W12 L3  2.0
+ 12 Duan, Elena            CMCBG45G   100   100/  4  L5  W13 L6  L11 BYE 2.0
+ 13 Cooper, Solomon        SGEBG98V   100   100/ 18  L4  L12 BYE W15 L6  2.0
+ 14 Cooper, Clifford       SGEAG98R   100   100/ 17  L1  D11 L10 BYE L9  1.5
+ 15 Huang, Brandon         MESBG45F   100   100/  4  WF  L4  L7  L13 L10 1.0

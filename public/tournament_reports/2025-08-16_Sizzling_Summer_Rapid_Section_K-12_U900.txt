@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 tot 
+  1 Shi, Luke              WMNCG48Y   659   883/ 17  W10 D4  W8  L2  W5  W7  W3  5.5
+  2 Leung, Avery           RCREZ41H   400   949/  7  W11 W8  D5  W1  W4  L3  W6  5.5
+  3 Han, Felix             MEDBJ41U   644   740/ 45  L6  W14 W16 W9  W7  W2  L1  5.0
+  4 Singh, Vihaan Vikram   RIDEG25R   727   780/ 19  W15 D1  W7  W5  L2  L6  W10 4.5
+  5 Khandelwal, Anay       OMSHA10L   779   779/ 99  W14 W6  D2  L4  L1  W13 W15 4.5
+  6 Petito, John           HSCE453W   744   757/ 44  W3  L5  W10 L7  W9  W4  L2  4.0
+  7 Dai, Aaron             CMCEH06E   703   700/ 26  W9  W16 L4  W6  L3  L1  W13 4.0
+  8 Khambatti, Rameses     OVLH719W   642   641/ 41  W13 L2  L1  W16 W12 L10 W14 4.0
+  9 Gao, Arden             JINBH35W   501   543/ 34  L7  W15 W13 L3  L6  W11 W12 4.0
+ 10 Srishankar, Suryaa     FRWFK87F   761   711/ 54  L1  W12 L6  W11 D13 W8  L4  3.5
+ 11 Deshpande, Sushant     CMCCG43P   381   395/ 28  L2  L13 W12 L10 W15 L9  W16 3.0
+ 12 Shah, Aarush           SKIHK00C   599   501/ 56  BYE L10 L11 W15 L8  W14 L9  3.0
+ 13 Ginal, Maxwell         THUFG23A   500   466/  7  L8  W11 L9  W14 D10 L5  L7  2.5
+ 14 Dai, Kevin             CMCAH23V   362   332/ 30  L5  L3  W15 L13 W16 L12 L8  2.0
+ 15 Pulla, Arohan          AUDDG51U   229   192/ 30  L4  L9  L14 L12 L11 W16 L5  1.0
+ 16 Sampat, Harshal        CHKBG22Y   100   100/  6  WF  L7  L3  L8  L14 L15 L11 1.0

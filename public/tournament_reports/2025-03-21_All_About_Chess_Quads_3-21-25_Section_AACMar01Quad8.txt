@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jahani, Nikan          IMSGK89A   648   738/158  W4  W2  D3  2.5
+  2 Charles, Benjamin      SOMBJ06G   664   692/100  W3  L1  W4  2.0
+  3 Sathyamurthy, Shreyus  BLWCJ60Z   631   640/136  L2  W4  D1  1.5
+  4 Bayya, Shrihan         CBREJ74M   655   569/ 34  L1  L3  L2  0.0

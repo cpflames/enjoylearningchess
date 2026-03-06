@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhao, Kevin            EVGEK54M   969  1020/ 73  D2  W4  W3  2.5
+  2 Wang, Aaron            HMND631T   877   980/133  D1  W3  W4  2.5
+  3 Lee, Jaydon            RSHFH25S   909   889/ 51  W4  L2  L1  1.0
+  4 Talukdar, Yuvaan       RBRBH76K   904   832/117  L3  L1  L2  0.0

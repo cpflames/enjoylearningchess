@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zeeshan, Hamza         CRKEJ15N   698   736/ 72  W3  W2  U   2.0
+  2 Rehmeyer, Malcolm      FHMHH62C   652   638/ 34  U   L1  W3  1.0
+  3 Dayani, Viraj          SRAF118W   414   387/ 29  L1  U   L2  0.0

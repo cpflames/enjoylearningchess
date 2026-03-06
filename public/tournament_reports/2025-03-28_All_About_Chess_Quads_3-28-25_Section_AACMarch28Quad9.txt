@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dang, Aaron            SOMCH60W   402   420/ 37  W4  W2  L3  2.0
+  2 Ram, Yaalini           SNECH87H   340   389/ 63  W3  L1  W4  2.0
+  3 Zahand, Chase          CEIEH64H   340   389/ 12  L2  W4  W1  2.0
+  4 Shin, Joshua           CRKCJ63R   332   246/114  L1  L3  L2  0.0

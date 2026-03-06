@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Colak, Ozan            BRYAG71J   163   232/ 11  W3  W4  D2  2.5
+  2 Lo, Royce              LAVEJ83K   100   232/  7  W4  W3  D1  2.5
+  3 Yadav, Dhavit          TBKAG35T   100   100/  8  L1  L2  W4  1.0
+  4 Mattoo, Eshaan         HWEAG68F   100   100/ 19  L2  L1  L3  0.0

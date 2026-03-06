@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Schechter, Elizabeth   MEDF373X   615   712/104  W19 D4  W16 W6  W2  4.5
+  2 Gouwang, Aixin         MEDE635H   610   684/ 39  W12 W17 W7  W3  L1  4.0
+  3 Zhang, Arwen           SOMF484A   638   685/130  W21 W5  W8  L2  W7  4.0
+  4 Pareek, Aarohi         SSMFJ55S   457   530/ 36  W20 D1  W10 L8  W12 3.5
+  5 Sivanand, Raga         OPWEG97Z   512   555/ 55  W9  L3  D13 W22 W8  3.5
+  6 Badi, Shreya           MTWFK52A   611   591/ 84  W15 L7  W9  L1  W18 3.0
+  7 Grimm, Gia             EHAEJ55G   510   539/ 58  W22 W6  L2  W16 L3  3.0
+  8 Guity, Sage            SYRE251G   581   562/ 93  WF  W18 L3  W4  L5  3.0
+  9 Sudhir, Aakanksha      MEDFG67F   258   348/ 10  L5  W24 L6  W21 W17 3.0
+ 10 Gudimella, Kavya       CMCEG63M   400   456/  5  D14 W23 L4  D18 W16 3.0
+ 11 Michael, Sophia        DCCE704F   572   521/ 89  D23 L16 W15 D12 W13 3.0
+ 12 Dua, Anaya             SHVEG67C   100   275/ 10  L2  W19 W17 D11 L4  2.5
+ 13 Qing, Emily            SSMEG63L   400   404/  5  L17 W21 D5  W14 L11 2.5
+ 14 Lu, Clemence           JINEK84Y   454   411/ 38  D10 D15 D20 L13 W22 2.5
+ 15 Yan, Emma              MEDEK33R   360   364/ 22  L6  D14 L11 W23 W24 2.5
+ 16 Koul, Navika           RSAEJ83L   382   385/ 73  W25 W11 L1  L7  L10 2.0
+ 17 Badi, Sanvi            MTWF151Y   427   380/ 73  W13 L2  L12 W20 L9  2.0
+ 18 Damania, Tanya         SSMFH30B   395   351/ 10  W24 L8  D22 D10 L6  2.0
+ 19 Dragan, Sara           BCSFH67B   254   229/ 18  L1  L12 W23 D24 D20 2.0
+ 20 Yu, Zexin              MEDEG91Q   100   135/  8  L4  BYE D14 L17 D19 2.0
+ 21 Gupta, Pari            MEDF684L   239   217/ 58  L3  L13 BYE L9  W25 2.0
+ 22 Lin, Chen Claire       MEDEG91R   194   211/ 10  L7  W25 D18 L5  L14 1.5
+ 23 Zhou, Stella           MEDF422P   292   229/ 37  D11 L10 L19 L15 BYE 1.5
+ 24 Mukunthu Deepak Babu, ACMCEG63K   400   129/  5  L18 L9  W25 D19 L15 1.5
+ 25 Mordecai, Zohar        AUDFG63J   500   100/  4  L16 L22 L24 BYE L21 1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Srivastava, Om         GTMHG59C   700   850/  3  W3  W4  D2  2.5
+  2 Lee, Owain             LLFEG59B   400   850/  3  W4  W3  D1  2.5
+  3 Hooper, Thomas         CRNGK25G   453   472/ 37  L1  L2  W4  1.0
+  4 Masuda, Kapono         INGGG71L   521   464/ 11  L2  L1  L3  0.0

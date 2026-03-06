@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Deng, Leo              CSICG51B   368   529/ 23  W8  W2  W5  W3  W4  5.0
+  2 Penny, Clementine      ICAEG47W   100   300/  9  W6  L1  W4  W7  W5  4.0
+  3 Pulla, Arohan          AUDDG51U   178   212/ 17  W9  L5  W8  L1  W7  3.0
+  4 Moser, Edward          SLHEG29M   400   276/  4  HPB W7  L2  W5  L1  2.5
+  5 Barnard, Natalie       CXPFG29L   500   203/  5  W7  W3  L1  L4  L2  2.0
+  6 Murphy-pratt, Lael     SLHEG29K   400   221/  2  L2  W8  U   U   U   1.0
+  7 Luong, Liam            SLHFG45B   251   100/  8  L5  L4  HPB L2  L3  0.5
+  8 Arnold, Lance          SLHEG29J   400   100/  3  L1  L6  L3  U   U   0.0
+  9 Redman, Forrest        SLHEG29H   400   100/  1  L3  U   U   U   U   0.0

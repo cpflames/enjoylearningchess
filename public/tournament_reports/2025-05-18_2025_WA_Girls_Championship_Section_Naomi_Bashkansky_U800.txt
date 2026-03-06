@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Cauich-miller, Amalia  HSCEH79V   652   784/ 38  W3  W2  W4  W5  W6  5.0
+  2 Jiang, Callie          UCDAH47C   625   633/ 56  W7  L1  W6  D4  W5  3.5
+  3 Thomas, Tricia         WLDDH05W   185   310/  9  L1  U7  L5  W8  W4  3.0
+  4 Spataro, Anna          STTDK65C   710   646/ 50  W6  W5  L1  D2  L3  2.5
+  5 Tulsukchuentanat, PearlWOBEH63A   441   431/ 25  W8  L4  W3  L1  L2  2.0
+  6 Kolodeznaia, Alice     THODH32F   281   296/ 24  L4  W8  L2  W7  L1  2.0
+  7 Tulsukchuentanat, PremeWOBBH62Y   100   116/ 13  L2  U3  W8  L6  BYE 2.0
+  8 Venkatesan, Lakshana   XXXAG30V   100   100/  4  L5  L6  L7  L3  U   0.0

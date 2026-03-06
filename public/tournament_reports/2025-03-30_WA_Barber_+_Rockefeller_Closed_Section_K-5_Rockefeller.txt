@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Wang, Ted              STTFK13D  2235  2239/324  W8  W11 W2  W6  4.0
+  2 Saddi, Neevan Reddy    GRRFH87M  1953  1956/298  W4  W6  L1  D3  2.5
+  3 Palathingal, Rafael    KKNF196R  1937  1950/202  HPB D5  W7  D2  2.5
+  4 Maharaja, Imai         HMNEK34K  1562  1599/289  L2  W10 D8  W11 2.5
+  5 Pikh, Akim             BLWFH64N  1953  1934/ 50  L11 D3  W9  W8  2.5
+  6 Gao, Ziqian            BLWFK10U  1641  1657/ 91  W10 L2  W11 L1  2.0
+  7 Lin, Michael           BASFC97F  1927  1917/352  W12 W9  L3  U   2.0
+  8 Wu, Shanna             CNHEJ72M  1637  1639/ 70  L1  W12 D4  L5  1.5
+  9 Babbar, Riaan          ENDEJ98D  1387  1390/131  BYE L7  L5  D10 1.5
+ 10 Yang, Jimmy            BASFG45S  1504  1490/252  L6  L4  W12 D9  1.5
+ 11 Sriram, Aahan          OVLFC03K  1528  1535/109  W5  L1  L6  L4  1.0
+ 12 Ma, Lewis              SOMD587M  1518  1479/224  L7  L8  L10 BYE 1.0

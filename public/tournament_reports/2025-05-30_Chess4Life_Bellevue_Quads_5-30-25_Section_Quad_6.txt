@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Namjoshi, Aarav        KKNBG78Z   585   602/ 11  W3  W4  L2  2.0
+  2 Swindell, Adam         MRLFG32Q   360   510/  6  W6  L3  W1  2.0
+  3 Jamil, Raif            REEFG31V   429   546/  6  L1  W2  W5  2.0
+  4 Awasthi, Anay          NLMAG32T   578   480/  6  W5  L1  L6  1.0
+  5 Voigts, Nicholas       DCTFH04T   581   500/  8  L4  W6  L3  1.0
+  6 Tan, Wilson            BRBBG35N   511   458/  8  L2  L5  W4  1.0

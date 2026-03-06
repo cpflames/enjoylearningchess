@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bai, Kelin             SKKGD75J  1016  1075/251  W9  W3  W8  W4  D2  4.5
+  2 Eakin, Anthony         CHGHG65P   791   899/ 17  W10 W4  L3  W8  D1  3.5
+  3 Ji, Melody             SGSDA83X   902   900/106  W12 L1  W2  W9  L5  3.0
+  4 Bray, Patrick          HDPEG58Z   962   951/ 20  W11 L2  W6  L1  W8  3.0
+  5 Aguayo, Chase          LSPIH66L   912   878/ 49  W7  L8  L9  W10 W3  3.0
+  6 Wang, Kelby            SKKE796Y   839   832/175  L8  W7  L4  W11 W9  3.0
+  7 Donahoe, Archie        ALTGK50K   610   638/ 29  L5  L6  W11 W12 W10 3.0
+  8 Abell, Dominic         CFMGY95G   600   841/  5  W6  W5  L1  L2  L4  2.0
+  9 Young, Daniel          EVAHJ96U   686   700/101  L1  W12 W5  L3  L6  2.0
+ 10 Davison, Roland        HSCEG26L   400   404/  5  L2  L11 W12 L5  L7  1.0
+ 11 Donahoe, James         ALTEK49E   652   567/ 29  L4  W10 L7  L6  L12 1.0
+ 12 Hopkins, Beatrice      MCSFK48P   401   392/ 24  L3  L9  L10 L7  W11 1.0

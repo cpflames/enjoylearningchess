@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sudhir, Laasya         CLHCG67E   332   428/ 13  W4  W2  W3  3.0
+  2 Dai, Leo               BCABG48M   158   151/ 18  W3  L1  L4  1.0
+  3 Lai, Brycen            CLHEK02D   281   233/ 65  L2  W4  L1  1.0
+  4 Beasley, Chloe         LLFEH65R   148   144/ 23  L1  L3  W2  1.0

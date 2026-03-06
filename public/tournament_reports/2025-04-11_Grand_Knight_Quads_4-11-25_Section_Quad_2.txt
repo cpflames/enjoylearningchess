@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jiang, Kyle            MEDCK35B  1060  1070/159  W4  W3  L2  2.0
+  2 Gui, Joyce             OPWCH92C   955  1008/133  L3  W4  W1  2.0
+  3 Wu, Jonathan           UCDDK14H  1019   991/ 91  W2  L1  L4  1.0
+  4 Wu, Jayden             UCDD495Q   984   966/155  L1  L2  W3  1.0

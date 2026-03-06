@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Singh, Vihaan Vikram   RIDFG25R   397   517/  9  W5  W2  W3  3.0
+  2 Nandakiran, Advaith    SSMCJ88H   502   481/175  W4  L1  BYE 2.0
+  3 Joye, Quentin          SUBHG24Y   100   237/  5  BYE W5  L1  2.0
+  4 Hudson, Kody           SNEGK45D   133   213/  7  L2  BYE W5  2.0
+  5 Balaji, Vaibhav        SSMCH28Z   529   383/ 75  L1  L3  L4  0.0

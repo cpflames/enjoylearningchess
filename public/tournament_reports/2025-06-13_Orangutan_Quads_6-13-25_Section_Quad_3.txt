@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bartram, Clark         DCTCJ47Q   599   638/ 28  L2  W3  W4  2.0
+  2 Park-brinck, August    WEDDJ54U   633   626/ 47  W1  L4  D3  1.5
+  3 Tentor, Jalil          HTNFK39U   654   641/ 25  W4  L1  D2  1.5
+  4 Allyn, William         THODJ48A   556   545/ 60  L3  W2  L1  1.0

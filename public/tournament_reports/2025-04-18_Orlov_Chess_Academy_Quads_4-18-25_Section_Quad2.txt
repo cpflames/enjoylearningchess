@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Esparza-chen, Lucien   WMNEJ98Z   608   677/ 75  W2  W3  W4  3.0
+  2 Hiraiwa, Lucian        EMSIG37R   800   487/  3  L1  D4  W3  1.5
+  3 Kamath, Ansh           EBSBH35Z   401   394/ 14  W4  L1  L2  1.0
+  4 Zhang, Jeremy          WOBFG65M   415   363/  9  L3  D2  L1  0.5

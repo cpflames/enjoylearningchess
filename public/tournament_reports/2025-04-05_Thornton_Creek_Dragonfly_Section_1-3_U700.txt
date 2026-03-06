@@ -1,0 +1,35 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Yao, Roger Yutang      THOCK88C   579   775/112  W13 W12 W14 W4  W3  5.0
+  2 Oatey, Ethan           DCTDH33K   582   686/ 14  W21 HPB W19 W10 W6  4.5
+  3 Raghavendran, Vedanth  DCSBH24C   445   669/ 18  W25 W11 W7  W8  L1  4.0
+  4 Armstrong, Josephine   EVGCK86A   676   685/115  W22 W24 W9  L1  W12 4.0
+  5 Hafenbrack, Angelo     WEDDG58D   426   522/ 10  W33 L7  W20 W22 W11 4.0
+  6 Mehta, Anaisha         MEDDG91G   412   446/ 22  BYE W28 W33 W16 L2  4.0
+  7 Hasson, Ari            SJCBJ47L   666   661/ 68  W16 W5  L3  W14 D9  3.5
+  8 Gaddam, Aryan          RKWCJ99T   684   666/ 46  W20 W18 D10 L3  W13 3.5
+  9 Dai, Pax               NOWCJ68M   448   519/ 39  W27 W23 L4  W15 D7  3.5
+ 10 Han, Felix             MEDBJ41U   536   560/ 32  WF  W17 D8  L2  W19 3.5
+ 11 Ben Simon, Golan       SJCDJ48B   681   636/ 52  W15 L3  W17 W23 L5  3.0
+ 12 Rosenthal, Eli         THUCG58B   351   395/ 10  W29 L1  W27 W21 L4  3.0
+ 13 Choi, Abraham          DCTDH04N   131   288/ 10  L1  W31 W28 W24 L8  3.0
+ 14 Swigon, Bruno          WEDBH92N   318   375/ 28  WF  W26 L1  L7  W24 3.0
+ 15 Nguyen, Kaden          JINDJ74K   271   387/ 20  L11 W33 W18 L9  W23 3.0
+ 16 Drake, Matthew         DCTCJ68D   253   312/ 23  L7  W29 W30 L6  W26 3.0
+ 17 Bartram, Clark         DCTCJ47Q   328   350/ 14  W28 L10 L11 W32 W21 3.0
+ 18 Raghavendran, Vishakh  DCSDH24Q   438   429/ 15  W34 L8  L15 W26 W22 3.0
+ 19 Van Creveld, Negev     SJCDG48H   300   377/  5  D26 W27 L2  W20 L10 2.5
+ 20 Kolodeznaia, Alice     THODH32F   294   281/ 19  L8  W25 L5  L19 W29 2.0
+ 21 Lu, Andy               JINDJ02X   190   200/ 39  L2  W30 W31 L12 L17 2.0
+ 22 Astafyeva, Veronica    MRPCH51S   254   258/ 24  L4  W34 W29 L5  L18 2.0
+ 23 Xia, Eric              LKDCH93Y   331   305/ 30  W31 L9  W32 L11 L15 2.0
+ 24 Zhou, George           BRYBJ65T   359   309/ 60  W30 L4  W34 L13 L14 2.0
+ 25 Sharma, Ishaani        FRWCG74T   100   100/  9  L3  L20 L26 BYE W33 2.0
+ 26 Dundon, Miles          THOBJ47K   336   273/ 25  D19 L14 W25 L18 L16 1.5
+ 27 Jariwala, Raahi        THOBH32P   128   130/ 12  L9  L19 L12 D30 W34 1.5
+ 28 Sogn, Wyatt            THOBG48G   100   100/  5  L17 L6  L13 D33 D30 1.0
+ 29 Hepateskan, Ege        THOBG48F   100   100/  5  L12 L16 L22 W34 L20 1.0
+ 30 Matthaei, Walton       THOBG48E   100   100/  5  L24 L21 L16 D27 D28 1.0
+ 31 Kahana, Goldie         THOBG48C   100   100/  3  L23 L13 L21 HPB HPB 1.0
+ 32 Huang, Cameron         THOBJ47G   145   101/ 14  LF  U   L23 L17 BYE 1.0
+ 33 Hagen, Claudia         THODG48B   300   100/  5  L5  L15 L6  D28 L25 0.5
+ 34 Prem Kumar, Guhan      THOBG48A   100   100/  5  L18 L22 L24 L29 L27 0.0

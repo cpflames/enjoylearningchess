@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Zhang, Kevin           WOBG809Y  1302  1306/177  W8  U   1.0
+  2 Chiang, Austin         CNHBH59V   643   670/ 22  W9  U   1.0
+  3 Dragusanu, Clara       SSMFH81S   890   935/ 65  W7  U   1.0
+  4 Chung, Warren          REJIG48Z   800  1409/  1  U   W7  1.0
+  5 Zou, Jinhan            SSMEH14T  1322  1304/180  D6  U   0.5
+  6 Lai, Austin            EVGDK94F  1011  1033/106  D5  U   0.5
+  7 Garg, Vihaan           CMCEJ10X  1075  1031/267  L3  L4  0.0
+  8 Ruan, Jiyong           SHSDJ19W   887   881/ 55  L1  U   0.0
+  9 Mccarthy, Eugene       CDLEG73B   592   539/  6  L2  U   0.0

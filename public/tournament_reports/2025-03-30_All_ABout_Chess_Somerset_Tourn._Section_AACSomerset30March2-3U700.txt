@@ -1,0 +1,55 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zheng, Ethan H         RCSDJ29K   666   767/ 25  W45 W44 W6  W43 W4  5.0
+  2 Spataro, Anna          STTDK65C   608   710/ 45  W29 W17 W43 W52 W3  5.0
+  3 Zhang, David           SOMCK41P   648   701/148  W16 W20 W8  W11 L2  4.0
+  4 Luo, Vivienne          NPTD703P   625   663/157  W24 W14 W7  W30 L1  4.0
+  5 Ip, Egan               SOMCK41L   678   684/ 47  W27 W31 L11 W16 W9  4.0
+  6 Xu, Jacky Y            SOMCJ59K   485   577/ 94  W48 W22 L1  W13 W17 4.0
+  7 Wang, Ethan            SOMD346A   463   559/ 19  W47 W18 L4  W23 W15 4.0
+  8 Mirchandani, Kavir     MEDCJ97A   490   558/102  W49 W30 L3  W14 W24 4.0
+  9 Ram, Yaalini           SNECH87H   389   540/ 68  W21 W12 W52 W45 L5  4.0
+ 10 Nguyen, Michael        SOMDK64B   452   520/ 25  W53 L11 W32 W20 W21 4.0
+ 11 Zhang, Jerry           CBRDK64C   476   596/ 46  W37 W10 W5  L3  D12 3.5
+ 12 Xie, Lucas             SOMDJ76D   613   606/ 18  W33 L9  W13 W31 D11 3.5
+ 13 Raghavendran, Vishakh  DCSDH24Q   429   438/ 10  W26 W36 L12 L6  W29 3.0
+ 14 Rao, Aadvik            SOMCB57X   395   425/ 68  W32 L4  W18 L8  W39 3.0
+ 15 Li, Jeremy             SOMCJ87A   377   411/ 45  W23 D19 D34 W33 L7  3.0
+ 16 Zhang, Nathan          SSMCH67X   286   405/ 14  L3  W43 W36 L5  W34 3.0
+ 17 Dang, Aaron            SOMCH60W   420   423/ 42  W50 L2  W33 W47 L6  3.0
+ 18 Ding, Kayley           SNECG50F   200   435/  5  W39 L7  L14 W28 W31 3.0
+ 19 Tang, Alexander        BASCG67Y   525   474/ 15  W41 D15 D44 L21 W26 3.0
+ 20 Paidapathi, Kiaan      SHSCJ99C   400   411/191  W51 L3  W45 L10 W32 3.0
+ 21 Chen, Bryan            SOMDK33S   344   379/ 19  L9  W54 W47 W19 L10 3.0
+ 22 Feng, Michael          CBRCG87H   375   369/ 16  W38 L6  L29 W35 W36 3.0
+ 23 Jiao, Elizabeth        JINDG61J   330   360/  9  L15 W52 W30 L7  W40 3.0
+ 24 Zhu, Anna              SOMDH30X   308   368/ 32  L4  W53 W50 W34 L8  3.0
+ 25 Zhu, Milly             SOMDG50D   300   276/  5  L30 L37 W51 W38 W35 3.0
+ 26 Chen, Alan             SOMDK33F   100   231/ 21  L13 W46 W48 W53 L19 3.0
+ 27 Zhong, Dirk            NOWCJ54P   170   261/ 20  L5  D28 L35 W44 W37 2.5
+ 28 Lou, Jeffrey           SOMCK42A   430   388/ 14  D43 D27 HPB L18 W44 2.5
+ 29 Jin, Charlie           SOMDK42J   216   237/ 31  L2  W38 W22 L32 L13 2.0
+ 30 Liu, Nia               SOMCJ84Y   342   329/ 34  W25 L8  L23 L4  W50 2.0
+ 31 Esparza-chen, Elysia   WMNCJ73M   354   338/ 56  W40 L5  W41 L12 L18 2.0
+ 32 Govil, Apurv           CMCDG50C   300   253/  5  L14 W49 L10 W29 L20 2.0
+ 33 Lu, Andy               JINDJ02X   169   190/ 34  L12 W39 L17 L15 W49 2.0
+ 34 Westover, Thomas       NOWCJ54M   456   379/ 58  D52 W35 D15 L24 L16 2.0
+ 35 Wang, Ethan Syuanruei  SOMCH23P   335   282/ 14  W54 L34 W27 L22 L25 2.0
+ 36 Aravind, Aiden         SOMDG50B   300   204/  5  W46 L13 L16 W54 L22 2.0
+ 37 Yoo, Doyoon            SOMCJ58M   100   144/  9  L11 W25 W53 L48 L27 2.0
+ 38 Hu, Mason              SOMCG50A   200   139/  5  L22 L29 W49 L25 W52 2.0
+ 39 Jin, Ryan              SOMCH78G   100   100/ 11  L18 L33 BYE W51 L14 2.0
+ 40 Chea, Aaron            SOMCG49Z   200   126/  5  L31 W51 W46 L50 L23 2.0
+ 41 Li, Robby              SOMDK42R   191   170/ 30  L19 W48 L31 L49 W47 2.0
+ 42 Chen, Fred             SOMCH78N   413   277/ 13  L44 L47 W54 L46 W48 2.0
+ 43 Wang, Aaron            SOMCG49X   200   300/  5  D28 L16 L2  L1  W53 1.5
+ 44 Li, Darren             SOMCG49U   200   248/  5  W42 L1  D19 L27 L28 1.5
+ 45 Nie, Elena             SOMCH78J   292   258/ 15  L1  W50 L20 L9  D46 1.5
+ 46 Chen, Xiang Max        BLWDG49T   300   100/  5  L36 L26 L40 W42 D45 1.5
+ 47 Khandelwal, Aadi       SESCG87G   100   103/ 11  L7  W42 L21 L17 L41 1.0
+ 48 Rajan, Yash            CDIDH58J   138   100/ 11  L6  L41 L26 W37 L42 1.0
+ 49 Chen, Andy             SOMCH80Y   107   100/ 12  L8  L32 L38 W41 L33 1.0
+ 50 Sin, Benjamin          JIND259D   174   131/ 20  L17 L45 L24 W40 L30 1.0
+ 51 Denisov, Eljan         SOMCH78F   100   100/ 10  L20 L40 L25 L39 W54 1.0
+ 52 Zhu, Eddie             SOMCH48C   100   100/ 18  D34 L23 L9  L2  L38 0.5
+ 53 Raijee, Harleen        SNICH87G   100   100/ 14  L10 L24 L37 L26 L43 0.0
+ 54 Gupta, Rohan           SOMCG49S   200   100/  5  L35 L21 L42 L36 L51 0.0

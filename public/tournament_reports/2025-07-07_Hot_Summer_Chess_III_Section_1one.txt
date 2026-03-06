@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Owen            SHMJ995H  1528  1551/367  W4  W2  W3  3.0
+  2 Nipges, Jaxon          FERL382B  1523  1509/165  W3  L1  W4  2.0
+  3 Bhatta, Nihal          CIAFK82Z  1001  1023/ 54  L2  W4  L1  1.0
+  4 Qureshi, Danish        BLNHF36V  1032   999/211  L1  L3  L2  0.0

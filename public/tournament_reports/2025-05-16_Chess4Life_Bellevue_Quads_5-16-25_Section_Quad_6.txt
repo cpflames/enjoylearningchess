@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Almuayyad, Omar        RHJHJ59J   630   671/ 52  W3  W4  L2  2.0
+  2 Namburi, Shriniketh    TMBIJ20A   620   668/ 33  W4  L3  W1  2.0
+  3 Hu, Maxwell            BCABK03N   655   682/ 74  L1  W2  W4  2.0
+  4 Lu, Kathryn            CHRF191C   663   571/ 35  L2  L1  L3  0.0

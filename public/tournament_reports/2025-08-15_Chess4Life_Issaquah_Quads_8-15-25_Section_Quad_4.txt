@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yao, Jason             DISDG30H   449   600/ 15  W4  W3  W2  3.0
+  2 Naroju, Kian Meher     REEBG31K   452   453/ 12  W3  D4  L1  1.5
+  3 Xie, Nolan             CGRCH82P   425   404/ 41  L2  L1  W4  1.0
+  4 Sudhir, Laasya         CLHCG67E   428   375/ 16  L1  D2  L3  0.5

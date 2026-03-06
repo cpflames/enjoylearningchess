@@ -1,0 +1,48 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Scollon, Owen          SHMJ734D  1743  1776/570  W31 W16 W14 W12 W3  5.0
+  2 Ayalew, Brook          DCCJJ71Q  1817  1811/ 56  W25 W39 D4  W10 W8  4.5
+  3 Deng, Stanley          LLMGK22E  1648  1666/379  W22 W7  W20 W6  L1  4.0
+  4 Ma, Ziliang            DCCHA69N  1423  1453/158  W26 W33 D2  D5  W15 4.0
+  5 Inforzato, Andrew      HABIH09C  1473  1487/ 15  W30 D8  W35 D4  W13 4.0
+  6 Pai, Vihaan            CHAFK17C  1458  1469/300  WF  W24 W15 L3  W18 4.0
+  7 Tam, Oliver            DCCK394H  1281  1380/ 75  WF  L3  W33 W14 W12 4.0
+  8 Zandanov, Leonid       ENADK31Q  1277  1389/181  W46 D5  W9  W17 L2  3.5
+  9 Patel, Aarya           REJGK30E  1410  1413/221  D23 W22 L8  W34 W19 3.5
+ 10 Wadhwani, Ren          DCCEK13K  1342  1344/ 87  W40 D28 W23 L2  W26 3.5
+ 11 Dragusanu, Clara       SSMFH81S   935  1163/ 70  L13 W25 D27 W39 W23 3.5
+ 12 Raj, Skandha           EVGCK55U  1385  1398/175  W36 W19 W17 L1  L7  3.0
+ 13 Ren, Easton            CMCBH68Z  1324  1306/100  W11 L15 W32 W24 L5  3.0
+ 14 Ghosh, Snehil          CBRF738T  1458  1442/246  W34 W27 L1  L7  W30 3.0
+ 15 Mulugeta, Imnet        DCCHH94N   817   987/ 25  W41 W13 L6  W20 L4  3.0
+ 16 Zou, Jinhan            SSMEH14T  1304  1286/185  W38 L1  W28 L19 W34 3.0
+ 17 Ganesan, Vidur         RBRF940K  1560  1517/334  W32 W18 L12 L8  W35 3.0
+ 18 Damrau, Austin         ELKGK95E  1282  1280/115  W21 L17 W30 W35 L6  3.0
+ 19 Garg, Vihaan           CMCEJ10X  1072  1116/272  WF  L12 W37 W16 L9  3.0
+ 20 Zhu, Aiden             SOMEC77X  1339  1303/173  WF  W37 L3  L15 W32 3.0
+ 21 Caro, Angel            FRAKH05F   508   626/ 13  L18 L32 W43 W45 W31 3.0
+ 22 Pan, Peng-ruei         SSMF759R  1572  1521/253  L3  L9  W38 W36 D24 2.5
+ 23 Anbuselvam, Mithran    HEAGH61F  1081  1157/180  D9  W42 L10 W27 L11 2.5
+ 24 Chou, Eugene           SSMEJ56Y  1171  1191/123  W47 L6  W36 L13 D22 2.5
+ 25 Wilcox, Daelen         CLEJ748C  1214  1180/ 96  L2  L11 W45 W33 D29 2.5
+ 26 Zhen Rampenthal, Quinn DCCIH53C  1053  1075/ 58  L4  W41 D39 W28 L10 2.5
+ 27 Pleasants, Gabriel     THUE149G  1237  1214/131  WF  L14 D11 L23 W39 2.5
+ 28 George, Ameya          EBSFK88Y   993  1028/141  WF  D10 L16 L26 W42 2.5
+ 29 Coberly, Silas         CLEJH22W   695   816/ 21  L39 L30 W41 W42 D25 2.5
+ 30 Porad-brand, Lewis     CLEKH22V  1021  1031/ 21  L5  W29 L18 W37 L14 2.0
+ 31 Zhen, Weston H         DCCJC02Z  1174  1107/194  L1  W40 L34 W38 L21 2.0
+ 32 Upasani, Neil          SSMFJ57C   960   968/135  L17 W21 L13 W40 L20 2.0
+ 33 Puranik, Armin         SSMEJ56Z   940   971/ 78  W42 L4  L7  L25 W44 2.0
+ 34 Chenchu Arun, Krish    SSMFJ74U  1003  1018/ 69  L14 W45 W31 L9  L16 2.0
+ 35 Oh, Seojoon            SSMEJ70T  1060  1043/116  WF  W43 L5  L18 L17 2.0
+ 36 Jayakrishnan, Chethan KGTMIH06G   963   956/ 20  L12 W44 L24 L22 W43 2.0
+ 37 Nguyen, Andrew         CLEKG46Z  1000   854/  4  WF  L20 L19 L30 W40 2.0
+ 38 Nguyen, Long           FRAKH46E   705   702/ 20  L16 W46 L22 L31 W45 2.0
+ 39 Han, Kaiyi             SOMCK42P  1289  1224/135  W29 L2  D26 L11 L27 1.5
+ 40 Balaji, Arjun          CMCEH75P   848   804/ 77  L10 L31 W44 L32 L37 1.0
+ 41 Lewin, Selan           DCCEG46Y   400   421/  5  L15 L26 L29 L44 W46 1.0
+ 42 Ye, Alex               ENDFH51L  1352  1211/254  L33 L23 W46 L29 L28 1.0
+ 43 Abdikarim, Jabril      FRALG46V  1100   437/  4  LF  L35 L21 W46 L36 1.0
+ 44 Thomas, Hannah         DCCLG46U  1100   600/  4  U   L36 L40 W41 L33 1.0
+ 45 Thomas, Phoebe         DCCLG46T  1100   271/  4  U   L34 L25 L21 L38 0.0
+ 46 Chester, Dylan         DCCJG46S   900   100/  5  L8  L38 L42 L43 L41 0.0
+ 47 Gui, Joyce             OPWCH92C  1050  1031/126  L24 U   U   U   U   0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Karanam, Aadya         SWLEK84K   700   821/112  W3  W4  W2  3.0
+  2 Charles, Benjamin      SOMBJ06G   700   664/ 97  W4  L3  L1  1.0
+  3 Mirchandani, Kiaan     MEDEK92Z   587   586/108  L1  W2  L4  1.0
+  4 Sarangi, Samarth       CBREH69F   672   645/ 88  L2  L1  W3  1.0

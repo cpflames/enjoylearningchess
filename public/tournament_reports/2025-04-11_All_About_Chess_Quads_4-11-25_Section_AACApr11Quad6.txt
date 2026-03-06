@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Eric            SEODG53R   940  1368/  7  W3  W4  W2  3.0
+  2 Sarychev, Aleksei      GEKKJ98N   943   995/245  W4  W3  L1  2.0
+  3 Sathyamurthy, Sreeshan EVJIJ24M   935   925/163  L1  L2  W4  1.0
+  4 Mallapragada, Mihir    CBRF254M   912   854/ 67  L2  L1  L3  0.0

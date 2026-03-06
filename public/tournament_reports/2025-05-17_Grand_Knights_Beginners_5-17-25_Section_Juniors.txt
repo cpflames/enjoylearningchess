@@ -1,0 +1,31 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Singhal, Arjun         RSABH23X   385   492/ 28  W9  W19 W7  3.0
+  2 Zhang, Nathan          SSMCH67X   313   394/ 27  W21 W10 D3  2.5
+  3 Rajesh Kumar, Dhruva   RSACJ89S   444   480/  8  W28 W8  D2  2.5
+  4 Rasmussen, Brock       OPWAH59Q   354   375/ 22  D27 W16 W12 2.5
+  5 Naroju, Kian Meher     REEBG31K   100   580/  3  D20 W18 W15 2.5
+  6 Wen, Cayden            OPWBG51S   100   220/  6  BYE D11 W14 2.5
+  7 Rogov, Audrey          MEDBJ66D   262   301/ 92  W23 W17 L1  2.0
+  8 Xie, Nolan             CGRCH82P   292   335/ 26  W13 L3  W21 2.0
+  9 Zhang, Dylan           CGRAG32C   306   355/  4  L1  W26 W23 2.0
+ 10 Holder, Alexander      REEBJ86Z   108   191/  8  W25 L2  W24 2.0
+ 11 Siddharth, Akhil       FRWAG36J   400   362/  8  D14 D6  W22 2.0
+ 12 Guddanti, Akshara      LMACG43E   187   234/ 13  W29 W22 L4  2.0
+ 13 Mehr, Aiden            WMNBG31J   100   314/  3  L8  W28 W19 2.0
+ 14 Sayre, Dante           WEDAG48J   100   180/  7  D11 W20 L6  1.5
+ 15 Skinner, Madelyn       CBRCG31H   200   295/  3  D16 W27 L5  1.5
+ 16 Berfield, Aidan        PKRBG31G   100   241/  3  D15 L4  W29 1.5
+ 17 Srinivas, Pranav       TBKCG35F   100   149/  8  W30 L7  D20 1.5
+ 18 Sterba, Pavel          NOWBK34L   401   393/ 82  HPB L5  W27 1.5
+ 19 Amanatullah, Eleanor   EVGCJ13D   100   122/  8  W26 L1  L13 1.0
+ 20 He, Evan               AUDCG31U   200   113/  3  D5  L14 D17 1.0
+ 21 Rhoades, Tycho         BFDCG31F   200   140/  3  L2  W25 L8  1.0
+ 22 Sapaharam, Dhanvika    MOBAG74Q   100   100/  8  W24 L12 L11 1.0
+ 23 Derleth, Ava           EVGC579V   150   139/ 41  L7  W30 L9  1.0
+ 24 Moskowitz, Vera        REEAG31E   100   100/  3  L22 W29 L10 1.0
+ 25 Guan, Victor           AUDCG31D   200   100/  3  L10 L21 W30 1.0
+ 26 Bharadhwaj, Sachin     CDWAG31C   100   100/  3  L19 L9  W28 1.0
+ 27 Dudani, Ruvanshi       WOBAG31A   100   100/  3  D4  L15 L18 0.5
+ 28 Shah, Aria             CBRCG30Z   200   100/  3  L3  L13 L26 0.0
+ 29 Jamil, Raha            REEBG30Y   100   100/  3  L12 L24 L16 0.0
+ 30 Elmughrabi, Elias      ALBAG30X   100   100/  3  L17 L23 L25 0.0

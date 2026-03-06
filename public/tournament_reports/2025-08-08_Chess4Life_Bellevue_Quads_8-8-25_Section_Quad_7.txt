@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yadav, Divyansh        TBKCG75M   525   572/ 42  W2  WF  W3  3.0
+  2 Mathur-badam, Arin     BMNBG27N   299   340/ 14  L1  W3  WF  2.0
+  3 Deng, Leo              CSICG51B   529   443/ 25  WF  L2  L1  1.0

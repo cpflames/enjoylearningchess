@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lin, Vivienne          CSIEK99D  1020  1161/ 67  W4  W3  W2  3.0
+  2 Garg, Vihaan           CMCEJ10X  1036  1075/265  W3  W4  L1  2.0
+  3 Bui, Edwin             FRVFK90H  1066  1042/151  L2  L1  W4  1.0
+  4 Gorecke, Cj            HHSJG87W  1083  1000/ 14  L1  L2  L3  0.0

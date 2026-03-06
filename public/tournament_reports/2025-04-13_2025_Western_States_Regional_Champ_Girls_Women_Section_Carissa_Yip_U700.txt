@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Sankar, Laya R         EBSCK11E   565   649/ 53  W10 L5  W8  W3  W4  4.0
+  2 Sankar, Deethya R      EBSAH63X   577   607/ 29  W12 L4  W7  W11 W6  4.0
+  3 Armstrong, Josephine   EVGCK86A   685   673/120  W7  W6  W4  L1  L5  3.0
+  4 Astafyeva, Olga        ADUNH34Y   593   615/ 10  W8  W2  L3  W5  L1  3.0
+  5 Guruswamy, Tejal       CPJIK10X   589   609/ 71  W9  W1  L6  L4  W3  3.0
+  6 Jiang, Callie          UCDAH47C   588   582/ 46  W11 L3  W5  W9  L2  3.0
+  7 Koul, Navika           MOBEJ83L   385   431/ 78  L3  W11 L2  W8  W9  3.0
+  8 Engfeldt, Emma         MEDAG89Z   341   331/ 22  L4  W12 L1  L7  W11 2.0
+  9 Engfeldt, Hanna        MEDBJ66P   286   282/ 55  L5  W10 W12 L6  L7  2.0
+ 10 Wang, Krystal          EASAG37X   100   100/  4  L1  L9  L11 W12 HPB 1.5
+ 11 Astafyeva, Veronica    MRPCH51S   258   219/ 29  L6  L7  W10 L2  L8  1.0
+ 12 Sreekanth, Veera       XXXAG37W   100   100/  4  L2  L8  L9  L10 HPB 0.5

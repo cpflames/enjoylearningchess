@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Voigts, Lucas          EMSHG30A   700  1067/  3  W6  W3  W2  3.0
+  2 Dintakurthi, Nihal     ESNEG29Z   400   682/  3  W4  W5  L1  2.0
+  3 Revuru, Nimeesha       RCMFW81Y   338   434/ 50  W5  L1  W4  2.0
+  4 Kalashnyk, Artur       MAHEG30K   583   428/  6  L2  W6  L3  1.0
+  5 Guo, Keith             CHRCG29Y   200   274/  3  L3  L2  W6  1.0
+  6 Mondol, Abrar          KKNCG29X   200   100/  3  L1  L4  L5  0.0

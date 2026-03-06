@@ -1,0 +1,30 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Young, Daniel          EVAHJ96U   699   786/ 86  W19 W10 W6  D3  W4  4.5
+  2 Bray, Patrick          HDPEG58Z   400   800/  5  W18 W5  W11 L4  W9  4.0
+  3 Byrd, Logan            SMOGG87C   491   642/  9  W27 W18 W7  D1  D8  4.0
+  4 Autry-dalsanders, Reed MMCGK48X   633   674/ 99  W28 W26 W16 W2  L1  4.0
+  5 Zhang, Alex Sun        SKKDJ88B   544   579/ 42  W23 L2  W26 W17 W11 4.0
+  6 Rodwell, Oliver        MDRDJ27D   462   633/ 49  W14 W9  L1  W18 D7  3.5
+  7 Jain, Asmi             SGSEB47J   718   704/ 76  W20 W12 L3  W10 D6  3.5
+  8 Brown, Claire          CATEJ62Y   638   611/ 51  W25 L16 W27 W13 D3  3.5
+  9 Odell, Eric            LLKDH49Y   713   683/ 30  W13 L6  W19 W12 L2  3.0
+ 10 Wendler, Fallyn        NSVDH40Q   377   437/ 33  W17 L1  W21 L7  W19 3.0
+ 11 Cho, Nathanael         SGSEF58M   505   510/ 15  W24 W22 L2  W16 L5  3.0
+ 12 Richards, Benjamin     NSVDH49S   394   461/ 25  W21 L7  W14 L9  W17 3.0
+ 13 Phelps, Scott          SGSDH40T   322   382/ 15  L9  W24 W15 L8  W21 3.0
+ 14 Tec Yah, William       SMODG58Y   300   492/  5  L6  W20 L12 W22 W16 3.0
+ 15 Mickelsen, Cash        SMOCG58X   200   334/  5  L16 W23 L13 W26 W20 3.0
+ 16 Duncan, Aj             MCSEH49T   370   392/ 27  W15 W8  L4  L11 L14 2.0
+ 17 Nathan, Moses          SGSCG58W   200   293/  5  L10 W28 W22 L5  L12 2.0
+ 18 Phelps, Shaun          SGSFH40S   411   398/ 15  L2  L3  W28 L6  W27 2.0
+ 19 Lebret, Adler          SGSBH40Z   305   316/  9  L1  W29 L9  W27 L10 2.0
+ 20 Johnson, Austin        NSVEH49W   311   284/ 25  L7  L14 W23 W29 L15 2.0
+ 21 Spohr, Carson          CHSGG58V   600   233/  5  L12 W25 L10 W28 L13 2.0
+ 22 Campanella, Gianna     HUTEG66B   335   276/ 10  W29 L11 L17 L14 W25 2.0
+ 23 Hinton, Ryker          ORSCH06Y   100   100/ 18  L5  L15 L20 BYE W29 2.0
+ 24 Zaagman, James         SMOEG86U   100   100/  9  L11 L13 BYE L25 W26 2.0
+ 25 Lashley, Aunah         NSVDH49P   181   140/ 23  L8  L21 D29 W24 L22 1.5
+ 26 Holcomb, Calder        SGSAH41C   100   100/ 16  BYE L4  L5  L15 L24 1.0
+ 27 Wendler, Maverick      NSVBH25G   100   100/ 25  L3  BYE L8  L19 L18 1.0
+ 28 Rieper, Tavish         SMOGG87B   123   100/  8  L4  L17 L18 L21 BYE 1.0
+ 29 Emory, Walker          SMOCG58U   200   100/  5  L22 L19 D25 L20 L23 0.5

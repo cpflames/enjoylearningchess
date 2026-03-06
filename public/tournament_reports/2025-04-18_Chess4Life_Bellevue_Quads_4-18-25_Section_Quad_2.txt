@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chevuri, Tattva        REJHC06V  1274  1311/442  W3  W4  D2  2.5
+  2 Chaporkar, Nihar       ENSEK65B  1236  1234/ 95  W4  L3  D1  1.5
+  3 Menon, Ritwik          ICKH974D  1167  1183/101  L1  W2  D4  1.5
+  4 Zhou, Sean             ICSIH56S  1234  1188/ 20  L2  L1  D3  0.5

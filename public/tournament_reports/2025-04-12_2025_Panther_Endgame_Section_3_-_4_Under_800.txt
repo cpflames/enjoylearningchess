@@ -1,0 +1,49 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Roman Ii, Vicente      EMEDH14A   333   701/ 20  W46 W23 W11 W3  W2  5.0
+  2 Johnson, Aiden         CRPDG64J   477   612/ 10  W42 W15 W7  W9  L1  4.0
+  3 Einarson, Finn         OBKD256K   698   711/134  W28 W18 W12 L1  W8  4.0
+  4 Trejo, Moises          ESGEH27A   509   612/ 20  W25 W19 D8  D6  W14 4.0
+  5 Zavala, Daniel         MCUEJ44V   521   580/ 59  W29 L8  W15 W13 W12 4.0
+  6 Duarte, Jonathan       MCUDJ44T   408   577/ 59  W43 D9  W22 D4  W11 4.0
+  7 Mckenzie, Bennett      LIBDH42F   602   614/ 20  W47 W38 L2  W17 W16 4.0
+  8 Rodriguez, Gael        RCEEH42W   396   555/ 35  W35 W5  D4  W10 L3  3.5
+  9 Rosenbaum, Conlee      MCGDJ22Z   610   608/ 55  W30 D6  W13 L2  W22 3.5
+ 10 Davey, Cj              ESGEH42X   517   507/ 30  W33 D22 W34 L8  W24 3.5
+ 11 Garcia, Sebastian      BMCEJ78G   562   554/ 80  W27 W17 L1  W30 L6  3.0
+ 12 Nelson, Miloe          CRPE915Y   458   459/ 91  W26 W31 L3  W33 L5  3.0
+ 13 Galbraith, Seth        MTPEH56B   350   402/ 40  W48 W16 L9  L5  W29 3.0
+ 14 Reagan, Paxton         MCGDK96W   603   559/100  L15 W20 W28 W32 L4  3.0
+ 15 Tha, Joseph            ESGEH26Z   281   408/ 30  W14 L2  L5  W39 W32 3.0
+ 16 Billings, Atlas        MCGEJ44X   485   465/ 54  W24 L13 W25 W27 L7  3.0
+ 17 Peraza, Etson          MTPDH41Z   402   410/ 30  W39 L11 W37 L7  W30 3.0
+ 18 Santana, Jonathan      ESGDH42D   422   404/ 25  W41 L3  L27 W36 W33 3.0
+ 19 Van, Minh              CRPEJ23N   376   355/ 55  W45 L4  L24 W44 W31 3.0
+ 20 Gardner, Cam           BMCEH00Z   379   362/ 15  D37 L14 W42 D29 W27 3.0
+ 21 Hiivala, Annaleigh     CRPEJ00L   439   379/ 40  L31 D42 W39 D24 W28 3.0
+ 22 Bawden, Whyatt         LIVEH42Y   372   381/ 35  W40 D10 L6  W34 L9  2.5
+ 23 Dutcher, Hudson        MCGDJ77X   489   429/ 74  W36 L1  L30 D26 W37 2.5
+ 24 Lynch, Vincente        LIBEH42P   117   209/ 19  L16 WF  W19 D21 L10 2.5
+ 25 Mendoza, Lorenzo       MCUEH42U   187   214/ 35  L4  W45 L16 D37 W40 2.5
+ 26 Avila, Luis            RCEDH00Q   100   198/ 20  L12 L32 W43 D23 W41 2.5
+ 27 Licon, Fabian          CRPDG64G   217   251/ 10  L11 W40 W18 L16 L20 2.0
+ 28 Ottem, John            LIBEH56D   298   289/ 25  L3  W41 L14 W35 L21 2.0
+ 29 Maier, Owen            CRPDH26E   199   209/ 24  L5  D35 W46 D20 L13 2.0
+ 30 Badillo-chavez, LeandroMCUDJ78C   286   299/ 63  L9  W44 W23 L11 L17 2.0
+ 31 Caceres, Gaia          ESGEH13T   100   165/ 13  W21 L12 L32 W38 L19 2.0
+ 32 Boschert, Jake         LIBDH42G   403   341/ 14  L34 W26 W31 L14 L15 2.0
+ 33 Angulo, Alessandro     MCUEH00Y   202   221/ 15  L10 W43 W38 L12 L18 2.0
+ 34 Tellez, Jahnell        MCUDG88M   100   167/ 15  W32 D37 L10 L22 D38 2.0
+ 35 Walker, Kolton         ESGDG42F   300   187/  5  L8  D29 D36 L28 W45 2.0
+ 36 Guerrero Montes, LeonarRCEDH00V   162   155/ 20  L23 D46 D35 L18 W44 2.0
+ 37 Guzman, Mauricio       ESGEG42E   400   160/  5  D20 D34 L17 D25 L23 1.5
+ 38 Derevyanchuk, Daniel   MCGDG64H   419   266/ 10  W44 L7  L33 L31 D34 1.5
+ 39 Chavez, Nathaly        MCUEG89A   100   100/ 14  L17 WF  L21 L15 D42 1.5
+ 40 Ortiz, Emma            ESGDG42D   300   100/  5  L22 L27 D41 W42 L25 1.5
+ 41 Morado, Derrick        MTPDH55X   100   100/ 35  L18 L28 D40 W43 L26 1.5
+ 42 Erevia, Nayeli         MCGDG63R   100   100/ 10  L2  D21 L20 L40 D39 1.0
+ 43 Licon, Harley          CRPDG42C   300   100/  4  L6  L33 L26 L41 BYE 1.0
+ 44 Gomez, Victor          ESGEH42N   100   100/ 15  L38 L30 W45 L19 L36 1.0
+ 45 Murison, Chandler      WEKDG42B   300   100/  4  L19 L25 L44 BYE L35 1.0
+ 46 Rowe, Nico             MCGDG42A   300   100/  3  L1  D36 L29 U   U   0.5
+ 47 Andring, Jesse         MTPDJ00T   258   248/ 31  L7  LF  U   U   U   0.0
+ 48 Prishchenko, Nadia     ESGDG41Z   300   100/  1  L13 LF  U   U   U   0.0

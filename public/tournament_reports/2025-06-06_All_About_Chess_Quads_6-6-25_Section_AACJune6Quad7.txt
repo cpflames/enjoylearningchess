@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Reddy, Aariv           GRRCK34T   564   635/ 89  W3  W4  L2  2.0
+  2 Senthil, Vibha         RSADG28T   441   600/  6  W4  L3  W1  2.0
+  3 Ram, Yaalini           SNECH87H   683   635/ 97  L1  W2  L4  1.0
+  4 Joseph, George         CDIDH11C   694   643/ 54  L2  L1  W3  1.0

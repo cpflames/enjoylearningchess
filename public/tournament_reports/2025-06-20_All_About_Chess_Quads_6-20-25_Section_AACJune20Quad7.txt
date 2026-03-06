@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sathyamurthy, Shreyus  BLWCJ60Z   536   643/162  W5  W3  W2  3.0
+  2 Nandakiran, Advaith    SSMCJ88H   496   502/173  W4  W6  L1  2.0
+  3 Chen, Luna             RSABG32W   264   393/ 21  W7  L1  W5  2.0
+  4 Xiong, Aria            DISBH14J   370   358/ 66  L2  BYE W6  2.0
+  5 Rachakonda, Rohitha    BNTEG28K   395   358/  6  L1  W7  L3  1.0
+  6 Haycraft, Ethan        IFSCG36K   100   100/ 24  BYE L2  L4  1.0
+  7 Paidapathi, Kiaan      SHSCJ99C   412   327/221  L3  L5  BYE 1.0

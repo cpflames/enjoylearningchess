@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Cancelosi, Nicholas    VSTHM25W   709   796/115  W6  W2  W4  3.0
+  2 Snyder, Damien         CEEEC98M   567   608/ 47  W8  L1  W5  2.0
+  3 Ravitsky, Avigail      FACFH95B   482   532/ 28  L4  W7  W6  2.0
+  4 Smith, Benjamin        BLEEG44D   607   615/ 78  W3  D5  L1  1.5
+  5 Kaur, Prabhkirat       IREFE41C   603   589/ 61  W7  D4  L2  1.5
+  6 Louws, Micah           CUECJ16B   493   473/ 61  L1  W8  L3  1.0
+  7 Soran, Thomas          CEEFK35T   448   425/ 42  L5  L3  W8  1.0
+  8 Javed, Angelica        VSTFK36A   417   336/ 29  L2  L6  L7  0.0

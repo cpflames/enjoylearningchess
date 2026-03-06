@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jiang, Yuanyi          MMEDJ58J   944  1012/ 50  W3  D2  W4  2.5
+  2 Du, Charles            SOMFA15U   945   943/163  W4  D1  L3  1.5
+  3 Chen, Logan            APOEJ69K   944   942/ 61  L1  D4  W2  1.5
+  4 Kennerud, Caedmon      LGHGH61R   888   849/ 27  L2  D3  L1  0.5

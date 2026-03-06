@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Dwyer, Ian             THUAG60A   100   174/  5  W3  L6  L4  W5  L2  2.0
+  2 Ghosh, Oishani         CBRBJ56E   156   160/ 59  L6  L4  W5  L3  W1  2.0
+  3 Li, Ryder              MEDBJ66R   298   298/ 79  L1  W5  L6  W2  W4  3.0
+  4 Sterba, Pavel          NOWBK34L   189   217/ 59  U   W2  W1  L6  L3  2.0
+  5 Thorrington, Smith     SANAH16R   100   100/  6  BYE L3  L2  L1  L6  1.0
+  6 Wang, Max              CGRBK03S   424   524/ 38  W2  W1  W3  W4  W5  5.0

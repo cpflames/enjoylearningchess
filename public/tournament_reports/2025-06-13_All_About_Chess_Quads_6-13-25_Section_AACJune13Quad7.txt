@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Reddy, Aariv           GRRCK34T   635   715/ 92  W4  W2  W3  3.0
+  2 Zhu, Anna              SOMDH30X   458   529/ 55  W3  L1  W4  2.0
+  3 Nandakiran, Advaith    SSMCJ88H   527   496/170  L2  W4  L1  1.0
+  4 Xiong, Aria            DISBH14J   435   370/ 64  L1  L3  L2  0.0

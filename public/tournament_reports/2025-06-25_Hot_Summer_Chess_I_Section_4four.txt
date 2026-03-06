@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Miller, Tobin          LYCHG27V   700   736/  3  W2  D4  D3  2.0
+  2 Zheng, Jayden          JFRFG72Y   471   585/ 21  L1  W5  W4  2.0
+  3 Westergreen, Korben    HORIH39X   627   639/ 27  D5  W6  D1  2.0
+  4 Smith, Benjamin        BLEEG44D   585   579/ 72  W6  D1  L2  1.5
+  5 Davis, Buzz            FACGH39Y   563   558/ 28  D3  L2  W6  1.5
+  6 Melnik, Mark           TCIEH69M   457   391/ 24  L4  L3  L5  0.0

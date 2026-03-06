@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Charles, Benjamin      SOMBJ06G   828   879/156  D2  W4  W3  2.5
+  2 Phadnis, Neil          DISEK44Y   707   829/ 80  D1  W3  W4  2.5
+  3 Sarychev, Aleksei      ISSKJ98N   768   716/290  D4  L2  L1  0.5
+  4 Balaji, Pranav         INGHJ96J   745   699/103  D3  L1  L2  0.5

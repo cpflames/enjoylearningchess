@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Rao, Jaiden            JINBH62B   516   591/ 17  W17 L6  W5  W7  W2  4.0
+  2 Chin, Kheiron          HSCAJ19P   451   545/ 97  W12 W13 W9  W3  L1  4.0
+  3 Jiao, Isaac            JINAG60V   100   598/  5  W21 W14 W4  L2  W9  4.0
+  4 Karaca, Aslan          LKDAH50Z   344   441/ 40  W22 W18 L3  W10 W11 4.0
+  5 Xiong, Aria            DISBH14J   304   431/ 37  W16 W19 L1  W15 W8  4.0
+  6 Zhang, Kyle            OPWBJ19N   318   428/ 47  W23 W1  D7  L8  W17 3.5
+  7 Venkatesh, Aiden       WEDAH37S   561   544/ 30  W25 W15 D6  L1  W14 3.5
+  8 Gao, Arden             JINBH35W   367   373/ 20  W19 L9  W18 W6  L5  3.0
+  9 Gu, Ximu               ENDBJ05X   304   378/ 45  W24 W8  L2  W14 L3  3.0
+ 10 Zhang, Ethan           SSMBG60U   100   342/  5  L14 W12 W15 L4  W19 3.0
+ 11 Tzeng, Caden           LKDBH92V   236   256/ 15  L15 W20 W13 W16 L4  3.0
+ 12 Chu, Melody            JINBJ02K   203   260/ 32  L2  L10 W24 W18 W16 3.0
+ 13 Lam, Theo              JINBJ02H   100   158/ 23  BYE L2  L11 W25 W22 3.0
+ 14 Milletari, Valerian    JINAH35X   325   312/ 10  W10 L3  W21 L9  L7  2.0
+ 15 Chang, Liliana         JINBJ12S   265   259/ 27  W11 L7  L10 L5  W25 2.0
+ 16 Bai, Cayden            JINBG60T   100   164/  5  L5  W24 W17 L11 L12 2.0
+ 17 Nori, Vishnu Vallabha  CBRBJ06A   219   200/ 33  L1  W23 L16 W20 L6  2.0
+ 18 Wang, Ray              JINAG60S   100   163/  5  W20 L4  L8  L12 W24 2.0
+ 19 Wang, Kyle             NCSBH92T   131   119/  9  L8  L5  BYE W21 L10 2.0
+ 20 Xia, Peter             JINAG60Q   100   100/  5  L18 L11 W22 L17 D21 1.5
+ 21 Florkiewicz, Jack      JINAG60P   100   100/  5  L3  W25 L14 L19 D20 1.5
+ 22 Ni, Grace              JINBJ02J   120   100/  9  L4  HPB L20 W23 L13 1.5
+ 23 Bai, Cayla             JINBG60M   100   100/  4  L6  L17 D25 L22 BYE 1.5
+ 24 Yu, Adrian             JINBG60L   100   100/  4  L9  L16 L12 BYE L18 1.0
+ 25 Jin, Noah              JINBG60K   100   100/  5  L7  L21 D23 L13 L15 0.5

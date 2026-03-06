@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Arora, Neal            ORLBH57B   333   453/  9  W4  W6  W2  W5  W7  5.0
+  2 Martinez, Sophie       STCBJ17U   119   269/ 23  BYE W5  L1  W6  W4  4.0
+  3 Zhang, Aiden           CWAAG61T   100   100/  4  D5  L4  BYE W7  D6  3.0
+  4 Xu, Jennifer           CWAAG61S   100   121/  4  L1  W3  D6  BYE L2  2.5
+  5 Wylie, Zenzi           UPPBG61R   100   121/  4  D3  L2  W7  L1  BYE 2.5
+  6 Serna, Summitt         CWABG61Q   100   117/  5  W7  L1  D4  L2  D3  2.0
+  7 Orakzai, Nuur          CMBBG61N   100   100/  4  L6  BYE L5  L3  L1  1.0

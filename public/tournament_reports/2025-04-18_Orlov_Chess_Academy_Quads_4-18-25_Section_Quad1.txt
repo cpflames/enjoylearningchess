@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xiong, Maxwell         CSIDK92H   953  1166/ 91  W4  W2  W3  3.0
+  2 Tsay, Elon             LKDEK07B  1005  1094/150  W3  L1  W4  2.0
+  3 Jang, Jinwon           VIEH561P  1113  1094/137  L2  W4  L1  1.0
+  4 Wang, Isaac            CLHFK00U  1299  1194/130  L1  L3  L2  0.0

@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Lai, Ryan              SHSBH70N  1352  1408/100  W6  W11 W5  W2  W4  5.0
+  2 Pan, Peng-yu           SSMDK24P  1134  1164/209  W10 D4  W12 L1  W5  3.5
+  3 Dharamshi, Anay        CBRDK42U  1298  1277/210  L5  W14 W6  D4  W9  3.5
+  4 Qu, Yuwen              RSACK86G   849  1045/111  W7  D2  W8  D3  L1  3.0
+  5 Zhang, Patrick         SSSCK01J  1178  1196/284  W3  W13 L1  W10 L2  3.0
+  6 Pande, Aryan           DCSB493M   940  1038/ 52  L1  W16 L3  W13 W11 3.0
+  7 Xing, Andrew           CNHDK62E  1059  1042/163  L4  L10 W16 W8  W12 3.0
+  8 Bolisetty, Varun       CBRDJ73Z  1087  1050/163  W9  D12 L4  L7  W10 2.5
+  9 Wu, Jayden             UCDD495Q   974   984/152  L8  W15 W11 D12 L3  2.5
+ 10 Ruan, Jiyong           SHSDJ19W   862   927/ 61  L2  W7  W13 L5  L8  2.0
+ 11 Bysani, Aakash         SSMCK01D  1028   998/275  W16 L1  L9  W14 L6  2.0
+ 12 Liu, Louis             CNHCJ75J   799   812/ 89  BYE D8  L2  D9  L7  2.0
+ 13 Liu, Aaron             SSMDH52C  1142  1081/ 36  W14 L5  L10 L6  W15 2.0
+ 14 Benita-nagdeep, KrishanSOMDK56N   860   878/ 97  L13 L3  W15 L11 W16 2.0
+ 15 Gui, Joyce             OPWCH92C  1031   955/130  U   L9  L14 W16 L13 1.0
+ 16 Pan, Peng-chi          SSMDK24N   830   754/192  L11 L6  L7  L15 L14 0.0

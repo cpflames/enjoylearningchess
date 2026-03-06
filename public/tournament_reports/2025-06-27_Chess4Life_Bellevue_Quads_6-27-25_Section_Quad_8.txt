@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kamaraju, Akhil        DISEH66C   493   564/ 69  W4  W3  D2  2.5
+  2 Huang, Damon           CHRCG71K   475   472/ 25  L3  W4  D1  1.5
+  3 Tan, Wilson            BRBBG35N   454   427/ 14  W2  L1  L4  1.0
+  4 Govindaraju, Aiden     BCAAH25M   413   400/ 32  L1  L2  W3  1.0

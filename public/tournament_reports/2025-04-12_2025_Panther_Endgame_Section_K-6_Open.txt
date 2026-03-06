@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Lum, Boaz              LIBDJ62C  1322  1360/ 82  W8  W3  W2  W4  W7  5.0
+  2 Phillips, Henry        MCGFH43N  1103  1112/ 35  W7  W6  L1  W5  L3  3.0
+  3 Chavez, Jessie         BMCFK53S  1042  1065/ 74  W9  L1  L5  W6  W2  3.0
+  4 Wang, Evan             LECEJ78X   806   930/ 72  D10 W8  D6  L1  W9  3.0
+  5 Schutz, Henry          CHJGJ80M   860   970/ 77  L6  W7  W3  L2  W8  3.0
+  6 Vanderschoor, Peyton   JMLG490Y  1068  1032/108  W5  L2  D4  L3  BYE 2.5
+  7 Castaneda, Alonso      MCUFK69H   921   895/ 92  L2  L5  BYE W9  L1  2.0
+  8 Chavez, Israel         MCUFK69M   960   916/ 93  L1  L4  W9  BYE L5  2.0
+  9 Mendez, Jaden          JMLGI40R   820   748/ 88  L3  BYE L8  L7  L4  1.0
+ 10 Singh, Yuvraj          LIBDH56L   987   984/ 29  D4  U   U   U   U   0.5

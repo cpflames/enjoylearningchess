@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Shing, Lucas           HZFDJ74H   751   782/121  L2  W3  W4  2.0
+  2 Ben Simon, Golan       SJCDJ48B   781   774/ 66  W1  L4  D3  1.5
+  3 Paley, Harold          IMSGH70Q   853   825/ 29  W4  L1  D2  1.5
+  4 Hasson, Ari            SJCBJ47L   632   642/ 76  L3  W2  L1  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lin, James             HCCIB90P  1009  1028/ 48  W4  W2  L3  2.0
+  2 Yu, Jacob              HCCGK21J  1016  1034/ 55  W3  L1  W4  2.0
+  3 Rios, Nicholas         HCCHJ77M  1111  1105/ 38  L2  W4  W1  2.0
+  4 Graham, Isaac          HCCHJ42K   786   754/ 78  L1  L3  L2  0.0

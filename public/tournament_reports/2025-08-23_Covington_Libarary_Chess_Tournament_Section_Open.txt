@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Anbuselvam, Mithran    HEAGH61F  1090  1108/219  W8  W4  W2  L3  3.0
+  2 Tallapaneni, Hanish    CDZHH06J  1218  1203/ 28  W6  W3  L1  W5  3.0
+  3 Sinha, Ishayu          HEAGJ24F   918  1022/ 68  W10 L2  W7  W1  3.0
+  4 Singh, Vihaan Vikram   RIDEG25R   780   864/ 23  W9  L1  W8  W7  3.0
+  5 Petluri, Anish         DISDH48F   617   652/ 25  D7  D8  W9  L2  2.0
+  6 Velichko, Kristina     ASACK07V   633   639/156  L2  L7  W10 W9  2.0
+  7 Gokulakrishnan, SriharsTMMGH60B  1130  1043/ 42  D5  W6  L3  L4  1.5
+  8 Shea, Sophie           PHSIG21X   800   592/  4  L1  D5  L4  W10 1.5
+  9 Balli, Isaac           WCEFG21W   500   347/  4  L4  W10 L5  L6  1.0
+ 10 Ancheta, Talino        MVWGG21V   600   100/  4  L3  L9  L6  L8  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bravenboer, Jake       OPWEJ97Y  1262  1250/166  W2  D3  D4  2.0
+  2 Gui, Joyce             OPWCH92C  1010  1085/146  L1  W4  W3  2.0
+  3 Ge, Emma               SSMCJ56J  1026  1025/155  D4  D1  L2  1.0
+  4 Wu, Jonathan           UCDDK14H  1129  1101/104  D3  L2  D1  1.0

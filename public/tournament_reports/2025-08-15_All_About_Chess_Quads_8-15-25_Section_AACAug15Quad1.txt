@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ge, Jeremy             SOMCJ88K  1383  1408/341  L3  W2  W4  2.0
+  2 Narkhede, Kshitij      CRKDA27K  1429  1422/148  W4  L1  D3  1.5
+  3 Bansal, Vivaan         TSTK452J  1410  1408/153  W1  L4  D2  1.5
+  4 Burtram, Dayton        SKNJG77M  1377  1362/380  L2  W3  L1  1.0

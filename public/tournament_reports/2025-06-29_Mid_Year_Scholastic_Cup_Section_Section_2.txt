@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Patel, Aarya           REJGK30E  1492  1586/246  D2  D8  W4  W3  W6  4.0
+  2 Nawagamudewage, NaadithMELFJ11W  1528  1543/ 44  D1  W5  D3  W6  L4  3.0
+  3 Pai, Vihaan            CHAFK17C  1474  1510/313  W10 W4  D2  L1  D7  3.0
+  4 Evin, Terrick          EBSDC54L  1508  1529/267  W6  L3  L1  W10 W2  3.0
+  5 Dhawan, Viraj          OVLII96U  1468  1505/122  W7  L2  HPB W8  HPB 3.0
+  6 Lai, Ryan              SHSBH70N  1454  1453/130  L4  W7  W9  L2  L1  2.0
+  7 Xu, Zoe                SOMFG70A  1518  1492/388  L5  L6  D10 W9  D3  2.0
+  8 Ganesan, Vidur         SKWG940K  1620  1582/351  D9  D1  HPB L5  D10 2.0
+  9 Babbar, Riaan          ENDEJ98D  1498  1461/155  D8  D10 L6  L7  BYE 2.0
+ 10 Das, Sambuddha Sekhar  ENDEK47S  1550  1505/224  L3  D9  D7  L4  D8  1.5

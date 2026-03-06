@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Nedumpurakkal Thahir, IRHJKK46Y  1897  1918/ 82  W6  W3  W2  W4  W5  5.0
+  2 Scollon, Owen          SHMJ734D  1742  1743/565  W4  W5  L1  W3  W6  4.0
+  3 Inforzato, Andrew      HABIH09C  1473  1473/ 10  W7  L1  W6  L2  W8  3.0
+  4 Kuo, Declan            KELIE82L  1056  1128/274  L2  W8  W5  L1  W7  3.0
+  5 Kuo, Tristan           SCHK941B  1265  1238/288  W8  L2  L4  W7  L1  2.0
+  6 Raghavendra, Srihari   INGIH19D  1205  1203/ 84  L1  W7  L3  W8  L2  2.0
+  7 Khandelwal, Anay       OMSHA10L   914   896/ 77  L3  L6  W8  L5  L4  1.0
+  8 Sadhu, Shanmukha       RHJHG75L   710   674/ 10  L5  L4  L7  L6  L3  0.0

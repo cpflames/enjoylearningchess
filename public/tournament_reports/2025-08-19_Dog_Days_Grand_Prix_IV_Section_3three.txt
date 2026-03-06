@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mcneil, Mason          VSTHJ49Y   908  1024/ 77  W4  W2  W3  3.0
+  2 Qureshi, Danish        BLNHF36V   968   966/229  W6  L1  W5  2.0
+  3 Kaur, Prabhkirat       IREFE41C   811   812/ 70  D5  W6  L1  1.5
+  4 Russell, Emerson       BLEGK23A   755   769/112  L1  D5  W6  1.5
+  5 Smith, Benjamin        BLEEG44D   721   721/ 93  D3  D4  L2  1.0
+  6 Cancelosi, Nicholas    VSTHM25W   803   723/127  L2  L3  L4  0.0

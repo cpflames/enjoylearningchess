@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lin, Vivienne          CSIEK99D  1161  1154/ 70  W3  W4  D2  2.5
+  2 Wu, Jayden             UCDD495Q   880   947/142  W4  W3  D1  2.5
+  3 Nair, Vihaan           FRWBJ97F   667   686/ 61  L1  L2  W4  1.0
+  4 Meenakshi Sundaram, PavCDWCJ99Z   741   686/ 27  L2  L1  L3  0.0

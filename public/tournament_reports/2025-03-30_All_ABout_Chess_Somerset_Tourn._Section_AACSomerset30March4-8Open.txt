@@ -1,0 +1,40 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ganesan, Vidur         RBRF940K  1470  1560/329  W13 W12 W10 W2  W3  5.0
+  2 Ghosh, Snehil          CBRF738T  1432  1458/241  W25 W21 W4  L1  W7  4.0
+  3 Rao, Atharv            TYEGB90T  1400  1440/134  W23 W24 W9  W6  L1  4.0
+  4 Vijay, Adith           SOMED20K  1239  1325/ 83  W30 W11 L2  W24 W9  4.0
+  5 Lin, Ethan             TYEGJ71H  1216  1267/ 84  W27 L6  W25 W17 W14 4.0
+  6 Li, Shawn              SOMDJ11N  1591  1563/ 90  W35 W5  D19 L3  W21 3.5
+  7 Zhu, Aiden             SOMEC77X  1337  1339/169  D32 W14 W20 W19 L2  3.5
+  8 Sabarish, Ananya       BCAEG02Z  1022  1080/198  HPB L20 W34 W31 W19 3.5
+  9 Bhasin, Palash         ISMGH95H  1202  1243/134  W33 W15 L3  W16 L4  3.0
+ 10 Kim, Dylan             TYEGK38L  1270  1260/206  W29 W17 L1  L14 W25 3.0
+ 11 Gagnier, Ian           HSCGC72H  1562  1513/228  W16 L4  L14 W20 W22 3.0
+ 12 Luo, Peter             SOMF664K  1293  1281/145  W28 L1  D31 W23 D15 3.0
+ 13 Bui, Edwin             FRVFK90H  1042  1064/156  L1  W27 L16 W26 W28 3.0
+ 14 Huang, Edwin           OMSH616M  1064  1152/103  W39 L7  W11 W10 L5  3.0
+ 15 Ren, Easton            CMCBH68Z  1354  1325/ 91  W18 L9  W35 D22 D12 3.0
+ 16 Chen, Xinyu            SOMGD08V  1260  1249/ 76  L11 W33 W13 L9  W29 3.0
+ 17 Feng, Levi             SOMFJ59B  1098  1091/ 50  W38 L10 W26 L5  W27 3.0
+ 18 Jayakrishnan, Chethan  GTMIH06G   963   963/ 15  L15 L26 W39 W38 W24 3.0
+ 19 Li, Anyi               LKDDJ55F  1288  1274/153  W31 W22 D6  L7  L8  2.5
+ 20 Woo, Nina              NCSFJ06R   903  1018/ 32  D37 W8  L7  L11 W32 2.5
+ 21 Xu, Jeffery            TYEHJ88V  1222  1206/ 71  W26 L2  D23 W32 L6  2.5
+ 22 Li, Harry              SPTFG30G  1265  1248/487  W34 L19 W29 D15 L11 2.5
+ 23 Tsen, Eric             AGBEK18P   978  1005/231  L3  W38 D21 L12 W31 2.5
+ 24 Lin, Elliot            TYEGJ71G  1085  1044/ 85  W36 L3  W30 L4  L18 2.0
+ 25 Elmieh, Niko           CRKF777E  1029  1026/ 90  L2  W34 L5  W33 L10 2.0
+ 26 Novruzov, David        SMVIG76S   819   876/ 14  L21 W18 L17 L13 W33 2.0
+ 27 Singla, Atharv         TWFHF53S   764   783/ 52  L5  L13 W28 W39 L17 2.0
+ 28 Wong, Ryan             TYEIK01H   888   875/ 20  L12 W35 L27 W30 L13 2.0
+ 29 Sinha, Ishayu          HEAGJ24F   931   945/ 55  L10 W36 L22 W35 L16 2.0
+ 30 Prashanth, Aswanth     SMVHI99W   361   546/ 26  L4  W32 L24 L28 W34 2.0
+ 31 Su, Oliver             JINED01U   935   913/171  L19 W39 D12 L8  L23 1.5
+ 32 Agarwal, Kavir         MEDF152U   946   898/ 89  D7  L30 W38 L21 L20 1.5
+ 33 Vijay, Krish           TYEH144B   901   853/ 63  L9  L16 W36 L25 L26 1.0
+ 34 Marley, John           TYEI932E   831   771/ 25  L22 L25 L8  W36 L30 1.0
+ 35 Upasani, Neil          SSMFJ57C  1049   977/127  L6  L28 L15 L29 W38 1.0
+ 36 Dy, Nathan             SMVIG50R   800   490/  5  L24 L29 L33 L34 W39 1.0
+ 37 Bravenboer, Jake       OPWEJ97Y  1230  1215/155  D20 U   U   U   U   0.5
+ 38 Marley, Chris          TYEH830F   594   566/ 25  L17 L23 L32 L18 L35 0.0
+ 39 Arriyalertjirakul, TataTYEGG50Q   600   179/  5  L14 L31 L18 L27 L36 0.0

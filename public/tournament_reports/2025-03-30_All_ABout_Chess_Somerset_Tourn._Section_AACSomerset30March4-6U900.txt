@@ -1,0 +1,39 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Lin, Evan              SOMCJ72G   855   992/ 86  W18 W23 W7  W10 W6  5.0
+  2 Bhandari, Aarav        CBREJ06H   907   996/133  W14 W22 W3  D6  W9  4.5
+  3 Menezes, Ronit         SCDFK44M   796   854/103  W26 W8  L2  W14 W13 4.0
+  4 Bayya, Shrihan         CBREJ74M   657   830/ 44  W29 W9  L6  W11 W16 4.0
+  5 Huang, Derek           MEDE634K   646   745/ 50  W32 L6  W26 W12 W10 4.0
+  6 Sameneni, Shivanga     TYEGJ39W   838   895/ 30  W21 W5  W4  D2  L1  3.5
+  7 Burmistrov, Maya       SSMFJ19Z   764   773/ 45  W38 W13 L1  W32 D8  3.5
+  8 Sarangi, Samarth       CBREH69F   791   773/111  W37 L3  W34 W38 D7  3.5
+  9 Du, Charles            SOMFA15U   976   938/152  W16 L4  W18 W23 L2  3.0
+ 10 Abbott, Elliott        WOBGF07R   566   666/ 54  W28 W24 W12 L1  L5  3.0
+ 11 Chai, Chloe            NCSEJ59R   847   793/145  L17 W25 W15 L4  W20 3.0
+ 12 Mallapragada, Mihir    CBRF254M   820   784/ 56  W36 W17 L10 L5  W23 3.0
+ 13 Badi, Shreya           MTWFK52A   596   621/ 94  W31 L7  W33 W22 L3  3.0
+ 14 Mirchandani, Kiaan     MEDEK92Z   586   616/113  L2  W28 W35 L3  W27 3.0
+ 15 Ip, Evan               SOMFI14G   313   489/ 33  W19 W27 L11 L20 W31 3.0
+ 16 Romero, Oliver         SNIEK44Z   565   654/ 28  L9  W38 W27 W24 L4  3.0
+ 17 Yang, Maximilian       TYEG632J   483   607/ 58  W11 L12 L24 W28 W22 3.0
+ 18 Kamasani, Dharshith    BLWEJ06Q   461   543/ 42  L1  W32 L9  W35 W24 3.0
+ 19 Wang, Jacob Z          EVJGE71A   729   659/162  L15 L33 W36 W30 W25 3.0
+ 20 Li, Owen               CBRFG50P   500   442/  5  L25 D36 W29 W15 L11 2.5
+ 21 Fong, Mercer           SOMEK43T   452   444/ 34  L6  W29 L23 D31 W37 2.5
+ 22 Wang, Gideon           SOMEC35B   738   672/ 39  W30 L2  W25 L13 L17 2.0
+ 23 Kolter, Aidan          SNIFJ60J   706   675/ 37  W35 L1  W21 L9  L12 2.0
+ 24 Brakenridge, Bryce     TYEGK89D   749   668/ 85  W33 L10 W17 L16 L18 2.0
+ 25 Mandal, Ruhaan         CNCFD75A   100   282/ 10  W20 L11 L22 W26 L19 2.0
+ 26 Fong, Kennen           SOMGK45J   367   358/ 30  L3  W31 L5  L25 W35 2.0
+ 27 Wu, Ruichen            CDWFK08F   768   663/ 36  W34 L15 L16 W33 L14 2.0
+ 28 Teng, Lincoln          SOMFK88N   254   262/ 16  L10 L14 BYE L17 W32 2.0
+ 29 Mou, Nicholas          DISFG50N   500   248/  4  L4  L21 L20 W34 WF  2.0
+ 30 Zhu, Andrew            SOMFG50M   500   402/  3  L22 HPB HPB L19 W34 2.0
+ 31 Rozenfeld, Dennis      CBRFG50L   500   278/  5  L13 L26 W38 D21 L15 1.5
+ 32 Yin, Brandon           SOMEG50K   400   197/  5  L5  L18 W37 L7  L28 1.0
+ 33 Hsu, Molly             SOMEK44U   326   355/ 17  L24 W19 L13 L27 LF  1.0
+ 34 Teng, Lyndon           SOMFK88Q   341   288/ 17  L27 W37 L8  L29 L30 1.0
+ 35 Wang, Ryan             SOMFK44A   242   197/ 14  L23 BYE L14 L18 L26 1.0
+ 36 Pasyavula, Vithun      SOMEJ59C   402   322/ 32  L12 D20 L19 L37 D38 1.0
+ 37 Choi, Jiwoo            SNIEG50J   400   122/  5  L8  L34 L32 W36 L21 1.0
+ 38 Yoo, Hamin             SOMEJ58W   332   238/  8  L7  L16 L31 L8  D36 0.5

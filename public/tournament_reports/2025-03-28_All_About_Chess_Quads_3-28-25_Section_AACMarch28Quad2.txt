@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Harry              SPTFG30G  1163  1265/482  W4  W3  W2  3.0
+  2 Bhasin, Palash         ISMGH95H  1188  1202/129  W3  W4  L1  2.0
+  3 Bolisetty, Varun       CBRDJ73Z  1107  1095/153  L2  L1  W4  1.0
+  4 Agarwal, Avyaan        RCSEW81K  1110  1049/ 64  L1  L2  L3  0.0

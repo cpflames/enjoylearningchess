@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Petluri, Anish         CCDBH48F   547   671/ 15  W3  W4  W2  3.0
+  2 Kamaraju, Akhil        DISEH66C   562   578/ 63  W4  W3  L1  2.0
+  3 Bansal, Aarav          CRKCH28J   490   467/ 44  L1  L2  W4  1.0
+  4 Reddy, Saagar          CDICG33G   489   336/  6  L2  L1  L3  0.0

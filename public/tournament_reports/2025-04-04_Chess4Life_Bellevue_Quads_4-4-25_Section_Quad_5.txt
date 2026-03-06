@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhao, Jerry            EVGAH97K   674   726/ 52  W2  W3  D4  2.5
+  2 Wong, Aiden            CHREK17Z   573   590/100  L1  D4  W3  1.5
+  3 Xu, Jacky Y            SOMCJ59K   577   562/ 97  W4  L1  L2  1.0
+  4 Niu, Edwin             SOMBH73D   654   615/ 59  L3  D2  D1  1.0

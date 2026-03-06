@@ -1,0 +1,29 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Hetamsaria, Aadi       NPRL888H  1746  1797/204  W6  W10 W5  W3  D2  4.5
+  2 Yuodelis, Kenneth      NPRL3681  1708  1753/492  W23 W22 W7  W8  D1  4.5
+  3 Nam, Jinmo             GRRKC101  1696  1724/234  W14 W13 W9  L1  W7  4.0
+  4 Takayoshi, Evan        ADUNE25R  1692  1701/ 31  L15 W18 W16 W11 W6  4.0
+  5 Cen, Evan              INTJI97D  1676  1668/254  W18 W15 L1  D14 D12 3.0
+  6 Nawagamudewage, NaadithMELFJ11W  1493  1528/ 39  L1  W25 W19 W9  L4  3.0
+  7 Maharaja, Imai         HMNEK34K  1602  1604/315  W25 W26 L2  W15 L3  3.0
+  8 Raja, Rian             SKWH786E  1679  1661/234  WF  D16 D11 L2  W14 3.0
+  9 Chen, Andy             SOMEK05J  1606  1596/130  W24 W17 L3  L6  W20 3.0
+ 10 Pan, Peng-ruei         SSMF759R  1569  1565/278  W20 L1  L15 W27 W17 3.0
+ 11 Das, Sambuddha Sekhar  ENDEK47S  1498  1522/219  HPB W28 D8  L4  W19 3.0
+ 12 He, Oliver             ENDEK71V  1582  1580/433  L22 W23 W24 HPB D5  3.0
+ 13 Ma, Lewis              SOMD587M  1517  1531/241  W19 L3  W22 HPB HPB 3.0
+ 14 Hetamsaria, Aayan      BISJG19R  1483  1501/107  L3  W20 W17 D5  L8  2.5
+ 15 Evin, Terrick          EBSDC54L  1468  1508/262  W4  L5  W10 L7  HPB 2.5
+ 16 Chang, Allen           ADUNK02T  1530  1535/ 53  W27 D8  L4  HPB HPB 2.5
+ 17 Kim, Logan             MISGZ43Y  1363  1381/  5  W21 L9  L14 W24 L10 2.0
+ 18 Ghosh, Snehil          CBRF738T  1432  1423/256  L5  L4  W21 L20 W26 2.0
+ 19 Chaudhuri, Arihant     CHAF703E  1330  1324/314  L13 BYE L6  W22 L11 2.0
+ 20 Ma, Ziliang            DCCHA69N  1379  1369/177  L10 L14 BYE W18 L9  2.0
+ 21 Rao, Deepak Sri KartikeBPSI517J  1532  1464/238  L17 L24 L18 BYE W27 2.0
+ 22 Roy Chowdhury, Avyaan  THRDH82M  1404  1393/ 54  W12 L2  L13 L19 D23 1.5
+ 23 Ao, Ethan              NPRLJ24V  1475  1434/ 43  L2  L12 D25 D26 D22 1.5
+ 24 Zhang, Kevin           WOBG809Y  1428  1404/192  L9  W21 L12 L17 D25 1.5
+ 25 Wang, Harvey           OPWCJ68G  1425  1399/174  L7  L6  D23 HPB D24 1.5
+ 26 Byelashova, Darya      SGHEK51X  1191  1177/226  BYE L7  L27 D23 L18 1.5
+ 27 Li, Anyi               LKDDJ55F  1339  1317/173  L16 HPB W26 L10 L21 1.5
+ 28 Boddy, Kyle            ADUNH98N  1426  1408/ 36  HPB L11 U   U   U   0.5

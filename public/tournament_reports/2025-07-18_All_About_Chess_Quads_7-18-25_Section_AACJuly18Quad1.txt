@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pan, Peng-ruei         SSMF759R  1565  1580/284  W2  W3  W4  3.0
+  2 Zhang, Patrick         SSSCK01J  1220  1276/333  L1  W4  W3  2.0
+  3 Dhameeja, Ved          GRRFJ98F  1234  1229/182  W4  L1  L2  1.0
+  4 Bikkula, Charan        BLMIJ23A  1248  1195/270  L3  L2  L1  0.0

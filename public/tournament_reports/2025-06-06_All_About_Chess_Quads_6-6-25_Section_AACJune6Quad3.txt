@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ye, Alex               ENDFH51L  1150  1222/294  W4  W3  D2  2.5
+  2 Mahale, Avneesh        CNHC993F  1080  1104/256  L3  W4  D1  1.5
+  3 Chen, Max Y            DISFK76L  1209  1175/138  W2  L1  L4  1.0
+  4 Bhasin, Palash         ISMGH95H  1199  1168/160  L1  L2  W3  1.0

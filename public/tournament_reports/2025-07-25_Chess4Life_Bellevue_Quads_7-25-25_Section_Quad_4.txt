@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Swindell, Adam         MRLFG32Q   530   648/ 18  D4  W2  W3  2.5
+  2 Abdukarimov, Samin     BENAH67S   620   637/131  W3  L1  W4  2.0
+  3 Diaz, Gerardo          CPCIH11F   533   516/ 11  L2  W4  L1  1.0
+  4 Yadav, Divyansh        TBKCG75M   586   525/ 40  D1  L3  L2  0.5

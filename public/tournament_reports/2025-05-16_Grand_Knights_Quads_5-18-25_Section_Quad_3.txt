@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chadha, Saahan         ENDEK64R   895  1009/ 69  W4  W3  W2  3.0
+  2 Leon, Vikram           EBSCH74X   867   898/ 48  W3  W4  L1  2.0
+  3 Lam, Sebastian         OPWCJ97R   850   831/ 98  L2  L1  W4  1.0
+  4 Chiang, Austin         CNHBH59V   849   776/ 35  L1  L2  L3  0.0

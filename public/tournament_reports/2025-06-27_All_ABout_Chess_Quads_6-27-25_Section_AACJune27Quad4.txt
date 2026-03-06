@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Shah, Aariv            PFCH527D   794   925/ 34  W4  W3  W2  3.0
+  2 Mirchandani, Kiaan     MEDEK92Z   841   856/133  W3  W4  L1  2.0
+  3 Charles, Benjamin      SOMBJ06G   745   732/144  L2  L1  W4  1.0
+  4 Ram, Yaalini           SNECH87H   752   681/110  L1  L2  L3  0.0

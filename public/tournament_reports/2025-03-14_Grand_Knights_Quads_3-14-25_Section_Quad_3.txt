@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wong, Aiden            CHREK17Z   590   635/ 85  W4  W2  W3  3.0
+  2 Wild, Edward           WMNAG92D   345   331/ 12  W3  L1  L4  1.0
+  3 Abuhuwaij, Adam        TBKCG92E   382   357/ 12  L2  W4  L1  1.0
+  4 Galande, Nandan        CSMEG65K   400   311/  3  L1  L3  W2  1.0

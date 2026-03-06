@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hardin, Noah           LYAEH68E   303   384/ 26  W4  W2  W3  3.0
+  2 Arevalo, Aryanne       CEEDG72K   100   100/ 13  W3  L1  L4  1.0
+  3 Hogue, Mason           CUEFG27F   500   100/  3  L2  W4  L1  1.0
+  4 Fine-gucker, Audrey    EAGCG71W   168   138/ 22  L1  L3  W2  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Cha, Samuel            BASHK18Z  1563  1583/249  W3  W4  W2  3.0
+  2 Deshpande, Keshav      CHOH420G  1369  1385/135  W4  W3  L1  2.0
+  3 Zeitlin, Tom           WOBFI56H  1118  1142/124  L1  L2  W4  1.0
+  4 Chevuri, Tattva        REJHC06V  1337  1274/454  L2  L1  L3  0.0

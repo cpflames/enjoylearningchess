@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Delacroix, Styles      HSCHG93F  1201  1289/ 21  W4  W2  W3  3.0
+  2 Hu, Yi-en Pi           BCAEK35P  1122  1133/115  W3  L1  D4  1.5
+  3 Ivanov, Matvei         EABDK34E  1195  1164/117  L2  W4  L1  1.0
+  4 Zhang, Bowen           REEFK46L  1110  1076/ 63  L1  L3  D2  0.5

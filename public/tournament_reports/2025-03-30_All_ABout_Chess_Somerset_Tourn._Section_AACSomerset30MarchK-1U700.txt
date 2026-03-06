@@ -1,0 +1,30 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Niu, Edwin             SOMBH73D   529   654/ 56  W19 W13 D2  W4  W3  4.5
+  2 Raghavendran, Vedanth  DCSBH24C   290   445/ 13  W25 W9  D1  W18 W10 4.5
+  3 Rao, Jaiden            JINBH62B   591   613/ 22  W20 W24 W12 W8  L1  4.0
+  4 Wang, Max              CGRBK03S   524   533/ 43  W24 W22 W11 L1  W17 4.0
+  5 Xiong, Aria            DISBH14J   469   487/ 48  W28 W20 L8  W21 W14 4.0
+  6 Chin, Kheiron          HSCAJ19P   545   524/102  L11 W23 W28 W29 W12 4.0
+  7 Mutha, Vihaan          CNHBH79R   100   289/ 20  W26 W29 L18 W27 W19 4.0
+  8 Sun, Nora              SOMAG49R   100   601/  5  W16 W15 W5  L3  D9  3.5
+  9 Karaca, Aslan          LKDAH50Z   483   481/ 50  W21 L2  W24 W25 D8  3.5
+ 10 Jiao, Isaac            JINAG60V   598   492/ 10  W14 L11 W23 W13 L2  3.0
+ 11 Yan, Nolan             SOMBH13A   135   266/ 13  W6  W10 L4  L12 W27 3.0
+ 12 Jayakrishnan, Archith  FRVBG58A   323   346/  9  WF  W25 L3  W11 L6  3.0
+ 13 Chanda, Rishabh        BCAAH72X   366   376/ 34  W29 L1  W21 L10 W18 3.0
+ 14 Ghosh, Oishani         CBRBJ56E   160   251/ 64  L10 W26 W22 W24 L5  3.0
+ 15 Zhou, George           BRYBJ65T   374   359/ 55  W23 L8  W27 W26 L16 3.0
+ 16 Shih, Alan             EVGAH47A   305   316/ 25  L8  W27 W29 L23 W15 3.0
+ 17 Nori, Vishnu Vallabha  CBRBJ06A   200   225/ 38  W22 L21 W25 W28 L4  3.0
+ 18 Chu, Melody            JINBJ02K   260   263/ 37  D27 W28 W7  L2  L13 2.5
+ 19 Wang, Kyle             NCSBH92T   119   131/ 13  L1  BYE D26 W20 L7  2.5
+ 20 Brakenridge, Ryan      SOMBK05L   144   127/ 64  L3  L5  BYE L19 W23 2.0
+ 21 Wang, Elise            SOMBG49Q   100   169/  5  L9  W17 L13 L5  D22 1.5
+ 22 Xiao, Edwin            SOMAG49P   100   100/  4  L17 L4  L14 BYE D21 1.5
+ 23 Wang, Lina             SOMBG49N   100   110/  5  L15 L6  L10 W16 L20 1.0
+ 24 Denisova, Leila        SOMAG49M   100   138/  5  L4  L3  L9  L14 W29 1.0
+ 25 Hu, Ethan              SOMAG49L   100   100/  4  L2  L12 L17 L9  BYE 1.0
+ 26 Bai, Cayden            SOMBG60T   164   100/ 10  L7  L14 D19 L15 D28 1.0
+ 27 Yin, Aiden             SOMBG49K   100   100/  5  D18 L16 L15 L7  L11 0.5
+ 28 Wang, Ian              SOMBG49J   100   100/  5  L5  L18 L6  L17 D26 0.5
+ 29 Chang, Sia             SOMAG49H   100   100/  5  L13 L7  L16 L6  L24 0.0

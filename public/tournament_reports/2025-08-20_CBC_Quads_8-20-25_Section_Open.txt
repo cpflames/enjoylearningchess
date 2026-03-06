@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Olson, Ben             BLCJG50S  1078  1102/167  W5  W3  W2  3.0
+  2 Wang, Samuel           HCCIK25H   777   831/ 32  W4  W6  L1  2.0
+  3 Graham, Isaac          HCCHJ42K   754   771/ 81  W7  L1  W6  2.0
+  4 Ryan, Charles          HCCIG23W  1001   935/  7  L2  W7  W5  2.0
+  5 Mar, Eliana            HCCFK20V   721   703/ 37  L1  W8  L4  1.0
+  6 Wang, Ethan            HCCEK20M   411   396/ 11  BYE L2  L3  1.0
+  7 Connors, Jude          HCCJK20S   600   580/ 15  L3  L4  W8  1.0
+  8 Singh, Drew            EASGG22U   600   189/  2  U   L5  L7  0.0

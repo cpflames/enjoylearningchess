@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Balaji, Vaibhav        SSMCH28Z   497   528/ 69  BYE W3  W2  3.0
+  2 Snow, Tor              SNEEK43V   389   378/ 16  W3  BYE L1  2.0
+  3 Reddy, Atharv          GRRAG25J   100   100/  2  L2  L1  BYE 1.0

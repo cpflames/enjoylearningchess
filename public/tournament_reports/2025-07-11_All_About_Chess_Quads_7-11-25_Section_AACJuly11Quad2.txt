@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Huang, Jaden           ENDDJ63S   961  1015/239  W4  D3  W2  2.5
+  2 Swain, Samarth         MMECJ58S   981   992/336  W3  W4  L1  2.0
+  3 Sarychev, Aleksei      ISSKJ98N   849   872/281  L2  D1  W4  1.5
+  4 Balaji, Pranav         INGHJ96J   901   829/ 85  L1  L2  L3  0.0

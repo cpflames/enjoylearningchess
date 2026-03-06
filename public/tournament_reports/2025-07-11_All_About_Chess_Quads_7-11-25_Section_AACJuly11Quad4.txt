@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Senthil, Vibha         RSADG28T   662   672/ 12  W3  W4  L2  2.0
+  2 Phadnis, Akash         DISBJ27M   581   625/ 47  W4  L3  W1  2.0
+  3 Rao, Jaiden            JINBH62B   543   610/ 30  L1  W2  W4  2.0
+  4 Balaji, Vaibhav        SSMCH28Z   580   497/ 67  L2  L1  L3  0.0

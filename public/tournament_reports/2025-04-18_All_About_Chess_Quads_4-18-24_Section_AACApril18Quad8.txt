@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Phadnis, Akash         DISBJ27M   468   600/ 36  W2  W3  W4  3.0
+  2 Zhu, Anna              SOMDH30X   384   427/ 44  L1  W4  W5  2.0
+  3 Balaji, Vaibhav        SSMCH28Z   441   451/ 50  W5  L1  W6  2.0
+  4 Nandakiran, Advaith    SSMCJ88H   331   309/159  W6  L2  L1  1.0
+  5 Nelson, Harvey         CMCFG67L   292   268/ 17  L3  W6  L2  1.0
+  6 Zhu, Aron              SOMCH30W   215   140/ 29  L4  L5  L3  0.0

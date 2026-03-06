@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Deng, Lucas            DISDH87X   884   982/ 81  D4  W2  W3  2.5
+  2 Bysani, Aakash         SSMCK01D   911   945/289  W3  L1  W4  2.0
+  3 Sarychev, Aleksei      GEKKJ98N   898   880/260  L2  W4  L1  1.0
+  4 Zhang, Eric Q          SOMDK64M   966   903/105  D1  L3  L2  0.5

@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Nguyen, Vuong Tien ThinMARIG70K  1170  1218/ 17  W6  W9  D3  D8  W4  4.0
+  2 Karthik, Sai           BCAE261S   967  1068/143  W11 W4  L8  W9  D3  3.5
+  3 Chintalapudi, Srihaan  CPJH662W  1238  1221/153  W5  W8  D1  L4  D2  3.0
+  4 Kan, Kaleb             ICKGF53E  1137  1141/266  W10 L2  W6  W3  L1  3.0
+  5 Daniel, Lemuel         MMEDJ29L   934   971/ 66  L3  L7  W11 W10 W8  3.0
+  6 Rajeswaran, Raghav     RHJIJ57H   926   950/ 44  L1  W12 L4  W7  W11 3.0
+  7 Jibin, Kevin           REJHH82A   859   917/ 33  L8  W5  W12 L6  W9  3.0
+  8 Zeitlin, Tom           WOBFI56H  1132  1119/106  W7  L3  W2  D1  L5  2.5
+  9 Nachiappan, Lakshmanan RHJIJ87Q   973   942/ 63  W12 L1  W10 L2  L7  2.0
+ 10 Yen, Apollo            REJHG78H   882   853/149  L4  W11 L9  L5  W12 2.0
+ 11 Sreeram, Aditya        CEIF340K   728   699/ 50  L2  L10 L5  W12 L6  1.0
+ 12 Yang, Noah             RKWCG76A   785   594/  8  L9  L6  L7  L11 L10 0.0

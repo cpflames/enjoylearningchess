@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Elmieh, Niko           CRKF777E  1006  1091/ 98  D2  W3  W4  2.5
+  2 Mahale, Avneesh        CNHC993F  1039  1063/239  D1  W4  D3  2.0
+  3 Bolisetty, Varun       CBRDJ73Z  1066  1058/169  W4  L1  D2  1.5
+  4 Sarychev, Aleksei      GEKKJ98N   995   930/248  L3  L2  L1  0.0

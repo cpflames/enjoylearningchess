@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bray, Patrick          HDPEG58Z   951  1083/ 25  W3  W4  W2  W8  W7  5.0
+  2 Fuchs, Ethan           LBSH849Z   833   935/ 44  W9  W5  L1  W7  W8  4.0
+  3 Grace, Sophia          HSCCH68T   777   776/ 30  L1  L7  BYE W5  W9  3.0
+  4 Phelps, Shaun          SGSFH40S   635   671/ 29  W6  L1  L7  BYE W11 3.0
+  5 Duncan, Aj D           MCSEH49T   599   647/ 46  W12 L2  W10 L3  BYE 3.0
+  6 Kuthy, Justice         HSCAH51M   894   791/ 10  L4  W9  L8  W11 W10 3.0
+  7 Longacre, Jeshua       AOCGG26K   751   810/  9  D8  W3  W4  L2  L1  2.5
+  8 Eakin, Anthony         CHGHG65P   899   876/ 22  D7  W10 W6  L1  L2  2.5
+  9 Martinson, Tristan     CNYKG24H  1000   591/  5  L2  L6  W11 W10 L3  2.0
+ 10 Wang, Elsa             RKWDG35B   595   483/  9  BYE L8  L5  L9  L6  1.0
+ 11 Hopkins, Beatrice      MCSFK48P   392   359/ 27  U   BYE L9  L6  L4  1.0
+ 12 Abell, Dominic         CFMGY95G   841   746/  6  L5  U   U   U   U   0.0

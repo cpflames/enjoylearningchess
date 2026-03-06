@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Graham, Isaac          HCCHJ42K   925   933/ 69  W2  D4  W3  2.5
+  2 Yu, Andrew             HCCDK20X   160   342/ 15  L1  W6  W4  2.0
+  3 Mar, Eliana            HCCFK20V   519   542/ 25  W6  W5  L1  2.0
+  4 Yu, Jacob              HCCGK21J   985   929/ 46  W5  D1  L2  1.5
+  5 Wang, Ethan            HCCEK20M   440   411/  9  L4  L3  W6  1.0
+  6 Ryland, Judah          HCCGG28L   600   100/  3  L3  L2  L5  0.0

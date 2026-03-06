@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Singla, Atharv         TWFHF53S   770   802/ 58  D3  W4  W2  2.5
+  2 Sarangi, Samarth       CBREH69F   709   730/133  W4  W3  L1  2.0
+  3 Charles, Benjamin      SOMBJ06G   595   623/124  D1  L2  W4  1.5
+  4 Reddy, Aariv           GRRCK34T   656   577/ 68  L2  L1  L3  0.0

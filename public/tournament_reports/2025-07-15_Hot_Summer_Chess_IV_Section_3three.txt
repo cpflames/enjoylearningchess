@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ferris, Ari            BFMFG98H   692   771/ 31  W2  W4  W3  3.0
+  2 Kesten, Eyal           CDXKZ43W   348   502/  6  L1  W5  W4  2.0
+  3 Smith, Benjamin        BLEEG44D   615   631/ 81  W5  W6  L1  2.0
+  4 Miller, Benaiah        LYCFG25Y   500   449/  3  W6  L1  L2  1.0
+  5 Miller, Titus          LYCFG25X   500   411/  3  L3  L2  W6  1.0
+  6 Davis, Buzz            FACGH39Y   624   493/ 34  L4  L3  L5  0.0

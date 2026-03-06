@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Charles, Benjamin      SOMBJ06G   611   640/113  L6  W5  W3  W4  W2  4.0
+  2 Anand, Nivaan          MCEBH64F   551   603/ 91  W8  W3  W4  W7  L1  4.0
+  3 Skelton, Conrad        SNEBJ81Z   342   463/ 35  W7  L2  L1  W8  W6  3.0
+  4 Mutha, Vihaan          CNHBH79R   289   313/ 24  BYE W6  L2  L1  D8  2.5
+  5 Rastogi, Aarav         CAXAZ53Y   100   431/  4  HPB L1  W8  L6  W7  2.5
+  6 Sterba, Pavel          NOWBK34L   435   419/ 70  W1  L4  L7  W5  L3  2.0
+  7 Xiong, Aria            DISBH14J   487   443/ 53  L3  W8  W6  L2  L5  2.0
+  8 Cheng, Nathan          SSSBJ14H   373   289/ 15  L2  L7  L5  L3  D4  0.5

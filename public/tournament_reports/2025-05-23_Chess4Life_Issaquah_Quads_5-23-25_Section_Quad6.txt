@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bansal, Aarav          CRKCH28J   453   490/ 41  D4  W2  D3  2.0
+  2 Chanda, Rishabh        BCAAH72X   429   481/ 49  W3  L1  W4  2.0
+  3 Sinha, Aarav           ISMJ886W   495   482/ 44  L2  W4  D1  1.5
+  4 Li, Henry              CMCEK03M   431   378/ 29  D1  L3  L2  0.5

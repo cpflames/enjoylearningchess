@@ -1,0 +1,47 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Merriman, Dann         WMNFF79Y  1700  1718/630  W22 W10 W7  D5  3.5
+  2 Palathingal, Rafael    KKNF196R  1942  1937/199  W32 W9  D3  W13 3.5
+  3 Wu, Shanna             CNHEJ72M  1568  1637/ 66  W37 W16 D2  W11 3.5
+  4 Sriram, Aahan          OVLFC03K  1439  1528/105  W26 D11 W14 W15 3.5
+  5 Gao, Ziqian            BLWFK10U  1605  1641/ 87  W36 W18 W12 D1  3.5
+  6 Ma, Lewis              SOMD587M  1486  1518/221  W35 W8  L11 W21 3.0
+  7 Pan, Peng-ruei         SSMF759R  1562  1572/248  W38 W19 L1  W27 3.0
+  8 Meng, Miranda          OPWFH69P  1710  1695/166  W39 L6  W17 W18 3.0
+  9 Yuan, Chen             ETSDJ15Z  1499  1517/170  W30 L2  W36 W23 3.0
+ 10 Yang, Jimmy            BASFG45S  1490  1504/248  W33 L1  W39 W19 3.0
+ 11 Chen, Andy             SOMEK05J  1634  1626/109  W34 D4  W6  L3  2.5
+ 12 Das, Sambuddha Sekhar  ENDEK47S  1509  1504/204  W21 W23 L5  D16 2.5
+ 13 Ganesan, Vidur         RBRF940K  1479  1490/321  W41 W24 D15 L2  2.5
+ 14 Raj, Skandha           EVGCK55U  1377  1385/170  D25 W20 L4  W32 2.5
+ 15 Maharaja, Imai         HMNEK34K  1576  1562/285  W45 W27 D13 L4  2.5
+ 16 Thanikonda, Kruti      CMCEK84W  1349  1370/175  W40 L3  W38 D12 2.5
+ 17 Dharamshi, Anay        CBRDK42U  1267  1283/197  D44 W25 L8  W20 2.5
+ 18 Ghosh, Snehil          CBRF738T  1435  1432/236  W31 L5  W22 L8  2.0
+ 19 Wang, Isaac            CLHFK00U  1294  1299/127  W42 L7  W24 L10 2.0
+ 20 Gu, Vincent            OPWBK00L  1121  1190/102  W29 L14 W34 L17 2.0
+ 21 Lan, Jonathan          MEDE968F  1188  1227/168  L12 W40 W28 L6  2.0
+ 22 Chen, Julian           CNHCK32C  1242  1248/120  L1  W26 L18 W41 2.0
+ 23 Li, Anyi               LKDDJ55F  1283  1288/148  W43 L12 W33 L9  2.0
+ 24 Byelashova, Darya      SGHEK51X  1196  1231/197  W28 L13 L19 W38 2.0
+ 25 Qin, Skyler            OPWBJ97T  1222  1228/151  D14 L17 W44 D29 2.0
+ 26 Hu, Yi-en Pi           BCAEK35P  1072  1110/109  L4  L22 W42 W36 2.0
+ 27 Mishra, Aakash         EBSF439K  1407  1395/159  W46 L15 W37 L7  2.0
+ 28 Zhu, Aiden             SOMEC77X  1376  1337/164  L24 W35 L21 W37 2.0
+ 29 Li, Edgar              SOME883Y  1453  1403/252  L20 W44 D32 D25 2.0
+ 30 Lagzdin, Mikhail       BCACJ96R  1139  1164/ 69  L9  L36 W40 W39 2.0
+ 31 Upasani, Neil          SSMFJ57C  1013  1049/122  L18 L32 W45 W44 2.0
+ 32 Ge, Jeremy             SOMCJ88K  1338  1329/289  L2  W31 D29 L14 1.5
+ 33 Chou, Eugene           SSMEJ56Y  1168  1157/117  L10 W41 L23 D34 1.5
+ 34 Rachiba, Alisa         EVPEK08E  1242  1218/221  L11 W45 L20 D33 1.5
+ 35 Khudyev, Elina         EPICJ97Q  1148  1148/ 81  L6  L28 W43 HPB 1.5
+ 36 Lai, Ryan              SHSBH70N  1277  1247/ 91  L5  W30 L9  L26 1.0
+ 37 Rogov, Richard         MEDDJ68U  1199  1184/114  L3  W43 L27 L28 1.0
+ 38 Wang, Hengsheen        BASC704V  1240  1202/147  L7  W42 L16 L24 1.0
+ 39 He, Jizhou             MEDD789B  1271  1235/146  L8  W46 L10 L30 1.0
+ 40 Zhang, Patrick         SSSCK01J  1052  1033/266  L16 L21 L30 W46 1.0
+ 41 Wu, Jayden             UCDD495Q   862   880/139  L13 L33 W46 L22 1.0
+ 42 Mei, Felicity          MMECK89R   931   900/ 95  L19 L38 L26 BYE 1.0
+ 43 Byelashova, Sofia      SGHCK01K  1073  1049/166  L23 L37 L35 W45 1.0
+ 44 Qu, Yuwen              RSACK86G   846   849/106  D17 L29 L25 L31 0.5
+ 45 Oh, Seojoon            SSMEJ70T  1143  1060/112  L15 L34 L31 L43 0.0
+ 46 Wu, Jonathan           UCDDK14H  1018   942/ 80  L27 L39 L41 L40 0.0

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Rajkumar, Riya         CNCDG33H   300   800/  3  W4  W6  W2  3.0
+  2 Reddy, Saagar          CDICG33G   200   489/  3  W3  W5  L1  2.0
+  3 Song, Noah             GRRAG33F   100   344/  3  L2  W4  W5  2.0
+  4 Zuehlsdorff, Claire    HSCAG33E   100   196/  3  L1  L3  W6  1.0
+  5 Lee, Paul              ENAAG33D   100   131/  3  W6  L2  L3  1.0
+  6 Mattoo, Eshaan         HWEAG68F   100   100/ 13  L5  L1  L4  0.0

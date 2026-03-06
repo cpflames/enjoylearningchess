@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Babbar, Riaan          ENDEJ98D  1419  1469/137  W2  L4  W3  2.0
+  2 Pan, Peng-ruei         SSMF759R  1521  1536/256  L1  W3  W4  2.0
+  3 Xu, Zoe                SOMFG70A  1505  1485/378  W4  L2  L1  1.0
+  4 Chen, William          INGI550N  1551  1522/284  L3  W1  L2  1.0

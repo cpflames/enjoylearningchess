@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Kona, Vidip            TIMGI26J  2219  2215/394  W8  W4  W3  D2  3.5
+  2 Beegala, Keshav        EVJIJ27V  1818  1833/227  W18 W17 D7  D1  3.0
+  3 Yondon, Odbayar        INGGK97T  1837  1849/295  W25 W9  L1  W13 3.0
+  4 Syal, Yash             PFCGC10R  1605  1630/224  W19 L1  W14 W12 3.0
+  5 Shankaranand, Deeksha  EBSGI74Y  1654  1679/328  W20 W6  D11 HPB 3.0
+  6 Cheng, Alan            LMSGJ71K  1514  1543/182  W23 L5  W22 W11 3.0
+  7 Gadde, Arnav           GTMGJ39D  1686  1701/224  W14 W22 D2  HPB 3.0
+  8 Rao, Deepak Sri KartikeBPSI517J  1483  1531/222  L1  W10 W21 D9  2.5
+  9 Deng, Stanley          LLMGK22E  1647  1648/374  W15 L3  W18 D8  2.5
+ 10 Cha, Samuel            BASHK18Z  1594  1578/242  D12 L8  W23 W17 2.5
+ 11 Bharathy Mohan, Aarav  SKIGC98B  1788  1753/414  W16 D13 D5  L6  2.0
+ 12 Choi, Hunter           UPAHE80A  1220  1328/249  D10 W25 D13 L4  2.0
+ 13 Wu, Harry              SASGJ72P  1563  1559/ 62  W21 D11 D12 L3  2.0
+ 14 Tie, Mike              BLMG856Y  1385  1403/172  L7  W20 L4  W21 2.0
+ 15 Huang, Emily           OMSIB39A  1385  1414/353  L9  W19 D17 D18 2.0
+ 16 Gupta, Krishang        GTMHE37V  1474  1445/ 96  L11 L21 W24 W22 2.0
+ 17 Sankrithi, Sarang      HSCGB11D  1575  1545/310  W24 L2  D15 L10 1.5
+ 18 Patel, Aarya           REJGK30E  1415  1410/216  L2  W24 L9  D15 1.5
+ 19 Satish Kumar, Sai NavanJFMGH21Y  1503  1465/115  L4  L15 D20 W23 1.5
+ 20 Ma, Ziliang            DCCHA69N  1456  1423/153  L5  L14 D19 BYE 1.5
+ 21 Menon, Ritwik          ICKH974D  1144  1167/ 98  L13 W16 L8  L14 1.0
+ 22 Delacroix, Styles      HSCHG93F  1221  1201/ 18  BYE L7  L6  L16 1.0
+ 23 De, Rishik             INGIJ87T  1081  1069/114  L6  BYE L10 L19 1.0
+ 24 Patnaik, Rishabhdeva   PLKGG72D  1135  1114/229  L17 L18 L16 HPB 0.5
+ 25 Dhawan, Viraj          OVLII96U  1505  1468/119  L3  L12 U   U   0.0

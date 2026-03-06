@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Zou, Ellie             BLWDG42M   300   539/  4  W5  W3  W4  L2  3.0
+  2 Ram, Yaalini           SNECH87H   517   514/ 80  W6  L4  W5  W1  3.0
+  3 Zhu, Anna              SOMDH30X   317   384/ 41  W7  L1  W6  W4  3.0
+  4 Nelson, Harvey         CMCFG67L   232   292/ 14  W8  W2  L1  L3  2.0
+  5 Zhu, Aron              SOMCH30W   165   215/ 26  L1  W7  L2  W8  2.0
+  6 Zambrano, Ivanna       ISECH23L   100   174/ 14  L2  W8  L3  W7  2.0
+  7 Gondipalli, Vidhura    EACBG42K   100   100/  4  L3  L5  W8  L6  1.0
+  8 Weugar, Liana          CEIAG42H   100   100/  4  L4  L6  L7  L5  0.0

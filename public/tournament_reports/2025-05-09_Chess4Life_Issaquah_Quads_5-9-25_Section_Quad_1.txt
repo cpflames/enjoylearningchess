@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dao, Nathan            HZNJG33K   900  1507/  3  W2  W3  W4  3.0
+  2 Mohammed, Farhan       CRKEH14M  1070  1112/ 59  L1  W4  W3  2.0
+  3 Yang, Michael          SOMGK00G  1028  1023/ 95  W4  L1  L2  1.0
+  4 Chen, Logan            APOEJ69K   991   944/ 58  L3  L2  L1  0.0

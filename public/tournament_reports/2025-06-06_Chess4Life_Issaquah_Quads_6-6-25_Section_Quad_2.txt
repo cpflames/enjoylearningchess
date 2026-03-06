@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Liu, Louis             CNHCJ75J   823   908/102  W4  W2  W3  3.0
+  2 Xu, Jacky Y            SOMCJ59K   585   699/125  W3  L1  W4  2.0
+  3 Lam, Sebastian         OPWCJ97R   831   779/101  L2  W4  L1  1.0
+  4 Abdukarimov, Samin     BENAH67S   632   576/113  L1  L3  L2  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lee, Jaydon            RSHFH25S   866   909/ 48  D3  W4  W2  2.5
+  2 Kennerud, Caedmon      LGHGH61R   849   863/ 45  W4  W3  L1  2.0
+  3 Roy, Ricky             RCSFW75V   723   797/  6  D1  L2  W4  1.5
+  4 Abdukarimov, Samin     BENAH67S   696   641/139  L2  L1  L3  0.0

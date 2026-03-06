@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Krogstad, Jaxon        NCSDJ88M  1012  1095/178  W3  W6  W2  L4  W5  4.0
+  2 Sarychev, Aleksei      GEKKJ98N   995  1015/236  W5  L3  L1  W6  W4  3.0
+  3 Agarwal, Avyaan        RCSEW81K  1134  1110/ 61  L1  W2  L4  W5  W6  3.0
+  4 Swain, Samarth         MMECJ58S  1125  1082/272  D6  L5  W3  W1  L2  2.5
+  5 Li, Ethan James        SOMCK00K   860   879/151  L2  W4  W6  L3  L1  2.0
+  6 Nayagam, Anantika      SSMFH62E   718   705/ 35  D4  L1  L5  L2  L3  0.5

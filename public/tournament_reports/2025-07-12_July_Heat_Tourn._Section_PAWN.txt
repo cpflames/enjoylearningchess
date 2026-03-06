@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Duncan, Aj D           MCSEH49T   443   599/ 42  W7  W9  W5  D2  W3  4.5
+  2 Longacre, Jeshua       AOCGG26K   600   751/  4  BYE W5  W4  D1  W9  4.5
+  3 Mcbroome, Bennett      KCAEG26J   400   452/  4  L8  BYE W6  W4  L1  3.0
+  4 Mcbroome, Deacon       KCAEG26E   400   471/  5  W6  W8  L2  L3  W11 3.0
+  5 Donahoe, Alice         ALTCK48Y   388   396/ 28  W11 L2  L1  W9  W10 3.0
+  6 Modrell, Myles         LBYDG26D   300   349/  5  L4  W10 L3  W11 W7  3.0
+  7 Larsen, Benny          LBYFG26C   500   259/  5  L1  W11 D9  W10 L6  2.5
+  8 Bray, Grant            HDPBG38N   369   387/ 12  W3  L4  BYE U   U   2.0
+  9 Lashley, Aunah         NSVDH49P   100   129/ 37  W10 L1  D7  L5  L2  1.5
+ 10 Borgman, Jude          HUTFG26B   500   100/  5  L9  L6  W11 L7  L5  1.0
+ 11 Hopkins, Arthur        MCSCG25Z   200   100/  5  L5  L7  L10 L6  L4  0.0

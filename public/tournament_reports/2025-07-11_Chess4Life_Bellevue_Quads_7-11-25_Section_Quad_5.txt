@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Namburi, Shriniketh    TMBIJ20A   598   618/ 39  W3  W4  L2  2.0
+  2 Abdukarimov, Samin     BENAH67S   566   600/125  W4  L3  W1  2.0
+  3 Swindell, Adam         MRLFG32Q   554   530/ 15  L1  W2  L4  1.0
+  4 Yadav, Divyansh        TBKCG75M   558   532/ 34  L2  L1  W3  1.0

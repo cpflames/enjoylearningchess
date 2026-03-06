@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bui, Edwin             FRVFK90H  1064  1129/159  D2  W3  W4  2.5
+  2 Chaturvedi, Raghav     BISJK75J  1037  1117/157  D1  W4  W3  2.5
+  3 Kocherlakota, Vihaan   TMBHA65P   965   966/118  W4  L1  L2  1.0
+  4 Garg, Vihaan           CMCEJ10X  1116  1029/275  L3  L2  L1  0.0

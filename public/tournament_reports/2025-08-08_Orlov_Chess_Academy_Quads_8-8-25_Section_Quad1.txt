@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Karnik, Rohan          WAVJG59F   911   966/ 43  W4  W3  W2  3.0
+  2 Zeeshan, Hamza         CRKEJ15N  1018   990/ 96  W3  W4  L1  2.0
+  3 Sijin, Ryan            BENCG24X   441   487/  8  L2  L1  W4  1.0
+  4 Zeeshan, Harris        CRIBH61J   347   322/ 57  L1  L2  L3  0.0

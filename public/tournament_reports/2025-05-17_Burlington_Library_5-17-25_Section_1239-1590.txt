@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nipges, Jaxon          FERL382B  1456  1553/153  W3  W2  W4  3.0
+  2 Zhang, Owen            SHMJ995H  1561  1546/358  W4  L1  D3  1.5
+  3 Stroud, Jeb            SHMJK22V  1590  1571/219  L1  W4  D2  1.5
+  4 Vendeland, Alexa       HSCI441X  1239  1219/140  L2  L3  L1  0.0

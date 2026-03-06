@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sarangi, Samarth       CBREH69F   636   791/106  W4  W2  W3  3.0
+  2 Balaji, Pranav         INGHJ96J   707   724/ 53  W3  L1  W4  2.0
+  3 Vatsan, Maitri         SSMCK00S   606   595/157  L2  W4  L1  1.0
+  4 Sathyamurthy, Shreyus  BLWCJ60Z   640   560/139  L1  L3  L2  0.0

@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Barrenkala, Surya      EVJH238E  1315  1306/ 86  W2  D3  BYE 2.5
+  2 Yeh, George            COSCH64S  1021  1040/ 32  L1  BYE W3  2.0
+  3 Bhende, Shaurya        MMEFK24T  1021  1013/ 70  BYE D1  L2  1.5

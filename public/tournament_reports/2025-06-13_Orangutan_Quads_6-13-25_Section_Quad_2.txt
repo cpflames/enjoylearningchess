@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yao, Roger Yutang      THOCK88C   861   942/123  W3  W4  W2  3.0
+  2 Shing, Lucas           HZFDJ74H   782   752/124  W4  L3  L1  1.0
+  3 Rosenthal, Eli         THUCG58B   665   669/ 32  L1  W2  L4  1.0
+  4 Ben Simon, Golan       WEDDJ48B   774   747/ 69  L2  L1  W3  1.0

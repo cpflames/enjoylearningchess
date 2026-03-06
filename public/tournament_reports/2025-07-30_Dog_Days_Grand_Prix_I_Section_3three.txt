@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ferris, Ari            BFMFG98H   785   905/ 37  W2  W5  W4  3.0
+  2 Smith, Benjamin        BLEEG44D   631   716/ 84  L1  W4  W6  2.0
+  3 Cancelosi, Nicholas    VSTHM25W   798   768/121  L4  D6  W5  1.5
+  4 Westergreen, Korben    HORIH39X   756   736/ 39  W3  L2  L1  1.0
+  5 Buckham, George        SKYEK37E   761   729/114  W6  L1  L3  1.0
+  6 Triano, Tony           SKYFJ17K   609   578/ 62  L5  D3  L2  0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Menezes, Ronit         SCDFK44M   854   879/106  W3  L4  W2  2.0
+  2 Agarwal, Kavir         MEDF152U   898   883/ 92  W4  D3  L1  1.5
+  3 Zhang, Eric Q          SOMDK64M   835   839/ 91  L1  D2  W4  1.5
+  4 Li, Ethan James        SOMCK00K   808   793/162  L2  W1  L3  1.0

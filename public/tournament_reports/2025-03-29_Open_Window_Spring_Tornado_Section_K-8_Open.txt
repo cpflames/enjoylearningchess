@@ -1,0 +1,35 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Lai, Ryan              SHSBH70N  1247  1352/ 95  W11 W14 D3  W10 3.5
+  2 Kwan-uchiyama, Avery   OMSGH22T  1456  1464/131  D18 W23 W22 W9  3.5
+  3 Prashant, Niranjan     PFCH468K  1362  1376/202  W34 W8  D1  D4  3.0
+  4 He, Jizhou             MEDD789B  1235  1286/150  W15 D25 W24 D3  3.0
+  5 Bravenboer, Jake       OPWEJ97Y  1215  1243/158  BYE W17 D10 D8  3.0
+  6 Sreeram, Vihaan        BLWFK01U  1052  1173/ 70  L22 W26 W14 W17 3.0
+  7 Zhang, Patrick         SSSCK01J  1156  1183/274  WF  D22 D16 W19 3.0
+  8 Qin, Skyler            OPWBJ97T  1228  1238/155  W21 L3  W20 D5  2.5
+  9 Chung, Connor          OPWI786L  1305  1312/ 72  W12 D24 W25 L2  2.5
+ 10 Ren, Easton            CMCBH68Z  1325  1324/ 95  W32 W16 D5  L1  2.5
+ 11 Chen, Eason            SOMBJ59F  1068  1107/116  L1  W28 D23 W24 2.5
+ 12 Kumar, Rishuraj        HEAGK45Y  1110  1126/136  L9  D27 W30 W22 2.5
+ 13 Sembium, Aditi         BCAEK25W  1089  1128/337  HPB HPB D15 W25 2.5
+ 14 Wang, Evan             FRWE929Z  1202  1188/163  W20 L1  L6  W23 2.0
+ 15 Rish-brown, Jackson    HMOFH57T  1080  1101/ 51  L4  W21 D13 D16 2.0
+ 16 Zhao, Dennis           OPWI525E  1229  1214/392  W19 L10 D7  D15 2.0
+ 17 Kanchanakuntla, Anish RTFEGJ31G  1174  1155/ 40  W28 L5  W29 L6  2.0
+ 18 Rengarajan, Anirudh    LHCFZ75J  1141  1132/ 37  D2  D29 L19 W28 2.0
+ 19 Kakarlapudi, Sreeram MuMEDF687Z  1016  1063/ 63  L16 W32 W18 L7  2.0
+ 20 Kachachi, Cyrus        OPWE763G  1026  1044/114  L14 W34 L8  W27 2.0
+ 21 Reimer, Oliver         IMSGG59D   945   990/106  L8  L15 W34 W29 2.0
+ 22 Lew, Abigail Trinh     OPWE645P  1235  1212/178  W6  D7  L2  L12 1.5
+ 23 Panda, Sourish         NJHGK98E   931   969/ 65  W26 L2  D11 L14 1.5
+ 24 Rogov, Richard         MEDDJ68U  1184  1157/118  W27 D9  L4  L11 1.5
+ 25 Luo, Peter             SOMF664K  1281  1233/149  W30 D4  L9  L13 1.5
+ 26 Gui, Joyce             OPWCH92C  1104  1050/125  L23 L6  D27 W30 1.5
+ 27 Marrugo, Emilio        OPWEE25J   978   959/ 97  L24 D12 D26 L20 1.0
+ 28 Gattamneni, Viraj      OPWE934M   952   945/ 63  L17 L11 W32 L18 1.0
+ 29 Razmov, Siana          HSCCK93Y  1019   982/178  HPB D18 L17 L21 1.0
+ 30 Muppalla, Vyom         OPWCK19F   813   787/ 56  L25 BYE L12 L26 1.0
+ 31 Kannapiran, Arnav      LSSG983P   927   969/104  U   U   U   W34 1.0
+ 32 Gu, Vincent            OPWBK00L  1190  1092/106  L10 L19 L28 D33 0.5
+ 33 Hoffman, David         PERFJ98J   902   918/ 36  U   U   U   D32 0.5
+ 34 Bates-callaghan, EmmettBCSFJ49J  1130  1024/ 89  L3  L20 L21 L31 0.0

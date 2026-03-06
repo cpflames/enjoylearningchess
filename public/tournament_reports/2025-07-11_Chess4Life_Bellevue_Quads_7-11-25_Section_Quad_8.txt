@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tang, Rufus            BASDG74N   131   239/  8  W3  W4  D2  2.5
+  2 Mathur-badam, Arin     BMNBG27N   131   269/  6  W4  W3  D1  2.5
+  3 Yadav, Dhavit          TBKAG35T   100   100/ 11  L1  L2  W4  1.0
+  4 Abdukarimov, Umid      BENAG27P   100   100/  5  L2  L1  L3  0.0

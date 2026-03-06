@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kennedy, Rudy          SBAFH06B   100   454/  8  BYE W13 W4  W2  W7  5.0
+  2 Perkins, Howard        SBAFG52L   500   673/  5  W12 W5  W7  L1  W4  4.0
+  3 Ahmed, Aarez           PLGFH84Z   311   403/  8  U   W11 WF  D7  W8  3.5
+  4 Adissu, Amanuel        PLGFG52K   500   498/  5  W11 W8  L1  W5  L2  3.0
+  5 Morris, Milo           SBAFG52J   500   478/  5  W9  L2  W6  L4  W13 3.0
+  6 Daniels, Stella        LELFG52H   500   355/  4  WF  L7  L5  W13 W9  3.0
+  7 Henry, Gabriel         PLGFH85A   459   443/ 10  W10 W6  L2  D3  L1  2.5
+  8 Broening, William      LELFG52G   500   313/  5  W13 L4  D9  W10 L3  2.5
+  9 Sharpe, Jonah          WOEFG52F   500   268/  4  L5  W10 D8  LF  L6  1.5
+ 10 Tripathi, Sakshi       SBAFG52E   500   109/  5  L7  L9  D13 L8  W12 1.5
+ 11 Lomeli, Dominic        LELFG52D   500   100/  2  L4  L3  BYE U   U   1.0
+ 12 Molina, Juan           LELFG52C   500   100/  2  L2  BYE LF  LF  L10 1.0
+ 13 Bayles, Ethan          PLGFG52B   500   100/  5  L8  L1  D10 L6  L5  0.5

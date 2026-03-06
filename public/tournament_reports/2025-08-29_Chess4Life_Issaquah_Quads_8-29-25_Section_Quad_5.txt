@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xu, Jacky Y            SOMCJ59K   639   723/146  W4  W3  D2  2.5
+  2 Wu, Wynston            MEDCJ86Y   505   562/ 27  L3  W4  D1  1.5
+  3 Van Cleemput, Enzo     HMNDG22B   867   685/  6  W2  L1  L4  1.0
+  4 Xiong, Micah           SCDEK39Y   608   589/ 41  L1  L2  W3  1.0

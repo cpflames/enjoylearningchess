@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Le, Khai Hong          ADUNG36P  1300  1606/  4  W6  W4  D2  W5  3.5
+  2 Mcintyre, John B       HSCGJ63F  1299  1386/ 88  W3  W5  D1  D4  3.0
+  3 Merry, William Alan F  ADINY95H  1291  1302/  4  L2  W8  W10 W7  3.0
+  4 Shedlock, Benjamin     ADUNG36N  1458  1446/  4  W9  L1  W7  D2  2.5
+  5 Kelley, Jacob Wayne    HSCKG87E  1168  1189/ 13  W8  L2  W9  L1  2.0
+  6 Dinesh Babu, Darshini  GNAEH50D  1036  1082/ 43  L1  L7  W8  W9  2.0
+  7 Brunton, Paul          ADUNG36M  1296  1219/  4  L10 W6  L4  L3  1.0
+  8 Valeriote, Cecelia A   ADUNK09F  1112  1057/  8  L5  L3  L6  W10 1.0
+  9 Dahlstrom, Steven L    ADUNG36L  1095  1050/  4  L4  W10 L5  L6  1.0
+ 10 Duncan, Andy           ADUNG78R   723   830/  8  W7  L9  L3  L8  1.0

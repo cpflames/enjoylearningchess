@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Ram, Yaalini           SNECH87H   674   737/104  W10 W5  W3  D2  3.5
+  2 Mirchandani, Kavir     MEDCJ97A   589   659/123  W9  W7  W6  D1  3.5
+  3 Reddy, Aariv           GRRCK34T   715   699/ 96  W12 W8  L1  W6  3.0
+  4 Nelson, Harvey         CMCFG67L   414   426/ 42  W11 L6  W9  W8  3.0
+  5 Hsieh, Cheryl          BLWGJ82X   343   432/ 20  W15 L1  W13 W7  3.0
+  6 Treves, Simon          NOWEK28A   337   383/ 21  W13 W4  L2  L3  2.0
+  7 Gu, Ximu               ENDBJ05X   447   418/ 92  W14 L2  W12 L5  2.0
+  8 Rajan, Aadhi           CDIAG32V   100   177/  7  BYE L3  W10 L4  2.0
+  9 Chen, Luna             RSABG32W   249   264/ 18  L2  W14 L4  W13 2.0
+ 10 Nishanth, Ahan         RSAAH60N   241   249/ 31  L1  W11 L8  W14 2.0
+ 11 Rastogi, Ishan         GRREG32Z   187   211/  8  L4  L10 W15 W12 2.0
+ 12 Chang, Florence        BLWDG67K   203   176/ 12  L3  W15 L7  L11 1.0
+ 13 Karthik, Adithi        RCKBW768   100   100/  7  L6  BYE L5  L9  1.0
+ 14 Chidura, Arjun         EACAG32Y   159   100/  7  L7  L9  BYE L10 1.0
+ 15 Treves, Sarah          NOWCG27Z   200   100/  3  L5  L12 L11 BYE 1.0

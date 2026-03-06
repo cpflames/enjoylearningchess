@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ge, Jeremy             SOMCJ88K  1245  1304/329  W4  W3  D2  2.5
+  2 Chen, Felix Y          DISEA67A  1247  1269/140  D3  W4  D1  2.0
+  3 Dhameeja, Ved          GRRFJ98F  1231  1234/179  D2  L1  W4  1.5
+  4 Zhang, Aaron           RSAFC74T  1233  1168/166  L1  L2  L3  0.0

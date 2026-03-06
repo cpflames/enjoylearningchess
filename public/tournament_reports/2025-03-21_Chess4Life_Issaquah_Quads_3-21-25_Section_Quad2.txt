@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhen Rampenthal, Quinn SASIH53C  1011  1002/ 45  W3  W4  L2  2.0
+  2 Becklund, Ezra         JDSIH11H   885   910/ 28  W4  L3  W1  2.0
+  3 Kennedy, Owen          TWFHH14N   790   864/ 28  L1  W2  W4  2.0
+  4 Mohammed, Farhan       CRKEH14M   791   733/ 29  L2  L1  L3  0.0

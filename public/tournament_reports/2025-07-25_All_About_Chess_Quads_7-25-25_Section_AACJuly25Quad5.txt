@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Phadnis, Akash         DISBJ27M   625   648/ 50  W4  W3  W2  3.0
+  2 Chen, Luna             RSABG32W   418   396/ 27  D3  W4  L1  1.5
+  3 Chou, Leila            SSMBJ46G   165   233/ 53  D2  L1  W4  1.5
+  4 Joye, Quentin          SUBHG24Y   700   100/  3  L1  L2  L3  0.0

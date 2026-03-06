@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Singh, Anitej          OMSIH76J   405   449/ 25  W3  W2  U   2.0
+  2 Mattoo, Avyaan         HWEEG68K   311   310/ 11  U   L1  W3  1.0
+  3 Yadav, Divyansh        TBKCG75M   290   170/  5  L1  U   L2  0.0

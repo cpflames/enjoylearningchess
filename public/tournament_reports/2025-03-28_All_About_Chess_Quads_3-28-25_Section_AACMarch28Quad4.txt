@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nandakiran, Vidyuth    SSMF617C   891   998/197  W2  D3  W4  2.5
+  2 Sarychev, Aleksei      GEKKJ98N  1015  1023/239  L1  W4  W3  2.0
+  3 Agarwal, Kavir         MEDF152U   943   946/ 84  W4  D1  L2  1.5
+  4 Shah, Rachit           BNTEK44K   910   843/107  L3  L2  L1  0.0

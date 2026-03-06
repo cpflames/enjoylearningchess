@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Davis, Roman           CCOHK16K  1013  1060/ 44  L5  W3  W8  W9  W2  4.0
+  2 Little, Wyatt          NOVGJ51H   934  1022/ 60  W12 W5  W6  W7  L1  4.0
+  3 Keogh, Seiya           NOVGJ51N  1026  1026/ 60  D4  L1  W13 W8  W7  3.5
+  4 Zhong, Sebastian       NOVGK24D   903   943/ 65  D3  W10 L7  W12 W5  3.5
+  5 Mecina, Symone         CHUIG83L   831   913/ 10  W1  L2  W12 W6  L4  3.0
+  6 Shove, Emmett          FMPHJ91X   904   883/ 30  W13 W11 L2  L5  W10 3.0
+  7 Vy, Evan               SKRHK12N   949   939/ 40  W9  D8  W4  L2  L3  2.5
+  8 Gorlachev, Michael     FMPGK15W   730   759/ 34  W10 D7  L1  L3  BYE 2.5
+  9 Einarson, Aiden        OBKGD84D   829   796/182  L7  W13 W11 L1  D12 2.5
+ 10 Dieders, Dylan         TRTHG94F   910   769/  9  L8  L4  BYE W11 L6  2.0
+ 11 Wei, Siqi[vivian]      FMPHG83J   526   489/  9  BYE L6  L9  L10 W13 2.0
+ 12 Alonzo, Kellan         FMPIG83K   735   685/  9  L2  BYE L5  L4  D9  1.5
+ 13 Zimmerman, David       TRTHG47D   700   143/  4  L6  L9  L3  BYE L11 1.0

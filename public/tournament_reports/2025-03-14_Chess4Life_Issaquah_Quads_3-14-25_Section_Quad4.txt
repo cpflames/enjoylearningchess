@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tharanian, Advay       DGHG855X   630   683/ 14  W3  W4  D2  2.5
+  2 Chen, Alex             ENDDK03T   617   677/ 56  W4  W3  D1  2.5
+  3 Kamaraju, Akhil        DISEH66C   460   465/ 47  L1  L2  W4  1.0
+  4 Shrivastava, Amogh     SHSFJ11M   556   471/ 58  L2  L1  L3  0.0

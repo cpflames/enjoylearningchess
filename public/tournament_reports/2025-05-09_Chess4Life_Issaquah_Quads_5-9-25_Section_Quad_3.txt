@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kennerud, Caedmon      LGHGH61R   760   888/ 24  W4  W2  W3  3.0
+  2 Lam, Sebastian         OPWCJ97R   846   850/ 95  W3  L1  W4  2.0
+  3 So, Brandon            CCDDK01X   710   694/ 73  L2  W4  L1  1.0
+  4 Marwaha, Anish         BLMHG51Y   800   577/  5  L1  L3  L2  0.0

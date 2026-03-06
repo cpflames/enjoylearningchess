@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Anand, Nivaan          MCEBH64F   524   617/102  W4  W2  W3  3.0
+  2 Galande, Nandan        CSMEG65K   311   324/  6  W3  L1  L4  1.0
+  3 Zeeshan, Harris        CRIBH61J   277   293/ 51  L2  W4  L1  1.0
+  4 Saravanan, Maadhav     CSMF555W   574   503/ 39  L1  L3  W2  1.0

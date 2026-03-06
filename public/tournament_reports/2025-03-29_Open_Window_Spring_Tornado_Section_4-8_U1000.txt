@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Rish-brown, Jacob      HMOFK61J   942   975/ 61  W4  D2  W3  W5  U   3.5
+  2 Hoffman, David         PERFJ98J   918   930/ 39  W5  D1  W4  U   U   2.5
+  3 Kannapiran, Arnav      LSSG983P   969   946/107  U   W5  L1  W4  U   2.0
+  4 Abhilash, Lavina       CRIFK07R   558   539/129  L1  U   L2  L3  U   0.0
+  5 Hemdani, Rishaan       MEDFG91N   143   141/ 12  L2  L3  U   L1  U   0.0

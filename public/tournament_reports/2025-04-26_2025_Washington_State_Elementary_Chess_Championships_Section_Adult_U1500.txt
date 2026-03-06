@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bigelow, Ian           ADUNG93G  1275  1503/  9  W4  W9  W2  W3  W5  5.0
+  2 Adjei, Jeffery         ADUNG33Y  1300  1408/  5  W6  W3  L1  W8  L4  3.0
+  3 Singhal, Rohit         ADUNH23J  1306  1326/ 10  W10 L2  W7  L1  W8  3.0
+  4 Luo, Jianzhe           ADUNG33X  1300  1323/  5  L1  L7  W10 W11 W2  3.0
+  5 Catayas, Christian B   ADUNK15P  1095  1171/ 10  L8  W10 W12 W6  L1  3.0
+  6 Brar, Gurinder         ADUNH80K  1300  1285/ 13  L2  W8  W11 L5  W9  3.0
+  7 Ghosh, Milan           ADUNG33W  1300  1112/  5  D11 W4  L3  L9  W12 2.5
+  8 Lange, Sebastian       ADUNG33V  1300  1178/  5  W5  L6  W9  L2  L3  2.0
+  9 Esparza, Edward        ADUNG33U  1300  1092/  5  W12 L1  L8  W7  L6  2.0
+ 10 Maibaum, Lutz          ADUNG33T  1300  1040/  5  L3  L5  L4  W12 W11 2.0
+ 11 Larimer, Curtis        ADUNG33S  1300   965/  5  D7  W12 L6  L4  L10 1.5
+ 12 Barni, Michael Andrew  ADUNG33R  1300   659/  5  L9  L11 L5  L10 L7  0.0

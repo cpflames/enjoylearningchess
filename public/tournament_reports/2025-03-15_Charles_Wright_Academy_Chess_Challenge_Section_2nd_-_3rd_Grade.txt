@@ -1,0 +1,30 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Byelashova, Sofia      SGHCK01K   929  1014/157  W18 W9  W6  W2  W7  5.0
+  2 Ahsant, Nickrad        WELCJ56K  1123  1096/ 68  W17 W10 W3  L1  W11 4.0
+  3 Walton, Cara           CWADK52K   512   601/ 54  W23 W5  L2  W13 W6  4.0
+  4 Keogh, Keita           WOECJ51X   634   652/ 50  W19 L6  W8  W7  W10 4.0
+  5 Johnson, Elke          HSCCG73L   268   350/ 10  W22 L3  D24 W18 W8  3.5
+  6 Adachi, Ichiro         CWACK52L   272   440/ 34  W21 W4  L1  W12 L3  3.0
+  7 Einarson, Finn         OBKD256K   761   726/124  W20 W13 W14 L4  L1  3.0
+  8 Myaskovsky, Evan       CNCCJ96E   239   323/ 13  W26 W11 L4  W9  L5  3.0
+  9 Clark-gamble, Olin     CWADH98V   355   374/ 10  W29 L1  W15 L8  W17 3.0
+ 10 Pole, Hunter           CMBCH98Q   396   436/ 15  W28 L2  W19 W14 L4  3.0
+ 11 Johnson, Lars          HSCDG74D   434   425/ 10  W27 L8  W20 W17 L2  3.0
+ 12 Tran, Adam             PTDCG73Q   445   389/ 10  W15 L14 W18 L6  W16 3.0
+ 13 Munford, Sawyer        ELKDG73X   297   356/ 10  W25 L7  W27 L3  W20 3.0
+ 14 Sterbick, Calhoun      STCCJ18B   257   326/ 14  BYE W12 L7  L10 W19 3.0
+ 15 Andrews, Scarlett      CPRDG73R   100   113/  9  L12 BYE L9  W22 D23 2.5
+ 16 Siek, Emily            HMOCJ17W   100   106/ 22  BYE L17 D28 W24 L12 2.5
+ 17 Colon, Gia             STCDJ18K   236   239/ 30  L2  W16 W22 L11 L9  2.0
+ 18 Duraikondaar, Dhaswin  FRWCH75Y   233   231/ 45  L1  W29 L12 L5  W28 2.0
+ 19 Van Dyke, Wesley       CPRCG73K   183   208/ 10  L4  W21 L10 W26 L14 2.0
+ 20 Satish Kumar, NithyashrCENDJ51U   184   199/ 30  L7  W25 L11 W27 L13 2.0
+ 21 Lund, Brayden          SETCG62B   200   121/  5  L6  L19 W25 D23 D24 2.0
+ 22 Xu, Gisele             CWADG62A   300   104/  5  L5  W23 L17 L15 W27 2.0
+ 23 Rehberger, Grace       STCCJ17S   104   100/ 18  L3  L22 BYE D21 D15 2.0
+ 24 Steinbach, Caleb       LCHDG61Z   300   167/  4  U   W28 D5  L16 D21 2.0
+ 25 Stansell, Avery        LCHCG61Y   200   100/  5  L13 L20 L21 W28 D26 1.5
+ 26 Zhang, Zoey            CWACG61X   200   100/  4  L8  L27 WF  L19 D25 1.5
+ 27 Mattioli, Weston       ELKDG61W   300   100/  5  L11 W26 L13 L20 L22 1.0
+ 28 Jones, Jackson         CPRDG61V   300   100/  5  L10 L24 D16 L25 L18 0.5
+ 29 Paulson, Eli           LCHCG61U   200   100/  2  L9  L18 LF  U   U   0.0

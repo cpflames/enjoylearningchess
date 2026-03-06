@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chevuri, Tattva        REJHC06V  1337  1322/449  D2  D3  W4  2.0
+  2 Mohammed, Farhan       CRKEH14M  1104  1155/ 90  D1  D4  W3  2.0
+  3 Yang, Michael          SOMGK00G  1086  1082/110  D4  D1  L2  1.0
+  4 Jiang, Yuanyi          MMEDJ58J  1127  1113/ 57  D3  D2  L1  1.0

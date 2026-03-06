@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Voss, Jayden           WOBBH15J   465   546/ 10  W4  W2  D3  2.5
+  2 Zhang, Eli             BCACH69C   552   562/ 64  W3  L1  W4  2.0
+  3 Abdukarimov, Samin     BENAH67S   426   448/ 85  L2  W4  D1  1.5
+  4 Magnin, Hugo           FAPCH94D   505   408/ 42  L1  L3  L2  0.0

@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bhaskara, Yash         ICKKI539  1419  1450/371  W8  D3  D2  W5  D4  3.5
+  2 Wang, Harvey           OPWCJ68G  1399  1439/179  D6  W4  D1  D3  W8  3.5
+  3 Singh, Rushil          TWFHB52N  1437  1448/175  WF  D1  W5  D2  D6  3.5
+  4 Thanikonda, Kruti      CMCEK84W  1356  1366/191  D9  L2  D6  W7  D1  2.5
+  5 Nawagamudewage, Inura  MDEIJ11V  1345  1358/ 44  W7  W8  L3  L1  D9  2.5
+  6 Moghe, Arjun           REJHA42C  1349  1340/177  D2  L7  D4  BYE D3  2.5
+  7 Zhu, Aiden             SOMEC77X  1372  1348/198  L5  W6  D9  L4  BYE 2.5
+  8 Ma, Ziliang            DCCHA69N  1369  1336/181  L1  L5  BYE W9  L2  2.0
+  9 Qin, Skyler            OPWBJ97T  1415  1380/190  D4  HPB D7  L8  D5  2.0

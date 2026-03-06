@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mcgee, Connor          MRDJH30Z  1536  1557/ 23  W4  W2  W3  3.0
+  2 Jacobson, Clayton      ANALH12T  1393  1395/ 23  W5  L1  W4  2.0
+  3 Ferrell, Luka Lee      JFRFG98L  1062  1129/ 34  W6  W5  L1  2.0
+  4 Thompson, Hugo         SSNHH55A  1152  1155/ 25  L1  W6  L2  1.0
+  5 Ferris, Ari            BFMFG98H  1068  1039/ 46  L2  L3  D6  0.5
+  6 Newton, Jacob          HSCJG26P  1250  1055/  6  L3  L4  D5  0.5

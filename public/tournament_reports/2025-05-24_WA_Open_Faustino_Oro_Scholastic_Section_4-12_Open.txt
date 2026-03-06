@@ -1,0 +1,33 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Shi, Gavin             LCOKH855  1674  1689/476  W17 W5  W4  W3  4.0
+  2 Shapiro, Maksim        LMAFK10R  1225  1320/ 82  W25 D10 W13 W9  3.5
+  3 Nawagamudewage, NaadithMELFJ11W  1485  1493/ 34  W18 W19 W16 L1  3.0
+  4 He, Jizhou             MEDD789B  1197  1255/162  W27 W14 L1  W13 3.0
+  5 Chabot, Troy           TRALK15U  1153  1226/ 78  W31 L1  W20 W15 3.0
+  6 Lai, Ryan              SHSBH70N  1484  1469/119  L12 W25 W10 W11 3.0
+  7 Chen, Julian           CNHCK32C  1364  1356/132  L13 W28 W18 W16 3.0
+  8 Glaser, Liam           PCLFG34P  1210  1233/  9  W30 L13 W21 W14 3.0
+  9 Nawagamudewage, Inura  MDEIJ11V  1371  1356/ 34  W24 W12 D11 L2  2.5
+ 10 Meenakshi Sundaram, AdhHEAGK00E  1106  1218/ 47  W23 D2  L6  W22 2.5
+ 11 Anand, Lakshana        TMBGC68H  1184  1204/161  W29 W20 D9  L6  2.5
+ 12 Rengarajan, Anirudh    DIAFZ75J  1119  1229/ 46  W6  L9  D22 W23 2.5
+ 13 Viswanatha, Sruti      REJH289A  1100  1186/ 13  W7  W8  L2  L4  2.0
+ 14 Elmieh, Niko           CRKF777E   994  1070/107  W22 L4  W19 L8  2.0
+ 15 Qin, Skyler            OPWBJ97T  1336  1297/178  W21 L16 W17 L5  2.0
+ 16 Ge, Jeremy             SOMCJ88K  1196  1212/323  W32 W15 L3  L7  2.0
+ 17 Rogovoy, Alexander     SNEFK14Y  1137  1149/ 54  L1  W29 L15 W25 2.0
+ 18 Yu, Eric               SOMCK25N  1131  1138/150  L3  W26 L7  W27 2.0
+ 19 Fredette, Blaise       BECGH95C  1173  1162/ 74  W26 L3  L14 W24 2.0
+ 20 Mudragada, Sanjay KaushGTMGG96Y   827   914/ 38  W28 L11 L5  W30 2.0
+ 21 Mohammed, Farhan       CRKEH14M  1026  1039/ 73  L15 W32 L8  W26 2.0
+ 22 Ye, Alex               ENDFH51L  1205  1163/288  L14 W27 D12 L10 1.5
+ 23 Zandanov, Leonid       ENADK31Q  1363  1291/195  L10 D30 W31 L12 1.5
+ 24 Pande, Aryan           DCSB493M  1079  1056/ 61  L9  D31 W30 L19 1.5
+ 25 Mukherjee, Anjalika    UPAHJ94B  1053  1037/ 62  L2  L6  W29 L17 1.0
+ 26 Sinha, Ishayu          HEAGJ24F   941   918/ 64  L19 L18 W28 L21 1.0
+ 27 Jayakrishnan, Chethan KGTMIH06G   942   932/ 29  L4  L22 W32 L18 1.0
+ 28 Raghavan, Mridula      FRWFG32B   957   871/  7  L20 L7  L26 W31 1.0
+ 29 Tsen, Eric             AGBEK18P   941   923/245  L11 L17 L25 W32 1.0
+ 30 Oruganti, Yuvan        HGMHJ55U  1010   962/ 25  L8  D23 L24 L20 0.5
+ 31 Xia, Jethro            BCSFK47R   929   893/159  L5  D24 L23 L28 0.5
+ 32 Karnik, Rohan          WAVJG59F   998   904/ 25  L16 L21 L27 L29 0.0

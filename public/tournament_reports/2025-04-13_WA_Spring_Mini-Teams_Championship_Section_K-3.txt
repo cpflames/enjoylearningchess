@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Qin, Skyler            OPWBJ97T  1255  1372/166  W15 W6  W12 W17 W9  5.0
+  2 Liu, Bihe              KKNCB78J  1140  1179/148  W7  D3  W10 W14 W18 4.5
+  3 Chen, Eason            SOMBJ59F  1109  1164/126  W18 D2  W14 W7  W10 4.5
+  4 Sankrithi, Vivaan      HSCBK61R  1165  1205/147  W11 W8  W5  L16 W13 4.0
+  5 Ren, Easton            CMCBH68Z  1306  1305/105  W8  W13 L4  W11 W16 4.0
+  6 Lai, Ryan              SHSBH70N  1408  1404/105  W17 L1  W9  W12 W15 4.0
+  7 Wu, Jonathan           UCDDK14H   991  1003/ 96  L2  W10 W18 L3  W14 3.0
+  8 Yu, Eric               SOMCK25N  1087  1104/141  L5  L4  W16 W13 W11 3.0
+  9 Wang, Hengsheen        BASC704V  1202  1186/152  W12 D17 L6  W15 L1  2.5
+ 10 Byelashova, Sofia      SGHCK01K  1049  1000/171  W14 L7  L2  W18 L3  2.0
+ 11 Zeng, Liam             SHSAH05U   771   868/ 37  L4  W16 W13 L5  L8  2.0
+ 12 Luo, Vivienne          NPTD703P   721   780/164  L9  W15 L1  L6  WF  2.0
+ 13 Zhang, Patrick         SSSCK01J  1196  1098/289  W16 L5  L11 L8  L4  1.0
+ 14 Verma, Satvik          WONDG80T   670   675/107  L10 W18 L3  L2  L7  1.0
+ 15 Swain, Samarth         MMECJ58S  1085  1036/296  L1  L12 W17 L9  L6  1.0
+ 16 Li, Bryan              MEDBJ75H   842   842/113  L13 L11 L8  W4  L5  1.0
+ 17 Gu, Vincent            OPWBK00L  1092  1054/110  L6  D9  L15 L1  LF  0.5
+ 18 He, Joshua             CHRCJ72H   695   644/101  L3  L14 L7  L10 L2  0.0

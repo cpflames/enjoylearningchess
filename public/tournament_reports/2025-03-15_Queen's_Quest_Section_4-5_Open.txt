@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Lew, Abigail           OPWE645P  1125  1235/174  W7  W8  W2  W6  W5  5.0
+  2 Berjis, Adrina         MEDF230U   972  1066/178  W11 W9  L1  W5  W6  4.0
+  3 Dragusanu, Clara       SSMFH81S   889   918/ 63  L6  W4  L5  W8  W10 3.0
+  4 Ting, Sophia           KSHEK64W  1008   963/122  L8  L3  BYE W9  W7  3.0
+  5 Fang, Weiai            LAVE696W   957   971/280  W10 D6  W3  L2  L1  2.5
+  6 Huang, Clora           SOMFK31H  1093  1062/176  W3  D5  W9  L1  L2  2.5
+  7 Li, Emma               THREJ98A   930   913/ 68  L1  D11 W8  W10 L4  2.5
+  8 Paine, Clara           TLIFK01Z   776   780/ 79  W4  L1  L7  L3  BYE 2.0
+  9 Nayagam, Anantika      SSMFH62E   715   718/ 30  BYE L2  L6  L4  W11 2.0
+ 10 Zhang, Amy             SOMEC03P   764   742/139  L5  BYE W11 L7  L3  2.0
+ 11 Phaneesh, Saanvi       SSMF983M   776   714/ 92  L2  D7  L10 BYE L9  1.5

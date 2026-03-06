@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Kulkarni, Samik        KKNBH67M  1019  1155/ 76  W2  W5  W4  W3  4.0
+  2 Maokhampio, Corina     VOSDW79T  1007  1015/ 13  L1  D6  W5  W7  2.5
+  3 Ahsant, Nickrad        WELCJ56K   936   965/ 81  D6  W10 W7  L1  2.5
+  4 Yeh, George            COSCH64S  1040  1053/ 35  HPB W9  L1  W8  2.5
+  5 Mathew, Reuben         MRIAG33B   716   801/ 27  W9  L1  L2  W10 2.0
+  6 Lin, Luna              OPWDK01W  1035  1006/186  D3  D2  L8  W9  2.0
+  7 Namjoshi, Aarav        KKNBG78Z   806   852/ 24  W10 W8  L3  L2  2.0
+  8 Swain, Samarth         MMECJ58S  1014   976/351  BYE L7  W6  L4  2.0
+  9 Pham, Liam             BENAH53P   840   802/ 13  L5  L4  W10 L6  1.0
+ 10 Yi, Woochan            BRHDG23J   929   796/  4  L7  L3  L9  L5  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bansal, Aarav          CRKCH28J   467   568/ 47  W3  D2  W4  2.5
+  2 Abdukarimov, Samin     BENAH67S   496   579/119  W4  D1  W3  2.5
+  3 Xie, Nolan             CGRCH82P   475   448/ 32  L1  W4  L2  1.0
+  4 Yao, Jason             DISDG30H   456   349/  9  L2  L3  L1  0.0

@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Pan, Peng-chi          SSMDK24N   685   830/187  W12 W6  W4  D2  W8  4.5
+  2 Liu, Louis             CNHCJ75J   790   806/ 80  D14 W3  W8  D1  D4  3.5
+  3 Yin, Nolan             CCDBH64W   723   760/ 42  W11 L2  W9  D5  W10 3.5
+  4 Verma, Satvik          WONDG80T   548   682/ 99  W15 W10 L1  W11 D2  3.5
+  5 Hu, Maxwell            BCABK03N   663   678/ 58  L10 W15 W12 D3  W9  3.5
+  6 Premjith, Arnav        FRVCJ20D   574   558/ 29  W13 L1  L11 W15 W14 3.0
+  7 Gangineni, Sarvesh     MMEBH62Q   345   505/ 37  L8  W16 W10 L9  W11 3.0
+  8 He, Joshua             CHRCJ72H   729   695/ 96  W7  D9  L2  W14 L1  2.5
+  9 Devavarapu, Ananya SresCMCDH54Z   661   638/ 56  W16 D8  L3  W7  L5  2.5
+ 10 Kakarlapudi, Jairam IshMEDC585M   696   643/ 55  W5  L4  L7  W12 L3  2.0
+ 11 Zeng, Liam             XXXAH05U   744   665/ 22  L3  W14 W6  L4  L7  2.0
+ 12 Fong, Ethan            CMCCH58B   380   380/ 23  L1  W13 L5  L10 W16 2.0
+ 13 Tang, Miles            CNHCG54B   200   208/  5  L6  L12 L14 W16 W15 2.0
+ 14 Fernandes, Ruth        MCECH51U   181   248/ 17  D2  L11 W13 L8  L6  1.5
+ 15 Tie, Samuel            SSSAH44T   172   156/ 15  L4  L5  W16 L6  L13 1.0
+ 16 Siddhant, Bellam       XXXAG54A   100   100/  5  L9  L7  L15 L13 L12 0.0

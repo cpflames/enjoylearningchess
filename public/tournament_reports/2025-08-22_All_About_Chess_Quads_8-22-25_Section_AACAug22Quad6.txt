@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bhandari, Neel         CBRFK43G   325   494/  6  W6  W2  W4  3.0
+  2 Balaji, Vaibhav        SSMCH28Z   364   412/ 83  W3  L1  W5  2.0
+  3 Joye, Quentin          SUBHG24Y   222   274/ 10  L2  W4  W6  2.0
+  4 Paidapathi, Kiaan      SHSCJ99C   321   300/227  W5  L3  L1  1.0
+  5 Nelson, Harvey         CMCFG67L   387   319/ 47  L4  W6  L2  1.0
+  6 Hudson, Kody           SNEGK45D   213   141/ 10  L1  L5  L3  0.0

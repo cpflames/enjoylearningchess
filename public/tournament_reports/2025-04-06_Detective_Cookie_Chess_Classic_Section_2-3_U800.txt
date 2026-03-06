@@ -1,0 +1,28 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wright, William        THUCB71M   747   825/143  W16 W9  W7  W2  W3  5.0
+  2 Zhen, Liam             DCCD622V   685   698/195  W12 W17 W4  L1  W13 4.0
+  3 Kotsinyan, Erik        EVPCJ56F   439   570/ 55  W18 W10 W6  W7  L1  4.0
+  4 Zhang, Emily           SSMDJ13L   396   534/ 30  W27 W11 L2  W8  W6  4.0
+  5 Mohan, Adrith          SSMCJ05Y   558   544/ 44  W21 L8  W24 W10 W11 4.0
+  6 Ibragimov, Farrukh     CMCDG46D   300   518/  5  W13 W14 L3  W9  L4  3.0
+  7 Sharma, Stavya         SSMDJ06K   418   434/ 38  W22 W19 L1  L3  W12 3.0
+  8 Pool, James            ORACH88Y   248   340/ 10  W15 W5  L9  L4  W20 3.0
+  9 Allan, Will            ORACH88X   356   404/ 10  W26 L1  W8  L6  W16 3.0
+ 10 Zhao, Eric             SSMCG61G   238   313/ 10  W20 L3  W15 L5  W18 3.0
+ 11 Zhen, Daniel           DCCEG46C   400   351/  4  BYE L4  W16 W17 L5  3.0
+ 12 Huang, Tandy           THUDG99C   152   299/ 14  L2  W26 W14 W24 L7  3.0
+ 13 Fong, Ethan            CMCCH58B   380   386/ 28  L6  W24 W18 W19 L2  3.0
+ 14 Goncharenko, Peter     CMCCH44B   396   368/ 30  W23 L6  L12 W22 W19 3.0
+ 15 Mo, Jonathan           DPIDG46B   300   233/  4  L8  W22 L10 WF  W17 3.0
+ 16 Gaitonde, Aarav        SSMCH28T   100   157/ 10  L1  W27 L11 W25 L9  2.0
+ 17 Gonzalez Lagos, ChristiDCCCG46A   200   192/  5  W25 L2  W21 L11 L15 2.0
+ 18 Worthington, Coraline  DPIDH33N   100   154/ 10  L3  W25 L13 W23 L10 2.0
+ 19 Dragan, Alexander      MCICH67A   230   193/ 25  WF  L7  W20 L13 L14 2.0
+ 20 Riggio, Josiah         SGECG45Z   200   100/  4  L10 BYE L19 W21 L8  2.0
+ 21 Lei, Kira              DCCCG98Y   100   111/ 10  L5  W23 L17 L20 W25 2.0
+ 22 Chen, Chris            DCCDG45Y   300   100/  4  L7  L15 WF  L14 W24 2.0
+ 23 Diaz, Leo              DCCCG45X   200   100/  4  L14 L21 D26 L18 BYE 1.5
+ 24 Cooper, Miles          SGEDG99F   100   100/ 13  WF  L13 L5  L12 L22 1.0
+ 25 Li, Vincent            DCCDG45W   300   100/  4  L17 L18 BYE L16 L21 1.0
+ 26 Luu, Carson            MESDG45R   300   100/  3  L9  L12 D23 LF  U   0.5
+ 27 Hamilton, Miles        JMRDG45Q   300   100/  2  L4  L16 LF  U   U   0.0

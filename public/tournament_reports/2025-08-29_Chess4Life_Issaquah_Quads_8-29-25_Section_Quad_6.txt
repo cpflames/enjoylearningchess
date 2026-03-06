@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Shah, Parth            BCAEJ59G   226   532/ 12  W3  W2  W4  3.0
+  2 Yao, Jason             DISDG30H   600   590/ 18  W4  L1  W3  2.0
+  3 Naroju, Kian Meher     REEBG31K   453   396/ 15  L1  D4  L2  0.5
+  4 Revuru, Nimeesha       RCMFW81Y   414   369/ 59  L2  D3  L1  0.5

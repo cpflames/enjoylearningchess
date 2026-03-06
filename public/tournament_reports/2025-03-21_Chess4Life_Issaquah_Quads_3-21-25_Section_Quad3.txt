@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dasari, Ranveer        SSMGJ31X   707   749/ 31  W2  D3  W4  2.5
+  2 Kennerud, Caedmon      LGHGH61R   570   664/  6  L1  W4  W3  2.0
+  3 Xu, Jacky Y            SOMCJ59K   464   542/ 86  W4  D1  L2  1.5
+  4 Gorbatenko, Leon       CRKFH58G   716   606/ 21  L3  L2  L1  0.0

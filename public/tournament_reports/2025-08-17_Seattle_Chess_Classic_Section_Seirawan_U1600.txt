@@ -1,0 +1,42 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Babbar, Riaan          ENDEJ98D  1476  1535/164  W28 D6  W8  D13 W15 W9  5.0
+  2 Condit, Noah           XXZJA59Q  1493  1595/176  W24 W5  W7  W12 D4  HPB 5.0
+  3 Nawagamudewage, NaadithMELFJ11W  1543  1553/ 50  W20 W25 L12 W21 D6  W10 4.5
+  4 Venkatachalam, Kedar   TSTL947E  1590  1591/ 57  L6  W38 W20 W23 D2  W13 4.5
+  5 Zhu, Aiden             LMSEC77X  1348  1431/203  W34 L2  W33 HPB W14 W12 4.5
+  6 Kesavan, Vihaan        SPXFW80S  1333  1463/ 10  W4  D1  W25 D19 D3  D15 4.0
+  7 Pan, Peng-ruei         SSMF759R  1558  1547/293  W16 W32 L2  L9  W20 W23 4.0
+  8 Nawagamudewage, Inura  MDEIJ11V  1358  1389/ 50  W41 D14 L1  W36 D11 W19 4.0
+  9 Avula, Guru Harshith ReBRHF633Y  1349  1388/213  W31 L12 W34 W7  W17 L1  4.0
+ 10 Schmidt-warnecke, Max  ADUM6188  1451  1477/217  LF  W28 W24 W30 W19 L3  4.0
+ 11 Thanikonda, Kruti      CMCEK84W  1366  1384/195  D29 HPB HPB W18 D8  W26 4.0
+ 12 Hetamsaria, Aayan      BISJG19R  1501  1501/113  W37 W9  W3  L2  D13 L5  3.5
+ 13 Zhao, Raymond          XXOEW75T  1466  1475/  6  W21 D18 W14 D1  D12 L4  3.5
+ 14 Cheng, Alan            LMSGJ71K  1527  1502/196  W22 D8  L13 W16 L5  W32 3.5
+ 15 Tran, Thien            ADUNG22P  1418  1407/  6  D36 W29 W18 D17 L1  D6  3.5
+ 16 Chaudhuri, Arihant     CHAF703E  1324  1338/320  L7  W39 W31 L14 W21 D17 3.5
+ 17 Roy Chowdhury, Avyaan  THRDH82M  1450  1428/ 65  W39 W33 D19 D15 L9  D16 3.5
+ 18 Huang, Clora           SOMFK31H  1201  1240/196  WF  D13 L15 L11 W37 W22 3.5
+ 19 Das, Sambuddha Sekhar  ENDEK47S  1505  1473/230  W27 W26 D17 D6  L10 L8  3.0
+ 20 Zhang, Patrick         SSSCK01J  1313  1308/353  L3  W35 L4  W33 L7  W31 3.0
+ 21 Rogov, Richard         MEDDJ68U  1076  1202/143  L13 W22 W32 L3  L16 W37 3.0
+ 22 Rengarajan, Anirudh    DIAFZ75J  1254  1255/ 62  L14 L21 W29 W24 W25 L18 3.0
+ 23 Avula, Varshith Reddy  RHJI110R  1356  1337/291  D38 D36 W26 L4  W27 L7  3.0
+ 24 Arunkumar, Pragit      XXOFW75S  1244  1234/  6  L2  W40 L10 L22 W35 W30 3.0
+ 25 Li, Edgar              SOME883Y  1366  1335/263  W30 L3  L6  W39 L22 W33 3.0
+ 26 Ma, Ziliang            DCCHA69N  1351  1310/188  W40 L19 L23 W34 W30 L11 3.0
+ 27 Tare, Eevie            SBOFW80B  1247  1233/ 25  L19 L30 W35 W32 L23 W34 3.0
+ 28 Anand, Lakshana        TMBGC68H  1222  1226/170  L1  L10 HPB W31 W36 HPB 3.0
+ 29 Singhal, Aryash        HIEF595L   998  1016/143  D11 L15 L22 L37 BYE W36 2.5
+ 30 Kesavan, Suhaan        SPXCW80J  1058  1071/ 11  L25 W27 W38 L10 L26 L24 2.0
+ 31 Avula, Sujatha         ADUNE77T   400   931/  8  L9  W37 L16 L28 W39 L20 2.0
+ 32 Ren, Easton            CMCBH68Z  1436  1356/126  W35 L7  L21 L27 W40 L14 2.0
+ 33 Kumar, Nitin           ADUNG22M  1300  1035/  5  BYE L17 L5  L20 W38 L25 2.0
+ 34 Hanumanthappa, SrikanthADUNG22L  1300   844/  4  L5  BYE L9  L26 BYE L27 2.0
+ 35 Wakeman, Oliver        INLLG10Y  1069  1045/155  L32 L20 L27 W38 L24 W40 2.0
+ 36 Keeper, Benjamin       ADUNG22K  1044  1035/  5  D15 D23 HPB L8  L28 L29 1.5
+ 37 Maokhampio, Olivia     OTXHW79Y  1238  1160/ 16  L12 L31 HPB W29 L18 L21 1.5
+ 38 Yin, Vicky             BNGFZ897   894   864/ 13  D23 L4  L30 L35 L33 WF  1.5
+ 39 Weller, Stephen F      ADUN6094  1196  1127/ 45  L17 L16 W40 L25 L31 LF  1.0
+ 40 Ramana, Vihaan         KKNCJ99P   746   726/ 97  L26 L24 L39 BYE L32 L35 1.0
+ 41 Golan, Elliot          ADUNH58X   960   955/ 31  L8  U   U   U   U   U   0.0

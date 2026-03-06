@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ravitsky, Avigail      FACFH95B   532   622/ 31  W6  W2  W3  3.0
+  2 Louws, Micah           CUECJ16B   473   473/ 64  W5  L1  W4  2.0
+  3 Hardin, Noah           LYAEH68E   384   405/ 29  W4  W6  L1  2.0
+  4 Hogue, Mason           CUEFG27F   100   139/  9  L3  W5  L2  1.0
+  5 Arevalo, Aryanne       CEEDG72K   187   174/ 19  L2  L4  W6  1.0
+  6 Javed, Angelica        VSTFK36A   336   245/ 32  L1  L3  L5  0.0

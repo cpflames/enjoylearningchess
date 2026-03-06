@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bhasin, Palash         ISMGH95H  1183  1290/140  W4  W2  W3  3.0
+  2 Zhang, Aaron           RSAFC74T  1120  1173/146  W3  L1  W4  2.0
+  3 Ge, Jeremy             SOMCJ88K  1235  1200/299  L2  W4  L1  1.0
+  4 Swain, Samarth         MMECJ58S  1146  1085/291  L1  L3  L2  0.0

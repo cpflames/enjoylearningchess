@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Singh, Vihaan Vikram   RIDFG25R   517   727/ 12  W3  W5  W2  3.0
+  2 Sathyamurthy, Shreyus  BLWCJ60Z   621   628/168  W4  W6  L1  2.0
+  3 Kang, Mason            SSMEJ29J   579   582/ 67  L1  W7  W6  2.0
+  4 Nandakiran, Advaith    SSMCJ88H   481   503/177  L2  BYE W5  2.0
+  5 Phadnis, Akash         DISBJ27M   648   591/ 53  W7  L1  L4  1.0
+  6 Joye, Quentin          SUBHG24Y   237   222/  7  BYE L2  L3  1.0
+  7 Balaji, Vaibhav        SSMCH28Z   383   343/ 77  L5  L3  BYE 1.0

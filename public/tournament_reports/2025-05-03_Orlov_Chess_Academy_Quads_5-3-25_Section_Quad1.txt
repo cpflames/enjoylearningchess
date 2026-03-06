@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ackerman, Ryan         ADUNC514  1802  1805/303  W4  W3  W2  3.0
+  2 Ginotra, Karman        RKWFB15D  1244  1277/ 92  W3  W4  L1  2.0
+  3 Shipilyuk, Pavel       ADUNJ21A  1300  1178/  3  L2  L1  W4  1.0
+  4 Jang, Jinwon           VIEH561P  1105  1070/143  L1  L2  L3  0.0

@@ -1,0 +1,29 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Burtram, Dayton        SKNJG77M  1435  1466/362  W14 D4  W19 W9  3.5
+  2 Ayalew, Brook          DCCJJ71Q  1811  1806/ 60  D8  W18 W20 W3  3.5
+  3 Tan, Johnny            DCCLJ72U  1574  1584/ 29  W16 W13 W15 L2  3.0
+  4 Larson, Oscar          SMZLK80P  1303  1378/ 40  W26 D1  W23 D5  3.0
+  5 Raj, Jayahari          UHVK227V  1427  1438/180  W27 W12 D9  D4  3.0
+  6 Durbhakula, Lalith     REDK332Z  1347  1367/121  L12 W8  W22 W15 3.0
+  7 Wirkkala-scheller, LogaNSLKJ41N  1346  1354/ 26  L22 W24 W21 W17 3.0
+  8 Kale, Atharv           EALJ496H  1268  1300/ 28  D2  L6  W18 W19 2.5
+  9 Joshi, Vyom            NRCJH81X  1369  1375/353  W24 W22 D5  L1  2.5
+ 10 Ramirez, Aaron         CWHJK97W  1107  1216/100  L13 W16 D11 W20 2.5
+ 11 Miller, Jackson        DCCK301V  1298  1287/104  L18 W25 D10 W14 2.5
+ 12 Sidhu, Ruhaan          NRCJJ77E  1189  1243/ 24  W6  L5  L17 W23 2.0
+ 13 Konde, Tayshu          BOTJ355E  1314  1307/163  W10 L3  L14 W24 2.0
+ 14 Mendoza, Oscar         CWHLI229  1220  1226/342  L1  W28 W13 L11 2.0
+ 15 Mullen, Hana           SMZLK81C  1295  1299/ 66  W28 W23 L3  L6  2.0
+ 16 Chakravarthy, Sidhanth REDK1564  1237  1238/349  L3  L10 W25 W22 2.0
+ 17 Kaiphanliam, Kieren SisCWHKK52X  1307  1286/ 82  L19 W27 W12 L7  2.0
+ 18 Sabey, Joey            NSLLJ40D  1019  1079/ 19  W11 L2  L8  D21 1.5
+ 19 Geelhood, Alec         TCPJI90A  1103  1135/146  W17 D20 L1  L8  1.5
+ 20 Satish, Sathvik        LWAJK18Y  1324  1292/ 31  W25 D19 L2  L10 1.5
+ 21 Grandhi, Dhruv         INTJC63M  1210  1188/ 77  L23 W26 L7  D18 1.5
+ 22 Matson, Payton         HSCKH28A  1147  1144/ 13  W7  L9  L6  L16 1.0
+ 23 Arias Padilla, Jose    RICM888V  1415  1345/143  W21 L15 L4  L12 1.0
+ 24 Rama, Savitur          EVJJH22Z  1164  1145/124  L9  L7  W26 L13 1.0
+ 25 Guizar, Kevin          CWHLI02P  1122  1089/142  L20 L11 L16 W28 1.0
+ 26 Picicci, Logan         CWHJK52T  1105  1082/ 67  L4  L21 L24 W27 1.0
+ 27 Vinoth Kumar, Yuvan AdaEALJH88U  1195  1122/ 22  L5  L17 D28 L26 0.5
+ 28 Agrahari, Pranav       EALJG34A   900   881/  4  L15 L14 D27 L25 0.5

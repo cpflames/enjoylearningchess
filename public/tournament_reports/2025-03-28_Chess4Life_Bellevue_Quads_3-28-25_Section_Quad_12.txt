@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Marwaha, Anish         BLMHG51Y   700   800/  2  W3  U   W2  2.0
+  2 Krishnan, Devyani      IPEDG51X   300   450/  2  U   W3  L1  1.0
+  3 Pulla, Arohan          AUDCG51U   200   100/  2  L1  L2  U   0.0
+
+ All Unrated-player Section: Ratings capped at 1000

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Daniel, Lemuel         MMEDJ29L  1115  1106/ 84  W4  W3  D2  2.5
+  2 Nishino, Anne          BCADH74F   746   857/151  W3  W4  D1  2.5
+  3 Doronin, Victor        BMNH335T   718   714/131  L2  L1  W4  1.0
+  4 Rehmeyer, Malcolm      FHMHH62C   646   601/ 45  L1  L2  L3  0.0

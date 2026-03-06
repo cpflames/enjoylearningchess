@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Qureshi, Danish        BLNHF36V  1052  1075/183  W4  W3  D2  2.5
+  2 Ferrell, Luka          JFRFG98L   910   932/ 13  D5  W6  D1  2.0
+  3 Nguyen, Kien Minh      SHMJG79Z   837   884/ 11  W6  L1  W5  2.0
+  4 Vendeland, Xander      HSCFD01Q   847   853/112  L1  D5  W6  1.5
+  5 Orsino, Thomas         WHMIH40B   818   811/ 31  D2  D4  L3  1.0
+  6 Dolan, Rodion          ANCGH12G   947   783/  8  L3  L2  L4  0.0

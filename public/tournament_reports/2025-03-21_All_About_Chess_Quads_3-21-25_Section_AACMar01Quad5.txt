@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Agarwal, Kavir         MEDF152U   922   943/ 81  D3  D2  W4  2.0
+  2 Zhang, Eric            SOMDK64M   865   877/ 80  W4  D1  L3  1.5
+  3 Woo, Nina              NCSFJ06R   903   903/ 27  D1  L4  W2  1.5
+  4 Nandakiran, Vidyuth    SSMF617C   923   891/194  L2  W3  L1  1.0

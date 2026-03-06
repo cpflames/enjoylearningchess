@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dhameeja, Ved          GRRFJ98F  1200  1254/191  W3  W2  W4  3.0
+  2 Zhang, Eric Q          SOMDK64M  1056  1064/126  D4  L1  W3  1.5
+  3 Swain, Samarth         MMECJ58S  1023  1014/348  L1  W4  L2  1.0
+  4 Kulkarni, Samik        KKNBH67M  1062  1019/ 72  D2  L3  L1  0.5

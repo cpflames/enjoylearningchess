@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ye, Alex               ENDFH51L  1326  1357/246  W8  D4  W13 W5  W3  4.5
+  2 Lin, Ethan             TYEGJ71H  1191  1216/ 79  W21 L13 W8  W10 W4  4.0
+  3 Chen, Felix Y          DISEA67A  1154  1201/114  W9  W11 D5  W12 L1  3.5
+  4 Chen, Max Y            DISFK76L  1047  1186/114  W17 D1  W7  W6  L2  3.5
+  5 Black, Stas            WPPG368F  1126  1155/170  W20 W23 D3  L1  W12 3.5
+  6 Li, Harry              BCAFG30G  1147  1163/479  W15 W16 D12 L4  W11 3.5
+  7 Zandanov, Leonid       ENADK31Q  1320  1277/176  W14 L12 L4  W16 W13 3.0
+  8 Wong, Gabriel          HEAGH35K  1006  1039/ 25  L1  W17 L2  W22 W15 3.0
+  9 Nandeesh, Tavishna     CAVEH61E   971  1026/ 79  L3  L10 W21 W14 W18 3.0
+ 10 Elmieh, Niko           CRKF777E  1017  1029/ 85  L16 W9  W22 L2  W17 3.0
+ 11 Zhang, Aaron           RSAFC74T  1067  1066/137  W22 L3  W23 W18 L6  3.0
+ 12 Lin, Elliot            TYEGJ71G  1060  1085/ 80  W19 W7  D6  L3  L5  2.5
+ 13 Xing, Andrew           CNHDK62E  1003  1059/158  W18 W2  L1  D15 L7  2.5
+ 14 Kakarlapudi, Sreeram MuMEDF687Z  1016  1016/ 59  L7  D15 W16 L9  W21 2.5
+ 15 Appineni, Arnav        SWLFG26A   954   960/ 64  L6  D14 W20 D13 L8  2.0
+ 16 Luo, Leo               BUSEH45C   959   948/ 20  W10 L6  L14 L7  BYE 2.0
+ 17 Gridasov, Robert       LAVEJ03F   932   912/ 35  L4  L8  BYE W19 L10 2.0
+ 18 Xie, Isaac             LMAEK25T  1047  1009/ 63  L13 W21 W19 L11 L9  2.0
+ 19 Davies, Damien         HEAGK68U   966   929/114  L12 W20 L18 L17 W23 2.0
+ 20 Puranik, Armin         SSMEJ56Z   989   940/ 73  L5  L19 L15 W23 W22 2.0
+ 21 Xia, Jethro            BCSFK47R   987   905/150  L2  L18 L9  BYE L14 1.0
+ 22 Tummuru, Nirvan        FRWEK06N   883   816/ 40  L11 BYE L10 L8  L20 1.0
+ 23 Mudragada, Sanjay KaushGTMGG96Y   691   659/ 24  BYE L5  L11 L20 L19 1.0

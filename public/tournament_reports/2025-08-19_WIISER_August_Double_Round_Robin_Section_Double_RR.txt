@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Gadde, Arnav           GTMGJ39D  1731  1704/251  W3  W3  W4  W4  L2  L2  4.0
+  2 Sankrithi, Sarang      HSCGB11D  1574  1587/344  D4  W4  D3  L3  W1  W1  4.0
+  3 Sankrithi, Vivaan      HSCBK61R  1346  1418/178  L1  L1  D2  W2  W4  D4  3.0
+  4 Sankrithi, Siva        ADUNI948  1377  1354/128  D2  L2  L1  L1  L3  D3  1.0

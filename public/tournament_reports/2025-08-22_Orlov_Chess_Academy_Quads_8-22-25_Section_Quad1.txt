@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Karnik, Rohan          WAVJG59F  1106  1123/ 49  U2  W4  W3  W5  U6  3.0
+  2 Jang, Jinwon           VIEH561P  1010  1034/170  U1  W6  W4  W3  U5  3.0
+  3 Zeeshan, Hamza         CRKEJ15N   945   914/102  U6  W5  L1  L2  U4  1.0
+  4 Anand, Nivaan          MCEBH64F   558   562/109  U5  L1  L2  W6  U3  1.0
+  5 Sijin, Ryan            BENCG24X   539   542/ 13  U4  L3  W6  L1  U2  1.0
+  6 Zeeshan, Harris        CRIBH61J   300   272/ 62  U3  L2  L5  L4  U1  0.0

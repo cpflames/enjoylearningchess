@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Harry              SPTFG30G  1293  1322/498  W3  D2  W4  2.5
+  2 Ye, Alex               ENDFH51L  1268  1309/260  W4  D1  W3  2.5
+  3 Swain, Samarth         MMECJ58S  1036  1058/299  L1  W4  L2  1.0
+  4 Bhasin, Palash         ISMGH95H  1290  1210/143  L2  L3  L1  0.0

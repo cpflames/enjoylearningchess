@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Paley, Harold          IMSGH70Q   734   745/ 18  W2  U   1.0
+  2 Mehta, Anaisha         MEDDG91G   446   444/ 24  L1  W5  1.0
+  3 Han, Felix             MEDBJ41U   560   579/ 33  W4  U   1.0
+  4 Swigon, Bruno          WEDBH92N   375   355/ 29  L3  U   0.0
+  5 Huang, Cameron         THOBJ47G   101   100/ 15  U   L2  0.0

@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Astafyeva, Veronica    MRPCH51S   351   604/ 43  W8  W11 W5  W2  4.0
+  2 Iyer, Anirudh Ajay     XXXCG23H   200   500/  3  BYE W12 W9  L1  3.0
+  3 Breuninger, Lincoln    MESCG23G   200   606/  4  L5  W8  W10 W7  3.0
+  4 Kalyanasundaram, SrinivCNCCH48Q   406   422/ 48  L6  BYE W12 W9  3.0
+  5 Anand, Krishna         RSABJ95V   598   599/ 68  W3  D6  L1  W11 2.5
+  6 Gao, Arden             JINBH35W   481   501/ 27  W4  D5  L7  W10 2.5
+  7 Anand, Nivaan          MCEBH64F   617   558/106  W10 L9  W6  L3  2.0
+  8 Kamath, Rian           XXXCG23E   200   359/  3  L1  L3  BYE W12 2.0
+  9 Tare, Reya             SBOBW79Q   100   232/  9  W13 W7  L2  L4  2.0
+ 10 Ngo, Quan              SCSCG23D   200   239/  4  L7  W13 L3  L6  1.0
+ 11 Casal, Nicolas         EBSAH24B   341   289/ 19  L12 L1  W13 L5  1.0
+ 12 Ferris, Sam            LLLAG54F   356   286/ 14  W11 L2  L4  L8  1.0
+ 13 Rajkumar, Aarav        UNKAG23C   100   100/  3  L9  L10 L11 BYE 1.0

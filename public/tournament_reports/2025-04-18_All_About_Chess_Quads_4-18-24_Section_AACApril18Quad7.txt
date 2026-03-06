@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dang, Aaron            SOMCH60W   599   650/ 48  W4  W2  D3  2.5
+  2 Chen, Yisu             RKWBH78H   527   567/ 81  W3  L1  W4  2.0
+  3 Mirchandani, Kavir     MEDCJ97A   528   532/108  L2  W4  D1  1.5
+  4 Gu, Ximu               ENDBJ05X   481   408/ 59  L1  L3  L2  0.0

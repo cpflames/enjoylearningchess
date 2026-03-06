@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Balaji, Akhil Reddy    MISFZ50E   500  1000/  3  W4  W3  W2  3.0
+  2 Sharma, Pranit         GTMGG32L   600   700/  3  W3  W4  L1  2.0
+  3 Ko, Benjamin           LAVEG32K   400   350/  3  L2  L1  W4  1.0
+  4 Lethakula, Aadhya ReddyTFEFG32J   500   100/  3  L1  L2  L3  0.0
+
+ All Unrated-player Section: Ratings capped at 1000

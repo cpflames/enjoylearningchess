@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nelson, Harvey         CMCFG67L   265   430/ 23  W4  W2  W5  3.0
+  2 Paidipathi, Kiaan      SHSCJ99C   404   397/204  W3  L1  W4  2.0
+  3 Karanam, Dhruthi       LCSCH10X   100   134/ 11  L2  W5  D6  1.5
+  4 Haycraft, Ethan        IFSCG36K   100   137/  6  L1  W6  L2  1.0
+  5 Shin, Joshua           CRKCJ63R   233   193/125  W6  L3  L1  1.0
+  6 Kulal, Om              RSAAG65J   100   100/ 17  L5  L4  D3  0.5

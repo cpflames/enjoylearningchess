@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Talukdar, Yuvaan       RBRBH76K   754   907/111  W4  W2  W3  3.0
+  2 Naik, Shreyas          MTWFJ98X   836   851/128  W3  L1  W4  2.0
+  3 So, Brandon            CCDDK01X   694   695/ 76  L2  W4  L1  1.0
+  4 Paine, Clara           TLIFK01Z   810   722/ 95  L1  L3  L2  0.0

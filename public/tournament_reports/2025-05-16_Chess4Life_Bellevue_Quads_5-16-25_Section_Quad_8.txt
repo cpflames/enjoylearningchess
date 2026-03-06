@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Singh, Anitej          OMSHH76J   517   533/ 36  W2  W3  L4  2.0
+  2 Balan, Vidyut          LAVEH68B   402   482/ 50  L1  W4  W3  2.0
+  3 Li, Henry              CMCEK03M   455   431/ 26  W4  L1  L2  1.0
+  4 Bansal, Aarav          CRKCH28J   488   453/ 38  L3  L2  W1  1.0

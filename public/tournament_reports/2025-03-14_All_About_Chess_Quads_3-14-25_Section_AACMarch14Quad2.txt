@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chu, Skylar            SOMD579R  1031  1153/ 97  W5  W2  W4  3.0
+  2 Swain, Samarth         MMECJ58S  1043  1077/259  W4  L1  W3  2.0
+  3 Mangla, Atharv         GRREK07C  1028  1025/182  BYE W5  L2  2.0
+  4 Zhang, Patrick         SSSCK01J  1047  1001/252  L2  BYE L1  1.0
+  5 Mahale, Avneesh        CNHC993F  1013   968/230  L1  L3  BYE 1.0

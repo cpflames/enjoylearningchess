@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Lin, Evan              SOMCJ72G   768   855/ 81  W16 W12 W5  W8  D3  4.5
+  2 Tatimatla, Sharan      PPLGJ49G   666   743/ 24  L6  W16 W7  W13 W5  4.0
+  3 Zhou, Muchen           CMCFH25C   815   825/ 30  D10 D4  W15 W14 D1  3.5
+  4 Burmistrov, Maya       SSMFJ19Z   714   764/ 40  L12 D3  W9  W11 W8  3.5
+  5 Bayya, Shrihan         CBREJ74M   569   657/ 39  W14 W7  L1  W12 L2  3.0
+  6 Komara, Vasishta NarayaFRWFG75F   627   657/ 18  W2  D8  L14 D10 W13 3.0
+  7 Nandeesh, Tapasya      SMSIH62Z   583   586/ 69  BYE L5  L2  W17 W14 3.0
+  8 Sarangi, Samarth       CBREH69F   629   636/103  W17 D6  W13 L1  L4  2.5
+  9 Karanth, Bhargav       EBSFH34F   554   592/ 25  W11 L13 L4  D15 W12 2.5
+ 10 Dattani, Shaurya       LEOHJ57G   648   654/ 34  D3  D11 L12 D6  W16 2.5
+ 11 Mallapragada, Mihir    CBRF254M   877   801/ 48  L9  D10 W16 L4  W15 2.5
+ 12 Sajeeth, Samay         RKWFJ82R   516   562/ 53  W4  L1  W10 L5  L9  2.0
+ 13 Vig, Yuvraj            MEDFJ43Y   563   565/ 20  W15 W9  L8  L2  L6  2.0
+ 14 Guruswamy, Tejal       CPJIK10X   636   589/ 66  L5  BYE W6  L3  L7  2.0
+ 15 Fernandes, Caleb       MCEEH52V   637   581/ 29  L13 W17 L3  D9  L11 1.5
+ 16 Wong, Aiden            CHREK17Z   596   527/ 94  L1  L2  L11 BYE L10 1.0
+ 17 Suram, Ridhima         KKNE882V   463   398/ 45  L8  L15 BYE L7  U   1.0

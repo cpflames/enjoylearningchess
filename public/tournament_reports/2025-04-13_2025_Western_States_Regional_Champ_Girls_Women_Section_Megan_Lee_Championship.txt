@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Airapetian, Chouchanik ADUND039  1958  1983/ 44  W12 W8  W2  W10 D3  4.5
+  2 Lee, Megan             ADUN8702  2327  2319/213  W13 W3  L1  W5  W4  4.0
+  3 Meng, Miranda          OPWFH69P  1695  1725/171  W14 L2  W12 W9  D1  3.5
+  4 Bayrambeyli, Emel      LCOKH50T  1780  1779/ 10  L5  W6  W11 W7  L2  3.0
+  5 Wu, Shanna             CNHEJ72M  1639  1687/ 75  W4  L10 W8  L2  W12 3.0
+  6 Karamali, Saiya        ADUN586R  1742  1732/ 58  D7  L4  HPB W14 W10 3.0
+  7 Patel, Aarya           REJGK30E  1413  1489/226  D6  W9  D10 L4  D8  2.5
+  8 Anandkumar, Haituka    LWAK238P  1682  1656/441  W15 L1  L5  W11 D7  2.5
+  9 Thanikonda, Kruti      CMCEK84W  1370  1395/180  D10 L7  W14 L3  W13 2.5
+ 10 Cheng, Selina          TLMH413R  1700  1677/604  D9  W5  D7  L1  L6  2.0
+ 11 Khudyev, Elina         EPICJ97Q  1168  1193/ 89  HPB HPB L4  L8  W14 2.0
+ 12 Shankaranand, Deeksha  EBSGI74Y  1644  1601/336  L1  W15 L3  D13 L5  1.5
+ 13 Aksutina, Eva          XXXHG47U  1680  1306/  6  L2  L14 W15 D12 L9  1.5
+ 14 Byelashova, Darya      SGHEK51X  1231  1217/202  L3  W13 L9  L6  L11 1.0
+ 15 Byelashova, Sofia      SGHCK01K  1000   989/174  L8  L12 L13 HPB HPB 1.0

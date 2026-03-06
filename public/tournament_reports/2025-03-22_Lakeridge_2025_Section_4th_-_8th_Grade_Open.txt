@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wadhwani, Ren          OPSEK13K  1259  1342/ 82  BYE W10 W4  W2  W3  5.0
+  2 Byelashova, Darya      SGHEK51X  1097  1196/193  W23 W5  W8  L1  W11 4.0
+  3 Flores Uriegas, Andres HLYF159F  1138  1183/ 94  W17 D7  W9  W8  L1  3.5
+  4 Kumar, Rishuraj        HEAGK45Y  1082  1110/132  W20 W6  L1  W14 D5  3.5
+  5 Bui, Bryant            RDSFH52W   954  1085/ 75  W13 L2  W17 W9  D4  3.5
+  6 Thangakumar, Pranav    EVJGJ49C   877  1010/ 79  W16 L4  W10 W12 D7  3.5
+  7 Tsay, Elon             LKDEK07B  1041  1063/137  W18 D3  D12 W15 D6  3.5
+  8 Li, Anyi               LKDDJ55F  1331  1283/144  W15 W14 L2  L3  W16 3.0
+  9 Lam, Myron             LKDF605K  1143  1125/ 35  W19 W11 L3  L5  W15 3.0
+ 10 Anbuselvam, Mithran    HEAGH61F  1024  1001/165  W22 L1  L6  W20 W17 3.0
+ 11 Meenakshi Sundaram, AdhHEAGK00E   982  1005/ 30  W24 L9  W16 W13 L2  3.0
+ 12 Tsen, Eric             AGBEK18P   992   978/226  HPB W21 D7  L6  W18 3.0
+ 13 Rachiba, Alisa         EVPEK08E  1325  1242/217  L5  W23 W19 L11 D14 2.5
+ 14 Jayakrishnan, Chethan  GTMIH06G   980   963/ 10  W25 L8  W24 L4  D13 2.5
+ 15 Ting, Sophia           KSHEK64W   963   926/127  L8  W20 W21 L7  L9  2.0
+ 16 Lopez, Rodrigo         EHAHH88C   811   795/ 10  L6  W18 L11 W22 L8  2.0
+ 17 Curnutt, Lachlan       AKKHH96N   615   611/ 14  L3  W25 L5  W24 L10 2.0
+ 18 Bisset, Finnian        AKKIH37Z   435   558/ 10  L7  L16 W23 W19 L12 2.0
+ 19 Gereda-galvis, JeronimoEHAHH94Q   797   754/ 25  L9  W22 L13 L18 W21 2.0
+ 20 Say, Kaleb             AKKIK30Q   437   450/ 20  L4  L15 W25 L10 W24 2.0
+ 21 Looney, Aishanique     AKKHH96M   100   137/ 17  BYE L12 L15 W25 L19 2.0
+ 22 Apfel, Max             AKKHH38C   422   450/  9  L10 L19 BYE L16 W23 2.0
+ 23 Wu, Benjamin           AKKHH38E   537   422/  9  L2  L13 L18 BYE L22 1.0
+ 24 Spitzenberger, Gwen    AKKIH89L   233   209/ 14  L11 BYE L14 L17 L20 1.0
+ 25 Oslwald, Nola          AKKHG58T   700   100/  4  L14 L17 L20 L21 BYE 1.0

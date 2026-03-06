@@ -1,0 +1,33 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Fletcher, Andrew       ADUN5371  2025  2071/ 79  W29 W19 W7  W2  W3  5.0
+  2 Sundaram, Siddarth MeenADUNK02X  2433  2428/ 33  W6  W10 W5  L1  W13 4.0
+  3 Nedumpurakkal Thahir, IRHJKK46Y  1918  1934/ 87  W17 W22 W20 W4  L1  4.0
+  4 Bondar, Aliaksei       ADUNH23H  2114  2086/ 15  W18 W9  W11 L3  W10 4.0
+  5 Smygov, David          ADUNG97D  1708  1794/ 20  W24 W26 L2  W12 W8  4.0
+  6 Mohan, Vishnu          LEOGF41R  1622  1636/188  L2  D27 W32 W20 W7  3.5
+  7 Maharaja, Imai         HMNEK34K  1536  1648/304  W28 W12 L1  W21 L6  3.0
+  8 Echaure, Samuel        ADUNG37L  1934  1901/ 10  L9  W16 W19 W15 L5  3.0
+  9 Gupta, Krishang        GTMHE37V  1445  1563/101  W8  L4  L14 W25 W21 3.0
+ 10 Raja, Rian             SKWH786E  1658  1679/230  W32 L2  W31 W14 L4  3.0
+ 11 Shi, Gavin             LCOKH855  1679  1674/472  W27 W31 L4  L13 W20 3.0
+ 12 Yu, Peter              ADUNJ50C  2120  2085/ 53  W30 L7  W23 L5  W16 3.0
+ 13 Boulis, Christos       NWSLC84T  1836  1821/642  L19 W29 W26 W11 L2  3.0
+ 14 Zhou, Yuchen           CHRFJ42H  1773  1741/638  L26 W24 W9  L10 W19 3.0
+ 15 Syal, Yash             PFCGC10R  1687  1679/238  D16 D28 W25 L8  W22 3.0
+ 16 Nawagamudewage, Inura  MDEIJ11V  1253  1371/ 30  D15 L8  W28 W27 L12 2.5
+ 17 Nawagamudewage, NaadithMELFJ11W  1442  1485/ 30  L3  L23 W30 D26 W28 2.5
+ 18 Rao, Deepak Sri KartikeBPSI517J  1572  1532/234  L4  D32 L27 WF  W26 2.5
+ 19 Lai, Ryan              SHSBH70N  1441  1484/115  W13 L1  L8  W24 L14 2.0
+ 20 Asakura, Tomoaki       EACMK98T  1244  1353/ 24  W23 W21 L3  L6  L11 2.0
+ 21 Bharathy Mohan, Aarav  SKIGC98B  1765  1702/424  W25 L20 W22 L7  L9  2.0
+ 22 Singh, Rushil          TWFHB52N  1416  1431/165  WF  L3  L21 W23 L15 2.0
+ 23 Gao, Ziqian            BLWFK10U  1660  1615/101  L20 W17 L12 L22 W27 2.0
+ 24 Satish, Sathvik        LWAJK18Y  1292  1313/ 36  L5  L14 W29 L19 W32 2.0
+ 25 Zandanov, Leonid       ENADK31Q  1335  1363/191  L21 W30 L15 L9  W29 2.0
+ 26 Bondar, Dmitriy        REDJI117  1340  1371/ 48  W14 L5  L13 D17 L18 1.5
+ 27 Ye, Alex               ENDFH51L  1144  1205/284  L11 D6  W18 L16 L23 1.5
+ 28 Mohammed, Moinuddin    ADUNJ95E  2047  1732/ 11  L7  D15 L16 W32 L17 1.5
+ 29 Ramamoorthi, JanakiramaADUNG30Q  1300  1257/  5  L1  L13 L24 W30 L25 1.0
+ 30 Upreti, Parthavi       GTMI754L  1583  1499/205  L12 L25 L17 L29 BYE 1.0
+ 31 Latuskiewicz, Matthew  EPSGK21S  1147  1142/ 77  BYE L11 L10 LF  U   1.0
+ 32 Fontenot, Isaiah       ADUNG30P  1300  1221/  5  L10 D18 L6  L28 L24 0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Burtram, Dayton        SKNJG77M  1466  1517/365  W4  W3  W2  3.0
+  2 Lebedinsky, Alexander  EVJI958F  1466  1467/307  W3  W4  L1  2.0
+  3 Li, Harry              SPTFG30G  1291  1287/506  L2  L1  W4  1.0
+  4 Dhameeja, Ved          GRRFJ98F  1251  1210/173  L1  L2  L3  0.0

@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kasala, Avyukt         CDWEG60F   569   828/ 15  W5  W2  W4  W6  L3  4.0
+  2 Padmanabhuni, Vihaan   LMAEH69J   810   858/ 29  W7  L1  W3  W8  W4  4.0
+  3 Srishankar, Suryaa     FRWFK87F   678   761/ 47  W11 D9  L2  W10 W1  3.5
+  4 Shah, Aariv            PFCH527D   671   720/ 28  W12 W8  L1  W5  L2  3.0
+  5 Sajeeth, Samay         RKWFJ82R   713   727/ 63  L1  W7  W9  L4  W8  3.0
+  6 Satishkumar, Gautham   RCSFC88L   675   685/ 74  L8  W12 W10 L1  W11 3.0
+  7 He, Brian              LSSK251J   670   667/ 19  L2  L5  W11 D9  W10 2.5
+  8 Raghavan, Anirudh      FRWEG42Z   440   538/ 16  W6  L4  W12 L2  L5  2.0
+  9 Veeramani, Harish      LMAEG31Z   645   618/  8  W10 D3  L5  D7  L12 2.0
+ 10 Besati, Arnav          RKWEJ74G   772   650/ 54  L9  W11 L6  L3  L7  1.0
+ 11 Kancharakuntla, Sai AksBENFG34L   515   476/ 10  L3  L10 L7  W12 L6  1.0
+ 12 Balaji, Arjun          CMCEH75P   781   645/ 92  L4  L6  L8  L11 W9  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Huang, Jaden           ENDDJ63S   671   782/193  D3  W4  W2  2.5
+  2 Kasturiya, Soham       CRKDJ29M   690   741/ 12  W4  W3  L1  2.0
+  3 Joseph, George         CDIDH11C   727   725/ 30  D1  L2  W4  1.5
+  4 Reddy, Aariv           GRRCK34T   724   638/ 57  L2  L1  L3  0.0

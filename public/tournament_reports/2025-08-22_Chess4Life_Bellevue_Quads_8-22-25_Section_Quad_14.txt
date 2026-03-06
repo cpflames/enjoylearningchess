@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Van Cleemput, Enzo     HMNDG22B   300   867/  3  W2  W3  W4  3.0
+  2 Baselli, Giacomo       INGHG22A   700   492/  3  L1  W4  W3  2.0
+  3 Tang, Alan             WTLEG21Z   400   100/  2  WF  L1  L2  1.0
+  4 Ismail, Kai            TLIAG21Y   100   100/  2  LF  L2  L1  0.0
+
+ All Unrated-player Section: Ratings capped at 1000

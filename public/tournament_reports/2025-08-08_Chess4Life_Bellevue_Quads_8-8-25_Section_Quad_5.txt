@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Abdukarimov, Samin     BENAH67S   628   696/136  W2  W3  WF  3.0
+  2 Swindell, Adam         MRLFG32Q   648   647/ 20  L1  WF  W3  2.0
+  3 Chanda, Rishabh        BCAAH72X   655   589/ 63  WF  L1  L2  1.0

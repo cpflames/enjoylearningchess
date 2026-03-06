@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Deshpande, Keshav      CHOH420G  1324  1369/132  W3  W4  W2  3.0
+  2 Zhen Rampenthal, Quinn SASIH53C  1227  1242/ 79  W4  W3  L1  2.0
+  3 Yang, Michael          SOMGK00G  1083  1086/107  L1  L2  W4  1.0
+  4 Tsay, Elon             LKDEK07B  1144  1085/167  L2  L1  L3  0.0

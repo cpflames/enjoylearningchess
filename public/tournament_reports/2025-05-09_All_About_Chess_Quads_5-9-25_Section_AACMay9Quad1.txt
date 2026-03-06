@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pan, Peng-ruei         SSMF759R  1543  1584/264  W3  W4  W2  3.0
+  2 Chen, William          INGI550N  1556  1552/291  W4  W3  L1  2.0
+  3 Li, Harry              SPTFG30G  1287  1294/509  L1  L2  W4  1.0
+  4 Chen, Max Y            DISFK76L  1314  1272/127  L2  L1  L3  0.0

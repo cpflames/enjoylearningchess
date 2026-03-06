@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 George, Ameya          EBSFK88Y   915   993/137  W2  W4  D3  2.5
+  2 Kocherlakota, Vihaan   TMBHA65P   891   934/107  L1  W3  W4  2.0
+  3 Kulkarni, Samik        KKNBH67M   996   976/ 43  W4  L2  D1  1.5
+  4 Mcintyre, Isaac        ETSF466S   846   787/247  L3  L1  L2  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Eric Q          SOMDK64M   903  1040/108  W2  W3  W4  3.0
+  2 Li, Ethan James        SOMCK00K   929   955/193  L1  W4  W3  2.0
+  3 Karanam, Aadya         CHKEK84K   938   909/137  W4  L1  L2  1.0
+  4 Sarychev, Aleksei      GEKKJ98N   880   814/263  L3  L2  L1  0.0

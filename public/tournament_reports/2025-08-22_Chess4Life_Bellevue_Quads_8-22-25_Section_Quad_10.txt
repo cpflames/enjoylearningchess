@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Guo, Keith             CHRCG29Y   329   403/  8  U   W2  W3  2.0
+  2 Tang, Rufus            BASDG74N   247   258/ 13  W3  L1  U   1.0
+  3 Asthana, Vihaan        CMCDJ89X   268   202/ 11  L2  U   L1  0.0

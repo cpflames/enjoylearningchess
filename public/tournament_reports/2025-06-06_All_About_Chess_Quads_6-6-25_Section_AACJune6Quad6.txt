@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sivakumar, Vedant      INGHH63H   815   907/ 87  W2  W4  W3  3.0
+  2 Charles, Benjamin      SOMBJ06G   696   752/135  L1  W3  W4  2.0
+  3 Singla, Atharv         TWFHF53S   721   700/ 64  W4  L2  L1  1.0
+  4 Liaw, Ezra             LSOGW79E   705   631/ 36  L3  L1  L2  0.0

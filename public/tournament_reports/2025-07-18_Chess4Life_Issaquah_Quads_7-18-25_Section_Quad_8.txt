@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Subbaiah, Neev         HSCGG25L   600   785/  2  BYE W3  W2  3.0
+  2 Singh, Vihaan Vikram   RIDFG25R   346   397/  6  W4  W5  L1  2.0
+  3 Noman, Arhum           HSCBG30F   100   260/  6  W5  L1  W4  2.0
+  4 Abdukarimov, Umid      BENAG27P   100   100/  7  L2  BYE L3  1.0
+  5 Hoon, Charlotte        HSCAG25K   100   100/  2  L3  L2  BYE 1.0

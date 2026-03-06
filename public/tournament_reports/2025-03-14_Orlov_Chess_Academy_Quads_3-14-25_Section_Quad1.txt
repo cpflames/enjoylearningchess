@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jang, Jinwon           VIEH561P   864  1088/122  W2  W3  W4  3.0
+  2 Ackerman, Ryan         ADUNC514  1828  1798/297  L1  W4  W3  2.0
+  3 Heydarov, Rasul        BLWGH95F  1106  1085/ 45  W4  L1  L2  1.0
+  4 Heydarova, Aliya       BLWFH95D   820   798/ 47  L3  L2  L1  0.0

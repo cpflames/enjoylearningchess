@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dang, Aaron            SOMCH60W   423   599/ 45  W5  W3  W2  3.0
+  2 Zahand, Chase          CEIEH64H   389   410/ 14  BYE W4  L1  2.0
+  3 Moore, Ethan           CRKFJ49L   498   486/ 51  D4  L1  W5  1.5
+  4 Paidapathi, Kiaan      SHSCJ99C   411   378/193  D3  L2  BYE 1.5
+  5 Nandakiran, Advaith    SSMCJ88H   446   391/153  L1  BYE L3  1.0

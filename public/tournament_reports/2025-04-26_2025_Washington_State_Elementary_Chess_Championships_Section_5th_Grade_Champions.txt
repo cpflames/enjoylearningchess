@@ -1,0 +1,79 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Saddi, Neevan Reddy    GRRFH87M  1956  1974/303  W24 W25 W45 W18 W5  5.0
+  2 Wang, Isaac            CLHFK00U  1199  1392/135  W46 W7  D4  W14 W18 4.5
+  3 Gao, Ziqian            BLWFK10U  1657  1660/ 96  W47 W64 W19 D6  W15 4.5
+  4 Pan, Peng-ruei         SSMF759R  1536  1543/261  W30 W10 D2  W9  D6  4.0
+  5 Merriman, Dann         WMNFF79Y  1729  1733/640  W33 W29 W20 W8  L1  4.0
+  6 Sinha, Agastya         LAVFA75C  1405  1454/226  W50 W11 W28 D3  D4  4.0
+  7 Guruprasad, Saketh     RBRFE50W  1054  1282/ 55  W32 L2  W29 W26 W22 4.0
+  8 Pai, Vihaan            CHAFK17C  1469  1482/305  W56 W31 W13 L5  W23 4.0
+  9 Avula, Guru Harshith ReBRHF633Y  1407  1422/196  W49 W39 W22 L4  W25 4.0
+ 10 Liu, Evan              CLHFC52M  1159  1243/ 45  W68 L4  W49 W24 W21 4.0
+ 11 Shapiro, Maksim        LMAFK10R  1119  1225/ 78  W52 L6  W65 W45 W19 4.0
+ 12 Flores Uriegas, Andres HLYF159F  1183  1211/ 99  L37 W53 W47 W48 W20 4.0
+ 13 Luo, Peter             SOMF664K  1222  1236/159  W51 W27 L8  D17 W40 3.5
+ 14 Huang, Clora           SOMFK31H  1087  1188/185  W70 D43 W16 L2  W38 3.5
+ 15 Ghosh, Snehil          CBRF738T  1442  1432/251  D40 W77 W34 W38 L3  3.5
+ 16 Pravlik, Aiden         BASF416H  1292  1278/267  W58 D42 L14 W46 W39 3.5
+ 17 Bhattacharjee, PratyushSNEF602T  1071  1103/ 77  W74 L19 W66 D13 W41 3.5
+ 18 Ganesan, Vidur         RBRF940K  1517  1498/339  W55 W26 W41 L1  L2  3.0
+ 19 Dhameeja, Ved          GRRFJ98F  1243  1251/170  W59 W17 L3  W28 L11 3.0
+ 20 Chaudhuri, Arihant     CHAF703E  1346  1330/310  W35 W48 L5  W37 L12 3.0
+ 21 Li, Harry              SPTFG30G  1322  1291/503  W36 L28 W30 W54 L10 3.0
+ 22 Lam, Myron             LKDF605K  1221  1209/ 45  W61 W67 L9  W33 L7  3.0
+ 23 Xu, Yang               EVGF649B  1187  1182/221  L27 W59 W55 W36 L8  3.0
+ 24 Chavez, Jessie         BMCFK53S  1065  1078/ 79  L1  W61 W67 L10 W51 3.0
+ 25 Chen, Max Y            DISFK76L  1180  1194/121  WF  L1  W50 W44 L9  3.0
+ 26 Sreeram, Vihaan        BLWFK01U  1153  1163/ 76  W76 L18 W35 L7  W49 3.0
+ 27 Mcintyre, Isaac        WPPF466S   764   975/257  W23 L13 L48 W47 W60 3.0
+ 28 Rogovoy, Alexander     SNEFK14Y  1107  1137/ 50  W78 W21 L6  L19 W46 3.0
+ 29 Zhang, Aaron           RSAFC74T  1171  1175/154  W75 L5  L7  W65 W55 3.0
+ 30 Dong, Tristan          MRLFF90V  1060  1092/ 66  L4  W68 L21 W52 W45 3.0
+ 31 Rengarajan, Anirudh    DIAFZ75J  1132  1119/ 42  W66 L8  L44 W53 W50 3.0
+ 32 Sriram, Aahan          OVLFC03K  1535  1474/114  L7  L46 W68 W58 W37 3.0
+ 33 Khandhedia, Dhruvin NirCNCF257G  1065  1065/ 99  L5  W75 W69 L22 W57 3.0
+ 34 Verma, Reyansh         RBRFJ20M  1154  1152/ 90  D77 W40 L15 D42 W56 3.0
+ 35 Chenchu Arun, Krish    SSMFJ74U  1018  1028/ 74  L20 W72 L26 W70 W54 3.0
+ 36 Kovalova, Olya         RIVFH54D   999  1053/ 15  L21 W78 W64 L23 W48 3.0
+ 37 Dolar, Evan            FACFA81A   740   951/ 50  W12 D38 W43 L20 L32 2.5
+ 38 Edmond, Alec           CSIFH03G  1221  1191/234  W53 D37 W42 L15 L14 2.5
+ 39 Rish-brown, Jackson    HMOFH57T  1119  1115/ 61  W71 L9  W51 D41 L16 2.5
+ 40 Hopkins, Declan        REOFJ52J  1033  1067/ 34  D15 L34 W77 W43 L13 2.5
+ 41 Plesko, Francis        HSCFK03B  1203  1169/ 60  W57 W69 L18 D39 L17 2.5
+ 42 Zeitlin, Tom           WOBFI56H  1110  1096/115  BYE D16 L38 D34 D44 2.5
+ 43 Ye, Alex               ENDFH51L  1309  1244/265  W65 D14 L37 L40 W64 2.5
+ 44 Upasani, Neil          SSMFJ57C   967   993/143  L45 W74 W31 L25 D42 2.5
+ 45 Bui, Bryant            RDSFH52W  1288  1245/ 85  W44 W62 L1  L11 L30 2.0
+ 46 Kaushal, Ayaan         CAVF975V   900   993/ 59  L2  W32 W62 L16 L28 2.0
+ 47 Kakarlapudi, Sreeram MuMEDF687Z  1063  1027/ 68  L3  W63 L12 L27 W71 2.0
+ 48 Phillips, Henry        MCGFH43N  1112  1077/ 40  W72 L20 W27 L12 L36 2.0
+ 49 George, Ameya          EBSFK88Y  1028  1003/146  L9  W71 L10 W67 L26 2.0
+ 50 Woo, Nina              NCSFJ06R  1018   997/ 37  L6  W52 L25 W69 L31 2.0
+ 51 Bassen, Abel           KLKFZ72M   830   907/ 76  L13 W60 L39 W64 L24 2.0
+ 52 Sajeeth, Samay         RKWFJ82R   562   713/ 58  L11 L50 W59 L30 W65 2.0
+ 53 Zhou, Muchen           CMCFH25C   825   824/ 35  L38 L12 W72 L31 W67 2.0
+ 54 Bui, Edwin             FRVFK90H  1129  1064/164  L69 W57 W58 L21 L35 2.0
+ 55 Bhende, Shaurya        MMEFK24T  1043  1018/ 65  L18 W76 L23 W66 L29 2.0
+ 56 King, Oliver John      WKEFK36M  1040   986/ 94  L8  L66 W71 W63 L34 2.0
+ 57 Wernsing, Michael      SSMFJ93Y   787   813/ 30  L41 L54 W73 W62 L33 2.0
+ 58 Berjis, Adrina         MEDF230U   992   971/186  L16 W73 L54 L32 W66 2.0
+ 59 Nelson, Ellis          BRYFB28C   955   911/ 83  L19 L23 L52 W77 W69 2.0
+ 60 Elmieh, Niko           CRKF777E  1091   994/103  L67 L51 W76 W61 L27 2.0
+ 61 Betz, Fox              WKEFK23C   813   795/ 30  L22 L24 W78 L60 W73 2.0
+ 62 Feng, Levi             SOMFJ59B  1091  1014/ 55  W73 L45 L46 L57 W68 2.0
+ 63 Sreeram, Aditya        CEIF340K   682   681/ 60  L64 L47 W74 L56 W70 2.0
+ 64 Dragusanu, Clara       SSMFH81S  1163  1082/ 75  W63 L3  L36 L51 L43 1.0
+ 65 Le, Braden             FACFK23D   957   892/ 34  L43 W70 L11 L29 L52 1.0
+ 66 Lervik, Henry          CEEFK36P   635   665/ 54  L31 W56 L17 L55 L58 1.0
+ 67 Kim, Gihoo             LMAFG92W   481   534/ 18  W60 L22 L24 L49 L53 1.0
+ 68 Wu, Ruichen            CDWFK08F   663   661/ 41  L10 L30 L32 W78 L62 1.0
+ 69 Fisk, Oliver           FACFK82T   613   645/ 30  W54 L41 L33 L50 L59 1.0
+ 70 Wheeler, Jace          WKEFG98K   393   425/ 15  L14 L65 W75 L35 L63 1.0
+ 71 Bennett, Gavin         CUEFJ17M   566   565/ 38  L39 L49 L56 W74 L47 1.0
+ 72 Gadzhiyeva, Aiden      BGLFH25Q   562   553/ 23  L48 L35 L53 W75 L75 1.0
+ 73 Ravitsky, Avigail      FACFH95B   458   482/ 25  L62 L58 L57 W76 L61 1.0
+ 74 Banerjee, Satviki      CRIFG67G   371   379/ 15  L17 L44 L63 L71 W78 1.0
+ 75 Tang, Khai             THUFJ48Q   683   612/ 64  L29 L33 L70 L72 W72 1.0
+ 76 Livingston-owings, BakeCOLFJ26B   654   624/ 28  L26 L55 L60 L73 W77 1.0
+ 77 Pressley, Alexander    THUFH04U   658   637/ 20  D34 L15 L40 L59 L76 0.5
+ 78 Sarcar, Arin           CEIFH34H   483   419/ 15  L28 L36 L61 L68 L74 0.0

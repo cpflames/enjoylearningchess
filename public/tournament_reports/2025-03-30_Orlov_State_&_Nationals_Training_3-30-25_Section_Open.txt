@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Xiong, Maxwell         CSIDK92H   962   953/ 88  W9  L2  1.0
+  2 Chou, Eugene           SSMEJ56Y  1157  1171/118  U   W1  1.0
+  3 Garg, Vihaan           CMCEJ10X  1031  1072/268  W7  U   1.0
+  4 Lai, Austin            EVGDK94F  1033  1050/107  W8  U   1.0
+  5 Aksutina, Eva          XXXHG47U   700  1680/  1  W6  U   1.0
+  6 Zhang, Kevin           WOBG809Y  1306  1301/178  L5  U   0.0
+  7 Liu, Aaron             SSMDH52C  1179  1142/ 31  L3  U   0.0
+  8 Ruan, Jiyong           SHSDJ19W   881   862/ 56  L4  U   0.0
+  9 Mccarthy, Eugene       CDLEG73B   539   539/  7  L1  U   0.0

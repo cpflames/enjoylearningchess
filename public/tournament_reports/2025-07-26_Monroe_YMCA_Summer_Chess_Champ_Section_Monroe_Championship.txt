@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kona, Vidip            TIMGI26J  2229  2246/414  W8  W5  W4  W2  W3  5.0
+  2 Shi, Gavin             LCOKH855  1723  1782/492  W10 W7  W3  L1  W4  4.0
+  3 Yu, Peter              ADUNJ50C  2100  2077/ 58  W6  W14 L2  W12 L1  3.0
+  4 Maharaja, Imai         HMNEK34K  1577  1602/325  W9  W12 L1  W14 L2  3.0
+  5 Guo, Loida             XXXCG25U  1482  1494/  5  W13 L1  D6  W9  D7  3.0
+  6 Roy Chowdhury, Avyaan  THRDH82M  1393  1450/ 59  L3  W15 D5  D8  W12 3.0
+  7 Singh, Rushil          TWFHB52N  1448  1446/180  W18 L2  D9  W13 D5  3.0
+  8 Ghosh, Snehil          CBRF738T  1423  1429/261  L1  W16 L14 D6  W13 2.5
+  9 Avula, Guru Harshith ReBRHF633Y  1344  1349/207  L4  W17 D7  L5  W16 2.5
+ 10 Avula, Varshith Reddy  RHJI110R  1380  1356/285  L2  W18 L12 W17 D11 2.5
+ 11 Savani, Prashant       ADUNG24W  1300  1266/  3  HPB HPB L13 W15 D10 2.5
+ 12 Lai, Ryan              SHSBH70N  1453  1437/135  W17 L4  W10 L3  L6  2.0
+ 13 Sabarish, Ananya       BCAEG02Z  1119  1135/213  L5  BYE W11 L7  L8  2.0
+ 14 Bharath, Bhavik        ADUNH71C  1551  1553/ 21  W15 L3  W8  L4  U   2.0
+ 15 Moghe, Arjun           REJHA42C  1340  1312/182  L14 L6  W16 L11 W17 2.0
+ 16 Li, Anyi               LKDDJ55F  1317  1260/177  HPB L8  L15 W18 L9  1.5
+ 17 Dalakoti, Shivani      BLMGG24V   600   899/  5  L12 L9  W18 L10 L15 1.0
+ 18 Rawat, Advik           CRIDG24U   300   513/  4  L7  L10 L17 L16 BYE 1.0

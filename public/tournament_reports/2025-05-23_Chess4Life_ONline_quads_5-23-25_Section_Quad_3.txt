@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kulkarni, Samik        KKNBH67M   859   957/ 62  W3  W2  W4  3.0
+  2 Balan, Vidyut          LAVEH68B   482   678/ 53  W4  L1  W3  2.0
+  3 Srivastava, Om         GTMHG59C   850   774/  6  L1  W4  L2  1.0
+  4 Khandelwal, Anay       OMSHA10L   955   839/ 86  L2  L3  L1  0.0

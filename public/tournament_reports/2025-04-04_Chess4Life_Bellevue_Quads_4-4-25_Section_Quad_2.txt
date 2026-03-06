@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jiang, Kyle            MEDCK35B  1016  1060/156  W3  W4  LF  2.0
+  2 Zhen Rampenthal, Quinn SASIH53C  1043  1053/ 53  W4  D3  LF  1.5
+  3 Xiong, Maxwell         CSIDK92H   978   962/ 86  L1  D2  LF  0.5
+  4 Becklund, Ezra         JDSIH11H   940   900/ 33  L2  L1  LF  0.0

@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Brakenridge, Bryce     TYEGK89D   615   749/ 80  W5  W7  W2  W3  W4  5.0
+  2 Sarangi, Samarth       CBREH69F   597   629/ 98  W4  W6  L1  W9  W3  4.0
+  3 Zahand, Chase          CEIEH64H   185   340/  9  BYE W5  W7  L1  L2  3.0
+  4 Gu, Ximu               ENDBJ05X   399   445/ 53  L2  W9  W6  W8  L1  3.0
+  5 Yang, Boris            RCSDH76C   413   417/  9  L1  L3  W8  BYE W6  3.0
+  6 Karthikeyan, Akhilan   CRKFH13C   525   455/ 27  W9  L2  L4  W7  L5  2.0
+  7 Yang, Allen            BASFK17F   490   407/ 13  W8  L1  L3  L6  BYE 2.0
+  8 Brakenridge, Ryan      SOMBK05L   143   144/ 60  L7  BYE L5  L4  W9  2.0
+  9 Lu, Andy               JINDJ02X   251   169/ 29  L6  L4  BYE L2  L8  1.0

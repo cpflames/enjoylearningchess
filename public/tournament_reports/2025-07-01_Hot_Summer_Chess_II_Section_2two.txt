@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bhatta, Nihal          CIAFK82Z   899  1001/ 51  W3  W5  D2  2.5
+  2 Qureshi, Danish        BLNHF36V  1028  1032/208  D5  W4  D1  2.0
+  3 Young, Jayden          SQUJ621U   899   905/ 46  L1  BYE W5  2.0
+  4 Friedman, Elliott      WHMI637U   925   901/ 16  HPB L2  HPB 1.0
+  5 Buckham, George        SKYEK37E   909   868/108  D2  L1  L3  0.5

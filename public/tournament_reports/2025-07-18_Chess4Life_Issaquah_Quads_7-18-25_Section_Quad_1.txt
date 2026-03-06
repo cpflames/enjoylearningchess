@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Jasper           ENDEK01P  1150  1196/ 58  W3  W2  D4  2.5
+  2 Jiang, Yuanyi          MMEDJ58J  1113  1114/ 60  W4  L1  D3  1.5
+  3 Yang, Michael          SOMGK00G  1069  1082/119  L1  W4  D2  1.5
+  4 Cottenier, Louis       DISI700P  1118  1069/ 83  L2  L3  D1  0.5

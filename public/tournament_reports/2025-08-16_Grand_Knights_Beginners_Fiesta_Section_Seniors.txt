@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xie, Nolan             CGRCH82P   404   541/ 44  W11 W6  W5  3.0
+  2 Deng, Leo              CSICG51B   443   533/ 28  W13 W11 W3  3.0
+  3 Boyed, Dhruv           WPPFG27D   498   543/  6  W7  W4  L2  2.0
+  4 Abuhuwaij, Adam        TBKCG92E   404   406/ 21  W12 L3  W8  2.0
+  5 Guddanti, Akshara      LMACG43E   483   477/ 28  W9  W13 L1  2.0
+  6 Astafyeva, Veronica    MRPCH51S   310   351/ 39  W10 L1  W13 2.0
+  7 Siddhartha, Sanjana    SDVDH64Z   377   390/ 27  L3  W12 W9  2.0
+  8 Jain, Myra             CLHDG31M   103   162/  8  BYE W10 L4  2.0
+  9 Skinner, Madelyn       CBRDG31H   320   249/  8  L5  BYE L7  1.0
+ 10 Gudimella, Kavya       CMCEG63M   456   290/  7  L6  L8  BYE 1.0
+ 11 Xi, Kyle               TYEGG23Q   600   100/  3  L1  L2  D12 0.5
+ 12 Selvaraj, Abhiram      LAVEG23P   400   100/  3  L4  L7  D11 0.5
+ 13 Homavand, Annabelle    MRPDG23N   300   100/  3  L2  L5  L6  0.0

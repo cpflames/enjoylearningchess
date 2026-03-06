@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Easterday, Cary Ray    ADUNG80F  1522  1522/ 12  W4  W3  W2  3.0
+  2 Reimer, Oliver         IMSGG59D  1011  1047/125  W3  W4  L1  2.0
+  3 Hoffman, David         PERFJ98J   961   953/ 52  L2  L1  W4  1.0
+  4 Paley, Harold          IMSGH70Q   825   792/ 32  L1  L2  L3  0.0

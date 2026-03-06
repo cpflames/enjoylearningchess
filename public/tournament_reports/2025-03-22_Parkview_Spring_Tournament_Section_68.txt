@@ -1,0 +1,33 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Fredette, Blaise       BECGH95C  1051  1086/ 65  W7  W14 W11 W3  D4  4.5
+  2 Qureshi, Danish        BLNHF36V  1075  1067/188  W15 W9  D6  D10 W14 4.0
+  3 King, Oliver           WKEFK36M  1033  1040/ 89  W29 W24 W5  L1  W10 4.0
+  4 Mithen, Charles        ANCIH11Y   639   861/ 23  W28 D10 W19 W6  D1  4.0
+  5 Ravitsky, Koby         WHMIG73J   904   895/ 10  W21 W12 L3  W13 D7  3.5
+  6 Melius, Mason          FACHF58R   959   958/ 74  W22 W13 D2  L4  W19 3.5
+  7 Russell, Emerson       BLEGK23A   538   733/103  L1  W28 W16 W11 D5  3.5
+  8 Halvorson, Landon      ANCIH12C   957   913/ 20  L18 W27 W15 W12 D9  3.5
+  9 Aguila-contreras, EdgarHORIJ65J   703   731/103  W32 L2  W22 W20 D8  3.5
+ 10 Orsino, Thomas         WHMIH40B   811   836/ 36  W20 D4  W17 D2  L3  3.0
+ 11 Cancelosi, Nicholas    VSTHM25W   775   767/101  W23 W18 L1  L7  W17 3.0
+ 12 Truong, Justin         FACHK82R   664   672/ 29  W25 L5  W21 L8  W20 3.0
+ 13 Yeh, Michael           LYCHK74V   652   668/ 85  W26 L6  W18 L5  W23 3.0
+ 14 Boulos, Andrew         FACH217Z   735   746/ 74  W27 L1  W29 W17 L2  3.0
+ 15 Davis, Buzz            FACGH39Y   597   615/ 20  L2  W31 L8  W27 W25 3.0
+ 16 Ritchie, Rowan         SMWGH40C   772   723/ 28  W31 L17 L7  W21 W18 3.0
+ 17 Assink, Cayden         LYMIH77D   372   538/  9  W19 W16 L10 L14 L11 2.0
+ 18 Everbeck, Reed         FACGK83A   506   527/ 70  W8  L11 L13 W28 L16 2.0
+ 19 Verduin, Skyler        HORGJ26K   862   782/ 58  L17 W23 L4  W22 L6  2.0
+ 20 Morrison, Brayden      VSTHJ65E   340   396/ 27  L10 W30 W24 L9  L12 2.0
+ 21 Vivekanandh, Vidya     VSTGJ17J   388   412/ 20  L5  W26 L12 L16 W27 2.0
+ 22 Facada, Riley          VSTGH89N   404   427/ 22  L6  W25 L9  L19 W30 2.0
+ 23 Mithen, John           ANCIH11S   315   402/ 10  L11 L19 W30 W24 L13 2.0
+ 24 Mcloughlin, Vaughn     HORGK36N   656   569/ 65  W30 L3  L20 L23 W28 2.0
+ 25 Lingbloom, Jonas       WHMGG54Z   600   391/  5  L12 L22 W31 W29 L15 2.0
+ 26 Herron, Joe            ASTGG54Y   600   293/  5  L13 L21 L27 W32 W29 2.0
+ 27 Munden, Andrew         BLNGH39U   299   296/ 19  L14 L8  W26 L15 L21 1.0
+ 28 Clizbe, Mason          VSTGG54X   600   267/  5  L4  L7  W32 L18 L24 1.0
+ 29 Clemens, Abel          VSTGG98Q   510   370/ 10  L3  W32 L14 L25 L26 1.0
+ 30 Joubert, Amelie        FACGH39P   100   133/ 10  L24 L20 L23 W31 L22 1.0
+ 31 Clark, Luke            VSTGJ17E   309   241/ 24  L16 L15 L25 L30 W32 1.0
+ 32 Moreau, Zadian         LYMGG73G   141   100/  9  L9  L29 L28 L26 L31 0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Deepak, Sairaghav      PLKJA52Q   676   828/ 84  W3  W4  W2  3.0
+  2 Abdukarimov, Samin     BENAH67S   651   711/101  W4  W3  L1  2.0
+  3 Xu, Jacky Y            SOMCJ59K   693   668/113  L1  L2  W4  1.0
+  4 Li, Leo                BCAAH11J   705   619/ 48  L2  L1  L3  0.0

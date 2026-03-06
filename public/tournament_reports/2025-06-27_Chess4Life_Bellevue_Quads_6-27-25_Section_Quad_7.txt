@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Roshin, Ayden          HMNDG48P   498   550/  9  W3  W4  L2  2.0
+  2 Yadav, Divyansh        TBKCG75M   521   558/ 31  W4  L3  W1  2.0
+  3 Swindell, Adam         MRLFG32Q   567   554/ 12  L1  W2  D4  1.5
+  4 Naroju, Kian Meher     REEBG31K   532   452/  9  L2  L1  D3  0.5

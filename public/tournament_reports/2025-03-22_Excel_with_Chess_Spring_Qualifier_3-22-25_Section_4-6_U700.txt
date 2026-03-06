@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Komara, Vasishta NarayaFRWFG75F   555   627/ 13  W17 W3  W6  D4  D5  4.0
+  2 Dai, Aaron             CMCEH06E   525   620/ 10  W16 D9  W10 D3  W4  4.0
+  3 Gupta, Aayansh         CNCFH73A   619   642/ 30  W8  L1  W7  D2  W10 3.5
+  4 Thoppay, Hrithick      BRHEH35N   241   415/ 13  W5  W12 W9  D1  L2  3.5
+  5 Karanth, Bhargav       EBSFH34F   544   554/ 20  L4  W16 W11 W6  D1  3.5
+  6 Pirelli, Massimo       LAVFH16D   542   519/ 18  W13 W15 L1  L5  W11 3.0
+  7 Hooper, Thomas         BCSGK25G   472   486/ 42  W11 D10 L3  W12 D8  3.0
+  8 Banerjee, Satviki      CRIFG67G   262   371/ 10  L3  W17 D15 W9  D7  3.0
+  9 Lohr, Jackson          FHMGK46G   680   594/ 43  W12 D2  L4  L8  W14 2.5
+ 10 Kwon, Aiden            EBSFJ28Q   595   548/ 25  W14 D7  L2  W15 L3  2.5
+ 11 Khalid, Nasir          AGBEG56M   400   327/  5  L7  W14 L5  W13 L6  2.0
+ 12 Masuda, Leo            IPEEH37C   266   278/ 10  L9  L4  W13 L7  W18 2.0
+ 13 Merino Oh, David       BENEH37A   184   201/ 10  L6  W18 L12 L11 W15 2.0
+ 14 Jibin, Andrea          HMNEH82K   262   253/ 28  L10 L11 W16 W17 L9  2.0
+ 15 Milligan, Cameron      WLDFG56K   500   206/  5  W18 L6  D8  L10 L13 1.5
+ 16 Abhyanker, Shivank     RCSFG56J   500   100/  5  L2  L5  L14 L18 W17 1.0
+ 17 Galgon, Ruby           IPEEG56H   400   100/  5  L1  L8  W18 L14 L16 1.0
+ 18 Chinn, Milo            CLHFH36Y   283   149/ 19  L15 L13 L17 W16 L12 1.0

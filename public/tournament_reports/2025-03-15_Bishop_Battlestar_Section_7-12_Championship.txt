@@ -1,0 +1,47 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Deng, Stanley          LLMGK22E  1620  1647/370  W8  W6  W11 W2  W3  5.0
+  2 Arias Padilla, Jose    RICM888V  1403  1415/139  W5  W4  W7  L1  W14 4.0
+  3 Kaiphanliam, Kieren SisCWHKK52X  1271  1307/ 78  W14 W22 W13 W16 L1  4.0
+  4 Ramirez, Aaron         CWHJK97W  1035  1107/ 96  W20 L2  W30 W15 W12 4.0
+  5 Moe, Steven            OCHIH29P  1000  1062/ 65  L2  W24 W31 W19 W11 4.0
+  6 Geelhood, Alec         TCPJI90A  1073  1103/142  W21 L1  W28 W17 D7  3.5
+  7 Guizar, Kevin          CWHLI02P   995  1122/138  W13 W12 L2  W24 D6  3.5
+  8 Chavez, Jessie         BMCFK53S  1016  1042/ 69  L1  W28 W32 D10 W22 3.5
+  9 Paw Myint, John Sein   CWHKJ81W   879   991/ 39  W16 L13 W42 D22 W26 3.5
+ 10 Perez Birrueta, Rafael CWHKK60W   846   875/ 83  L22 W31 W39 D8  W27 3.5
+ 11 Hall, Preston          CWHK6381  1082  1086/150  W18 W15 L1  W20 L5  3.0
+ 12 Ybarra, Caleb          SODJK96F  1155  1125/ 81  W17 L7  W27 W18 L4  3.0
+ 13 Dillingham, Daniel     KCCHB73M  1216  1187/292  L7  W9  L3  W34 W25 3.0
+ 14 Coates, Ethan          SODJ820M   921   944/ 70  L3  W32 W34 W25 L2  3.0
+ 15 Thallapally, Sriyan    LLMIA43W   854   874/ 89  W26 L11 W38 L4  W33 3.0
+ 16 Barnett, Eli           HSCJJ81S  1097  1071/ 53  L9  W25 W40 L3  W28 3.0
+ 17 Gomez, Albert          CWHMJ40R   920   919/ 29  L12 W29 W37 L6  W24 3.0
+ 18 Pantoja, Cain          OCHH228C   866   869/ 85  L11 W37 W36 L12 W32 3.0
+ 19 Patricio, Brandon      STPIJ46C   780   776/ 20  L25 W36 W33 L5  W35 3.0
+ 20 Dodson, Tyson          KCCI234D   820   826/ 97  L4  W34 W44 L11 W30 3.0
+ 21 Gonzalez-jacobo, Isaac STPHJ81D   858   828/ 39  L6  L35 W41 W37 W29 3.0
+ 22 Fultz, Heath           JMLI853S  1037  1022/104  W10 L3  W29 D9  L8  2.5
+ 23 Schutz, Victoria       CHJHJ59P   331   356/ 63  L29 L39 D43 W46 W40 2.5
+ 24 Morris, Tyson          GVHJK68Q   698   729/ 65  W38 L5  W26 L7  L17 2.0
+ 25 Hall, Paxton           LLMIH14U   728   757/ 90  W19 L16 W35 L14 L13 2.0
+ 26 Gogic, Arian           JMLIK96A  1041   951/ 94  L15 W27 L24 W35 L9  2.0
+ 27 Arias Padilla, Alondra RICLK68G   728   717/ 53  W39 L26 L12 W36 L10 2.0
+ 28 Medrano, Axel          CWHKB48G   721   714/ 63  W42 L8  L6  W44 L16 2.0
+ 29 London, Matthew        BLSIJ02D   652   637/ 15  W23 L17 L22 W45 L21 2.0
+ 30 Lara, Salvador         STPIK68N   597   568/ 47  L33 W45 L4  W38 L20 2.0
+ 31 Mejia, Vincent         RRGH271G   562   535/125  W41 L10 L5  L33 W44 2.0
+ 32 Sanborn, Ryder         JMLHJ81E   694   677/ 74  W44 L14 L8  W42 L18 2.0
+ 33 Wilkinson, Corban      JMLHH91N   289   429/ 23  W30 L40 L19 W31 L15 2.0
+ 34 Duarte, Carlos         OCHIK52U   587   593/ 80  W43 L20 L14 L13 W39 2.0
+ 35 Wampole, Caleb         CWHK133K   653   653/114  W45 W21 L25 L26 L19 2.0
+ 36 Jones, Devon           JMLH407J   467   492/114  W40 L19 L18 L27 W43 2.0
+ 37 Penafiel, Jhon         JMLHJ80Z   511   514/ 43  W46 L18 L17 L21 W42 2.0
+ 38 Dedmond, Charles       CWHLJ81L   423   425/ 28  L24 W43 L15 L30 W45 2.0
+ 39 Miranda, Santiago      STPI437Y   503   490/123  L27 W23 L10 D40 L34 1.5
+ 40 Kubalek, Evander       RRGHD38R   723   620/ 78  L36 W33 L16 D39 L23 1.5
+ 41 Bodes, Josiah          HSCHH27U   285   254/ 19  L31 L42 L21 D43 W46 1.5
+ 42 Purcell, Blaine        RRGHH55B   394   374/ 33  L28 W41 L9  L32 L37 1.0
+ 43 Plowman, Melanie       RRGHH27S   190   184/ 14  L34 L38 D23 D41 L36 1.0
+ 44 Saenz, Abigail         STPH672R   381   351/ 84  L32 W46 L20 L28 L31 1.0
+ 45 Senda, Libni           OCHIJ81R   368   319/ 48  L35 L30 W46 L29 L38 1.0
+ 46 Dennis, Ethan          RRGHH01A   135   100/  8  L37 L44 L45 L23 L41 0.0

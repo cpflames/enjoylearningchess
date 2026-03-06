@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jin, Michael           HMNHD09X  1378  1438/ 29  W3  W4  W2  3.0
+  2 Joshi, Vyom            NRCJH81X  1362  1369/349  W4  W3  L1  2.0
+  3 Verma, Reyansh         RBRFJ20M  1142  1154/ 85  L1  L2  W4  1.0
+  4 He, Jizhou             MEDD789B  1286  1222/153  L2  L1  L3  0.0

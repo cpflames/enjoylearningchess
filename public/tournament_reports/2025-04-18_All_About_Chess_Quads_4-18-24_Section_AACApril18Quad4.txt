@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Agarwal, Kavir         MEDF152U   883   949/ 95  W4  D2  W3  2.5
+  2 Zhang, Eric Q          SOMDK64M   839   929/ 94  W3  D1  W4  2.5
+  3 Sathyamurthy, Sreeshan EVJIJ24M   925   882/166  L2  W4  L1  1.0
+  4 Shah, Rachit           BNTEK44K   746   696/113  L1  L3  L2  0.0

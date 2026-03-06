@@ -1,0 +1,28 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Sairam, Advaith        RBRBK01Q   653   878/168  W11 W5  W9  W2  W3  5.0
+  2 Jiang, Callie          UCDAH47C   633   806/ 61  W27 W4  W6  L1  W7  4.0
+  3 Raghavendran, Vishakh  DCSDH24Q   648   728/ 25  W24 W16 W7  W8  L1  4.0
+  4 Shen, Roy              HMNDG30E   300   875/  5  W17 L2  W16 W10 W6  4.0
+  5 Wei, Brayden           ETSCK90F   590   615/112  W21 L1  W11 D15 W8  3.5
+  6 Li, Leo                BCAAH11J   733   740/ 56  W14 W13 L2  W9  L4  3.0
+  7 Zeng, Liam             SHSAH05U   723   722/ 56  W19 W10 L3  W13 L2  3.0
+  8 Sirsat, Sanya          BCACH60Z   320   489/ 26  W15 W23 W12 L3  L5  3.0
+  9 Iyer, Anirudh          RSACH36Q   595   615/ 24  W25 W12 L1  L6  W18 3.0
+ 10 Premjith, Arnav        FRVCJ20D   630   644/ 39  W26 L7  W14 L4  W15 3.0
+ 11 Iyengar, Keshav        SHSDH29S   323   364/ 30  L1  W20 L5  W25 W23 3.0
+ 12 Mathew, Reuben         MRIAG33B   678   644/  8  W18 L9  L8  W17 W19 3.0
+ 13 Niu, Edwin             SOMBH73D   603   602/ 72  W22 L6  W18 L7  W16 3.0
+ 14 Hu, Ethan              CNHBH35U   515   527/ 25  L6  W22 L10 W20 W17 3.0
+ 15 Anand, Krishna         RSABJ95V   651   598/ 64  L8  W27 W19 D5  L10 2.5
+ 16 Chin, Kheiron          HSCAJ19P   557   521/122  W20 L3  L4  W24 L13 2.0
+ 17 Reddy, Aariv           GRRCK34T   571   518/ 83  L4  W24 W21 L12 L14 2.0
+ 18 Kalyanasundaram, SrinivCNCCH48Q   435   406/ 45  L12 W25 L13 W21 L9  2.0
+ 19 Jayakrishnan, Archith  FRVBG58A   553   498/ 24  L7  W26 L15 W22 L12 2.0
+ 20 Acharya, Rahul         DISDG30C   300   240/  5  L16 L11 W26 L14 W25 2.0
+ 21 Szeto, Everett         HSCAG89W   100   125/ 13  L5  BYE L17 L18 W24 2.0
+ 22 Wang, Krystal          EASAG37X   100   100/  7  L13 L14 BYE L19 HPB 1.5
+ 23 Shah, Aria             CBRCG30Z   100   100/  7  HPB L8  L24 W26 L11 1.5
+ 24 Szeto, Yingyao         MEDDH04J   247   199/ 24  L3  L17 W23 L16 L21 1.0
+ 25 Prasad, Rhea           MOBAJ92U   100   100/ 57  L9  L18 WF  L11 L20 1.0
+ 26 Avuthu, Sreesha Reddy  DHLAH44R   100   100/ 14  L10 L19 L20 L23 HPB 0.5
+ 27 John, Joshua           CNCDG32H   139   139/  5  L2  L15 LF  U   U   0.0

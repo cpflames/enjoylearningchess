@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Jeremy          WOBFG65M   321   415/  6  D4  W2  W3  2.5
+  2 Dayani, Viraj          SRAF118W   387   389/ 32  W3  L1  W4  2.0
+  3 Vishaka, Ayush         BRHBH40N   335   255/  6  L2  W4  L1  1.0
+  4 Zeeshan, Harris        CRIBH61J   112   102/ 39  D1  L3  L2  0.5

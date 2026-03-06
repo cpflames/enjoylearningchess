@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Stroud, Jeb            SHMJK22V  1508  1531/227  HPB W3  W2  2.5
+  2 Fredette, Blaise       BECGH95C  1142  1263/ 80  W5  W4  L1  2.0
+  3 Jacobson, Clayton      ANALH12T  1406  1399/ 17  HPB L1  W6  1.5
+  4 Palmer, Evan           BHMLI90S  1277  1258/229  W6  L2  L5  1.0
+  5 Nipges, Jaxon          FERL382B  1587  1523/162  L2  L6  W4  1.0
+  6 Orsino, Thomas         WHMIH40B  1115  1138/ 56  L4  W5  L3  1.0

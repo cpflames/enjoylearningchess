@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Liu, Aaron             SSMDH52C  1081  1093/ 38  W3  W3  2.0
+  2 Lai, Austin            EVGDK94F  1122  1162/110  W4  U   1.0
+  3 Qureshi, Haroon        RBREJ95Y   721   707/ 44  L1  L1  0.0
+  4 Zhang, Kevin           WOBG809Y  1280  1245/181  L2  U   0.0

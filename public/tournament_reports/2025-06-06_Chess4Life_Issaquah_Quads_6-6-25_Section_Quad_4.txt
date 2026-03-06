@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chanda, Rishabh        BCAAH72X   481   566/ 52  W3  W4  W2  3.0
+  2 Revuru, Nimeesha       RCMFW81Y   434   445/ 53  W4  W3  L1  2.0
+  3 Zuehlsdorff, Theo      ISEBH74V   109   162/ 25  L1  L2  W4  1.0
+  4 Kalashnyk, Artur       MAHEG30K   428   286/  9  L2  L1  L3  0.0

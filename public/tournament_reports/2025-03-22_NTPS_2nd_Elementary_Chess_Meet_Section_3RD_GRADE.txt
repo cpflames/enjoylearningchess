@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zhang, Eric            SEODG53R   300   940/  4  WF  W2  W11 W4  W5  5.0
+  2 Kim, Sean              PLGDG53Q   300   590/  5  W10 L1  W7  D3  W4  3.5
+  3 Mcgee, Kai             PLGDG53N   300   437/  4  BYE L5  W12 D2  W8  3.5
+  4 Haugen, Ronan          EVFDG53M   300   562/  5  W8  W6  W5  L1  L2  3.0
+  5 Allen, Leo             SBADG53L   300   511/  5  W9  W3  L4  W8  L1  3.0
+  6 Dalbec, Jordan         LELDG53K   300   340/  5  W12 L4  L8  W7  W9  3.0
+  7 Phillips, Charlotte    PLGDG53J   300   250/  5  D11 W10 L2  L6  W12 2.5
+  8 Olamit, Cecilia        LELDG53H   300   287/  5  L4  W9  W6  L5  L3  2.0
+  9 Rundle, Olive          PLGDG53G   300   184/  5  L5  L8  W10 W11 L6  2.0
+ 10 Zeutenhorst, Liam      LELDG53F   300   162/  5  L2  L7  L9  W12 W11 2.0
+ 11 Acklin, Nikolai        LELDG53E   300   100/  5  D7  W12 L1  L9  L10 1.5
+ 12 Tripathi, Meghina      SBADG53D   300   100/  5  L6  L11 L3  L10 L7  0.0
+
+ All Unrated-player Section: Ratings capped at 1000

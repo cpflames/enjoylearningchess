@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lin, Luna              OPWDK01W  1010  1061/167  W3  W4  L2  2.0
+  2 Hu, Yi-en Pi           BCAEK35P  1110  1122/112  W4  L3  W1  2.0
+  3 Ivanov, Matvei         EABDK34E  1051  1080/109  L1  W2  W4  2.0
+  4 Berjis, Adrina         MEDF230U  1066   992/181  L2  L1  L3  0.0

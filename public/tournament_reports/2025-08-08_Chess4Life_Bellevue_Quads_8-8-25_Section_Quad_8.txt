@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Srivastava, Hriyansh   MTWDG25E   274   380/  6  W4  D2  W3  2.5
+  2 Tang, Rufus            BASDG74N   239   247/ 11  L3  D1  W4  1.5
+  3 Lakshmanan, Vian       RBRBH56N   256   226/ 28  W2  L4  L1  1.0
+  4 Yadav, Dhavit          TBKAG35T   229   208/ 17  L1  W3  L2  1.0

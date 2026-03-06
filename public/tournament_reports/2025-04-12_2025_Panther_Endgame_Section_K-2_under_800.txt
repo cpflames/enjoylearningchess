@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Lum, Enoch             LIBAH56A   492   650/ 28  W13 W15 W2  W9  W3  5.0
+  2 Castro-gudino, SebastiaESGBH41V   514   543/ 35  W11 W8  L1  W7  W5  4.0
+  3 Larimer, Henry         WBEAH14B   472   502/ 24  W17 HPB W4  W10 L1  3.5
+  4 Tha, Victor            ESGCH26L   384   385/ 30  W16 W7  L3  L5  W9  3.0
+  5 Valdez Jr, Isaac       EMECG88P   220   295/ 15  W14 L6  W15 W4  L2  3.0
+  6 Worthington, Andrew    LIBCJ52Q   304   295/ 59  D12 W5  L10 D14 W16 3.0
+  7 Lum, Isaiah            LIBAH55V   258   304/ 20  W18 L4  W17 L2  W10 3.0
+  8 Lum, Malachi           LIBAH55T   319   318/ 23  W19 L2  L9  W18 W13 3.0
+  9 Bawden, Sawyer         MCUCJ45U   331   341/ 58  D10 W11 W8  L1  L4  2.5
+ 10 Roman, Leonardo        EMEBG41Y   100   319/  5  D9  W12 W6  L3  L7  2.5
+ 11 Jacobson, Oliver       LIBCH55S   210   195/ 14  L2  L9  WF  D16 W14 2.5
+ 12 Alkhamri, Zakariyya    RCECG41X   200   182/  5  D6  L10 L14 W17 W18 2.5
+ 13 Reagan, Ziya           MCGBG88B   141   145/ 15  L1  D14 D16 W15 L8  2.0
+ 14 Ortiz, Logan           ESGBG41V   100   141/  5  L5  D13 W12 D6  L11 2.0
+ 15 Crider, Ellis          ESGCG41U   200   100/  4  BYE L1  L5  L13 W17 2.0
+ 16 Clum, Kristen          SCJCH26F   100   117/ 25  L4  W18 D13 D11 L6  2.0
+ 17 Dutcher, Hayli         MCGBG63N   127   100/ 10  L3  W19 L7  L12 L15 1.0
+ 18 Alvarado, Emma         ESGBG41T   100   100/  4  L7  L16 BYE L8  L12 1.0
+ 19 Garduno, Evamaris      ESGBG41S   100   100/  2  L8  L17 LF  U   U   0.0

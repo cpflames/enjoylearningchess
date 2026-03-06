@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lee, Owain             LLFEG59B   656   765/ 16  W3  W4  D2  2.5
+  2 Zhang, Eli             CHRCH69C   670   771/ 75  W4  W3  D1  2.5
+  3 Li, Leo                BCAAH11J   740   700/ 59  L1  L2  W4  1.0
+  4 Goyal, Avyukt          CNHBJ65X   642   573/146  L2  L1  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Swagath, Pranav        BCAEK23N   679   830/ 49  W3  W2  W4  3.0
+  2 Studer, Nolan          MCIDH65W   739   758/ 26  W4  L1  W3  2.0
+  3 Su, Ziyao              DISFG65F   742   688/  9  L1  W4  L2  1.0
+  4 Xu, Jacky Y            SOMCJ59K   606   547/137  L2  L3  L1  0.0

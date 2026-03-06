@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Abuhuwaij, Adam        TBKCG92E   388   404/ 18  W3  W4  D2  2.5
+  2 Xie, Nolan             CGRCH82P   133   292/ 23  W4  W3  D1  2.5
+  3 John, Joshua           CNCDG32H   300   139/  3  L1  L2  W4  1.0
+  4 Narra, Aadhya          TFEFG32G   500   100/  3  L2  L1  L3  0.0

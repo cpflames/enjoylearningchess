@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, Luna             RSABG32W   203   317/ 10  W6  W4  W2  3.0
+  2 Zhu, Milly             SOMDG50D   337   353/ 12  W5  W3  L1  2.0
+  3 Gu, Ximu               ENDBJ05X   377   363/ 82  W4  L2  W5  2.0
+  4 Karanam, Dhruthi       LCSCH10X   111   116/ 16  L3  L1  W6  1.0
+  5 Haycraft, Ethan        IFSCG36K   100   109/ 20  L2  W6  L3  1.0
+  6 Jesukumar, Trisha      SESCG28R   200   100/  3  L1  L5  L4  0.0

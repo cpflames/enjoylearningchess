@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bray, Patrick          HDPEG58Z   800   965/ 10  W9  W7  D3  W6  W2  4.5
+  2 Davis, Logan           HSCEH07K   782   878/ 22  W15 W14 W4  W3  L1  4.0
+  3 Hsu, Max               LBYEK05W   777   862/ 49  W12 W6  D1  L2  W11 3.5
+  4 Jain, Asmi             SGSEB47J   704   845/ 81  W11 W10 L2  W7  D5  3.5
+  5 Avey, Jesse            MDRHK50F   748   819/112  L6  W12 W11 W9  D4  3.5
+  6 Higgins, Peter         GONGJ57Y   904   896/ 54  W5  L3  W8  L1  W10 3.0
+  7 Davis, Milo            HSCBH07M   757   791/ 22  W13 L1  W14 L4  W9  3.0
+  8 Scott, Liam            PSPFK50P   628   612/ 68  L10 BYE L6  D13 W15 2.5
+  9 Odell, Eric            LLKDH49Y   683   703/ 35  L1  W13 W10 L5  L7  2.0
+ 10 Young, Daniel          EVAHJ96U   786   735/ 91  W8  L4  L9  W12 L6  2.0
+ 11 Ji, Melody             SGSDA83X   864   792/ 96  L4  W15 L5  W14 L3  2.0
+ 12 Lashley, Maddie        CETHG38H   700   445/  4  L3  L5  W15 L10 BYE 2.0
+ 13 Eakin, Anthony         CHGHG65P   948   791/ 12  L7  L9  BYE D8  D14 2.0
+ 14 Brown, Claire          CATEJ62Y   611   579/ 55  BYE L2  L7  L11 D13 1.5
+ 15 Smith, Oilvia          DPMHG38G   700   100/  4  L2  L11 L12 BYE L8  1.0
