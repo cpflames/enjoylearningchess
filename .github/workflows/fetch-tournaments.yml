@@ -1,0 +1,38 @@
+name: Fetch Tournament Reports
+
+on:
+  schedule:
+    - cron: '0 8 * * *'  # 8am UTC daily
+  workflow_dispatch:       # allow manual trigger from GitHub Actions UI
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Fetch new tournament reports
+        run: python scripts/fetcher.py
+
+      - name: Commit and push new reports
+        run: |
+          if [ -z "$(git status --porcelain public/tournament_reports/)" ]; then
+            echo "No new reports found, nothing to commit."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add public/tournament_reports/
+            git commit -m "Add new tournament reports [automated]"
+            git push
+          fi

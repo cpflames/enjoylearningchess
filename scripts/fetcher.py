@@ -6,34 +6,40 @@ import random
 from urllib.parse import urljoin
 import json
 from datetime import datetime
+import argparse
 
-def scrape_tournament_reports(base_url, output_dir="../public/tournament_reports"):
+
+def scrape_tournament_reports(base_url, output_dir="../public/tournament_reports", incremental=True):
     """
     Scrape tournament reports from the given base URL.
-    
+
     Args:
         base_url: The URL of the page containing links to tournament reports
         output_dir: Directory to save downloaded reports
+        incremental: If True, stop when a tournament's date already exists in output_dir
     """
     # Create output directory if it doesn't exist
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
         print(f"Created directory: {output_dir}")
-    
+
+    # Build set of existing filenames for duplicate detection
+    existing_files = set(os.listdir(output_dir)) if os.path.exists(output_dir) else set()
+
     # Get the main page
     print(f"Fetching main page: {base_url}")
     response = requests.get(base_url)
     if response.status_code != 200:
         print(f"Failed to fetch main page. Status code: {response.status_code}")
         return
-    
+
     # Parse the HTML
     soup = BeautifulSoup(response.text, 'html.parser')
-    
+
     # Find all rows within the tournament report table
     rows = soup.select('table.report tr')
     tournament_info = []
-    
+
     # Process each row to extract all information
     for row in rows:
         cells = row.find_all('td')
@@ -48,12 +54,11 @@ def scrape_tournament_reports(base_url, output_dir="../public/tournament_reports
                         'city': cells[2].text.strip(),
                         'date': cells[3].text.strip()
                     })
-    
+
     print(f"Found {len(tournament_info)} tournament reports")
-    
-    # Reduce to just the first 15 tournaments
-    # tournament_info = tournament_info[:15]
-    
+
+    new_count = 0
+
     # Process each tournament report
     for i, info in enumerate(tournament_info, 1):
         url = info['url']
@@ -64,11 +69,20 @@ def scrape_tournament_reports(base_url, output_dir="../public/tournament_reports
             # Try full month name format as fallback
             date = datetime.strptime(info['date'], '%B %d, %Y').strftime('%Y-%m-%d')
 
+        # In incremental mode, stop as soon as we find a date we already have.
+        # The list is in reverse-chronological order, so everything after this
+        # point will also already be downloaded.
+        if incremental:
+            date_prefix = f"{date}_"
+            if any(f.startswith(date_prefix) for f in existing_files):
+                print(f"[{i}/{len(tournament_info)}] Already have reports for {date}, stopping.")
+                break
+
         print(f"[{i}/{len(tournament_info)}] Downloading: {url}")
         print(f"  Director: {info['director']}")
         print(f"  City: {info['city']}")
         print(f"  Date: {info['date']} -> ({date})")
-        
+
         try:
             # Get the tournament report page
             response = requests.get(url)
@@ -76,7 +90,7 @@ def scrape_tournament_reports(base_url, output_dir="../public/tournament_reports
                 # Parse the HTML and find all pre tags with their preceding h4 tags
                 tournament_soup = BeautifulSoup(response.text, 'html.parser')
                 pre_contents = tournament_soup.find_all('pre')
-                
+
                 if pre_contents:
                     for pre in pre_contents:
                         # Find the preceding h4 tag
@@ -92,79 +106,56 @@ def scrape_tournament_reports(base_url, output_dir="../public/tournament_reports
                             # Fallback if no h4 found
                             base_name = os.path.splitext(url.split('/')[-1])[0]
                             filename = f"{date}_{base_name}.txt"
-                        
+
                         output_path = os.path.join(output_dir, filename)
-                        
+
                         with open(output_path, 'w', encoding='utf-8') as f:
                             f.write(pre.text.strip())
-                        print(f"  Saved tournament report to: {output_path}")
+                        print(f"  Saved: {output_path}")
+
+                        existing_files.add(filename)
+                        new_count += 1
                 else:
                     print(f"  No <pre> tags found in: {url}")
             else:
                 print(f"  Failed to download. Status code: {response.status_code}")
-        
+
         except Exception as e:
             print(f"  Error downloading {url}: {str(e)}")
-        
+
         # Be polite and avoid overloading the server
         if i < len(tournament_info):
             delay = random.uniform(1.0, 3.0)
             print(f"  Waiting {delay:.2f} seconds before next request...")
             time.sleep(delay)
-    
-    # After all files are downloaded, generate index.json
+
+    print(f"\nDownloaded {new_count} new report(s).")
+
+    # After all files are downloaded, regenerate index.json
     try:
-        # Get list of all .txt files in the output directory
         report_files = [f for f in os.listdir(output_dir) if f.endswith('.txt')]
-        
-        # Sort files in reverse alphabetical order
         report_files.sort(reverse=True)
-        
-        # Write the index file
+
         index_path = os.path.join(output_dir, 'index.json')
         with open(index_path, 'w', encoding='utf-8') as f:
             json.dump(report_files, f, indent=2)
-        
+
         print(f"Generated index.json with {len(report_files)} reports")
-    
+
     except Exception as e:
         print(f"Error generating index.json: {str(e)}")
-    
+
     print("Scraping completed!")
 
-def parse_tournament_data(html_file):
-    """
-    Parse tournament data from a downloaded HTML file.
-    This function can be customized based on what data you want to extract.
-    
-    Args:
-        html_file: Path to the downloaded HTML file
-    
-    Returns:
-        Dictionary containing extracted tournament data
-    """
-    with open(html_file, 'r', encoding='utf-8') as f:
-        content = f.read()
-    
-    soup = BeautifulSoup(content, 'html.parser')
-    
-    # Example extraction (adjust based on actual HTML structure)
-    data = {
-        'title': soup.title.text if soup.title else 'No title',
-        # Add more fields as needed based on the structure of the tournament reports
-    }
-    
-    return data
 
 if __name__ == "__main__":
-    # URL of the page containing tournament report links
+    parser = argparse.ArgumentParser(description="Download tournament reports from ratingsnw.com")
+    parser.add_argument(
+        '--all',
+        action='store_true',
+        help='Download all reports, ignoring existing files (full re-fetch)'
+    )
+    args = parser.parse_args()
+
     main_url = "https://ratingsnw.com/tournreports.html"
-    
-    # Scrape and download all tournament reports
-    scrape_tournament_reports(main_url)
-    
-    # Example of how to process the downloaded files
-    # downloaded_files = os.listdir("tournament_reports")
-    # for file in downloaded_files:
-    #     data = parse_tournament_data(os.path.join("tournament_reports", file))
-    #     print(f"Processed {file}: {data['title']}")
+    scrape_tournament_reports(main_url, incremental=not args.all)

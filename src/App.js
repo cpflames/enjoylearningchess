@@ -23,6 +23,7 @@ import Connect4 from "./pages/Connect4.tsx";
 import PlayChess from "./pages/PlayChess.tsx";
 import NotationUpload from "./pages/NotationUpload.tsx";
 import SpellingPage from "./pages/SpellingPage.tsx";
+import PlayerResults from "./pages/PlayerResults.tsx";
 
 export default function App() {
   return (
@@ -88,6 +89,9 @@ export default function App() {
         </Route>
         <Route path="/spelling" element={<ChessOnlyLayout />}>
           <Route index element={<SpellingPage />} />
+        </Route>
+        <Route path="/player-results" element={<ChessOnlyLayout />}>
+          <Route index element={<PlayerResults />} />
         </Route>
       </Routes>
     </BrowserRouter>

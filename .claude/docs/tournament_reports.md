@@ -28,19 +28,21 @@ src/pages/TournamentFinder.tsx  (preview list of all reports)
 
 **File:** `scripts/fetcher.py`
 
-Run manually from the `scripts/` directory:
+Runs daily via GitHub Actions (`.github/workflows/fetch-tournaments.yml`), or manually:
 ```bash
-python fetcher.py
+python fetcher.py          # incremental: stops when it hits a date already downloaded
+python fetcher.py --all    # full re-fetch, ignores existing files
 ```
 
 ### What it does
 
 1. Fetches `https://ratingsnw.com/tournreports.html`
 2. Parses `table.report tr` rows — each row has: link to report, director, city, date
-3. For each tournament page, fetches the individual HTML and extracts every `<pre>` tag
-4. Each `<pre>` is one section's rating report. The section name comes from the preceding `<h4>` tag (strips the "Rating report for " prefix)
-5. Saves each section as `YYYY-MM-DD_SectionName.txt` in `../public/tournament_reports/`
-6. After all downloads, writes `index.json` — a reverse-sorted JSON array of all `.txt` filenames
+3. **Incremental check:** for each tournament, checks if any file with `YYYY-MM-DD_` prefix already exists in `output_dir`. If yes, stops immediately — the list is in reverse-chronological order so everything further down is also already downloaded
+4. For new tournaments, fetches the individual HTML page and extracts every `<pre>` tag
+5. Each `<pre>` is one section's rating report. The section name comes from the preceding `<h4>` tag (strips the "Rating report for " prefix)
+6. Saves each section as `YYYY-MM-DD_SectionName.txt` in `../public/tournament_reports/`
+7. After the loop, regenerates `index.json` — a reverse-sorted JSON array of all `.txt` filenames
 
 ### Politeness
 - Random 1–3 second delay between tournament fetches
@@ -135,7 +137,22 @@ Rendered from `results.getCommentary()`. Columns:
 
 ---
 
-## 4. The Finder Page — TournamentFinder.tsx
+## 4. The Player Results Page — PlayerResults.tsx
+
+**File:** `src/pages/PlayerResults.tsx`
+**Route:** `/player-results`
+
+Text input at the top (pre-filled from `?player=` URL param). On mount, fetches all report files exactly like TournamentFinder. As reports load, a progress counter shows `X / N` loaded.
+
+Filtering is real-time: only reports whose text content contains the typed string (exact substring match, case-sensitive) are shown. Each match renders as a `<pre>` block with a link to `/results?savedReport=...`.
+
+URL is updated via `history.replaceState` (not `pushState`) on each keystroke so the search is bookmarkable without polluting browser history.
+
+Shows "No reports found for X" only after all reports have loaded and nothing matched.
+
+---
+
+## 5. The Finder Page — TournamentFinder.tsx
 
 **File:** `src/pages/TournamentFinder.tsx`
 **Route:** `/tournament-finder` (check `src/App.js` for exact route)
@@ -146,7 +163,7 @@ Uses `fetchWithRetry` (3 attempts, exponential backoff: 1s → 2s → 4s) and fe
 
 ---
 
-## 5. The Parser — TournamentResults.ts
+## 6. The Parser — TournamentResults.ts
 
 **File:** `src/types/TournamentResults.ts`
 
@@ -188,7 +205,7 @@ Constructor takes raw report text and immediately parses it. All results are the
 
 ---
 
-## 6. The Player Model — Player.ts
+## 7. The Player Model — Player.ts
 
 **File:** `src/types/Player.ts`
 
@@ -206,6 +223,8 @@ Notable parsing:
 
 Key extension points:
 - **New report source**: add a function to `fetcher.py` alongside `scrape_tournament_reports()`; write files to the same `public/tournament_reports/` directory and re-run index generation
+- **Force full re-fetch**: run `python fetcher.py --all` to bypass incremental logic
+- **Change schedule**: edit the `cron` expression in `.github/workflows/fetch-tournaments.yml`
 - **New round codes**: update the scoring logic in `TournamentResults.ts:115-120` and the exclusion list in `getOpponentRatings` at `TournamentResults.ts:218`
 - **New analysis columns**: add fields to `CommentaryRow` interface (`TournamentResults.ts:4`), populate in `generateCommentary` (`TournamentResults.ts:192`), render in Results.tsx table
 - **New metadata per report**: the fetcher currently discards director/city after printing; those could be saved to a sidecar JSON or embedded in the filename
