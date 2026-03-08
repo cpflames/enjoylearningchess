@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 To, Calvin             REEDI10D  1373  1407/257  W3  W2  WF  3.0
+  2 Dmitriev, Lyan         NPTD246H  1350  1344/228  WF  L1  W3  2.0
+  3 Kancherla, Rohan       GRRFC11M  1233  1201/271  L1  WF  L2  1.0

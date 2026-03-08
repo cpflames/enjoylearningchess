@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pisan, Kai             CHYJ404C  1787  1786/402  D3  W2  W4  2.5
+  2 Chopra, Nikita         OMSJ297H  1486  1501/ 58  D4  L1  W3  1.5
+  3 Upreti, Parthavi       TBKG754L  1458  1478/140  D1  W4  L2  1.5
+  4 Sangal Lopez, Dev      CTNG515J  1529  1497/331  D2  L3  L1  0.5

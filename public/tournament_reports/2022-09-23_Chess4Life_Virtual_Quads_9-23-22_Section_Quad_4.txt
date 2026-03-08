@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Rao, Deepak Sri KartikeARDG517J  1179  1264/109  W2  W3  W4  3.0
+  2 Li, Harry              SSSDG30G  1100  1138/208  L1  W4  W3  2.0
+  3 Pravlik, Aiden         FRID416H  1101  1086/219  W4  L1  L2  1.0
+  4 Chien, Jeffrey         WPPFF41X  1125  1056/ 32  L3  L2  L1  0.0

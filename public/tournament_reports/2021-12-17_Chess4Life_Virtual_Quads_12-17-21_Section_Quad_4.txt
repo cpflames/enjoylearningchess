@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yu, Aiden              TYEIF95R   933  1397/  5  W2  D3  U   1.5
+  2 Wang, Jacob            BLWED74Y  1266  1269/169  L1  U   W3  1.0
+  3 Xie, Michael           BLWF549C  1190  1183/281  U   D1  L2  0.5

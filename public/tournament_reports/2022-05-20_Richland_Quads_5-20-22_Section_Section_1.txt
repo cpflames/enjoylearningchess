@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Khalil, Tayseer        ADUN773K  1839  1846/ 74  W3  W5  HPB 2.5
+  2 Deng, Lily             CJEI5007  1813  1822/327  W6  W4  HPB 2.5
+  3 Deng, Stanley          LECDK22E  1368  1445/212  L1  W6  W5  2.0
+  4 Palm, Caleb            LIBI919S  1546  1529/183  L5  L2  W6  1.0
+  5 Ramirez, Efraim        ADUND81X  1490  1485/  8  W4  L1  L3  1.0
+  6 Margiotta, Evan        ADUN922M  1476  1431/ 31  L2  L3  L4  0.0

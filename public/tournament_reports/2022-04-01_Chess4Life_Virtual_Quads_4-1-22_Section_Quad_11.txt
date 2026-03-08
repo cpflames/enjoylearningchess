@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sreraman, Rahul        BCABJ42L   682   761/ 20  W4  W3  W2  3.0
+  2 Deepak, Advait         BRHED74M   591   616/ 27  W3  W4  L1  2.0
+  3 Wilson, Emma           HCHJN323   520   506/153  L2  L1  W4  1.0
+  4 Mehrotra, Ashank       PLKG457S   487   421/ 16  L1  L2  L3  0.0

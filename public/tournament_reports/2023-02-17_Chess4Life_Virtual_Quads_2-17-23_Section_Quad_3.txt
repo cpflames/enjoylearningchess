@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tiwari, Prakhar        TMBJ785R  1342  1436/ 63  W4  W3  W2  3.0
+  2 Chien, Jeffrey         WPPFF41X  1352  1349/ 76  W3  D4  L1  1.5
+  3 Xu, Zoe                SOMDG70A  1302  1289/228  L2  L1  W4  1.0
+  4 Singh, Rushil          SNEFB52N  1326  1286/ 77  L1  D2  L3  0.5

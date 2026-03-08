@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bowman, Finn           SHMJD50L   621   789/  6  W2  W3  W4  3.0
+  2 Moreau, Zayden         VSTGB68M   575   588/ 23  L1  D4  W3  1.5
+  3 Plumb, Grayden         VSTG879H   581   562/ 12  W4  L1  L2  1.0
+  4 Manly, Shafter         CUEDA72M   609   547/ 11  L3  D2  L1  0.5

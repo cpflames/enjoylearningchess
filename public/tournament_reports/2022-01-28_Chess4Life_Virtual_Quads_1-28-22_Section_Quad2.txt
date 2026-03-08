@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pisan, Kai             CHYH404C  1359  1488/251  W3  W4  W2  3.0
+  2 Singh, Saket           DISI872S  1417  1442/300  W4  W3  L1  2.0
+  3 Upreti, Parthavi       TBKF754L  1470  1443/ 56  L1  L2  W4  1.0
+  4 Huang, Emily           MEDFB39A  1436  1376/187  L2  L1  L3  0.0

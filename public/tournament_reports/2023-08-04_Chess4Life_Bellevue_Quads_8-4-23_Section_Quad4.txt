@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tharian, Isaac         TOPCK39K   100   229/  8  W2  W4  D3  2.5
+  2 Abdelwahab, AbdelrahmanCMCEK03W   400   301/  3  L1  W3  W4  2.0
+  3 Li, Chengxuan          CRACK03V   200   201/  3  W4  L2  D1  1.5
+  4 Jenks, Evan            HSCAK03U   100   100/  3  L3  L1  L2  0.0

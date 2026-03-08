@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Thakur, Reet           CWAFJ84K  1125  1257/264  W2  W3  W4  3.0
+  2 Gadde, Arnav           ENSDJ39D  1195  1212/ 18  L1  W4  W3  2.0
+  3 Pravlik, Aiden         SHSC416H  1206  1175/177  W4  L1  L2  1.0
+  4 Xu, Zoe                CNHCG70A  1095  1042/ 58  L3  L2  L1  0.0

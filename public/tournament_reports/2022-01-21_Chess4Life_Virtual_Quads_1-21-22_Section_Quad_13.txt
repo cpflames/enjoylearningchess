@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yang, Nicholas         CHRBG23U   741   830/ 23  W4  D2  W3  2.5
+  2 Vulli, Sriyans         CHRFG86P   729   832/ 12  W3  D1  W4  2.5
+  3 Chaudhuri, Arihant     CHAA703E   736   686/ 36  L2  D4  L1  0.5
+  4 Shaikot, Sabeer        ENSD147Q   735   685/ 56  L1  D3  L2  0.5

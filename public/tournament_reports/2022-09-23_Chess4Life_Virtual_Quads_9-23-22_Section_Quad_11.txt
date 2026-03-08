@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Gray, Weston           HSCE199C   400   840/  3  W5  W3  W4  3.0
+  2 Kwon, Jason            NPRJ947G   900   827/  2  W4  W6  U   2.0
+  3 Will, Derek            XXXFE57Z   400   401/  5  D6  L1  BYE 1.5
+  4 Schaudt, Parker        FAPD799V   400   432/ 93  L2  W5  L1  1.0
+  5 Song, Oliver           HSCDF09J   456   448/ 11  L1  L4  W6  1.0
+  6 King, Cooper           VIEE955J   473   400/  8  D3  L2  L5  0.5

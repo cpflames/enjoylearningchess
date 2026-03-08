@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Borden, Hugh           IMSH596M  1199  1227/ 68  W8  W7  W5  W3  L2  4.0
+  2 Chowdhury, Rishi       MISHX45N  1145  1180/ 10  W4  L5  W7  W6  W1  4.0
+  3 Chakravarthy, Sidhanth EVJG1564  1153  1164/335  HPB W9  W6  L1  W4  3.5
+  4 Shenoy, Vaishnavi      NPEFQ96H   859   898/ 35  L2  BYE W9  W5  L3  3.0
+  5 Aelion, Aya            SVCFF21D   626   880/  7  BYE W2  L1  L4  W8  3.0
+  6 Yang, Yuchang          ILCDK16L  1119  1069/ 14  D9  W8  L3  L2  BYE 2.5
+  7 Fung, Jonathan         EASF930M  1132  1067/ 36  WF  L1  L2  L8  W9  2.0
+  8 Waltier, Taylor        WLSJD06H  1069  1017/ 86  L1  L6  BYE W7  L5  2.0
+  9 Komakhin, Mikhail      XXXEA12N   400   731/  4  D6  L3  L4  BYE L7  1.5

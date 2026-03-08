@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Palmer, Evan           BHMJI90S  1127  1136/137  D2  W3  W4  2.5
+  2 Zhang, Daniel          HCRI589K   875   945/ 21  D1  D4  W3  2.0
+  3 Celaya, Benito         CIAE505E   846   852/ 55  W4  L1  L2  1.0
+  4 Qureshi, Danish        BLEFF36V   981   925/ 72  L3  D2  L1  0.5

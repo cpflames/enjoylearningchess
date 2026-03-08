@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Schaudt, Parker        FAPC799V   522   531/ 26  W3  L2  W4  2.0
+  2 Chaudhuri, Agnivesh    CHACB55V   461   489/ 34  W4  W1  L3  2.0
+  3 Pather, Sam            XXXGA60B   400   483/  6  L1  W4  W2  2.0
+  4 Sinha, Aarav           REEG886W   462   400/  6  L2  L3  L1  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Love, Charles          SHMJ458N   826   817/ 14  W2  L4  W3  2.0
+  2 Manly, Katy            FERJ313C   616   720/  6  L1  W3  W4  2.0
+  3 Chaipellone, Teo       SHMKG88R   678   657/ 16  W4  L2  L1  1.0
+  4 Smith, Henry           MDII604U   630   619/  9  L3  W1  L2  1.0

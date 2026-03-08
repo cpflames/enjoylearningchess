@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mohan, Keshav          EGMGG24Z   838   971/ 26  W4  W2  W3  3.0
+  2 Praveen, Atharva       AUDDG14E   982   975/ 32  W3  L1  W4  2.0
+  3 Xu, Zoe                CFLBG70A   821   764/ 11  L2  D4  L1  0.5
+  4 Shubin, Neta           RKWK7542   703   686/ 48  L1  D3  L2  0.5

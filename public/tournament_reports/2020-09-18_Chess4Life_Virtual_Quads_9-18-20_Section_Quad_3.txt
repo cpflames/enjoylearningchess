@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Badal Khan, Samiullah KTSTKN30F  1463  1544/146  W3  W4  W2  3.0
+  2 Ying, Yiheng           MEDDE78K  1426  1411/190  W4  L3  L1  1.0
+  3 Urali, Sanjay          MEDD315D  1411  1399/175  L1  W2  L4  1.0
+  4 Meyerzon, Daniel       OMSHJ242  1467  1443/344  L2  L1  W3  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Taylor, Ryder          HSCI385C   804   825/ 75  L2  W3  W4  2.0
+  2 Wong, Marlin           MTWII126   612   736/ 14  W1  W4  L3  2.0
+  3 Khetan, Reyansh        OESCT80L   900   890/  6  W4  L1  W2  2.0
+  4 Yun, Daniel D          BCABK87Z   753   677/ 49  L3  L2  L1  0.0

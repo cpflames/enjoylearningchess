@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ramesh, Nehanraj       CSEFK19D  2193  2203/ 10  W16 W5  W7  W8  W4  5.0
+  2 Genkin, Bogdan         MEDFJ26Q  1233  1291/ 41  W17 L4  W15 W6  W7  4.0
+  3 Bates-callaghan, EmmettBCSDJ49J  1193  1253/ 65  W15 D16 W10 L4  W8  3.5
+  4 Cheng, Selina          DCCF413R  1455  1454/459  W9  W2  L8  W3  L1  3.0
+  5 Shah, Kanav            LMAE295Q  1305  1318/ 93  W12 L1  W9  L7  W11 3.0
+  6 Miller, Jackson        DCCI301V  1290  1266/ 79  WF  L8  W11 L2  W12 3.0
+  7 Palathingal, Rafael    BEND196R  1265  1295/ 57  W13 W10 L1  W5  L2  3.0
+  8 Joseph, Veronique      SJODJ04S  1206  1275/137  W14 W6  W4  L1  L3  3.0
+  9 Zhen, Hongren          DCCHC02Z  1138  1191/165  L4  W13 L5  W16 W10 3.0
+ 10 Chin, Jonathan         DCCH756L  1328  1267/ 54  W11 L7  L3  W13 L9  2.0
+ 11 Pantea, Joshua         DCCIK63M  1135  1102/ 13  L10 W14 L6  W15 L5  2.0
+ 12 Zhang, Zhibo           SOMD674X  1090  1062/ 92  L5  W17 L16 W14 L6  2.0
+ 13 Underwood, Arthur      RASKK14P  1000   868/  4  L7  L9  W17 L10 BYE 2.0
+ 14 Breeden, Bixby         RASJK14N   900   942/  4  L8  L11 BYE L12 W16 2.0
+ 15 Brown, Ej              RASJK14M   900   823/  4  L3  BYE L2  L11 W17 2.0
+ 16 Mccarthy, Balen        IMSH519X  1154  1124/ 84  L1  D3  W12 L9  L14 1.5
+ 17 Renburg, Colin         RASKK14L  1000   465/  4  L2  L12 L13 BYE L15 1.0

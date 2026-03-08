@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Marver, Braeden        CNYLB07X  1100  1333/  5  W3  D4  W14 W7  W2  4.5
+  2 Uhlenkott, Kolby       PULMH714  1018  1088/109  W8  W12 W7  W6  L1  4.0
+  3 Park, Mir              PULK4692   992  1069/ 20  L1  W14 W4  W12 W8  4.0
+  4 Hilton, Olivia         SIAKK588   922   979/237  W13 D1  L3  W17 W6  3.5
+  5 Hilton, Amelie         SIAJE627   669   774/207  W15 L6  D9  W11 W10 3.5
+  6 Bagmet, Dana           SVLK292D  1070  1007/  9  WF  W5  W10 L2  L4  3.0
+  7 Price, Rachel          GPSJF94S   669   801/ 10  W9  W15 L2  L1  W13 3.0
+  8 Minnameier, Konan      SHPKB33F  1000   937/  5  L2  W9  W11 W10 L3  3.0
+  9 Dishanni, Logan        ICPLY45T  1100   771/  5  L7  L8  D5  W16 W12 2.5
+ 10 Santilli, Tristen      MHSLH668   795   768/ 88  W14 W11 L6  L8  L5  2.0
+ 11 Harvey, Elijah         ICPLY17V   539   536/ 17  W16 L10 L8  L5  BYE 2.0
+ 12 Redder, Hudson         CNYJ469Y   900   715/  5  W17 L2  W13 L3  L9  2.0
+ 13 Klimton, Anthony       ICPJY261   900   642/  5  L4  W16 L12 W15 L7  2.0
+ 14 Bentz, Andrew          ICPJY32B   900   629/  4  L10 L3  L1  BYE W16 2.0
+ 15 Jones, Karl            ICPLY13Z  1100   455/  4  L5  L7  BYE L13 W17 2.0
+ 16 Glock, Gavin           CNYJF28X   900   400/  5  L11 L13 W17 L9  L14 1.0
+ 17 Jones, Vincent         ICPJY52L   900   400/  4  L12 BYE L16 L4  L15 1.0

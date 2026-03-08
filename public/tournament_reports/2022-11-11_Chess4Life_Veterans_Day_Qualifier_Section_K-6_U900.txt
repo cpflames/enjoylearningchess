@@ -1,0 +1,52 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Palkar, Ridhaan        HGMG528U   600  1286/  4  W25 W9  W8  W7  4.0
+  2 Wang, Eric             BCAE803M   864   922/ 41  W42 W24 D5  W19 3.5
+  3 Chaudhuri, Arihant     CHAD703E   852   933/119  W26 W12 W23 D4  3.5
+  4 Ram, Ashvath           EBSF489K   788   846/ 20  W44 W36 W27 D3  3.5
+  5 Fang, Weiai            BRBC696W   713   880/ 91  W37 W6  D2  W16 3.5
+  6 Patnaik, Rishabhdeva   CRKEG72D   889   887/ 75  W40 L5  W35 W24 3.0
+  7 Chaudhuri, Agnivesh    CHADB55V   862   915/122  W43 W11 W10 L1  3.0
+  8 He, Oliver             CRICK71V   760   861/106  W49 W13 L1  W26 3.0
+  9 Zeitlin, Tom           SPTDI56H   720   809/  8  W45 L1  W43 W27 3.0
+ 10 Nathani, Arjun         REEFE48V   702   775/ 14  W29 W20 L7  W28 3.0
+ 11 Gonzales, Gabriel      XXXE694N   670   743/ 16  W38 L7  W37 W20 3.0
+ 12 Tamanaha, Ryden        BLWF132N   641   815/ 16  W14 L3  W30 W21 3.0
+ 13 Ma, Max                CHRE554Z   400   938/  4  W18 L8  W25 W23 3.0
+ 14 Phadke, Mahi           STLGF90B   899   824/  8  L12 D30 W48 W35 2.5
+ 15 Garg, Vihaan           CMCCJ10X   904   865/116  W34 L23 W42 D18 2.5
+ 16 Wu, Dennis             SCDCJ54B   748   756/102  W48 D19 W28 L5  2.5
+ 17 Zhu, Jayden            HSCDD42U   741   730/ 38  W51 D35 L19 W31 2.5
+ 18 Ge, Alex               SOMC908H   740   755/ 94  L13 W49 W36 D15 2.5
+ 19 Pai, Shubham           BCAF694R   674   751/ 46  W39 D16 W17 L2  2.5
+ 20 Borkar, Siddharth      MRLEJ29B   869   764/  8  W41 L10 W34 L11 2.0
+ 21 Davis, Nathan          SFRFJ66C   807   747/136  WF  L27 W41 L12 2.0
+ 22 Mathur, Vivaan         MTWEK76F   762   694/ 15  L27 L43 W45 W44 2.0
+ 23 Gupta, Arsh            REEFC97V   706   727/ 28  W46 W15 L3  L13 2.0
+ 24 Jiang, Nathan          FAPDG71Q   688   684/ 61  W47 L2  W44 L6  2.0
+ 25 Wright, Victoria       PTFFJ17P   658   675/  7  L1  W45 L13 W46 2.0
+ 26 Borkar, Rohan          WDMA243X   528   636/  8  L3  W39 W32 L8  2.0
+ 27 Khandelwal, Anay       CHRFA10L   507   630/  8  W22 W21 L4  L9  2.0
+ 28 Wright, William        PTFAB71M   411   547/ 13  W32 W33 L16 L10 2.0
+ 29 Ye, Alex               DGHDH51L   400   492/ 24  L10 L41 W40 W43 2.0
+ 30 Lee, Maxim             ISMGE47T   600   693/  4  D33 D14 L12 W42 2.0
+ 31 Gao, Daniel            MEDFH71F   749   659/ 11  L35 D48 W33 L17 1.5
+ 32 Condit, Theo           TLICJ39C   731   644/ 74  L28 W51 L26 D36 1.5
+ 33 Lim, Oliver            DISBC58T   666   612/ 32  D30 L28 L31 W47 1.5
+ 34 Yin, Steven            APOCH74Q   592   552/  7  L15 W46 L20 D37 1.5
+ 35 Gupta, Prish           CNHC749W   503   566/ 23  W31 D17 L6  L14 1.5
+ 36 Xu, William            DCTCK93M   426   497/ 23  W50 L4  L18 D32 1.5
+ 37 Sardarli, Adnan        XXXC671W   400   486/  8  L5  W40 L11 D34 1.5
+ 38 Sampathi Rao, Sri JayraSSMEK37Y   400   446/  4  L11 L42 D49 W48 1.5
+ 39 Jagadish, Vishvak      TBKEB13E   771   662/ 24  L19 L26 L47 W49 1.0
+ 40 Liu, Lucas             OMSG800F   616   509/ 10  L6  L37 L29 W51 1.0
+ 41 Rajeesh, Sourav        TBKG562H   564   556/ 35  L20 W29 L21 U   1.0
+ 42 Long, Mason            HFKF244H   555   541/ 19  L2  W38 L15 L30 1.0
+ 43 Kuluru, Samith         KKNGI99K   561   545/ 97  L7  W22 L9  L29 1.0
+ 44 Goel, Advit            RCSBG22F   512   484/  8  L4  W47 L24 L22 1.0
+ 45 Safarova, Banuchichak  HEAGG52S   402   400/  7  L9  L25 L22 BYE 1.0
+ 46 Panchbhai, Reyansh     BCACG79J   400   400/ 15  L23 L34 W51 L25 1.0
+ 47 Wong, Isaiah           LMADB99K   400   403/  8  L24 L44 W39 L33 1.0
+ 48 Srivastava, Manya      FRWF758W   519   469/ 35  L16 D31 L14 L38 0.5
+ 49 Khandhedia, Dhruvin NirLMAD257G   457   410/  8  L8  L18 D38 L39 0.5
+ 50 Chen, Albert           LKWB728A   733   631/  6  L36 U   U   U   0.0
+ 51 Wang, Aaron            BCAB631T   400   400/ 41  L17 L32 L46 L40 0.0

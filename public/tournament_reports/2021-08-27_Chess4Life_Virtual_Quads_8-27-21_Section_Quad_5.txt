@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tan, Nathan            UCDB412Y  1282  1376/ 75  W3  W4  W2  3.0
+  2 Wahi, Lakshya          EVJH664Z  1258  1261/ 91  W4  D3  L1  1.5
+  3 Ma, Justin             OVLHD33R  1251  1233/157  L1  D2  D4  1.0
+  4 Xing, Henry            LKDF3704  1256  1215/354  L2  L1  D3  0.5

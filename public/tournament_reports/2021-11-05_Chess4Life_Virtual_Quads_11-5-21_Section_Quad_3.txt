@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Huang, Emily           MEDFB39A  1443  1507/175  W2  W4  W3  3.0
+  2 Mathur, Aashi          CRKG522S  1350  1380/237  L1  W3  W4  2.0
+  3 Siddem, Sid            RHJIC34V  1371  1353/360  W4  L2  L1  1.0
+  4 Bar, Nathan            AUDC368C  1354  1297/132  L3  L1  L2  0.0

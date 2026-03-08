@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Gao, Chenrui           EBSEK12A   680   773/ 26  W6  W5  W3  W2  4.0
+  2 Tsai, Adam             DGHFB02H   500   652/  3  W5  W4  WF  L1  3.0
+  3 Yun, Daniel D          BCAAK87Z   400   526/  6  W4  W6  L1  U   2.0
+  4 Eustis, Owen           SCDA195W   400   400/  3  L3  L2  W5  U   1.0
+  5 Grigorenko, Yana       FRWBA39N   400   400/ 56  L2  L1  L4  U   0.0
+  6 Bohannon, Andrew       LHTDG71E   400   400/ 16  L1  L3  LF  U   0.0

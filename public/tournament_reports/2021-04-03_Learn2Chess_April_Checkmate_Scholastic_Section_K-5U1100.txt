@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Rizvi, Ayaan           CNCFC91V   946  1038/124  W5  W8  W3  W7  D2  4.5
+  2 Tian, Grace            CRIDE89L  1011  1012/112  W6  L7  W8  W3  D1  3.5
+  3 Veiga, Gabriel         ENSEJ31Y   985   951/ 61  WF  W9  L1  L2  W4  3.0
+  4 Arunkumar, Ashwath     RSACH07X   518   693/ 16  L7  W6  W10 W11 L3  3.0
+  5 Kamath, Abhay          RSABJ13S   538   610/ 12  L1  L11 W9  BYE W7  3.0
+  6 Das, Siddharth         BLWF293Y   738   743/ 86  L2  L4  BYE W8  W11 3.0
+  7 Fung, Jonathan         EASF930M   930   894/ 14  W4  W2  D11 L1  L5  2.5
+  8 Balaji, Eshan          XXXD307X   520   597/ 11  W11 L1  L2  L6  W9  2.0
+  9 Doran, Nikhil          LKDCD27P   416   420/ 48  BYE L3  L5  W10 L8  2.0
+ 10 Ramkumar, Nethra       RBRD315Z   583   509/ 42  HPB HPB L4  L9  BYE 2.0
+ 11 Pandian, Akhil         TBKDF07Y   810   724/ 56  L8  W5  D7  L4  L6  1.5

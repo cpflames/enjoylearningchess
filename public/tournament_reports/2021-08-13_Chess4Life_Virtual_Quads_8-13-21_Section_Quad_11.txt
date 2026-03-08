@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pisan, Kai             CHYG404C   889   982/151  W2  W3  W4  3.0
+  2 Naenna, Patanin        SPLCQ28H   781   835/ 22  L1  W4  W3  2.0
+  3 Gnanaseker, Kavin      CHRG831T   810   761/ 50  D4  L1  L2  0.5
+  4 Kumar, Smriti          SPTDH99W   794   749/ 40  D3  L2  L1  0.5

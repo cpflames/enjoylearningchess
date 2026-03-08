@@ -1,0 +1,30 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Mehrotra, Shiv         INTKH131  1698  1739/294  W17 W7  W3  W10 W5  5.0
+  2 Bosch, Ethan           SHMMF67U  1479  1569/ 63  W21 W14 D5  W8  W9  4.5
+  3 Ramzi, Rayn            SKNK5557  1420  1432/373  W22 W18 L1  W12 W15 4.0
+  4 Patterson, Ben         PDHJI54X  1243  1310/ 43  W23 L5  W19 W25 W10 4.0
+  5 Doncaster, Cannon      RICMF79H  1723  1707/ 69  W16 W4  D2  W6  L1  3.5
+  6 Shi, Matthew Yufan     ISSJ910Q  1244  1300/160  W15 W29 W9  L5  D7  3.5
+  7 Vankamamidi, Advaith   EALJ193M  1206  1245/111  W24 L1  W18 W20 D6  3.5
+  8 Xiang, Herui           LWAL153Y  1594  1547/ 42  L18 W22 W17 L2  W16 3.0
+  9 Devaraju, Sonia        OMSJK838  1581  1539/500  W19 W12 L6  W21 L2  3.0
+ 10 Senthil Kumar, KrishnapTSTJ7364  1482  1462/339  W20 W13 W11 L1  L4  3.0
+ 11 Knapton, Cole          HLHJI201  1282  1250/267  W26 W25 L10 L15 W20 3.0
+ 12 Kane, Callan           CWHLB00E  1137  1131/186  BYE L9  W29 L3  W25 3.0
+ 13 Romero, Jesse          CWHMB898  1109  1117/121  W28 L10 L15 W19 W17 3.0
+ 14 Stein, Joshua          HSCJA56K  1098  1111/ 53  W27 L2  L20 W22 W18 3.0
+ 15 Yin, Daniel            ISSK116Y   887  1026/222  L6  BYE W13 W11 L3  3.0
+ 16 Hernandez, Marcelo     CWHJK986  1093  1070/157  L5  W26 L25 W23 L8  2.0
+ 17 Kuchhal, Prakhar       TSTK7886  1092  1087/127  L1  W23 L8  W24 L13 2.0
+ 18 Piedra, Daniel         CWHMD502  1079  1085/285  W8  L3  L7  W29 L14 2.0
+ 19 Lopez, Esteban         CWHL7267  1071  1054/281  L9  W24 L4  L13 W27 2.0
+ 20 Chavezvargas, Angel    CWHK858A  1024  1035/ 13  L10 W28 W14 L7  L11 2.0
+ 21 Esquivel, George       CWHLD456  1004   993/231  L2  W27 W26 L9  L23 2.0
+ 22 Padilla, Jose Arias    CWHJ888V   988   972/ 49  L3  L8  W28 L14 W29 2.0
+ 23 Raghavendra, Srinidhi  EALJ790S   877   897/ 17  L4  L17 W27 L16 W21 2.0
+ 24 Luna Rocha, Sergio Jr  CWHJ3108   846   848/175  L7  L19 BYE L17 W26 2.0
+ 25 Stevens, Noah          HSCJK793   667   732/ 64  BYE L11 W16 L4  L12 2.0
+ 26 Nedeltchev, Michael    ODEJ900M   979   891/130  L11 L16 L21 BYE L24 1.0
+ 27 Alford, Trey           CWHK636B  1000   631/  5  L14 L21 L23 W28 L19 1.0
+ 28 Prasanna Venkatesh, BalEALJ131G   900   400/  4  L13 L20 L22 L27 BYE 1.0
+ 29 Silverthorn, J         BEPJ191N   900   582/  4  BYE L6  L12 L18 L22 1.0

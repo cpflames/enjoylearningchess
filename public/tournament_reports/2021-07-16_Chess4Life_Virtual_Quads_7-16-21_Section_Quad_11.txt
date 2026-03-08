@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kan, Leanne            HSCC710K   843   936/ 59  W4  W2  W3  3.0
+  2 Rao, Deepak Sri KarthikXXXE517J   668   759/ 24  W3  L1  W4  2.0
+  3 Duseja, Ronit          TIMDA38H   783   754/ 45  L2  W4  L1  1.0
+  4 Suresh, Anvita         ENDEK67U   754   677/ 49  L1  L3  L2  0.0

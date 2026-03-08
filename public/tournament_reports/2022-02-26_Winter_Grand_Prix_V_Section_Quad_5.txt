@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chiapellone, Teo       SHMKG88R   564   683/ 49  W3  W4  W2  3.0
+  2 Manookin, Harold       MRDJ927A   579   597/  9  W4  W3  L1  2.0
+  3 Egland, Crosby         CIAF264S   500   429/  3  L1  L2  W4  1.0
+  4 Grunhurd, Kekoa        CEEE597A   485   405/ 12  L2  L1  L3  0.0

@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Fung, Jonathan         EASF930M   894  1045/ 18  WF  W7  W2  W3  W6  5.0
+  2 Desimone, James        VRDEH32X   967   972/ 57  L4  W6  L1  W5  W3  3.0
+  3 Balasubramanian, Kala  CNCC519Y   400   859/  4  WF  W8  W4  L1  L2  3.0
+  4 Kotiya, Arin           CRNEE69V   400   884/  5  W2  W5  L3  L6  W8  3.0
+  5 Arunkumar, Ashwath     RSACH07X   693   759/ 21  W6  L4  W8  L2  W7  3.0
+  6 Nalam, Vignatri        BNTEA47F  1147   962/ 10  L5  L2  W7  W4  L1  2.0
+  7 Xiang, Lucas           UNKB761Z   455   477/ 18  BYE L1  L6  W8  L5  2.0
+  8 Ramesh, Shyam          RIDCG41K   752   559/  8  WF  L3  L5  L7  L4  1.0

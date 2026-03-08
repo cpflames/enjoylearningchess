@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Stake, Charles         OESBM87Q   756   797/ 24  D2  W3  W4  2.5
+  2 Rao, Deepak Sri KarthikXXXE517J   667   707/ 18  D1  W4  WF  2.5
+  3 Yun, Daniel D          BCAAK87Z   623   637/ 31  W4  L1  LF  1.0
+  4 Shubin, Neta           RKWK7542   692   604/ 60  L3  L2  L1  0.0

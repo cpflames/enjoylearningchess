@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kuhner, Mary           ADUND44Q  1901  1929/ 25  W8  W6  D9  D4  W2  4.0
+  2 Bian, Erin             LMSGI91Y  1822  1893/150  W16 W4  W11 W9  L1  4.0
+  3 Li, Emma               LMSH521Q  1638  1692/306  W14 W13 L4  W11 W6  4.0
+  4 Tien, Sophie           LSSL6099  2027  2015/369  W5  L2  W3  D1  W10 3.5
+  5 Zhang, Kylie           WMEF890T  1512  1612/142  L4  W16 D10 W12 W9  3.5
+  6 Zhang, Iris            RSAH858X  1586  1598/318  W18 L1  W12 W7  L3  3.0
+  7 Anandkumar, Haituka    STLH238P  1511  1502/239  L11 W14 W13 L6  W18 3.0
+  8 Zhang, Michelle        MEDF889L  1501  1515/299  L1  W18 W15 L10 W17 3.0
+  9 Airapetian, Chouch     ADUND039  2050  2013/ 10  W12 W10 D1  L2  L5  2.5
+ 10 Chen, Angela           ADDJB334  1646  1650/279  W17 L9  D5  W8  L4  2.5
+ 11 Dhingra, Sangeeta      INTNE943  1930  1900/299  W7  W15 L2  L3  U   2.0
+ 12 Devaraju, Sonia        OMSJK838  1567  1538/480  L9  W17 L6  L5  W14 2.0
+ 13 Agaian, Angela         MCRJD833  1194  1213/290  HPB L3  L7  W16 HPB 2.0
+ 14 Shanmugam, Varsha      RBRCA12J   907  1038/331  L3  L7  W16 W17 L12 2.0
+ 15 Shanmugam, Meera       RBRGD22Y  1641  1608/410  WF  L11 L8  U   U   1.0
+ 16 Cheng, Selina          THUE413R  1335  1261/302  L2  L5  L14 L13 BYE 1.0
+ 17 Ruff, Lois             ADUNJ90S  1199  1154/109  L10 L12 W18 L14 L8  1.0
+ 18 Shankaranand, Deeksha  EBSDI74Y   610   607/ 69  L6  L8  L17 BYE L7  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hawkins, Holden        TYEI383Z   956   978/124  W3  W4  D2  2.5
+  2 Alam, Adil             BCAFI15X   798   899/107  W4  W3  D1  2.5
+  3 Agarwal, Ishaan Huma   REEEH10F   782   772/ 57  L1  L2  W4  1.0
+  4 Yin, Daniel            ISMJ116Y   788   720/ 54  L2  L1  L3  0.0

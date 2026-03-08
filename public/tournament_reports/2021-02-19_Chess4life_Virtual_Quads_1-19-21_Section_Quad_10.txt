@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chopra, Nikita         OMSH297H  1109  1215/ 15  W2  W4  W3  3.0
+  2 Zakonov, Pasha         BCAHJ63K  1070  1104/ 27  L1  W3  W4  2.0
+  3 Ramkumar, Nikhil       RBRD115E  1050  1012/ 59  D4  L2  L1  0.5
+  4 Pravlik, Aiden         SHSB416H  1102  1052/136  D3  L1  L2  0.5

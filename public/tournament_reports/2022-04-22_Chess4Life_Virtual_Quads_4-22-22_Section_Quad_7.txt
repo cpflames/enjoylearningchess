@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yun, Daniel D          BCABK87Z  1126  1183/157  D2  W3  W4  2.5
+  2 Zhu, Kevin             CSMC865U  1126  1122/262  D1  W4  L3  1.5
+  3 Hochberg, David        SUEJ6075  1140  1108/200  L4  L1  W2  1.0
+  4 Deval, Anirudh         CGSIU16Y  1031  1028/ 69  W3  L2  L1  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Verretto, Dante        EMSIS76P  1063  1065/109  W3  W4  L2  2.0
+  2 Miller, Jackson        GATG301V   998  1018/ 40  W4  L3  W1  2.0
+  3 Kan, Kaleb             MMECF53E   939   924/ 80  L1  W2  L4  1.0
+  4 Agarkar, Aarav         WDMGG17J   914   906/ 84  L2  L1  W3  1.0

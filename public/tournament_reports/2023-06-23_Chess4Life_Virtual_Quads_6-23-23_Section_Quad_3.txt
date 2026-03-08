@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Maharaja, Imai         RKWCK34K  1089  1151/ 46  D3  W4  W2  2.5
+  2 Xie, Leon              CNHE264X  1100  1095/133  D4  W3  L1  1.5
+  3 Yin, Daniel            ISSL116Y  1080  1056/356  D1  L2  D4  1.0
+  4 Sreraman, Rahul        BCACJ42L  1030  1019/127  D2  L1  D3  1.0

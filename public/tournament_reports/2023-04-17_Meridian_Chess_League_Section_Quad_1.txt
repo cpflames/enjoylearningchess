@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Werner, Ross           SHMLB91H  1460  1499/130  W3  W2  W4  3.0
+  2 Zhang, Owen            FHVH995H  1294  1328/208  W4  L1  W3  2.0
+  3 Peterson, Kylan        MRDL175Q  1260  1255/ 68  L1  W4  L2  1.0
+  4 Berry, Garcia          BHMKK99Z  1327  1263/ 17  L2  L3  L1  0.0

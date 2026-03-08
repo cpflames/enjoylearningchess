@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wu, Dennis             SCDBJ54B   560   648/ 10  W4  W2  W5  D3  D7  4.0
+  2 Yuan, Edward           LECDK69S   444   549/ 33  W9  L1  W3  W5  D6  3.5
+  3 Schoeggl, Levi         OHPDF07V   559   557/ 20  D6  W8  L2  D1  W10 3.0
+  4 Calderin, Colin        LECDK16T   400   509/  5  L1  D6  W8  D7  W11 3.0
+  5 Banuelos, Arturo       MCUDD90C   475   479/ 83  W11 W7  L1  L2  W9  3.0
+  6 Kim, Eugene            LECD131A   400   451/  5  D3  D4  D7  D10 D2  2.5
+  7 Levey, Shannon         RFPC389R   400   414/  4  BYE L5  D6  D4  D1  2.5
+  8 Hoard, Otis            VIWD690B   550   472/ 37  W10 L3  L4  D9  BYE 2.5
+  9 Kubalek, Janae         RFPD201M   400   400/  4  L2  D11 BYE D8  L5  2.0
+ 10 Strom, Levi            RFPDD06X   400   400/  4  L8  BYE D11 D6  L3  2.0
+ 11 Dickinson, James       MCGA801C   400   400/  4  L5  D9  D10 BYE L4  2.0

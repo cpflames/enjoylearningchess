@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Shanmugam, Meera       SKWHD22Y  1493  1544/447  W2  D4  W3  2.5
+  2 Sinha, Agastya         HSCDA75C  1464  1492/147  L1  W3  W4  2.0
+  3 Cha, Samuel            BASFK18Z  1584  1549/199  W4  L2  L1  1.0
+  4 Sangal Lopez, Dev      CTNG515J  1443  1416/364  L3  D1  L2  0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mahesh Kumar, Shravan  RCSH552N  1053  1073/ 30  W2  L3  W4  2.0
+  2 Rastogi, Reyansh       LMAED30N  1014  1049/122  L1  W4  W3  2.0
+  3 Mohan, Keshav          EGMGG24Z   997  1041/ 53  W4  W1  L2  2.0
+  4 Yang, Jimmy            BCABG45S  1065   983/ 96  L3  L2  L1  0.0

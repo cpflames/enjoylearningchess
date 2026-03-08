@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chapman, Toby          LCNF551Y   760   896/150  W10 W4  W8  W2  L3  4.0
+  2 Tsai, Nicholas         BLWE882Z   588   829/ 21  W5  W6  W9  L1  W7  4.0
+  3 Brown, Samuel          XXXE291C   400   949/  5  L9  W11 W4  W6  W1  4.0
+  4 Chowdhary, Shivam      CMCED47H   467   723/  7  W12 L1  L3  W10 W8  3.0
+  5 Zhang, Melodie         SPTFE44K   812   802/ 70  L2  D7  W12 W8  D6  3.0
+  6 Raje, Atharva          SBOGL432   786   772/ 63  W7  L2  W10 L3  D5  2.5
+  7 Aldinger, Nikolai      WHRFG72F   474   596/ 10  L6  D5  W11 W9  L2  2.5
+  8 Vangala, Advaith       BLWF174X   880   804/269  W11 W9  L1  L5  L4  2.0
+  9 Ram, Joey              THOGF94L   705   690/ 48  W3  L8  L2  L7  W12 2.0
+ 10 Save De Beaurecueil, OlXXXG201Q   600   613/  5  L1  W12 L6  L4  W11 2.0
+ 11 Milligan, Isabelle     HSCI292L   595   545/ 19  L8  L3  L7  W12 L10 1.0
+ 12 Hijirida, Kyle         JSIGH728   777   609/ 81  L4  L10 L5  L11 L9  0.0

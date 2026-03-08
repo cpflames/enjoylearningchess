@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Verretto, Dante        EMSIS76P  1005  1063/106  W3  W2  W4  3.0
+  2 Bar, Nathan            AUDB368C   769   815/  9  D4  L1  W3  1.5
+  3 Sun, Daniel            AUDBJ96N   892   862/ 77  L1  W4  L2  1.0
+  4 Malla, Diven           HSCDG38L   839   797/ 58  D2  L3  L1  0.5

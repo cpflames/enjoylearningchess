@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Karri, Aditya          AUDDC55V  1223  1302/118  W2  W3  W4  3.0
+  2 Wang, Jacob            BLWDD74Y  1136  1145/119  L1  D4  W3  1.5
+  3 Xie, Michael           BLWE549C  1144  1127/184  W4  L1  L2  1.0
+  4 Stein, Samuel          HSCDH03T  1158  1114/144  L3  D2  L1  0.5

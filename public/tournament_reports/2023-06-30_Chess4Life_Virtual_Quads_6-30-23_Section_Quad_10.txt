@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mangla, Atharv         GRRCK07C   200   657/  2  W3  W2  U   2.0
+  2 Seshadri, Rasika       KMDGK14V   236   289/  5  U   L1  W3  1.0
+  3 Tsay, Elon             NWOCK07B   200   100/  2  L1  U   L2  0.0

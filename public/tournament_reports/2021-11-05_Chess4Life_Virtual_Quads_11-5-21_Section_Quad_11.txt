@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Cho, Sungho            CRKD120X   400   950/  2  W2  U   W3  2.0
+  2 Kuluru, Samith         KKNFI99K   500   450/  2  L1  W3  U   1.0
+  3 Schaudt, Parker        FAPC799V   400   400/ 11  U   L2  L1  0.0

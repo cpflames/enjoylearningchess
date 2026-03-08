@@ -1,0 +1,87 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Willy, Stephen         HSCGH17K  1892  1921/502  W22 W8  W17 W6  W4  5.0
+  2 Summerfield, William   FAPGG77R  1593  1682/131  W27 W20 W70 W3  W13 5.0
+  3 Heath, Derek           SKRG1458  1728  1731/293  W23 W9  W57 L2  W14 4.0
+  4 Karthikeyan, HarishkumaREJGJ81A  1701  1708/195  W85 W10 W48 W41 L1  4.0
+  5 Miller, Thomas         LMSG799Q  1672  1674/ 86  W24 D16 W42 D14 W19 4.0
+  6 Shah, Paras            EVJG904N  1635  1647/174  W46 W11 W60 L1  W20 4.0
+  7 Razmov, Gabriel        ADDGC26K  1568  1562/213  L29 W43 W37 W47 W22 4.0
+  8 Nallappa, Vijay        REJGD40S  1562  1576/317  W30 L1  W52 W28 W23 4.0
+  9 Scollon, Owen          FHVG734D  1520  1540/335  W19 L3  W53 W29 W25 4.0
+ 10 Metzmaker, Suya        OPWG364P  1449  1470/279  W31 L4  W38 W33 W24 4.0
+ 11 Koppala, Sankalp       SKRGJ27H  1421  1439/100  W34 L6  W55 W32 W35 4.0
+ 12 Krishnan, Advait       REJG570Q  1401  1404/ 95  L48 W51 W58 W34 W41 4.0
+ 13 Song, Kevin            OPWGF24M  1650  1644/141  W25 D42 W45 W18 L2  3.5
+ 14 Suess, Wade            EVGG101D  1578  1583/273  W47 W29 W61 D5  L3  3.5
+ 15 Condit, Noah           KMDGA59Q  1571  1558/109  W28 L21 W16 W46 D17 3.5
+ 16 Lee, Elliot            OPWGA70D  1439  1464/113  W32 D5  L15 W70 W42 3.5
+ 17 Bablani, Arnav         LMSG1146  1345  1425/189  W36 W18 L1  W57 D15 3.5
+ 18 Saravanan, Sujan       SKWG372N  1634  1603/351  W26 L17 W51 L13 W43 3.0
+ 19 Cen, Evan              TYEGI97D  1375  1379/ 91  L9  W38 W54 W31 L5  3.0
+ 20 Kang, Jinue            OMSG2661  1365  1374/244  W35 L2  W59 W48 L6  3.0
+ 21 Kokati, Pranav         OMSG814P  1336  1335/198  W49 W15 L41 L35 W51 3.0
+ 22 Tang, Haosen           EPSGH941  1334  1336/209  L1  W54 W73 W60 L7  3.0
+ 23 Chin, Jonathan         HSCG756L  1328  1334/ 39  L3  W37 W62 W61 L8  3.0
+ 24 Han, William           HSCGC13F  1308  1298/ 10  L5  W55 W63 W66 L10 3.0
+ 25 Mohan, Laya            BCWG617P  1292  1293/133  L13 W73 W74 W71 L9  3.0
+ 26 Gajcowski, Hannah Nami OPWGI10H  1265  1239/177  L18 L60 W80 W73 W52 3.0
+ 27 Bhargava, Saarth       STLGF29W  1254  1231/ 67  L2  L61 W68 W59 W53 3.0
+ 28 Mishra, Abhinav        TMBGB02W  1247  1253/ 42  L15 W63 W77 L8  W55 3.0
+ 29 Zhao, Alice            PLKG746N  1244  1286/ 36  W7  L14 W78 L9  W54 3.0
+ 30 Appalabattula, Samarth RARGG06C  1242  1216/101  L8  W75 L66 W62 W61 3.0
+ 31 Narayan, Bhargav       EVJGD962  1186  1196/161  L10 W66 W39 L19 W57 3.0
+ 32 Zhou, Nathan           NJHG215X  1182  1187/ 23  L16 W76 W79 L11 W60 3.0
+ 33 Chan, Aiden            COGG917M  1175  1183/ 97  L42 W39 W69 L10 W66 3.0
+ 34 Xing, Henry            IMSG3704  1172  1176/375  L11 W79 W76 L12 W63 3.0
+ 35 Kale, Atharv           EVJG496H  1121  1196/ 14  L20 W71 W40 W21 L11 3.0
+ 36 Khatib, Kenan          IMSGC566  1105  1119/228  L17 L41 W81 W74 W71 3.0
+ 37 Kozaczuk, James        SHKG108A  1068  1121/ 84  W78 L23 L7  W76 W46 3.0
+ 38 Foltz, Karsten         HTNG306D  1035  1096/ 94  W67 L19 L10 W77 W47 3.0
+ 39 Christiansen, Derek    EHAGE20P   719   925/ 17  W56 L33 L31 W58 W48 3.0
+ 40 Karagudri, Neil        ICSGJ82Y   535   793/ 20  L61 W65 L35 W56 W50 3.0
+ 41 Zuo, Jonathan          NJHGK05V   600  1386/  5  W64 W36 W21 L4  L12 3.0
+ 42 Routray, Nirmalya      INGGD06K  1438  1436/357  W33 D13 L5  W72 L16 2.5
+ 43 Mathur, Aashi          PLKG522S  1417  1389/273  D72 L7  W44 W45 L18 2.5
+ 44 Jewsbury, Keaton       HSCG976Q  1075  1056/132  D45 L70 L43 W69 W72 2.5
+ 45 Mandhana, Aarav        KMNG434A   839   945/ 40  D44 W49 L13 L43 W70 2.5
+ 46 Frasca, James          LMSGC674  1285  1250/563  L6  W59 W75 L15 L37 2.0
+ 47 Alam, Adil             BCAGI15X  1248  1214/238  L14 W74 W64 L7  L38 2.0
+ 48 Joshi, Arnav           PLKGJ24W  1137  1153/140  W12 W72 L4  L20 L39 2.0
+ 49 Wu, Jasper             IMSG3471  1105  1040/ 94  L21 L45 W82 L63 W76 2.0
+ 50 Vangala, Advaith       LMSG174X  1097  1009/360  L76 W67 L71 W64 L40 2.0
+ 51 Rama, Savitur          EVJGH22Z  1086  1084/ 97  W77 L12 L18 W75 L21 2.0
+ 52 Palod, Menang          REJGK61M  1069  1039/ 93  L66 W68 L8  W65 L26 2.0
+ 53 Rizvi, Ayaan           CPJGC91V  1029   995/144  L79 W80 L9  W78 L27 2.0
+ 54 Hughes, Weston         SMSGI26V  1005  1010/ 25  W68 L22 L19 W67 L29 2.0
+ 55 Mccarthy, Balen        IMSG519X   996   997/ 75  W80 L24 L11 W79 L28 2.0
+ 56 Bhaskar, Vibhas        REJGA79F   979   897/129  L39 L69 W86 L40 W77 2.0
+ 57 Chopra, Aaryaman       BISGK30K   950  1005/ 32  W69 W85 L3  L17 L31 2.0
+ 58 Seshadri, Vindhya      GTMG953Y   933   889/ 24  L70 W81 L12 L39 W78 2.0
+ 59 Chulki, Aayush         BLMGJ17Y   929   916/103  W82 L46 L20 L27 WF  2.0
+ 60 Olson, Benjamin        HCCGG50S   922   957/128  W86 W26 L6  L22 L32 2.0
+ 61 Zhen, Hongren          COGGC02Z   921   983/136  W40 W27 L14 L23 L30 2.0
+ 62 Mitra, Rahul           OPWGH53N   904   892/229  L63 W82 L23 L30 W80 2.0
+ 63 Zhang, Owen            FHVG995H   893   944/147  W62 L28 L24 W49 L34 2.0
+ 64 Bradford, Donovan      SGSG223K   861   845/128  L41 W86 L47 L50 W84 2.0
+ 65 Song, Matthew          SKIG142W   859   813/ 92  L71 L40 W84 L52 W81 2.0
+ 66 Burtram, Dayton        BLMGG77M   827   938/207  W52 L31 W30 L24 L33 2.0
+ 67 Battula, Jeswanth Sri SICSGE96V   803   809/ 22  L38 L50 W83 L54 W73 2.0
+ 68 Eitel, Miles           HABG807W   784   802/ 58  L54 L52 L27 W82 W74 2.0
+ 69 Samatham, Arka         LMAG285Z   679   791/ 10  L57 W56 L33 L44 W75 2.0
+ 70 Patnaik, Aditya        CGAGA02G   587   741/ 18  W58 W44 L2  L16 L45 2.0
+ 71 Mamidi, Akshaj         PFCGF38U   600   994/  5  W65 L35 W50 L25 L36 2.0
+ 72 Kancherla, Rohan       PFCGC11M  1170  1148/305  D43 L48 W85 L42 L44 1.5
+ 73 Chaturvedi, Raghav     TYEGK75J   933   888/106  W81 L25 L22 L26 L67 1.0
+ 74 Wilson, Nathaniel      SHKGE45V   904   852/ 26  W83 L47 L25 L36 L68 1.0
+ 75 Johnson, Kyle          SOGG294T   893   839/ 97  W84 L30 L46 L51 L69 1.0
+ 76 Joshi, Vaidehi         PLKGG37G   850   851/125  W50 L32 L34 L37 L49 1.0
+ 77 Hildenbrand, Blane     PSMG122V   843   799/106  L51 W84 L28 L38 L56 1.0
+ 78 Wang, Eric             HMNGI22X   818   777/ 40  L37 W83 L29 L53 L58 1.0
+ 79 Melton, Tristan        BLCG616X   789   808/ 15  W53 L34 L32 L55 LF  1.0
+ 80 Lokaman, Anwar         STPG883Q   762   729/ 94  L55 L53 L26 W86 L62 1.0
+ 81 Naidu, Pranavi         BLMGC73S   582   569/ 27  L73 L58 L36 W83 L65 1.0
+ 82 Christiansen, Cory     EHAGG76Z   578   569/ 18  L59 L62 L49 L68 W86 1.0
+ 83 Lokaman, Islam         STPGJ18G   522   467/ 27  L74 L78 L67 L81 BYE 1.0
+ 84 Massey, Aurora         CKNGE141   400   400/ 22  L75 L77 L65 BYE L64 1.0
+ 85 Calo, Jude             REGG3425  1322  1244/181  L4  L57 L72 U   U   0.0
+ 86 Miller, Violet         FRDGH568   561   496/109  L60 L64 L56 L80 L82 0.0

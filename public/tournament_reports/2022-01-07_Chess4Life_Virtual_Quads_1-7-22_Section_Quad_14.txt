@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lahue, Ihsan           GRRGJ69P   540   690/ 67  W4  W3  W2  3.0
+  2 Pramod, Bhadra         BRHGH81D   567   562/ 18  D3  W4  L1  1.5
+  3 Thapar, Sabir          ETSD822D   497   515/ 17  D2  L1  W4  1.5
+  4 Schaudt, Parker        FAPC799V   531   446/ 29  L1  L2  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Ethan Yichen    CRIFG57B   985  1134/334  W2  W3  W4  3.0
+  2 Sreraman, Rohit        BCACG92Q  1089  1052/ 55  L1  L4  W3  1.0
+  3 Lahue, Ihsan           WAVHJ69P  1028  1007/123  W4  L1  L2  1.0
+  4 Taylor, Ryder          KAMJ385C   997   985/252  L3  W2  L1  1.0

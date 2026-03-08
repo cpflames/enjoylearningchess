@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bhaskara, Yash         ICSII539  1159  1168/257  W4  W2  D3  2.5
+  2 Mothukuri, Akhil       INGHT84J   943   992/179  W3  L1  W4  2.0
+  3 Mandhana, Aarav        KMNH434A   945   959/ 43  L2  W4  D1  1.5
+  4 Guthrie, William       NSTHK30W   987   860/  8  L1  L3  L2  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Belyatskiy, Artem      VSTG764W   395   524/ 30  W3  W2  W4  3.0
+  2 Cancelosi, Nicholas    SKYFM25W   368   398/ 26  W4  L1  W3  2.0
+  3 Gardner, Andrew        CUEDK22Z   330   300/  8  L1  W4  L2  1.0
+  4 Bannister, Altair      EAGBK36Y   303   224/ 17  L2  L3  L1  0.0

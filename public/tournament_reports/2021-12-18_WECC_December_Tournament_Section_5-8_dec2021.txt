@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Sathyamurthy, Sreeshan BLWFJ24M   433   663/ 34  W9  W3  W8  W6  L2  4.0
+  2 Hall, Preston          RRGH6381   800   862/ 88  U   W14 W5  W8  W1  4.0
+  3 Gomez, Jose            CRPFE49G   500   647/  5  W14 L1  W9  W7  D6  3.5
+  4 Van, Preston           CRPFG09Y   798   760/147  D12 L5  W15 W13 W8  3.5
+  5 Pheysey, Owen          CRPFE04H   538   573/ 20  D6  W4  L2  D10 W9  3.0
+  6 Guizar, Kevin          OCHII02P   400   494/ 29  D5  W12 W10 L1  D3  3.0
+  7 Fedchuk, Vanessa       RRGH629G   653   644/102  U   W11 W13 L3  W12 3.0
+  8 Tuura, Liam            RFPF758F   667   594/  8  W13 W10 L1  L2  L4  2.0
+  9 Sanders, Maddox        CRPFG42J   500   400/  4  L1  BYE L3  W11 L5  2.0
+ 10 Brink, Brussel         RFPF203N   500   400/  4  W11 L8  L6  D5  U   1.5
+ 11 Ono, Alexander         CRPF184C   500   400/  5  L10 L7  W12 L9  D13 1.5
+ 12 Shoemaker, Gideon      LECF957P   500   400/  4  D4  L6  L11 BYE L7  1.5
+ 13 Hagen, Harper          LECF384T   500   405/  5  L8  W15 L7  L4  D11 1.5
+ 14 Farias, Pedro          STPGK10H   400   400/  4  L3  L2  U   U   U   0.0
+ 15 Mejia, Xavior          RRGG533Y   608   538/ 79  U   L13 L4  U   U   0.0

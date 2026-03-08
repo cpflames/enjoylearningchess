@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bormuth, Silas         LYCE542J   400   890/  3  W4  W5  W3  3.0
+  2 Vivas, Matthew         LYCFI81C   500   724/  3  D3  W4  W5  2.5
+  3 Thompson, Mabel        MGVDK94U   400   496/  6  D2  W6  L1  1.5
+  4 Manookin, Jared        HSCDD11V   431   431/ 38  L1  L2  W6  1.0
+  5 Scholtz, Ethan         LLLD239W   400   458/  3  W6  L1  L2  1.0
+  6 Manookin, Adam         HSCDF67L   400   400/ 38  L5  L3  L4  0.0

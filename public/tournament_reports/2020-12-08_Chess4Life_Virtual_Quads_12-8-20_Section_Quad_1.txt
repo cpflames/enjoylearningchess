@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chan, Skylor T         MEDGD18J  1709  1717/241  W3  U   D2  1.5
+  2 Willy, Stephen         MMEFH17K  1719  1725/307  U   W3  D1  1.5
+  3 Anandkumar, Haituka    BENG238P  1475  1458/217  L1  L2  U   0.0

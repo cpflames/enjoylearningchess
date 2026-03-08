@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Guduru, Agasthya       EMDC500V   550   827/ 10  W4  W6  W7  W3  W5  5.0
+  2 Gulati, Naamya         FRWD649C   638   757/ 85  L7  W12 W10 W8  W3  4.0
+  3 Agrawal, Sakash        CLHBC98H   642   719/ 24  W9  W7  W5  L1  L2  3.0
+  4 Kedarisetty, Ishan     GRRD300B   744   751/ 61  L1  W8  W9  L5  W11 3.0
+  5 Iyer, Suchir           NLMBA22D   638   698/ 15  W11 W10 L3  W4  L1  3.0
+  6 Deepak, Advait         BRHDD74M   554   643/ 21  D8  L1  W12 W10 D7  3.0
+  7 Kakkad, Vayu           BRYAK50L   742   725/178  W2  L3  L1  W9  D6  2.5
+  8 Tian, Grace            CRIDE89L   752   725/ 73  D6  L4  W11 L2  W10 2.5
+  9 Narayan, Keshav        CMCCE45H   400   545/  5  L3  W11 L4  L7  W12 2.0
+ 10 Fetchero, Noelle       BLCC505H   699   602/ 35  W12 L5  L2  L6  L8  1.0
+ 11 Lu, Ian                CRICE83J   765   641/ 88  L5  L9  L8  W12 L4  1.0
+ 12 Li, Jacob              CRIB132Q   422   400/ 33  L10 L2  L6  L11 L9  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Ethan            SKNK4017  1527  1645/ 78  W2  W4  W3  3.0
+  2 Willy, Stephen         MMEFH17K  1693  1696/359  L1  W3  W4  2.0
+  3 Boulis, Christos       RHJHC84T  1556  1550/433  W4  L2  L1  1.0
+  4 Meiyalagan, Ruban Sai  WLDED10L  1641  1585/142  L3  L1  L2  0.0

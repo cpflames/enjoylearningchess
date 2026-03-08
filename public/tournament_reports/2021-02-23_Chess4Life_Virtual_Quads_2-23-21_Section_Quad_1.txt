@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hawkins, Holden        TYEI383Z  1077  1147/201  L3  W2  W4  2.0
+  2 Siddem, Sid            RHJHC34V  1320  1288/264  W4  L1  D3  1.5
+  3 Zhang, Ethan           CLHEE87D  1235  1221/422  W1  L4  D2  1.5
+  4 Verretto, Dante        EMSIS76P  1041  1051/144  L2  W3  L1  1.0

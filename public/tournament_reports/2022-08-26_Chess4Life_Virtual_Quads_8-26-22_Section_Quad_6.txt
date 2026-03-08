@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Duseja, Ronit          TIMEA38H  1042  1147/105  W4  W2  W3  3.0
+  2 Hawkins, Holden        TYEJ383Z   933  1003/447  W3  L1  W4  2.0
+  3 Hochberg, David        SUEJ6075  1052  1019/236  L2  W4  L1  1.0
+  4 Xie, Leon              CNHD264X   994   925/ 30  L1  L3  L2  0.0

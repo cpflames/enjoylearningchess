@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Pai, Vihaan            STVCK17C   871   953/ 68  W25 D2  W9  W6  W3  4.5
+  2 Mishra, Aakash         EBSC439K   684   848/ 29  W18 D1  W12 W7  W8  4.5
+  3 Li, Harry              SSSCG30G   811   840/155  W22 W4  W20 W8  L1  4.0
+  4 Zak, Ursula            SVSCJ30R   545   665/ 10  W19 L3  W13 W20 W10 4.0
+  5 Agarwal, Kavir         MEDC152U   400   776/  5  L10 W15 W16 W9  W12 4.0
+  6 Agrawal, Sakash        MEDCC98H   846   813/ 87  W11 W10 L8  L1  W15 3.0
+  7 Chaurasia, Ishi        HMNCK22B   792   746/ 62  W15 L20 W19 L2  W18 3.0
+  8 Pan, Harry             MEDCE67X   721   729/ 18  W16 W23 W6  L3  L2  3.0
+  9 Lai, Woody             SNRC582C   702   693/ 31  W17 W21 L1  L5  W19 3.0
+ 10 Shi, Enze              MEDC324X   521   605/ 27  W5  L6  W21 W14 L4  3.0
+ 11 Yu, Owen               MEDCC65S   400   470/  9  L6  W18 L14 W23 W20 3.0
+ 12 Schechter, Elizabeth   MEDC373X   445   469/ 24  W13 D14 L2  W17 L5  2.5
+ 13 Xiang, Nicholas        MEDC404X   400   400/  4  L12 BYE L4  D22 W23 2.5
+ 14 Campos, Matias         MEDCE52F   452   436/ 15  L20 D12 W11 L10 D17 2.0
+ 15 Wang, Ethan            MEDCH54A   400   446/ 10  L7  L5  W25 W24 L6  2.0
+ 16 Wei, Lili              MEDB460S   400   435/  5  L8  W24 L5  L19 W22 2.0
+ 17 Zhou, Stella           MEDC422P   400   400/  5  L9  W25 D23 L12 D14 2.0
+ 18 Mahfoodh, Ali          MEDC295W   400   407/  4  L2  L11 BYE W21 L7  2.0
+ 19 Liu, Alexander         MEDC831E   400   498/  5  L4  W22 L7  W16 L9  2.0
+ 20 Zhang, Charles         MEDC120W   400   546/  5  W14 W7  L3  L4  L11 2.0
+ 21 Ewaldsson, Aida        MEDCG73P   400   400/  5  W24 L9  L10 L18 W25 2.0
+ 22 Cornelissen Gokul, AlexMEDCJ62Z   400   400/  9  L3  L19 W24 D13 L16 1.5
+ 23 Lavaris, Tommy         XXXC279E   400   400/  4  BYE L8  D17 L11 L13 1.5
+ 24 Berjis, Adrina         MEDC230U   422   400/ 16  L21 L16 L22 L15 BYE 1.0
+ 25 Gupta, Pari            MEDC684L   416   400/ 14  L1  L17 L15 BYE L21 1.0

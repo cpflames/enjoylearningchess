@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tan, Charlie           MEDB273V   953  1074/ 31  W3  W4  W2  3.0
+  2 Han, Tony              PLKHC03Q   856   935/ 17  W4  W3  L1  2.0
+  3 Wu, Dennis             SCDCJ54B   953   928/171  L1  L2  W4  1.0
+  4 Taylor, Ryder          KAMJ385C   973   891/318  L2  L1  L3  0.0

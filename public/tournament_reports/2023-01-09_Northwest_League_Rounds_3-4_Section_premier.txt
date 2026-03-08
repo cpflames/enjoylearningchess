@@ -1,0 +1,69 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Roesch, Carson         BLHK120K  1776  1778/228  W46 W44 2.0
+  2 Trushkov, Max          FERK616A  1580  1585/163  W44 W51 2.0
+  3 Lee, Jae-yoon          SHMKC734  1576  1580/ 96  W51 W46 2.0
+  4 Frost, Ignatius        SHMJJ64P  1430  1439/ 58  W50 W48 2.0
+  5 Kuzin, Ethan           SHMK7567  1415  1422/283  W52 W28 2.0
+  6 Lewis, Theo            FERLK29P  1334  1349/ 71  W47 W50 2.0
+  7 Werner, Ross           SHMLB91H  1290  1311/105  W45 W29 2.0
+  8 Stanley, Soren         BLHM116S  1236  1267/ 53  W48 W47 2.0
+  9 Love, Charles          SHMK458N  1185  1188/ 71  W56 W58 2.0
+ 10 Carpenter, Jonas       FERJ274G  1063  1079/ 46  W53 W56 2.0
+ 11 Palmer, Evan           BHMJI90S   992   999/114  W67 W57 2.0
+ 12 Margeson, Tristan      MRDMI30S   928  1012/ 35  W26 W49 2.0
+ 13 Montoure, Nicolai      BLHLG50H   893   893/  7  W64 W67 2.0
+ 14 Hodges, Xander         BLHLB63W   860   898/ 21  W58 W53 2.0
+ 15 Peterson, Everest      MRDJ836M   834   869/ 15  W31 W68 2.0
+ 16 Plyuschakov, Max       BLHK532H   830   851/ 10  W43 W59 2.0
+ 17 Wang, Gavin            BHML7042   727   740/ 23  W59 W60 2.0
+ 18 Pounder, Jacob         MRDKG96X   708   733/ 20  W57 W64 2.0
+ 19 Adams, Carson          MRDMA48F   704   740/ 26  W34 W63 2.0
+ 20 Aujla, Sihaan          BLHK413P   639   969/  4  W63 W55 2.0
+ 21 Zender, Levi           MRDME540   614   677/ 15  W55 W54 2.0
+ 22 Clark, Camden          BLHL635A   580   631/ 21  W36 W39 2.0
+ 23 Phillips, Lucas        BLHK696K   448   534/  8  W37 W38 2.0
+ 24 Berry, Garcia          BHMKK99Z  1000  1175/  2  W61 W42 2.0
+ 25 Latham, Cash           MRDK658Y   814   787/  8  W60 D43 1.5
+ 26 Hall, Jack             FERMD220  1134  1108/ 98  L12 W52 1.0
+ 27 Mcfadden, Cameron      FERMI35S  1072  1056/ 86  L32 W45 1.0
+ 28 Goetzl, Twain          SHMM6001  1015  1040/218  W49 L5  1.0
+ 29 Clayton, Evan          SHMKA71G   995  1036/  7  W30 L7  1.0
+ 30 Reiss, Madelyn         BLHLJ21Y   972   966/ 41  L29 W32 1.0
+ 31 Danger, Presley        BLNG716S   829   825/ 26  L15 W33 1.0
+ 32 Coulter, Alex          MRDMF898   802   836/ 62  W27 L30 1.0
+ 33 Nyland, Taylor         BLHK124B   751   718/ 10  W68 L31 1.0
+ 34 Fransico-woodenlegs, JoMRDK680H   673   679/ 13  L19 W41 1.0
+ 35 Kerr, Ethan            BLHKJ06N   587   594/ 18  LF  W66 1.0
+ 36 Peper, James           BLHKB93F   572   550/ 10  L22 W61 1.0
+ 37 Tuski, Ian             BLHK934X   458   390/  4  L23 W65 1.0
+ 38 Emory, Lukas           LYEM112V   408   395/ 13  W62 L23 1.0
+ 39 Lee, Jensen            MRDJ947B   394   389/ 10  W65 L22 1.0
+ 40 Riley, Emiliano        SQUJK99Y   900   438/  2  L42 W62 1.0
+ 41 Sran, Imaandeep        SQUJK99X   900   631/  2  W54 L34 1.0
+ 42 Mcilvoy, Luke          LYMGK99W   600   850/  2  W40 L24 1.0
+ 43 Tin, Isaac             SQUJK99V   900   631/  2  L16 D25 0.5
+ 44 Peterson, Kylan        MRDL175Q  1185  1178/ 53  L2  L1  0.0
+ 45 Putnam, Israel         LYEJA22J  1150  1077/ 10  L7  L27 0.0
+ 46 Bowman, Finn           SHMKD50L  1142  1137/ 66  L1  L3  0.0
+ 47 Brown, Sofia           MRDL128V  1119  1091/ 19  L6  L8  0.0
+ 48 Chiu, Yi Jun           SHML347E  1113  1087/ 13  L8  L4  0.0
+ 49 Waters, Shawn          BLHKK63D  1099  1032/ 39  L28 L12 0.0
+ 50 Giblin, Joe            LYEMA51Z  1004   993/ 46  L4  L6  0.0
+ 51 Moore, Gregory         LYEL789Q   954   951/ 34  L3  L2  0.0
+ 52 Masterson, Emmett      LYEL300S   889   872/ 29  L5  L26 0.0
+ 53 Singh, Jagteshwar      MRDLJ25M   883   838/ 25  L10 L14 0.0
+ 54 Gamble, Lydia          BLHLI96B   643   579/ 12  L41 L21 0.0
+ 55 Mcintee, Reese         MRDKF91G   642   606/ 14  L21 L20 0.0
+ 56 Greer, Nathan          LYEJ566W   593   593/ 10  L9  L10 0.0
+ 57 Manly, Katie           FERK313C   566   542/ 45  L18 L11 0.0
+ 58 Bass, Garrison         SHMK3805   542   532/ 14  L14 L9  0.0
+ 59 Washington, Emerson    LUMLA00X   400   343/  5  L17 L16 0.0
+ 60 Gonzales, Jazzie       FERM372M   355   342/ 11  L25 L17 0.0
+ 61 Credle, Jamie          MRDKA99L   311   284/  7  L24 L36 0.0
+ 62 Rabadan, Oscar         MRDM462G   100   100/  7  L38 L40 0.0
+ 63 Skeels, Peter          SQUJK99T   900   349/  2  L20 L19 0.0
+ 64 Oscarson, Ethan        SQUJK99S   900   350/  2  L13 L18 0.0
+ 65 Wesley, Dylan          BHMKK99R  1000   100/  2  L39 L37 0.0
+ 66 Putnam, Jeremiah       LYMGK99P   600   206/  1  LF  L35 0.0
+ 67 Rabang, David          LUMLK99N  1100   537/  2  L11 L13 0.0
+ 68 Herboth, Quinn         SQUJK99M   900   340/  2  L33 L15 0.0

@@ -1,0 +1,31 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Moroney, Timothy       ADUN276J  2230  2232/ 29  W23 W8  W13 W5  4.0
+  2 Gavrish, Leonid        ADUN816H  1994  2004/  4  W17 W9  W4  W3  4.0
+  3 Karamali, Saiya        ADUN586R  1656  1681/  4  W20 W16 W10 L2  3.0
+  4 Yondon, Odbayar        LMAEK97T  1634  1678/ 90  W25 W12 L2  W13 3.0
+  5 Notkin, Akiva          ADUNH45Z  1460  1582/ 12  W30 W7  W12 L1  3.0
+  6 Wang, Leonardo         CKNG233K  1513  1529/ 14  W11 L13 W28 D14 2.5
+  7 Wong-godfrey, Emerson  BUSJH83E  1698  1687/423  W18 L5  W23 HPB 2.5
+  8 Gadde, Arnav           ENSEJ39D  1583  1597/107  W29 L1  W25 D10 2.5
+  9 Fondren, Chad          ADUN581H  1587  1595/ 17  W21 L2  W24 D11 2.5
+ 10 Bojorquez, Roberto     ADUN354W  1300  1669/  4  W22 W14 L3  D8  2.5
+ 11 Plancarte, Alejandro   ADUNE58X  1300  1574/  4  L6  W17 W22 D9  2.5
+ 12 Skkandann, Kiann       NPRL644M  1692  1660/ 26  W26 L4  L5  W21 2.0
+ 13 Razmov, Gabriel        ADDHC26K  1627  1624/234  W27 W6  L1  L4  2.0
+ 14 Verma, Darsh           WONGB52K  1643  1617/165  W24 L10 D18 D6  2.0
+ 15 Bartminn, Jan Lorenz   BLMGH59K  1462  1426/131  L19 L21 W29 W26 2.0
+ 16 Anandkumar, Haituka    STLI238P  1406  1398/323  W28 L3  D21 D18 2.0
+ 17 Fedorov, Vladimir      EVJIF17D  1385  1393/204  L2  L11 W19 W28 2.0
+ 18 Sharma, Soham          LMSGK09Q  1444  1444/ 44  L7  W27 D14 D16 2.0
+ 19 Dale, Luke             MTSJJ10P  1270  1292/ 60  W15 L22 L17 W29 2.0
+ 20 Burchall, Laurion      ADUNI92H  1374  1327/ 15  L3  L28 W30 HPB 1.5
+ 21 Mishra, Abhinav        TMBHB02W  1244  1283/ 56  L9  W15 D16 L12 1.5
+ 22 Meng, Miranda          OPWDH69P  1408  1397/ 71  L10 W19 L11 D24 1.5
+ 23 Mohan, Laya            LEOH617P  1409  1405/142  L1  W29 L7  D25 1.5
+ 24 Xu, Zoe                SOMDG70A  1308  1300/177  L14 W30 L9  D22 1.5
+ 25 Vijeyanandh, Vishnu    TMBHF63Z  1248  1279/132  L4  W26 L8  D23 1.5
+ 26 Mohan, Vishnu          KKNEF41R  1390  1339/ 94  L12 L25 W27 L15 1.0
+ 27 Mishra, Aakash         EBSD439K   880   879/ 53  L13 L18 L26 W30 1.0
+ 28 Flores Uriegas, Andres HLYD159F   832   981/  9  L16 W20 L6  L17 1.0
+ 29 Sharma, Devansh        KMNIF88S  1287  1230/130  L8  L23 L15 L19 0.0
+ 30 Panell, Amanda         ADUNC92B  1300   502/  4  L5  L24 L20 L27 0.0

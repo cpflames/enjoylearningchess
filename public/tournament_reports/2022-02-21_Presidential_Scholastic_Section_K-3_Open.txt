@@ -1,0 +1,27 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Merriman, Dann         WMNCF79Y  1490  1588/442  W5  W18 W2  W7  W6  5.0
+  2 Gadde, Arnav           ENSDJ39D  1309  1362/ 46  W19 W20 L1  W12 W8  4.0
+  3 Wang, Ares             MEDDJ77J  1280  1350/197  W24 L6  W23 W13 W7  4.0
+  4 Sankrithi, Sarang      HSCCB11D  1349  1371/148  W26 W23 W6  L8  D9  3.5
+  5 Dai, Alex              CHRDC43N  1139  1212/ 50  L1  W26 D14 W22 W15 3.5
+  6 Yondon, Odbayar        LMADK97T  1640  1603/ 51  W13 W3  L4  W11 L1  3.0
+  7 Ren, Aaron             HSCCG67B  1437  1427/ 85  W17 W12 W8  L1  L3  3.0
+  8 Liu, Vincent           ILAD546Q  1415  1395/130  W16 W21 L7  W4  L2  3.0
+  9 Cui, Max               CBRD946C  1344  1311/162  L18 W24 D11 W19 D4  3.0
+ 10 Shah, Kanav            LMAD295Q  1212  1168/ 29  L20 W22 L19 W17 W18 3.0
+ 11 Xu, Zoe                CNHCG70A  1196  1227/ 98  D22 W15 D9  L6  W20 3.0
+ 12 Malugu, Sankalp        SHSCE95W  1156  1161/228  W25 L7  W18 L2  W21 3.0
+ 13 Shankaranand, Deeksha  EBSDI74Y  1147  1173/121  L6  W17 W20 L3  W19 3.0
+ 14 Meng, Miranda          CNHCH69P  1199  1161/ 30  L21 W25 D5  L15 W22 2.5
+ 15 Bharadwaj, Samarth     DGHBE78A  1538  1447/ 73  L23 L11 W26 W14 L5  2.0
+ 16 Han, Victor            HSCDB39P  1075  1026/ 56  L8  L19 W24 L20 W25 2.0
+ 17 Li, Edgar              OPWB883Y   979   988/ 65  L7  L13 W25 L10 W23 2.0
+ 18 Ma, William            SSMC464K   911   997/ 13  W9  L1  L12 W23 L10 2.0
+ 19 Yun, Daniel D          BCABK87Z   916   992/108  L2  W16 W10 L9  L13 2.0
+ 20 Tie, Mike              ENDD856Y   853   977/ 10  W10 L2  L13 W16 L11 2.0
+ 21 Wang, Nicole           SOMD428S   821   873/ 35  W14 L8  L22 W24 L12 2.0
+ 22 Syal, Yash             SHSDC10R   815   853/ 38  D11 L10 W21 L5  L14 1.5
+ 23 Kakkad, Vayu           DCTBK50L  1113  1076/407  W15 L4  L3  L18 L17 1.0
+ 24 Narayan, Keshav        CMCDE45H   882   858/ 39  L3  L9  L16 L21 W26 1.0
+ 25 Li, Moses              CDWCK26L   676   697/ 30  L12 L14 L17 W26 L16 1.0
+ 26 Beegala, Dhruv         SHVCC52Y   972   883/ 22  L4  L5  L15 L25 L24 0.0

@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Deng, Stanley          LECDK22E  1408  1446/168  W18 W13 W6  W5  W7  5.0
+  2 Graham, Connor         CWHJ5610  1163  1172/164  L6  W21 W15 W13 W10 4.0
+  3 Kane, Callan           CWHLB00E  1152  1207/162  W9  D4  W12 L7  W17 3.5
+  4 Bharathy Mohan, Aarav  FRWDC98B  1084  1151/219  W16 D3  W17 L6  W12 3.5
+  5 Wahi, Advait           BLWF661F  1120  1203/101  W19 W17 D7  L1  W6  3.5
+  6 Padilla, Jose Arias    CWHJ888V   903  1084/ 34  W2  W10 L1  W4  L5  3.0
+  7 Janson-kovalev, Artem  HREFU87S  1215  1225/ 15  W15 D12 D5  W3  L1  3.0
+  8 Hernandez, Marcelo     CWHJK986  1139  1109/137  L13 W20 L10 W15 W18 3.0
+  9 Han, Victor            HSCDB39P  1044  1057/ 46  L3  L11 W16 W14 W20 3.0
+ 10 Alvarado, Eliasib      CWHL621B  1100  1097/  4  BYE L6  W8  W11 L2  3.0
+ 11 Kamalakannan, NetthrayaSKWIE22N  1027  1044/109  U   W9  W14 L10 D13 2.5
+ 12 Pegushin, Daniel       MEDFF62X  1091  1086/ 30  W14 D7  L3  W19 L4  2.5
+ 13 Esquivel, George       CWHLD456   849   904/216  W8  L1  D19 L2  D11 2.0
+ 14 Piedra, Daniel         CWHMD502   996   967/270  L12 W18 L11 L9  W21 2.0
+ 15 Mendoza, Leonardo      OCHI1126   889   899/254  L7  W16 L2  L8  W22 2.0
+ 16 Kane, Jarret           JMLIJ97S   809   824/ 98  L4  L15 L9  W21 W19 2.0
+ 17 Wahi, Lakshya          EVJI664Z  1332  1251/105  W22 L5  L4  W20 L3  2.0
+ 18 Lekkala, Vihan         BLWE428L   913   907/144  L1  L14 W21 W22 L8  2.0
+ 19 Luna Rocha, Sergio Jr  CWHJ3108   829   813/159  L5  W22 D13 L12 L16 1.5
+ 20 Heider, Elena          NOVHC647  1053   990/106  D21 L8  W22 L17 L9  1.5
+ 21 Han, Spencer           HSCCK75L   846   785/ 44  D20 L2  L18 L16 L14 0.5
+ 22 Nguyen, Tyler          RFPF715J   825   741/ 66  L17 L19 L20 L18 L15 0.0

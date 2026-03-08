@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Scott, Dane            HSCN293V  1476  1483/ 54  W3  L2  W4  2.0
+  2 Deng, Stanley          LECEK22E  1408  1431/224  W4  W1  L3  2.0
+  3 York, Tim              ADUNG34M  1080  1328/  6  L1  W4  W2  2.0
+  4 Palm, Caleb            LIBJ919S  1511  1434/192  L2  L3  L1  0.0

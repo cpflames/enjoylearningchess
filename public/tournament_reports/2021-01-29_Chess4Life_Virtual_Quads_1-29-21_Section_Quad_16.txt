@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Alam, Adil             BCAFI15X   774   905/121  W3  W4  W2  3.0
+  2 Wang, Andrew           MMEDD93V   776   776/ 23  D4  W3  L1  1.5
+  3 Sailer, Shaunak        SARDC25Z   764   740/ 53  L1  L2  W4  1.0
+  4 Senthil, Sanvi         SPTFH12F   733   690/278  D2  L1  L3  0.5

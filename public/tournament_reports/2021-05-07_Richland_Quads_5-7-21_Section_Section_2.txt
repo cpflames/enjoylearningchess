@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ebsch, Christopher     ADUNC65C  1300  1827/  3  W2  W3  W4  3.0
+  2 Deng, Stanley          CGMCK22E  1418  1426/116  L1  W4  W3  2.0
+  3 Saloranta, Leo         IMSHB40A  1257  1242/105  W4  L1  L2  1.0
+  4 Chung, Ian             LIBBG54U   400   400/ 15  L3  L2  L1  0.0

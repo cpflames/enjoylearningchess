@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Saddi, Neevan Reddy    GRRBH87M  1220  1256/ 22  W4  W2  L3  2.0
+  2 Wolfe, Jaxon           HSCF335Z  1405  1395/ 29  W3  L1  W4  2.0
+  3 Verretto, Dante        EMSIS76P  1045  1117/129  L2  D4  W1  1.5
+  4 Zhang, Ethan           CLHEE87D  1322  1264/404  L1  D3  L2  0.5

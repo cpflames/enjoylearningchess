@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Miller, Thomas         LMSG799Q  1728  1714/ 95  L2  W4  W3  2.0
+  2 Xie, Max               BLWHI185  1428  1485/394  W1  L3  W4  2.0
+  3 Upreti, Parthavi       TBKF754L  1539  1520/125  L4  W2  L1  1.0
+  4 Xiang, Herui           LWAL153Y  1450  1449/ 65  W3  L1  L2  1.0

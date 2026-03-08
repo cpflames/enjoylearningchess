@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Garg, Vihaan           CMCBJ10X   631   774/ 70  W3  W4  W2  3.0
+  2 Wu, Dennis             SCDBJ54B   676   636/ 47  W4  L3  L1  1.0
+  3 Wise-maldonado, Shaun  XXXHD23R   603   629/  8  L1  W2  LF  1.0
+  4 Fang, Weiai            BRBB696W   583   535/ 27  L2  L1  WF  1.0

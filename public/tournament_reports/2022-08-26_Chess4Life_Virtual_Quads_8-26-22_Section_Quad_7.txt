@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yang, Nicholas         CHRBG23U   928   946/ 41  W4  W3  L2  2.0
+  2 Sembium, Aditi         BCABK25W   913   936/126  L3  W4  W1  2.0
+  3 Cheng, Alan            CHRDJ71K   884   863/ 33  W2  L1  L4  1.0
+  4 Chaudhuri, Arihant     CHAC703E   883   862/102  L1  L2  W3  1.0

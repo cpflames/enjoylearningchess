@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Havaldar, Karsh        CSBDI03F  1441  1524/ 17  W3  D2  W4  2.5
+  2 Singh, Saket           DISJ872S  1500  1499/347  L4  D1  W3  1.5
+  3 Frederick, Benjamin    LAUFS57X  1546  1517/192  L1  W4  L2  1.0
+  4 Stein, Samuel          HSCFH03T  1451  1441/239  W2  L3  L1  1.0

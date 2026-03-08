@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Fonseca, Kenzo         RKWHA91R  1347  1360/ 92  W4  W3  L2  2.0
+  2 Singh, Saket           DISI872S  1318  1339/276  L3  W4  W1  2.0
+  3 Tan, Nathan            UCDC412Y  1301  1326/ 98  W2  L1  W4  2.0
+  4 Kan, Kaleb             MMEDF53E  1289  1229/197  L1  L2  L3  0.0

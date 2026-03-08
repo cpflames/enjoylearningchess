@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sofi, Aairah           BLMG618B   492   670/ 13  W3  W2  W4  3.0
+  2 Ebel, Parker           XXXI777Y   579   564/  8  W4  L1  D3  1.5
+  3 Tsui, Ashleen          SCDD676C   558   554/111  L1  W4  D2  1.5
+  4 Ge, Ava                SOMCJ70M   400   400/  3  L2  L3  L1  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lee, Jae-yoon          SHMJC734  1478  1552/ 75  W2  W4  W3  3.0
+  2 Bosch, Ethan           SHMMF67U  1356  1407/ 55  L1  W3  W4  2.0
+  3 Scollon, Owen          FHVG734D  1610  1564/322  W4  L2  L1  1.0
+  4 Bosch, Declan          FHVHE38K  1287  1255/ 22  L3  L1  L2  0.0

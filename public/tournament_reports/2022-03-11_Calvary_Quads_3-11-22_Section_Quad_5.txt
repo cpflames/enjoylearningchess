@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chung, Ian             LIBCG54U   598   633/ 50  W2  W3  W4  3.0
+  2 Hatfield, Daniel       KCCEH45W   400   400/  3  L1  W4  D3  1.5
+  3 Sharpe, Jack           KCCEE70D   400   400/  3  D4  L1  D2  1.0
+  4 York, Logan            KCCB527F   400   400/  3  D3  L2  L1  0.5

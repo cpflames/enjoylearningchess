@@ -1,0 +1,38 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zhang, Bowen           RKWEK55F  1458  1501/ 11  W26 W20 D12 W19 W8  4.5
+  2 Preizler, Adrian       JUHJD229  1513  1530/173  W25 W31 W7  D8  D3  4.0
+  3 Kokati, Pranav         OMSH814P  1428  1454/217  D32 W23 W9  W12 D2  4.0
+  4 Zhang, Aaron           MEDF873R  1324  1351/479  W17 L19 W16 W25 W11 4.0
+  5 Shi, Gavin             ADDIH855  1539  1522/343  W14 L12 W10 W22 D7  3.5
+  6 Liu, Vincent           ILAE546Q  1460  1434/156  W16 W21 L19 D13 W20 3.5
+  7 Urali, Sanjay          MEDF315D  1437  1448/332  W27 W13 L2  W15 D5  3.5
+  8 Demberel, Amana        LCOKJ14E  1398  1425/ 54  W28 W24 W11 D2  L1  3.5
+  9 Bansal, Vivaan         EVJI452J  1372  1372/ 63  W18 D10 L3  W32 W19 3.5
+ 10 Prashant, Niranjan     SNIF468K  1175  1265/ 10  W30 D9  L5  W28 W21 3.5
+ 11 Xie, Max               EVJII185  1504  1471/409  W15 W22 L8  W14 L4  3.0
+ 12 Yang, Harry            TLMII123  1300  1330/257  W34 W5  D1  L3  D13 3.0
+ 13 Xie, Michael           EVJG549C  1175  1217/354  W36 L7  W26 D6  D12 3.0
+ 14 Chowdhary, Shivam      EVJGD47H  1162  1211/ 68  L5  W32 W18 L11 W27 3.0
+ 15 Han, Victor            HSCEB39P  1100  1176/ 86  L11 W34 W21 L7  W24 3.0
+ 16 Chaurasia, Vihaan      HMNFH65G  1088  1138/110  L6  W33 L4  W36 W22 3.0
+ 17 Bansal, Aarini         SOMEK14R  1005  1072/148  L4  W37 W24 L20 W25 3.0
+ 18 Cole, Reece            THUJ3567   999  1097/128  L9  W30 L14 W31 W32 3.0
+ 19 Winter, Kayne          CSIFF38F   894  1124/118  W23 W4  W6  L1  L9  3.0
+ 20 Lechner, Liam          HSCI591P  1193  1183/ 51  WF  L1  D28 W17 L6  2.5
+ 21 Kedarisetty, Ishan     RCSF300B  1240  1199/128  W29 L6  L15 W33 L10 2.0
+ 22 Fei, Derek             SPTFJ01E  1226  1201/ 65  W35 L11 W27 L5  L16 2.0
+ 23 Rama, Savitur          EVJHH22Z  1187  1134/106  L19 L3  L32 W30 W35 2.0
+ 24 Cheng, Alan            CHREJ71K  1173  1127/ 54  W37 L8  L17 W29 L15 2.0
+ 25 Kosau, Mikhail         OMSHG08J  1157  1139/ 19  L2  BYE W31 L4  L17 2.0
+ 26 Qiu, Travis            MMEFF47M  1072  1051/ 53  L1  W35 L13 L27 W36 2.0
+ 27 Urman, Rafi            HBAG261Z  1071  1074/ 41  L7  W29 L22 W26 L14 2.0
+ 28 Boulanger, Valentin    CMMFB07H  1020  1044/ 41  L8  W36 D20 L10 D31 2.0
+ 29 Balaji, Sidharth       EVJGC22H   964   947/ 32  L21 L27 W37 L24 W34 2.0
+ 30 Agrawal, Aditi         RKWEH11E   858   867/ 19  L10 L18 BYE L23 W33 2.0
+ 31 Tie, Mike              ENDE856Y  1301  1222/ 53  W33 L2  L25 L18 D28 1.5
+ 32 Shen, Enoch            BLWFH90P  1066  1069/ 40  D3  L14 W23 L9  L18 1.5
+ 33 Barr, Walter           GARJK714   986   932/285  L31 L16 W35 L21 L30 1.0
+ 34 Lebedinsky, Alexander  EVJG958F   977   907/212  L12 L15 L36 W37 L29 1.0
+ 35 Ma, Max                CHRE554Z   938   809/  8  L22 L26 L33 BYE L23 1.0
+ 36 Sankar, Sneha          CNCF372B   889   870/238  L13 L28 W34 L16 L26 1.0
+ 37 Satish Kumar, Sai NavanCENEH21Y   400   500/  4  L24 L17 L29 L34 BYE 1.0

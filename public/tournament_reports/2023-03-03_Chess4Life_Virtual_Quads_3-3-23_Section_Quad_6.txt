@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Shaikot, Sabeer        ENSE147Q  1020  1145/156  W4  W2  W3  3.0
+  2 Bhaskara, Yash         ICSII539  1041  1065/245  W3  L1  W4  2.0
+  3 Zhang, Ethan Yichen    CRIFG57B   986   975/355  L2  W4  L1  1.0
+  4 Rajesh, Gagan Karthik  WASIF06V  1048   971/ 18  L1  L3  L2  0.0

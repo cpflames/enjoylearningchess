@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yu, Owen               MEDDC65S   796   820/ 70  L2  W3  W4  2.0
+  2 Chevuri, Tattva        CBRFC06V   760   802/279  W1  W4  L3  2.0
+  3 Naenna, Patanin        SPLEQ28H   694   776/206  W4  L1  W2  2.0
+  4 Song, Charlie          KJHHJ08F   838   740/ 23  L3  L2  L1  0.0

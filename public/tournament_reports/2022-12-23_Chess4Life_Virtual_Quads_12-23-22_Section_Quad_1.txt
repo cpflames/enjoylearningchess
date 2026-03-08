@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Boulis, Christos       NWSJC84T  1659  1680/568  W3  W4  W2  3.0
+  2 Kang, Jinue            OMSH2661  1516  1526/276  W4  W3  L1  2.0
+  3 Zhang, Aaron           MEDF873R  1351  1353/482  L1  L2  W4  1.0
+  4 Chien, Jeffrey         WPPFF41X  1353  1312/ 70  L2  L1  L3  0.0

@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Cheng, Edward          WMSIC74W  1640  1688/140  W5  W11 W8  W4  W3  5.0
+  2 Hijirida, Tyler        HTNIK358   997  1245/ 97  W10 L8  W9  W12 W6  4.0
+  3 Suess, Wade            EVGF101D  1465  1485/195  W7  W14 D4  W8  L1  3.5
+  4 Chung, Ethan           LIBE108U  1520  1512/228  W12 W9  D3  L1  D8  3.0
+  5 Tameling, Cole         UPAHK654  1223  1252/281  L1  W13 L6  W11 W10 3.0
+  6 Xu, Austin             SOMEH17F   988  1093/ 44  L9  BYE W5  W7  L2  3.0
+  7 Vangala, Agastya       LMSIB39V  1179  1242/270  L3  W10 W11 L6  W9  3.0
+  8 Shi, Gavin             ADDGH855  1402  1403/303  W13 W2  L1  L3  D4  2.5
+  9 Razmov, Gabriel        LCNFC26K  1306  1262/ 57  W6  L4  L2  W14 L7  2.0
+ 10 Su, Alfred             EGBC929B  1329  1268/183  L2  L7  W13 W15 L5  2.0
+ 11 Huang, Emily           MEDEB39A  1372  1315/100  W15 L1  L7  L5  BYE 2.0
+ 12 Fedorov, Vladimir      MMEGF17D  1260  1214/142  L4  W15 W14 L2  L13 2.0
+ 13 Sood, Akul             SASH510U  1052  1057/108  L8  L5  L10 BYE W12 2.0
+ 14 Fedorov, Kseniya       MMEG883P   970   979/114  BYE L3  L12 L9  W15 2.0
+ 15 Haritham, Shyam        BCWGG81P  1108  1031/ 75  L11 L12 BYE L10 L14 1.0

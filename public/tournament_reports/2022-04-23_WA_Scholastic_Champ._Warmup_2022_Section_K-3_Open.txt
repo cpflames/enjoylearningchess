@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Deng, Stanley          LECDK22E  1370  1373/201  W6  W5  W3  L2  W8  4.0
+  2 Vijayakrishnan, AchyuthPKRC646F  1230  1300/ 97  W4  L3  W6  W1  W5  4.0
+  3 Tie, Mike              ENDD856Y   977  1195/ 14  WF  W2  L1  W5  W6  4.0
+  4 Zhu, Aiden             LLSBC77X  1134  1107/ 40  L2  W7  L5  W8  BYE 3.0
+  5 Tunuguntla, Sai SrithanEMDDK78V  1166  1144/153  W7  L1  W4  L3  L2  2.0
+  6 Malugu, Sankalp        SHSCE95W  1161  1126/233  L1  W8  L2  W7  L3  2.0
+  7 Sembium, Aditi         BCABK25W   782   789/ 69  L5  L4  W8  L6  HPB 1.5
+  8 Ish-shalom, Ari        HSOAP28U   838   785/ 90  BYE L6  L7  L4  L1  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Patnaik, Aditya        CGAGA02G   600   841/  3  W4  W3  W2  3.0
+  2 Schaudt, Parker        FAPC799V   400   426/ 35  W3  W4  L1  2.0
+  3 Gajera, Vian           UCIBK12D   400   400/  3  L2  L1  W4  1.0
+  4 Su, Oliver             JINBD01U   400   400/  3  L1  L2  L3  0.0

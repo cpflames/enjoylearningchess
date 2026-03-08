@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Siddem, Sid            RHJHC34V  1378  1428/301  W4  D2  W3  2.5
+  2 Bharadwaj, Samarth     DGHAE78A  1335  1406/ 22  W3  D1  W4  2.5
+  3 Zhou, Yuchen           BCABJ42H  1392  1366/289  L2  W4  L1  1.0
+  4 Stein, Benjamin        HSCBB61S  1336  1280/153  L1  L3  L2  0.0

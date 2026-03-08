@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Boulis, Christos       RHJHC84T  1550  1583/436  W3  W4  D2  2.5
+  2 Merriman, Dann         WMNBF79Y  1583  1570/383  W4  L3  D1  1.5
+  3 Seela, Shashank        SSMEI74N  1499  1503/ 91  L1  W2  D4  1.5
+  4 Singh, Saket           DISH872S  1441  1418/213  L2  L1  D3  0.5

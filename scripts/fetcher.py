@@ -40,8 +40,9 @@ def scrape_tournament_reports(base_url, output_dir=_DEFAULT_OUTPUT_DIR, incremen
     # Parse the HTML
     soup = BeautifulSoup(response.text, 'html.parser')
 
-    # Find all rows within the tournament report table
-    rows = soup.select('table.report tr')
+    # Find all rows within the tournament report table.
+    # Main page uses table.report; archive pages use an unclassed table.
+    rows = soup.select('table.report tr') or soup.select('table tr')
     tournament_info = []
 
     # Process each row to extract all information
@@ -147,7 +148,14 @@ def scrape_tournament_reports(base_url, output_dir=_DEFAULT_OUTPUT_DIR, incremen
 
     print(f"\nDownloaded {new_count} new report(s).")
 
-    # After all files are downloaded, regenerate index.json
+    # After all files are downloaded, regenerate index.json and all_reports.json
+    generate_indexes(output_dir)
+
+    print("Scraping completed!")
+
+
+def generate_indexes(output_dir=_DEFAULT_OUTPUT_DIR):
+    """Regenerate index.json and all_reports.json from existing .txt files."""
     try:
         report_files = [f for f in os.listdir(output_dir) if f.endswith('.txt')]
         report_files.sort(reverse=True)
@@ -160,8 +168,26 @@ def scrape_tournament_reports(base_url, output_dir=_DEFAULT_OUTPUT_DIR, incremen
 
     except Exception as e:
         print(f"Error generating index.json: {str(e)}")
+        return
 
-    print("Scraping completed!")
+    try:
+        all_reports = {}
+        for filename in report_files:
+            filepath = os.path.join(output_dir, filename)
+            try:
+                with open(filepath, 'r', encoding='utf-8') as f:
+                    all_reports[filename] = f.read()
+            except Exception as e:
+                print(f"Warning: could not read {filename}: {e}")
+
+        bundle_path = os.path.join(output_dir, 'all_reports.json')
+        with open(bundle_path, 'w', encoding='utf-8') as f:
+            json.dump(all_reports, f)
+
+        print(f"Generated all_reports.json with {len(all_reports)} reports")
+
+    except Exception as e:
+        print(f"Error generating all_reports.json: {str(e)}")
 
 
 if __name__ == "__main__":
@@ -176,6 +202,14 @@ if __name__ == "__main__":
         default="https://ratingsnw.com/tournreports.html",
         help='URL of the page containing tournament report links'
     )
+    parser.add_argument(
+        '--generate-bundle',
+        action='store_true',
+        help='Regenerate index.json and all_reports.json from existing files only (no scraping)'
+    )
     args = parser.parse_args()
 
-    scrape_tournament_reports(args.url, incremental=not args.all)
+    if args.generate_bundle:
+        generate_indexes()
+    else:
+        scrape_tournament_reports(args.url, incremental=not args.all)

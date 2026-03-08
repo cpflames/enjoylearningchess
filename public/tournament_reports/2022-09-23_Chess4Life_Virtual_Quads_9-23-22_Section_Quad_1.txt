@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pisan, Kai             CHYJ404C  1757  1773/396  W4  W3  W2  3.0
+  2 Sangal Lopez, Dev      CTNG515J  1503  1529/328  W3  W4  L1  2.0
+  3 Upreti, Parthavi       TBKG754L  1500  1488/134  L2  L1  W4  1.0
+  4 Alam, Adil             BCAHI15X  1419  1382/268  L1  L2  L3  0.0

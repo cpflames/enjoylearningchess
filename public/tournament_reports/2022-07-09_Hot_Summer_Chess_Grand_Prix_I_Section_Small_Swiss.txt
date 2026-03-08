@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Coslick, Benjamin      SKYEE03M   400   846/  3  W5  W2  W3  3.0
+  2 Manookin, Adam         HSCCF67L   400   415/ 21  W4  L1  W5  2.0
+  3 Manookin, Jared        HSCCD11V   400   405/ 20  BYE W4  L1  2.0
+  4 Hall, Ryleigh          FACD278B   400   400/  6  L2  L3  BYE 1.0
+  5 Manderson, Reuben      LYCC321E   400   400/  2  L1  BYE L2  1.0

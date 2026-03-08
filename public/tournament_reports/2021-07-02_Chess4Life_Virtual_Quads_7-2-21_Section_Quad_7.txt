@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xu, Zoe                CNHBG70A   976   992/ 40  W4  L2  W3  2.0
+  2 Sridhar, Riya          AUDCG37Y   848   926/ 51  W3  W1  L4  2.0
+  3 Wang, Ares             BMNCJ77J   909   893/ 99  L2  W4  L1  1.0
+  4 Domingos, Daniel       MEDJ374N  1016   959/ 11  L1  L3  W2  1.0

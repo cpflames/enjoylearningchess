@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chatterjee, Sasmit     RHJGH23M  1051  1126/ 28  W4  W3  D2  2.5
+  2 Goel, Darsh            SBOFR06Y  1034  1043/ 46  L3  W4  D1  1.5
+  3 Hochberg, David        SUEJ6075  1081  1052/233  W2  L1  L4  1.0
+  4 Duseja, Ronit          TIMEA38H  1067  1042/102  L1  L2  W3  1.0

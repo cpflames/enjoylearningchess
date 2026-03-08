@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Yuen, Otto Shing-lok   KSHEF34N   783  1041/259  W25 W9  D7  W6  W2  4.5
+  2 Day, Amelia            MLPE844V   400  1213/  5  W13 W17 W4  W3  L1  4.0
+  3 Fung, Jonathan         EASF930M  1045  1100/ 23  W22 W8  W6  L2  W9  4.0
+  4 Lekkala, Vihan         BLWD428L   905  1012/124  W20 W24 L2  W8  W7  4.0
+  5 Carl, Aiden            SOMF802S   759   903/ 41  W14 D11 L8  W12 W10 3.5
+  6 Salal, Zikrain         SHSEJ82Z   997   992/ 25  W12 W10 L3  L1  W19 3.0
+  7 Wu, Jonathan           AGBE353W  1093  1066/106  D16 W13 D1  W17 L4  3.0
+  8 Gagnier, Ian           HSCCC72H  1109  1079/ 80  W21 L3  W5  L4  W16 3.0
+  9 Ramkumar, Siddharth    LMADH50B   943   943/179  W23 L1  W15 W16 L3  3.0
+ 10 Urman, Rafi            JDSE261Z   889   895/ 21  W19 L6  W18 W11 L5  3.0
+ 11 Desimone, James        VRDEH32X   972   943/ 62  W15 D5  D16 L10 W21 3.0
+ 12 Arunkumar, Ashwath     RSACH07X   759   785/ 26  L6  W22 W20 L5  W17 3.0
+ 13 Wei, Sarina            LCNEG09P   845   830/ 63  L2  L7  W24 W18 D14 2.5
+ 14 Kannapiran, Arnav      BLWC983P   400   674/  5  L5  L18 W22 W20 D13 2.5
+ 15 Chowdhury, Vihaan      MISE451K   676   681/ 29  L11 W19 L9  D22 W23 2.5
+ 16 Lo Conte, Augustus     CSIB331E   819   830/ 32  D7  W21 D11 L9  L8  2.0
+ 17 Wei, Marcus            LCNC588E   921   874/ 46  W18 L2  W23 L7  L12 2.0
+ 18 Maknojia, Asad         ENSEJ28R   678   671/ 17  L17 W14 L10 L13 W24 2.0
+ 19 Black, Stas            BCAC368F   400   620/  5  L10 L15 W25 W23 L6  2.0
+ 20 Balaji, Eshan          XXXD307X   597   566/ 15  L4  BYE L12 L14 W25 2.0
+ 21 Das, Siddharth         BLWF293Y   704   676/ 95  L8  L16 BYE W24 L11 2.0
+ 22 Sajith, Hetal          CDWEG13F   400   425/  6  L3  L12 L14 D15 BYE 1.5
+ 23 Shih, Kei              UCDA982C   643   554/ 10  L9  W25 L17 L19 L15 1.0
+ 24 Doran, Nikhil          LKDCD27P   420   400/ 52  BYE L4  L13 L21 L18 1.0
+ 25 Kanter, Ivy            BETC570N   400   400/  4  L1  L23 L19 BYE L20 1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Scollon, Owen          FHVH734D  1584  1610/420  W4  W2  W3  3.0
+  2 Stroud, Jeb            HSCHK22V  1147  1252/ 20  W3  L1  W4  2.0
+  3 Frost, Ignatius        SHMJJ64P  1629  1578/ 88  L2  W4  L1  1.0
+  4 Kozaczuk, James        SHKH108A  1139  1115/155  L1  L3  L2  0.0

@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 tot 
+  1 Wang, Daniel           LSSJ8287  1631  1673/583  W6  D5  W4  W8  W2  W7  D3  W10 U   7.0
+  2 Anandkumar, Haituka    STLH238P  1502  1568/285  W9  W7  D3  W10 L1  W6  D5  W4  W8  7.0
+  3 Xu, Owen               SOMC896M  1658  1635/120  L4  L8  D2  W7  U   W10 D1  W6  W5  5.0
+  4 Ramkumar, Nikhil       RBRE115E  1580  1578/157  W3  W10 L1  W6  L5  U   W8  L2  W7  5.0
+  5 Sankar, Abhay          LEOI6545  1541  1551/355  W10 D1  L6  U   W4  W8  D2  W7  L3  5.0
+  6 Cheng, Selina          THUE413R  1367  1375/348  L1  W9  W5  L4  W8  L2  L7  L3  W10 4.0
+  7 Nallappa, Vijay        REJGD40S  1585  1523/303  W8  L2  U   L3  W10 L1  W6  L5  L4  3.0
+  8 Vijeyanandh, Vishnu    TMBGF63Z  1203  1216/101  L7  W3  W10 L1  L6  L5  L4  U   L2  2.0
+  9 Budhraja, Jai          EBSEA16E  1113  1099/ 50  L2  L6  U   U   U   U   U   U   U   0.0
+ 10 Parthasarathy, Adithya EBSFB74Z  1011   986/ 18  L5  L4  L8  L2  L7  L3  U   L1  L6  0.0

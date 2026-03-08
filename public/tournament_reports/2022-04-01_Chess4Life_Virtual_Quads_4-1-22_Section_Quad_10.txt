@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kuluru, Samith         KKNFI99K   689   776/ 29  W4  W2  D3  2.5
+  2 Dalal, Raahi           CNHD949K   681   720/ 37  W3  L1  W4  2.0
+  3 Li, Haiyi              EALJ762H   658   671/ 15  L2  W4  D1  1.5
+  4 Wilson, Eli            HCHHW976   718   626/109  L1  L3  L2  0.0

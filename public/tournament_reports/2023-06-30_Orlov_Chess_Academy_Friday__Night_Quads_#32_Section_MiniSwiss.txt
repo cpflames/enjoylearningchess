@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Corcoro, Lucas         KKNEK14T   371   551/  6  W6  W5  W2  3.0
+  2 Ensz, Arlo             RHJGK62C   737   702/ 48  W5  W3  L1  2.0
+  3 Swagath, Pranav        BCACK23N   422   436/ 20  W4  L2  W6  2.0
+  4 Corcoro, Levi          KKNCK14S   100   222/  6  L3  W6  W5  2.0
+  5 Parikh, Advait         KKNDK07K   300   100/  3  L2  L1  L4  0.0
+  6 Garcia, Jose           ISEAK07J   100   100/  3  L1  L4  L3  0.0

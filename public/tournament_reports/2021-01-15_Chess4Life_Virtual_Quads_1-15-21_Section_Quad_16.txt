@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Neff, Enoch            ABEAF95Q   400   744/  3  W4  W2  D3  2.5
+  2 Kobayashi, Joe         XXXC119K   400   536/  6  W3  L1  W4  2.0
+  3 Carmel, Eli            EBSEF57W   400   544/  3  L2  W4  D1  1.5
+  4 Wang, Oscar            HSCBG77U   497   410/ 11  L1  L3  L2  0.0

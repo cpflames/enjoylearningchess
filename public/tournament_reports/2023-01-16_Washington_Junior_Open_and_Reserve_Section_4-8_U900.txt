@@ -1,0 +1,61 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Palathingal, Rafael    BEND196R   893  1086/ 14  W16 W21 W17 W7  W8  5.0
+  2 Kakani, Nehanth        KMNH979H   794   895/ 19  W44 W51 D30 W13 W9  4.5
+  3 Tian, Eric             SOMEI80S   897   923/ 39  W36 W19 L6  W30 W22 4.0
+  4 Huang, Edwin           MEDF616M   893   910/ 15  W37 W20 L7  W24 W19 4.0
+  5 Agrawal, Aditi         RKWEH11E   867   908/ 23  W60 W27 U   W34 W23 4.0
+  6 Byam, Caleb            HSCGI71C   839   866/ 20  W42 W33 W3  L9  W26 4.0
+  7 Lu, Ian                CRIEE83J   776   883/182  W52 W41 W4  L1  W14 4.0
+  8 Kwan-uchiyama, Avery   JINEH22T   770   878/ 44  W59 W47 W12 W14 L1  4.0
+  9 Panda, Sourish         THREK98E   552   748/ 10  W49 W15 W31 W6  L2  4.0
+ 10 Satish Kumar, Sai NavanCENEH21Y   500   734/  9  L30 W56 W20 W18 W15 4.0
+ 11 Damrau, Austin         PIVEK95E   400   981/  5  W25 W32 L14 W21 W17 4.0
+ 12 Venkatesan, Nimalan    VVMH701P   890   866/ 20  W38 W22 L8  L26 W30 3.0
+ 13 Joshi, Vaidehi         PLKHG37G   880   825/135  L51 W52 W35 L2  W36 3.0
+ 14 Gupta, Vihaan          SPTE172N   867   861/ 10  W39 W26 W11 L8  L7  3.0
+ 15 Harris, Sam            ENDGJ20Q   859   810/ 49  W40 L9  W37 W33 L10 3.0
+ 16 Phillips-acheson, SebasWOBG817T   735   726/204  L1  L45 W53 W31 W38 3.0
+ 17 Bahl, Shrey            OMSIG938   828   824/122  W43 W34 L1  W38 L11 3.0
+ 18 Ejsing, Oscar          KMNHE57F   804   762/ 19  W28 L35 W36 L10 W47 3.0
+ 19 Dalal, Raahi           LKDE949K   735   740/ 50  W53 L3  W51 W45 L4  3.0
+ 20 Qu, Yufei              TMBG250D   730   719/ 18  W54 L4  L10 W42 W35 3.0
+ 21 Rackoff, Dylan         BLWF507J   716   745/196  W46 L1  W39 L11 W45 3.0
+ 22 Mishra, Naveen         SNIFI07A   708   708/ 29  W55 L12 W41 W35 L3  3.0
+ 23 Alamuru, Kriti         CNCG815A   706   709/ 46  W56 L30 W44 W29 L5  3.0
+ 24 Bondalakunta, Krishna  CNCEK25A   689   670/ 59  L47 W59 W28 L4  W49 3.0
+ 25 Lo, Ella               SOMEB94E   632   636/ 20  L11 W53 L45 W43 W48 3.0
+ 26 Wright, Teddy          THUFC60C   574   665/ 10  W57 L14 W47 W12 L6  3.0
+ 27 Smacinih, Alexander    SOMEG83H   573   599/ 55  W48 L5  L29 W54 W46 3.0
+ 28 Reimer, Oliver         LKDEG59D   425   504/ 10  L18 W58 L24 W51 W33 3.0
+ 29 Yu, Michael            BLWFK95D   500   649/  5  L33 W42 W27 L23 W34 3.0
+ 30 Huttelmaier, Alex      CHRG218R   882   863/155  W10 W23 D2  L3  L12 2.5
+ 31 Dewan, Siddhartha      THUFK95C   500   553/  4  HPB W60 L9  L16 W44 2.5
+ 32 Smith, Peter           LKDE751W   774   700/ 41  W45 L11 L38 L46 W50 2.0
+ 33 Slettebak, Jordan      GRLF604V   547   557/ 13  W29 L6  W48 L15 L28 2.0
+ 34 Helmstetter, Andre     THUFK60F   536   534/ 80  W50 L17 W49 L5  L29 2.0
+ 35 Patil, Aarna           TBKFB20J   535   542/ 20  W58 W18 L13 L22 L20 2.0
+ 36 Mccarthy, Ronan        LKDFB40K   532   537/ 58  L3  W46 L18 W58 L13 2.0
+ 37 Chauhan, Riddhima      CRKFF72E   527   505/ 20  L4  W54 L15 L48 W53 2.0
+ 38 Felon, Ewen            MIEF372J   513   546/ 11  L12 W55 W32 L17 L16 2.0
+ 39 Cooper, Cameron        LKDF938T   480   453/ 15  L14 W57 L21 L47 W58 2.0
+ 40 Miller, Carolyn        FRDG953Q   470   421/114  L15 L48 L46 W56 W57 2.0
+ 41 Huttelmaier, Evelyn    CHRE757Z   465   433/128  BYE L7  L22 L49 W54 2.0
+ 42 Stiepleman, Leo        WMEE191U   439   447/ 25  L6  L29 W56 L20 W51 2.0
+ 43 Cooper, Alexander      LKDF835H   426   404/ 14  L17 L49 W55 L25 W59 2.0
+ 44 Zhang, Andy            BCAE885X   415   415/ 15  L2  W50 L23 W59 L31 2.0
+ 45 Jain, Khushal          EVJHK95B   700   626/  5  L32 W16 W25 L19 L21 2.0
+ 46 Suresh, Mukund SrinivasGTMHK95A   700   522/  5  L21 L36 W40 W32 L27 2.0
+ 47 Kim, Caiden            MAPFK94Z   500   601/  5  W24 L8  L26 W39 L18 2.0
+ 48 Kang, Willy            EASFK94Y   500   466/  5  L27 W40 L33 W37 L25 2.0
+ 49 Kajava, Riku           AGBEK94X   400   477/  5  L9  W43 L34 W41 L24 2.0
+ 50 Karthik Babu, Sherwin KSSMFK94W   500   257/  5  L34 L44 D59 W60 L32 1.5
+ 51 Yen, Apollo            RKWFG78H   484   461/ 23  W13 L2  L19 L28 L42 1.0
+ 52 Singla, Atharv         OPSFF53S   400   417/  8  L7  L13 W57 U   U   1.0
+ 53 Kim, Harrison          THUEK94V   400   328/  5  L19 L25 L16 W55 L37 1.0
+ 54 Lobo-moorthy, Elan     GRLFK94T   500   268/  5  L20 L37 W60 L27 L41 1.0
+ 55 Chu, Asher             JINEK94S   400   211/  5  L22 L38 L43 L53 W60 1.0
+ 56 Karthik, Prerna        BRWEK94R   400   100/  4  L23 L10 L42 L40 BYE 1.0
+ 57 Jiang, Jason           SSMEK94Q   400   100/  4  L26 L39 L52 BYE L40 1.0
+ 58 Sharma, Keerthi        WMNEK94P   400   100/  4  L35 L28 BYE L36 L39 1.0
+ 59 Pristera, Yoona        XXXEK94N   400   117/  5  L8  L24 D50 L44 L43 0.5
+ 60 Yang, Maximilian       SOME632J   480   321/ 19  L5  L31 L54 L50 L55 0.0

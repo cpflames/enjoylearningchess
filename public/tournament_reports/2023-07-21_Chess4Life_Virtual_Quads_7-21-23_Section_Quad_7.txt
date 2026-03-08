@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Burns, Trent           HH2FZ945   650   757/ 11  W3  W4  W2  3.0
+  2 Karthik, Sai           BCAC261S   779   776/ 61  W4  W3  L1  2.0
+  3 Lechner, Ryker         HSCE496J   625   611/ 59  L1  L2  W4  1.0
+  4 Ramkumar, Aditya       UNKCC38J   624   551/ 63  L2  L1  L3  0.0

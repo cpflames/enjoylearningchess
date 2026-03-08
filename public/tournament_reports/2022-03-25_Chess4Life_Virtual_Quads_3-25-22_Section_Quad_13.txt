@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sreraman, Rahul        BCABJ42L   606   682/ 17  W2  W3  W4  3.0
+  2 Ge, Alex               CCDB908H   419   487/  9  L1  W4  W3  2.0
+  3 Su, Oliver             JINBD01U   466   442/ 17  W4  L1  L2  1.0
+  4 Schaudt, Parker        FAPC799V   429   400/ 61  L3  L2  L1  0.0

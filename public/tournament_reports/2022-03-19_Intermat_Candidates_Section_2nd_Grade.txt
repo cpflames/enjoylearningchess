@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Ted              MEDCK13D  1853  1842/181  D3  W2  D4  2.0
+  2 Lin, Michael           BCACC97F  1635  1660/232  W4  L1  W3  2.0
+  3 Merriman, Dann         WMNBF79Y  1588  1605/445  D1  W4  L2  1.5
+  4 Xu, Owen               SOMC896M  1635  1608/123  L2  L3  D1  0.5

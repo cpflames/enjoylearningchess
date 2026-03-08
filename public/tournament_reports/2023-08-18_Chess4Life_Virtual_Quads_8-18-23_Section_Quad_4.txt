@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Patel, Aarya           REEEK30E  1117  1167/ 53  W4  D2  W3  2.5
+  2 Narkhede, Kshitij      CRKBA27K  1081  1149/ 76  W3  D1  W4  2.5
+  3 Hildenbrand, Blane     PSMH122V  1081  1058/180  L2  W4  L1  1.0
+  4 Tan, Charlie           MEDB273V  1022   963/ 37  L1  L3  L2  0.0

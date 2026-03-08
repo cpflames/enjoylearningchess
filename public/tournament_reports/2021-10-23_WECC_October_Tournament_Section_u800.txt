@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Shankaranand, Deeksha  EBSDI74Y   923  1027/ 88  W10 W4  W13 W2  W5  5.0
+  2 Arikatla, Ved Anush RedBRHDD38C   793   861/ 24  W16 W9  W5  L1  W4  4.0
+  3 Jackson, Dyson         ACKD717K   623   647/ 29  W15 W20 L4  D10 W12 3.5
+  4 Padilla, Jose Arias    CWHJ888V   786   795/ 24  W14 L1  W3  W13 L2  3.0
+  5 Larsen, Matthew        EVGB423L   627   676/ 26  W19 W11 L2  W6  L1  3.0
+  6 Hoard, Otis            VIWD690B   406   550/ 33  L9  W14 W11 L5  W16 3.0
+  7 Morentsov, Ishaan      SOME677U   659   703/  9  U   L13 W17 W15 W10 3.0
+  8 Ramkumar, Nethra       RBRE315Z   817   795/ 90  U   L15 W14 W19 W13 3.0
+  9 Hill, Emmett           MCGFH87Z   616   616/ 37  W6  L2  L10 D11 W15 2.5
+ 10 Larsen, Christopher    EVNA436G   400   671/  5  L1  W19 W9  D3  L7  2.5
+ 11 Nelson, Landon         CWAD961A   599   578/ 30  W12 L5  L6  D9  W18 2.5
+ 12 Balasubramanian, AkshatRCSD700Y   486   473/ 18  L11 BYE D15 W16 L3  2.5
+ 13 Kamisetty, Komansai    CDWE644X   400   666/  5  W17 W7  L1  L4  L8  2.0
+ 14 Petersen, Gabriel      CTKEG17B   506   481/ 89  L4  L6  L8  BYE W19 2.0
+ 15 Craigen, Eleanor       ACKE761U   449   461/ 51  L3  W8  D12 L7  L9  1.5
+ 16 Banuelos, Arturo       MCUDD90C   527   475/ 78  L2  D17 W18 L12 L6  1.5
+ 17 Kim, Cassandra         LECE500H   535   452/ 93  L13 D16 L7  L18 BYE 1.5
+ 18 Gonzalez, Ethan        JMLG158T   600   400/  3  U   U   L16 W17 L11 1.0
+ 19 Paris, Reese           MCGF571C   461   400/ 14  L5  L10 BYE L8  L14 1.0
+ 20 Moldonado, Ian         JMLI571B   800   400/  1  BYE L3  U   U   U   1.0

@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Zhang, Iris            TMBI858X  1593  1708/349  W3  W5  W2  D4  W6  W7  5.5
+  2 Jammalamadaka, Varnika OVLID216  1726  1736/452  D6  W4  L1  W3  W5  BYE 4.5
+  3 Khandelwal, Krisha     REDLG48D  1100  1705/  6  L1  W6  W5  L2  W7  W4  4.0
+  4 Szeto, Sophie          LSSLH023  1725  1691/343  HPB L2  W7  D1  BYE L3  3.0
+  5 Chen, Angela           HLNKB334  1622  1593/299  W7  L1  L3  BYE L2  W6  3.0
+  6 Deng, Grace            HHSM1468  1453  1422/245  D2  L3  BYE D7  L1  L5  2.0
+  7 Seshadri, Vindhya      GTMH953Y   898   918/ 43  L5  BYE L4  D6  L3  L1  1.5

@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Koppala, Venu          ADUNI95S  1290  1429/ 15  W2  W4  W3  W5  W6  5.0
+  2 Mcentire, Joel         CTMNK10K  1393  1384/  9  L1  W11 WF  W7  W3  4.0
+  3 Barrera, Tino          ADUN6658   893  1075/164  W12 W6  L1  W11 L2  3.0
+  4 Wilke, Marilyn         ADUN3187   810   869/ 51  W14 L1  L7  W10 W9  3.0
+  5 Kuchhal, Pramil        ADUNI731   761   831/ 22  BYE W10 W9  L1  L7  3.0
+  6 Li, Wenbing            ADUNK15Q  1300  1209/  5  W13 L3  W8  W9  L1  3.0
+  7 Catayas, Christian B   ADUNK15P  1300  1095/  5  L9  W14 W4  L2  W5  3.0
+  8 Kissinger, Rusty       ADUNK15M  1300  1040/  4  W10 L9  L6  BYE W11 3.0
+  9 Yu, Patrick            BOTL621D  1256  1182/ 19  W7  W8  L5  L6  L4  2.0
+ 10 Pai, Vittal            ADUNK15L  1300   458/  3  L8  L5  WF  L4  WF  2.0
+ 11 Hurd, Walter           ADUNK15K  1300   816/  4  U   L2  W13 L3  L8  1.0
+ 12 Sinclair, Kc           EVGNK15J  1300   937/  2  L3  W13 LF  U   U   1.0
+ 13 Lewis, Lawrence        ADUNK15G  1300   547/  3  L6  L12 L11 BYE LF  1.0
+ 14 Perodeau, Ben          EVGNK15F  1300   535/  2  L4  L7  LF  U   U   0.0

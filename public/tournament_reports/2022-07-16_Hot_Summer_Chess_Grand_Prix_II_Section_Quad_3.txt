@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nagra, Joga            FACHI02B  1015  1105/ 34  W3  W4  D2  2.5
+  2 Kozaczuk, James        SHKG108A  1111  1121/ 89  D4  W3  D1  2.0
+  3 Lewis, Kaleb           WCAGF41Z  1222  1074/  6  L1  L2  W4  1.0
+  4 Melius, Mason          FACEF58R   941   921/ 23  D2  L1  L3  0.5

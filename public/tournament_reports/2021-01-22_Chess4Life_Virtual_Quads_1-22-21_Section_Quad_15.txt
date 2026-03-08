@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hochberg, David        SUEI6075   675   806/ 67  W3  W2  W4  3.0
+  2 Senthil, Sanvi         SPTFH12F   720   733/275  W4  L1  W3  2.0
+  3 Yun, Daniel            TPSC768W   652   627/ 24  L1  W4  L2  1.0
+  4 Mitra, Rishab          OPWC138L   552   496/ 64  L2  L3  L1  0.0

@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kirby, Brian           BLNHB25B   700   719/  3  W6  W3  D2  2.5
+  2 Egland, Crosby         VSTG264S   400   446/  9  D8  W5  D1  2.0
+  3 Greene, Kylie          VSTGE69K   400   497/  6  W7  L1  W4  2.0
+  4 Paz, Fernando          HORGK27P   400   400/  6  D5  W8  L3  1.5
+  5 Clarke, Jonathan       BLNIG05B   800   400/  3  D4  L2  W7  1.5
+  6 Crediford, Nilay       HORIF28K   400   400/  6  L1  L7  W8  1.0
+  7 Hughes, Isaiah         HORGK64K   600   400/  3  L3  W6  L5  1.0
+  8 Michaud, Jonny         BLNG990Z   600   400/  3  D2  L4  L6  0.5

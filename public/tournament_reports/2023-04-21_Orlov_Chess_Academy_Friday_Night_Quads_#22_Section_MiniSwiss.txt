@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Guthrie, William       NSTHK30W   860   931/ 11  W5  W2  W3  3.0
+  2 Mothukuri, Akhil       INGHT84J   992   967/182  W4  L1  W5  2.0
+  3 Wu, Hao-cheng          CMCF911D   639   666/ 27  W6  W4  L1  2.0
+  4 Xu, Ethan              BENDK98S   639   608/ 42  L2  L3  W6  1.0
+  5 Ensz, Arlo             RHJGK62C   417   433/ 27  L1  W6  L2  1.0
+  6 Wang, Felix            BCABK64Q   332   285/ 14  L3  L5  L4  0.0

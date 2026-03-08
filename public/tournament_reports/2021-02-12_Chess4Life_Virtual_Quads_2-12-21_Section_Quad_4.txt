@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Khandelwal, Ayush      REEE897D  1355  1433/130  W2  W4  W3  3.0
+  2 Vijayakrishnan, AchyuthPKRB646F  1308  1332/ 29  L1  W3  W4  2.0
+  3 Karri, Aditya          AUDDC55V  1323  1300/ 85  W4  L2  L1  1.0
+  4 Mathur, Aashi          CRKF522S  1261  1208/197  L3  L1  L2  0.0

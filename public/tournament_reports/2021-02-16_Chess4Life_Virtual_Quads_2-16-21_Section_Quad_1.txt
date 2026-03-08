@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yang, Alexander        CHRED81J  1658  1670/176  W4  W2  W3  3.0
+  2 Huang, Emily           MEDEB39A  1244  1248/124  W3  L1  L4  1.0
+  3 Wolfe, Jaxon           HSCF335Z  1388  1363/ 41  L2  W4  L1  1.0
+  4 Zhang, Ethan           CLHEE87D  1228  1235/419  L1  L3  W2  1.0

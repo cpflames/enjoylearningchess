@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhou, Yuchen           BCABJ42H  1309  1380/228  W3  W2  W4  3.0
+  2 Tiwari, Prakhar        INGH785R  1269  1286/ 43  W4  L1  W3  2.0
+  3 Zhang, Ethan (yichen)  CRIDG57B  1219  1203/ 66  L1  W4  L2  1.0
+  4 Bharathy Mohan, Aarav  FRWCC98B  1176  1124/124  L2  L3  L1  0.0

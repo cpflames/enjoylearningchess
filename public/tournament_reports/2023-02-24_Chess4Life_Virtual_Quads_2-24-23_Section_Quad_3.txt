@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bharadwaj, Anish       WPPII530  1154  1192/292  W2  U   W3  2.0
+  2 Zhu, Kevin             CSMD865U  1104  1102/348  L1  W3  U   1.0
+  3 Zhang, Ethan Yichen    CRIFG57B  1025   986/352  U   L2  L1  0.0

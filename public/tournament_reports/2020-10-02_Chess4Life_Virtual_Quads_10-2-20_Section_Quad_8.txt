@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Karri, Aditya          AUDDC55V  1205  1223/ 47  W4  D2  W3  2.5
+  2 Cha, Samuel            LAVDK18Z   958  1095/ 56  W3  D1  W4  2.5
+  3 Yu, Christopher        SPTG591U  1052  1037/ 84  L2  W4  L1  1.0
+  4 Pravlik, Aiden         SHSB416H  1071  1002/101  L1  L3  L2  0.0

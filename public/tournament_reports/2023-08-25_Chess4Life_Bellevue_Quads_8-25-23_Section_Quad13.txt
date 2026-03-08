@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hu, Maxwell            HSCAK03N   378   479/  6  W3  W2  W4  3.0
+  2 So, Brandon            CCDBK01X   100   361/  3  W4  L1  W3  2.0
+  3 Lin, Luna              BCABK01W   100   164/  3  L1  W4  L2  1.0
+  4 Ramola, Ved            HSCAK01V   100   100/  3  L2  L3  L1  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhou, Nathan           NJHH215X  1213  1330/ 29  W4  W2  W3  3.0
+  2 Bansal, Vivaan         EVJI452J  1290  1300/ 49  W3  L1  W4  2.0
+  3 Durbhakula, Lalith     LMAJ332Z  1186  1177/ 95  L2  W4  L1  1.0
+  4 Salal, Zikrain         SHSGJ82Z  1223  1159/ 51  L1  L3  L2  0.0

@@ -1,0 +1,73 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chen, Mac              KMNHJ57U   700  1353/  5  W26 W35 W11 W5  W4  5.0
+  2 Vutukuri, Niharika     REJGB12L   701   902/ 34  W53 W32 W56 D3  W6  4.5
+  3 Zaballa, Sebastian     WOWH970Z   700  1129/  5  W25 W23 W19 D2  W17 4.5
+  4 Lebedinsky, Alexander  EVJG958F   891   977/207  W51 W48 W14 W7  L1  4.0
+  5 Ramanathan, Hamsini    OPWHH41M   872   897/ 39  W63 W49 W28 L1  W31 4.0
+  6 Thungathurthi, PranavarINGGG82R   700   879/ 14  W54 W33 W9  W16 L2  4.0
+  7 Lee, Justin            CONG732V   600  1053/  5  W42 W21 W17 L4  W19 4.0
+  8 Nerella, Abhiram       HGMHI18R   700   908/  5  W46 L14 W47 W25 W20 4.0
+  9 Tian, Eric             SOMEI80S   827   910/  7  W58 W24 L6  W26 W28 4.0
+ 10 Chad, Lara Evelyn      ADDG134L   600   815/  4  BYE L28 W29 W45 W27 4.0
+ 11 Lakshminarayanan, KaavyOMSG210E   843   859/ 61  W65 W13 L1  D37 W36 3.5
+ 12 Kuhile, Anay           REEE964U   812   833/ 10  W52 D18 W40 L19 W37 3.5
+ 13 Wang, Evan             PLKGB88C   755   780/ 42  W22 L11 D36 W38 W39 3.5
+ 14 Darling, Declan        SABIC644   682   809/102  W60 W8  L4  W30 D16 3.5
+ 15 Appel, Nate            OCSGK60T   600   856/  5  W41 L20 W44 D23 W35 3.5
+ 16 Huang, Edwin           MEDF616M   500   889/  5  W27 W44 W20 L6  D14 3.5
+ 17 Phillips-acheson, SebasWOBG817T   864   872/191  W64 W50 L7  W18 L3  3.0
+ 18 Rajan, Vivaan          GTMG301F   862   840/ 15  W31 D12 W38 L17 D23 3.0
+ 19 Guzman, Nate           TPSE939A   853   871/106  W59 W30 L3  W12 L7  3.0
+ 20 Narayan, Keshav        CMCEE45H   827   824/ 53  W66 W15 L16 W50 L8  3.0
+ 21 Gupta, Ayush           BLMGB05F   796   760/ 75  W71 L7  L50 W49 W48 3.0
+ 22 Battula, Jeswanth Sri SICSHE96V   794   747/ 30  L13 W65 W49 L31 W50 3.0
+ 23 Alamuru, Kriti         SKWG815A   677   724/ 36  W55 L3  W64 D15 D18 3.0
+ 24 Thorrington, James     SANE547U   671   648/ 31  W70 L9  L31 W63 W51 3.0
+ 25 Tsang, Andrew          MEDFE48P   664   698/ 22  L3  W54 W66 L8  W53 3.0
+ 26 Deepak, Advait         BRHFD74M   616   683/ 32  L1  W60 W33 L9  W52 3.0
+ 27 Adjei, Kyle Kofi       BUSEB64H   604   659/ 20  L16 W55 W53 W34 L10 3.0
+ 28 Ephrem, Keli           HSCFE64R   597   706/ 50  W39 W10 L5  W56 L9  3.0
+ 29 Slettebak, Jordan      GRLF604V   484   547/  8  HPB HPB L10 W57 W56 3.0
+ 30 Benesh, Archer         BETE970H   420   658/ 15  W40 L19 W42 L14 W41 3.0
+ 31 Balakrishnan, Lakshana EVJGJ38M   400   565/ 10  L18 W69 W24 W22 L5  3.0
+ 32 Mccallum, Siobhan      BCXEZ076   400   717/  5  W43 L2  L37 W44 W45 3.0
+ 33 Novosselov, Anton      SBEEI56L   400   714/  5  W36 L6  L26 W47 W46 3.0
+ 34 Tamanaha, Ryden        BLWF132N   523   594/  9  D38 D37 W48 L27 W43 3.0
+ 35 Juarez-caballero, CristSNIFD76Z   687   686/ 14  W67 L1  W51 D39 L15 2.5
+ 36 Gajcowski, Devin       BETEA94Z   633   631/141  L33 W67 D13 W52 L11 2.5
+ 37 Sena, Samuel           ECLF699U   526   579/ 25  D61 D34 W32 D11 L12 2.5
+ 38 Miller, Violet         FRDHH568   496   518/114  D34 W61 L18 L13 W60 2.5
+ 39 Doronin, Victor        BMNF335T   500   642/  5  L28 W58 W46 D35 L13 2.5
+ 40 Tian, Grace            CRIFE89L   873   769/142  L30 W59 L12 L48 W58 2.0
+ 41 Kalian, Illia          VIWEI13T   779   691/ 27  L15 L66 W55 W64 L30 2.0
+ 42 Kukreja, Aarav         EGBE433H   722   657/ 22  L7  W71 L30 L53 W65 2.0
+ 43 Tran, Kaden            EVIFI52W   683   604/147  L32 L53 W68 W66 L34 2.0
+ 44 Smacinih, Alexander    MEDEG83H   617   595/ 45  W68 L16 L15 L32 W66 2.0
+ 45 Metzmaker, Kyren       OPWE430W   599   574/118  HPB HPB W65 L10 L32 2.0
+ 46 Raji, Surya            OPWE181Q   595   564/ 39  L8  W70 L39 W54 L33 2.0
+ 47 Miller, Carolyn        FRDG953Q   490   470/109  L56 W57 L8  L33 W67 2.0
+ 48 Spearman, Emery        FAPF101R   477   509/ 20  W57 L4  L34 W40 L21 2.0
+ 49 Huttelmaier, Evelyn    CHRE757Z   473   465/124  W69 L5  L22 L21 W68 2.0
+ 50 Chin, Lucy             HSCF808B   427   500/ 10  W72 L17 W21 L20 L22 2.0
+ 51 Jones, Cordell         WPPH1290   427   455/ 19  L4  W68 L35 W62 L24 2.0
+ 52 Stiepleman, Leo        WMEE191U   400   439/ 20  L12 W62 W61 L36 L26 2.0
+ 53 Takala, Greysen        VIWEE55T   400   607/  5  L2  W43 L27 W42 L25 2.0
+ 54 Liao, Joe              MEDFE93Z   500   477/  5  L6  L25 W72 L46 W62 2.0
+ 55 Hollins, Nadine        SYLG137F   600   423/  5  L23 L27 L41 W72 W63 2.0
+ 56 Sakaki, Miyuki         OVLGE89F   600   510/  5  W47 W63 L2  L28 L29 2.0
+ 57 Battula, Keerthi Sri SiCMCE733D   400   400/  5  L48 L47 W71 L29 W64 2.0
+ 58 Wu, Olivia             BCAEG32P   524   480/ 27  L9  L39 D60 W70 L40 1.5
+ 59 Chen, Grace            MEDE841H   400   400/ 12  L19 L40 D70 L65 WF  1.5
+ 60 Hollins, Adia          SYLGF68D   600   400/  5  L14 L26 D58 W61 L38 1.5
+ 61 Kuo, Kimi              CLHF600H   500   400/  5  D37 L38 L52 L60 W70 1.5
+ 62 Dasigi, Abhinav        RSAEK53E   721   587/ 29  LF  L52 W67 L51 L54 1.0
+ 63 Shu, Iris              MEDEI77N   417   400/ 11  L5  L56 W69 L24 L55 1.0
+ 64 Meshkova, Polina       CSIF449E   400   400/ 18  L17 W72 L23 L41 L57 1.0
+ 65 Sohal, Tazmin          OPWE162K   400   400/ 18  L11 L22 L45 W59 L42 1.0
+ 66 O'neil, Owen           TLEEG89E   400   422/  7  L20 W41 L25 L43 L44 1.0
+ 67 Donohoe, Flora         LPZEF48Q   400   400/  5  L35 L36 L62 W69 L47 1.0
+ 68 Dur, Harvey            PKWF643R   500   400/  5  L44 L51 L43 W71 L49 1.0
+ 69 Mobrand, Gustav        HBVE189Z   400   400/  5  L49 L31 L63 L67 W72 1.0
+ 70 Mondri, Jonathan       BUSFC11G   500   400/  5  L24 L46 D59 L58 L61 0.5
+ 71 Mykush, Dima           JHYEK10W   400   400/  4  L21 L42 L57 L68 LF  0.0
+ 72 Monroe, Maya           BUSFB99V   500   400/  5  L50 L64 L54 L55 L69 0.0

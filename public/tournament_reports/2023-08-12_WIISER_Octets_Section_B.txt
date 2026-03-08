@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sankrithi, Vivaan      HSCAK61R   710   730/ 60  W8  W3  W2  3.0
+  2 Guity, Siovaun         SYRC251G   394   419/ 35  W5  W7  L1  2.0
+  3 Too, Amelia            THUCK87Q   338   382/ 13  W6  L1  W7  2.0
+  4 Riley, Amare           BEADK04B   300   310/  3  L7  W5  W6  2.0
+  5 Wang, Kiara            MRPBK04A   100   145/  3  L2  L4  W8  1.0
+  6 Wang, Kenzo            MRPCK03Z   200   134/  3  L3  W8  L4  1.0
+  7 Rogers, Alonzo         EINFK03Y   500   241/  3  W4  L2  L3  1.0
+  8 Pleasants, Sophia GraceTHUAK03X   100   100/  3  L1  L6  L5  0.0

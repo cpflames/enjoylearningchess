@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kona, Vidip            RSADI26J  1861  1882/234  W13 W3  D2  W8  W7  4.5
+  2 Wang, Ted              MEDCK13D  1731  1789/159  W12 W9  D1  W11 W8  4.5
+  3 Shah, Paras            EVJG904N  1640  1646/152  W14 L1  D9  W12 D5  3.0
+  4 Bhaskaran, Siddharth   HMNC152J  1525  1532/ 18  L8  L13 W14 BYE W10 3.0
+  5 Lin, Michael           BCACC97F  1518  1586/211  D11 W10 D8  D7  D3  3.0
+  6 Anandkumar, Haituka    STLH238P  1431  1480/267  BYE L8  L10 W9  W11 3.0
+  7 Cheng, Edward          GARJC74W  1697  1689/328  HPB D11 W12 D5  L1  2.5
+  8 Xu, Owen               SOMC896M  1654  1654/109  W4  W6  D5  L1  L2  2.5
+  9 Ramkumar, Nikhil       RBRE115E  1547  1563/135  W10 L2  D3  L6  W13 2.5
+ 10 Tatikonda, Nihanth     CPJH926F  1671  1626/194  L9  L5  W6  W13 L4  2.0
+ 11 Razmov, Gabriel        ADDGC26K  1647  1624/167  D5  D7  W13 L2  L6  2.0
+ 12 Garine, Ujwal          REJIB99A  1552  1531/168  L2  W14 L7  L3  BYE 2.0
+ 13 Liu, Lucas             SOMEH33R  1578  1539/158  L1  W4  L11 L10 L9  1.0
+ 14 Han, Shuyi             SOMFK47W  1464  1420/245  L3  L12 L4  U   U   0.0

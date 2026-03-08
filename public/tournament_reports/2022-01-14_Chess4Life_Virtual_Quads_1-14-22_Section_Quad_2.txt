@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhou, Yuchen           BCACJ42H  1430  1526/394  W3  W2  W4  3.0
+  2 Upreti, Parthavi       XXXF754L  1457  1474/ 46  W4  L1  W3  2.0
+  3 Singh, Saket           DISI872S  1435  1417/297  L1  W4  L2  1.0
+  4 Zhao, Dennis           CGRF525E  1422  1367/196  L2  L3  L1  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Juarez-caballero, CristSNIFD76Z   959   961/ 62  W4  L3  W2  2.0
+  2 Naidu, Pru             SKNJ400N   974   946/ 49  D3  W4  L1  1.5
+  3 Bidasaria, Kush        PFCG357C   748   793/ 74  D2  W1  L4  1.5
+  4 Xing, Andrew           SSSBK62E   799   794/ 38  L1  L2  W3  1.0

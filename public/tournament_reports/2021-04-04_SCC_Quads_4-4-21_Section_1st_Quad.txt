@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Vega, Isaac            ADONW943  1972  1999/106  W2  W4  L3  2.0
+  2 Perez, Ignacio         ADUNA795  2224  2212/ 26  L1  W3  WF  2.0
+  3 Nicoski, Aaron         ADUN598C  1789  1810/ 35  L4  L2  W1  1.0
+  4 Guha, Mitrabha         ADINY517  2446  2441/ 26  W3  L1  LF  1.0

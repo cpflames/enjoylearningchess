@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dwivedi, Yash          SPTE468T   400  1042/  3  W4  W2  W3  3.0
+  2 Desai, Sharanam        CCDB678T   526   596/ 20  W6  L1  W5  2.0
+  3 Vulli, Sriyans         CHREG86P   470   612/  6  W5  W4  L1  2.0
+  4 Seth, Sanchi           SPTCJ88C   415   430/ 12  L1  L3  W6  1.0
+  5 Long, Mason            HFKE244H   701   563/  6  L3  W6  L2  1.0
+  6 Bohannon, Andrew       LHTDG71E   419   400/ 54  L2  L5  L4  0.0

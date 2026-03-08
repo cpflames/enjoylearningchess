@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wright, William        PTFAB71M   715   887/ 21  W3  W4  W2  3.0
+  2 Ge, Alex               SOMC908H   757   800/113  W4  W3  L1  2.0
+  3 Garg, Vihaan           CMCCJ10X   801   768/122  L1  L2  W4  1.0
+  4 Rackoff, Dylan         BLWF507J   761   683/185  L2  L1  L3  0.0

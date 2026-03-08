@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Manderson, Isaiah      LYCIJ15C   700   781/  9  W4  W3  W2  3.0
+  2 Manderson, Gabby       LYCIJ73H   701   702/  9  W3  W4  L1  2.0
+  3 Werner, Finn           FHVHJ98B   532   523/ 21  L2  L1  W4  1.0
+  4 Lewis, Felix           BECHE37Q   582   402/  5  L1  L2  L3  0.0

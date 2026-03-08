@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yin, Daniel            ISMK116Y  1019  1073/137  U   W2  W3  2.0
+  2 Zou, Ethan             WOBEI88K  1019  1019/190  W3  L1  U   1.0
+  3 Xu, Zoe                CNHCG70A  1019   965/ 70  L2  U   L1  0.0

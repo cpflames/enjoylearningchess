@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wang, Zihan            PPAGH97Y  1202  1405/195  W13 W6  W3  W2  W5  5.0
+  2 Reddy, Eshan           SGSF336Y  1357  1373/211  W18 W4  W12 L1  W7  4.0
+  3 Wannamaker, Linus      IDXFY45B  1400  1392/ 28  W11 W7  L1  W9  D4  3.5
+  4 Carper, Jack           LINHG86W  1384  1382/ 82  W15 L2  W6  W8  D3  3.5
+  5 Overstreet, Connie MackLBYF806J  1330  1297/ 53  W20 W9  L8  W13 L1  3.0
+  6 Mortensen, Lucas       LBYH730U  1152  1147/ 83  W17 L1  L4  W14 W12 3.0
+  7 Brown, Malia           FRRK1512  1080  1085/303  W16 L3  W15 W12 L2  3.0
+  8 Barrett, Ben           PVEHH008  1237  1216/207  L12 W14 W5  L4  W13 3.0
+  9 Bai, Kelin             PVECD75J  1059  1078/ 83  W19 L5  W10 L3  W18 3.0
+ 10 Waggoner, Tiernan      CATGE121  1143  1089/184  W14 L12 L9  W16 W15 3.0
+ 11 Keener, Karl           OKSFY40G   880   869/ 13  L3  W16 L14 W18 HPB 2.5
+ 12 Overstreet, Sadie      HUTHD38V   779   903/ 24  W8  W10 L2  L7  L6  2.0
+ 13 Lane, Brantley         FARC255D   762   769/ 48  L1  W19 W17 L5  L8  2.0
+ 14 Fletcher, Tyson        NWDI704U   649   710/ 32  L10 L8  W11 L6  W19 2.0
+ 15 Mortensen, Liam        SWEF768V   527   651/ 23  L4  W18 L7  W20 L10 2.0
+ 16 Malde, Parker          MULD146W   645   634/ 44  L7  L11 W19 L10 D20 1.5
+ 17 Fletcher, Kaiden       BTDGG49E   491   452/ 28  L6  D20 L13 L19 BYE 1.5
+ 18 Malde, Jake            MULFB22V   877   806/ 59  L2  L15 W20 L11 L9  1.0
+ 19 Hopson, Jared          VLCCI39U   432   432/ 41  L9  L13 L16 W17 L14 1.0
+ 20 Wang, Kelby            PVEA796Y   672   608/ 21  L5  D17 L18 L15 D16 1.0

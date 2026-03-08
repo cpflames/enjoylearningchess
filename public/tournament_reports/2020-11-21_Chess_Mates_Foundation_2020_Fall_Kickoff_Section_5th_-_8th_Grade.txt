@@ -1,0 +1,36 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Cheng, Edward          WMSIC74W  1721  1756/154  W17 W9  W8  W2  W3  5.0
+  2 Tang, Haosen           MEDFH941  1517  1542/180  W23 W19 W4  L1  W9  4.0
+  3 Xu, Owen               SOMB896M  1476  1528/ 48  W32 W5  W10 W11 L1  4.0
+  4 Su, Alfred             EGBC929B  1370  1415/193  W29 W16 L2  W13 W10 4.0
+  5 Hijirida, Tyler        MISIK358  1219  1328/106  W33 L3  W21 W12 W8  4.0
+  6 Kang, Jinue            MEDF2661  1306  1351/215  W25 D12 W14 L10 W17 3.5
+  7 Shi, Gavin             ADDGH855  1403  1378/308  D30 L14 W34 W29 W18 3.5
+  8 Malakapalli, Smaran    BCAG973C  1423  1410/ 82  W26 W15 L1  W16 L5  3.0
+  9 Tameling, Cole         UPAHK654  1349  1354/295  W21 L1  W23 W15 L2  3.0
+ 10 Suess, Wade            EVGF101D  1588  1554/209  W34 W18 L3  W6  L4  3.0
+ 11 Miller, Thomas         MEDF799Q  1370  1374/ 45  W24 W13 D12 L3  D14 3.0
+ 12 To, Donovan            KMNG239L  1537  1495/226  W20 D6  D11 L5  W26 3.0
+ 13 Morris, Graham         HTNG1617  1156  1149/239  W27 L11 W25 L4  W22 3.0
+ 14 Kuo, Tristan           KELG941B  1264  1323/241  HPB W7  L6  W19 D11 3.0
+ 15 Calo, Jude             WWDF3425  1211  1203/159  W22 L8  W31 L9  W24 3.0
+ 16 Lu, Harry              MEDF957T  1136  1137/267  W35 L4  W22 L8  W21 3.0
+ 17 Johnson, Tobias        LCNFH96C  1136  1141/224  L1  W30 W27 D18 L6  2.5
+ 18 Yuen, Owen             KSHFA16Z  1236  1219/214  W28 L10 W24 D17 L7  2.5
+ 19 Roach, Stone           EVGF3342  1336  1295/178  W31 L2  D29 L14 W30 2.5
+ 20 Schmidt, Oto           HTNGJ236   987   993/128  L12 L21 W30 D31 W29 2.5
+ 21 Fong, Matthew          EING683T   905   943/152  L9  W20 L5  W32 L16 2.0
+ 22 Hijirida, Kyle         MISGH728   601   751/ 90  L15 W26 L16 W23 L13 2.0
+ 23 Supanc, Theo           SCDFH939   958   945/101  L2  W28 L9  L22 W31 2.0
+ 24 Hoard, Christopher     EVGF772F   915   918/ 80  L11 W33 L18 W25 L15 2.0
+ 25 Deng, Lucas            KELI172H   820   825/ 43  L6  W32 L13 L24 W33 2.0
+ 26 Huang, Indiana         SCDFC19C   956   917/ 60  L8  L22 W35 W33 L12 2.0
+ 27 Strongin, Eddie        RDSFI65D   400   483/ 27  L13 BYE L17 L30 W32 2.0
+ 28 Ybarra, Tenoch         RDSFF05B   684   705/ 30  L18 L23 L32 BYE W34 2.0
+ 29 Magnani-scott, Luke    HZFF290E   934   928/ 22  L4  W35 D19 L7  L20 1.5
+ 30 Moraleja, Juan Rufino  STMHB32V   944   929/111  D7  L17 L20 W27 L19 1.5
+ 31 Ngo, Joshua            BTMHB43H   899   903/ 59  L19 W34 L15 D20 L23 1.5
+ 32 Liao, Wesley           EASGE49D   958   861/ 29  L3  L25 W28 L21 L27 1.0
+ 33 Huang, Lori            RDSF712Q   400   400/  9  L5  L24 BYE L26 L25 1.0
+ 34 Harper, Colin          STCH697W  1089  1003/ 70  L10 L31 L7  W35 L28 1.0
+ 35 Ung, Anthony           EING851P   600   400/  4  L16 L29 L26 L34 BYE 1.0

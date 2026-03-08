@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Diament, Tobias        XXXHG65V   860  1052/  6  W3  W2  W4  3.0
+  2 Yang, Nicholas         CHRBG23U   872   913/ 35  W4  L1  W3  2.0
+  3 Taylor, Ryder          HPTI385C   879   858/203  L1  W4  L2  1.0
+  4 Wu, Dennis             SCDBJ54B   870   798/ 59  L2  L3  L1  0.0

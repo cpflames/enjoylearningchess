@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hochberg, David        SUEJ6075  1088  1133/181  D3  W2  W4  2.5
+  2 Parimi, Sandilya       PFCJ914G  1071  1088/375  W4  L1  W3  2.0
+  3 Hawkins, Holden        TYEJ383Z  1011  1020/406  D1  W4  L2  1.5
+  4 Zhang, Ethan Yichen    CRIEG57B   995   932/218  L2  L3  L1  0.0

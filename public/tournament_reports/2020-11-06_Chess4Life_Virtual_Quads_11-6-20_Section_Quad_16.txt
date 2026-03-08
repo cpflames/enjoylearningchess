@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Gupta, Ananya          LAVD769T   400  1160/  3  W3  W4  W2  3.0
+  2 Yun, Daniel            TPSC768W   400   749/  3  W4  W3  L1  2.0
+  3 Mitra, Rishab          OPWC138L   459   477/ 40  L1  L2  W4  1.0
+  4 Shubin, Neta           RKWK7542   511   455/ 21  L2  L1  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wahi, Advait           BLWE661F  1102  1179/ 72  W2  W3  W4  3.0
+  2 Xie, Michael           BLWE549C  1014  1019/213  L1  D4  W3  1.5
+  3 Mohan, Keshav          EGMGG24Z   998   982/ 47  W4  L1  L2  1.0
+  4 Xu, Zoe                CNHBG70A   992   952/ 43  L3  D2  L1  0.5

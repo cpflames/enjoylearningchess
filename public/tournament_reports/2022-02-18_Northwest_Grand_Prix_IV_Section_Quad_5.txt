@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Manookin, Harold       MRDJ927A   422   579/  6  D3  W2  W4  2.5
+  2 Burt, Colton           LYCF617Z   700   681/ 37  W4  L1  W3  2.0
+  3 Chiapellone, Teo       SHMKG88R   583   564/ 46  D1  W4  L2  1.5
+  4 Packard, Damon         HSCG755S   600   400/  3  L2  L3  L1  0.0

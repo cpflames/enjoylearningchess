@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Scollon, Owen          FHVG734D  1526  1548/292  W4  W3  W2  3.0
+  2 Trushkov, Max          FERJ616A  1412  1374/108  L3  W4  L1  1.0
+  3 Kuzin, Ethan           SHMJ7567  1207  1209/206  W2  L1  L4  1.0
+  4 Cox, Dylan             SHMJ3440  1159  1172/126  L1  L2  W3  1.0

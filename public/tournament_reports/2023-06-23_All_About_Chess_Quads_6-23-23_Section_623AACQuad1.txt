@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, William          INGG550N  1534  1542/ 66  W4  D3  W2  2.5
+  2 Prashant, Niranjan     SNIF468K  1444  1429/ 73  W3  D4  L1  1.5
+  3 Li, Austin A           PLKG438B  1277  1297/108  L2  D1  W4  1.5
+  4 Joshi, Yash            PFCG280R  1225  1212/109  L1  D2  L3  0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zheng, Lucas           HOEB194Y   774   903/ 49  W4  W2  W3  3.0
+  2 Rajkumar, Roshan       LMADK47X   773   800/ 52  W3  L1  W4  2.0
+  3 Wang, Andrew           MMEDD93V   769   742/ 29  L2  W4  L1  1.0
+  4 Stein, Mary            HSCG624A   710   643/ 43  L1  L3  L2  0.0

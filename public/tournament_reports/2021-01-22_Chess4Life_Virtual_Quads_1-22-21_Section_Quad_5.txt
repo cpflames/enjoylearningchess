@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhou, Yuchen           BCABJ42H  1380  1413/231  W3  D2  W4  2.5
+  2 Karri, Aditya          AUDDC55V  1320  1345/ 79  D4  D1  W3  2.0
+  3 Kamel, Yaseen          PFCID57L  1326  1306/ 56  L1  W4  L2  1.0
+  4 Yang, James            SSME123B  1307  1270/120  D2  L3  L1  0.5

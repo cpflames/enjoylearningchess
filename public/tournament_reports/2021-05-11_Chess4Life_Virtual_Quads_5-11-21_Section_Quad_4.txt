@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Taylor, Ryder          HSCH385C   791   778/ 24  W3  W4  L2  2.0
+  2 Yun, Daniel D          BCAAK87Z   585   648/ 18  W4  L3  W1  2.0
+  3 Stake, Charles         OESBM87Q   400   735/  3  L1  W2  W4  2.0
+  4 Grigorenko, Yana       FRWBA39N   400   400/ 68  L2  L1  L3  0.0

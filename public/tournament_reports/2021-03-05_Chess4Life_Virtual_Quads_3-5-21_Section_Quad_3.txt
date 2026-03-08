@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Miller, Thomas         MEDF799Q  1396  1445/ 51  D2  W4  W3  2.5
+  2 Sangal Lopez, Dev      WOBE515J  1363  1428/156  D1  W3  W4  2.5
+  3 Cha, Samuel            LAVDK18Z  1404  1380/100  W4  L2  L1  1.0
+  4 Aggarwal, Aadit        LEOHE722  1354  1299/370  L3  L1  L2  0.0

@@ -1,0 +1,31 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Xuan, Owen             ADDI5792  1905  1932/260  W16 W11 W12 W2  D3  4.5
+  2 Min, Ryan              OMSH5430  1967  1971/359  W18 W14 W10 L1  W9  4.0
+  3 Li, Edward             TMBH768S  1743  1773/297  W21 W27 D4  W6  D1  4.0
+  4 Deng, Lily             CJEI5007  1819  1823/322  W13 W17 D3  L9  W10 3.5
+  5 Boulis, Christos       ETSIC84T  1665  1679/556  L8  W25 W20 D7  W16 3.5
+  6 Bhatia, Tanush         BLMI5224  1600  1645/336  D26 W29 W15 L3  W14 3.5
+  7 Sankar, Abhay          LEOI6545  1627  1654/372  D29 W23 D11 D5  W15 3.5
+  8 Marcelais, Kai         WPPIA64J  1499  1606/121  W5  L10 W23 D14 W20 3.5
+  9 Nallabothula, Varin    WPPI457A  1754  1760/377  W19 L12 W21 W4  L2  3.0
+ 10 Wang, Felicity         LMSIJ02F  1745  1755/284  W20 W8  L2  W12 L4  3.0
+ 11 Balaji, Pranav         TMBH940S  1740  1737/288  W25 L1  D7  W17 D13 3.0
+ 12 Tatikonda, Nihanth     CPJH926F  1631  1658/203  W28 W9  L1  L10 W21 3.0
+ 13 Garine, Ujwal          REJIB99A  1578  1592/182  L4  W22 D27 W26 D11 3.0
+ 14 Jammalamadaka, Varnika OVLHD216  1705  1694/436  W22 L2  W19 D8  L6  2.5
+ 15 Pisan, Kai             CHYH404C  1718  1681/332  D23 W26 L6  W27 L7  2.5
+ 16 Zhang, Iris            TMBH858X  1585  1582/338  L1  W28 D17 W24 L5  2.5
+ 17 Yadlapati, Arush       EVJHA47S  1518  1548/175  W30 L4  D16 L11 W26 2.5
+ 18 Li, Emma               LMSH521Q  1597  1568/330  L2  L21 L22 W30 W27 2.0
+ 19 Peesa, Rahul           OMSI109W  1576  1552/146  L9  W24 L14 L21 W28 2.0
+ 20 Hetamsaria, Aadi       TYEI888H  1561  1557/130  L10 W30 L5  W22 L8  2.0
+ 21 Anandkumar, Haituka    STLH238P  1528  1541/302  L3  W18 L9  W19 L12 2.0
+ 22 Kato, Erik             OMSHG89L  1520  1503/ 12  L14 L13 W18 L20 W29 2.0
+ 23 Boddapati, Sacchit     SKWH1381  1508  1500/229  D15 L7  L8  W25 D24 2.0
+ 24 Vijeyanandh, Vishnu    TMBGF63Z  1218  1280/118  HPB L19 W30 L16 D23 2.0
+ 25 Frost, Ignatius        FACIJ64P  1528  1500/ 19  L11 L5  D28 L23 W30 1.5
+ 26 Eksarevskiy, Albert    WPPH530Y  1587  1550/ 43  D6  L15 W29 L13 L17 1.5
+ 27 Jolly, Tristan         LMAI1857   943   966/159  BYE L3  D13 L15 L18 1.5
+ 28 Yuodelis, Kenneth      TYEI3681  1468  1429/362  L12 L16 D25 D29 L19 1.0
+ 29 Han, Matthew           BISI5262  1399  1380/289  D7  L6  L26 D28 L22 1.0
+ 30 Meyerzon, Daniel       OMSIJ242  1681  1563/377  L17 L20 L24 L18 L25 0.0

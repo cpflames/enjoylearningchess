@@ -1,0 +1,25 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Nallappa, Vijay        REJGD40S  1453  1602/290  W9  W20 W11 W3  4.0
+  2 Xiong, Michael         MEDD115A  1439  1548/196  W10 W17 W20 D7  3.5
+  3 Ramkumar, Nikhil       RBRE115E  1563  1585/139  W14 W4  W12 L1  3.0
+  4 Xie, Max               BLWHI185  1453  1483/358  W24 L3  W19 W11 3.0
+  5 Avula, Varshith Reddy  BRHF110R  1349  1453/156  W7  L12 W21 W13 3.0
+  6 Zhao, Alice            CRKG746N   958  1220/ 26  L13 W21 W10 W12 3.0
+  7 Chen, William          BLWF550N  1523  1520/ 15  L5  W16 W14 D2  2.5
+  8 Lee, Elliot            OPWGA70D  1421  1439/108  L20 D9  W22 W17 2.5
+  9 Demberel, Amana        LCOJJ14E   900  1467/  4  L1  D8  W23 W18 2.5
+ 10 Condit, Noah           KMDGA59Q  1522  1489/100  L2  W23 L6  W21 2.0
+ 11 Anandkumar, Haituka    STLH238P  1480  1475/271  W22 W15 L1  L4  2.0
+ 12 Metzmaker, Suya        OPWG364P  1471  1449/274  W16 W5  L3  L6  2.0
+ 13 Gupta, Vivaan          EALJF01U  1457  1439/ 12  W6  L18 W15 L5  2.0
+ 14 Ren, Aaron             HSCCG67B  1445  1437/ 80  L3  W24 L7  W19 2.0
+ 15 Yadlapati, Arush       EVJHA47S  1433  1439/161  W19 L11 L13 W20 2.0
+ 16 Mishra, Abhinav        TMBGB02W  1075  1096/ 33  L12 L7  W24 W23 2.0
+ 17 Huang, Emily           MEDFB39A  1476  1436/184  W23 L2  D18 L8  1.5
+ 18 Wong, Kate             BCAD459M  1342  1341/ 81  L21 W13 D17 L9  1.5
+ 19 Liu, Bichen            KKNFK00D  1532  1471/ 29  L15 W22 L4  L14 1.0
+ 20 Merriman, Dann         WMNCF79Y  1532  1490/437  W8  L1  L2  L15 1.0
+ 21 Greisen, Johanna       INGGF61C  1490  1429/  9  W18 L6  L5  L10 1.0
+ 22 Gajcowski, Hannah Nami OPWGI10H  1328  1287/169  L11 L19 L8  W24 1.0
+ 23 Fedorov, Vladimir      EVJHF17D  1138  1090/171  L17 L10 L9  L16 0.0
+ 24 Seshadri, Vindhya      GTMG953Y   600   699/  4  L4  L14 L16 L22 0.0

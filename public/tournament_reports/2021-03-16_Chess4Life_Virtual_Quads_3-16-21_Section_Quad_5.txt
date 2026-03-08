@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chowdhary, Shivam      CMCED47H   884  1032/ 39  W4  W2  W3  3.0
+  2 Condit, Theo           TLIAJ39C   844   841/ 33  W3  L1  L4  1.0
+  3 Rackoff, Dylan         BLWD507J  1034   981/117  L2  W4  L1  1.0
+  4 Yin, Daniel            ISMJ116Y   876   864/ 72  L1  L3  W2  1.0

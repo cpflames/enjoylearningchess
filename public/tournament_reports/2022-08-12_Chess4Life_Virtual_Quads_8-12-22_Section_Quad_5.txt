@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhu, Kevin             CSMC865U  1181  1285/297  W4  W2  W3  3.0
+  2 Amalo, Eliot           HSCH282X  1155  1185/ 66  W3  L1  W4  2.0
+  3 Yun, Daniel D          BCAAK87Z  1176  1153/201  L2  W4  L1  1.0
+  4 Zhang, Ethan Yichen    CRIEG57B  1149  1085/280  L1  L3  L2  0.0

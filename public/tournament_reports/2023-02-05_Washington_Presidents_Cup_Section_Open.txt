@@ -1,0 +1,32 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chan, Skylor T         OMSID18J  1761  1842/291  W19 W17 HPB W6  W4  4.5
+  2 Gavrysh, Leonid        ADUN816H  1981  1992/ 26  W21 W8  L4  W9  W3  4.0
+  3 Wang, Ted              STTDK13D  1972  1972/228  W7  W22 W20 D4  L2  3.5
+  4 Jammalamadaka, Vihaan  WPPFJ90F  1879  1892/335  W24 W31 W2  D3  L1  3.5
+  5 Ramkumar, Nikhil       RBRF115E  1525  1646/209  D6  W13 W12 HPB D7  3.5
+  6 Jammalamadaka, Varnika OVLID216  1736  1757/468  D5  W11 W25 L1  W15 3.5
+  7 Nallappa, Vijay        REJHD40S  1637  1677/358  L3  W19 W26 W21 D5  3.5
+  8 Joshi, Artharva        SKNK1352  1739  1752/313  W28 L2  D14 W22 W13 3.5
+  9 Pisan, Kai             CHYJ404C  1836  1821/439  D27 D14 W30 L2  W17 3.0
+ 10 Reutter, Karl          ADUN3486  1843  1814/121  L17 W16 D18 D11 W21 3.0
+ 11 Corbit, William        ADUN3087  1437  1550/217  D13 L6  W29 D10 W23 3.0
+ 12 Razmov, Valentin       ADUNB02T  1818  1784/111  HPB W26 L5  L17 W27 2.5
+ 13 Xu, Owen               SOMD896M  1657  1654/162  D11 L5  W27 W25 L8  2.5
+ 14 Han, Shuyi             TYEGK47W  1620  1634/294  HPB D9  D8  L15 W26 2.5
+ 15 Wong-godfrey, Emerson  BUSJH83E  1720  1708/457  W18 L20 D22 W14 L6  2.5
+ 16 Seshadri, Sridhar      ADUNC121  1611  1617/ 66  L20 L10 W28 W30 D18 2.5
+ 17 Razmov, Gabriel        ADDHC26K  1574  1623/269  W10 L1  D23 W12 L9  2.5
+ 18 Borate, Neel           OMSG821E  1504  1517/248  L15 BYE D10 D23 D16 2.5
+ 19 Zhou, Yuchen           CHRDJ42H  1559  1561/520  L1  L7  BYE D26 W25 2.5
+ 20 Tessiore, Luca         EMSGP42N  1905  1905/197  W16 W15 L3  U   U   2.0
+ 21 Yondon, Odbayar        LMAEK97T  1638  1630/131  L2  W28 W31 L7  L10 2.0
+ 22 Sharma, Devansh        KMNIF88S  1462  1473/151  WF  L3  D15 L8  D29 2.0
+ 23 Bojorquez, Roberto     ADUN354W  1669  1563/  9  L26 W24 D17 D18 L11 2.0
+ 24 Yadav, Arjun           MMEF664A  1590  1562/ 93  L4  L23 HPB D29 BYE 2.0
+ 25 Lin, Michael           BASDC97F  1740  1689/282  HPB W27 L6  L13 L19 1.5
+ 26 Xiong, Michael         MEDE115A  1487  1486/251  W23 L12 L7  D19 L14 1.5
+ 27 Wang, Leonardo         CKNG233K  1571  1561/ 39  D9  L25 L13 W31 L12 1.5
+ 28 Meng, Miranda          OPWDH69P  1540  1500/101  L8  L21 L16 BYE D30 1.5
+ 29 Ren, Aaron             ENADG67B  1650  1592/130  L31 HPB L11 D24 D22 1.5
+ 30 Cheng, Selina          THUF413R  1512  1491/435  HPB HPB L9  L16 D28 1.5
+ 31 Cardenas, Gerardo      ADUNK70X  1300  1459/  4  W29 L4  L21 L27 U   1.0

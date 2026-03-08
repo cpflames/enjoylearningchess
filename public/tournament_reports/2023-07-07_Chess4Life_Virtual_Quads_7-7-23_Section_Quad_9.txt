@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Singh, Atharva         SKIGK06G   600   555/  3  D4  W6  W3  2.5
+  2 Xie, Elon              CNHCK17N   409   422/ 17  L3  W4  W5  2.0
+  3 Klauder, Chase         SUCIK08R   151   280/  9  W2  W5  L1  2.0
+  4 Menon, Ritwik          WLDF974D   400   382/ 10  D1  L2  W6  1.5
+  5 Hibray, Eliot          NSCHK47B   354   297/ 12  W6  L3  L2  1.0
+  6 Kwon, Jiyong           ESCGK06F   600   100/  3  L5  L1  L4  0.0

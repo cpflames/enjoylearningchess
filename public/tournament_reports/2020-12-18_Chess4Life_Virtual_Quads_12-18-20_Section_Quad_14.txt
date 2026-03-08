@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kim, Scott             SSMJD025   695   846/ 48  W3  W2  W4  3.0
+  2 Agrawal, Sakash        CLHBC98H   745   767/ 30  W4  L1  W3  2.0
+  3 Sailer, Shaunak        SARDC25Z   732   701/ 39  L1  W4  L2  1.0
+  4 Senthil, Sanvi         SPTFH12F   646   582/269  L2  L3  L1  0.0

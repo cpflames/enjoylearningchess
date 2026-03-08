@@ -1,0 +1,31 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Melius, Mason          FACFF58R   937  1005/ 34  W28 W10 W4  W2  W5  5.0
+  2 Qureshi, Danish        BLEFF36V   789   822/ 48  W19 W6  W9  L1  W8  4.0
+  3 Boulos, Andrew         FACF217Z   784   790/ 51  W23 W14 W8  L5  W11 4.0
+  4 Brandt-rupich, Judah   WKEF252K   732   793/ 15  W20 W11 L1  W12 W10 4.0
+  5 Fine-gucker, Logan     EAGD535R   576   676/ 43  W22 D15 W25 W3  L1  3.5
+  6 Dolar, Evan            FACDA81A   436   562/ 10  W13 L2  W16 D14 W15 3.5
+  7 Moore, Jonah           WKEE348U   765   706/ 25  L12 W27 L15 W25 W21 3.0
+  8 Celaya, Benito         CIAE505E   675   688/ 42  W29 W12 L3  W15 L2  3.0
+  9 Larcom, Korbin         CIAEJ87V   579   583/ 38  W21 W24 L2  L11 W22 3.0
+ 10 Ridenour-scholtz, EthanLLLD239W   536   561/ 17  W30 L1  W22 W24 L4  3.0
+ 11 Crompton, Callum       FACEE89B   480   568/ 18  W16 L4  W23 W9  L3  3.0
+ 12 Everbeck, Reed         FACEK83A   400   692/  5  W7  L8  W13 L4  W24 3.0
+ 13 Bhatta, Nihal          CIADK82Z   300   477/  5  L6  W29 L12 W20 W19 3.0
+ 14 Cancelosi, Nicholas    SKYFM25W   400   408/  9  BYE L3  D21 D6  D17 2.5
+ 15 Truong, Mason          FACDK82Y   300   592/  5  W17 D5  W7  L8  L6  2.5
+ 16 Stafford-edwards, WaldeWKEEK82X   400   390/  5  L11 W20 L6  D17 W26 2.5
+ 17 Boulos, Eric           FACDB08Q   400   353/ 10  L15 D21 D26 D16 D14 2.0
+ 18 Hall, Ryleigh          FACE278B   400   343/ 14  L24 L23 W27 D26 D25 2.0
+ 19 Boulos, Chris          FACF362P   400   372/  9  L2  W30 L24 W23 L13 2.0
+ 20 Nickerson, Stella      FACDK82W   300   262/  5  L4  L16 W30 L13 W29 2.0
+ 21 Collins, Ryder         FACEK82U   400   358/  5  L9  D17 D14 W28 L7  2.0
+ 22 Fisk, Oliver           FACDK82T   300   366/  5  L5  W28 L10 W27 L9  2.0
+ 23 Miles, Jack            WKEDK82S   300   361/  5  L3  W18 L11 L19 W28 2.0
+ 24 Truong, Justin         FACFK82R   500   428/  5  W18 L9  W19 L10 L12 2.0
+ 25 Esmail, Kira           FACDK82Q   300   360/  5  D27 W26 L5  L7  D18 2.0
+ 26 King, Gray             CEEDK82P   300   167/  4  HPB L25 D17 D18 L16 1.5
+ 27 Khaira, Huner          FACD505R   400   269/ 10  D25 L7  L18 L22 D30 1.0
+ 28 Statzel, Cassandra     CEEEK82N   400   109/  5  L1  L22 W29 L21 L23 1.0
+ 29 Conner, Chloe          FACEK82M   400   100/  5  L8  L13 L28 W30 L20 1.0
+ 30 Schulte, Nicha         FACDK82L   300   100/  5  L10 L19 L20 L29 D27 0.5

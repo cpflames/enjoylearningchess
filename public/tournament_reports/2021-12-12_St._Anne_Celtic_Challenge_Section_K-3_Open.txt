@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Mohan, Vishnu          KKNDF41R  1159  1294/ 63  W17 W9  W2  D3  W5  4.5
+  2 Bharadwaj, Samarth     DGHBE78A  1431  1432/ 65  W10 W7  L1  W4  W3  4.0
+  3 Su, Alfred             EGBD929B  1283  1286/220  W11 W8  W15 D1  L2  3.5
+  4 Vijayakrishnan, AchyuthPKRC646F  1241  1248/ 87  W16 D5  W7  L2  W9  3.5
+  5 Xu, Zoe                CNHCG70A  1045  1110/ 88  W13 D4  W8  W15 L1  3.5
+  6 Edmond, Alec           CSICH03G  1294  1231/148  L9  L15 W14 W17 W10 3.0
+  7 Dai, Alex              CHRDC43N  1099  1103/ 38  W12 L2  L4  W14 W15 3.0
+  8 Shankaranand, Deeksha  EBSDI74Y  1058  1058/103  W14 L3  L5  W12 W11 3.0
+  9 Han, Victor            HSCDB39P   951  1044/ 41  W6  L1  W13 W11 L4  3.0
+ 10 Petito, John           HSCB453W   974   958/ 21  L2  W17 L11 W13 L6  2.0
+ 11 Chang, Caden           UCDB260J   860   885/ 42  L3  W12 W10 L9  L8  2.0
+ 12 Syal, Yash             SHSDC10R   836   815/ 33  L7  L11 BYE L8  W17 2.0
+ 13 Belur, Ayush           CHRD331W   833   811/ 13  L5  W16 L9  L10 BYE 2.0
+ 14 Arunkumar, Ashwath     RSADH07X   817   814/ 57  L8  BYE L6  L7  W16 2.0
+ 15 Han, Spencer           HSCCK75L   816   846/ 39  BYE W6  L3  L5  L7  2.0
+ 16 Thorrington, James     SAND547U   838   745/ 21  L4  L13 L17 BYE L14 1.0
+ 17 Schoenfeld, Sam        OPWCB27K   836   803/ 29  L1  L10 W16 L6  L12 1.0

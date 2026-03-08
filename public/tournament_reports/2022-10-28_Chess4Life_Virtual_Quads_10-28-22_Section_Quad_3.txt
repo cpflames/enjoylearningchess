@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hochberg, David        SUEK6075  1146  1281/264  W2  W4  W3  3.0
+  2 Mcintyre, Isaac        ETSD466S  1219  1237/ 96  L1  W3  W4  2.0
+  3 Chien, Jeffrey         WPPFF41X  1189  1169/ 52  W4  L2  L1  1.0
+  4 Karri, Aditya          AUDEC55V  1185  1119/225  L3  L1  L2  0.0

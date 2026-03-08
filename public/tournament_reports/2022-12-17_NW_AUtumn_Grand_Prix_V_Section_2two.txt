@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wilson, Nathaniel      SHKHE45V   960  1070/ 47  W5  W4  W3  3.0
+  2 Kozachuk, James        SHKH108A  1060  1052/116  W4  L3  W5  2.0
+  3 Jackson, Caitlin       LYAJJ68P   905   976/ 69  W6  W2  L1  2.0
+  4 Peterson, Everest      MRDJ836M   866   834/ 13  L2  L1  BYE 1.0
+  5 Singh, Jagteshwar      MRDLJ25M   888   883/ 23  L1  W6  L2  1.0
+  6 Kimes, Matilda         HSCH935N   934   871/ 13  L3  L5  U   0.0

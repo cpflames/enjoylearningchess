@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Harry              SSSDG30G  1077  1217/214  W2  W3  W4  3.0
+  2 Zhang, Ethan Yichen    CRIFG57B  1094  1134/304  L1  W4  W3  2.0
+  3 Kakkad, Vayu           DCTCK50L  1122  1101/423  W4  L1  L2  1.0
+  4 Chong, Jacob           RSHEF24L  1159  1081/ 53  L3  L2  L1  0.0

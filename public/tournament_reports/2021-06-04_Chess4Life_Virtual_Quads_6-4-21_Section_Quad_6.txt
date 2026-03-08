@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Purohit, Yuti          BCWGC435  1233  1326/249  W4  W3  W2  3.0
+  2 Zhang, Aaron           CCDD873R  1221  1242/311  W3  W4  L1  2.0
+  3 Kan, Kaleb             MMECF53E  1182  1143/156  L2  L1  D4  0.5
+  4 Jha, Siddhant          EVJGG46N  1182  1143/325  L1  L2  D3  0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kakkad, Vayu           BRYAK50L   999  1114/241  W4  W2  W3  3.0
+  2 Kim, Dylan             SCDCK38L  1076  1080/ 51  W3  L1  W4  2.0
+  3 Desai, Samara          MIEGC40Z   929   921/ 78  L2  W4  L1  1.0
+  4 Kok, Bulut             LAVEE54B   925   865/108  L1  L3  L2  0.0

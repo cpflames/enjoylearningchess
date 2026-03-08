@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lu, Yiding             NPTF865Z  1959  1964/222  W4  W3  D2  2.5
+  2 Yang, Alexander        CHRFD81J  1811  1839/197  W3  W4  D1  2.5
+  3 Zhu, Jamie             SSMF558E  1764  1754/289  L2  L1  W4  1.0
+  4 Verma, Darsh           WONFB52K  1661  1633/131  L1  L2  L3  0.0

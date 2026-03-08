@@ -1,0 +1,25 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Willy, Stephen         MMEFH17K  1672  1687/331  W8  W20 W12 D2  W9  W4  5.5
+  2 Kang, William          SOMEC12H  1278  1421/ 75  W13 W5  W9  D1  L4  W6  4.5
+  3 Kang, Ayaan            ENSDI60T  1363  1368/211  L10 W22 D16 W21 W14 W11 4.5
+  4 Scollon, Owen          LLLF734D  1518  1514/269  W14 L12 W18 W11 W2  L1  4.0
+  5 Liu, Lucas             SOMDH33R  1388  1394/ 97  W19 L2  L8  W15 W10 W12 4.0
+  6 Raghavapurapu, SuprathiSNIE330S  1037  1232/ 57  W15 L11 W20 W12 W13 L2  4.0
+  7 Cheng, Selina          THUD413R  1362  1348/188  W24 L10 L14 W18 W16 W13 4.0
+  8 Xiao, David            MRPDA64Q  1219  1300/ 41  L1  W17 W5  D10 D11 D9  3.5
+  9 Westover, Charlotte    WMEE365V  1491  1471/247  W16 W18 L2  W14 L1  D8  3.5
+ 10 Bartminn, Jan Lorenz   ENDEH59K  1137  1268/ 88  W3  W7  L11 D8  L5  W18 3.5
+ 11 Avula, Varshith Reddy  BRHE110R  1283  1281/132  D22 W6  W10 L4  D8  L3  3.0
+ 12 Urali, Sanjay          MEDD315D  1343  1340/245  W21 W4  L1  L6  W19 L5  3.0
+ 13 Vemuri, Harshil        APOE916R   837  1041/ 24  L2  W19 W15 W16 L6  L7  3.0
+ 14 Chang, Liam            KKNE5238  1205  1240/110  L4  W21 W7  L9  L3  W19 3.0
+ 15 Xing, Henry            LKDF3704  1323  1271/307  L6  W24 L13 L5  W17 W21 3.0
+ 16 Gajcowski, Hannah Nami OPWFI10H  1208  1183/134  L9  W23 D3  L13 L7  W22 2.5
+ 17 Khatib, Kenan          LKDFC566  1059  1062/187  L20 L8  W24 D22 L15 W23 2.5
+ 18 Vijayakrishnan, AchyuthPKRB646F  1332  1278/ 35  W23 L9  L4  L7  W24 L10 2.0
+ 19 Bharathy Mohan, Aarav  FRWCC98B  1169  1139/139  L5  L13 W22 W20 L12 L14 2.0
+ 20 Bablani, Arnav         LMSF1146  1330  1243/143  W17 L1  L6  L19 L21 WF  2.0
+ 21 Narayan, Bhargav       CMCFD962  1095  1097/136  L12 L14 W23 L3  W20 L15 2.0
+ 22 Ramkumar, Siddharth    LMADH50B   984   996/160  D11 L3  L19 D17 W23 L16 2.0
+ 23 Lu, Jacob              ENDFI11F  1033   950/234  L18 L16 L21 D24 L22 L17 0.5
+ 24 Jewsbury, Keaton       BETF976Q  1122  1048/103  L7  L15 L17 D23 L18 LF  0.5

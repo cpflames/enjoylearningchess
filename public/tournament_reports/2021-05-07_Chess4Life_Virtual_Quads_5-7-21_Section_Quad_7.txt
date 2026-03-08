@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hawkins, Holden        TYEI383Z  1117  1223/276  W3  W4  W2  3.0
+  2 Stein, Samuel          HSCDH03T  1143  1158/141  W4  W3  L1  2.0
+  3 Parimi, Sandilya       PFCI914G  1079  1062/367  L1  L2  W4  1.0
+  4 Moore, Lucas           WEDDI48Z  1054   994/ 77  L2  L1  L3  0.0

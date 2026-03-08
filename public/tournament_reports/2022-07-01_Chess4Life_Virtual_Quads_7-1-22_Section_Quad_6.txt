@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Gao, Chenrui           EBSFK12A   845   904/ 36  W3  U   W2  2.0
+  2 Xie, Leon              CNHD264X   883   875/ 12  U   W3  L1  1.0
+  3 Kundu, Ayush           XXXF245X   822   770/ 26  L1  L2  U   0.0

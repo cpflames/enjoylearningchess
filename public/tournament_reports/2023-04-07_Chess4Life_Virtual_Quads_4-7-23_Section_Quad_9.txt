@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, Winston          NCHIP716   733   855/ 22  W2  W3  W4  3.0
+  2 Naenna, Patanin        SPLEQ28H   716   716/194  L1  W4  D3  1.5
+  3 Guilanians, Gavin      OPWG645B   599   642/ 20  W4  L1  D2  1.5
+  4 Kuluru, Samith         KKNGI99K   751   656/155  L3  L2  L1  0.0

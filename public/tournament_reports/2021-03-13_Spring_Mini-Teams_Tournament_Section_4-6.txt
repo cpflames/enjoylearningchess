@@ -1,0 +1,41 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Goktepe, Derin         OMSGK845  1957  1983/320  W22 W35 W5  W15 W21 5.0
+  2 Min, Ryan              OMSG5430  1924  1933/307  W11 W25 W6  W20 WF  5.0
+  3 Zhu, Jamie             SSME558E  1595  1605/264  W18 W16 W8  W24 D9  4.5
+  4 Kang, William          SOMEC12H  1421  1443/ 79  W29 D20 W23 WF  W25 4.5
+  5 Lu, Yiding             NPTE865Z  1772  1791/175  W28 W21 L1  W13 W15 4.0
+  6 Yang, Alexander        CHRED81J  1701  1703/183  W23 WF  L2  W12 W20 4.0
+  7 Bablani, Arnav         LMSF1146  1233  1278/158  L15 W33 W34 W35 W36 4.0
+  8 Peng, Christopher      LMSG2702  1491  1492/165  D10 W27 L3  W9  W16 3.5
+  9 Yu, Luke               PLKG676Z  1419  1427/ 64  W40 W17 W27 L8  D3  3.5
+ 10 Zhang, Wei             TYEGF93H  1022  1052/113  D8  W24 L16 W32 W26 3.5
+ 11 Zhang, Yan             SOMEC58Q  1161  1178/ 75  L2  D12 WF  W30 W19 3.5
+ 12 Bharathy Mohan, Aarav  FRWCC98B  1238  1241/152  W39 D11 W30 L6  W23 3.5
+ 13 Suess, Wade            EVGF101D  1595  1576/232  W34 D22 W36 L5  W28 3.5
+ 14 Zheng, Max             SOMED13T  1431  1449/ 94  W33 L15 W28 D21 W35 3.5
+ 15 Liu, Austin            PLKG530J  1769  1757/250  W7  W14 W35 L1  L5  3.0
+ 16 De, Rishik             CDWEJ87T   400  1294/  5  W26 L3  W10 W17 L8  3.0
+ 17 Yun, Ted               SOMEF52H   984  1046/ 66  W31 L9  W18 L16 W27 3.0
+ 18 Gande, Akshath         SSMEG23R   837   863/ 21  L3  W26 L17 W31 W24 3.0
+ 19 Zhen, Hongren          KIMFC02Z   801   786/107  WF  L23 W29 W39 L11 3.0
+ 20 Seela, Shashank        SSMEI74N  1445  1452/ 82  W37 D4  W25 L2  L6  2.5
+ 21 Shen, Lixing           CMCFC15C  1454  1456/425  WF  L5  W22 D14 L1  2.5
+ 22 Wong, Samuel           TYEGJ51V  1216  1232/105  L1  D13 L21 W36 WF  2.5
+ 23 Chulki, Aayush         CRIFJ17Y   837   859/ 82  L6  W19 L4  W29 L12 2.0
+ 24 Budhraja, Jai          EBSDA16E   714   719/ 25  W38 L10 W32 L3  L18 2.0
+ 25 Urali, Sanjay          MEDD315D  1429  1392/253  W30 L2  L20 W37 L4  2.0
+ 26 Diamant, David         MCKF969P   702   702/ 13  L16 L18 W31 W38 L10 2.0
+ 27 Shih, Bei              UCDC630G  1285  1229/188  W32 L8  L9  W40 L17 2.0
+ 28 Palod, Menang          CBRFK61M  1083  1078/ 83  L5  WF  L14 W33 L13 2.0
+ 29 Baumann, Naomi         HCCE180R   442   506/ 19  L4  W37 L19 L23 W39 2.0
+ 30 Grife, Ty              CSIFI293   861   855/ 62  L25 W39 L12 L11 W37 2.0
+ 31 Lin, James             HCCEB90P   438   498/ 11  L17 W40 L26 L18 W38 2.0
+ 32 Kostojohn, Peter       CSIFF70T   638   632/ 20  L27 W38 L24 L10 W40 2.0
+ 33 Lin, Timothy           HCCGH24E   650   630/ 10  L14 L7  WF  L28 D34 1.5
+ 34 Onstot, Riley          LGHGB82G   500   506/ 18  L13 L36 L7  WF  D33 1.5
+ 35 Shih, Tai              UCDEE60P  1448  1396/190  W36 L1  L15 L7  L14 1.0
+ 36 Moriguchi, Minh        THUFA43T   973   955/ 65  L35 W34 L13 L22 L7  1.0
+ 37 Vora, Ishaan           LMSG2575   516   499/ 22  L20 L29 W39 L25 L30 1.0
+ 38 Ho, Avishag            LGHE327Q   400   400/  5  L24 L32 W40 L26 L31 1.0
+ 39 Talbott, Eric          LGHEG99S   458   400/ 10  L12 L30 L37 L19 L29 0.0
+ 40 Mussie, Yitbarek       LMSFF70H   500   400/  5  L9  L31 L38 L27 L32 0.0

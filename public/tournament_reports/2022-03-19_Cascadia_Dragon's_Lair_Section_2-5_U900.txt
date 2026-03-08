@@ -1,0 +1,27 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wu, Aiden              EVGDD83L   891  1001/ 61  W18 D2  W3  W6  W7  4.5
+  2 Balasubramanian, Kala  CNCD519Y   768   959/ 37  W22 D1  W5  W13 W6  4.5
+  3 Han, Spencer           HSCCK75L   799   840/ 59  W19 W20 L1  W9  W8  4.0
+  4 Kossuri, Neil          KKNE696L   709   737/ 14  L20 W17 W16 W19 W13 4.0
+  5 Sankar, Sneha          CNCE372B   877   885/209  W14 D13 L2  W12 W11 3.5
+  6 Winter, Kayne          CSIEF38F   868   865/104  W26 W8  W7  L1  L2  3.0
+  7 Cohen, Sasha           DCTCK75G   816   810/ 37  W10 W9  L6  W15 L1  3.0
+  8 Nooli, Sai Sahit       RKWDE95Q   637   668/ 26  W24 L6  W12 W10 L3  3.0
+  9 Joseph, Veronique      SJOCJ04S   626   642/ 33  W25 L7  W20 L3  W19 3.0
+ 10 Miller, Emerson        CSIC489N   400   563/  5  L7  W23 W24 L8  W20 3.0
+ 11 Kannapiran, Arnav      OPWD983P   873   811/ 44  W15 D12 L13 W14 L5  2.5
+ 12 Lai, Woody             SNRC582C   734   702/ 26  W23 D11 L8  L5  W22 2.5
+ 13 Harding, Max           CSIFH34Z   719   738/ 49  W16 D5  W11 L2  L4  2.5
+ 14 Askovich, Oliver       CSIE180W   410   403/ 18  L5  D21 WF  L11 W24 2.5
+ 15 Tyagi, Ananya          MEDCG07Y   400   501/ 24  L11 W22 W17 L7  D16 2.5
+ 16 Wen, Tangtang          CSIEG04G   400   492/  5  L13 W26 L4  W21 D15 2.5
+ 17 Bawa-tercero, Manjeet  CSIF207F   615   537/ 19  D21 L4  L15 W24 D18 2.0
+ 18 Oh, Yi Chun            CSIF245U   498   463/ 13  L1  L19 D22 W26 D17 2.0
+ 19 Maibaum, Amelie        CSIE703F   400   526/  5  L3  W18 W21 L4  L9  2.0
+ 20 Tsang, Gabe            CSIDB89P   400   525/  5  W4  L3  L9  W23 L10 2.0
+ 21 Hu, Elliott            CSICG04G   400   400/  5  D17 D14 L19 L16 W26 2.0
+ 22 Uuganbayar, Eadgar     EVGD478Y   512   436/  9  L2  L15 D18 WF  L12 1.5
+ 23 Brennan, Annabelle     CSIE673L   400   400/  4  L12 L10 W26 L20 HPB 1.5
+ 24 Oh, Yi Xi              CSIC422W   400   400/  4  L8  BYE L10 L17 L14 1.0
+ 25 Gomez, Hugo            CSIDC29C   400   400/  1  L9  HPB LF  LF  U   0.5
+ 26 Quigg, Calum           CSIC544H   400   400/  5  L6  L16 L23 L18 L21 0.0

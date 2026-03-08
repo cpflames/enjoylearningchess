@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Condit, Alex           TLIDB04F   792   823/ 12  W3  W4  L2  2.0
+  2 Agarkar, Aarav         WDMGG17J   797   823/ 78  W4  L3  W1  2.0
+  3 Ivanovic, Lena         UCDAK55K   785   816/132  L1  W2  W4  2.0
+  4 Priest, Kieran         CIODU08S   778   699/111  L2  L1  L3  0.0

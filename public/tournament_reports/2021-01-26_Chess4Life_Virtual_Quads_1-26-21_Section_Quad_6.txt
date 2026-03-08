@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Oscar            HSCBG77U   470   611/ 17  W3  W4  W2  3.0
+  2 Aker, Pepper           THUC181G   421   434/ 36  W4  D3  L1  1.5
+  3 Grigorenko, Yana       FRWBA39N   400   400/ 47  L1  D2  WF  1.5
+  4 Bohannon, Andrew       LHTDG71E   400   400/  3  L2  L1  LF  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Deng, Lily             CJEH5007  1844  1840/287  W4  W2  L3  2.0
+  2 Palm, Caleb            LIBH919S  1389  1508/140  W3  L1  W4  2.0
+  3 Khalil, Tayseer        ADUN773K  1876  1868/ 24  L2  W4  W1  2.0
+  4 Scott, Dane            HSCL293V  1681  1625/ 18  L1  L3  L2  0.0

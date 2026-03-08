@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhu, Jamie             EVJG558E  1808  1824/323  W3  L2  W4  2.0
+  2 Lu, Yiding             BASG865Z  1979  1972/255  W4  W1  L3  2.0
+  3 Yang, Alexander        CHRGD81J  1886  1876/206  L1  D4  W2  1.5
+  4 Wang, Leonardo         CKNG233K  1561  1565/ 42  L2  D3  L1  0.5

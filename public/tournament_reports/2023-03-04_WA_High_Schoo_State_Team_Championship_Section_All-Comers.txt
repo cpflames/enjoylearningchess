@@ -1,0 +1,54 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Xiao, Ruichen          INTKE39K  1394  1449/146  W34 W10 W16 W13 W8  5.0
+  2 Clark, Ken             INTL431D  1104  1276/ 18  W51 W19 W3  D11 W9  4.5
+  3 Merritt, Troy          LSSMK67V  2179  1779/  7  W32 W6  L2  W16 W12 4.0
+  4 Li, Melina             INMK5705  1722  1724/232  HPB HPB W32 W30 W13 4.0
+  5 Cammock, Robert        CORLK81X  1386  1278/ 10  W21 L30 W19 W31 W14 4.0
+  6 Amon, Hans             ETVKK78L   952   993/  9  W47 L3  W35 W36 WF  4.0
+  7 Latorre, Caden         STNMK58X   829   988/ 14  W41 L14 W39 W15 W23 4.0
+  8 Craven, Naato'si       CORLK82D  1592  1469/ 10  W33 W43 W14 D9  L1  3.5
+  9 Vijan, Dylan           EPSK5706  1239  1245/175  W35 W18 W30 D8  L2  3.5
+ 10 Geng, Tommy            JACJF12Q   913   934/ 52  W22 L1  W48 D25 W24 3.5
+ 11 Dhillon, Rohan         LSSK6836  1342  1342/210  HPB W25 W20 D2  LF  3.0
+ 12 Voinov, Luke           STULK81D  1160  1146/ 10  W24 W31 L13 W18 L3  3.0
+ 13 Loi, Joseph            LSSMK89Z  1138  1159/ 23  W36 W46 W12 L1  L4  3.0
+ 14 Larson, Oscar          SMZJK80P  1106  1118/ 10  W44 W7  L8  W33 L5  3.0
+ 15 Nelson, Ben            INMJD43V  1104  1083/162  HPB HPB W34 L7  W25 3.0
+ 16 Ngo, Evander           JACMB09L   941   967/ 32  W48 W37 L1  L3  W32 3.0
+ 17 Devich, Etta           INMLK66X   858   868/ 11  HPB HPB L24 W38 W33 3.0
+ 18 Peterson, Everest      MRDJ836M   834   863/ 22  W26 L9  W38 L12 W39 3.0
+ 19 Huling, Grant          AHSKK59T   787   856/ 12  W53 L2  L5  W41 W28 3.0
+ 20 Karthik, Shreyank      JACKA701   785   827/ 55  W50 L27 L11 W37 W29 3.0
+ 21 Babravitski, Ivan      KAMMD33M   718   759/ 25  L5  L38 WF  W42 W30 3.0
+ 22 Husser, Madeline       STNMF58F   718   757/ 23  L10 W41 L23 W50 W31 3.0
+ 23 Taitano, Mila          HSCK673R   953   902/ 16  L25 W44 W22 D24 L7  2.5
+ 24 Red Elk, Ali-lawet     FERM986S   716   770/ 63  L12 W50 W17 D23 L10 2.5
+ 25 Turner, Jaycee         MRRKK59B   549   684/ 10  W23 L11 WF  D10 L15 2.5
+ 26 Darboe, Omar           MRRMK56F  1200   630/  4  L18 L35 HPB W48 W36 2.5
+ 27 Whang, Joey            MRRLK59H   976  1005/ 15  W45 W20 U   U   U   2.0
+ 28 Raney, Dylan           OHSJK79Z  1012   832/ 10  L46 W51 L33 W35 L19 2.0
+ 29 Hannawalt, Henry       STNMK58Y   935   659/  7  L37 W45 L36 W47 L20 2.0
+ 30 Chiapellone, Teo       SHMLG88R   887   907/ 91  W38 W5  L9  L4  L21 2.0
+ 31 Singh, Jagteshwar      MRDLJ25M   837   830/ 34  W40 L12 W37 L5  L22 2.0
+ 32 Fransico-woodenlegs, JoMRDK680H   779   784/ 22  L3  W47 L4  W40 L16 2.0
+ 33 Latham, Cash           MRDK658Y   729   744/ 15  L8  W49 W28 L14 L17 2.0
+ 34 Martin-mendoza, Alvaro FOXJK77S   723   700/ 10  L1  W40 L15 L39 W49 2.0
+ 35 Carroll, Kaden         AHSMK59Z   717   703/ 15  L9  W26 L6  L28 BYE 2.0
+ 36 Manly, Katie           FERK313C   629   627/ 55  L13 W53 W29 L6  L26 2.0
+ 37 Brooks, Jake           ETVLK56E  1100   697/  5  W29 L16 L31 L20 W50 2.0
+ 38 Nieda, Zach            SENKK56D  1000   717/  5  L30 W21 L18 L17 W44 2.0
+ 39 Chionh, Mark           INMJK56J   776   758/  5  HPB HPB L7  W34 L18 2.0
+ 40 Larios, Juan           NKPLK56C  1100   610/  5  L31 L34 W44 L32 W45 2.0
+ 41 Hickner, Saulomon      NKPLK56B  1100   626/  5  L7  L22 W51 L19 W47 2.0
+ 42 Healey, Liam           INMLK56A   900   659/  3  U   U   W45 L21 W48 2.0
+ 43 Le, Benjamin           KAMK339F   909   908/ 19  W49 L8  U   U   U   1.0
+ 44 Perle Warner, Tully    OHSMK77Q   619   513/  9  L14 L23 L40 WF  L38 1.0
+ 45 Peper, James           BLHKB93F   590   510/ 18  L27 L29 L42 BYE L40 1.0
+ 46 Clark, Camden          BLHL635A   678   721/ 27  W28 L13 U   U   U   1.0
+ 47 Sanchez, Rafael        MRRKK58R   343   176/  8  L6  L32 WF  L29 L41 1.0
+ 48 Wesley, Dylan          BHMKK99R   226   223/ 10  L16 BYE L10 L26 L42 1.0
+ 49 Tran, Vincent          TJHLK55Z  1100   100/  4  L43 L33 L50 WF  L34 1.0
+ 50 Kelley, Nikolas        FOXMK55Y  1200   477/  5  L20 L24 W49 L22 L37 1.0
+ 51 Phillips, Lucas        BLHK696K   603   552/ 15  L2  L28 L41 LF  U   0.0
+ 52 Fine, Michael          NPRKB24T   748   748/ 34  U   U   LF  U   U   0.0
+ 53 Reeves, Tyler          TJHJK55X   900   268/  2  L19 L36 U   LF  U   0.0

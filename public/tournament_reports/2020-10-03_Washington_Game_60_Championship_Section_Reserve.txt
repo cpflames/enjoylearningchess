@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Peesa, Rahul           OMSH109W  1518  1574/120  W4  W10 WF  W6  4.0
+  2 Race, Adam             GARMB789  1448  1465/233  W8  D6  W7  WF  3.5
+  3 Cheng, Edward          WMSIC74W  1656  1652/121  W12 WF  D5  W10 3.5
+  4 Xu, Owen               SOMB896M  1474  1471/ 40  L1  W11 W9  W7  3.0
+  5 Wang, Ted              BCABK13D  1530  1537/ 90  WF  W12 D3  HPB 3.0
+  6 Devadithya, Hiruna     PFCH5494  1585  1546/568  W11 D2  D10 L1  2.0
+  7 Cheng, Selina          THUD413R  1075  1098/103  BYE W8  L2  L4  2.0
+  8 Zhang, Michael M.      MEDC668Q  1187  1162/332  L2  L7  BYE W11 2.0
+  9 Ruff, Lois             ADUNJ90S  1134  1100/ 44  L10 BYE L4  W12 2.0
+ 10 Mcguire, Robert        ADONL99V  1020  1098/ 15  W9  L1  D6  L3  1.5
+ 11 Saloranta, Leo         IMSHB40A  1048  1025/ 70  L6  L4  W12 L8  1.0
+ 12 Johnson, Blake         ADUNK33Z  1300   400/  4  L3  L5  L11 L9  0.0

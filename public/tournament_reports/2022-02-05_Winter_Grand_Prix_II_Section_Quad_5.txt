@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bosch, Declan          FHVHE38K  1170  1170/  6  W2  W4  W3  3.0
+  2 Burt, Colton           LYCF617Z   680   705/ 31  L1  W3  W4  2.0
+  3 Manookin, Harold       MRDJ927A   900   422/  3  D4  L2  L1  0.5
+  4 Matzel, Mark           LYCHE192   548   498/  8  D3  L1  L2  0.5

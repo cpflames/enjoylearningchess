@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Miller, Thomas         LMSG799Q  1674  1711/ 89  W3  W4  W2  3.0
+  2 Pisan, Kai             CHYH404C  1727  1719/368  W4  W3  L1  2.0
+  3 Sinha, Agastya         HSCCA75C  1440  1423/ 75  L1  L2  D4  0.5
+  4 Alam, Adil             BCAGI15X  1403  1392/262  L2  L1  D3  0.5

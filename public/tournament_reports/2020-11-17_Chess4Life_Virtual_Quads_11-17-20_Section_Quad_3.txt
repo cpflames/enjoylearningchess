@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hawkins, Holden        TYEI383Z   761   857/108  W4  W5  W2  3.0
+  2 Bar, Nathan            AUDB368C   815   822/ 12  W5  W3  L1  2.0
+  3 Rapolu, Sai Tejasvi    BCAEG86E   682   688/135  W6  L2  W4  2.0
+  4 Meiyalagan, Rithik Sai HSCBI87N   400   517/  3  L1  W6  L3  1.0
+  5 Shankaranand, Deeksha  RSADI74Y   642   591/ 28  L2  L1  D6  0.5
+  6 Grigorenko, Yana       FRWBA39N   400   400/ 28  L3  L4  D5  0.5

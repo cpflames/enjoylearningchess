@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Merriman, Dann         WMNBF79Y  1313  1358/338  W3  WF  W2  3.0
+  2 Frederick, Benjamin    LAUDS57X  1319  1317/ 89  WF  W3  L1  2.0
+  3 Ma, Justin             OVLHD33R  1299  1255/125  L1  L2  WF  1.0

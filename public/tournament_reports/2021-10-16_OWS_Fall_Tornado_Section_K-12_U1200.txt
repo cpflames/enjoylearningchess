@@ -1,0 +1,25 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Davenport, Raymond     SOMED41L   891  1100/ 55  W24 W14 W20 W11 W4  5.0
+  2 Hawkins, Holden        TYEJ383Z  1033  1058/354  W9  W8  L11 W20 W7  4.0
+  3 Yang, Yuchang          ILCEK16L  1160  1145/ 28  W16 D13 L4  W9  W11 3.5
+  4 Liao, Wesley           EASHE49D  1009  1048/ 86  D12 W22 W3  W14 L1  3.5
+  5 Kandhare, Aaroh        OMSHK91M   762   913/ 33  L20 W12 W19 D6  W14 3.5
+  6 Chung, Connor          OPWF786L  1077  1036/ 53  W10 L20 W17 D5  D12 3.0
+  7 Kedarisetty, Ishan     GRRE300B   971   971/ 99  W18 L11 W10 W8  L2  3.0
+  8 Arunkumar, Ashwath     RSADH07X   806   840/ 49  W21 L2  W22 L7  W18 3.0
+  9 Vashisht, Aneesh       LKWDC30Y   918   929/ 24  L2  W24 W15 L3  W19 3.0
+ 10 Nair, Ishan            FRWE670E   823   915/ 58  L6  W21 L7  W15 W20 3.0
+ 11 Nalasani, Manasvi      XXOEM12Z   803   957/ 10  W15 W7  W2  L1  L3  3.0
+ 12 Mitra, Rahul           OPWGH53N   788   940/195  D4  L5  W21 W13 D6  3.0
+ 13 Veiga, Gabriel         ENSFJ31Y  1005   988/ 85  W23 D3  L14 L12 W21 2.5
+ 14 Kedarisetty, Shreyas   GRRFH60G  1112  1043/ 96  W17 L1  W13 L4  L5  2.0
+ 15 Heider, Elena          NOVHC647  1049   963/ 86  L11 W18 L9  L10 W23 2.0
+ 16 Liden, Soren           EVGHG18K   888   809/ 53  L3  L19 W23 L18 W22 2.0
+ 17 Phillips-acheson, SebasWOBF817T   828   771/154  L14 W23 L6  L19 BYE 2.0
+ 18 Ramanathan, Hamsini    OPWGH41M   589   633/ 10  L7  L15 W24 W16 L8  2.0
+ 19 Soukal, Martin         HSCIE76L   548   681/  9  U   W16 L5  W17 L9  2.0
+ 20 Godse, Gaurav          EVJH290Q   654   770/ 16  W5  W6  L1  L2  L10 2.0
+ 21 Yuen, Otto Shing-lok   KSHFF34N  1128   991/269  L8  L10 L12 W22 L13 1.0
+ 22 Sheldon, Jack          OPWE660X   452   434/ 36  BYE L4  L8  L21 L16 1.0
+ 23 Kotsis, Julian         OPWEJ84G   400   456/  5  L13 L17 L16 W24 L15 1.0
+ 24 Su, Chloe              OPWIG93D   800   400/  4  L1  L9  L18 L23 U   0.0

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chin, Sengwai          ADUN843Y   400  1006/  3  W6  W2  W4  3.0
+  2 Liu, Alvin             HSCF232M   568   630/ 88  W3  L1  W5  2.0
+  3 Chin, Ian              LECDF95D   517   532/ 36  L2  W5  W6  2.0
+  4 Chung, Ian             LIBDG54U   646   597/ 65  L5  W6  L1  1.0
+  5 Chin, Andre            LLMGA23B   400   414/ 35  W4  L3  L2  1.0
+  6 York, Jackson          KCCE472Y   400   400/  6  L1  L4  L3  0.0

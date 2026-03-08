@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Jacob            BLWDD74Y  1121  1147/125  W2  W4  L3  2.0
+  2 Yang, Jimmy            BCABG45S  1137  1134/ 75  L1  D3  W4  1.5
+  3 Praveen, Atharva       AUDDG14E  1122  1124/ 62  L4  D2  W1  1.5
+  4 Xie, Michael           BLWE549C  1131  1106/190  W3  L1  L2  1.0

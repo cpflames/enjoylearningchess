@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xie, Michael           BLWF549C  1128  1152/273  W4  L3  W2  2.0
+  2 Godse, Gaurav          EVJH290Q  1107  1139/ 36  W3  W4  L1  2.0
+  3 Mcintyre, Isaac        ETSC466S  1144  1116/ 21  L2  W1  L4  1.0
+  4 Yin, Daniel            ISMK116Y  1130  1106/153  L1  L2  W3  1.0

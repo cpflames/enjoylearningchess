@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dillingham, Annabella  LIBE229F  1125  1185/182  W4  W2  W3  3.0
+  2 Chung, Andrew          ADUN643D  1000  1004/  6  W3  L1  D4  1.5
+  3 Dillingham, Daniel     LIBDB73M  1065  1027/175  L2  W4  L1  1.0
+  4 Russie, David          ADUN656Q  1300   815/  3  L1  L3  D2  0.5

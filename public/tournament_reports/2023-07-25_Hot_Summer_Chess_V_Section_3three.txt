@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Fine-gucker, Logan     EAGD535R   714   749/ 62  W3  W5  L2  2.0
+  2 Bannister, Cypress     EAGFK36L   683   716/ 29  L5  W6  W1  2.0
+  3 Russell, Emerson       BLEEK23A   649   668/ 16  L1  BYE W5  2.0
+  4 Belyatskiy, Artem      VSTG764W   470   520/ 37  HPB U   W6  1.5
+  5 Moors, Samuel          BLNIH93D   800   749/ 53  W2  L1  L3  1.0
+  6 Manly, Shafter         CUEEA72M   622   553/ 41  HPB L2  L4  0.5

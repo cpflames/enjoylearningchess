@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ren, Aaron             ENADG67B  1595  1615/108  W17 W20 W14 D4  D2  4.0
+  2 Zhou, Yuchen           CHRDJ42H  1524  1572/496  W13 W18 D4  W15 D1  4.0
+  3 Yondon, Odbayar        LMAEK97T  1678  1662/ 95  D11 D7  W6  D12 W13 3.5
+  4 Verma, Darsh           WONGB52K  1617  1630/169  W12 W19 D2  D1  HPB 3.5
+  5 Gadde, Arnav           ENSEJ39D  1597  1582/112  D7  D11 W23 D14 W12 3.5
+  6 Nallappa, Vijay        REJHD40S  1573  1583/338  HPB W8  L3  W11 W14 3.5
+  7 Demberel, Amana        LCOKJ14E  1339  1436/ 44  D5  D3  D19 WF  W15 3.5
+  8 Cummins, William       SMSHJ26R  1088  1248/ 17  W16 L6  L11 W23 W18 3.0
+  9 Mishra, Aakash         EBSD439K   879  1069/ 58  L18 W21 L12 W24 W16 3.0
+ 10 Chen, Qingsheng        ADUN594Z  1300  1490/  3  LF  D13 D16 HPB W19 2.5
+ 11 Anandkumar, Haituka    STLI238P  1398  1423/327  D3  D5  W8  L6  HPB 2.5
+ 12 Siddem, Sid            RHJJC34V  1365  1375/411  L4  W24 W9  D3  L5  2.5
+ 13 Dale, Luke             MTSJJ10P  1292  1326/ 65  L2  D10 W25 W19 L3  2.5
+ 14 Mishra, Abhinav        TMBHB02W  1283  1335/ 60  WF  W22 L1  D5  L6  2.5
+ 15 Merriman, Dann         EREDF79Y  1509  1476/473  HPB HPB W18 L2  L7  2.0
+ 16 Liu, Bichen            KKNGK00D  1401  1341/ 60  L8  D25 D10 W17 L9  2.0
+ 17 Joseph, Veronique      SJODJ04S  1287  1250/ 81  L1  L23 W21 L16 W25 2.0
+ 18 Vijeyanandh, Vishnu    TMBHF63Z  1279  1254/137  W9  L2  L15 W25 L8  2.0
+ 19 Bharathy Mohan, Aarav  FRWEC98B  1481  1428/256  W24 L4  D7  L13 L10 1.5
+ 20 Meng, Miranda          OPWDH69P  1397  1391/ 73  W21 L1  HPB LF  U   1.5
+ 21 Xiang, Lucas           CNHD761Z  1019  1022/ 41  L20 L9  L17 HPB W23 1.5
+ 22 Kandhare, Ojas         INTLJ90T  1595  1567/ 93  W23 L14 U   U   U   1.0
+ 23 Xu, Zoe                SOMDG70A  1309  1253/185  L22 W17 L5  L8  L21 1.0
+ 24 Ma, William            BASD464K  1103  1059/ 37  L19 L12 HPB L9  HPB 1.0
+ 25 Ciani, Keith           ADUNG04B   871   880/ 15  HPB D16 L13 L18 L17 1.0

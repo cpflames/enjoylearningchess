@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Palmer, Evan           KULHI90S  1080  1153/ 80  D3  W4  W2  2.5
+  2 Zakonov, Pasha         BCAHJ63K  1104  1125/ 30  W4  W3  L1  2.0
+  3 Moore, Lucas           WEDDI48Z  1078  1082/ 53  D1  L2  W4  1.5
+  4 Cottenier, Louis       DISE700P  1077  1008/ 44  L2  L1  L3  0.0

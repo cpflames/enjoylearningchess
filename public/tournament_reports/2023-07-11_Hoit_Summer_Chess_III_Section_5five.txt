@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Cancelosi, Nicholas    SKYFM25W   369   505/ 32  W5  W2  W4  3.0
+  2 Bannister, Altair      EAGBK36Y   295   335/ 23  W6  L1  W5  2.0
+  3 Gardner, Andrew        CUEDK22Z   263   286/ 14  W4  L5  W6  2.0
+  4 Manookin, Jared        HSCDD11V   360   311/ 47  L3  W6  L1  1.0
+  5 Manookin, Adam         HSCDF67L   278   270/ 47  L1  W3  L2  1.0
+  6 Semu, Zeke             CIACK06J   200   100/  3  L2  L4  L3  0.0

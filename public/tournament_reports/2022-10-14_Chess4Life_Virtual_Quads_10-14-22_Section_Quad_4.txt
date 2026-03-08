@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yun, Daniel D          BCABK87Z  1188  1310/213  W3  W4  W2  3.0
+  2 Evin, Terrick          EBSBC54L  1388  1376/ 40  W4  W3  L1  2.0
+  3 Li, Harry              SSSDG30G  1132  1130/221  L1  L2  W4  1.0
+  4 Zhang, Ethan Yichen    CRIFG57B  1134  1084/307  L2  L1  L3  0.0

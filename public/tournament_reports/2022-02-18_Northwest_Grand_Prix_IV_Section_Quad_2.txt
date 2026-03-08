@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bosch, Declan          FHVHE38K  1058  1223/ 13  W3  W2  W4  3.0
+  2 Kuzin, Ethan           SHMJ7567  1228  1226/236  W4  L1  W3  2.0
+  3 Bubb, Ezra             FHVG592K  1139  1087/ 93  L1  D4  L2  0.5
+  4 Kozaczuk, James        SHKG108A   949   940/ 61  L2  D3  L1  0.5

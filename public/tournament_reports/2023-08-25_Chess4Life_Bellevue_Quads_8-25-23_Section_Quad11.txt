@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, Austin           SCDDK02G   300   625/  3  W4  W3  W2  3.0
+  2 Liu, Sheldon           BCABK02F   100   264/  3  W3  D4  L1  1.5
+  3 Yan, Rory              SOMBK02E   100   162/  3  L2  L1  W4  1.0
+  4 Lai, Brycen            WLBCK02D   200   100/  3  L1  D2  L3  0.5
+
+ All Unrated-player Section: Ratings capped at 1000

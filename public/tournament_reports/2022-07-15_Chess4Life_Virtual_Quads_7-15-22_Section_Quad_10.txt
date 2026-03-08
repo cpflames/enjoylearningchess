@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Anugula, Kruthik       RHJG581U   581   688/ 16  W6  W2  W4  3.0
+  2 Karthik, Sai           HSCA261S   592   614/ 16  W3  L1  W5  2.0
+  3 Schaudt, Parker        FAPC799V   410   451/ 81  L2  W5  W6  2.0
+  4 Vipin, Amol            RSAGB81R   607   543/ 15  L5  W6  L1  1.0
+  5 Chiu, Warren           CRIHC684   508   482/ 14  W4  L3  L2  1.0
+  6 Will, Derek            XXXEE57Z   400   400/  3  L1  L4  L3  0.0

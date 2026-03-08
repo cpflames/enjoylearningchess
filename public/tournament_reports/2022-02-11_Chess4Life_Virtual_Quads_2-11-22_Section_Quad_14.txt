@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mehrotra, Darsh        EINE240S   492   632/101  W4  W2  W3  3.0
+  2 Chaudhuri, Agnivesh    CHACB55V   451   498/ 43  W5  L1  W4  2.0
+  3 Miller, Ryan           EGMIJ40V   470   433/ 15  L6  W5  L1  1.0
+  4 Pai, Shubham           BCAE694R   406   400/ 20  L1  W6  L2  1.0
+  5 He, Oliver             CRIBK71V   400   400/ 16  L2  L3  W6  1.0
+  6 Schaudt, Parker        FAPC799V   400   400/ 44  W3  L4  L5  1.0

@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Airapetian, Chouchanik ADUND039  2013  2015/ 15  W10 W7  D3  W6  W4  4.5
+  2 Kuhner, Mary           ADUND44Q  1880  1866/ 48  W5  W14 D4  D3  D6  3.5
+  3 Jammalamadaka, Varnika OVLID216  1713  1726/447  W15 W8  D1  D2  D5  3.5
+  4 Chen, Angela           HLNKB334  1594  1622/294  WF  WF  D2  W7  L1  3.5
+  5 Mohan, Laya            LEOH617P  1293  1409/138  L2  W17 W10 W14 D3  3.5
+  6 Deng, Lily             LECJ5007  1778  1777/332  D11 W9  W13 L1  D2  3.0
+  7 Zhang, Iris            TMBI858X  1582  1593/343  W16 L1  W8  L4  W9  3.0
+  8 Cheng, Selina          THUF413R  1339  1400/403  W12 L3  L7  W15 W14 3.0
+  9 Devaraju, Sonia        OMSKK838  1589  1585/510  HPB L6  W11 W13 L7  2.5
+ 10 Mathur, Aashi          PLKH522S  1389  1375/278  L1  W16 L5  D12 W17 2.5
+ 11 Xu, Zoe                SOMDG70A  1289  1308/158  D6  L13 L9  W16 BYE 2.5
+ 12 Kulkarni, Neha         ADUN266W  1300  1308/  5  L8  W15 L14 D10 W16 2.5
+ 13 Han, Shuyi             TYEGK47W  1591  1568/278  HPB W11 L6  L9  HPB 2.0
+ 14 Anandkumar, Haituka    STLI238P  1483  1446/313  W17 L2  W12 L5  L8  2.0
+ 15 Agaian, Angela         MCRKD833  1213  1187/294  L3  L12 W17 L8  HPB 1.5
+ 16 Shankaranand, Deeksha  EBSEI74Y  1184  1138/175  L7  L10 BYE L11 L12 1.0
+ 17 Gordon, Audrie Eloise  ADUNZ10P  1300   789/  4  L14 L5  L15 BYE L10 1.0

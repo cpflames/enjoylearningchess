@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Siddem, Sid            RHJHC34V  1522  1531/310  D2  W3  W4  2.5
+  2 Zhang, Ethan (yichen)  CRIDG57B  1251  1323/114  D1  W4  D3  2.0
+  3 Xie, Max               BLWGI185  1335  1344/263  W4  L1  D2  1.5
+  4 Bharathy Mohan, Aarav  FRWCC98B  1371  1309/178  L3  L2  L1  0.0

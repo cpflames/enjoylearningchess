@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 tot 
+  1 Sundaram, Siddarth MeenADUNK02X  2472  2472/  6  HPB W7  W5  W2  W3  W8  W10 6.5
+  2 Colombo, Dominic M     GIGLJ74P  1955  1961/ 52  W14 D5  W16 L1  W10 W7  D4  5.0
+  3 Wang, Daniel           LSSK8287  1734  1770/623  W15 D6  W12 D10 L1  D4  W7  4.5
+  4 Zhu, Jamie             EVJG558E  1901  1890/338  HPB HPB D14 W6  D8  D3  D2  4.0
+  5 Wang, Leonardo         CKNG233K  1677  1698/ 69  W17 D2  L1  D16 D14 D12 W13 4.0
+  6 Wei, Te                ADUNK02V  1300  1719/  6  BYE D3  D10 L4  D12 W13 D9  4.0
+  7 Han, Shuyi             TYEGK47W  1572  1643/317  W8  L1  W9  HPB W16 L2  L3  3.5
+  8 Karamali, Saiya        ADUN586R  1736  1736/ 17  L7  W15 W13 HPB D4  L1  HPB 3.5
+  9 Vemuri, Vihari         ADUNK02U  1659  1641/  6  D18 HPB L7  W11 L13 W16 D6  3.5
+ 10 Joshi, Atharva         SKNK1352  1805  1800/332  W11 D12 D6  D3  L2  W14 L1  3.5
+ 11 Marcelia, David        ADUNK21F  1606  1590/ 89  L10 L13 W18 L9  HPB W15 W17 3.5
+ 12 Ren, Aaron             ENADG67B  1692  1691/158  W13 D10 L3  D14 D6  D5  U   3.0
+ 13 Bhaskaran, Siddharth   HMND152J  1519  1538/ 45  L12 W11 L8  W17 W9  L6  L5  3.0
+ 14 Saddi, Neevan Reddy    GRRDH87M  1632  1632/192  L2  W17 D4  D12 D5  L10 D18 3.0
+ 15 Liu, Bichen            KKNGK00D  1520  1503/ 89  L3  L8  L17 W18 BYE L11 W16 3.0
+ 16 Zhang, Bohan           EPSKE54S  1705  1644/128  HPB W18 L2  D5  L7  L9  L15 2.0
+ 17 Palathingal, Rafael    KKND196R  1428  1392/ 76  L5  L14 W15 L13 WF  L18 L11 2.0
+ 18 Meng, Miranda          OPWDH69P  1399  1409/131  D9  L16 L11 L15 LF  W17 D14 2.0

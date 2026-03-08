@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Fonseca, Kenzo         RKWHA91R  1311  1370/ 99  W3  W2  D4  2.5
+  2 Li, Yiyang             BCAE700B  1319  1318/213  W4  L1  D3  1.5
+  3 Tan, Nathan            UCDC412Y  1312  1313/108  L1  W4  D2  1.5
+  4 Bar, Nathan            AUDC368C  1306  1265/142  L2  L3  D1  0.5

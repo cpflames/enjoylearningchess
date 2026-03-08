@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Upreti, Parthavi       XXXF754L  1386  1457/ 43  W3  D2  W4  2.5
+  2 Xie, Max               BLWHI185  1460  1453/354  L4  D1  W3  1.5
+  3 Zhou, Yuchen           BCACJ42H  1457  1430/391  L1  W4  L2  1.0
+  4 Pisan, Kai             CHYH404C  1376  1367/231  W2  L3  L1  1.0

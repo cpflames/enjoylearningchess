@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Badal Khan, Samiullah KTSTKN30F  1359  1463/143  W2  W3  W4  3.0
+  2 Han, Shuyi             SOMEK47W  1370  1394/173  L1  W4  W3  2.0
+  3 Karukayil, Johan       EVJJ8041  1371  1353/518  W4  L1  L2  1.0
+  4 Merriman, Dann         WMNBF79Y  1383  1320/316  L3  L2  L1  0.0

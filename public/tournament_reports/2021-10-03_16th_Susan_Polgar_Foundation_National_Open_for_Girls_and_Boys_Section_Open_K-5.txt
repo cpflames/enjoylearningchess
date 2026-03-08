@@ -1,0 +1,40 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Wang, Ted              MEDCK13D  1620  1678/140  W22 W13 D2  W15 D5  W3  5.0
+  2 Kona, Vidip            RSADI26J  1720  1728/215  W30 W10 D1  W9  D3  D5  4.5
+  3 Xu, Owen               SOMC896M  1663  1686/ 90  W26 W14 W11 W4  D2  L1  4.5
+  4 Beegala, Keshav        SHVFJ27V  1581  1610/177  W29 W18 W12 L3  D10 W11 4.5
+  5 Verma, Darsh           WONFB52K  1506  1589/104  D15 W21 W37 W7  D1  D2  4.5
+  6 Merriman, Dann         WMNCF79Y  1559  1583/410  W36 W28 L7  W30 D11 W12 4.5
+  7 Tessiore, Luca         DCTFP42N  1864  1830/151  W16 D9  W6  L5  W19 D10 4.0
+  8 Chaudhury, Anmay       MISEZ55K   400  1544/  6  W39 L11 W22 D12 D9  W20 4.0
+  9 Liu, Yuntao            STTE505Y  1520  1552/226  W34 D7  W19 L2  D8  W18 4.0
+ 10 Liu, Lucas             SOMEH33R  1507  1534/139  W33 L2  W21 W18 D4  D7  4.0
+ 11 Chung, Ethan           LIBF108U  1600  1594/302  W31 W8  L3  W13 D6  L4  3.5
+ 12 Cha, Samuel            STTEK18Z  1640  1610/151  W24 W20 L4  D8  W26 L6  3.5
+ 13 Zhang, Ethan           STTE851S  1397  1404/217  W27 L1  W24 L11 W28 D14 3.5
+ 14 Lin, Michael           BCACC97F  1504  1484/189  W35 L3  L15 W31 W25 D13 3.5
+ 15 Sundar, Neal           MISDZ85E   400  1583/  6  D5  W25 W14 L1  D17 D19 3.5
+ 16 Iyer, Shashwat Pranav  CMCCC07W  1245  1259/ 40  L7  W34 D36 L19 W29 W26 3.5
+ 17 Xiao, David            MRPEA64Q  1766  1703/ 79  L21 L36 W23 W37 D15 W27 3.5
+ 18 Ramkumar, Nikhil       RBRE115E  1338  1342/ 96  W23 L4  W28 L10 W30 L9  3.0
+ 19 Frederick, Benjamin    LAUES57X  1505  1496/139  HPB W38 L9  W16 L7  D15 3.0
+ 20 Xiong, Michael         MEDD115A  1455  1411/142  W32 L12 L30 W39 W22 L8  3.0
+ 21 Zhang, Aaron           MEDE873R  1244  1256/356  W17 L5  L10 D27 D23 W31 3.0
+ 22 Chaurasia, Vihaan      HMNEH65G  1153  1172/ 94  L1  W27 L8  W35 L20 W32 3.0
+ 23 Budhraja, Jai          EBSEA16E   818   954/ 38  L18 D29 L17 W38 D21 W36 3.0
+ 24 Lella, Vihan           KKNE685A  1158  1152/ 53  L12 W32 L13 L28 W37 W34 3.0
+ 25 Zhang, Michael M.      MEDD668Q  1190  1172/381  D38 L15 W31 HPB L14 D28 2.5
+ 26 Moghe, Arjun           UCDEA42C  1187  1167/ 94  L3  D35 W38 W36 L12 L16 2.5
+ 27 Veiga, Gabriel         ENSFJ31Y   912  1005/ 80  L13 L22 W33 D21 W36 L17 2.5
+ 28 Bhaskaran, Siddharth   HMNC152J   400  1161/  5  WF  L6  L18 W24 L13 D25 2.5
+ 29 Wang, Ares             MEDDJ77J  1066  1063/129  L4  D23 D35 W32 L16 D30 2.5
+ 30 Zheng, Lucas           SOMC194Y  1233  1238/ 81  L2  W33 W20 L6  L18 D29 2.5
+ 31 Bharathy Mohan, Aarav  FRWDC98B  1080  1067/210  L11 W39 L25 L14 W35 L21 2.0
+ 32 Li, Jake C             BRHD573E   930   929/ 10  L20 L24 W34 L29 W38 L22 2.0
+ 33 Huttelmaier, Alex      CHRF218R  1011   963/121  L10 L30 L27 L34 BYE W39 2.0
+ 34 Louie, Leyton          UCDE880T  1032  1004/123  L9  L16 L32 W33 W39 L24 2.0
+ 35 Han, Victor            HSCDB39P   946   951/ 36  L14 D26 D29 L22 L31 W37 2.0
+ 36 Sharma, Soham          OVLFK09Q  1063  1043/ 16  L6  W17 D16 L26 L27 L23 1.5
+ 37 Ramprasad, Udbhav      EMDFG73Z   789   766/ 20  BYE HPB L5  L17 L24 L35 1.5
+ 38 Iyer, Suchir           CMCAK64E   400   739/  5  D25 L19 L26 L23 L32 BYE 1.5
+ 39 Han, Spencer           HSCCK75L   865   816/ 35  L8  L31 BYE L20 L34 L33 1.0

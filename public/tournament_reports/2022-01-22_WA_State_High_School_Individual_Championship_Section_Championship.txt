@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 He, Anthony            TSTL9717  2450  2452/303  W10 W5  D2  W4  W6  4.5
+  2 Levine, Joseph         DAOJD260  2231  2251/229  W17 W16 D1  W5  W4  4.5
+  3 Cheng, Edward          GARJC74W  1692  1716/350  L11 W13 D10 W18 W8  3.5
+  4 Mahajan, Rushaan       SOLJK091  2265  2253/330  W13 W11 W12 L1  L2  3.0
+  5 Anand, Vignesh         REDMJ919  2082  2080/446  W7  L1  W8  L2  W11 3.0
+  6 Lakshminarayanan, RishiLSSKD542  1681  1687/170  L16 W17 W14 W12 L1  3.0
+  7 Black, Toby            LSSL9430  1539  1599/474  L5  L10 W13 W14 W16 3.0
+  8 Peng, Brandon          LSSKA154  1830  1818/454  HPB W15 L5  W10 L3  2.5
+  9 Singh, Aditya          LSSM8559  1687  1652/492  D15 D18 D11 D16 D12 2.5
+ 10 King, George E         GARM1724  1674  1689/ 68  L1  W7  D3  L8  W15 2.5
+ 11 Hou, Kennard           HHSL1917  1501  1598/180  W3  L4  D9  W19 L5  2.5
+ 12 Adams, Henry           GARLE729  1399  1456/ 98  BYE W19 L4  L6  D9  2.5
+ 13 Zhang, Bohan           EPSJE54S  1663  1648/ 66  L4  L3  L7  BYE W19 2.0
+ 14 Cobden, Graham         GARLK495  1581  1565/401  HPB HPB L6  L7  W18 2.0
+ 15 Wadikar, Arnav         LWCII279  1501  1528/169  D9  L8  D19 W17 L10 2.0
+ 16 Fiat, Ronan            GARM6448  1448  1482/ 54  W6  L2  D18 D9  L7  2.0
+ 17 Joshi, Atharva         SKNJ1352  1642  1601/284  L2  L6  HPB L15 BYE 1.5
+ 18 Nelson, Michael        LSSM9364  1545  1519/236  HPB D9  D16 L3  L14 1.5
+ 19 Szeto, Sophie          LSSKH023  1835  1753/334  HPB L12 D15 L11 L13 1.0

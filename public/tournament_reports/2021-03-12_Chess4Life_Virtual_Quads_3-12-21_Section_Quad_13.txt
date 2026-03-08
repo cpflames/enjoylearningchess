@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Rackoff, Dylan         BLWD507J   915  1034/114  W2  W3  W4  3.0
+  2 Sailer, Shaunak        SARDC25Z   823   896/ 68  L1  W4  W3  2.0
+  3 Holzer, Liam           CMCGG89B   874   857/ 47  W4  L1  L2  1.0
+  4 Kok, Bulut             LAVEE54B   945   857/129  L3  L2  L1  0.0

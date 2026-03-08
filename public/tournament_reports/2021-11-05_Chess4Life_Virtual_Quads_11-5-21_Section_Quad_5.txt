@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pisan, Kai             CHYH404C  1285  1307/187  W4  D3  W2  2.5
+  2 Pravlik, Aiden         SHSC416H  1154  1192/191  W3  W4  L1  2.0
+  3 Zhang, Aaron           CCDE873R  1184  1186/365  L2  D1  W4  1.5
+  4 Hochberg, David        SUEJ6075  1140  1082/148  L1  L2  L3  0.0

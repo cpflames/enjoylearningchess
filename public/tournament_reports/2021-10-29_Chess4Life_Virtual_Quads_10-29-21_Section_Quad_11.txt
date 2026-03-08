@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dhawan, Viraj          BCAFI96U   693   701/ 18  W4  L3  W2  2.0
+  2 Naenna, Patanin        SPLDQ28H   677   690/ 46  W3  W4  L1  2.0
+  3 Leon, Nikhil           HSCD587T   592   639/ 52  L2  W1  W4  2.0
+  4 Chaudhuri, Arihant     CHAA703E   585   436/  6  L1  L2  L3  0.0

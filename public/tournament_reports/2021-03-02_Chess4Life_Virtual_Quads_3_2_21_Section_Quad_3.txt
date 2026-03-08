@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Evans, Thomas          HSCGK88J   880  1027/ 21  W2  W3  W4  3.0
+  2 Bar, Nathan            AUDB368C   916   918/ 46  L1  D4  W3  1.5
+  3 Kok, Bulut             LAVEE54B   914   890/117  W4  L1  L2  1.0
+  4 Singhi, Rohan          BRHBH01P   906   858/ 35  L3  D2  L1  0.5

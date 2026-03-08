@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Stroud, Jeb            HSCHK22V  1083  1147/ 17  W2  W3  W4  3.0
+  2 Qureshi, Danish        BLEFF36V   936   981/ 69  L1  W4  W3  2.0
+  3 Lewis, Kaleb           WCAHF41Z  1029   966/ 23  D4  L1  L2  0.5
+  4 Kimes, Matilda         HSCH935N   835   819/ 34  D3  L2  L1  0.5

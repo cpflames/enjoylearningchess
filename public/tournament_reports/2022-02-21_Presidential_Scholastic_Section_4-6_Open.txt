@@ -1,0 +1,44 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ramkumar, Nikhil       RBRE115E  1578  1601/162  W22 W13 W10 W14 D2  4.5
+  2 Cheng, Selina          THUE413R  1375  1510/353  W19 W38 W5  W4  D1  4.5
+  3 Seela, Shashank        SSMFI74N  1602  1603/124  W21 W12 D8  D17 W14 4.0
+  4 Nallappa, Vijay        REJGD40S  1523  1547/308  W28 W20 W7  L2  W8  4.0
+  5 Chen, William          BLWF550N  1520  1528/ 20  W29 W15 L2  W16 W17 4.0
+  6 Rastogi, Atharv        APOE377H  1460  1460/ 70  W31 L14 W23 W32 W15 4.0
+  7 Yadav, Arjun           MMEE664A  1435  1460/ 59  W32 W16 L4  W13 W19 4.0
+  8 Kang, Ayaan            ENSEI60T  1502  1506/258  W23 W27 D3  W24 L4  3.5
+  9 Urali, Sanjay          MEDE315D  1448  1438/302  W36 D17 L14 W25 W21 3.5
+ 10 Borate, Neel           REEF821E  1394  1400/205  W18 W30 L1  D21 W24 3.5
+ 11 Liu, Bichen            KKNFK00D  1469  1425/ 36  L30 W18 L24 W22 W27 3.0
+ 12 Kokati, Pranav         OMSG814P  1343  1336/193  W33 L3  W30 L15 W28 3.0
+ 13 Cen, Evan              TYEGI97D  1339  1340/ 76  W39 L1  W36 L7  W30 3.0
+ 14 Li, Austin A           ENDF438B  1239  1329/ 67  W41 W6  W9  L1  L3  3.0
+ 15 Zhao, Alice            CRKG746N  1220  1244/ 31  W43 L5  W38 W12 L6  3.0
+ 16 Joshi, Yash            SHSF280R  1219  1248/ 82  W25 L7  W41 L5  W32 3.0
+ 17 Chin, Jonathan         HSCG756L  1210  1328/ 34  W34 D9  W35 D3  L5  3.0
+ 18 Zhang, Ethan           MEDFE87D  1062  1168/479  L10 L11 W39 W29 W26 3.0
+ 19 Sharma, Soham          OVLFK09Q  1043  1183/ 21  L2  W28 W27 W35 L7  3.0
+ 20 Huang, Emily           MEDFB39A  1342  1309/195  W37 L4  L32 W31 D23 2.5
+ 21 Vijeyanandh, Vishnu    TMBGF63Z  1216  1227/106  L3  W33 W42 D10 L9  2.5
+ 22 Fu, Victor             MEDEA08K  1194  1204/ 84  L1  W39 D25 L11 W35 2.5
+ 23 Narayan, Bhargav       EVJGD962  1176  1185/151  L8  W40 L6  W41 D20 2.5
+ 24 Li, Jake C             BRHD573E   929  1098/ 15  D35 W34 W11 L8  L10 2.5
+ 25 Shah, Aarit            MTWD710Y   400  1210/  5  L16 W31 D22 L9  W37 2.5
+ 26 Appalabattula, Samarth RARGG06C  1326  1242/ 96  L38 L32 W37 W40 L18 2.0
+ 27 Rajagopal, Rithesh     EBSE972Q  1272  1241/197  W40 L8  L19 W36 L11 2.0
+ 28 Thakur, Reet           CWAFJ84K  1197  1169/288  L4  L19 W43 W38 L12 2.0
+ 29 Xing, Henry            LKDG3704  1182  1172/370  L5  D37 D34 L18 W39 2.0
+ 30 Khatib, Kenan          LKDGC566  1161  1171/218  W11 L10 L12 W42 L13 2.0
+ 31 Alagumalai, Gautham    EBSFF64S  1141  1126/185  L6  L25 W33 L20 W41 2.0
+ 32 Pusuluri, Likhit Arnav CNCEC25K  1099  1152/ 64  L7  W26 W20 L6  L16 2.0
+ 33 Konatham, Teja         CHRFD47A  1026  1011/173  L12 L21 L31 W43 W40 2.0
+ 34 Khandelwal, Ayush      REEF897D  1634  1527/162  L17 L24 D29 L37 W42 1.5
+ 35 Mayhan, Foster         BGLGK63J  1257  1123/ 10  D24 W42 L17 L19 L22 1.5
+ 36 Veiga, Gabriel         ENSFJ31Y  1129  1090/ 98  L9  W43 L13 L27 D38 1.5
+ 37 Agarwal, Avyan         APOF466L  1020  1044/ 48  L20 D29 L26 W34 L25 1.5
+ 38 Raja, Rian             CNCE786E   974   998/ 26  W26 L2  L15 L28 D36 1.5
+ 39 Parthasarathy, Adithya EBSFB74Z   986   943/ 22  L13 L22 L18 BYE L29 1.0
+ 40 Shah, Agam             DISE263J   951   901/188  L27 L23 BYE L26 L33 1.0
+ 41 Xu, Samuel             EASE854L   916   883/ 23  L14 BYE L16 L23 L31 1.0
+ 42 Hildenbrand, Blane     TCEG122V   872   843/101  BYE L35 L21 L30 L34 1.0
+ 43 Wood, Ryker            XXXFD86D   500   612/  4  L15 L36 L28 L33 BYE 1.0

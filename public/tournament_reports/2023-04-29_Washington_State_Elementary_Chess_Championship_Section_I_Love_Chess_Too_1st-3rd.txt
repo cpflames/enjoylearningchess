@@ -1,0 +1,78 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Dixit, Shivaan         CMCCK18F   200  1201/  5  W61 W48 W49 W6  W7  5.0
+  2 Annapureddy, Rohan ReddBNTDJ82K   487   617/ 23  D59 W27 W14 W20 W13 4.5
+  3 Goolla, Vihaas         DHLD487Q   400   572/  9  BYE W56 W34 W5  D4  4.5
+  4 Lam, Lorel             HEDDK18E   300   811/  5  W29 W50 W30 W8  D3  4.5
+  5 Appineni, Arnav        CHKDG26A   811   793/ 10  W77 W10 W11 L3  W23 4.0
+  6 Vasamsetty, Chetan     SHFCJ38Y   799   809/ 25  W21 W51 W52 L1  W26 4.0
+  7 Bao, David             SSSBK25B   635   719/  9  W37 W43 W31 W33 L1  4.0
+  8 Chan, Logan            PKRDK28J   512   614/ 10  W26 W24 W32 L4  W28 4.0
+  9 Zhang, Yixuan          CRIDB67H   452   508/ 10  L14 W54 W38 W49 W31 4.0
+ 10 Chong, Ethan           SMCCA10E   431   566/ 15  W48 L5  W54 W30 W33 4.0
+ 11 Bilguun, Telmuun       PKWDK18D   300   662/  5  W60 W46 L5  W19 W21 4.0
+ 12 Bonacina, Pietro       RKWBK18B   100   626/  5  W64 W28 L23 W24 W22 4.0
+ 13 Mishra, Angad          RKWDK70V   536   553/ 49  W25 D14 W39 W23 L2  3.5
+ 14 Mallu, Rushank Reddy   BRHDK93H   288   467/ 30  W9  D13 L2  W63 W42 3.5
+ 15 Jungmeisteris, Wallace BASCC77C   285   371/ 28  D27 L20 W66 W41 W36 3.5
+ 16 Hedstrom, Elliot       WEDBK92C   181   355/ 24  D19 L21 W74 W57 W37 3.5
+ 17 Sharma, Neil           CNCD887W   675   601/ 21  W22 L44 W51 L26 W50 3.0
+ 18 Zhang, Ethan           BUSBI73C   546   416/  9  L24 L52 WF  W39 W54 3.0
+ 19 Yue, Vincent           SOMC170B   416   410/ 10  D16 D59 W72 L11 W52 3.0
+ 20 Raghavan, Neel         SSMDK63P   414   435/ 13  HPB W15 W41 L2  D27 3.0
+ 21 Kakkar, Vikram         CDICK24Y   373   447/ 13  L6  W16 W63 W32 L11 3.0
+ 22 Gelli, Sai Lohith      LCSCK31C   364   427/ 20  L17 W55 W29 W34 L12 3.0
+ 23 Cheng, Ethan           SSSBK663   356   464/ 22  W46 W36 W12 L13 L5  3.0
+ 24 Srishankar, Suryaa     FRWDK87F   332   385/ 10  W18 L8  W55 L12 W56 3.0
+ 25 Alatkar, Anika         RSHCK25P   330   343/ 10  L13 L31 W75 W72 W55 3.0
+ 26 Kekre, Sohum           CSIBK24M   316   437/ 10  L8  W42 W56 W17 L6  3.0
+ 27 Wang, Felix            BCABK64Q   285   338/ 19  D15 L2  W71 W67 D20 3.0
+ 28 Katipally, Sahan       WOBBK31R   100   395/  6  W73 L12 W35 W43 L8  3.0
+ 29 Wong, Aiden            CNHCK17Z   200   446/  5  L4  W69 L22 W59 W43 3.0
+ 30 Battuguldur, Temuujin  WOBDK17Y   300   511/  5  W57 W45 L4  L10 W44 3.0
+ 31 Battuguldur, Tugs-erdenWOBCK17X   200   495/  5  W38 W25 L7  W44 L9  3.0
+ 32 Bonacina, Davide       RKWDK17V   300   402/  5  W75 W58 L8  L21 W46 3.0
+ 33 Yu, Olivia             REECK17U   200   488/  5  W40 W47 W44 L7  L10 3.0
+ 34 Daripineni, Vishwajit  HTPDK17T   300   381/  5  W72 W68 L3  L22 W49 3.0
+ 35 Guity, Siovaun         SYRC251G   488   394/ 32  W58 L49 L28 D38 WF  2.5
+ 36 Armstrong, Benjamin    EVGCK54R   382   327/ 14  BYE L23 W65 D42 L15 2.5
+ 37 Too, Amelia            THUCK87Q   352   338/ 10  L7  D63 W53 W52 L16 2.5
+ 38 Zhang, Jerry           BCABK64C   100   181/ 13  L31 W64 L9  D35 W66 2.5
+ 39 Deepesh, Dhwani        BRHCK31A   100   192/  9  D41 W66 L13 L18 W64 2.5
+ 40 Vallela, Likhith Reddy DHLCK17S   200   191/  5  L33 D74 L57 W71 W67 2.5
+ 41 Garcia, Adrian         KLECK17R   200   268/  5  D39 W71 L20 L15 W58 2.5
+ 42 Breyer, Lloyd          DFXDK17Q   300   324/  5  W53 L26 W59 D36 L14 2.5
+ 43 Sang, Enya             BASD217W   431   381/ 15  W47 L7  W70 L28 L29 2.0
+ 44 Zhou, Stella           MEDD422P   421   401/ 19  W50 W17 L33 L31 L30 2.0
+ 45 Wu, Ethan              MEDBA32G   419   329/ 15  L49 L30 W60 D53 D57 2.0
+ 46 Kondal, Jaskirat       CHWCI85N   342   315/ 15  L23 L11 W68 W70 L32 2.0
+ 47 Walton, Cara           CWABK52K   251   207/ 10  L43 L33 W73 L55 W70 2.0
+ 48 Ward, Augustus         KLEBK32B   245   230/ 10  L10 L1  L64 W75 W72 2.0
+ 49 Demopulos, Arianna     EVGBK54N   241   294/ 15  W45 W35 L1  L9  L34 2.0
+ 50 Gumke, Gumke           CWABK98M   132   181/ 28  L44 L4  W76 W65 L17 2.0
+ 51 Lakkarsu, Shriya       RKWCK64H   119   147/ 18  W68 L6  L17 L56 W73 2.0
+ 52 Navya Jeevan, Rutvi    BRHCK31B   100   194/  9  W74 W18 L6  L37 L19 2.0
+ 53 Gaduputi, Gautam       BRHBK31X   100   134/ 10  L42 W73 L37 D45 D59 2.0
+ 54 Kumar, Ashna           SNIDK43K   100   168/ 10  W65 L9  L10 W61 L18 2.0
+ 55 Lu, Ian                BASDK17P   300   213/  5  W69 L22 L24 W47 L25 2.0
+ 56 Xie, Elon              CNHCK17N   200   252/  5  W70 L3  L26 W51 L24 2.0
+ 57 Wang, Alex             BASCK17J   200   212/  5  L30 D61 W40 L16 D45 2.0
+ 58 Adjei, Sami Yaw        BUSC432C   300   217/ 14  L35 L32 W69 D64 L41 1.5
+ 59 Gupta, Pari            MEDD684L   296   261/ 43  D2  D19 L42 L29 D53 1.5
+ 60 Wang, Iris             BCACK62G   100   100/  9  L11 L72 L45 W76 D65 1.5
+ 61 Tran, Hayward          RIDDK17H   300   100/  5  L1  D57 L67 L54 W69 1.5
+ 62 Gruby, Mara            STIDK17G   300   300/  2  D66 W67 LF  U   U   1.5
+ 63 Yang, Allen            BASDK17F   300   225/  4  W76 D37 L21 L14 LF  1.5
+ 64 Rodriguez, Valentin    SEZCK17E   200   107/  5  L12 L38 W48 D58 L39 1.5
+ 65 Gorlachev, Isaac       HSCCK17A   200   100/  5  L54 W75 L36 L50 D60 1.5
+ 66 Goolla, Devansh        DHLBK16Z   100   100/  5  D62 L39 L15 W74 L38 1.5
+ 67 Kim, Emily             HLYCK16Y   200   100/  5  D71 L62 W61 L27 L40 1.5
+ 68 Michael, Sophia        DCCC704F   100   100/ 14  L51 L34 L46 L73 BYE 1.0
+ 69 Groves, Jennika        HLYCK27U   100   100/  9  L55 L29 L58 BYE L61 1.0
+ 70 Murphy, Pryor          FSECK16W   200   100/  5  L56 W76 L43 L46 L47 1.0
+ 71 Williams, Jesseray     DCCDK16V   300   100/  5  D67 L41 L27 L40 D74 1.0
+ 72 Gao, Weibo             CGRBK16U   100   100/  5  L34 W60 L19 L25 L48 1.0
+ 73 Rangavajjula, SiddharthCSMBK16S   100   100/  5  L28 L53 L47 W68 L51 1.0
+ 74 Mcentire, Daisy        CTMCK16Q   200   100/  5  L52 D40 L16 L66 D71 1.0
+ 75 Tran, Haydrianna       RIDBK40C   100   100/ 15  L32 L65 L25 L48 D76 0.5
+ 76 Timmons, Tea           DCCDK16M   300   100/  5  L63 L70 L50 L60 D75 0.5
+ 77 Maragoud, Shriya       WEDBK84Q   104   101/ 24  L5  U   LF  U   U   0.0

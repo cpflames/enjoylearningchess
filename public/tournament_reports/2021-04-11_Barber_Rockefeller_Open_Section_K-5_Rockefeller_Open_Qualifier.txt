@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Shen, Lixing           CMCFC15C  1456  1593/429  WF  W15 W10 W6  W3  5.0
+  2 Metzmaker, Suya        OPWF364P  1668  1667/255  HPB D12 W11 W7  WF  4.0
+  3 Zhang, Michelle        MEDE889L  1469  1493/289  W15 W9  W4  HPB L1  3.5
+  4 Cheng, Ethan           LMAED58X  1488  1505/277  W11 W10 L3  WF  D7  3.5
+  5 Jammalamadaka, Vihaan  BCADJ90F  1778  1755/268  D7  WF  W9  W10 L6  3.5
+  6 Suess, Wade            EVGF101D  1576  1569/237  L9  W8  W12 L1  W5  3.0
+  7 Arul, Sharvesh         BRHC319L  1453  1495/261  D5  W14 WF  L2  D4  3.0
+  8 Gajcowski, Hannah Nami OPWFI10H  1194  1307/141  HPB L6  W14 HPB W9  3.0
+  9 Cheng, Selina          THUD413R  1264  1293/241  W6  L3  L5  W13 L8  2.0
+ 10 Willy, Stephen         MMEFH17K  1712  1657/367  W13 L4  L1  L5  W15 2.0
+ 11 Iyer, Shashwat Pranav  REEBC07W  1235  1245/ 34  L4  W13 L2  L14 BYE 2.0
+ 12 Bablani, Arnav         LMSF1146  1278  1306/161  D14 D2  L6  HPB HPB 2.0
+ 13 Zhu, Aiden             LLSAC77X  1283  1289/ 10  L10 L11 W15 L9  W14 2.0
+ 14 Kovarik, Otto          LECFJ63V  1674  1582/ 37  D12 L7  L8  W11 L13 1.5
+ 15 Kokati, Pranav         CHRF814P  1139  1114/143  L3  L1  L13 BYE L10 1.0

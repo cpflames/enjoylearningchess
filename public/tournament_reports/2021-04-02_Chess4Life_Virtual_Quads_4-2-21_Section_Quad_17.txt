@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bharadwaj, Samarth     DGHAE78A   400  1098/  3  W5  W2  W4  3.0
+  2 Tan, Nathan            UCDB412Y   400   736/  3  W3  L1  W5  2.0
+  3 Antone, Jeremy         SKWH709W   400   528/  6  L2  W4  W6  2.0
+  4 Anis Mohammed, Aashiq  FRWDJ63M   494   480/ 16  W6  L3  L1  1.0
+  5 Saravanakumar, Akshaj  RCSDB04S   400   430/ 11  L1  W6  L2  1.0
+  6 Son, Ryker             HSCC804B   400   400/ 23  L4  L5  L3  0.0

@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Black, Stas            BCAD368F   678   759/ 25  W14 L2  W3  W10 W4  4.0
+  2 Shankaranand, Deeksha  EBSDI74Y   607   759/ 74  W6  W1  W4  W8  L3  4.0
+  3 Francis, Jamey         OPWDD90G   665   707/ 15  W5  D8  L1  W7  W2  3.5
+  4 Wu, Aiden              EVGDD83L   661   669/ 42  W11 W9  L2  W5  L1  3.0
+  5 Lan, Jonathan          OPWB968F   470   570/ 24  L3  W6  W12 L4  W8  3.0
+  6 Khambatti, Maxim       HSCC719W   400   517/ 10  L2  L5  W13 W9  W10 3.0
+  7 Cai, Sean              EVGDK35H   603   546/ 10  D12 L10 W14 L3  W13 2.5
+  8 Balasubramanian, AkshatRCSD700Y   400   508/ 10  W10 D3  W9  L2  L5  2.5
+  9 Gajcowski, Devin       BETDA94Z   705   610/121  W13 L4  L8  L6  W12 2.0
+ 10 Kamath, Abhay          RSACJ13S   645   585/ 33  L8  W7  W11 L1  L6  2.0
+ 11 Chaudhuri, Agnivesh    CHACB55V   400   402/ 11  L4  W13 L10 L12 W14 2.0
+ 12 Mehran, Tara           OPWDE56L   400   416/  6  D7  D14 L5  W11 L9  2.0
+ 13 Chaudhuri, Arihant     CHAA703E   436   400/ 11  L9  L11 L6  W14 L7  1.0
+ 14 Joseph, Veronique      SJOCJ04S   503   400/ 14  L1  D12 L7  L13 L11 0.5

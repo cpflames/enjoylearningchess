@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Darr-rehmert, Natalie  FERLK93U   710   813/ 63  W2  W4  W3  3.0
+  2 Stewart, Elijah        SHMK787F   552   604/  7  L1  W3  D4  1.5
+  3 Chiapellone, Teo       SHMKG88R   657   627/ 33  W4  L2  L1  1.0
+  4 Granger, Jacob         BLHJ654S   645   590/ 16  L3  L1  D2  0.5

@@ -1,0 +1,35 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kuipers, Miles         TSTK6766  1778  1814/537  W14 W8  W3  W11 W6  5.0
+  2 Ardeleanu, Alan        BCAK6068  1649  1653/149  W22 L7  W18 W9  W5  4.0
+  3 Bhimisetty, Sankeerth  INTK995Q  1450  1542/ 57  W27 W4  L1  W12 W11 4.0
+  4 Moses, Blessington     INTL3817  1542  1551/ 36  W31 L3  W23 W13 D8  3.5
+  5 Krishnan, Advait       REJH570Q  1528  1535/121  W25 W19 W20 D6  L2  3.5
+  6 Xiong, Michael         MEDE115A  1486  1522/256  W26 W23 W13 D5  L1  3.5
+  7 Boddapati, Sacchit     WDMI1381  1477  1490/239  W28 W2  L11 D20 W15 3.5
+  8 Liu, Bichen            KKNGK00D  1461  1496/ 69  W15 L1  W24 W22 D4  3.5
+  9 Wirkkala, Zane         HSCJC64H  1453  1449/ 35  D33 W30 W17 L2  W19 3.5
+ 10 Kokati, Pranav         OMSH814P  1426  1430/237  W29 L11 D19 W18 W20 3.5
+ 11 Chen, William          INGG550N  1525  1535/ 44  W32 W10 W7  L1  L3  3.0
+ 12 Zhang, Bowen           RKWEK55F  1501  1481/ 16  L19 W32 W25 L3  W22 3.0
+ 13 Urali, Sanjay          MEDF315D  1540  1526/340  W34 W21 L6  L4  W25 3.0
+ 14 Rubaiyat, Rhadean      ICSHD40L  1407  1420/117  L1  W26 L15 W32 W21 3.0
+ 15 Byam, Caleb            HSCGI71C  1055  1243/ 30  L8  W31 W14 W16 L7  3.0
+ 16 Belgau, Stephen        JFMHK76X  1530  1366/ 10  D17 L18 W30 L15 W26 2.5
+ 17 Zhao, Dennis           OPWG525E  1246  1240/297  D16 W33 L9  L19 W29 2.5
+ 18 Xiong, Lydia           REJHI43T  1218  1255/156  HPB W16 L2  L10 W28 2.5
+ 19 Avula, Varshith Reddy  BRHG110R  1203  1282/189  W12 L5  D10 W17 L9  2.5
+ 20 Pantea, Joshua         ABEIK63M   800  1267/  4  WF  W29 L5  D7  L10 2.5
+ 21 Cen, Evan              TYEHI97D  1579  1516/140  W24 L13 L22 W31 L14 2.0
+ 22 Nguyen, Nathan         NPRKG51V  1366  1363/153  L2  W28 W21 L8  L12 2.0
+ 23 Vutukuri, Adhrith      REJI326L  1330  1297/ 54  WF  L6  L4  L26 W31 2.0
+ 24 Cummins, William       SMSHJ26R  1311  1280/ 31  L21 W34 L8  L25 W32 2.0
+ 25 De, Rishik             HEAGJ87T  1246  1250/ 20  L5  W27 L12 W24 L13 2.0
+ 26 Saloranta, Leo         MCRJB40A  1201  1201/166  L6  L14 W34 W23 L16 2.0
+ 27 Venkatesan, Nimalan    VVMH701P   944   957/ 30  L3  L25 L32 W34 W33 2.0
+ 28 Gupta, Ishaan          INGI660Y  1130  1112/ 77  L7  L22 D29 W30 L18 1.5
+ 29 Kumar, Jatin           JACKK63L  1000  1037/  5  L10 L20 D28 W33 L17 1.5
+ 30 Mittal, Sanyam         JACK2663  1055  1018/ 85  HPB L9  L16 L28 WF  1.5
+ 31 Balaji, Sidharth       EVJGC22H  1300  1243/ 44  L4  L15 W33 L21 L23 1.0
+ 32 Lu, Jacob              BLMHI11F  1233  1192/300  L11 L12 W27 L14 L24 1.0
+ 33 Chulki, Aayush         BLMHJ17Y  1025   973/113  D9  L17 L31 L29 L27 0.5
+ 34 Battulga, Eric         INLJK63K   900   567/  4  L13 L24 L26 L27 LF  0.0

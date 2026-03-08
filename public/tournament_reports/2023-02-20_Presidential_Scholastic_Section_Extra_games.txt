@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Sankrithi, Vivaan      HSCAK61R   587   595/ 39  W5  W3  2.0
+  2 Sankrithi, Sarang      HSCDB11D  1204  1218/192  W4  U   1.0
+  3 Katz, Ari              EVGAK65J   100   100/  5  U   L1  0.0
+  4 Mittal, Sanyam         JACK2663  1023  1008/ 87  L2  U   0.0
+  5 Ranjith, Janani        SHVAK65E   100   100/  5  L1  U   0.0

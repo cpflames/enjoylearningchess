@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Praveen, Atharva       AUDDG14E   736   869/ 26  W3  W4  W2  3.0
+  2 Shubin, Neta           RKWK7542   728   703/ 45  W4  L3  L1  1.0
+  3 Achache, Enzo          XXXC308Q   713   692/ 15  L1  W2  L4  1.0
+  4 Leon, Nikhil           HSCC587T   717   695/ 34  L2  L1  W3  1.0

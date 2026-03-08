@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Mohan, Vishnu          KKNDF41R  1336  1364/ 85  W2  W8  W7  W4  W5  5.0
+  2 Black, Stas            BCAD368F   872  1013/ 48  L1  W3  W9  W7  W8  4.0
+  3 Rao, Atharv            SOMDB90T   920   937/ 13  L5  L2  BYE W6  W7  3.0
+  4 Syal, Yash             SHSDC10R   853   875/ 42  L7  BYE W6  L1  W9  3.0
+  5 Li, Moses              CDWCK26L   714   830/ 45  W3  L6  W8  W9  L1  3.0
+  6 Edmond, Alec           CSICH03G  1127  1019/166  L8  W5  L4  L3  BYE 2.0
+  7 Yun, Daniel D          BCABK87Z  1066  1013/129  W4  W9  L1  L2  L3  2.0
+  8 Narayan, Keshav        CMCDE45H   858   850/ 43  W6  L1  L5  BYE L2  2.0
+  9 Denmark, Asher         SNIDI26F   400   441/  4  WF  L7  L2  L5  L4  1.0

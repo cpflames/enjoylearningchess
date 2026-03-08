@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Ethan (yichen)  CRIEG57B  1242  1256/153  W4  L2  W3  2.0
+  2 Zheng, Lucas           SOMC194Y  1210  1233/ 75  D3  W1  D4  2.0
+  3 Bhattacharjee, ArchishmBLWFA45Y  1212  1211/109  D2  W4  L1  1.5
+  4 Kan, Kaleb             MMEDF53E  1175  1137/183  L1  L3  D2  0.5

@@ -1,0 +1,31 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Chang, Eddie           INTJ6270  1915  1949/142  W17 W13 W19 W5  4.0
+  2 Lee, Brian             WFWMA904  1881  1898/221  W20 W15 WF  W8  4.0
+  3 Chan, Skylor T         MEDGD18J  1717  1737/244  W29 W10 D8  WF  3.5
+  4 Heath, Derek           PREF1458  1752  1757/271  W30 WF  D14 W21 3.5
+  5 Qian, Daniel           PFCJ7807  1886  1893/267  W16 W24 W9  L1  3.0
+  6 Lu, Yiding             NPTE865Z  1807  1813/167  W11 L9  W15 W13 3.0
+  7 Roesch, Carson         BLEI120K  1760  1762/171  L8  W23 W16 W18 3.0
+  8 Suess, Wade            EVGF101D  1520  1612/222  W7  W21 D3  L2  2.5
+  9 Joshi, Atharva         PLKI1352  1636  1664/246  W28 W6  L5  D10 2.5
+ 10 Velea, Stephanie       EPSID353  1816  1807/321  W18 L3  W24 D9  2.5
+ 11 Zhang, Iris            RSAG858X  1570  1581/304  L6  D26 W22 W20 2.5
+ 12 Vemparala, Nikash      BCAFI078  1816  1790/294  WF  W30 L13 D14 2.5
+ 13 Cheng, Edward          WMSIC74W  1712  1723/186  W14 L1  W12 L6  2.0
+ 14 Karthikeyan, HarishkumaRKWFJ81A  1468  1543/160  L13 W17 D4  D12 2.0
+ 15 Li, Emma               LMSG521Q  1683  1669/298  W26 L2  L6  W27 2.0
+ 16 Chan, Ethan            HSCHF14H  1633  1641/205  L5  W29 L7  W24 2.0
+ 17 Luo, Ethan             NPRK6190  1694  1685/203  L1  L14 W30 W25 2.0
+ 18 Devadithya, Hiruna     PFCH5494  1578  1585/595  L10 W27 W25 L7  2.0
+ 19 Singh, Aditya          LSSL8559  1678  1689/456  W27 W25 L1  U   2.0
+ 20 Metzmaker, Suya        OPWF364P  1638  1602/244  L2  D22 W28 L11 1.5
+ 21 Chen, Angela           ADDIB334  1615  1590/266  HPB L8  W26 L4  1.5
+ 22 Zhang, Ethan           STTD851S  1406  1415/199  L24 D20 L11 W29 1.5
+ 23 Bushfield, Stuart      ADDIF350  1488  1463/340  L25 L7  D29 W28 1.5
+ 24 Willy, Stephen         MMEFH17K  1725  1688/311  W22 L5  L10 L16 1.0
+ 25 Li, Edward             TMBG768S  1696  1647/268  W23 L19 L18 L17 1.0
+ 26 Zhang, Bohan           EVJIE54S  1173  1272/  8  L15 D11 L21 D30 1.0
+ 27 Higa, Caedmon          FWPK7891  1124  1117/ 54  L19 L18 BYE L15 1.0
+ 28 Higa, Jet              TJHM7934   862   859/ 55  L9  BYE L20 L23 1.0
+ 29 Bablani, Arnav         LMSF1146  1351  1330/138  L3  L16 D23 L22 0.5
+ 30 Han, Shuyi             SOMEK47W  1492  1459/223  L4  L12 L17 D26 0.5

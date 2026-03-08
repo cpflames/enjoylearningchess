@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Salal, Zikrain         SHSFJ82Z  1214  1222/ 42  W4  L3  W2  2.0
+  2 Hochberg, David        SUEJ6075  1189  1204/212  W3  W4  L1  2.0
+  3 Foltz, Karsten         HTNG306D  1153  1177/100  L2  W1  W4  2.0
+  4 Dale, Luke             SMSIJ10P  1058  1009/ 20  L1  L2  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Olson, Travis          ADUN8893  1824  1829/114  W4  W2  W3  3.0
+  2 Shaikot, Sabeer        ENSE147Q  1520  1500/199  D3  L1  W4  1.5
+  3 Ghosh, Snehil          CBRD738T  1160  1183/ 60  D2  W4  L1  1.5
+  4 Doronin, Victor        BMNF335T   800   793/ 60  L1  L3  L2  0.0

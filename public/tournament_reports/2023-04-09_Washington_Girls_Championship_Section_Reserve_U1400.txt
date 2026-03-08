@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Fedorova, Kseniya      MMEI883P   955  1053/124  W9  W5  W4  D2  W7  4.5
+  2 Lakshminarayanan, KaavyOMSG210E   859  1052/ 66  W11 W6  W3  D1  W4  4.5
+  3 Kulkarni, Anika        REEEK21E   979   944/ 99  L6  W12 L2  W9  W11 3.0
+  4 Mullen, Hana           SMZJK81C   938   937/ 15  W10 W8  L1  W11 L2  3.0
+  5 Sabarish, Ananya       BCACG02Z   752   784/ 99  W13 L1  W9  HPB HPB 3.0
+  6 Alamuru, Kriti         SKWG815A   749   798/ 61  W3  L2  L7  W13 W8  3.0
+  7 Li, Rebecca            BCABJ62B   738   738/ 87  L8  BYE W6  W12 L1  3.0
+  8 Fang, Weiai            THRC696W   805   768/140  W7  L4  L11 W10 L6  2.0
+  9 Xu, Natalie            CNHB137A   801   754/ 40  L1  W13 L5  L3  W12 2.0
+ 10 Huttelmaier, Evelyn    CHRE757Z   716   663/142  L4  L11 BYE L8  W13 2.0
+ 11 Qu, Yufei              TMBG250D   744   758/ 33  L2  W10 W8  L4  L3  2.0
+ 12 Ranjith, Janani        SHVAK65E   100   100/ 17  BYE L3  HPB L7  L9  1.5
+ 13 Qu, Yuwen              RSAAK86G   512   461/ 19  L5  L9  WF  L6  L10 1.0

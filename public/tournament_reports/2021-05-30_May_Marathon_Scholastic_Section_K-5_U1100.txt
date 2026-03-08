@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Milton, Dane           SPTDK30V  1000  1138/168  WF  W4  D6  W2  W5  4.5
+  2 Gagnier, Ian           HSCCC72H  1030  1110/ 93  W3  W7  W5  L1  W8  4.0
+  3 Zhao, Alice            CRKF746N   794   958/ 22  L2  W12 W10 W4  W6  4.0
+  4 Yang, Jimmy            BCABG45S  1189  1146/ 69  W10 L1  W7  L3  W9  3.0
+  5 Day, Amelia            MLPE844V  1035  1022/ 14  WF  W8  L2  W6  L1  3.0
+  6 Arunkumar, Ashwath     RSACH07X   783   861/ 36  W9  W10 D1  L5  L3  2.5
+  7 Lim, Leo               MADE731C   926   904/ 27  W12 L2  L4  D9  W11 2.5
+  8 Desimone, James        VRDEH32X   925   895/ 72  W11 L5  D9  W12 L2  2.5
+  9 Tian, Grace            CRIDE89L   940   895/127  L6  W11 D8  D7  L4  2.0
+ 10 Kotiya, Arin           CRNEE69V   884   786/ 10  L4  L6  L3  W11 W12 2.0
+ 11 Wolff, Tom             HKEAG70U   480   479/ 21  L8  L9  W12 L10 L7  1.0
+ 12 Wolff, Maya            HKECB05R   400   400/ 20  L7  L3  L11 L8  L10 0.0

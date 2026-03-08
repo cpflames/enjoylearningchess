@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Jacob            BLWED74Y  1183  1266/167  W4  D2  W3  2.5
+  2 Stein, Benjamin        HSCCB61S  1193  1271/175  W3  D1  W4  2.5
+  3 Bar, Nathan            AUDC368C  1244  1217/148  L2  W4  L1  1.0
+  4 Jha, Siddhant          EVJHG46N  1221  1154/338  L1  L3  L2  0.0

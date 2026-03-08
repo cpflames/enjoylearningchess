@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Upreti, Parthavi       TBKG754L  1496  1594/146  W3  W4  W2  3.0
+  2 Cha, Samuel            BASFK18Z  1640  1602/187  L4  W3  L1  1.0
+  3 Sangal Lopez, Dev      CTNG515J  1452  1449/340  L1  L2  W4  1.0
+  4 Kang, Jinue            OMSH2661  1488  1478/266  W2  L1  L3  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Seela, Shashank        SSMFI74N  1603  1608/127  W3  L2  W4  2.0
+  2 Patankar, Vijay        THRHC78Y  1505  1532/224  W4  W1  L3  2.0
+  3 Pisan, Kai             CHYH404C  1486  1520/277  L1  W4  W2  2.0
+  4 Zhou, Yuchen           BCACJ42H  1556  1497/416  L2  L3  L1  0.0

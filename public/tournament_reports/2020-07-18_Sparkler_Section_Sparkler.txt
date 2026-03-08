@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Mounts, Eli            FMILA92U  1476  1501/ 76  W15 W11 W7  D3  W5  4.5
+  2 Deng, Stanley          CGMCK22E  1156  1286/ 57  L7  W12 W11 W4  W3  4.0
+  3 Wannamaker, Linus      IDXFY45B  1437  1440/ 14  W8  W5  W4  D1  L2  3.5
+  4 Reddy, Eshan           SGSF336Y  1357  1333/196  W9  W6  L3  L2  W8  3.0
+  5 Carper, Jack           LINHG86W  1147  1176/ 67  W13 L3  W10 W6  L1  3.0
+  6 Nicolazzo, Alexander   LYBL3198  1123  1102/125  W16 L4  W15 L5  W9  3.0
+  7 Ambalavanan, Varun     LBYJK347  1525  1465/330  W2  D10 L1  L8  W14 2.5
+  8 Schoenberger, Joshua   SJVHJ73R  1069  1085/210  L3  W14 D9  W7  L4  2.5
+  9 Natesan, Arjun         LBYG878H   542   759/ 10  L4  W16 D8  W10 L6  2.5
+ 10 Brown, Malia           FRRK1512  1184  1138/289  W12 D7  L5  L9  W15 2.5
+ 11 Bai, Kelin             PVECD75J  1075  1065/ 68  HPB L1  L2  W15 W13 2.5
+ 12 Fletcher, Kaiden       BTDGG49E   447   491/ 24  L10 L2  W14 L13 W16 2.0
+ 13 Hopson, Jared          VLCCI39U   409   432/ 36  L5  L15 D16 W12 L11 1.5
+ 14 Wang, Kelby            WAXB796Y   800   660/  7  HPB L8  L12 W16 L7  1.5
+ 15 Fletcher, Tyson        NWDI704U   649   649/ 27  L1  W13 L6  L11 L10 1.0
+ 16 Xu, Neva               BTDCI80J   400   400/  9  L6  L9  D13 L14 L12 0.5

@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Obulisamy, Jaikrishnaa EALJK894  1560  1586/ 87  W15 W14 W7  WF  W8  5.0
+  2 Loconte, Augustus      CSIC331E   902  1152/ 46  W9  W11 WF  D7  W12 4.5
+  3 Janson-kovalev, Artem  HREFU87S  1167  1229/ 24  W10 W8  L4  W6  WF  4.0
+  4 Deng, Stanley          LECDK22E  1368  1387/183  W17 WF  W3  W5  L7  4.0
+  5 Repalle, Vibhav        LLMHK31L  1171  1211/ 80  WF  W16 W15 L4  W14 4.0
+  6 Rao, Deepak Sri KartikeARDF517J  1174  1187/ 93  BYE W18 W10 L3  W16 4.0
+  7 Yondon, Odbayar        LMADK97T  1603  1581/ 56  W18 W12 L1  D2  W4  3.5
+  8 Chavezvargas, Angel    CWHK858A   830  1024/  8  BYE L3  W14 W12 L1  3.0
+  9 Esquivel, George       CWHLD456   976  1004/226  L2  W13 L12 W11 D10 2.5
+ 10 Motkuri, Akshath       LLMG554U  1036  1039/ 75  L3  W17 L6  W16 D9  2.5
+ 11 Henry, Matthew         CRPE528C  1138  1070/ 10  D16 L2  W17 L9  W18 2.5
+ 12 Kane, Callan           CWHLB00E  1173  1137/182  W13 L7  W9  L8  L2  2.0
+ 13 Motkuri, Advaitha      RICJJ68F   963   940/ 75  L12 L9  L16 W19 W15 2.0
+ 14 Chintalapudi, Srihaan  CNCE662W  1173  1135/ 79  W19 L1  L8  W17 L5  2.0
+ 15 Piedra, Daniel         CWHMD502  1108  1079/280  L1  W19 L5  W18 L13 2.0
+ 16 Kane, Jarret           JMLIJ97S   810   840/107  D11 L5  W13 L10 L6  1.5
+ 17 Padilla, Jose Arias    CWHJ888V  1052   988/ 44  L4  L10 L11 L14 W19 1.0
+ 18 Hassan, Nadeem         RRGH411A  1048   995/107  L7  L6  W19 L15 L11 1.0
+ 19 Agrawal, Sakash        MEDCC98H   857   787/ 77  L14 L15 L18 L13 L17 0.0

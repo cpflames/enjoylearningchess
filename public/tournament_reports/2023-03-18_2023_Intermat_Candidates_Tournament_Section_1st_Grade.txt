@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Evin, Terrick          EBSBC54L  1149  1205/ 92  D2  W3  W4  2.5
+  2 Yuan, Chen             ETSBJ15Z  1246  1242/ 59  D1  W4  D3  2.0
+  3 Narkhede, Kshitij      CRKBA27K  1008  1045/ 33  W4  L1  D2  1.5
+  4 Yun, Daniel D          BCABK87Z  1104  1039/249  L3  L2  L1  0.0

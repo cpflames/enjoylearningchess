@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lahue, Ihsan           GRRGJ69P   463   540/ 64  W2  W3  U   2.0
+  2 Speer, Nolan           STME842G   587   564/ 23  L1  U   W3  1.0
+  3 Shaikot, Sabeer        XXXD147Q   443   400/ 43  U   L1  L2  0.0

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bannister, Cypress     EAGFK36L   670   824/ 38  W6  W2  W3  3.0
+  2 Buckham, George        SKYBK37E   753   767/ 25  W4  L1  W5  2.0
+  3 Russell, Emerson       BLEEK23A   668   711/ 19  W5  W4  L1  2.0
+  4 Fine-gucker, Logan     EAGD535R   653   621/ 71  L2  L3  W6  1.0
+  5 Bannister, Altair      EAGBK36Y   616   593/ 38  L3  W6  L2  1.0
+  6 Cornejo Arriaga, AlexeiLLLEG91C   584   510/ 12  L1  L5  L4  0.0

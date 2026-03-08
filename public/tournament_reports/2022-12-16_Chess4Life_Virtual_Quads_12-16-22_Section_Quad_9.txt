@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nabeel, Hasan          XXXE415U   400   845/  3  W2  W3  W4  3.0
+  2 Sardarli, Adnan        XXXC671W   468   450/ 14  L1  L4  W3  1.0
+  3 Goel, Advit            RCSBG22F   459   444/ 13  W4  L1  L2  1.0
+  4 Gupta, Tanya           OPWE793G   366   377/ 16  L3  W2  L1  1.0

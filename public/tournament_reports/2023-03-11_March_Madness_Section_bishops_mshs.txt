@@ -1,0 +1,30 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Keener, Karl           HLHHY40G  1188  1387/ 89  W26 W17 W14 W5  W4  5.0
+  2 Coe, Michael           UHIKK70Q  1471  1457/ 14  W13 L5  W7  W10 W9  4.0
+  3 Mortensen, Lucas       WVSJ730U  1427  1414/123  W18 W11 L4  W12 W13 4.0
+  4 Jones, Gideon          FIVG543G  1168  1289/ 77  W27 W16 W3  W14 L1  4.0
+  5 Malov, Ivan            WVSJH69Y  1148  1333/ 15  W19 W2  W6  L1  W11 4.0
+  6 Patterson, Ben         PDHKI54X  1366  1362/ 72  W28 W8  L5  W17 D14 3.5
+  7 Triplett, Caleb        ADCJK70P  1223  1184/ 10  W24 W12 L2  L11 W21 3.0
+  8 Nuss, Sean             LWCLK92T  1143  1094/ 13  W20 L6  W27 L13 W22 3.0
+  9 Davis, Aiden           ADCJK70N  1131  1150/ 10  W21 L14 W18 W25 L2  3.0
+ 10 Celli, Victor          WVSM376J  1104  1099/ 27  L16 W15 W19 L2  W23 3.0
+ 11 Walstrom, Nathan       LWCLK57J  1075  1134/  9  W29 L3  W21 W7  L5  3.0
+ 12 Campbell, Sebastian    ASPHI79A  1005  1069/152  W23 L7  W16 L3  W17 3.0
+ 13 Selle, Matthew         PDHM1660   902  1009/ 52  L2  W20 W22 W8  L3  3.0
+ 14 Al-hakeem, Hasan       WVSMC84R  1536  1476/ 32  W25 W9  L1  L4  D6  2.5
+ 15 Bagmet, Dana           SVLK292D   889   893/ 23  HPB L10 L25 W19 W24 2.5
+ 16 Chen, Bryce            ADCLK50V  1100  1019/  5  W10 L4  L12 D24 W25 2.5
+ 17 Peterson, Eli          ADCJH13G  1063  1047/ 30  W22 L1  W23 L6  L12 2.0
+ 18 Dyck, Chapin           CMYJK70J   560   545/ 12  L3  BYE L9  L22 W29 2.0
+ 19 Kane, Bartholomew      ICPMY99Z  1200   900/  5  L5  W25 L10 L15 W26 2.0
+ 20 Davis, Tj              CMYJK50U   900   778/  5  L8  L13 W26 L23 W27 2.0
+ 21 Clark, Christopher     CAHJY99Y   900   880/  5  L9  W24 L11 W27 L7  2.0
+ 22 Bair, Morgan           LBYIK50T   800   812/  5  L17 W28 L13 W18 L8  2.0
+ 23 Dishanni, Caden        ICPLY99X  1100   864/  5  L12 W26 L17 W20 L10 2.0
+ 24 Dishanni, Logan        ICPLY45T   771   730/ 10  L7  L21 W29 D16 L15 1.5
+ 25 Lockwood, Henry        CMYJK70L   931   887/ 14  L14 L19 W15 L9  L16 1.0
+ 26 Santilli, Tristen      MHSLH668   751   693/111  L1  L23 L20 W29 L19 1.0
+ 27 Bentz, Andrew          ICPJY32B   629   565/  9  L4  W29 L8  L21 L20 1.0
+ 28 Fahsholtz, Ryan        LWCLK92L   787   745/ 10  L6  L22 U   U   U   0.0
+ 29 Riddle, Evangelyn      MEPIK50S   800   167/  5  L11 L27 L24 L26 L18 0.0

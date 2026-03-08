@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Ethan            SKNK4017  1728  1772/ 84  W3  W4  W2  3.0
+  2 Park, Sean             INTJ600E  1671  1686/111  W4  W3  L1  2.0
+  3 Merriman, Dann         WMNBF79Y  1606  1599/395  L1  L2  W4  1.0
+  4 Wang, Daniel           LMSI8287  1633  1586/561  L2  L1  L3  0.0

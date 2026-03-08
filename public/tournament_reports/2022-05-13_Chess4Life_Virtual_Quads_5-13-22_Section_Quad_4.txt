@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Alam, Adil             BCAGI15X  1214  1234/241  W2  L3  W4  2.0
+  2 Wang, Jacob            BLWED74Y  1190  1216/202  L1  W4  W3  2.0
+  3 Chong, Jacob           RSHDF24L  1160  1200/ 44  W4  W1  L2  2.0
+  4 Bar, Nathan            AUDC368C  1230  1155/180  L3  L2  L1  0.0

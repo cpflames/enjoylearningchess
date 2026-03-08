@@ -1,0 +1,39 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Khanolkar, Karan       KMNHK912  1406  1532/204  W28 W13 W5  W11 W4  5.0
+  2 Devadithya, Hiruna     PFCI5494  1495  1505/664  W26 W25 L4  W18 W12 4.0
+  3 Venkatachalam, Kedar   RHJI947E  1374  1418/ 16  W6  W27 L11 W19 W14 4.0
+  4 Carper, Jack           LINIG86W  1346  1443/142  W17 W19 W2  W12 L1  4.0
+  5 Sharma, Soham          OVLFK09Q  1314  1367/ 34  W30 W32 L1  W29 W15 4.0
+  6 Moghe, Arjun           UCDEA42C  1167  1322/ 99  L3  W33 W25 W24 W11 4.0
+  7 Huang, Lucas           EVJIC915  1423  1408/241  L27 D8  W34 W32 W18 3.5
+  8 Bharadwaj, Anish       WPPHI530   972  1206/267  W33 D7  D9  D27 W22 3.5
+  9 Mandhana, Avi          ESCI5824  1412  1390/108  W16 D18 D8  L15 W29 3.0
+ 10 Siddem, Sid            RHJIC34V  1461  1416/398  L19 L28 W36 W26 W27 3.0
+ 11 Fan, Max               ISMI993P  1277  1330/ 26  W31 W21 W3  L1  L6  3.0
+ 12 Wahi, Lakshya          EVJI664Z  1267  1301/125  W37 W22 W24 L4  L2  3.0
+ 13 Cheng, Louis           EPSH764H  1264  1286/ 93  W20 L1  L29 W35 W21 3.0
+ 14 Joshi, Dhroov          TMBID083  1250  1263/ 87  L32 W31 W35 W21 L3  3.0
+ 15 Sharma, Devansh        KMNHF88S  1225  1262/120  L22 W36 W17 W9  L5  3.0
+ 16 Kearl, Brian           PLKHA61W  1196  1253/ 10  L9  W37 L19 W23 W24 3.0
+ 17 Aggarwal, Aadit        LEOIE722  1219  1262/435  L4  W26 L15 W38 W25 3.0
+ 18 Abueg, Lorenzo         SLBHG77J  1193  1270/ 80  W23 D9  W22 L2  L7  2.5
+ 19 Jha, Siddhant          EVJHG46N  1129  1208/350  W10 L4  W16 L3  D30 2.5
+ 20 Medikurthi, Sanjana    RHJIK37G  1048  1120/ 69  L13 D34 W38 L22 W32 2.5
+ 21 Tran, Samuel           OMSIH734  1494  1420/285  W34 L11 W28 L14 L13 2.0
+ 22 Yadav, Himank          NJHI399V  1432  1367/200  W15 L12 L18 W20 L8  2.0
+ 23 Soukal, Martin         HSCIE76L  1376  1314/ 46  L18 L29 W30 L16 W34 2.0
+ 24 Chen, Tongjia          ESCIA55R  1363  1256/  9  W29 W35 L12 L6  L16 2.0
+ 25 Sanjay, Adarsh         OPWIJ50U  1288  1261/ 90  W36 L2  L6  W28 L17 2.0
+ 26 Bosch, Declan          FHVHE38K  1242  1228/ 35  L2  L17 W37 L10 W35 2.0
+ 27 Yu, Christopher        TYEI591U  1220  1222/194  W7  L3  D32 D8  L10 2.0
+ 28 Fedorov, Vladimir      EVJHF17D  1194  1211/186  L1  W10 L21 L25 W33 2.0
+ 29 Chakravarthy, Sidhanth EVJH1564  1164  1184/340  L24 W23 W13 L5  L9  2.0
+ 30 Gupta, Ishaan          INGH660Y  1122  1130/ 72  L5  D38 L23 W31 D19 2.0
+ 31 Ritter, Levi           LINIC692  1090  1077/ 96  L11 L14 D33 L30 W38 1.5
+ 32 Nguyen, Nam            CEMH158E   700  1109/  5  W14 L5  D27 L7  L20 1.5
+ 33 Bhaskara, Yash         ICSHI539  1185  1127/215  L8  L6  D31 D34 L28 1.0
+ 34 Srinivas, Shravan      MAYI208U  1238  1183/ 90  L21 D20 L7  D33 L23 1.0
+ 35 Ephrem, Yabi           HSCHC72Q  1136  1099/ 76  W38 L24 L14 L13 L26 1.0
+ 36 Rout, Ritwik           PLKHE10R  1093   965/  8  L25 L15 L10 L37 BYE 1.0
+ 37 Rajesh, Gagan Karthik  WASHF06V  1088  1055/ 11  L12 L16 L26 W36 U   1.0
+ 38 Mendoza, Oscar         OCHII229  1322  1193/257  L35 D30 L20 L17 L31 0.5

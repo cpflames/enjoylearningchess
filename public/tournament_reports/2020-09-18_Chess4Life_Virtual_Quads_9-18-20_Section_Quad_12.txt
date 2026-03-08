@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Balaji, Rishab         SSMHD090   881  1014/ 61  W4  W3  W2  3.0
+  2 Nakashima, Jaden       LAVEC80B   876   882/ 50  W3  D4  L1  1.5
+  3 Dokka, Varnika         CRIHH33Y   889   865/104  L2  L1  W4  1.0
+  4 Laddad, Aarav          SHSGJ91K   885   835/ 26  L1  D2  L3  0.5

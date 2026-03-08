@@ -1,0 +1,39 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Deshpande, Yajat       EALJ735V  1202  1303/266  WF  W22 W5  W3  W4  5.0
+  2 Chang, Liam            KKNE5238  1127  1205/104  WF  W13 D9  W31 W10 4.5
+  3 Marcelia, David        CPBLK21F  1139  1202/ 15  W27 W11 W7  L1  W13 4.0
+  4 Schmidt, Oto           HTNGJ236   993  1138/133  W36 W6  W10 W9  L1  4.0
+  5 Jewsbury, Keaton       BETF976Q  1122  1149/ 93  W24 W29 L1  W17 W11 4.0
+  6 Kedarisetty, Shreyas   GRREH60G   716  1000/ 66  W14 L4  W26 W18 W31 4.0
+  7 Mcateer, Benjamin      WMSGH53Q  1043  1087/ 68  W34 W33 L3  W16 W12 4.0
+  8 Vangala, Advaith       BLWF174X   911  1057/288  W21 W20 W31 L10 W23 4.0
+  9 Ehrenberg, Joshua      HCCKH373  1163  1166/ 95  W15 W25 D2  L4  W18 3.5
+ 10 Wong, Samuel           TYEGJ51V  1130  1123/ 92  W23 W26 L4  W8  L2  3.0
+ 11 Wang, Derek            MEDCF70G   803   966/ 86  W12 L3  W22 W25 L5  3.0
+ 12 Lu, Jacob              ENDFI11F  1101  1078/218  L11 W24 W27 W15 L7  3.0
+ 13 Mitra, Rahul           OPWFH53N   972   996/110  W35 L2  W34 W20 L3  3.0
+ 14 Xie, Ava               SOME797Y   997   975/141  L6  W36 L17 W29 W27 3.0
+ 15 Kakkad, Vayu           BRYAK50L   974   977/208  L9  W28 W33 L12 W21 3.0
+ 16 Agarkar, Aarav         WDMGG17J   877   899/ 92  L20 W37 W21 L7  W24 3.0
+ 17 Hawkins, Holden        TYEI383Z   848   956/121  LF  W35 W14 L5  W25 3.0
+ 18 Yuen, Otto Shing-lok   UNKEF34N   747   876/227  D31 W32 W20 L6  L9  2.5
+ 19 Urman, Rafi            JDSE261Z   400   815/  5  D32 L31 L23 W33 W28 2.5
+ 20 Morris, Graham         HTNG1617  1149  1068/244  W16 L8  L18 L13 W32 2.0
+ 21 Yenamandra, Siddharth  ICSHA49G   700   852/  5  L8  W23 L16 W26 L15 2.0
+ 22 Guduru, Agasthya       EMDC500V   991   941/ 25  W28 L1  L11 L24 W34 2.0
+ 23 Ehrenberg, Isaac       HCCIC208   840   832/ 99  L10 L21 W19 W35 L8  2.0
+ 24 Kedarisetty, Ishan     GRRD300B   816   817/ 71  L5  L12 W38 W22 L16 2.0
+ 25 Ramkumar, Siddharth    LMADH50B   942   901/133  W38 L9  W29 L11 L17 2.0
+ 26 Forrester, Gilbert     HTNGH03C   963   900/123  W37 L10 L6  L21 W35 2.0
+ 27 Liang, Wu              JINB620E   872   841/ 13  L3  W38 L12 W34 L14 2.0
+ 28 Li, Timothy            CRIEE29R   710   722/ 71  L22 L15 W37 W30 L19 2.0
+ 29 Stefani, Maia          SNIF872A   772   756/ 43  WF  L5  L25 L14 W33 2.0
+ 30 Zhen, Hongren          KIMFC02Z   981   880/ 83  L33 L34 W32 L28 W37 2.0
+ 31 Shah, Sahil            EVHHT16B  1051   989/ 88  D18 W19 L8  L2  L6  1.5
+ 32 Phillips-acheson, SebasWOBE817T   938   863/116  D19 L18 L30 W36 L20 1.5
+ 33 Hijirida, Kyle         MISGH728   751   725/ 95  W30 L7  L15 L19 L29 1.0
+ 34 Harding, Max           LCNEH34Z   728   719/ 44  L7  W30 L13 L27 L22 1.0
+ 35 Yenamandra, Akhil      SSMEH84U   400   608/  5  L13 L17 W36 L23 L26 1.0
+ 36 Liang, Wen             JINBF53X   621   582/ 14  L4  L14 L35 L32 W38 1.0
+ 37 Baumann, Naomi         HCCE180R   438   442/ 14  L26 L16 L28 W38 L30 1.0
+ 38 Sundaram, Archit       DISEF70P   400   400/  9  L25 L27 L24 L37 L36 0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kamel, Yaseen          PFCJD57L  1541  1555/133  W2  W4  L3  2.0
+  2 Frederick, Benjamin    LAUES57X  1496  1520/142  L1  W3  W4  2.0
+  3 Boulis, Christos       RHJIC84T  1550  1525/499  L4  L2  W1  1.0
+  4 Condit, Noah           KMDGA59Q  1487  1475/ 84  W3  L1  L2  1.0

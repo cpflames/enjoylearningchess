@@ -1,0 +1,22 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Shah, Kanav            LMAC295Q   400  1322/  5  W9  W8  W7  W5  W6  5.0
+  2 Jaeger, Russell        SAND967K   721   813/ 96  W10 W14 L5  W12 W8  4.0
+  3 Gajcowski, Devin       BETCA94Z   651   786/ 86  W11 L12 W14 W7  W5  4.0
+  4 Puri, Meera            BCACB82B   400   784/  3  HPB W19 L6  W9  WF  3.5
+  5 Arikatla, Ved Anush RedBRHCD38C   400   929/  5  W19 W6  W2  L1  L3  3.0
+  6 Wei, Marcus            CSIC588E   925   921/ 41  W21 L5  W4  W13 L1  3.0
+  7 Lu, Ian                CRICE83J   646   671/107  W17 W20 L1  L3  W13 3.0
+  8 Metzmaker, Kyren       OPWC430W   671   678/ 87  WF  L1  W16 W15 L2  3.0
+  9 Narayan, Keshav        CMCCE45H   535   591/ 19  L1  W21 W20 L4  W17 3.0
+ 10 Reddy, Ira             HSOCU769   400   503/  9  L2  L15 W21 W20 W14 3.0
+ 11 Schechter, Evan        MEDD812M   400   465/  9  L3  L16 BYE W19 W15 3.0
+ 12 Ramesh, Shyam          RIDCG41K   400   752/  4  W16 W3  D13 L2  LF  2.5
+ 13 Thorrington, James     SANC547U   646   626/  9  WF  W18 D12 L6  L7  2.5
+ 14 Zhu, Ryan              SOMCD23U   400   515/  5  W15 L2  L3  W16 L10 2.0
+ 15 Brodniak, Andy         TFECF36B   544   501/ 37  L14 W10 W17 L8  L11 2.0
+ 16 Kelly, Liam            SANC359W   525   507/ 24  L12 W11 L8  L14 W20 2.0
+ 17 Wang, Nicole           SOMC428S   400   400/  4  L7  BYE L15 W18 L9  2.0
+ 18 Mcateer, Julian        THUCD90X   546   491/ 15  HPB L13 D19 L17 W21 2.0
+ 19 Senthil, Dharmik       SOMD766C   553   492/ 18  L5  L4  D18 L11 BYE 1.5
+ 20 Zhang, Aaron           RSABC74T   400   400/  4  BYE L7  L9  L10 L16 1.0
+ 21 Schechter, Elizabeth   MEDB373X   400   400/  9  L6  L9  L10 BYE L18 1.0

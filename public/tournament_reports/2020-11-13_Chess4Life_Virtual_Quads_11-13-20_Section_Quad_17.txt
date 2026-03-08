@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lechner, Liam          HSCG591P   600  1389/  3  W3  W4  W2  3.0
+  2 Raghavendra, Srinidhi  ICSI790S   800   935/  3  W4  W3  L1  2.0
+  3 Condit, Theo           TLIAJ39C   617   636/ 15  L1  L2  W4  1.0
+  4 Yun, Daniel            TPSC768W   749   616/  6  L2  L1  L3  0.0

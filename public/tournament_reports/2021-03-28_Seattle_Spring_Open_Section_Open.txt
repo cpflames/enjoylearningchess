@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Shahinyan, David       ADINB96J  2575  2574/ 55  W6  W3  HPB W2  D4  4.0
+  2 Perez, Ignacio         ADUNA795  2229  2221/ 24  W5  W4  D3  L1  W7  3.5
+  3 Singh, Aditya          LSSL8559  1676  1706/472  W8  L1  D2  W7  W6  3.5
+  4 Nicoski, Aaron         ADUN598C  1780  1789/ 32  W9  L2  W5  D6  D1  3.0
+  5 Ejsing, Simon          ADUN158D  1352  1394/  9  L2  W8  L4  W9  BYE 3.0
+  6 Wong-godfrey, Emerson  EXWHH83E  1584  1587/389  L1  W7  W9  D4  L3  2.5
+  7 Yu, Bo-bae             ADONR536  1141  1156/ 83  BYE L6  W8  L3  L2  2.0
+  8 Giden, Robert          ADUN256D  1300  1095/  4  L3  L5  L7  BYE W9  2.0
+  9 Ruff, Lois             ADUNJ90S  1164  1120/ 77  L4  BYE L6  L5  L8  1.0

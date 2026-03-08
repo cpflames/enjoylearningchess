@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wahi, Lakshya          EVJH664Z  1178  1281/ 56  W3  W2  W4  3.0
+  2 Hawkins, Holden        TYEI383Z  1150  1180/255  W4  L1  W3  2.0
+  3 Yu, Christopher        SPTG591U  1143  1127/152  L1  W4  L2  1.0
+  4 Zhang, Ethan (yichen)  CRIDG57B  1170  1100/ 95  L2  L3  L1  0.0

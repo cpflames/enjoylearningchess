@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Stein, Mary            HSCG624A   649   729/ 60  W2  W3  W4  3.0
+  2 Amalo, Eliot           HSCG282X   600   644/  3  L1  W4  W3  2.0
+  3 Bohannon, Andrew       LHTDG71E   400   410/ 34  W4  L1  L2  1.0
+  4 Sooraj, Nandana        APOBJ47H   400   400/  6  L3  L2  L1  0.0

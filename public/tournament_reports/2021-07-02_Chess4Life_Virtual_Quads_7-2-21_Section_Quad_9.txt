@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dode, Arush            EMDC317L   781   923/ 15  W2  W4  W3  3.0
+  2 Zhu, Jayden            HSCBD42U   779   820/ 21  L1  W3  W4  2.0
+  3 Agrawal, Sakash        CLHBC98H   793   768/ 54  W4  L2  L1  1.0
+  4 Yin, Daniel            ISMJ116Y   785   707/105  L3  L1  L2  0.0

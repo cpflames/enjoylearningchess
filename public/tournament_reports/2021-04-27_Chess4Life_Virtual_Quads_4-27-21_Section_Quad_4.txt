@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Song, Emily            ISBJU589  1138  1170/ 63  W3  W4  W2  3.0
+  2 Yin, Daniel            ISMJ116Y   925   907/ 78  W4  L3  L1  1.0
+  3 Tan, Nathan            UCDB412Y   885   878/ 17  L1  W2  L4  1.0
+  4 Praveen, Atharva       AUDDG14E   900   889/ 47  L2  L1  W3  1.0

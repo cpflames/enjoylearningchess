@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chatterjee, Sasmit     RHJHH23M  1206  1211/ 58  W6  W4  W3  3.0
+  2 Deepak, Advait         BRHFD74M   806   790/ 40  L3  W5  W4  2.0
+  3 Ensz, Arlo             RHJGK62C   513   597/ 39  W2  D6  L1  1.5
+  4 Doronin, Victor        BMNF335T   742   720/ 38  W5  L1  L2  1.0
+  5 Swagath, Pranav        BCACK23N   382   422/ 17  L4  L2  W6  1.0
+  6 Tsen, Eric             AGBCK18P   587   541/ 42  L1  D3  L5  0.5

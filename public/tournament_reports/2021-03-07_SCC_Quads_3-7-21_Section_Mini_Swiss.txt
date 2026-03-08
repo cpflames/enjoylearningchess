@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Boey, Chad             ADUN800V  1661  1665/ 17  D5  BYE W3  2.5
+  2 Shen, Lixing           CMCFC15C  1466  1454/421  D4  W5  D6  2.0
+  3 Carman, Leif           RICKB289  1669  1655/229  W6  W7  L1  2.0
+  4 Ruff, Lois             ADUNJ90S  1122  1164/ 73  D2  D6  W7  2.0
+  5 Hack, Don              ADBNF13X  1324  1327/ 17  D1  L2  BYE 1.5
+  6 Day, Aaron             ADUN459U  1300  1291/  3  L3  D4  D2  1.0
+  7 Selsky, John           ADUNA64Y   705   700/  4  BYE L3  L4  1.0

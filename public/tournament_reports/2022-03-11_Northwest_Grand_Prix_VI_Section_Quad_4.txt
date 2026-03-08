@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Van Male, Justin       BLHLB91X   682   784/ 20  W3  W4  D2  2.5
+  2 Chiapellone, Teo       SHMKG88R   630   764/ 57  W4  W3  D1  2.5
+  3 King, Kael             FACIC08B   773   687/  6  L1  L2  W4  1.0
+  4 Manly, Shafter         CUEDA72M   724   636/ 26  L2  L1  L3  0.0

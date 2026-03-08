@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Cottenier, Louis       DISE700P  1055  1077/ 41  W3  W4  L2  2.0
+  2 Agarkar, Aarav         WDMGG17J  1056  1053/107  L4  D3  W1  1.5
+  3 Chevuri, Tattva        CBRDC06V  1041  1042/165  L1  D2  W4  1.5
+  4 Rackoff, Dylan         BLWD507J  1031  1010/102  W2  L1  L3  1.0

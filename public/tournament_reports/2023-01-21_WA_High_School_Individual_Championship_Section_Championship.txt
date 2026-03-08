@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Vijayakumar, Advaith   NRCK6655  2160  2158/285  W13 W15 W14 D6  W7  4.5
+  2 Maurer, Sam            INTK742A  1634  1760/ 30  W5  HPB D9  W14 W6  4.0
+  3 Chang, Eddie           INTL6270  2071  2054/196  W10 D7  L6  W12 W9  3.5
+  4 Roesch, Carson         BLHK120K  1778  1782/233  L14 W16 W13 D7  W10 3.5
+  5 Colombo, Dominic M     GIGLJ74P  1945  1917/ 36  L2  L12 W16 W11 W14 3.0
+  6 Pisan, Kai             CHYJ404C  1817  1836/434  W16 D9  W3  D1  L2  3.0
+  7 Joshi, Atharva         SKNK1352  1688  1739/308  W17 D3  W12 D4  L1  3.0
+  8 Teh, Logan             GARLH765  1416  1463/ 99  L9  BYE L11 W17 W15 3.0
+  9 Deng, Lily             HHSJ5007  1739  1742/346  W8  D6  D2  D10 L3  2.5
+ 10 Zhang, Bohan           EPSKE54S  1652  1668/100  L3  W17 W15 D9  L4  2.5
+ 11 Demberel, Amana        LCOKJ14E  1589  1589/ 68  D12 L14 W8  L5  BYE 2.5
+ 12 Cheng, Edward          GARKC74W  1826  1806/413  D11 W5  L7  L3  D13 2.0
+ 13 Hou, Kennard           HHSM1917  1665  1671/190  L1  W18 L4  D15 D12 2.0
+ 14 Adams, Henry           GARME729  1582  1611/112  W4  W11 L1  L2  L5  2.0
+ 15 Wong-godfrey, Emerson  BUSJH83E  1766  1720/452  W18 L1  L10 D13 L8  1.5
+ 16 Trushkov, Max          FERK616A  1585  1555/167  L6  L4  L5  BYE D17 1.5
+ 17 Deng, Grace            HHSM1468  1422  1398/249  L7  L10 BYE L8  D16 1.5
+ 18 Koripella, Teja        EALLG56Q  1541  1517/ 38  L15 L13 U   U   U   0.0

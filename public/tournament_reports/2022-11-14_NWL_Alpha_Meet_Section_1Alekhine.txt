@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Trushkov, Max          FERK616A  1552  1602/156  W4  W6  W3  3.0
+  2 Lee, Jae-yoon          SHMKC734  1582  1572/ 89  W8  L3  W6  2.0
+  3 Jongema, Gabriel       LYEL984D  1498  1518/ 38  W7  W2  L1  2.0
+  4 Frost, Ignatius        SHMJJ64P  1336  1394/ 51  L1  W8  W5  2.0
+  5 Scollon, Owen          FHVH734D  1589  1537/370  L6  W7  L4  1.0
+  6 Kuzin, Ethan           SHMK7567  1342  1358/270  W5  L1  L2  1.0
+  7 Werner, Ross           SHMLB91H  1306  1304/ 89  L3  L5  W8  1.0
+  8 Stanley, Soren         BLHM116S  1289  1243/ 43  L2  L4  L7  0.0

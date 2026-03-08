@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lewis, Kaleb           WCAGF41Z  1032  1047/ 12  W3  W4  W2  3.0
+  2 Manderson, Gabby       LYCIJ73H   719   707/ 15  W4  D3  L1  1.5
+  3 Lewis, Felix           BECHE37Q   402   512/  8  L1  D2  W4  1.5
+  4 Crompton, Callum       FACDE89B   536   480/ 13  L2  L1  L3  0.0

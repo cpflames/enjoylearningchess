@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chevuri, Tattva        CBRDC06V   934  1055/174  W3  W4  D2  2.5
+  2 Stein, Samuel          HSCDH03T  1061  1051/124  W4  L3  D1  1.5
+  3 Pravlik, Aiden         SHSB416H  1004   984/145  L1  W2  L4  1.0
+  4 Ren, Aaron             HSCBG67B  1035  1007/ 37  L2  L1  W3  1.0

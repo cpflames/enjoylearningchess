@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Singh, Aavir           REJJ7910   915   995/ 89  W2  W4  W3  3.0
+  2 Stake, Charles         OESCM87Q   770   829/121  L1  W3  W4  2.0
+  3 Chaudhuri, Arihant     CHAC703E   817   793/ 62  W4  L2  L1  1.0
+  4 Kuluru, Samith         KKNFI99K   776   708/ 32  L3  L1  L2  0.0

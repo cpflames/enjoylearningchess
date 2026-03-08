@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Keener, Karl           HLHHY40G  1120  1188/ 84  W2  W4  W5  W3  D7  4.5
+  2 Elkins, Indiana        HSCHC15D   861   987/ 54  L1  D6  W7  W9  W4  3.5
+  3 Dassow, Alek           HSCI143B  1112  1088/ 15  W7  L5  W6  L1  W8  3.0
+  4 Campbell, Sebastian    ASPHI79A   998  1005/147  W9  L1  W8  W5  L2  3.0
+  5 Hochheimer, Noah       SGSGF37G   941   959/182  W10 W3  L1  L4  W9  3.0
+  6 Bai, Kelin             SKKED75J  1011   971/167  W8  D2  L3  L7  W10 2.5
+  7 Sherwood, Leo          FREHI58J   838   873/ 29  L3  W10 L2  W6  D1  2.5
+  8 Boyd, Aidynn           SVLHB40X   832   815/ 20  L6  W9  L4  W10 L3  2.0
+  9 Webb, Rogan            HDPGC51Z   816   752/ 19  L4  L8  W10 L2  L5  1.0
+ 10 Yallup, Patrick        SAWGK70H   600   344/  5  L5  L7  L9  L8  L6  0.0

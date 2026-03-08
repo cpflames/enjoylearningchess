@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Guo, Aaron             SOMD953W  1280  1345/199  W12 W2  L3  W5  W4  4.0
+  2 Compton, Jackson       HCHDL301  1240  1331/312  W5  L1  W6  W7  W3  4.0
+  3 Zhang, Michael M.      MEDC668Q  1228  1289/355  W9  W8  W1  D4  L2  3.5
+  4 Rastogi, Atharv        APOD377H  1194  1280/ 25  W7  W6  W8  D3  L1  3.5
+  5 Edmond, Alec           LCNBH03G  1060  1154/ 68  L2  W12 W11 L1  W7  3.0
+  6 Choi, Hunter           EVGDE80A  1140  1170/132  W11 L4  L2  W10 W9  3.0
+  7 Cheng, Selina          THUD413R  1264  1223/142  L4  W11 W10 L2  L5  2.0
+  8 Dmitriev, Lyan         NPTD246H  1286  1231/236  W10 L3  L4  L9  W11 2.0
+  9 Shanmugam, Varsha      FRLBA12J  1024  1024/304  L3  L10 BYE W8  L6  2.0
+ 10 Edmond, Ivy            WWDDD81E  1251  1184/128  L8  W9  L7  L6  BYE 2.0
+ 11 Zhao, George           CRKBA26L  1095  1024/144  L6  L7  L5  BYE L8  1.0
+ 12 Ivanovic, Mina         UCDCH40V  1148  1107/305  L1  L5  U   U   U   0.0

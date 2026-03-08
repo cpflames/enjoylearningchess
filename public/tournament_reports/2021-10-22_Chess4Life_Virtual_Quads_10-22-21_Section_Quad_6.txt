@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhu, Kevin             CSMC865U  1082  1197/215  W2  W4  W3  3.0
+  2 Hawkins, Holden        TYEJ383Z  1058  1095/357  L1  W3  W4  2.0
+  3 Wang, Ares             MEDDJ77J  1115  1084/146  W4  L2  L1  1.0
+  4 Chong, Jacob           RSHDF24L  1038   976/ 19  L3  L1  L2  0.0

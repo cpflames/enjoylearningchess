@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Carpenter, Jonas       VSTI274G   871  1038/ 27  W2  W3  W4  3.0
+  2 Lyford, Nathan         STNJ942Q   977   995/ 39  L1  W4  W3  2.0
+  3 Love, Charles          SHMJ458N   955   928/ 24  W4  L1  L2  1.0
+  4 Kozaczuk, James        SHKG108A   906   839/ 49  L3  L2  L1  0.0

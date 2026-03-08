@@ -1,0 +1,31 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Xie, Isaac             THRCK25T   200  1241/  5  W12 W17 W9  W3  W4  5.0
+  2 Marrugo, Emilio        OPWCE25J   781   822/ 32  W13 L4  W8  W24 W9  4.0
+  3 Xu, Natalie            CNHB137A   748   801/ 35  W19 W27 W5  L1  W14 4.0
+  4 Wright, William        PTFAB71M   667   845/ 51  W23 W2  W15 W6  L1  4.0
+  5 Li, Rebecca            BCABJ62B   605   738/ 83  W30 W7  L3  W13 W15 4.0
+  6 Liu, Alexander         BASD831E   634   704/ 20  W29 D8  W7  L4  W17 3.5
+  7 Das, Sambuddha Sekhar  ENDCK47S   810   772/ 15  W14 L5  L6  W16 W18 3.0
+  8 Lew, Abigail           OPWC645P   680   669/ 60  W20 D6  L2  W25 D11 3.0
+  9 Thanikonda, Kruti      RCSCK84W   717   725/ 40  W21 W24 L1  W12 L2  3.0
+ 10 Kalakoti, Kartika      STVAG45J   679   623/ 58  L27 W16 L24 W22 W20 3.0
+ 11 Marella, Akhil         CHRDK93L   541   563/ 20  L24 W25 W20 D15 D8  3.0
+ 12 Rabindranath, Guhan    EMDDH35G   487   524/ 12  L1  W22 W28 L9  W23 3.0
+ 13 Srinivas, Sharav       RKWDI03B   466   523/ 25  L2  W21 W27 L5  W24 3.0
+ 14 Gong, Feifan           BCACK64U   407   528/ 15  L7  W30 W26 W17 L3  3.0
+ 15 Chen, Max Y            DISDK76L   769   721/ 25  W18 W26 L4  D11 L5  2.5
+ 16 Vemparala, Nitara      BCABG18F   605   574/ 37  D25 L10 W19 L7  W26 2.5
+ 17 Spataro, Anna          STTBK65C   684   601/ 10  W22 L1  W18 L14 L6  2.0
+ 18 Kachachi, Cyrus        OPWC763G   415   420/ 24  L15 W23 L17 W27 L7  2.0
+ 19 Gong, Qifan            BCAAK65N   385   355/ 14  L3  L28 L16 W30 W25 2.0
+ 20 Hao, Ian               BCSCK31F   311   327/ 10  L8  W29 L11 W28 L10 2.0
+ 21 Gelli, Sai Lohith      LCSCK31C   300   290/ 10  L9  L13 L25 W29 W28 2.0
+ 22 Jungmeisteris, Wallace BASCC77C   274   285/ 23  L17 L12 W30 L10 W27 2.0
+ 23 Soykal, Toprak         MMECK25R   200   389/  5  L4  L18 W29 W26 L12 2.0
+ 24 Hagius, Bridger        LMADK25Q   300   560/  5  W11 L9  W10 L2  L13 2.0
+ 25 Alatkar, Anika         RSHCK25P   200   330/  5  D16 L11 W21 L8  L19 1.5
+ 26 Qu, Yuwen              RSAAK86G   642   512/ 15  W28 L15 L14 L23 L16 1.0
+ 27 Srinivas, Siri         RKWBK89Q   167   183/ 19  W10 L3  L13 L18 L22 1.0
+ 28 Yu, Eric               ETSAK25N   100   159/  5  L26 W19 L12 L20 L21 1.0
+ 29 Do, Ryan               ETSCK25M   200   100/  5  L6  L20 L23 L21 W30 1.0
+ 30 Luo, Stephen           ESTAK25L   100   100/  5  L5  L14 L22 L19 L29 0.0

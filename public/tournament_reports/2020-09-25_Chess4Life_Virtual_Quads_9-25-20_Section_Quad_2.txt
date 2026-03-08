@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 To, Donovan            REEG239L  1611  1627/214  D4  W3  W2  2.5
+  2 Boulis, Christos       RHJHC84T  1521  1537/369  W3  W4  L1  2.0
+  3 Neff, Caleb            ABEFG72N  1507  1488/253  L2  L1  W4  1.0
+  4 Urali, Sanjay          MEDD315D  1399  1382/178  D1  L2  L3  0.5

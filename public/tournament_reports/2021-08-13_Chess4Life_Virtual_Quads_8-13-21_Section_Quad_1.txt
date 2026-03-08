@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jain, Arnav            OMSI7967  1549  1604/275  W3  D2  W4  2.5
+  2 Wang, Daniel           LMSI8287  1586  1602/564  W4  D1  D3  2.0
+  3 Gijare, Sayali         SKWIE100  1646  1633/535  L1  W4  D2  1.5
+  4 Sangal Lopez, Dev      WOBE515J  1497  1455/222  L2  L3  L1  0.0

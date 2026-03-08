@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bosch, Ethan           SHMMF67U  1585  1604/ 87  W4  W3  W2  3.0
+  2 Johnson, Derek         HSCKB948  1377  1395/173  W3  W4  L1  2.0
+  3 Werner, Ross           SHMKB91H  1267  1266/ 73  L2  L1  W4  1.0
+  4 Zhang, Owen            FHVG995H  1254  1211/167  L1  L2  L3  0.0

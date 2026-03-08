@@ -1,0 +1,27 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 r10 tot 
+  1 Kasha, Eliot           GARJ235P  1214  1281/101  U   U   W11 L11 L8  W8  W16 W16 W22 W22 6.0
+  2 Zeribi, Kamil          GARKH62V  1086  1132/ 16  U   U   W12 L12 W9  W9  U   U   L23 W23 4.0
+  3 Schmeichel, Trevor     GARJ3868  1188  1194/149  U   U   L13 W13 W10 W10 D19 L19 W24 W24 5.5
+  4 Tsagazeab, Hermon      GARK141K   507   507/  7  U   U   L14 L14 U   U   U   U   U   U   0.0
+  5 Ameha, Abel            GARKJ16V  1000  1196/  2  U   U   W15 W15 U   U   U   U   U   U   2.0
+  6 Bukovec, Zack          GARK1924  1072  1058/ 91  U   U   U   U   U   U   W17 L17 U   U   1.0
+  7 Yagi, Cole             GARJ640Z   900   803/  2  U   U   U   U   U   U   U   U   L25 W25 1.0
+  8 Schmidt-warnecke, Max  LSSJ6188  1410  1329/175  L11 L11 L23 W23 W1  L1  U   U   W17 L17 3.0
+  9 Walsh, Anjali          LSSJC095  1287  1114/357  L12 W12 L24 W24 L2  L2  U   U   L18 L18 2.0
+ 10 Tameling, Benton       LSSK9987  1235  1220/319  W13 U   W25 W25 L3  L3  U   U   U   U   3.0
+ 11 Menon, Raphael         LCOLJ909  1416  1437/399  W8  W8  L1  W1  W16 W16 W22 W22 U   U   7.0
+ 12 Lubetkin, Zack         LCOLC01B  1100   976/  6  W9  L9  L2  W2  L18 L18 U   U   U   U   2.0
+ 13 Demberel, Amana        LCOJJ14E  1360  1308/ 24  L10 U   W3  L3  W21 W21 D24 W24 U   U   4.5
+ 14 Love, Murrow           LCOK2596   981   985/253  U   U   W4  W4  W19 L19 W25 W25 U   U   5.0
+ 15 Rivera, Maddie         LCOL729X  1100   853/  6  U   U   L5  L5  D17 W17 L26 L26 U   U   1.5
+ 16 Lee, Isaiah            ROOL220F  1100   618/  6  L22 L22 U   U   L11 L11 L1  L1  U   U   0.0
+ 17 Nairn, Oliver          ROOL667U  1100   965/  8  L23 L23 U   U   D15 L15 L6  W6  L8  W8  2.5
+ 18 Gangu, Anish           ROOLK57M   400   942/  9  W24 W24 U   U   W12 W12 U   U   W9  W9  6.0
+ 19 Fedotov, Sergei        ROOLH41E   400   737/  9  L25 L25 U   U   L14 W14 D3  W3  U   U   2.5
+ 20 Dracobly-helsel, Lewis ROOLD943   617   599/ 12  L26 L26 U   U   U   U   U   U   U   U   0.0
+ 21 Beavers, Michael       ROOL683J  1100   911/  2  U   U   U   U   L13 L13 U   U   U   U   0.0
+ 22 Hurley, Jane           SPRL8414  1033  1018/382  W16 W16 U   U   U   U   L11 L11 L1  L1  2.0
+ 23 Desai, Zane            SPRJ893K   900  1297/  6  W17 W17 W8  L8  U   U   U   U   W2  L2  4.0
+ 24 Dagwami, Moses         SPRM106S  1200   913/  8  L18 L18 W9  L9  U   U   D13 L13 L3  L3  1.5
+ 25 Corr, Quentin          SPRL374C   863   858/ 13  W19 W19 L10 L10 U   U   L14 L14 W7  L7  3.0
+ 26 Royce, Ben             SPRL264Q   815   939/ 25  W20 W20 U   U   U   U   W15 W15 U   U   4.0

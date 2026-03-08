@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Duseja, Ronit          TIMEA38H   860   995/ 88  W2  W3  W4  3.0
+  2 Yin, Daniel            ISMK116Y   839   887/218  L1  W4  W3  2.0
+  3 Garg, Vihaan           CCDBJ10X   816   807/ 56  W4  L1  L2  1.0
+  4 Patil, Amogh           SMSHE84T   924   832/ 17  L3  L2  L1  0.0

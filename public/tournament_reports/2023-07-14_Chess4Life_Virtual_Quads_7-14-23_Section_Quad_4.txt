@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sreraman, Rohit        BCACG92Q  1088  1208/140  W2  W3  W4  3.0
+  2 Zhu, Kevin             CSMD865U  1092  1119/386  L1  W4  W3  2.0
+  3 Anand, Lakshana        RSAEC68H  1114  1087/ 73  W4  L1  L2  1.0
+  4 Kuluru, Samith         LEOGI99K  1067  1003/191  L3  L2  L1  0.0

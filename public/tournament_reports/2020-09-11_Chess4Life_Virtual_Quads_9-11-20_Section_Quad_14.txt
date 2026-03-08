@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mishra, Abhinav        WLDFB02W   400   544/  7  W3  W2  D4  2.5
+  2 Budhraja, Jai          RSACA16E   551   561/ 14  W4  L1  W3  2.0
+  3 Choi, Sydney           EVGBD34F   502   468/ 17  L1  W4  L2  1.0
+  4 Mitra, Rishab          OPWC138L   400   400/ 17  L2  L3  D1  0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Seela, Shashank        SSMEI74N  1145  1197/ 59  W3  W4  D2  2.5
+  2 Zhang, Aaron           CCDD873R  1112  1114/243  W4  L3  D1  1.5
+  3 You, Olyn              FRVG510T  1106  1086/ 17  L1  W2  L4  1.0
+  4 Pravlik, Aiden         SHSB416H  1107  1087/124  L2  L1  W3  1.0

@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Li, Moses              CDWCK26L   595   700/ 17  W7  W3  W2  W5  U   4.0
+  2 Xiao, Stephanie        STTAB19B   400   646/  5  W5  W4  L1  W3  W6  4.0
+  3 Yuan, Chen             ETSAJ15Z   400   473/  4  W6  L1  W4  L2  BYE 3.0
+  4 Li, Jacob              CRIB132Q   400   400/ 41  BYE L2  L3  D6  W5  2.5
+  5 Ramkumar, Aditya       UNKBC38J   400   400/  9  L2  BYE W6  L1  L4  2.0
+  6 Prakash, Vihaan        XXXB320K   400   400/  4  L3  WF  L5  D4  L2  1.5
+  7 Bhogal, Vikram         OPWAC99R   400   400/  1  L1  LF  U   U   U   0.0

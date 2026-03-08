@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Vo, Ian                ROMKN423  1562  1570/227  W5  W4  D2  W6  D3  4.0
+  2 Priest, Liam           SBTIL07U  1596  1576/251  W3  W7  D1  L4  BYE 3.5
+  3 Adams, Henry           GARLE729  1368  1385/ 89  L2  W5  W6  BYE D1  3.5
+  4 Schmidt-warnecke, Max  LMSJ6188  1421  1410/167  W6  L1  W7  W2  L5  3.0
+  5 Ehrenberg, Joshua      HCCLH373  1230  1245/151  L1  L3  BYE W7  W4  3.0
+  6 Smith, Liam            HSCI156X   800   800/  4  L4  BYE L3  L1  W7  2.0
+  7 Shah, Jonah            MMIHI42C   700   400/  4  BYE L2  L4  L5  L6  1.0

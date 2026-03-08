@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wirkkala, Zane         HSCJC64H  1495  1634/ 45  W13 W12 W2  W6  W7  5.0
+  2 Shi, Gavin             ADDIH855  1592  1618/358  W8  W3  L1  W12 W6  4.0
+  3 Pasterczyk, Finian     WHII193J  1363  1542/ 10  W18 L2  W4  W5  W8  4.0
+  4 Belgau, Stephen        JFMHK76X  1326  1435/ 45  W5  D10 L3  W15 W11 3.5
+  5 Ramesh, Nehanraj       CSEFK19D  1995  1925/ 21  L4  W14 W10 L3  W13 3.0
+  6 Cha, Samuel            BASFK18Z  1582  1571/221  W9  W11 W7  L1  L2  3.0
+  7 Prashant, Niranjan     SNIF468K  1450  1444/ 70  W15 W19 L6  W13 L1  3.0
+  8 Miller, Jackson        DCCI301V  1267  1309/ 85  L2  W15 W19 W10 L3  3.0
+  9 Wang, Ares             MEDEJ77J  1204  1221/268  L6  L16 W17 W19 W12 3.0
+ 10 Meyerzon, Daniel       INTJJ242  1489  1447/411  W14 D4  L5  L8  D16 2.0
+ 11 Shankaranand, Deeksha  EBSEI74Y  1361  1326/236  W16 L6  L13 W17 L4  2.0
+ 12 Dai, Alex              CHREC43N  1355  1330/129  W17 L1  W16 L2  L9  2.0
+ 13 Rao, Atharv            SOMEB90T  1240  1266/ 57  L1  W18 W11 L7  L5  2.0
+ 14 Xu, Yang               CNCD649B  1225  1205/ 78  L10 L5  L15 BYE W18 2.0
+ 15 Ganesan, Vidur         RBRD940K  1206  1193/ 73  L7  L8  W14 L4  BYE 2.0
+ 16 Chaudhuri, Arihant     CHAD703E  1121  1146/206  L11 W9  L12 D18 D10 2.0
+ 17 Maharaja, Imai         RKWCK34K  1126  1089/ 43  L12 BYE L9  L11 W19 2.0
+ 18 Winter, Kayne          CSIFF38F  1186  1138/157  L3  L13 BYE D16 L14 1.5
+ 19 Rust, Connor           BOTJK08J   900   694/  4  BYE L7  L8  L9  L17 1.0

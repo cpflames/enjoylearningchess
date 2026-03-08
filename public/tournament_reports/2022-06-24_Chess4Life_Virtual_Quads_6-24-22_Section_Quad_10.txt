@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Cheng, Alan            CHRDJ71K   551   723/ 21  W2  W5  W3  3.0
+  2 Cheruku, Gaurik        XXXEI58C   400   522/  6  L1  W6  W4  2.0
+  3 Xu, Lucas              CLHD525K   400   690/  3  W5  W4  L1  2.0
+  4 Wu, Olivia             BCADG32P   577   527/ 16  W6  L3  L2  1.0
+  5 Dua, Ishit             REEF457J   497   475/  9  L3  L1  W6  1.0
+  6 Wang, Aaron            BCAA631T   400   400/ 23  L4  L2  L5  0.0

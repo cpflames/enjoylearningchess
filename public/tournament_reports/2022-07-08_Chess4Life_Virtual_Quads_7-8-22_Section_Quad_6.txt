@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chatterjee, Sasmit     RHJGH23M   992  1005/ 17  W3  L2  W4  2.0
+  2 Gao, Chenrui           EBSFK12A   904   953/ 39  W4  W1  L3  2.0
+  3 Evin, Terrick          EBSAC54L   868   947/  8  L1  W4  W2  2.0
+  4 Taylor, Ryder          HPTI385C   975   890/191  L2  L3  L1  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ramola, Atharv         TMBH684P   852   882/ 18  W4  W2  W3  3.0
+  2 Rawat, Yash            HMNHK06Q   520   590/ 13  W3  L1  W4  2.0
+  3 Li, Chufei             CNHC389T   761   699/ 52  L2  W4  L1  1.0
+  4 Chiang, Connor         HSCBK17W   166   166/ 11  L1  L3  L2  0.0

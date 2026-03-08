@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sangal Lopez, Dev      WOBE515J  1428  1488/231  W4  W2  D3  2.5
+  2 Xie, Max               BLWHI185  1394  1433/328  W3  L1  W4  2.0
+  3 Huang, Emily           MEDFB39A  1441  1443/172  L2  W4  D1  1.5
+  4 Zhou, Yuchen           BCACJ42H  1504  1434/350  L1  L3  L2  0.0

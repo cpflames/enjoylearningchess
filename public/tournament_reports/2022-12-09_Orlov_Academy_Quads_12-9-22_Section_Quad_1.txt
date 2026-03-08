@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Olson, Travis          ADUN8893  1762  1771/ 72  W3  W2  W4  3.0
+  2 Condit, Noah           KMDHA59Q  1480  1490/128  W4  L1  W3  2.0
+  3 Chaudhuri, Arihant     CHAD703E  1032  1088/139  L1  W4  L2  1.0
+  4 Evin, Terrick          EBSBC54L  1396  1338/ 56  L2  L3  L1  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Hanyu           OVLGE73G   600   782/  3  W3  W2  W4  3.0
+  2 Wang, Aaron            BCAB631T   400   400/ 32  L4  L1  W3  1.0
+  3 Tian, Eric             SOMEI80S   400   400/  3  L1  W4  L2  1.0
+  4 Chiang, Connor         HSCBK17W   400   400/  3  W2  L3  L1  1.0

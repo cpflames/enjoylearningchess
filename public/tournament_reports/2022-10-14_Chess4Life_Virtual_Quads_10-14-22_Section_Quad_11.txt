@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chatterjee, Arihaan    XXXE889G   400   825/  2  W2  W3  U   2.0
+  2 Wang, Aaron            BCAB631T   400   426/ 34  L1  U   W3  1.0
+  3 Panchbhai, Reyansh     BCACG79J   400   400/ 11  U   L1  L2  0.0

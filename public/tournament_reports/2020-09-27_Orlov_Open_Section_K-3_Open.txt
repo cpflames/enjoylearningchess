@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Choi, Hunter           EVGDE80A  1254  1264/113  W4  L3  W5  W2  W6  4.0
+  2 Xiao, David            RDSDA64Q   930  1087/ 24  BYE W6  W3  L1  W4  4.0
+  3 Zuo, Edward            HSCD983V  1210  1188/ 37  W5  W1  L2  L4  W7  3.0
+  4 Edmond, Ivy            WWDDD81E   974   999/ 93  L1  BYE W7  W3  L2  3.0
+  5 Cheng, Selina          THUD413R  1055  1050/ 99  L3  W7  L1  W6  BYE 3.0
+  6 Malugu, Sankalp        SHSBE95W  1002   936/ 89  D7  L2  BYE L5  L1  1.5
+  7 Iyer, Shashwat Pranav  REEBC07W   400   720/  4  D6  L5  L4  BYE L3  1.5

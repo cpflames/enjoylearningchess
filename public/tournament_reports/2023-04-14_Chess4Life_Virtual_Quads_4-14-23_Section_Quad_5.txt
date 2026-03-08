@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhu, Kevin             CSMD865U  1121  1169/363  D4  W3  W2  2.5
+  2 Wang, Eric             BCAE803M  1148  1156/ 86  W3  W4  L1  2.0
+  3 Yakkali, Karthik VedantKKNF301E  1034  1023/ 34  L2  L1  W4  1.0
+  4 Wu, Dennis             SCDCJ54B  1031   996/155  D1  L2  L3  0.5

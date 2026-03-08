@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Ethan Yichen    CRIEG57B  1044  1149/277  W3  W2  W4  3.0
+  2 Parson, Anya           SSMEI86G   995  1033/ 16  W4  L1  W3  2.0
+  3 Sembium, Aditi         BCABK25W   986   971/117  L1  W4  L2  1.0
+  4 Hawkins, Holden        TYEJ383Z  1025   949/441  L2  L3  L1  0.0

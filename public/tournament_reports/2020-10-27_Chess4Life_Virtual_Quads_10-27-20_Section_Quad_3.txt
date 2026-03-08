@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Miller, Jackson        GATG301V   905   933/ 32  W2  W4  W5  3.0
+  2 Rapolu, Sai Tejasvi    BCAEG86E   686   712/129  L1  W6  W4  2.0
+  3 Chen, Nicholas         HSCFI22V   400   529/  5  L4  W5  W6  2.0
+  4 Hawkins, Holden        TYEI383Z   682   660/ 93  W3  L1  L2  1.0
+  5 Grigorenko, Yana       FRWBA39N   400   410/ 19  W6  L3  L1  1.0
+  6 Arslan, Kaan           HSCFG37C   500   400/  3  L5  L2  L3  0.0

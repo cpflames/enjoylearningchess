@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Singh, Rushil          SNEFB52N  1340  1376/ 68  W2  D3  D4  2.0
+  2 Wahi, Lakshya          EVJJ664Z  1418  1411/150  L1  D4  W3  1.5
+  3 Karri, Aditya          AUDEC55V  1405  1401/247  W4  D1  L2  1.5
+  4 Dai, Alex              CHREC43N  1374  1356/106  L3  D2  D1  1.0

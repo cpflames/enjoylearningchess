@@ -1,0 +1,25 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 r10 tot 
+  1 Gupta, Vivaan          EALJF01U  1439  1575/ 20  WF  WF  W4  W4  W7  W7  W3  W3  D2  W2  9.5
+  2 Lewis, Theo            FERKK29P  1185  1313/ 38  W15 L15 WF  WF  W19 W19 W5  W5  D1  L1  7.5
+  3 Tran, Hieu             SCHM864K  1431  1422/ 15  W20 W20 W17 W17 W6  W6  L1  L1  W4  L4  7.0
+  4 Menon, Raphael         LCOLJ909  1395  1416/391  W11 W11 L1  L1  W15 W15 W17 W17 L3  W3  7.0
+  5 Teh, Logan             GARKH765  1272  1273/ 81  W19 L19 W21 W21 W16 W16 L2  L2  W13 W13 7.0
+  6 Hernandez, Marcelo     CWHJK986  1109  1137/147  D24 W24 W9  W9  L3  L3  W10 L10 W21 W21 6.5
+  7 Demberel, Amana        LCOJJ14E  1467  1345/ 12  WF  WF  W8  W8  L1  L1  W13 L13 W9  L9  6.0
+  8 Deines, John           SPRMF58Q  1324  1130/ 13  WF  WF  L7  L7  L17 L17 W22 W22 W23 W23 6.0
+  9 Schmeichel, Trevor     GARJ3868  1191  1188/141  W23 W23 L6  L6  W18 L18 W14 W14 L7  W7  6.0
+ 10 Deng, Lucas            SCHJ172H   875  1058/ 61  HPB U   L15 D15 W20 W20 L6  W6  W17 D17 6.0
+ 11 Goodrum, Nikolas       MCRJ599U   799  1083/ 26  L4  L4  LF  LF  W12 W12 W20 W20 W16 D16 5.5
+ 12 Trifilov, Ruvim        CWHK118U  1253  1125/ 37  W21 L21 L19 L19 L11 L11 WF  WF  W22 W22 5.0
+ 13 Kane, Callan           CWHLB00E  1207  1178/172  W14 L14 W18 L18 W22 W22 L7  W7  L5  L5  5.0
+ 14 Zeribi, Kamil          GARKH62V  1000  1086/ 10  L13 W13 L16 L16 W21 W21 L9  L9  W19 W19 5.0
+ 15 Moody, Dawson          SCHMC62K  1200  1191/ 10  L2  W2  W10 D10 L4  L4  L16 W16 W18 D18 5.0
+ 16 Pangukir, Justin       SCHKE36F  1186  1136/ 15  W18 L18 W14 W14 L5  L5  W15 L15 L11 D11 4.5
+ 17 Graham, Connor         CWHJ5610  1172  1156/174  W22 W22 L3  L3  W8  W8  L4  L4  L10 D10 4.5
+ 18 Odegard, Owen          SPRKK40J  1000  1101/ 10  L16 W16 L13 W13 L9  W9  L19 W19 L15 D15 4.5
+ 19 Ider, Munkh-soy        SCHJA43S   900  1096/ 10  L5  W5  W12 W12 L2  L2  W18 L18 L14 L14 4.0
+ 20 Luna Rocha, Sergio Jr  CWHJ3108   813   796/167  L3  L3  D23 W23 L10 L10 L11 L11 BYE BYE 3.5
+ 21 Glesener, Elijah       SCHK351W  1000   822/ 10  L12 W12 L5  L5  L14 L14 W23 L23 L6  L6  2.0
+ 22 Ellis, Nolan           SCHJG45N   900   704/  8  L17 L17 WF  WF  L13 L13 L8  L8  L12 L12 2.0
+ 23 Bailey, Dawson         SCHK128B  1000   712/  8  L9  L9  D20 L20 LF  LF  L21 W21 L8  L8  1.5
+ 24 Holthaus, Ryan         SCHL554A   467   534/  8  D6  L6  LF  LF  LF  LF  LF  LF  U   U   0.5

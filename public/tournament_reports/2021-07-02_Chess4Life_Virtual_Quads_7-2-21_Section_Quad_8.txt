@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wahi, Advait           BLWE661F   854   969/ 66  W3  W4  W2  3.0
+  2 Fox-devol, Zachary     XXXEI93P   733   817/ 83  W4  W3  L1  2.0
+  3 Duseja, Ronit          TIMDA38H   801   783/ 42  L1  L2  W4  1.0
+  4 Kan, Leanne            HSCC710K   867   777/ 53  L2  L1  L3  0.0

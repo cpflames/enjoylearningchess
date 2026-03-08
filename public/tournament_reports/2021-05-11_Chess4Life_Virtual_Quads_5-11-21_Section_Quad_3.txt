@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sridhar, Riya          AUDCG37Y   981  1044/ 27  W4  W3  W2  3.0
+  2 Yin, Daniel            ISMJ116Y   850   882/ 84  W3  W4  L1  2.0
+  3 Praveen, Atharva       AUDDG14E   889   855/ 50  L2  L1  W4  1.0
+  4 Kan, Leanne            HSCC710K   705   662/ 33  L1  L2  L3  0.0

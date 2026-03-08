@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Upreti, Parthavi       XXXF754L  1029  1103/ 28  W2  W3  W4  3.0
+  2 Singhi, Rohan          BRHCH01P   872   935/ 61  L1  W4  W3  2.0
+  3 Taylor, Ryder          HSCI385C   870   864/ 90  W4  L1  L2  1.0
+  4 Ivanovic, Mina         UCDDH40V   963   880/341  L3  L2  L1  0.0

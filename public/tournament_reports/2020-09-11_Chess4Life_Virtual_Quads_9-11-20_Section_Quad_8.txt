@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Choi, Hunter           EVGDE80A   945  1136/105  W3  W4  W2  3.0
+  2 Malugu, Sankalp        SHSBE95W  1112  1078/ 82  W4  L3  L1  1.0
+  3 Yu, Christopher        SPTG591U  1049  1032/ 66  L1  W2  L4  1.0
+  4 Thakur, Reet           CWAEJ84K  1098  1068/206  L2  L1  W3  1.0

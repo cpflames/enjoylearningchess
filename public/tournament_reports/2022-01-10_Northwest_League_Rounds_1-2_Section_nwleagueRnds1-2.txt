@@ -1,0 +1,47 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Roesch, Carson         BLHJ120K  1852  1854/198  W38 W34 2.0
+  2 Brown, Oliver          MRDMI13S  1466  1529/  8  W14 W38 2.0
+  3 Bosch, Ethan           SHMMF67U  1326  1338/ 23  W35 W43 2.0
+  4 Wakatsuki, Perry       LYEMC31A  1255  1328/  8  W18 W35 2.0
+  5 Lee, Jae-yoon          SHMJC734  1185  1195/ 52  W25 W29 2.0
+  6 Macgregor, Matthew     SHMK1137  1077  1132/ 80  W34 W27 2.0
+  7 Knapp, Joshua          SHMMH49D   953   965/  9  W41 W45 2.0
+  8 Lim, Carter            SHMJ7749   951   973/ 89  W32 W28 2.0
+  9 Reiss, Madelyn         BLHKJ21Y   861   971/  5  W36 W42 2.0
+ 10 Waters, Shawn          BLHJK63D   735   806/  9  W40 W41 2.0
+ 11 Kuzin, Ethan           SHMJ7567  1263  1258/218  D12 W46 1.5
+ 12 Lewis, Theo            FERKK29P  1134  1185/ 30  D11 W16 1.5
+ 13 Moore, Gregory         LYEK789Q   873   893/ 23  D33 W37 1.5
+ 14 Jongema, Gabriel       LYEK984D  1520  1511/ 24  L2  W17 1.0
+ 15 Lewis, Rhys            SHMM8736  1385  1359/288  L17 W44 1.0
+ 16 Mccrory, Jared         LYEKA43K  1368  1342/ 24  W20 L12 1.0
+ 17 Trushkov, Max          FERJ616A  1333  1346/122  W15 L14 1.0
+ 18 Peterson, Kylan        MRDK175Q  1193  1185/ 23  L4  W24 1.0
+ 19 Enertson, Zach         LYEK971E  1169  1130/ 45  W26 L25 1.0
+ 20 Brown, Sofia           MRDK128V  1134  1106/  8  L16 W40 1.0
+ 21 Cox, Dylan             SHMJ3440  1074  1087/137  W37 LF  1.0
+ 22 Love, Charles          SHMJ458N   917   929/ 27  W42 LF  1.0
+ 23 Goetzl, Twain          SHML6001   887   895/200  W30 LF  1.0
+ 24 Giblin, Joe            LYELA51Z   877   898/ 25  W31 L18 1.0
+ 25 Mcfadden, Cameron      FERLI35S   860   904/ 48  L5  W19 1.0
+ 26 Coulter, Alex          MRDLF898   732   768/ 42  L19 W36 1.0
+ 27 Adams, Carson          MRDLA48F   699   723/  8  W44 L6  1.0
+ 28 Red Elk, Ali-lawet     MRDL986S   508   548/ 21  W43 L8  1.0
+ 29 Thornton, Keaton       BLHK630U   484   565/  5  W45 L5  1.0
+ 30 Garcia, Andie          FERL695Z   445   527/  8  L23 W39 1.0
+ 31 Millsap, Owen          BLHLJ58G   945   868/  8  L24 D32 0.5
+ 32 Schlichting, Matthew   FERKF72H   787   760/  5  L8  D31 0.5
+ 33 Elenbaas, Nathan       MRDLC84M   756   770/ 26  D13 LF  0.5
+ 34 Reyna, Frankie         FERME23L  1617  1397/  5  L6  L1  0.0
+ 35 Stanley, Soren         FERL116S  1147  1120/ 23  L3  L4  0.0
+ 36 Masterson, Emmett      LYEK300S   963   845/  8  L9  L26 0.0
+ 37 Hall, Jack             FERLD220   897   850/ 72  L21 L13 0.0
+ 38 Bridges, Tommy         LYEL272M   780   779/ 36  L1  L2  0.0
+ 39 Granger, Jacob         BLHJ654S   718   663/ 11  LF  L30 0.0
+ 40 Aquino, James          LYELH819   698   669/ 35  L10 L20 0.0
+ 41 Darr-rehmert, Natalie  FERLK93U   688   654/ 58  L7  L10 0.0
+ 42 Manly, Katy            FERJ313C   681   659/ 20  L22 L9  0.0
+ 43 Van Male, Justin       BLHLB91X   660   588/  8  L28 L3  0.0
+ 44 Wright, Jackson        BLHKE03C   527   476/  5  L27 L15 0.0
+ 45 Kempf, Johnny          MRDMC19K   446   418/ 11  L29 L7  0.0
+ 46 Clark, Camden          BLHK635A   400   400/  5  LF  L11 0.0

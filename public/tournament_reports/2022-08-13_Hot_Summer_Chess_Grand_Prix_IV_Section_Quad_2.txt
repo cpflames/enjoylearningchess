@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Owen            FHVG995H  1216  1254/164  W4  W3  D2  2.5
+  2 Werner, Ross           SHMKB91H  1268  1267/ 70  W3  D4  D1  2.0
+  3 Nagra, Joga            FACHI02B  1080  1078/ 40  L2  L1  W4  1.0
+  4 Kozaczuk, James        SHKG108A  1096  1065/ 95  L1  D2  L3  0.5

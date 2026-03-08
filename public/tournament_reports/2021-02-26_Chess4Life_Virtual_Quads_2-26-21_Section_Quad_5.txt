@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xing, Henry            LKDF3704  1271  1297/310  W2  W4  L3  2.0
+  2 Wang, Jacob            BLWDD74Y  1296  1315/ 86  L1  W3  W4  2.0
+  3 Siddem, Sid            RHJHC34V  1288  1288/267  D4  L2  W1  1.5
+  4 Vijayakrishnan, AchyuthPKRB646F  1290  1245/ 41  D3  L1  L2  0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Daniel, Gabrielle Emma MMEF376A   500  1121/  3  W3  W2  W4  3.0
+  2 Kan, Leanne            HSCC710K   698   721/  9  W4  L1  W3  2.0
+  3 Deepak, Sairaghav      HSCFA52Q   400   400/ 14  L1  D4  L2  0.5
+  4 Antone, Jeremy         SKWH709W   700   400/  3  L2  D3  L1  0.5

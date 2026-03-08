@@ -1,0 +1,28 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Yondon, Odbayar        LMADK97T  1582  1617/ 32  W16 W9  W8  W11 W6  5.0
+  2 Liu, Vincent           ILAD546Q  1401  1415/125  W17 W10 L6  W16 W8  4.0
+  3 Sankrithi, Sarang      HSCCB11D  1351  1374/128  W18 L6  W17 W10 W11 4.0
+  4 Shah, Rajas            ENSDF22X  1053  1262/ 68  W5  L8  W12 W7  W15 4.0
+  5 Ren, Aaron             HSCCG67B  1371  1364/ 71  L4  D15 W25 W23 W13 3.5
+  6 Bhaskaran, Siddharth   HMNC152J  1161  1333/ 10  W22 W3  W2  D13 L1  3.5
+  7 Kakkad, Vayu           DCTBK50L  1336  1311/386  W19 W12 L11 L4  W16 3.0
+  8 Tan, Nathan            UCDC412Y  1313  1323/113  W20 W4  L1  W18 L2  3.0
+  9 Gadde, Arnav           ENSDJ39D  1263  1250/ 36  W24 L1  L18 W14 W19 3.0
+ 10 Malugu, Sankalp        SHSCE95W  1252  1248/218  W26 L2  W19 L3  W18 3.0
+ 11 Zheng, Lucas           SOMC194Y  1238  1295/ 86  W21 W13 W7  L1  L3  3.0
+ 12 Yadatore, Neel         LAWCB76D  1111  1122/ 34  W27 L7  L4  W21 W17 3.0
+ 13 Bharadwaj, Samarth     DGHBE78A  1481  1431/ 60  W14 L11 W23 D6  L5  2.5
+ 14 Gagnier, Ian           HSCDC72H  1088  1115/103  L13 W20 D15 L9  W23 2.5
+ 15 Xu, Zoe                CNHCG70A   922  1045/ 83  D23 D5  D14 W20 L4  2.5
+ 16 Meng, Miranda          CNHCH69P  1099  1094/ 20  L1  W24 W27 L2  L7  2.0
+ 17 Avula, Guru Harshith ReBRHC633Y  1062  1048/ 46  L2  W26 L3  W27 L12 2.0
+ 18 Wang, Ares             MEDDJ77J  1029  1055/164  L3  W22 W9  L8  L10 2.0
+ 19 Shankaranand, Deeksha  EBSDI74Y  1027  1027/ 93  L7  W21 L10 W22 L9  2.0
+ 20 Dai, Alex              CHRDC43N  1093  1051/ 30  L8  L14 W26 L15 W25 2.0
+ 21 Khetan, Reyansh        OESCT80L   888   900/ 22  L11 L19 W24 L12 W26 2.0
+ 22 Chang, Caden           UCDB260J   872   860/ 37  L6  L18 BYE L19 W27 2.0
+ 23 Wang, Derek            MEDDF70G  1253  1188/158  D15 W25 L13 L5  L14 1.5
+ 24 Belur, Ayush           CHRD331W   924   833/  9  L9  L16 L21 D25 BYE 1.5
+ 25 Arunkumar, Ashwath     RSADH07X   840   817/ 53  BYE L23 L5  D24 L20 1.5
+ 26 Yun, Daniel D          BCABK87Z   901   836/ 77  L10 L17 L20 BYE L21 1.0
+ 27 Arikatla, Ved Anush RedBRHDD38C   861   798/ 28  L12 BYE L16 L17 L22 1.0

@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Upreti, Parthavi       GTMG754L  1484  1513/195  U   W3  W2  2.0
+  2 Sinha, Agastya         BRHDA75C  1382  1388/168  W3  U   L1  1.0
+  3 Miadowicz, Dominic     HSCIK88K  1380  1342/ 23  L2  L1  U   0.0

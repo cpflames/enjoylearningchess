@@ -1,0 +1,22 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Tunuguntla, Sai SrithanEMDCK78V  1102  1143/126  W9  W7  W10 W3  L2  4.0
+  2 Arokiadass, Prithiv    ELMCP46L  1330  1318/ 98  W13 L3  W9  W4  W1  4.0
+  3 Sun, Yian              CRIC238S   918  1110/ 39  W18 W2  W12 L1  W6  4.0
+  4 Guduru, Agasthya       EMDC500V  1034  1088/ 35  W20 W8  W6  L2  W7  4.0
+  5 Wang, Derek            MEDCF70G  1173  1200/103  U   W16 W13 W8  W12 4.0
+  6 Malugu, Sankalp        SHSBE95W  1218  1170/144  W16 W11 L4  W10 L3  3.0
+  7 Sun, Victoria          STTCF83H   463   666/ 15  W12 L1  W14 W15 L4  3.0
+  8 Bai, Brandon           EGBA725M   400   868/  4  BYE L4  W11 L5  W14 3.0
+  9 Sia, Brian             STTAE07F   512   744/  7  L1  W17 L2  W19 W15 3.0
+ 10 Anand, Lakshana        REECC68H   400   875/  5  W14 W19 L1  L6  W17 3.0
+ 11 Sunshine, Ari          EVGBE66A   589   604/ 19  W15 L6  L8  D21 W16 2.5
+ 12 Kakkad, Vayu           BRYAK50L  1189  1101/255  L7  W21 L3  W13 L5  2.0
+ 13 Wahi, Jai              EVGBJ34H   559   587/ 21  L2  W18 L5  L12 W20 2.0
+ 14 Larsen, Matthew        EVGA423L   631   610/ 16  L10 W20 L7  W18 L8  2.0
+ 15 Hoard, Otis            VIWC690B   400   406/ 28  L11 BYE W19 L7  L9  2.0
+ 16 Einarson, Aiden        CWACD84D   554   550/ 36  L6  L5  W20 D17 L11 1.5
+ 17 Nelson, Landon         CWAC961A   711   671/ 20  U   L9  W21 D16 L10 1.5
+ 18 Bhasin, Tejus          EVGBJ88L   400   400/  9  L3  L13 BYE L14 D19 1.5
+ 19 Vasquez, Mateo         MCUBK26G   593   502/ 26  D21 L10 L15 L9  D18 1.0
+ 20 Enslow, Nora           SCDBB35V   405   400/ 35  L4  L14 L16 BYE L13 1.0
+ 21 Sankar, Meera          CNCCF17N   400   410/ 90  D19 L12 L17 D11 U   1.0

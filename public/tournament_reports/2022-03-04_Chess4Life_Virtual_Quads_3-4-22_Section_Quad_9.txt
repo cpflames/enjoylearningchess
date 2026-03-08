@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nidamarthi, Nikhil     RSAC375J   942   948/ 41  L3  WF  W2  2.0
+  2 Yin, Daniel            ISMK116Y  1111  1094/197  W4  W3  L1  2.0
+  3 Pai, Vihaan            STVCK17C   842   871/ 63  W1  L2  WF  2.0
+  4 Beegala, Dhruv         SHVCC52Y   883   867/ 23  L2  LF  LF  0.0

@@ -1,0 +1,41 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Zhou, Yuchen           CHRDJ42H  1509  1524/491  W34 W32 W5  W6  4.0
+  2 Cen, Evan              TYEHI97D  1546  1552/114  W17 D12 W14 W15 3.5
+  3 Venkatachalam, Kedar   TSTJ947E  1418  1424/ 20  W28 W33 D15 W16 3.5
+  4 Mcintyre, Isaac        ETSD466S  1213  1219/ 93  W22 W25 L6  W21 3.0
+  5 Talathi, Shrey         SNEFK61Z  1207  1226/166  W23 W37 L1  W25 3.0
+  6 Rama, Savitur          EVJHH22Z  1084  1187/101  W40 W10 W4  L1  3.0
+  7 Seela, Shashank        EVJGI74N  1574  1538/177  D27 W29 D16 D12 2.5
+  8 Sinha, Agastya         HSCDA75C  1426  1407/108  W18 D14 D12 D17 2.5
+  9 Singh, Rushil          SNEFB52N  1371  1340/ 65  W20 L15 W27 D18 2.5
+ 10 Cheng, Louis           EPSI764H  1286  1257/ 97  W21 L6  W20 D19 2.5
+ 11 Jha, Siddhant          EVJIG46N  1238  1206/360  D29 L27 W37 W28 2.5
+ 12 Zhou, Nathan           NJHG215X  1438  1450/ 42  W24 D2  D8  D7  2.5
+ 13 Pai, Vihaan            STVDK17C  1281  1249/105  L25 W22 D28 W27 2.5
+ 14 Konde, Tayshu          KJHH355E  1149  1177/127  W35 D8  L2  W29 2.5
+ 15 Bar, Nathan            AUDD368C  1116  1192/190  W39 W9  D3  L2  2.5
+ 16 Chowdhary, Shivam      CMCGD47H  1072  1144/ 58  W38 W31 D7  L3  2.5
+ 17 Sathish, Ritwin        RSAEC54Z  1058  1123/ 46  L2  W24 W30 D8  2.5
+ 18 Joshi, Vyom            LEOHH81X  1067  1134/ 45  L8  W35 W31 D9  2.5
+ 19 Sembium, Aditi         BCACK25W   950  1012/147  L31 W38 W26 D10 2.5
+ 20 Hochberg, David        SUEK6075   979   974/255  L9  W39 L10 W35 2.0
+ 21 Shaikot, Sabeer        ENSE147Q   971   983/131  L10 W40 W32 L4  2.0
+ 22 Navneeth, Advik        RHJGH67D   948   999/ 10  L4  L13 W36 W31 2.0
+ 23 Nidamarthi, Nikhil     RSAD375J  1036  1024/ 98  L5  L26 W39 W32 2.0
+ 24 Anugula, Kruthik       RHJH581U   897   930/ 32  L12 L17 W40 W33 2.0
+ 25 Yin, Daniel            ISSL116Y   820   968/270  W13 L4  W33 L5  2.0
+ 26 Duseja, Ronit          SNEFA38H  1119  1049/112  L37 W23 L19 D30 1.5
+ 27 Xu, Matthew            RCSF715C  1062  1103/137  D7  W11 L9  L13 1.5
+ 28 Maheshwari, Vihaan     DGHJ695W  1012  1016/ 81  L3  W36 D13 L11 1.5
+ 29 Aravind, Akshara       ETSFJ67M   955   987/ 86  D11 L7  W34 L14 1.5
+ 30 Yang, Eric             NCSI113Z   851   876/ 21  L32 W34 L17 D26 1.5
+ 31 Karri, Aditya          AUDEC55V  1272  1185/222  W19 L16 L18 L22 1.0
+ 32 Chong, Jacob           RSHEF24L  1081  1030/ 57  W30 L1  L21 L23 1.0
+ 33 Li, Harry              SSSDG30G  1217  1132/218  W36 L3  L25 L24 1.0
+ 34 Sridhar, Riya          TBKEG37Y  1031   973/ 74  L1  L30 L29 W37 1.0
+ 35 Colmenares, Santiago   TT1HZ44B   711   709/ 14  L14 L18 W38 L20 1.0
+ 36 Rampally, Vibhu        KJHID032   707   690/ 13  L33 L28 L22 W40 1.0
+ 37 Kamani, Vedant         ENVJ3906   671   720/ 47  W26 L5  L11 L34 1.0
+ 38 Han, Tony              PLKHC03Q   700   537/  4  L16 L19 L35 W39 1.0
+ 39 Ratadia, Neel          BCAHB06W   400   400/  9  L15 L20 L23 L38 0.0
+ 40 Naik, Svara            RSAH816B   400   400/  6  L6  L21 L24 L36 0.0

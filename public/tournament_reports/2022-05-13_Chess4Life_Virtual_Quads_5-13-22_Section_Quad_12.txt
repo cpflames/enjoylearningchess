@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Schaudt, Parker        FAPC799V   400   451/ 72  U   W3  W2  2.0
+  2 Wang, Aaron            BCAA631T   400   400/ 16  D3  U   L1  0.5
+  3 Kumar, Ashok           XXXE610A   400   400/  2  D2  L1  U   0.5

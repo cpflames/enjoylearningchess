@@ -1,0 +1,30 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Campbell, Sebastian    ASPHI79A  1027  1047/170  W27 W14 W12 W11 4.0
+  2 Sherwood, Leo          FREHI58J   915  1011/ 53  W24 W21 W20 W3  4.0
+  3 Keener, Karl           HLHHY40G  1373  1342/103  W6  W13 W4  L2  3.0
+  4 Avey, Jesse            MDRFK50F   779   826/ 24  W9  W23 L3  W13 3.0
+  5 Santilli, Tristen      MHSLH668   691   676/120  L17 W25 W24 W14 3.0
+  6 Lindly, Kellen         SRIFK06E   500   974/  4  L3  W26 W18 W12 3.0
+  7 Gibson, Noah           CHSHK06D   700   864/  2  HPB HPB W29 W24 3.0
+  8 Donahue, Archie        ALTEK50K   654   626/  9  D18 L10 W27 W23 2.5
+  9 Ellis, Abe             CEVHK06C   700   737/  3  L4  W15 HPB W20 2.5
+ 10 Volk, Paxton           SDNFK06B   500   729/  4  D19 W8  L11 W21 2.5
+ 11 Kurdi, Luke            LWCJK06A   900   880/  3  HPB W22 W10 L1  2.5
+ 12 Sherwood, Cole         FRECD99U   567   589/ 44  W26 W17 L1  L6  2.0
+ 13 Donahue, James         ALTCK49E   394   459/  9  W28 L3  W16 L4  2.0
+ 14 Blanton, Maveryk       SRIEK48T   375   439/ 19  W29 L1  W17 L5  2.0
+ 15 Autry-dalsanders, Reed COBEK48X   369   372/ 22  L23 L9  W26 W22 2.0
+ 16 Robinson, Liana        HGHFK05Z   500   292/  2  HPB HPB L13 W25 2.0
+ 17 Nguyen, Caleb          SDNFK05Y   500   500/  4  W5  L12 L14 W27 2.0
+ 18 Blair, Xavior          SVRHK05X   700   621/  3  D8  HPB L6  W28 2.0
+ 19 Sherwood, Owen         FREEH61U   682   686/ 41  D10 BYE U   U   1.5
+ 20 Kitch, Roman           ALTEK22M   663   609/  8  W25 HPB L2  L9  1.5
+ 21 Donahue, Alice         ALTAK48Y   234   263/  8  BYE L2  D23 L10 1.5
+ 22 Hsu, Max               TNTCK05W   200   264/  3  HPB L11 W28 L15 1.5
+ 23 Brown, Kepler          SKMFK05U   500   430/  4  W15 L4  D21 L8  1.5
+ 24 Fell, Madden           SAWHK05T   700   394/  4  L2  W29 L5  L7  1.0
+ 25 Agostinelli, Quinton   SDNFK05S   500   100/  3  L20 L5  BYE L16 1.0
+ 26 Kinzey, Melanie        AMDEK05R   400   100/  3  L12 L6  L15 BYE 1.0
+ 27 Anderson, Jack         UHIKK05Q  1000   133/  4  L1  D28 L8  L17 0.5
+ 28 Fontana, John          SACGK05N   600   100/  4  L13 D27 L22 L18 0.5
+ 29 Martin, Geremiah       SUCFK05M   500   100/  3  L14 L24 L7  HPB 0.5

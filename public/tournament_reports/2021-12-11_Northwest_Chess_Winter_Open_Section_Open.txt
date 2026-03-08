@@ -1,0 +1,30 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Sang, Tian             ADUNE22K  2344  2346/  4  W11 WF  W6  W10 W5  5.0
+  2 Shakeri Kahnamouei, AliADUNG08H  2056  2041/  4  W26 W17 L5  WF  W15 4.0
+  3 Vega, Isaac            ADONW943  1997  1986/120  W12 L10 W7  W11 W9  4.0
+  4 Ackerman, Ryan         ADUNC514  1922  1918/192  W16 W15 W29 L5  W10 4.0
+  5 Willy, Stephen         HSCGH17K  1798  1855/448  W13 W24 W2  W4  L1  4.0
+  6 Bell, Harry E          ADUN6453  2017  2008/ 59  W19 D7  L1  W16 W29 3.5
+  7 Razmov, Gabriel        ADDGC26K  1605  1647/162  W25 D6  L3  W23 W14 3.5
+  8 Mayer, Christopher     ADUNI17W  1124  1262/  4  WF  W26 L11 W19 D16 3.5
+  9 Razmov, Valentin       ADUNB02T  1840  1810/ 57  L24 W13 W12 W22 L3  3.0
+ 10 Zhang, Bohan           EPSJE54S  1509  1604/ 52  W21 W3  W14 L1  L4  3.0
+ 11 Han, Shuyi             SOMFK47W  1413  1464/242  L1  W20 W8  L3  W22 3.0
+ 12 Xiong, Michael         MEDD115A  1358  1369/179  L3  W27 L9  W28 W21 3.0
+ 13 Wang, Derek            MEDDF70G  1188  1313/163  L5  L9  W27 W17 W18 3.0
+ 14 Cheng, Edward          GARJC74W  1738  1697/324  W20 W22 L10 D15 L7  2.5
+ 15 Hamlett, James         ADUN4372  1533  1538/ 76  W28 L4  W24 D14 L2  2.5
+ 16 Edson, Eduard          ADUN743U  1294  1389/ 11  L4  W21 W17 L6  D8  2.5
+ 17 Matusiewicz, Rick      ADONS64L  1540  1490/  5  W27 L2  L16 L13 W23 2.0
+ 18 Kamel, Yaseen          ISSJD57L  1494  1420/143  L22 L23 W28 W25 L13 2.0
+ 19 Hack, Don              ADBNF13X  1380  1347/ 56  L6  W25 L22 L8  W27 2.0
+ 20 Rubaiyat, Rhadean      ETSGD40L  1135  1144/ 87  L14 L11 L21 W26 W28 2.0
+ 21 Ghosh, Avishek         ADINY68Z  1300  1237/  5  L10 L16 W20 W24 L12 2.0
+ 22 Xiong, Wayne           ADUN760H  1300  1460/  5  W18 L14 W19 L9  L11 2.0
+ 23 Chang, Yi-kuang        BCXFZ17D  1154  1190/  3  U   W18 HPB L7  L17 1.5
+ 24 Mishra, Abhinav        TMBGB02W  1044  1075/ 29  W9  L5  L15 L21 D25 1.5
+ 25 Shankaranand, Deeksha  EBSDI74Y  1027  1058/ 98  L7  L19 W26 L18 D24 1.5
+ 26 Siddem, Sid            RHJIC34V  1422  1321/373  L2  L8  L25 L20 BYE 1.0
+ 27 Xu, Samuel             EASE854L   949   944/  9  L17 L12 L13 BYE L19 1.0
+ 28 Mishra, Aakash         EBSC439K   659   654/ 19  L15 BYE L18 L12 L20 1.0
+ 29 Gijare, Sayali         NRCJE100  1644  1633/554  LF  LF  L4  LF  L6  0.0

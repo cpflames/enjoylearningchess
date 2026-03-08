@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nipges, Jaxon          HORI382B  1217  1207/ 62  L4  W2  W3  2.0
+  2 Darr-rehmert, Natalie  FERLK93U   990  1056/ 74  W3  L1  W4  2.0
+  3 Bosch, Declan          FHVHE38K  1170  1094/  9  L2  W4  L1  1.0
+  4 Kozaczuk, James        SHKG108A   937   949/ 58  W1  L3  L2  1.0

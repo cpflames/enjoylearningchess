@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kapur, Viraaj          RSACA71K   770   893/ 61  W2  W4  W3  3.0
+  2 Ramkumar, Siddharth    LMAEH50B   764   790/ 95  L1  W3  W4  2.0
+  3 Shariff, Zain          NARHG81Q   714   698/ 29  W4  L2  L1  1.0
+  4 Lahue, Ihsan           GRRFJ69P   722   647/ 34  L3  L1  L2  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kapur, Viraaj          RSACA71K   957   982/ 67  W3  W4  L2  2.0
+  2 Zhang, Ethan (yichen)  CRIDG57B   983  1001/ 37  W4  L3  W1  2.0
+  3 Wang, Jacob            MMEDD74Y   954   980/ 39  L1  W2  W4  2.0
+  4 Nakashima, Jaden       LAVEC80B   925   855/ 56  L2  L1  L3  0.0

@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Liu, Bichen            KKNFK00D  1411  1532/ 25  W4  W2  W3  W7  W9  5.0
+  2 Ren, Aaron             HSCCG67B  1364  1445/ 76  W10 L1  W6  W3  W4  4.0
+  3 Mohan, Laya            BCWG617P  1317  1358/110  W6  W5  L1  L2  W7  3.0
+  4 Mohan, Vishnu          KKNDF41R  1294  1344/ 68  L1  W10 W5  W8  L2  3.0
+  5 Xiong, Michael         MEDD115A  1443  1409/186  W9  L3  L4  W10 HPB 2.5
+  6 Bartminn, Jan Lorenz   ENDFH59K  1426  1358/116  L3  W7  L2  L9  BYE 2.0
+  7 Godse, Gaurav          EVJH290Q  1084  1149/ 58  W8  L6  W9  L1  L3  2.0
+  8 Sankrithi, Sarang      HSCCB11D  1360  1289/138  L7  D9  HPB L4  D10 1.5
+  9 Shah, Rajas            ENSDF22X  1262  1241/ 73  L5  D8  L7  W6  L1  1.5
+ 10 Edmond, Alec           CSICH03G  1231  1196/152  L2  L4  BYE L5  D8  1.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Condit, Noah           KMDGA59Q  1443  1472/ 77  W2  W4  D3  2.5
+  2 Karri, Aditya          AUDEC55V  1339  1378/151  L1  W3  W4  2.0
+  3 Singh, Saket           DISI872S  1382  1384/264  W4  L2  D1  1.5
+  4 Tan, Nathan            UCDC412Y  1393  1331/ 84  L3  L1  L2  0.0

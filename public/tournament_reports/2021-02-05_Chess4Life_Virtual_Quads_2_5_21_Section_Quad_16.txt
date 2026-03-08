@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Heraskou, Kyril        CHREK19B   400   748/  3  D4  W6  W2  2.5
+  2 Khatib, Balushi        LKDDK23M   493   578/  9  W5  W3  L1  2.0
+  3 Bhattacharjee, ArchishmBLWEA45Y   549   567/ 32  W6  L2  W5  2.0
+  4 Mohan, Keshav          EGMGG24Z   429   464/ 11  D1  L5  W6  1.5
+  5 Mitra, Rishab          OPWC138L   567   527/ 70  L2  W4  L3  1.0
+  6 Carmel, Eli            EBSEF57W   544   400/  6  L3  L1  L4  0.0

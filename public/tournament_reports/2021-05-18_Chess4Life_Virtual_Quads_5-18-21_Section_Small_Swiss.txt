@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Praveen, Atharva       AUDDG14E   855   956/ 53  W4  W3  W2  3.0
+  2 Khatib, Balushi        LKDDK23M   521   668/ 21  W6  W4  L1  2.0
+  3 Phanse, Nihar          CEIFA29P   689   775/  6  W5  L1  W6  2.0
+  4 Taylor, Ryder          HSCH385C   861   811/ 32  L1  L2  W5  1.0
+  5 Yun, Daniel D          BCAAK87Z   713   682/ 26  L3  W6  L4  1.0
+  6 Kan, Leanne            HSCC710K   662   582/ 36  L2  L5  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xiong, Michael         MEDC115A  1089  1183/ 72  W2  W4  W3  3.0
+  2 Kim, Dylan             SCDCK38L  1089  1104/ 66  L1  W3  W4  2.0
+  3 Rackoff, Dylan         BLWD507J  1010   996/105  W4  L2  L1  1.0
+  4 Verma, Eshaan          TBKGC02S   989   930/124  L3  L1  L2  0.0

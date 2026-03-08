@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Desai, Taj             HTNGK10Y   917   917/  8  W2  W3  W4  3.0
+  2 Rajan, Samvid          REEBK05K   414   459/  9  L1  W4  W3  2.0
+  3 Rensberger, Bryce      REJGK08L   600   292/  3  W4  L1  L2  1.0
+  4 Mothukuri, Akshara     CMCDK08K   300   100/  3  L3  L2  L1  0.0

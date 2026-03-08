@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dai, Alex              CHRDC43N  1091  1139/ 45  U   W3  W2  2.0
+  2 Robinson, Adam         STTHK708  1089  1085/170  W3  U   L1  1.0
+  3 Chevuri, Tattva        CBREC06V  1039   993/227  L2  L1  U   0.0

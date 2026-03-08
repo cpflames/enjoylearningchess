@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Yang, Yuchang          ILCEK16L  1149  1161/ 64  L2  W5  W6  W4  W7  4.0
+  2 Swaminath, Ankita      CNCE571R  1026  1094/ 69  W1  W6  W4  W7  L5  4.0
+  3 Chatterjee, Sasmit     RHJGH23M  1030   992/ 14  L4  BYE L7  W5  W6  3.0
+  4 Kossuri, Neil          KKNE696L   873   917/ 32  W3  W7  L2  L1  BYE 3.0
+  5 Heider, Elena          NOVHC647  1107  1040/129  L6  L1  BYE L3  W2  2.0
+  6 Seshadri, Vindhya      GTMG953Y   889   886/ 28  W5  L2  L1  BYE L3  2.0
+  7 Sequeira, Jaden        SLBFB37Q   766   781/ 16  BYE L4  W3  L2  L1  2.0

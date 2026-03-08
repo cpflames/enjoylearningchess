@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Khalil, Tayseer        ADUN773K  1838  1853/ 51  W5  W2  W4  3.0
+  2 Scott, Dane            HSCM293V  1541  1548/ 42  W3  L1  W7  2.0
+  3 Deng, Stanley          LECDK22E  1396  1408/163  L2  BYE W6  2.0
+  4 Chung, Ethan           LIBF108U  1639  1621/316  D6  W7  L1  1.5
+  5 Palm, Caleb            LIBI919S  1483  1475/162  L1  D6  BYE 1.5
+  6 Deng, Grace            HHSL1468  1438  1427/240  D4  D5  L3  1.0
+  7 Chung, Ian             LIBCG54U   607   606/ 44  BYE L4  L2  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sumanaseni, Evan       CNHF876D   693   765/185  W2  D3  W4  2.5
+  2 Tiku, Neel             EGMG847H   642   693/ 20  L1  W4  W3  2.0
+  3 He, Oliver             CRIBK71V   657   664/ 57  W4  D1  L2  1.5
+  4 Shaikot, Sabeer        ENSD147Q   674   588/ 85  L3  L2  L1  0.0

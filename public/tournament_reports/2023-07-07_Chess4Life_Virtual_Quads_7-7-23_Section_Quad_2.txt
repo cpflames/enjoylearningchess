@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Cheng, Alan            CHREJ71K  1229  1338/100  W4  W2  W3  3.0
+  2 Chatterjee, Sasmit     RHJHH23M  1317  1300/ 64  D3  L1  W4  1.5
+  3 He, Oliver             CRICK71V  1159  1157/193  D2  D4  L1  1.0
+  4 Bansal, Vivaan         EVJI452J  1216  1177/ 85  L1  D3  L2  0.5

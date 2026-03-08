@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 tot 
+  1 Guha, Mitrabha         ADINY517  2445  2449/  8  W13 W7  L2  W4  D3  W10 W5  W8  6.5
+  2 Lenderman, Aleksandr   ADUN429F  2718  2715/ 38  W11 W14 W1  W3  D10 W5  L4  W9  6.5
+  3 Talukdar, Rohan        MISMG44B  2405  2411/ 48  W12 W8  W4  L2  D1  W9  W10 W11 6.5
+  4 Shahinyan, David       ADINB96J  2580  2578/ 49  W5  W6  L3  L1  W8  W11 W2  W10 6.0
+  5 Chang, Eddie           INTJ6270  1887  1914/136  L4  W12 D14 W13 W6  L2  L1  W15 4.5
+  6 Johar, Mudit           SKNLH59G  1747  1792/105  W18 L4  HPB W7  L5  D8  D15 W17 4.5
+  7 Whale, Nicholas        ADUNJ751  2090  2067/253  W9  L1  D8  L6  HPB W16 W12 HPB 4.5
+  8 Zhang, Victor          MUEH5390  1658  1784/189  W10 L3  D7  W11 L4  D6  W13 L1  4.0
+  9 Luo, Ethan             NPRK6190  1659  1693/197  L7  BYE L10 W17 W14 L3  W16 L2  4.0
+ 10 Guha, Eshan            MISHG73F  2129  2125/ 17  L8  W17 W9  W14 D2  L1  L3  L4  3.5
+ 11 Bell, Harry E          ADUN6453  1990  1964/ 38  L2  D15 W16 L8  W13 L4  W17 L3  3.5
+ 12 Li, Edward             TMBG768S  1726  1696/264  L3  L5  L17 BYE W16 W15 L7  D13 3.5
+ 13 Ingram, Richard        BCXNX611  1650  1638/ 41  L1  D16 W15 L5  L11 W17 L8  D12 3.0
+ 14 Shubin, Daniel         EPSKF498  2145  2110/453  W15 L2  D5  L10 L9  HPB HPB HPB 3.0
+ 15 Hamlett, James         ADON4372  1517  1522/ 28  L14 D11 L13 D16 W17 L12 D6  L5  2.5
+ 16 Xiao, Michael          MISDX56W  1363  1372/  6  HPB D13 L11 D15 L12 L7  L9  BYE 2.5
+ 17 Xiao, Marina           MISGZ98C  1398  1398/  7  HPB L10 W12 L9  L15 L13 L11 L6  1.5
+ 18 Gupta, Sankalp         ADIMY00W  2429  2422/  1  L6  U   U   U   U   U   U   U   0.0

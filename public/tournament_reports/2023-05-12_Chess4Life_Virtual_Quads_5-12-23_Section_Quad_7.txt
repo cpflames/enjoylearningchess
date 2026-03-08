@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Patel, Aarya           REEEK30E   906  1039/ 27  W3  W2  W4  3.0
+  2 Garg, Vihaan           CMCCJ10X   906   941/152  W4  L1  W3  2.0
+  3 Ge, Alex               SOMC908H   907   886/142  L1  W4  L2  1.0
+  4 Zhang, Ethan Yichen    CRIFG57B   917   840/388  L2  L3  L1  0.0

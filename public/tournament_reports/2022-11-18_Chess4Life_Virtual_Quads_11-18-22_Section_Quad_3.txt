@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chien, Jeffrey         WPPFF41X  1229  1353/ 58  W2  W3  W4  3.0
+  2 Stein, Benjamin        HSCDB61S  1369  1327/249  L1  W4  L3  1.0
+  3 Xu, Zoe                SOMDG70A  1206  1200/191  L4  L1  W2  1.0
+  4 Hochberg, David        SUEK6075  1232  1220/270  W3  L2  L1  1.0

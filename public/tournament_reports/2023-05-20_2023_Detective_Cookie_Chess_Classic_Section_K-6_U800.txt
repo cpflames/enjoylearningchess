@@ -1,0 +1,39 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ma, Ziliang            DCCFA69N   797   894/ 19  W16 W8  W13 W12 D2  4.5
+  2 Yen, Apollo            RKWFG78H   707   879/ 46  WF  W15 W5  W4  D1  4.5
+  3 Pleasants, Gabriel     DCCC149G   792   803/ 40  W29 L4  W19 W6  W9  4.0
+  4 Lo, Ella               SOMEB94E   609   770/ 31  W35 W3  W22 L2  W18 4.0
+  5 Wang, Wenyou           CLHCK93J   563   754/ 20  W30 W11 L2  W22 W14 4.0
+  6 Yaramati, Vishvak      KJHG834S   539   717/ 15  W32 W33 W10 L3  W11 4.0
+  7 Choi, Isaac            DCCGK14G   600   861/  5  W25 L13 W24 W23 W12 4.0
+  8 Ting, Sophia           KSHCK64W   630   678/ 30  W28 L1  D21 W25 W20 3.5
+  9 Ericson, Harvey        DCCFK14F   500   381/  1  BYE BYE BYE HPB L3  3.5
+ 10 Xu, Natalie            CNHB137A   754   731/ 45  W19 W14 L6  L18 W25 3.0
+ 11 Ephrem, Keli           DCCFE64R   725   706/ 60  W26 L5  W34 W15 L6  3.0
+ 12 Fan, Theodore          EASAK42S   702   701/ 28  W37 W36 W18 L1  L7  3.0
+ 13 Mccarthy, Connor       LKDDG20K   679   682/ 58  W38 W7  L1  L14 W29 3.0
+ 14 Goolla, Vihaas         DHLD487Q   572   612/ 14  W21 L10 W35 W13 L5  3.0
+ 15 Vallela, Prudhvi Reddy DHLF566D   546   566/ 15  W31 L2  W36 L11 W22 3.0
+ 16 Pantea, Zion           ABEDK63Y   537   555/ 13  L1  L28 W37 W30 W23 3.0
+ 17 Devlin, Austin         OSEFK25F   527   539/ 35  L22 D20 D30 W36 W24 3.0
+ 18 Shi, Bryant            GSLGJ50S   640   669/ 10  W34 W23 L12 W10 L4  3.0
+ 19 Zhang, Amy             SOMCC03P   502   494/ 49  L10 W35 L3  W34 D26 2.5
+ 20 Miller, Nash           DCCFK14E   500   565/  5  L24 D17 W26 W21 L8  2.5
+ 21 Rennick, Keaton        HWNFK14D   500   551/  5  L14 W27 D8  L20 W33 2.5
+ 22 Lew, Abigail           OPWC645P   784   711/ 75  W17 W24 L4  L5  L15 2.0
+ 23 Chan, Jaxon            EASEK30M   710   646/ 25  W27 L18 W28 L7  L16 2.0
+ 24 Zhen, Liam             DCCB622V   579   564/ 73  W20 L22 L7  W28 L17 2.0
+ 25 Zhang, Arwen           SOMD484A   561   531/ 44  L7  W38 W32 L8  L10 2.0
+ 26 Chin, Lucy             DCCF808B   496   473/ 20  L11 D30 L20 W27 D19 2.0
+ 27 Jain, Anvay            EBSF874Z   442   422/ 28  L23 L21 W33 L26 W37 2.0
+ 28 Hernandez, Juan David  DCCEK14B   400   428/  5  L8  W16 L23 L24 W36 2.0
+ 29 Sun, William           XXXCK13Z   200   266/  4  L3  L34 WF  W32 L13 2.0
+ 30 Griffin, Lincoln       DCCEK13Y   400   443/  5  L5  D26 D17 L16 W34 2.0
+ 31 Abdulbary, Hala        DCCFK13X   500   180/  1  L15 WF  BYE U   U   2.0
+ 32 Adane, Joseph          MLKEK13W   400   254/  5  L6  W37 L25 L29 W35 2.0
+ 33 Dhavse, Vedant         SPTBK87X   606   513/ 14  U   L6  L27 W37 L21 1.0
+ 34 Perev, Joseph          XXXEK13V   400   261/  5  L18 W29 L11 L19 L30 1.0
+ 35 Aniag, Brayden Eli     DCCEK13U   400   100/  4  L4  L19 L14 BYE L32 1.0
+ 36 Koelsch, Simon         HWNEK13T   400   100/  4  BYE L12 L15 L17 L28 1.0
+ 37 Jackson, Karaya        DCCEK15Y   117   100/ 10  L12 L32 L16 L33 L27 0.0
+ 38 Connell, Koren         DCCDK13R   300   132/  2  L13 L25 LF  U   U   0.0

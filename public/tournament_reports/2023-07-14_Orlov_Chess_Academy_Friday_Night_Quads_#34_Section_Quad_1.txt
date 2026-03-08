@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yeung, Tristan         TLMJD35U  1199  1216/ 86  W4  W2  L3  2.0
+  2 Ghosh, Snehil          CBRD738T  1122  1160/ 57  W3  L1  W4  2.0
+  3 Shaikot, Sabeer        ENSE147Q  1509  1460/193  L2  D4  W1  1.5
+  4 Doronin, Victor        BMNF335T   776   795/ 54  L1  D3  L2  0.5

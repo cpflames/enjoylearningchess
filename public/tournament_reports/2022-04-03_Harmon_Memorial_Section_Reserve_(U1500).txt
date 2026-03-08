@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Fondren, Chad          ADUN581H  1467  1587/ 13  W5  W14 W2  W4  W7  5.0
+  2 Burton, Mathias        ADUN827G  1300  1576/  5  W12 W8  L1  W6  W9  4.0
+  3 Freeman, Spencer       ADUNI13F  1300  1414/  5  D15 L10 W17 W8  W11 3.5
+  4 Alvarez, Carlos        ADUN329T  1300  1573/  4  W16 HPB W7  L1  W10 3.5
+  5 Sharma, Soham          OVLFK09Q  1183  1209/ 25  L1  L9  W16 W15 BYE 3.0
+  6 Shankaranand, Deeksha  EBSDI74Y  1164  1200/146  L11 W16 W14 L2  W13 3.0
+  7 Shneerson, Ivan        ADUND15N  1300  1471/  5  W9  W11 L4  W13 L1  3.0
+  8 Saloranta, Leo         IMSIB40A  1362  1338/138  D17 L2  W15 L3  W16 2.5
+  9 Meng, Miranda          CNHCH69P  1300  1322/ 45  L7  W5  W11 D10 L2  2.5
+ 10 Ogier, Alix            TLMIC70T   800  1362/  4  D13 W3  HPB D9  L4  2.5
+ 11 Gadde, Arnav           ENSDJ39D  1418  1375/ 61  W6  L7  L9  W12 L3  2.0
+ 12 Gajcowski, Hannah Nami OPWGI10H  1287  1265/172  L2  W17 HPB L11 HPB 2.0
+ 13 Vijeyanandh, Vishnu    TMBGF63Z  1227  1222/110  D10 W15 HPB L7  L6  2.0
+ 14 Ciani, Keith           ADUNG04B   698   698/  5  BYE L1  L6  HPB HPB 2.0
+ 15 Weller, Stephen F      ADUN6094  1292  1234/ 25  D3  L13 L8  L5  W17 1.5
+ 16 Xu, Zoe                CNHCG70A  1184  1132/113  L4  L6  L5  W17 L8  1.0
+ 17 Wakeman, Oliver        NJHIG10Y   898   894/ 40  D8  L12 L3  L16 L15 0.5

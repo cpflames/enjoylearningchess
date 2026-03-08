@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Cha, Samuel            LAVDK18Z  1228  1338/ 68  W2  W3  W4  3.0
+  2 Bharathy Mohan, Aarav  FRWCC98B  1241  1264/109  L1  W4  W3  2.0
+  3 Xie, Max               BLWGI185  1223  1205/198  W4  L1  L2  1.0
+  4 Aski, Kabir            CNHHG340  1231  1166/411  L3  L2  L1  0.0

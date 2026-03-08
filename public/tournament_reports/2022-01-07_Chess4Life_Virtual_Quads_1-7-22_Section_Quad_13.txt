@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mills, Paxson          HSCFI32D   642   662/ 34  L2  W4  W3  2.0
+  2 Krishna, Sai           XXXE383J   602   640/ 12  W1  L3  W4  2.0
+  3 Saravanan, Maadhav     CSMC555W   619   560/  6  L4  W2  L1  1.0
+  4 Chaudhuri, Arihant     CHAA703E   613   584/ 30  W3  L1  L2  1.0

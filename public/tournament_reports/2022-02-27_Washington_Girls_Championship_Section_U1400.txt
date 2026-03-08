@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Meng, Miranda          CNHCH69P  1154  1276/ 34  W9  W5  W2  W3  W6  5.0
+  2 Swaminath, Ankita      CNCE571R  1008  1073/ 45  W8  W3  L1  W4  D5  3.5
+  3 Xu, Zoe                CNHCG70A  1228  1194/103  W4  L2  W5  L1  W8  3.0
+  4 Sankar, Sneha          CNCE372B   802   898/199  L3  W7  W6  L2  W9  3.0
+  5 Zhang, Kyrene          LKDDC84Y   991   983/145  W10 L1  L3  W9  D2  2.5
+  6 Shankaranand, Deeksha  EBSDI74Y  1173  1082/126  L7  W8  L4  W10 L1  2.0
+  7 Balasubramanian, Kala  CNCD519Y   778   739/ 28  W6  L4  L9  L8  W10 2.0
+  8 Alamuru, Kriti         CNCF815A   568   634/ 26  L2  L6  W10 W7  L3  2.0
+  9 Seshadri, Vindhya      GTMG953Y   699   656/  9  L1  D10 W7  L5  L4  1.5
+ 10 Tyagi, Ananya          MEDCG07Y   400   400/ 19  L5  D9  L8  L6  L7  0.5

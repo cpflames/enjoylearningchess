@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chen, William          INGG550N  1535  1581/ 49  W15 W10 W4  W2  W3  5.0
+  2 Kokati, Pranav         OMSH814P  1430  1440/242  W11 W23 W14 L1  W12 4.0
+  3 Prashant, Niranjan     SNIF468K  1324  1344/ 35  W16 W17 W19 W6  L1  4.0
+  4 Li, Austin A           PLKG438B  1275  1307/ 92  W12 W20 L1  W16 W11 4.0
+  5 Joshi, Vyom            LEOHH81X  1181  1220/129  D6  W7  D22 D13 W14 3.5
+  6 Kwan-uchiyama, Avery   JINEH22T   902  1123/ 53  D5  W8  W10 L3  W13 3.5
+  7 De, Rishik             HEAGJ87T  1250  1225/ 25  L17 L5  W24 W22 W16 3.0
+  8 Veiga, Gabriel         REJGJ31Y  1202  1159/118  L19 L6  W25 W18 W20 3.0
+  9 Rao, Atharv            SOMEB90T  1189  1165/ 44  L20 L12 BYE W17 W22 3.0
+ 10 Narayan, Bhargav       EVJHD962  1134  1129/176  W25 L1  L6  W24 W19 3.0
+ 11 Ramesh, Harshith       SMVG564Z  1031  1100/ 52  L2  W21 W17 W19 L4  3.0
+ 12 Chulki, Aayush         BLMHJ17Y   960  1122/123  L4  W9  W23 W14 L2  3.0
+ 13 Kedarisetty, Shreyas   INGGH60G   980  1031/140  L22 W15 W20 D5  L6  2.5
+ 14 Joshi, Yash            PFCG280R  1222  1173/101  W18 W24 L2  L12 L5  2.0
+ 15 Kan, Kaleb             BLWEF53E  1066  1016/229  L1  L13 L21 W25 W24 2.0
+ 16 Kedarisetty, Ishan     RCSF300B  1026  1019/147  L3  W25 W18 L4  L7  2.0
+ 17 Venkatesan, Nimalan    VVMH701P   957  1002/ 35  W7  L3  L11 L9  W23 2.0
+ 18 Lekkala, Vihan         BLWF428L   947   907/163  L14 BYE L16 L8  W25 2.0
+ 19 Fong, Matthew          EINI683T   932   997/176  W8  W22 L3  L11 L10 2.0
+ 20 Tamanaha, Ryden        BLWF132N   909   962/ 39  W9  L4  L13 W23 L8  2.0
+ 21 Bhandari, Ayush        ICKIK46J   800   915/  3  L23 L11 W15 BYE U   2.0
+ 22 Bansal, Vivaan         EVJI452J  1320  1228/ 77  W13 L19 D5  L7  L9  1.5
+ 23 Bansal, Aarini         SOMEK14R  1155  1070/163  W21 L2  L12 L20 L17 1.0
+ 24 Wan, Richard           LMAFH04M   852   794/  9  BYE L14 L7  L10 L15 1.0
+ 25 Jelen, Alaric          CKNIK46H   800   516/  5  L10 L16 L8  L15 L18 0.0

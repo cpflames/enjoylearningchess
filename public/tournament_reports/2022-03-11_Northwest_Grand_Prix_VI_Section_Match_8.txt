@@ -1,0 +1,3 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Cox, Dylan             SHMJ3440  1126  1143/143  W2  1.0
+  2 Knapp, Joshua          SHMMH49D   989   970/ 20  L1  0.0

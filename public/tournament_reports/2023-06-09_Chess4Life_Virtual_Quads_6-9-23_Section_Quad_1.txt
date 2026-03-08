@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Saddi, Neevan Reddy    GRRDH87M  1579  1602/168  W4  W2  W3  3.0
+  2 Karri, Aditya          AUDEC55V  1336  1377/330  W3  L1  W4  2.0
+  3 Sinha, Agastya         BRHDA75C  1397  1377/181  L2  W4  L1  1.0
+  4 Chien, Jeffrey         WPPFF41X  1290  1248/110  L1  L3  L2  0.0

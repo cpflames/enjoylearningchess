@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Richardson, Alexander  FERL217M   879  1019/ 46  W3  W4  W2  3.0
+  2 Volker, Rune           VSTIK47N   969   974/  8  W7  W5  L1  2.0
+  3 Danger, Presley        BLNG716S   756   829/ 24  L1  W6  W7  2.0
+  4 Bhatta, Mehveer        HORH129T   701   804/ 17  W6  L1  W5  2.0
+  5 Thompson, Grant        MGVE337E   817   786/ 20  W8  L2  L4  1.0
+  6 Moore, Jonah           WKEE348U   805   765/ 20  L4  L3  W8  1.0
+  7 Allworth, Brayden      HORIA86Y   793   769/ 22  L2  W8  L3  1.0
+  8 Bormuth, Silas         LYCE542J   749   655/ 12  L5  L7  L6  0.0

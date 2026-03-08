@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Han, Victor            HSCEB39P  1143  1212/105  W3  D2  W4  2.5
+  2 Veiga, Gabriel         REJGJ31Y  1106  1150/129  W4  D1  D3  2.0
+  3 Ghosh, Snehil          CBRD738T  1110  1122/ 54  L1  W4  D2  1.5
+  4 Joshi, Yash            PFCG280R  1212  1128/112  L2  L3  L1  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Stein, Benjamin        HSCBB61S  1203  1301/135  W3  W4  W2  3.0
+  2 Yang, James            SSME123B  1203  1223/143  W4  W3  L1  2.0
+  3 Wang, Jacob            BLWDD74Y  1224  1193/ 98  L1  L2  W4  1.0
+  4 Kakkad, Vayu           BRYAK50L  1085  1038/298  L2  L1  L3  0.0

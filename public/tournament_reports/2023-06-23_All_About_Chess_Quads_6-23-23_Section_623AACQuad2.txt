@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Juarez-caballero, CristSNIFD76Z   876   951/ 50  W3  W4  W2  3.0
+  2 Bikkula, Charan        BLMGJ23A   861   865/123  W4  W3  L1  2.0
+  3 Chang, Lucas           CBREK46F   657   660/ 16  L1  L2  W4  1.0
+  4 Laktyunkin, Stephan    PPPEK46B   684   614/ 11  L2  L1  L3  0.0

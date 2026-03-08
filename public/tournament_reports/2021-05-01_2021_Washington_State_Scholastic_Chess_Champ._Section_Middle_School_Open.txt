@@ -1,0 +1,45 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Xuan, Owen             ADDH5792  1875  1893/249  W10 WF  W36 W11 D4  4.5
+  2 Li, Melina             ADDI5705  1702  1718/203  W18 D29 W25 W23 WF  4.5
+  3 Peesa, Rahul           OMSH109W  1567  1610/129  D26 W28 WF  W22 W24 4.5
+  4 Roesch, Carson         BLNI120K  1788  1802/186  D28 W22 W5  W8  D1  4.0
+  5 Ye, Ethan              EVJI111K  1386  1599/ 68  W14 W21 L4  W16 W12 4.0
+  6 Devadithya, Hiruna     PFCH5494  1585  1646/613  W40 W31 L11 W30 W14 4.0
+  7 Gijare, Sayali         SKWIE100  1369  1529/524  W17 WF  W24 L12 W21 4.0
+  8 Chen, Angela           ADDIB334  1594  1646/274  W35 W30 WF  L4  W11 4.0
+  9 Devaraju, Sonia        OMSIK838  1554  1575/470  W32 W15 D23 WF  D13 4.0
+ 10 Meyerzon, Daniel       OMSHJ242  1456  1555/364  L1  W33 W27 D21 W23 3.5
+ 11 Min, Ryan              OMSG5430  1921  1894/315  W36 W16 W6  L1  L8  3.0
+ 12 Deng, Lily             CJEH5007  1840  1802/292  D22 W26 D29 W7  L5  3.0
+ 13 Bushfield, Stuart      ADDIF350  1384  1487/353  W19 L23 D17 W25 D9  3.0
+ 14 Cheng, Edward          WMSIC74W  1779  1748/265  L5  W37 W31 W29 L6  3.0
+ 15 Peng, Christopher      LMSG2702  1492  1485/170  W42 L9  W20 L24 W33 3.0
+ 16 Garine, Ujwal          REEHB99A  1485  1505/142  W41 L11 W35 L5  W28 3.0
+ 17 Zhang, Iris            RSAG858X  1609  1586/313  L7  W44 D13 D28 W32 3.0
+ 18 Carper, Jack           LINHG86W  1383  1399/117  L2  W38 L21 W42 W29 3.0
+ 19 Gershony, Oren         EVJI534Q  1648  1609/182  L13 L20 W38 W40 W30 3.0
+ 20 Mallipeddi, Advaith    HSCH445F  1270  1370/ 54  WF  W19 L15 W31 LF  3.0
+ 21 Joshi, Atharva         PLKI1352  1584  1561/263  W37 L5  W18 D10 L7  2.5
+ 22 Sun, Yichen            BLMH377G  1390  1429/ 50  D12 L4  W26 L3  W37 2.5
+ 23 Hetamsaria, Aadi       CHOH888H  1584  1571/111  W44 W13 D9  L2  L10 2.5
+ 24 Nallabothula, Varin    WPPH457A  1651  1616/351  W43 D25 L7  W15 L3  2.5
+ 25 Chang, Eric            TYEH174T  1518  1505/ 80  W39 D24 L2  L13 W35 2.5
+ 26 Sanjay, Adarsh         OPWHJ50U  1274  1339/ 80  D3  L12 L22 W44 W36 2.5
+ 27 Wang, Daniel           LMSI8287  1787  1724/541  L31 W40 L10 D35 WF  2.5
+ 28 Senthil Kumar, KrishnapTMBI7364  1482  1482/334  D4  L3  W32 D17 L16 2.0
+ 29 Sankar, Abhay          LEOH6545  1543  1530/335  W38 D2  D12 L14 L18 2.0
+ 30 Marcelais, Kai         WPPHA64J  1480  1457/101  W34 L8  W43 L6  L19 2.0
+ 31 Cheng, Kairui          CPJI563X  1412  1419/ 72  W27 L6  L14 L20 W41 2.0
+ 32 Dhillon, Rohan         LMSI6836  1361  1342/207  L9  W42 L28 W41 L17 2.0
+ 33 Vankamamidi, Advaith   EVJI193M  1209  1206/106  WF  L10 L40 W43 L15 2.0
+ 34 Lakkireddy, Dhareesh   KMNHG44C   639   723/ 13  L30 L35 L41 BYE W43 2.0
+ 35 Knapton, Cole          HLHII201  1350  1337/257  L8  W34 L16 D27 L25 1.5
+ 36 Huang, Lucas           EVJHC915  1468  1434/232  L11 W41 L1  D37 L26 1.5
+ 37 Ma, Justin             OVLHD33R  1288  1275/148  L21 L14 W39 D36 L22 1.5
+ 38 Pal, Rithwick          REJI665T   865   924/ 15  L29 L18 L19 D39 W40 1.5
+ 39 Deng, Lucas            KELI172H   856   875/ 53  L25 L43 L37 D38 W42 1.5
+ 40 Hijirida, Tyler        MISIK358  1331  1291/120  L6  L27 W33 L19 L38 1.0
+ 41 Wong, Samuel           TYEGJ51V  1232  1190/110  L16 L36 W34 L32 L31 1.0
+ 42 Proskurowski, Axel     ADDIA848   805   826/ 40  L15 L32 W44 L18 L39 1.0
+ 43 Li, Andrew             REJH769K  1370  1281/206  L24 W39 L30 L33 L34 1.0
+ 44 Wahi, Lakshya          EVJH664Z  1281  1207/ 60  L23 L17 L42 L26 BYE 1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Ethan Yichen    CRIFG57B  1060  1084/292  W2  L3  W4  2.0
+  2 Pravlik, Aiden         FRID416H  1060  1084/213  L1  W4  W3  2.0
+  3 Hochberg, David        SUEK6075  1052  1054/242  D4  W1  L2  1.5
+  4 Maheshwari, Vihaan     DGHJ695W  1063  1012/ 74  D3  L2  L1  0.5

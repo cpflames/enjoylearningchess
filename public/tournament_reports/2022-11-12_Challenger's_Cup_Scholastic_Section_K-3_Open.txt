@@ -1,0 +1,32 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Sriram, Aahan          BCADC03K  1035  1330/ 15  W19 W22 D8  W9  W4  4.5
+  2 Li, Edgar              OPWC883Y  1188  1235/105  W28 W16 W5  L4  W10 4.0
+  3 Edwin, Elijah          BCSCC24D  1143  1178/ 44  D18 W30 W6  D10 W14 4.0
+  4 Liang, Wen             JINDF53X  1092  1225/ 53  WF  W24 W7  W2  L1  4.0
+  5 Kakkad, Vayu           DCTCK50L  1077  1214/433  W31 W9  L2  W21 W8  4.0
+  6 Raghunathan, Vidur     MCID878A  1084  1154/ 24  W26 D8  L3  W16 W12 3.5
+  7 Saddi, Neevan Reddy    GRRDH87M  1376  1330/ 93  W12 W11 L4  L14 W18 3.0
+  8 Vijayakrishnan, AchyuthPKRD646F  1318  1295/118  W13 D6  D1  W23 L5  3.0
+  9 Avula, Guru Harshith ReBRHD633Y  1256  1245/ 71  W14 L5  W27 L1  W24 3.0
+ 10 Zhang, Zhibo           CCDD674X  1093  1105/ 51  W25 D27 W18 D3  L2  3.0
+ 11 Weng, Bright           BENC850P  1088  1098/ 40  W15 L7  L16 W26 W25 3.0
+ 12 Han, Spencer           HSCDK75L  1047  1082/ 79  L7  W25 W26 W22 L6  3.0
+ 13 Sembium, Aditi         BCACK25W  1012  1009/152  L8  L26 W31 W30 W23 3.0
+ 14 Flores Uriegas, Andres HLYD159F   981  1099/ 14  L9  W19 W30 W7  L3  3.0
+ 15 Chaudhuri, Arihant     CHAD703E   933   979/123  L11 BYE L23 W20 W22 3.0
+ 16 Chang, Caden           UCDC260J   799  1007/ 74  W23 L2  W11 L6  W21 3.0
+ 17 Xiang, Lucas           CNHD761Z  1022  1011/ 45  HPB L18 L19 W31 W27 2.5
+ 18 Xu, Yang               CNCD649B   942  1019/ 15  D3  W17 L10 W27 L7  2.5
+ 19 Zhu, Kevin             CSMD865U  1332  1252/325  L1  L14 W17 L25 W29 2.0
+ 20 Luo, Peter             SHVD664K  1295  1057/ 10  L27 L28 W29 L15 W30 2.0
+ 21 Joseph, Veronique      SJODJ04S  1250  1170/ 86  L24 W29 W28 L5  L16 2.0
+ 22 Jayadevan, Kunal       SCDC893P  1148  1103/ 56  W29 L1  W24 L12 L15 2.0
+ 23 Lin, Annan             THODC02D  1088  1041/ 19  L16 W31 W15 L8  L13 2.0
+ 24 Vijay, Adith           SOMCD20K   977   997/ 15  W21 L4  L22 W28 L9  2.0
+ 25 Lan, Jonathan          OPWC968F   939   936/ 58  L10 L12 BYE W19 L11 2.0
+ 26 Kalakoti, Kartika      STVAG45J   400   964/  5  L6  W13 L12 L11 W28 2.0
+ 27 Li, Harry              SSSDG30G   971   957/235  W20 D10 L9  L18 L17 1.5
+ 28 Tan, Charlie           MEDB273V   966   924/ 15  L2  W20 L21 L24 L26 1.0
+ 29 Liang, Wu              JIND620E   953   896/ 52  L22 L21 L20 BYE L19 1.0
+ 30 Ramkumar, Aditya       UNKCC38J   599   584/ 49  BYE L3  L14 L13 L20 1.0
+ 31 Wan, Galvin            EASBJ62U   400   607/  4  L5  L23 L13 L17 BYE 1.0

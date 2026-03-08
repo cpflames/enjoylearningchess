@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Fang, Weiai            BRBC696W   663   724/ 71  W3  W4  D2  2.5
+  2 Kuluru, Samith         KKNGI99K   705   681/ 82  W4  L3  D1  1.5
+  3 Mills, Paxson          HSCGI32D   625   596/ 56  L1  W2  L4  1.0
+  4 Li, Chufei             CNHC389T   484   498/ 15  L2  L1  W3  1.0

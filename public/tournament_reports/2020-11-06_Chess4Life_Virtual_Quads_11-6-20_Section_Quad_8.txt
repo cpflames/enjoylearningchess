@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Shanmugam, Varsha      FRLBA12J  1061  1094/297  W2  L3  W4  2.0
+  2 Zhang, Ethan (yichen)  CRIDG57B  1102  1121/ 46  L1  W4  W3  2.0
+  3 Pravlik, Aiden         SHSB416H  1105  1099/115  D4  W1  L2  1.5
+  4 Sharma, Anish          WPPHA11B  1059  1016/206  D3  L2  L1  0.5

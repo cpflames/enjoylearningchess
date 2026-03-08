@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yun, Daniel D          BCABK87Z  1115  1188/210  D2  W3  W4  2.5
+  2 Li, Harry              SSSDG30G  1088  1100/205  D1  L4  W3  1.5
+  3 Duseja, Ronit          SNEFA38H  1147  1119/108  W4  L1  L2  1.0
+  4 Bar, Nathan            AUDD368C  1143  1116/186  L3  W2  L1  1.0

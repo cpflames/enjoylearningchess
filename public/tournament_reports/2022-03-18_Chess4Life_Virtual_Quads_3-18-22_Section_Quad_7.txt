@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chong, Jacob           RSHDF24L  1078  1135/ 38  W2  D3  W4  2.5
+  2 Nidamarthi, Nikhil     RSAC375J  1058  1083/ 47  L1  W4  W3  2.0
+  3 Yun, Daniel D          BCABK87Z  1013  1026/132  W4  D1  L2  1.5
+  4 Yin, Daniel            ISMK116Y  1067   991/203  L3  L2  L1  0.0

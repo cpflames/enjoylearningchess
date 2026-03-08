@@ -1,0 +1,33 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ma, Ziliang            DCCFA69N   894   969/ 24  W22 W23 W18 W3  D2  4.5
+  2 Ye, Alex               ENDDH51L   867   929/ 72  D17 W32 W5  W8  D1  4.0
+  3 Deng, Arthur           OPWBC90Y   815   901/ 44  W12 W24 W10 L1  W15 4.0
+  4 Xu, Natalie            CNHB137A   677   770/ 55  W27 W26 L8  W9  W10 4.0
+  5 Devlin, Austin         OSEFK25F   712   906/ 49  W14 W15 L2  W18 W8  4.0
+  6 Das, Sambuddha Sekhar  ENDCK47S   814   814/ 35  L23 W22 W16 D7  W17 3.5
+  7 Zhao, Emma             SSSBK28L   500   704/ 15  W21 L18 W28 D6  W20 3.5
+  8 Chen, Felix Y          DISCA67A   843   847/ 41  W29 W13 W4  L2  L5  3.0
+  9 Xing, Andrew           SSSBK62E   745   731/ 32  L25 W31 W13 L4  W23 3.0
+ 10 Karthik, Sai           BCAC261S   694   718/ 47  W31 W25 L3  W14 L4  3.0
+ 11 Singhal, Aryash        SYCD595L   674   691/ 41  L15 L14 W30 W24 W25 3.0
+ 12 Jiang, Kyle            MEDAK35B   619   704/ 20  L3  W20 L15 W28 W18 3.0
+ 13 Velichko, Ivan         ASAEK63Z   570   686/ 30  W19 L8  L9  W22 W21 3.0
+ 14 Jain, Sanay            TLIEK08H   400   795/  5  L5  W11 W23 L10 W19 3.0
+ 15 Mroz, Tyler            ORWEK08G   400   845/  5  W11 L5  W12 W21 L3  3.0
+ 16 Wright, William        PTFAB71M   701   662/ 70  D32 W17 L6  L20 W31 2.5
+ 17 Slettebak, Jordan      GRLF604V   636   654/ 33  D2  L16 W26 W25 L6  2.5
+ 18 Chen, Max Y            DISDK76L   768   745/ 41  W30 W7  L1  L5  L12 2.0
+ 19 Mitra, Rishab          OPWE138L   766   687/167  L13 W29 L25 W27 L14 2.0
+ 20 Pearce Ullrich, James  WLKDK10Q   762   653/  9  L24 L12 W32 W16 L7  2.0
+ 21 Doronin, Victor        BMNF335T   711   671/ 45  L7  W30 W24 L15 L13 2.0
+ 22 Lai, Austin            EVGBK94F   636   618/ 25  L1  L6  W31 L13 W32 2.0
+ 23 Jiang, Mason           OPWDH66Y   621   637/ 29  W6  L1  L14 W26 L9  2.0
+ 24 Zhang, Jacquelyn       CNHCB01Y   563   573/ 22  W20 L3  L21 L11 W28 2.0
+ 25 Wright, Victoria       PTFFJ17P   505   551/ 63  W9  L10 W19 L17 L11 2.0
+ 26 Raj, Skandha           EVGAK55U   448   484/ 35  W28 L4  L17 L23 W30 2.0
+ 27 Wu, Ruichen            CDWDK08F   300   145/  3  L4  L28 BYE L19 WF  2.0
+ 28 Yao, Roger             THOAK88C   695   579/ 25  L26 W27 L7  L12 L24 1.0
+ 29 Winter, Bowen          NBED948E   627   579/ 53  L8  L19 HPB HPB LF  1.0
+ 30 Howell, Carlos         SRTFK38Y   607   496/ 28  L18 L21 L11 BYE L26 1.0
+ 31 Jain, Anvay            EBSF874Z   422   407/ 33  L10 L9  L22 W32 L16 1.0
+ 32 Srinivasan, Atul       XXXAK65P   495   429/ 14  D16 L2  L20 L31 L22 0.5

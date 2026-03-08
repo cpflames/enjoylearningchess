@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Yang, Jingran          LKDG937V  1529  1541/145  W18 W12 W4  W13 WF  5.0
+  2 Khandelwal, Ayush      REEF897D  1521  1604/153  W19 W15 W5  W14 W21 5.0
+  3 Cha, Samuel            STTEK18Z  1610  1606/156  D6  W11 W7  W10 W20 4.5
+  4 Dudala, Vihan          BRHFH62J  1352  1345/108  WF  W13 L1  W18 W17 4.0
+  5 Chung, Ethan           LIBF108U  1654  1639/313  W14 W9  L2  D15 W8  3.5
+  6 Nalasani, Manasvi      XXOEM12Z   970  1093/ 20  D3  W22 W16 W7  L10 3.5
+  7 Borate, Neel           REEF821E  1439  1403/195  W16 W10 L3  L6  W22 3.0
+  8 Cen, Evan              TYEGI97D  1306  1310/ 59  W15 W19 W21 L9  L5  3.0
+  9 Rastogi, Atharv        APOE377H  1285  1295/ 55  W21 L5  L15 W8  W19 3.0
+ 10 Edmond, Ivy            WWDED81E  1160  1182/228  W20 L7  W11 L3  W6  3.0
+ 11 Agarwal, Avyan         APOF466L  1014  1020/ 43  W22 L3  L10 W20 W16 3.0
+ 12 Veiga, Gabriel         ENSFJ31Y   988   955/ 88  W17 L1  L13 WF  WF  3.0
+ 13 Zhang, Melodie         SPTGE44K   867   914/ 98  WF  L4  W12 L1  W18 3.0
+ 14 Ramkumar, Nikhil       RBRE115E  1559  1503/110  L5  W21 D19 L2  D15 2.0
+ 15 Edmond, Alec           CSICH03G  1266  1294/143  L8  L2  W9  D5  D14 2.0
+ 16 Marnadi, Ethan         RSAFE62G   930   902/ 17  L7  W20 L6  W22 L11 2.0
+ 17 Robarge, Isaiah        HCCEA55J   557   479/  7  L12 L18 WF  WF  L4  2.0
+ 18 Velmurugan, Kiranya    CNCEB21J   542   560/ 17  L1  W17 WF  L4  L13 2.0
+ 19 Vijeyanandh, Vishnu    TMBGF63Z  1036  1052/ 60  L2  L8  D14 W21 L9  1.5
+ 20 Yenamandra, Akhil      SSMFH84U   608   592/ 10  L10 L16 W22 L11 L3  1.0
+ 21 Olson, Benjamin        HCCGG50S   915   887/119  L9  L14 L8  L19 L2  0.0
+ 22 Liu, Timothy           XXXDD59K   400   400/  5  L11 L6  L20 L16 L7  0.0

@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chatterjee, Sasmit     RHJGH23M   943  1030/ 10  W3  U   W2  2.0
+  2 Hawkins, Holden        TYEJ383Z   955   965/432  U   W3  L1  1.0
+  3 Yin, Daniel            ISSK116Y  1069  1001/242  L1  L2  U   0.0

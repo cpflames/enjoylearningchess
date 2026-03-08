@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Trushkov, Max          FERJ616A  1355  1361/127  W4  L3  W2  2.0
+  2 Bosch, Ethan           SHMMF67U  1346  1354/ 28  W3  W4  L1  2.0
+  3 Kuzin, Ethan           SHMJ7567  1268  1295/223  L2  W1  W4  2.0
+  4 Bubb, Ezra             FHVG592K  1183  1139/ 90  L1  L2  L3  0.0

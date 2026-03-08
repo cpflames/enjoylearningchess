@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Yu, Patrick            BOTL621D  1025  1256/ 14  W10 W5  W3  W2  4.0
+  2 Lechner, Liam          HSCI591P  1164  1169/ 67  D7  W6  W4  L1  2.5
+  3 Ahmed, Kashif          AUDKD28G  1096  1119/ 64  D4  W7  L1  W6  2.5
+  4 Vanimireddy, Shrivas   INGK833Q   936  1044/ 14  D3  W8  L2  W7  2.5
+  5 Downs, Cole            TLTIK65V  1205  1168/ 22  W9  L1  L7  W10 2.0
+  6 Jain, Samik            BRHF338J   915   953/ 19  W8  L2  W9  L3  2.0
+  7 Ganji, Ayden           TLMGE62U  1078  1063/ 44  D2  L3  W5  L4  1.5
+  8 Thungathurthi, PranavarINGGG82R  1045   973/ 39  L6  L4  L10 W9  1.0
+  9 Nidamarthi, Nikhil     RSAD375J   970   925/163  L5  W10 L6  L8  1.0
+ 10 Sembium, Aditi         BCACK25W   913   901/202  L1  L9  W8  L5  1.0

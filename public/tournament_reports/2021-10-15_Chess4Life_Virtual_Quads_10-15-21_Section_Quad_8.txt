@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mamtani, Vihaan        TYEJ6442  1039  1058/ 31  W2  L4  W3  2.0
+  2 Kakkad, Vayu           BRYBK50L  1100  1102/357  L1  W3  W4  2.0
+  3 Mcintyre, Isaac        ETSC466S   991   959/  8  W4  L2  L1  1.0
+  4 Ivanovic, Lena         UCDBK55K   960   951/228  L3  W1  L2  1.0

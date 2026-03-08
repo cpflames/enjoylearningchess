@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sridhar, Riya          AUDDG37Y   918   981/ 24  W4  W2  W6  3.0
+  2 Gao, Chenrui           EBSEK12A   773   831/ 29  W3  L1  W5  2.0
+  3 Taylor, Ryder          HSCH385C   727   791/ 21  L2  W5  W4  2.0
+  4 Yin, Daniel            ISMJ116Y   907   850/ 81  L1  W6  L3  1.0
+  5 Kan, Leanne            HSCC710K   749   705/ 30  W6  L3  L2  1.0
+  6 Grigorenko, Yana       FRWBA39N   400   400/ 65  L5  L4  L1  0.0

@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Juluri, Hasini         OMSI290Z  1118  1238/ 29  W4  W3  W2  W5  W6  5.0
+  2 Chowdhary, Shivam      CMCFD47H  1059  1074/ 49  W7  W5  L1  D3  W8  3.5
+  3 Chatterjee, Sasmit     RHJGH23M  1005  1047/ 22  W6  L1  W7  D2  W4  3.5
+  4 Mitra, Rahul           OPWGH53N   892   926/234  L1  W6  W5  W8  L3  3.0
+  5 Zhen, Hongren          KIMGC02Z  1054   998/145  W8  L2  L4  L1  W7  2.0
+  6 Ma, Zihao              CLEJ380M   900   799/  5  L3  L4  W8  W7  L1  2.0
+  7 Seshadri, Vindhya      GTMG953Y   886   812/ 33  L2  W8  L3  L6  L5  1.0
+  8 Ma, Ziliang            UNKFA69N   500   400/  5  L5  L7  L6  L4  L2  0.0

@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Razmov, Gabriel        ADDGC26K  1556  1639/224  W10 W3  D9  HPB W7  D2  4.5
+  2 Yondon, Odbayar        LMADK97T  1544  1619/ 78  D9  W6  W4  HPB D3  D1  4.0
+  3 Xiong, Michael         MEDD115A  1512  1585/225  W11 L1  W10 D4  D2  W9  4.0
+  4 Zhou, Leonardo         PLKGE293  1643  1640/178  D6  W5  L2  D3  W8  HPB 3.5
+  5 Verma, Darsh           WONFB52K  1634  1610/150  D7  L4  W11 L6  BYE W10 3.5
+  6 Nallappa, Vijay        REJGD40S  1520  1544/328  D4  L2  BYE W5  D9  D7  3.5
+  7 Borate, Neel           REEF821E  1516  1547/226  D5  D11 W8  W9  L1  D6  3.5
+  8 Bharathy Mohan, Aarav  FRWDC98B  1412  1429/245  BYE L9  L7  W10 L4  W11 3.0
+  9 Pisan, Kai             CHYH404C  1725  1671/353  D2  W8  D1  L7  D6  L3  2.5
+ 10 Yadav, Arjun           MMEE664A  1479  1441/ 78  L1  BYE L3  L8  W11 L5  2.0
+ 11 Zhou, Yuchen           CHRCJ42H  1577  1494/472  L3  D7  L5  BYE L10 L8  1.5

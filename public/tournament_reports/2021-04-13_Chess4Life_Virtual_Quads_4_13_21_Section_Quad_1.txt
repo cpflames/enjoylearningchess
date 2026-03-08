@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Condit, Noah           TLIFA59Q  1412  1464/ 36  W3  W4  W2  3.0
+  2 Saddi, Neevan Reddy    GRRBH87M  1333  1350/ 43  W4  W3  L1  2.0
+  3 Xie, Max               BLWGI185  1234  1230/240  L1  L2  W4  1.0
+  4 Bar, Nathan            AUDB368C  1274  1217/ 64  L2  L1  L3  0.0

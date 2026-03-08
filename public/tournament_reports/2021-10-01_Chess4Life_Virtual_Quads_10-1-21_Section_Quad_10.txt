@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dai, Alex              CHRDC43N   810   838/ 12  W3  W2  L4  2.0
+  2 Pai, Vihaan            STVDK17C   853   838/ 18  W4  L1  D3  1.5
+  3 Sumanaseni, Evan       CNHF876D   806   805/137  L1  W4  D2  1.5
+  4 Naenna, Patanin        SPLDQ28H   737   730/ 37  L2  L3  W1  1.0

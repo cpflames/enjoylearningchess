@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Shen, Enoch            BLWFH90P  1127  1150/ 53  W4  W3  D2  2.5
+  2 Han, Spencer           HSCDK75L  1034  1098/ 97  W3  W4  D1  2.5
+  3 Burtram, Dayton        BLMHG77M   989   973/220  L2  L1  W4  1.0
+  4 Juarez-caballero, CristSNIFD76Z   929   876/ 47  L1  L2  L3  0.0

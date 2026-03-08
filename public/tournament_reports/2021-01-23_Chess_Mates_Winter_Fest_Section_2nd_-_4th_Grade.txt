@@ -1,0 +1,27 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Westover, Charlotte    WMEE365V  1437  1491/241  W25 W7  W22 W2  W3  5.0
+  2 Li, Yiyang             BCAD700B  1266  1304/140  W15 W14 W4  L1  W8  4.0
+  3 Cheng, Selina          THUD413R  1345  1362/182  W24 W10 W9  W5  L1  4.0
+  4 Xiao, David            MRPDA64Q  1179  1219/ 35  W17 W8  L2  W6  W22 4.0
+  5 Huang, Emily           MEDEB39A  1245  1244/121  W13 W23 W16 L3  W15 4.0
+  6 Ngu, Elliott           CGRD452U   929   953/ 46  W12 L9  W13 L4  W18 3.0
+  7 Don, Alexander         MEDE958V  1113  1106/133  W20 L1  W18 W15 L9  3.0
+  8 Pegushin, Daniel       MEDEF62X   400  1139/  5  W16 L4  W23 W9  L2  3.0
+  9 Edmond, Ivy            WWDDD81E  1159  1155/143  W26 W6  L3  L8  W7  3.0
+ 10 Kuo, Declan            RDSEE82L   984   973/241  W11 L3  L15 W18 W19 3.0
+ 11 Yang, Nathan           MRPE586Y   562   740/ 89  L10 L24 W17 W23 W16 3.0
+ 12 Jackson, Dyson         ACKC717K   400   635/ 14  L6  W26 L25 W24 W23 3.0
+ 13 Roach, August          EVGD109M   742   790/125  L5  W19 L6  W25 D14 2.5
+ 14 Aravind, Akshara       ETSDJ67M  1012   985/ 77  W21 L2  W24 L22 D13 2.5
+ 15 Abueg, Jethro          WONDH78U   790   841/ 61  L2  W21 W10 L7  L5  2.0
+ 16 Quichocho, Weston      EVGE113W   888   861/169  L8  W17 L5  W21 L11 2.0
+ 17 Ramos, Justin          BGLEA12M   658   681/ 24  L4  L16 L11 W20 W25 2.0
+ 18 Aute, Rohit            BEND684B   758   806/ 25  W22 W25 L7  L10 L6  2.0
+ 19 Sitani, Avik           GRRE320T   400   514/ 19  L23 L13 W20 W26 L10 2.0
+ 20 Preiner, Naia          MIEC596Q   603   619/ 39  L7  W22 L19 L17 W26 2.0
+ 21 Cameron, Cecil         HLTDK22T   590   621/ 25  L14 L15 W26 L16 W24 2.0
+ 22 Iarovich, Shachar      CMCE122J  1229  1126/ 65  L18 L20 L1  W14 L4  1.0
+ 23 Scotece, Aven          LECE787W   897   813/ 40  W19 L5  L8  L11 L12 1.0
+ 24 Zhang, Kevin           SPTC809Y   761   707/ 26  L3  W11 L14 L12 L21 1.0
+ 25 Yuen, Otto Shing-lok   KSHEF34N   843   762/240  L1  L18 W12 L13 L17 1.0
+ 26 Haller, Carly          SAECC57C   678   548/ 39  L9  L12 L21 L19 L20 0.0

@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Carman, Leif           RICLB289  1544  1540/268  W8  W4  W3  D2  W5  4.5
+  2 Romero, Jesse          CWHMB898   890  1117/111  W5  W7  L4  D1  W6  3.5
+  3 Morin-cotton, NathanielPEMI4895  1072  1121/143  W6  W8  L1  L5  W4  3.0
+  4 Tunuguntla, Sai SrithanEMDDK78V  1158  1166/148  W9  L1  W2  W6  L3  3.0
+  5 Kane, Callan           CWHLB00E  1109  1135/152  L2  W9  W8  W3  L1  3.0
+  6 Thallapally, Sriyan    OERFA43W   890   935/ 70  L3  W10 W7  L4  L2  2.0
+  7 Li, Yiyang             BCAE700B  1389  1319/210  W10 L2  L6  W9  U   2.0
+  8 Chintalapudi, Srihaan  CNCE662W  1049  1034/ 61  L1  L3  L5  W10 W9  2.0
+  9 Armstrong, Griffin     LECF141T   916   893/ 35  L4  L5  W10 L7  L8  1.0
+ 10 Esquivel, George       CWHLD456   929   849/211  L7  L6  L9  L8  BYE 1.0

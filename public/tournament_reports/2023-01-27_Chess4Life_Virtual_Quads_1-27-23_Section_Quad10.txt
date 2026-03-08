@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Rackoff, Dylan         BLWF507J   818   872/205  W3  D2  W4  2.5
+  2 Wu, Dennis             SCDCJ54B   835   880/118  W4  D1  W3  2.5
+  3 Naenna, Patanin        SPLEQ28H   707   698/174  L1  W4  L2  1.0
+  4 Pai, Shubham           BCAF694R   711   644/ 63  L2  L3  L1  0.0

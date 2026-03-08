@@ -1,0 +1,57 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Koripella, Dheeran     FRVG610W   569  1058/ 22  W35 W15 W28 W5  W7  5.0
+  2 Tie, Mike              ENDD856Y  1224  1224/ 29  W21 W17 W14 L7  W9  4.0
+  3 Vashisht, Aneesh       LKWDC30Y  1183  1189/ 48  W22 W19 W20 L9  W14 4.0
+  4 Iyer, Shashwat Pranav  CMCCC07W  1177  1180/ 59  WF  L33 W36 W25 W15 4.0
+  5 Qiu, Travis            MMEEF47M  1047  1087/ 43  W11 W30 W29 L1  W19 4.0
+  6 Chowdhary, Shivam      CMCFD47H  1032  1059/ 44  W40 L9  W37 W20 W23 4.0
+  7 Cao, Sean              TPSEA33Q  1030  1105/ 24  W46 W10 W24 W2  L1  4.0
+  8 Anand, Lakshana        RSADC68H  1027  1054/ 19  W41 W37 L9  W22 W24 4.0
+  9 Marnadi, Ethan         RSAFE62G   865  1066/ 27  W53 W6  W8  W3  L2  4.0
+ 10 Syal, Yash             SHSDC10R   875  1003/ 47  W49 L7  D32 W33 W25 3.5
+ 11 Zhao, Zhenyu           FRWE821U   724   906/ 22  L5  W50 W35 D28 W26 3.5
+ 12 Parson, Anya           SSMEI86G   699   866/ 10  D33 L27 W31 W36 W28 3.5
+ 13 Huttelmaier, Alex      CHRF218R   984   948/145  L24 W43 L22 W44 W37 3.0
+ 14 Boddapati, Mahas       CNCD826X   944   979/ 60  W18 W23 L2  W41 L3  3.0
+ 15 Lahiri, Priyadarshi    RCSF191Q   941   949/ 21  W47 L1  W39 W42 L4  3.0
+ 16 Lebedinsky, Alexander  SSMF958F   933   891/202  W31 L24 WF  L23 W41 3.0
+ 17 Jain, Samik            BRHE338J   928   915/ 15  W55 L2  L41 W39 W42 3.0
+ 18 Iyer, Suchir           CMCAK64E   919   879/ 25  L14 W55 L42 W49 W45 3.0
+ 19 Xu, Alex               DCTF500U   897   910/ 68  W51 L3  W52 W27 L5  3.0
+ 20 Phillips-acheson, SebasWOBF817T   861   923/181  W54 W34 L3  L6  W32 3.0
+ 21 Rajan, Vivaan          TBKF301F   834   862/ 10  L2  W49 L27 W54 W34 3.0
+ 22 Tandon, Ayaan          CRKDG07U   761   906/ 20  L3  W38 W13 L8  W35 3.0
+ 23 Joseph, Veronique      SJOCJ04S   737   897/ 56  W27 L14 W34 W16 L6  3.0
+ 24 Agrawal, Aditi         RKWDH11E   645   858/ 15  W13 W16 L7  W29 L8  3.0
+ 25 Xie, Michael           BLWF549C  1180  1128/318  W38 D36 W33 L4  L10 2.5
+ 26 Sethi, Ivanka          TIMDF96K  1168  1076/ 56  WF  L29 D30 W45 L11 2.5
+ 27 Edwin, Elijah          BCSBC24D  1036   992/ 24  L23 W12 W21 L19 D30 2.5
+ 28 Raja, Rian             CNCE786E   973   947/ 36  W42 W39 L1  D11 L12 2.5
+ 29 Shah, Hridhaan         CBRC561Z   907   888/ 20  W50 W26 L5  L24 D31 2.5
+ 30 Wang, Nicole           SOMD428S   877   896/ 55  W52 L5  D26 D32 D27 2.5
+ 31 Bhattacharjee, Satvik  TIMAE65Q   400   572/ 10  L16 W40 L12 W46 D29 2.5
+ 32 Kan, Kaleb             BLWDF53E  1152  1056/210  L39 W47 D10 D30 L20 2.0
+ 33 Konatham, Teja         CHRFD47A  1053  1020/192  D12 W4  L25 L10 D36 2.0
+ 34 Sankar, Sneha          CNCE372B   962   889/233  W43 L20 L23 W50 L21 2.0
+ 35 Li, Moses              CDWBK26L   987   925/ 65  L1  W45 L11 W38 L22 2.0
+ 36 Chien, Jeffrey         BCAEF41X   927   910/ 20  W48 D25 L4  L12 D33 2.0
+ 37 Sembium, Aditi         BCABK25W   835   797/ 99  W56 L8  L6  W53 L13 2.0
+ 38 Bhattacharjee, PratyushTIMC602T   829   768/ 10  L25 L22 W46 L35 W47 2.0
+ 39 Swaminath, Akshita     CNCB295Z   746   761/ 53  W32 L28 L15 L17 W50 2.0
+ 40 Hancock-srinivasan, ShyRKWDK60H   665   605/ 15  L6  L31 L50 W56 W53 2.0
+ 41 Thaker, Ayaan          DISEJ51G   646   684/ 20  L8  W53 W17 L14 L16 2.0
+ 42 Balaji, Sidharth       CMCFC22H   883   834/ 14  L28 W56 W18 L15 L17 2.0
+ 43 Shaikot, Sabeer        ENSD147Q   678   630/ 98  L34 L13 L49 W52 W54 2.0
+ 44 Krzeszowski, Anthony   MYHEI41R   553   613/ 35  U   U   W54 L13 W49 2.0
+ 45 Ramkumar, Aditya       UNKBC38J   502   493/ 31  BYE L35 W56 L26 L18 2.0
+ 46 Xiao, Stephanie        STTAB19B   646   543/  8  L7  LF  L38 L31 BYE 1.0
+ 47 Huttelmaier, Evelyn    CHRD757Z   530   473/119  L15 L32 L53 BYE L38 1.0
+ 48 Zusman, Diana          AUDFG59S   400   400/  9  L36 BYE U   U   U   1.0
+ 49 Panda, Sourish         LWODK98E   400   552/  5  L10 L21 W43 L18 L44 1.0
+ 50 Vivek, Sahaan          BRHA672Y   400   566/  5  L29 L11 W40 L34 L39 1.0
+ 51 Xie, Calvin            UNKBF15U   400   514/  1  L19 WF  LF  U   U   1.0
+ 52 Hyslop, Hannah         SKMEK80R   400   400/  5  L30 L54 L19 L43 W56 1.0
+ 53 Balaji, Arjun          BCABH75P   400   439/  5  L9  L41 W47 L37 L40 1.0
+ 54 Sabarish, Ananya       BCABG02Z   400   400/  5  L20 W52 L44 L21 L43 1.0
+ 55 Goel, Atharva          CCDB436Y   400   400/  8  L17 L18 L38 U   U   0.0
+ 56 Passmore, Mila         OPWB810A   400   400/  5  L37 L42 L45 L40 L52 0.0

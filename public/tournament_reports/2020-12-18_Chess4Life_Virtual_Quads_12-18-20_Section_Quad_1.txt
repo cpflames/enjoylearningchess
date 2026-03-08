@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Boulis, Christos       RHJHC84T  1648  1660/398  W4  D2  W3  2.5
+  2 Seth, Shreshth         SPTF268C  1462  1535/365  W3  D1  W4  2.5
+  3 Singh, Saket           DISH872S  1498  1484/169  L2  W4  L1  1.0
+  4 Anandkumar, Haituka    BENG238P  1458  1412/220  L1  L3  L2  0.0

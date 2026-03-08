@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bansal, Vivaan         EVJI452J  1177  1190/ 88  D3  W2  W4  2.5
+  2 Bikkula, Charan        BLMGJ23A   965  1025/132  W4  L1  W3  2.0
+  3 Juarez-caballero, CristSNIFD76Z   927   959/ 59  D1  W4  L2  1.5
+  4 Kim, Matthew           RKWEK88G  1056   976/ 20  L2  L3  L1  0.0

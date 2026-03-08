@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhou, Yuchen           BCACJ42H  1469  1502/338  D4  W3  W2  2.5
+  2 Xiong, Michael         MEDD115A  1436  1455/136  W3  W4  L1  2.0
+  3 Singh, Saket           DISI872S  1418  1400/252  L2  L1  W4  1.0
+  4 Karri, Aditya          AUDEC55V  1393  1360/145  D1  L2  L3  0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Alam, Adil             BCAFI15X  1402  1423/189  D2  W3  D4  2.0
+  2 Zhou, Yuchen           BCABJ42H  1387  1391/317  D1  W4  L3  1.5
+  3 Purohit, Yuti          BCWGC435  1391  1394/258  D4  L1  W2  1.5
+  4 Siddem, Sid            RHJHC34V  1441  1413/336  D3  L2  D1  1.0

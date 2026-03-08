@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sethi, Ivanka          STVDF96K   949  1073/ 31  W4  W2  W3  3.0
+  2 Ivanovic, Lena         UCDBK55K   958   984/243  W3  L1  W4  2.0
+  3 Yun, Daniel D          BCABK87Z   915   901/ 73  L2  W4  L1  1.0
+  4 Zou, Ethan             WOBEI88K   951   875/196  L1  L3  L2  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Malugu, Sankalp        SHSBE95W  1278  1303/155  W4  W2  D3  2.5
+  2 Yang, James            SSME123B  1188  1213/135  W3  L1  W4  2.0
+  3 Neff, Joel             ABEDF99X  1219  1213/166  L2  W4  D1  1.5
+  4 Kakkad, Vayu           BRYAK50L  1099  1051/268  L1  L3  L2  0.0

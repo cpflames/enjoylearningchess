@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Louie, Leyton          UCDD880T   980  1108/112  W3  W2  W4  3.0
+  2 Kakkad, Vayu           BRYAK50L   977  1012/211  W4  L1  W3  2.0
+  3 Mitra, Rahul           OPWFH53N   995   970/113  L1  W4  L2  1.0
+  4 Patnaik, Rishabhdeva   CRKCG72D   980   908/ 37  L2  L3  L1  0.0

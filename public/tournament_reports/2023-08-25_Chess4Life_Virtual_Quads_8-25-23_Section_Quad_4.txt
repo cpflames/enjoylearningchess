@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mcintyre, Isaac        ETSD466S   987   996/163  L4  W3  W2  2.0
+  2 Taylor, Ryder          KAMJ385C   848   919/324  W3  W4  L1  2.0
+  3 He, Raymond            HSCJK82K   890   875/ 63  L2  L1  W4  1.0
+  4 Anugula, Kruthik       RHJH581U   963   927/ 38  W1  L2  L3  1.0

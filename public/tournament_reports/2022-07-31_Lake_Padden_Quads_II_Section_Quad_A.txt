@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bosch, Ethan           SHMMF67U  1597  1582/ 78  L3  W4  W2  2.0
+  2 Frost, Ignatius        LYXIJ64P  1472  1478/ 31  W4  W3  L1  2.0
+  3 Werner, Ross           SHMKB91H  1287  1347/ 64  W1  L2  W4  2.0
+  4 Macgregor, Matthew     SHMK1137  1202  1174/100  L2  L1  L3  0.0

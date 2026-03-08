@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Scollon, Owen          FHVH734D  1569  1584/417  W3  W2  W4  3.0
+  2 Wilson, Nathaniel      SHKHE45V  1350  1361/ 68  W4  L1  W3  2.0
+  3 Kozaczuk, James        SHKH108A  1127  1139/152  L1  W4  L2  1.0
+  4 Palmer, Evan           BHMJI90S  1171  1127/134  L2  L3  L1  0.0

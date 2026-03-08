@@ -1,0 +1,85 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 tot 
+  1 Sharma, Jai            EPSK417M  1031  1187/ 17  W79 W71 W71 W39 W59 U   W83 W67 7.0
+  2 Xiao, Ruichen          INTKE39K  1366  1394/141  W3  W39 W63 U   W63 L3  W36 D55 5.5
+  3 Bhimisetty, Sankeerth  INTK995Q  1377  1450/ 52  L2  W9  U   U   W36 W2  W19 W73 5.0
+  4 Anand, Advaith         INTKA37J  1298  1291/ 17  W19 L17 L36 W19 W66 D12 W77 L36 4.5
+  5 Shubin, Daniel         EPSMF498  2255  2262/524  W14 U   U   U   W56 U   W76 W38 4.0
+  6 Tiwari, Arjun          INTM383B  1856  1884/ 87  W47 U   W20 U   W46 U   W46 U   4.0
+  7 Mehrotra, Shiv         INTLH131  1741  1734/305  L17 W19 U   W36 W43 U   W43 U   4.0
+  8 Wu, Dylan              EPSKC987  1465  1532/234  W69 U   L45 U   W72 U   W32 W21 4.0
+  9 Ghali, Siddharth       EPSMA578  1368  1398/443  W70 L3  L15 U   W80 W24 W37 L23 4.0
+ 10 Wan, Bertrand          NPRLK421  1964  1989/231  W68 U   W31 U   D45 U   W45 U   3.5
+ 11 Liu, Erik              INTK4861  1832  1827/385  D49 U   W55 U   W69 U   W69 U   3.5
+ 12 Clark, Ken             INTL431D  1033  1104/ 13  U   U   U   U   W82 D4  W41 W77 3.5
+ 13 He, Anthony            TSTM9717  2499  2499/309  W51 U   U   U   W30 U   W54 U   3.0
+ 14 Yu, Jason              NPRLF522  2245  2252/209  L5  U   W28 U   W51 U   W51 U   3.0
+ 15 Park, Sean             INTL600E  1679  1730/122  U   U   W9  U   W29 U   W34 U   3.0
+ 16 Qiu, Aichen            INTLB56Z  1606  1612/101  L31 U   W50 U   W62 U   W18 U   3.0
+ 17 Chopra, Nikita         INTJ297H  1555  1600/ 66  W7  W4  W27 U   U   U   U   U   3.0
+ 18 Obulisamy, Jaikrishnaa EALKK894  1531  1553/114  W33 U   W69 U   W65 U   L16 U   3.0
+ 19 Tang, Haosen           EPSHH941  1425  1363/222  L4  L7  L39 L4  W22 W36 L3  W64 3.0
+ 20 Puri, Rishay           EPSKK809  1425  1431/250  L46 U   L6  U   W60 U   W25 W40 3.0
+ 21 Grover, Samuel         MCRLH95K  1055  1048/107  W72 U   L26 U   W76 U   W50 L8  3.0
+ 22 He, Edward             INTKK66F  1000  1429/  4  U   U   U   U   L19 W82 W24 W74 3.0
+ 23 Gradek, Dylan          MCRJK66D   900  1792/  3  U   U   U   U   W81 U   W59 W9  3.0
+ 24 Jain, Arnav            INTK7967  1573  1510/302  W58 U   U   U   W74 L9  L22 D66 2.5
+ 25 Datti, Yashwant        BOTMD97K  1103  1126/ 27  W54 U   U   U   W67 U   L20 D50 2.5
+ 26 Park, Paul             NPRM296H   852   992/ 30  W81 U   W21 U   D31 U   L29 U   2.5
+ 27 Pak, Atticus           INNK608R   531   667/ 16  L40 U   L17 U   W79 U   D67 W76 2.5
+ 28 Velea, Anne-marie      EALMK892  2159  2136/364  L30 U   L14 U   W54 U   W30 U   2.0
+ 29 Velea, Stephanie       TSTKD353  1780  1788/332  W45 U   U   U   L15 U   W26 U   2.0
+ 30 Maurer, Sam            INTK742A  1760  1785/ 34  W28 U   W72 U   L13 U   L28 U   2.0
+ 31 Shapiro, Michael       EALM8875  1721  1707/358  W16 U   L10 U   D26 U   D53 U   2.0
+ 32 Chilakala, Sathvik     BOTL1840  1646  1625/372  U   U   U   U   W75 U   L8  W56 2.0
+ 33 Tsai, Marshall         INTK365A  1560  1555/ 15  L18 U   W60 U   U   U   W35 U   2.0
+ 34 Koripella, Teja        EALKG56Q  1517  1535/ 41  W53 U   U   U   W78 U   L15 U   2.0
+ 35 Vankamamidi, Advaith   EALK193M  1415  1429/127  D48 U   D46 U   W44 U   L33 U   2.0
+ 36 Gong, Nathan           EPSKA495  1271  1272/162  U   U   W4  L7  L3  L19 L2  W4  2.0
+ 37 George, Amil           BOTM9778  1257  1252/324  U   U   U   U   U   W75 L9  W60 2.0
+ 38 Saloranta, Leo         MCRJB40A  1234  1201/161  W50 U   L54 U   W84 U   L56 L5  2.0
+ 39 Agrawal, Aryan         INTJK10T  1226  1227/ 48  W71 L2  W19 L1  U   U   U   U   2.0
+ 40 Goodrum, Nikolas       MCRK599U  1099  1117/ 37  W27 U   U   U   U   U   W60 L20 2.0
+ 41 Ropar, Jules           EPSM818S   917   937/ 19  U   U   U   W71 U   U   L12 W63 2.0
+ 42 Sun, Minghan           NPRMA006   655   721/ 12  W84 U   W67 U   U   U   U   U   2.0
+ 43 Pai, Andrew            NPRK641Y  1439  1436/  6  W55 U   BYE U   L7  U   L7  U   2.0
+ 44 Roy, Ronnie            NPRJ506F  1152  1084/  6  W76 U   W77 U   L35 U   L49 U   2.0
+ 45 Chang, Eddie           INTL6270  2054  2021/200  L29 U   W8  U   D10 U   L10 U   1.5
+ 46 Yu, Aiden              NPRJF95R  1738  1709/ 22  W20 U   D35 U   L6  U   L6  U   1.5
+ 47 Banerji, Aakash        TSTM9954  1722  1708/440  L6  U   U   U   D53 U   W78 U   1.5
+ 48 Moses, Blessington     INTL3817  1535  1542/ 31  D35 U   U   U   W49 U   U   U   1.5
+ 49 Ge, Sean               TSTL5876  1384  1397/311  D11 U   U   U   L48 U   W44 U   1.5
+ 50 Eilebrecht, Isaac      INNL599D   523   820/  8  L38 U   L16 U   W55 U   L21 D25 1.5
+ 51 Kurungod Anoop, Pranav INTLK760  2111  2097/236  L13 U   W68 U   L14 U   L14 U   1.0
+ 52 Joshi, Saumitra        INTL8900  1787  1788/229  W62 U   U   U   U   U   U   U   1.0
+ 53 Kandhare, Ojas         INTLJ90T  1652  1634/107  L34 U   U   U   D47 U   D31 U   1.0
+ 54 Yin, Tom               NPRLJ396  1366  1343/260  L25 U   W38 U   L28 U   L13 U   1.0
+ 55 Vijan, Dylan           EPSK5706  1302  1239/170  L43 U   L11 U   L50 U   D66 D2  1.0
+ 56 Hochberg, David        INNK6075  1193  1214/291  U   U   U   U   L5  U   W38 L32 1.0
+ 57 Wu, Tony               INTK1714   991   995/122  W74 U   U   U   U   U   U   U   1.0
+ 58 Josan, Anmol           EPSIC410   671   734/ 75  L24 W70 U   U   U   U   U   U   1.0
+ 59 Geiger, Torin          INNK100J   587   643/ 18  U   U   U   U   L1  U   L23 W81 1.0
+ 60 Hall, Odin             INNLA87V  1088  1001/  8  W67 U   L33 U   L20 U   L40 L37 1.0
+ 61 Wong, Peter            NPRME12G  1414  1414/  3  W83 U   U   U   U   U   U   U   1.0
+ 62 Srinivasan, Vignesh    TSTMJ56R  1221  1218/  5  L52 U   U   U   L16 U   W65 U   1.0
+ 63 Moran, Caleb           INNKF47Z   811   679/  8  L64 U   L2  U   L2  U   W74 L41 1.0
+ 64 Leveque, Ansel         MCRM4561   507   571/  8  W63 U   L65 U   U   U   U   L19 1.0
+ 65 Fine, Michael          NPTKB24T   799   807/ 31  U   U   W64 U   L18 U   L62 U   1.0
+ 66 He, Eric               MEDNG950   951   999/ 18  U   U   U   U   L4  U   D55 D24 1.0
+ 67 Durkee, Alexander      MCRL771X   895   795/ 13  L60 U   L42 U   L25 U   D27 L1  0.5
+ 68 Zhang, Bohan           EPSKE54S  1668  1660/102  L10 U   L51 U   U   U   U   U   0.0
+ 69 Yuodelis, Kenneth      NPRJ3681  1531  1483/415  L8  U   L18 U   L11 U   L11 U   0.0
+ 70 Doddala, Srivanth      BOTM4868  1148  1087/ 38  L9  L58 U   U   U   U   U   U   0.0
+ 71 Agrawal, Aishwarya     INTJ818R   918   871/ 44  L39 L1  L1  L41 U   U   U   U   0.0
+ 72 Zahavy-mittleman, PelegINNMK54J   852   824/ 10  L21 U   L30 U   L8  U   U   U   0.0
+ 73 Shah, Saahil           EPSJA42P   721   720/ 19  U   U   U   U   U   U   U   L3  0.0
+ 74 Peinado, Julian        INTK1392   514   491/ 19  L57 U   U   U   L24 U   L63 L22 0.0
+ 75 Pomering, Cooper       MCRKD392   504   503/ 17  U   U   U   U   L32 L37 U   U   0.0
+ 76 Jensen, Tobias         BOTLI925   453   436/ 15  L44 U   U   U   L21 U   L5  L27 0.0
+ 77 Holloway, Sofia        MCRKC74V   345   345/  6  U   U   L44 U   U   U   L4  L12 0.0
+ 78 Dy, Edward             NPRK595X   577   577/  5  U   U   U   U   L34 U   L47 U   0.0
+ 79 Vasan, Sahith          INTJG89X  1003   879/  7  L1  U   U   U   L27 U   U   U   0.0
+ 80 Thein, Zayar           MCRJC82F  1344  1168/  2  U   U   U   U   L9  U   U   U   0.0
+ 81 Ortiz, Benji           BOTM399R   962   757/  6  L26 U   U   U   L23 U   U   L59 0.0
+ 82 Savitala, Akash        TSTMK66B  1200   715/  2  U   U   U   U   L12 L22 U   U   0.0
+ 83 Kandiah, Ishaan        BOTK511U   936   913/  5  L61 U   U   U   U   U   L1  U   0.0
+ 84 Bardsley, Sam          BOTM548X   577   517/  5  L42 U   U   U   L38 U   U   U   0.0

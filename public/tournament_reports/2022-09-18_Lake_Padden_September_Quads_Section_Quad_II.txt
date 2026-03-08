@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Love, Charles          SHMK458N  1083  1196/ 56  W2  W3  W4  3.0
+  2 Zhang, Owen            FHVH995H  1166  1170/173  L1  W4  W3  2.0
+  3 Kozachuk, James        SHKH108A   985   986/104  W4  L1  L2  1.0
+  4 Palmer, Evan           BHMJI90S  1059   992/112  L3  L2  L1  0.0

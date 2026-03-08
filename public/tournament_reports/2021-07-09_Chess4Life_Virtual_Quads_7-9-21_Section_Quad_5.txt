@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bhattacharjee, ArchishmBLWEA45Y  1224  1336/ 91  W3  W2  W4  3.0
+  2 Zhao, Dennis           CGRE525E  1237  1261/154  W4  L1  W3  2.0
+  3 Xing, Henry            LKDF3704  1238  1217/348  L1  W4  L2  1.0
+  4 Kumar, Yudhish         SPTG354M  1225  1161/ 54  L2  L3  L1  0.0

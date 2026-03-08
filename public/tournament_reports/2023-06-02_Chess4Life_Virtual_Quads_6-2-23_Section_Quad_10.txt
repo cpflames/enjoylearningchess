@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hernandez, Zeke        CSSIM698   407   591/  9  W4  W3  W2  3.0
+  2 Bangard, Dhruv         TBKAK65D   591   598/ 16  W6  W4  L1  2.0
+  3 Nikishin, Michael      XXXGK08X   600   610/  3  W5  L1  W6  2.0
+  4 Wright, Victoria       PTFFJ17P   536   505/ 58  L1  L2  W5  1.0
+  5 Hibray, Eliot          NSCHK47B   501   428/  6  L3  W6  L4  1.0
+  6 Hooper, Thomas         CRNEK25G   460   380/ 19  L2  L5  L3  0.0

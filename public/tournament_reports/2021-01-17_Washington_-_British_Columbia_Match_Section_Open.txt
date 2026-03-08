@@ -1,0 +1,25 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Hemstapat, Andrew      BCXLZ581  2322  2398/ 13  W16 W21 W19 W5  W11 5.0
+  2 Kenney, Jason          ADBNX73V  1300  2423/  5  W23 W20 D5  W19 W13 4.5
+  3 Kaufman, Ray           ADBNX16A  1300  2333/  5  D19 W8  W14 D11 W15 4.0
+  4 Tian, Sherry           WSIKZ408  1948  1998/ 63  L20 W22 W23 W14 W19 4.0
+  5 Levine, Joseph         EPSID260  2223  2244/200  W9  W12 D2  L1  W6  3.5
+  6 Long Le, Quang         ADBNX77F  1300  2314/  5  W8  D11 W20 W15 L5  3.5
+  7 Huang, Patrick         MODKX330  2046  2084/ 29  W15 W13 D11 W20 L8  3.5
+  8 Moroney, Timothy       ADUN276J  2249  2248/ 10  L6  L3  W24 W9  W7  3.0
+  9 Brown, Gabriel         ADBNZ66W  1300  2113/  5  L5  W16 W13 L8  W22 3.0
+ 10 Kagaoan, Jose          ADBNX74W  1300  1959/  5  L13 L14 W22 W21 W23 3.0
+ 11 Mahajan, Rushaan       OVLIK091  2250  2247/315  W18 D6  D7  D3  L1  2.5
+ 12 Mackinnon, Keith       ADBNZ65P  1300  2030/  5  W14 L5  W21 L13 D20 2.5
+ 13 Jiang, Brandon         OMSI7768  2119  2109/449  W10 L7  L9  W12 L2  2.0
+ 14 Vijayakumar, Advaith   LEOI6655  2055  2041/251  L12 W10 L3  L4  W17 2.0
+ 15 Min, Ryan              OMSG5430  1915  1924/303  L7  W18 W17 L6  L3  2.0
+ 16 Velea, Sophie          OPWGD209  1869  1876/287  L1  L9  W18 L17 W24 2.0
+ 17 Pham, Bich Ngoc        ADBNX52M  1300  1827/  5  W22 L19 L15 W16 L14 2.0
+ 18 Morgan, Scott          ADBNZ32E  1300  1837/  5  L11 L15 L16 W23 W21 2.0
+ 19 Nguyen, Thanh Tien     ADUNF78V  2027  2024/ 11  D3  W17 L1  L2  L4  1.5
+ 20 Shubin, Daniel         EPSKF498  2161  2143/458  W4  L2  L6  L7  D12 1.5
+ 21 Ramkumar, Aditya       ICSHI339  1644  1656/379  W24 L1  L12 L10 L18 1.0
+ 22 Seshadri, Sridhar      ADUNC121  1705  1706/ 39  L17 L4  L10 W24 L9  1.0
+ 23 Goktepe, Derin         OMSGK845  1957  1915/315  L2  D24 L4  L18 L10 0.5
+ 24 Zhu, Brandon           MOPNX82V  2066  1914/ 16  L21 D23 L8  L22 L16 0.5

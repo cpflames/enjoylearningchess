@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sreraman, Rahul        BCACJ42L  1019  1101/130  W3  W4  D2  2.5
+  2 Tsai, Adam             DISHB02H  1035  1037/ 66  W4  L3  D1  1.5
+  3 Hildenbrand, Blane     PSMH122V  1095  1081/161  L1  W2  D4  1.5
+  4 Taylor, Ryder          KAMJ385C   988   953/312  L2  L1  D3  0.5

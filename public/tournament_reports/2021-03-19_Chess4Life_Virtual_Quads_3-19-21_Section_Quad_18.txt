@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sood, Aaryan           BLMGI40V   773   808/ 11  D5  W6  W2  2.5
+  2 Shubin, Neta           RKWK7542   673   728/ 42  W6  W3  L1  2.0
+  3 Leon, Nikhil           HSCC587T   711   717/ 31  W4  L2  WF  2.0
+  4 Praveen, Atharva       AUDDG14E   731   736/ 23  L3  W5  W6  2.0
+  5 Jin, Michael           HMNDD09X   400   573/  2  D1  L4  LF  0.5
+  6 Garg, Vihaan           CCDAJ10X   707   628/ 18  L2  L1  L4  0.0

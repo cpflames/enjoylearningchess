@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 tot 
+  1 Ong, Dylan             DCTB744T   675   719/ 11  W7  W4  L3  L2  BYE W6  W3  5.0
+  2 Wang, Caiden           SPLCT421   400   731/  6  L4  W5  W7  W1  W6  L3  BYE 5.0
+  3 Lu, Ian                CRICE83J   735   733/139  W5  D6  W1  L4  W7  W2  L1  4.5
+  4 Kamath, Abhay          RSABJ13S   664   645/ 28  W2  L1  W6  W3  L5  BYE L7  4.0
+  5 Kampati, Shriyans      BRHCA10H   634   595/ 20  L3  L2  HPB BYE W4  W7  L6  3.5
+  6 Balchandani, Akira     PKRAF67P   400   448/ 16  BYE D3  L4  D7  L2  L1  W5  3.0
+  7 Mitra, Rishab          OPWC138L   480   466/ 95  L1  BYE L2  D6  L3  L5  W4  2.5

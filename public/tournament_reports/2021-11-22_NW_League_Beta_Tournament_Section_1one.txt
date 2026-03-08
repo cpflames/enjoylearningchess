@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Roesch, Carson         BLHJ120K  1839  1852/196  W4  W2  W3  3.0
+  2 Scollon, Owen          FHVG734D  1548  1563/295  W6  L1  W5  2.0
+  3 Jongema, Gabriel       LYEK984D  1491  1520/ 22  W5  W4  L1  2.0
+  4 Brown, Oliver          MRDMI13S  1485  1466/  6  L1  L3  W6  1.0
+  5 Trushkov, Max          FERJ616A  1374  1371/111  L3  W6  L2  1.0
+  6 Mccrory, Jared         LYEKA43K  1425  1368/ 22  L2  L5  L4  0.0

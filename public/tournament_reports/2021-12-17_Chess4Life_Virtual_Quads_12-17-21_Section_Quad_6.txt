@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Rastogi, Reyansh       LMAFD30N  1045  1186/140  W3  W4  W2  3.0
+  2 Yin, Daniel            ISMK116Y  1091  1117/162  W4  W3  L1  2.0
+  3 Hochberg, David        SUEJ6075  1127  1095/157  L1  L2  W4  1.0
+  4 Hawkins, Holden        TYEJ383Z  1051   989/390  L2  L1  L3  0.0

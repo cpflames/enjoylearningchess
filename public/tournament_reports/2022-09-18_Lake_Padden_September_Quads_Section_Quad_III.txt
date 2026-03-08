@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Waters, Shawn          BLHKK63D   948  1032/ 29  W3  W2  W4  3.0
+  2 Mcconaughy, Marcus     SHMJ798W   900   874/  3  W4  L1  D3  1.5
+  3 Werner, Finn           FHVIJ98B   762   796/ 30  L1  W4  D2  1.5
+  4 Murphy, Isaiah         LYMGJ76Q  1000   765/  6  L2  L3  L1  0.0

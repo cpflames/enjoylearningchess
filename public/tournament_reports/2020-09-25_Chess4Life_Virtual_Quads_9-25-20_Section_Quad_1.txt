@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Cheng, Ethan           LMAED58X  1587  1656/255  W4  W3  W2  3.0
+  2 Kompella, Aditya       PLKJ549K  1624  1613/166  D3  W4  L1  1.5
+  3 Wang, Daniel           LMSI8287  1540  1545/493  D2  L1  W4  1.5
+  4 Aski, Kabir            CNHHG340  1483  1442/384  L1  L2  L3  0.0

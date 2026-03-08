@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xie, Leon              CNHE264X  1008  1080/118  W4  W2  D3  2.5
+  2 He, Raymond            HSCJK82K   958  1011/ 42  W3  L1  W4  2.0
+  3 Li, Harry              SSSDG30G  1047  1038/276  L2  W4  D1  1.5
+  4 Yin, Daniel            ISSL116Y   996   925/335  L1  L3  L2  0.0

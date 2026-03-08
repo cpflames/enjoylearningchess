@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Jacob            MMEDD74Y  1151  1169/ 54  W3  W4  L2  2.0
+  2 Dmitriev, Lyan         NPTD246H  1160  1176/221  W4  L3  W1  2.0
+  3 Stein, Benjamin        HSCBB61S  1172  1185/114  L1  W2  W4  2.0
+  4 Gupta, Ananya          LAVD769T  1160   973/  6  L2  L1  L3  0.0

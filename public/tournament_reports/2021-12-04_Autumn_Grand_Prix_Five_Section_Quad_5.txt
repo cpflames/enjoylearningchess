@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Manly, Shafter         CUEDA72M   477   609/  8  W3  W2  W4  3.0
+  2 Misja, Tristan         VSTHE93V   533   498/  5  W4  L1  D3  1.5
+  3 Overhauser, Nolan      VSTG231S   482   449/ 18  L1  D4  D2  1.0
+  4 Lee, Joedon            VSTGH11A   400   400/ 11  L2  D3  L1  0.5

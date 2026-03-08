@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Stein, Benjamin        HSCDB61S  1299  1309/239  W4  W3  L2  2.0
+  2 Zhu, Kevin             CSMD865U  1242  1266/315  L3  W4  W1  2.0
+  3 Yun, Daniel D          BCABK87Z  1310  1317/216  W2  L1  W4  2.0
+  4 Li, Harry              SSSDG30G  1130  1087/224  L1  L2  L3  0.0

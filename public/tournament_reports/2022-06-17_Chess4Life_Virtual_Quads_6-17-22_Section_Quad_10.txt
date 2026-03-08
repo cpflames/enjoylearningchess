@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sembium, Aditi         BCABK25W   781   910/105  W2  W3  W4  3.0
+  2 Garg, Vihaan           CMCBJ10X   774   805/ 73  L1  W4  W3  2.0
+  3 Kuluru, Samith         KKNFI99K   749   730/ 67  W4  L1  L2  1.0
+  4 Srinivasan, Dhruv      NRLFU20X   785   676/ 10  L3  L2  L1  0.0

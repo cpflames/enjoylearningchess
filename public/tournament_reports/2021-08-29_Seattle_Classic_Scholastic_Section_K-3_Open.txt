@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Yondon, Odbayar        LMADK97T   400  1837/  5  W4  W3  W7  W2  W6  5.0
+  2 Rastogi, Atharv        APOE377H  1422  1423/ 45  W10 D6  D9  L1  W4  3.0
+  3 Cheng, Selina          THUE413R  1306  1335/298  W8  L1  W6  L4  W9  3.0
+  4 Edmond, Alec           CSICH03G  1266  1314/133  L1  W8  W10 W3  L2  3.0
+  5 Edmond, Ivy            WWDED81E  1147  1198/214  L6  L9  W8  W10 W7  3.0
+  6 Deng, Stanley          CGMDK22E  1303  1319/137  W5  D2  L3  W7  L1  2.5
+  7 Yadatore, Neel         LAWCB76D  1177  1187/ 26  W9  W10 L1  L6  L5  2.0
+  8 Yang, Yuchang          ILCEK16L  1155  1160/ 23  L3  L4  L5  W9  W10 2.0
+  9 Liu, Vincent           ILAD546Q  1306  1253/110  L7  W5  D2  L8  L3  1.5
+ 10 Shah, Kanav            LMAD295Q  1223  1125/ 20  L2  L7  L4  L5  L8  0.0

@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Thapar, Sabir          ETSD822D   485   497/ 14  W5  W4  L2  2.0
+  2 Anugula, Kruthik       RHJG581U   400   452/  5  L4  BYE W1  2.0
+  3 Oursland, Eric         SPTE966S   400   400/  8  BYE W5  L4  2.0
+  4 Li, Haiyi              EALJ762H   900   589/  3  W2  L1  W3  2.0
+  5 Rutia, Ved             XXXA547E   400   400/  2  L1  L3  BYE 1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bhaskara, Yash         ICSII539  1058  1095/227  W3  W2  D4  2.5
+  2 Sembium, Aditi         BCACK25W  1009  1031/155  W4  L1  W3  2.0
+  3 Zhang, Hanyu           OVLHE73G   874   882/ 16  L1  W4  L2  1.0
+  4 Taylor, Ryder          KAMJ385C  1036   975/234  L2  L3  D1  0.5

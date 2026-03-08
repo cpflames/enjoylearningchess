@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Shimao, Alexander      GRRGG77V   671   737/ 51  D3  W6  W2  2.5
+  2 Bidasaria, Kush        PFCG357C   793   778/ 77  W4  W5  L1  2.0
+  3 Mahale, Avneesh        CNHA993F   742   728/ 41  D1  D4  W6  2.0
+  4 Brakenridge, Bryce     SOMEK89D   485   535/ 21  L2  D3  W5  1.5
+  5 Abhilash, Lavina       SNIDK07R   479   448/ 16  W6  L2  L4  1.0
+  6 Brakenridge, Ryan      SOMAK05L   100   100/  5  L5  L1  L3  0.0

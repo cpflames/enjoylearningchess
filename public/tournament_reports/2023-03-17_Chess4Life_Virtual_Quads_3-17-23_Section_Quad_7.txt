@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ganesan, Vidur         RBRD940K   887   913/ 32  L2  W3  W4  2.0
+  2 Datti, Suhas           SHVGK47U   913   932/ 53  W1  W4  L3  2.0
+  3 Sreraman, Rahul        BCACJ42L   880   909/ 93  W4  L1  W2  2.0
+  4 Nabeel, Hasan          EDVE415U   861   788/ 31  L3  L2  L1  0.0

@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Danger, Presley        BLNG716S   632   789/ 18  W6  W3  W4  3.0
+  2 Qureshi, Danish        BLEFF36V   635   631/ 40  L4  BYE W5  2.0
+  3 Mcintee, Reese         MRDKF91G   538   617/  9  W5  L1  W7  2.0
+  4 Moors, Samuel          BLNIH93D   512   625/ 15  W2  W7  L1  2.0
+  5 Vivas, Matthew         LYCFI81C   724   605/  6  L3  W6  L2  1.0
+  6 Fine-gucker, Logan     EAGD535R   669   603/ 35  L1  L5  BYE 1.0
+  7 Larcom, Korbin         CIAEJ87V   654   579/ 33  WF  L4  L3  1.0

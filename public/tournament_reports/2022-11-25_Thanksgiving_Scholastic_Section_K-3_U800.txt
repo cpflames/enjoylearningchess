@@ -1,0 +1,34 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bates-callaghan, EmmettBCSDJ49J   300  1149/  5  W16 W11 W3  W2  W4  5.0
+  2 Verma, Satvik          WONBG80T   631   753/ 20  W24 W14 W5  L1  W11 4.0
+  3 Nelson, Ellis          BRYDB28C   590   721/ 10  W31 W15 L1  W13 W7  4.0
+  4 Wright, William        PTFAB71M   547   715/ 18  W32 W21 W9  W7  L1  4.0
+  5 Li, Rebecca            BCABJ62B   714   734/ 65  W27 W26 L2  W15 W9  4.0
+  6 Balaji, Arjun          CMCCH75P   654   637/ 22  L21 W22 D17 W19 W14 3.5
+  7 Ge, Alex               SOMC908H   794   751/107  W28 W12 W20 L4  L3  3.0
+  8 Li, Charles            CBEC999C   653   593/ 14  L22 W32 L21 W17 W16 3.0
+  9 Pan, Harry             MEDDE67X   651   653/ 36  W23 W13 L4  W12 L5  3.0
+ 10 Bassen, Abel           BCXDZ72M   547   502/ 10  L26 W18 L22 W31 W21 3.0
+ 11 Winter, Bowen          NBED948E   525   579/ 32  W19 L1  W25 W22 L2  3.0
+ 12 Goel, Atharva          MRLC436Y   519   537/ 23  W29 L7  W23 L9  W26 3.0
+ 13 Venkatesan, Nithilan   LMACA95X   504   514/ 13  W25 L9  W31 L3  W23 3.0
+ 14 Dhameeja, Ved          GRRDJ98F   458   515/ 12  W30 L2  W26 W20 L6  3.0
+ 15 Pham, Ethan            RCCCG35R   406   461/ 14  WF  L3  W30 L5  W20 3.0
+ 16 Li, Jacob              CRIC132Q   437   466/ 56  L1  W27 D19 W21 L8  2.5
+ 17 Udelson, Wyatt         LAVBA96H   392   418/ 18  W33 L20 D6  L8  W22 2.5
+ 18 Badi, Shreya           MTWDK52A   300   359/  5  L20 L10 D29 W25 W30 2.5
+ 19 Huang, Derek           MEDC634K   200   441/  5  L11 W28 D16 L6  W29 2.5
+ 20 Luo, Vivienne          SHVB703P   571   516/ 15  W18 W17 L7  L14 L15 2.0
+ 21 Urali, Vijay           MEDB919P   406   444/ 34  W6  L4  W8  L16 L10 2.0
+ 22 Passmore, Mila         OPWC810A   400   429/ 10  W8  L6  W10 L11 L17 2.0
+ 23 Zhou, Evelyn           CHRCB89E   282   305/ 13  L9  W29 L12 W27 L13 2.0
+ 24 Adjei, Sami Yaw        BUSC432C   400   300/  9  L2  L30 BYE L26 W33 2.0
+ 25 Li, Bella              STTA917A   400   334/  9  L13 BYE L11 L18 W28 2.0
+ 26 Xu, Natalie            CNHB137A   100   428/  5  W10 L5  L14 W24 L12 2.0
+ 27 Ip, Evan               SOMDI14G   300   284/  5  L5  L16 W33 L23 W31 2.0
+ 28 Zhen, Liam             ISEB622V   421   343/ 43  L7  L19 W32 D30 L25 1.5
+ 29 Yuan, Kan Fei          SOMDE96J   300   214/  5  L12 L23 D18 W33 L19 1.5
+ 30 Urman, Benny           JDSAK25U   100   234/  5  L14 W24 L15 D28 L18 1.5
+ 31 Badi, Sanvi            MTWD151Y   300   151/  5  L3  W33 L13 L10 L27 1.0
+ 32 Ferrigni, Olivia       BRKCE65S   200   100/  3  L4  L8  L28 U   U   0.0
+ 33 Leung, Katherine       SOMD360H   300   100/  5  L17 L31 L27 L29 L24 0.0

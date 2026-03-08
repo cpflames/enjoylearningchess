@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wahi, Lakshya          EVJI664Z  1252  1269/135  L2  W4  W3  2.0
+  2 Edmond, Ivy            WWDED81E  1233  1255/248  W1  L3  W4  2.0
+  3 Zhu, Kevin             CSMC865U  1285  1250/300  L4  W2  L1  1.0
+  4 Yun, Daniel D          BCAAK87Z  1153  1150/204  W3  L1  L2  1.0

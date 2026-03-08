@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Anshus, Erik           SHMKD320   788   898/ 57  W3  W2  W4  3.0
+  2 Peterson, Kylan        MRDK175Q  1042   938/  6  W4  L1  W3  2.0
+  3 Richardson, Alexander  FERK217M   400   480/ 10  L1  W4  L2  1.0
+  4 Moreau, Zayden         VSTGB68M   749   648/ 11  L2  L3  L1  0.0

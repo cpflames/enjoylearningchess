@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hawkins, Holden        TYEI383Z   629   682/ 90  BYE W2  W3  3.0
+  2 Condit, Theo           TLIAJ39C   460   554/  9  W4  L1  W7  2.0
+  3 Gandham, Nihita        CAVB810C   427   518/ 15  W6  W5  L1  2.0
+  4 Zhang, Shengxin        CAVD303G   400   647/  3  L2  W7  W6  2.0
+  5 Mitra, Rishab          OPWC138L   400   400/ 34  D7  L3  BYE 1.5
+  6 Sakthivel, Oviya       SHSBG56A   581   513/ 17  L3  BYE L4  1.0
+  7 Ismail, Zaman          CMCCB70N   581   505/ 30  D5  L4  L2  0.5

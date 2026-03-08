@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Bhaskar, Vibhas        REJHA79F   897   908/138  U   U   U   W5  1.0
+  2 Venkatesan, Nimalan    VVMH701P   938   944/ 25  W11 U   U   U   1.0
+  3 Venkatesan, Nithilan   LCSCA95X   449   459/ 23  W12 U   U   U   1.0
+  4 Pai, Vihaan            CHADK17C  1250  1251/127  W5  U   U   U   1.0
+  5 Vijayakumar, Anvith    EABGD78U   615   613/ 47  L4  W10 U   L1  1.0
+  6 Mello E Souza, Daniel  SANCK88M   100   100/  5  U   U   D7  U   0.5
+  7 Gilliland, Johnny      SANBK89K   100   100/  5  U   U   D6  U   0.5
+  8 Kuberan, Pranet        LKWDK88R   243   233/  5  U   D9  U   U   0.5
+  9 Mello E Souza, Theo    SANEK89B   182   191/  5  U   D8  U   U   0.5
+ 10 Rossman, Hunter        SANE828P   321   307/ 26  U   L5  U   U   0.0
+ 11 Tripathi, Zoe          EVJGK89G  1110   586/  2  L2  U   U   U   0.0
+ 12 Jahani, Nikan          SNIEK89A   100   100/  5  L3  U   U   U   0.0

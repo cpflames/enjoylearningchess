@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Foltz, Karsten         MRIF306D   930   955/ 61  W4  W2  L3  2.0
+  2 Taylor, Ryder          HSCH385C   859   922/ 41  W3  L1  W4  2.0
+  3 Chevuri, Tattva        CBRDC06V   980   991/209  L2  W4  W1  2.0
+  4 Kan, Leanne            HSCC710K   915   840/ 45  L1  L3  L2  0.0

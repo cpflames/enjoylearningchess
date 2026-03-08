@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Carman, Leif           RICKB289  1348  1427/213  W2  D14 W10 W6  W3  4.5
+  2 Van, Ocean             CWHMK699  1600  1588/215  L1  W9  W11 W7  W5  4.0
+  3 Coghlan, Tomas         HHSMG445  1230  1279/189  D9  W12 W14 W5  L1  3.5
+  4 Kane, Callan           CWHKB00E  1157  1143/132  L13 W16 D15 W10 W9  3.5
+  5 Zavala, Joel           CWHMC715  1260  1257/203  W8  W11 W7  L3  L2  3.0
+  6 Piedra, Daniel         CWHLD502  1177  1146/245  L18 W17 W12 L1  W11 3.0
+  7 Perez, Osvaldo         CWHJI537  1037  1037/215  W16 W13 L5  L2  W12 3.0
+  8 Esquivel, George       CWHKD456   906   941/198  L5  L10 W17 W15 W14 3.0
+  9 Haase, Seth            PASLK99B  1442  1335/ 10  D3  L2  W13 W14 L4  2.5
+ 10 Gasca, Brian           CWHM268Y  1059  1017/112  L12 W8  L1  L4  W15 2.0
+ 11 Villegas, Jovanny      CWHK220P   974   968/ 38  W15 L5  L2  W13 L6  2.0
+ 12 Lopez, Maya            CWHJ3058   614   693/ 81  W10 L3  L6  W16 L7  2.0
+ 13 St. Hilaire, Paddy     TCPM9738   537   686/ 10  W4  L7  L9  L11 W16 2.0
+ 14 Stillwell, Berrett     CWHJ4015  1245  1185/190  W17 D1  L3  L9  L8  1.5
+ 15 Chang, Kaya            TCPJI97M   900   712/  4  L11 BYE D4  L8  L10 1.5
+ 16 Rodriguez, YesseniafariCWHM272P   400   400/  6  L7  L4  BYE L12 L13 1.0
+ 17 Medrano, CesarhernandezCWHJJ72S   400   400/  7  L14 L6  L8  BYE U   1.0
+ 18 Pantoja, Omar          CWHKI56D   872   928/ 21  W6  U   U   U   U   1.0

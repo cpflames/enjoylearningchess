@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lin, Michael           BCACC97F  1586  1580/214  W3  L2  W4  2.0
+  2 Pisan, Kai             CHYH404C  1409  1421/220  D4  W1  L3  1.5
+  3 Han, Matthew           BISI5262  1380  1399/284  L1  D4  W2  1.5
+  4 Zhou, Yuchen           BCACJ42H  1480  1457/388  D2  D3  L1  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kuzin, Ethan           SHMJ7567  1162  1250/196  W3  W4  W2  3.0
+  2 Bosch, Ethan           SHMMF67U  1164  1187/  9  W4  W3  L1  2.0
+  3 Lewis, Theo            FERKK29P  1061  1011/ 10  L1  L2  D4  0.5
+  4 Nipges, Jaxon          HORI382B  1074  1037/ 44  L2  L1  D3  0.5

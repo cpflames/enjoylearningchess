@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Joshi, Atharva         PLKI1352  1551  1661/230  W9  W5  W4  W7  W3  W10 6.0
+  2 Yuen, Noah Nathani     UNKH977X   700  1646/  6  L3  W6  W8  W4  W7  W9  5.0
+  3 Devadithya, Hiruna     PFCH5494  1546  1556/574  W2  L4  W10 W9  L1  W7  4.0
+  4 Chen, Angela           ADDIB334  1600  1586/256  BYE W3  L1  L2  W8  D5  3.5
+  5 Sankar, Abhay          LEOH6545  1583  1564/309  W10 L1  D7  HPB W9  D4  3.5
+  6 Borden, Hugh           IMSH596M   928   996/ 39  L7  L2  L9  BYE W10 W8  3.0
+  7 Tran, Nugen            EVIG455Z  1436  1422/305  W6  W8  D5  L1  L2  L3  2.5
+  8 Sood, Akul             SASH510U  1162  1133/ 94  WF  L7  L2  W10 L4  L6  2.0
+  9 Morse, Frank           HSOIW762  1000  1000/162  L1  L10 W6  L3  L5  L2  1.0
+ 10 Borden, Derek          IMSH915P  1130  1084/ 43  L5  W9  L3  L8  L6  L1  1.0

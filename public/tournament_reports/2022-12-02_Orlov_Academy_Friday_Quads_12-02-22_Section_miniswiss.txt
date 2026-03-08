@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Khante, Rishi          LEOIK674   761   819/ 26  W5  W2  W3  3.0
+  2 Doronin, Victor        BMNF335T   639   629/ 11  W4  L1  W6  2.0
+  3 Jang, Jinwon           VIEF561P   534   584/  6  W6  W5  L1  2.0
+  4 Thoren, Luke           BRBB969Y   400   300/  6  L2  D6  D5  1.0
+  5 Wilson, Alexander      VIEEH91F   534   423/  6  L1  L3  D4  0.5
+  6 Rajan, Samvid          REEBK05K   100   247/  3  L3  D4  L2  0.5

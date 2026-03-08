@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xiong, Michael         MEDD115A  1411  1508/145  W4  W2  W3  3.0
+  2 Zhou, Yuchen           BCACJ42H  1431  1450/356  W3  L1  W4  2.0
+  3 Han, Matthew           BISI5262  1419  1380/281  L2  D4  L1  0.5
+  4 Siddem, Sid            RHJIC34V  1407  1371/357  L1  D3  L2  0.5

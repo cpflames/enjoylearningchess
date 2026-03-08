@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Willy, Stephen         HSCGH17K  1855  1869/451  W4  W2  W3  3.0
+  2 Boulis, Christos       RHJIC84T  1566  1597/517  W3  L1  W4  2.0
+  3 Seela, Shashank        SSMFI74N  1618  1602/119  L2  W4  L1  1.0
+  4 Xie, Max               BLWHI185  1501  1467/348  L1  L3  L2  0.0

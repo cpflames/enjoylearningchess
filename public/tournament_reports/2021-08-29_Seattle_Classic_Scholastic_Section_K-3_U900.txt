@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kantem, Samanvi        XXXDE31V   400  1261/  5  W2  W6  W12 W4  W5  5.0
+  2 Agrawal, Sakash        CLHCC98H   714   848/ 62  L1  W15 W11 W9  W10 4.0
+  3 Arunkumar, Ashwath     RSADH07X   861   878/ 40  HPB D5  W8  W13 D4  3.5
+  4 Vashisht, Aneesh       LKWDC30Y   791   850/ 15  W14 W8  W10 L1  D3  3.5
+  5 Ramprasad, Udbhav      EMDFG73Z   586   789/ 16  W11 D3  W17 W12 L1  3.5
+  6 Kannapiran, Arnav      OPWD983P   758   762/ 14  W15 L1  L9  W17 W12 3.0
+  7 Gajcowski, Devin       BETDA94Z   753   724/111  W9  L12 L13 W14 W15 3.0
+  8 Ramkumar, Nethra       RBRE315Z   615   655/ 70  W19 L4  L3  W16 W13 3.0
+  9 Velmurugan, Kiranya    CNCEB21J   426   542/ 13  L7  BYE W6  L2  W17 3.0
+ 10 Ong, Dylan             DCTC744T   719   688/ 16  D17 W16 L4  W18 L2  2.5
+ 11 Chang, Caden           UCDB260J   879   785/ 23  L5  W14 L2  L15 W18 2.0
+ 12 Priest, Kieran         CIOEU08S   835   798/160  W13 W7  L1  L5  L6  2.0
+ 13 Reddy, Ira             HSODU769   562   577/ 45  L12 W19 W7  L3  L8  2.0
+ 14 Choi, Sydney           EVGCD34F   499   489/ 53  L4  L11 BYE L7  W19 2.0
+ 15 Balchandani, Akira     PKRBF67P   448   541/ 21  L6  L2  W16 W11 L7  2.0
+ 16 Choi, Paige            EVGCD50E   639   533/ 57  D18 L10 L15 L8  BYE 1.5
+ 17 Slettebak, Jordan      XXXD604V   400   484/  5  D10 W18 L5  L6  L9  1.5
+ 18 Khambatti, Maxim       CNHC719W   400   400/  5  D16 L17 W19 L10 L11 1.5
+ 19 Gee, Nicolie           XXXC526H   400   400/  4  L8  L13 L18 BYE L14 1.0

@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Lekkala, Vihan         BLWD428L   869   991/104  W4  W9  W10 W2  W5  5.0
+  2 Sun, Yian              CRIC238S   872   918/ 34  W6  W8  W3  L1  W4  4.0
+  3 Ngu, Elliott           CGRD452U   953   947/ 51  W13 W11 L2  W10 W9  4.0
+  4 Harley, Daniel         MYADJ01A   448   637/ 19  L1  W16 W8  W7  L2  3.0
+  5 Corleto, Enzo          CTKDB11Z   645   704/ 10  W12 D7  D9  W6  L1  3.0
+  6 Huang, Jimmy           EVGD588B   505   593/ 25  L2  W14 W15 L5  W11 3.0
+  7 Arikatla, Ved Anush RedBRHCD38C   929   805/ 10  W17 D5  D13 L4  W10 3.0
+  8 Reffalt, Carbyn        ACKD184D   490   598/ 20  W11 L2  L4  W16 W13 3.0
+  9 Zhang, Justin          MEDD935G   607   635/ 22  W14 L1  D5  W13 L3  2.5
+ 10 Kim, Cassandra         CTKD500H   617   612/ 74  W16 W15 L1  L3  L7  2.0
+ 11 Larsen, Matthew        EVGB423L   704   631/ 11  L8  L3  W12 W17 L6  2.0
+ 12 Yuan, Edward           OERCK69S   481   444/ 28  L5  L13 L11 BYE W16 2.0
+ 13 Stubblebine, Bentley   OERBK70C   534   523/ 20  L3  W12 D7  L9  L8  1.5
+ 14 Walowitz, Annabelle    HARD959X   400   400/  2  L9  L6  BYE U   U   1.0
+ 15 Walowitz, Ezra         HARB346P   400   400/  2  U   L10 L6  BYE U   1.0
+ 16 Craigen, Eleanor       ACKD761U   433   400/ 33  L10 L4  D17 L8  L12 0.5
+ 17 Samaan, Sophia         CTKD702V   575   516/ 23  L7  U   D16 L11 U   0.5

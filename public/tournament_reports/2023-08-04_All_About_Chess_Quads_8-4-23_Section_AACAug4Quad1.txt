@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Rastogi, Atharv        APOF377H  1398  1419/ 92  W4  D2  W3  2.5
+  2 Kuan, Hans             GRREK32S  1106  1281/ 13  W3  D1  W4  2.5
+  3 Prashant, Niranjan     SNIF468K  1461  1411/ 91  L2  W4  L1  1.0
+  4 Narayan, Bhargav       EVJHD962  1108  1079/182  L1  L3  L2  0.0

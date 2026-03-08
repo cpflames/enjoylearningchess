@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yondon, Odbayar        LMAEK97T  1588  1644/118  W3  W4  W2  3.0
+  2 Liu, Yuntao            STTF505Y  1613  1597/267  W4  D3  L1  1.5
+  3 Shanmugam, Meera       SKWHD22Y  1458  1472/435  L1  D2  W4  1.5
+  4 Singh, Saket           DISJ872S  1434  1393/359  L2  L1  L3  0.0

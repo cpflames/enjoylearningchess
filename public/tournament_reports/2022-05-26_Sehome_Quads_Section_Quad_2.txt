@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Werner, Ross           SHMKB91H  1182  1228/ 52  W3  W5  L4  2.0
+  2 Dennis, Johnathon      SHMN183H  1505  1511/240  U   U   W5  1.0
+  3 Lewis, Rhys            SHMM8736  1373  1353/299  L1  W4  U   1.0
+  4 Bosch, Declan          FHVHE38K  1228  1208/ 38  L5  L3  W1  1.0
+  5 Macgregor, Matthew     SHMK1137  1166  1168/ 94  W4  L1  L2  1.0

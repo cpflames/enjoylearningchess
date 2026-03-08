@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhou, Nathan           NJHH215X  1330  1409/ 32  W4  W3  D2  2.5
+  2 Gone, Varshith         MH1KX44E  1343  1393/ 13  W3  D4  D1  2.0
+  3 Zhao, Dennis           CGRG525E  1348  1334/258  L2  L1  W4  1.0
+  4 Karri, Aditya          AUDEC55V  1442  1388/209  L1  D2  L3  0.5

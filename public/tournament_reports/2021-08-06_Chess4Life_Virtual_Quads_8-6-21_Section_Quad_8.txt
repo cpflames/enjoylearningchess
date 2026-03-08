@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 To, Calvin             REEDI10D  1202  1218/329  L3  W4  W2  2.0
+  2 Tan, Nathan            UCDB412Y  1237  1244/ 66  W4  W3  L1  2.0
+  3 Thakur, Reet           CWAEJ84K  1077  1146/258  W1  L2  W4  2.0
+  4 Condit, Alex           TLIDB04F  1147  1083/ 68  L2  L1  L3  0.0

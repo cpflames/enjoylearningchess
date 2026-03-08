@@ -1,0 +1,57 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Salal, Zikrain         PFCGJ82Z  1159  1336/ 56  W51 W29 W20 W13 W8  5.0
+  2 Prashant, Niranjan     SNIF468K  1268  1347/ 19  W38 W19 W6  D3  W9  4.5
+  3 Ramaswamy, Rishi       OMSIS63U  1071  1242/ 72  W55 W34 W36 D2  W13 4.5
+  4 Bhargava, Saarth       STLHF29W  1177  1253/ 77  W39 W21 W7  L8  W18 4.0
+  5 Yeung, Tristan         TLMJD35U  1126  1208/ 80  W43 W23 L13 W39 W19 4.0
+  6 Aelion, Aya            HRMHF21D  1122  1225/ 39  W44 W31 L2  W24 W23 4.0
+  7 Dhawan, Viraj          BCAGI96U  1116  1195/ 45  W53 W24 L4  W25 W16 4.0
+  8 Asakura, Tomoaki       EACKK98T  1015  1247/  8  W54 W28 W45 W4  L1  4.0
+  9 Foltz, Karsten         HTNH306D  1266  1276/120  D22 W40 W17 W11 L2  3.5
+ 10 Wang, Eric             BCAE803M  1140  1157/ 57  D40 W46 L11 W32 W30 3.5
+ 11 Wakeman, Oliver        INLJG10Y  1047  1152/ 64  D45 W47 W10 L9  W28 3.5
+ 12 Rinehart, Hank         BALJA30A   672   973/ 34  L20 W38 W29 W45 D17 3.5
+ 13 Xia, Yuchen            BLMJI52A  1278  1270/141  W37 W18 W5  L1  L3  3.0
+ 14 Lu, Jacob              BLMHI11F  1270  1233/295  L30 W51 W22 L19 W39 3.0
+ 15 Xiong, Lydia           REJHI43T  1257  1218/152  L23 W41 W49 L18 W38 3.0
+ 16 Han, Victor            HSCEB39P  1176  1169/ 91  L24 W44 W31 W20 L7  3.0
+ 17 Joshi, Vyom            LEOHH81X  1140  1131/ 88  D47 W32 L9  W46 D12 3.0
+ 18 Black, Stas            BCAE368F  1082  1121/ 79  W25 L13 W42 W15 L4  3.0
+ 19 Joshi, Arnav           PLKHJ24W  1080  1104/149  BYE L2  W43 W14 L5  3.0
+ 20 Kan, Kaleb             BLWEF53E  1071  1105/219  W12 W48 L1  L16 W40 3.0
+ 21 Balasubramanian, Kala  CNCE519Y  1060  1118/ 52  W33 L4  LF  W42 W44 3.0
+ 22 Marnadi, Ethan         RSAGE62G  1032  1120/ 37  D9  W26 L14 D40 W34 3.0
+ 23 Chintalapudi, Srihaan  CNCF662W  1029  1125/101  W15 L5  W48 W36 L6  3.0
+ 24 Syal, Yash             CDIEC10R   987  1100/ 75  W16 L7  W27 L6  W36 3.0
+ 25 Thungathurthi, PranavarINGGG82R   879   973/ 26  L18 W37 WF  L7  W45 3.0
+ 26 Kedarisetty, Ishan     RCSF300B  1199  1151/133  D46 L22 L32 W47 W48 2.5
+ 27 Gagnier, Ian           HSCEC72H  1146  1101/131  L52 W53 L24 W43 D31 2.5
+ 28 Cheng, Alan            CHREJ71K  1127  1114/ 59  W42 L8  W52 D30 L11 2.5
+ 29 Qiu, Travis            MMEFF47M  1051  1029/ 58  W56 L1  L12 W53 D33 2.5
+ 30 Lee, Justin            CNLG732V  1044  1066/ 19  W14 L36 W33 D28 L10 2.5
+ 31 Trochesset, David      ENSGG98F  1002  1049/ 53  W35 L6  L16 W48 D27 2.5
+ 32 Kamidi, Anish Reddy    OMSG626K   979  1018/ 19  HPB L17 W26 L10 W46 2.5
+ 33 Lindquist, Eric        LCOMK95G  1200  1009/  5  L21 W50 L30 W49 D29 2.5
+ 34 Liang, Wen             JINDF53X  1183  1123/ 63  W50 L3  L39 W51 L22 2.0
+ 35 Dong, Tristan          MRLDF90V  1180  1090/ 37  L31 L43 L44 W55 W53 2.0
+ 36 Chaurasia, Vihaan      HMNFH65G  1138  1104/115  W41 W30 L3  L23 L24 2.0
+ 37 Vutukuri, Niharika     REJGB12L  1047   994/ 53  L13 L25 L53 W56 W52 2.0
+ 38 Anand, Lakshana        RSAEC68H  1040  1012/ 45  L2  L12 W56 W52 L15 2.0
+ 39 Figatner, Jonathan     LKDE165L   998   992/  9  L4  W56 W34 L5  L14 2.0
+ 40 Zhang, Kyrene          LKDEC84Y   936   970/171  D10 L9  W54 D22 L20 2.0
+ 41 Tamanaha, Ryden        BLWF132N   934   909/ 34  L36 L15 L51 WF  W49 2.0
+ 42 Kedarisetty, Shreyas   INGGH60G   923   938/125  L28 W54 L18 L21 W51 2.0
+ 43 Xu, Alex               EMSG500U   916   942/ 86  L5  W35 L19 L27 W50 2.0
+ 44 Tandon, Ayaan          CRKEG07U   906   939/ 25  L6  L16 W35 W50 L21 2.0
+ 45 Zhao, Dennis           OPWG525E  1281  1187/286  D11 W52 L8  L12 L25 1.5
+ 46 Morehead, Nate         BUSGI54F  1003   977/106  D26 L10 W47 L17 L32 1.5
+ 47 Miller, Chloe          LSSJ2385   944   916/121  D17 L11 L46 L26 W55 1.5
+ 48 Juluri, Hasini         OMSJ290Z  1208  1105/ 39  W49 L20 L23 L31 L26 1.0
+ 49 Ngu, Elliott           CGRF452U  1005   927/ 76  L48 W55 L15 L33 L41 1.0
+ 50 Zhang, Michael         CMCED83W  1002   911/ 27  L34 L33 W55 L44 L43 1.0
+ 51 Deshpande, Keshav      WOBF420G   964   930/ 66  L1  L14 W41 L34 L42 1.0
+ 52 Olson, Benjamin        BLCHG50S   957   919/133  W27 L45 L28 L38 L37 1.0
+ 53 Kossuri, Neil          CNCF696L   904   882/ 42  L7  L27 W37 L29 L35 1.0
+ 54 Tiblow, Josiah         TBHLU34B  1229  1020/  8  L8  L42 L40 LF  U   0.0
+ 55 Huang, Joanna          OPWFD12V   552   530/ 34  L3  L49 L50 L35 L47 0.0
+ 56 Wun, Kaden             SOMFK95F   500   589/  4  L29 L39 L38 L37 U   0.0

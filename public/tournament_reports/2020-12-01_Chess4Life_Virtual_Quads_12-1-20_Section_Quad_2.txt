@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Rackoff, Dylan         BLWD507J   763   872/ 65  W4  W5  W3  3.0
+  2 Chen, Nicholas         HSCFI22V   520   660/ 14  W6  D3  W4  2.5
+  3 Hawkins, Holden        TYEI383Z   883   848/117  W5  D2  L1  1.5
+  4 Kunimoto, Jonah        CBRD700F   600   579/ 24  L1  W6  L2  1.0
+  5 Vikram, Anirudh        EDVDG57Q   647   611/  6  L3  L1  W6  1.0
+  6 Grigorenko, Yana       FRWBA39N   400   400/ 34  L2  L4  L5  0.0

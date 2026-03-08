@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Harry              SSSDG30G   957  1065/262  W2  W4  W3  3.0
+  2 He, Oliver             CRICK71V   932   959/145  L1  W3  W4  2.0
+  3 Singhi, Rohan          BRHDH01P   897   881/ 67  W4  L2  L1  1.0
+  4 Fang, Weiai            THRC696W   907   835/129  L3  L1  L2  0.0

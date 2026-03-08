@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 To, Donovan            REEG239L  1522  1611/211  W3  W4  W2  3.0
+  2 Boulis, Christos       RHJHC84T  1516  1521/366  W4  D3  L1  1.5
+  3 Wang, Daniel           LMSI8287  1540  1540/490  L1  D2  W4  1.5
+  4 Aski, Kabir            CNHHG340  1539  1483/381  L2  L1  L3  0.0

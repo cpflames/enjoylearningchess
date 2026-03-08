@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Patel, Aarya           REEEK30E  1070  1133/ 37  WF  W2  W4  3.0
+  2 Yakkali, Karthik VedantKKNF301E  1109  1149/ 61  W4  L1  W3  2.0
+  3 Yun, Daniel D          BCABK87Z  1269  1247/281  LF  W4  L2  1.0
+  4 Tian, Eric             SOMEI80S  1130  1063/110  L2  L3  L1  0.0

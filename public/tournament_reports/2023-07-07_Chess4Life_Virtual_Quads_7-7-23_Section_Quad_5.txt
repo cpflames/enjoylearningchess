@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sreraman, Rahul        BCACJ42L  1101  1143/132  W3  W2  U   2.0
+  2 Yin, Daniel            ISSL116Y  1029  1035/361  U   L1  W3  1.0
+  3 Tsai, Adam             DISHB02H  1037   988/ 68  L1  U   L2  0.0

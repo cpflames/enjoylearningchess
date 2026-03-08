@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Upreti, Parthavi       GTMG754L  1558  1627/173  W2  W4  W3  3.0
+  2 Routray, Nirmalya      INGHD06K  1503  1528/367  L1  W3  W4  2.0
+  3 Cha, Samuel            BASFK18Z  1549  1527/202  W4  L2  L1  1.0
+  4 Sinha, Agastya         HSCDA75C  1492  1442/150  L3  L1  L2  0.0

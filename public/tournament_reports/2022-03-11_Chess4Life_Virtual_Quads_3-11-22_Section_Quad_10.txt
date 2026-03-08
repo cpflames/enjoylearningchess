@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sumanaseni, Evan       CNHF876D   642   713/171  W3  U   W2  2.0
+  2 Sembium, Aditi         BCABK25W   660   663/ 40  U   W3  L1  1.0
+  3 He, Oliver             CRIBK71V   711   639/ 35  L1  L2  U   0.0

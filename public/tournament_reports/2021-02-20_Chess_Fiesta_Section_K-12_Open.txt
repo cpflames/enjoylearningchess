@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Grabinsky, Joshua      HSOMQ792  2321  2332/509  W5  W3  W2  W4  W6  5.0
+  2 Cheng, Edward          WMSIC74W  1719  1717/209  W4  W7  L1  D3  W5  3.5
+  3 Cheng, Kairui          CPJI563X  1357  1431/ 62  W6  L1  W7  D2  BYE 3.5
+  4 Hoe, Marcus            LEOG389Q  1282  1285/166  L2  BYE W5  L1  L7  2.0
+  5 Marcelia, David        CPBLK21F  1473  1448/ 30  L1  W6  L4  BYE L2  2.0
+  6 Vo, Dylan              MRRKK92D  1430  1359/  9  L3  L5  BYE W7  L1  2.0
+  7 Kandhare, Ojas         INTJJ90T  1228  1227/ 27  BYE L2  L3  L6  W4  2.0

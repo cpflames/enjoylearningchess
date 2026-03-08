@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chevuri, Tattva        CBRDC06V  1055  1048/177  W3  W2  L4  2.0
+  2 Kim, Scott             SSMJD025  1001   982/ 60  W4  L1  D3  1.5
+  3 Rackoff, Dylan         BLWD507J   897   898/123  L1  W4  D2  1.5
+  4 Yuen, Otto Shing-lok   KSHEF34N   732   758/248  L2  L3  W1  1.0

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Deng, Lily             CJEH5007  1802  1839/295  W3  W5  W2  3.0
+  2 Khalil, Tayseer        ADUN773K  1868  1857/ 27  W6  W4  L1  2.0
+  3 Lopez, Angel           ADUN495K  1300  1703/  3  L1  W6  W4  2.0
+  4 Melville, Derek        ADUN391C  1300  1539/  3  W5  L2  L3  1.0
+  5 Chung, Ethan           LIBE108U  1531  1515/282  L4  L1  W6  1.0
+  6 Deng, Stanley          CGMCK22E  1388  1363/124  L2  L3  L5  0.0

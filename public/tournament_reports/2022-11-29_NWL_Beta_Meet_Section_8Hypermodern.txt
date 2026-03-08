@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zender, Levi           MRDME540   487   629/ 12  W6  W3  W2  3.0
+  2 Moors, Samuel          BLNIH93D   443   490/  9  W7  W5  L1  2.0
+  3 Qureshi, Danish        BLEFF36V   438   462/ 35  W8  L1  W5  2.0
+  4 Wright, Makayla        MRDLK32N   426   452/  6  L5  W7  W6  2.0
+  5 Phillips, Lucas        BLHK696K   541   448/  6  W4  L2  L3  1.0
+  6 Mohd, Mariam           BLHKH85N   400   339/  6  L1  W8  L4  1.0
+  7 Mulryan, Brianna       BLHLI21M   400   317/  6  L2  L4  W8  1.0
+  8 Rabadan, Oscar         MRDM462G  1200   100/  3  L3  L6  L7  0.0

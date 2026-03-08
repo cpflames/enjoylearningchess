@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Taylor, Ryder          KAMJ385C   961   982/261  W4  L2  W3  2.0
+  2 He, Oliver             CRICK71V   943   970/128  L3  W1  W4  2.0
+  3 Tian, Eric             SOMEI80S   996   982/ 48  W2  D4  L1  1.5
+  4 Sreraman, Rahul        BCACJ42L   880   846/ 70  L1  D3  L2  0.5

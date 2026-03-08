@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Meiyalagan, Ruban Sai  WLDFD10L  1696  1705/182  W11 W6  D3  W4  W2  4.5
+  2 Koppala, Sambhav       GRSFG20G  1149  1411/ 92  W4  W7  W5  W3  L1  4.0
+  3 Xiong, Michael         MEDD115A  1561  1566/204  W8  W5  D1  L2  W7  3.5
+  4 Huang, Emily           MEDFB39A  1361  1371/208  L2  W9  W11 L1  W10 3.0
+  5 Wu, Derek              MEDE902D  1375  1384/ 64  W10 L3  L2  W6  W9  3.0
+  6 Li, Austin A           ENDF438B  1329  1348/ 72  W12 L1  W7  L5  W11 3.0
+  7 Wang, Hanbin           MEDFE90D  1467  1419/285  W9  L2  L6  W8  L3  2.0
+  8 Fu, Victor             MEDEA08K  1204  1186/ 89  L3  W10 L9  L7  W12 2.0
+  9 Xu, Zoe                CNHCG70A  1193  1184/108  L7  L4  W8  W12 L5  2.0
+ 10 Yang, Yuchang          ILCEK16L  1135  1129/ 50  L5  L8  W12 W11 L4  2.0
+ 11 Zhu, Kevin             CSMC865U  1296  1229/251  L1  W12 L4  L10 L6  1.0
+ 12 Wu, Aiden              MEDC740A   400   731/  5  L6  L11 L10 L9  L8  0.0

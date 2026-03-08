@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kim, Dylan             SCDCK38L  1104  1131/ 71  W15 W12 W4  W2  L3  4.0
+  2 Kakkad, Vayu           BRYAK50L  1087  1099/265  W13 W9  W8  L1  W6  4.0
+  3 Wang, Derek            MEDCF70G  1200  1187/108  L16 W6  W5  W7  W1  4.0
+  4 Guduru, Agasthya       EMDC500V  1053  1039/ 45  W14 D5  L1  W16 W8  3.5
+  5 Smith, Cole            DCTDH52J   740   810/ 89  W18 D4  L3  W10 W12 3.5
+  6 Chang, Caden           UCDA260J   400   904/  5  W7  L3  W19 W12 L2  3.0
+  7 Don, Benjamin          MEDC861Q   708   734/ 69  L6  W18 W9  L3  W14 3.0
+  8 Lekkala, Vihan         BLWD428L   918   909/114  W17 W16 L2  W13 L4  3.0
+  9 Houdek, Tristan        MCGD711J   615   663/ 37  W19 L2  L7  W18 W13 3.0
+ 10 Kim, Cassandra         CTKD500H   510   527/ 84  L12 W15 D16 L5  W18 2.5
+ 11 Golden, Connor         HSCB762W   400   566/  4  U   L14 D17 W19 W16 2.5
+ 12 Jain, Nipun            BCABA64P   400   669/  5  W10 L1  W14 L6  L5  2.0
+ 13 Hong, Sidney           MCGD478H   792   741/ 38  L2  W17 W15 L8  L9  2.0
+ 14 Vasquez, Mateo         MCUBK26G   473   501/ 35  L4  W11 L12 W17 L7  2.0
+ 15 Craigen, Eleanor       ACKD761U   404   404/ 41  L1  L10 L13 BYE W19 2.0
+ 16 Banuelos, Arturo       MCUCD90C   567   578/ 69  W3  L8  D10 L4  L11 1.5
+ 17 Pheysey, Jackson       CRPBE81Y   400   400/  4  L8  L13 D11 L14 BYE 1.5
+ 18 Desai, Rian            SCDB335Q   400   400/  4  L5  L7  BYE L9  L10 1.0
+ 19 Nelson, Miloe          CRPA915Y   400   400/  4  L9  BYE L6  L11 L15 1.0

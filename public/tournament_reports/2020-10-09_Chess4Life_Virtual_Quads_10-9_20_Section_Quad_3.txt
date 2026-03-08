@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhou, Yuchen           BCABJ42H  1317  1351/191  W4  W2  D3  2.5
+  2 Zhang, Ethan           CLHEE87D  1256  1281/377  W3  L1  W4  2.0
+  3 Zhang, Aaron           CCDD873R  1271  1248/219  L2  D4  D1  1.0
+  4 Karri, Aditya          AUDDC55V  1223  1189/ 50  L1  D3  L2  0.5

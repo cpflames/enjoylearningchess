@@ -1,0 +1,27 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Patterson, Ben         VCVJI54X  1170  1243/ 38  W21 D14 W9  W6  W3  4.5
+  2 Reddy, Eshan           SGSG336Y  1358  1355/265  W12 W9  W4  L3  W7  4.0
+  3 Carper, Jack           LINIG86W  1343  1346/137  W13 W10 W8  W2  L1  4.0
+  4 Jones, Gideon          FIVF543G  1140  1150/ 67  W15 W5  L2  W13 W10 4.0
+  5 Bradford, Donovan      SGSG223K   673   861/123  W25 L4  W24 W8  W6  4.0
+  6 Knapton, Cole          HLHJI201  1337  1282/262  W20 W11 W7  L1  L5  3.0
+  7 Gustafson, Grant       SOXIG39V  1068  1052/ 65  W26 W16 L6  W15 L2  3.0
+  8 Bai, Kelin             PVEDD75J  1007   986/133  W17 W12 L3  L5  W14 3.0
+  9 Evans, Theo            MULE888W   915   916/114  W18 L2  L1  W23 W17 3.0
+ 10 Wang, Kelby            PVEB796Y   897   918/ 73  W23 L3  W17 W11 L4  3.0
+ 11 Hochheimer, Noah       SGSFF37G   873   873/152  W24 L6  W14 L10 W15 3.0
+ 12 Jones, Truman          FIVDH72L   492   558/ 40  L2  L8  W16 W22 W19 3.0
+ 13 Mckethen, Kristopher   SGSE354T   414   534/ 18  L3  W18 W23 L4  W20 3.0
+ 14 Knapton, Joshua        HLHHH807   774   775/235  W19 D1  L11 W16 L8  2.5
+ 15 Bradford, Vincent      SGSCI74D   400   458/  9  L4  BYE W19 L7  L11 2.0
+ 16 Shimizu, Mies          SGSD705R   400   400/  9  BYE L7  L12 L14 W25 2.0
+ 17 Bayer, Siena           SGSEJ12J   400   607/  5  L8  W25 L10 W24 L9  2.0
+ 18 Ji, Melody             SGSAA83X   400   400/  5  L9  L13 W26 D20 D23 2.0
+ 19 Hochheimer, Luca       SGSD179R   400   400/  5  L14 W26 L15 W21 L12 2.0
+ 20 Hall, Tyler            HLHHG09G   401   400/ 55  L6  L24 W25 D18 L13 1.5
+ 21 Bradford, Brandon      SGSC505M   400   400/  8  L1  L23 BYE L19 D24 1.5
+ 22 Jain, Asmi             SGSBB47J   400   400/  2  U   U   HPB L12 W26 1.5
+ 23 Perez, Nayeli          SGSC935L   400   400/  5  L10 W21 L13 L9  D18 1.5
+ 24 Wadikar, Naman         WAXA281F   400   400/  5  L11 W20 L5  L17 D21 1.5
+ 25 Stanton, Peter         SGSBK63T   400   400/  5  L5  L17 L20 W26 L16 1.0
+ 26 Khattry, Ishaan        SGSC650H   400   400/  5  L7  L19 L18 L25 L22 0.0

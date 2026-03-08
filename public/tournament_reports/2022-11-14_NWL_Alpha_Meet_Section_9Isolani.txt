@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Singh, Jagteshwar      MRDLJ25M   400   610/  9  W5  W3  W4  3.0
+  2 Emory, Lukas           LYEM112V   400   552/  6  W6  L4  W7  2.0
+  3 Greer, Nathan          LYEJ566W   900   710/  3  W7  L1  W5  2.0
+  4 Lee, Jensen            MRDJ947B   900   650/  3  W8  W2  L1  2.0
+  5 Phillips, Lucas        BLHK696K  1000   541/  3  L1  W6  L3  1.0
+  6 Danger, Presley        BLNG716S   896   626/  6  L2  L5  W8  1.0
+  7 Crediford, Nilay       HORIF28K   800   400/  3  L3  W8  L2  1.0
+  8 Moors, Samuel          BLNIH93D   800   400/  3  L4  L7  L6  0.0

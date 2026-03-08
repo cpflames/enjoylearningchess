@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Liu, Vincent           ILAC546Q  1057  1183/ 47  W2  W3  W4  3.0
+  2 Yu, Christopher        SPTG591U  1042  1084/ 75  L1  W4  W3  2.0
+  3 Desai, Dev             KKNHG63H  1010  1004/103  W4  L1  L2  1.0
+  4 Verretto, Dante        EMSIS76P  1148  1060/ 76  L3  L2  L1  0.0

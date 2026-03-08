@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Pillai, Ravi           SHSEB70K   882   995/ 75  W13 W9  W3  D6  W5  4.5
+  2 Chen, Felix Y          DISCA67A   847   863/ 46  L15 W17 W18 W9  W6  4.0
+  3 Wang, Hengsheen        EVGA704V   797   898/ 55  W18 W8  L1  W12 W7  4.0
+  4 Dewan, Siddhartha      THUFK95C   845   856/ 29  W17 W12 D5  L7  W11 3.5
+  5 Chen, Max Y            DISDK76L   745   835/ 46  W23 W20 D4  W8  L1  3.5
+  6 Li, Rebecca            BCABJ62B   714   809/ 96  W7  WF  W19 D1  L2  3.5
+  7 Elmieh, Niko           CRKD777E   888   879/ 30  L6  W11 W15 W4  L3  3.0
+  8 Rachiba, Alisa         EVPCK08E   870   833/ 10  W14 L3  W16 L5  W15 3.0
+  9 Karthik, Sai           BCAC261S   777   779/ 58  W22 L1  W10 L2  W16 3.0
+ 10 Raj, Skandha           EVGAK55U   484   663/ 40  L21 W13 L9  W14 W12 3.0
+ 11 Wu, Jonathan           UCDBK14H   636   672/ 28  HPB L7  W13 W19 L4  2.5
+ 12 Thanikonda, Kruti      RCSCK84W   740   674/ 62  WF  L4  W23 L3  L10 2.0
+ 13 Velichko, Ivan         ASAEK63Z   686   652/ 35  L1  L10 L11 W22 W19 2.0
+ 14 Condit, Theo           TLICJ39C   679   616/ 97  L8  L18 W17 L10 W22 2.0
+ 15 Chan, Jaxon            EASEK30M   646   645/ 30  W2  L19 L7  W18 L8  2.0
+ 16 Gong, Feifan           BCACK64U   577   556/ 25  L20 W22 L8  W23 L9  2.0
+ 17 Xu, William            DCTCK93M   574   532/ 67  L4  L2  L14 BYE W23 2.0
+ 18 Gong, Qifan            BCAAK65N   416   443/ 23  L3  W14 L2  L15 BYE 2.0
+ 19 Ting, Sophia           KSHCK64W   678   625/ 34  HPB W15 L6  L11 L13 1.5
+ 20 Mroz, Tyler            ORWEK08G   845   805/  7  W16 L5  U   U   U   1.0
+ 21 Fang, Weiai            THRC696W   803   827/155  W10 LF  U   U   U   1.0
+ 22 Hildenbrand, Jace      TCEE722T   400   347/ 66  L9  L16 BYE L13 L14 1.0
+ 23 Suresh, Smriti         CENFK06S   500   141/  4  L5  BYE L12 L16 L17 1.0

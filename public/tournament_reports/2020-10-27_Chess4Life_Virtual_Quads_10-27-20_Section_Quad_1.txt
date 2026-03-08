@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Willy, Stephen         MMEFH17K  1686  1695/294  W4  W2  W3  3.0
+  2 Kapur, Viraaj          RSACA71K  1118  1214/ 73  W3  L1  W4  2.0
+  3 Meiyalagan, Ruban Sai  WLDED10L  1464  1425/ 98  L2  W4  L1  1.0
+  4 Yu, Christopher        SPTG591U  1059  1037/102  L1  L3  L2  0.0

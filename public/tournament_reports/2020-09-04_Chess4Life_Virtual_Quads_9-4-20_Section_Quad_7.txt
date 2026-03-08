@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Vijayakrishnan, AchyuthPKRB646F   997  1067/ 11  W3  W2  U   2.0
+  2 Pravlik, Aiden         SHSB416H  1017  1017/ 92  U   L1  W3  1.0
+  3 Kaja, Arnav            LMAGB19Q  1016   962/162  L1  U   L2  0.0

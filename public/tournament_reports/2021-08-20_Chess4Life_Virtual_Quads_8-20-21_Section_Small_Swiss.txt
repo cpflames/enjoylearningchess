@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Vutukuri, Adhrith      RKWG326L   484   569/  9  D3  W5  W4  2.5
+  2 Pai, Vihaan            STVCK17C   400   740/  3  D6  W4  W3  2.5
+  3 Jain, Namit            EGMI472Z   800   572/  3  D1  W6  L2  1.5
+  4 Vijeyanandh, Vishnu    RSAFF63Z   510   492/ 30  W5  L2  L1  1.0
+  5 Lin, Kaylee            SPTE982R   400   400/  3  L4  L1  W6  1.0
+  6 Arvind, Malavi         ETSA123N   400   400/  6  D2  L3  L5  0.5

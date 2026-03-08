@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kang, Ayaan            ENSDI60T  1414  1502/220  WF  W3  L2  W4  W6  4.0
+  2 Probst, Aaron          CJSM8816  1679  1647/332  D6  W4  W1  L5  D3  3.0
+  3 Carman, Leif           RICKB289  1625  1595/243  WF  L1  D5  W6  D2  3.0
+  4 Senthil Kumar, KrishnapTMBI7364  1407  1405/320  W5  L2  W6  L1  D5  2.5
+  5 Gu, Aaron Xiao         EBSF412J  1190  1255/ 41  L4  L6  D3  W2  D4  2.0
+  6 Xia, Yuchen            BLMHI52A  1365  1354/113  D2  W5  L4  L3  L1  1.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jammalamadaka, Varnika OVLGD216  1729  1747/393  W3  W4  D2  2.5
+  2 Yang, Alexander        CHRED81J  1670  1701/179  W4  W3  D1  2.5
+  3 Beegala, Keshav        SHVEJ27V  1581  1576/160  L1  L2  W4  1.0
+  4 Boulis, Christos       RHJHC84T  1608  1562/418  L2  L1  L3  0.0

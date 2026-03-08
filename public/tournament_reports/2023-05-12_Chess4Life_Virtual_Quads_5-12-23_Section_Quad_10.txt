@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ghosh, Ishan           CRKF891Z   712   706/ 56  L3  W4  W2  2.0
+  2 Sardarli, Adnan        MISC671W   593   627/ 69  W4  W3  L1  2.0
+  3 Lechner, Ryker         HSCE496J   512   594/ 50  W1  L2  W4  2.0
+  4 Hooper, Thomas         CRNEK25G   529   460/ 16  L2  L1  L3  0.0

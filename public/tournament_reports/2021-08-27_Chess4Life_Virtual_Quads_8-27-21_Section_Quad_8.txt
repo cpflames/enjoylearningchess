@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Condit, Alex           TLIDB04F  1045  1067/ 74  W4  W3  L2  2.0
+  2 Mohan, Keshav          EGMGG24Z  1041  1064/ 56  L3  W4  W1  2.0
+  3 Zhu, Kevin             CSMB865U  1030  1056/197  W2  L1  W4  2.0
+  4 Stake, Charles         OESBM87Q  1015   944/ 44  L1  L2  L3  0.0

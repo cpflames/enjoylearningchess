@@ -1,0 +1,55 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Huttelmaier, Alex      CHRG218R   863  1039/160  W37 W23 W34 W7  W11 5.0
+  2 Varshney, Rohil        SKIIK30Y   800  1163/  5  W25 W6  W4  D11 W10 4.5
+  3 Ye, Alex               ENDDH51L   879   880/ 48  L23 W47 W26 W32 W31 4.0
+  4 Naveh, Ido             SOMDK63G   859   929/ 14  W24 W22 L2  W33 W12 4.0
+  5 Beegala, Dhruv         REEDC52Y   848   854/ 44  W47 W50 L21 W23 W32 4.0
+  6 Shannon, Liam          JINGK58J   733   854/136  W44 L2  W51 W13 W21 4.0
+  7 Yoon, Kun-woo          EMSHK30X   700  1037/  5  W18 W17 W14 L1  W19 4.0
+  8 Guthrie, William       NSTHK30W   700   965/  4  BYE W32 L11 W18 W16 4.0
+  9 Yakkali, Karthik VedantKKNF301E  1198  1184/ 20  U   W46 D25 W43 W22 3.5
+ 10 Sailer, Shaunak        OPWFC25Z   869   889/200  W36 W20 D12 W21 L2  3.5
+ 11 Su, Oliver             JINCD01U   815   887/ 80  W38 W51 W8  D2  L1  3.5
+ 12 Thaker, Ayaan          DISFJ51G   755   794/ 30  W54 W39 D10 W27 L4  3.5
+ 13 Wright, Teddy          THUFC60C   883   845/ 20  L27 W24 W35 L6  W33 3.0
+ 14 Wirkkala, Anders       HSCIK63F   867   830/ 10  W28 W35 L7  L19 W34 3.0
+ 15 Seth, Aaryav           EVJHI143   833   814/ 54  U   W48 L22 W38 W35 3.0
+ 16 Bikkula, Charan        BLMGJ23A   826   806/117  W48 L27 W28 W20 L8  3.0
+ 17 Gupta, Shivam          BLWF474W   757   737/ 77  W49 L7  W38 L22 W36 3.0
+ 18 Battula, Jeswanth Sri SICSHE96V   747   749/ 35  L7  W49 W44 L8  W40 3.0
+ 19 Qu, Yufei              TMBG250D   719   711/ 23  L51 W54 W50 W14 L7  3.0
+ 20 Jain, Khushal          EVJHK95B   626   682/ 10  W53 L10 W39 L16 W29 3.0
+ 21 Huttelmaier, Evelyn    CHRE757Z   572   716/138  W41 W29 W5  L10 L6  3.0
+ 22 Suresh, Mukund SrinivasGTMHK95A   572   705/ 20  W42 L4  W15 W17 L9  3.0
+ 23 Iroha, Kenzo           HSCEI18X   530   736/ 39  W3  L1  W29 L5  W30 3.0
+ 24 Shields, Conor         VOYFK51J   354   526/ 10  L4  L13 W53 W41 W43 3.0
+ 25 Srivastava, Manya      FRWF758W   645   669/ 53  L2  W52 D9  L29 W44 2.5
+ 26 Jungmeisteris, Gordon  BASEF88R   570   580/ 39  L43 W40 L3  D44 W45 2.5
+ 27 Velmurugan, Kiranya    CNCFB21J   560   736/ 21  W13 W16 D43 L12 U   2.5
+ 28 Zhang, Henry           CNHEA78F   400   465/  9  L14 W42 L16 D45 W46 2.5
+ 29 Cosentino, Alexander   TLMGG58C   869   779/ 48  W46 L21 L23 W25 L20 2.0
+ 30 Gaduputi, Thushitha    BRHFA81W   739   626/ 58  L50 L38 W42 W49 L23 2.0
+ 31 Siotia, Reyansh        ICSH413J   732   683/ 53  U   L44 W48 W51 L3  2.0
+ 32 Kim, Caiden            MAPFK94Z   710   678/ 29  W52 L8  W41 L3  L5  2.0
+ 33 Wang, Jacob Z          BLWEE71A   677   627/ 59  L39 W53 W45 L4  L13 2.0
+ 34 Jiang, Ethan           MEDF951L   694   714/ 23  W40 W43 L1  U   L14 2.0
+ 35 Dewan, Siddhartha      THUFK95C   590   584/ 14  W45 L14 L13 W50 L15 2.0
+ 36 Wright, Victoria       PTFFJ17P   516   497/ 38  L10 L45 W54 W39 L17 2.0
+ 37 Fetchero, Noelle       BLCE505H   394   385/ 65  L1  L41 W52 L40 W51 2.0
+ 38 Chu, Asher             JINEK94S   211   368/ 10  L11 W30 L17 L15 W53 2.0
+ 39 Jain, Ansh             BLWF875U   702   605/ 10  W33 L12 L20 L36 W47 2.0
+ 40 Ram, Rishay            INGHK30T   700   471/  5  L34 L26 W47 W37 L18 2.0
+ 41 Rappi, Daniel          TJFIK30S   800   483/  5  L21 W37 L32 L24 W50 2.0
+ 42 Li, Miles              AKKGK30R   600   301/  4  L22 L28 L30 BYE W49 2.0
+ 43 Jones, Maximillian     BFDDK87K   885   795/ 20  W26 L34 D27 L9  L24 1.5
+ 44 Say, Kaleb             AKKGK30Q   600   546/  5  L6  W31 L18 D26 L25 1.5
+ 45 Dortch, Miles          JINEK30P   400   406/  5  L35 W36 L33 D28 L26 1.5
+ 46 Dhole, Ahilya          PLKHA94T   458   381/ 23  L29 L9  L49 W54 L28 1.0
+ 47 Kuo, Kimi              CLHF600H   315   295/ 14  L5  L3  L40 W52 L39 1.0
+ 48 Wirkkala, Lawson       HSCEK63V   314   261/ 10  L16 L15 L31 L53 W54 1.0
+ 49 Kannappan, Satvika     EVJGK45P   100   166/  9  L17 L18 W46 L30 L42 1.0
+ 50 Phan, Thien            AKKIK30N   800   391/  5  W30 L5  L19 L35 L41 1.0
+ 51 Chan, Jaxon            EASEK30M   400   457/  5  W19 L11 L6  L31 L37 1.0
+ 52 Gravina, Timothy       XXXFK30L   500   100/  4  L32 L25 L37 L47 BYE 1.0
+ 53 Mansfield, Jared       AKKGK30J   600   271/  5  L20 L33 L24 W48 L38 1.0
+ 54 Alm, Maya              AKKHK30H   700   100/  5  L12 L19 L36 L46 L48 0.0

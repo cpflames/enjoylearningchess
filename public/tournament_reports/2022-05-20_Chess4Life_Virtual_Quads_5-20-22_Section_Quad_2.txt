@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xiang, Herui           LWAL153Y  1506  1540/ 51  W3  W4  W2  3.0
+  2 Singh, Saket           DISI872S  1380  1378/335  D4  W3  L1  1.5
+  3 Zhao, Dennis           CGRF525E  1298  1292/230  L1  L2  W4  1.0
+  4 Sinha, Agastya         HSCCA75C  1301  1273/ 54  D2  L1  L3  0.5

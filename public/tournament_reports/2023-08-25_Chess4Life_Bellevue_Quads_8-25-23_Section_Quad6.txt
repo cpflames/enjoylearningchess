@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ambardekar, Arjun      WLDDZ96E   512   537/ 25  W2  L4  W3  2.0
+  2 Hildenbrand, Jace      TCEE722T   453   513/ 87  L1  W3  W4  2.0
+  3 Tsen, Eric             AGBCK18P   541   495/ 45  W4  L2  L1  1.0
+  4 Nabeel, Humza          HSCAK50Y   460   435/  9  L3  W1  L2  1.0

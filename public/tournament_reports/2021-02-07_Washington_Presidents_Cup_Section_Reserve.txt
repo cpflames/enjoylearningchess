@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Vasey, Daniel          ADONP68N  1713  1709/ 10  W7  W2  W5  D3  W4  4.5
+  2 Takayoshi, Evan        UNKME25R  1202  1421/ 10  W15 L1  W10 W6  W3  4.0
+  3 Razmov, Gabriel        CSIFC26K  1278  1399/ 75  W8  W10 W4  D1  L2  3.5
+  4 Cheng, Selina          THUD413R  1298  1345/177  W12 W9  L3  W5  L1  3.0
+  5 Shen, Lixing           CMCFC15C  1462  1466/418  W11 W6  L1  L4  W9  3.0
+  6 Verma, Darsh           WONEB52K  1511  1486/ 86  W14 L5  W8  L2  W10 3.0
+  7 Ehrenberg, Joshua      HCCKH373  1155  1188/124  L1  W14 W11 L9  W12 3.0
+  8 Dhillon, Rohan         LMSI6836  1279  1275/197  L3  W13 L6  W15 W14 3.0
+  9 Kamel, Yaseen          PFCID57L  1270  1259/ 64  HPB L4  WF  W7  L5  2.5
+ 10 Kang, Ayaan            ENSDI60T  1401  1363/205  W13 L3  L2  W11 L6  2.0
+ 11 Mathur, Aashi          CRKF522S  1311  1261/194  L5  W12 L7  L10 BYE 2.0
+ 12 Ruff, Lois             ADUNJ90S  1154  1122/ 70  L4  L11 BYE W13 L7  2.0
+ 13 Yin, Zhida             IHSJ137G   900  1015/  5  L10 L8  W14 L12 W15 2.0
+ 14 Reddy, Ira             HSOCU769   503   498/ 13  L6  L7  L13 BYE L8  1.0
+ 15 Hawkins, Holden        TYEI383Z  1199  1135/180  L2  BYE LF  L8  L13 1.0

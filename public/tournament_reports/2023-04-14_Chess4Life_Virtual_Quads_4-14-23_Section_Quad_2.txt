@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tiwari, Prakhar        TMBJ785R  1445  1500/ 73  W4  W3  W2  3.0
+  2 Zakonov, Pasha         BCAJJ63K  1392  1365/ 74  L3  W4  L1  1.0
+  3 Karri, Aditya          AUDEC55V  1334  1319/299  W2  L1  L4  1.0
+  4 Zhang, Aaron           MEDF873R  1274  1273/499  L1  L2  W3  1.0

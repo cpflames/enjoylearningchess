@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chaturvedi, Raghav     EGBFK75J   773   870/ 80  W4  W2  D3  2.5
+  2 Wang, Jacob            MMEDD74Y   801   831/ 30  W3  L1  W4  2.0
+  3 Kakkad, Vayu           BRYBK50L   781   788/153  L2  W4  D1  1.5
+  4 Rapolu, Sai Tejasvi    BCAEG86E   819   732/116  L1  L3  L2  0.0

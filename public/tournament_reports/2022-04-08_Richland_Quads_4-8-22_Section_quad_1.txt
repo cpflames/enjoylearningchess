@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Khalil, Tayseer        ADUN773K  1787  1818/ 69  W5  W2  W3  3.0
+  2 Chung, Ethan           LIBF108U  1610  1615/330  W6  L1  W4  2.0
+  3 Dillingham, Gregg      ADUNH327  1775  1757/152  D4  W5  L1  1.5
+  4 Margiotta, Evan        ADUN922M  1473  1478/ 22  D3  W6  L2  1.5
+  5 Palm, Caleb            LIBI919S  1560  1546/180  L1  L3  W6  1.0
+  6 Spletstoser, Eric      ADONL820  1300  1081/  3  L2  L4  L5  0.0

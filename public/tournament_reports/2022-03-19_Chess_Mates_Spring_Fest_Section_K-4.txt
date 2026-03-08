@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wang, Kelby            PVEB796Y   857   897/ 68  D6  W8  W4  D2  W3  4.0
+  2 Sailer, Shaunak        ENAEC25Z   841   866/143  W5  W4  D3  D1  W7  4.0
+  3 Li, Moses              CDWCK26L   668   714/ 40  W9  W7  D2  W5  L1  3.5
+  4 Sembium, Aditi         BCABK25W   663   715/ 45  W8  L2  L1  W6  W9  3.0
+  5 Helmstetter, Andre     BAGEK60F   543   536/ 75  L2  BYE W9  L3  D6  2.5
+  6 Chung, Ian             LIBCG54U   633   590/ 55  D1  L9  W7  L4  D5  2.0
+  7 Einarson, Aiden        CWADD84D   445   432/ 57  BYE L3  L6  W9  L2  2.0
+  8 Udziela, Henry         EVGEE71H   871   798/ 86  L4  L1  BYE U   U   1.0
+  9 Fang, Weiai            BRBB696W   400   400/  5  L3  W6  L5  L7  L4  1.0

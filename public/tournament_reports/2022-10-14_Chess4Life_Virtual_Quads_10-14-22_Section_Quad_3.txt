@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dai, Alex              CHREC43N  1273  1385/ 95  W3  W2  W4  3.0
+  2 Stein, Benjamin        HSCDB61S  1327  1299/236  L4  L1  W3  1.0
+  3 Xu, Zoe                SOMDG70A  1293  1273/164  L1  W4  L2  1.0
+  4 Zhu, Kevin             CSMD865U  1253  1242/312  W2  L3  L1  1.0

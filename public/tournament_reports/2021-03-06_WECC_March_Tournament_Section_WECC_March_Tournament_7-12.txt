@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Carman, Leif           RICKB289  1650  1669/226  W12 W19 W3  W4  W5  5.0
+  2 Nune, Navaj            LLMIF09F  1111  1124/ 55  L13 W20 W18 W10 W4  4.0
+  3 Gasca, Brian           CWHM268Y  1166  1210/122  W17 W7  L1  W9  D6  3.5
+  4 Villasenor, Daniel     CWHL1607   950  1086/ 99  W14 W10 W9  L1  L2  3.0
+  5 Coghlan, Tomas         HHSMG445  1298  1290/199  L10 W12 W7  W6  L1  3.0
+  6 Piedra, Daniel         CWHLD502  1132  1157/255  D11 W13 W8  L5  D3  3.0
+  7 Villegas, Jovanny      CWHK220P   968  1045/ 48  W15 L3  L5  W18 W14 3.0
+  8 Mendoza, Oscar         MCUHI229  1343  1299/242  L19 W11 L6  W15 W12 3.0
+  9 Cryan, Kenneth         CMLH3456  1097  1076/ 97  W20 W18 L4  L3  W13 3.0
+ 10 Thallapally, Srithan   LECHF86Y   986  1055/ 55  W5  L4  W14 L2  D15 2.5
+ 11 Mendoza, Leonardo      OCHH1126   931   966/239  D6  L8  L12 W20 W17 2.5
+ 12 Martinez, Ricky        OCHHC794  1064  1074/200  L1  L5  W11 W16 L8  2.0
+ 13 Motkuri, Advaitha      LLMIJ68F   879   913/ 65  W2  L6  L17 W19 L9  2.0
+ 14 Kane, Callan           CWHKB00E  1167  1098/142  L4  W16 L10 W17 L7  2.0
+ 15 Lopez, Benjamin        CWHMD107  1222  1160/218  L7  D17 W19 L8  D10 2.0
+ 16 Pantoja, Omar          CWHKI56D   906   897/ 30  U   L14 W20 L12 W18 2.0
+ 17 Esquivel, George       CWHKD456   941   931/203  L3  D15 W13 L14 L11 1.5
+ 18 Guizar, Kevin          OCHHI02P   426   418/ 19  BYE L9  L2  L7  L16 1.0
+ 19 Perez, Osvaldo         CWHJI537  1032  1022/224  W8  L1  L15 L13 U   1.0
+ 20 Padilla, Josearias     OCHI888V   846   781/ 14  L9  L2  L16 L11 U   0.0

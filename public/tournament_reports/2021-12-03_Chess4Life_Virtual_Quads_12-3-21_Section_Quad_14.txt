@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mills, Paxson          HSCFI32D   593   607/ 25  W4  L3  W2  2.0
+  2 Pramod, Bhadra         BRHGH81D   545   576/ 12  W3  W4  L1  2.0
+  3 Shaikot, Sabeer        XXXD147Q   530   505/ 38  L2  W1  L4  1.0
+  4 Lahue, Ihsan           GRRGJ69P   507   489/ 59  L1  L2  W3  1.0

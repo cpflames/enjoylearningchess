@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Manookin, Jared        HSCCD11V   400   600/  3  W2  W3  D4  2.5
+  2 Manookin, Adam         HSCCF67L   400   400/  3  L1  W4  D3  1.5
+  3 Cunningham, Adam       SKYE204V   400   400/  3  D4  L1  D2  1.0
+  4 Sutton-brown, Owen     CEEC605L   400   400/  3  D3  L2  D1  1.0
+
+ All Unrated-player Section: Ratings capped at 1000

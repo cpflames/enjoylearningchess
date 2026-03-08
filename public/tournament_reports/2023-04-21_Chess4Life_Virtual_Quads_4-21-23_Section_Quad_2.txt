@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Saddi, Neevan Reddy    GRRDH87M  1474  1508/145  U   W3  W2  2.0
+  2 Sangal Lopez, Dev      CTNG515J  1438  1437/372  W3  U   L1  1.0
+  3 Sinha, Agastya         HSCDA75C  1393  1357/161  L2  L1  U   0.0

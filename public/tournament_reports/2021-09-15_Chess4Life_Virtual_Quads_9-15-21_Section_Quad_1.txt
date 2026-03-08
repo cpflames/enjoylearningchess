@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Shubin, Daniel         EPSLF498  2181  2183/482  W3  W4  W2  3.0
+  2 Cha, Samuel            STTEK18Z  1623  1651/142  W4  W3  L1  2.0
+  3 Boulis, Christos       RHJIC84T  1530  1537/481  L1  L2  W4  1.0
+  4 Merriman, Dann         WMNCF79Y  1598  1559/404  L2  L1  L3  0.0

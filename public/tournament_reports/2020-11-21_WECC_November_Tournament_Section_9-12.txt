@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Doncaster, Cannon      RICLF79H  1523  1617/ 53  W7  W15 W6  W3  W4  5.0
+  2 Trifilov, Ruvim        CWHJ118U  1035  1314/ 27  W8  D11 W19 W9  W5  4.5
+  3 Van, Ocean             CWHMK699  1574  1570/205  W9  W10 D4  L1  W6  3.5
+  4 Dennis, Johnathon      SHMM183H  1583  1576/229  W22 W5  D3  W13 L1  3.5
+  5 Read, Adrian           SHMMK76D  1051  1210/191  W13 L4  W10 W8  L2  3.0
+  6 Carman, Leif           RICKB289  1276  1312/203  W14 W19 L1  W7  L3  3.0
+  7 Coghlan, Tomas         HHSMG445  1106  1180/179  L1  W18 W12 L6  W14 3.0
+  8 Scollon, Benjamin      SHMJJ16P  1314  1303/216  L2  W21 W15 L5  W11 3.0
+  9 Kane, Callan           CWHKB00E  1076  1157/127  L3  W20 W14 L2  W13 3.0
+ 10 Piedra, Daniel         CWHLD502  1170  1169/235  W20 L3  L5  W17 W16 3.0
+ 11 Nguyen, Thomas         CWHJ7648  1448  1396/322  W16 D2  L13 W19 L8  2.5
+ 12 Ornelas, Daniel        CWHKH732  1373  1338/192  U   D22 L7  W18 W19 2.5
+ 13 Lopez, Benjamin        CWHMD107  1339  1300/208  L5  W16 W11 L4  L9  2.0
+ 14 Shi, James             LECE731P  1218  1174/ 90  L6  W17 L9  W15 L7  2.0
+ 15 Mora, Edgar            OTHM3166  1157  1121/152  W18 L1  L8  L14 W20 2.0
+ 16 Perez, Osvaldo         CWHJI537  1018  1032/205  L11 L13 W22 W21 L10 2.0
+ 17 Esquivel, George       CWHKD456   892   907/188  U   L14 W20 L10 W21 2.0
+ 18 Pantoja, Omar          CWHKI56D   581   596/ 15  L15 L7  D21 L12 BYE 1.5
+ 19 Mendoza, Shawn         PASKE325  1256  1194/174  W21 L6  L2  L11 L12 1.0
+ 20 Lopez, Maya            CWHJ3058   640   620/ 72  L10 L9  L17 BYE L15 1.0
+ 21 Villegas, Jovanny      CWHK220P   943   864/ 28  L19 L8  D18 L16 L17 0.5
+ 22 Lopez, Esteban         CWHK7267  1088  1071/276  L4  D12 L16 U   U   0.5

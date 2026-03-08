@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Shah, Kanav            LMAE295Q  1318  1336/ 77  W2  W4  D3  2.5
+  2 Bhaskara, Yash         ICSII539  1168  1206/260  L1  W3  W4  2.0
+  3 Vijeyanandh, Vishnu    TMBHF63Z  1202  1204/151  W4  L2  D1  1.5
+  4 Kim, Matthew           RKWEK88G  1160  1085/ 12  L3  L1  L2  0.0

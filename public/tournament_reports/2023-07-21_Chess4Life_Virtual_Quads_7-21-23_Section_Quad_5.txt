@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 He, Oliver             CRICK71V  1137  1155/199  L3  W2  W4  2.0
+  2 Zhu, Kevin             CSMD865U  1119  1143/389  W4  L1  W3  2.0
+  3 Patel, Aarya           REEEK30E  1073  1117/ 50  W1  W4  L2  2.0
+  4 Sreraman, Rahul        BCACJ42L  1126  1052/138  L2  L3  L1  0.0

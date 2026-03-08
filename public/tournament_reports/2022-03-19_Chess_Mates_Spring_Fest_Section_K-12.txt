@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Stein, Benjamin        HSCCB61S  1370  1428/212  W6  W2  D3  W4  W5  4.5
+  2 Chung, Ethan           LIBF108U  1628  1610/327  W5  L1  W6  W3  W7  4.0
+  3 Stein, Samuel          HSCEH03T  1332  1345/202  W7  W4  D1  L2  W6  3.5
+  4 Heider, Elena          NOVHC647  1078  1065/120  W9  L3  W8  L1  BYE 3.0
+  5 Bai, Kelin             PVEDD75J   995  1007/128  L2  W8  W7  W9  L1  3.0
+  6 Ngo, Joshua            BTMIB43H   986   975/ 73  L1  W9  L2  BYE L3  2.0
+  7 Jhaveri, Aarav         EVJG667T   897   849/  8  L3  BYE L5  WF  L2  2.0
+  8 Garhwal, Hirsh         CSILE528   432   437/ 12  BYE L5  L4  LF  W9  2.0
+  9 Garhwal, Aaria         CSIHE09M   700   400/  4  L4  L6  BYE L5  L8  1.0

@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Vijeyanandh, Vishnu    TMBGF63Z  1054  1104/ 75  W2  U   W3  2.0
+  2 Le, Ilias              MTWDK00R  1000  1038/  5  L1  W3  U   1.0
+  3 Bhaskar, Vibhas        RKWGA79F  1030   979/124  U   L2  L1  0.0

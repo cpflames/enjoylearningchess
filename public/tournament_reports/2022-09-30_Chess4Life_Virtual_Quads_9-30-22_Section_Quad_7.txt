@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Garg, Vihaan           CMCCJ10X   910   934/103  W2  W4  L3  2.0
+  2 Taylor, Ryder          HPTJ385C   908   932/218  L1  W3  W4  2.0
+  3 Nidamarthi, Nikhil     RSAD375J   919   913/ 91  D4  L2  W1  1.5
+  4 Yin, Daniel            ISSL116Y   864   821/263  D3  L1  L2  0.5

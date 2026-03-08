@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tian, Eric             SOMEI80S   592   602/ 22  W4  W3  L2  2.0
+  2 Kuluru, Samith         KKNGI99K   560   580/103  L3  W4  W1  2.0
+  3 Li, Chufei             CNHC389T   489   472/ 27  W2  L1  L4  1.0
+  4 Sardarli, Adnan        XXXC671W   486   468/ 11  L1  L2  W3  1.0

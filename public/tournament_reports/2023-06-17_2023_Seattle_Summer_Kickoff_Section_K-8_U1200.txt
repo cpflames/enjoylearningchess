@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Edwin, Elijah          BCSCC24D  1137  1302/124  W8  W11 W2  W4  W5  5.0
+  2 Ma, Lewis              BRBB587M  1194  1241/ 55  W17 W9  L1  W3  W4  4.0
+  3 Chaudhuri, Agnivesh    CHADB55V  1013  1136/194  WF  W5  W7  L2  W9  4.0
+  4 Zandanov, Leonid       WLBBK31Q  1165  1167/ 25  W10 W13 W6  L1  L2  3.0
+  5 Lee, Justin            CNLG732V  1149  1140/ 45  W14 L3  W16 W6  L1  3.0
+  6 Guthrie, William       NSTHK30W  1108  1083/ 30  W15 W16 L4  L5  W11 3.0
+  7 Raghunathan, Vidur     MCID878A  1106  1082/ 54  L11 W8  L3  W17 W14 3.0
+  8 Zhang, Harvey          UCDB515V   889   953/ 40  L1  L7  W10 W16 W13 3.0
+  9 Su, Oliver             JINCD01U  1017  1002/ 95  W12 L2  D11 W13 L3  2.5
+ 10 Mishra, Aakash         EBSD439K   955   905/ 85  L4  D12 L8  W19 W18 2.5
+ 11 Bates, Killian         HEAHK18M   677   834/ 10  W7  L1  D9  W18 L6  2.5
+ 12 Schatz, Julian         SABHF50N   453   575/ 14  L9  D10 L15 BYE W17 2.5
+ 13 Mitra, Rahul           OPWHH53N  1010   963/271  W18 L4  W14 L9  L8  2.0
+ 14 Pillai, Ravi           SHSEB70K   912   882/ 70  L5  W19 L13 W15 L7  2.0
+ 15 Yen, Apollo            RKWFG78H   824   780/ 56  L6  L17 W12 L14 BYE 2.0
+ 16 Phan, Binh [ben]       SABHK91B   602   596/  9  BYE L6  L5  L8  W19 2.0
+ 17 Wang, Evan             FRWC929Z   968   890/ 90  L2  W15 D18 L7  L12 1.5
+ 18 Miller, Nash           DCCFK14E   565   579/  9  L13 BYE D17 L11 L10 1.5
+ 19 Guruswamy, Tejal       CPJGK10X   452   222/  7  LF  L14 BYE L10 L16 1.0

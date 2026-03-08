@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Meiyalagan, Ruban Sai  WLDED10L  1432  1520/107  W4  W2  W3  3.0
+  2 Priest, Liam           OHLHL07U  1371  1410/208  W3  L1  W4  2.0
+  3 Ge, Daniel             SPTHI42V  1488  1456/230  L2  W4  L1  1.0
+  4 Sangal Lopez, Dev      WOBE515J  1381  1329/138  L1  L3  L2  0.0

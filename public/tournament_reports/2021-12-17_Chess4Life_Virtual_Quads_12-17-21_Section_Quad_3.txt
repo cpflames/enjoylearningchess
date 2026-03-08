@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xiong, Michael         MEDD115A  1409  1471/189  W4  W2  W3  3.0
+  2 Upreti, Parthavi       XXXF754L  1373  1386/ 40  W3  L1  W4  2.0
+  3 White, Nolan           WSCKI089  1321  1303/115  L2  W4  L1  1.0
+  4 Zhang, Ethan (yichen)  CRIEG57B  1228  1185/194  L1  L3  L2  0.0

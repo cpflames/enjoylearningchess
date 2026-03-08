@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chen, Megan            ADINY82X  1898  1938/ 11  W14 W2  W5  D6  W4  4.5
+  2 Airapetian, Chouch     ADUND039  2104  2101/  5  W3  L1  W16 W8  W6  4.0
+  3 Szeto, Sophie          LSSJH023  1766  1780/295  L2  W11 W17 W13 D7  3.5
+  4 Devaraju, Sonia        OMSIK838  1605  1663/440  W18 HPB W9  W7  L1  3.5
+  5 Wang, Felicity         LMSHJ02F  1651  1690/228  HPB W17 L1  W10 W12 3.5
+  6 Chen, Minda            HLNL4859  1964  1956/255  W15 W12 D7  D1  L2  3.0
+  7 Kuhner, Mary           ADUND44Q  1831  1828/  9  W8  W13 D6  L4  D3  3.0
+  8 Li, Emma               LMSG521Q  1704  1717/268  L7  W19 W12 L2  W13 3.0
+  9 Chen, Angela           ADDIB334  1586  1600/251  HPB W10 L4  HPB W14 3.0
+ 10 Kaur, Aradh            UNKI805Q  1762  1641/ 10  D11 L9  W15 L5  W17 2.5
+ 11 Shanmugam, Meera       BCWFD22Y  1547  1552/386  D10 L3  W18 L12 W16 2.5
+ 12 Li, Melina             ADDI5705  1702  1683/193  W16 L6  L8  W11 L5  2.0
+ 13 Smith, Catherine M     ADUNH707  1557  1547/ 15  W19 L7  W14 L3  L8  2.0
+ 14 Kaur, Jind             UNKFE61Z  1336  1344/ 19  L1  W18 L13 W19 L9  2.0
+ 15 Deng, Grace            LECK1468  1439  1429/222  L6  L16 L10 W18 W19 2.0
+ 16 Zhang, Kylie           WMEE890T  1557  1527/127  L12 W15 L2  D17 L11 1.5
+ 17 Mathur, Aashi          CRKF522S  1290  1291/178  BYE L5  L3  D16 L10 1.5
+ 18 Ruff, Lois             ADUNJ90S  1133  1109/ 36  L4  L14 L11 L15 BYE 1.0
+ 19 Westover, Charlotte    WMEE365V  1331  1281/207  L13 L8  BYE L14 L15 1.0

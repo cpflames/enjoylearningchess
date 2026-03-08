@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ge, Daniel             SPTHI42V  1317  1375/206  W2  D3  W4  2.5
+  2 Gijare, Sayali         SKWIE100  1313  1337/505  L1  W4  W3  2.0
+  3 Li, Yiyang             BCAD700B  1300  1305/121  W4  D1  L2  1.5
+  4 Aski, Kabir            CNHHG340  1333  1266/402  L3  L2  L1  0.0

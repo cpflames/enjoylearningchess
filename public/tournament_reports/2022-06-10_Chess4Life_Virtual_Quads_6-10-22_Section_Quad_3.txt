@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Amalo, Eliot           HSCH282X  1140  1154/ 60  L3  W2  W4  2.0
+  2 Yun, Daniel D          BCAAK87Z  1079  1112/177  W4  L1  W3  2.0
+  3 Sreraman, Rohit        BCABG92Q  1077  1111/ 49  W1  W4  L2  2.0
+  4 Zhang, Ethan Yichen    CRIEG57B  1103  1030/259  L2  L3  L1  0.0

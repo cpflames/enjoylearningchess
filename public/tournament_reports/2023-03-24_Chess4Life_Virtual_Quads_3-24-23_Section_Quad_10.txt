@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Song, Charlie          KJHHJ08F   674   838/ 20  W4  W3  W2  3.0
+  2 Joshi, Aahana          GTMGK47D   698   708/  9  W3  D4  L1  1.5
+  3 Condit, Theo           TLICJ39C   716   689/ 84  L2  L1  W4  1.0
+  4 Mehrotra, Darsh        EINF240S   717   661/126  L1  D2  L3  0.5

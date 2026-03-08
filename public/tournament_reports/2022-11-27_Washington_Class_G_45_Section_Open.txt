@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Colombo, Dominic M     GIGLJ74P  1941  1948/ 27  W8  W6  D2  W3  3.5
+  2 Tu, Robin              ADUN9951  1767  1777/333  L5  D3  D1  W6  2.0
+  3 Mccall, Max            ADUN679L  1275  1297/  4  L6  D2  W9  L1  1.5
+  4 Moroney, Timothy       ADUN276J  2232  2232/ 30  U   W8  U   U   1.0
+  5 Pupols, Viktors        ADUN8503  2163  2165/ 38  W2  U   U   U   1.0
+  6 Zaragoza, Rogelio      ADUNB986  1894  1840/  4  W3  L1  L8  L2  1.0
+  7 Suess, Wade            EVGH101D  1735  1744/285  U   U   U   W8  1.0
+  8 Cluff, Austin          ADUNI18T  1509  1531/  9  L1  L4  W6  L7  1.0
+  9 Yadav, Vinay           ADUNH53G  1300   905/  1  U   U   L3  U   0.0

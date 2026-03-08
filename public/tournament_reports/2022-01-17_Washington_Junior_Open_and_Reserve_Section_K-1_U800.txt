@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Yun, Daniel D          BCABK87Z   816   884/ 87  W4  W3  W2  W5  W6  5.0
+  2 Li, Moses              CDWCK26L   699   676/ 25  W8  W5  L1  W4  L3  3.0
+  3 Yuan, Chen             ETSAJ15Z   473   522/  9  W7  L1  L5  W8  W2  3.0
+  4 Swaminath, Akshita     CNCB295Z   400   435/ 14  L1  W7  W6  L2  W8  3.0
+  5 Zhao, Willliam         STTBH70M   400   609/  5  W6  L2  W3  L1  W7  3.0
+  6 Li, Rebecca            BCAAJ62B   400   400/ 10  L5  W8  L4  W7  L1  2.0
+  7 Thakur, Reeva          CWABD87W   400   400/  5  L3  L4  W8  L6  L5  1.0
+  8 Potterbaum, Weston     LAFBF17J   400   400/  5  L2  L6  L7  L3  L4  0.0

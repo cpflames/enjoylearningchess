@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Deng, Lily             CJEI5007  1838  1863/309  W3  W4  W2  3.0
+  2 Ebsch, Christopher     ADUNC65C  1710  1704/ 29  W6  W5  L1  2.0
+  3 Ramirez, Efraim        ADUND81X  1167  1490/  5  L1  W6  W4  2.0
+  4 Khalil, Tayseer        ADUN773K  1806  1768/ 63  W5  L1  L3  1.0
+  5 Deng, Stanley          LECDK22E  1378  1368/179  L4  L2  W6  1.0
+  6 Ramirez, Kane          WIWCJ72E   400   400/  5  L2  L3  L5  0.0

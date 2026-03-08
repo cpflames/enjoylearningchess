@@ -1,0 +1,45 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Jammalamadaka, Varnika OVLGD216  1649  1671/386  W20 W14 W26 W28 W16 5.0
+  2 Zheng, Max             SOMED13T  1195  1368/ 72  W38 W28 W14 W26 W11 5.0
+  3 Jammalamadaka, Vihaan  BCADJ90F  1737  1763/261  W19 W15 W6  D13 W30 4.5
+  4 Vemparala, Nikash      BCAFI078  1732  1742/284  WF  W17 W7  D9  W32 4.5
+  5 Malakapalli, Smaran    BCAG973C  1368  1423/ 77  D35 W44 W31 W39 W40 4.5
+  6 Bian, Erin             LMSFI91Y  1765  1769/140  W44 W35 L3  W10 W13 4.0
+  7 Li, Emma               LMSG521Q  1692  1690/283  W33 W36 L4  W29 W9  4.0
+  8 Zhen, Hongren          KIMFC02Z   956   996/ 75  WF  WF  L9  W36 WF  4.0
+  9 Suess, Wade            EVGF101D  1485  1506/200  W27 W29 W8  D4  L7  3.5
+ 10 Kang, Danny            TYEGH30U  1257  1400/ 60  W41 D13 W15 L6  W35 3.5
+ 11 Dobroshinsky, Nick     ENDFG02P  1066  1084/ 47  WF  D26 W34 W42 L2  3.5
+ 12 Heitmann, Antonio      TIMEK80W   400   551/  3  D43 WF  L20 W38 WF  3.5
+ 13 Miller, Jack           BRYGD87K  1566  1574/241  W22 D10 W21 D3  L6  3.0
+ 14 Gajcowski, Hannah Nami OPWFI10H  1204  1202/115  W16 L1  L2  W34 W33 3.0
+ 15 Metzmaker, Suya        OPWF364P  1602  1578/236  W30 L3  L10 W22 W44 3.0
+ 16 Raje, Atharva          SLLGL432   772   878/ 68  L14 W20 W43 W33 L1  3.0
+ 17 Lee, Elliot            OPWFA70D  1411  1400/ 82  W32 L4  L29 W27 W18 3.0
+ 18 Wong, Samuel           TYEGJ51V  1069  1130/ 87  L26 W24 W23 W32 L17 3.0
+ 19 Zhang, Kylie           WMEE890T  1527  1503/132  L3  W30 W40 W37 L21 3.0
+ 20 Wang, Kunqi            MEDF756Y   500   861/  4  L1  L16 W12 WF  W42 3.0
+ 21 Cheng, Selina          THUD413R  1139  1295/127  W37 W39 L13 L35 W19 3.0
+ 22 Bablani, Arnav         LMSF1146  1312  1351/134  L13 W41 W35 L15 W37 3.0
+ 23 Ma, Lucas              SOMF500S  1301  1249/260  W42 W25 L18 WF  L27 3.0
+ 24 Vangala, Advaith       BLWF174X   804   806/274  L36 L18 W41 W43 W25 3.0
+ 25 Heitmann, Alejandra    TIMF506W   400   481/  6  WF  L23 WF  W41 L24 3.0
+ 26 Dong, Timothy          LMSG929M  1319  1316/193  W18 D11 L1  L2  W28 2.5
+ 27 Frasca, James          LMSFC674  1289  1285/558  L9  W31 D36 L17 W23 2.5
+ 28 Preiner, Oscar         MIEFI145  1398  1346/147  W34 L2  W42 L1  L26 2.0
+ 29 Kang, William          SOMEC12H  1220  1229/ 64  L31 L9  W17 L7  W36 2.0
+ 30 Walimbe, Aadi          SBOGW982  1117  1182/231  L15 L19 W39 W44 L3  2.0
+ 31 Patil, Amogh           SMSGE84T   600  1121/  5  W29 L27 L5  L40 W39 2.0
+ 32 Xie, Ava               SOME797Y  1030  1005/131  L17 WF  WF  L18 L4  2.0
+ 33 Zhang, Yan             SOMEC58Q   953   906/ 51  L7  WF  WF  L16 L14 2.0
+ 34 Vora, Ishaan           LMSG2575   497   516/ 17  L28 W38 L11 L14 WF  2.0
+ 35 Cheng, Ethan           LMAED58X  1652  1581/269  D5  L6  L22 W21 L10 1.5
+ 36 Li, Austin             ENDE438B  1140  1104/ 46  W24 L7  D27 L8  L29 1.5
+ 37 Joshi, Yash            SHSE280R  1302  1247/ 53  L21 W40 D44 L19 L22 1.5
+ 38 Kurkimath, Kriti       TIMF173W   500   400/  4  L2  L34 WF  L12 D43 1.5
+ 39 Zhou, Bourne           BLMGC62W  1403  1299/ 67  W40 L21 L30 L5  L31 1.0
+ 40 Pathania, Ishaan       ENDF438A   715   770/ 51  L39 L37 L19 W31 L5  1.0
+ 41 Trivedi, Ansh          CAVEE90M   400   400/  4  L10 L22 L24 L25 WF  1.0
+ 42 Ephrem, Yabi           HSCGC72Q   830   792/ 46  L23 W43 L28 L11 L20 1.0
+ 43 Dodge, Christopher     OPWGH31L   600   429/  5  D12 L42 L16 L24 D38 1.0
+ 44 Zhang, Wei             TYEGF93H  1167  1138/ 88  L6  L5  D37 L30 L15 0.5

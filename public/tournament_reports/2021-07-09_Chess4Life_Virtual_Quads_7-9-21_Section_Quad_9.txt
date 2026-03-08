@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wahi, Advait           BLWE661F   969  1102/ 69  W2  W4  W3  3.0
+  2 Chevuri, Tattva        CBRDC06V   991  1018/212  L1  W3  W4  2.0
+  3 Rastogi, Reyansh       LMAED30N   977   956/110  W4  L2  L1  1.0
+  4 Shanmugam, Varsha      RBRBA12J   980   907/326  L3  L1  L2  0.0

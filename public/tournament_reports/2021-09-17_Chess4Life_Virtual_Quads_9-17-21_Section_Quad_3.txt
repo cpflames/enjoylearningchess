@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Hanbin           MEDFE90D  1276  1373/271  W4  W3  W2  3.0
+  2 Li, Yiyang             BCAE700B  1293  1309/200  W3  W4  L1  2.0
+  3 Zhang, Aaron           CCDE873R  1237  1223/347  L2  L1  W4  1.0
+  4 Zhang, Ethan (yichen)  CRIEG57B  1236  1177/159  L1  L2  L3  0.0

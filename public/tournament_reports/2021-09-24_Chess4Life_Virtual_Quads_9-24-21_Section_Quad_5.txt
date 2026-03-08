@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tiwari, Prakhar        INGI785R  1342  1367/ 54  L4  W2  W3  2.0
+  2 Ramkumar, Nikhil       RBRE115E  1292  1338/ 90  W3  L1  W4  2.0
+  3 Praveen, Atharva       AUDEG14E  1402  1371/ 86  L2  W4  L1  1.0
+  4 Wang, Hanbin           MEDFE90D  1373  1348/274  W1  L3  L2  1.0

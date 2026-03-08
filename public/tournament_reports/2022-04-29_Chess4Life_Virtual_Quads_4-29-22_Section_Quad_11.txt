@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Angadi, Yashika        GRRF732U   400   424/ 37  W3  W4  L2  2.0
+  2 Lim, Oliver            XXXAC58T   400   466/  3  W4  L3  W1  2.0
+  3 Siu, Lucy              XXXCG78B   400   466/  3  L1  W2  W4  2.0
+  4 Wright, William        XXXAB71M   400   400/  3  L2  L1  L3  0.0

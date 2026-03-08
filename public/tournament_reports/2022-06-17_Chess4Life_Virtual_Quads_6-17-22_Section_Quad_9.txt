@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Parson, Anya           SSMEI86G   866   995/ 13  W2  W3  W4  3.0
+  2 Joshi, Vyom            LEOGH81X   779   852/  9  L1  W4  W3  2.0
+  3 Wang, Evan             DGHFB88C   870   841/ 28  W4  L1  L2  1.0
+  4 Sailer, Shaunak        ENAEC25Z   848   771/166  L3  L2  L1  0.0

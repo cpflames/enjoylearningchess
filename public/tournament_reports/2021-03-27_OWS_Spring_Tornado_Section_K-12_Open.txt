@@ -1,0 +1,27 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Metzmaker, Suya        OPWF364P  1654  1668/252  W12 W6  W10 D2  3.5
+  2 Scollon, Owen          LLLF734D  1514  1563/273  W22 W13 W4  D1  3.5
+  3 Cheng, Edward          WMSIC74W  1735  1730/231  D19 W23 W9  W7  3.5
+  4 Cui, Max               CBRC946C  1344  1414/153  W24 W5  L2  W10 3.0
+  5 Meyerzon, Daniel       OMSHJ242  1444  1456/359  W20 L4  W17 W11 3.0
+  6 Razmov, Gabriel        CSIFC26K  1399  1428/ 79  W16 L1  W22 W15 3.0
+  7 Lee, Elliot            OPWFA70D  1406  1431/ 94  WF  W14 W8  L3  3.0
+  8 Ying, Yiheng           MEDDE78K  1479  1472/229  W18 D9  L7  W12 2.5
+  9 Sun, Yichen            BLMH377G  1367  1390/ 45  W26 D8  L3  W18 2.5
+ 10 Zhang, Ethan           STTD851S  1415  1401/202  WF  W11 L1  L4  2.0
+ 11 Hijirida, Tyler        MISIK358  1349  1331/115  W21 L10 W14 L5  2.0
+ 12 Tameling, Cole         UPAHK654  1293  1312/313  L1  W26 W13 L8  2.0
+ 13 Lim, Hayul             VCEEQ94C  1354  1344/ 20  W25 L2  L12 W20 2.0
+ 14 Lu, Jacob              ENDFI11F   915  1061/247  W15 L7  L11 W22 2.0
+ 15 Westover, Charlotte    WMEE365V  1327  1295/269  L14 W19 W23 L6  2.0
+ 16 Gajcowski, Hannah Nami OPWFI10H  1183  1194/138  L6  L17 W21 W25 2.0
+ 17 Xie, Max               BLWGI185  1302  1268/234  L23 W16 L5  W24 2.0
+ 18 Hoe, Marcus            LEOG389Q  1285  1268/170  L8  D21 W19 L9  1.5
+ 19 Saloranta, Leo         IMSHB40A  1296  1267/ 98  D3  L15 L18 WF  1.5
+ 20 Zhang, Michael M.      MEDC668Q  1255  1235/371  L5  W24 HPB L13 1.5
+ 21 Don, Alexander         MEDE958V  1075  1086/142  L11 D18 L16 W26 1.5
+ 22 Roach, Stone           EVGF3342  1290  1247/187  L2  W25 L6  L14 1.0
+ 23 Guan, Marie            MISEZ124   400   600/  7  W17 L3  L15 LF  1.0
+ 24 Liao, Wesley           EASGE49D  1051  1019/ 57  L4  L20 BYE L17 1.0
+ 25 Xie, Michael           BLWE549C  1156  1123/170  L13 L22 W26 L16 1.0
+ 26 Fong, Adam             SKRH4377  1156  1079/152  L9  L12 L25 L21 0.0

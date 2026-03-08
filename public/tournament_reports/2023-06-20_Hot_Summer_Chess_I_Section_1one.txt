@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Frost, Ignatius        SHMJJ64P  1623  1629/ 85  W3  D2  W4  2.5
+  2 Scollon, Owen          FHVH734D  1551  1569/414  W4  D1  W3  2.5
+  3 Wilson, Nathaniel      SHKHE45V  1357  1350/ 65  L1  W4  L2  1.0
+  4 Palmer, Evan           BHMJI90S  1194  1171/131  L2  L3  L1  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yadava, Ishansh        HSCFB75H   500   869/  2  W3  WF  W2  3.0
+  2 Mitra, Rishab          OPWC138L   450   467/ 51  L4  W3  L1  1.0
+  3 Neelamegam, Hasini     RKWFI62M   500   400/  2  L1  L2  WF  1.0
+  4 Reddy, Dhruv           INGID56L   800   869/  1  W2  LF  LF  1.0

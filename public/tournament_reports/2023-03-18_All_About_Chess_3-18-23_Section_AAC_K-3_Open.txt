@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bates-callaghan, EmmettBCSDJ49J  1207  1230/ 40  W8  L5  W7  W4  W3  4.0
+  2 Palathingal, Rafael    BEND196R  1106  1168/ 28  WF  W7  W4  L3  W5  4.0
+  3 Pai, Vihaan            CHADK17C  1294  1253/142  L7  W10 W8  W2  L1  3.0
+  4 Chaudhuri, Arihant     CHAD703E  1050  1062/169  W10 W6  L2  L1  W8  3.0
+  5 Chaudhuri, Agnivesh    CHADB55V  1043  1059/160  W9  W1  L6  W7  L2  3.0
+  6 Ghosh, Snehil          CBRD738T  1021   993/ 19  BYE L4  W5  L8  W9  3.0
+  7 Luo, Peter             SHVD664K  1017  1008/ 29  W3  L2  L1  L5  BYE 2.0
+  8 Ye, Alex               ENDDH51L   862   879/ 43  L1  W9  L3  W6  L4  2.0
+  9 Parihar, Advay         SOMCD66D   423   490/ 21  L5  L8  W10 BYE L6  2.0
+ 10 Schoenfeld, Sam        OPWDB27K   822   753/ 36  L4  L3  L9  U   U   0.0

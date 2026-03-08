@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xie, Max               BLWGI185  1355  1383/280  W4  W3  L2  2.0
+  2 Ying, Yiheng           MEDDE78K  1344  1377/249  L3  W4  W1  2.0
+  3 Bharadwaj, Samarth     DGHAE78A  1391  1368/ 28  W2  L1  L4  1.0
+  4 Zhou, Yuchen           BCABJ42H  1434  1402/311  L1  L2  W3  1.0

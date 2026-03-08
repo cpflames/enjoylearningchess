@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Liu, Vincent           ILAC546Q  1149  1220/ 58  W22 W9  W2  W4  L3  4.0
+  2 Iyer, Shashwat Pranav  REEBC07W   720  1001/ 10  W13 W17 L1  W5  W7  4.0
+  3 Urali, Sanjay          MEDD315D  1375  1363/194  W8  L5  W15 W6  W1  4.0
+  4 Choi, Hunter           EVGDE80A  1264  1268/118  W15 W20 W5  L1  W6  4.0
+  5 Zhang, Kyrene          NOWCC84Y  1032  1076/119  W18 W3  L4  L2  W13 3.0
+  6 Ramkumar, Siddharth    LMAEH50B   850   983/102  WF  W7  W12 L3  L4  3.0
+  7 Gagnier, Ian           HSCCC72H  1065  1055/ 63  W14 L6  W11 W16 L2  3.0
+  8 Deng, Stanley          CGMCK22E   985  1009/ 41  L3  D18 W19 D14 W16 3.0
+  9 Holbrook, William      HSOBU62F   834   969/ 38  W17 L1  L13 W20 W19 3.0
+ 10 Compton, Jackson       HCHDL301  1151  1124/282  L16 L11 W21 W15 W12 3.0
+ 11 Fudge, Alice           GRRD400B   933   971/ 15  L12 W10 L7  W17 D14 2.5
+ 12 Ivanovic, Mina         UCDCH40V  1249  1185/280  W11 W16 L6  D13 L10 2.5
+ 13 Edmond, Ivy            WWDDD81E  1017  1013/ 99  L2  W22 W9  D12 L5  2.5
+ 14 Dash, Nishant          ENDD260B   841   897/ 50  L7  D19 W18 D8  D11 2.5
+ 15 Malugu, Sankalp        SHSBE95W   974   978/ 95  L4  W21 L3  L10 W20 2.0
+ 16 Swaminath, Ankita      CNCE571R   851   896/ 15  W10 L12 W20 L7  L8  2.0
+ 17 Lam, Ethan             SESD110B  1038   975/ 32  L9  L2  W22 L11 W21 2.0
+ 18 Jayadevan, Neel        SCDD230P   805   800/ 29  L5  D8  L14 L19 W22 1.5
+ 19 Cheng, Selina          THUD413R  1098  1031/107  LF  D14 L8  W18 L9  1.5
+ 20 Edmond, Alec           LCNBH03G  1005   926/ 43  W21 L4  L16 L9  L15 1.0
+ 21 Xu, Zoe                CFLBG70A   400   698/  5  L20 L15 L10 W22 L17 1.0
+ 22 Jagtap, Aarush         THRE248N   857   753/ 30  L1  L13 L17 L21 L18 0.0

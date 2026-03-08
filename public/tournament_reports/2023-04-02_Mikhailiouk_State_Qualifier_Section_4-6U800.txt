@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Sics, Wyatt            KJHG941Z   486   626/ 10  W6  W4  L2  W5  W3  4.0
+  2 Alatkar, Aneesh        RSHEK25K   400   612/  5  W5  W3  W1  L4  L6  3.0
+  3 Kalian, Illia          VIWEI13T   676   649/ 47  W4  L2  W5  W6  L1  3.0
+  4 Wang, Samuel           HCCGK25H   600   478/  5  L3  L1  W6  W2  L5  2.0
+  5 Xu, Tianhao            BLMGK45Z   511   457/ 10  L2  D6  L3  L1  W4  1.5
+  6 Wright, Victoria       PTFFJ17P   497   464/ 43  L1  D5  L4  L3  W2  1.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jin, Emery             BLMHK90R  1151  1206/ 16  W4  W3  L2  2.0
+  2 Girroir, Banyan        RMBIL92L  1218  1242/ 20  L3  W4  W1  2.0
+  3 Zhao, Dennis           OPWG525E  1284  1246/292  W2  L1  L4  1.0
+  4 Hochberg, David        INNK6075  1214  1193/294  L1  L2  W3  1.0

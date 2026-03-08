@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wu, Dennis             SCDBJ54B   778   791/ 65  W4  W3  L2  2.0
+  2 Shaikot, Sabeer        ENSD147Q   753   773/119  L3  W4  W1  2.0
+  3 Pillai, Sharan         CHRKI710   749   770/ 83  W2  L1  W4  2.0
+  4 Jiang, Nathan          FAPCG71Q   619   564/ 54  L1  L2  L3  0.0

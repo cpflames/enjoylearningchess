@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mcintyre, Isaac        ETSC466S  1205  1324/ 56  W3  W4  W2  3.0
+  2 Li, Yiyang             BCAE700B  1259  1231/229  W4  L3  L1  1.0
+  3 Aggarwal, Aadit        LEOIE722  1211  1194/421  L1  W2  L4  1.0
+  4 Su, Alfred             EGBD929B  1211  1194/228  L2  L1  W3  1.0

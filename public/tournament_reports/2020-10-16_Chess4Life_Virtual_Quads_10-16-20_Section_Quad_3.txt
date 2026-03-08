@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhou, Yuchen           BCABJ42H  1351  1365/194  W2  L3  W4  2.0
+  2 Sangal Lopez, Dev      WOBE515J  1308  1333/105  L1  W4  W3  2.0
+  3 Tiwari, Prakhar        INGH785R  1311  1314/ 31  D4  W1  L2  1.5
+  4 Li, Yiyang             BCAD700B  1321  1278/115  D3  L2  L1  0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Balaji, Arjun          REJJ4763  1117  1231/ 57  W4  W3  W2  3.0
+  2 Ivanovic, Mina         UCDCH40V  1115  1142/269  W3  W4  L1  2.0
+  3 Zhang, Aaron           CCDD873R  1114  1093/207  L2  L1  W4  1.0
+  4 Lam, Ethan             SESD110B  1105  1038/ 27  L1  L2  L3  0.0

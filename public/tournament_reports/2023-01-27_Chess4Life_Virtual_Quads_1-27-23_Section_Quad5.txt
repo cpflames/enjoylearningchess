@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bhaskara, Yash         ICSII539  1082  1117/239  L3  W4  W2  2.0
+  2 Girroir, Banyan        RMBIL92L  1208  1208/ 11  W4  W3  L1  2.0
+  3 Jin, Emery             BLMHK90R  1026  1116/  7  W1  L2  W4  2.0
+  4 Sreraman, Rohit        BCACG92Q  1059   998/ 67  L2  L1  L3  0.0

@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Priest, Liam           SBTHL07U  1572  1602/235  W8  W9  W2  W7  W4  5.0
+  2 Xia, Yuchen            BLMHI52A  1354  1370/118  W5  W10 L1  W3  W7  4.0
+  3 Ahmad, Muhammad Zayd   LWAJ521M   859  1075/  9  D7  W8  W5  L2  W9  3.5
+  4 Tameling, Cole         UPAHK654  1354  1322/331  W11 W6  L7  W9  L1  3.0
+  5 Lim, Bradley           MADH231K   984  1021/ 37  L2  W11 L3  W10 W8  3.0
+  6 Hogue, Kyle            EXMHI734   742   841/ 85  WF  L4  W10 L8  W11 3.0
+  7 Singhal, Palash        PLKIH323  1141  1160/118  D3  W12 W4  L1  L2  2.5
+  8 Liao, Wesley           EASGE49D  1001   987/ 76  L1  L3  W11 W6  L5  2.0
+  9 Wakeman, Oliver        NJHHG10Y   964   947/ 22  WF  L1  W12 L4  L3  2.0
+ 10 Waltier, Taylor        WLSJD06H   962   911/ 77  WF  L2  L6  L5  W12 2.0
+ 11 Ahmad, Muhammad Rayhan LWAJG02J   978   848/ 10  L4  L5  L8  W12 L6  1.0
+ 12 Ram, Joey              EMSGF94L   721   669/ 66  BYE L7  L9  L11 L10 1.0

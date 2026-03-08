@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lan, Jonathan          OPWC968F   900  1070/ 66  W2  W3  W4  3.0
+  2 Wilson, Lance          ROOM754B  1200  1096/  3  L1  W4  W3  2.0
+  3 Thungathurthi, PranavarINGGG82R   873   879/ 22  W4  L1  L2  1.0
+  4 Sembium, Aditi         BCACK25W  1019   935/162  L3  L2  L1  0.0

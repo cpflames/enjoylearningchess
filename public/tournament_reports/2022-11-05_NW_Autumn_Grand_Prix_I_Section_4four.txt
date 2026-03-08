@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kimes, Matilda         HSCH935N   700  1209/  3  W4  W2  W3  3.0
+  2 Moreau, Zayden         VSTHB68M   501   584/ 29  W7  L1  W6  2.0
+  3 Rickard, Harvey        VSTG511A   600   883/  3  W5  W6  L1  2.0
+  4 Belyatskiy, Artem      VSTG764W   600   883/  3  L1  W5  W7  2.0
+  5 Clemens, Jacob         VSTIA32X   800   434/  3  L3  L4  W8  1.0
+  6 Delong, Sophia         BLNIK03A   800   400/  3  W8  L3  L2  1.0
+  7 Paz, Fernando          HORGK27P   600   400/  3  L2  W8  L4  1.0
+  8 Grumbles, Tyler        VSTHC11F   700   400/  3  L6  L7  L5  0.0

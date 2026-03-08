@@ -1,0 +1,58 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Satish Kumar, Sai NavanCENEH21Y   721   925/ 29  W45 W36 W8  W6  W5  5.0
+  2 Phillips-acheson, SebasWOBG817T   781   915/213  HPB W49 W34 W26 W10 4.5
+  3 Li, Timothy            BLMGE29R   823   837/149  W41 W35 L6  W31 W20 4.0
+  4 Cosentino, Alexander   TLMGG58C   779   795/ 53  W43 W7  L20 W46 W21 4.0
+  5 Dalal, Raahi           LKDE949K   740   810/ 55  W44 W31 W23 W18 L1  4.0
+  6 Mitra, Rishab          OPWE138L   641   812/152  W55 W9  W3  L1  W18 4.0
+  7 Singla, Atharv         OPSFF53S   463   673/ 18  W48 L4  W51 W15 W26 4.0
+  8 Plichta, Eliot         NOWGK27B   600   936/  5  W21 W17 L1  W33 W16 4.0
+  9 Mehta, Shaan           WMEFK27A   500   838/  5  W29 L6  W37 W19 W17 4.0
+ 10 Gande, Akshath         WPPGG23R   959   937/ 65  W38 W19 D26 W20 L2  3.5
+ 11 Wright, Teddy          THUFC60C   845   849/ 23  W39 D34 W25 HPB HPB 3.5
+ 12 Reimer, Oliver         LKDEG59D   504   707/ 15  W14 D25 L15 W34 W33 3.5
+ 13 Khamsi, Gabriel        PKREK26Y   400   740/  5  L20 D30 W57 W25 W27 3.5
+ 14 Chan, Dylan            PKRFK26X   500   690/  5  L12 W42 W22 D27 W41 3.5
+ 15 Lekkala, Vihan         BLWF428L   907   855/168  W30 L20 W12 L7  W42 3.0
+ 16 Rusia, Naman           EPSGI64T   833   794/ 65  W40 W27 L18 W44 L8  3.0
+ 17 Hong, Jamie            MEDE577Q   651   672/ 24  W57 L8  W41 W23 L9  3.0
+ 18 Chauhan, Riddhima      CRKFF72E   600   677/ 35  W32 W24 W16 L5  L6  3.0
+ 19 Smacinih, Alexander    SOMEG83H   599   625/ 60  W46 L10 W43 L9  W44 3.0
+ 20 Dewan, Siddhartha      THUFK95C   584   762/ 19  W13 W15 W4  L10 L3  3.0
+ 21 Davies, Damien         CNCFK68U   510   541/ 39  L8  W57 W45 W24 L4  3.0
+ 22 Liao, Joe              MEDFE93Z   458   501/ 15  L24 W32 L14 W50 W46 3.0
+ 23 Chow, Miles            WMEFK26W   500   678/  5  W28 W33 L5  L17 W37 3.0
+ 24 Mcclenahan, Nicklas    AGBEK26V   400   597/  5  W22 L18 W39 L21 W38 3.0
+ 25 Navaretnam, Meera      EVGG815M   791   738/108  W42 D12 L11 L13 W45 2.5
+ 26 Helmstetter, Andre     THUFK60F   683   680/100  W50 W37 D10 L2  L7  2.5
+ 27 Mccarthy, Ronan        LKDFB40K   537   533/ 63  W52 L16 W50 D14 L13 2.5
+ 28 Arasu, Anisha          PFCGK01A   527   505/ 55  L23 L51 W53 W30 D31 2.5
+ 29 Kumar, Rishuraj        ENAEK45Y   479   475/ 10  L9  W55 L31 W40 D32 2.5
+ 30 Zhang, Andy            MEDE885X   440   492/ 25  L15 D13 W49 L28 W48 2.5
+ 31 Wu, Max                JINEK90J   449   542/  9  W49 L5  W29 L3  D28 2.5
+ 32 Youn, Jayden           IMSGK26U   600   437/  5  L18 L22 W54 W39 D29 2.5
+ 33 Wun, Kaden             SOMFK95F   677   632/ 14  W51 L23 W40 L8  L12 2.0
+ 34 Metzmaker, Kyren       OPWE430W   573   573/132  W56 D11 L2  L12 HPB 2.0
+ 35 Shields, Conor         VOYFK51J   526   465/ 15  W47 L3  L44 L41 W50 2.0
+ 36 Hanlon, Alex           IMSG158X   462   414/ 24  W53 L1  L46 L42 W52 2.0
+ 37 Chan, Jaxon            EASEK30M   457   450/ 10  W54 L26 L9  W43 L23 2.0
+ 38 Stiepleman, Leo        WMEE191U   447   428/ 30  L10 L46 W52 W51 L24 2.0
+ 39 Cooper, Cameron        LKDF938T   453   421/ 20  L11 W52 L24 L32 W47 2.0
+ 40 Aker, Pepper           THUE181G   432   405/ 71  L16 W47 L33 L29 W53 2.0
+ 41 Harish, Saathvik       THREK32G   420   436/ 10  L3  W56 L17 W35 L14 2.0
+ 42 Cooper, Alexander      LKDF835H   404   409/ 18  L25 L14 BYE W36 L15 2.0
+ 43 Chu, Asher             JINEK94S   368   352/ 15  L4  W53 L19 L37 W57 2.0
+ 44 Nussbaum, Tristan      ELKGK39F   365   440/  9  L5  W48 W35 L16 L19 2.0
+ 45 Karthik, Prerna        BRWEK94R   100   172/  8  L1  BYE L21 W55 L25 2.0
+ 46 Buckley, Nash          CAVFK26R   500   470/  5  L19 W38 W36 L4  L22 2.0
+ 47 Huang, Victor          HLYEK26Q   400   146/  5  L35 L40 D55 W56 L39 1.5
+ 48 Davoodi, Shayan        PKREK26N   400   307/  5  L7  L44 D56 W49 L30 1.5
+ 49 Paglia, Mac            CELGA89F   702   566/ 61  L31 L2  L30 L48 W56 1.0
+ 50 Varma, Siddharth       HLYEK26K   400   205/  5  L26 W54 L27 L22 L35 1.0
+ 51 Wyss, Samuel           IMSGK26J   600   360/  4  L33 W28 L7  L38 LF  1.0
+ 52 Jing, Alexander        NOWFK26H   500   146/  5  L27 L39 L38 W54 L36 1.0
+ 53 Stone, Rioaki          HLYEK26F   400   118/  5  L36 L43 L28 W57 L40 1.0
+ 54 Schmidt, Matthew       LKDFK26E   500   100/  5  L37 L50 L32 L52 W55 1.0
+ 55 Alvarez, Julian        AGBFK26D   500   100/  5  L6  L29 D47 L45 L54 0.5
+ 56 Pradeepkumar, Pranit   LKDFK26C   500   100/  5  L34 L41 D48 L47 L49 0.5
+ 57 Li, Grace              LKDEK26A   400   100/  5  L17 L21 L13 L53 L43 0.0

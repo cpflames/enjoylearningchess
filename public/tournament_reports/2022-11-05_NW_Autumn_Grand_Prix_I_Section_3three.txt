@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Carpenter, Abby        VSTGA99C   600  1000/  3  W2  W4  W3  3.0
+  2 Bhatta, Mehveer        HORH129T   700   863/  3  L1  W8  W6  2.0
+  3 Rodgers, Isaac         BLNIA64B   800   896/  3  W8  W5  L1  2.0
+  4 Danger, Presley        BLNG716S   600   896/  3  W7  L1  W5  2.0
+  5 Koontz, John           HORI103A   800   599/  3  W6  L3  L4  1.0
+  6 Porter, Toby           BLNIE53Z   800   480/  3  L5  W7  L2  1.0
+  7 Greene, Kylie          VSTGE69K   600   400/  3  L4  L6  W8  1.0
+  8 Cox, Mason             VSTGI31L   600   400/  3  L3  L2  L7  0.0
+
+ All Unrated-player Section: Ratings capped at 1000

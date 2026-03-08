@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Syal, Yash             SHSCC10R   400   503/  6  W4  L3  W2  2.0
+  2 Khatib, Balushi        LKDDK23M   505   521/ 18  W3  W5  L1  2.0
+  3 Davis, Griffin         DGHFB35A   400   443/  5  L2  W1  WF  2.0
+  4 Jungmeisteris, Gordon  HSCCF88R   517   494/ 12  L1  D6  W5  1.5
+  5 Swaminathan, Athira    EBSC559M   400   400/  3  W6  L2  L4  1.0
+  6 Bohannon, Andrew       LHTDG71E   426   400/ 26  L5  D4  LF  0.5

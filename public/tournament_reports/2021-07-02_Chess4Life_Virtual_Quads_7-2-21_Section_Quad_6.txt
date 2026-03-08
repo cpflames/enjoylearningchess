@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yang, Jimmy            BCABG45S  1077  1161/ 84  W3  W4  W2  3.0
+  2 Zou, Ethan             WOBDI88K  1034  1055/185  W4  W3  L1  2.0
+  3 Deshpande, Keshav      WOBD420G   962   952/ 53  L1  L2  W4  1.0
+  4 Ivanovic, Lena         UCDAK55K   975   910/204  L2  L1  L3  0.0

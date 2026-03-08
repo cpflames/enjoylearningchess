@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Condit, Alex           TLIDB04F   823   869/ 15  W4  W2  L3  2.0
+  2 Polonsky, Daniel       NCSH946P   862   889/ 13  W3  L1  W4  2.0
+  3 Ivanovic, Lena         UCDAK55K   862   888/143  L2  W4  W1  2.0
+  4 Agarwal, Ishaan Huma   REEEH10F   869   785/ 48  L1  L3  L2  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Liu, Peter             HSCH798G   700   988/  3  W4  W3  W2  3.0
+  2 Marin, Aaron           CGREI06Z   400   678/  3  W3  W4  L1  2.0
+  3 Chaudhuri, Agnivesh    CHACB55V   400   400/  6  L2  L1  W4  1.0
+  4 Kasavajhala, Abhay     RKWCI97Q   400   400/  3  L1  L2  L3  0.0

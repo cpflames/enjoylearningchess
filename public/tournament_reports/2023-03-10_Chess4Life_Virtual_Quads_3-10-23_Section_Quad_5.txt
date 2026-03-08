@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tian, Eric             SOMEI80S  1073  1096/ 70  L2  W4  W3  2.0
+  2 Deshpande, Keshav      WOBF420G  1064  1090/ 77  W1  L3  W4  2.0
+  3 Zeitlin, Tom           SPTDI56H  1090  1059/ 31  L4  W2  L1  1.0
+  4 Girroir, Arrow         ACNCQ003  1043  1025/ 28  W3  L1  L2  1.0

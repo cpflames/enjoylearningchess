@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Stein, Samuel          HSCEH03T  1238  1332/197  W11 W12 W3  WF  4.0
+  2 Rastogi, Reyansh       LMAFD30N  1206  1247/165  W17 W13 WF  W6  4.0
+  3 Venkatachalam, Kedar   BRHI947E  1179  1374/ 11  W18 W5  L1  W10 3.0
+  4 Hochberg, David        SUEJ6075  1133  1182/185  L7  W8  W18 W16 3.0
+  5 Chen, Tongjia          ESCIA55R   800  1363/  4  W10 L3  W12 W11 3.0
+  6 Cottenier, Louis       DISF700P  1154  1171/ 72  D16 W15 W7  L2  2.5
+  7 Stein, Benjamin        HSCCB61S  1434  1370/207  W4  WF  L6  L12 2.0
+  8 Mcintyre, Isaac        ETSC466S  1261  1203/ 43  WF  L4  W14 L13 2.0
+  9 Zhou, Nathan           NJHG215X  1230  1182/ 18  L12 L11 W15 W17 2.0
+ 10 Joshi, Arnav           PLKGJ24W  1140  1137/135  L5  W17 W16 L3  2.0
+ 11 Budhraja, Jai          EBSEA16E  1099  1113/ 54  L1  W9  W13 L5  2.0
+ 12 Wu, Jasper             NWOG3471   994  1105/ 89  W9  L1  L5  W7  2.0
+ 13 Abburi, Harshith Sai   BCWHA34S   724   795/ 22  BYE L2  L11 W8  2.0
+ 14 Kowta, Arya            TIMEE50L  1199  1129/145  D15 L16 L8  W18 1.5
+ 15 Holzer, Liam           EVJHG89B   957   945/ 70  D14 L6  L9  BYE 1.5
+ 16 Yang, Eric             NCSH113Z   829   940/  8  D6  W14 L10 L4  1.5
+ 17 Lahue, Ihsan           WAVGJ69P   961   923/ 95  L2  L10 BYE L9  1.0
+ 18 Verma, Eshaan          GTMHC02S   865   843/135  L3  BYE L4  L14 1.0

@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Malsam, John           GPSK425S  1446  1456/111  WF  W5  W7  W2  4.0
+  2 Kangvanwanich, ThanawinGPSKK99C  1000  1183/  4  W8  W13 W11 L1  3.0
+  3 Carroll, Mike          GPSNK99A  1300  1040/  4  W12 L7  W14 W11 3.0
+  4 Conway, Cole           GPSK771H  1018   982/ 83  L13 W15 D5  W7  2.5
+  5 Hamsher, Jack          GPSJA99G   488   721/  9  W6  L1  D4  W13 2.5
+  6 Dougherty, Ryan        GPSMK999  1200   793/  4  L5  W9  D8  W12 2.5
+  7 Price, Rachel          GPSJF94S   762   853/ 19  W10 W3  L1  L4  2.0
+  8 Schlegel, Stefen       GPSJD508   710   711/ 43  L2  W16 D6  HPB 2.0
+  9 Jackson, Dylan         GPSJ176A   423   418/ 12  L11 L6  WF  W16 2.0
+ 10 Dougherty, Cian        GPSKK98Z  1000   691/  4  L7  L12 W16 W14 2.0
+ 11 Le, Preston            GPSJK98Y   900   850/  4  W9  W14 L2  L3  2.0
+ 12 Sabata, Eli            GPSM140Z   958   829/  7  L3  W10 D13 L6  1.5
+ 13 Pitts, Kameron         GPSJK98X   900   841/  4  W4  L2  D12 L5  1.5
+ 14 Nokes, Jaxon           GPSM617Y   799   682/  9  W16 L11 L3  L10 1.0
+ 15 Biador, Chanthea       GPSKK98W  1000   576/  1  HPB L4  LF  HPB 1.0
+ 16 Lauth, Marcus          GPSJK98U   900   100/  4  L14 L8  L10 L9  0.0

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pai, Shubham           BCAF694R   507   674/ 42  W2  W4  W3  3.0
+  2 Kuluru, Samith         KKNGI99K   534   561/ 93  L1  W3  W6  2.0
+  3 Cheruku, Gaurik        XXXFI58C   522   487/  9  W5  L2  L1  1.0
+  4 Li, Chufei             CNHC389T   516   475/ 21  W6  L1  L5  1.0
+  5 Wang, Aaron            BCAB631T   426   400/ 37  L3  L6  W4  1.0
+  6 Birney, Halsten        ENAC657H   400   400/  6  L4  W5  L2  1.0

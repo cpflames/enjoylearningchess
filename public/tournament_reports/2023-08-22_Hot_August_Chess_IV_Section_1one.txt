@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Stroud, Jeb            HSCHK22V  1365  1468/ 44  W2  W3  W4  3.0
+  2 Scollon, Owen          FHVH734D  1639  1619/438  L1  W4  W3  2.0
+  3 Kozaczuk, James        SHKH108A  1161  1185/172  W4  L1  L2  1.0
+  4 Wilson, Nathaniel      SHKHE45V  1351  1295/ 79  L3  L2  L1  0.0

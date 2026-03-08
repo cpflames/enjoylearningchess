@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Shubin, Neta           RKWK7542   514   673/ 39  W3  W2  W4  3.0
+  2 Shaikot, Sabeer        XXXC147Q   400   654/  3  W5  L1  W3  2.0
+  3 Suresh, Shruti         MTWB650Q   400   441/  3  L1  W6  L2  1.0
+  4 Deepak, Sairaghav      HSCFA52Q   400   400/ 11  D6  D5  L1  1.0
+  5 Sue, Maya              XXXHD64U   672   513/  6  L2  D4  D6  1.0
+  6 Bhoot, Rohan           CRKCE48R   400   400/  3  D4  L3  D5  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Edmond, Alec           CSICH03G  1019  1137/169  W3  W2  W4  3.0
+  2 Zhang, Ethan Yichen    CRIEG57B  1005  1037/271  W4  L1  W3  2.0
+  3 Syal, Yash             SHSDC10R  1003   983/ 50  L1  W4  L2  1.0
+  4 Yin, Daniel            ISSK116Y  1009   937/251  L2  L3  L1  0.0

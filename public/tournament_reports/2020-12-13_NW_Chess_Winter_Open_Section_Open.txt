@@ -1,0 +1,28 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Razmov, Valentin       ADUNB02T  1862  1918/ 22  W15 W9  W2  W8  W3  5.0
+  2 Johar, Mudit           SKNLH59G  1732  1747/ 98  W18 W6  L1  W5  W9  4.0
+  3 Ingram, Richard        BCXNX611  1561  1585/ 30  W21 W17 D5  W16 L1  3.5
+  4 Seshadri, Sridhar      ADUNC121  1718  1705/ 34  W10 L8  W12 W17 D6  3.5
+  5 Liotta, Nicholas       ADUN972H  1648  1660/ 10  W24 W19 D3  L2  W8  3.5
+  6 Takayoshi, Evan        UNKME25R   924  1202/  5  W25 L2  W22 W13 D4  3.5
+  7 Han, Shuyi             SOMEK47W  1510  1538/211  D14 L12 W27 W24 W16 3.5
+  8 Cheng, Edward          WMSIC74W  1717  1724/169  W11 W4  W14 L1  L5  3.0
+  9 Suess, Wade            EVGF101D  1554  1550/213  WF  L1  W18 W20 L2  3.0
+ 10 Saloranta, Leo         IMSHB40A  1093  1277/ 80  L4  W11 L13 W19 W23 3.0
+ 11 Krzykawski, Tomasz     ADONS77G  1300  1389/  5  L8  L10 W21 W18 W17 3.0
+ 12 Farrell, Brandon       ADUN8084  1022  1642/  4  HPB W7  L4  D14 W20 3.0
+ 13 Hamlett, James         ADON4372  1561  1517/ 20  L19 WF  W10 L6  W22 3.0
+ 14 Hayami, Marvin         ADUNE413  1766  1727/ 11  D7  W20 L8  D12 D15 2.5
+ 15 Priest, Liam           OHLHL07U  1493  1473/189  L1  W26 L20 W25 D14 2.5
+ 16 Sankar, Abhay          LEOH6545  1569  1544/317  W26 HPB W23 L3  L7  2.5
+ 17 Ruff, Lois             ADUNJ90S  1082  1111/ 53  W27 L3  W19 L4  L11 2.0
+ 18 Ehrenberg, Joshua      HCCKH373  1166  1194/100  L2  W25 L9  L11 W24 2.0
+ 19 Zhou, Bourne           BLMGC62W  1292  1267/ 76  W13 L5  L17 L10 WF  2.0
+ 20 Cheng, Selina          THUD413R  1253  1275/151  BYE L14 W15 L9  L12 2.0
+ 21 Xia, Yuchen            BLMHI52A  1242  1215/ 86  L3  L24 L11 W26 W25 2.0
+ 22 Lin, Michael           BCABC97F  1560  1484/160  L23 BYE L6  W27 L13 2.0
+ 23 Morris, Brian L        ADUNG72M  1508  1477/ 16  W22 HPB L16 HPB L10 2.0
+ 24 Yadav, Arjun           MMED664A  1328  1297/ 45  L5  W21 HPB L7  L18 1.5
+ 25 Malugu, Sankalp        SHSBE95W  1138  1080/122  L6  L18 W26 L15 L21 1.0
+ 26 Moeser, Soren          BUSCF29A   553   548/ 14  L16 L15 L25 L21 BYE 1.0
+ 27 Ramkumar, Nikhil       RBRD115E   804   793/ 20  L17 HPB L7  L22 LF  0.5

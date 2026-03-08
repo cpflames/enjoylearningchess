@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chaudhuri, Arihant     CHAC703E   899   972/ 93  W2  D3  W4  2.5
+  2 Zhang, Ethan Yichen    CRIEG57B  1061  1021/253  L1  D4  W3  1.5
+  3 Naenna, Patanin        SPLDQ28H   845   860/127  W4  D1  L2  1.5
+  4 Chen, Albert           LKWA728A   800   733/  5  L3  D2  L1  0.5

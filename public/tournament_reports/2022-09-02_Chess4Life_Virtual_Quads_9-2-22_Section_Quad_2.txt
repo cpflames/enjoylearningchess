@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yu, Aiden              TYEJF95R  1454  1639/ 12  W4  W3  W2  3.0
+  2 Gollapally, Arnav      BLMI499J  1468  1479/131  D3  W4  L1  1.5
+  3 Sinha, Agastya         HSCDA75C  1517  1499/ 95  D2  L1  D4  1.0
+  4 Sangal Lopez, Dev      CTNG515J  1511  1475/322  L1  L2  D3  0.5

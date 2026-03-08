@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ivanovic, Lena         UCDAK55K   961  1099/216  W2  W3  W4  3.0
+  2 Pisan, Kai             CHYG404C  1001  1025/157  L1  W4  W3  2.0
+  3 Yang, Jimmy            BCABG45S   983   935/ 99  D4  L1  L2  0.5
+  4 Kan, Leanne            HSCC710K   972   927/ 65  D3  L2  L1  0.5

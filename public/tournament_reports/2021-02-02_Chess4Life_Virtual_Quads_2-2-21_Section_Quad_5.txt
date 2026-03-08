@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chowdhary, Shivam      CMCED47H   763   818/ 16  W4  D2  W3  2.5
+  2 Chen, Nicholas         HSCFI22V   664   777/ 23  W3  D1  W4  2.5
+  3 Ramkumar, Nethra       RBRD315Z   736   702/ 22  L2  W4  L1  1.0
+  4 Wang, Oscar            HSCBG77U   638   575/ 23  L1  L3  L2  0.0

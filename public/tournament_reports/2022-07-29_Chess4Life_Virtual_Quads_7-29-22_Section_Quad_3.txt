@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dai, Alex              CHRDC43N  1218  1313/ 84  W3  W4  W2  3.0
+  2 Zhu, Kevin             CSMC865U  1224  1195/291  L4  W3  L1  1.0
+  3 Hochberg, David        SUEJ6075  1170  1155/224  L1  L2  W4  1.0
+  4 Bar, Nathan            AUDC368C  1155  1143/183  W2  L1  L3  1.0

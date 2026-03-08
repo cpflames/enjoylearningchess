@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Singh, Rushil          SNEFB52N  1201  1302/ 97  W3  W4  W2  3.0
+  2 Joshi, Vyom            LEOHH81X  1175  1180/148  D4  W3  L1  1.5
+  3 Goel, Darsh            SBOFR06Y  1172  1154/ 62  L1  L2  W4  1.0
+  4 Hochberg, David        INNK6075  1185  1141/321  D2  L1  L3  0.5

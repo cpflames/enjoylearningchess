@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Shetty, Darsh          MISFZ40N   500  1465/  5  W3  W4  W2  W6  L5  4.0
+  2 Khandelwal, Ayush      REEE897D  1534  1490/143  W5  WF  L1  L3  W3  3.0
+  3 Mathur, Aashi          CRKF522S  1251  1292/218  L1  W6  W4  W2  L2  3.0
+  4 Hawkins, Holden        TYEI383Z  1258  1236/319  W6  L1  L3  W5  W6  3.0
+  5 Naidu, Pru             BLMH400N   858   929/ 36  L2  BYE W6  L4  W1  3.0
+  6 Vana, Arjun            XXXAK99G   400   400/  5  L4  L3  L5  L1  L4  0.0

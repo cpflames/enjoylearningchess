@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Gijare, Mitali         CNCBD78L   567   603/ 21  W4  L3  W2  2.0
+  2 Shaikot, Sabeer        ENSD147Q   676   674/ 82  W3  W4  L1  2.0
+  3 Lechner, Ryker         HSCD496J   509   580/ 16  L2  W1  W4  2.0
+  4 Ge, Alex               CCDB908H   508   438/ 15  L1  L2  L3  0.0

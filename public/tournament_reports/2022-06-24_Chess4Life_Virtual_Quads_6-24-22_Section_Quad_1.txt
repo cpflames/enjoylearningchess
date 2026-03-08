@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pisan, Kai             CHYH404C  1686  1695/362  W3  W2  D4  2.5
+  2 Xiang, Herui           LWAL153Y  1489  1477/ 59  WF  L1  D3  1.5
+  3 Singh, Rushil          SNEEB52N  1470  1461/ 55  L1  WF  D2  1.5
+  4 Sangal Lopez, Dev      CTNF515J  1540  1549/310  LF  LF  D1  0.5

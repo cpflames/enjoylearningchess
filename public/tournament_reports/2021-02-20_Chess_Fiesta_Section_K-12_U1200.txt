@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Carman, Leif           RICKB289  1143  1276/198  W8  W4  D2  W3  W5  4.5
+  2 Enriquez, Daniel       EALK7733  1230  1267/ 38  W5  W9  D1  D6  W4  4.0
+  3 Heider, Elena          NOVGC647   795  1051/ 36  W11 W10 W7  L1  D6  3.5
+  4 Borden, Hugh           IMSH596M  1029  1094/ 49  W10 L1  W11 W9  L2  3.0
+  5 Bergstedt, Sawyer      HSOJT487  1138  1137/263  L2  W13 W8  W7  L1  3.0
+  6 Borden, Derek          IMSH915P  1214  1188/ 53  W12 L7  W9  D2  D3  3.0
+  7 Tian, Grace            CRIDE89L   981  1024/ 97  WF  W6  L3  L5  W10 3.0
+  8 Morse, Frank           HSOIW762   997  1020/189  L1  BYE L5  W11 W12 3.0
+  9 Yun, Ted               SOMEF52H   978   942/ 56  W13 L2  L6  L4  BYE 2.0
+ 10 Hawkins, Holden        TYEI383Z  1152  1077/198  L4  L3  W13 W12 L7  2.0
+ 11 Nelson, Ben            REGHD43V  1137  1066/152  L3  W12 L4  L8  W13 2.0
+ 12 Sood, Akul             SASH510U   985   908/122  L6  L11 BYE L10 L8  1.0
+ 13 Diamant, David         MCKF969P   500   400/  4  L9  L5  L10 BYE L11 1.0

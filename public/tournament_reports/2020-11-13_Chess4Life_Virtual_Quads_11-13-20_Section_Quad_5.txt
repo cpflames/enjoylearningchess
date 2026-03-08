@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yang, James            SSME123B  1176  1264/ 99  W3  W4  W2  3.0
+  2 Aski, Kabir            CNHHG340  1229  1231/408  W4  W3  L1  2.0
+  3 Dmitriev, Lyan         NPTD246H  1197  1160/218  L1  L2  W4  1.0
+  4 Xie, Michael           BLWE549C   828   810/130  L2  L1  L3  0.0

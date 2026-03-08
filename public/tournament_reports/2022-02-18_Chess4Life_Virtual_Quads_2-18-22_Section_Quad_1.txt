@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Boulis, Christos       RHJIC84T  1743  1730/538  W4  W3  L2  2.0
+  2 Zhou, Yuchen           BCACJ42H  1528  1554/409  W3  L4  W1  2.0
+  3 Frederick, Benjamin    LAUES57X  1500  1493/161  L2  L1  W4  1.0
+  4 Pisan, Kai             CHYH404C  1481  1478/269  L1  W2  L3  1.0

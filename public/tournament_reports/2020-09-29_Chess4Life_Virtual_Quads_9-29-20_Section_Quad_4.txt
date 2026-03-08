@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kapur, Tvisha          RSAE920A   506   615/ 11  W4  W3  W2  3.0
+  2 Kan, Kaleb             MMECF53E   734   709/ 39  W3  W4  L1  2.0
+  3 Uchunor, Chukwuemeka   HSCEG88X   400   439/  3  L2  L1  W4  1.0
+  4 Grigorenko, Yana       FRWBA39N   400   400/  9  L1  L2  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ying, Yiheng           MEDEE78K  1248  1268/281  L2  W4  W3  2.0
+  2 Sinha, Agastya         HSCCA75C  1215  1264/  9  W1  L3  W4  2.0
+  3 Bhattacharjee, ArchishmBLWFA45Y  1244  1220/136  L4  W2  L1  1.0
+  4 Wang, Jacob            BLWED74Y  1222  1203/178  W3  L1  L2  1.0

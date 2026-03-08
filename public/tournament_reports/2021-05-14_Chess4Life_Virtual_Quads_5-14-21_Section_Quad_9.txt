@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Verretto, Dante        EMSIS76P   898   917/173  W3  W4  L2  2.0
+  2 Wang, Ares             BMNCJ77J   886   909/ 96  W4  L3  W1  2.0
+  3 Sailer, Shaunak        SARDC25Z   855   891/ 90  L1  W2  W4  2.0
+  4 Condit, Theo           TLIAJ39C   847   774/ 47  L2  L1  L3  0.0

@@ -1,0 +1,31 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Vashisht, Aneesh       LKWDC30Y  1009  1224/ 38  W15 W17 W10 W3  W4  5.0
+  2 Pusuluri, Likhit Arnav CNCEC25K  1152  1159/ 69  W25 L4  W22 W10 W11 4.0
+  3 Shankaranand, Deeksha  EBSDI74Y  1082  1121/131  W28 W27 W9  L1  W8  4.0
+  4 Aelion, Aya            SWLGF21D  1003  1116/ 20  W26 W2  W11 W18 L1  4.0
+  5 Cao, Sean              TPSEA33Q   607   950/  9  W8  L21 W20 W19 W7  4.0
+  6 Kedarisetty, Ishan     GRRE300B  1099  1102/113  W22 HPB L12 W25 W18 3.5
+  7 Swaminath, Ankita      CNCE571R  1073  1066/ 50  L11 W12 W21 W9  L5  3.0
+  8 Yun, Daniel D          BCABK87Z  1085  1065/116  L5  W15 W29 W17 L3  3.0
+  9 Gande, Akshath         WPPFG23R   939   957/ 36  W13 W18 L3  L7  W24 3.0
+ 10 Kedarisetty, Shreyas   GRRFH60G   910   940/110  W24 W19 L1  L2  W23 3.0
+ 11 Rao, Atharv            SOMDB90T   835   920/  9  W7  BYE L4  W27 L2  3.0
+ 12 Ramprasad, Udbhav      EMDFG73Z   766   933/ 25  L20 L7  W6  W22 W17 3.0
+ 13 Mishra, Naveen         SNIEI07A   549   722/ 10  L9  L23 W30 W21 W19 3.0
+ 14 Sailer, Shaunak        SAREC25Z   791   801/132  L19 W30 L18 D20 W25 2.5
+ 15 Kulkarni, Anika        ETSDK21E   740   807/ 51  L1  L8  D16 W26 W20 2.5
+ 16 Kossuri, Neil          KKNE696L   629   709/  9  U   L22 D15 W30 W27 2.5
+ 17 Nalasani, Manasvi      XXOEM12Z  1101  1053/ 30  W21 L1  W27 L8  L12 2.0
+ 18 Kakkad, Vayu           DCTBK50L  1076  1019/412  W23 L9  W14 L4  L6  2.0
+ 19 Kamidi, Anish Reddy    CHRF626K  1040   918/ 10  W14 L10 W23 L5  L13 2.0
+ 20 Konatham, Teja         CHRFD47A  1011   954/177  W12 HPB L5  D14 L15 2.0
+ 21 Loconte, Augustus      CSIC331E  1152  1070/ 51  L17 W5  L7  L13 W28 2.0
+ 22 Sankar, Sneha          CNCE372B   898   877/204  L6  W16 L2  L12 W29 2.0
+ 23 Wang, Nicole           SOMD428S   873   836/ 40  L18 W13 L19 W29 L10 2.0
+ 24 Kummariguntla, SrivishnCHAFH85S   483   581/  8  L10 BYE L25 W28 L9  2.0
+ 25 Wei, Sarina            CSIFG09P   909   849/ 79  L2  D26 W24 L6  L14 1.5
+ 26 Davis, Nathan          SFREJ66C   691   665/118  L4  D25 L28 L15 W30 1.5
+ 27 Petito, John           HSCB453W   911   829/ 31  W29 L3  L17 L11 L16 1.0
+ 28 Wei, Marcus            CSID588E   877   780/ 62  L3  L29 W26 L24 L21 1.0
+ 29 Patil, Aarna           TBKEB20J   503   556/ 10  L27 W28 L8  L23 L22 1.0
+ 30 Kashyap, Amil          CSMEC56B   474   409/  8  U   L14 L13 L16 L26 0.0

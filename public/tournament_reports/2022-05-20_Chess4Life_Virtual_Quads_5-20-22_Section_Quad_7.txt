@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Ethan Yichen    CRIEG57B   912  1061/250  W3  W4  W2  3.0
+  2 Taylor, Ryder          HPTI385C   921   967/173  W4  W3  L1  2.0
+  3 Yin, Daniel            ISSK116Y   973   944/231  L1  L2  W4  1.0
+  4 Nidamarthi, Nikhil     RSAC375J   956   880/ 73  L2  L1  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hildenbrand, Jace      TCEE722T   318   468/ 75  W3  W4  W2  3.0
+  2 Soran, Thomas          CIADK35T   171   235/  8  D4  W3  L1  1.5
+  3 Gardner, Andrew        CUEDK22Z   250   239/ 25  L1  L2  W4  1.0
+  4 Swanson, Ashton        CUEEK23B   430   326/ 11  D2  L1  L3  0.5

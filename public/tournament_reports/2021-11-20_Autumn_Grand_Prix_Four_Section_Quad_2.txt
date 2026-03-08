@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bosch, Ethan           SHMMF67U  1187  1205/ 12  W4  D2  W3  2.5
+  2 Lewis, Theo            FERKK29P   981  1081/ 16  W3  D1  W4  2.5
+  3 Nipges, Jaxon          HORI382B  1051  1024/ 50  L2  W4  L1  1.0
+  4 Anshus, Erik           SHMKD320   898   856/ 60  L1  L3  L2  0.0

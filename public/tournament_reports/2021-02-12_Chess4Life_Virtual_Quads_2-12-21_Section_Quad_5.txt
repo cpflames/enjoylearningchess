@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Yiyang             BCAD700B  1304  1321/143  W3  W4  L2  2.0
+  2 Kamel, Yaseen          PFCID57L  1259  1288/ 67  W4  L3  W1  2.0
+  3 Tiwari, Prakhar        INGH785R  1286  1307/ 46  L1  W2  W4  2.0
+  4 Yang, James            SSME123B  1281  1215/129  L2  L1  L3  0.0

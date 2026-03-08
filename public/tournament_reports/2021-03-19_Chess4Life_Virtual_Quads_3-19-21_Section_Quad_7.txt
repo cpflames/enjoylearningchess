@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Singh, Karanjit        OMSIW934  1307  1339/ 66  W3  W2  U   2.0
+  2 Yang, James            SSME123B  1196  1203/140  U   L1  W3  1.0
+  3 Zhang, Ethan (yichen)  CRIDG57B  1195  1153/ 86  L1  U   L2  0.0

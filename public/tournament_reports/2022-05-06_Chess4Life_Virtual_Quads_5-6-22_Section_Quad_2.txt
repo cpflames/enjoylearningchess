@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Patankar, Vijay        THRHC78Y  1532  1594/227  W2  W4  W3  3.0
+  2 Xie, Max               BLWHI185  1417  1457/373  L1  W3  W4  2.0
+  3 Zhou, Yuchen           BCACJ42H  1535  1505/455  W4  L2  L1  1.0
+  4 Siddem, Sid            RHJIC34V  1416  1369/401  L3  L1  L2  0.0

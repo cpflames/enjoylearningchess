@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Joshi, Vyom            LEOHH81X  1131  1191/ 91  W2  D3  W4  2.5
+  2 Nidamarthi, Nikhil     RSAD375J  1138  1158/129  L1  W4  W3  2.0
+  3 Bhaskara, Yash         ICSII539  1100  1082/236  D4  D1  L2  1.0
+  4 Sim, Daniel            KSHG633U  1146  1058/  9  D3  L2  L1  0.5

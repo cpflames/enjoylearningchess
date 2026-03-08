@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Cheng, Selina          THUF413R  1395  1512/432  W25 W21 W7  W3  D2  4.5
+  2 Yondon, Odbayar        LMAEK97T  1644  1645/123  W18 D5  W15 W7  D1  4.0
+  3 Saddi, Neevan Reddy    GRRDH87M  1477  1496/112  W24 W14 W4  L1  W8  4.0
+  4 Kokati, Pranav         OMSH814P  1414  1426/232  W12 W8  L3  W16 D6  3.5
+  5 Dai, Alex              CHREC43N  1356  1376/111  W10 D2  W13 L6  W12 3.5
+  6 Rubaiyat, Rhadean      ICSHD40L  1354  1393/107  W19 L7  W9  W5  D4  3.5
+  7 Razmov, Gabriel        ADDHC26K  1597  1574/264  W9  W6  L1  L2  W18 3.0
+  8 Miller, Jackson        XXXI301V  1282  1290/ 75  W22 L4  W24 W14 L3  3.0
+  9 Veiga, Gabriel         ENSGJ31Y  1151  1202/113  L7  W25 L6  W13 W17 3.0
+ 10 Shen, Enoch            BLWFH90P  1069  1145/ 45  L5  W24 W25 L17 W14 3.0
+ 11 Byam, Caleb            HSCGI71C   866  1055/ 25  D17 D18 L12 W24 W16 3.0
+ 12 Graves, Henry          JFMHC00C  1117  1138/ 42  L4  D22 W11 W15 L5  2.5
+ 13 Chulki, Aayush         BLMHJ17Y   916  1025/108  D15 W17 L5  L9  W22 2.5
+ 14 Foltz, Karsten         HTNH306D  1282  1235/127  W20 L3  W23 L8  L10 2.0
+ 15 Abueg, Lorenzo         SLBIG77J  1270  1230/ 85  D13 W16 L2  L12 D19 2.0
+ 16 Avula, Varshith Reddy  BRHG110R  1258  1203/184  W23 L15 W20 L4  L11 2.0
+ 17 Ramaswamy, Rishi       OMSIS63U  1242  1189/ 77  D11 L13 D18 W10 L9  2.0
+ 18 Tie, Mike              ENDE856Y  1184  1179/ 62  L2  D11 D17 W20 L7  2.0
+ 19 Cheng, Alan            CHREJ71K  1114  1079/ 64  L6  L20 W22 D23 D15 2.0
+ 20 Kedarisetty, Shreyas   INGGH60G   938   967/130  L14 W19 L16 L18 W23 2.0
+ 21 Tripathi, Zoe          EVJGK89G   600  1110/  1  BYE L1  HPB HPB U   2.0
+ 22 Bhaskar, Vibhas        REJHA79F   922   897/137  L8  D12 L19 BYE L13 1.5
+ 23 Huang, Edwin           MEDF616M   910   885/ 19  L16 BYE L14 D19 L20 1.5
+ 24 Kedarisetty, Ishan     RCSF300B  1151  1079/137  L3  L10 L8  L11 BYE 1.0
+ 25 Gulati, Naamya         FRWF649C  1092  1050/132  L1  L9  L10 U   U   0.0

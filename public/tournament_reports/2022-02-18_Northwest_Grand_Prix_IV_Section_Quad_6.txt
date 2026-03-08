@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Gordziel, Conner       CIAE518P   508   585/  6  W4  W3  D2  2.5
+  2 Grunhurd, Kekoa        CEEE597A   444   485/  9  D3  W4  D1  2.0
+  3 Manookin, Jared        HSCCD11V   600   459/  6  D2  L1  D4  1.0
+  4 Packard, Dez           HSCD230W   400   400/  3  L1  L2  D3  0.5

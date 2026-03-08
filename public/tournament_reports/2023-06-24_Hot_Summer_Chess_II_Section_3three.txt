@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Daniel          HCRI589K   751   875/ 18  W2  W3  W4  3.0
+  2 Bannister, Cypress     EAGFK36L   667   726/ 20  L1  W4  W5  2.0
+  3 Fine-gucker, Logan     EAGD535R   735   694/ 56  W5  L1  L6  1.0
+  4 Hall, Jordan           CIAEK36R   701   677/ 15  W6  L2  L1  1.0
+  5 Buckham, George        SKYBK37E   624   603/ 13  L3  W6  L2  1.0
+  6 Singh, Arshaan         HORIK22R   617   587/ 10  L4  L5  W3  1.0

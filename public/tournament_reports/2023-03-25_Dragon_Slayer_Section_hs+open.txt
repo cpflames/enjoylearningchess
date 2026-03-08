@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Coe, Michael           UHIKK70Q  1457  1526/ 19  W2  W7  W6  D3  W5  4.5
+  2 Davis, Aiden           ADCJK70N  1150  1346/ 14  L1  BYE W8  W6  W3  4.0
+  3 Reddy, Eshan           SGSH336Y  1419  1424/290  W5  W12 W7  D1  L2  3.5
+  4 Triplett, Caleb        ADCJK70P  1184  1150/ 15  W11 L6  W12 L5  W10 3.0
+  5 Nuss, Sean             LWCLK92T  1094  1132/ 18  L3  W11 W9  W4  L1  3.0
+  6 Ambalavanan, Varun     LWCLK347  1430  1396/350  W9  W4  L1  L2  D7  2.5
+  7 Keener, Karl           HLHHY40G  1387  1360/ 94  W10 L1  L3  W9  D6  2.5
+  8 Walstrom, Nathan       LWCLK57J  1134  1132/ 12  HPB U   L2  W10 W11 2.5
+  9 Hilton, Olivia         SIAKK588   940   939/256  L6  W10 L5  L7  W12 2.0
+ 10 Davis, Tj              CMYJK50U   778   778/ 10  L7  L9  W11 L8  L4  1.0
+ 11 Hilton, Amelie         SIAJE627   734   709/226  L4  L5  L10 W12 L8  1.0
+ 12 Dyck, Chapin           CMYJK70J   545   520/ 16  BYE L3  L4  L11 L9  1.0

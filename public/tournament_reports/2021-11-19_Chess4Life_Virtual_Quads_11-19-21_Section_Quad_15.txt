@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Eric             HMNGI22X   555   724/ 22  W2  W4  W3  3.0
+  2 Nidamarthi, Nikhil     RSAC375J   582   649/  6  L1  W3  W4  2.0
+  3 Sumanaseni, Evan       CNHF876D   549   535/152  W4  L2  L1  1.0
+  4 Lahue, Ihsan           GRRGJ69P   595   507/ 56  L3  L1  L2  0.0

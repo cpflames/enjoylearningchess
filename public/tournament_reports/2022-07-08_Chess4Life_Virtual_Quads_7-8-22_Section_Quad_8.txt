@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Garg, Vihaan           CMCBJ10X   723   862/ 82  W4  W2  W3  3.0
+  2 Fang, Weiai            BRBB696W   756   777/ 42  W3  L1  W4  2.0
+  3 Mills, Paxson          HSCFI32D   662   655/ 47  L2  W4  L1  1.0
+  4 Li, Haiyi              EALJ762H   728   645/ 24  L1  L3  L2  0.0

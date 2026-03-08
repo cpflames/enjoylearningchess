@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sailer, Shaunak        SAREC25Z   739   776/109  W3  W2  D4  2.5
+  2 Naenna, Patanin        SPLDQ28H   690   710/ 49  W4  L1  W3  2.0
+  3 Lahue, Ihsan           GRRGJ69P   608   595/ 53  L1  W4  L2  1.0
+  4 Marin, Aaron           CGREI06Z   678   558/  6  L2  L3  D1  0.5

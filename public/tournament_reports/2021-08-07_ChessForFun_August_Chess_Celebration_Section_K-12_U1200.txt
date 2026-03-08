@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kokati, Pranav         OMSF814P  1117  1134/160  W2  W4  L3  W6  W5  4.0
+  2 Kamalakannan, NetthrayaSKWHE22N   855  1027/105  L1  W5  W4  W3  W6  4.0
+  3 Borden, Derek          IMSH915P  1180  1160/ 76  D5  W6  W1  L2  W4  3.5
+  4 Kandhare, Aaroh        MEDGK91M   656   762/ 28  W6  L1  L2  W5  L3  2.0
+  5 Shenoy, Vaishnavi      NPEFQ96H   898   871/ 40  D3  L2  W6  L4  L1  1.5
+  6 Raje, Atharva          SLLGL432   914   812/123  L4  L3  L5  L1  L2  0.0

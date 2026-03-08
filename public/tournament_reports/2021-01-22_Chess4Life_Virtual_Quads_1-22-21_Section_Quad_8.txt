@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Vijayakrishnan, AchyuthPKRB646F  1147  1232/ 20  W3  W4  W2  3.0
+  2 Zhang, Aaron           CCDD873R  1051  1039/255  W4  L3  L1  1.0
+  3 Pennington, Kyle       XXXDH02S  1090  1068/ 24  L1  W2  L4  1.0
+  4 Stein, Benjamin        HSCBB61S  1080  1060/123  L2  L1  W3  1.0

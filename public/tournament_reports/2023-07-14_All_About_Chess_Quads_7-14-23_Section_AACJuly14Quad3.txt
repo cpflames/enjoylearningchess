@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Narayan, Keshav        CMCEE45H   824   858/ 66  W4  W3  W2  3.0
+  2 Bidasaria, Kush        APOG357C   666   623/ 68  W3  L4  L1  1.0
+  3 Brakenridge, Bryce     SOMEK89D   472   485/ 18  L2  L1  W4  1.0
+  4 Laktyunkin, Philip     PPPCK08N   531   529/ 11  L1  W2  L3  1.0

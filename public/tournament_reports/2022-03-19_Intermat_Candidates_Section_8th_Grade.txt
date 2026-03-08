@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nallabothula, Varin    WPPI457A  1704  1706/365  W4  D2  WF  2.5
+  2 Sankar, Abhay          LEOI6545  1551  1583/358  D3  D1  W4  2.0
+  3 Wong-godfrey, Emerson  EXWIH83E  1654  1661/403  D2  W4  LF  1.5
+  4 Devadithya, Hiruna     PFCI5494  1527  1487/655  L1  L3  L2  0.0

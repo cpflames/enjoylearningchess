@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhao, Dennis           OPWG525E  1235  1313/325  W2  W3  D4  2.5
+  2 Ganesan, Vidur         RBRD940K  1193  1250/ 76  L1  W4  W3  2.0
+  3 Sreraman, Rohit        BCACG92Q  1227  1216/128  W4  L1  L2  1.0
+  4 Karri, Aditya          AUDEC55V  1380  1314/338  L3  L2  D1  0.5

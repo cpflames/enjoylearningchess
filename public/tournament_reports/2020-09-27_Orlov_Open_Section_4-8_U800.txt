@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Raje, Atharva          SBOGL432   668   787/ 53  W2  W3  W4  L2  W4  4.0
+  2 Vaishnavi, Shenoy      NPEFS18B   500   871/  5  L1  W4  W3  W1  W3  4.0
+  3 Aldinger, Nikolai      WHRFG72F   500   474/  5  W4  L1  L2  L4  L2  1.0
+  4 Ram, Joey              THOGF94L   687   604/ 38  L3  L2  L1  W3  L1  1.0

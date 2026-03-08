@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kim, Joshua            CHOLJ12T  1565  1564/ 58  W3  W4  L2  2.0
+  2 Ge, Daniel             SPTHI42V  1469  1488/227  W4  L3  W1  2.0
+  3 Sangal Lopez, Dev      WOBE515J  1383  1381/135  L1  W2  L4  1.0
+  4 Meiyalagan, Ruban Sai  WLDED10L  1448  1432/104  L2  L1  W3  1.0

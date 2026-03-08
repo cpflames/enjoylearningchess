@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Saddi, Neevan Reddy    GRRDH87M  1607  1632/185  W3  W4  W2  3.0
+  2 Tan, Nathan            UCDD412Y  1450  1467/164  W4  W3  L1  2.0
+  3 Huang, Emily           OMSGB39A  1358  1354/293  L1  L2  W4  1.0
+  4 Benedict, Blaine       HSCHK07Q  1380  1307/ 12  L2  L1  L3  0.0

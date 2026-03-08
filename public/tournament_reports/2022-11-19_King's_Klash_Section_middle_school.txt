@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Keener, Karl           HLHHY40G  1132  1154/ 74  W5  W6  W3  D2  W4  4.5
+  2 Hochheimer, Noah       SGSGF37G   901   932/172  L11 W10 W4  D1  W3  3.5
+  3 Campbell, Sebastian    ASPHI79A  1026  1004/132  W10 W11 L1  W7  L2  3.0
+  4 Elkins, Indiana        HSCHC15D   882   898/ 44  W12 W7  L2  W9  L1  3.0
+  5 Malde, Jake            SSPHB22V   778   801/ 84  L1  W12 L7  W11 W8  3.0
+  6 Price, Amanda          HUTG493V   520   643/ 10  W9  L1  L8  W12 W10 3.0
+  7 Hill, Makaylah         LLAI396H   800   922/  5  W8  L4  W5  L3  W9  3.0
+  8 Sherwood, Leo          FREHI58J   994   820/ 10  L7  L9  W6  W10 L5  2.0
+  9 Dishanni, Jonah        ICPHY59G   700   686/  5  L6  W8  W11 L4  L7  2.0
+ 10 Soper, Tad             PPRH417G   700   493/  5  L3  L2  W12 L8  L6  1.0
+ 11 Carpentier, Rhyan      FREGB68Z   600   504/  5  W2  L3  L9  L5  L12 1.0
+ 12 Brown, Harrison        FREFH47S   500   423/  5  L4  L5  L10 L6  W11 1.0

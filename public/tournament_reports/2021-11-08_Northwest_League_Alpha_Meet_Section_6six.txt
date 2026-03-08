@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Brown, Sofia           MRDK128V  1000  1438/  3  W7  W4  W2  3.0
+  2 Red Elk, Ali-lawet     MRDL986S   400   577/ 16  W3  W6  L1  2.0
+  3 Smith, Henry           MDII604U   800   652/  3  L2  W7  W6  2.0
+  4 Peterson, Kylan        MRDK175Q  1000  1042/  3  W8  L1  W5  2.0
+  5 Pounder, Jacob         MRDJG96X   900   467/  3  L6  W8  L4  1.0
+  6 Waters, Shawn          BLHJK63D   900   488/  3  W5  L2  L3  1.0
+  7 Chaipellone, Teo       SHMKG88R   400   400/ 10  L1  L3  D8  0.5
+  8 Emory, Lukas           LYEL112V  1100   400/  3  L4  L5  D7  0.5

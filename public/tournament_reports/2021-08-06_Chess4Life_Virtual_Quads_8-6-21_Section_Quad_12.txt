@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhu, Kevin             CSMB865U   910  1030/194  W4  W3  W2  3.0
+  2 Ivanovic, Lena         UCDAK55K   968   977/210  W3  W4  L1  2.0
+  3 Rao, Deepak Sri KarthikXXXE517J   826   821/ 33  L2  L1  W4  1.0
+  4 Syal, Yash             SHSCC10R   866   797/ 24  L1  L2  L3  0.0

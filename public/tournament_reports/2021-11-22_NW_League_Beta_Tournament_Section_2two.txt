@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lewis, Rhys            SHMM8736  1323  1385/286  W6  W5  W4  3.0
+  2 Kuzin, Ethan           SHMJ7567  1209  1239/209  D7  W8  W5  2.5
+  3 Kuehnel, Ryan          FERMI96N  1110  1144/ 57  L5  W6  W7  2.0
+  4 Lee, Jae-yoon          SHMJC734  1085  1137/ 48  W8  W7  L1  2.0
+  5 Wakatsuki, Perry       LYEMC31A  1347  1255/  6  W3  L1  L2  1.0
+  6 Enertson, Zach         LYEK971E  1187  1169/ 43  L1  L3  W8  1.0
+  7 O'neill, Patrick       LYEJ221T  1137  1050/  6  D2  L4  L3  0.5
+  8 Brown, Sofia           MRDK128V  1438  1134/  6  L4  L2  L6  0.0

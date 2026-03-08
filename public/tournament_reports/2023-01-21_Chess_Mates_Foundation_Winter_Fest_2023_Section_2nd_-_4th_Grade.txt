@@ -1,0 +1,38 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kakkad, Vayu           DCTCK50L  1205  1241/443  W31 W21 W9  W15 W4  5.0
+  2 Joseph, Veronique      SJODJ04S  1222  1198/104  W23 L11 W29 W10 W6  4.0
+  3 Sankrithi, Sarang      HSCDB11D  1205  1195/186  W18 W12 W8  L4  W11 4.0
+  4 Chaudhuri, Arihant     CHAD703E  1100  1130/149  W16 W13 W11 W3  L1  4.0
+  5 Sreraman, Rohit        BCACG92Q  1052  1036/ 60  W32 L10 W23 W7  W16 4.0
+  6 Pan, David             MEDB330Y   980   989/ 47  W33 W15 W25 W21 L2  4.0
+  7 Edmond, Alec           CSIDH03G  1023   994/192  W36 W14 D10 L5  W20 3.5
+  8 Chaudhuri, Agnivesh    CHADB55V   944   942/145  W37 W25 L3  W13 D9  3.5
+  9 Sreraman, Rahul        BCACJ42L   907   916/ 61  W34 W26 L1  W14 D8  3.5
+ 10 Yu, Owen               MEDDC65S   571   762/ 34  W28 W5  D7  L2  W21 3.5
+ 11 Bandai, Yugo           MCECA31C   852   906/ 23  W19 W2  L4  W22 L3  3.0
+ 12 Pan, Harry             MEDDE67X   721   707/ 46  W35 L3  W26 L16 W23 3.0
+ 13 Raji, Surya            OPWE181Q   572   602/ 49  W27 L4  W28 L8  W25 3.0
+ 14 Takala, Greysen        VIWEE55T   542   584/ 19  W17 L7  W27 L9  W30 3.0
+ 15 O'connell, Jackson     NOWD792U   503   592/ 15  W30 L6  W24 L1  W29 3.0
+ 16 Hedstrom, Parker       WEDE498Y   400   539/ 10  L4  BYE W18 W12 L5  3.0
+ 17 Whittaker, Mason       CSIEK91Z   400   490/  5  L14 L33 W37 W32 W22 3.0
+ 18 Donohoe, Flora         LPZEF48Q   400   435/ 10  L3  D19 L16 W37 W35 2.5
+ 19 Schultz, Theodore      WEDDK91Y   300   518/  5  L11 D18 L20 W31 W24 2.5
+ 20 Kakarlapudi, Sreeram MuMEDD687Z   728   657/ 15  L26 L29 W19 W35 L7  2.0
+ 21 Melomed, Samuel        CCDE223B   572   566/ 10  WF  L1  W35 L6  L10 2.0
+ 22 Hoard, Otis            VIWE690B   472   452/ 42  D29 D24 W30 L11 L17 2.0
+ 23 Aker, Pepper           THUE181G   431   442/ 46  L2  W34 L5  W27 L12 2.0
+ 24 Donohoe, Robin         LPZCJ28Z   400   369/  9  BYE D22 L15 D29 L19 2.0
+ 25 Mandic, Filip          CSIEK91X   400   458/  4  WF  L8  L6  W28 L13 2.0
+ 26 Velazquez, Gael        LPZEK91W   400   492/  5  W20 L9  L12 L30 W31 2.0
+ 27 Leneway, Owen          CSICK91V   200   291/  5  L13 W36 L14 L23 W34 2.0
+ 28 Lu, Quinton            WEDDK91U   300   337/  5  L10 W32 L13 L25 W37 2.0
+ 29 Suresh Balaji, Shri ThaSWRCK91T   200   511/  5  D22 W20 L2  D24 L15 2.0
+ 30 Mcgrath, Ronan         GRWEK91S   400   377/  5  L15 W37 L22 W26 L14 2.0
+ 31 Hu, Elliott            CSID837H   400   278/  9  L1  L35 BYE L19 L26 1.0
+ 32 Anderson, Hugo         CSIEK91R   400   159/  4  L5  L28 W34 L17 U   1.0
+ 33 Wishwas, Rishab        WMEDK91Q   300   725/  2  L6  W17 U   U   U   1.0
+ 34 Thompson, Billie Jo    LPZEK91P   400   100/  4  L9  L23 L32 BYE L27 1.0
+ 35 Soltani, Everett       WEDDK91N   300   269/  5  L12 W31 L21 L20 L18 1.0
+ 36 Van Eyk, Thad          HRSEK91K   400   100/  2  L7  L27 U   U   U   0.0
+ 37 Chionh, Zachary        CSIDK91H   300   100/  5  L8  L30 L17 L18 L28 0.0

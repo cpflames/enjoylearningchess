@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lechner, Liam          HSCH591P  1240  1289/ 36  D3  W4  W2  2.5
+  2 Choi, Hunter           EVGEE80A  1236  1254/187  W4  W3  L1  2.0
+  3 Xie, Michael           BLWF549C  1180  1190/310  D1  L2  W4  1.5
+  4 Yun, Daniel D          BCAAK87Z  1201  1136/165  L2  L1  L3  0.0

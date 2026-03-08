@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Singh, Saket           DISJ872S  1349  1500/344  W4  W3  W2  3.0
+  2 Kang, Jinue            OMSH2661  1466  1488/263  W3  W4  L1  2.0
+  3 Stein, Samuel          HSCFH03T  1492  1469/232  L2  L1  W4  1.0
+  4 Sangal Lopez, Dev      CTNG515J  1518  1452/337  L1  L2  L3  0.0

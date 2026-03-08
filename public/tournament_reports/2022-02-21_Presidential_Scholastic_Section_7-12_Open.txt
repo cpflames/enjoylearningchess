@@ -1,0 +1,25 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Hou, Kennard           HHSL1917  1598  1665/185  W14 W7  W6  W2  D5  4.5
+  2 Hetamsaria, Aadi       TYEI888H  1597  1623/121  W15 W9  W3  L1  W7  4.0
+  3 Devadithya, Hiruna     PFCI5494  1503  1527/652  W18 W21 L2  W8  W11 4.0
+  4 Eksarevskiy, Albert    WPPH530Y  1472  1493/ 33  L11 W13 W15 W10 W6  4.0
+  5 Garine, Ujwal          REJIB99A  1568  1578/177  W16 W8  W11 L6  D1  3.5
+  6 Obulisamy, Jaikrishnaa EALJK894  1563  1560/ 83  W17 W10 L1  W5  L4  3.0
+  7 Pisan, Kai             CHYH404C  1478  1486/274  W19 L1  W21 W9  L2  3.0
+  8 Singhal, Palash        SKNJH323  1462  1458/149  W22 L5  W17 L3  W12 3.0
+  9 Yadlapati, Arush       EVJHA47S  1439  1435/166  W24 L2  W14 L7  W16 3.0
+ 10 Demberel, Amana        LCOJJ14E  1345  1360/ 17  W20 L6  W16 L4  W17 3.0
+ 11 Fan, Max               ISMI993P  1096  1277/ 21  W4  W12 L5  W21 L3  3.0
+ 12 Yuodelis, Kenneth      TYEI3681  1397  1363/353  D13 L11 W18 W14 L8  2.5
+ 13 Vutukuri, Adhrith      REJH326L   993  1091/ 29  D12 L4  L19 W20 W18 2.5
+ 14 Wirkkala, Zane         HSCIC64H  1300  1279/ 15  L1  W19 L9  L12 W22 2.0
+ 15 Godse, Gaurav          EVJH290Q  1283  1252/ 83  L2  W24 L4  L18 W23 2.0
+ 16 Talathi, Shrey         SNEEK61Z  1278  1257/152  L5  W22 L10 W23 L9  2.0
+ 17 Sharma, Devansh        KMNHF88S  1257  1249/112  L6  W20 L8  W19 L10 2.0
+ 18 Abueg, Lorenzo         SLBHG77J  1207  1193/ 75  L3  W23 L12 W15 L13 2.0
+ 19 Aggarwal, Aadit        LEOIE722  1135  1150/409  L7  L14 W13 L17 W21 2.0
+ 20 Bharadwaj, Anish       ETSHI530  1000  1011/252  L10 L17 W22 L13 W24 2.0
+ 21 Iskender, Selin        WPPIC66Y  1338  1260/ 18  W23 L3  L7  L11 L19 1.0
+ 22 Agarwala, Garv         LEOI485D  1034  1002/ 41  L8  L16 L20 W24 L14 1.0
+ 23 Arun, Anirudh          XXXH590G   700   935/  5  L21 L18 W24 L16 L15 1.0
+ 24 Gupta, Ishaan          INGH660Y  1018   929/ 62  L9  L15 L23 L22 L20 0.0

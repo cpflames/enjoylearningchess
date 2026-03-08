@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kuluru, Samith         KKNGI99K   584   751/152  W3  W4  W2  3.0
+  2 Wishwas, Rishab        WMEDK91Q   707   713/ 25  W4  W3  L1  2.0
+  3 Mishra, Angad          RKWDK70V   599   579/ 36  L1  L2  W4  1.0
+  4 Leon, Nikhil           HSCE587T   543   479/ 93  L2  L1  L3  0.0

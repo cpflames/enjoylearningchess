@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Cheng, Edward          WMSIC74W  1686  1710/214  HPB W3  W5  W2  W4  4.5
+  2 Devadithya, Hiruna     PFCH5494  1589  1599/605  W7  W4  W6  L1  W5  4.0
+  3 Mallipeddi, Advaith    HSCH445F  1064  1271/ 47  W5  L1  W4  W6  BYE 4.0
+  4 Smith, Cooper W        ADDG3548  1404  1372/164  WF  L2  L3  W7  L1  2.0
+  5 Tameling, Cole         UPAHK654  1339  1317/304  L3  W7  L1  BYE L2  2.0
+  6 Vangala, Agastya       LMSIB39V  1307  1247/295  WF  WF  L2  L3  L7  2.0
+  7 Jha, Siddhant          SSMGG46N  1247  1229/302  L2  L5  BYE L4  W6  2.0

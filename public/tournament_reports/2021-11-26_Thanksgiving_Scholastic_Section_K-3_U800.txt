@@ -1,0 +1,27 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wang, Nicole           SOMD428S   694   887/ 23  W22 W10 W2  W14 W6  5.0
+  2 Syal, Yash             SHSDC10R   797   836/ 29  W11 W16 L1  W9  W5  4.0
+  3 Zhang, Kevin           SPTD809Y   770   794/ 45  W18 W9  L6  W10 W8  4.0
+  4 Chaudhuri, Arihant     CHAA703E   400   665/ 20  L5  W19 W15 W13 W7  4.0
+  5 Pai, Vihaan            STVCK17C   804   825/ 48  W4  W8  W7  D6  L2  3.5
+  6 Ouyang, Andrew         EBSCI99J   400   874/  5  W15 W13 W3  D5  L1  3.5
+  7 Mccarthy, Connor       LKDCG20K   628   629/ 33  W24 W17 L5  W11 L4  3.0
+  8 Huttelmaier, Evelyn    CHRD757Z   552   569/102  W19 L5  W23 W17 L3  3.0
+  9 Adjei, Kyle Kofi       BUSDB64H   531   604/ 15  W12 L3  W20 L2  W14 3.0
+ 10 Chaudhuri, Agnivesh    CHACB55V   485   528/ 23  W20 L1  W21 L3  W19 3.0
+ 11 Mitra, Rishab          OPWD138L   454   513/106  L2  W25 W12 L7  W20 3.0
+ 12 Kumar, Vivaan          RSHD368T   400   574/  5  L9  W18 L11 W16 W17 3.0
+ 13 Metzmaker, Kyren       OPWD430W   638   605/110  W23 L6  D14 L4  W21 2.5
+ 14 Shah, Arjun            CBRCC91S   484   511/ 10  W26 W15 D13 L1  L9  2.5
+ 15 Wang, Gideon           SOMBC35B   623   560/ 19  L6  L14 L4  W25 W22 2.0
+ 16 Zhang, Aaron           RSACC74T   556   494/ 34  W25 L2  L17 L12 W23 2.0
+ 17 Balasubramanian, AkshatRCSD700Y   473   462/ 23  W21 L7  W16 L8  L12 2.0
+ 18 Sun, Julia             OPWCB21D   400   400/ 14  L3  L12 W25 L20 W24 2.0
+ 19 Belur, Advika          CHRD604P   400   400/  5  L8  L4  W22 W24 L10 2.0
+ 20 Stiepleman, Leo        WMED191U   400   400/  5  L10 W22 L9  W18 L11 2.0
+ 21 Li, Elizabeth          MEDDA66B   400   400/  5  L17 W24 L10 W23 L13 2.0
+ 22 Munjal, Suhani         NLAD162S   400   400/  5  L1  L20 L19 W26 L15 1.0
+ 23 Urali, Vijay           MEDA919P   400   400/  5  L13 W26 L8  L21 L16 1.0
+ 24 Dai, Noah              CNHAK11G   400   400/  5  L7  L21 W26 L19 L18 1.0
+ 25 Li, Rebecca            BCAAJ62B   400   400/  5  L16 L11 L18 L15 W26 1.0
+ 26 Ramkumar, Aditya       UNKBC38J   400   400/  5  L14 L23 L24 L22 L25 0.0

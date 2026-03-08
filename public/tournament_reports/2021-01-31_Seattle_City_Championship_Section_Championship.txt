@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bernadskiy, Vitaliy    ADINK11H  2471  2475/ 32  W10 W5  W2  D4  D3  4.0
+  2 Lenderman, Aleksandr   ADUN429F  2715  2713/ 43  W11 W6  L1  W9  W4  4.0
+  3 Yu, Jiangwei           ADINY42D  1300  2208/  5  D8  D10 W6  W5  D1  3.5
+  4 Guha, Mitrabha         ADINY517  2449  2449/ 13  W13 W7  W8  D1  L2  3.5
+  5 Sharikov, Alexander    ADINY12L  1300  2017/  5  W9  L1  W7  L3  W11 3.0
+  6 Vijayakumar, Advaith   LEOI6655  2041  2043/256  W12 L2  L3  W8  W9  3.0
+  7 Wang, Daniel           LMSI8287  1782  1791/523  BYE L4  L5  W13 D8  2.5
+  8 Vemparala, Nikash      BCAFI078  1827  1836/302  D3  W11 L4  L6  D7  2.0
+  9 Ramkumar, Aditya       ICSHI339  1656  1694/384  L5  W12 W10 L2  L6  2.0
+ 10 Ackerman, Ryan         ADUNC514  1922  1912/158  L1  D3  L9  HPB W12 2.0
+ 11 Ingram, Richard        BCXNX611  1638  1649/ 46  L2  L8  W13 D12 L5  1.5
+ 12 Joshi, Atharva         PLKI1352  1664  1636/250  L6  L9  BYE D11 L10 1.5
+ 13 Lu, Yiding             NPTE865Z  1813  1772/170  L4  HPB L11 L7  BYE 1.5

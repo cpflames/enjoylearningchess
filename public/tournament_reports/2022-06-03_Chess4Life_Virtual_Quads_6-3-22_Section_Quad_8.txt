@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sailer, Shaunak        ENAEC25Z   802   848/163  L2  W4  W3  2.0
+  2 Ginotra, Karman        RKWDB15D   952   946/ 21  W1  W3  L4  2.0
+  3 Sembium, Aditi         BCABK25W   797   781/102  W4  L2  L1  1.0
+  4 He, Oliver             CRIBK71V   781   770/ 74  L3  L1  W2  1.0

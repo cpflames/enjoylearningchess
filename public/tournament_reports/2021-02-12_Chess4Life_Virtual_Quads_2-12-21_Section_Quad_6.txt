@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Jacob            BLWDD74Y  1250  1341/ 81  W4  W3  W2  3.0
+  2 Zhang, Ethan (yichen)  CRIDG57B  1226  1249/ 78  W3  W4  L1  2.0
+  3 Hawkins, Holden        TYEI383Z  1206  1189/186  L2  L1  W4  1.0
+  4 Xie, Max               BLWGI185  1196  1135/215  L1  L2  L3  0.0

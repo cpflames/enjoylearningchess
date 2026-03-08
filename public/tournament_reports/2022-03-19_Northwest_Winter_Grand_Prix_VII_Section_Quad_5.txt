@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Fine-gucker, Logan     EAGC535R   408   507/  6  W3  W2  D4  2.5
+  2 Manookin, Adam         HSCCF67L   400   427/ 15  W4  L1  W3  2.0
+  3 Knepper, Izora         SKYD891T   400   400/  3  L1  W4  L2  1.0
+  4 Manookin, Jared        HSCCD11V   402   400/ 15  L2  L3  D1  0.5

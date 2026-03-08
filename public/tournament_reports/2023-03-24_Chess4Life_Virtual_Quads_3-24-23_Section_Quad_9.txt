@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 He, Raymond            HSCJK82K   750   908/ 28  W3  W4  W2  3.0
+  2 Garg, Vihaan           CMCCJ10X   784   819/143  W4  W3  L1  2.0
+  3 Naenna, Patanin        SPLEQ28H   742   730/189  L1  L2  W4  1.0
+  4 Kundu, Ayush           XXXG245X   829   737/ 38  L2  L1  L3  0.0

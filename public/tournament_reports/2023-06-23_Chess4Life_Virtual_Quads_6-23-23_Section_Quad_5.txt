@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kuluru, Samith         LEOGI99K   913   939/182  D4  W3  W2  2.5
+  2 Padamatinti, Sriman    XXXHA77K   900   911/  6  W3  W4  L1  2.0
+  3 Wani, Vivaan Vikram    GTMHK15E   691   697/ 18  L2  L1  W4  1.0
+  4 Yu, Owen               MEDDC65S   732   698/ 76  D1  L2  L3  0.5

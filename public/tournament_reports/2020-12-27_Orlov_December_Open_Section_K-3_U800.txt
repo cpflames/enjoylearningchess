@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wei, Marcus            LCNC588E   776   925/ 36  W4  W3  W2  W5  W6  5.0
+  2 Zhang, Kevin           SPTC809Y   600   761/ 21  W7  W5  L1  W3  W4  4.0
+  3 Sailer, Shaunak        SARDC25Z   701   698/ 44  W8  L1  W6  L2  W7  3.0
+  4 Aldinger, Maksim       LCND227L   409   533/ 12  L1  W8  W5  W7  L2  3.0
+  5 Yeh, Michael           BECDK74V   778   706/ 48  W6  L2  L4  L1  W8  2.0
+  6 Padwalkar, Max         OPWD726T   581   562/ 37  L5  W7  L3  W8  L1  2.0
+  7 Padwalkar, Nikhil      OPWBD83N   400   400/ 10  L2  L6  W8  L4  L3  1.0
+  8 Guity, Siovaun         UNKA251G   400   400/ 10  L3  L4  L7  L6  L5  0.0

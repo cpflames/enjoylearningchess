@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Freeman, Jordan        ADUNK71P  1300  1453/  3  W5  W8  W4  3.0
+  2 Philo, Demetri         MOAHK96C   756   783/  8  W10 W7  L5  2.0
+  3 Ramirez, Kane          WIWDJ72E   632   642/ 25  L4  W9  W8  2.0
+  4 Ybarra, Jaxton         LITFK71N   500  1082/  3  W3  W6  L1  2.0
+  5 Arias, Jose            CWHKK71M  1000  1103/  3  L1  W10 W2  2.0
+  6 Ramos, Zachary         FZAEK71L   400   819/  3  W7  L4  W9  2.0
+  7 Chung, Ian             LIBDG54U   712   665/ 78  L6  L2  W10 1.0
+  8 Arias, Alondra         CWHJK71K   900   412/  3  W9  L1  L3  1.0
+  9 Herath, Sahas          CWEDK71J   300   100/  3  L8  L3  L6  0.0
+ 10 Ramos, Charleston      FZADK71F   300   247/  3  L2  L5  L7  0.0

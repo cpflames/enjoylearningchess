@@ -1,0 +1,42 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Hua, Henry             ADUNI00J  1300  1967/  6  W40 W4  W2  W3  W6  W8  6.0
+  2 Deshusses, Simon       ADUNI69U  1300  1642/  6  W30 W14 L1  W28 W20 W9  5.0
+  3 Nakura-fan, Maxwell    ADUN294D  1300  1523/  6  W21 W15 W20 L1  W7  D6  4.5
+  4 Ozusta, D Dilan        ADUNF69Z  1300  1517/  6  W28 L1  D12 W19 W18 W20 4.5
+  5 Marinescu, Andra       ADUN412W  1271  1300/ 12  W39 L33 W36 W25 D9  W13 4.5
+  6 Morgan, Hunter         ADUN1999  1237  1327/ 96  W35 W27 W25 W18 L1  D3  4.5
+  7 Burchall, Laurion      ADUNI92H  1102  1269/ 12  W17 W10 L13 W14 L3  W25 4.0
+  8 Fedorov, Vladimir      EVJHF17D  1211  1298/191  W36 L9  WF  W10 W13 L1  4.0
+  9 Singh, Balbir          ADUNK95S  1300  1371/  5  WF  W8  W33 D13 D5  L2  4.0
+ 10 Watts, William         ADUNE14R  1300  1315/  6  W16 L7  W26 L8  W29 W17 4.0
+ 11 Roim Ferreira, Rodrigo ADUN412P  1300  1364/  5  W37 L20 W29 D24 W12 U   3.5
+ 12 Smith, Andrew          ADUN6334  1233  1249/ 17  W31 L18 D4  W16 L11 W26 3.5
+ 13 Wilmot, Taber          ADUNH86D  1300  1307/  6  W34 W29 W7  D9  L8  L5  3.5
+ 14 Saloranta, Leo         IMSIB40A  1338  1319/144  W23 L2  W21 L7  D26 W27 3.5
+ 15 Amalo, Eliot           HSCH282X  1159  1140/ 57  W41 L3  D27 HPB L25 W34 3.0
+ 16 Hopper, Taylor         ADUNE73X  1088  1113/ 16  L10 W17 D23 L12 D32 W29 3.0
+ 17 Hard, Adam             ADUNH79Y  1300  1156/  6  L7  L16 W35 W21 W36 L10 3.0
+ 18 Boddy, Kyle            ADUNH98N  1300  1294/  5  W19 W12 HPB L6  L4  D24 3.0
+ 19 Henderson, Doug        ADUNC25J  1194  1178/ 24  L18 HPB W32 L4  W38 HPB 3.0
+ 20 Shankaranand, Deeksha  EBSDI74Y  1185  1212/167  W38 W11 L3  W33 L2  L4  3.0
+ 21 Boulanger, Valentin    CMMEB07H  1071  1072/ 26  L3  W41 L14 L17 W35 W32 3.0
+ 22 Black, Stas            BCAD368F  1035  1060/ 59  L24 L23 W41 L29 W30 W36 3.0
+ 23 Vijeyanandh, Vishnu    TMBGF63Z  1280  1242/122  L14 W22 D16 D27 HPB HPB 3.0
+ 24 Yang, Arthur           ISBHN34Z  1333  1287/188  W22 L25 D37 D11 D27 D18 3.0
+ 25 Martin, Toby           ADUN207Q  1300  1240/  6  W26 W24 L6  L5  W15 L7  3.0
+ 26 Ma, William            SSMC464K  1127  1117/ 28  L25 W35 L10 W30 D14 L12 2.5
+ 27 Ciani, Keith           ADUNG04B   698   871/ 11  BYE L6  D15 D23 D24 L14 2.5
+ 28 Smoot, Rob             ADUNA431   800  1046/  7  L4  W31 W34 L2  LF  U   2.0
+ 29 Zhang, Michael M       MEDD668Q  1178  1134/408  W32 L13 L11 W22 L10 L16 2.0
+ 30 Hanssen, Todd          ADUN810M  1300   929/  6  L2  L34 W31 L26 L22 W41 2.0
+ 31 Zhang, Kyrene          LKDDC84Y   994   937/156  L12 L28 L30 L32 W41 W39 2.0
+ 32 Lakshminarayanan, KaavyUNKF210E   812   843/ 56  L29 HPB L19 W31 D16 L21 2.0
+ 33 Dale, Luke             SMSIJ10P   998  1025/ 27  BYE W5  L9  L20 LF  U   2.0
+ 34 Tucker, James A        ADUN664U  1167  1101/ 16  L13 W30 L28 L36 W39 L15 2.0
+ 35 Singh, Aavir           REJJ7910   980   955/ 98  L6  L26 L17 W41 L21 W38 2.0
+ 36 Godse, Gaurav          EVJH290Q  1325  1234/107  L8  W39 L5  W34 L17 L22 2.0
+ 37 Wilbur, Marvin         ADUNK251  1152  1156/  9  L11 W38 D24 U   U   U   1.5
+ 38 Schmidt, Karen K       ADUN3692   827   796/ 12  L20 L37 BYE D39 L19 L35 1.5
+ 39 Phillips-acheson, SebasWOBF817T   923   864/186  L5  L36 HPB D38 L34 L31 1.0
+ 40 Lopez, Isaiah          UNKKA82D  1000  1487/  1  L1  U   U   U   U   U   0.0
+ 41 Wakeman, Oliver        NJHIG10Y   894   801/ 46  L15 L21 L22 L35 L31 L30 0.0

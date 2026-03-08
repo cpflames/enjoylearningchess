@@ -1,0 +1,31 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Mcateer, Benjamin      WMSGH53Q  1152  1287/ 84  W10 W7  W15 W8  W5  5.0
+  2 Lu, Harry              MEDF957T  1099  1165/277  W19 W9  W3  L5  W7  4.0
+  3 Bablani, Arnav         LMSF1146  1225  1233/153  W20 W4  L2  W17 W9  4.0
+  4 Vinothkumar, Krithik   APOF759X   994  1064/ 37  W23 L3  W14 W11 W8  4.0
+  5 Kokati, Pranav         CHRF814P  1080  1139/139  W26 W22 W27 W2  L1  4.0
+  6 Heider, Elena          NOVGC647  1031  1046/ 45  HPB W26 W10 L9  W15 3.5
+  7 Motkuri, Akshath       WBEF554U  1020  1036/ 70  W14 L1  W13 W12 L2  3.0
+  8 Liao, Wesley           EASGE49D   923  1051/ 54  W27 W12 W17 L1  L4  3.0
+  9 Ramesh, Harshith       CEIE564Z   939   965/ 37  W25 L2  W24 W6  L3  3.0
+ 10 Bhargava, Saarth       UCIFF29W   849   869/ 19  L1  W23 L6  W18 W19 3.0
+ 11 Thallapally, Sriyan    OEREA43W   947   951/ 60  W21 L15 W18 L4  W16 3.0
+ 12 Abueg, Lorenzo         LEOGG77J  1040  1023/ 55  W18 L8  W22 L7  W17 3.0
+ 13 Bhargava, Suhana       UCIFB18U   778   813/ 18  L15 W21 L7  W24 W20 3.0
+ 14 Lanctot, Ethan         COBFA17V   613   663/ 88  L7  W29 L4  W22 W28 3.0
+ 15 Nune, Rohan            LECFA83V  1106  1077/ 80  W13 W11 L1  D16 L6  2.5
+ 16 Magnani-scott, Luke    HZFF290E   987   955/ 37  W24 L17 W25 D15 L11 2.5
+ 17 Thakur, Reet           CWAEJ84K  1103  1050/242  W28 W16 L8  L3  L12 2.0
+ 18 Fiecke, Nate           SJKGG46X   625   654/ 20  L12 W20 L11 L10 W29 2.0
+ 19 Hassan, Ahmad          CRPF714R   715   713/108  L2  L27 W29 W21 L10 2.0
+ 20 Van, Preston           CRPEG09Y   855   798/142  L3  L18 W26 W23 L13 2.0
+ 21 Noah, Andrew           CRPFJ06V   485   548/ 10  L11 L13 W30 L19 W26 2.0
+ 22 Espedal, Davin         MCGF615W   400   400/ 27  BYE L5  L12 L14 D23 1.5
+ 23 Chavez, Tavin          JMLGD74C   538   537/ 40  L4  L10 W28 L20 D22 1.5
+ 24 Pheysey, Owen          CRPEE04H   493   559/ 10  L16 W28 L9  L13 D25 1.5
+ 25 Luna, Ernestoolayo     OCHGH80G   689   621/ 14  L9  BYE L16 L28 D24 1.5
+ 26 Scotece, Aven          LECE787W   639   592/ 64  L5  L6  L20 W30 L21 1.0
+ 27 Chowdada, Devanshi     ABEEI36B  1326  1148/  8  L8  W19 L5  U   U   1.0
+ 28 Pheysey, Miles         CRPEI87H   723   584/ 10  L17 L24 L23 W25 L14 1.0
+ 29 Beltran, Katherine     LONF575N   500   400/  3  U   L14 L19 BYE L18 1.0
+ 30 Soto, Malakai          MCGE980D   400   400/  2  U   U   L21 L26 BYE 1.0

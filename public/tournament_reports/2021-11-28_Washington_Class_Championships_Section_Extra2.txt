@@ -1,0 +1,3 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Nallabothula, Varin    WPPI457A  1642  1671/358  W2  1.0
+  2 Tu, Robin              ADUN9951  1822  1798/311  L1  0.0

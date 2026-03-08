@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Gupta, Ishaan          INGH660Y   929  1122/ 67  W14 W3  W8  W2  D4  4.5
+  2 Heider, Elena          NOVHC647  1065  1107/125  W12 W11 W5  L1  W9  4.0
+  3 Han, Spencer           HSCCK75L   840  1077/ 64  W4  L1  W6  W8  W5  4.0
+  4 Vangala, Advaith       LMSG174X  1094  1097/355  L3  W13 W9  W7  D1  3.5
+  5 Lu, Jacob              BLMGI11F  1118  1099/278  W7  W6  L2  W11 L3  3.0
+  6 Zhen, Hongren          KIMGC02Z   913   921/131  W15 L5  L3  W14 W12 3.0
+  7 Ramanathan, Hamsini    OPWGH41M   892   912/ 25  L5  W14 W15 L4  W11 3.0
+  8 Phillips-acheson, SebasWOBF817T   932   926/171  W13 HPB L1  L3  W14 2.5
+  9 Schoenfeld, Sam        OPWCB27K   795   822/ 33  HPB WF  L4  W10 L2  2.5
+ 10 Gande, Akshath         WPPFG23R  1131  1016/ 45  L11 L12 W13 L9  BYE 2.0
+ 11 Mitra, Rahul           OPWGH53N   900   904/224  W10 L2  W12 L5  L7  2.0
+ 12 Kannapiran, Arnav      OPWD983P   811   816/ 49  L2  W10 L11 W15 L6  2.0
+ 13 Gupta, Shivam          BLWE474W   785   759/ 62  L8  L4  L10 BYE W15 2.0
+ 14 Kossuri, Neil          KKNE696L   737   684/ 18  L1  L7  BYE L6  L8  1.0
+ 15 Joseph, Veronique      SJOCJ04S   661   602/ 42  L6  BYE L7  L12 L13 1.0

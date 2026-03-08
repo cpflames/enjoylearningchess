@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sreraman, Rahul        BCACJ42L  1054  1061/121  W2  W3  D4  2.5
+  2 Patel, Yajurva         EALJK10Z   578   739/  9  L1  W4  W3  2.0
+  3 Kuluru, Samith         LEOGI99K   886   858/176  W4  L1  L2  1.0
+  4 Datti, Suhas           SHVGK47U   937   869/ 73  L3  L2  D1  0.5

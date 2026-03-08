@@ -1,0 +1,29 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Anand, Lakshana        RSAEC68H  1012  1124/ 50  W24 W13 W3  W4  D2  4.5
+  2 Zhang, Kyrene          LKDEC84Y   970  1065/176  W25 W12 W15 W8  D1  4.5
+  3 Shankaranand, Deeksha  EBSEI74Y  1264  1253/196  W14 W7  L1  W9  W6  4.0
+  4 Kulkarni, Anika        REEEK21E  1027  1042/ 86  W19 W11 W6  L1  W12 4.0
+  5 Bansal, Aarini         SOMEK14R  1072  1037/153  W17 D9  L8  W19 W10 3.5
+  6 Gulati, Naamya         FRWF649C  1050  1026/137  W18 W10 L4  W13 L3  3.0
+  7 Agrawal, Aditi         RKWEH11E   908   915/ 28  W21 L3  L9  W15 W19 3.0
+  8 Deng, Alison           MEDFC56H   876   913/ 63  W26 D15 W5  L2  D9  3.0
+  9 Juarez-caballero, CristSNIFD76Z   825   895/ 34  W22 D5  W7  L3  D8  3.0
+ 10 Tian, Grace            CRIFE89L   772   775/152  W27 L6  W17 W14 L5  3.0
+ 11 Li, Elizabeth          MEDEA66B   575   567/ 20  W28 L4  L16 W23 W18 3.0
+ 12 Derleth, Sophia        EVGF326U   566   631/ 80  W20 L2  W18 W16 L4  3.0
+ 13 Patil, Aarna           TBKFB20J   542   577/ 25  W23 L1  W24 L6  W21 3.0
+ 14 Chauhan, Riddhima      CRKFF72E   505   582/ 25  L3  W21 W23 L10 W16 3.0
+ 15 Bai, Kelin             SKKED75J  1078  1011/162  W16 D8  L2  L7  W20 2.5
+ 16 Suthar, Francesca      MEDFF51U   487   491/ 65  L15 W26 W11 L12 L14 2.0
+ 17 Aker, Pepper           THUE181G   442   431/ 51  L5  W22 L10 L21 W26 2.0
+ 18 Donohoe, Flora         LPZEF48Q   435   424/ 15  L6  W25 L12 W26 L11 2.0
+ 19 Swetman, Adelyn        MEDF560Q   435   464/ 14  L4  W24 W20 L5  L7  2.0
+ 20 Anderson, Natalia      FCEFA13V   400   389/ 17  L12 W27 L19 W25 L15 2.0
+ 21 Liu, Elena             MEDFK83V   500   451/  5  L7  L14 W27 W17 L13 2.0
+ 22 Alexander, Kiki        SVSEK83U   400   246/  5  L9  L17 L25 W27 W24 2.0
+ 23 Lee, Petra             WWDFK83T   500   339/  5  L13 W28 L14 L11 W25 2.0
+ 24 Verheul, Mia May       WEDEK83S   400   163/  5  L1  L19 L13 W28 L22 1.0
+ 25 Doerr, Gemma           MEDEK83R   400   163/  5  L2  L18 W22 L20 L23 1.0
+ 26 Zhou, Hannah           WEDEK83Q   400   166/  5  L8  L16 W28 L18 L17 1.0
+ 27 Xie, Katie             BLWEK83K   400   110/  5  L10 L20 L21 L22 W28 1.0
+ 28 Panchapagesan, Rama    MEDEK83J   400   100/  5  L11 L23 L26 L24 L27 0.0

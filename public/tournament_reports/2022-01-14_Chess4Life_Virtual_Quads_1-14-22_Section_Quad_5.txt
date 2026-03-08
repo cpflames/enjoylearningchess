@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhu, Kevin             CSMC865U  1204  1229/237  W3  W2  L4  2.0
+  2 Ying, Yiheng           MEDEE78K  1261  1248/278  W4  L1  D3  1.5
+  3 Zhang, Ethan (yichen)  CRIEG57B  1211  1211/200  L1  W4  D2  1.5
+  4 Rastogi, Reyansh       LMAFD30N  1165  1154/146  L2  L3  W1  1.0

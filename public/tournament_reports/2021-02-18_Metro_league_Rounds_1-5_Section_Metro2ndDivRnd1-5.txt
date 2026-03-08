@@ -1,0 +1,35 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Freeman, Michael       GARL9955  1062  1050/208  L24 U   L8  U   W34 1.0
+  2 Gast, Rohin            GARLD66M  1100   599/  4  L25 W19 L9  U   L29 1.0
+  3 Chan, Nathan           GARJC50D   900  1070/  5  L26 W21 L10 W14 W31 3.0
+  4 Tsagazeab, Hermon      GARJ141K   900   507/  5  L27 L22 L11 W15 L33 1.0
+  5 Bridges, Lakelle       GARK196C  1000   400/  5  L28 W23 L12 L17 L32 1.0
+  6 Orbeck, Aaron          GARL657P  1100  1183/  3  U   W20 U   L13 W30 2.0
+  7 Waite, Eli             GARLK914   912   868/ 27  U   U   U   L16 U   0.0
+  8 Gilbert, Christopher   INML2539  1306  1346/ 38  W29 L13 W1  W24 W19 4.0
+  9 Certain, Malcolm       SCDL5811   734   755/ 42  D30 L14 W2  L25 U   1.5
+ 10 Yee, Carolyn           INMMF537  1009  1026/133  W31 W18 W3  L26 L21 3.0
+ 11 Banasky, Karl          NBEJ7142   528   545/ 29  W32 L16 W4  L27 L22 2.0
+ 12 Wasson, Parker         JSIM7122   400   509/ 12  U   U   W5  L28 W23 2.0
+ 13 Ge, Charles            LSSMA341  1420  1415/126  W19 W8  D29 W6  L24 3.5
+ 14 Miller, Joe            LSSMA378  1063  1054/142  W20 W9  W30 L3  L25 3.0
+ 15 Nguyen, Hai Dang       LSSM3046   927   816/ 12  L21 U   W31 L4  L26 1.0
+ 16 Stevens, William       LSSM529A  1200   878/  5  W22 W11 L33 W7  L27 3.0
+ 17 Javier, James          LSSMG00U  1200   754/  3  W23 U   U   W5  L28 2.0
+ 18 Wilson, Vincent        LSSMI912  1022   991/219  U   L10 U   U   U   0.0
+ 19 Nakano, Christopher    ODELC11Y  1100   400/  5  L13 L2  L24 L29 L8  0.0
+ 20 O'neill-barton, Lawson ODEJC99V   900   400/  4  L14 L6  L25 L30 U   0.0
+ 21 Slobodzian, Matthew    ODELF84S   550   681/ 13  W15 L3  L26 L31 W10 2.0
+ 22 Tran, Huy              ODEJ4123   400   636/  5  L16 W4  L27 U   W11 2.0
+ 23 Hoang, Dzuy            ODEK167V  1000   400/  4  L17 L5  L28 U   L12 0.0
+ 24 Anandam, Akash         SPRJ141D  1460  1461/ 30  W1  W29 W19 L8  W13 4.0
+ 25 Roberts, Ben           SPRLA990  1224  1258/ 96  W2  W30 W20 W9  W14 5.0
+ 26 Lane, Oliver           SPRME49Q  1309  1340/ 83  W3  W33 W21 W10 W15 5.0
+ 27 Pham, Felix            SPRMA823  1091  1106/ 98  W4  U   W22 W11 W16 4.0
+ 28 Hurley, Jane           SPRK8414  1001  1020/368  W5  U   W23 W12 W17 4.0
+ 29 Sanches, Marcus        SPRJG94K   900  1143/  5  L8  L24 D13 W19 W2  2.5
+ 30 Huddleston, William    SJOJG973  1008   955/ 56  D9  L25 L14 W20 L6  1.5
+ 31 Ramirez, Meryl         SPRK445L   911   856/ 28  L10 U   L15 W21 L3  1.0
+ 32 Smith, Mac             SPRL305A   476   474/ 18  L11 U   U   U   W5  1.0
+ 33 Tramountanas, John     SPRL496S   690   763/ 15  U   L26 W16 U   W4  2.0
+ 34 Van Vliet, Johannes    GARLJ28X  1100   400/  1  U   U   U   U   L1  0.0

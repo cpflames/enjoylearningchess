@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chin, Jonathan         HSCG756L   922  1134/ 19  W7  D3  W9  W5  W4  4.5
+  2 Mamtani, Vihaan        TYEJ6442   704   983/ 23  W10 L5  W12 W7  W3  4.0
+  3 Rao, Deepak Sri KartikeARDF669J   500  1131/  5  W11 D1  W10 W4  L2  3.5
+  4 Rama, Savitur          BLWGH22Z  1027  1023/ 82  W13 W8  W5  L3  L1  3.0
+  5 Vangala, Advaith       BLWG174X   933   967/341  W14 W2  L4  L1  W9  3.0
+  6 Vijeyanandh, Vishnu    RSAGF63Z   708   837/ 38  W12 L9  W8  L10 W11 3.0
+  7 Adduri, Mansi          XXXE596E   400   981/  5  L1  W11 W13 L2  W10 3.0
+  8 Rusia, Naman           EPSFI64T   791   814/ 50  W9  L4  L6  D11 W14 2.5
+  9 Xie, Michael           BLWF549C  1073  1001/240  L8  W6  L1  W12 L5  2.0
+ 10 Ahmad, Muhammad Rayhan LWAKG02J  1039   976/ 20  L2  W13 L3  W6  L7  2.0
+ 11 Gulati, Naamya         FRWE649C   865   814/110  L3  L7  W14 D8  L6  1.5
+ 12 Xie, Ava               SOMF797Y   883   791/174  L6  W14 L2  L9  L13 1.0
+ 13 Velmurugan, Joshitha   SKWIK653   663   643/ 75  L4  L10 L7  L14 W12 1.0
+ 14 Ram, Joey              EMSHF94L   660   625/ 80  L5  L12 L11 W13 L8  1.0

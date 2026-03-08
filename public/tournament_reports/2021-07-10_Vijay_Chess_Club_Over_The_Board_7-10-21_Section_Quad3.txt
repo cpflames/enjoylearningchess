@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wei, Sarina            CSIEG09P   902   909/ 74  L4  W3  W2  2.0
+  2 Wei, Marcus            CSIC588E   858   877/ 57  W3  W4  L1  2.0
+  3 Kakkad, Vayu           BRYAK50L   939   884/326  L2  L1  W4  1.0
+  4 Metzmaker, Kyren       OPWC430W   597   638/105  W1  L2  L3  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lewis, Theo            FERKK29P  1062  1143/ 25  W4  D3  W2  2.5
+  2 Cox, Dylan             SHMJ3440  1172  1174/129  W3  W4  L1  2.0
+  3 Peterson, Kylan        MRDK175Q  1036  1050/ 18  L2  D1  W4  1.5
+  4 Zhang, Owen            FHVG995H  1051   987/110  L1  L2  L3  0.0

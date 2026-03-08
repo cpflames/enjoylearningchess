@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tan, Nathan            UCDC412Y  1275  1321/ 92  W4  W3  L2  2.0
+  2 Wahi, Lakshya          EVJI664Z  1298  1332/100  W3  L4  W1  2.0
+  3 Karri, Aditya          AUDEC55V  1378  1347/154  L2  L1  W4  1.0
+  4 Voytas, Augie          LAEGT63A  1374  1344/107  L1  W2  L3  1.0

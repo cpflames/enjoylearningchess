@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Preizler, Adrian       EMSHD229  1451  1563/158  W4  W5  D2  W6  W3  4.5
+  2 Cheng, Edward          WMSIC74W  1761  1763/239  W3  W8  D1  W4  W7  4.5
+  3 Xia, Yuchen            BLMHI52A  1322  1365/108  L2  W7  W9  W8  L1  3.0
+  4 Tameling, Cole         UPAHK654  1312  1339/317  L1  W11 W5  L2  BYE 3.0
+  5 Appalabattula, Samarth SSMFG06C  1358  1354/ 86  W9  L1  L4  BYE W8  3.0
+  6 Senthil Kumar, KrishnapTMBI7364  1430  1407/315  W11 W10 L8  L1  W9  3.0
+  7 Mallipeddi, Advaith    HSCH445F  1271  1270/ 51  HPB L3  W10 W11 L2  2.5
+  8 Zhang, Ethan           STTD851S  1401  1370/206  WF  L2  W6  L3  L5  2.0
+  9 Heider, Elena          NOVGC647  1075  1055/ 54  L5  BYE L3  W10 L6  2.0
+ 10 Maknojia, Asad         ENSEJ28R   400   600/  8  BYE L6  L7  L9  W11 2.0
+ 11 Chakravarthy, Sidhanth EVJG1564  1297  1195/326  L6  L4  BYE L7  L10 1.0

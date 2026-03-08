@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nabeel, Hasan          EDVE415U   865   894/ 25  W4  L2  W3  2.0
+  2 Datti, Suhas           SHVGK47U   858   891/ 46  D3  W1  D4  2.0
+  3 Ganesan, Vidur         RBRD940K   902   893/ 26  D2  W4  L1  1.5
+  4 Garg, Vihaan           CMCCJ10X   852   804/137  L1  L3  D2  0.5

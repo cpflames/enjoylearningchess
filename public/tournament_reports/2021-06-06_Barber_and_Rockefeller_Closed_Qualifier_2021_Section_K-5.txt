@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Jammalamadaka, Vihaan  BCADJ90F  1788  1831/281  W6  L2  W3  W4  W5  4.0
+  2 Bian, Erin             LMSFI91Y  1769  1822/145  L4  W1  W5  W3  W6  4.0
+  3 Vemparala, Nikash      BCAFI078  1854  1849/337  W5  W6  L1  L2  W4  3.0
+  4 Willy, Stephen         MMEFH17K  1823  1824/397  W2  W5  W6  L1  L3  3.0
+  5 Lu, Yiding             NPTE865Z  1761  1718/192  L3  L4  L2  W6  L1  1.0
+  6 Shen, Lixing           CMCFC15C  1550  1516/438  L1  L3  L4  L5  L2  0.0

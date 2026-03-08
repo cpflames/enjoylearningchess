@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kalakoti, Kartika      STVAG45J   701   781/ 29  W12 W9  W3  W2  W5  5.0
+  2 Liu, Bihe              KKNAB78J   558   616/ 15  W11 W5  W4  L1  W3  4.0
+  3 Sankrithi, Vivaan      HSCAK61R   615   587/ 37  W6  W8  L1  W9  L2  3.0
+  4 Deng, Harry            OPWAJ27J   254   281/ 14  L9  W11 L2  W10 W7  3.0
+  5 Hoang, Leonard         XXXAK88E   100   447/  4  BYE L2  W8  W6  L1  3.0
+  6 Razmov, Siana          HZFAK93Y   100   205/  9  L3  W10 D12 L5  W9  2.5
+  7 Soulios, Konstantinos  BFDAK88D   100   215/  4  U   W12 L9  W8  L4  2.0
+  8 Yao, Roger             THOAK88C   100   191/  5  W10 L3  L5  L7  W11 2.0
+  9 Dai, Leonard           BCAAK88B   100   316/  5  W4  L1  W7  L3  L6  2.0
+ 10 Chan, Hailey           OPWAC05X   257   139/ 10  L8  L6  D11 L4  W12 1.5
+ 11 Demir, Atlas           THOAK88A   100   100/  5  L2  L4  D10 W12 L8  1.5
+ 12 Wang, Rui              STTAD97C   140   100/ 10  L1  L7  D6  L11 L10 0.5

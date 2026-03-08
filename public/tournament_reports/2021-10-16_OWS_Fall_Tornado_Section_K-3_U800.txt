@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kannapiran, Arnav      OPWD983P   746   915/ 24  W20 W8  W7  W11 W3  5.0
+  2 Pai, Vihaan            STVDK17C   936   932/ 31  W19 W6  W11 L3  W7  4.0
+  3 Chang, Caden           UCDB260J   815   872/ 33  W18 W9  W4  W2  L1  4.0
+  4 Wu, Aiden              EVGDD83L   614   661/ 37  W21 W15 L3  W18 W8  4.0
+  5 Shah, Hridhaan         CBRC561Z   400   674/  5  W13 L7  W14 D6  W15 3.5
+  6 Francis, Jamey         OPWDD90G   614   665/ 10  W16 L2  W10 D5  D11 3.0
+  7 Black, Stas            BCAD368F   633   678/ 20  W23 W5  L1  W9  L2  3.0
+  8 Balchandani, Akira     PKRAF67P   515   548/ 31  W17 L1  W16 W13 L4  3.0
+  9 Zhang, Aaron           RSACC74T   506   556/ 29  W10 L3  W15 L7  W16 3.0
+ 10 Raji, Surya            OPWD181Q   400   487/ 10  L9  W20 L6  W14 W18 3.0
+ 11 Gajcowski, Devin       BETDA94Z   724   705/116  W22 W14 L2  L1  D6  2.5
+ 12 Joseph, Veronique      SJOCJ04S   624   503/  9  L14 D17 D22 W20 HPB 2.5
+ 13 Jiang, Mason           OPWCH66Y   472   410/ 14  L5  BYE L18 L8  W22 2.0
+ 14 Lan, Jonathan          OPWB968F   486   470/ 19  W12 L11 L5  L10 W23 2.0
+ 15 Sun, Julia             OPWCB21D   400   400/  9  BYE L4  L9  W17 L5  2.0
+ 16 Balasubramanian, AkshatRCSD700Y   400   400/  5  L6  W19 L8  W22 L9  2.0
+ 17 Olin, Bennett          OPWA417S   400   400/  5  L8  D12 W21 L15 D20 2.0
+ 18 Gupta, Tanya           OPWD793G   400   436/  5  L3  W23 W13 L4  L10 2.0
+ 19 Lin, Andrew            OPWBA33C   400   400/  6  L2  L16 HPB HPB HPB 1.5
+ 20 Mohanrajan, Sujana     RSAD931G   400   400/ 10  L1  L10 W23 L12 D17 1.5
+ 21 Fishler, Braxton       OPWAI17P   400   400/  4  L4  D22 L17 L23 BYE 1.5
+ 22 Sohal, Tazmin          OPWD162K   400   400/  5  L11 D21 D12 L16 L13 1.0
+ 23 Rebello, Joshua        OPWAK28B   400   400/  5  L7  L18 L20 W21 L14 1.0

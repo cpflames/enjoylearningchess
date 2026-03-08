@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pisan, Kai             CHYH404C  1048  1192/166  W2  W4  W3  3.0
+  2 Bhatkhande, Neil       AUDH649V  1074  1205/  6  L1  W3  W4  2.0
+  3 Condit, Alex           TLIEB04F  1067  1053/ 77  W4  L2  L1  1.0
+  4 Wang, Ares             BMNDJ77J  1066  1003/120  L3  L1  L2  0.0

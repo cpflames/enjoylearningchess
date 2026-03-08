@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 tot 
+  1 Colombo, Dominic M     GIGLJ74P  1936  1955/ 45  W9  L4  W7  W5  D3  W8  D6  W2  W10 7.0
+  2 Jammalamadaka, Vihaan  WPPFJ90F  1892  1924/344  W3  W8  D6  W7  W10 D9  W4  L1  W5  7.0
+  3 Tessiore, Luca         EMSGP42N  1905  1922/206  L2  W10 W9  W4  D1  D5  D7  W8  W6  6.5
+  4 Kuhner, Mary           ADUND44Q  1866  1860/ 57  L7  W1  D5  L3  W8  W6  L2  W10 D9  5.0
+  5 Razmov, Valentin       ADUNB02T  1784  1805/120  W10 W9  D4  L1  W7  D3  W8  L6  L2  5.0
+  6 Jammalamadaka, Varnika OVLID216  1757  1787/477  W8  L7  D2  W10 W9  L4  D1  W5  L3  5.0
+  7 Cheng, Edward          GARKC74W  1831  1812/427  W4  W6  L1  L2  L5  W10 D3  D9  L8  4.0
+  8 Shapiro, Michael       EALM8875  1707  1702/367  L6  L2  W10 W9  L4  L1  L5  L3  W7  3.0
+  9 Patankar, Vijay        KMNIC78Y  1722  1699/248  L1  L5  L3  L8  L6  D2  W10 D7  D4  2.5
+ 10 Lin, Michael           BASDC97F  1689  1610/291  L5  L3  L8  L6  L2  L7  L9  L4  L1  0.0

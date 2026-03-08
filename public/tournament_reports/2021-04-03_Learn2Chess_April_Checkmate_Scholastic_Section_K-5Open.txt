@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zhang, Michelle        MEDE889L  1442  1469/285  L4  W3  W9  W5  W8  4.0
+  2 Kang, Ayaan            ENSDI60T  1368  1414/216  W10 L4  W7  W8  W5  4.0
+  3 Low, Ethan             VHOCZ23T  1241  1324/ 12  D7  L1  W6  W9  W4  3.5
+  4 Kuchimanchi, Praharsh  BRHD414Z  1173  1303/ 84  W1  W2  L5  W7  L3  3.0
+  5 Chung, Ethan           LIBE108U  1497  1469/272  WF  W9  W4  L1  L2  3.0
+  6 Jewsbury, Keaton       BETF976Q  1048  1120/107  W8  L7  L3  BYE W10 3.0
+  7 Avula, Varshith Reddy  BRHE110R  1290  1274/142  D3  W6  L2  L4  W11 2.5
+  8 Lim, Hayul             VCEEQ94C  1344  1295/ 25  L6  W10 W11 L2  L1  2.0
+  9 Cheng, Selina          THUD413R  1300  1259/232  W11 L5  L1  L3  BYE 2.0
+ 10 Ning, Winston          SCDCJ14W  1160  1121/106  L2  L8  BYE W11 L6  2.0
+ 11 Ramkumar, Siddharth    LMADH50B   985   943/174  L9  BYE L8  L10 L7  1.0

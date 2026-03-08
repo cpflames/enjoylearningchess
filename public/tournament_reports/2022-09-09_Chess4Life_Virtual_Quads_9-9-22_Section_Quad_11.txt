@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Weng, Bright           TLIC850P   862   977/ 21  W3  W2  W4  3.0
+  2 Rackoff, Dylan         BLWF507J   786   844/174  W4  L1  W3  2.0
+  3 Nakashima, Jaden       LAVGC80B   793   780/ 74  L1  W4  L2  1.0
+  4 Cheruku, Adhrith       RCSD827Q   863   776/ 52  L2  L3  L1  0.0

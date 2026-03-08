@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kedarisetty, Ishan     GRRE300B   971  1136/104  W7  W13 W14 W3  W4  5.0
+  2 Godse, Gaurav          EVJH290Q   768   988/ 27  L4  W12 W7  W14 W6  4.0
+  3 Kandhare, Aaroh        OMSHK91M   913   976/ 38  D17 W11 W8  L1  W10 3.5
+  4 Nalasani, Manasvi      XXOEM12Z   957   970/ 15  W2  L14 W17 W9  L1  3.0
+  5 Ngu, Elliott           CGRE452U   928   906/ 61  L8  L6  W18 W15 W14 3.0
+  6 Nair, Ishan            FRWE670E   915   943/ 63  D11 W5  W9  D10 L2  3.0
+  7 Marnadi, Ethan         RSAFE62G   883   930/ 12  L1  W16 L2  W13 W11 3.0
+  8 Ramkumar, Nethra       RBRE315Z   628   817/ 86  W5  HPB L3  D11 W12 3.0
+  9 Mitra, Rahul           OPWGH53N   940   894/200  W18 D15 L6  L4  W17 2.5
+ 10 Vashisht, Aneesh       LKWDC30Y   929   922/ 28  U   W18 W15 D6  L3  2.5
+ 11 Yuen, Otto Shing-lok   KSHFF34N   991   931/274  D6  L3  W13 D8  L7  2.0
+ 12 Zhang, Melodie         SPTGE44K   920   867/ 94  L14 L2  W16 W17 L8  2.0
+ 13 Deng, Alison           MEDEC56H   734   757/ 20  W16 L1  L11 L7  W18 2.0
+ 14 Tardif, Gavin          EPSIC02L   800   880/  5  W12 W4  L1  L2  L5  2.0
+ 15 Kotsis, Julian         OPWEJ84G   456   507/  9  BYE D9  L10 L5  L16 1.5
+ 16 Pai, Vihaan            STVDK17C   913   790/ 39  L13 L7  L12 L18 W15 1.0
+ 17 Shankar, Sneha         CNCE372B   803   753/179  D3  HPB L4  L12 L9  1.0
+ 18 Bikkula, Charan        CRIFJ23A   743   702/ 84  L9  L10 L5  W16 L13 1.0

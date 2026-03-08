@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Fang, Weiai            THRC696W   878   963/105  W4  D2  W3  2.5
+  2 Li, Chuling            CNHE567N   894   895/ 46  D3  D1  D4  1.5
+  3 Barrenkala, Surya      EMDF238E   886   890/ 42  D2  W4  L1  1.5
+  4 Gonzales, Gabriel      XXXE694N   896   843/ 22  L1  L3  D2  0.5

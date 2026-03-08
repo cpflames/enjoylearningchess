@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Senthil, Sanvi         SPTFH12F   666   815/284  W2  W3  W4  3.0
+  2 Shubin, Neta           RKWK7542   675   713/ 54  L1  W4  W3  2.0
+  3 Stein, Mary            HSCG624A   673   649/ 57  W4  L1  L2  1.0
+  4 Suresh, Anvita         ENDEK67U   667   587/ 40  L3  L2  L1  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zakonov, Pasha         BCAHJ63K  1184  1306/ 44  W3  W2  W4  3.0
+  2 Li, Yiyang             BCAD700B  1208  1211/165  W4  L1  D3  1.5
+  3 Chopra, Nikita         OMSH297H  1215  1216/ 18  L1  W4  D2  1.5
+  4 Stein, Samuel          HSCDH03T  1208  1142/133  L2  L3  L1  0.0

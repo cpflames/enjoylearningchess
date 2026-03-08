@@ -21,36 +21,20 @@ export default function PlayerResults(): JSX.Element {
   const params = new URLSearchParams(window.location.search);
   const [playerName, setPlayerName] = useState(params.get('player') || '');
   const [reports, setReports] = useState<{ [filename: string]: string }>({});
-  const [loadedCount, setLoadedCount] = useState(0);
-  const [totalCount, setTotalCount] = useState(0);
-  const [indexLoaded, setIndexLoaded] = useState(false);
+  const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    fetchWithRetry('/tournament_reports/index.json')
+    fetchWithRetry('/tournament_reports/all_reports.json')
       .then(response => response.json())
-      .then((files: string[]) => {
-        setTotalCount(files.length);
-        setIndexLoaded(true);
-        // Process files sequentially to avoid overwhelming the server
-        files.reduce((promise, filename) => {
-          return promise.then(() =>
-            fetchWithRetry(`/tournament_reports/${encodeURIComponent(filename)}`)
-              .then(response => response.text())
-              .then(content => {
-                setReports(prev => ({ ...prev, [filename]: content }));
-                setLoadedCount(prev => prev + 1);
-              })
-              .catch(err => {
-                console.error('Error loading report:', filename, err);
-                setLoadedCount(prev => prev + 1);
-              })
-          );
-        }, Promise.resolve());
+      .then((data: { [filename: string]: string }) => {
+        setReports(data);
+        setIsLoading(false);
       })
       .catch(err => {
-        console.error('Error loading report list:', err);
-        setError(`Error loading report list: ${err.message}`);
+        console.error('Error loading reports:', err);
+        setError(`Error loading reports: ${err.message}`);
+        setIsLoading(false);
       });
   }, []);
 
@@ -61,10 +45,6 @@ export default function PlayerResults(): JSX.Element {
     if (value) newParams.set('player', value);
     window.history.replaceState({}, '', value ? `?${newParams}` : window.location.pathname);
   };
-
-  // indexLoaded guards against showing "no results" before the index.json fetch
-  // completes (at which point both loadedCount and totalCount are still 0)
-  const isLoading = !indexLoaded || loadedCount < totalCount;
 
   const matchingReports = Object.entries(reports).filter(
     ([, content]) => playerName && content.includes(playerName)
@@ -86,7 +66,7 @@ export default function PlayerResults(): JSX.Element {
 
       {isLoading && (
         <div style={{ color: '#666', marginBottom: '10px' }}>
-          Loading reports... {loadedCount} / {totalCount}
+          Loading reports...
         </div>
       )}
 

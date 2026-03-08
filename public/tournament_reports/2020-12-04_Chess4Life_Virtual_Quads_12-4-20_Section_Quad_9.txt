@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Neff, Joel             ABEDF99X  1066  1188/157  W2  W4  W3  3.0
+  2 White, Nolan           WSCJI089  1093  1115/103  L1  W3  W4  2.0
+  3 Verretto, Dante        EMSIS76P  1065  1045/112  W4  L2  L1  1.0
+  4 Kumarswamy, Adarsh     CHRF755Y  1054   988/301  L3  L1  L2  0.0

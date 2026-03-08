@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Neff, Caleb            ABEFG72N  1573  1591/262  W4  D2  W3  2.5
+  2 Meiyalagan, Ruban Sai  WLDED10L  1434  1464/ 95  D3  D1  W4  2.0
+  3 Boulis, Christos       RHJHC84T  1521  1512/378  D2  W4  L1  1.5
+  4 Aski, Kabir            CNHHG340  1373  1333/399  L1  L3  L2  0.0

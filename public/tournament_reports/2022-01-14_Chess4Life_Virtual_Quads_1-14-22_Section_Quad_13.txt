@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chaudhuri, Arihant     CHAA703E   584   736/ 33  W3  W2  W4  3.0
+  2 Krishna, Sai           XXXE383J   640   629/ 15  D4  L1  W3  1.5
+  3 Li, Haiyi              EALJ762H   589   544/  6  L1  W4  L2  1.0
+  4 Kuluru, Samith         KKNFI99K   567   519/ 15  D2  L3  L1  0.5

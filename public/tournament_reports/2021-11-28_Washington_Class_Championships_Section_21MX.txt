@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Jiang, Brandon         BLLJ7768  2088  2115/468  W19 W5  W10 W12 W4  L2  5.0
+  2 Haining, Kyle          ADUNK338  2288  2294/502  W23 W24 W25 HPB HPB W1  5.0
+  3 Liang, Yu-cheng        SKRI1687  2026  2036/169  W4  L13 W6  D8  W12 D7  4.0
+  4 Lu, Yiding             NPTF865Z  1867  1945/208  L3  W20 W5  W17 L1  W16 4.0
+  5 Kodarapu, Ishaan       SLLHW908  1799  1866/236  BYE L1  L4  W19 W20 W13 4.0
+  6 Vemparala, Nikash      OVLGI078  1820  1914/357  W16 D7  L3  W14 W15 D8  4.0
+  7 Min, Ryan              OMSH5430  1815  1884/334  D22 D6  D15 W11 W10 D3  4.0
+  8 Moroney, Timothy       ADUN276J  2248  2234/ 16  L21 W18 W14 D3  D13 D6  3.5
+  9 Toppen-ryan, Harrison  ADUNK815  1829  1912/220  W11 L10 L17 D20 W21 W15 3.5
+ 10 Malugu, Satyajit       ADUNC03N  2155  2124/ 24  W15 W9  L1  D13 L7  D12 3.0
+ 11 Sripada, Havish        FNEHP811  2015  2003/249  L9  D16 W22 L7  W14 D18 3.0
+ 12 Qian, Daniel           PFCK7807  1877  1892/283  HPB W22 W13 L1  L3  D10 3.0
+ 13 Petrov, Oscar          OVLMA216  1895  1921/317  W20 W3  L12 D10 D8  L5  3.0
+ 14 Anand, Vignesh         REDMJ919  2092  2082/441  D18 W21 L8  L6  L11 W20 2.5
+ 15 Bian, Erin             LMSGI91Y  1903  1892/155  L10 BYE D7  W18 L6  L9  2.5
+ 16 Zhou, Zijun            ADUN683C  1300  1930/  6  L6  D11 W19 D21 D17 L4  2.5
+ 17 Thurlow, Ryan G        ADONS212  2092  2077/  3  HPB HPB W9  L4  D16 U   2.5
+ 18 Perez, Ignacio         ADUNA795  2219  2182/ 58  D14 L8  W21 L15 L19 D11 2.0
+ 19 Thomas, Damarcus       ADUN161X  1911  1898/ 15  L1  HPB L16 L5  W18 HPB 2.0
+ 20 Benaid, Henry          ADUN829C  2138  2074/ 17  L13 L4  BYE D9  L5  L14 1.5
+ 21 Pupols, Viktors        ADUN8503  2204  2171/ 13  W8  L14 L18 D16 L9  U   1.5
+ 22 Hung, Anthony          MISNZ53G  1300  1654/  3  D7  L12 L11 U   U   U   0.5
+ 23 Nicoski, Aaron         ADUN598C  1836  1834/ 73  L2  U   U   U   U   U   0.0
+ 24 Campbell, Tim          ADUN3836  1791  1789/106  U   L2  U   U   U   U   0.0
+ 25 Liu, Erik              INTJ4861  1813  1811/344  U   U   L2  U   U   U   0.0

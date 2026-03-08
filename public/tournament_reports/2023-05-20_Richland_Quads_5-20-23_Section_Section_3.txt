@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Whalen, Jack           DSRFK96P   757   810/ 18  W2  W4  D3  2.5
+  2 Chung, Ian             LIBDG54U   696   728/ 86  L1  W3  W4  2.0
+  3 Chung, Andrew          ADUN643D   882   838/ 14  W4  L2  D1  1.5
+  4 Ramos, Charleston      FZADK71F   383   364/ 21  L3  L1  L2  0.0

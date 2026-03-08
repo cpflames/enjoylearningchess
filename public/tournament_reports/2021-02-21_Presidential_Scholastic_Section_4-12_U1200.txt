@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Iarovich, Shachar      CMCE122J  1126  1251/ 70  W6  W5  W4  W2  D3  4.5
+  2 Zhang, Yan             SOMEC58Q  1078  1161/ 71  W10 W8  W5  L1  W4  4.0
+  3 Kedarisetty, Ishan     GRRD300B   883  1051/ 81  W9  L4  W8  W6  D1  3.5
+  4 Trochesset, David      ENSEG98F  1141  1145/ 33  W12 W3  L1  W9  L2  3.0
+  5 Kedarisetty, Shreyas   GRREH60G  1063  1069/ 76  W7  L1  L2  W10 W8  3.0
+  6 Medikurthi, Jagadish   BRHE995Z  1024  1029/ 55  L1  W11 WF  L3  W9  3.0
+  7 Chowdhary, Shivam      CMCED47H   852   876/ 25  L5  BYE LF  W11 W13 3.0
+  8 Davis, Zach            SANGI44K   808   814/ 59  W11 L2  L3  BYE L5  2.0
+  9 Zhang, Wei             TYEGF93H  1079  1022/108  L3  W13 W10 L4  L6  2.0
+ 10 Mu, Alivia             DCTEB56P   950   925/ 31  L2  W12 L9  L5  BYE 2.0
+ 11 Ejsing, Oscar          THRFE57F  1051   888/  9  L8  L6  W13 L7  W12 2.0
+ 12 Fong, Matthew          EING683T  1035   950/166  L4  L10 BYE W13 L11 2.0
+ 13 Bikkula, Charan        CRIEJ23A   472   456/ 61  BYE L9  L11 L12 L7  1.0

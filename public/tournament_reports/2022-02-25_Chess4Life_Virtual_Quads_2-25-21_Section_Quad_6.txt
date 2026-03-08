@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Amalo, Eliot           HSCH282X  1039  1161/ 43  W4  W2  W3  3.0
+  2 Chong, Jacob           RSHDF24L  1053  1078/ 35  W3  L1  W4  2.0
+  3 Chevuri, Tattva        CBREC06V   993   984/234  L2  W4  L1  1.0
+  4 Zhang, Ethan (yichen)  CRIEG57B  1074   995/215  L1  L3  L2  0.0

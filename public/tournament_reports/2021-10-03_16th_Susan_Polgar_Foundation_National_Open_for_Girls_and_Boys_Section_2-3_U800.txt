@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ma, William            SSMC464K   400   953/  5  W10 W4  W2  L3  W5  4.0
+  2 Tie, Mike              MISDZ20J   400   919/  5  W5  W6  L1  W7  W3  4.0
+  3 Gupta, Vyan            UNKC935D   733   838/ 10  W8  W7  W4  W1  L2  4.0
+  4 Kannapiran, Arnav      OPWD983P   762   746/ 19  W11 L1  L3  W8  W7  3.0
+  5 Black, Stas            BCAD368F   607   633/ 15  L2  W12 W8  W6  L1  3.0
+  6 Fetchero, Noelle       BLCD505H   471   497/ 50  W12 L2  W11 L5  W9  3.0
+  7 Zhang, Aaron           RSACC74T   477   506/ 24  W9  L3  W10 L2  L4  2.0
+  8 Shah, Arjun            CBRCC91S   400   484/  5  L3  W9  L5  L4  W11 2.0
+  9 Raji, Surya            OPWD181Q   400   400/  5  L7  L8  W12 W10 L6  2.0
+ 10 Chung, Ian             LIBCG54U   645   509/ 34  L1  W11 L7  L9  L12 1.0
+ 11 Mohanrajan, Sujana     RSAD931G   400   400/  5  L4  L10 L6  W12 L8  1.0
+ 12 Bhatia, Samrath        MISDZ851   400   400/  5  L6  L5  L9  L11 W10 1.0

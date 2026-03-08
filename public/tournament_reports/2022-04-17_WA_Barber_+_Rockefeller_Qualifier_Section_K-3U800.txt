@@ -1,0 +1,31 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Iyer, Suchir           CMCAK64E   728   919/ 20  W21 W19 W9  W6  W2  5.0
+  2 Zhu, Ryan              SOMDD23U   716   772/ 20  W22 W15 W10 W18 L1  4.0
+  3 Kukreja, Aarav         SESD433H   564   724/  8  W24 W7  L18 W14 W8  4.0
+  4 Tandon, Ayaan          CRKDG07U   532   662/ 10  W29 L8  W13 W9  W7  4.0
+  5 Kumar, Ansh            SSMD678F   400   610/ 19  L14 W28 W15 W19 W18 4.0
+  6 Do, Lucas              SOMC382W   400   911/  5  W20 W14 W8  L1  W10 4.0
+  7 Swaminath, Akshita     CNCB295Z   728   706/ 43  W17 L3  W16 W20 L4  3.0
+  8 Zhao, William          STTBH70M   662   689/ 23  W12 W4  L6  W11 L3  3.0
+  9 Ma, Horace             CCDCD57Z   622   614/ 28  W25 W27 L1  L4  W21 3.0
+ 10 Dasigi, Abhinav        RSADK53E   587   615/ 15  W26 W18 L2  W12 L6  3.0
+ 11 Chaudhuri, Agnivesh    CHACB55V   553   540/ 74  W28 L20 W27 L8  W19 3.0
+ 12 Li, Jacob              CRIB132Q   400   422/ 46  L8  W29 W22 L10 W26 3.0
+ 13 Lakshmi Narayanan, HariNCSBA28Q   400   557/  5  L15 W22 L4  W23 W20 3.0
+ 14 Wang, Jacob Z          BLWDE71A   684   671/ 39  W5  L6  W21 L3  D16 2.5
+ 15 Liu, Austin            SOMBG01C   570   545/  9  W13 L2  L5  WF  D17 2.5
+ 16 Zhen, Liam             ISEA622V   463   470/ 19  L18 W25 L7  W26 D14 2.5
+ 17 Li, Carter             JINE524D   400   406/  9  L7  W26 L19 W27 D15 2.5
+ 18 Hong, Jamie            MEDD577Q   790   677/  9  W16 L10 W3  L2  L5  2.0
+ 19 Li, Rebecca            BCAAJ62B   592   550/ 29  W30 L1  W17 L5  L11 2.0
+ 20 Huttelmaier, Evelyn    CHRD757Z   558   543/110  L6  W11 W23 L7  L13 2.0
+ 21 Mohanrajan, Sujana     RSAD931G   400   400/ 24  L1  W30 L14 W24 L9  2.0
+ 22 Ramkumar, Aditya       UNKBC38J   400   400/ 18  L2  L13 L12 W29 W30 2.0
+ 23 Verma, Satvik          WONAG80T   400   400/  5  L27 W24 L20 L13 W28 2.0
+ 24 Dhole, Arjun           DISB752D   400   400/  5  L3  L23 W30 L21 W27 2.0
+ 25 Impert, Nathan         JINCH19F   400   400/  3  L9  L16 W28 LF  U   1.0
+ 26 Wilcox, Caleb          ALID856N   400   400/  5  L10 L17 W29 L16 L12 1.0
+ 27 Suram, Ridhima         KKNB882V   400   400/  5  W23 L9  L11 L17 L24 1.0
+ 28 Meshkova, Fiona        BGLB805R   400   400/  5  L11 L5  L25 W30 L23 1.0
+ 29 Shafigulin, Timur      XXXAD97N   400   400/  4  L4  L12 L26 L22 BYE 1.0
+ 30 Yang, Ricky            PKRC467V   400   400/  5  L19 L21 L24 L28 L22 0.0

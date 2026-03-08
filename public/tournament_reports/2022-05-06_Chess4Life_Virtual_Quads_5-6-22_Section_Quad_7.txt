@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Siu, Liam              EDGDT534  1092  1525/  9  W4  W3  W2  3.0
+  2 Foltz, Karsten         HTNG306D  1096  1153/ 97  W3  W4  L1  2.0
+  3 Hochberg, David        SUEJ6075  1108  1099/203  L2  L1  W4  1.0
+  4 Hawkins, Holden        TYEJ383Z  1116  1057/424  L1  L2  L3  0.0

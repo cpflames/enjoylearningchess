@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Fei, Derek             SPTDJ01E   984  1011/ 38  W3  W2  L4  2.0
+  2 Yang, Jimmy            BCABG45S  1039  1050/ 61  W4  L1  W3  2.0
+  3 Sharma, Anish          WPPHA11B   981   958/227  L1  W4  L2  1.0
+  4 Bhattacharjee, ArchishmBLWEA45Y   955   939/ 59  L2  L3  W1  1.0

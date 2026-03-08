@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chien, Jeffrey         WPPFF41X  1353  1377/ 61  W2  W4  W3  3.0
+  2 Joshi, Vyom            LEOHH81X  1055  1080/ 71  L1  D3  W4  1.5
+  3 Tamanaha, Ryden        BLWF132N   974  1033/ 22  W4  D2  L1  1.5
+  4 Edwin, Elijah          BCSCC24D  1233  1147/ 52  L3  L1  L2  0.0

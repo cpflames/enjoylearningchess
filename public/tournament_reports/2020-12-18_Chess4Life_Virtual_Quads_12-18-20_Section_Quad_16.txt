@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Leon, Nikhil           HSCC587T   503   693/  6  W4  W2  W3  3.0
+  2 Meiyalagan, Rithik Sai HSCBI87N   517   588/  6  W3  L1  W4  2.0
+  3 Trochesset, Marc       RKWB379R   500   482/ 12  L2  W4  L1  1.0
+  4 Du, Charles            SOMBA15U   512   400/  5  L1  L3  L2  0.0

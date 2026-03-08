@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hildenbrand, Blane     PSMH122V  1070  1107/185  W2  WF  W3  3.0
+  2 Chevuri, Tattva        CBRFC06V   957   966/287  L1  W3  WF  2.0
+  3 Tan, Charlie           MEDB273V   963   915/ 39  WF  L2  L1  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xu, Ethan              BENDK98S   581   596/ 57  W3  W4  W2  3.0
+  2 Khantal, Reyansh       BCACK06X   100   189/  6  D4  W3  L1  1.5
+  3 Kumar, Nilaksh         SPTDK06Y   176   164/  6  L1  L2  W4  1.0
+  4 Parikh, Advait         KKNDK07K   100   100/  9  D2  L1  L3  0.5

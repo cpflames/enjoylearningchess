@@ -1,0 +1,28 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Tamanaha, Ryden        BLWF132N  1033  1049/ 27  W23 W10 W3  L2  W5  4.0
+  2 Mitra, Rahul           OPWHH53N   926   980/239  W24 W18 W4  W1  L3  4.0
+  3 Lebedinsky, Alexander  EVJG958F   907   973/217  W25 W9  L1  W10 W2  4.0
+  4 Xu, Alex               EMSG500U   883   916/ 81  W12 W14 L2  W9  W8  4.0
+  5 Ramanathan, Hamsini    OPWHH41M   897   902/ 44  W11 D20 W16 W13 L1  3.5
+  6 Kannapiran, Arnav      OPWE983P   838   796/ 64  L18 W26 D20 W15 W16 3.5
+  7 Peterson, Eric         EVGF365J   725   749/ 69  W27 L8  D15 W25 W13 3.5
+  8 Sailer, Shaunak        OPWFC25Z   825   820/185  W15 W7  L13 W20 L4  3.0
+  9 Kwan-uchiyama, Avery   JINEH22T   785   770/ 39  W26 L3  W11 L4  W19 3.0
+ 10 Naficy, Camdyn         SARH488A   769   776/130  W19 L1  W12 L3  W17 3.0
+ 11 Cheruku, Gaurik        DISFI58C   487   544/ 13  L5  W19 L9  WF  W18 3.0
+ 12 Nayar, Veda            OPWHA14N   435   555/ 23  L4  W23 L10 W21 W20 3.0
+ 13 Liu, Daniel            OVLHD65M   971   900/ 25  D17 W22 W8  L5  L7  2.5
+ 14 Raji, Surya            OPWE181Q   564   572/ 44  W21 L4  D18 L16 W25 2.5
+ 15 Chen, Francis          OPWE617J   400   533/ 10  L8  W24 D7  L6  W22 2.5
+ 16 Sinha, Rian            UPAH790Y   700   664/  5  D22 W17 L5  W14 L6  2.5
+ 17 Mitra, Rishab          OPWE138L   522   533/129  D13 L16 W27 D18 L10 2.0
+ 18 Jiang, Ethan           MEDF951L   428   516/  9  W6  L2  D14 D17 L11 2.0
+ 19 Sohal, Tazmin          OPWE162K   400   402/ 22  L10 L11 BYE W24 L9  2.0
+ 20 Mobrand, Gustav        HBVE189Z   400   472/  9  BYE D5  D6  L8  L12 2.0
+ 21 Cheryan, Yohaan        OPWF810F   500   347/  5  L14 D25 D23 L12 W26 2.0
+ 22 Metzmaker, Kyren       OPWE430W   574   525/123  D16 L13 L25 W23 L15 1.5
+ 23 Cooper, Alexander      LKDF835H   541   426/  9  L1  L12 D21 L22 BYE 1.5
+ 24 Mehran, Tara           OPWEE56L   521   452/ 34  L2  L15 W26 L19 HPB 1.5
+ 25 Cooper, Cameron        LKDF938T   495   480/ 10  L3  D21 W22 L7  L14 1.5
+ 26 Nemani, Meenakshi      OPWHH973   400   100/  8  L9  L6  L24 BYE L21 1.0
+ 27 Gupta, Tanya           OPWE793G   400   366/ 13  L7  BYE L17 LF  U   1.0

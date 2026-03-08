@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Daniel           LMSI8287  1798  1816/529  W3  W4  D2  2.5
+  2 Chan, Skylor T         MEDGD18J  1737  1751/247  D4  W3  D1  2.0
+  3 Park, Sean             INTJ600E  1679  1671/ 90  L1  L2  W4  1.0
+  4 Willy, Stephen         MMEFH17K  1687  1661/334  D2  L1  L3  0.5

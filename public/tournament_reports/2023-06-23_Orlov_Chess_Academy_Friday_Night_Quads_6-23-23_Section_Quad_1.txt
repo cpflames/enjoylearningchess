@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Olson, Travis          ADUN8893  1833  1835/105  W3  W4  W2  3.0
+  2 Xu, Zoe                SOMDG70A  1315  1287/268  W4  L3  L1  1.0
+  3 Yakkali, Karthik VedantKKNF301E  1149  1149/ 64  L1  W2  L4  1.0
+  4 Ghosh, Snehil          CBRD738T   990  1023/ 48  L2  L1  W3  1.0

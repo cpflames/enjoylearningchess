@@ -1,0 +1,30 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Hemstapat, Andrew      BCXLZ581  2071  2322/  8  W4  W9  W14 D7  W2  W6  5.5
+  2 Mahajan, Rushaan       RKWIK091  2230  2239/305  W16 W13 W5  W12 L1  W7  5.0
+  3 Singh, Hersh           UNKKG79E  2187  2177/ 11  W21 D10 L12 W26 W11 W9  4.5
+  4 Jammalamadaka, Vihaan  BCADJ90F  1610  1722/253  L1  W18 W8  L5  W16 W12 4.0
+  5 Huang, Patrick         MODKX330  2038  2042/ 24  W23 W15 L2  W4  L7  W10 4.0
+  6 Lu, Ryan               HPMJW376  1991  2004/187  D19 W17 D11 W15 W14 L1  4.0
+  7 Shubin, Daniel         EPSKF498  2161  2170/441  HPB W28 W10 D1  W5  L2  4.0
+  8 Singh, Aditya          LSSL8559  1592  1621/448  W25 L14 L4  W28 W17 W15 4.0
+  9 Beck, Alec             AWAK8508  1998  1999/379  W18 L1  D19 W20 W13 L3  3.5
+ 10 Tien, Sophie           LSSK6099  2021  2017/334  W24 D3  L7  W19 W12 L5  3.5
+ 11 Vijayakumar, Advaith   LEOI6655  2026  2005/241  W27 L12 D6  W21 L3  W20 3.5
+ 12 Schuff, Michael        WHPMQ341  1570  1702/528  W29 W11 W3  L2  L10 L4  3.0
+ 13 Pang, Ashley           UNKI182M  1961  1954/ 15  W20 L2  W23 L14 L9  W19 3.0
+ 14 Deshpande, Aaryan      INTLF757  2144  2131/448  W22 W8  L1  W13 L6  U   3.0
+ 15 Wang, Ted              BCABK13D  1537  1590/ 96  W26 L5  W22 L6  W21 L8  3.0
+ 16 Roesch, Carson         BLEI120K  1806  1781/162  L2  D27 D17 W22 L4  W23 3.0
+ 17 Ramkumar, Aditya       ICSHI339  1693  1693/365  HPB L6  D16 W23 L8  W22 3.0
+ 18 Schuff, Thomas         WHPKT965  1570  1588/526  L9  L4  L20 W27 W28 W26 3.0
+ 19 Malakar, Saarthak      SLLGM21W  1791  1792/125  D6  D26 D9  L10 W24 L13 2.5
+ 20 Bunch, Drew            BAIKG36D  1742  1741/ 79  L13 D21 W18 L9  W26 L11 2.5
+ 21 Zhou, Leonardo         SHSFE293  1603  1590/132  L3  D20 W27 L11 L15 D24 2.0
+ 22 Karukayil, Johan       TSTJ8041  1513  1496/535  L14 W24 L15 L16 W25 L17 2.0
+ 23 Nallabothula, Varin    BCAH457A  1627  1606/303  L5  W25 L13 L17 W27 L16 2.0
+ 24 Karthikeyan, HarishkumaRKWFJ81A  1421  1409/151  L10 L22 W25 HPB L19 D21 2.0
+ 25 Alapati, Prakhyat      UNKJ463P   498   580/  5  L8  L23 L24 BYE L22 W28 2.0
+ 26 Vemparala, Nikash      BCAFI078  1793  1732/280  L15 D19 W28 L3  L20 L18 1.5
+ 27 Herker, Dustin         CQHLN404  1479  1452/278  L11 D16 L21 L18 L23 BYE 1.5
+ 28 Bergstedt, Sawyer      HSOJT487  1305  1247/245  BYE L7  L26 L8  L18 L25 1.0
+ 29 Shubin, Daniel         EPSKF498  2161  2141/437  L12 U   U   U   U   U   0.0

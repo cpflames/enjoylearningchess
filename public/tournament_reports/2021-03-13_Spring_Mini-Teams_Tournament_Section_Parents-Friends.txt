@@ -1,0 +1,31 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ackerman, Ryan         ADUNC514  1922  1957/163  W30 W11 W5  W16 W9  5.0
+  2 Hong, Eric             ADUNF08A  1300  1958/  5  W3  W10 W20 W28 W23 5.0
+  3 Guity, Alan            ADUNC23E  1300  1623/  5  L2  W24 W18 W27 W4  4.0
+  4 Vo, Dylan              MRRKK92D  1365  1374/ 18  W15 W27 W10 W20 L3  4.0
+  5 Yu, Justin             ADUN6029  1992  1982/331  W24 W12 L1  W25 W16 4.0
+  6 Perez, Ignacio         ADUNA795  2222  2218/ 12  W14 L7  W26 W22 W29 4.0
+  7 Warrier, Krishnan      ADUN7591  2102  2127/167  W29 W6  W8  W21 LF  4.0
+  8 Nagase, Masayuki       ADUNH570  2074  2059/739  W13 D17 L7  W26 W21 3.5
+  9 Guity, Walter          ADUND92T  1300  1636/  5  L12 W28 W19 W11 L1  3.0
+ 10 Yue, Kevin             ADUNE218  1107  1124/114  W28 L2  L4  W23 W20 3.0
+ 11 Hamlett, James         ADUN4372  1561  1561/ 33  W19 L1  W25 L9  W30 3.0
+ 12 Bablani, Akshay        ADUN8142  1515  1526/258  W9  L5  L16 W24 W25 3.0
+ 13 Wilke, Daniel          HCCN9777  1704  1725/262  L8  W22 W29 W17 L14 3.0
+ 14 Malugu, Satyajit       ADUNC03N  2156  2132/  5  L6  W21 L22 W29 W13 3.0
+ 15 Nicolazzo, Yelena      ADUNH911  1012   980/ 25  L4  W23 W28 L18 W27 3.0
+ 16 Tran, Ryan             ADUN6223  1515  1530/ 42  W25 D19 W12 L1  L5  2.5
+ 17 Yu, Allistair          ADUNA019  1579  1595/265  W22 D8  L21 L13 W26 2.5
+ 18 Kakkad, Ravi           ADUNJ02S   533   656/ 11  D27 L20 L3  W15 W28 2.5
+ 19 Sankrithi, Siva        ADUNI948  1541  1516/  7  L11 D16 L9  W30 W24 2.5
+ 20 Kurlander, Jake        ADUN371W  1300  1000/  5  W23 W18 L2  L4  L10 2.0
+ 21 O'neill, Aidan         ADUN5397  1562  1585/ 41  W26 L14 W17 L7  L8  2.0
+ 22 Goodfellow, Robert     ADUN5699  1649  1647/465  L17 L13 W14 L6  WF  2.0
+ 23 Baumann, Brent         HCCNH50A  1300   720/  5  L20 L15 W27 L10 L2  1.0
+ 24 Ho, Keith              ADUNJ84V  1300  1194/  5  L5  L3  W30 L12 L19 1.0
+ 25 Wilke, Marilyn         ADUN3187   961   983/ 26  L16 W30 L11 L5  L12 1.0
+ 26 Leenknecht, Matthew    HCCN596C  1300  1355/  5  L21 W29 L6  L8  L17 1.0
+ 27 Diamant, John          ADUNC28C  1300   544/  5  D18 L4  L23 L3  L15 0.5
+ 28 Onsot, Mindie          LGHNG55P  1300   400/  5  L10 L9  L15 L2  L18 0.0
+ 29 Nicolazzo, Paul        ADUN4026  1345  1290/ 11  L7  L26 L13 L14 L6  0.0
+ 30 Nicolazzo, Alexander   LYBL3198  1042   995/150  L1  L25 L24 L19 L11 0.0

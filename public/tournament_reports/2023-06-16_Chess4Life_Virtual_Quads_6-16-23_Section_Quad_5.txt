@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yin, Daniel            ISSL116Y  1062  1080/353  L4  W2  W3  2.0
+  2 Narkhede, Kshitij      CRKBA27K  1031  1058/ 69  W3  L1  W4  2.0
+  3 Sreraman, Rahul        BCACJ42L  1061  1030/124  L2  W4  L1  1.0
+  4 Taylor, Ryder          KAMJ385C  1003   988/309  W1  L3  L2  1.0

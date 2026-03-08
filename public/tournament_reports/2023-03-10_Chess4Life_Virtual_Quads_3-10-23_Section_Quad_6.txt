@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Huang, Edwin           MEDF616M   972  1101/ 31  W4  W3  W2  3.0
+  2 Zhang, Ethan Yichen    CRIFG57B   975  1008/358  W3  W4  L1  2.0
+  3 Agrawal, Anay          CRKFE67A   936   926/ 49  L2  L1  W4  1.0
+  4 Xie, Leon              CNHE264X  1024   940/ 86  L1  L2  L3  0.0

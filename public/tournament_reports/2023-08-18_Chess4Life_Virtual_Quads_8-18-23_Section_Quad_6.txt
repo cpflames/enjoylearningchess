@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mcintyre, Isaac        ETSD466S   899   987/160  W4  W2  W3  3.0
+  2 Bala, Anirudh          SNRFD50M   797   840/ 29  W3  L1  W4  2.0
+  3 Taylor, Ryder          KAMJ385C   891   848/321  L2  W4  L1  1.0
+  4 Gujjar, Aditya         MAYGE59Q   674   630/140  L1  L3  L2  0.0

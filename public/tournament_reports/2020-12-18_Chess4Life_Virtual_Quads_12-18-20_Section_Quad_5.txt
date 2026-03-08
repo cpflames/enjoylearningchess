@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bharathy Mohan, Aarav  FRWCC98B  1218  1242/118  W3  W4  L2  2.0
+  2 Zhang, Ethan (yichen)  CRIDG57B  1246  1263/ 61  W4  L3  W1  2.0
+  3 Wang, Jacob            BLWDD74Y  1216  1241/ 63  L1  W2  W4  2.0
+  4 Dmitriev, Lyan         NPTD246H  1216  1150/242  L2  L1  L3  0.0

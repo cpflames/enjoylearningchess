@@ -1,0 +1,22 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Pothini, Shritan       APOIG09L   749   976/  9  W21 W9  W8  W10 W5  5.0
+  2 Davis, Brendan         EVJHB71A   747   842/ 43  W17 L8  W21 W14 W10 4.0
+  3 Emam, Aydin            PKREK53A   580   810/ 41  L11 W16 W20 W13 W8  4.0
+  4 Ephrem, Yabi           HSCHC72Q   733   817/ 55  W19 W7  D14 L5  W11 3.5
+  5 Gupta, Arav            UNKF797P  1031  1000/ 10  W15 W11 D10 W4  L1  3.5
+  6 Swaminath, Ankita      CNCE571R   897   839/ 25  L20 L14 W19 W21 W12 3.0
+  7 Nair, Ishan            FRWE670E   850   823/ 53  W18 L4  L12 W17 W16 3.0
+  8 Abueg, Jethro          SLBEH78U   822   841/ 80  W16 W2  L1  W12 L3  3.0
+  9 Elkhamri, Sophia       BUSG468Y   400   581/  6  BYE L1  L18 W19 W14 3.0
+ 10 Zhen, Hongren          KIMGC02Z   786   798/112  W13 W20 D5  L1  L2  2.5
+ 11 Mitra, Rahul           OPWGH53N   765   772/187  W3  L5  D13 W18 L4  2.5
+ 12 Wang, Evan             DISKH874   667   686/  8  D14 WF  W7  L8  L6  2.5
+ 13 Chan, Starling         MEDE148S   659   685/221  L10 W17 D11 L3  W18 2.5
+ 14 Rusia, Naman           EPSFI64T   814   773/ 55  D12 W6  D4  L2  L9  2.0
+ 15 Tran, Kaden            EVIEI52W   719   683/142  L5  LF  L17 BYE W21 2.0
+ 16 Lo, Isaac              BCWHG47B   680   650/ 45  L8  L3  BYE W20 L7  2.0
+ 17 Christiansen, Cory     EHAGG76Z   600   655/  5  L2  L13 W15 L7  W20 2.0
+ 18 Kunda, Akshar          CRKEF82S   696   624/ 80  L7  D19 W9  L11 L13 1.5
+ 19 Christiansen, Derek    EHAGE20P   600   400/  4  L4  D18 L6  L9  BYE 1.5
+ 20 Suthar, Kiran          OMSG1221   715   647/ 92  W6  L10 L3  L16 L17 1.0
+ 21 Suthar, Francesca      MEDEF51U   525   487/ 60  L1  BYE L2  L6  L15 1.0

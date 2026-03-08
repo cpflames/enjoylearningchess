@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mcintyre, Isaac        ETSC466S  1151  1162/ 77  W3  W4  L2  2.0
+  2 Evin, Terrick          EBSAC54L  1114  1112/ 26  L4  D3  W1  1.5
+  3 Zhang, Ethan Yichen    CRIEG57B  1054  1068/286  L1  D2  W4  1.5
+  4 Edmond, Alec           CSICH03G  1102  1079/181  W2  L1  L3  1.0

@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Sharikov, Alexander    ADINY12L  2017  2167/ 10  W13 L2  W12 W8  W7  4.0
+  2 Bernadskiy, Vitaliy    ADINK11H  2475  2473/ 37  W7  W1  D8  W3  L4  3.5
+  3 Guha, Mitrabha         ADINY517  2449  2450/ 18  W16 D6  W5  L2  W8  3.5
+  4 Talukdar, Rohan        MISMG44B  2411  2412/ 53  W11 D5  L6  W12 W2  3.5
+  5 Guha, Eshan            MISHG73F  2129  2137/ 22  W17 D4  L3  W10 W9  3.5
+  6 Lenderman, Aleksandr   ADUN429F  2713  2712/ 46  W12 D3  W4  HPB HPB 3.5
+  7 Razmov, Valentin       ADUNB02T  1918  1924/ 27  L2  W11 W10 W9  L1  3.0
+  8 Levine, Joseph         EPSID260  2244  2249/205  W14 W15 D2  L1  L3  2.5
+  9 Wong-godfrey, Emerson  EXWHH83E  1562  1584/384  HPB BYE W16 L7  L5  2.5
+ 10 Ingram, Richard        BCXNX611  1649  1677/ 51  L15 W17 L7  L5  W14 2.0
+ 11 He, Justin Shandong    MISEX18A  1527  1556/  4  L4  L7  HPB D13 W16 2.0
+ 12 Bell, Harry E          ADUN6453  2000  1984/ 43  L6  W14 L1  L4  D13 1.5
+ 13 Devadithya, Hiruna     PFCH5494  1585  1589/600  L1  D16 L14 D11 D12 1.5
+ 14 Joshi, Atharva         PLKI1352  1636  1635/255  L8  L12 W13 D16 L10 1.5
+ 15 Shahinyan, David       ADINB96J  2578  2575/ 51  W10 L8  HPB U   U   1.5
+ 16 Nicoski, Aaron         ADUN598C  1789  1729/ 12  L3  D13 L9  D14 L11 1.0
+ 17 Cheng, Edward          WMSIC74W  1733  1709/193  L5  L10 BYE U   U   1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xie, Leon              CNHE264X   837   982/ 97  W2  W4  W3  3.0
+  2 Vanimireddy, Shrivas   INGK833Q   917   936/ 10  L1  W3  W4  2.0
+  3 Chong, Jacob           RSHEF24L   891   860/ 80  W4  L2  L1  1.0
+  4 Wang, Ethan            BASFK40U   924   696/  5  L3  L1  L2  0.0

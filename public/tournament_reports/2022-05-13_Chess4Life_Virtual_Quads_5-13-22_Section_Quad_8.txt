@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Moses              CDWBK26L   860   957/ 53  W2  W4  W3  3.0
+  2 Ramakrishnan, Vihaan   REEG447V   732   800/ 15  L1  W3  W4  2.0
+  3 Chaudhuri, Arihant     CHAC703E   819   788/ 87  W4  L2  L1  1.0
+  4 Stake, Charles         OESCM87Q   752   684/133  L3  L1  L2  0.0

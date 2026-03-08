@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xie, Leon              CNHE264X  1091  1123/ 67  W2  W3  D4  2.5
+  2 Zeitlin, Tom           SPTDI56H   996  1032/ 21  L1  W4  W3  2.0
+  3 Girroir, Arrow         ACNCQ003  1024   997/ 14  W4  L1  L2  1.0
+  4 Fang, Weiai            THRC696W   966   930/120  L3  L2  D1  0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yin, Daniel            ISMJ116Y   804   947/ 66  W4  W2  W3  3.0
+  2 Sailer, Shaunak        SARDC25Z   812   850/ 62  W3  L1  W4  2.0
+  3 Wang, Ares             BMNCJ77J   812   790/ 67  L2  W4  L1  1.0
+  4 Dalal, Raahi           CNHC949K   823   743/ 25  L1  L3  L2  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Robinson, Adam         STTHK708  1063  1086/155  W4  W3  L2  2.0
+  2 Vijeyanandh, Vishnu    TMBGF63Z  1001  1054/ 73  W3  L4  W1  2.0
+  3 Rastogi, Reyansh       LMAFD30N  1074  1045/137  L2  L1  W4  1.0
+  4 Sethi, Ivanka          STVDF96K  1073  1044/ 34  L1  W2  L3  1.0

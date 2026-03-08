@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Crompton, Callum       FACEE89B   436   557/ 43  W6  W5  W2  3.0
+  2 Ridenour-scholtz, EthanLLLD239W   551   556/ 34  W5  W3  L1  2.0
+  3 Hildenbrand, Jace      TCEE722T   468   474/ 78  W4  L2  W6  2.0
+  4 Gardner, Andrew        CUEDK22Z   239   313/ 28  L3  W6  W5  2.0
+  5 Swanson, Ashton        CUEEK23B   326   263/ 14  L2  L1  L4  0.0
+  6 Soran, Thomas          CIADK35T   235   188/ 11  L1  L4  L3  0.0

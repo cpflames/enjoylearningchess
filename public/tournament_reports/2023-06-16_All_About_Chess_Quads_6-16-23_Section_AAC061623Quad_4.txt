@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chang, Lucas           CBREK46F   593   657/ 13  W3  W4  W2  3.0
+  2 Juneja, Saransh        FRIH152L   591   580/ 16  W4  W3  L1  2.0
+  3 Villeneuve, Alexandre  NCSDK08Q   300   315/  3  L1  L2  W4  1.0
+  4 Sanchez, Kaylee        FRIEK08P   400   100/  3  L2  L1  L3  0.0

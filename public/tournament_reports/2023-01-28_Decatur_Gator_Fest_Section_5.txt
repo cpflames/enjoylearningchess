@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Balayoghan, Keeran     SPTF477N  1192  1296/ 34  W15 W9  W8  W2  W4  5.0
+  2 Prashant, Niranjan     SNIF468K  1347  1342/ 24  W14 W12 W4  L1  W5  4.0
+  3 Davis, Nathan          SFRFJ66C   740   752/150  W16 L5  D9  W14 W10 3.5
+  4 Winter, Kayne          CSIFF38F  1237  1215/132  W6  W11 L2  W12 L1  3.0
+  5 Raja, Rian             CNCF786E   911   907/ 49  L9  W3  W16 W7  L2  3.0
+  6 Matesky, Luke          DCTFK86Q   500   843/  5  L4  W15 L12 W16 W8  3.0
+  7 Kim, Caiden            MAPFK94Z   833   839/ 14  U   W13 D11 L5  W12 2.5
+  8 Smith, Cole            DCTFH52J   827   828/ 98  W10 HPB L1  W11 L6  2.5
+  9 Shechner, Freddie      DCTFK86P   500   781/  5  W5  L1  D3  L10 W13 2.5
+ 10 Heraty, Shane          DCTFK86N   500   607/  5  L8  D14 W15 W9  L3  2.5
+ 11 Kancharakuntla, Aarush XXXFK86M   500   686/  4  BYE L4  D7  L8  W14 2.5
+ 12 Ngu, Elliott           CGRF452U   927   907/ 81  W13 L2  W6  L4  L7  2.0
+ 13 Imran, Jahanzaib       TOPFK86K   500   477/  5  L12 L7  D14 W15 L9  1.5
+ 14 Meyer, Henry           DCTFH26R   400   412/ 10  L2  D10 D13 L3  L11 1.0
+ 15 Pham, Khoi Huy         COSFK86J   500   258/  5  L1  L6  L10 L13 W16 1.0
+ 16 Schultz, Sebastian     WEDFK86H   500   100/  4  L3  BYE L5  L6  L15 1.0

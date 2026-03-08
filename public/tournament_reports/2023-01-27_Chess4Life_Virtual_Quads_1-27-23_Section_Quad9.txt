@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Young-byle, Tynan      OLSIK829   837   872/121  U   D2  W3  1.5
+  2 Kunisetty, Chekresh    XXXEK99L   932   945/ 12  W3  D1  U   1.5
+  3 Sailer, Shaunak        OPWFC25Z   820   772/187  L2  U   L1  0.0

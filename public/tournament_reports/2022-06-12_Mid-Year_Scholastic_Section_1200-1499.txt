@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Cen, Evan              TYEGI97D  1394  1473/100  W6  D3  W2  W5  W4  BYE 5.5
+  2 Fedorov, Vladimir      EVJHF17D  1298  1403/196  HPB W4  L1  W3  W5  W6  4.5
+  3 Cao, Sean              TPSEA33Q  1229  1303/ 34  W5  D1  W6  L2  BYE D4  4.0
+  4 Talathi, Shrey         SNEEK61Z  1208  1207/162  BYE L2  L5  W6  L1  D3  2.5
+  5 Bharadwaj, Samarth     DGHBE78A  1392  1318/ 95  L3  L6  W4  L1  L2  BYE 2.0
+  6 Wang, Ares             MEDDJ77J  1380  1309/222  L1  W5  L3  L4  BYE L2  2.0

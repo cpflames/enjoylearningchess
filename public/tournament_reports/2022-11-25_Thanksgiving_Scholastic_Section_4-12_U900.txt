@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Gao, Chenrui           EBSGK12A   912  1027/ 53  W14 W3  W2  W7  D4  4.5
+  2 Darling, Declan        SABIC644   809   860/107  W19 W24 L1  W9  W10 4.0
+  3 Li, Timothy            CRIGE29R   781   875/134  W20 L1  W23 W11 W7  4.0
+  4 Venkatesan, Nimalan    EVJH701P   625   890/ 15  W16 D13 W5  W12 D1  4.0
+  5 Huang, Edwin           MEDF616M   889   893/ 10  D15 W16 L4  W14 W12 3.5
+  6 Byam, Caleb            HSCGI71C   825   839/ 15  W22 L11 D14 W16 W13 3.5
+  7 Thungathurthi, PranavarINGGG82R   879   873/ 19  W21 W10 W11 L1  L3  3.0
+  8 Barr, Frederick        WMSHH739   767   747/211  L12 W15 W18 L10 W19 3.0
+  9 Qu, Yufei              XXXG250D   760   730/ 13  WF  L12 W19 L2  W18 3.0
+ 10 Tsang, Andrew          MEDFE48P   698   713/ 27  W25 L7  W24 W8  L2  3.0
+ 11 Adjei, Kyle Kofi       BUSEB64H   659   739/ 25  W23 W6  L7  L3  W17 3.0
+ 12 Hsiao, Aaron           CGRF338U   449   659/ 10  W8  W9  W13 L4  L5  3.0
+ 13 Juarez-caballero, CristSNIFD76Z   849   802/ 24  W18 D4  L12 W20 L6  2.5
+ 14 Mishra, Naveen         SNIFI07A   696   708/ 24  L1  W22 D6  L5  W20 2.5
+ 15 Lo, Ella               SOMEB94E   656   632/ 15  D5  L8  L20 W25 W23 2.5
+ 16 Vijay, Krish           SOMF144B   881   811/ 20  L4  L5  W21 L6  W24 2.0
+ 17 Pai, Shubham           BCAF694R   676   601/ 54  L24 L18 W25 W22 L11 2.0
+ 18 Tian, Eric             SOMEI80S   596   592/ 19  L13 W17 L8  W24 L9  2.0
+ 19 Mehran, Tara           OPWEE56L   468   521/ 30  L2  W21 L9  W23 L8  2.0
+ 20 Yen, Apollo            RKWFG78H   464   484/ 18  L3  BYE W15 L13 L14 2.0
+ 21 Takala, Greysen        VIWEE55T   614   542/ 14  L7  L19 L16 BYE D22 1.5
+ 22 Yang, Maximilian       SOME632J   529   480/ 14  L6  L14 BYE L17 D21 1.5
+ 23 Wright, Victoria       PTFFJ17P   675   552/ 12  L11 W25 L3  L19 L15 1.0
+ 24 Mukand Srinivasan, SureGTMH734X   700   476/  5  W17 L2  L10 L18 L16 1.0
+ 25 Thakur, Nysa           TIMFB41H   500   134/  4  L10 L23 L17 L15 BYE 1.0

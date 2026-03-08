@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bhattacharjee, ArchishmBLWEA45Y   977  1102/ 79  W4  W3  W2  3.0
+  2 Hochberg, David        SUEI6075   881   963/ 97  W3  W4  L1  2.0
+  3 Ivanovic, Lena         UCDAK55K  1025   990/198  L2  L1  W4  1.0
+  4 Kumarswamy, Adarsh     CHRF755Y   983   908/340  L1  L2  L3  0.0

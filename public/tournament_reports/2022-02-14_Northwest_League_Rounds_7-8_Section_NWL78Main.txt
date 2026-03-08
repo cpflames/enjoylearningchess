@@ -1,0 +1,62 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Roesch, Carson         BLHJ120K  1805  1806/204  W24 W47 2.0
+  2 Brown, Oliver          MRDMI13S  1604  1604/ 12  W51 W55 2.0
+  3 Wakatsuki, Perry       LYEMC31A  1328  1364/ 12  W56 W23 2.0
+  4 Reyna, Frankie         FERME23L  1296  1302/ 14  W57 W45 2.0
+  5 Kuzin, Ethan           SHMJ7567  1209  1228/233  W48 W25 2.0
+  6 Lee, Jae-yoon          SHMJC734  1356  1381/ 62  W45 W42 2.0
+  7 Lewis, Theo            FERKK29P  1210  1222/ 46  W47 W44 2.0
+  8 Stanley, Soren         BLHL116S  1193  1201/ 30  W49 W46 2.0
+  9 Macgregor, Matthew     SHMK1137  1146  1171/ 86  W33 W43 2.0
+ 10 Brown, Sofia           MRDK128V  1082  1101/ 12  W50 W30 2.0
+ 11 Cox, Dylan             SHMJ3440  1075  1100/141  W29 W40 2.0
+ 12 Darr-rehmert, Natalie  FERLK93U  1056  1064/ 76  W59 W48 2.0
+ 13 Reiss, Madelyn         BLHKJ21Y   901   948/ 11  W26 W57 2.0
+ 14 Gangle, Jerome         SHMM2873  1012  1029/ 65  W32 W53 2.0
+ 15 Millsap, Owen          BLHLJ58G   868   915/ 10  W27 W59 2.0
+ 16 Van Male, Justin       BLHLB91X   564   656/ 14  W31 W52 2.0
+ 17 Gamble, Lydia          BLHKI96B   509   642/  5  W38 W37 2.0
+ 18 Jongema, Gabriel       LYEK984D  1508  1500/ 30  W55 D19 1.5
+ 19 Bosch, Ethan           SHMMF67U  1361  1374/ 38  W44 D18 1.5
+ 20 Peterson, Kylan        MRDK175Q  1123  1104/ 29  D40 W56 1.5
+ 21 Bowman, Finn           SHMJD50L   794   800/ 25  W36 D22 1.5
+ 22 Reynolds, Gabrielle    BLHK502P   656   706/  9  W52 D21 1.5
+ 23 Lewis, Rhys            SHMM8736  1378  1356/292  W46 L3  1.0
+ 24 Lim, Carter            SHMJ7749  1060  1064/ 93  L1  W51 1.0
+ 25 O'neill, Patrick       LYEJ221T  1050  1065/ 10  W43 L5  1.0
+ 26 Goetzl, Twain          SHML6001   989   964/206  L13 W50 1.0
+ 27 Love, Charles          SHMJ458N   921   899/ 33  L15 W41 1.0
+ 28 Mcfadden, Cameron      FERLI35S   915   879/ 57  W61 L33 1.0
+ 29 Waters, Shawn          BLHJK63D   911   907/ 15  L11 W49 1.0
+ 30 Anshus, Erik           SHMKD320   849   842/ 79  W58 L10 1.0
+ 31 Bermudez, Evan         SHMJ7653   815   776/136  L16 W58 1.0
+ 32 Hodges, Xander         BLHKB63W   791   773/  9  L14 W61 1.0
+ 33 Masterson, Emmett      LYEK300S   791   826/ 14  L9  W28 1.0
+ 34 Coulter, Alex          MRDLF898   762   779/ 47  W53 U   1.0
+ 35 Reynolds, Ethan        BLHIF62M   535   541/  4  W54 L36 1.0
+ 36 Wright, Jackson        BLHKE03C   532   563/  9  L21 W35 1.0
+ 37 Rasmussen, Henry       BLHKC41T   459   429/  6  W60 L17 1.0
+ 38 Weiss, Kai             BLHK948F   400   400/  4  L17 W60 1.0
+ 39 Margeson, Tristan      MRDLI30S   883   861/ 23  D41 U   0.5
+ 40 Thornton, Keaton       BLHK630U   759   791/  9  D20 L11 0.5
+ 41 Granger, Jacob         BLHJ654S   611   621/ 20  D39 L27 0.5
+ 42 Mccrory, Jared         LYEKA43K  1350  1327/ 29  U   L6  0.0
+ 43 Enertson, Zach         LYEK971E  1073  1024/ 51  L25 L9  0.0
+ 44 Moore, Gregory         LYEK789Q   942   927/ 29  L19 L7  0.0
+ 45 Giblin, Joe            LYELA51Z   924   914/ 31  L6  L4  0.0
+ 46 Bridges, Tommy         LYEL272M   831   821/ 42  L23 L8  0.0
+ 47 Elenbaas, Nathan       MRDLC84M   770   765/ 28  L7  L1  0.0
+ 48 Aquino, James          LYELH819   725   713/ 39  L5  L12 0.0
+ 49 Adams, Carson          MRDLA48F   682   664/ 14  L8  L29 0.0
+ 50 Kerr, Ethan            BLHJJ06N   668   654/  9  L10 L26 0.0
+ 51 Dodge, Nathaniel       BLHM337W   638   632/ 47  L2  L24 0.0
+ 52 Chiapellone, Teo       SHMKG88R   644   583/ 43  L22 L16 0.0
+ 53 May, Ruby              BLHK397U   601   565/  7  L34 L14 0.0
+ 54 Stewart, Elijah        SHMK787F   563   522/ 13  L35 U   0.0
+ 55 Manly, Katie           FERJ313C   506   506/ 32  L18 L2  0.0
+ 56 Red Elk, Ali-lawet     FERL986S   512   509/ 28  L3  L20 0.0
+ 57 Pounder, Jacob         MRDJG96X   433   433/  7  L4  L13 0.0
+ 58 Clark, Camden          BLHK635A   432   416/ 11  L30 L31 0.0
+ 59 Kempf, Johnny          MRDMC19K   412   406/ 15  L12 L15 0.0
+ 60 Simpson, Liam          BLHK353G   400   400/  4  L37 L38 0.0
+ 61 Singh, Jagteshwar      MRDKJ25M  1000   400/  2  L28 L32 0.0

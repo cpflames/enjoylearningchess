@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hernandez, Zeke        CSSIM698   269   407/  6  L2  W3  W4  2.0
+  2 Shah, Sara             JWEFW87L   500   519/  3  W1  W4  L3  2.0
+  3 Devlin, Austin         XXXFK25F   500   519/  3  W4  L1  W2  2.0
+  4 Bhatia, Saanvi         DISC761T   321   256/ 17  L3  L2  L1  0.0

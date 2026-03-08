@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Maheshwari, Vihaan     DGHI695W   792   883/ 62  W3  W4  W2  3.0
+  2 Fang, Weiai            BRBB696W   777   760/ 45  D4  W3  L1  1.5
+  3 Jiang, Nathan          FAPCG71Q   617   618/ 39  L1  L2  W4  1.0
+  4 Ge, Alex               CCDB908H   661   620/ 54  D2  L1  L3  0.5

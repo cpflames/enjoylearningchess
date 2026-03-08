@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bangard, Dhruv         TBKAK65D   502   591/ 13  W3  W4  W2  3.0
+  2 Srivastava, Manya      FRWF758W   610   587/ 61  W4  W3  L1  2.0
+  3 Johnson, Bryce         OPSAK11K   100   165/  3  L1  L2  D4  0.5
+  4 Fossum, Joshua         FIRFK11J   500   165/  3  L2  L1  D3  0.5

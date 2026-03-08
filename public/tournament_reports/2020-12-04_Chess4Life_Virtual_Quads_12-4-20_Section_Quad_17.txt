@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Achache, Enzo          XXXC308Q   400   951/  3  W2  W4  W3  3.0
+  2 Bhardwaj, Nia          RKWDD47N   470   551/ 26  L1  W3  W4  2.0
+  3 Garner, Noel           BCWE478K   400   473/  3  W4  L2  L1  1.0
+  4 Shubin, Neta           RKWK7542   455   400/ 24  L3  L1  L2  0.0

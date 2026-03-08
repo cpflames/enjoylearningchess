@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chevuri, Tattva        CBRDC06V  1084  1090/153  W3  D2  D4  2.0
+  2 Hildenbrand, Blane     TCEF122V   992   999/ 80  W4  D1  L3  1.5
+  3 Kan, Kaleb             MMECF53E   960   976/101  L1  D4  W2  1.5
+  4 Verma, Eshaan          TBKGC02S  1027   999/118  L2  D3  D1  1.0

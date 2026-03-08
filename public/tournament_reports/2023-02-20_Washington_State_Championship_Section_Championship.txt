@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 tot 
+  1 Jiang, Brandon         BLLK7768  2179  2233/516  W3  W5  D7  D8  W10 D4  D9  W6  W2  7.0
+  2 Nm Aliyev, Timur       ADUNK62F  1300  2368/  9  D4  W9  D6  W10 D3  W5  W7  W8  L1  6.5
+  3 Lee, Megan             ADUN8702  2351  2353/183  L1  W4  W9  W6  D2  W10 L5  W7  W8  6.5
+  4 Gottumukkala, Ananth   ADUNG432  2086  2140/329  D2  L3  D5  D7  W8  D1  W10 W9  D6  5.5
+  5 Sang, Tian             ADUNE22K  2347  2337/ 22  D8  L1  D4  W9  W6  L2  W3  D10 W7  5.5
+  6 Kurungod Anoop, Pranav INTLK760  2097  2114/245  W9  W10 D2  L3  L5  L7  W8  L1  D4  4.0
+  7 Vemparala, Nikash      OVLHI078  2114  2118/392  D10 W8  D1  D4  L9  W6  L2  L3  L5  3.5
+  8 Min, Ryan              OMSI5430  2088  2089/383  D5  L7  W10 D1  L4  W9  L6  L2  L3  3.0
+  9 Moroney, Timothy       ADUN276J  2232  2195/ 39  L6  L2  L3  L5  W7  L8  D1  L4  W10 2.5
+ 10 Pupols, Viktors        ADUN8503  2200  2144/ 47  D7  L6  L8  L2  L1  L3  L4  D5  L9  1.0

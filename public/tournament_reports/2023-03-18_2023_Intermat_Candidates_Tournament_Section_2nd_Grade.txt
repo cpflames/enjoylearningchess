@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bharadwaj, Samarth     DISCE78A  1433  1416/123  L3  W4  W2  2.0
+  2 Zhu, Aiden             LLSCC77X  1162  1220/ 59  W4  W3  L1  2.0
+  3 Li, Edgar              OPWC883Y  1210  1219/141  W1  L2  D4  1.5
+  4 Kakkad, Vayu           DCTCK50L  1165  1138/461  L2  L1  D3  0.5

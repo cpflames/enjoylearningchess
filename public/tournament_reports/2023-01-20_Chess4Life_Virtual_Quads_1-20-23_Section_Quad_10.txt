@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhou, Evelyn           CHRCB89E   430   462/ 23  W2  WF  W4  3.0
+  2 Ramanathan, Varun      LEOHK88H   700   289/  2  L1  W4  WF  2.0
+  3 Gunderson, Amar        LAEDW997   300   500/  1  W4  LF  LF  1.0
+  4 Sharma, Saumya         ENSFK99H   126   100/  9  L3  L2  L1  0.0

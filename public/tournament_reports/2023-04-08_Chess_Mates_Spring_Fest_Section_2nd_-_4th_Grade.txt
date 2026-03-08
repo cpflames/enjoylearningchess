@@ -1,0 +1,48 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Joseph, Veronique      SJODJ04S  1232  1246/123  W20 D11 W16 W9  W10 4.5
+  2 Xu, Yang               CNCD649B  1169  1210/ 65  W33 W27 D10 W23 W3  4.5
+  3 Sankrithi, Sarang      HSCDB11D  1274  1270/202  W30 W14 W12 W6  L2  4.0
+  4 Chaudhuri, Arihant     CHAD703E  1246  1223/189  W31 W26 L9  W17 W13 4.0
+  5 Zandanov, Leonid       XXXCK31Q  1196  1166/ 15  W39 L16 W29 W18 W12 4.0
+  6 Bansal, Aarini         SOMEK14R  1070  1112/168  W34 W21 W7  L3  W22 4.0
+  7 Palathingal, Rafael    BEND196R  1280  1246/ 43  W19 W13 L6  W16 D9  3.5
+  8 Li, Edgar              OPWC883Y  1196  1161/150  W32 W15 D23 L10 W14 3.5
+  9 Luo, Peter             SHVD664K  1028  1082/ 44  W41 W18 W4  L1  D7  3.5
+ 10 Patnaik, Rishabhdeva   CRKEG72D   910  1072/108  W42 W24 D2  W8  L1  3.5
+ 11 Pan, Peng-ruei         SSMD759R   715   867/ 18  W46 D1  L24 W26 W23 3.5
+ 12 Tunuguntla, Sai SrithanEMDEK78V  1014  1000/167  W35 W17 L3  W28 L5  3.0
+ 13 Wei, Marcus            CSIE588E   855   861/ 72  W45 L7  W30 W27 L4  3.0
+ 14 Pleasants, Gabriel     THUC149G   746   766/ 30  W36 L3  W31 W20 L8  3.0
+ 15 Wishwas, Rishab        WMEDK91Q   713   724/ 30  W37 L8  W32 L22 W29 3.0
+ 16 Lin, Vivienne          CIACK99D   732   839/ 12  W40 W5  L1  L7  W31 3.0
+ 17 Huang, Clora           SOMDK31H   632   650/ 14  WF  L12 W37 L4  W32 3.0
+ 18 Mcclenahan, Nicklas    AGBEK26V   597   637/ 10  W38 L9  W34 L5  W35 3.0
+ 19 Lee, Alvin             MEDEK32M   590   595/ 10  L7  W47 L22 W41 W36 3.0
+ 20 Xiong, Micah           IPECK39Y   424   580/ 15  L1  W46 W26 L14 W27 3.0
+ 21 Karanam, Aadya         CHKCK84K   360   447/ 23  WF  L6  L27 W38 W28 3.0
+ 22 Spruit, Nolan          CSIDK24E   300   871/  5  W28 L23 W19 W15 L6  3.0
+ 23 Chaudhuri, Agnivesh    CHADB55V  1010   991/175  W47 W22 D8  L2  L11 2.5
+ 24 Wang, Ares             MEDEJ77J  1332  1298/255  W29 L10 W11 U   U   2.0
+ 25 Raghunathan, Vidur     MCID878A  1141  1142/ 41  LF  U   U   W44 W39 2.0
+ 26 Venkatesan, Nithilan   LCSCA95X   737   685/ 48  W43 L4  L20 L11 W40 2.0
+ 27 Don, Benjamin          MEDE861Q   701   661/ 83  W44 L2  W21 L13 L20 2.0
+ 28 Kuchhal, Pranshi       RSADB17P   610   575/ 18  L22 W35 W41 L12 L21 2.0
+ 29 Hedstrom, Parker       WEDE498Y   522   526/ 24  L24 W42 L5  W34 L15 2.0
+ 30 Kumar, Rishuraj        ENAEK45Y   475   451/ 15  L3  W36 L13 L35 W42 2.0
+ 31 Xu, William            DCTCK93M   458   475/ 53  L4  W45 L14 W37 L16 2.0
+ 32 Aker, Pepper           THUE181G   405   406/ 76  L8  W43 L15 W42 L17 2.0
+ 33 Maibaum, Bryce         CSIC124D   400   362/ 14  L2  L37 W39 L36 W43 2.0
+ 34 Yin, Hua               BASC192N   293   302/ 14  L6  W44 L18 L29 W45 2.0
+ 35 Gelli, Sai Lohith      LCSCK31C   290   364/ 15  L12 L28 W40 W30 L18 2.0
+ 36 Stewart, Alessandra    WEDCK84H   100   186/  9  L14 L30 BYE W33 L19 2.0
+ 37 Zhong, Sebastian       MCKEK24D   400   418/  5  L15 W33 L17 L31 W41 2.0
+ 38 Balboa Sanchez, Cailan CSIDK24C   300   239/  5  L18 L41 W43 L21 W46 2.0
+ 39 Stanley, Allison       MAGE872Q   400   363/ 89  L5  D40 L33 W45 L25 1.5
+ 40 Garcia Friedhoff, Leo  HZFCK24B   200   278/  5  L16 D39 L35 W46 L26 1.5
+ 41 Gao, Alexander         SOMDK44G   298   274/ 10  L9  W38 L28 L19 L37 1.0
+ 42 Ekanayake, Nisitha     BLWDK43Y   196   184/ 10  L10 L29 W44 L32 L30 1.0
+ 43 Vazquez-blanchet, AndreMAGDK24A   300   100/  4  L26 L32 L38 BYE L33 1.0
+ 44 Jencks, Nathaniel      BFDDK23Z   300   100/  4  L27 L34 L42 L25 BYE 1.0
+ 45 Dolobowsky, Ellie      WELDK32Z   100   100/ 10  L13 L31 D46 L39 L34 0.5
+ 46 Malse, Neil            MAGDK23Y   300   100/  5  L11 L20 D45 L40 L38 0.5
+ 47 Twombly-borst, Henry   CWACA01R   257   245/ 15  L23 L19 U   U   U   0.0

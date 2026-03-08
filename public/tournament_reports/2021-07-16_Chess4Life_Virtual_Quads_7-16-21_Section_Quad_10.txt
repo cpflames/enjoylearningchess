@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Ares             BMNCJ77J   853   925/105  W2  L4  W3  2.0
+  2 Zhu, Kevin             CSMB865U   899   910/191  L1  D3  W4  1.5
+  3 Stake, Charles         OESBM87Q   954   948/ 30  W4  D2  L1  1.5
+  4 Taylor, Ryder          HSCH385C  1001   956/ 47  L3  W1  L2  1.0

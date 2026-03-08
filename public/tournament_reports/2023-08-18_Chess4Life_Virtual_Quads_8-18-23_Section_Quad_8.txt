@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ramkumar, Aditya       UNKCC38J   551   555/ 66  L4  W3  W2  2.0
+  2 Ambardekar, Arjun      WLDDZ96E   532   512/ 22  D3  W4  L1  1.5
+  3 Hildenbrand, Jace      TCEE722T   474   473/ 81  D2  L1  W4  1.5
+  4 Ching, Victor          XXXBK07D   330   344/ 11  W1  L2  L3  1.0

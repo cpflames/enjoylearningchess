@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tan, Nathan            UCDB412Y   721   898/  9  W3  W4  W2  3.0
+  2 Condit, Theo           TLIAJ39C   846   826/ 39  W4  L3  L1  1.0
+  3 Hochberg, David        SUEI6075   938   891/ 88  L1  W2  L4  1.0
+  4 Verretto, Dante        EMSIS76P   895   860/159  L2  L1  W3  1.0

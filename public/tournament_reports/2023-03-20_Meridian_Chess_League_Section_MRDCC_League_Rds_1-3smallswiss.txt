@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Valich, Kellen         MRDGK41J   600  1000/  2  BYE W4  D3  2.5
+  2 Valeos, Connor         MDIHK41H   700   698/  3  L3  W7  W6  2.0
+  3 Siadal, Tucker         MRDGK41G   600   892/  3  W2  D5  D1  2.0
+  4 Siadal, Carson         MRDJK41F   900   800/  3  W6  L1  W5  2.0
+  5 Bohannon, Conner       MDIGK41E   600   713/  3  W7  D3  L4  1.5
+  6 Koning, Liam           MDIGK41D   600   275/  2  L4  BYE L2  1.0
+  7 Miller, Aiden          MRDKK41B  1000   250/  2  L5  L2  U   0.0
+
+ All Unrated-player Section: Ratings capped at 1000

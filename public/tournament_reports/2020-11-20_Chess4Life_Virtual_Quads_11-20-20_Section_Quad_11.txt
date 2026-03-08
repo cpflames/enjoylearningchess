@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Louie, Leyton          UCDD880T   961   980/109  W3  W2  L4  2.0
+  2 Kan, Kaleb             MMECF53E   924   928/ 83  W4  L1  D3  1.5
+  3 Mitra, Rahul           OPWFH53N   922   927/ 97  L1  W4  D2  1.5
+  4 Zhao, Dennis           CGRE525E   946   918/ 92  L2  L3  W1  1.0

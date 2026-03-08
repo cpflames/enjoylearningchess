@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Guzman, Nate           TPSD939A   795   835/ 81  W4  W3  D2  2.5
+  2 Sailer, Shaunak        SAREC25Z   829   799/118  L3  W4  D1  1.5
+  3 Leon, Nikhil           HSCD587T   708   684/ 63  W2  L1  L4  1.0
+  4 Melomed, Samuel        CCDD223B   508   572/  6  L1  L2  W3  1.0

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Deng, Lily             CJEH5007  1844  1860/279  W2  W4  W3  3.0
+  2 Fortier, Michael       ADUNH53W   400  1414/  6  L1  W5  W4  2.0
+  3 Deng, Stanley          CGMCK22E  1261  1368/102  W5  W6  L1  2.0
+  4 Scott, Dane            HSCL293V  1837  1758/ 13  W6  L1  L2  1.0
+  5 Chung, Ethan           LIBE108U  1537  1497/268  L3  L2  W6  1.0
+  6 Zelaya, Jonathan       BLSFJ79T  1430  1381/106  L4  L3  L5  0.0

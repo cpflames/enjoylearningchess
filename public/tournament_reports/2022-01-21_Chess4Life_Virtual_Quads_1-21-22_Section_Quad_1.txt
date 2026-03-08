@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Willy, Stephen         HSCGH17K  1886  1898/469  W3  W4  W2  3.0
+  2 Boulis, Christos       RHJIC84T  1633  1651/529  W4  W3  L1  2.0
+  3 Zhou, Yuchen           BCACJ42H  1526  1527/397  L1  L2  W4  1.0
+  4 Frederick, Benjamin    LAUES57X  1538  1500/158  L2  L1  L3  0.0

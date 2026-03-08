@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Jacob            BLWED74Y  1282  1341/208  D4  W3  W2  2.5
+  2 Zhu, Kevin             CSMC865U  1280  1303/282  W3  W4  L1  2.0
+  3 Zhao, Dennis           CGRF525E  1270  1251/236  L2  L1  W4  1.0
+  4 Hochberg, David        SUEJ6075  1283  1239/218  D1  L2  L3  0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Fan, Max               ISMH993P   944  1021/  8  W3  W2  L4  2.0
+  2 Ivanovic, Lena         UCDAK55K  1039  1058/184  W4  L1  W3  2.0
+  3 Kan, Kaleb             MMECF53E  1043  1011/136  L1  W4  L2  1.0
+  4 Fei, Derek             SPTDJ01E  1011   988/ 41  L2  L3  W1  1.0

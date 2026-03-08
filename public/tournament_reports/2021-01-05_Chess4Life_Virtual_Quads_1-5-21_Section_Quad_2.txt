@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yuen, Owen             KSHFA16Z  1224  1235/228  W4  W2  L3  2.0
+  2 Trochesset, David      ENSEG98F  1186  1207/ 19  W3  L1  W4  2.0
+  3 Saddi, Neevan Reddy    GRRBH87M  1203  1220/ 19  L2  W4  W1  2.0
+  4 Verretto, Dante        EMSIS76P  1097  1045/126  L1  L3  L2  0.0

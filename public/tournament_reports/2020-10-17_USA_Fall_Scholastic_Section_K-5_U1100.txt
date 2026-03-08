@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Tunuguntla, Sai SrithanEMDCK78V  1099  1224/ 97  W3  W20 W7  W2  W6  5.0
+  2 Levy, Solomon          LCNDD39J   400  1212/  5  W17 W14 W6  L1  W7  4.0
+  3 Mitra, Rahul           OPWFH53N   676   826/ 78  L1  W9  W10 D4  W13 3.5
+  4 Swaminath, Ankita      CNCE571R   896   897/ 20  W9  W19 L12 D3  W8  3.5
+  5 Avula, Guru Harshith ReBRHB633Y   732   853/ 22  L6  W18 D20 W14 W12 3.5
+  6 Kokati, Pranav         CHRF814P   997  1020/110  W5  W15 L2  W12 L1  3.0
+  7 Malugu, Sankalp        SHSBE95W   978   982/100  W21 W16 L1  W15 L2  3.0
+  8 Zhang, Melodie         SPTFE44K   825   812/ 65  L16 W13 W21 W11 L4  3.0
+  9 Shenoy, Vaishnavi      NPEFQ96H   527   671/  8  L4  L3  W18 W21 W15 3.0
+ 10 Ram, Joey              THOGF94L   604   705/ 43  L14 W17 L3  W19 W20 3.0
+ 11 Tian, Grace            CRIDE89L   754   752/ 68  WF  L12 W19 L8  W16 3.0
+ 12 Ramkumar, Siddharth    LMAEH50B   983   937/107  D13 W11 W4  L6  L5  2.5
+ 13 Jain, Harsh            JUAF899R   433   581/ 19  D12 L8  W22 W20 L3  2.5
+ 14 Sankrithi, Sarang      HSCBB11D   896   880/ 55  W10 L2  HPB L5  W21 2.5
+ 15 Li, Harry              SSSBG30G   819   781/140  W18 L6  W16 L7  L9  2.0
+ 16 Chappidi, Anish        CLHCA44S   400   724/  5  W8  L7  L15 W17 L11 2.0
+ 17 Kotipalli, Akhil       ENDE191A   803   736/ 64  L2  L10 W23 L16 BYE 2.0
+ 18 Mallapragada, Mihir    CBRA254M   400   482/  4  L15 L5  L9  BYE W23 2.0
+ 19 Nampally, Aaradhya     BRHBE11C   400   489/  4  WF  L4  L11 L10 W22 2.0
+ 20 Modak, Vedant          WELFJ82W   844   767/ 44  W22 L1  D5  L13 L10 1.5
+ 21 Deepak, Advait         BRHDD74M   612   554/ 16  L7  WF  L8  L9  L14 1.0
+ 22 Mitra, Rishab          OPWC138L   400   400/ 32  L20 BYE L13 L23 L19 1.0
+ 23 Zhao, Jinyi            MESBJ03M   400   400/  3  LF  LF  L17 W22 L18 1.0

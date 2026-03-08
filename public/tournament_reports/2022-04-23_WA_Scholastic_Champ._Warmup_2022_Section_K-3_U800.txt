@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ish-shalom, Noah       HSODP12B   773   812/ 94  W5  D8  W6  W2  D3  4.0
+  2 Do, Lucas              SOMC382W   911   860/ 10  W3  D6  W10 L1  W5  3.5
+  3 Su, Oliver             JINBD01U   511   621/ 31  L2  W11 W9  W10 D1  3.5
+  4 Xuan, Amy              CSIBH95V   704   668/ 23  W11 L10 W8  L5  W6  3.0
+  5 Raji, Surya            OPWD181Q   490   575/ 29  L1  BYE W7  W4  L2  3.0
+  6 Khambatti, Maxim       HSCD719W   721   684/ 29  WF  D2  L1  W8  L4  2.5
+  7 Wolff, Tom             HKEBG70U   502   449/ 27  HPB HPB L5  D11 BYE 2.5
+  8 Einarson, Aiden        CWADD84D   432   446/ 61  WF  D1  L4  L6  W11 2.5
+  9 Wolff, Maya            HKEDB05R   400   400/ 26  HPB HPB L3  BYE D10 2.5
+ 10 Bose, Evani            HLYCE10U   400   527/  4  WF  W4  L2  L3  D9  2.5
+ 11 Einarson, Finn         CWAA256K   400   400/  4  L4  L3  BYE D7  L8  1.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ge, Alex               CCDB908H   620   801/ 57  W2  W3  W4  3.0
+  2 Lim, Oliver            ARMAC58T   700   668/ 20  L1  L4  W3  1.0
+  3 Chaudhuri, Agnivesh    CHACB55V   694   664/100  W4  L1  L2  1.0
+  4 Mills, Paxson          HSCFI32D   655   637/ 50  L3  W2  L1  1.0

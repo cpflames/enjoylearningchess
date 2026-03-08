@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Condit, Alex           TLIDB04F   870   893/ 39  W3  L4  W2  2.0
+  2 Bhattacharjee, ArchishmBLWEA45Y   840   846/ 47  W4  D3  L1  1.5
+  3 Mohan, Keshav          EGMGG24Z   828   838/ 23  L1  D2  W4  1.5
+  4 Sailer, Shaunak        SARDC25Z   896   858/ 71  L2  W1  L3  1.0

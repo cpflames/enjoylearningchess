@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Van, Ocean             CWHMK699  1570  1600/210  W10 W8  W7  W6  W20 5.0
+  2 Scollon, Benjamin      SHMJJ16P  1303  1381/221  W11 W20 W18 W12 W6  5.0
+  3 Suess, Wade            EVGF101D  1612  1595/227  W18 W5  L6  W20 W11 4.0
+  4 Coghlan, Tomas         HHSMG445  1180  1230/184  L6  W11 D5  W10 W7  3.5
+  5 Carman, Leif           RICKB289  1312  1348/208  W22 L3  D4  W14 W12 3.5
+  6 Haase, Seth            PASLK99B  1100  1442/  5  W4  W15 W3  L1  L2  3.0
+  7 Piedra, Daniel         CWHLD502  1169  1177/240  W9  W19 L1  W8  L4  3.0
+  8 Read, Adrian           SHMMK76D  1210  1195/196  W21 L1  W19 L7  W13 3.0
+  9 Pantoja, Omar          CWHKI56D   596   872/ 20  L7  D10 D17 W15 W14 3.0
+ 10 Villegas, Jovanny      CWHK220P   864   974/ 33  L1  D9  W13 L4  W15 2.5
+ 11 Esquivel, George       CWHKD456   907   906/193  L2  L4  W16 W19 L3  2.0
+ 12 Perez, Osvaldo         CWHJI537  1032  1037/210  L13 W16 W14 L2  L5  2.0
+ 13 Anderson, Bradford     CWHM949T  1200  1050/  5  W12 L14 L10 W17 L8  2.0
+ 14 Lopez, Benjamin        CWHMD107  1300  1222/213  W20 W13 L12 L5  L9  2.0
+ 15 Gasca, Brian           CWHM268Y  1125  1059/107  W16 L6  W20 L9  L10 2.0
+ 16 Lopez, Maya            CWHJ3058   620   614/ 76  L15 L12 L11 BYE W19 2.0
+ 17 Trifilov, Ruvim        CWHJ118U  1314  1253/ 29  U   BYE D9  L13 U   1.5
+ 18 Martinez, Raul         CWHKC472  1002   996/183  L3  W21 L2  U   U   1.0
+ 19 Medrano, CesarhernandezCWHJJ72S   900   400/  4  BYE L7  L8  L11 L16 1.0
+ 20 Bage, Adwaya           INGJ598F   916   885/ 15  L14 L2  L15 L3  L1  0.0
+ 21 Rodriguez, YesseniafariCWHM272P  1200   400/  2  L8  L18 U   U   U   0.0
+ 22 Nguyen, Thomas         CWHJ7648  1396  1369/323  L5  U   U   U   U   0.0

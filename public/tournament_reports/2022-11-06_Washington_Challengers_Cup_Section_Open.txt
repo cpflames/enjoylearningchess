@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Sang, Tian             ADUNE22K  2346  2364/  9  W25 W8  W6  W5  W7  5.0
+  2 Tessiore, Luca         EMSGP42N  1884  1905/194  W22 L6  W20 D4  W8  3.5
+  3 Wang, Ted              STTDK13D  1929  1927/216  W10 D5  D9  D13 W15 3.5
+  4 Jammalamadaka, Vihaan  WPPFJ90F  1814  1859/319  W19 W7  L11 D2  W13 3.5
+  5 Notkin, Akiva          ADUNH45Z  1582  1820/ 17  W13 D3  W12 L1  W11 3.5
+  6 Jiang, Brandon         BLLK7768  2185  2194/502  W15 W2  L1  W11 U   3.0
+  7 Zhou, David            ADUN130N  1300  1898/  5  W24 L4  W23 W9  L1  3.0
+  8 Gavrish, Leonid        ADUN816H  2004  1994/  9  W16 L1  W17 W21 L2  3.0
+  9 Wang, Daniel           LSSK8287  1671  1712/598  HPB W18 D3  L7  W17 3.0
+ 10 Karamali, Saiya        ADUN586R  1681  1706/  7  L3  HPB W14 HPB W20 3.0
+ 11 Pupols, Viktors        ADUN8503  2200  2170/ 32  W14 D12 W4  L6  L5  2.5
+ 12 Arat, Yagiz            ADUN537Z  1300  1792/  5  W21 D11 L5  L15 W22 2.5
+ 13 Razmov, Valentin       ADUNB02T  1849  1833/ 95  L5  W16 W18 D3  L4  2.5
+ 14 Jammalamadaka, Varnika OVLID216  1736  1723/457  L11 D19 L10 W25 W21 2.5
+ 15 Pisan, Kai             CHYJ404C  1787  1787/419  L6  D21 W19 W12 L3  2.5
+ 16 Xu, Owen               SOMD896M  1658  1644/148  L8  L13 W25 L20 W23 2.0
+ 17 Lin, Michael           BASDC97F  1798  1761/267  L18 W22 L8  W23 L9  2.0
+ 18 Xiong, Michael         MEDE115A  1478  1504/241  W17 L9  L13 D22 HPB 2.0
+ 19 Wang, Leonardo         CKNG233K  1529  1544/ 19  L4  D14 L15 D24 W25 2.0
+ 20 Han, Shuyi             TYEGK47W  1568  1576/282  HPB D23 L2  W16 L10 2.0
+ 21 Seshadri, Sridhar      ADUNC121  1611  1611/ 61  L12 D15 W24 L8  L14 1.5
+ 22 Razmov, Gabriel        ADDHC26K  1624  1590/238  L2  L17 BYE D18 L12 1.5
+ 23 Barua, Ani             ADUN8572  1639  1601/ 17  HPB D20 L7  L17 L16 1.0
+ 24 Wong-godfrey, Emerson  BUSJH83E  1687  1641/427  L7  D25 L21 D19 U   1.0
+ 25 Ramkumar, Nikhil       RBRF115E  1421  1405/194  L1  D24 L16 L14 L19 0.5

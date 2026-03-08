@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Gijare, Sayali         SKWIE100  1633  1635/538  W4  L2  W3  2.0
+  2 Kamel, Yaseen          PFCID57L  1534  1557/121  W3  W1  L4  2.0
+  3 Boulis, Christos       RHJHC84T  1551  1533/475  L2  W4  L1  1.0
+  4 Xie, Max               BLWGI185  1500  1492/308  L1  L3  W2  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Rapolu, Sai Tejasvi    BCAEG86E   791   819/113  W3  W2  L4  2.0
+  2 Nakashima, Jaden       LAVEC80B   873   876/ 47  W4  L1  W3  2.0
+  3 Sathia Narayanan, Arun INGJB61V   800   753/  8  L1  W4  L2  1.0
+  4 Zhao, Dennis           CGRE525E   728   720/ 65  L2  L3  W1  1.0

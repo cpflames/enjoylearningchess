@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Liu, Lucas             SOMDH33R  1417  1443/106  W9  W2  D3  W4  W5  4.5
+  2 Malugu, Sankalp        SHSBE95W  1170  1311/149  W7  L1  W5  W3  W6  4.0
+  3 Cheng, Selina          THUD413R  1398  1400/198  W8  W6  D1  L2  W7  3.5
+  4 Guduru, Agasthya       EMDC500V  1039  1090/ 49  L6  W8  W9  L1  BYE 3.0
+  5 Dash, Nishant          ENDD260B   919   982/ 79  BYE D9  L2  W7  L1  2.5
+  6 Liu, Vincent           ILAC546Q  1290  1247/ 83  W4  L3  L7  W8  L2  2.0
+  7 Xiong, Michael         MEDC115A  1183  1149/ 76  L2  BYE W6  L5  L3  2.0
+  8 Edmond, Alec           LCNBH03G  1106  1081/ 86  L3  L4  BYE L6  W9  2.0
+  9 Edmond, Ivy            WWDDD81E  1155  1080/147  L1  D5  L4  BYE L8  1.5

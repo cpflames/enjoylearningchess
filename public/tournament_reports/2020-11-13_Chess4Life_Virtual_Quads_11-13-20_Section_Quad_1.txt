@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Shanmugam, Meera       BCWFD22Y  1623  1643/392  W3  W2  L4  2.0
+  2 Stein, Daniel          HSCM166Y  1766  1761/ 79  W4  L1  W3  2.0
+  3 Park, Sean             INTJ600E  1686  1661/ 81  L1  W4  L2  1.0
+  4 Singh, Saket           DISH872S  1467  1481/159  L2  L3  W1  1.0

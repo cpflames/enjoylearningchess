@@ -1,0 +1,36 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Merriman, Dann         EREDF79Y  1534  1576/500  W17 W10 W9  D3  W2  4.5
+  2 Liu, Vincent           ILAE546Q  1507  1531/165  W18 W6  W20 W4  L1  4.0
+  3 Saddi, Neevan Reddy    GRRDH87M  1496  1511/117  W22 W11 W14 D1  D7  4.0
+  4 Cheng, Selina          THUF413R  1491  1506/440  W19 W12 W13 L2  W10 4.0
+  5 Tan, Nathan            UCDD412Y  1454  1474/145  W23 D7  D8  W17 W12 4.0
+  6 Weng, Bright           BENC850P  1295  1352/ 55  W30 L2  W22 W19 W13 4.0
+  7 Shah, Aarit            MTWE710Y  1270  1396/ 23  W29 D5  W15 W9  D3  4.0
+  8 Gadde, Arnav           ENSEJ39D  1498  1479/132  L13 W30 D5  W28 W20 3.5
+  9 Chien, Jeffrey         WPPFF41X  1349  1347/ 81  W25 W21 L1  L7  W24 3.0
+ 10 Avula, Guru Harshith ReBRHD633Y  1283  1294/ 84  W35 L1  W23 W24 L4  3.0
+ 11 Sriram, Aahan          BCADC03K  1281  1265/ 43  W27 L3  L19 W33 W22 3.0
+ 12 Zhang, Aaron           MEDF873R  1281  1285/491  W31 L4  W25 W14 L5  3.0
+ 13 Li, Edgar              OPWC883Y  1171  1297/129  W8  W15 L4  W20 L6  3.0
+ 14 Raja, Rian             CNCF786E   907  1092/ 54  W16 W28 L3  L12 W21 3.0
+ 15 Dai, Alex              CHREC43N  1376  1338/116  W24 L13 L7  W23 D17 2.5
+ 16 Rao, Atharv            SOMEB90T  1243  1189/ 40  L14 L25 W35 W26 D19 2.5
+ 17 Tie, Mike              ENDE856Y  1179  1189/ 67  L1  W26 W33 L5  D15 2.5
+ 18 Raghunathan, Vidur     MCID878A  1174  1141/ 39  L2  L27 D29 W31 W28 2.5
+ 19 Wang, Eric             BCAE803M  1137  1163/ 65  L4  W35 W11 L6  D16 2.5
+ 20 Xu, Zoe                SOMDG70A  1289  1257/233  W26 W33 L2  L13 L8  2.0
+ 21 Kakkad, Vayu           DCTCK50L  1238  1175/453  W32 L9  L24 W27 L14 2.0
+ 22 Bell, Raimi            OBKFF77Y  1163  1153/ 21  L3  W29 L6  W25 L11 2.0
+ 23 Chintalapudi, Srihaan  CNCF662W  1125  1114/106  L5  W32 L10 L15 W29 2.0
+ 24 Cheng, Alan            CHREJ71K  1093  1102/ 74  L15 W31 W21 L10 L9  2.0
+ 25 Gulati, Naamya         FRWF649C  1026  1040/142  L9  W16 L12 L22 W32 2.0
+ 26 Xiang, Lucas           SOMD761Z  1014   995/ 60  L20 L17 W32 L16 W33 2.0
+ 27 Narkhede, Kshitij      CRKBA27K   945   965/ 25  L11 W18 L28 L21 W31 2.0
+ 28 Shaikot, Sabeer        ENSE147Q  1020  1020/153  D34 L14 W27 L8  L18 1.5
+ 29 Lekkala, Vihan         BLWF428L   915   931/154  L7  L22 D18 W30 L23 1.5
+ 30 Pan, David             MEDB330Y   989   938/ 52  L6  L8  L31 L29 W35 1.0
+ 31 Jones, Maximillian     BFDDK87K   918   883/ 10  L12 L24 W30 L18 L27 1.0
+ 32 Velichko, Ivan         ASAEK63Z   400   798/  5  L21 L23 L26 W35 L25 1.0
+ 33 Pantea, Zion           ABEDK63Y   300   592/  4  BYE L20 L17 L11 L26 1.0
+ 34 Prashant, Niranjan     SNIF468K  1342  1323/ 25  D28 U   U   U   U   0.5
+ 35 Hou, Grant             LECFK00T   970   880/ 52  L10 L19 L16 L32 L30 0.0

@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Boulis, Christos       RHJHC84T  1546  1580/386  W2  W3  U   2.0
+  2 Priest, Liam           OHLHL07U  1500  1503/171  L1  U   W3  1.0
+  3 Singh, Saket           DISH872S  1505  1467/156  U   L1  L2  0.0

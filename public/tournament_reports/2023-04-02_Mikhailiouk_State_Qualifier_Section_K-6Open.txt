@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Gupta, Krishang        FRVFE37V  1330  1429/ 23  W14 W9  W8  W6  W4  5.0
+  2 Tie, Mike              ENDE856Y  1326  1351/ 86  W15 W3  L6  W10 W8  4.0
+  3 Shah, Aard             EVJGK30F  1089  1217/  9  W22 L2  W17 W12 W6  4.0
+  4 Shah, Kanav            LMAE295Q  1228  1247/ 67  W19 D5  W18 W7  L1  3.5
+  5 Yun, Daniel D          BCABK87Z  1152  1186/257  W10 D4  L7  W18 W11 3.5
+  6 Prashant, Niranjan     SNIF468K  1411  1384/ 45  W16 W12 W2  L1  L3  3.0
+  7 Balayoghan, Keeran     SPTF477N  1327  1293/ 59  W13 L8  W5  L4  W15 3.0
+  8 Zandanov, Leonid       XXXAK31Q  1158  1196/ 10  W17 W7  L1  W15 L2  3.0
+  9 Kamidi, Anish Reddy    OMSG626K  1015  1037/ 28  W21 L1  L10 W20 W13 3.0
+ 10 Saken, Alan            NLMBK25Z   100  1166/  5  L5  W19 W9  L2  W12 3.0
+ 11 Tunuguntla, Sai SrithanEMDEK78V  1107  1014/162  L18 W20 L15 WF  L5  2.0
+ 12 Ghosh, Snehil          CBRD738T  1089  1065/ 29  W20 L6  W21 L3  L10 2.0
+ 13 Patnaik, Rishabhdeva   CRKEG72D   947   910/103  L7  L17 W22 W14 L9  2.0
+ 14 Shapiro, Maksim        LMADK10R   935   899/ 34  L1  L18 W19 L13 W20 2.0
+ 15 Kossuri, Neil          CNCF696L   890   913/ 51  L2  W22 W11 L8  L7  2.0
+ 16 Chen, Felix Y          DISCA67A   885   853/ 25  L6  L21 L20 W17 W18 2.0
+ 17 Qu, Yufei              TMBG250D   711   744/ 28  L8  W13 L3  L16 W22 2.0
+ 18 Venkatesan, Nithilan   LCSCA95X   601   737/ 43  W11 W14 L4  L5  L16 2.0
+ 19 Beegala, Dhruv         REEDC52Y   854   824/ 48  L4  L10 L14 W22 HPB 1.5
+ 20 Mehta, Aarav           XXXFK25Y   500   722/  5  L12 L11 W16 L9  L14 1.0
+ 21 Desilva, Michael       ICKGK25V   600   837/  3  L9  W16 L12 LF  U   1.0
+ 22 Jungmeisteris, Gordon  BASEF88R   580   538/ 44  L3  L15 L13 L19 L17 0.0

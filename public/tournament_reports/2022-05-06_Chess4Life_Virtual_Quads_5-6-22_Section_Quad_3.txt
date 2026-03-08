@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Upreti, Parthavi       TBKF754L  1415  1491/102  W2  W3  W4  3.0
+  2 Mcintyre, Isaac        ETSC466S  1322  1364/ 62  L1  W4  W3  2.0
+  3 Sinha, Agastya         HSCCA75C  1342  1330/ 48  W4  L1  L2  1.0
+  4 Singh, Saket           DISI872S  1412  1344/329  L3  L2  L1  0.0

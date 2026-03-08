@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Patankar, Vijay        KMNHC78Y  1687  1700/235  W12 W10 W7  L3  W4  4.0
+  2 Winter, Gordon         MISLH31Y  1470  1519/ 41  W14 L7  W13 W11 W3  4.0
+  3 Devadithya, Hiruna     PFCI5494  1579  1593/679  W15 D4  W8  W1  L2  3.5
+  4 Cen, Evan              TYEGI97D  1473  1565/105  W5  D3  W6  W7  L1  3.5
+  5 Bhimisetty, Sankeerth  OMSJ995Q  1078  1272/ 41  L4  W15 W16 D6  W8  3.5
+  6 Meiyalagan, Ruban Sai  WLDFD10L  1757  1718/205  D8  W11 L4  D5  W10 3.0
+  7 Marcelais, Kai         WPPIA64J  1575  1574/145  W13 W2  L1  L4  W11 3.0
+  8 Huang, Emily           MEDFB39A  1357  1375/236  D6  W12 L3  W9  L5  2.5
+  9 Pham, Declan           MISHX28S   700  1274/  5  L11 D16 W15 L8  W12 2.5
+ 10 Yadlapati, Arush       EVJHA47S  1548  1510/180  W16 L1  L11 W13 L6  2.0
+ 11 Dudala, Vihan          BRHFH62J  1406  1415/118  W9  L6  W10 L2  L7  2.0
+ 12 Li, Austin A           ENDF438B  1362  1328/ 82  L1  L8  W14 W16 L9  2.0
+ 13 Mishra, Abhinav        TMBGB02W  1251  1244/ 52  L7  W14 L2  L10 D15 1.5
+ 14 Singh, Anay            CDWDA69Y   400  1110/  5  L2  L13 L12 D15 W16 1.5
+ 15 Cao, Sean              TPSEA33Q  1325  1258/ 43  L3  L5  L9  D14 D13 1.0
+ 16 Shreeraam, Seshasayee  RSAFD91F  1085  1054/ 30  L10 D9  L5  L12 L14 0.5

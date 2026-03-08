@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tiku, Neel             EGMG847H   519   642/ 17  W6  W2  W3  3.0
+  2 Wu, Dennis             SCDBJ54B   568   576/ 30  W4  L1  W5  2.0
+  3 Su, Oliver             JINBD01U   480   511/ 26  W5  W4  L1  2.0
+  4 Wang, Aaron            BCAA631T   400   400/  7  L2  L3  W6  1.0
+  5 Cheruku, Gaurik        XXXEI58C   400   400/  3  L3  W6  L2  1.0
+  6 Sang, Enya             BRHC217W   400   400/  5  L1  L5  L4  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Frederick, Benjamin    LAUDS57X  1317  1347/ 92  W4  W3  L2  2.0
+  2 Urali, Sanjay          MEDD315D  1309  1343/239  D3  D4  W1  2.0
+  3 Seela, Shashank        SSMEI74N  1365  1340/ 71  D2  L1  D4  1.0
+  4 Sangal Lopez, Dev      WOBE515J  1391  1360/144  L1  D2  D3  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Malugu, Satyajit       ADUNC03N  2156  2158/ 13  W4  W2  W3  3.0
+  2 Xu, Owen               SOMB896M  1645  1663/ 84  W3  L1  W4  2.0
+  3 Sankrithi, Sarang      HSCBB11D  1437  1452/109  L2  W4  L1  1.0
+  4 Fondren, Chad          ADUN581H  1531  1493/  3  L1  L3  L2  0.0

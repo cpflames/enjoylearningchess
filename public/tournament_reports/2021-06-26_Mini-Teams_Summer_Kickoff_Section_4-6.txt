@@ -1,0 +1,25 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Seela, Shashank        SSMEI74N  1517  1541/101  W20 W10 D4  D6  W8  4.0
+  2 Khandelwal, Ayush      REEE897D  1490  1521/148  W16 W18 D5  W3  D4  4.0
+  3 Yu, Luke               PLKG676Z  1427  1515/ 69  W17 W6  W8  L2  W7  4.0
+  4 Shah, Paras            ENSF904N  1254  1431/126  W23 W7  D1  W5  D2  4.0
+  5 Liu, Austin            PLKG530J  1772  1741/258  W21 W9  D2  L4  W12 3.5
+  6 Xu, Owen               SOMB896M  1572  1556/ 74  W11 L3  W21 D1  W13 3.5
+  7 Liu, Lucas             SOMDH33R  1562  1530/129  W13 L4  W11 W14 L3  3.0
+  8 Nallappa, Vijay        ENSFD40S  1496  1485/249  W15 W14 L3  W9  L1  3.0
+  9 Borate, Neel           REEE821E  1386  1373/180  W24 L5  W20 L8  W17 3.0
+ 10 Bablani, Arnav         LMSF1146  1300  1295/170  W22 L1  W15 L12 W14 3.0
+ 11 Heider, Elena          NOVGC647  1113  1132/ 74  L6  W22 L7  W18 W20 3.0
+ 12 Guo, Aaron             SOMD953W  1340  1309/214  L18 W16 D13 W10 L5  2.5
+ 13 Walimbe, Aadi          SBOGW982  1101  1127/245  L7  W19 D12 W21 L6  2.5
+ 14 Dudala, Vihan          BRHEH62J  1336  1295/ 99  W19 L8  W18 L7  L10 2.0
+ 15 Xie, Ava               SOME797Y   909   883/169  L8  W23 L10 L17 W22 2.0
+ 16 Hughes, Weston         CAVFI26V   889   907/ 16  L2  L12 LF  W19 W23 2.0
+ 17 Wahi, Advait           BLWE661F   838   854/ 63  L3  L20 W22 W15 L9  2.0
+ 18 Vangala, Advaith       BLWF174X   766   901/324  W12 L2  L14 L11 W21 2.0
+ 19 Trivedi, Ansh          CAVEE90M   744   748/ 13  L14 L13 WF  L16 W24 2.0
+ 20 Raje, Atharva          SLLGL432  1000   976/111  L1  W17 L9  D24 L11 1.5
+ 21 Patil, Amogh           SMSGE84T  1121   999/ 10  L5  W24 L6  L13 L18 1.0
+ 22 Sofi, Aairah           BLMG618B   410   492/ 10  L10 L11 L17 W23 L15 1.0
+ 23 Kakumani, Akshaj       EBSF278J   500   552/  5  L4  L15 W24 L22 L16 1.0
+ 24 Fell, Kevin            SMSG452H   798   723/ 27  L9  L21 L23 D20 L19 0.5

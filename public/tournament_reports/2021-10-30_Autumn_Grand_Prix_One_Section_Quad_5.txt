@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Moreau, Zayden         VSTGB68M   600   800/  2  W2  WF  D3  2.5
+  2 Mam, Isabella          VSTH357U   700   667/  2  L1  W3  WF  2.0
+  3 Misja, Tristan         VSTHE93V   700   533/  2  WF  L2  D1  1.5
+
+ All Unrated-player Section: Ratings capped at 1000

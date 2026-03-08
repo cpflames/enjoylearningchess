@@ -1,0 +1,35 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wan, Bertrand          NPRLK421  1973  1989/241  W23 W10 W4  W5  W7  5.0
+  2 Cha, Samuel            BASFK18Z  1527  1534/207  W17 L12 W28 W20 W9  4.0
+  3 Ogier, Alix            SAMJC70T  1452  1493/ 17  W18 W21 W12 D7  D6  4.0
+  4 Wirkkala, Zane         HSCJC64H  1449  1495/ 40  W19 W22 L1  W21 W8  4.0
+  5 Wahi, Lakshya          EALJ664Z  1444  1507/168  WF  W29 W8  L1  W16 4.0
+  6 Bhimisetty, Sankeerth  INTK995Q  1542  1539/ 62  W30 W20 L7  W10 D3  3.5
+  7 Kokati, Pranav         OMSH814P  1440  1483/247  W24 W28 W6  D3  L1  3.5
+  8 Liu, Vincent           ILAE546Q  1531  1514/170  W13 W11 L5  W12 L4  3.0
+  9 Meyerzon, Daniel       INTJJ242  1525  1534/391  U   W16 W13 W11 L2  3.0
+ 10 Fedorov, Vladimir      EVJIF17D  1365  1379/234  W15 L1  W29 L6  W23 3.0
+ 11 Li, Austin A           ENDG438B  1307  1316/ 97  W25 L8  W14 L9  W24 3.0
+ 12 Cummins, William       SMSHJ26R  1280  1304/ 36  W34 W2  L3  L8  W26 3.0
+ 13 Lu, Jacob              BLMHI11F  1192  1231/305  L8  W25 L9  W32 W20 3.0
+ 14 Gupta, Ishaan          INGI660Y  1112  1182/ 82  D16 D23 L11 W31 W22 3.0
+ 15 Crabbe, Tyler          LAKK655P  1022  1120/ 79  L10 W33 W22 L16 W21 3.0
+ 16 Rao, Deepak Sri KartikeBPSG517J  1450  1416/123  D14 L9  W31 W15 L5  2.5
+ 17 Raja, Rian             CNCF786E  1131  1137/ 64  L2  D34 W18 L22 W29 2.5
+ 18 Chulki, Aayush         BLMHJ17Y  1122  1113/128  L3  D32 L17 W34 W30 2.5
+ 19 Black, Stas            BCAE368F  1106  1104/ 91  L4  W26 L20 WF  HPB 2.5
+ 20 Belgau, Stephen        JFMHK76X  1361  1324/ 20  W31 L6  W19 L2  L13 2.0
+ 21 Chowdhary, Shivam      EVJGD47H  1224  1199/ 77  W32 L3  W24 L4  L15 2.0
+ 22 Dhawan, Viraj          OVLGI96U  1223  1189/ 55  W26 L4  L15 W17 L14 2.0
+ 23 Wahi, Advait           EVJG661F  1196  1178/151  L1  D14 D32 W25 L10 2.0
+ 24 Palod, Menang          REJHK61M  1039  1055/ 98  L7  W27 L21 W29 L11 2.0
+ 25 Xu, Alex               EMSG500U   975   982/ 96  L11 L13 W27 L23 W32 2.0
+ 26 Kumar, Jatin           JACKK63L   878   923/ 13  L22 L19 W33 W30 L12 2.0
+ 27 Verma, Eshaan          EALJC02S   831   852/145  L28 L24 L25 W33 W31 2.0
+ 28 Yeung, Tristan         TLMJD35U  1208  1199/ 83  W27 L7  L2  LF  U   1.0
+ 29 Chu, Joshua            EASEC73V  1198  1127/ 19  W33 L5  L10 L24 L17 1.0
+ 30 Mittal, Sanyam         JACK2663  1196  1099/104  L6  L31 W34 L26 L18 1.0
+ 31 Hughes, Weston         SMSHI26V  1010   982/ 30  L20 W30 L16 L14 L27 1.0
+ 32 Lu, Ian                CRIEE83J   883   883/192  L21 D18 D23 L13 L25 1.0
+ 33 Velichko, Ivan         ASAEK63Z   689   696/ 15  L29 L15 L26 L27 W34 1.0
+ 34 Tandon, Ayaan          CRKEG07U   935   877/ 35  L12 D17 L30 L18 L33 0.5

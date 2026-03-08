@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Masterson, Emmett      LYEL300S   704   864/ 25  W3  W4  W2  3.0
+  2 Coulter, Alex          MRDMF898   691   728/ 58  W7  W5  L1  2.0
+  3 Pounder, Jacob         MRDKG96X   650   708/ 18  L1  W6  W5  2.0
+  4 Adams, Carson          MRDMA48F   641   703/ 22  W6  L1  W7  2.0
+  5 Clark, Camden          BLHL635A   655   616/ 17  W8  L2  L3  1.0
+  6 Danger, Presley        BLNG716S   654   611/ 12  L4  L3  W8  1.0
+  7 Red Elk, Ali-lawet     FERM986S   653   614/ 43  L2  W8  L4  1.0
+  8 Lee, Jensen            MRDJ947B   650   436/  6  L5  L7  L6  0.0

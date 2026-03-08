@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hawkins, Holden        TYEI383Z  1135  1206/183  W3  W2  W4  3.0
+  2 Verretto, Dante        EMSIS76P   982  1041/141  W4  L1  W3  2.0
+  3 Verma, Eshaan          TBKGC02S   999   989/121  L1  W4  L2  1.0
+  4 Singhi, Rohan          BRHBH01P  1063   987/ 29  L2  L3  L1  0.0

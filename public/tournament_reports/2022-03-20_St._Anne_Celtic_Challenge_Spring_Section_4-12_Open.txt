@@ -1,0 +1,28 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Meiyalagan, Ruban Sai  WLDFD10L  1664  1696/177  W14 W3  W8  W2  W6  5.0
+  2 Yadav, Arjun           MMEE664A  1460  1471/ 64  W15 W17 W10 L1  W11 4.0
+  3 Soukal, Martin         HSCIE76L  1319  1376/ 41  W24 L1  W26 W7  W8  4.0
+  4 Wong, Kate             BCAD459M  1458  1426/ 94  W23 D13 W20 L6  W14 3.5
+  5 Tang, Haosen           EPSGH941  1414  1376/200  L18 W16 D15 W22 W13 3.5
+  6 Mohan, Laya            BCWG617P  1266  1292/128  D16 W27 W13 W4  L1  3.5
+  7 Xia, Yuchen            BLMII52A  1373  1335/133  W19 L20 W18 L3  W17 3.0
+  8 Cen, Evan              TYEGI97D  1340  1342/ 81  W11 W18 L1  W20 L3  3.0
+  9 Sanjay, Adarsh         TYEIJ50U  1339  1288/ 85  L20 W19 L11 W24 W22 3.0
+ 10 Narayan, Bhargav       EVJGD962  1185  1186/156  W21 W22 L2  L11 W18 3.0
+ 11 Gande, Akshath         WPPFG23R   957  1131/ 41  L8  W12 W9  W10 L2  3.0
+ 12 Foltz, Karsten         HTNG306D  1099  1047/ 86  L22 L11 W19 D25 WF  2.5
+ 13 Lu, Jacob              BLMGI11F  1090  1118/273  W26 D4  L6  W15 L5  2.5
+ 14 Swaminath, Ankita      CNCE571R  1066  1083/ 55  L1  W21 D24 W16 L4  2.5
+ 15 Shen, Enoch            BLWEH90P  1032  1061/ 30  L2  W25 D5  L13 W24 2.5
+ 16 Bharadwaj, Anish       WPPHI530   948   972/262  D6  L5  W27 L14 W25 2.5
+ 17 Aelion, Aya            SWLGF21D  1116  1091/ 25  W25 L2  L22 W21 L7  2.0
+ 18 Medikurthi, Sanjana    BRHIK37G  1023  1048/ 64  W5  L8  L7  W26 L10 2.0
+ 19 Xu, Alex               DCTF500U   964   933/ 53  L7  L9  L12 BYE W27 2.0
+ 20 Vangala, Advaith       LMSG174X   954  1094/350  W9  W7  L4  L8  LF  2.0
+ 21 Rodrigo, Santiago      SANH3276   947   930/ 79  L10 L14 W23 L17 BYE 2.0
+ 22 Sankar, Sneha          CNCE372B   885   971/214  W12 L10 W17 L5  L9  2.0
+ 23 Medikurthi, Jagadish   BRHF995Z  1029   954/ 60  L4  L24 L21 W27 D26 1.5
+ 24 Chulki, Aayush         BLMGJ17Y   913   929/ 99  L3  W23 D14 L9  L15 1.5
+ 25 Mitra, Rahul           OPWGH53N   953   900/219  L17 L15 BYE D12 L16 1.5
+ 26 Gupta, Ayush           CHAFB05F   839   824/ 57  L13 BYE L3  L18 D23 1.5
+ 27 Krzeszowski, Anthony   MYHEI41R   524   509/ 23  BYE L6  L16 L23 L19 1.0

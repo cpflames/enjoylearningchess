@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Khatib, Kenan          LKDFC566  1029  1134/210  W13 W17 W3  D2  W6  4.5
+  2 Ahmad, Muhammad Rayhan LWAJG02J   848  1039/ 15  W8  W11 W5  D1  D4  4.0
+  3 Ahmad, Muhammad Zayd   LWAJ521M  1075  1137/ 14  W9  W10 L1  W8  D5  3.5
+  4 Waltier, Taylor        WLSJD06H   911  1069/ 82  D6  W16 W7  D5  D2  3.5
+  5 Fong, Adam             SKRH4377  1101  1092/177  W12 W7  L2  D4  D3  3.0
+  6 Ehrenberg, Joshua      HCCKH373  1204  1187/135  D4  W9  D10 W11 L1  3.0
+  7 Wakeman, Oliver        NJHHG10Y   947   948/ 27  W15 L5  L4  W12 W14 3.0
+  8 Selle, Matthew         XXXJ1660   466   653/ 37  L2  BYE W12 L3  W11 3.0
+  9 Borden, Derek          IMSH915P  1194  1164/ 62  L3  L6  W17 W13 W10 3.0
+ 10 Heider, Elena          NOVGC647  1133  1113/ 69  W14 L3  D6  W16 L9  2.5
+ 11 Hogue, Zachary         KAMJ8379   840   830/101  W16 L2  W13 L6  L8  2.0
+ 12 Hogue, Kyle            EXMHI734   841   823/ 90  L5  W15 L8  L7  W16 2.0
+ 13 Hyun, Andrew           NAUH1926   593   617/ 37  L1  W14 L11 L9  BYE 2.0
+ 14 Ephrem, Yabi           HSCGC72Q   792   733/ 50  L10 L13 BYE W17 L7  2.0
+ 15 Stall, David           NJHGB36G   600   600/  4  L7  L12 L16 BYE W17 2.0
+ 16 Borden, Hugh           IMSH596M  1173  1041/ 58  L11 L4  W15 L10 L12 1.0
+ 17 Olson, Abigail         HCCH465Y   464   432/ 24  BYE L1  L9  L14 L15 1.0

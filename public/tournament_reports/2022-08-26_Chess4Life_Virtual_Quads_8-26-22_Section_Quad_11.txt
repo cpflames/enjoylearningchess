@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sadineni, Gagana       MMSG471M   600   872/  3  W4  W3  W2  3.0
+  2 Li, Chufei             CNHB389T   400   461/  6  W3  W4  L1  2.0
+  3 Janeev, Leonel         XXXED90R   400   400/  3  L2  L1  W4  1.0
+  4 Chu, Lucas             ETSBB97R   400   400/  3  L1  L2  L3  0.0

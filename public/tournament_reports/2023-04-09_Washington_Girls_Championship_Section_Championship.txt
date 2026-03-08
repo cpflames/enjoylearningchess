@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Deng, Lily             HHSJ5007  1742  1779/351  W5  W9  D2  W3  W4  4.5
+  2 Jammalamadaka, Varnika OVLID216  1777  1784/486  W8  W3  D1  D5  W6  4.0
+  3 Zhang, Iris            TMBI858X  1714  1702/358  W6  L2  W7  L1  W5  3.0
+  4 Han, Shuyi             TYEGK47W  1635  1603/307  L7  D6  W8  W9  L1  2.5
+  5 Wong, Kate             BCAE459M  1413  1443/144  L1  W10 W9  D2  L3  2.5
+  6 Mathur, Aashi          PLKH522S  1364  1392/293  L3  D4  W10 W7  L2  2.5
+  7 Shankaranand, Deeksha  EBSEI74Y  1313  1342/215  W4  D8  L3  L6  W10 2.5
+  8 Anandkumar, Haituka    STLI238P  1454  1434/350  L2  D7  L4  W10 D9  2.0
+  9 Meng, Miranda          OPWDH69P  1472  1435/114  W10 L1  L5  L4  D8  1.5
+ 10 Anand, Lakshana        RSAEC68H  1071  1041/ 60  L9  L5  L6  L8  L7  0.0

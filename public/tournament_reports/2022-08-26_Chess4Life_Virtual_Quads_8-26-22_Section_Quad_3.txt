@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kang, Jinue            OMSG2661  1413  1452/249  W3  U   W2  2.0
+  2 Zhao, Dennis           CGRF525E  1415  1411/252  U   W3  L1  1.0
+  3 Yuodelis, Kenneth      TYEI3681  1353  1316/386  L1  L2  U   0.0

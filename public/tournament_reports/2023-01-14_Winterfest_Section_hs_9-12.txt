@@ -1,0 +1,27 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wannamaker, Linus      IDXHY45B  1548  1604/ 73  W9  W7  W6  W4  W2  5.0
+  2 Al-hakeem, Hasan       WVSMC84R  1483  1504/ 15  W24 W15 W5  W13 L1  4.0
+  3 Patterson, Ben         PDHKI54X  1386  1371/ 58  W17 W8  L7  W15 W12 4.0
+  4 Reddy, Eshan           SGSH336Y  1360  1388/280  W18 W21 W13 L1  W7  4.0
+  5 Ganjyal, Sahil         PULJH974  1321  1340/ 39  W11 W20 L2  W14 D13 3.5
+  6 Liu, Charles           PULK600D  1343  1293/ 15  W10 W23 L1  L12 W18 3.0
+  7 Uhlenkott, Kolby       PULMH714  1207  1258/123  W12 L1  W3  W11 L4  3.0
+  8 Celli, Victor          WVSM376J  1151  1108/ 10  W19 L3  L11 W17 W24 3.0
+  9 Flammini, Nicolas      HDPJ370Z   830   854/ 30  L1  L12 W26 W21 W19 3.0
+ 10 Brown, Brody           HDPJK98B   900   978/  5  L6  L19 W25 W16 W14 3.0
+ 11 Leifried, Hunter       PDHKK98A  1000  1167/  5  L5  W24 W8  L7  W15 3.0
+ 12 Selle, Matthew         PDHM1660   653   878/ 42  L7  W9  W16 W6  L3  3.0
+ 13 Carper, Jack           PULJG86W  1428  1390/152  W16 W14 L4  L2  D5  2.5
+ 14 Hilton, Olivia         SIAKK588   987   961/247  W26 L13 W21 L5  L10 2.0
+ 15 Peterson, Eli          COVJH13G   966   973/ 20  W22 L2  W19 L3  L11 2.0
+ 16 Santilli, Tristen      MHSLH668   774   747/102  L13 W26 L12 L10 W25 2.0
+ 17 Foster, Cole           JENMG54E   696   711/ 15  L3  W22 L20 L8  W26 2.0
+ 18 Foster, Blake          JENM879A   493   552/ 13  L4  W25 L23 W24 L6  2.0
+ 19 Wall, Julia            HSCLK97X  1100   875/  5  L8  W10 L15 W23 L9  2.0
+ 20 Latimer, Zion          HDPKK97V  1000  1101/  3  W23 L5  W17 U   U   2.0
+ 21 Blakemore, Joseph      PDHKK97U  1000   535/  5  W25 L4  L14 L9  D22 1.5
+ 22 Wolf, Ryder            HDPMK97S  1200   512/  5  L15 L17 L24 W26 D21 1.5
+ 23 Patterson, Luke        PDHM871M   860   829/ 23  L20 L6  W18 L19 U   1.0
+ 24 Hilton, Amelie         SIAJE627   783   744/217  L2  L11 W22 L18 L8  1.0
+ 25 Michel, Zeeq           CMYJK97R   900   184/  4  L21 L18 L10 BYE L16 1.0
+ 26 Nack, Aiden            PDHJK97Q   900   210/  5  L14 L16 L9  L22 L17 0.0

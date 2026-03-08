@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hawkins, Holden        TYEJ383Z  1139  1153/379  W3  W4  L2  2.0
+  2 Godse, Gaurav          EVJH290Q  1096  1122/ 45  W4  L3  W1  2.0
+  3 Dai, Alex              CHRDC43N  1051  1099/ 33  L1  W2  W4  2.0
+  4 Yin, Daniel            ISMK116Y  1106  1032/156  L2  L1  L3  0.0

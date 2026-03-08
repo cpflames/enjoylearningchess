@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Corcoro, Lucas         KKNEK14T   551   589/  9  W3  D2  W4  2.5
+  2 Xu, Ethan              BENDK98S   549   581/ 54  W4  D1  W3  2.5
+  3 Rajan, Samvid          REEBK05K   459   422/ 12  L1  W4  L2  1.0
+  4 Goel, Vaanya           BRHEK06Z   400   100/  3  L2  L3  L1  0.0

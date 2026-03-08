@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kidd, Matthew          EASKK04Y   167   299/  6  W2  D4  W5  2.5
+  2 Naveen, Sarah          CNCEK03H   400   257/  2  L1  BYE W4  2.0
+  3 Sun, Olivia            SOMBK03G   100   151/  2  L4  W5  BYE 2.0
+  4 Wei, Brayden           ETSAK90F   210   212/ 15  W3  D1  L2  1.5
+  5 Bassen, Emil           WEHAK89M   100   100/ 15  BYE L3  L1  1.0

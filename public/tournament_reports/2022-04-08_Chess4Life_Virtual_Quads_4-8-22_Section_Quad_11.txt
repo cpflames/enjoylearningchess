@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Davis, Nathan          SFREJ66C   680   755/125  D2  W3  W4  2.5
+  2 He, Oliver             CRIBK71V   642   687/ 51  D1  D4  W3  2.0
+  3 Dalal, Raahi           CNHD949K   720   675/ 40  W4  L1  L2  1.0
+  4 Chaudhuri, Agnivesh    CHACB55V   586   553/ 69  L3  D2  L1  0.5

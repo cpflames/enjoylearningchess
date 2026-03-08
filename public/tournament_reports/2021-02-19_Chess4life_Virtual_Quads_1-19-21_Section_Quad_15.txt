@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Fox-devol, Zachary     XXXEI93P   844   871/ 65  W3  W4  L2  2.0
+  2 Kok, Bulut             LAVEE54B   865   886/111  W4  L3  W1  2.0
+  3 Nair, Ishan            FRWD670E   838   813/ 35  L1  W2  L4  1.0
+  4 Stein, Mary            HSCG624A   833   810/ 34  L2  L1  W3  1.0

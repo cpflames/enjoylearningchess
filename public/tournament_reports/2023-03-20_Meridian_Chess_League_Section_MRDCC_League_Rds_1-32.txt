@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Margeson, Tristan      MRDMI30S  1074  1133/ 47  W4  W3  W2  3.0
+  2 Coulter, Alex          MRDMF898   989   956/ 74  W3  L4  L1  1.0
+  3 Pounder, Jacob         MRDKG96X   907   895/ 27  L2  L1  W4  1.0
+  4 Peterson, Everest      MRDJ836M   863   863/ 25  L1  W2  L3  1.0

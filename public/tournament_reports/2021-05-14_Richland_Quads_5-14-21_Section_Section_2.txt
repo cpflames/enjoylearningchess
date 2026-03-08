@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Palm, Caleb            LIBH919S  1508  1520/143  W3  W4  W2  3.0
+  2 Deng, Zhiqun           ADUNB94C  1423  1348/  6  W4  W3  L1  2.0
+  3 Chung, Ian             LIBBG54U   490   515/ 23  L1  L2  W4  1.0
+  4 Moon, Jamie            ADUNC95U  1300   400/  3  L2  L1  L3  0.0

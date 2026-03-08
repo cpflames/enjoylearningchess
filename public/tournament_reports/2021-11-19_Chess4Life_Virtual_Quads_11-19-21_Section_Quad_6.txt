@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Singh, Saket           DISI872S  1299  1398/285  W4  W3  W2  3.0
+  2 Pisan, Kai             CHYH404C  1298  1320/202  W3  W4  L1  2.0
+  3 Bhattacharjee, ArchishmBLWFA45Y  1291  1271/130  L2  L1  W4  1.0
+  4 Stein, Benjamin        HSCCB61S  1273  1213/169  L1  L2  L3  0.0

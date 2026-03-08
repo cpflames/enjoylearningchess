@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bikkula, Charan        BLMGJ23A  1025  1089/135  W3  W4  W2  3.0
+  2 Juarez-caballero, CristSNIFD76Z   961   949/ 65  W4  D3  L1  1.5
+  3 Xing, Andrew           SSSBK62E   794   832/ 41  L1  D2  W4  1.5
+  4 Narayan, Keshav        CMCEE45H   858   793/ 69  L2  L1  L3  0.0

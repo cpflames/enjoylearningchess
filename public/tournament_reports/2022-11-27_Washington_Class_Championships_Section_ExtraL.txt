@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Ramkumar, Nikhil       RBRF115E  1476  1483/200  W5  1.0
+  2 Weller, Stephen F      ADUN6094  1279  1283/ 31  W6  1.0
+  3 Krishnan, Advait       REJH570Q  1459  1459/112  D4  0.5
+  4 Tan, Nathan            UCDD412Y  1454  1454/140  D3  0.5
+  5 Bharadwaj, Anish       WPPII530  1180  1171/283  L1  0.0
+  6 Wilke, Marilyn         ADUN3187   841   836/ 41  L2  0.0

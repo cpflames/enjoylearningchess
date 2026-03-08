@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Kalakoti, Kartika      STVAG45J   740   744/ 48  W12 W9  2.0
+  2 Byam, Caleb            HSCGI71C  1248  1249/ 35  W10 U   1.0
+  3 Bates-callaghan, EmmettBCSDJ49J  1193  1207/ 35  W7  U   1.0
+  4 Mitra, Rahul           OPWHH53N   973   974/251  W11 U   1.0
+  5 Raj, Skandha           EVGAK55U   281   327/ 10  W8  U   1.0
+  6 Swanby, Maxwell        MCEBK47F   100   196/  5  U   W11 1.0
+  7 Liao, Wesley           BCSJE49D  1019  1003/105  L3  U   0.0
+  8 Donohoe, Robin         LPZCJ28Z   341   296/ 18  L5  U   0.0
+  9 Srinivas, Siri         RKWBK89Q   122   122/  9  U   L1  0.0
+ 10 Srinivas, Sharav       RKWDI03B   458   457/ 15  L2  U   0.0
+ 11 Sabharwal, Vihaan      DCTBK87T   249   194/  9  L4  L6  0.0
+ 12 Ranjith, Janani        SHVAK65E   100   100/ 10  L1  U   0.0

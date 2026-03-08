@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Salal, Zikrain         SHSFJ82Z  1201  1223/ 48  W2  W4  L3  2.0
+  2 Zhou, Nathan           NJHG215X  1187  1213/ 26  L1  W3  W4  2.0
+  3 Zhu, Kevin             CSMC865U  1250  1237/303  D4  L2  W1  1.5
+  4 Yun, Daniel D          BCAAK87Z  1150  1115/207  D3  L1  L2  0.5

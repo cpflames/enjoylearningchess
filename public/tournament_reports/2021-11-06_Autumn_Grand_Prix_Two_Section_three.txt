@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Carpenter, Jonas       VSTI274G   608   868/ 18  W4  W2  W3  3.0
+  2 Zhang, Owen            FHVG995H   936   933/ 98  W3  L1  W4  2.0
+  3 Love, Charles          SHMJ458N   941   848/  8  L2  W4  L1  1.0
+  4 Jackson, Caitlin       BHCIJ68P   728   673/ 18  L1  L3  L2  0.0

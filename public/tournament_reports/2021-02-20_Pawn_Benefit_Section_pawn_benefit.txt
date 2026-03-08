@@ -1,0 +1,37 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Achanta, Vishal        PULJ6509  1423  1499/ 79  W10 W20 W17 W8  W2  5.0
+  2 Bose-bandyopadhyay, AdiPULJ8193  1249  1403/130  W19 W3  W4  W5  L1  4.0
+  3 Mortensen, Lucas       LBYH730U  1498  1499/103  W12 L2  W6  W20 W13 4.0
+  4 Ambalavanan, Varun     LWCJK347  1443  1430/345  W21 W14 L2  W12 W11 4.0
+  5 Wannamaker, Linus      IDXFY45B  1454  1465/ 48  W18 W24 W9  L2  W8  4.0
+  6 Reddy, Eshan           SGSF336Y  1348  1357/231  W32 W16 L3  W10 W9  4.0
+  7 Carper, Jack           LINHG86W  1397  1358/102  W29 L17 W25 D18 W22 3.5
+  8 Mounts, Eli            FMILA92U  1501  1474/ 81  W25 W15 W13 L1  L5  3.0
+  9 Deng, Stanley          CGMCK22E  1282  1261/ 99  W28 W11 L5  W23 L6  3.0
+ 10 Ritter, Levi           LINHC692   765   919/ 62  L1  W31 W14 L6  W20 3.0
+ 11 Achanta, Rishi         LINH5243   656   912/ 47  W22 L9  W16 W17 L4  3.0
+ 12 Koh, Leroy             PVEF265U   850   949/ 20  L3  W19 W24 L4  W23 3.0
+ 13 Wang, Zihan            PPAGH97Y  1344  1324/210  W30 W27 L8  W21 L3  3.0
+ 14 Schoenberger, Joshua   SJVHJ73R  1083  1058/239  W34 L4  L10 W28 W21 3.0
+ 15 Bai, Kelin             PVECD75J  1102  1080/ 98  W26 L8  L21 W30 W18 3.0
+ 16 Moss, Solomon          HSCDH79G   926   912/ 36  W36 L6  L11 W31 W26 3.0
+ 17 Brody, Noah            LWCK6912  1037  1033/107  W23 W7  L1  L11 D19 2.5
+ 18 Keener, Karl           OKSFY40G   841   937/ 32  L5  W33 W22 D7  L15 2.5
+ 19 Lanctot, Ethan         COBFA17V   663   768/ 93  L2  L12 W33 W27 D17 2.5
+ 20 Brown, Malia           FRRK1512  1033  1003/318  W31 L1  W30 L3  L10 2.0
+ 21 Lane, Brantley         FARC255D   775   826/ 63  L4  W34 W15 L13 L14 2.0
+ 22 Clark, Justin          VHSFB66U  1321  1230/206  L11 W28 L18 W29 L7  2.0
+ 23 Mynam, Nishanth        SUPDE13Y   490   668/ 10  L17 W29 W27 L9  L12 2.0
+ 24 Carper, Calvin         TYEH357T  1059   985/ 15  W33 L5  L12 L26 W25 2.0
+ 25 Hochheimer, Noah       SGSEF37G   858   861/132  L8  W26 L7  W32 L24 2.0
+ 26 Raghupathula, Ishan    JFPDG37K   568   664/ 10  L15 L25 W35 W24 L16 2.0
+ 27 Ritter, Seth           LINJ1551   973   893/ 29  W35 L13 L23 L19 W34 2.0
+ 28 Wang, Kelby            PVEA796Y   631   651/ 35  L9  L22 W36 L14 W31 2.0
+ 29 Mortensen, Liam        SWEF768V   747   738/ 43  L7  L23 W32 L22 W33 2.0
+ 30 Raghupathula, Ritvik   JFPFJ83M   678   677/ 10  L13 W35 L20 L15 D32 1.5
+ 31 Mulpuri, Pranav        KMPD428D   466   495/ 10  L20 L10 W34 L16 L28 1.0
+ 32 Marsh, Alex            MMCI1159   695   636/141  L6  D36 L29 L25 D30 1.0
+ 33 Sun, Isabella          SIAHD46J   502   493/ 27  L24 L18 L19 W35 L29 1.0
+ 34 Hopson, Jared          VLCCI39U   520   490/ 54  L14 L21 L31 W36 L27 1.0
+ 35 Moss, Silas            HDPB843D   400   400/  5  L27 L30 L26 L33 W36 1.0
+ 36 Sun, Amelia            SIAC284A   400   400/ 20  L16 D32 L28 L34 L35 0.5

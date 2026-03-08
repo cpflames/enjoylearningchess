@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lim, Carter            SHMJ7749   942   951/ 87  HPB HPB W4  2.0
+  2 Love, Charles          SHMJ458N   936   968/ 18  HPB W6  U   1.5
+  3 Gangle, Jerome         SHMM2873   730   755/ 55  W4  U   U   1.0
+  4 Bowman, Finn           SHMJD50L   900   621/  3  L3  W7  L1  1.0
+  5 Knapp, Joshua          SHMMH49D  1058  1035/  6  D6  U   U   0.5
+  6 Goetzl, Twain          SHML6001   940   920/198  D5  L2  U   0.5
+  7 Chaipellone, Teo       SHMKG88R   573   538/ 23  HPB L4  U   0.5

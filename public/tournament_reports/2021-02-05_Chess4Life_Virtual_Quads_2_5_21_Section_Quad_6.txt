@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Ethan (yichen)  CRIDG57B  1134  1226/ 75  D2  W4  W3  2.5
+  2 Haritham, Shyam        BCWGG81P  1153  1183/ 80  D1  W3  WF  2.5
+  3 Ivanovic, Mina         UCDCH40V  1172  1124/310  WF  L2  L1  1.0
+  4 Gajial, Taimur         MEDGJ27A  1262  1233/180  LF  L1  LF  0.0

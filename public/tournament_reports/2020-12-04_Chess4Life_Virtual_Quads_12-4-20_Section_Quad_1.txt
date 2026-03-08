@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Vemparala, Nikash      BCAFI078  1745  1816/291  W4  W3  W2  3.0
+  2 Shubin, Daniel         EPSKF498  2161  2145/448  W3  W4  L1  2.0
+  3 To, Donovan            KMNG239L  1495  1517/229  L2  L1  W4  1.0
+  4 Boulis, Christos       RHJHC84T  1687  1648/392  L1  L2  L3  0.0

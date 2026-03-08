@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Scollon, Owen          FHVH734D  1619  1634/441  W2  W3  W4  3.0
+  2 Kozaczuk, James        SHKH108A  1185  1200/174  L1  BYE W5  2.0
+  3 Palmer, Evan           BHMJI90S  1157  1198/154  W4  L1  BYE 2.0
+  4 Stroud, Jeb            HSCHK22V  1468  1426/ 47  L3  W5  L1  1.0
+  5 Hildenbrand, Blane     PSMH122V  1107  1079/187  BYE L4  L2  1.0

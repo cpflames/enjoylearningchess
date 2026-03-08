@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kamel, Yaseen          PFCID57L  1281  1297/ 35  W4  W3  L2  2.0
+  2 Karri, Aditya          AUDDC55V  1293  1306/ 74  L3  W4  W1  2.0
+  3 Lechner, Liam          HSCG591P  1237  1213/ 12  W2  L1  L4  1.0
+  4 Dmitriev, Lyan         NPTD246H  1223  1209/240  L1  L2  W3  1.0

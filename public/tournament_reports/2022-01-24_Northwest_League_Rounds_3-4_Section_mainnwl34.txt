@@ -1,0 +1,50 @@
+pos last name first       id numb   start end/#gms  rd3 rd4 tot 
+  1 Reyna, Frankie         FERME23L  1397  1397/  7  W28 W46 2.0
+  2 Mccrory, Jared         LYEKA43K  1342  1349/ 26  W36 W34 2.0
+  3 Wakatsuki, Perry       LYEMC31A  1328  1328/ 10  W38 W26 2.0
+  4 Lewis, Theo            FERKK29P  1313  1319/ 40  W35 W39 2.0
+  5 Macgregor, Matthew     SHMK1137  1132  1139/ 82  W41 W48 2.0
+  6 Stanley, Soren         FERL116S  1120  1138/ 25  W34 W44 2.0
+  7 Love, Charles          SHMJ458N   929   952/ 29  W44 W40 2.0
+  8 Mcfadden, Cameron      FERLI35S   904   922/ 50  W45 W47 2.0
+  9 Giblin, Joe            LYELA51Z   898   930/ 27  W46 W38 2.0
+ 10 Moore, Gregory         LYEK789Q   893   925/ 25  W43 W35 2.0
+ 11 Darr-rehmert, Natalie  FERLK93U   654   710/ 60  W40 W32 2.0
+ 12 Clark, Camden          BLHK635A   400   486/  7  W49 W43 2.0
+ 13 Bosch, Ethan           SHMMF67U  1338  1346/ 25  W33 D14 1.5
+ 14 Kuzin, Ethan           SHMJ7567  1258  1268/220  W39 D13 1.5
+ 15 Enertson, Zach         LYEK971E  1130  1113/ 47  D19 W45 1.5
+ 16 Goetzl, Twain          SHML6001   895   947/202  W22 D18 1.5
+ 17 Masterson, Emmett      LYEK300S   845   870/ 10  D20 W36 1.5
+ 18 Bridges, Tommy         LYEL272M   779   813/ 38  W30 D16 1.5
+ 19 Bowman, Finn           SHMJD50L   753   806/ 14  D15 W29 1.5
+ 20 Holley, Aiden          BLHM485Q   579   668/  8  D17 W42 1.5
+ 21 Roesch, Carson         BLHJ120K  1854  1828/200  W23 L22 1.0
+ 22 Jongema, Gabriel       LYEK984D  1511  1507/ 26  L16 W21 1.0
+ 23 Trushkov, Max          FERJ616A  1346  1355/124  L21 W33 1.0
+ 24 Kuehnel, Ryan          FERMI96N  1144  1104/ 59  L26 W41 1.0
+ 25 Knapp, Joshua          SHMMH49D   965   971/ 10  W47 U   1.0
+ 26 Waters, Shawn          BLHJK63D   806   864/ 11  W24 L3  1.0
+ 27 Manly, Katy            FERJ313C   659   633/ 22  L32 W31 1.0
+ 28 Chiapellone, Teo       SHMKG88R   655   657/ 30  L1  W49 1.0
+ 29 Kerr, Ethan            BLHJJ06N   645   668/  5  W42 L19 1.0
+ 30 Gutierrez, Diego       BLHK233E   499   617/  5  L18 W37 1.0
+ 31 Dohner, Avery          BLHME74T   490   506/  8  W48 L27 1.0
+ 32 Wright, Jackson        BLHKE03C   476   532/  7  W27 L11 1.0
+ 33 Peterson, Kylan        MRDK175Q  1185  1155/ 25  L13 L23 0.0
+ 34 Reiss, Madelyn         BLHKJ21Y   971   933/  7  L6  L2  0.0
+ 35 Hodges, Xander         BLHKB63W   950   850/  5  L4  L10 0.0
+ 36 Anshus, Erik           SHMKD320   893   855/ 71  L2  L17 0.0
+ 37 Hall, Jack             FERLD220   850   796/ 73  U   L30 0.0
+ 38 Bermudez, Evan         SHMJ7653   842   815/134  L3  L9  0.0
+ 39 Margeson, Tristan      MRDLI30S   821   813/ 20  L14 L4  0.0
+ 40 Reynolds, Gabrielle    BLHK502P   799   656/  5  L11 L7  0.0
+ 41 Coulter, Alex          MRDLF898   768   753/ 44  L5  L24 0.0
+ 42 Schlichting, Matthew   FERKF72H   760   625/  7  L29 L20 0.0
+ 43 Stewart, Elijah        SHMK787F   752   552/  4  L10 L12 0.0
+ 44 Adams, Carson          MRDLA48F   723   705/ 10  L7  L6  0.0
+ 45 Granger, Jacob         BLHJ654S   663   645/ 13  L8  L15 0.0
+ 46 Van Male, Justin       BLHLB91X   588   582/ 10  L9  L1  0.0
+ 47 Red Elk, Ali-lawet     MRDL986S   548   535/ 23  L25 L8  0.0
+ 48 Garcia, Andie          FERL695Z   527   481/ 10  L31 L5  0.0
+ 49 Rasmussen, Henry       BLHKC41T  1000   400/  2  L12 L28 0.0

@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Evin, Terrick          EBSBC54L  1112  1156/ 28  U   W2  W3  2.0
+  2 Pravlik, Aiden         FRID416H  1055  1060/210  W3  L1  U   1.0
+  3 Tsai, Adam             DISHB02H  1066  1016/ 52  L2  U   L1  0.0

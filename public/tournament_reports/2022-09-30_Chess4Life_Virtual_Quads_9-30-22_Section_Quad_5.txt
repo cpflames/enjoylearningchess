@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Edmond, Alec           CSIDH03G  1079  1107/184  W4  W3  L2  2.0
+  2 Chien, Jeffrey         WPPFF41X  1056  1096/ 35  W3  L4  W1  2.0
+  3 Zhang, Ethan Yichen    CRIFG57B  1128  1094/301  L2  L1  W4  1.0
+  4 Pravlik, Aiden         FRID416H  1086  1063/222  L1  W2  L3  1.0

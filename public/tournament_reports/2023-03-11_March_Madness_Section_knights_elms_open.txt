@@ -1,0 +1,22 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Evans, Theo            MULF888W   877   979/129  W8  D13 W7  W5  W2  4.5
+  2 Wang, Kelby            SKKC796Y   875   951/106  W9  W12 W6  W3  L1  4.0
+  3 Sherwood, Leo          FREHI58J   873   923/ 34  W15 W18 W4  L2  W6  4.0
+  4 Elkins, Indiana        HSCHC15D   987   970/ 59  W19 D5  L3  W12 W9  3.5
+  5 Webb, Rogan            HDPGC51Z   752   863/ 24  W10 D4  W13 L1  W11 3.5
+  6 Moss, Solomon          HSCFH79G   826   816/ 80  W16 W19 L2  W18 L3  3.0
+  7 Jones, Truman          FIVEH72L   651   765/ 50  D11 W14 L1  W13 D12 3.0
+  8 Ji, Melody             SGSBA83X   596   613/ 34  L1  W16 W17 L9  W18 3.0
+  9 Sherwood, Cole         FRECD99U   495   614/ 30  L2  W10 W21 W8  L4  3.0
+ 10 Peterson, Jude         ADCFG83Z   409   543/ 15  L5  L9  W19 W21 W17 3.0
+ 11 Bai, Kelin             SKKED75J   971   896/172  D7  W17 L12 W14 L5  2.5
+ 12 Malde, Parker          MULF146W   706   734/ 72  W20 L2  W11 L4  D7  2.5
+ 13 Mortensen, Liam        SWEH768V   672   690/ 57  W21 D1  L5  L7  W19 2.5
+ 14 Sherwood, Owen         FREEH61U   745   669/ 30  L17 L7  W16 L11 W20 2.0
+ 15 Puri, Kayaan           SGSE159A   441   415/ 14  L3  W20 L18 L19 BYE 2.0
+ 16 Madison, Bray          HLHD887R   440   420/ 28  L6  L8  L14 BYE W21 2.0
+ 17 Moss, Silas            HDPD843D   407   437/ 19  W14 L11 L8  W20 L10 2.0
+ 18 Davis, Jaxon           ADCHK50R   700   485/  4  BYE L3  W15 L6  L8  2.0
+ 19 Malde, Jake            SSPHB22V   801   689/ 89  L4  L6  L10 W15 L13 1.0
+ 20 Mercer, Hope           SOXAK43L   400   278/  8  L12 L15 BYE L17 L14 1.0
+ 21 Puri, Vivaan           SGSB111Q   364   298/ 13  L13 BYE L9  L10 L16 1.0

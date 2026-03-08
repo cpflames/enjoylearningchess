@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sardarli, Adnan        XXXC671W   409   580/ 61  W2  W3  W5  3.0
+  2 Pai, Shubham           BCAF694R   596   574/ 85  L1  W5  W4  2.0
+  3 Ambardekar, Arjun      SXEDZ96E   493   480/ 14  W4  L1  BYE 2.0
+  4 Bhatia, Saanvi         DISC761T   262   230/ 22  L3  BYE L2  1.0
+  5 Sharma, Saumya         ENSFK99H   100   100/ 14  BYE L2  L1  1.0

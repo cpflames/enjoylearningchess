@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Willy, Stephen         HSCGH17K  1839  1892/497  W18 W16 W9  W4  4.0
+  2 Nallabothula, Varin    WPPI457A  1666  1754/372  W12 D4  W5  W9  3.5
+  3 Karthikeyan, HarishkumaREJGJ81A  1678  1701/190  W11 W13 L4  W10 3.0
+  4 Min, Ryan              OMSH5430  1983  1967/354  W10 D2  W3  L1  2.5
+  5 Jammalamadaka, Varnika OVLHD216  1711  1705/431  W15 D7  L2  W13 2.5
+  6 Zhou, Leonardo         PLKGE293  1635  1643/173  W19 L9  W7  HPB 2.5
+  7 Tatikonda, Nihanth     CPJH926F  1626  1631/198  W20 D5  L6  W14 2.5
+  8 Yuodelis, Kenneth      TYEI3681  1363  1468/357  L16 W18 D14 W17 2.5
+  9 Li, Edward             TMBH768S  1748  1743/292  W14 W6  L1  L2  2.0
+ 10 Sankar, Abhay          LEOI6545  1622  1627/367  L4  W12 W11 L3  2.0
+ 11 Nallappa, Vijay        REJGD40S  1547  1562/312  L3  W17 L10 W16 2.0
+ 12 Mathur, Aashi          PLKG522S  1410  1417/268  L2  L10 W19 W20 2.0
+ 13 Mishra, Abhinav        TMBGB02W  1096  1247/ 37  W17 L3  W16 L5  2.0
+ 14 Suess, Wade            EVGG101D  1609  1578/268  L9  W19 D8  L7  1.5
+ 15 Chang, Eric            TYEI174T  1577  1549/ 95  L5  D20 L17 W18 1.5
+ 16 Li, Emma               LMSH521Q  1647  1597/325  W8  L1  L13 L11 1.0
+ 17 Hetamsaria, Aadi       TYEI888H  1623  1561/125  L13 L11 W15 L8  1.0
+ 18 Razmov, Gabriel        ADDGC26K  1616  1568/208  L1  L8  W20 L15 1.0
+ 19 Sharma, Devansh        KMNHF88S  1249  1225/115  L6  L14 L12 BYE 1.0
+ 20 Vijeyanandh, Vishnu    TMBGF63Z  1222  1218/114  L7  D15 L18 L12 0.5

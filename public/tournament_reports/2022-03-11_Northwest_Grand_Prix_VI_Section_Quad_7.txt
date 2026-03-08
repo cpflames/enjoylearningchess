@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sutton-brown, Eden     CEECD26L   400   469/  5  D2  D4  W3  2.0
+  2 Manookin, Jared        HSCCD11V   400   402/ 12  D1  D3  D4  1.5
+  3 Fine-gucker, Logan     EAGC535R   400   408/  3  W4  D2  L1  1.5
+  4 Sutton-brown, Owen     CEEC605L   400   400/  7  L3  D1  D2  1.0

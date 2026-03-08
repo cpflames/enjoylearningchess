@@ -1,0 +1,53 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Doss, Ryder            CRPF578Y   742   902/ 28  W51 W20 W9  W6  W2  5.0
+  2 Dodson, Tyson          KCCG234D   790   836/ 26  W48 W18 W8  W4  L1  4.0
+  3 Hall, Paxton           LLMGH14U   774   786/ 71  W26 W21 W16 L5  W20 4.0
+  4 Kermani, Kirabella     LLMGG24N   729   764/100  W27 W32 W17 L2  W5  4.0
+  5 Trevino-gonzalez, RamirMCUFK69A   669   750/ 15  W34 W35 W10 W3  L4  4.0
+  6 Lucatero, Lucas        MCUFF32U   655   710/ 29  W42 W39 W31 L1  W21 4.0
+  7 Banuelos, Arturo       MCUED90C   589   627/123  W49 L31 W34 W23 W22 4.0
+  8 Hall, Grayden          JMLGK68M   520   706/ 14  W44 W11 L2  W13 W15 4.0
+  9 Lara, Salvador         STPGK68N   512   638/ 13  W40 W13 L1  W14 W17 4.0
+ 10 Munoz, Salvador        BMCEK53B   227   472/  9  W46 W14 L5  W18 D19 3.5
+ 11 Harmon, Aj             MCUF697N   720   688/ 34  W28 L8  W24 L21 W34 3.0
+ 12 Lemon, Bryce           KCCGF01G   690   631/ 31  L32 L34 W49 W29 W35 3.0
+ 13 Gomez, Anthony         OCHHD08B   681   661/ 39  W33 L9  W29 L8  W28 3.0
+ 14 Mauseth, Shannon       MTPF483U   659   619/ 25  W41 L10 W48 L9  W36 3.0
+ 15 Saenz, Abigail         MTPF672R   601   585/ 25  L35 W33 W27 W26 L8  3.0
+ 16 Miranda, Santiago      STPG437Y   601   588/ 66  W36 W30 L3  L22 W38 3.0
+ 17 Moguel, Gerardo        RFREK96N   538   548/ 20  W37 W45 L4  W36 L9  3.0
+ 18 Jones, Devon           MTPF407J   537   542/ 54  W38 L2  W32 L10 W39 3.0
+ 19 Duarte, Carlos         OCHGK52U   535   477/ 10  D43 L29 W39 W44 D10 3.0
+ 20 Einarson, Aiden        CWAED84D   530   572/ 85  W50 L1  W42 W31 L3  3.0
+ 21 Cress, Emmett          JMLGH54B   521   566/ 32  W52 L3  W30 W11 L6  3.0
+ 22 Trevino-gonzalez, MariaOCHG767V   514   518/ 30  L39 W49 W35 W16 L7  3.0
+ 23 Whitemarsh, Emanuel    STPGE22J   483   489/ 30  L31 W38 W45 L7  W37 3.0
+ 24 Torres, Brandon        STPGK52W   609   531/ 10  D29 W43 L11 L28 W42 2.5
+ 25 Almaguer, Enzo         BMCEE41Z   582   502/ 20  L30 W41 L36 D42 W43 2.5
+ 26 York, Jackson          KCCE472Y   440   465/ 21  L3  W37 W40 L15 D31 2.5
+ 27 Coria, Mason           BMCFK68Z   429   420/ 15  L4  W52 L15 D30 W44 2.5
+ 28 Hatfield, Daniel       KCCFH45W   400   438/  8  L11 D44 W46 W24 L13 2.5
+ 29 Ramirez, Yasmine       MCUEK69C   386   437/ 14  D24 W19 L13 L12 W45 2.5
+ 30 Ramirez, Izabel        MTPFA77W   251   384/ 25  W25 L16 L21 D27 W41 2.5
+ 31 Valencia, Alan         OCHGK38H   600   562/  5  W23 W7  L6  L20 D26 2.5
+ 32 Moncada, Orlando       MCUEK69D   425   425/ 14  W12 L4  L18 L37 W47 2.0
+ 33 Hatfield, Isaac        KCCFG05H   400   306/  8  L13 L15 W52 L38 W46 2.0
+ 34 Olivo, James           BMCE632U   395   451/ 20  L5  W12 L7  W40 L11 2.0
+ 35 Ruelas, Mariano        BMCEK53C   367   429/  9  W15 L5  L22 W48 L12 2.0
+ 36 Vought, Dexter         DSREK53F   332   381/ 10  L16 W47 W25 L17 L14 2.0
+ 37 Miller, Jase           MCGF234V   222   306/ 28  L17 L26 W47 W32 L23 2.0
+ 38 Prasad, Sonali         JMLGK68K   221   292/ 14  L18 L23 W51 W33 L16 2.0
+ 39 Zambrano, Trino        STPGK52S   127   276/  9  W22 L6  L19 W49 L18 2.0
+ 40 Welch, Owen            MTPFK38G   500   367/  5  L9  W51 L26 L34 W48 2.0
+ 41 Lucatero, Victoria     MCUEK53G   388   311/ 10  L14 L25 W50 D45 L30 1.5
+ 42 Smith, Reagan          KCCFK96M   382   367/ 10  L6  W46 L20 D25 L24 1.5
+ 43 Estes, Liam            KCCEK53H   182   181/ 10  D19 L24 L44 W52 L25 1.5
+ 44 Bahena, Alessandro     MCUFK68T   153   193/ 14  L8  D28 W43 L19 L27 1.5
+ 45 Metteer, Olivia        KCCFK38F   500   272/  5  W47 L17 L23 D41 L29 1.5
+ 46 Jimenez, Aiden         MTPEK53J   540   344/ 10  L10 L42 L28 W50 L33 1.0
+ 47 Corey, Owen            MTPE956S   498   354/ 30  L45 L36 L37 W51 L32 1.0
+ 48 Collins, Andrew        MCGF897F   480   392/ 39  L2  W50 L14 L35 L40 1.0
+ 49 Pleasanf, Rahman       MTPFK53D   317   272/ 10  L7  L22 L12 L39 W51 1.0
+ 50 Avalos, Jesus          BMCED16N   182   145/ 20  L20 L48 L41 L46 W52 1.0
+ 51 Merryman, Weston       MCGF399H   434   278/ 29  L1  L40 L38 L47 L49 0.0
+ 52 Langston, Felicity     MTPE424K   167   100/ 28  L21 L27 L33 L43 L50 0.0

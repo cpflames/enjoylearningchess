@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Qureshi, Danish        BLEFF36V   631   789/ 43  W5  W4  W3  3.0
+  2 Moors, Samuel          BLNIH93D   625   646/ 18  W6  L3  W5  2.0
+  3 Celaya, Benito         SKYE505E   618   675/ 37  W7  W2  L1  2.0
+  4 Mcintee, Reese         MRDKF91G   617   642/ 12  W8  L1  W7  2.0
+  5 Fine-gucker, Logan     EAGD535R   603   576/ 38  L1  W8  L2  1.0
+  6 Egland, Crosby         VSTG264S   564   525/ 18  L2  L7  W8  1.0
+  7 Scholtz, Ethan         LLLD239W   555   536/ 12  L3  W6  L4  1.0
+  8 Belyatskiy, Artem      VSTG764W   522   437/ 17  L4  L5  L6  0.0

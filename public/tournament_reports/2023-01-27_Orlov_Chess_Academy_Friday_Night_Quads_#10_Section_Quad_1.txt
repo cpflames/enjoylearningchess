@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Olson, Travis          ADUN8893  1762  1770/ 78  W4  W3  W2  3.0
+  2 Sinha, Agastya         HSCDA75C  1475  1481/129  W3  W4  L1  2.0
+  3 Wilson, Lance          ROOM754B  1302  1286/ 12  L2  L1  W4  1.0
+  4 Sembium, Aditi         BCACK25W   909   901/175  L1  L2  L3  0.0

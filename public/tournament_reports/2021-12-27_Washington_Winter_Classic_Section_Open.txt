@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 tot 
+  1 Aleksandrov, Aleksej   ADIN451G  2708  2708/ 35  W16 W6  D3  W2  W7  W5  W13 W9  7.5
+  2 Dhulipalla, Bala ChandrADINY82Y  2215  2309/ 16  W9  W8  W5  L1  W3  W7  W6  W10 7.0
+  3 Shahinyan, David       ADINB96J  2570  2569/ 72  W12 W7  D1  W4  L2  W8  W5  U   5.5
+  4 Wang, Ze               ADUN176W  2317  2287/  8  HPB HPB W16 L3  HPB U   W17 W13 4.5
+  5 Bell, Harry E          ADUN6453  2008  2008/ 67  D10 W13 L2  W12 W6  L1  L3  W7  4.5
+  6 Razmov, Valentin       ADUNB02T  1810  1801/ 65  W17 L1  L12 W14 L5  W16 L2  W15 4.0
+  7 Cheng, Edward          GARJC74W  1689  1731/336  W14 L3  W13 W8  L1  L2  W12 L5  4.0
+  8 Strong, Edward         ADUN4304  1660  1681/473  W15 L2  W10 L7  W11 L3  L9  W16 4.0
+  9 Zhang, Bohan           EPSJE54S  1604  1635/ 59  L2  D17 W15 D11 HPB D12 W8  L1  4.0
+ 10 Wang, Daniel           LSSJ8287  1603  1631/575  D5  D11 L8  W15 D12 D13 W14 L2  4.0
+ 11 Ingram, Richard        ADBNX611  1743  1678/ 73  L13 D10 W17 D9  L8  L14 BYE D12 3.5
+ 12 Razmov, Gabriel        ADDGC26K  1624  1646/175  L3  W14 W6  L5  D10 D9  L7  D11 3.5
+ 13 Verma, Darsh           WONFB52K  1579  1606/120  W11 L5  L7  W16 BYE D10 L1  L4  3.5
+ 14 Fan, Chengrui          CHOK504D  1526  1528/153  L7  L12 BYE L6  W15 W11 L10 D17 3.5
+ 15 Devadithya, Hiruna     PFCI5494  1520  1503/647  L8  BYE L9  L10 L14 W17 W16 L6  3.0
+ 16 Chen, Angela           HLNJB334  1646  1594/291  L1  WF  L4  L13 W17 L6  L15 L8  2.0
+ 17 Kandhare, Ojas         INTKJ90T  1560  1510/ 60  L6  D9  L11 BYE L16 L15 L4  D14 2.0

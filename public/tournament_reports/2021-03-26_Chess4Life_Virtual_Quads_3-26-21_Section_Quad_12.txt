@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yang, Jimmy            BCABG45S   961  1046/ 52  W3  W2  W4  3.0
+  2 Holzer, Liam           CMCGG89B   857   901/ 50  W4  L1  W3  2.0
+  3 Sankar, Advay          CHRC758U   854   838/ 55  L1  W4  L2  1.0
+  4 Sailer, Shaunak        SARDC25Z   858   787/ 74  L2  L3  L1  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sharma, Parth          RSAEG29G   868   985/ 28  W3  W2  W4  3.0
+  2 Duseja, Ronit          TIMEA38H   792   852/ 76  W4  L1  W3  2.0
+  3 Jagadish, Vishvak      TBKDB13E   752   754/ 15  L1  W4  L2  1.0
+  4 Sailer, Shaunak        ENAEC25Z   926   827/149  L2  L3  L1  0.0

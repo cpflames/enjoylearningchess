@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Scollon, Owen          FHVH734D  1643  1650/432  W4  W2  W5  U   3.0
+  2 Stroud, Jeb            HSCHK22V  1207  1227/ 31  W3  L1  W6  D4  2.5
+  3 Hildenbrand, Blane     PSMH122V  1080  1121/174  L2  W6  W4  U   2.0
+  4 Kozaczuk, James        SHKH108A  1148  1150/166  L1  W5  L3  D2  1.5
+  5 Palmer, Evan           BHMJI90S  1165  1148/149  W6  L4  L1  U   1.0
+  6 Singh, Arshaan         HORIK22R  1035   983/ 25  L5  L3  L2  U   0.0

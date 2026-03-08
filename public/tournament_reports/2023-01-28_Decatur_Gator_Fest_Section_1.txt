@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Yun, Daniel D          BCABK87Z  1165  1158/238  W6  W8  D3  D4  W9  4.0
+  2 Narkhede, Kshitij      CRKBA27K   892   945/ 20  W7  W12 L4  W3  W6  4.0
+  3 Evin, Terrick          EBSBC54L  1228  1193/ 67  W9  W4  D1  L2  W8  3.5
+  4 Yuan, Chen             ETSBJ15Z   781   877/ 46  W13 L3  W2  D1  W10 3.5
+  5 Li, Bella              STTB917A   436   395/ 29  L12 L7  W13 W14 W15 3.0
+  6 Dai, Gordon            BCABK87Y   100   738/  5  L1  W15 W11 W10 L2  3.0
+  7 Dhavse, Vedant         SPTBK87X   100   574/  5  L2  W5  L8  W12 W11 3.0
+  8 Jonson, Iver           CMCB973T   597   608/ 20  W15 L1  W7  D9  L3  2.5
+  9 Deng, Arthur           OPWBC90Y   268   366/ 14  L3  W13 W12 D8  L1  2.5
+ 10 Kim, Connor            MAPBK94E   537   538/ 14  U   W11 W14 L6  L4  2.0
+ 11 Gagnier, Madeleine     HSCB251F   474   390/  8  W14 L10 L6  W15 L7  2.0
+ 12 Hedstrom, Elliot       WEDBK92C   163   220/  9  W5  L2  L9  L7  BYE 2.0
+ 13 Goldenshteyn, Hazel    DCTBK87W   100   100/  4  L4  L9  L5  BYE D14 1.5
+ 14 Huynh, Daniel          DCTBK87U   100   100/  4  L11 BYE L10 L5  D13 1.5
+ 15 Sabharwal, Vihaan      DCTBK87T   100   100/  4  L8  L6  BYE L11 L5  1.0

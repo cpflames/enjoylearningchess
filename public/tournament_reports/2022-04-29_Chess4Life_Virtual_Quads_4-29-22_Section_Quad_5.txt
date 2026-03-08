@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Taylor, Ryder          HPTI385C  1043  1121/162  W4  W2  W3  3.0
+  2 Naenna, Patanin        SPLDQ28H   961   969/118  W3  L1  WF  2.0
+  3 Li, Harry              SSSCG30G   906   897/166  L2  W4  L1  1.0
+  4 Zhang, Ethan Yichen    CRIEG57B   947   896/241  L1  L3  LF  0.0

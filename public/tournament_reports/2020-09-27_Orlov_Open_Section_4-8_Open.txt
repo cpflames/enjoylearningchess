@@ -1,0 +1,22 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Cheng, Edward          WMSIC74W  1653  1656/118  W9  W8  W14 W4  D2  4.5
+  2 Huang, Emily           MEDEB39A  1218  1372/ 96  W15 W13 D4  W6  D1  4.0
+  3 Schmidt-warnecke, Max  IMSI6188  1438  1450/153  D12 W17 D6  W14 W7  4.0
+  4 Preiner, Oscar         MIEFI145  1344  1398/142  W19 W5  D2  L1  W13 3.5
+  5 Smith, Cooper          DCTG3548  1141  1299/152  W17 L4  W13 W11 D6  3.5
+  6 Kuo, Tristan           RDSG941B  1134  1264/237  W7  W11 D3  L2  D5  3.0
+  7 Su, Alfred             EGBC929B  1346  1329/178  L6  W12 W20 W8  L3  3.0
+  8 Nelson, Ben            REGHD43V  1192  1207/136  W20 L1  W10 L7  W16 3.0
+  9 Arun, Advaith          SSMG777F  1183  1214/ 67  L1  W16 L11 W15 W14 3.0
+ 10 Smith, Lucas           OHMIK85U   938  1050/130  L11 W18 L8  W20 W19 3.0
+ 11 Westover, Charlotte    WMEE365V  1281  1256/212  W10 L6  W9  L5  D12 2.5
+ 12 Kuo, Declan            RDSEE82L  1113  1129/226  D3  L7  D15 W21 D11 2.5
+ 13 Shi, Gavin             LCNGH855  1470  1402/298  W18 L2  L5  W19 L4  2.0
+ 14 Borate, Neel           REEE821E  1302  1269/147  W16 W21 L1  L3  L9  2.0
+ 15 Yu, Xinhui             LCNF450Y  1023  1015/ 20  L2  D19 D12 L9  BYE 2.0
+ 16 Khatib, Kenan          LKDFC566  1036  1030/169  L14 L9  BYE W18 L8  2.0
+ 17 Xing, Henry            LKDF3704  1387  1311/291  L5  L3  L18 BYE W20 2.0
+ 18 Walimbe, Aadi          SBOGW982  1144  1117/226  L13 L10 W17 L16 W21 2.0
+ 19 Nedeltchev, Michael    STMI900M  1092  1056/119  L4  D15 W21 L13 L10 1.5
+ 20 Preiner, Isaac         HTNIK40N   887   857/ 42  L8  BYE L7  L10 L17 1.0
+ 21 Zhang, Melodie         SPTFE44K   879   838/ 58  U   L14 L19 L12 L18 0.0

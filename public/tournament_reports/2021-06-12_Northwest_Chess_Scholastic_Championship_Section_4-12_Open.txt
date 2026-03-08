@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Willy, Stephen         MMEFH17K  1790  1823/392  W4  W10 W2  W5  W6  5.0
+  2 Razmov, Gabriel        CSIFC26K  1521  1590/104  W12 W9  L1  W11 W5  4.0
+  3 Liu, Lucas             SOMDH33R  1489  1562/124  W15 W7  L5  W9  W11 4.0
+  4 Shani, Ariel           INGKC76X  1453  1484/133  L1  W13 W7  L6  W10 3.0
+  5 Siddem, Sid            RHJHC34V  1476  1494/324  W16 W14 W3  L1  L2  3.0
+  6 Garine, Ujwal          REJHB99A  1459  1468/151  L9  W12 W14 W4  L1  3.0
+  7 Cheng, Edward          WMSIC74W  1739  1700/276  W8  L3  L4  W14 W9  3.0
+  8 Xie, Max               BLWGI185  1370  1392/271  L7  W15 L11 W12 W14 3.0
+  9 Huang, Emily           MEDEB39A  1323  1364/153  W6  L2  W10 L3  L7  2.0
+ 10 Xiong, Michael         MEDC115A  1487  1447/122  W13 L1  L9  W15 L4  2.0
+ 11 Wei, Brian             SLVGP31C  1698  1632/144  L14 W16 W8  L2  L3  2.0
+ 12 Ehrenberg, Joshua      HCCKH373  1187  1198/140  L2  L6  W13 L8  W16 2.0
+ 13 Xie, Michael           BLWE549C  1082  1106/198  L10 L4  L12 W16 W15 2.0
+ 14 Wong, Kate             BCAC459M  1282  1280/ 67  W11 L5  L6  L7  L8  1.0
+ 15 Borden, Derek          IMSH915P  1164  1134/ 67  L3  L8  W16 L10 L13 1.0
+ 16 Sharma, Soham          BCAEK09Q  1247  1063/ 10  L5  L11 L15 L13 L12 0.0

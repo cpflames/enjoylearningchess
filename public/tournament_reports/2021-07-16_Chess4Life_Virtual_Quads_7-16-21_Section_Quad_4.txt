@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xie, Max               BLWGI185  1364  1458/286  W4  W3  W2  3.0
+  2 Mallipeddi, Advaith    HSCH445F  1408  1378/ 60  L3  W4  L1  1.0
+  3 Bharadwaj, Samarth     DGHAE78A  1368  1346/ 31  W2  L1  L4  1.0
+  4 Zhang, Ethan (yichen)  CRIDG57B  1281  1279/132  L1  L2  W3  1.0

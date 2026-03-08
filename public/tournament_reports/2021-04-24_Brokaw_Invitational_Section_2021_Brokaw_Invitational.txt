@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Lay, Elliott           HCCF646S  1157  1157/ 81  W7  W4  W2  D3  3.5
+  2 Olson, Marc            HCCNJ05J  1300  1028/  4  W5  W3  L1  W4  3.0
+  3 Olson, Benjamin        HCCFG50S   834   857/105  W6  L2  W5  D1  2.5
+  4 Reimer, Tate           LGHFA85E   608   655/  9  W8  L1  W7  L2  2.0
+  5 Baumann, Naomi         HCCE180R   506   568/ 23  L2  W6  L3  W8  2.0
+  6 Robarge, Isaiah        HCCDA55J   400   557/  4  L3  L5  W8  W7  2.0
+  7 Nims, Joshua           LGHE181V   400   400/  4  L1  W8  L4  L6  1.0
+  8 Thomas, Zoli           HCCFD40G   500   400/  4  L4  L7  L6  L5  0.0

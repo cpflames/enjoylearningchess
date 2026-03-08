@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kunisetty, Chekresh    XXXEK99L  1275  1270/ 24  L4  W2  W3  2.0
+  2 Phadke, Mahi           STLGF90B  1100  1150/ 28  W3  L1  W4  2.0
+  3 Zhu, Kevin             CSMD865U  1100  1092/383  L2  W4  L1  1.0
+  4 Maharaja, Imai         RKWCK34K  1151  1130/ 49  W1  L3  L2  1.0

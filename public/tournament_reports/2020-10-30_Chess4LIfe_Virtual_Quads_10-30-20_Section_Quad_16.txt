@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bar, Nathan            AUDB368C   400   915/  3  W3  W2  W4  3.0
+  2 Mitra, Rishab          OPWC138L   400   459/ 37  D4  L1  W3  1.5
+  3 Bhardwaj, Nia          RKWDD47N   547   520/ 20  L1  W4  L2  1.0
+  4 Arslan, Kaan           HSCFG37C   400   400/  6  D2  L3  L1  0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Song, Zachary          ISBHN795  1622  1632/207  W3  W2  L4  2.0
+  2 Wang, William          SOMG534J  1440  1511/134  W4  L1  W3  2.0
+  3 Boulis, Christos       RHJHC84T  1583  1565/439  L1  W4  L2  1.0
+  4 Willy, Stephen         MMEFH17K  1657  1626/370  L2  L3  W1  1.0

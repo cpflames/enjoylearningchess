@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Amalo, Eliot           HSCH282X  1166  1227/ 49  W2  W3  D4  2.5
+  2 Su, Alfred             EGBD929B  1167  1189/234  L1  W4  W3  2.0
+  3 Ponkshe, Sharva        HSCD873J  1169  1144/ 23  W4  L1  L2  1.0
+  4 Bhaskara, Yash         ICSHI539  1127  1089/218  L3  L2  D1  0.5

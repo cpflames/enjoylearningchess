@@ -1,0 +1,22 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Swaminath, Ankita      CNCE571R   874  1008/ 40  W8  W7  W4  D2  W6  4.5
+  2 Gulati, Naamya         FRWE649C   807   974/119  W21 W12 W5  D1  W4  4.5
+  3 Kale, Atharv           EVJG496H   600  1031/  5  L12 W11 W7  W14 W9  4.0
+  4 Ramanathan, Hamsini    OPWGH41M   892   892/ 20  W16 W14 L1  W10 L2  3.0
+  5 Abueg, Jethro          SLBEH78U   883   876/ 90  W19 W6  L2  L9  W15 3.0
+  6 Chien, Jeffrey         BCAEF41X   787   821/ 10  W10 L5  W18 W13 L1  3.0
+  7 Battula, Jeswanth Sri SICSHE96V   761   803/ 17  W18 L1  L3  W17 W14 3.0
+  8 Ephrem, Keli           HSCEE64R   518   616/ 40  L1  L9  W16 W18 W20 3.0
+  9 Jain, Samik            BRHE338J   400   891/  5  L14 W8  W12 W5  L3  3.0
+ 10 Hetamsaria, Aayan      TYEGG19R   600   740/  5  L6  W19 W21 L4  W13 3.0
+ 11 Ram, Ashvath           EBSE489K   893   772/  9  L15 L3  WF  W20 D12 2.5
+ 12 Sankar, Sneha          CNCE372B   770   802/194  W3  L2  L9  W15 D11 2.5
+ 13 Syal, Aadya            SHSGJ14J   841   765/ 21  W20 L15 W17 L6  L10 2.0
+ 14 Gupta, Shivam          BLWE474W   792   785/ 58  W9  L4  W15 L3  L7  2.0
+ 15 Kim, Rian              SOMFI59L   655   676/102  W11 W13 L14 L12 L5  2.0
+ 16 Vutukuri, Niharika     RKWFB12L   580   533/ 17  L4  L17 L8  W21 BYE 2.0
+ 17 Kossuri, Neil          KKNE696L   400   644/  4  U   W16 L13 L7  W19 2.0
+ 18 Patil, Aarna           TBKEB20J   400   503/  5  L7  W20 L6  L8  W21 2.0
+ 19 Bikkula, Charan        CRIFJ23A   563   516/ 97  L5  L10 LF  BYE L17 1.0
+ 20 Iyer, Ishan            TMBG715N   511   400/  8  L13 L18 BYE L11 L8  1.0
+ 21 Kancheti, Karthika     CNCE955X   400   400/  8  L2  BYE L10 L16 L18 1.0

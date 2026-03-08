@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Evin, Terrick          EBSBC54L  1421  1396/ 53  W4  L2  W3  2.0
+  2 Bar, Nathan            AUDD368C  1192  1208/193  L3  W1  W4  2.0
+  3 Chaudhuri, Arihant     CHAD703E   979  1078/126  W2  W4  L1  2.0
+  4 Dai, Hayden            AGBCI87Y  1096   960/  6  L1  L3  L2  0.0

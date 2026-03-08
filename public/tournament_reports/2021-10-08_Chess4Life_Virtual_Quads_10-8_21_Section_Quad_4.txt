@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Jacob            BLWED74Y  1292  1342/146  W4  D3  W2  2.5
+  2 Pisan, Kai             CHYH404C  1291  1310/175  W3  W4  L1  2.0
+  3 Bhattacharjee, ArchishmBLWFA45Y  1256  1239/121  L2  D1  D4  1.0
+  4 Zhang, Aaron           CCDE873R  1256  1217/359  L1  L2  D3  0.5

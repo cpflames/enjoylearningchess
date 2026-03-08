@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Allworth, Brayden      HORIA86Y   776   754/ 16  W9  L5  W2  W7  HPB 3.5
+  2 Koontz, John           HORI103A   417   507/ 10  W11 HPB L1  W9  W5  3.5
+  3 Bhatta, Mehveer        HORH129T   700   727/ 11  W8  W13 HPB HPB U   3.0
+  4 Crediford, Nilay       HORIF28K   297   445/ 15  W10 U   U   W6  W12 3.0
+  5 Paz, Fernando          HORGK27P   407   473/ 12  W15 W1  U   U   L2  2.0
+  6 Taylor, Hunter         HORH639M   700   403/  3  U   W10 U   L4  W11 2.0
+  7 Heggem, Zayden         HORGE11X   510   478/  5  W14 U   HPB L1  U   1.5
+  8 Hughes, Isaiah         HORGK64K   400   333/  6  L3  W12 HPB L12 U   1.5
+  9 Elford, Nicolas        HORGA01Z   600   355/  3  L1  W11 HPB L2  U   1.5
+ 10 Jefferson, Camille     HORHC50M   700   100/  3  L4  L6  HPB L11 BYE 1.5
+ 11 Kopf, Haydn            HORH181S   229   180/  9  L2  L9  U   W10 L6  1.0
+ 12 Miller, David          HORGC02A   600   231/  4  L13 L8  U   W8  L4  1.0
+ 13 Webster-pallares, XavieHORH829P   700   488/  2  W12 L3  U   U   U   1.0
+ 14 Meyer, Dylan           HORG732D   600   132/  1  L7  U   U   U   U   0.0
+ 15 Cicchitti, Tristian    HORHC89Q   700   100/  1  L5  U   U   U   U   0.0

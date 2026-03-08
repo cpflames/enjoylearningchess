@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Mu, Alivia             DCTFB56P   845   927/ 52  W4  W5  W6  W3  BYE 5.0
+  2 Mallapragada, Mihir    CBRC254M   900   889/ 22  W6  WF  L3  W5  W7  4.0
+  3 Inampudi, Tanvisree    BRHEB45J   400   831/  4  W7  WF  W2  L1  D5  3.5
+  4 Ghosh, Ishan           DGHE891Z   516   520/ 43  L1  BYE L5  W7  WF  3.0
+  5 Kamath, Adi            RCSEF83V   400   679/  4  WF  L1  W4  L2  D3  2.5
+  6 Arasu, Anisha          APOFK01A   535   550/ 40  L2  W7  L1  BYE LF  2.0
+  7 Carrell, Samuel        STCE150C   608   512/ 17  L3  L6  BYE L4  L2  1.0

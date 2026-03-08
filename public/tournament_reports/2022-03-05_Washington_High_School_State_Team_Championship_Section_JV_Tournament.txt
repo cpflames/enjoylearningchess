@@ -1,0 +1,35 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Moses, Blessington     INTK3817  1499  1516/ 27  W18 W8  W10 W5  W7  5.0
+  2 Sharma, Jai            EPSJ417M   992   995/  8  W19 W28 W6  L7  W11 4.0
+  3 Ropar, Jules           EPSL818S   942   964/ 12  W14 W22 L5  W15 W12 4.0
+  4 Bowman, Finn           SHMJD50L   708   909/ 38  W32 W11 HPB W9  D5  4.0
+  5 Deng, Lucas            SCHJ172H  1105  1110/ 75  W29 W20 W3  L1  D4  3.5
+  6 Giblin, Joe            LYELA51Z   914   913/ 36  W21 W31 L2  W17 D8  3.5
+  7 Ta, Louis              SPRK291U   815   933/ 14  W24 HPB W17 W2  L1  3.5
+  8 Park, Paul             NPRL296H   756   853/ 23  W34 L1  W24 W10 D6  3.5
+  9 Mcfadden, Cameron      FERLI35S  1020   998/ 66  HPB HPB W14 L4  W21 3.0
+ 10 Valdes, Emi            SCHJH58H   963   933/ 12  W13 W15 L1  L8  W24 3.0
+ 11 Glesener, Elijah       SCHK351W   822   820/ 15  W23 L4  W20 W25 L2  3.0
+ 12 Bermudez, Evan         SHMJ7653   776   772/141  W25 L17 W22 W21 L3  3.0
+ 13 Granger, Jacob         BLHJ654S   621   622/ 25  L10 L26 W32 W31 W22 3.0
+ 14 Husser, Madeline       STNKF58F   613   672/ 11  L3  W30 L9  W28 W25 3.0
+ 15 Bun, Peter             MRRJ761P   404   619/ 10  W33 L10 W18 L3  W20 3.0
+ 16 Masterson, Emmett      LYEK300S   826   737/ 19  L22 L24 W31 W30 D17 2.5
+ 17 Wolde, Immanuel        SCHJG63T   561   691/ 10  W27 W12 L7  L6  D16 2.5
+ 18 Chiapellone, Teo       SHMKG88R   683   630/ 54  L1  W34 L15 L20 W31 2.0
+ 19 Vinson, Jj             JACM241B   633   564/  6  L2  L25 W23 L22 W26 2.0
+ 20 Babravitski, Ivan      KAMLD33M   596   625/ 10  W26 L5  L11 W18 L15 2.0
+ 21 May, Ruby              BLHK397U   565   619/ 12  L6  W33 W26 L12 L9  2.0
+ 22 Holthaus, Ryan         SCHL554A   549   588/ 17  W16 L3  L12 W19 L13 2.0
+ 23 Red Elk, Ali-lawet     FERL986S   509   521/ 33  L11 L27 L19 W32 W28 2.0
+ 24 Pounder, Jacob         MRDJG96X   433   551/ 12  L7  W16 L8  W26 L10 2.0
+ 25 Kempf, Johnny          MRDMC19K   406   507/ 20  L12 W19 W28 L11 L14 2.0
+ 26 Templin, Trevor        SCHK242D   920   624/  9  L20 W13 L21 L24 L19 1.0
+ 27 Karthik, Shreya        JACJA701   872   834/ 45  L17 W23 U   U   U   1.0
+ 28 Ellis, Nolan           SCHJG45N   718   601/ 18  W30 L2  L25 L14 L23 1.0
+ 29 Adams, Carson          MRDLA48F   664   668/ 16  L5  W32 U   U   U   1.0
+ 30 Singh, Jagteshwar      MRDKJ25M   400   400/  6  L28 L14 BYE L16 L32 1.0
+ 31 Sumiya, Thomas         SCHLE44Z   400   400/ 16  BYE L6  L16 L13 L18 1.0
+ 32 Kyaw, Yarrow           SCHJ660S   900   400/  5  L4  L29 L13 L23 W30 1.0
+ 33 Elenbaas, Nathan       MRDLC84M   765   677/ 30  L15 L21 U   U   U   0.0
+ 34 Gigrich, Jessie        SCHL549E   400   400/  9  L8  L18 U   U   U   0.0

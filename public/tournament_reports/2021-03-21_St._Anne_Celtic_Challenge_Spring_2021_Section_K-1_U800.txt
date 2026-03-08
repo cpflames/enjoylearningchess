@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Petito, John           XXXA453W   400  1243/  5  W15 W4  W11 W2  W6  5.0
+  2 Han, Spencer           HSCBK75L   719   834/ 20  W7  W6  W9  L1  W5  4.0
+  3 Wang, Gideon           SOMAC35B   400   724/  5  D9  W8  L5  W10 W11 3.5
+  4 Cohen, Sasha           DCTBK75G   613   680/ 17  W10 L1  W7  L5  W9  3.0
+  5 Fetchero, Caleb        BLCAK56R   642   675/ 10  W13 L11 W3  W4  L2  3.0
+  6 Mittala, Vedh          TIMB145C   512   608/ 17  W16 L2  W12 W11 L1  3.0
+  7 Jain, Ayaansh          SSSB880L   400   626/  5  L2  W16 L4  W12 W15 3.0
+  8 Trochesset, Marc       RKWB379R   405   494/ 20  L11 L3  W16 W15 W14 3.0
+  9 Agrawal, Sakash        CLHBC98H   735   695/ 41  D3  W12 L2  W13 L4  2.5
+ 10 Amborn, Caleb          LGHBK57G   400   512/  5  L4  D15 W14 L3  W13 2.5
+ 11 Fei, Ethan             OPWBG65B   400   590/  5  W8  W5  L1  L6  L3  2.0
+ 12 Zhang, Aaron           RSABC74T   400   426/  9  W14 L9  L6  L7  W16 2.0
+ 13 Gande, Avyukth         CCDAA87K   400   400/  5  L5  D14 W15 L9  L10 1.5
+ 14 Fritzky, Blake         SANBH43H   400   400/  5  L12 D13 L10 D16 L8  1.0
+ 15 Rossman, Carter        SANAE56M   423   400/  9  L1  D10 L13 L8  L7  0.5
+ 16 Yang, Henry            ENAB721K   400   400/  5  L6  L7  L8  D14 L12 0.5

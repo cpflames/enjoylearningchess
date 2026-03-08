@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chopra, Nikita         OMSH297H   700   950/  3  W4  W2  W3  3.0
+  2 Shah, Sejal            LAVI4960   400   533/  6  W3  L1  W4  2.0
+  3 Cheruku, Aashritha     SHSFA84S   500   450/  3  L2  W4  L1  1.0
+  4 Deepak, Sairaghav      HSCFA52Q   400   400/  6  L1  L3  L2  0.0

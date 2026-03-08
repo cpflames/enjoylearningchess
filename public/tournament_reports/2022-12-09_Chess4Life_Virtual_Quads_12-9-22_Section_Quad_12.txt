@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Goel, Advit            RCSBG22F   484   459/ 10  W5  L2  BYE 2.0
+  2 Song, Oliver           HSCDF09J   621   620/ 33  W4  W1  L3  2.0
+  3 Bhat, Esha             DGHH674K   400   472/  5  BYE L4  W2  2.0
+  4 Cheng, Kelly           XXXED39E   400   550/  3  L2  W3  W5  2.0
+  5 Bassli, Max            JDSF246M   500   100/  2  L1  BYE L4  1.0

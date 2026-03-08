@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ramkumar, Nikhil       RBRD115E  1012  1155/ 62  W4  W2  W3  3.0
+  2 Agarkar, Aarav         WDMGG17J  1053  1080/110  W3  L1  W4  2.0
+  3 Pravlik, Aiden         SHSB416H  1052  1030/139  L2  W4  L1  1.0
+  4 Khatib, Kenan          LKDFC566  1062   988/190  L1  L3  L2  0.0

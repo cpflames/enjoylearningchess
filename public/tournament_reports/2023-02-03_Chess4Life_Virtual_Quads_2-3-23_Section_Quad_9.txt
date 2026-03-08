@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lei, Eric              TYEL314K   783   957/  9  W3  W2  W4  3.0
+  2 Wu, Dennis             SCDCJ54B   880   930/121  W4  L1  W3  2.0
+  3 Young-byle, Tynan      OLSIK829  1075  1012/129  L1  W4  L2  1.0
+  4 Rackoff, Dylan         BLWF507J   872   807/208  L2  L3  L1  0.0

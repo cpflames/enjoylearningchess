@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sreeram, Vihaan        REEDK01U   300   477/  3  D3  W4  W5  2.5
+  2 Wang, Devin            HSCEK01T   400   235/  2  W5  L3  BYE 2.0
+  3 Kommidi, Agasthya      HSCCK01S   200   413/  3  D1  W2  D4  2.0
+  4 He, George             BCAAK01R   100   210/  2  BYE L1  D3  1.5
+  5 Sairam, Advaith        RBRAK01Q   100   100/  2  L2  BYE L1  1.0
+
+ All Unrated-player Section: Ratings capped at 1000

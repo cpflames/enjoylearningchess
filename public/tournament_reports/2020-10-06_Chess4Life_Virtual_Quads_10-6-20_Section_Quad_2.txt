@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yu, Christopher        SPTG591U  1037  1137/ 87  W4  W3  W2  3.0
+  2 Verretto, Dante        EMSIS76P  1060  1071/ 79  W3  W4  L1  2.0
+  3 Ning, Winston          SCDCJ14W   924   920/ 54  L2  L1  W4  1.0
+  4 Miller, Jackson        GATG301V   969   902/ 26  L1  L2  L3  0.0

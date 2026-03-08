@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kumarswamy, Adarsh     CHRF755Y  1042  1048/330  W2  U   L3  1.0
+  2 Rackoff, Dylan         BLWD507J  1117  1107/133  L1  W3  U   1.0
+  3 Thakur, Reet           CWAEJ84K  1051  1055/247  U   L2  W1  1.0

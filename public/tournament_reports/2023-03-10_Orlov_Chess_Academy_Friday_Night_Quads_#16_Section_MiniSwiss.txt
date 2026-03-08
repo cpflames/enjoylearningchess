@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Shah, Kanav            LMAE295Q  1232  1247/ 50  W4  W2  W3  3.0
+  2 Mothukuri, Akhil       INGHT84J   928   923/167  W5  L1  W6  2.0
+  3 Jang, Jinwon           VIEF561P   897   905/ 30  W6  W4  L1  2.0
+  4 Xu, Ethan              BENDK98S   701   692/ 27  L1  L3  W5  1.0
+  5 Spaeth, Uzi            SHVFK58N   302   361/  6  L2  W6  L4  1.0
+  6 Ensz, Arlo             RHJGK62C   260   219/  9  L3  L5  L2  0.0

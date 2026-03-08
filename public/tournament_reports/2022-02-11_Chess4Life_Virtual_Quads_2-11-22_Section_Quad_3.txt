@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Singh, Saket           DISI872S  1429  1509/306  W4  W2  W3  3.0
+  2 Tan, Nathan            UCDC412Y  1398  1421/121  W3  L1  W4  2.0
+  3 Stein, Benjamin        HSCCB61S  1403  1363/189  L2  D4  L1  0.5
+  4 Huang, Emily           MEDFB39A  1376  1342/190  L1  D3  L2  0.5

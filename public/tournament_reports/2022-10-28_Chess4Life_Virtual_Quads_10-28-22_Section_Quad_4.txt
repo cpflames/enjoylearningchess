@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Ethan Yichen    CRIFG57B  1028  1164/313  W3  W2  W4  3.0
+  2 Yin, Daniel            ISSL116Y  1037  1075/279  W4  L1  W3  2.0
+  3 Nidamarthi, Nikhil     RSAD375J  1049  1029/107  L1  W4  L2  1.0
+  4 Li, Harry              SSSDG30G  1087  1009/227  L2  L3  L1  0.0

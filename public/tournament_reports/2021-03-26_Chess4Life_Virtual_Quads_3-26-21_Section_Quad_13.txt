@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bhattacharjee, ArchishmBLWEA45Y   846   943/ 50  W4  W3  W2  3.0
+  2 Fox-devol, Zachary     XXXEI93P   812   833/ 74  W3  W4  L1  2.0
+  3 Malla, Diven           HSCDG38L   755   737/ 64  L2  L1  W4  1.0
+  4 Chondolu, Vilok        XXXD522G   742   642/  9  L1  L2  L3  0.0

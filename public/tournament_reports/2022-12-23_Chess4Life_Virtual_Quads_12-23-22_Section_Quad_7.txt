@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Goel, Advit            RCSBG22F   444   501/ 15  W3  U   W2  2.0
+  2 Sardarli, Adnan        XXXC671W   450   438/ 16  U   W3  L1  1.0
+  3 Jung, Jadon            CHRI350J   400   272/  5  L1  L2  U   0.0

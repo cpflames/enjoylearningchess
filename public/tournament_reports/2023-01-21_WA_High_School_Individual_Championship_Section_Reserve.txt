@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 r10 tot 
+  1 Clayton, Evan          SHMKA71G  1036  1065/ 17  W6  W6  D3  W3  W5  W5  L2  D2  W7  W7  8.0
+  2 Van Dyk, Dash          INLJK89T   900  1006/ 10  D3  L3  W6  W6  W7  W7  W1  D1  D5  D5  7.0
+  3 Hodges, Xander         BLHLB63W   898   929/ 31  D2  W2  D1  L1  D6  D6  D5  D5  W6  W6  6.0
+  4 Chiu, Yi Jun           SHML347E  1087  1062/ 15  WF  WF  D5  D5  HPB HPB HPB HPB U   U   5.0
+  5 Yin, Daniel            ISSL116Y   930   929/308  W7  W7  D4  D4  L1  L1  D3  D3  D2  D2  5.0
+  6 Red Elk, Ali-lawet     FERM986S   730   714/ 56  L1  L1  L2  L2  D3  D3  W7  W7  L3  L3  3.0
+  7 Gonzales, Jazzie       FERM372M   332   315/ 20  L5  L5  BYE BYE L2  L2  L6  L6  L1  L1  2.0

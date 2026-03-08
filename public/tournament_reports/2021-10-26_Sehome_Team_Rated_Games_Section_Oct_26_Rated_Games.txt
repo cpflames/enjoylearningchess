@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Macgregor, Matthew     SHMK1137  1006  1064/ 73  W6  W4  2.0
+  2 Lewis, Rhys            SHMM8736  1316  1332/278  HPB W7  1.5
+  3 Bosch, Ethan           SHMMF67U  1200  1481/  1  HPB W5  1.5
+  4 Cox, Dylan             SHMJ3440  1133  1101/112  W8  L1  1.0
+  5 Lee, Jae-yoon          SHMJC734  1047  1081/ 39  W7  L3  1.0
+  6 Bermudez, Evan         SHMJ7653   928   912/127  L1  W8  1.0
+  7 Kuzin, Ethan           SHMJ7567  1239  1183/188  L5  L2  0.0
+  8 Chaipellone, Teo       SHMKG88R   400   400/  7  L4  L6  0.0

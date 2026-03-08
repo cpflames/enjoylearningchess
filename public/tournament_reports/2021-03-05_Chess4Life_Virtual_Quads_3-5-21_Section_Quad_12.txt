@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bhattacharjee, ArchishmBLWEA45Y   829   840/ 44  W3  W4  L2  2.0
+  2 Zhang, Shengxin        CAVD303G   763   797/ 18  W4  L3  W1  2.0
+  3 Mitra, Rahul           OPWFH53N   741   723/147  L1  W2  L4  1.0
+  4 Ismail, Riaz           INGFE17V   759   736/ 35  L2  L1  W3  1.0

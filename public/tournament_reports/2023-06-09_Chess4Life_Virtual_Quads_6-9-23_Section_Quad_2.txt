@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Rastogi, Reyansh       EVJGD30N  1237  1286/188  W2  U   W3  2.0
+  2 Zhao, Dennis           OPWG525E  1233  1235/322  L1  W3  U   1.0
+  3 Wang, Ares             MEDEJ77J  1254  1204/263  U   L2  L1  0.0

@@ -1,0 +1,28 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Chang, Eddie           INTK6270  2043  2051/176  W22 W11 W4  D2  3.5
+  2 Qian, Daniel           PFCK7807  1910  1936/287  W6  W13 W5  D1  3.5
+  3 Min, Ryan              OMSH5430  1899  1902/338  W15 W14 W10 L4  3.0
+  4 Willy, Stephen         HSCGH17K  1866  1886/466  W7  W21 L1  W3  3.0
+  5 Peng, Brandon          LSSKA154  1819  1830/450  W8  W17 L2  W19 3.0
+  6 Verma, Darsh           WONFB52K  1616  1661/128  L2  W23 W20 W16 3.0
+  7 Joshi, Atharva         SKNJ1352  1611  1642/281  L4  W24 W26 W17 3.0
+  8 Razmov, Gabriel        ADDGC26K  1599  1668/183  L5  W12 W25 W10 3.0
+  9 Xu, Owen               SOMC896M  1654  1658/112  D19 W26 D11 HPB 2.5
+ 10 Heath, Derek           SKRG1458  1747  1734/280  W16 W20 L3  L8  2.0
+ 11 Cheng, Edward          GARJC74W  1696  1692/345  W23 L1  D9  D18 2.0
+ 12 Shapiro, Michael       EALL8875  1684  1656/336  L20 L8  W23 W26 2.0
+ 13 Zhou, Leonardo         PLKGE293  1657  1660/167  W18 L2  D19 HPB 2.0
+ 14 Shah, Paras            EVJG904N  1644  1636/161  W24 L3  L16 W25 2.0
+ 15 Suess, Wade            EVGG101D  1616  1609/264  L3  D18 D27 WF  2.0
+ 16 Kandhare, Ojas         INTKJ90T  1593  1606/ 67  L10 W22 W14 L6  2.0
+ 17 Zhuge, Katherine       MISDZ53N  1575  1595/  8  W27 L5  W21 L7  2.0
+ 18 Bhaskaran, Siddharth   HMNC152J  1532  1555/ 22  L13 D15 W22 D11 2.0
+ 19 Garine, Ujwal          REJIB99A  1531  1568/172  D9  W27 D13 L5  2.0
+ 20 Moses, Blessington     INTK3817  1420  1489/ 21  W12 L10 L6  W21 2.0
+ 21 Chan, Skylor T         OMSHD18J  1643  1600/267  W25 L4  L17 L20 1.0
+ 22 Yondon, Odbayar        LMADK97T  1623  1600/ 41  L1  L16 L18 W27 1.0
+ 23 Lin, Michael           BCACC97F  1546  1507/222  L11 L6  L12 BYE 1.0
+ 24 Zhang, Michelle        MEDF889L  1487  1462/316  L14 L7  BYE LF  1.0
+ 25 Peng, Christopher      LMSH2702  1485  1448/173  L21 BYE L8  L14 1.0
+ 26 Han, Shuyi             SOMFK47W  1420  1393/248  BYE L9  L7  L12 1.0
+ 27 Meiyalagan, Ruban Sai  WLDFD10L  1725  1653/167  L17 L19 D15 L22 0.5

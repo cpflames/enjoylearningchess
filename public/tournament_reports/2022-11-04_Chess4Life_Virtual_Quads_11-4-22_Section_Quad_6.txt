@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Joshi, Vyom            LEOHH81X  1048  1064/ 60  W4  W3  L2  2.0
+  2 Sagar, Nikash          ELMGM801  1031  1052/ 77  L3  W4  W1  2.0
+  3 Taylor, Ryder          KAMJ385C  1008  1036/231  W2  L1  W4  2.0
+  4 Chevuri, Tattva        CBRFC06V   975   910/248  L1  L2  L3  0.0

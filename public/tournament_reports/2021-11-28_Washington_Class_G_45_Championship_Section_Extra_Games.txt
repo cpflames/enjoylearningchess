@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Polich, Duane J        ADUN9785  1792  1798/  1  W4  1.0
+  2 Cheng, Selina          THUE413R  1411  1428/317  W3  1.0
+  3 Sauve, Lucas           ADUNE38H  1402  1310/  4  L2  0.0
+  4 Karl, Robert           ADUNB16F  1564  1509/  3  L1  0.0

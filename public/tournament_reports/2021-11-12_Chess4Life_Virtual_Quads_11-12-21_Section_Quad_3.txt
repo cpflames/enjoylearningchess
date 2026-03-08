@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhao, Dennis           CGRF525E  1323  1339/187  W4  L2  W3  2.0
+  2 Pisan, Kai             CHYH404C  1263  1298/199  W3  W1  L4  2.0
+  3 Tan, Nathan            UCDC412Y  1343  1312/105  L2  W4  L1  1.0
+  4 Wang, Jacob            BLWED74Y  1271  1257/158  L1  L3  W2  1.0

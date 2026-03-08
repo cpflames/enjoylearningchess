@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Amalo, Eliot           HSCH282X   844   868/ 34  W3  L2  W4  2.0
+  2 Yu, Kate               ENDI223A   825   856/ 45  W4  W1  L3  2.0
+  3 Sailer, Shaunak        SAREC25Z   799   845/121  L1  W4  W2  2.0
+  4 Yang, Nicholas         CHRBG23U   843   758/ 17  L2  L3  L1  0.0

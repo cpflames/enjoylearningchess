@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Buado, Roman           BLWDI81U   424   463/ 27  W4  D2  D3  2.0
+  2 Praveen, Atharva       AUDDG14E   400   457/  8  W3  D1  D4  2.0
+  3 Bohannon, Andrew       LHTDG71E   400   417/  6  L2  W4  D1  1.5
+  4 Grigorenko, Yana       FRWBA39N   400   400/ 53  L1  L3  D2  0.5

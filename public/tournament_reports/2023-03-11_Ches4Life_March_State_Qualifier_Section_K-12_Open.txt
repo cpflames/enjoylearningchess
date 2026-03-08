@@ -1,0 +1,31 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Routray, Nirmalya      INGHD06K  1484  1503/364  W17 W16 W10 D2  3.5
+  2 Nedumpurakkal Thahir, IRHJIK46Y   800  1641/  4  W21 W4  W9  D1  3.5
+  3 Bharathy Mohan, Aarav  FRWEC98B  1487  1468/294  W24 D5  W7  D6  3.0
+  4 Lechner, Liam          HSCI591P  1097  1164/ 63  W13 L2  W18 W17 3.0
+  5 Fan, Alex              ENAII219  1092  1199/ 96  W26 D3  W11 D9  3.0
+  6 Shaikot, Sabeer        ENSE147Q  1145  1215/160  W27 D14 W23 D3  3.0
+  7 Sharma, Parth          RSAFG29G  1012  1126/ 44  W28 W23 L3  W15 3.0
+  8 Phadke, Mahi           STLGF90B   933  1126/ 20  W15 L10 W16 W14 3.0
+  9 Kapur, Viraaj          RSAEA71K  1416  1404/110  W25 W12 L2  D5  2.5
+ 10 Mastrandrea, Matteo    TMSG538W  1130  1162/ 25  W19 W8  L1  D12 2.5
+ 11 Wu, Jasper             IMSH3471  1093  1119/106  D29 W22 L5  W21 2.5
+ 12 Qiu, Travis            MMEFF47M  1002  1095/ 66  W22 L9  W28 D10 2.5
+ 13 Phanse, Nihar          CEIHA29P   733   958/ 13  L4  D21 W22 W23 2.5
+ 14 Mcintyre, Isaac        ETSD466S  1321  1286/132  W18 D6  HPB L8  2.0
+ 15 Raghavendra, Srihari   SSMGH19D  1232  1187/ 43  L8  W29 W19 L7  2.0
+ 16 Chatterjee, Sasmit     RHJHH23M  1070  1054/ 51  W20 L1  L8  W26 2.0
+ 17 Zhang, Ethan Yichen    CRIFG57B  1008  1008/362  L1  W26 W27 L4  2.0
+ 18 Ganji, Ayden           FRIGE62U   970   968/ 36  L14 W20 L4  W27 2.0
+ 19 He, Oliver             CRICK71V   905   932/142  L10 W24 L15 W28 2.0
+ 20 Antezana Garvizu, ChrisSLBHD91W   513   592/107  L16 L18 BYE W25 2.0
+ 21 Ginotra, Karman        RKWDB15D  1030  1019/ 58  L2  D13 W29 L11 1.5
+ 22 Gollapally, Arnav      BLMI499J  1444  1337/138  L12 L11 L13 W29 1.0
+ 23 Sreraman, Rohit        BCACG92Q  1125  1058/ 93  W30 L7  L6  L13 1.0
+ 24 Villanueva, Kirian     CPLHH895  1012   947/196  L3  L19 L26 W30 1.0
+ 25 Chong, Jacob           RSHEF24L   973   898/ 73  L9  L28 W30 L20 1.0
+ 26 He, Raymond            HSCJK82K   645   689/ 22  L5  L17 W24 L16 1.0
+ 27 Dhiman, Madhav         OMSIK46W   800   801/  4  L6  W30 L17 L18 1.0
+ 28 Mazuel, Timeo          SKNJK46V   900   826/  4  L7  W25 L12 L19 1.0
+ 29 Velchuri, Rithwik      SPTJJ64L   877   863/ 54  D11 L15 L21 L22 0.5
+ 30 Kocherlakota, Vihaan   EBSFA65P   924   818/ 32  L23 L27 L25 L24 0.0

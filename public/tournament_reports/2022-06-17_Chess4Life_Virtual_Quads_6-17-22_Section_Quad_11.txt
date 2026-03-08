@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wu, Dennis             SCDBJ54B   793   880/ 53  W3  W2  W4  3.0
+  2 Kundu, Ayush           XXXF245X   825   822/ 24  W4  L1  W3  2.0
+  3 Ge, Alex               CCDB908H   620   614/ 46  L1  W4  L2  1.0
+  4 Srinivasan, Vidhur     NRLDQ89B   551   502/ 11  L2  L3  L1  0.0

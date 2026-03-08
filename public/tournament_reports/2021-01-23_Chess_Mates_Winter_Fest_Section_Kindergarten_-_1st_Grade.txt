@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Sankrithi, Sarang      HSCBB11D  1013  1024/ 77  W4  W2  W5  L3  BYE 4.0
+  2 Edmond, Alec           CSIBH03G  1117  1106/ 82  W3  L1  W4  BYE W5  4.0
+  3 Kakkad, Vayu           BRYAK50L   980   999/238  L2  W5  BYE W1  W4  4.0
+  4 Sunshine, Ari          EVGBE66A   586   589/ 14  L1  BYE L2  W5  L3  2.0
+  5 Williams, Rio          RDSBG44S   400   400/  8  BYE L3  L1  L4  L2  1.0

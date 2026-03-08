@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pisan, Kai             CHYJ404C  1773  1787/399  W4  D2  W3  2.5
+  2 Gao, Justin            BCXFX11V  1557  1755/  5  W3  D1  W4  2.5
+  3 Liu, Yuntao            STTF505Y  1624  1613/264  L2  W4  L1  1.0
+  4 Chopra, Nikita         OMSJ297H  1516  1486/ 55  L1  L3  L2  0.0

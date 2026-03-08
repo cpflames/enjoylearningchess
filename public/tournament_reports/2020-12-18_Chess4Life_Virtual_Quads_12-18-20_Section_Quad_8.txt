@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Malugu, Sankalp        SHSBE95W  1080  1162/125  W3  W4  D2  2.5
+  2 Pravlik, Aiden         SHSB416H  1087  1093/127  W4  L3  D1  1.5
+  3 Verretto, Dante        EMSIS76P  1125  1097/123  L1  W2  L4  1.0
+  4 Zhang, Aaron           CCDD873R  1114  1089/246  L2  L1  W3  1.0

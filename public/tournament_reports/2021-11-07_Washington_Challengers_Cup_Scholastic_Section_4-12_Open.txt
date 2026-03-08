@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kandhare, Ojas         INTKJ90T  1400  1552/ 47  W15 W16 W5  W3  W7  5.0
+  2 Cheng, Selina          THUE413R  1314  1411/316  L3  W9  W17 W6  W10 4.0
+  3 Wang, Mark             LOJJW31V  1573  1576/216  W2  W12 W6  L1  D5  3.5
+  4 Ramkumar, Nikhil       RBRE115E  1573  1559/105  L8  HPB W19 W14 W11 3.5
+  5 Xiong, Michael         MEDD115A  1466  1489/158  W14 W7  L1  W10 D3  3.5
+  6 Yadlapati, Arush       EVJHA47S  1438  1436/152  W18 W8  L3  L2  W14 3.0
+  7 Gajcowski, Hannah Nami OPWGI10H  1323  1338/161  W20 L5  W16 W8  L1  3.0
+  8 Walimbe, Aadi          SLLHW982  1336  1365/261  W4  L6  W12 L7  W15 3.0
+  9 Kokati, Pranav         OMSG814P  1119  1203/173  L10 L2  W18 W17 W13 3.0
+ 10 Mohan, Laya            BCWG617P  1369  1353/100  W9  W17 D11 L5  L2  2.5
+ 11 Zheng, Max             SOMFD13T  1346  1335/117  L16 W18 D10 W12 L4  2.5
+ 12 Cen, Evan              TYEGI97D  1338  1306/ 54  W19 L3  L8  L11 W18 2.0
+ 13 Westover, Charlotte    WMEF365V  1332  1264/289  L17 W15 L14 W19 L9  2.0
+ 14 Ehrenberg, Joshua      HCCLH373  1245  1243/156  L5  W20 W13 L4  L6  2.0
+ 15 Rao, Deepak Sri KartikeARDF517J  1244  1221/ 65  L1  L13 W20 W16 L8  2.0
+ 16 Hawkins, Holden        TYEJ383Z  1150  1163/370  W11 L1  L7  L15 W19 2.0
+ 17 Chintalapudi, Srihaan  CNCE662W  1031  1049/ 56  W13 L10 L2  L9  W20 2.0
+ 18 Edmond, Ivy            WWDED81E  1222  1160/223  L6  L11 L9  W20 L12 1.0
+ 19 Kedarisetty, Shreyas   GRRFH60G  1043  1003/100  L12 BYE L4  L13 L16 1.0
+ 20 Juturu, Chyavan Reddy  HMNE561R   400   641/  5  L7  L14 L15 L18 L17 0.0

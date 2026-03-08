@@ -1,0 +1,36 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Hou, Kennard           HHSM1917  1671  1696/195  W14 W12 W4  W6  W3  5.0
+  2 Deng, Stanley          LECEK22E  1416  1419/252  W15 W13 W5  L3  W10 4.0
+  3 Deng, Grace            HHSM1468  1398  1424/254  W22 W21 W10 W2  L1  4.0
+  4 Arias Padilla, Jose    CWHK888V  1241  1315/ 64  W16 W9  L1  W13 W12 4.0
+  5 Mendoza, Oscar         CWHJI229  1204  1228/267  W31 W25 L2  W14 W11 4.0
+  6 Alford, Isaiah         CWHK925Y  1317  1289/ 10  W24 W30 W17 L1  D8  3.5
+  7 Graham, Connor         CWHK5610  1162  1174/184  L8  W23 D18 W19 W17 3.5
+  8 Alford, Trey           CWHL636B   622   846/ 15  W7  L18 W33 W23 D6  3.5
+  9 Chang, Joshua          HHSLK68J  1100  1313/  5  W11 L4  W21 D17 W18 3.5
+ 10 Kane, Callan           CWHMB00E  1121  1139/201  W26 W28 L3  W15 L2  3.0
+ 11 Luciano, Luis          CWHM3995  1088  1099/196  L9  W16 W22 W28 L5  3.0
+ 12 Chavez Vargas, Angel   CWHL858A  1064  1113/ 23  W32 L1  W24 W18 L4  3.0
+ 13 Villegas, Jovanny      CWHM220P  1018  1027/ 60  W35 L2  W31 L4  W25 3.0
+ 14 Motkuri, Advaitha      RICKJ68F   940   990/ 80  L1  W27 W29 L5  W28 3.0
+ 15 Robles, Abel           NHPM1788   899   918/208  L2  W32 W34 L10 W26 3.0
+ 16 Luna Rocha, Sergio Jr  CWHK3108   826   850/185  L4  L11 W32 W34 W29 3.0
+ 17 Hernandez, Marcelo     CWHKK986  1115  1102/167  W27 W34 L6  D9  L7  2.5
+ 18 Ornelas, Daniel        CWHMH732  1393  1309/207  D23 W8  D7  L12 L9  2.0
+ 19 Trigg, Dylan           RICJ571V  1129  1045/136  L25 L31 W27 L7  W30 2.0
+ 20 Lopez, Esteban         CWHM7267  1050  1026/288  L28 W26 BYE U   U   2.0
+ 21 Martinez, Raul         CWHMC472   990   957/189  W33 L3  L9  L29 W31 2.0
+ 22 Kane, Jarret           CWHJJ97S   890   843/122  L3  W35 L11 L25 W34 2.0
+ 23 Moreno Prado, Brandon  CWHLC596   861   864/228  D18 L7  W25 L8  HPB 2.0
+ 24 Santana, Andy          CWHJH849   852   817/228  L6  W33 L12 L26 W35 2.0
+ 25 Guizar, Kevin          CWHJI02P   503   662/ 48  W19 L5  L23 W22 L13 2.0
+ 26 Arias Padilla, Alondra CWHJK68G   900   802/  5  L10 L20 W35 W24 L15 2.0
+ 27 Bush, Easton           HHSJK68F   900   706/  4  L17 L14 L19 W35 WF  2.0
+ 28 Neal-andrews, Lucius   WWHLK68E  1100   966/  5  W20 L10 W30 L11 L14 2.0
+ 29 Eslick, Wyatt          HHSLK68D  1100   750/  4  L30 BYE L14 W21 L16 2.0
+ 30 Pantoja, Omar          CWHMI56D   980   928/ 46  W29 L6  L28 D31 L19 1.5
+ 31 Gomez, Albert          CWHKJ40R   808   842/ 10  L5  W19 L13 D30 L21 1.5
+ 32 Mcdonald, Samuel       RICJK68A   900   552/  4  L12 L15 L16 W33 LF  1.0
+ 33 Hernandez, Gabriela    CWHLK67Z  1100   217/  4  L21 L24 L8  L32 BYE 1.0
+ 34 Fransen, Lucas         HHSLK67Y  1100   445/  4  BYE L17 L15 L16 L22 1.0
+ 35 Pineda, Ivette         CWHMK67X  1200   342/  5  L13 L22 L26 L27 L24 0.0

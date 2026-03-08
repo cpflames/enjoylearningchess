@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Amalo, Eliot           HSCI282X  1285  1380/ 85  W4  W2  W3  3.0
+  2 Pai, Vihaan            CHADK17C  1272  1295/118  W3  L1  W4  2.0
+  3 Rastogi, Reyansh       EVJGD30N  1283  1237/186  L2  D4  L1  0.5
+  4 Bar, Nathan            AUDD368C  1229  1195/204  L1  D3  L2  0.5

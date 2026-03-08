@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chaudhuri, Agnivesh    CHACB55V   610   720/ 57  W3  W2  D4  2.5
+  2 Sembium, Aditi         BCABK25W   595   660/ 38  W4  L1  W3  2.0
+  3 He, Oliver             CRIBK71V   605   591/ 29  L1  W4  L2  1.0
+  4 Sumanaseni, Evan       CNHF876D   721   642/169  L2  L3  D1  0.5

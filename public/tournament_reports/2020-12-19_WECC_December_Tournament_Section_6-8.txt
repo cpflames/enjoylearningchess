@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Sankar, Abhay          LEOH6545  1536  1543/330  W14 W10 W3  D2  W5  4.5
+  2 Sun, Yichen            BLMH377G  1275  1367/ 41  W18 W5  W15 D1  W6  4.5
+  3 Repalle, Vibhav        LLMGK31L  1254  1265/ 61  W19 W11 L1  W13 W9  4.0
+  4 Sudhir, Isha           INGHJ81C  1164  1182/ 69  L7  W16 W17 W15 W8  4.0
+  5 Sanjay, Adarsh         OPWHJ50U  1219  1234/ 70  W13 L2  W12 W6  L1  3.0
+  6 Emi, Pruneda           MCFIK53L  1224  1219/153  W16 W7  W8  L5  L2  3.0
+  7 Nune, Navaj            LLMIF09F   964   996/ 40  W4  L6  W19 L9  W13 3.0
+  8 Mendoza, Leonardo      OCHH1126  1050  1048/224  W17 W21 L6  W11 L4  3.0
+  9 Liden, Soren           EVGGG18K   772   888/ 48  W15 L14 W21 W7  L3  3.0
+ 10 Chaoweeraprasit, Nyle  OVLGI162  1043  1045/106  W20 L1  L13 W16 W14 3.0
+ 11 Thallapally, Srithan   LECHF86Y   938   937/ 45  W22 L3  W14 L8  D12 2.5
+ 12 Hinojosa, Emillio      OCHH101H   893   898/ 85  U   W18 L5  W21 D11 2.5
+ 13 Santana, Andy          OCHHH849   904   911/208  L5  W20 W10 L3  L7  2.0
+ 14 Motkuri, Advaitha      LLMIJ68F   929   922/ 50  L1  W9  L11 W19 L10 2.0
+ 15 Cryan, Kenneth         CMLH3456  1172  1111/ 87  L9  W17 L2  L4  W19 2.0
+ 16 Liao, Wesley           EASGE49D  1038   992/ 39  L6  L4  W18 L10 W20 2.0
+ 17 Ogle, Noah             CKKH176F   826   783/ 30  L8  L15 L4  D20 W22 1.5
+ 18 Harley, Imanuel        TCAHK67E   530   509/ 17  L2  L12 L16 D22 BYE 1.5
+ 19 Garg, Suhani           INGID67B   801   753/ 13  L3  W22 L7  L14 L15 1.0
+ 20 Casillas, Abigail      OCHHI76H   400   419/ 24  L10 L13 D22 D17 L16 1.0
+ 21 Bleazard, Caleb        TRHII43Z   400   400/ 12  U   L8  L9  L12 BYE 1.0
+ 22 Guizar, Kevin          OCHHI02P   400   407/ 10  L11 L19 D20 D18 L17 1.0

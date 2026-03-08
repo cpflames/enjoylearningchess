@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Reddy, Eshan           SGSH336Y  1342  1360/275  W18 W13 D6  W2  D4  4.0
+  2 Patterson, Ben         PDHKI54X  1309  1386/ 53  W15 W3  W9  L1  W5  4.0
+  3 Liu, Charles           PULK600D  1000  1416/  5  W7  L2  W8  W13 W11 4.0
+  4 Al-hakeem, Hasan       WVSMC84R  1200  1402/  5  W8  D5  W12 W6  D1  4.0
+  5 Uhlenkott, Kolby       PULMH714  1088  1244/114  W16 D4  W11 W9  L2  3.5
+  6 Park, Mir              PULK4692  1069  1188/ 25  W19 W11 D1  L4  W7  3.5
+  7 Campbell, Sebastian    ASPHI79A  1004  1031/137  L3  W15 W19 W10 L6  3.0
+  8 Minnameier, Konan      SHPKB33F   937  1032/ 10  L4  W16 L3  W19 W13 3.0
+  9 Fuchs, Isaac           LBYL724L  1462  1395/112  W14 W12 L2  L5  D10 2.5
+ 10 Malov, Ivan            WVSJH69Y   900   997/  5  L13 W18 W14 L7  D9  2.5
+ 11 Mortensen, Lucas       WVSJ730U  1553  1468/113  W17 L6  L5  W14 L3  2.0
+ 12 Bagmet, Dana           SVLK292D  1007   963/ 14  W20 L9  L4  D15 D16 2.0
+ 13 Hilton, Olivia         SIAKK588   979   987/242  W10 L1  W17 L3  L8  2.0
+ 14 Sherwood, Leo          FREHI58J   820   828/ 15  L9  W20 L10 L11 W19 2.0
+ 15 Hilton, Amelie         SIAJE627   774   783/212  L2  L7  W20 D12 D17 2.0
+ 16 Santilli, Tristen      MHSLH668   768   775/ 93  L5  L8  D18 W20 D12 2.0
+ 17 Boyd, Aidynn           SVLHB40X   831   779/ 10  L11 L19 L13 W18 D15 1.5
+ 18 Price, Rachel          GPSJF94S   801   762/ 15  L1  L10 D16 L17 W20 1.5
+ 19 Mortensen, Liam        SWEH768V   738   727/ 48  L6  W17 L7  L8  L14 1.0
+ 20 Soper, Tad             PPRH417G   493   447/ 10  L12 L14 L15 L16 L18 0.0

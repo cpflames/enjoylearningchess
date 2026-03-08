@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Fang, Weiai            BRBB696W   561   588/ 19  L4  W2  W3  2.0
+  2 Kundu, Ayush           XXXF245X   492   562/ 12  W3  L1  W4  2.0
+  3 Su, Oliver             JINBD01U   587   545/ 42  L2  W4  L1  1.0
+  4 Li, Rebecca            BCAAJ62B   538   513/ 37  W1  L3  L2  1.0

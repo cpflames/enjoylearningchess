@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Willy, Stephen         HSCHH17K  1961  1975/520  D2  D3  W4  2.0
+  2 Bian, Erin             LMSHI91Y  1966  1979/190  D1  W4  D3  2.0
+  3 Vemparala, Nikash      OVLHI078  2118  2113/395  W4  D1  D2  2.0
+  4 Karthikeyan, HarishkumaREJHJ81A  1835  1811/209  L3  L2  L1  0.0

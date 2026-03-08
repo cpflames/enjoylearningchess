@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Jhaveri, Aarav         EVJG667T   600   897/  5  W13 W5  L3  W7  W2  4.0
+  2 Hassan, Ahmad          RRGG714R   780   847/118  W14 W8  W6  W3  L1  4.0
+  3 Van, Preston           CRPFG09Y   760   819/152  W9  W13 W1  L2  W5  4.0
+  4 Pheysey, Owen          CRPFE04H   595   610/ 29  BYE W11 L7  W14 W10 4.0
+  5 Schulte, Joey          STCFD62Q   595   655/ 24  W12 L1  W10 W6  L3  3.0
+  6 Fedchuk, Vanessa       RRGH629G   692   695/112  W15 W7  L2  L5  W8  3.0
+  7 Sanders, Maddox        CRPFG42J   400   480/ 12  BYE L6  W4  L1  W13 3.0
+  8 Colon, Xavier          STCGF98F   725   679/ 50  W10 L2  D14 W11 L6  2.5
+  9 Thompson, Ayden        JMLGJ98S   600   417/  4  L3  D15 L11 BYE W14 2.5
+ 10 Casino, Jessi          STCH689G   557   527/ 15  L8  W12 L5  W15 L4  2.0
+ 11 Paris, Reese           MCGF571C   458   457/ 27  U   L4  W9  L8  BYE 2.0
+ 12 Saenz, Evelyn          LONFJ87X   500   400/  4  L5  L10 BYE L13 W15 2.0
+ 13 Evans, Daymein         STPG267E   400   411/  8  L1  L3  D15 W12 L7  1.5
+ 14 Rehberger, Jack        STCF916D   500   400/  4  L2  BYE D8  L4  L9  1.5
+ 15 Tuura, Liam            RFPF758F   594   461/ 13  L6  D9  D13 L10 L12 1.0

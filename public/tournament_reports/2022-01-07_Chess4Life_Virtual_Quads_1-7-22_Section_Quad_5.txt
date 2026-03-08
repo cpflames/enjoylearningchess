@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Jacob            BLWED74Y  1269  1287/172  W2  W4  L3  2.0
+  2 Wu, Derek              MEDE902D  1245  1269/ 55  L1  W3  W4  2.0
+  3 Bhattacharjee, ArchishmBLWFA45Y  1271  1244/133  L4  L2  W1  1.0
+  4 Xing, Henry            LKDG3704  1219  1205/362  W3  L1  L2  1.0

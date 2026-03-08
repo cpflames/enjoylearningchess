@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Urali, Sanjay          MEDE315D  1427  1461/312  U   W3  W2  2.0
+  2 Zheng, Lucas           SOMC194Y  1367  1369/ 97  W3  U   L1  1.0
+  3 Bhattacharjee, ArchishmBLWFA45Y  1339  1301/147  L2  L1  U   0.0

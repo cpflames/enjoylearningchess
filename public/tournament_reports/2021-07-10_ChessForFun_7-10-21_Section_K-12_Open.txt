@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wang, Mark             LOJIW31V  1498  1570/195  W4  W2  W5  W4  BYE 5.0
+  2 Marcelia, David        CPBMK21F  1474  1468/ 39  D3  L1  BYE W5  W4  3.5
+  3 Borden, Derek          IMSH915P  1134  1180/ 71  D2  D5  L4  BYE W5  3.0
+  4 Alam, Adil             BCAFI15X  1437  1402/186  L1  BYE W3  L1  L2  2.0
+  5 Tan, Nathan            UCDB412Y  1213  1174/ 50  WF  D3  L1  L2  L3  1.5

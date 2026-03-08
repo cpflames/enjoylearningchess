@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Aaron           CCDD873R  1093  1217/210  W2  W4  W3  3.0
+  2 Xie, Max               BLWGI185  1092  1127/180  L1  W3  W4  2.0
+  3 Ivanovic, Mina         UCDCH40V  1142  1112/272  W4  L2  L1  1.0
+  4 Sumanaseni, Evan       CNHE876D  1087  1022/119  L3  L1  L2  0.0

@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 tot 
+  1 Collinge, Max          ADUN2877   989  1528/ 47  W12 W9  W6  W3  W2  W10 W7  W8  W5  9.0
+  2 Marcelia, David        CPBNK21F  1587  1579/ 78  D3  W4  HPB HPB L1  W6  W5  W7  W12 6.5
+  3 Notkin, Akiva          ADUNH45Z  1300  1460/  8  D2  W5  W9  L1  L6  BYE W10 W12 W8  6.5
+  4 Cummins, William       SMSGJ26R   728  1088/ 12  BYE L2  L11 W9  D10 W12 W6  HPB W7  6.0
+  5 Xu, Zoe                CNHCG70A  1353  1306/151  L6  L3  BYE W8  W12 L7  L2  W10 L1  4.0
+  6 Fitzwater, Mason       MONMF69E  1200  1398/  7  W5  W10 L1  W7  W3  L2  L4  LF  U   4.0
+  7 Singh, Anay            CDWDA69Y  1110  1165/ 13  L10 BYE W12 L6  W8  W5  L1  L2  L4  4.0
+  8 Dale, Luke             SMSIJ10P  1136  1145/ 44  HPB HPB D10 L5  L7  W9  W12 L1  L3  3.5
+  9 Saloranta, Leo         IMSIB40A  1319  1243/149  W11 L1  L3  L4  HPB L8  HPB WF  HPB 3.5
+ 10 Huang, Emily           MEDFB39A  1436  1330/247  W7  L6  D8  D11 D4  L1  L3  L5  BYE 3.5
+ 11 Choi, Erik             ADUN616S  1300  1086/  4  L9  L12 W4  D10 BYE U   U   U   U   2.5
+ 12 Vashisht, Aneesh       LKWDC30Y  1234  1138/ 60  L1  W11 L7  BYE L5  L4  L8  L3  L2  2.0

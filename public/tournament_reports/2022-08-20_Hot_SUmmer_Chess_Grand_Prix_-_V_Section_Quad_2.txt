@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lewis, Theo            FERKK29P  1186  1244/ 56  D2  W4  W3  2.5
+  2 Macgregor, Matthew     SHMK1137  1174  1238/103  D1  W3  W4  2.5
+  3 Bosch, Declan          FHVHE38K  1217  1184/ 44  W4  L2  L1  1.0
+  4 Reiss, Madelyn         BLHKJ21Y  1083  1034/ 25  L3  L1  L2  0.0

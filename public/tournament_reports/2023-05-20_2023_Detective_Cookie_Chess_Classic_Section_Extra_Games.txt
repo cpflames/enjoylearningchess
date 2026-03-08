@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Sun, William           XXXCK13Z   266   317/  6  W7  D8  1.5
+  2 Miller, Jackson        DCCI301V  1266  1267/ 80  W9  U   1.0
+  3 Schasteen, Noble       DCCCA04C   964   965/ 19  W10 U   1.0
+  4 Yen, Apollo            RKWFG78H   879   881/ 47  W8  U   1.0
+  5 Abdulbary, Ammar       DCCCK13A   100   180/  5  W11 U   1.0
+  6 Aniag, Brayden Eli     DCCEK13U   100   115/  5  U   D7  0.5
+  7 Adane, Joseph          MLKEK13W   254   194/  7  L1  D6  0.5
+  8 Gay, Dylan             DCCHK14J   408   354/  5  L4  D1  0.5
+  9 Dhavse, Vedant         SPTBK87X   513   512/ 15  L2  U   0.0
+ 10 Lew, Theodore          OPWAK28X   295   293/ 20  L3  U   0.0
+ 11 Abdulbary, Hala        DCCFK13X   180   100/  2  L5  U   0.0

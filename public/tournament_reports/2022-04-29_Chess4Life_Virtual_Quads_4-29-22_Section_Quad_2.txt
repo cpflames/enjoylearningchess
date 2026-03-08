@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Siddem, Sid            RHJIC34V  1319  1461/393  W2  W3  W4  3.0
+  2 Upreti, Parthavi       TBKF754L  1501  1484/ 94  L1  D4  W3  1.5
+  3 Singh, Saket           DISI872S  1436  1412/326  W4  L1  L2  1.0
+  4 Godse, Gaurav          EVJH290Q  1351  1325/101  L3  D2  L1  0.5

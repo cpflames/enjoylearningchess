@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Naenna, Patanin        SPLDQ28H  1066  1192/ 80  W3  W4  W2  3.0
+  2 Hochberg, David        SUEJ6075  1165  1170/169  W4  W3  L1  2.0
+  3 Chen, Emily C          BCAHJ13K  1020  1014/ 99  L1  L2  W4  1.0
+  4 Yin, Daniel            ISMK116Y  1059   994/181  L2  L1  L3  0.0

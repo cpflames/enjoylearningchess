@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Tian, Grace            CRIDE89L   741   878/ 82  W16 W7  W5  W4  D3  4.5
+  2 Abueg, Jethro          WONDH78U   691   790/ 56  W15 W8  D3  W6  W14 4.5
+  3 Ramkumar, Nikhil       RBRD115E   733   804/ 17  W11 W14 D2  W9  D1  4.0
+  4 Wei, Marcus            LCNC588E   627   776/ 31  W17 W6  W10 L1  W9  4.0
+  5 Sankar, Sneha          CNCD372B   718   738/160  W12 W17 L1  W8  W16 4.0
+  6 Jaeger, Russell        SAND967K   730   721/ 91  W13 L4  W12 L2  W10 3.0
+  7 Priest, Kieran         CIODU08S   686   675/122  W14 L1  L9  W11 W12 3.0
+  8 Ramkumar, Nethra       RBRD315Z   469   502/ 16  BYE L2  W16 L5  W15 3.0
+  9 Thorrington, James     SANC547U   400   646/  5  D10 W15 W7  L3  L4  2.5
+ 10 Lu, Ian                CRICE83J   664   646/102  D9  W11 L4  W13 L6  2.5
+ 11 Kelly, Liam            SANC359W   537   525/ 19  L3  L10 W15 L7  W13 2.0
+ 12 Mitra, Rishab          OPWC138L   467   453/ 55  L5  BYE L6  W14 L7  2.0
+ 13 Charles, Conrad        SJOCH69E   437   443/ 14  L6  W16 W17 L10 L11 2.0
+ 14 Hession, Conor         SAND560C   400   400/  9  L7  L3  BYE L12 L2  1.0
+ 15 Sankar, Meera          CNCCF17N   400   400/ 86  L2  L9  L11 W16 L8  1.0
+ 16 Onwuneme, Aidan        SANCI57F   438   400/ 15  L1  L13 L8  L15 L5  0.0
+ 17 Holtzclaw, John        SAND957Y   400   400/  3  L4  L5  L13 U   U   0.0

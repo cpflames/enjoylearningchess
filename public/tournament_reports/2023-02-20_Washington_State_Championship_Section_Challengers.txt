@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 tot 
+  1 Yondon, Odbayar        LMAEK97T  1630  1697/140  W9  W3  W10 D5  W6  D8  W7  L4  D2  6.5
+  2 Eksarevskiy, Albert    WPPI530Y  1670  1720/ 69  W5  L6  W8  W7  D4  U   W9  W3  D1  6.0
+  3 Wong-godfrey, Emerson  BUSJH83E  1708  1706/466  W10 L1  L5  D6  W8  W7  W4  L2  W9  5.5
+  4 Boulis, Christos       ETSJC84T  1680  1688/577  L6  W8  L7  W10 D2  W9  L3  W1  W5  5.5
+  5 Demberel, Amana        LCOKJ14E  1598  1613/ 86  L2  W9  W3  D1  U   D6  L8  W7  L4  4.0
+  6 Han, Shuyi             TYEGK47W  1634  1635/302  W4  W2  W9  D3  L1  D5  U   L8  L7  4.0
+  7 Kumar, Ramesh          ADUNF17C  1574  1581/ 20  L8  W10 W4  L2  W9  L3  L1  L5  W6  4.0
+  8 Razmov, Gabriel        ADDHC26K  1623  1614/277  W7  L4  L2  L9  L3  D1  W5  W6  U   3.5
+  9 Devaithya, Hiruna      ISSJ5494  1550  1492/703  L1  L5  L6  W8  L7  L4  L2  U   L3  1.0
+ 10 Seshadri, Sridhar      ADUNC121  1617  1556/ 70  L3  L7  L1  L4  U   U   U   U   U   0.0

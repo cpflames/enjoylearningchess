@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 tot 
+  1 Chenicheri, Naveen     MRPDK06P   576   762/ 12  W19 D5  W12 W13 W3  W4  D2  6.0
+  2 Pearce Ullrich, James  WLKDK10Q   653   797/ 16  W9  L4  W6  W16 W5  W12 D1  5.5
+  3 Xia, Jethro            BCSDK47R   606   692/ 22  W15 W8  W13 L5  L1  W9  W7  5.0
+  4 Shagas, Joshua         DCTCK87R   596   735/ 27  W10 W2  L5  W7  W9  L1  W6  5.0
+  5 Bhende, Shaurya        MMEDK24T   664   703/ 27  W17 D1  W4  W3  L2  L6  W12 4.5
+  6 Nagpal, Ronen          WMEDK13Q   636   657/ 17  W18 D12 L2  W17 W13 W5  L4  4.5
+  7 Bandai, Shogo          MCEAK19G   497   534/ 11  L13 W15 W19 L4  W11 W8  L3  4.0
+  8 Razmov, Siana          HZFAK93Y   495   539/ 56  W11 L3  L14 W15 W16 L7  W13 4.0
+  9 Soykal, Toprak         MMECK25R   469   554/ 22  L2  W11 W18 W14 L4  L3  W17 4.0
+ 10 Tummuru, Nirvan        FRWCK06N   342   405/ 11  L4  L17 BYE L12 W18 W15 W14 4.0
+ 11 Singhal, Aryash        SYCD595L   691   574/ 47  L8  L9  D15 W19 L7  BYE W18 3.5
+ 12 Wang, William          CNHCK05E   200   610/  7  W16 D6  L1  W10 W14 L2  L5  3.5
+ 13 Dai, Gordon            BCABK87Y   692   609/ 26  W7  W14 L3  L1  L6  WF  L8  3.0
+ 14 Wu, Jayden             UCDB495Q   583   507/ 40  WF  L13 W8  L9  L12 W17 L10 3.0
+ 15 Friedman, Eilon        REEAK07Y   362   312/ 10  L3  L7  D11 L8  BYE L10 W19 2.5
+ 16 Winter, Bowen          NBED948E   579   532/ 58  L12 W18 W17 L2  L8  LF  U   2.0
+ 17 Dai, Leonard           BCAAK88B   494   425/ 27  L5  W10 L16 L6  W19 L14 L9  2.0
+ 18 Wadhwani, Ren          ORACK13K   399   296/ 11  L6  L16 L9  BYE L10 W19 L11 2.0
+ 19 Mopidevi, Yuvankrish   RSHAK05D   100   100/  6  L1  BYE L7  L11 L17 L18 L15 1.0

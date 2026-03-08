@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Olson, Travis          ADUN8893  1829  1833/102  W2  W3  W4  3.0
+  2 Sivaramanand, Akshaj   RHJHK15C  1349  1328/  9  L1  D4  D3  1.0
+  3 Xu, Zoe                SOMDG70A  1287  1285/259  D4  L1  D2  1.0
+  4 Shah, Kanav            LMAE295Q  1234  1242/105  D3  D2  L1  1.0

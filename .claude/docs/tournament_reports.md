@@ -28,10 +28,10 @@ src/pages/TournamentFinder.tsx  (preview list of all reports)
 
 **File:** `scripts/fetcher.py`
 
-Runs daily via GitHub Actions (`.github/workflows/fetch-tournaments.yml`), or manually:
+Runs daily via GitHub Actions (`.github/workflows/fetch-tournaments.yml`) at 8am UTC, or triggered manually via `workflow_dispatch`. Can also be run locally:
 ```bash
 python fetcher.py          # incremental: stops when it hits a date already downloaded
-python fetcher.py --all    # full re-fetch, ignores existing files
+python fetcher.py --all    # bypasses date-based early stop; individual files that already exist are still skipped
 ```
 
 ### What it does
@@ -116,6 +116,8 @@ Three ways to load a report:
 
 All three paths end up calling `setResults(new TournamentResults(text))`.
 
+**Note on file loading:** fetched `.txt` files are processed through `DOMParser` as HTML and `doc.querySelector('pre')?.textContent` is attempted first. Since `.txt` files have no `<pre>` tag, this is always `null` and falls back to the raw response text. The `<pre>` extraction is vestigial from when reports were stored as HTML pages.
+
 ### URL state
 - Dropdown/arrow selection: sets `?savedReport=encodedFilename` via `history.pushState`
 - "Generate Permalink": encodes textarea content into `?ratingsReport=...`
@@ -130,7 +132,7 @@ Rendered from `results.getCommentary()`. Columns:
 | End Rating | `player.endRating` |
 | Change | `endRating - startRating` (green/red) |
 | Score | `player.totalScore` |
-| Rated Score | `player.ratedScore / ratedRounds` (excludes forfeits/byes) |
+| Rated Score | `player.ratedScore / ratedRounds` where `ratedRounds` = count of non-null opponents from `getOpponentRatings()` |
 | Opponents | Opponent start ratings (null shown as round code, e.g. BYE) |
 | Predicted Rating | `RatingsCalc.predictNewRating(...)` — links to `/ratings` |
 | Difference | `endRating - predictedRating` (green/red) |
@@ -212,10 +214,10 @@ Constructor takes raw report text and immediately parses it. All results are the
 Simple data class. Constructor parses string inputs into typed fields.
 
 Notable parsing:
-- `endRating`: splits `"1239/197"` on `/` and takes the first part
-- `numGames`: takes the second part of that same `"end/games"` field
-- `ratedScore` getter: excludes forfeit wins (`WF`, `XF`, etc.) — only counts `W`, `D`, `L` rounds
-- `ratedRounds` getter: counts only `W`, `D`, `L` rounds
+- `endRating`: `parseInt(end.split('/')[0])` — defensive split handle if passed in `"end/games"` form, but `parseLine` splits those fields apart already so `end` is already just the number
+- `numGames`: `parseInt(games.split('/')[1] || games)` — same defensive handling
+- `ratedScore` getter: excludes any round containing `'F'` (covers `WF`, `LF`, `XF`, `F{n}`); counts `W` → +1, `D` → +0.5, anything else → 0
+- `ratedRounds` getter: counts rounds starting with `W`, `D`, or `L` — **note:** this includes `WF` and `LF` since they start with `W`/`L`, making `ratedRounds` inconsistent with `ratedScore` for forfeit rounds
 
 ---
 

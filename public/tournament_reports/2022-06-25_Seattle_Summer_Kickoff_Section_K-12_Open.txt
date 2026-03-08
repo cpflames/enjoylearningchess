@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Kang, Ayaan            ENSEI60T  1518  1563/278  W8  W10 D2  W9  3.5
+  2 Meyerzon, Daniel       OMSIJ242  1563  1585/381  W7  W5  D1  D4  3.0
+  3 Bartminn, Jan Lorenz   ENDFH59K  1392  1462/127  W9  W4  HPB HPB 3.0
+  4 Kandhare, Ojas         INTKJ90T  1614  1595/ 91  W11 L3  W10 D2  2.5
+  5 Wirkkala, Zane         HSCIC64H  1379  1442/ 24  W6  L2  D9  W8  2.5
+  6 Yondon, Odbayar        LMADK97T  1619  1572/ 82  L5  W7  L8  W11 2.0
+  7 Cao, Sean              TPSEA33Q  1303  1325/ 38  L2  L6  W11 W10 2.0
+  8 Tie, Mike              ENDD856Y  1224  1250/ 32  L1  BYE W6  L5  2.0
+  9 Marcelais, Kai         WPPIA64J  1624  1575/140  L3  W11 D5  L1  1.5
+ 10 Rao, Deepak Sri KartikeARDF517J  1206  1179/106  BYE L1  L4  L7  1.0
+ 11 Yuodelis, Kenneth      TYEI3681  1362  1310/382  L4  L9  L7  L6  0.0

@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Moore, Jonah           WKEE348U   754   822/ 11  W4  D2  W6  2.5
+  2 Rafferty, Gloria       VSTHD95X   700   962/  3  W7  D1  W3  2.5
+  3 Fitzpatrick, Gabriel   VSTG169M   600   740/  3  W8  W6  L2  2.0
+  4 Parsons, Damien        VSTGC92H   600   715/  3  L1  W7  W5  2.0
+  5 Egland, Crosby         VSTG264S   429   400/  6  L6  W8  L4  1.0
+  6 Heggem, Zayden         HORGE11X   600   510/  3  W5  L3  L1  1.0
+  7 Fitzsimmons, Caden     BLNI526Y   800   414/  3  L2  L4  W8  1.0
+  8 Victorson, Emi         VSTHI59N   700   400/  3  L3  L5  L7  0.0

@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Laktyunkin, Philip     PPPCK08N   200   652/  2  W2  W3  BYE 3.0
+  2 Chang, Timothy         CBRCK44E   247   264/ 12  L1  BYE W3  2.0
+  3 Villeneuve, Raphael    NCSBK08M   100   100/  2  BYE L1  L2  1.0

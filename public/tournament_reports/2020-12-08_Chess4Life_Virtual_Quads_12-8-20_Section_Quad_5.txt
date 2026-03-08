@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yun, Daniel            TPSC768W   539   703/ 12  W2  W3  W4  3.0
+  2 Yadava, Ishansh        HSCFB75H   869   745/  5  L1  W4  W3  2.0
+  3 Gagnier, Madeleine     HSCA251F   400   474/  3  W4  L1  L2  1.0
+  4 Grigorenko, Yana       FRWBA39N   400   400/ 37  L3  L2  L1  0.0

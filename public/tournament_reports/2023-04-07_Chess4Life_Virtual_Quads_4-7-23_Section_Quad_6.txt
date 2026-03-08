@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Eric             BCAE803M  1060  1148/ 83  W3  W4  D2  2.5
+  2 Huang, Edwin           MEDF616M  1034  1136/ 50  W4  W3  D1  2.5
+  3 Taylor, Ryder          KAMJ385C  1093  1070/291  L1  L2  W4  1.0
+  4 Li, Harry              SSSDG30G  1125  1046/268  L2  L1  L3  0.0

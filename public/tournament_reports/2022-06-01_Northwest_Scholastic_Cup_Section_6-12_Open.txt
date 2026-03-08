@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Meiyalagan, Ruban Sai  WLDFD10L  1766  1757/200  W2  W4  D3  BYE W6  4.5
+  2 Juluri, Hasini         OMSH290Z  1042  1118/ 24  L1  W5  W4  W3  BYE 4.0
+  3 Devadithya, Hiruna     PFCI5494  1505  1482/668  W5  BYE D1  L2  W4  3.5
+  4 Anand, Arjun           REDJ8489   508   506/ 69  BYE L1  L2  WF  L3  2.0
+  5 Mittala, Ananya        TIMG339Z   622   618/ 20  L3  L2  BYE LF  U   1.0
+  6 Dai, Alex              CHRDC43N  1160  1158/ 67  U   U   U   U   L1  0.0

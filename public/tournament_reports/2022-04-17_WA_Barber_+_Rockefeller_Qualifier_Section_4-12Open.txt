@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kandhare, Ojas         INTKJ90T  1549  1614/ 87  W20 W16 W3  W5  W6  5.0
+  2 Ogier, Alix            TLMIC70T  1362  1398/  9  W23 W12 L5  W8  W9  4.0
+  3 Cen, Evan              TYEGI97D  1342  1375/ 86  W11 W18 L1  W12 W7  4.0
+  4 Pisan, Kai             CHYH404C  1693  1651/313  L8  W21 W23 D9  W13 3.5
+  5 Devadithya, Hiruna     PFCI5494  1487  1495/659  W21 W8  W2  L1  HPB 3.5
+  6 Preizler, Adrian       EMSID229  1552  1513/168  D9  D17 W11 W10 L1  3.0
+  7 Huang, Emily           MEDFB39A  1371  1329/213  W22 L10 W17 W18 L3  3.0
+  8 Fedorov, Vladimir      EVJHF17D  1116  1194/181  W4  L5  W19 L2  W18 3.0
+  9 Lu, Jacob              BLMGI11F  1099  1237/283  D6  W13 W10 D4  L2  3.0
+ 10 Kale, Atharv           EVJG496H  1031  1121/  9  WF  W7  L9  L6  W19 3.0
+ 11 Cao, Sean              TPSEA33Q   950  1097/ 14  L3  W20 L6  W22 W16 3.0
+ 12 Boulanger, Valentin    CMMEB07H   762  1002/ 10  W15 L2  W14 L3  W20 3.0
+ 13 Kancherla, Rohan       PFCGC11M  1172  1170/300  D17 L9  W20 W14 L4  2.5
+ 14 Khatib, Kenan          IMSGC566  1171  1105/223  L18 W22 L12 L13 W23 2.0
+ 15 Yu, Patrick            BOTK621D  1137  1025/ 10  L12 L23 L21 W17 W22 2.0
+ 16 Chintalapudi, Srihaan  CNCE662W  1121  1088/ 87  W19 L1  L18 W23 L11 2.0
+ 17 Parthasarathy, Adithya EBSFB74Z   943   994/ 27  D13 D6  L7  L15 W21 2.0
+ 18 Huttelmaier, Alex      CHRF218R   894   984/135  W14 L3  W16 L7  L8  2.0
+ 19 Nguyen, Alex           TBHL626C  1100   897/  4  L16 BYE L8  W21 L10 2.0
+ 20 Swaminath, Ankita      CNCE571R  1083  1012/ 59  L1  L11 L13 BYE L12 1.0
+ 21 Trochesset, David      ENSFG98F  1046  1002/ 48  L5  L4  W15 L19 L17 1.0
+ 22 Patil, Amogh           SMSHE84T   999   924/ 14  L7  L14 BYE L11 L15 1.0
+ 23 Wilcox, Daelen         MMIG748C   980   965/ 50  L2  W15 L4  L16 L14 1.0

@@ -1,0 +1,56 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kato, Erik             OMSIG89L  1503  1580/ 17  W37 W22 W27 W16 W7  5.0
+  2 Joshi, Atharva         SKNK1352  1631  1646/299  W45 W33 W8  D11 W12 4.5
+  3 Shi, Gavin             ADDIH855  1544  1539/338  W36 W10 L24 W33 W16 4.0
+  4 Cen, Evan              TYEHI97D  1529  1523/125  L24 W47 W49 W21 W11 4.0
+  5 Merriman, Dann         EREDF79Y  1476  1489/477  HPB W31 D19 W34 W24 4.0
+  6 Anandkumar, Haituka    STLI238P  1423  1435/332  W47 L11 W37 W25 W23 4.0
+  7 Malakapalli, Smaran    OVLI973C  1396  1456/ 97  W39 W30 W12 W24 L1  4.0
+  8 Kokati, Pranav         OMSH814P  1364  1428/212  W26 W51 L2  W22 W13 4.0
+  9 Chen, William          BLWG550N  1553  1525/ 39  W35 W34 L11 D23 W27 3.5
+ 10 Durbhakula, Lalith     TMBJ332Z  1240  1270/103  W48 L3  D43 W41 W28 3.5
+ 11 Sharma, Devansh        KMNIF88S  1230  1374/135  W53 W6  W9  D2  L4  3.5
+ 12 Cha, Samuel            BASFK18Z  1602  1576/192  W49 W20 L7  W28 L2  3.0
+ 13 Frederick, Benjamin    LAUFS57X  1585  1546/189  W46 W21 L16 W19 L8  3.0
+ 14 Rastogi, Atharv        APOF377H  1458  1410/ 80  L25 W40 D36 D43 W30 3.0
+ 15 Fedorov, Vladimir      EVJIF17D  1393  1358/209  W40 L24 L25 W42 W35 3.0
+ 16 Subramanian, Thrinay   SPTH466R  1351  1380/ 95  W54 W25 W13 L1  L3  3.0
+ 17 Tie, Mike              ENDE856Y  1330  1301/ 48  W42 D41 L23 D36 W37 3.0
+ 18 Avula, Varshith Reddy  BRHG110R  1325  1283/176  L30 W39 W38 L27 W40 3.0
+ 19 Soukal, Martin         HSCJE76L  1314  1328/ 51  D43 W44 D5  L13 W36 3.0
+ 20 Shi, Matthew Yufan     ISSK910Q  1300  1286/164  WF  L12 D30 D26 W38 3.0
+ 21 Lu, Jacob              BLMHI11F  1262  1270/290  W55 L13 W42 L4  W39 3.0
+ 22 Shankaranand, Deeksha  EBSEI74Y  1231  1237/185  W52 L1  W53 L8  W43 3.0
+ 23 Singh, Anay            CDWEA69Y  1165  1317/ 18  W32 D28 W17 D9  L6  3.0
+ 24 Khatib, Kenan          IMSHC566  1119  1304/233  W4  W15 W3  L7  L5  3.0
+ 25 Kedarisetty, Ishan     RCSF300B  1076  1240/123  W14 L16 W15 L6  W33 3.0
+ 26 Cheng, Alan            CHREJ71K  1020  1173/ 49  L8  D29 W44 D20 W34 3.0
+ 27 Arunkumar, Ashwath     RSAEH07X   903  1036/ 76  WF  W45 L1  W18 L9  3.0
+ 28 Demberel, Amana        LCOKJ14E  1436  1398/ 49  W38 D23 W41 L12 L10 2.5
+ 29 Rubaiyat, Rhadean      ICSHD40L  1235  1220/ 98  L51 D26 W32 L30 W44 2.5
+ 30 Bieniosek, Kieran      EVGI712Z   990  1133/ 40  W18 L7  D20 W29 L14 2.5
+ 31 Syal, Yash             SHSEC10R   930  1016/ 67  D44 L5  L45 W54 W49 2.5
+ 32 Gijare, Sayali         NRCKE100  1633  1543/559  L23 D43 L29 W50 D41 2.0
+ 33 Chu, Joshua            EASEC73V  1289  1222/ 10  W50 L2  W51 L3  L25 2.0
+ 34 Xu, Zoe                SOMDG70A  1253  1206/188  WF  L9  WF  L5  L26 2.0
+ 35 Gagnier, Ian           HSCEC72H  1153  1122/123  L9  L53 W54 W48 L15 2.0
+ 36 Chowdhary, Shivam      EVJGD47H  1144  1162/ 63  L3  W50 D14 D17 L19 2.0
+ 37 Han, Victor            HSCEB39P  1106  1100/ 81  L1  W55 L6  W51 L17 2.0
+ 38 Lee, Justin            CNLG732V  1053  1065/ 10  L28 W48 L18 W53 L20 2.0
+ 39 Vutukuri, Niharika     REJGB12L  1034  1055/ 42  L7  L18 W55 W49 L21 2.0
+ 40 Anand, Lakshana        RSAEC68H  1021  1051/ 39  L15 L14 W46 W45 L18 2.0
+ 41 Kulkarni, Anika        REEEK21E  1000  1027/ 81  WF  D17 L28 L10 D32 2.0
+ 42 Bansal, Aarini         SOMEK14R   996  1005/143  L17 W46 L21 L15 WF  2.0
+ 43 Radke, Alex            IMSH1113   977  1084/158  D19 D32 D10 D14 L22 2.0
+ 44 Bharadwaj, Anish       WPPII530  1267  1196/277  D31 L19 L26 W47 L29 1.5
+ 45 Duseja, Ronit          SNEFA38H  1069  1030/127  L2  L27 W31 L40 D48 1.5
+ 46 Joshi, Arnav           PLKHJ24W  1153  1080/145  L13 L42 L40 D55 W51 1.5
+ 47 Joshi, Vyom            LEOHH81X  1064  1044/ 65  L6  L4  D50 L44 W55 1.5
+ 48 Shah, Agam             DISF263J   905   880/197  L10 L38 BYE L35 D45 1.5
+ 49 Narayan, Bhargav       EVJHD962  1197  1134/171  L12 W54 L4  L39 L31 1.0
+ 50 Zhang, Kyrene          LKDEC84Y   951   936/166  L33 L36 D47 L32 D54 1.0
+ 51 Khante, Rishi          LEOIK674   722   761/ 23  W29 L8  L33 L37 L46 1.0
+ 52 Young, Tom             GARKE169   722   718/ 16  L22 BYE LF  U   U   1.0
+ 53 Figatner, Jonathan     LKDE165L   400   998/  4  L11 W35 L22 L38 LF  1.0
+ 54 Gande, Akshath         WPPGG23R  1018   952/ 55  L16 L49 L35 L31 D50 0.5
+ 55 Jayadevan, Neel        SCDF230P   930   888/ 75  L21 L37 L39 D46 L47 0.5

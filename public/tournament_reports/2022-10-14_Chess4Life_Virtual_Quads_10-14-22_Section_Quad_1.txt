@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pisan, Kai             CHYJ404C  1786  1786/405  W4  D3  W2  2.5
+  2 Ren, Aaron             HSCDG67B  1534  1559/ 97  W3  W4  L1  2.0
+  3 Upreti, Parthavi       TBKG754L  1478  1496/143  L2  D1  W4  1.5
+  4 Kang, Jinue            OMSH2661  1496  1452/255  L1  L2  L3  0.0

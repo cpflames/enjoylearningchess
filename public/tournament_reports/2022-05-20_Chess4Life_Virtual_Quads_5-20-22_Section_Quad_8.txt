@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ginotra, Karman        RKWDB15D   793   952/ 18  W3  W2  W4  3.0
+  2 Naenna, Patanin        SPLDQ28H   882   845/124  L4  L1  W3  1.0
+  3 Sembium, Aditi         BCABK25W   836   812/ 86  L1  W4  L2  1.0
+  4 He, Oliver             CRIBK71V   792   781/ 71  W2  L3  L1  1.0

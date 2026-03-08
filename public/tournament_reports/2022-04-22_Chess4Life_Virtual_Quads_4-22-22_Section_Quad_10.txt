@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Guzman, Nate           TPSD939A   791   820/ 96  W4  D3  D2  2.0
+  2 Garg, Vihaan           CCDBJ10X   825   816/ 53  L3  W4  D1  1.5
+  3 Nakashima, Jaden       LAVFC80B   770   778/ 62  W2  D1  L4  1.5
+  4 Sembium, Aditi         BCABK25W   789   763/ 72  L1  L2  W3  1.0

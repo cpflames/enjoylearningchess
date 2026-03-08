@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Vijayakumar, Advaith   LEOJ6655  2122  2160/280  W6  W3  W8  W7  D5  4.5
+  2 Liu, Austin            PLKH530J  2052  2078/304  W8  W7  D5  L6  W3  3.5
+  3 Sinanan, Joshua Ch     ADUN3546  2259  2246/  5  W9  L1  W10 W4  L2  3.0
+  4 Liang, Yu-cheng        SKRI1687  2132  2124/174  D7  D5  D6  L3  W8  2.5
+  5 Anand, Vignesh         REDMJ919  2048  2048/458  D10 D4  D2  D9  D1  2.5
+  6 Colombo, Dominic M     GIGKJ74P  1919  1941/ 23  L1  W10 D4  W2  L9  2.5
+  7 Kurungod Anoop, Pranav INTKK760  2104  2086/223  D4  L2  D9  L1  W10 2.0
+  8 Gottumukkala, Ananth   ADUNG432  2082  2067/315  L2  W9  L1  W10 L4  2.0
+  9 Min, Ryan              OMSH5430  1975  1979/364  L3  L8  D7  D5  W6  2.0
+ 10 Wang, Ted              MEDCK13D  1924  1897/205  D5  L6  L3  L8  L7  0.5

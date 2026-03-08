@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xu, Zoe                SOMDG70A  1288  1315/265  W4  D2  W3  2.5
+  2 Shah, Kanav            LMAE295Q  1242  1289/108  W3  D1  W4  2.5
+  3 Trochesset, David      ENSGG98F  1040  1058/ 57  L2  W4  L1  1.0
+  4 Evin, Terrick          EBSBC54L  1268  1189/109  L1  L3  L2  0.0

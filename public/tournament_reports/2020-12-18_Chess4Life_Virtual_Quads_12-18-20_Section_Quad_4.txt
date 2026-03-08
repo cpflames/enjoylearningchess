@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kamel, Yaseen          PFCID57L  1298  1350/ 38  D4  W3  W2  2.5
+  2 Merriman, Dann         WMNBF79Y  1292  1313/336  W3  W4  L1  2.0
+  3 Zhou, Yuchen           BCABJ42H  1278  1258/223  L2  L1  W4  1.0
+  4 Yuen, Owen             KSHFA16Z  1263  1224/225  D1  L2  L3  0.5

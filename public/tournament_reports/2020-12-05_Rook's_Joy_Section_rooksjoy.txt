@@ -1,0 +1,30 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wannamaker, Linus      IDXFY45B  1392  1483/ 33  W24 W17 W3  W7  W2  5.0
+  2 Barrett, Ben           PVEHH008  1216  1311/212  W27 W10 W5  W4  L1  4.0
+  3 Overstreet, Connie MackLBYF806J  1297  1322/ 58  W19 W15 L1  W12 W11 4.0
+  4 Mortensen, Lucas       LBYH730U  1147  1302/ 88  W26 W8  W6  L2  W7  4.0
+  5 Reddy, Eshan           SGSF336Y  1373  1386/216  W18 W13 L2  W17 W9  4.0
+  6 Carper, Jack           LINHG86W  1382  1353/ 87  W25 W12 L4  D15 W16 3.5
+  7 Wang, Zihan            PPAGH97Y  1405  1389/200  W21 W14 W9  L1  L4  3.0
+  8 Knapton, Cole          HLHII201  1432  1386/242  W14 L4  W10 L11 W15 3.0
+  9 Ambalavanan, Varun     LBYJK347  1465  1429/335  W20 W11 L7  W13 L5  3.0
+ 10 Brody, Noah            LBYK6912  1020  1033/ 97  W22 L2  L8  W24 W18 3.0
+ 11 Smith, Alistair        SOREY74M  1155  1175/ 89  BYE L9  W19 W8  L3  3.0
+ 12 Schoenberger, Joshua   SJVHJ73R  1122  1113/224  W29 L6  W18 L3  W19 3.0
+ 13 Brown, Malia           FRRK1512  1085  1079/308  W28 L5  W23 L9  W21 3.0
+ 14 Natesan, Arjun         LBYG878H   949   989/ 24  L8  L7  W27 W28 W17 3.0
+ 15 Bai, Kelin             PVECD75J  1078  1088/ 88  W23 L3  W20 D6  L8  2.5
+ 16 Mortensen, Liam        SWEF768V   651   749/ 28  L17 D24 W26 W20 L6  2.5
+ 17 Jones, Gideon          FIVE543G  1151  1111/ 57  W16 L1  W22 L5  L14 2.0
+ 18 Knapton, Joshua        HLHGH807   765   778/215  L5  W28 L12 W22 L10 2.0
+ 19 Lane, Brantley         FARC255D   769   771/ 53  L3  W29 L11 W23 L12 2.0
+ 20 Keener, Karl           OKSFY40G   869   857/ 18  L9  W21 L15 L16 W24 2.0
+ 21 Malde, Parker          MULD146W   634   678/ 49  L7  L20 W29 W25 L13 2.0
+ 22 Koh, Leroy             PVEF265U   500   709/  5  L10 W27 L17 L18 W28 2.0
+ 23 Hopson, Jared          VLCCI39U   432   454/ 45  L15 BYE L13 L19 W29 2.0
+ 24 Malde, Jake            MULFB22V   806   794/ 64  L1  D16 W25 L10 L20 1.5
+ 25 Overstreet, Sadie      HUTHD38V   903   815/ 29  L6  D26 L24 L21 W27 1.5
+ 26 Nellenbach, Axel       SSPH603B   528   510/ 68  L4  D25 L16 L27 BYE 1.5
+ 27 Wang, Kelby            PVEA796Y   608   589/ 26  L2  L22 L14 W26 L25 1.0
+ 28 Mcgivern, Johnny       HUTC804V   479   452/ 31  L13 L18 BYE L14 L22 1.0
+ 29 Kaczmark, Seth         HUTE907F   516   450/ 76  L12 L19 L21 BYE L23 1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Stein, Elizabeth       HSCJ318X  1314  1429/ 92  W4  W2  W3  3.0
+  2 Sangal Lopez, Dev      WOBE515J  1293  1337/117  W3  L1  W4  2.0
+  3 Gijare, Sayali         SKWIE100  1337  1298/508  L2  D4  L1  0.5
+  4 Zhou, Yuchen           BCABJ42H  1407  1354/211  L1  D3  L2  0.5

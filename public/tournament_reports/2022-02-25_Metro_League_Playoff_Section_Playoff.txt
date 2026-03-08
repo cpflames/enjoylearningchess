@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Li, Melina             INMJ5705  1736  1741/215  W6  1.0
+  2 Gilbert, Christopher   INMM2539  1334  1292/ 44  L7  0.0
+  3 Certain, Malcolm       INMM5811   916   942/ 48  D8  0.5
+  4 Engdahl, Kaysa         INMMF56C   750   867/  5  W9  1.0
+  5 Edwards, Zach          INMKC16L   703   489/  5  L10 0.0
+  6 Menon, Raphael         LCOLJ909  1437  1430/400  L1  0.0
+  7 Lubetkin, Zack         LCOLC01B   976  1078/  7  W2  1.0
+  8 Demberel, Amana        LCOJJ14E  1308  1287/ 25  D3  0.5
+  9 Love, Murrow           LCOK2596   985   943/254  L4  0.0
+ 10 Rivera, Maddie         LCOL729X   853   853/  7  W5  1.0

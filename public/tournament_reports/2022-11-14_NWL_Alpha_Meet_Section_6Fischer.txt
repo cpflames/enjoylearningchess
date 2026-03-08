@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chiapellone, Teo       SHMLG88R   622   772/ 71  W8  W3  W7  3.0
+  2 Chiu, Yi Jun           SHML347E  1100  1088/  3  W9  W7  W4  3.0
+  3 Red Elk, Ali-lawet     FERM986S   598   653/ 40  W5  L1  W9  2.0
+  4 Pounder, Jacob         MRDKG96X   551   650/ 15  W6  W9  L2  2.0
+  5 Allworth, Brayden      HORIA86Y   800   567/  3  L3  W10 D6  1.5
+  6 Plyuschakov, Max       BLHK532H  1000   594/  3  L4  W8  D5  1.5
+  7 Gamble, Lydia          BLHLI96B   642   632/  8  W10 L2  L1  1.0
+  8 Porter, Toby           BLNIE53Z   480   473/  6  L1  L6  W10 1.0
+  9 Manookin, Harold       MRDK927A   597   540/ 12  L2  L4  L3  0.0
+ 10 Qureshi, Danish        BLEFF36V   526   438/ 32  L7  L5  L8  0.0

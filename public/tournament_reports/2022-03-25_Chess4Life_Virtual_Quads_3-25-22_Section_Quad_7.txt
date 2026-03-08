@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Naik, Atreya           KMDIJ43X   882  1024/ 15  W4  W3  W2  3.0
+  2 Sreraman, Rohit        BCABG92Q   902   935/ 17  W3  W4  L1  2.0
+  3 Zhang, Ethan Yichen    CRIEG57B   920   893/227  L2  L1  W4  1.0
+  4 Chaudhuri, Arihant     CHAC703E   889   817/ 59  L1  L2  L3  0.0

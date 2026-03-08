@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ivanovic, Mina         UCDCH40V  1112  1249/275  W4  W2  W3  3.0
+  2 Bharathy Mohan, Aarav  FRWCC98B  1177  1198/ 98  W3  L1  W4  2.0
+  3 Zhang, Aaron           CCDD873R  1217  1182/213  L2  W4  L1  1.0
+  4 Nayak, Akshat          DCSG459S  1092  1039/165  L1  L3  L2  0.0

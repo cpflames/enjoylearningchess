@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Godse, Gaurav          EVJH290Q   944  1107/ 33  W3  W2  W4  3.0
+  2 Yin, Daniel            ISMK116Y  1163  1130/150  D4  L1  W3  1.5
+  3 Ivanovic, Lena         UCDBK55K   968   958/240  L1  W4  L2  1.0
+  4 Yun, Daniel D          BCABK87Z   944   915/ 70  D2  L3  L1  0.5

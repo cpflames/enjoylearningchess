@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 tot 
+  1 Bian, Erin             LMSGI91Y  1893  1957/168  W8  W5  D2  L4  W7  W6  L3  U   W9  5.5
+  2 Vemparala, Nikash      OVLGI078  1935  1974/374  W4  W7  D1  D3  U   U   W8  L5  W6  5.0
+  3 Kona, Vidip            RSADI26J  1939  1952/252  U   W8  L5  D2  L4  W7  W1  L6  W10 4.5
+  4 Lu, Yiding             NPTF865Z  1931  1959/219  L2  D6  W7  W1  W3  U   U   W8  L5  4.5
+  5 Frantz, Joseph         ADUN596S  1921  1959/ 15  L7  L1  W3  U   U   W8  L6  W2  W4  4.0
+  6 Anand, Vignesh         REDMJ919  2080  2042/453  U   D4  U   L7  D8  L1  W5  W3  L2  3.0
+  7 Kuhner, Mary           ADUND44Q  1897  1875/ 38  W5  L2  L4  W6  L1  L3  U   U   L8  2.0
+  8 Ackerman, Ryan         ADUNC514  1918  1879/199  L1  L3  U   U   D6  L5  L2  L4  W7  1.5
+  9 Hosford, Michael J     ADUNF263  1985  1970/152  U   U   U   U   U   U   U   U   L1  0.0
+ 10 Qian, Daniel           PFCK7807  1936  1922/288  U   U   U   U   U   U   U   U   L3  0.0

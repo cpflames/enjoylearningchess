@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ying, Yiheng           MEDDE78K  1377  1436/252  W2  D3  W4  2.5
+  2 Purohit, Yuti          BCWGC435  1392  1391/255  L1  W4  D3  1.5
+  3 Han, Matthew           BISH5262  1384  1364/264  L4  D1  D2  1.0
+  4 Xie, Max               BLWGI185  1383  1364/283  W3  L2  L1  1.0

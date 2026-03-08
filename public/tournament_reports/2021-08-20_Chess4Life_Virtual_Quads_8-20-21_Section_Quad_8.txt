@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Stake, Charles         OESBM87Q   918  1015/ 41  W4  W3  W2  3.0
+  2 Wang, Ares             BMNCJ77J   925   936/108  W3  W4  L1  2.0
+  3 Rao, Deepak Sri KarthikXXXE517J   821   806/ 36  L2  L1  W4  1.0
+  4 Dai, Alex              CHRCC43N   874   703/  6  L1  L2  L3  0.0

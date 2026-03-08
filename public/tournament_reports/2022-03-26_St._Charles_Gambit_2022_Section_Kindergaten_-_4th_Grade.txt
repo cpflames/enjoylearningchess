@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Sankar, Sneha          CNCE372B   971  1007/219  W4  W2  W3  W6  W5  5.0
+  2 Casino, Eli            STCDI15Q   629   710/ 18  BYE L1  W7  W3  W4  4.0
+  3 Slobodyanik, Nikita    TACEF34C   400   640/  4  W7  W5  L1  L2  BYE 3.0
+  4 Craig, Jaxson          CPRCF79D   400   579/  5  L1  W6  W5  D7  L2  2.5
+  5 Carrell, Samuel        STCE150C   685   608/ 13  W6  L3  L4  BYE L1  2.0
+  6 Smith, Erik            CWABF79T   400   400/  4  L5  L4  BYE L1  W7  2.0
+  7 Twombly-borst, Henry   CWABA01R   400   400/  4  L3  BYE L2  D4  L6  1.5

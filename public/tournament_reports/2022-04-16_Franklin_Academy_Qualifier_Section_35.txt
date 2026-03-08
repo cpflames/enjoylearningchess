@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Melius, Mason          FACEF58R   927   995/ 17  W11 W2  W3  W4  W5  5.0
+  2 Boulos, Andrew         FACE217Z   642   784/ 46  W6  L1  W4  W9  W3  4.0
+  3 Latham, Garrett        EAGDH23C   799   784/ 43  W9  W5  L1  W10 L2  3.0
+  4 Larcom, Korbin         CIADJ87V   677   689/ 23  W7  W10 L2  L1  W9  3.0
+  5 Van Ness, Gavin        FACFI77T   532   541/ 28  BYE L3  W8  W11 L1  3.0
+  6 Pitsch, Riley          CEEDG63U   400   400/  4  L2  W11 L10 D7  BYE 2.5
+  7 Boulos, Chris          FACE362P   400   400/  4  L4  BYE L9  D6  W10 2.5
+  8 Chopra, Siya           SKYD153N   509   423/ 18  L10 L9  L5  BYE W11 2.0
+  9 Crompton, Callum       FACDE89B   400   533/  5  L3  W8  W7  L2  L4  2.0
+ 10 Boulos, Rene           FACFC70H   500   439/  5  W8  L4  W6  L3  L7  2.0
+ 11 Hall, Ryleigh          FACD278B   400   400/  4  L1  L6  BYE L5  L8  1.0

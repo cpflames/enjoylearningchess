@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Manderson, Isaiah      LYCIJ15C   527   700/  6  W4  W2  W3  3.0
+  2 Fine-gucker, Logan     EAGC535R   544   551/ 21  W5  L1  W4  2.0
+  3 Manookin, Adam         HSCCF67L   415   430/ 24  W6  W5  L1  2.0
+  4 Manookin, Jared        HSCCD11V   405   400/ 23  L1  W6  L2  1.0
+  5 Hall, Ryleigh          FACD278B   400   400/  9  L2  L3  D6  0.5
+  6 Manderson, Reuben      LYCC321E   400   400/  5  L3  L4  D5  0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Prashant, Niranjan     SNIF468K  1425  1464/ 97  W3  W4  W2  3.0
+  2 Li, Austin A           PLKG438B  1435  1427/120  W4  W3  L1  2.0
+  3 Han, Victor            HSCEB39P  1179  1176/111  L1  L2  W4  1.0
+  4 Bikkula, Charan        BLMGJ23A  1048  1021/141  L2  L1  L3  0.0

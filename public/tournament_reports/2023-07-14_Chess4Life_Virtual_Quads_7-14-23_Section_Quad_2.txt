@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Cheng, Alan            CHREJ71K  1377  1383/107  L3  W4  W2  2.0
+  2 Kunisetty, Chekresh    XXXEK99L  1315  1336/ 30  W4  W3  L1  2.0
+  3 Bimod, Karthik         SLLGW89E  1236  1289/ 27  W1  L2  W4  2.0
+  4 Chatterjee, Sasmit     RHJHH23M  1300  1237/ 67  L2  L1  L3  0.0

@@ -1,0 +1,32 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 He, Anthony            INGK9717  2439  2440/298  W22 W5  W4  W3  WF  5.0
+  2 Colombo, Dominic M     GIGJJ74P  1836  1877/ 13  W29 W9  WF  W22 W7  5.0
+  3 Kurungod Anoop, Pranav INTJK760  1978  1987/180  W16 W15 W13 L1  W8  4.0
+  4 Chang, Eddie           INTJ6270  1949  1955/146  W11 W19 L1  W14 WF  4.0
+  5 Szeto, Sophie          LSSJH023  1788  1811/304  W27 L1  HPB W13 W18 3.5
+  6 Shubin, Daniel         EPSKF498  2143  2138/461  D20 W7  W18 HPB HPB 3.5
+  7 Pendharkar, Gaurang    INTK302L  1755  1761/ 36  W30 L6  W27 W11 L2  3.0
+  8 Pothukuchi, Revanth    NRCMB379  1680  1679/292  L13 W24 W23 W10 L3  3.0
+  9 Shapiro, Michael       EALK8875  1754  1737/300  W14 L2  L10 W30 W23 3.0
+ 10 Dennis, Johnathon      SHMM183H  1483  1583/224  L18 W21 W9  L8  W20 3.0
+ 11 Rajesh, Anirudh        INLJB273  1551  1610/249  L4  W30 W31 L7  W19 3.0
+ 12 Luo, Ethan             NPRK6190  1685  1650/207  L19 WF  W29 L23 W25 3.0
+ 13 Anandam, Akash         SPRJ141D  1320  1460/ 25  W8  W31 L3  L5  D21 2.5
+ 14 Hou, Kennard           HHSK1917  1449  1522/170  L9  W29 W15 L4  D16 2.5
+ 15 Bunch, Drew            BAIKG36D  1724  1698/ 89  W23 L3  L14 D19 W27 2.5
+ 16 Van, Ocean             CWHMK699  1588  1574/200  L3  L27 W25 W26 D14 2.5
+ 17 Velea, Anne-marie      EPSKK892  2103  2095/314  W21 D18 WF  U   U   2.5
+ 18 Joshi, Saumitra        OMSJ8900  1764  1763/222  W10 D17 L6  D20 L5  2.0
+ 19 King, George E         GARL1724  1431  1484/ 45  W12 L4  D20 D15 L11 2.0
+ 20 Lakshminarayanan, RishiLSSJD542  1671  1675/138  D6  D28 D19 D18 L10 2.0
+ 21 Devadithya, Lavindu    ISSLK234  1597  1581/568  L17 L10 W24 D27 D13 2.0
+ 22 Singh, Aditya          LSSL8559  1689  1689/460  L1  W25 W26 L2  U   2.0
+ 23 Deng, Grace            HHSK1468  1438  1447/230  L15 BYE L8  W12 L9  2.0
+ 24 Cobden, Graham         GARKK495  1544  1540/390  L31 L8  L21 W29 W30 2.0
+ 25 Ramzi, Rayn            SKNJ5557  1536  1493/361  WF  L22 L16 BYE L12 2.0
+ 26 Carman, Leif           RICKB289   960   955/188  BYE WF  L22 L16 L29 2.0
+ 27 Karukayil, Johan       TSTJ8041  1496  1501/540  L5  W16 L7  D21 L15 1.5
+ 28 Deshpande, Aaryan      INTLF757  2134  2124/450  WF  D20 U   U   U   1.5
+ 29 Doncaster, Cannon      RICLF79H  1580  1523/ 48  L2  L14 L12 L24 W26 1.0
+ 30 Parashar, Parth        LWAJ7035  1479  1437/362  L7  L11 BYE L9  L24 1.0
+ 31 Lee, Brian             WFWMA904  1898  1851/224  W24 L13 L11 U   U   1.0

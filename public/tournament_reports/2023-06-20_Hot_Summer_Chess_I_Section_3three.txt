@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Daniel          HCRI589K   608   751/ 15  W5  W2  W4  3.0
+  2 Larcom, Korbin         CIAEJ87V   683   699/ 56  W3  L1  W5  2.0
+  3 Singh, Arshaan         HORIK22R   579   617/  7  L2  W4  W6  2.0
+  4 Mcloughlin, Vaughn     CUEEK36N   596   563/ 18  W6  L3  L1  1.0
+  5 Mcfarlane, Luke        SKYFK36Q   457   463/  8  L1  W6  L2  1.0
+  6 Delong, Sophia         BLNIK03A   451   374/ 12  L4  L5  L3  0.0

@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Edwin, Elijah          BCSBC24D   991  1044/ 30  W12 W13 D2  W8  W4  4.5
+  2 Anand, Lakshana        RSADC68H  1054  1063/ 24  W9  W5  D1  D4  W7  4.0
+  3 Pai, Vihaan            STVCK17C  1084  1042/ 91  W11 D8  L4  W13 W9  3.5
+  4 Lan, Jonathan          OPWB968F   888   973/ 49  W7  W6  W3  D2  L1  3.5
+  5 Mishra, Aakash         EBSC439K   794   793/ 44  W14 L2  W12 L7  W8  3.0
+  6 Dasigi, Abhinav        RSADK53E   712   721/ 25  W16 L4  L7  W11 W12 3.0
+  7 Ramkumar, Aditya       UNKBC38J   493   685/ 36  L4  W16 W6  W5  L2  3.0
+  8 Wang, Evan             FRWB929Z   756   764/ 25  W15 D3  W10 L1  L5  2.5
+  9 Vivek, Sahaan          BRHA672Y   574   601/ 15  L2  W14 D13 W10 L3  2.5
+ 10 Edwin, Joanna          BCSEI75V   400   599/  4  HPB W11 L8  L9  W13 2.5
+ 11 Shaikot, Sabeer        ENSD147Q   678   637/113  L3  L10 W15 L6  W14 2.0
+ 12 Maibaum, Amelie        CSIE703F   526   557/ 10  L1  W15 L5  W16 L6  2.0
+ 13 Maibaum, Bryce         CSIB124D   400   400/  9  BYE L1  D9  L3  L10 1.5
+ 14 Zhen, Liam             ISEA622V   456   414/ 33  L5  L9  D16 D15 L11 1.0
+ 15 Dhole, Arjun           DISB752D   526   455/ 14  L8  L12 L11 D14 D16 1.0
+ 16 Zhang, Jacquelyn       CHABB01Y   553   445/ 10  L6  L7  D14 L12 D15 1.0

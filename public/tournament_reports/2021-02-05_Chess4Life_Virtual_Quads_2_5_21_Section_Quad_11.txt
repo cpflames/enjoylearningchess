@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhao, Dennis           CGRE525E   987  1020/112  L2  W3  W4  2.0
+  2 Zhu, Kevin             CSMB865U  1010  1009/156  W1  L4  D3  1.5
+  3 Kan, Kaleb             MMECF53E   901   934/110  W4  L1  D2  1.5
+  4 Khatib, Kenan          LKDFC566  1111  1059/181  L3  W2  L1  1.0

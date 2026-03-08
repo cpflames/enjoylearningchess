@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Olson, Travis          ADUN8893  1836  1837/ 90  W4  W3  W2  3.0
+  2 Bhaskara, Yash         ICSII539  1150  1159/254  D3  W4  L1  1.5
+  3 Yun, Daniel D          BCABK87Z  1136  1137/262  D2  L1  BYE 1.5
+  4 Jang, Jinwon           VIEF561P   946   932/ 41  L1  L2  U   0.0

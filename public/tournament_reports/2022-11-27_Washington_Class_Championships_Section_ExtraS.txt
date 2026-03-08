@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Subramanian, Thrinay   SPTH466R  1367  1411/101  W4  1.0
+  2 Breslauer, Arlo        ADUN193A  1628  1641/ 16  W3  1.0
+  3 Mishra, Abhinav        TMBHB02W  1460  1448/ 66  L2  0.0
+  4 Buck, Stephen J        ADUN8800  1736  1704/ 24  L1  0.0

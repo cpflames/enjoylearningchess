@@ -1,0 +1,37 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zhao, George           CRKBA26L   988  1095/140  W17 W19 W11 W3  D2  4.5
+  2 Yun, Ted               SOMEF52H  1031  1091/ 46  W24 W7  W18 W12 D1  4.5
+  3 Veiga, Gabriel         ENSEJ31Y   800  1014/ 36  W14 W4  W6  L1  W13 4.0
+  4 Vaiti, Anushka Eva     SCDD701T  1034  1047/ 75  WF  L3  W17 W10 W12 4.0
+  5 Guduru, Agasthya       EMDC500V   979   991/ 20  W26 L10 W24 W18 W22 4.0
+  6 Ramkumar, Siddharth    LMAEH50B   924   942/128  W27 W15 L3  D7  W10 3.5
+  7 Kedarisetty, Ishan     GRRD300B   751   816/ 66  W34 L2  W31 D6  W20 3.5
+  8 Phillips-acheson, SebasWOBE817T   956   938/111  L10 W26 D23 W25 W19 3.5
+  9 Lew, Parker            CGRD122D   400   879/  4  L11 WF  D19 W23 W21 3.5
+ 10 Burtram, Dayton        CRIFG77M   653   864/197  W8  W5  W13 L4  L6  3.0
+ 11 Singh, Jiyan           UNKDD12J   831   890/ 16  W9  W36 L1  L13 W30 3.0
+ 12 Mitra, Rahul           OPWFH53N   927   925/102  W23 W32 W20 L2  L4  3.0
+ 13 Vangala, Advaith       BLWF174X   923   911/283  W29 W33 L10 W11 L3  3.0
+ 14 Wu, Benjamin           BLWE661K   400   864/  5  L3  L17 W27 W15 W25 3.0
+ 15 Pandey, Aryan          CRIEA09X   669   783/ 20  W16 L6  W22 L14 W32 3.0
+ 16 Shah, Agam             DISD263J   979   923/160  L15 W27 W32 L22 W28 3.0
+ 17 Davenport, Raymond     SOMDD41L   713   766/ 20  L1  W14 L4  W32 D18 2.5
+ 18 Menon, Purvi           XXXCK46Z   902   839/ 10  W28 W31 L2  L5  D17 2.5
+ 19 Tian, Grace            CRIDE89L   725   741/ 77  WF  L1  D9  W24 L8  2.5
+ 20 Chowdhury, Vihaan      HSCC451K   805   789/ 13  WF  W22 L12 D21 L7  2.5
+ 21 Zhang, Yan             SOMEC58Q   906   842/ 56  L33 W29 W30 D20 L9  2.5
+ 22 Mettler, Ronan         FCEEI34M   868   826/ 87  W30 L20 L15 W16 L5  2.0
+ 23 Shenoy, Vaishnavi      NPEFQ96H   613   660/ 17  L12 W35 D8  L9  D29 2.0
+ 24 Gupta, Shivam          BLWD474W   720   695/ 42  L2  W34 L5  L19 W31 2.0
+ 25 Kedarisetty, Shreyas   GRREH60G   726   716/ 61  L36 W28 W33 L8  L14 2.0
+ 26 Putt, Kale             OLLFJ69Y   702   671/ 34  L5  L8  W34 L28 W33 2.0
+ 27 Lu, Ian                CRICE83J   641   638/ 92  L6  L16 L14 BYE W35 2.0
+ 28 Deutscher, Kyra        HFLD916F   596   592/ 14  L18 L25 BYE W26 L16 2.0
+ 29 Liang, Wen             JINBF53X   624   621/  9  L13 L21 D35 W34 D23 2.0
+ 30 Narayan, Keshav        CMCCE45H   545   558/  9  L22 BYE L21 W33 L11 2.0
+ 31 Wolff, Maya            HKECB05R   400   426/  9  BYE L18 L7  D35 L24 1.5
+ 32 Yang, Haotang          MMEFG64T   550   554/ 45  W35 L12 L16 L17 L15 1.0
+ 33 Wolff, Tom             HKEAG70U   599   547/ 10  W21 L13 L25 L30 L26 1.0
+ 34 Maddock, Rhys          TOPD376M   400   400/  4  L7  L24 L26 L29 BYE 1.0
+ 35 Li, Timothy            CRIEE29R   869   710/ 66  L32 L23 D29 D31 L27 1.0
+ 36 Xu, Austin             SOMEH17F  1093  1055/ 46  W25 L11 U   U   U   1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Brodniak, Andy         TFECF36B   686   705/ 26  W2  W3  L4  2.0
+  2 Senthil, Sanvi         SPTFH12F   615   669/255  L1  W4  W3  2.0
+  3 Neff, Katrina          ABEB159Y   627   607/ 65  W4  L1  L2  1.0
+  4 Zur, Guy               RKWJ4717   671   637/ 28  L3  L2  W1  1.0

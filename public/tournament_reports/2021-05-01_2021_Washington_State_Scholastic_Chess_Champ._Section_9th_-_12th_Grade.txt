@@ -1,0 +1,33 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Pendharkar, Gaurang    INTK302L  1761  1775/ 40  WF  W4  W6  W11 D2  4.5
+  2 Peng, Brandon          LSSJA154  1819  1829/441  W28 W9  W10 W5  D1  4.5
+  3 Qian, Daniel           PFCJ7807  1913  1906/274  W12 L5  W23 W8  W7  4.0
+  4 Ornelas, Daniel        CWHKH732  1289  1393/202  W15 L1  W18 W13 W10 4.0
+  5 Nelson, Michael        LSSL9364  1488  1556/223  W22 W3  W21 L2  D6  3.5
+  6 Van, Ocean             CWHMK699  1543  1545/225  W17 W30 L1  W19 D5  3.5
+  7 Lakshminarayanan, RishiLSSJD542  1687  1698/151  W18 W19 D8  W20 L3  3.5
+  8 Szeto, Sophie          LSSJH023  1821  1809/317  W23 W21 D7  L3  W17 3.5
+  9 Christman, Vaughn      HSCKH43W  1429  1421/  9  WF  L2  W28 D17 W11 3.5
+ 10 Hou, Kennard           HHSK1917  1522  1501/175  W31 W29 L2  W12 L4  3.0
+ 11 Bage, Adwaya           AWAJ598F   885  1127/ 20  W26 W14 W20 L1  L9  3.0
+ 12 Johnson, Jack          CMYL491K  1206  1293/ 79  L3  W22 W14 L10 W19 3.0
+ 13 Gasca, Brian           CWHM268Y  1210  1214/127  L27 W31 W29 L4  W20 3.0
+ 14 Ramzi, Rayn            SKNJ5557  1474  1420/368  WF  L11 L12 W18 W23 3.0
+ 15 Deshpande, Krishna     BLLKC19Z   968  1077/  8  L4  L18 BYE W28 W26 3.0
+ 16 Patra, Amish           LWAJ6050  1237  1192/ 69  L30 L17 WF  W24 W22 3.0
+ 17 Brown, Malia           FRRK1512  1040  1166/333  L6  W16 W26 D9  L8  2.5
+ 18 Hernandez, Isaac       PASJ2580  1092  1123/313  L7  W15 L4  L14 W28 2.0
+ 19 Attuluri, Kaushik      TSTJC628  1172  1171/334  W24 L7  W27 L6  L12 2.0
+ 20 Scott, Dane            HSCL293V  1625  1549/ 23  W25 W27 L11 L7  L13 2.0
+ 21 Fuchs, Isaac           LBYJ724L  1457  1410/ 97  W32 L8  L5  L22 W27 2.0
+ 22 Yin, Zhida             IHSJ137G  1015  1069/  9  L5  L12 WF  W21 L16 2.0
+ 23 Lopez, Benjamin        CWHMD107  1160  1150/222  L8  WF  L3  W29 L14 2.0
+ 24 Esquivel, George       CWHKD456   931   929/207  L19 L28 W25 L16 BYE 2.0
+ 25 Villasenor, Daniel     CWHL1607  1086  1028/103  L20 L26 L24 BYE W29 2.0
+ 26 Zavala, Joel           CWHMC715  1257  1167/208  L11 W25 L17 D27 L15 1.5
+ 27 Hooda, Lakshey         BOTL2501   933   982/ 92  W13 L20 L19 D26 L21 1.5
+ 28 Piedra, Daniel         CWHLD502  1157  1104/260  L2  W24 L9  L15 L18 1.0
+ 29 Magana, Karen          PASMK93T  1200   400/  4  WF  L10 L13 L23 L25 1.0
+ 30 Pantoja, Omar          CWHKI56D   897   948/ 32  W16 L6  LF  U   U   1.0
+ 31 Villegas, Jovanny      CWHK220P  1045  1025/ 50  L10 L13 LF  U   U   0.0
+ 32 Martinez, Raul         CWHKC472   996   990/184  L21 LF  U   U   U   0.0

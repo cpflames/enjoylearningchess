@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Miller, Jackson        GATG301V  1004  1078/ 60  W4  D3  W2  2.5
+  2 Yang, Jimmy            BCABG45S  1067  1077/ 81  W3  W4  L1  2.0
+  3 Xu, Zoe                CNHBG70A   962   976/ 37  L2  D1  W4  1.5
+  4 Cheruku, Adhrith       SHSB827Q   987   918/ 17  L1  L2  L3  0.0

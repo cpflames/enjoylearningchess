@@ -1,0 +1,25 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Yang, Lucas            LKWEK86V   972   973/ 14  W15 W8  W4  W10 L2  4.0
+  2 Patnaik, Rishabhdeva   CRKEG72D   957   955/ 88  W20 W9  L10 W5  W1  4.0
+  3 Bautista, Ben          CWAEJ57R   725   753/ 38  W16 L10 W7  W6  W11 4.0
+  4 Gogue-tabios Jr, Roy   CPRFK61S   500   881/  5  W23 W7  L1  W16 W9  4.0
+  5 Nelson, Ellis          BRYDB28C   760   752/ 29  W21 D6  W13 L2  W14 3.5
+  6 Odupitan, Oliver       STCF964H   400   563/  9  W18 D5  W19 L3  W10 3.5
+  7 Casino, Eli            STCEI15Q   710   686/ 23  W17 L4  L3  W22 W18 3.0
+  8 Einarson, Aiden        CWAED84D   538   533/ 75  W22 L1  L16 W19 W17 3.0
+  9 Carrell, Samuel        STCF150C   504   611/ 27  W11 L2  W15 W13 L4  3.0
+ 10 Nelson, Owen           THUED35B   400   580/ 10  W24 W3  W2  L1  L6  3.0
+ 11 Paras, Liam            STCFK61Q   500   539/  5  L9  W20 W18 W12 L3  3.0
+ 12 Seaholm, Liam          STCEK61P   400   459/  5  L13 W22 W24 L11 W16 3.0
+ 13 Parker, Mason          CPREH69X   400   444/ 20  W12 D14 L5  L9  W19 2.5
+ 14 Saladino, Callalia     STCFK61N   500   390/  4  D19 D13 W20 HPB L5  2.5
+ 15 Garcia, Cristian       CPRFH10N   400   360/ 10  L1  W23 L9  L17 W24 2.0
+ 16 Ramirez, Peyton        STCFK61L   500   470/  5  L3  W24 W8  L4  L12 2.0
+ 17 Chen, Fei              VOYFK61K   500   337/  5  L7  L18 W23 W15 L8  2.0
+ 18 Rish-brown, Jacob      HMODK61J   300   387/  5  L6  W17 L11 W21 L7  2.0
+ 19 Turner, Camden         CPRDJ50V   400   278/  9  D14 W21 L6  L8  L13 1.5
+ 20 Turner, Aubrie Lynn    CPREB07F   400   100/  9  L2  L11 L14 BYE L22 1.0
+ 21 Igwe, Daniel           ELKEK61H   400   100/  5  L5  L19 W22 L18 L23 1.0
+ 22 Dodd, Mackenzie        CPREK61G   400   100/  5  L8  L12 L21 L7  W20 1.0
+ 23 Saladino, Jaxon        STCEK61F   400   100/  5  L4  L15 L17 L24 W21 1.0
+ 24 Dodd, Cadence          CPREK61E   400   153/  5  L10 L16 L12 W23 L15 1.0

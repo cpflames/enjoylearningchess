@@ -1,0 +1,46 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Thirunavukkarasu, ThiruINTL8085  1571  1631/280  W29 W12 W10 W11 W7  5.0
+  2 Marcelia, David        CPBLK21F  1202  1395/ 20  W32 W4  W9  D8  W14 4.5
+  3 Deshpande, Yajat       EALJ735V  1303  1454/271  W21 D7  W17 W15 W8  4.5
+  4 Wei, Brian             SLVGP31C  1553  1539/118  W36 L2  W19 W28 W12 4.0
+  5 Dudala, Vihan          BRHEH62J  1179  1333/ 80  W42 W17 W15 L7  W11 4.0
+  6 Yuen, Owen             KSHFA16Z  1256  1263/222  W25 L16 W40 W27 W13 4.0
+  7 Cheng, Edward          WMSIC74W  1738  1717/164  W24 D3  W31 W5  L1  3.5
+  8 Kang, Ayaan            ENSDI60T  1423  1422/197  W30 W13 W18 D2  L3  3.5
+  9 Verma, Darsh           WONEB52K  1317  1317/ 69  W37 W28 L2  W30 D10 3.5
+ 10 Joshi, Arnav           CRKFJ24W  1220  1245/106  W40 W41 L1  W26 D9  3.5
+ 11 Vangala, Agastya       LMSIB39V  1304  1307/292  W19 W26 W16 L1  L5  3.0
+ 12 Maher, Joseph          SANH1940  1213  1239/226  W22 L1  W25 W18 L4  3.0
+ 13 Chi, Isobel            LMSHC167  1189  1194/283  W39 L8  W22 W16 L6  3.0
+ 14 Xia, Yuchen            BLMHI52A  1250  1242/ 81  W20 L18 W36 W21 L2  3.0
+ 15 Huang, Emily           MEDEB39A  1315  1303/105  W38 W27 L5  L3  W30 3.0
+ 16 Raghavapurapu, SuprathiSNIE330S   858  1037/ 51  W33 W6  L11 L13 W37 3.0
+ 17 Kuo, Tristan           KELG941B  1323  1309/246  W43 L5  L3  W25 W26 3.0
+ 18 Jain, Ayush            DISH535M   915  1082/ 44  W45 W14 L8  L12 W29 3.0
+ 19 Alagumalai, Gautham    EBSEF64S   996  1090/170  L11 W45 L4  W41 W28 3.0
+ 20 Schmidt, Oto           HTNGJ236  1138  1162/138  L14 L23 W43 W31 W27 3.0
+ 21 Shaw, Michael          SANF3705   939  1022/ 61  L3  W38 W23 L14 D24 2.5
+ 22 Fong, Matthew          EING683T   943  1010/157  L12 W29 L13 W33 D23 2.5
+ 23 Zhang, Wei             TYEGF93H  1118  1083/ 98  L41 W20 L21 W40 D22 2.5
+ 24 Susa, Avik             OMSG379X  1050  1047/ 65  L7  L40 W37 W42 D21 2.5
+ 25 Mitra, Rahul           OPWFH53N   971   993/118  L6  W33 L12 L17 W42 2.0
+ 26 Kokati, Pranav         CHRF814P  1046  1072/120  W31 L11 W41 L10 L17 2.0
+ 27 Read, Adrian           SHMMK76D  1062  1048/176  W34 L15 W42 L6  L20 2.0
+ 28 Morris, Graham         HTNG1617  1068  1054/249  W44 L9  W34 L4  L19 2.0
+ 29 Palod, Menang          CBRFK61M  1048  1022/ 73  L1  L22 W44 W35 L18 2.0
+ 30 Bartminn, Jan Lorenz   ENDEH59K  1038  1037/ 72  L8  W44 W35 L9  L15 2.0
+ 31 Priest, Liam           OHLHL07U  1567  1493/184  L26 W35 L7  L20 W36 2.0
+ 32 Vangala, Advaith       BLWF174X  1057  1016/293  L2  L36 D38 W39 D34 2.0
+ 33 Lu, Jacob              ENDFI11F  1078  1021/223  L16 L25 W39 L22 W40 2.0
+ 34 Matheranwala, Moiz     ENDE851T   840   838/ 77  L27 BYE L28 D36 D32 2.0
+ 35 Jain, Tanya            PLKJ327W   823   833/ 41  BYE L31 L30 L29 W43 2.0
+ 36 Xie, Ava               SOME797Y   975   979/146  L4  W32 L14 D34 L31 1.5
+ 37 Kuo, Declan            RDSEE82L  1027   984/236  L9  D39 L24 W38 L16 1.5
+ 38 Abueg, Lorenzo         LEOGG77J   999   959/ 45  L15 L21 D32 L37 W41 1.5
+ 39 Phillips-acheson, SebasWOBE817T   863   855/121  L13 D37 L33 L32 W44 1.5
+ 40 Forrester, Gilbert     HTNGH03C   900   892/128  L10 W24 L6  L23 L33 1.0
+ 41 Onwuneme, Zoe          SANH2726   878   868/102  W23 L10 L26 L19 L38 1.0
+ 42 Magnani-scott, Luke    HZFF290E   928   897/ 27  L5  W43 L27 L24 L25 1.0
+ 43 Rodrigo, Santiago      SANG3276  1027   947/ 75  L17 L42 L20 W44 L35 1.0
+ 44 Huang, Indiana         SCDFC19C   917   815/ 65  L28 L30 L29 L43 L39 0.0
+ 45 Johnson, Tobias        LCNFH96C  1141  1080/226  L18 L19 U   U   U   0.0

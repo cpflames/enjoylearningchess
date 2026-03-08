@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Kuzin, Ethan           SHMJ7567  1186  1207/203  HPB W4  1.5
+  2 Goetzl, Twain          SHML6001   811   831/193  HPB W6  1.5
+  3 Knapp, Joshua          SHMMH49D   700   994/  2  HPB W5  1.5
+  4 Lee, Jae-yoon          SHMJC734  1075  1085/ 45  W7  L1  1.0
+  5 Lim, Carter            SHMJ7749   940   914/ 83  HPB L3  0.5
+  6 Gangle, Jerome         SHMM2873   667   646/ 51  HPB L2  0.5
+  7 Macgregor, Matthew     SHMK1137  1109  1077/ 78  L4  U   0.0

@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Levine, Joseph         EPSID260  2249  2251/209  W3  W5  W4  W2  BYE 5.0
+  2 Jammalamadaka, Varnika OVLGD216  1719  1735/405  W5  W4  BYE L1  D3  3.5
+  3 Li, Edward             TMBG768S  1666  1675/276  L1  BYE W5  D4  D2  3.0
+  4 Cheng, Edward          WMSIC74W  1766  1745/248  BYE L2  L1  D3  W5  2.5
+  5 Saloranta, Leo         IMSHB40A  1267  1257/102  L2  L1  L3  BYE L4  1.0

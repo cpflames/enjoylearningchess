@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Frost, Ignatius        SHMJJ64P  1394  1424/ 54  W5  W4  D2  2.5
+  2 Kuzin, Ethan           SHMK7567  1399  1409/276  D3  W5  D1  2.0
+  3 Lewis, Theo            FERLK29P  1328  1342/ 67  D2  D6  W4  2.0
+  4 Werner, Ross           SHMLB91H  1334  1305/ 95  W6  L1  L3  1.0
+  5 Stanley, Soren         BLHM116S  1221  1214/ 49  L1  L2  W6  1.0
+  6 Chiu, Yi Jun           SHML347E  1162  1115/  9  L4  D3  L5  0.5

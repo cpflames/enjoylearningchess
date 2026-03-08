@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhou, Yuchen           CHRDJ42H  1483  1509/487  W3  W4  D2  2.5
+  2 Sangal Lopez, Dev      CTNG515J  1475  1503/325  W4  W3  D1  2.5
+  3 Bhattacharjee, ArchishmBLWGA45Y  1349  1345/161  L1  L2  W4  1.0
+  4 Karri, Aditya          AUDEC55V  1388  1334/212  L2  L1  L3  0.0

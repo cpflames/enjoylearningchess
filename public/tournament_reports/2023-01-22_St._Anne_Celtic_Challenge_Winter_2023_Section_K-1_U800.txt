@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kalakoti, Kartika      STVAG45J   714   701/ 24  W13 W8  W3  L2  W5  4.0
+  2 Ma, Lewis              SOMB587M   524   564/ 21  W11 W7  W13 W1  L3  4.0
+  3 Kim, Connor            MAPBK94E   445   537/ 10  W12 W9  L1  W4  W2  4.0
+  4 Li, Bella              STTB917A   307   436/ 24  W5  W13 W11 L3  W8  4.0
+  5 Thompson, Remy         SANBK89S   100   412/  4  L4  BYE W6  W7  L1  3.0
+  6 Mei, Felicity          BCAAK89R   100   238/  5  L9  W11 L5  W10 W12 3.0
+  7 Srinivas, Siri         XXXBK89Q   100   336/  4  BYE L2  W8  L5  W9  3.0
+  8 Guan, Ryan             SANB226Y   400   324/ 10  W10 L1  L7  W13 L4  2.0
+  9 Cooney, Cyrus          SANAK89P   100   170/  5  W6  L3  D10 D12 L7  2.0
+ 10 Bassen, Emil           XXXBK89M   100   100/  5  L8  W12 D9  L6  D11 2.0
+ 11 Oberry, Benjamin       SANBK89L   100   100/  4  L2  L6  L4  BYE D10 1.5
+ 12 Gilliland, Johnny      SANBK89K   100   100/  4  L3  L10 BYE D9  L6  1.5
+ 13 Guenther, Hugo         SANAK89H   100   100/  4  L1  L4  L2  L8  BYE 1.0

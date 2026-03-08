@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kapur, Viraaj          RSACA71K   893   957/ 64  W3  W4  W2  3.0
+  2 Lahue, Ihsan           GRRFJ69P   647   655/ 37  W4  L3  L1  1.0
+  3 Mitra, Rahul           OPWFH53N   784   753/ 65  L1  W2  L4  1.0
+  4 Zhao, Dennis           CGRE525E   763   738/ 74  L2  L1  W3  1.0

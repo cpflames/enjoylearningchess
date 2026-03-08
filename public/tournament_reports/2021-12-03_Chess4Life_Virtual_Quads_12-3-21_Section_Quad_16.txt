@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Thapar, Sabir          ETSD822D   400   428/  8  W2  W4  L3  2.0
+  2 Satish, Siddharth      XXXA452V   400   465/  3  L1  W3  W4  2.0
+  3 Angadi, Yashika        GRRF732U   400   400/ 27  D4  L2  W1  1.5
+  4 Mugunthan, Neeraj      SHSEB17Y   400   400/  3  D3  L1  L2  0.5

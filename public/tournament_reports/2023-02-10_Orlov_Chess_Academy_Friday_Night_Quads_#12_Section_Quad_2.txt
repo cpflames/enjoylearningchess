@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Joshi, Vyom            LEOHH81X  1183  1186/104  W3  W2  WF  3.0
+  2 Xu, Ethan              BENDK98S   660   677/ 15  W4  L1  W3  2.0
+  3 Wilson, Alexander      VIEEH91F   260   320/ 21  L1  W4  L2  1.0
+  4 Satishkumar, Gautham   RCSDC88L   472   403/ 12  L2  L3  LF  0.0

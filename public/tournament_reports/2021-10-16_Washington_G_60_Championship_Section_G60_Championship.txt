@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Perez, Ignacio         ADUNA795  2206  2224/ 48  W9  W21 W13 W5  4.0
+  2 Kona, Vidip            RSADI26J  1728  1809/219  W16 D5  W18 W6  3.5
+  3 Wang, Ted              MEDCK13D  1678  1714/144  L7  W10 W20 W18 3.0
+  4 Liu, Lucas             SOMEH33R  1534  1602/142  D18 W22 W12 HPB 3.0
+  5 Paez, David            ADUNG72V  1300  1930/  4  W14 D2  W15 L1  2.5
+  6 Tessiore, Luca         DCTFP42N  1830  1831/155  W8  W20 D7  L2  2.5
+  7 Benaid, Henry          ADUN829C  2161  2138/ 12  W3  D15 D6  D9  2.5
+  8 Verma, Darsh           WONFB52K  1589  1586/107  L6  D11 W22 WF  2.5
+  9 Keyser, Harrison       ADUNA131  1648  1690/378  L1  W19 W14 D7  2.5
+ 10 Anandkumar, Haituka    STLH238P  1510  1499/247  L12 L3  BYE W23 2.0
+ 11 Xu, Owen               SOMC896M  1686  1676/ 94  L13 D8  W17 D14 2.0
+ 12 Willy, Stephen         HSCGH17K  1830  1809/434  W10 L13 L4  W20 2.0
+ 13 Porter, Ryan W         ADUNF05C  2309  2303/  9  W11 W12 L1  U   2.0
+ 14 Hamlett, James         ADUN4372  1561  1561/ 61  L5  W16 L9  D11 1.5
+ 15 Liu, Austin            PLKH530J  1741  1747/261  W23 D7  L5  LF  1.5
+ 16 Klink, Jeff            ADUNJ09G  1309  1384/  6  L2  L14 W19 HPB 1.5
+ 17 Wang, Ares             MEDDJ77J  1123  1125/138  HPB L18 L11 W22 1.5
+ 18 Razmov, Valentin       ADUNB02T  1909  1862/ 42  D4  W17 L2  L3  1.5
+ 19 Lin, Michael           BCACC97F  1484  1444/192  L21 L9  L16 BYE 1.0
+ 20 Schmidt, Karen K       ADUN3692   826   825/  3  BYE L6  L3  L12 1.0
+ 21 Petrov, Oscar          OVLMA216  1870  1869/306  W19 L1  U   U   1.0
+ 22 Oregel, Isaias         ADUN299G  1300   738/  3  HPB L4  L8  L17 0.5
+ 23 Zhang, Michael M.      MEDD668Q  1172  1163/383  L15 U   HPB L10 0.5

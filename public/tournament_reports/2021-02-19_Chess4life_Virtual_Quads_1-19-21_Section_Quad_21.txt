@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yu, Aiden              TYEHF95R   700   933/  3  W3  W4  W2  3.0
+  2 Ehrlander, Liam        XXXEE94Z   400   562/  3  D4  W3  L1  1.5
+  3 Riggio, Noah           SGEDK37Q   400   427/  6  L1  L2  W4  1.0
+  4 Hota, Ednit            BENBC09V   400   400/  3  D2  L1  L3  0.5

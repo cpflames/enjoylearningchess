@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Jayadevan, Kunal       SCDA893P   760   817/ 20  W7  D2  W3  W5  W4  4.5
+  2 Liang, Wen             JINBF53X   582   766/ 19  W4  D1  W9  W3  W6  4.5
+  3 Cohen, Sasha           DCTBK75G   593   613/ 12  W9  W5  L1  L2  W8  3.0
+  4 Fetchero, Caleb        BLCAK56R   400   642/  5  L2  W6  W7  W9  L1  3.0
+  5 Chiu, Callum           LCNB720R   400   456/ 42  BYE L3  W8  L1  W9  3.0
+  6 Eng, Meeko             SJOB376D   494   476/ 27  D8  L4  BYE W7  L2  2.5
+  7 Williams, Rio          RDSBG44S   400   400/  4  L1  W8  L4  L6  BYE 2.0
+  8 Stack, Gavin           SANA473H   400   400/  4  D6  L7  L5  BYE L3  1.5
+  9 Marz, Kaden            SANBF45C   400   400/  4  L3  BYE L2  L4  L5  1.0

@@ -1,0 +1,39 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Deng, Stanley          LECEK22E  1405  1445/262  W32 W13 W4  W3  W6  5.0
+  2 Ornelas, Daniel        CWHMH732  1351  1349/217  W21 W5  D8  W28 D7  4.0
+  3 Mendoza, Oscar         CWHJI229  1189  1221/277  W23 W19 W10 L1  W15 4.0
+  4 Chavez Vargas, Angel   CWHL858A  1143  1202/ 33  W24 W15 L1  W19 W8  4.0
+  5 Kaiphanliam, Kieren    RRGIK52X  1005  1094/ 10  W34 L2  W27 W16 W13 4.0
+  6 Pantoja, Omar          CWHMI56D   928  1071/ 51  W35 W10 W21 W14 L1  4.0
+  7 Arias Padilla, Jose    CWHK888V  1300  1300/ 74  W22 W14 W9  L8  D2  3.5
+  8 Dillingham, Annabella  KCCG229F  1101  1162/221  W27 W17 D2  W7  L4  3.5
+  9 Dillingham, Daniel     KCCFB73M  1262  1221/222  L20 W36 L7  W11 W16 3.0
+ 10 Hassan, Ahmad          RRGH714R  1121  1109/148  W25 L6  L3  W12 W23 3.0
+ 11 Nava, Misael           CWHMC02B  1102  1062/ 15  W26 L16 W24 L9  W28 3.0
+ 12 Hernandez, Marcelo     CWHKK986  1072  1049/177  W28 W20 L14 L10 W25 3.0
+ 13 Castaneda, Gabriela    CWHMC526  1045  1039/104  W29 L1  W23 W32 L5  3.0
+ 14 Hassan, Nadeem         RRGI411A  1038  1041/132  W33 L7  W12 L6  W27 3.0
+ 15 Lopez, Esteban         CWHM7267   961   972/298  W30 L4  W25 W22 L3  3.0
+ 16 Gomez, Albert          CWHKJ40R   907   945/ 20  W38 W11 W22 L5  L9  3.0
+ 17 Robles, Abel           CWHM1788   900   873/218  W37 L8  W36 L21 W26 3.0
+ 18 Bragg, Brennen         JMLIK68P   533   695/  9  U   L22 W34 W24 W21 3.0
+ 19 Hitt, Maylee           RRGHK96D   992   974/ 23  W31 L3  D20 L4  W32 2.5
+ 20 Luna Rocha, Sergio Jr  CWHK3108   848   864/195  W9  L12 D19 L25 W31 2.5
+ 21 Harrington, Ephraim    MOAHK96E   888   860/ 23  L2  W38 L6  W17 L18 2.0
+ 22 Philo, Demetri         MOAHK96C   833   816/ 23  L7  W18 L16 L15 W34 2.0
+ 23 Perez Birrueta, Rafael OCHIK60W   799   786/ 23  L3  W31 L13 W29 L10 2.0
+ 24 Romero, Osias          RRGH973N   785   750/ 74  L4  W29 L11 L18 W35 2.0
+ 25 Medrano, Axel          OCHIB48G   779   786/ 34  L10 W35 L15 W20 L12 2.0
+ 26 Lokaman, Anwar         STPH883Q   717   664/119  L11 L34 W30 W35 L17 2.0
+ 27 Guizar, Kevin          CWHJI02P   706   694/ 58  L8  W37 L5  W36 L14 2.0
+ 28 Lokaman, Islam         STPHJ18G   700   730/ 52  L12 W30 W32 L2  L11 2.0
+ 29 Quintero, Brianna      STPIK64D   431   435/ 24  L13 L24 W37 L23 W36 2.0
+ 30 Naranjo, Urijah        RRGH253A   366   414/ 24  L15 L28 L26 W37 W33 2.0
+ 31 Wampole, Caleb         JMLI133K   360   369/ 39  L19 L23 D38 W34 L20 1.5
+ 32 Averett, Ethan         ENTIK52Y   897   770/ 10  L1  W33 L28 L13 L19 1.0
+ 33 Arias, Alondra         CWHJK71K   620   493/ 13  L14 L32 L35 W38 L30 1.0
+ 34 Villela, Misael        CWHM164J   400   416/ 10  L5  W26 L18 L31 L22 1.0
+ 35 Thompson, Ayden        JMLHJ98S   308   337/ 19  L6  L25 W33 L26 L24 1.0
+ 36 Wright, Andrew         JMLHK95Q   148   133/ 14  BYE L9  L17 L27 L29 1.0
+ 37 Rubio, Oswaldo         PRKHK38C   700   222/  5  L17 L27 L29 L30 W38 1.0
+ 38 Chavez, Dora           STPHG46Q   181   149/ 11  L16 L21 D31 L33 L37 0.5

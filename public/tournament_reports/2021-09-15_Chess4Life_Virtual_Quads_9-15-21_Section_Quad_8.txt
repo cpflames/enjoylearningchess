@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xie, Michael           BLWF549C   971  1066/246  D2  W3  W4  2.5
+  2 Rastogi, Reyansh       LMAFD30N  1049  1040/125  D1  L4  W3  1.5
+  3 Zou, Ethan             WOBEI88K  1055  1019/188  W4  L1  L2  1.0
+  4 Stake, Charles         OESCM87Q   944   939/ 47  L3  W2  L1  1.0

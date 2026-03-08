@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Han, Shuyi             SOMEK47W  1331  1449/190  W3  W4  W2  3.0
+  2 Urali, Sanjay          MEDD315D  1343  1375/189  W4  W3  L1  2.0
+  3 Aski, Kabir            CNHHG340  1417  1388/393  L1  L2  W4  1.0
+  4 Sangal Lopez, Dev      WOBE515J  1368  1308/102  L2  L1  L3  0.0

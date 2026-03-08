@@ -1,0 +1,55 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bhatia, Tanush         SKNJ5224  1643  1715/344  W29 W32 W14 W8  W3  5.0
+  2 Venkatachalam, Kedar   TSTJ947E  1424  1525/ 25  W37 W20 D4  W13 W11 4.5
+  3 Nallabothula, Varin    REDJ457A  1800  1794/393  W34 W16 W9  W7  L1  4.0
+  4 Garine, Ujwal          TSTJB99A  1650  1641/199  W35 W33 D2  D12 W16 4.0
+  5 Subramanian, Thrinay   SPTH466R  1561  1560/114  W22 D26 W25 D10 W12 4.0
+  6 Meyerzon, Daniel       INTJJ242  1553  1552/397  W36 W17 W15 L11 W18 4.0
+  7 Coe, Michael           UHIKK70Q  1526  1533/ 23  W23 W38 BYE L3  W17 4.0
+  8 Hetamsaria, Aadi       BISJ888H  1519  1527/141  W43 W19 W31 L1  W21 4.0
+  9 Tiwari, Prakhar        TMBJ785R  1500  1516/ 78  W24 W27 L3  W20 W22 4.0
+ 10 Patterson, Ben         PDHKI54X  1442  1469/ 81  HPB W44 W26 D5  W24 4.0
+ 11 Carper, Jack           PULJG86W  1382  1444/165  W39 W50 W13 W6  L2  4.0
+ 12 Shi, Matthew Yufan     ISSK910Q  1286  1300/168  W42 W53 BYE D4  L5  3.5
+ 13 Preizler, Adrian       JUHJD229  1530  1501/178  W47 W18 L11 L2  W27 3.0
+ 14 Han, Matthew           BISJ5262  1420  1400/299  W38 W21 L1  L22 W35 3.0
+ 15 Yadav, Himank          INLJ399V  1367  1341/205  W40 W45 L6  L21 W36 3.0
+ 16 Ornelas, Daniel        CWHMH732  1349  1361/222  W48 L3  W35 W29 L4  3.0
+ 17 Yenamandra, Siddharth  EALJA49G  1315  1320/ 21  W41 L6  W47 W31 L7  3.0
+ 18 Kane, Callan           CWHMB00E  1226  1244/210  WF  L13 W23 W36 L6  3.0
+ 19 Mendoza, Oscar         CWHJI229  1221  1206/282  W54 L8  L24 W48 W37 3.0
+ 20 Chavez Vargas, Angel   CWHL858A  1202  1211/ 38  W51 L2  W40 L9  W39 3.0
+ 21 Villegas, Jovanny      CWHM220P  1174  1196/ 70  W52 L14 W50 W15 L8  3.0
+ 22 Pantoja, Omar          CWHMI56D  1071  1186/ 56  L5  W54 W32 W14 L9  3.0
+ 23 Hernandez, Marcelo     CWHKK986  1049  1143/182  L7  W37 L18 W40 W32 3.0
+ 24 Vanimireddy, Shrivas   EALJ833Q  1044  1169/ 19  L9  W41 W19 W25 L10 3.0
+ 25 Davis, Aiden           ADCJK70N  1329  1299/ 23  HPB W49 L5  L24 W43 2.5
+ 26 Joshi, Dhroov          TMBJD083  1263  1254/ 92  W46 D5  L10 L27 W44 2.5
+ 27 Mendoza, Shawn         PASME325  1208  1212/189  W53 L9  D43 W26 L13 2.5
+ 28 Alford, Isaiah         CWHK925Y  1197  1147/ 20  L31 L40 W44 W49 D30 2.5
+ 29 Graham, Connor         CWHK5610  1174  1182/189  L1  W48 W30 L16 D31 2.5
+ 30 Velchuri, Rithwik      BISJJ64L   847   978/ 62  L33 W34 L29 W47 D28 2.5
+ 31 Chabot, Troy           BRSJK15U   900  1203/  5  W28 W42 L8  L17 D29 2.5
+ 32 Dale, Luke             MTSJJ10P  1346  1292/ 85  W45 L1  L22 W43 L23 2.0
+ 33 Arias Padilla, Jose    CWHK888V  1300  1236/ 79  W30 L4  L36 L39 W49 2.0
+ 34 Luciano, Luis          CWHM3995  1120  1077/206  L3  L30 D49 W45 D38 2.0
+ 35 Hernandez, Isaac       PASL2580  1093  1099/323  L4  W39 L16 W52 L14 2.0
+ 36 Nava, Misael           CWHMC02B  1062  1078/ 20  L6  W51 W33 L18 L15 2.0
+ 37 Yin, Zhida             IHSL137G  1036  1018/ 23  L2  L23 W42 W50 L19 2.0
+ 38 Lopez, Esteban         CWHM7267   972   969/303  L14 L7  D46 W53 D34 2.0
+ 39 Martinez, Raul         CWHMC472   963   984/199  L11 L35 W51 W33 L20 2.0
+ 40 Naidu, Pru             SKNJ400N   949   974/ 46  L15 W28 L20 L23 W52 2.0
+ 41 Luna Rocha, Sergio Jr  CWHK3108   864   864/200  L17 L24 L52 W54 W47 2.0
+ 42 Alford, Trey           CWHL636B   832   856/ 25  L12 L31 L37 W51 W48 2.0
+ 43 Fong, Adam             CMHJ4377  1046  1044/192  L8  W46 D27 L32 L25 1.5
+ 44 Castaneda, Gabriela    CWHMC526  1039  1007/109  D49 L10 L28 W46 L26 1.5
+ 45 Gomez, Albert          CWHKJ40R   945   920/ 24  L32 L15 HPB L34 W50 1.5
+ 46 Santana, Andy          CWHJH849   794   798/238  L26 L43 D38 L44 W53 1.5
+ 47 Vaught, Garret         CWHME17K  1054   988/ 99  L13 W52 L17 L30 L41 1.0
+ 48 Desai, Satvik          EVJJC072   928   882/267  L16 L29 W54 L19 L42 1.0
+ 49 Robles, Abel           CWHM1788   873   877/223  D44 L25 D34 L28 L33 1.0
+ 50 Arias, Alondra         CWHJK71K   493   484/ 17  WF  L11 L21 L37 L45 1.0
+ 51 Gorlachev, Veronica    HSCKK15T  1000   678/  5  L20 L36 L39 L42 W54 1.0
+ 52 Hite, Mason            HSCJK15R   900   781/  5  L21 L47 W41 L35 L40 1.0
+ 53 Guizar, Kevin          CWHJI02P   694   659/ 62  L27 L12 HPB L38 L46 0.5
+ 54 Yang, Clara            UHILK57F   718   567/  8  L19 L22 L48 L41 L51 0.0

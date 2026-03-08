@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Haiyi              EALJ762H   554   658/ 12  W3  W4  W2  3.0
+  2 Su, Oliver             JINBD01U   506   531/ 12  W4  W3  L1  2.0
+  3 Lechner, Ryker         HSCD496J   400   400/  9  L1  L2  W4  1.0
+  4 Bours, Hugo            XXXFE48Y   485   400/  9  L2  L1  L3  0.0

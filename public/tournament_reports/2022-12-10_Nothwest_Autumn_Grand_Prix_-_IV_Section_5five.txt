@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Marroquin, Luke        BLNHJ99Y   455   525/  9  W5  W3  D2  2.5
+  2 Clarke, Jonathan       BLNIG05B   400   484/  6  W6  W5  D1  2.5
+  3 Crediford, Nilay       HORIF28K   445   452/ 18  W4  L1  W6  2.0
+  4 Rosenberger, Reagan    BLNG593S   327   310/  9  L3  W6  D5  1.5
+  5 Elford, Nicolas        HORGA01Z   355   271/  6  L1  L2  D4  0.5
+  6 Fitzsimmons, Caden     BLNI526Y   208   148/  9  L2  L4  L3  0.0

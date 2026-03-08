@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Sailer, Shaunak        SARDC25Z   800   826/ 84  W4  D2  W5  W3  BYE 4.5
+  2 Zhang, Kevin           SPTC809Y   700   779/ 35  W5  D1  W3  BYE W4  4.5
+  3 Bhatt, Rayan           BCAC463U   400   436/  8  BYE W4  L2  L1  L5  2.0
+  4 Mackey, Isaac          EVGD509C   650   587/111  L1  L3  BYE W5  L2  2.0
+  5 Khatib, Bilal          LKDDA67S   523   500/ 19  L2  BYE L1  L4  W3  2.0

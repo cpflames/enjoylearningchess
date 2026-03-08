@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bhat, Esha             DGHH674K   521   607/ 10  W2  W3  U   2.0
+  2 Kuluru, Samith         KKNGI99K   583   580/117  L1  U   W3  1.0
+  3 Vikram, Anirudh        ENDFG57Q   604   532/ 19  U   L1  L2  0.0

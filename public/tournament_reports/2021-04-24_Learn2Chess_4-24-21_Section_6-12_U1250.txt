@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bharadwaj, Anish       ETSGI530  1179  1235/226  W8  WF  W2  W5  W3  5.0
+  2 Race, Nathan           LCNHH305  1014  1010/341  W7  W6  L1  W8  L4  3.0
+  3 Waltier, Taylor        WLSJD06H   934   962/ 73  W9  W5  L4  W6  L1  3.0
+  4 Ahmad, Muhammad Rayhan LWAJG02J   900   978/  5  L5  W9  W3  L7  W2  3.0
+  5 Hawkins, Holden        TYEI383Z  1119  1084/264  W4  L3  W9  L1  BYE 3.0
+  6 Ahmad, Muhammad Zayd   LWAJ521M   900   859/  4  WF  L2  W7  L3  W8  3.0
+  7 Thiel, Jack            XXXID95W   800   865/  5  L2  W8  L6  W4  W9  3.0
+  8 Albert, Jesse          WPPGI55P   638   603/ 13  L1  L7  BYE L2  L6  1.0
+  9 Mohammad, Ameer        WPPGJ41G   600   400/  4  L3  L4  L5  BYE L7  1.0

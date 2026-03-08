@@ -1,0 +1,68 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Gottumukkala, Ananth   ADUNG432  1948  2082/310  W42 W43 W13 W36 W5  W6  6.0
+  2 Orlov, Georgi          ADUN1051  2507  2504/  6  W21 W11 D6  HPB W13 W16 5.0
+  3 Lee, Megan             ADUN8702  2350  2344/174  W35 W47 W15 L5  W24 W14 5.0
+  4 Readey, John L         ADUNH932  2288  2288/ 20  W53 W50 W44 L14 W15 W8  5.0
+  5 Jiang, Brandon         BLLJ7768  2177  2180/498  W23 W24 W33 W3  L1  D10 4.5
+  6 Sripada, Havish        TVWHP811  2008  2054/264  WF  W63 D2  W27 W14 L1  4.5
+  7 Lin, Michael           BCACC97F  1691  1834/252  L15 D30 W52 W41 W29 W20 4.5
+  8 Haining, Kyle          ADUNK338  2294  2289/506  HPB W62 HPB W51 W28 L4  4.0
+  9 Paez, David            ADUNG72V  1930  1952/ 10  D45 W52 L27 W59 W36 D18 4.0
+ 10 Rozenfeld, Yevgeni     ADUNC004  2079  2068/  6  L31 W61 W23 W25 D18 D5  4.0
+ 11 Zhang, Brendan         ADUNA520  2107  2097/333  W44 L2  L50 W39 W54 W31 4.0
+ 12 Pupols, Viktors        ADUN8503  2200  2183/ 27  L50 W53 W64 HPB D21 W28 4.0
+ 13 Whale, Nicholas        ADUNJ751  2036  2042/265  W54 W51 L1  W31 L2  W32 4.0
+ 14 Arganian, David G      ADUN6724  2000  2021/  6  W61 W31 W25 W4  L6  L3  4.0
+ 15 Kona, Vidip            RSADI26J  1945  1967/275  W7  W32 L3  W33 L4  W34 4.0
+ 16 Liu, Austin            PLKH530J  2048  2052/299  W57 D27 W41 HPB W32 L2  4.0
+ 17 Lee, Brian             WFWNA904  1969  1944/236  L43 W59 W42 L24 W45 W33 4.0
+ 18 Wang, Ted              MEDCK13D  1895  1924/200  W49 D36 D45 W50 D10 D9  4.0
+ 19 Nallabothula, Varin    WPPI457A  1760  1766/383  L36 L49 W37 W64 D42 W43 3.5
+ 20 Hosford, Michael J     ADUNF263  1970  1966/157  HPB W55 L36 W45 W27 L7  3.5
+ 21 Qian, Daniel           PFCK7807  1908  1915/297  L2  W40 D53 W62 D12 D24 3.5
+ 22 Tang, Austin           BNYGS947  2017  1981/218  D55 L45 L46 W57 W59 W50 3.5
+ 23 Liu, Erik              INTJ4861  1758  1766/374  L5  W65 L10 W58 D43 W44 3.5
+ 24 Razmov, Valentin       ADUNB02T  1828  1849/ 90  W65 L5  W60 W17 L3  D21 3.5
+ 25 Li, Edward             TMBH768S  1773  1798/303  W58 W56 L14 L10 D44 W42 3.5
+ 26 Yang, Arnold           WVWKP993  1714  1722/214  L56 D58 L59 W53 W62 W48 3.5
+ 27 Cheng, Edward          GARJC74W  1807  1832/375  W66 D16 W9  L6  L20 W39 3.5
+ 28 Tessiore, Luca         DCTFP42N  1900  1891/184  W34 L33 W43 W35 L8  L12 3.0
+ 29 Davis, Frederick A     ADUN4232  1895  1857/579  D39 D60 L32 W38 L7  W55 3.0
+ 30 Toppen-ryan, Harrison  ADUNK815  1912  1883/226  L32 D7  D34 D49 D55 W54 3.0
+ 31 Wang, Felicity         LMSIJ02F  1755  1807/290  W10 L14 W56 L13 W46 L11 3.0
+ 32 Beegala, Keshav        REEFJ27V  1678  1759/202  W30 L15 W29 W47 L16 L13 3.0
+ 33 Collinge, Max          CHWN2877   814   989/ 38  BYE W28 L5  L15 W35 L17 3.0
+ 34 Chowdhury, Evan        ADUNG50X  1300  1905/  5  L28 HPB D30 W56 W47 L15 3.0
+ 35 Ravid, Orren           ADUNA05M  1300  1561/  6  L3  W37 W66 L28 L33 W60 3.0
+ 36 Velea, Anne-marie      EALLK892  2207  2179/357  W19 D18 W20 L1  L9  U   2.5
+ 37 Zhang, Kylie           WMEF890T  1635  1606/182  L47 L35 L19 BYE W65 D41 2.5
+ 38 Barua, Ani             ADUN8572  1624  1639/ 13  HPB D48 L51 L29 W58 D47 2.5
+ 39 Zhang, Bohan           EPSJE54S  1652  1680/ 87  D29 L41 W55 L11 W52 L27 2.5
+ 40 Mcavity, Conor         ADUNH017   976  1071/ 35  L63 L21 BYE L43 W66 D49 2.5
+ 41 Nicoski, Aaron         ADUN598C  1867  1827/ 87  D60 W39 L16 L7  D49 D37 2.5
+ 42 Lykins, Pace           HYOGP06F  1732  1721/354  L1  W67 L17 W66 D19 L25 2.5
+ 43 Fletcher, Andrew       ADUN5371  1690  1697/ 69  W17 L1  L28 W40 D23 L19 2.5
+ 44 Shi, Ted               SPTFD099  1707  1701/297  L11 BYE L4  W60 D25 L23 2.5
+ 45 Zhu, Jamie             SSMF558E  1744  1770/303  D9  W22 D18 L20 L17 HPB 2.5
+ 46 Saravanan, Sujan       SKWG372N  1603  1632/356  L51 D54 W22 D48 L31 HPB 2.5
+ 47 Morehouse, Ethan       WHPLR48D  1894  1865/ 11  W37 L3  W49 L32 L34 D38 2.5
+ 48 Jammalamadaka, Vihaan  BCAEJ90F  1866  1813/308  D59 D38 D62 D46 D50 L26 2.5
+ 49 Xu, Owen               SOMC896M  1648  1658/143  L18 W19 L47 D30 D41 D40 2.5
+ 50 Maksyutov, Zaki        ADUNE65D  1741  1855/ 15  W12 L4  W11 L18 D48 L22 2.5
+ 51 Velea, Sophie          OPWHD209  1876  1877/291  W46 L13 W38 L8  U   U   2.0
+ 52 Velea, Stephanie       TSTJD353  1807  1761/326  HPB L9  L7  W61 L39 D59 2.0
+ 53 Peng, Brandon          LSSKA154  1822  1804/464  L4  L12 D21 L26 W67 D57 2.0
+ 54 Juchau, Dave           ADUN8936  1694  1669/  6  L13 D46 D58 W65 L11 L30 2.0
+ 55 Karthikeyan, HarishkumaREJGJ81A  1708  1702/201  D22 L20 L39 W67 D30 L29 2.0
+ 56 Scholz, Fritz          ADUN5498  2019  1952/ 16  W26 L25 L31 L34 L60 W66 2.0
+ 57 Keyser, Harrison       ADUNA131  1748  1716/393  L16 L66 D67 L22 W61 D53 2.0
+ 58 Le, Huy                ADUNG75H  1300  1482/  6  L25 D26 D54 L23 L38 W65 2.0
+ 59 Flavin, Finnegan       VADEH65Q  1100  1233/ 25  D48 L17 W26 L9  L22 D52 2.0
+ 60 Dann, William          ADUN554B  1458  1501/ 44  D41 D29 L24 L44 W56 L35 2.0
+ 61 Allen, Robert J        ADUNF120  1700  1662/  4  L14 L10 HPB L52 L57 BYE 1.5
+ 62 Cornejo Altuzar, SharadADUNJ94X  1300  1651/  5  W67 L8  D48 L21 L26 U   1.5
+ 63 Porter, Ryan W         ADUNF05C  2303  2289/ 11  W40 L6  U   U   U   U   1.0
+ 64 Jiang, Andrew          OMSN7475  1628  1614/391  HPB HPB L12 L19 U   U   1.0
+ 65 Shreeraam, Seshasayee  RSAED91F  1107  1096/ 24  L24 L23 BYE L54 L37 L58 1.0
+ 66 Cornelius, Tom         ADUN566P  1300  1306/  6  L27 W57 L35 L42 L40 L56 1.0
+ 67 Staley, Greg           ADUN607R  1607  1566/  7  L62 L42 D57 L55 L53 U   0.5

@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sankrithi, Sarang      HSCDB11D  1305  1376/216  W8  W4  W2  3.0
+  2 Cheng, Selina          THUF413R  1542  1521/473  W6  W5  L1  2.0
+  3 Nair, Ishan            FRWF670E  1158  1148/121  L4  W8  W7  2.0
+  4 Pleasants, Gabriel     DCCC149G   803   984/ 43  W3  L1  W5  2.0
+  5 Chaudhuri, Agnivesh    CHADB55V  1212  1175/204  W7  L2  L4  1.0
+  6 Chaudhuri, Arihant     CHAD703E  1148  1120/216  L2  L7  W8  1.0
+  7 Wei, Marcus            CSIE588E   938   955/ 80  L5  W6  L3  1.0
+  8 Wei, Sarina            OVLGG09P  1058  1008/ 97  L1  L3  L6  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Aaron           CCDE873R  1225  1317/413  D4  W3  W2  2.5
+  2 Stein, Samuel          HSCEH03T  1345  1354/205  W3  W4  L1  2.0
+  3 Choi, Hunter           EVGEE80A  1252  1240/176  L2  L1  W4  1.0
+  4 Li, Yiyang             BCAE700B  1306  1259/226  D1  L2  L3  0.5

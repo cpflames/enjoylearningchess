@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ivanovic, Mina         UCDCH40V  1107  1172/308  W2  D4  W3  2.5
+  2 Thakur, Reet           CWAEJ84K  1093  1121/229  L1  W3  W4  2.0
+  3 Agarkar, Aarav         WDMGG17J  1106  1082/101  W4  L2  L1  1.0
+  4 Chevuri, Tattva        CBRDC06V  1094  1049/147  L3  D1  L2  0.5

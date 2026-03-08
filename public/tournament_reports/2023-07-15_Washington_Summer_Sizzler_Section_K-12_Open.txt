@@ -1,0 +1,34 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Wan, Bertrand          NPRLK421  2009  2013/256  W15 W20 W14 W4  4.0
+  2 Wirkkala, Zane         HSCJC64H  1634  1650/ 49  W16 W8  D5  W11 3.5
+  3 Moses, Blessington     INTL3817  1558  1568/ 51  W12 W17 D11 D5  3.0
+  4 Frederick, Benjamin    LAUFS57X  1550  1570/231  W33 W26 W7  L1  3.0
+  5 Ogier, Alix            SAMJC70T  1493  1526/ 21  W18 W30 D2  D3  3.0
+  6 Tan, Nathan            UCDD412Y  1442  1450/161  L19 W24 W17 W15 3.0
+  7 Palathingal, Rafael    KKND196R  1362  1428/ 70  W31 W13 L4  W16 3.0
+  8 Ramaswamy, Rishi       OMSIS63U  1360  1397/ 95  W32 L2  W19 W18 3.0
+  9 Cheng, Alan            CHREJ71K  1338  1377/104  L13 W31 W29 W14 3.0
+ 10 Subramanian, Thrinay   SPTH466R  1560  1539/118  L17 W21 D12 W22 2.5
+ 11 Cen, Evan              TYEHI97D  1452  1461/174  W25 W29 D3  L2  2.5
+ 12 Koripella, Dheeran     INGH610W  1316  1349/ 38  L3  W32 D10 W20 2.5
+ 13 Kandhare, Ojas         INTLJ90T  1662  1614/116  W9  L7  L16 W26 2.0
+ 14 Kokati, Pranav         OMSH814P  1501  1487/260  W24 W19 L1  L9  2.0
+ 15 Shah, Kanav            LMAE295Q  1349  1350/118  L1  W27 W30 L6  2.0
+ 16 Mohan, Laya            LEOH617P  1332  1347/158  L2  WF  W13 L7  2.0
+ 17 Shankaranand, Deeksha  EBSEI74Y  1326  1345/240  W10 L3  L6  W29 2.0
+ 18 Chen, Andy             SOMCK05J   200  1392/  4  L5  W23 W28 L8  2.0
+ 19 Winter, Kayne          CSIFF38F  1138  1237/161  W6  L14 L8  W28 2.0
+ 20 Mohan, Vishnu          KKNEF41R  1415  1388/114  W27 L1  D26 L12 1.5
+ 21 Meng, Miranda          OPWDH69P  1397  1364/119  HPB L10 L22 W30 1.5
+ 22 Balayoghan, Keeran     SPTF477N  1386  1349/ 85  L29 D25 W21 L10 1.5
+ 23 Raja, Rian             CNCF786E  1369  1316/ 91  L30 L18 W25 D27 1.5
+ 24 Edwin, Elijah          BCSCC24D  1235  1215/129  L14 L6  W32 HPB 1.5
+ 25 Chaudhuri, Agnivesh    CHADB55V  1207  1212/201  L11 D22 L23 W33 1.5
+ 26 Olson, Brynden         ETVLK82C  1201  1244/ 20  W28 L4  D20 L13 1.5
+ 27 Chaudhuri, Arihant     CHAD703E  1129  1148/213  L20 L15 W33 D23 1.5
+ 28 Meyerzon, Daniel       INTJJ242  1447  1371/415  L26 W33 L18 L19 1.0
+ 29 Narkhede, Kshitij      CRKBA27K  1058  1081/ 73  W22 L11 L9  L17 1.0
+ 30 Prabhu, Varun          HLYF329U  1038  1063/ 55  W23 L5  L15 L21 1.0
+ 31 Bhattacharjee, PratyushTIMD602T   888   882/ 33  L7  L9  HPB HPB 1.0
+ 32 Hailey, Nace           SSKI259Q   524   522/ 31  L8  L12 L24 BYE 1.0
+ 33 Kossuri, Neil          CNCF696L  1249  1174/ 69  L4  L28 L27 L25 0.0

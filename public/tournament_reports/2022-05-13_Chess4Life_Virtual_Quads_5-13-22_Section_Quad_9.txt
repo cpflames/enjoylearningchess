@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 He, Oliver             CRIBK71V   708   792/ 68  D3  W4  W2  2.5
+  2 Kuluru, Samith         KKNFI99K   713   713/ 52  W4  D3  L1  1.5
+  3 Sumanaseni, Evan       CNHF876D   719   689/191  D1  D2  L4  1.0
+  4 Vipin, Amol            RSAGB81R   717   660/  6  L2  L1  W3  1.0

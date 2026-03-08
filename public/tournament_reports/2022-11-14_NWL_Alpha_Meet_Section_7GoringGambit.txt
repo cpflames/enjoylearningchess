@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Clark, Camden          BLHL635A   416   655/ 14  W6  W5  W2  3.0
+  2 Latham, Cash           MRDK658Y  1000   947/  3  W4  W3  L1  2.0
+  3 Nyland, Taylor         BLHK124B  1000   740/  3  W8  L2  W7  2.0
+  4 Peper, James           BLHKB93F  1000   746/  3  L2  W7  W6  2.0
+  5 Weiss, Kai             BLHL948F   400   400/  7  D7  L1  W8  1.5
+  6 Plyuschakov, David     BLNGI65H   600   400/  3  L1  W8  L4  1.0
+  7 Wright, Makayla        MRDLK32N  1100   426/  3  D5  L4  L3  0.5
+  8 Mcintee, Reese         MRDKF91G  1000   400/  3  L3  L6  L5  0.0

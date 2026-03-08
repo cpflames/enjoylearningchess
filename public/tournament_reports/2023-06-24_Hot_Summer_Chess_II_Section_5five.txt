@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Javed, Peter           SKYBK36U   100   292/  7  W4  D6  W2  2.5
+  2 Manookin, Jared        HSCDD11V   343   360/ 44  W3  W5  L1  2.0
+  3 Bannister, Altair      EAGBK36Y   224   295/ 20  L2  W4  W5  2.0
+  4 Gardner, Andrew        CUEDK22Z   300   263/ 11  L1  L3  W6  1.0
+  5 Javed, Angelica        SKYDK36A   225   205/  8  W6  L2  L3  1.0
+  6 Manookin, Adam         HSCDF67L   385   278/ 44  L5  D1  L4  0.5

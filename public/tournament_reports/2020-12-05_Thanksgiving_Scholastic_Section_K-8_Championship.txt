@@ -1,0 +1,27 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Xuan, Owen             ADDH5792  1848  1875/245  W24 W8  W7  W6  W4  5.0
+  2 Wei, Brian             SLVGP31C  1309  1553/113  W5  W14 D6  W3  W7  4.5
+  3 Scollon, Owen          LLLF734D  1507  1518/258  W19 D4  W13 L2  W12 3.5
+  4 Senthil Kumar, KrishnapTMBI7364  1374  1444/306  W25 D3  W12 W9  L1  3.5
+  5 Nallabothula, Varin    BCAH457A  1676  1666/322  L2  W23 W16 W15 D6  3.5
+  6 Cheng, Edward          WMSIC74W  1756  1738/159  W17 W16 D2  L1  D5  3.0
+  7 Kang, Ayaan            ENSDI60T  1387  1423/192  W18 W15 L1  W8  L2  3.0
+  8 Appalabattula, Samarth SSMFG06C  1383  1401/ 71  W22 L1  W19 L7  W17 3.0
+  9 Seth, Shreshth         SPTF268C  1478  1462/362  L15 W21 W24 L4  W13 3.0
+ 10 Calo, Jude             WWDF3425  1203  1285/164  L12 L20 W18 W24 W16 3.0
+ 11 Shi, Gavin             LCNGH855  1378  1366/313  L13 D18 W23 D17 W15 3.0
+ 12 Cui, Max               CBRC946C  1387  1390/133  W10 D13 L4  W14 L3  2.5
+ 13 Hijirida, Tyler        XXXIK358  1328  1349/111  W11 D12 L3  W20 L9  2.5
+ 14 Tran, Nugen            EVIG455Z  1422  1401/310  W21 L2  D17 L12 W22 2.5
+ 15 Vangala, Agastya       LMSIB39V  1286  1304/287  W9  L7  W20 L5  L11 2.0
+ 16 Westover, Charlotte    WMEE365V  1378  1357/232  W26 L6  L5  W21 L10 2.0
+ 17 Kwan, Joshua           EVGEI48N  1320  1310/140  L6  W26 D14 D11 L8  2.0
+ 18 Ma, Lucas              SOMF500S  1216  1214/268  L7  D11 L10 W23 D19 2.0
+ 19 Yadlapati, Arush       EVJGA47S  1295  1259/124  L3  W25 L8  D22 D18 2.0
+ 20 Frederick, Benjamin    LAUDS57X  1381  1319/ 87  L23 W10 L15 L13 W26 2.0
+ 21 Xia, Yuchen            BLMHI52A  1283  1250/ 76  L14 L9  W25 L16 W23 2.0
+ 22 Gajcowski, Hannah Nami OPWFI10H  1211  1182/124  L8  L24 W26 D19 L14 1.5
+ 23 Narayan, Bhargav       CMCFD962  1073  1075/125  W20 L5  L11 L18 L21 1.0
+ 24 Zheng, Max             SOMED13T  1368  1336/ 76  L1  W22 L9  L10 U   1.0
+ 25 Kumar, Shreyaan        CRKEE51Z   400   400/  4  L4  L19 L21 L26 BYE 1.0
+ 26 Matheranwala, Moiz     ENDE851T   853   840/ 73  L16 L17 L22 W25 L20 1.0

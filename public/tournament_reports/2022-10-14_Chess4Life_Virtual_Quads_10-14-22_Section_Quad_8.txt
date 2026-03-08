@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Twu, Cameron           XXXDF50E   793   981/ 27  W3  W2  W4  3.0
+  2 Yin, Daniel            ISSL116Y   968   975/273  W4  L1  W3  2.0
+  3 Wu, Dennis             SCDCJ54B   852   839/ 90  L1  W4  L2  1.0
+  4 Wang, Eric             BCAE803M   885   809/ 28  L2  L3  L1  0.0

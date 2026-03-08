@@ -1,0 +1,27 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Chaturvedi, Raghav     TYEGK75J   816   929/ 97  W14 W7  W16 W2  4.0
+  2 Cheruku, Adhrith       SHSC827Q   875   877/ 41  W22 W12 W5  L1  3.0
+  3 Joshi, Vaidehi         PLKGG37G   875   850/120  L7  W18 W20 W9  3.0
+  4 Duseja, Ronit          TIMEA38H   839   830/ 70  W8  L6  W17 W15 3.0
+  5 He, Oliver             CRIBK71V   591   711/ 33  W19 W15 L2  W16 3.0
+  6 Gupta, Arsh            REEEC97V   481   627/ 15  W24 W4  L9  W10 3.0
+  7 Lee, Christian         MEDDD54N   465   657/ 17  W3  L1  W18 W20 3.0
+  8 Anugula, Kruthik       RHJG581U   439   581/ 13  L4  W26 W21 W11 3.0
+  9 Karthik, Sai           HSCA261S   446   592/ 13  W10 D21 W6  L3  2.5
+ 10 Cosentino, Alexander   SNSFG58C   666   625/ 38  L9  W23 W13 L6  2.0
+ 11 Zhou, Nolan            MRLD280K   604   577/ 13  W23 L16 W22 L8  2.0
+ 12 Patnaik, Aditya        CGAGA02G   601   587/ 13  W26 L2  L15 W22 2.0
+ 13 Karagudri, Neil        RKWFJ82Y   564   535/ 15  L16 W24 L10 W23 2.0
+ 14 Mane, Shrihan          RKWD645D   419   457/  7  L1  L17 W25 W21 2.0
+ 15 Chen, Ziyu             DGHF360J   500   659/  4  W17 L5  W12 L4  2.0
+ 16 Rajkumar, Mihir        CSIC315L   400   676/  4  W13 W11 L1  L5  2.0
+ 17 Shaikot, Sabeer        ENSD147Q   554   531/ 73  L15 W14 L4  D19 1.5
+ 18 Abbott, Elliott        WOBDF07R   522   479/ 18  D25 L3  L7  W26 1.5
+ 19 Karthikeyan, Arjun     ENSDB78Y   400   400/ 11  L5  L22 W24 D17 1.5
+ 20 Subramanian, Vignesh   LKWD399T   400   400/ 21  D21 W25 L3  L7  1.5
+ 21 Ghosh, Ishan           DGHE891Z   561   489/ 36  D20 D9  L8  L14 1.0
+ 22 Gupta, Prish           CNHB749W   450   430/ 15  L2  W19 L11 L12 1.0
+ 23 Dehghan, Maya          FPEEE31J   400   400/ 10  L11 L10 W26 L13 1.0
+ 24 Jain, Anvay            EBSE874Z   400   400/  4  L6  L13 L19 W25 1.0
+ 25 Wang, Aaron            BCAA631T   400   400/  4  D18 L20 L14 L24 0.5
+ 26 Kanaujia, Aryash       LMADJ54K   400   400/  8  L12 L8  L23 L18 0.0

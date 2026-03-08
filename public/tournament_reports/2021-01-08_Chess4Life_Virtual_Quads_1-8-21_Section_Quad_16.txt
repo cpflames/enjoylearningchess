@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sailer, Shaunak        SARDC25Z   698   798/ 47  W4  W2  D3  2.5
+  2 Wang, Andrew           MMEDD93V   722   755/ 18  W3  L1  W4  2.0
+  3 Yin, Daniel            ISMJ116Y   720   723/ 57  L2  W4  D1  1.5
+  4 Yadava, Ishansh        HSCFB75H   729   644/ 14  L1  L3  L2  0.0

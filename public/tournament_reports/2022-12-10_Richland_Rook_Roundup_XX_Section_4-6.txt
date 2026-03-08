@@ -1,0 +1,60 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Dillingham, Daniel     KCCFB73M  1174  1217/203  W41 W36 W7  W6  W3  5.0
+  2 Deng, Stanley          LECEK22E  1410  1376/234  W30 L9  W11 W15 W4  4.0
+  3 Dillingham, Annabella  KCCG229F  1127  1127/201  W20 W10 W8  W13 L1  4.0
+  4 Armstrong, Griffin     CHJG141T   903   932/ 45  W48 W38 W14 W12 L2  4.0
+  5 Vanderschoor, Peyton   MTPE490Y   898   841/  9  W49 W28 L15 W18 W16 4.0
+  6 Van, Preston           RRGGG09Y   877   914/167  W31 W19 W9  L1  W15 4.0
+  7 Hong, Sidney           MCGF478H   768   805/ 58  W32 W45 L1  W19 W20 4.0
+  8 Lemon, Bryce           KCCGF01G   768   820/ 16  W53 W24 L3  W14 W17 4.0
+  9 Yuan, Edward           LECEK69S   540   761/ 43  W55 W2  L6  W33 W13 4.0
+ 10 Hou, Grant             LECFK00T   519   720/ 34  W44 L3  W56 W25 W12 4.0
+ 11 Butler, Brandon        RFPE693M   400   656/ 14  W35 W37 L2  W47 W26 4.0
+ 12 Zelaya, Evan           LECEI38V   806   788/ 65  W21 W39 W23 L4  L10 3.0
+ 13 Kermani, Kirabella     LLMGG24N   803   789/ 80  W42 W56 W25 L3  L9  3.0
+ 14 Harmon, Aj             MCUF697N   670   674/ 19  W43 W46 L4  L8  W32 3.0
+ 15 Hernandez, Ethan       RRGG195L   566   695/ 34  W22 W34 W5  L2  L6  3.0
+ 16 Miranda, Santiago      STPG437Y   531   595/ 46  U   W59 W45 W44 L5  3.0
+ 17 Lucatero, Lucas        MCUFF32U   490   516/ 19  L23 W54 W57 W34 L8  3.0
+ 18 Mejia, Vincent         LIVF271G   468   505/ 61  L24 W53 W46 L5  W43 3.0
+ 19 Gomez, Anthony         OCHHD08B   464   528/ 24  W33 L6  W58 L7  W44 3.0
+ 20 Chin, Andre            LLMGA23B   414   542/ 40  L3  W55 W36 W22 L7  3.0
+ 21 Arbogast, Kaden        RFPFH29E   400   488/ 10  L12 D52 W40 W28 D23 3.0
+ 22 York, Jackson          KCCE472Y   400   491/ 11  L15 W30 W35 L20 W47 3.0
+ 23 Lukson, Luka           LECEF91D   400   637/  5  W17 W47 L12 D26 D21 3.0
+ 24 Mauseth, Shannon       MTPF483U   500   626/  5  W18 L8  D28 D29 W39 3.0
+ 25 Garcia, Vincen         RFRF403Q   500   646/  5  W40 W26 L13 L10 W41 3.0
+ 26 Wall, Peyton           KCCGF48Y   648   575/  8  W50 L25 W41 D23 L11 2.5
+ 27 Calderin, Colin        LECEK16T   509   417/ 10  L56 W42 L44 D51 W48 2.5
+ 28 Corey, Owen            MTPD956S   486   484/ 10  W52 L5  D24 L21 W50 2.5
+ 29 Arbogast, Kyler        RFPF198H   432   446/ 10  L46 W43 D47 D24 D33 2.5
+ 30 White, Christopher     RFPFJ47J   429   416/ 25  L2  L22 D53 W52 W51 2.5
+ 31 Calderin, Emma         CHJG782D   400   421/  9  L6  L33 W54 W57 D34 2.5
+ 32 Broeckel, Macoy        RFPFC90X   400   440/ 19  L7  D35 W52 W36 L14 2.5
+ 33 Schaaf, Garrett        SCJF801E   500   534/  5  L19 W31 W38 L9  D29 2.5
+ 34 Bonneville, Mathieu    LECE901K   400   462/  5  W54 L15 W39 L17 D31 2.5
+ 35 Zelaya, Yvanna         BLSEG23Y   544   487/ 66  L11 D32 L22 D42 W54 2.0
+ 36 Hayes, Jack            RFPF127B   538   489/ 14  W51 L1  L20 L32 W55 2.0
+ 37 Craigen, Eleanor       ACKF761U   511   453/ 76  L45 L11 D50 D53 W56 2.0
+ 38 Jones, Devon           MTPF407J   481   446/ 34  W57 L4  L33 D50 D45 2.0
+ 39 Mendez, Jaden          MTPEI40R   452   409/ 10  W58 L12 L34 W56 L24 2.0
+ 40 Kim, Cassandra         LECF500H   452   401/ 98  L25 D50 L21 D55 W57 2.0
+ 41 Collins, Andrew        MCGF897F   418   421/ 19  L1  W51 L26 W46 L25 2.0
+ 42 Trevino-gonzalez, MariaOCHG767V   400   358/ 10  L13 L27 D55 D35 W58 2.0
+ 43 Miller, Jase           MCGF234V   400   345/  9  L14 L29 W49 W58 L18 2.0
+ 44 Olsen, Everett         CHJGH07F   600   455/  5  L10 W49 W27 L16 L19 2.0
+ 45 Saenz, Abigail         MTPF672R   500   453/  5  W37 L7  L16 D48 D38 2.0
+ 46 Bernard, Cardinal      CYVE600Z   400   397/  5  W29 L14 L18 L41 W59 2.0
+ 47 Dahl, Heidi            MTPEH58K   701   537/ 10  W59 L23 D29 L11 L22 1.5
+ 48 Cook, Blake            RFPEE49E   407   335/ 10  L4  L57 W59 D45 L27 1.5
+ 49 Imagene Hernandez, EmmaMTPEC18Y   400   319/  9  L5  L44 L43 D59 W53 1.5
+ 50 Medina, Silas          RFPFG33L   400   342/  9  L26 D40 D37 D38 L28 1.5
+ 51 Barrera, Myles         MCGE261H   400   141/  4  L36 L41 BYE D27 L30 1.5
+ 52 Lopez-wright, Isac     LLMG374T   600   172/  4  L28 D21 L32 L30 BYE 1.5
+ 53 Duran, Angel           RRGGC22Z   400   318/  9  L8  L18 D30 D37 L49 1.0
+ 54 Robertson, Tivadar     RFPFE64U   400   236/  8  L34 L17 L31 BYE L35 1.0
+ 55 Ramirez, Izabel        MTPFA77W   500   250/  5  L9  L20 D42 D40 L36 1.0
+ 56 Lopez-wright, Eliana   WIWE553P   400   295/  5  W27 L13 L10 L39 L37 1.0
+ 57 Mcnamara, Decglan      LECFG55E   500   197/  5  L38 W48 L17 L31 L40 1.0
+ 58 Avilez, Allan          MTPFI22L   500   100/  4  L39 BYE L19 L43 L42 1.0
+ 59 Langston, Felicity     MTPE424K   400   264/ 10  L47 L16 L48 D49 L46 0.5

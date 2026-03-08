@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Emam, Aydin            PKRDK53A   700   831/  9  W2  W4  W3  3.0
+  2 Senthilkumar, SiddhanthLMADG15U   617   714/ 51  L1  W3  W4  2.0
+  3 Garg, Vihaan           CCDAJ10X   628   603/ 21  D4  L2  L1  0.5
+  4 Daniel, Gabrielle Emma MMEF376A  1121   792/  6  D3  L1  L2  0.5

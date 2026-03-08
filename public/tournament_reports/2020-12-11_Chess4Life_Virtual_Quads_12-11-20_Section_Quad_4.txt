@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Yiyang             BCAD700B  1227  1286/132  W2  D4  W3  2.5
+  2 Zhang, Ethan (yichen)  CRIDG57B  1222  1245/ 58  L1  W3  W4  2.0
+  3 Yang, James            SSME123B  1228  1204/108  W4  L2  L1  1.0
+  4 Gajial, Taimur         MEDGJ27A  1202  1162/174  L3  D1  L2  0.5

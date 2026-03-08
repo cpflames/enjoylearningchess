@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Siddem, Sid            RHJJC34V  1720  1741/471  W2  W3  W4  3.0
+  2 Sinha, Agastya         BRHDA75C  1388  1463/171  L1  W4  W3  2.0
+  3 Gadde, Arnav           ENSEJ39D  1468  1464/146  W4  L1  L2  1.0
+  4 Shanmugam, Meera       SKWHD22Y  1578  1517/453  L3  L2  L1  0.0

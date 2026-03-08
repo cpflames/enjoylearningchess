@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sangal Lopez, Dev      WOBE515J  1332  1377/123  D2  W3  W4  2.5
+  2 Kamel, Yaseen          PFCID57L  1271  1281/ 32  D1  L4  W3  1.5
+  3 Xiong, Lydia           RKWFI43T  1310  1288/143  W4  L1  L2  1.0
+  4 Merriman, Dann         WMNBF79Y  1315  1292/333  L3  W2  L1  1.0

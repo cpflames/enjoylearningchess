@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jongema, Gabriel       LYEK984D  1617  1523/  8  L2  W4  W3  2.0
+  2 Trushkov, Max          FERJ616A  1268  1295/ 96  W1  L3  W4  2.0
+  3 Bosch, Ethan           SHMMF67U  1481  1260/  4  L4  W2  L1  1.0
+  4 Nipges, Jaxon          HORI382B  1042  1074/ 41  W3  L1  L2  1.0

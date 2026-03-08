@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ge, Daniel             SPTHI42V  1504  1531/236  W3  L4  W2  2.0
+  2 Neff, Caleb            ABEFG72N  1540  1540/271  W4  D3  L1  1.5
+  3 Boulis, Christos       RHJHC84T  1562  1558/421  L1  D2  W4  1.5
+  4 Ying, Yiheng           MEDDE78K  1558  1536/222  L2  W1  L3  1.0

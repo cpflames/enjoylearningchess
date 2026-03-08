@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Hanyu           OVLHE73G   782  1068/  6  W4  W3  W2  3.0
+  2 Ge, Alex               SOMC908H   646   680/ 87  W3  W4  L1  2.0
+  3 Pai, Shubham           BCAF694R   496   507/ 39  L2  L1  W4  1.0
+  4 Sabarish, Ananya       BCACG02Z   550   486/ 21  L1  L2  L3  0.0

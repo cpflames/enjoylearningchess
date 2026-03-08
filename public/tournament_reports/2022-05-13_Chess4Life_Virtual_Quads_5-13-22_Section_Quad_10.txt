@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Saravanan, Maadhav     CSMC555W   696   718/ 21  W4  W2  L3  2.0
+  2 Ge, Alex               CCDB908H   636   690/ 29  W3  L1  W4  2.0
+  3 Chaudhuri, Agnivesh    CHACB55V   700   664/ 91  L2  L4  W1  1.0
+  4 Garg, Vihaan           CMCBJ10X   652   631/ 67  L1  W3  L2  1.0

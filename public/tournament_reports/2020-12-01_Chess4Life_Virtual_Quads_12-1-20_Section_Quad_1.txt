@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Saddi, Neevan Reddy    GRRBH87M  1179  1202/ 10  W2  W3  WF  3.0
+  2 Miller, Jackson        GATG301V   988   988/ 45  L1  WF  W3  2.0
+  3 Bar, Nathan            AUDB368C   790   768/ 17  WF  L1  L2  1.0

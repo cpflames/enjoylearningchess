@@ -1,0 +1,25 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ramkumar, Nikhil       RBRE115E  1342  1573/101  W4  W8  W15 D6  W3  4.5
+  2 Wedgwood, James        ADUNC205  1218  1374/ 52  L13 W21 W16 W12 W8  4.0
+  3 Ellner, Adam           ADUN6906  1406  1516/363  W10 D13 W11 W5  L1  3.5
+  4 Razmov, Gabriel        ADDGC26K  1615  1609/151  L1  W20 W19 W15 D6  3.5
+  5 Wong-godfrey, Emerson  EXWIH83E  1658  1654/401  W9  D6  W12 L3  W11 3.5
+  6 Anandkumar, Haituka    STLH238P  1499  1546/252  W24 D5  W13 D1  D4  3.5
+  7 Dudala, Vihan          BRHFH62J  1295  1352/104  D11 L19 W22 W16 W13 3.5
+  8 Shanmugam, Meera       SKWGD22Y  1563  1535/421  W23 L1  W17 W10 L2  3.0
+  9 Mathur, Aashi          CRKG522S  1348  1350/234  L5  W23 L10 W22 W17 3.0
+ 10 Iyer, Shashwat Pranav  CMCCC07W  1259  1323/ 45  L3  W24 W9  L8  W15 3.0
+ 11 Merriman, Dann         WMNCF79Y  1592  1551/419  D7  W22 L3  W19 L5  2.5
+ 12 Sankar, Abhay          LEOI6545  1530  1505/339  HPB W14 L5  L2  W20 2.5
+ 13 Liu, Lucas             SOMEH33R  1602  1563/147  W2  D3  L6  W14 L7  2.5
+ 14 Hinman, Joshua         ADUNA84G  1300  1310/  5  D19 L12 W20 L13 W23 2.5
+ 15 Hamlett, James         ADUN4372  1561  1508/ 66  W18 W17 L1  L4  L10 2.0
+ 16 Bradshaw, David        ADUND30R  1300  1198/  5  L17 W18 L2  L7  W19 2.0
+ 17 Saloranta, Leo         IMSIB40A  1269  1263/122  W16 L15 L8  W18 L9  2.0
+ 18 Wang, Ares             MEDDJ77J  1125  1115/143  L15 L16 W21 L17 W22 2.0
+ 19 Shuman, Steve          ADUNF29Y  1300  1243/  5  D14 W7  L4  L11 L16 1.5
+ 20 Zhang, Michael M.      MEDD668Q  1163  1147/387  HPB L4  L14 W24 L12 1.5
+ 21 Shanmugam, Varsha      RBRCA12J  1000   954/342  L22 L2  L18 L23 W24 1.0
+ 22 Vijeyanandh, Vishnu    TMBGF63Z  1056  1036/ 55  W21 L11 L7  L9  L18 1.0
+ 23 Kakkad, Vayu           DCTBK50L  1166  1108/367  L8  L9  L24 W21 L14 1.0
+ 24 Iyer, Suchir           CMCAK64E   739   812/ 10  L6  L10 W23 L20 L21 1.0

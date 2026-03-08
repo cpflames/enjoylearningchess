@@ -1,0 +1,33 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Calo, Jude             REGH3425  1244  1274/186  W25 W12 W16 D2  W4  4.5
+  2 Winter, Kayne          CSIFF38F  1113  1237/127  W20 W23 W5  D1  W7  4.5
+  3 Lee, Justin            CNLG732V  1066  1090/ 24  W15 W17 L7  W12 W9  4.0
+  4 Balayoghan, Keeran     SPTF477N  1031  1192/ 29  W27 W6  W8  W7  L1  4.0
+  5 Prasanna Venkatesh, PraINGIK91G   800  1346/  5  W9  W10 L2  W16 W8  4.0
+  6 Choi, Hunter           EVGFE80A  1274  1233/203  W24 L4  W18 D11 W13 3.5
+  7 Edmond, Ivy            WWDFD81E  1255  1224/253  W19 W11 W3  L4  L2  3.0
+  8 Joshi, Vyom            LEOHH81X  1191  1172/ 96  W26 W13 L4  W10 L5  3.0
+  9 Levy, Solomon          CSIFD39J  1121  1092/ 23  L5  W21 W14 W17 L3  3.0
+ 10 Bounev, Alex           EVGFE90E  1041  1024/ 92  W21 L5  W19 L8  W22 3.0
+ 11 Rusia, Naman           EPSGI64T   773   833/ 60  W28 L7  W20 D6  D16 3.0
+ 12 Armstrong, Sebastian   CSIFB94H   650   705/ 70  W29 L1  W27 L3  W23 3.0
+ 13 Aldinger, Nikolai      WHIHG72F   650   697/ 24  W30 L8  W22 W25 L6  3.0
+ 14 Spearman, Emery        FAPF101R   509   540/ 25  L23 W32 L9  W21 W24 3.0
+ 15 Branum, Calvin         CSIFK91F   500   707/  5  L3  L22 W31 W18 W17 3.0
+ 16 Villanueva, Kirian     CPLHH895  1061  1032/187  W32 W18 L1  L5  D11 2.5
+ 17 Leneway, Ethan         WWDF337K   612   634/ 37  W22 L3  W23 L9  L15 2.0
+ 18 Aldinger, Maksim       CSIF227L   519   524/ 21  W31 L16 L6  L15 W25 2.0
+ 19 Raynes, Brandon        SHEHC92J   438   438/ 10  L7  W28 L10 L24 W29 2.0
+ 20 Maragoud, Mukund       WEDFK91E   500   451/  5  L2  W31 L11 L23 W28 2.0
+ 21 Chionh, Alex           CSIFK91D   500   440/  5  L10 L9  W29 L14 W31 2.0
+ 22 Branum, Luther         REGGK91C   600   572/  5  L17 W15 L13 W28 L10 2.0
+ 23 Phan, Binh [ben]       SABHK91B   700   602/  5  W14 L2  L17 W20 L12 2.0
+ 24 Chaffee, Will          WWDF406M   507   478/ 35  L6  L27 D25 W19 L14 1.5
+ 25 Dur, Harvey            PKWF643R   400   390/ 10  L1  W29 D24 L13 L18 1.5
+ 26 Winquist, Graham       JHYFK91A   500   100/  4  L8  L30 L28 L29 BYE 1.0
+ 27 Lawson, Avi            GRWFK90Z   500   586/  3  L4  W24 L12 U   U   1.0
+ 28 Varma, Aeshan          JHYFK90Y   500   203/  5  L11 L19 W26 L22 L20 1.0
+ 29 Sanford, Sophia        LPZFK90W   500   155/  5  L12 L25 L21 W26 L19 1.0
+ 30 Morrison, Jasper       CSIFK90V   500   408/  2  L13 W26 U   U   U   1.0
+ 31 Ahneman, Jackson       LPZEK90T   400   100/  4  L18 L20 L15 BYE L21 1.0
+ 32 Van Eyk, Daphne        REGHK90S   700   198/  2  L16 L14 U   U   U   0.0

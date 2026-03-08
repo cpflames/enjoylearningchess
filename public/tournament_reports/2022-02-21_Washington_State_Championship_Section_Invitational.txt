@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 tot 
+  1 Wang, Ted              MEDCK13D  1788  1853/178  W5  D2  W6  L4  W7  W8  W9  D3  W10 7.0
+  2 Gupta, Anand           EALM7167  1771  1806/544  W7  D1  W9  L3  W10 D5  W8  W6  L4  6.0
+  3 Cheng, Edward          GARJC74W  1716  1786/359  W8  W10 D5  W2  D6  D4  L7  D1  W9  6.0
+  4 Razmov, Valentin       ADUNB02T  1813  1821/ 79  D6  D8  L7  W1  D9  D3  W10 D5  W2  5.5
+  5 Willy, Stephen         HSCGH17K  1882  1846/486  L1  W9  D3  W10 L8  D2  L6  D4  W7  4.5
+  6 Liu, Erik              INTJ4861  1770  1755/363  D4  W7  L1  L9  D3  L10 W5  L2  W8  4.0
+  7 Tu, Robin              ADUN9951  1806  1767/329  L2  L6  W4  D8  L1  L9  W3  W10 L5  3.5
+  8 Seshadri, Sridhar      ADUNC121  1774  1745/ 56  L3  D4  D10 D7  W5  L1  L2  W9  L6  3.5
+  9 Razmov, Gabriel        ADDGC26K  1600  1631/196  W10 L5  L2  W6  D4  W7  L1  L8  L3  3.5
+ 10 Zhang, Kylie           WMEF890T  1675  1626/163  L9  L3  D8  L5  L2  W6  L4  L7  L1  1.5

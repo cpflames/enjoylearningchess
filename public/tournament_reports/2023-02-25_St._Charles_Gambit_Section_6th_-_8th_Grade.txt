@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Navneeth, Advik        RHJGH67D  1010  1167/ 32  W22 W19 W11 W5  W3  5.0
+  2 Thakur, Reet           CWAGJ84K  1177  1166/298  W15 W12 L3  W8  W5  4.0
+  3 Wu, Jasper             IMSH3471   999  1093/102  W19 W16 W2  W11 L1  4.0
+  4 Van Gorkom, Joshua     CHWIB02N   722   816/ 43  W18 L11 W8  W16 W12 4.0
+  5 Villanueva, Kirian     CPLHH895  1032  1012/192  W9  W14 W6  L1  L2  3.0
+  6 Baker, Jack            STCG814U   533   563/ 15  W21 W18 L5  L7  W16 3.0
+  7 Guerrero, Rory         STCH343R   503   565/ 13  L16 W21 D10 W6  D11 3.0
+  8 Garcia-cobian, Rafael  PMSGK38E   478   582/ 33  W13 W22 L4  L2  W14 3.0
+  9 Rehberger, Jack        STCG916D   400   516/  9  L5  W20 W21 D12 D10 3.0
+ 10 Mbugua, Kaleb          STCIK61D   800   608/  5  L14 W15 D7  W17 D9  3.0
+ 11 Joshi, Vyom            LEOHH81X  1265  1189/117  W17 W4  L1  L3  D7  2.5
+ 12 Colon, Xavier          STCHF98F   672   661/ 60  W20 L2  W17 D9  L4  2.5
+ 13 Kolaski, Noah          ELKHK61C   700   434/  5  L8  L17 D15 W19 W20 2.5
+ 14 Casino, Jessi          STCI689G   667   623/ 24  W10 L5  L16 W20 L8  2.0
+ 15 Strub, Cooper          ELKIA47Q   418   414/ 25  L2  L10 D13 D18 W21 2.0
+ 16 Sickelton, Caeli       STCHK61A   700   645/  5  W7  L3  W14 L4  L6  2.0
+ 17 Raynes, Brandon        CPLHC92J   438   431/ 15  L11 W13 L12 L10 D18 1.5
+ 18 Daza, Natalie          ELKGK60Z   600   352/  5  L4  L6  D19 D15 D17 1.5
+ 19 Rausch, Shelby         ELKIK60Y   800   193/  5  L3  L1  D18 L13 D22 1.0
+ 20 Rausch, Jena           ELKHK60X   700   244/  5  L12 L9  W22 L14 L13 1.0
+ 21 Townsend, Howard       ELKGK60U   600   215/  5  L6  L7  L9  W22 L15 1.0
+ 22 Igwe, Angel            ELKGK60S   600   100/  5  L1  L8  L20 L21 D19 0.5

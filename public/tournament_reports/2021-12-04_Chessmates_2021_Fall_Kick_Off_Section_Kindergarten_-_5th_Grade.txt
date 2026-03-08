@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Balayoghan, Keeran     SPTE477N   820   959/ 14  W10 W8  W3  W7  W4  5.0
+  2 Udziela, Henry         EVGEE71H   907   871/ 84  L8  BYE D7  W9  W3  3.5
+  3 Agrawal, Sakash        MEDCC98H   875   857/ 72  W9  W5  L1  W8  L2  3.0
+  4 Zhang, Kevin           SPTD809Y   794   769/ 50  W11 L7  W9  W5  L1  3.0
+  5 Ray, Iain              EPSF392B   633   649/ 84  W6  L3  W10 L4  W7  3.0
+  6 Li, Jacob              EBSDE48C   400   502/  4  L5  L9  BYE W10 W8  3.0
+  7 Li, Moses              CDWCK26L   531   595/ 13  BYE W4  D2  L1  L5  2.5
+  8 Chung, Ian             LIBCG54U   610   607/ 42  W2  L1  W11 L3  L6  2.0
+  9 Wu, Dennis             SCDBJ54B   400   560/  5  L3  W6  L4  L2  W11 2.0
+ 10 Venkatesan, Nithilan   LMABA95X   400   400/  4  L1  D11 L5  L6  BYE 1.5
+ 11 Wu, Jonathan           UCDAK14H   400   400/  4  L4  D10 L8  BYE L9  1.5

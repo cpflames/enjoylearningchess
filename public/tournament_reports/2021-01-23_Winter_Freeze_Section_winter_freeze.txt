@@ -1,0 +1,27 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Mortensen, Lucas       LBYH730U  1331  1498/ 98  W20 W9  W6  W5  W7  5.0
+  2 Ambalavanan, Varun     LBYJK347  1429  1443/340  W17 L3  W14 W7  W8  4.0
+  3 Achanta, Vishal        PULJ6509  1392  1423/ 74  W26 W2  L7  W10 W5  4.0
+  4 Deng, Stanley          CGMCK22E  1299  1316/ 80  W16 L5  W19 W15 W6  4.0
+  5 Wannamaker, Linus      IDXFY45B  1471  1454/ 43  W15 W4  W8  L1  L3  3.0
+  6 Reddy, Eshan           SGSF336Y  1355  1348/226  W21 W10 L1  W9  L4  3.0
+  7 Carper, Jack           LINHG86W  1406  1397/ 97  W25 W18 W3  L2  L1  3.0
+  8 Barrett, Ben           HIMHH008  1287  1275/222  W13 W11 L5  W18 L2  3.0
+  9 Knapton, Cole          VHSII201  1386  1356/247  W19 L1  W11 L6  W15 3.0
+ 10 Schoenberger, Joshua   SJVHJ73R  1083  1083/234  W22 L6  W20 L3  W17 3.0
+ 11 Ritter, Seth           LINJ1551   919   973/ 24  W23 L8  L9  W14 W21 3.0
+ 12 Brown, Malia           FRRK1512  1079  1033/313  D14 L15 D16 W22 W19 3.0
+ 13 Koh, Leroy             PVEF265U   855   850/ 15  L8  L23 W26 W16 W18 3.0
+ 14 Carper, Calvin         TYEH357T  1122  1059/ 10  D12 W17 L2  L11 W25 2.5
+ 15 Keener, Karl           OKSFY40G   776   841/ 27  L5  W12 W23 L4  L9  2.0
+ 16 Achanta, Rishi         LINH5243   607   656/ 42  L4  D21 D12 L13 W24 2.0
+ 17 Ritter, Levi           LINHC692   741   765/ 57  L2  L14 W21 W23 L10 2.0
+ 18 Hochheimer, Noah       SGSEF37G   874   858/127  W24 L7  W22 L8  L13 2.0
+ 19 Lane, Brantley         FARC255D   771   775/ 58  L9  W26 L4  W24 L12 2.0
+ 20 Lanctot, Ethan         COBFA17V   589   613/ 83  L1  W24 L10 L21 W23 2.0
+ 21 Knapton, Joshua        VHSGH807   778   743/220  L6  D16 L17 W20 L11 1.5
+ 22 Raghupathula, Ritvik   JFPFJ83M   500   678/  5  L10 W25 L18 L12 D26 1.5
+ 23 Raghupathula, Ishan    JFPDG37K   400   568/  5  L11 W13 L15 L17 L20 1.0
+ 24 Mynam, Nishanth        SUPDE13Y   400   490/  5  L18 L20 W25 L19 L16 1.0
+ 25 Mortensen, Liam        SWEF768V   835   747/ 38  L7  L22 L24 W26 L14 1.0
+ 26 Mulpuri, Pranav        KMPD428D   400   466/  5  L3  L19 L13 L25 D22 0.5

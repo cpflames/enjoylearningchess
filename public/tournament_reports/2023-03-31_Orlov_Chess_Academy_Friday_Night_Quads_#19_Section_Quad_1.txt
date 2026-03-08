@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jang, Jinwon           VIEF561P   948   946/ 39  W2  L3  W4  2.0
+  2 Mothukuri, Akhil       INGHT84J   943   943/176  L1  W4  W3  2.0
+  3 Riabinin, Alexander    THRH244W   760   837/  8  W4  W1  L2  2.0
+  4 Doronin, Victor        BMNF335T   659   622/ 26  L3  L2  L1  0.0

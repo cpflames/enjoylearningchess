@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Urali, Sanjay          MEDF315D  1448  1540/335  W3  W4  W2  3.0
+  2 Shanmugam, Meera       SKWHD22Y  1500  1510/441  W4  W3  L1  2.0
+  3 Wahi, Lakshya          EVJJ664Z  1424  1411/160  L1  L2  W4  1.0
+  4 Karri, Aditya          AUDEC55V  1423  1370/257  L2  L1  L3  0.0

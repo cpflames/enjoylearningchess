@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Liu, Austin            PLKH530J  2048  2054/290  W4  W3  W2  3.0
+  2 Balaji, Pranav         RSAH940S  1764  1740/283  L3  W4  L1  1.0
+  3 Anandkumar, Haituka    STLH238P  1557  1561/293  W2  L1  L4  1.0
+  4 Tran, Nugen            CDZH455Z  1483  1499/335  L1  L2  W3  1.0

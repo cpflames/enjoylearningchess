@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Willy, Stephen         MMEFH17K  1824  1822/399  U   D2  W3  1.5
+  2 Gijare, Sayali         SKWIE100  1529  1571/526  W3  D1  U   1.5
+  3 Park, Sean             INTJ600E  1671  1636/ 92  L2  U   L1  0.0

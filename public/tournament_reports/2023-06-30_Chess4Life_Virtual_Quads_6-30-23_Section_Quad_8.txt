@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Naenna, Patanin        SPLEQ28H   776   793/209  W4  L3  W2  2.0
+  2 Karthik, Sai           BCAC261S   753   777/ 53  W3  W4  L1  2.0
+  3 Song, Charlie          KJHHJ08F   730   764/ 29  L2  W1  W4  2.0
+  4 Chen, Leon             SNRDD24U   695   623/ 40  L1  L2  L3  0.0

@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ramos, Zachary         FZAFK71L   917  1072/ 13  W2  W5  W4  W3  W6  5.0
+  2 Pantoja, Cain          RFRF228C   812   906/ 25  L1  W10 W9  D7  W12 3.5
+  3 Todd, Griffin          JFNF933X   880   906/ 25  W7  L6  W10 L1  W5  3.0
+  4 Garcia, Vincen         RFRF403Q   873   888/ 25  W12 W8  L1  L6  W10 3.0
+  5 Fultz, Heath           JMLG853S   857   893/ 30  W10 L1  W6  W8  L3  3.0
+  6 Moe, Steven            OCHGH29P   852   895/ 25  W11 W3  L5  W4  L1  3.0
+  7 Hong, Sidney           MCGF478H   811   860/ 78  L3  W11 D8  D2  W9  3.0
+  8 Hernandez, Ethan       RRGG195L   842   843/ 54  W9  L4  D7  L5  W11 2.5
+  9 Vanderschoor, Peyton   MTPE490Y   973   873/ 29  L8  D12 L2  W11 L7  1.5
+ 10 Mariscal, Jonathan     MCUEK69F   800   742/ 15  L5  L2  L3  W12 L4  1.0
+ 11 Gogic, Arian           JMLGK96A   758   706/ 20  L6  L7  W12 L9  L8  1.0
+ 12 Bradford, Joe          OCHGI86H   805   708/ 42  L4  D9  L11 L10 L2  0.5

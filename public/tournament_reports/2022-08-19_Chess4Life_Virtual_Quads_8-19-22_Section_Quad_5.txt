@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xie, Michael           BLWF549C  1113  1243/342  W3  W2  W4  3.0
+  2 Wahi, Advait           BLWF661F  1221  1204/126  D4  L1  W3  1.5
+  3 Evin, Terrick          EBSAC54L  1132  1114/ 23  L1  W4  L2  1.0
+  4 Zhang, Ethan Yichen    CRIEG57B  1085  1054/283  D2  L3  L1  0.5

@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kobayashi, Joe         XXXC119K   536   602/  8  W3  U   W2  2.0
+  2 Deepak, Sairaghav      HSCFA52Q   400   400/  8  U   D3  L1  0.5
+  3 Son, Ryker             HSCC804B   405   400/ 11  L1  D2  U   0.5

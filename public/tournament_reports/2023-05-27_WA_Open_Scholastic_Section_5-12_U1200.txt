@@ -1,0 +1,34 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wakeman, Oliver        INLJG10Y  1170  1259/ 84  W5  W29 W12 W3  D2  4.5
+  2 Loi, Joseph            LSSMK89Z  1159  1246/ 28  W14 W6  W21 W8  D1  4.5
+  3 Hetamsaria, Aayan      TYEHG19R  1191  1215/ 34  W22 W18 W11 L1  W9  4.0
+  4 Mitra, Rahul           OPWHH53N   934  1010/266  L27 W26 W33 W20 W10 4.0
+  5 Goldman, Rowan         BUSG633N   879  1043/ 97  L1  W32 W18 W11 W12 4.0
+  6 Yakkali, Karthik VedantKKNF301E  1060  1119/ 50  BYE L2  W17 W16 WF  4.0
+  7 Lebedinsky, Alexander  EVJG958F  1125  1106/231  W24 D13 L9  W28 WF  3.5
+  8 Patnaik, Aditya        CGAHA02G  1030  1090/ 58  W30 D9  W13 L2  W19 3.5
+  9 Bahl, Shrey            OMSIG938   824  1067/127  W20 D8  W7  W19 L3  3.5
+ 10 Marnadi, Ethan         RSAGE62G  1138  1101/ 52  L15 W25 W14 W27 L4  3.0
+ 11 Deshpande, Keshav      WOBF420G  1083  1080/ 87  W25 W15 L3  L5  W27 3.0
+ 12 Morehead, Nate         BUSGI54F   977   995/111  W26 W27 L1  W21 L5  3.0
+ 13 Guthrie, William       NSTHK30W   907   997/ 19  W16 D7  L8  D17 W25 3.0
+ 14 Alamuru, Kriti         SKWG815A   850   884/ 71  L2  W31 L10 W33 W20 3.0
+ 15 Hildenbrand, Blane     PSMH122V   848   964/146  W10 L11 L16 W29 W21 3.0
+ 16 Chabot, Troy           BRSJK15U  1203  1097/ 10  L13 D19 W15 L6  W26 2.5
+ 17 Godse, Gaurav          EVJI290Q  1181  1121/120  W23 L21 L6  D13 W28 2.5
+ 18 Phillips-acheson, SebasWOBG817T   960   935/222  W31 L3  L5  W32 HPB 2.5
+ 19 Joshi, Vyom            LEOHH81X  1182  1107/156  D28 D16 W22 L9  L8  2.0
+ 20 Parson, Anya           SSMFI86G  1157  1076/ 39  L9  W28 W23 L4  L14 2.0
+ 21 Davis, Roman           GRSFK16K   938   912/ 10  W33 W17 L2  L12 L15 2.0
+ 22 Graham, Isaac          HCCFJ42K   891   858/ 29  L3  W24 L19 L25 W32 2.0
+ 23 Yen, Apollo            RKWFG78H   881   824/ 52  L17 W30 L20 L26 W33 2.0
+ 24 Wang, Ethan            BASFK40U   757   758/ 26  L7  L22 L28 W30 W29 2.0
+ 25 Yaramati, Vishvak      KJHG834S   717   743/ 20  L11 L10 W31 W22 L13 2.0
+ 26 Howell, Carlos         SRTFK38Y   493   607/ 24  L12 L4  W30 W23 L16 2.0
+ 27 Desai, Taj             HTNGK10Y   600   917/  5  W4  L12 W29 L10 L11 2.0
+ 28 Ramprasad, Udbhav      EMDFG73Z   890   884/ 35  D19 L20 W24 L7  L17 1.5
+ 29 Lahiri, Priyadarshi    INGG191Q   959   869/ 30  W32 L1  L27 L15 L24 1.0
+ 30 Hirani, Jia            CSMF905R   531   507/ 22  L8  L23 L26 L24 W31 1.0
+ 31 Srinivasa, Sanvi       TFEGK65T   482   431/ 25  L18 L14 L25 BYE L30 1.0
+ 32 Guruswamy, Tejal       CPJGK10X   600   452/  4  L29 L5  BYE L18 L22 1.0
+ 33 Ramanadham, Thanusree  OMSIK10V   800   432/  4  L21 BYE L4  L14 L23 1.0

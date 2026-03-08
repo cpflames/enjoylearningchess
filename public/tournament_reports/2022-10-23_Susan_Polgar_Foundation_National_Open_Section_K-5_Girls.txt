@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Cheng, Selina          THUF413R  1400  1456/409  W5  W4  W2  D3  W7  W6  5.5
+  2 Xu, Zoe                SOMDG70A  1289  1308/173  W8  W3  L1  L4  W5  W7  4.0
+  3 Wong, Kate             BCAE459M  1449  1411/114  W7  L2  D5  D1  D4  W8  3.5
+  4 Meng, Miranda          OPWDH69P  1443  1408/ 67  W6  L1  W7  W2  D3  L5  3.5
+  5 Wang, Nicole           SOME428S   896  1046/ 61  L1  W6  D3  W8  L2  W4  3.5
+  6 Zhang, Kyrene          LKDEC84Y   937   951/161  L4  L5  W8  W7  HPB L1  2.5
+  7 Balasubramanian, Kala  CNCE519Y  1121  1060/ 48  L3  W8  L4  L6  L1  L2  1.0
+  8 Arvind, Neeti          SHSFG66L   500   544/  5  L2  L7  L6  L5  BYE L3  1.0

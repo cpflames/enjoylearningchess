@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kozaczuk, James        SHKG108A   839   855/ 52  L3  W2  W4  2.0
+  2 Richardson, Alexander  FERK217M   776   818/ 19  W4  L1  W3  2.0
+  3 Wilson, Nathaniel      SHKGE45V   746   812/ 12  W1  W4  L2  2.0
+  4 Bowman, Finn           SHMJD50L   806   722/ 17  L2  L3  L1  0.0

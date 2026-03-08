@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Scholtz, Ethan         LLLD239W   452   555/  9  W6  W3  W2  3.0
+  2 Thompson, Mabel        MGVDK94U   439   452/ 12  W7  W5  L1  2.0
+  3 Bormuth, Lucas         LYCCD92J   347   394/  5  WF  L1  W5  2.0
+  4 Vivas, Santiago        LYCE345X   400   372/  3  L5  W7  W6  2.0
+  5 Kaur, Prabhkirat       IREDE41C   447   370/  6  W4  L2  L3  1.0
+  6 Hennig, Maddox         BLNGA63B   316   253/  7  L1  BYE L4  1.0
+  7 Van Regenmorter, MikaylLYCE382G   400   100/  2  L2  L4  BYE 1.0

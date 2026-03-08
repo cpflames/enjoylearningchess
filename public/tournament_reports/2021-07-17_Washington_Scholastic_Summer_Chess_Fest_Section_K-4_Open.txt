@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 tot 
+  1 Xiao, David            MRPDA64Q  1539  1585/ 63  W4  W3  W2  W5  W13 W8  W6  7.0
+  2 Huang, Emily           MEDEB39A  1364  1353/160  W10 W8  L1  W13 W7  D5  L4  4.5
+  3 Liu, Vincent           ILAC546Q  1305  1306/105  W14 L1  L5  W11 D4  W10 W8  4.5
+  4 Li, Austin A           ENDE438B  1179  1239/ 62  L1  W14 L8  W9  D3  W12 W2  4.5
+  5 Cheng, Selina          THUD413R  1323  1312/289  D13 W7  W3  L1  L8  D2  W12 4.0
+  6 Tan, Nathan            UCDB412Y  1174  1157/ 57  D11 L12 L10 W14 W9  W13 L1  3.5
+  7 Desimone, James        VRDEH32X   803   986/ 89  W12 L5  W9  D8  L2  L11 W14 3.5
+  8 Lella, Vihan           KKND685A  1052  1158/ 37  W9  L2  W4  D7  W5  L1  L3  3.5
+  9 Edmond, Ivy            WWDDD81E  1197  1137/206  L8  W10 L7  L4  L6  W14 W13 3.0
+ 10 Xie, Michael           BLWE549C  1019  1043/220  L2  L9  W6  D12 W14 L3  D11 3.0
+ 11 Levy, Solomon          CSIDD39J  1177  1121/ 18  D6  L13 W14 L3  L12 W7  D10 3.0
+ 12 Kuchimanchi, Praharsh  BRHD414Z  1233  1162/101  L7  W6  L13 D10 W11 L4  L5  2.5
+ 13 Gadde, Arnav           ENSCJ39D  1027  1084/ 12  D5  W11 W12 L2  L1  L6  L9  2.5
+ 14 Li, Timothy            CRIEE29R   867   809/114  L3  L4  L11 L6  L10 L9  L7  0.0

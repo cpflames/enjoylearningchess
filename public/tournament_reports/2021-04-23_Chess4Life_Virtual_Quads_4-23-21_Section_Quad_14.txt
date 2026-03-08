@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Agrawal, Sakash        CLHBC98H   695   741/ 43  U   W3  W2  2.0
+  2 Chondolu, Vilok        XXXD522G   642   639/ 11  W3  U   L1  1.0
+  3 Shaikot, Sabeer        XXXC147Q   558   512/ 17  L2  L1  U   0.0

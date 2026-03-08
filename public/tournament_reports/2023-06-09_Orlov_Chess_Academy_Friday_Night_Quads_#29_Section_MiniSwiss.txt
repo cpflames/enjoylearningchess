@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jang, Jinwon           VIEF561P   850   891/ 50  W6  W4  W3  3.0
+  2 Chaudhuri, Agnivesh    CHADB55V  1063  1013/190  L3  W5  WF  2.0
+  3 Ensz, Arlo             RHJGK62C   597   675/ 42  W2  W6  L1  2.0
+  4 Doronin, Victor        BMNF335T   720   711/ 40  W5  L1  LF  1.0
+  5 Chikuleva, Eva         BLWDK08W   300   405/  3  L4  L2  W6  1.0
+  6 Siddarth, Ashwath      RSHDK08V   300   100/  3  L1  L3  L5  0.0

@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Tandon, Ayaan          CRKEG07U   877   945/ 39  W22 W4  W12 W2  4.0
+  2 Ahmed, Mekail          RSAIF08U   799   815/ 18  W18 W5  W11 L1  3.0
+  3 Tran, Phong            BENE232E   743   756/ 18  W19 L12 W6  W8  3.0
+  4 Patel, Aarya           REEEK30E   571   655/ 10  W13 L1  W18 W9  3.0
+  5 Yen, Apollo            RKWFG78H   484   631/ 37  W21 L2  W13 W12 3.0
+  6 Gujjar, Aditya         APOGE59Q   716   698/129  W20 D17 L3  W11 2.5
+  7 Singhal, Aryash        UNKD595L   418   507/ 22  D8  L9  W16 W17 2.5
+  8 Nguyen, Gavyn          SNRFK24U   500   629/  4  D7  W16 W17 L3  2.5
+  9 Mishra, Angad          RKWDK70V   531   536/ 44  L12 W7  W19 L4  2.0
+ 10 Popat, Darsh           SPTD406D   586   509/ 10  L17 L20 W21 W15 2.0
+ 11 Guilanians, Gavin      OPWG645B   594   599/ 17  W14 W15 L2  L6  2.0
+ 12 Bhende, Shaurya        MMEDK24T   300   711/  4  W9  W3  L1  L5  2.0
+ 13 Lee, Louie             SNSDK25D   644   571/  8  L4  W22 L5  W19 2.0
+ 14 Xu, Yan                SSMGK24R   600   404/  4  L11 L19 W22 W18 2.0
+ 15 Lechner, Ryker         HSCE496J   599   526/ 42  D16 L11 W20 L10 1.5
+ 16 Xu, Derek              SSMEK24Q   400   387/  4  D15 L8  L7  W20 1.5
+ 17 Devlin, Austin         HSSFK25F   487   485/ 11  W10 D6  L8  L7  1.5
+ 18 Anderson, Natalia      PPPFA13V   330   318/ 33  L2  W21 L4  L14 1.0
+ 19 Alnatour, Zayn         WMEAK93Z   348   348/ 19  L3  W14 L9  L13 1.0
+ 20 Karasala, Anwita       MAHEK90B   297   304/ 16  L6  W10 L15 L16 1.0
+ 21 Grigoryan, Vlad        HSSKZ95Y  1000   255/  4  L5  L18 L10 W22 1.0
+ 22 Li, Jayden             MEDFG59W   403   304/ 14  L1  L13 L14 L21 0.0

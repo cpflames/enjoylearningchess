@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Ethan Yichen    CRIFG57B   684   716/399  L4  W2  W3  2.0
+  2 Devlin, Austin         OSEFK25F   675   712/ 44  W3  L1  W4  2.0
+  3 Wani, Vivaan Vikram    GTMHK15E   733   691/ 15  L2  W4  L1  1.0
+  4 Kandar, Aarav          FISCK21U   649   633/ 18  W1  L3  L2  1.0

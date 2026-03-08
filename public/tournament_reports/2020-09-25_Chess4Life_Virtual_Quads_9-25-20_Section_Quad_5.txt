@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dmitriev, Lyan         NPTD246H  1125  1266/187  W4  W3  W2  3.0
+  2 Bharathy Mohan, Aarav  FRWCC98B  1126  1177/ 95  W3  W4  L1  2.0
+  3 Li, Yiyang             BCAD700B  1234  1177/109  L2  L1  D4  0.5
+  4 Attuluri, Kaushik      INGJC628  1180  1135/279  L1  L2  D3  0.5

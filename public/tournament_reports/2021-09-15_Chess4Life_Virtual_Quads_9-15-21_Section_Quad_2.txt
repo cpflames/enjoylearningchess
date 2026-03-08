@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bharadwaj, Samarth     DGHBE78A  1417  1487/ 43  W3  D4  W2  2.5
+  2 Huang, Emily           MEDFB39A  1436  1441/169  D4  W3  L1  1.5
+  3 Zhou, Yuchen           BCACJ42H  1502  1473/341  L1  L2  W4  1.0
+  4 Sangal Lopez, Dev      WOBE515J  1455  1436/225  D2  D1  L3  1.0

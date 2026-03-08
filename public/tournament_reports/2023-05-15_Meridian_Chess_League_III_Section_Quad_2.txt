@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kozaczuk, James        SHKH108A  1115  1123/146  W2  D3  W4  2.5
+  2 Siadal, Carson         MRDJK41F   921   969/  9  L1  W4  W3  2.0
+  3 Peterson, Everest      MRDJ836M   863   884/ 28  W4  D1  L2  1.5
+  4 Moors, Samuel          BLNIH93D   847   791/ 44  L3  L2  L1  0.0

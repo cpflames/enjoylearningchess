@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Sankrithi, Sarang      HSCCB11D  1289  1349/143  W17 W3  W7  W5  W6  5.0
+  2 Shankaranand, Deeksha  EBSDI74Y  1192  1200/111  W20 WF  L5  W6  W7  4.0
+  3 Vashisht, Aneesh       LKWDC30Y   922  1009/ 33  W18 L1  W10 W8  W5  4.0
+  4 Black, Stas            BCAD368F   776   839/ 39  WF  L6  W19 W9  W12 4.0
+  5 Edmond, Alec           CSICH03G  1196  1176/157  W11 W12 W2  L1  L3  3.0
+  6 Gagnier, Ian           HSCDC72H  1105  1092/113  W9  W4  W8  L2  L1  3.0
+  7 Dai, Alex              CHRDC43N  1103  1091/ 43  W15 W10 L1  W12 L2  3.0
+  8 Joseph, Veronique      SJOCJ04S   413   502/ 23  WF  W14 L6  L3  W15 3.0
+  9 Wang, Ethan            EBSDF77E   400   718/  4  L6  WF  W18 L4  W14 3.0
+ 10 Yan, Rian              DCTD218U   400   769/  5  W14 L7  L3  W16 W13 3.0
+ 11 Tyagi, Ananya          MEDCG07Y   400   400/  9  L5  D16 L14 BYE W19 2.5
+ 12 Cohen, Sasha           DCTCK75G   854   816/ 32  W16 L5  W15 L7  L4  2.0
+ 13 Khambatti, Maxim       HSCD719W   529   512/ 15  WF  LF  U   WF  L10 2.0
+ 14 Balasubramanian, AkshatRCSD700Y   457   455/ 33  L10 L8  W11 W17 L9  2.0
+ 15 Chang, Linus           DCTCG13U   400   400/  4  L7  WF  L12 W19 L8  2.0
+ 16 Eun, Ryan              DCTDG85W   400   400/  5  L12 D11 W20 L10 D17 2.0
+ 17 Mehran, Tara           OPWDE56L   400   400/ 15  L1  L18 HPB L14 D16 1.0
+ 18 Capretta, Ethan        DCTDI79U   400   509/  3  L3  W17 L9  LF  U   1.0
+ 19 Freyer, Cohen          DCTCE73R   400   400/  4  LF  W20 L4  L15 L11 1.0
+ 20 Kelkar, Owee           FRWCG35K   400   400/  3  L2  L19 L16 U   U   0.0

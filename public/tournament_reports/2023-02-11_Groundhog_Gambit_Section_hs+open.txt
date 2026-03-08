@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Al-hakeem, Hasan       WVSMC84R  1494  1510/ 23  W15 W17 W5  D2  W6  4.5
+  2 Reddy, Eshan           SGSH336Y  1388  1419/285  W10 W16 W6  D1  W8  4.5
+  3 Coe, Michael           UHIKK70Q  1000  1414/  5  W14 L6  W16 W7  W5  4.0
+  4 Peterson, Eli          ADCJH13G   973  1063/ 25  D12 W9  W15 L5  W16 3.5
+  5 Patterson, Ben         PDHKI54X  1377  1366/ 67  W7  W11 L1  W4  L3  3.0
+  6 Leifried, Hunter       PDHKK98A  1167  1266/ 10  W8  W3  L2  W11 L1  3.0
+  7 Triplett, Caleb        ADCJK70P   900  1223/  5  L5  W18 W13 L3  W12 3.0
+  8 Davis, Aiden           ADCJK70N   900  1131/  5  L6  W14 W10 W9  L2  3.0
+  9 Selle, Matthew         PDHM1660   878   902/ 47  W19 L4  W12 L8  D11 2.5
+ 10 Santilli, Tristen      MHSLH668   747   751/106  L2  BYE L8  W19 D15 2.5
+ 11 Warren, Emmitt         ADCJK70M   900  1023/  5  W18 L5  W17 L6  D9  2.5
+ 12 Lockwood, Henry        CMYJK70L   900  1030/  5  D4  W13 L9  W18 L7  2.5
+ 13 Celli, Victor          WVSM376J  1184  1100/ 18  L16 L12 L7  BYE W17 2.0
+ 14 Hilton, Olivia         SIAKK588   961   940/251  L3  L8  BYE L16 W18 2.0
+ 15 Price, Rachel          GPSJF94S   853   827/ 24  L1  W19 L4  D17 D10 2.0
+ 16 Miles, Isaiah          RGAK719Y  1007  1029/ 14  W13 L2  L3  W14 L4  2.0
+ 17 Hilton, Amelie         SIAJE627   744   734/221  BYE L1  L11 D15 L13 1.5
+ 18 Bagmet, Dana           SVLK292D   963   889/ 19  L11 L7  W19 L12 L14 1.0
+ 19 Dyck, Chapin           CMYJK70J   900   360/  4  L9  L15 L18 L10 BYE 1.0

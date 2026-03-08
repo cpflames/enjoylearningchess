@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Utsler, Matthew        LWALK03C  1037  1107/  6  W4  W3  D2  2.5
+  2 Ray, Iain              EPSG392B   736   880/ 95  W6  W5  D1  2.5
+  3 Zhang, Kevin           SPTE809Y   946   965/ 78  W5  L1  W4  2.0
+  4 Xu, Jeffery            MEDFJ88V   900   870/ 11  L1  W6  L3  1.0
+  5 Doronin, Victor        BMNF335T   763   756/ 69  L3  L2  W6  1.0
+  6 Jang, Jinwon           VIEF561P   823   738/ 56  L2  L4  L5  0.0

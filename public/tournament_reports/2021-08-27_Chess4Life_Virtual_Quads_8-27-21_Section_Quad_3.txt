@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhou, Yuchen           BCABJ42H  1416  1469/335  D4  W2  W3  2.5
+  2 Ying, Yiheng           MEDDE78K  1411  1413/264  W3  L1  D4  1.5
+  3 Condit, Noah           KMDFA59Q  1421  1400/ 71  L2  W4  L1  1.0
+  4 Karri, Aditya          AUDDC55V  1412  1393/142  D1  L3  D2  1.0

@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Beegala, Keshav        EVJGJ27V  1751  1753/207  W16 W6  W3  D2  W4  4.5
+  2 Nallabothula, Vineesh  TMBG764Q  1631  1642/276  W12 W14 W8  D1  WF  4.5
+  3 Pai, Vihaan            CHADK17C  1283  1323/161  W13 W7  L1  WF  W8  4.0
+  4 Prashant, Niranjan     SNIF468K  1384  1365/ 50  W17 L8  W9  W12 L1  3.0
+  5 Palathingal, Rafael    BEND196R  1246  1193/ 47  L14 W15 WF  W16 L9  3.0
+  6 Zhu, Kevin             CSMD865U  1082  1121/360  W9  L1  W14 L8  W15 3.0
+  7 Ginotra, Karman        RKWDB15D  1019  1103/ 63  W10 L3  L16 W11 W12 3.0
+  8 Don, Alexander         BUSG958V  1005  1157/166  W11 W4  L2  W6  L3  3.0
+  9 Tunuguntla, Sai SrithanEMDEK78V  1000  1059/171  L6  BYE L4  W13 W5  3.0
+ 10 Joseph, Veronique      SJODJ04S  1246  1181/127  L7  L12 D13 BYE W16 2.5
+ 11 Raghunathan, Vidur     MCID878A  1142  1058/ 44  L8  WF  BYE L7  L13 2.0
+ 12 Lakshminarayanan, KaavyOMSG210E  1052  1071/ 71  L2  W10 W15 L4  L7  2.0
+ 13 Yakkali, Karthik VedantKKNF301E  1028  1034/ 31  L3  D16 D10 L9  W11 2.0
+ 14 Ngu, Elliott           CGRF452U  1027  1009/ 99  W5  L2  L6  L15 BYE 2.0
+ 15 Maharaja, Imai         RKWCK34K   928   921/ 18  BYE L5  L12 W14 L6  2.0
+ 16 Ward, Benjamin         WMEFK32Q  1062  1055/ 15  L1  D13 W7  L5  L10 1.5
+ 17 Trochesset, David      ENSGG98F  1049  1040/ 54  L4  LF  LF  LF  LF  0.0

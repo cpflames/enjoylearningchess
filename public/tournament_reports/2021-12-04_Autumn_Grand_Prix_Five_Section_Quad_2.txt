@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Peterson, Kylan        MRDK175Q   880  1036/ 15  W3  W2  W4  3.0
+  2 Zhang, Owen            FHVG995H  1055  1051/107  W4  L1  W3  2.0
+  3 Carpenter, Jonas       VSTI274G   917   871/ 24  L1  D4  L2  0.5
+  4 Anshus, Erik           SHMKD320   829   805/ 66  L2  D3  L1  0.5

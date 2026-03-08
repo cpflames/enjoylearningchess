@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Sankrithi, Sarang      HSCBB11D   899  1054/ 64  W4  W6  W2  W3  W8  5.0
+  2 Edmond, Alec           LCNBH03G  1062  1060/ 63  W5  W8  L1  W7  W3  4.0
+  3 Kakkad, Vayu           BRYAK50L   878   883/200  W9  W10 W8  L1  L2  3.0
+  4 Sunshine, Ari          EVGBE66A   511   586/ 10  L1  W11 L5  W12 W6  3.0
+  5 Wahi, Jai              EVGBJ34H   516   559/ 16  L2  W9  W4  L6  D7  2.5
+  6 Choi, Paige            EVGBD50E   579   595/ 33  W11 L1  D10 W5  L4  2.5
+  7 Choi, Sydney           EVGBD34F   457   516/ 30  L8  W12 W11 L2  D5  2.5
+  8 Jayadevan, Kunal       SCDA893P   779   760/ 15  W7  L2  L3  W9  L1  2.0
+  9 Sakthivel, Oviya       CRKBG56A   474   482/ 27  L3  L5  W12 L8  W11 2.0
+ 10 Saravanan, Maadhav     CSMB555W   400   619/  3  W12 L3  D6  U   U   1.5
+ 11 Cameron, Ella          HLTBA66S   400   400/  9  L6  L4  L7  BYE L9  1.0
+ 12 Chiu, Callum           LCNB720R   540   427/ 34  L10 L7  L9  L4  BYE 1.0

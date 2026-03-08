@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Karri, Aditya          AUDEC55V  1295  1331/318  W2  D3  U   1.5
+  2 Singh, Rushil          SNEFB52N  1302  1314/ 99  L1  U   W3  1.0
+  3 Sinha, Agastya         BRHDA75C  1483  1442/175  U   D1  L2  0.5

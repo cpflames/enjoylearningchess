@@ -1,0 +1,35 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ephrem, Yabi           HSCHC72Q   817   990/ 59  WF  W4  W24 W2  D3  4.5
+  2 Tardif, Gavin          EPSIC02L   880   952/ 10  W31 W21 W20 L1  W7  4.0
+  3 Raja, Rian             CNCE786E   805   974/ 21  D7  W14 W13 W10 D1  4.0
+  4 Soukal, Martin         HSCIE76L   681   937/ 14  W9  L1  W27 W26 W15 4.0
+  5 Parthasarathy, Adithya EBSFB74Z   500   965/  5  L12 W23 W28 W24 W14 4.0
+  6 Phillips-acheson, SebasWOBF817T   771   903/159  W19 W27 D10 L7  W18 3.5
+  7 Kosau, Mikhail         OMSGG08J   600  1045/  5  D3  W9  W18 W6  L2  3.5
+  8 Song, Matthew          SKIG142W   896   859/ 87  W29 L20 L14 W21 W24 3.0
+  9 Goldman, Rowan         BUSF633N   895   879/ 92  L4  L7  W32 W22 W23 3.0
+ 10 Mitra, Rahul           OPWGH53N   894   889/205  W30 W12 D6  L3  D13 3.0
+ 11 Syal, Aadya            SHSGJ14J   873   841/ 16  L24 W25 L15 W29 W26 3.0
+ 12 Battula, Jeswanth Sri SICSHE96V   753   761/ 12  W5  L10 L26 W32 W25 3.0
+ 13 Palukuri, Anirudh      RSAF459Z   715   825/ 42  W16 D18 L3  W17 D10 3.0
+ 14 Elkhamri, Sophia       BUSG468Y   581   745/ 11  W17 L3  W8  W16 L5  3.0
+ 15 Tie, Mike              ENDD856Y   400   853/  5  L21 W29 W11 W20 L4  3.0
+ 16 Patil, Tarun           CSEFK34P   500   794/  5  L13 W31 W21 L14 W20 3.0
+ 17 Taylor, Ryder          HSCI385C   892   834/ 98  L14 W34 D19 L13 W28 2.5
+ 18 Pusuluri, Likhit Arnav CNCEC25K   823   815/ 31  W32 D13 L7  W19 L6  2.5
+ 19 Byam, Caleb            HSCFI71C   500   770/  5  L6  W22 D17 L18 W29 2.5
+ 20 Shankar, Sneha         CNCE372B   753   731/184  W34 W8  L2  L15 L16 2.0
+ 21 Deng, Alison           MEDEC56H   757   745/ 25  W15 L2  L16 L8  W30 2.0
+ 22 Pretti, Giulia         STMIF84J   711   687/ 74  L33 L19 W31 L9  W34 2.0
+ 23 Emam, Aydin            PKREK53A   694   686/ 50  L27 L5  W34 W28 L9  2.0
+ 24 Dai, Jeremy            SOMG264Z   616   692/ 41  W11 W28 L1  L5  L8  2.0
+ 25 Sena, Samuel           ECLE699U   530   526/ 20  L28 L11 BYE W31 L12 2.0
+ 26 Thungathurthi, PranavarMMEFG82R   500   771/  4  U   W30 W12 L4  L11 2.0
+ 27 Lyshol, Christian      DENI664W   896   855/ 42  W23 L6  L4  U   U   1.0
+ 28 Goldman, Rhys          BUSHD48L   860   746/ 76  W25 L24 L5  L23 L17 1.0
+ 29 Mccarthy, Ronan        LKDEB40K   703   649/ 48  L8  L15 W30 L11 L19 1.0
+ 30 Alamuru, Kriti         CNCF815A   649   573/ 16  L10 L26 L29 W34 L21 1.0
+ 31 Saha, Nikhil           BUSHJ98H   629   556/ 15  L2  L16 L22 L25 W32 1.0
+ 32 Hirani, Jia            CSME905R   400   400/ 12  L18 BYE L9  L12 L31 1.0
+ 33 Xu, Samuel             EASE854L   400  1075/  1  W22 U   U   U   U   1.0
+ 34 Saha, Neel             BUSFJ78Y   500   400/  5  L20 L17 L23 L30 L22 0.0

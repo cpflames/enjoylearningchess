@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Swaminath, Akshita     CNCB295Z   706   746/ 48  W7  W5  W4  W3  L2  4.0
+  2 Inampudi, Tanvisree    BRHEB45J   786   758/ 13  W6  L4  D3  WF  W1  3.5
+  3 Ramkumar, Aditya       UNKBC38J   400   502/ 27  BYE W6  D2  L1  W8  3.5
+  4 Wang, Evan             FRWB929Z   637   634/ 15  W8  W2  L1  W5  L7  3.0
+  5 Krzeszowski, Anthony   MYHEI41R   548   553/ 32  BYE L1  W7  L4  W6  3.0
+  6 Srivastava, Manya      FRWE758W   521   478/ 24  L2  L3  W8  W7  L5  2.0
+  7 Jain, Anvay            EBSE874Z   400   408/ 18  L1  W8  L5  L6  W4  2.0
+  8 Karthic, Vaishnavi     XXXC990M   400   400/  4  L4  L7  L6  LF  L3  0.0

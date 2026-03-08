@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Alam, Adil             BCAGI15X  1369  1415/216  W4  W3  D2  2.5
+  2 Pisan, Kai             CHYH404C  1353  1407/238  W3  W4  D1  2.5
+  3 Singh, Rushil          SNEEB52N  1328  1312/ 29  L2  L1  W4  1.0
+  4 Karri, Aditya          AUDDC55V  1327  1268/166  L1  L2  L3  0.0

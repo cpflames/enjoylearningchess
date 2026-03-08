@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Nair, Ishan            FRWE670E  1194  1218/ 87  W5  W9  W3  L2  W4  4.0
+  2 Zhu, Aiden             LLSBC77X  1059  1139/ 50  L4  W7  W8  W1  W6  4.0
+  3 Dai, Alex              CHRDC43N  1158  1140/ 71  W7  W6  L1  L4  BYE 3.0
+  4 Shankaranand, Deeksha  EBSDI74Y  1205  1185/161  W2  L5  W9  W3  L1  3.0
+  5 Li, Harry              SSSCG30G   921   948/181  L1  W4  L6  BYE W8  3.0
+  6 Boulanger, Valentin    CMMEB07H  1112  1071/ 20  W8  L3  W5  D7  L2  2.5
+  7 Xiang, Lucas           CNHC761Z   837   839/ 27  L3  L2  BYE D6  W9  2.5
+  8 Schulte, Joey          STCFD62Q   644   633/ 33  L6  BYE L2  W9  L5  2.0
+  9 Lokesh Kumar, Taneesh KCHRC446L   400   400/  4  BYE L1  L4  L8  L7  1.0

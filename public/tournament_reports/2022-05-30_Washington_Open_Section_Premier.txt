@@ -1,0 +1,65 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Tatikonda, Nihanth     CPJH926F  1658  1700/208  WF  D24 W41 W15 D2  W16 5.0
+  2 Olson, Travis          ADUN8893  1731  1751/ 61  W48 W33 W31 D12 D1  W8  5.0
+  3 Wilke, Daniel          HCCN9777  1716  1728/272  W52 D41 HPB W47 W26 D7  4.5
+  4 Wang, Daniel           LSSJ8287  1644  1671/594  W43 W55 D16 D11 D9  W12 4.5
+  5 Jammalamadaka, Varnika OVLHD216  1694  1713/442  W51 W28 D7  W24 D12 D6  4.5
+  6 Patton Jr, Lorenzo     SKNNB263  1745  1749/488  D46 W53 W17 D13 W18 D5  4.5
+  7 Ozusta, Ozgun          ADUNE28V  1300  1813/  6  W56 W45 D5  D16 W11 D3  4.5
+  8 Pogrebinsky, Ethan     BRHK7887  1547  1575/166  W35 L16 W55 W51 W13 L2  4.0
+  9 Garine, Ujwal          REJIB99A  1592  1623/188  W50 D11 D25 W27 D4  D15 4.0
+ 10 Bharathy Mohan, Aarav  FRWDC98B  1178  1412/240  W42 L31 W33 L26 W51 W49 4.0
+ 11 Mehrotra, Shiv         OMSKH131  1739  1741/300  W54 D9  W27 D4  L7  W25 4.0
+ 12 Devadithya, Hiruna     PFCI5494  1482  1579/674  W59 W18 W21 D2  D5  L4  4.0
+ 13 Wong-godfrey, Emerson  EXWIH83E  1649  1653/414  W60 D25 W30 D6  L8  W33 4.0
+ 14 Sankar, Abhay          LEOI6545  1654  1650/378  D30 W34 L24 W29 D21 W36 4.0
+ 15 Devaraju, Sonia        OMSJK838  1539  1589/506  W32 D17 W40 L1  W41 D9  4.0
+ 16 Merrikin, David        ADUNG78Q  1300  1740/  6  W47 W8  D4  D7  W31 L1  4.0
+ 17 Kou, Jeffrey           ISSL9083  1646  1647/388  W23 D15 L6  HPB W44 D19 3.5
+ 18 Tran, Nugen            CDZH455Z  1556  1568/346  W44 L12 W37 W23 L6  D21 3.5
+ 19 Mc Devitt, Owen        ADUNG21H  1300  1601/  6  D36 W22 D38 L31 W47 D17 3.5
+ 20 Razmov, Gabriel        ADDGC26K  1562  1556/219  L27 W60 D28 D32 W43 D23 3.5
+ 21 Gillen, Paul           ADUN932V  1300  1570/  5  WF  W40 L12 D25 D14 D18 3.5
+ 22 Willaford, Loyd J      ADUN508V  1300  1547/  6  L41 L19 W56 W28 W24 D26 3.5
+ 23 Rabadan, Michael       ADUNE34H  1475  1490/ 16  L17 W46 W53 L18 W45 D20 3.5
+ 24 Hack, Don              ADBNF13X  1347  1486/ 62  W49 D1  W14 L5  L22 W41 3.5
+ 25 Krishnan, Advait       UNKG570Q  1404  1515/101  W39 D13 D9  D21 W49 L11 3.5
+ 26 Chang, Eric            TYEI174T  1549  1541/101  L55 W43 W35 W10 L3  D22 3.5
+ 27 Hyslop, Robert         ADUN155Z  1300  1670/  5  W20 W38 L11 L9  W52 HPB 3.5
+ 28 Liu, Bichen            KKNFK00D  1418  1430/ 50  WF  L5  D20 L22 D48 W52 3.0
+ 29 Borate, Neel           REEF821E  1527  1516/220  L61 D56 W50 L14 W57 D30 3.0
+ 30 Nallabothula, Vineesh  EBSF764Q  1459  1492/266  D14 W36 L13 L49 W38 D29 3.0
+ 31 Alvarez, Carlos        ADUN329T  1573  1613/  9  W57 W10 L2  W19 L16 U   3.0
+ 32 Lim, Hayul             VCEFQ94C  1380  1421/ 68  L15 D44 W46 D20 L33 W54 3.0
+ 33 Xiong, Michael         MEDD115A  1533  1512/219  W62 L2  L10 W53 W32 L13 3.0
+ 34 Hendricks, David       ADUNB791  1554  1525/103  HPB L14 D48 D57 WF  HPB 3.0
+ 35 Kodarapu, Neev         JWEFW11X  1307  1387/142  L8  W54 L26 W42 L36 W51 3.0
+ 36 Merriman, Dann         WMNCF79Y  1543  1526/459  D19 L30 HPB W55 W35 L14 3.0
+ 37 Urali, Sanjay          MEDE315D  1460  1417/322  L40 WF  L18 L45 W50 D39 2.5
+ 38 Han, Shuyi             SOMFK47W  1641  1591/275  W58 L27 D19 L41 L30 W57 2.5
+ 39 Nallappa, Vijay        REJGD40S  1576  1520/323  L25 L51 W60 L44 W56 D37 2.5
+ 40 Obulisamy, Jaikrishnaa EALJK894  1603  1550/102  W37 L21 L15 L43 D58 W56 2.5
+ 41 Shneerson, Ivan        ADUND15N  1471  1503/ 11  W22 D3  L1  W38 L15 L24 2.5
+ 42 Anandkumar, Haituka    STLH238P  1541  1483/308  L10 D58 D52 L35 W55 D44 2.5
+ 43 Breslauer, Arlo        ADUN193A  1437  1454/ 11  L4  L26 W54 W40 L20 D48 2.5
+ 44 Gadde, Arnav           ENSDJ39D  1484  1469/ 81  L18 D32 D59 W39 L17 D42 2.5
+ 45 Fobian, Christian      ADUNJ00H  1300  1328/  6  W63 L7  L51 W37 L23 D47 2.5
+ 46 Sripada, Anisha        FNEFG76T  1486  1453/285  D6  L23 L32 L56 W62 W58 2.5
+ 47 Eggleston, Jack        ADUNH29C  1300  1398/  6  L16 W57 W62 L3  L19 D45 2.5
+ 48 Boddapati, Sacchit     WDMH1381  1500  1477/234  L2  D50 D34 HPB D28 D43 2.5
+ 49 Li, Emma               LMSH521Q  1568  1523/336  L24 D52 W58 W30 L25 L10 2.5
+ 50 Gajcowski, Hannah Nami OPWGI10H  1239  1238/182  L9  D48 L29 D58 L37 BYE 2.0
+ 51 Richards, Jerrold      ADUNI25C  1473  1441/ 28  L5  W39 W45 L8  L10 L35 2.0
+ 52 Varner, Murlin Eug     ADUN2012  1500  1464/ 11  L3  D49 D42 W62 L27 L28 2.0
+ 53 Mishra, Abhinav        TMBGB02W  1253  1251/ 47  BYE L6  L23 L33 L54 W60 2.0
+ 54 Ramkumar, Nikhil       RBRE115E  1504  1451/183  L11 L35 L43 W60 W53 L32 2.0
+ 55 Jolly, Tristan         EVJI1857   966  1071/165  W26 L4  L8  L36 L42 W62 2.0
+ 56 Meng, Miranda          CNHCH69P  1379  1372/ 55  L7  D29 L22 W46 L39 L40 1.5
+ 57 Chen, Jeremy           EPSI7853  1400  1359/160  L31 L47 W64 D34 L29 L38 1.5
+ 58 Yuodelis, Kenneth      TYEI3681  1429  1386/368  L38 D42 L49 D50 D40 L46 1.5
+ 59 Demberel, Amana        LCOJJ14E  1340  1339/ 40  L12 BYE D44 U   LF  U   1.5
+ 60 Cheng, Selina          THUE413R  1449  1363/388  L13 L20 L39 L54 BYE L53 1.0
+ 61 Lopez, Francisco J     ADUN1605  1793  1799/ 25  W29 U   U   U   U   U   1.0
+ 62 Xu, Zoe                CNHCG70A  1169  1111/128  L33 BYE L47 L52 L46 L55 1.0
+ 63 Ciani, Keith           ADUNG04B   698   698/  6  L45 U   U   U   U   U   0.0
+ 64 Shreeraam, Seshasayee  RSAED91F  1096  1085/ 25  U   U   L57 U   U   U   0.0

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Clendenning, Euan      MPMIS07X   800   884/  3  W2  W5  W4  3.0
+  2 Su, Oliver             JINBD01U   448   480/ 23  L1  W4  W6  2.0
+  3 Dehghan, Maya          FPEEE31J   400   423/ 20  U   W6  W5  2.0
+  4 Angadi, Yashika        GRRF732U   407   400/ 34  W6  L2  L1  1.0
+  5 Sang, Enya             BRHC217W   400   400/  2  BYE L1  L3  1.0
+  6 Lin, Ean               CGRD376W   400   400/  3  L4  L3  L2  0.0

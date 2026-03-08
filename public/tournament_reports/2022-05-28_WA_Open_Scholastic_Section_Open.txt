@@ -1,0 +1,22 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Obulisamy, Jaikrishnaa EALJK894  1561  1603/ 96  W18 W6  D7  W4  3.5
+  2 Ren, Aaron             HSCCG67B  1437  1534/ 94  W15 W3  D8  W7  3.5
+  3 Chen, William          BLWF550N  1537  1548/ 29  W19 L2  W12 W9  3.0
+  4 Yondon, Odbayar        LMADK97T  1516  1544/ 73  W9  W11 W5  L1  3.0
+  5 Gadde, Arnav           ENSDJ39D  1458  1484/ 75  W12 W14 L4  W10 3.0
+  6 Wong, Kate             BCAD459M  1428  1449/108  W21 L1  W13 W11 3.0
+  7 Kang, Ayaan            ENSEI60T  1511  1518/274  W10 W13 D1  L2  2.5
+  8 Lee, Elliot            OPWGA70D  1464  1466/117  L11 W20 D2  W16 2.5
+  9 Cen, Evan              TYEGI97D  1379  1394/ 95  L4  W16 W19 L3  2.0
+ 10 Huang, Emily           MEDFB39A  1371  1377/225  L7  W17 W20 L5  2.0
+ 11 Stein, Samuel          HSCEH03T  1367  1383/217  W8  L4  W14 L6  2.0
+ 12 Kokati, Pranav         OMSG814P  1335  1348/202  L5  W18 L3  W20 2.0
+ 13 Aggarwal, Aadit        LEOIE722  1248  1260/444  BYE L7  L6  W17 2.0
+ 14 Vankamamidi, Advaith   EALJ193M  1245  1288/115  W17 L5  L11 W18 2.0
+ 15 Ying, Yiheng           MEDEE78K  1234  1242/299  L2  BYE L17 W19 2.0
+ 16 Xie, Max               BLWHI185  1457  1385/377  L20 L9  W21 L8  1.0
+ 17 Lim, Hayul             VCEFQ94C  1453  1380/ 62  L14 L10 W15 L13 1.0
+ 18 Demberel, Amana        LCOJJ14E  1404  1340/ 38  L1  L12 BYE L14 1.0
+ 19 Stein, Benjamin        HSCCB61S  1389  1331/227  L3  W21 L9  L15 1.0
+ 20 Fei, Derek             SPTEJ01E  1228  1223/ 54  W16 L8  L10 L12 1.0
+ 21 Singhal, Aryash        UNKC595L   400   925/  3  L6  L19 L16 BYE 1.0

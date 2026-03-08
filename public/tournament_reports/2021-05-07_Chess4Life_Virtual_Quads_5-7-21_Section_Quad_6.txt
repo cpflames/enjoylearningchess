@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Ethan (yichen)  CRIDG57B  1225  1312/105  W4  W3  W2  3.0
+  2 Karri, Aditya          AUDDC55V  1203  1223/115  W3  W4  L1  2.0
+  3 Wang, Jacob            BLWDD74Y  1157  1142/113  L2  L1  W4  1.0
+  4 Pravlik, Aiden         SHSB416H  1145  1085/163  L1  L2  L3  0.0

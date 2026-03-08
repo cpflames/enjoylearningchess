@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hack, Don              ADBNF13X  1327  1336/ 20  W4  D3  W2  2.5
+  2 Cheng, Selina          THUD413R  1309  1300/228  W3  W4  L1  2.0
+  3 Ruff, Lois             ADUNJ90S  1120  1122/ 80  L2  D1  W4  1.5
+  4 Urcuyo, Connor         ADUN348Z  1300   400/  3  L1  L2  L3  0.0

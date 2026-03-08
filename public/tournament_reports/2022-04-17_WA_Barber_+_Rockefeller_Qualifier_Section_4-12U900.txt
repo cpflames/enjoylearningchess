@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Das, Siddharth         BLWG293Y   823   834/105  W7  L5  W11 W2  W6  4.0
+  2 Duseja, Ronit          TIMEA38H   821   860/ 85  W6  W3  W4  L1  W7  4.0
+  3 Li, Timothy            CRIFE29R   737   779/124  W11 L2  W5  W4  W9  4.0
+  4 Bahl, Shrey            OMSHG938   745   717/106  W8  W9  L2  L3  W11 3.0
+  5 Hetamsaria, Aayan      TYEGG19R   740   690/  9  W10 W1  L3  L6  BYE 3.0
+  6 Thaker, Ayaan          DISEJ51G   469   590/ 10  L2  W8  W9  W5  L1  3.0
+  7 Senthil, Dharmik       SOME766C   495   491/ 28  L1  W10 D8  W11 L2  2.5
+  8 Nallamothu, Anvitha    SSME948U   400   406/ 12  L4  L6  D7  BYE W10 2.5
+  9 Zusman, Diana          AUDFG59S   500   400/  4  WF  L4  L6  W10 L3  2.0
+ 10 Meshkova, Polina       CSIE449E   400   400/  9  L5  L7  BYE L9  L8  1.0
+ 11 Juarez-caballero, CristSNIED76Z   400   400/  4  L3  BYE L1  L7  L4  1.0

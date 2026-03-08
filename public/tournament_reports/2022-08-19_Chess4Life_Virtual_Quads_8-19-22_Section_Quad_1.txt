@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Ethan            SKNL4017  1750  1752/ 98  W4  W3  L2  2.0
+  2 Pisan, Kai             CHYH404C  1712  1720/381  L3  W4  W1  2.0
+  3 Liu, Yuntao            STTE505Y  1611  1640/255  W2  L1  W4  2.0
+  4 Seela, Shashank        SSMFI74N  1593  1553/170  L1  L2  L3  0.0

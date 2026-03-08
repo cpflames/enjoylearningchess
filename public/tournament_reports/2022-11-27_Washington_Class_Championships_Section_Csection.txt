@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Hendricks, David       ADUNB791  1525  1627/109  W19 D4  W21 W7  W13 D3  5.0
+  2 Kumar, Ramesh          ADUNF17C  1364  1560/  6  W20 L13 W16 W10 W9  W5  5.0
+  3 Breslauer, Arlo        ADUN193A  1454  1628/ 15  WF  W20 W13 HPB W5  D1  5.0
+  4 Marcelais, Kai         REDJA64J  1574  1608/151  W14 D1  L7  W21 W12 W13 4.5
+  5 Yuodelis, Kenneth      NPRJ3681  1566  1579/404  W12 W6  W10 WF  L3  L2  4.0
+  6 Meng, Miranda          OPWDH69P  1463  1514/ 82  W22 L5  L11 W20 W14 W9  4.0
+  7 Munkh-erdene, MunkhbileADUNK799  1584  1602/ 71  W15 D21 W4  L1  D10 W11 4.0
+  8 Sharma, Devansh        KMNIF88S  1374  1440/141  W25 L9  D19 D18 W21 D10 3.5
+  9 Nallappa, Vijay        REJHD40S  1583  1557/344  L11 W8  W12 W17 L2  L6  3.0
+ 10 Chang, Eric            NPRJ174T  1551  1541/113  W17 W11 L5  L2  D7  D8  3.0
+ 11 Merriman, Dann         EREDF79Y  1489  1499/483  W9  L10 W6  L13 W17 L7  3.0
+ 12 Anandkumar, Haituka    STLI238P  1435  1445/338  L5  W22 L9  W19 L4  W17 3.0
+ 13 Cen, Evan              TYEHI97D  1523  1531/131  W16 W2  L3  W11 L1  L4  3.0
+ 14 Cheng, Selina          THUF413R  1456  1465/415  L4  W18 L17 W16 L6  W15 3.0
+ 15 Condit, Noah           KMDHA59Q  1515  1480/125  L7  L17 D24 W22 W18 L14 2.5
+ 16 Subramanian, Thrinay   SPTH466R  1380  1367/100  L13 BYE L2  L14 D20 W22 2.5
+ 17 Bartminn, Jan Lorenz   BLMGH59K  1426  1411/137  L10 W15 W14 L9  L11 L12 2.0
+ 18 Gadde, Arnav           ENSEJ39D  1582  1508/118  L21 L14 W22 D8  L15 D19 2.0
+ 19 Yang, Arthur           ISBIN34Z  1287  1296/194  L1  D23 D8  L12 D22 D18 2.0
+ 20 Tan, Nathan            UCDD412Y  1507  1454/139  L2  L3  BYE L6  D16 LF  1.5
+ 21 Krishnan, Advait       REJH570Q  1476  1459/111  W18 D7  L1  L4  L8  LF  1.5
+ 22 Frederick, Benjamin    LAUFS57X  1517  1408/198  L6  L12 L18 L15 D19 L16 0.5
+ 23 Vijeyanandh, Vishnu    TMBHF63Z  1254  1257/138  U   D19 U   U   U   U   0.5
+ 24 Louie, Henry           ADUNI286  1313  1325/  9  U   U   D15 U   U   U   0.5
+ 25 Hamlett, James         ADUN4372  1544  1517/ 90  L8  U   U   U   U   U   0.0

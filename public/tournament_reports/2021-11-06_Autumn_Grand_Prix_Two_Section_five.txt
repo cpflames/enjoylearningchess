@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Moreau, Zayden         VSTGB68M   800   963/  5  W6  W2  W3  3.0
+  2 Plumb, Grayden         VSTG879H   600   783/  3  W5  L1  W4  2.0
+  3 Valente, Jolie         VSTHB84A   700   766/  3  W4  W6  L1  2.0
+  4 Akers, Lucas           LYAFK69Q   500   489/  3  L3  W5  L2  1.0
+  5 Lee, Joedon            VSTGH11A   600   400/  3  L2  L4  W6  1.0
+  6 Beach, Brennen         HORIE29Y   800   400/  3  L1  L3  L5  0.0

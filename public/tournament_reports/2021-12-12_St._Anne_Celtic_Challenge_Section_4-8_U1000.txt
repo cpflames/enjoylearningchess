@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Veiga, Gabriel         ENSFJ31Y   955  1129/ 93  W22 W9  W8  W2  W3  5.0
+  2 Ngu, Elliott           CGRE452U   906   991/ 66  W11 W21 W4  L1  W9  4.0
+  3 Phillips-acheson, SebasWOBF817T   903   999/163  WF  W12 W6  W13 L1  4.0
+  4 Foltz, Karsten         HTNG306D   955   975/ 66  W16 W7  L2  W8  D5  3.5
+  5 Kannapiran, Arnav      OPWD983P   856   883/ 34  W20 L6  W19 W7  D4  3.5
+  6 Tardif, Gavin          EPSIC02L   952   939/ 15  W17 W5  L3  L9  W13 3.0
+  7 Joshi, Vaidehi         CRKGG37G   884   883/111  W21 L4  W17 L5  W12 3.0
+  8 Pusuluri, Likhit Arnav CNCEC25K   880   894/ 42  W18 W14 L1  L4  W17 3.0
+  9 Abueg, Jethro          SLBEH78U   841   883/ 85  W23 L1  W14 W6  L2  3.0
+ 10 Jaeger, Russell        SANE967K   730   721/117  L14 L13 W23 W19 W18 3.0
+ 11 Prabhu, Varun          HLYE329U   661   735/ 27  L2  HPB W20 D14 W15 3.0
+ 12 Xu, Alex               DCTF500U   987   933/ 44  W15 L3  D13 W16 L7  2.5
+ 13 Deng, Alison           MEDEC56H   745   772/ 30  W19 W10 D12 L3  L6  2.5
+ 14 Lekkala, Vihan         BLWE428L  1001   913/139  W10 L8  L9  D11 D16 2.0
+ 15 Dhawan, Viraj          BCAFI96U   734   681/ 29  L12 L18 W22 W21 L11 2.0
+ 16 Bikkula, Charan        CRIFJ23A   702   690/ 89  L4  D20 W18 L12 D14 2.0
+ 17 Kim, Rian              SOMFI59L   680   655/ 97  L6  W23 L7  W20 L8  2.0
+ 18 Kotsis, Julian         OPWEJ84G   507   522/ 14  L8  W15 L16 W23 L10 2.0
+ 19 Mishra, Naveen         SNIEI07A   400   549/  5  L13 W22 L5  L10 W23 2.0
+ 20 Anderson, Quinn        SJOH101U   400   400/ 17  L5  D16 L11 L17 WF  1.5
+ 21 Donovan, Christian     SANE328M   511   454/  6  L7  L2  BYE L15 LF  1.0
+ 22 Anderson, Penn         SJOH561N   699   617/ 81  L1  L19 L15 U   U   0.0
+ 23 Yim, Ryan              SJOE105Y   400   400/  5  L9  L17 L10 L18 L19 0.0

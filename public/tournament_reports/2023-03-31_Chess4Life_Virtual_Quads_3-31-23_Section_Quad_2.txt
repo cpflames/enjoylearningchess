@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhou, Nathan           NJHG215X  1471  1487/ 57  W2  D3  D4  2.0
+  2 Condit, Noah           KMDHA59Q  1452  1453/148  L1  D4  W3  1.5
+  3 Sinha, Agastya         HSCDA75C  1431  1437/156  W4  D1  L2  1.5
+  4 Tan, Nathan            UCDD412Y  1474  1451/148  L3  D2  D1  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Scollon, Owen          FHVG734D  1587  1582/344  L4  W3  W2  2.0
+  2 Bosch, Ethan           SHMMF67U  1517  1525/ 72  W3  W4  L1  2.0
+  3 Trushkov, Max          FERJ616A  1468  1447/145  L2  L1  W4  1.0
+  4 Werner, Ross           SHMKB91H  1252  1274/ 58  W1  L2  L3  1.0

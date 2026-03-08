@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Reynolds, Spencer      FERM2234   716   861/ 23  W8  W4  W3  3.0
+  2 Mcconaughy, Marcus     SHMJ798W   720   754/ 10  W7  L3  W6  2.0
+  3 Hall, Jack             FERMD220   711   776/ 85  W5  W2  L1  2.0
+  4 Granger, Jacob         BLHK654S   694   749/ 31  W6  L1  W7  2.0
+  5 Coulter, Alex          MRDMF898   738   691/ 55  L3  L6  W8  1.0
+  6 Masterson, Emmett      LYEL300S   737   704/ 22  L4  W5  L2  1.0
+  7 Adams, Carson          MRDMA48F   668   641/ 19  L2  W8  L4  1.0
+  8 Kerr, Ethan            BLHKJ06N   654   575/ 12  L1  L7  L5  0.0

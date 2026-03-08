@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Lee, Elliot            OPWFA70D  1379  1402/ 72  W11 W10 W7  W3  L2  4.0
+  2 Chung, Ethan           LIBE108U  1507  1503/218  W14 W5  L3  W6  W1  4.0
+  3 Joshi, Yash            SHSE280R  1198  1302/ 48  WF  W8  W2  L1  W7  4.0
+  4 Rubaiyat, Rhadean      ETSFD40L   954  1101/ 64  D15 L6  W13 W14 W5  3.5
+  5 Kang, William          SOMEC12H  1206  1220/ 59  W13 L2  W11 W9  L4  3.0
+  6 Rastogi, Atharv        GRRD377H  1144  1162/ 15  L8  W4  W12 L2  W10 3.0
+  7 Kancherla, Rohan       GRRFC11M  1239  1233/269  W16 W12 L1  W10 L3  3.0
+  8 Medikurthi, Jagadish   BRHE995Z   807  1014/ 46  W6  L3  L10 W11 W15 3.0
+  9 Wolfe, Jaxon           HSCF335Z  1414  1364/ 18  L10 W15 W14 L5  W12 3.0
+ 10 Cheng, Selina          THUD413R  1031  1062/112  W9  L1  W8  L7  L6  2.0
+ 11 Kuchimanchi, Praharsh  BRHD414Z  1039  1025/ 69  L1  W13 L5  L8  W16 2.0
+ 12 Iarovich, Shachar      CMCE122J   975   985/ 46  WF  L7  L6  W15 L9  2.0
+ 13 Vangala, Advaith       BLWF174X   894   892/260  L5  L11 L4  D16 W14 1.5
+ 14 Alagumalai, Gautham    EBSEF64S  1043   996/165  L2  W16 L9  L4  L13 1.0
+ 15 Xie, Edward            CMCDJ10T  1300  1185/ 86  D4  L9  D16 L12 L8  1.0
+ 16 Zhao, George           CRKBA26L   933   897/126  L7  L14 D15 D13 L11 1.0

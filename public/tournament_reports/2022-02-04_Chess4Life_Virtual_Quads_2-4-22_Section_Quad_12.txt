@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Krishna, Sai           XXXE383J   629   739/ 18  W2  D4  W3  2.5
+  2 Sumanaseni, Evan       CNHF876D   641   690/160  L1  W3  W4  2.0
+  3 Sembium, Aditi         BCABK25W   605   592/  9  W4  L2  L1  1.0
+  4 Lai, Woody             SNRC582C   756   674/ 13  L3  D1  L2  0.5

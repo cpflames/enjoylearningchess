@@ -1,0 +1,58 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kovarik, Otto          LLMHJ63V  1502  1535/ 52  W22 W15 W7  W9  W3  5.0
+  2 Repalle, Vibhav        LLMIK31L  1211  1255/ 85  W25 W16 W18 W5  W11 5.0
+  3 Rahman, Zayd           ENTIF83W  1413  1412/117  W23 W34 W8  W4  L1  4.0
+  4 Dillingham, Daniel     KCCFB73M  1189  1195/212  W37 W17 W20 L3  W23 4.0
+  5 Dillingham, Annabella  KCCG229F  1081  1098/211  W27 W19 W24 L2  W20 4.0
+  6 Hitt, Maylee           RRGHK96D  1014  1017/ 13  W38 W35 W21 L11 W25 4.0
+  7 Hassan, Ahmad          RRGH714R   904   951/138  W40 W46 L1  W22 W26 4.0
+  8 Bellofatto, Hayden     RRGIK95J   785   930/141  W42 W31 L3  W24 W27 4.0
+  9 Landen, David          RRGHK68R   700  1227/  5  W36 W33 W14 L1  W18 4.0
+ 10 Ybarra, Caleb          CKKHK96F  1156  1085/ 13  L24 W41 W13 D21 W30 3.5
+ 11 Chong, Kyle            LLMHC51N   738   897/ 25  W56 D13 W31 W6  L2  3.5
+ 12 Motkuri, Akshath       LLMH554U  1039   974/ 80  W50 L18 L23 W41 W35 3.0
+ 13 Van, Preston           RRGGG09Y  1021   990/177  W28 D11 L10 W46 D21 3.0
+ 14 Geelhood, Alec         CDKHI90A   963   943/ 74  W39 W30 L9  L20 W37 3.0
+ 15 Graham, Benjamin       RRGHD22G   814   813/ 75  W48 L1  W38 L25 W36 3.0
+ 16 Moe, Steven            OCHGH29P   803   780/ 15  W53 L2  L28 W44 W38 3.0
+ 17 Mejia, Xavior          RRGH533Y   772   760/ 97  W57 L4  W39 L26 W40 3.0
+ 18 Bradford, Joe          OCHGI86H   758   836/ 32  W54 W12 L2  W37 L9  3.0
+ 19 Lokaman, Islam         STPHJ18G   757   752/ 42  W49 L5  W43 L23 W42 3.0
+ 20 Dodson, Tyson          KCCG234D   732   864/ 16  W43 W32 L4  W14 L5  3.0
+ 21 Hernandez, Ethan       RRGG195L   695   820/ 44  W44 W29 L6  D10 D13 3.0
+ 22 Lokaman, Anwar         STPH883Q   683   742/109  L1  W48 W45 L7  W32 3.0
+ 23 Romero, Osias          RRGH973N   661   803/ 64  L3  W51 W12 W19 L4  3.0
+ 24 Medrano, Axel          OCHIB48G   644   819/ 24  W10 W36 L5  L8  W33 3.0
+ 25 Fultz, Heath           JMLG853S   635   757/ 20  L2  W52 W32 W15 L6  3.0
+ 26 Gogic, Arian           JMLGK96A   583   708/ 10  L31 W42 W29 W17 L7  3.0
+ 27 Gomez, Anthony         OCHHD08B   550   681/ 34  L5  W57 W34 W35 L8  3.0
+ 28 Perez Birrueta, Rafael OCHIK60W   487   628/ 14  L13 W49 W16 L30 W34 3.0
+ 29 Coates, Ethan          BLSH820M   847   774/ 15  W41 L21 L26 D39 W48 2.5
+ 30 Rosales, Ethan         JMLGA85C   724   720/ 35  W45 L14 D46 W28 L10 2.5
+ 31 Harrington, Ephraim    MOAHK96E  1111   933/ 13  W26 L8  L11 L40 W55 2.0
+ 32 Thallapally, Sriyan    LLMGA43W   942   849/ 80  W47 L20 L25 W43 L22 2.0
+ 33 Hall, Paxton           LLMGH14U   838   774/ 66  W51 L9  L37 W55 L24 2.0
+ 34 Kermani, Kirabella     LLMGG24N   803   734/ 90  W52 L3  L27 W51 L28 2.0
+ 35 Philo, Demetri         MOAHK96C   783   726/ 13  W55 L6  W44 L27 L12 2.0
+ 36 Lemon, Bryce           KCCGF01G   708   690/ 26  L9  L24 W40 W45 L15 2.0
+ 37 Miranda, Santiago      STPG437Y   595   624/ 56  L4  W53 W33 L18 L14 2.0
+ 38 Whitemarsh, Emanuel    STPGE22J   486   483/ 25  L6  W54 L15 W56 L16 2.0
+ 39 Chin, Andre            LLMGA23B   466   487/ 50  L14 W56 L17 D29 D46 2.0
+ 40 Calderin, Emma         CHJG782D   444   526/ 19  L7  W55 L36 W31 L17 2.0
+ 41 Quintero, Brianna      STPIK64D   427   435/ 14  L29 L10 W57 L12 W56 2.0
+ 42 Trevino-gonzalez, MariaOCHG767V   386   434/ 20  L8  L26 W50 W47 L19 2.0
+ 43 Morris, Tyson          GVMHK68Q   700   555/  5  L20 W50 L19 L32 W51 2.0
+ 44 Bragg, Brennen         JMLIK68P   800   533/  5  L21 W47 L35 L16 W53 2.0
+ 45 Lara, Salvador         STPGK68N   600   398/  4  L30 BYE L22 L36 W54 2.0
+ 46 Hall, Grayden          JMLGK68M   600   580/  4  BYE L7  D30 L13 D39 2.0
+ 47 Naranjo, Urijah        RRGH253A   446   389/ 14  L32 L44 D53 L42 W57 1.5
+ 48 Wampole, Caleb         JMLI133K   394   389/ 29  L15 L22 D54 W50 L29 1.5
+ 49 Tinoco, Arely          RRGGK95T   100   100/  8  L19 L28 L51 BYE D52 1.5
+ 50 Domingos, Caetone      RRGHK95U   508   348/  9  L12 L43 L42 L48 BYE 1.0
+ 51 Coyne, James           JMLH783T   417   387/ 10  L33 L23 W49 L34 L43 1.0
+ 52 Ruiz, Rafael           RRGG760R   400   107/  9  L34 L25 L55 D57 D49 1.0
+ 53 Thompson, Ayden        JMLHJ98S   341   308/ 14  L16 L37 D47 D54 L44 1.0
+ 54 Duran, Angel           RRGGC22Z   266   246/ 19  L18 L38 D48 D53 L45 1.0
+ 55 Ringle, Chloe          RRGGK68L   600   331/  5  L35 L40 W52 L33 L31 1.0
+ 56 Prasad, Sonali         JMLGK68K   600   100/  4  L11 L39 BYE L38 L41 1.0
+ 57 Wright, Andrew         JMLHK95Q   205   148/ 10  L17 L27 L41 D52 L47 0.5

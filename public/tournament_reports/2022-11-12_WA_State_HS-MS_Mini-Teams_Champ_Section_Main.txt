@@ -1,0 +1,30 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Vankamamidi, Advaith   EALK193M  1288  1378/120  W23 W21 W7  W20 W22 5.0
+  2 Cheng, Edward          GARKC74W  1835  1829/391  W28 W10 W16 L3  W17 4.0
+  3 Maurer, Sam            INTK742A  1613  1653/ 18  L6  W11 W17 W2  W25 4.0
+  4 Jain, Arnav            INTK7967  1605  1602/292  W12 W18 W5  L9  W13 4.0
+  5 Obulisamy, Jaikrishnaa EALKK894  1550  1560/107  W18 W19 L4  W12 W9  4.0
+  6 Trushkov, Max          FERK616A  1442  1552/153  W3  W28 W10 W17 L16 4.0
+  7 Xiao, Ruichen          INTKE39K  1438  1424/129  W20 W23 L1  W22 W14 4.0
+  8 Werner, Ross           SHMLB91H  1327  1306/ 86  W14 W22 L20 W21 BYE 4.0
+  9 Teh, Logan             GARLH765  1389  1416/ 95  W26 D15 W19 W4  L5  3.5
+ 10 Lee, Jae-yoon          SHMKC734  1584  1582/ 86  W25 L2  L6  W16 W24 3.0
+ 11 Kuzin, Ethan           SHMK7567  1329  1342/267  L17 L3  W25 W24 W28 3.0
+ 12 Lewis, Theo            FERLK29P  1244  1285/ 61  L4  W26 W15 L5  W19 3.0
+ 13 Reynolds, Spencer      FERM2234   546   716/ 20  L15 W29 W18 W26 L4  3.0
+ 14 Red Elk, Ali-lawet     FERM986S   521   598/ 37  L8  BYE W23 W27 L7  3.0
+ 15 Frost, Ignatius        SHMJJ64P  1389  1336/ 48  W13 D9  L12 L19 W29 2.5
+ 16 Scollon, Owen          FHVH734D  1619  1589/367  W24 L17 L2  L10 W6  2.0
+ 17 Koripella, Teja        EALKG56Q  1550  1541/ 29  W11 W16 L3  L6  L2  2.0
+ 18 Love, Charles          SHMK458N  1196  1149/ 61  L5  L4  L13 W29 W26 2.0
+ 19 Zhang, Owen            FHVH995H  1191  1192/181  W29 L5  L9  W15 L12 2.0
+ 20 Carpenter, Jonas       FERJ274G  1120  1109/ 35  L7  W27 W8  L1  L21 2.0
+ 21 Bubb, Ezra             FHVH592K  1032  1020/100  BYE L1  L22 L8  W20 2.0
+ 22 Cole, Reece            GARJ3567   987   999/123  W27 L8  W21 L7  L1  2.0
+ 23 Mcconaughy, Marcus     SHMJ798W   874   720/  7  L1  L7  L14 BYE W27 2.0
+ 24 Tiblow, Josiah         TBMLU34B  1100  1229/  5  L16 W25 W28 L11 L10 2.0
+ 25 Darr-rehmert, Natalie  FERMK93U  1091  1079/ 92  L10 L24 L11 W28 L3  1.0
+ 26 Hall, Jack             FERMD220   743   711/ 82  L9  L12 W29 L13 L18 1.0
+ 27 Gonzales, Jazzie       FERM372M  1200   400/  4  L22 L20 BYE L14 L23 1.0
+ 28 Mcfadden, Cameron      FERMI35S  1002   965/ 73  L2  L6  L24 L25 L11 0.0
+ 29 Lewis, Kajani          TBMKW05D  1000   400/  5  L19 L13 L26 L18 L15 0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bowman, Finn           SHMJD50L   693   708/ 34  W4  L3  W2  2.0
+  2 Burt, Colton           LYCF617Z   681   700/ 40  W3  W4  L1  2.0
+  3 Van Male, Justin       BLHLB91X   656   682/ 17  L2  W1  W4  2.0
+  4 Gordziel, Conner       CIAE518P   585   490/  9  L1  L2  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Vulli, Sriyans         CHREG86P   612   729/  9  W4  W3  D2  2.5
+  2 Naenna, Patanin        SPLCQ28H   812   781/ 19  W3  L4  D1  1.5
+  3 Kondapally, Reyhan     XXXHD48F   834   708/  6  L2  L1  W4  1.0
+  4 Tu, Derric             XXXFB77N   500   604/  3  L1  W2  L3  1.0

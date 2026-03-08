@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xie, Ann               CCDAK03P   100   478/  3  W2  D3  W4  2.5
+  2 Hu, Maxwell            HSCAK03N   100   378/  3  L1  W4  W3  2.0
+  3 Li, Henry              CMCCK03M   200   278/  3  W4  D1  L2  1.5
+  4 Chin, Lucas            TLIAK03L   100   100/  3  L3  L2  L1  0.0
+
+ All Unrated-player Section: Ratings capped at 1000

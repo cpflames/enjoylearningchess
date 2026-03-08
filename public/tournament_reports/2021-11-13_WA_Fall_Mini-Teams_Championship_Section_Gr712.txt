@@ -1,0 +1,42 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Anand, Vignesh         REDMJ919  2077  2092/435  W31 W19 W25 W32 W13 5.0
+  2 Petrov, Oscar          OVLMA216  1869  1895/311  W39 W32 W34 W25 W24 5.0
+  3 Roesch, Carson         BLHJ120K  1815  1839/193  WF  W14 W39 W24 W19 5.0
+  4 Nelson, Michael        LSSM9364  1521  1545/232  W9  WF  W8  W27 W36 5.0
+  5 Martin, Trevor         XXXMC32B  1200  1103/  3  W35 D23 W36 WF  WF  4.5
+  6 Singh, Aditya          LSSM8559  1687  1687/487  W15 W16 W7  L12 W21 4.0
+  7 King, George E         GARM1724  1660  1674/ 63  W20 W41 L6  W11 W12 4.0
+  8 Adams, Henry           GARLE729  1385  1399/ 94  W30 W22 L4  W18 W27 4.0
+  9 Heider, Elena          NOVHC647   963  1067/ 91  L4  W36 W23 W22 W35 4.0
+ 10 Yenamandra, Siddharth  ICSIA49G   852   984/  9  W36 WF  W27 W30 L18 4.0
+ 11 Popov, Alex            WDVLG60J  1100  1588/  5  W41 W20 W17 L7  W29 4.0
+ 12 Scollon, Owen          FHVG734D  1519  1526/289  W28 D17 W29 W6  L7  3.5
+ 13 Jongema, Gabriel       LYEK984D  1432  1491/ 19  D19 W31 W40 W39 L1  3.5
+ 14 Roberts, Ben           SPRMA990  1348  1453/110  W34 L3  D31 W26 W32 3.5
+ 15 Teh, Logan             GARKH765  1250  1272/ 71  L6  W21 W33 W41 D17 3.5
+ 16 Pisan, Kai             CHYH404C  1307  1281/192  W33 L6  W41 L21 W37 3.0
+ 17 Deines, John           SPRMF58Q  1200  1324/  5  W37 D12 L11 W33 D15 3.0
+ 18 Kim, Jacob             WDVLF40T  1100  1103/  5  L22 W30 W35 L8  W10 3.0
+ 19 Cheng, Edward          GARJC74W  1694  1692/313  D13 L1  W24 W31 L3  2.5
+ 20 Mccrory, Jared         LYEKA43K  1467  1425/ 19  L7  L11 W28 D29 W41 2.5
+ 21 Xie, Ethan             OVLKI42S  1281  1260/ 34  D29 L15 W37 W16 L6  2.5
+ 22 Segal, Jonathan        REDJ751G   900  1004/  4  W18 L8  WF  L9  D30 2.5
+ 23 Zahavy-mittleman, PelegXXXLK54J  1100   920/  4  WF  D5  L9  L35 W28 2.5
+ 24 Lakshminarayanan, RishiLSSKD542  1697  1681/165  W32 W25 L19 L3  L2  2.0
+ 25 Devadithya, Hiruna     PFCI5494  1625  1618/634  W26 L24 L1  L2  W34 2.0
+ 26 Marcelia, David        CPBMK21F  1592  1548/ 62  L25 W34 L32 L14 W38 2.0
+ 27 Bandstra, Noah         BHMK6017  1353  1289/121  WF  W35 L10 L4  L8  2.0
+ 28 Krassovsky, Victor     EALM7082   911   937/ 41  L12 W39 L20 W37 L23 2.0
+ 29 Raje, Atharva          SLLHL432   812   881/127  D21 WF  L12 D20 L11 2.0
+ 30 Moore, Gregory         LYEK789Q   882   856/ 18  L8  L18 WF  L10 D22 1.5
+ 31 Prem Kumar, Gopinath   WDVK958Q  1000  1377/  5  L1  L13 D14 L19 W39 1.5
+ 32 Fiat, Ronan            GARM6448  1456  1448/ 49  L24 L2  W26 L1  L14 1.0
+ 33 Pak, Atticus           LEOJ608R   400   531/  9  L16 L37 L15 L17 W40 1.0
+ 34 Bassler, Gabriel       XXXK105U  1000  1201/  5  L14 L26 L2  W40 L25 1.0
+ 35 Corr, Quentin          SPRL374C  1100   863/  5  L5  L27 L18 W23 L9  1.0
+ 36 Min, Ava               OVLK199T  1000   608/  4  L10 L9  L5  WF  L4  1.0
+ 37 Tan, Matthew           XXXK743M  1000   755/  5  L17 W33 L21 L28 L16 1.0
+ 38 Gershony, Oren         BLWJ534Q  1609  1584/183  LF  LF  LF  LF  L26 0.0
+ 39 Walimbe, Aadi          SLLHW982  1365  1290/266  L2  L28 L3  L13 L31 0.0
+ 40 Raj, Jayahari          PMIH227V  1097  1024/136  LF  LF  L13 L34 L33 0.0
+ 41 Anand, Arjun           REDJ8489   510   508/ 66  L11 L7  L16 L15 L20 0.0

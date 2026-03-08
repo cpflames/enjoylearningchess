@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Plyuschakov, Max       BLHK532H   594   815/  6  W2  W4  W3  3.0
+  2 Singh, Jagteshwar      MRDLJ25M   610   643/ 12  L1  W8  W5  2.0
+  3 Kerr, Ethan            BLHKJ06N   575   639/ 15  W6  W7  L1  2.0
+  4 Fransico-woodenlegs, JoMRDK680H   555   664/  6  W5  L1  W7  2.0
+  5 May, Ruby              BLHL397U   619   584/ 15  L4  W6  L2  1.0
+  6 Parsons, Damien        VSTGC92H   594   533/  9  L3  L5  W8  1.0
+  7 Manly, Katie           FERK313C   594   555/ 41  W8  L3  L4  1.0
+  8 Emory, Lukas           LYEM112V   552   427/  9  L7  L2  L6  0.0

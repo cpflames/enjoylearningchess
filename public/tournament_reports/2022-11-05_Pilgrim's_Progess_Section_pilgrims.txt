@@ -1,0 +1,22 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Reddy, Eshan           SGSH336Y  1355  1342/270  W20 W7  L5  W2  W9  4.0
+  2 Patterson, Ben         PDHKI54X  1310  1309/ 48  W18 W8  W4  L1  W3  4.0
+  3 Keener, Karl           HLHHY40G  1112  1132/ 69  W19 W9  W12 W5  L2  4.0
+  4 Elkins, Indiana        HSCHC15D   582   882/ 39  W14 W6  L2  W8  W5  4.0
+  5 Campbell, Sebastian    ASPHI79A  1027  1026/127  W13 W15 W1  L3  L4  3.0
+  6 Bai, Kelin             SKKED75J   948   906/147  W16 L4  W19 W15 L7  3.0
+  7 Hilton, Olivia         SIAKK588   914   922/232  W17 L1  L10 W12 W6  3.0
+  8 Hochheimer, Noah       SGSGF37G   900   901/167  W10 L2  W11 L4  W17 3.0
+  9 Santilli, Tristen      MHSLH668   705   795/ 83  W11 L3  W21 W10 L1  3.0
+ 10 Boyd, Aidynn           SVLHB40X   700   831/  5  L8  W13 W7  L9  W15 3.0
+ 11 Price, Rachel          GPSJF94S   900   669/  5  L9  W19 L8  W21 W16 3.0
+ 12 Wang, Kelby            SKKC796Y   854   831/ 87  HPB W18 L3  L7  W21 2.5
+ 13 Jain, Asmi             SGSCB47J   400   463/ 12  L5  L10 W17 D14 W20 2.5
+ 14 Price, Amanda          HUTG493V   600   520/  5  L4  L16 W18 D13 W19 2.5
+ 15 Hilton, Amelie         SIAJE627   685   669/202  W21 L5  W16 L6  L10 2.0
+ 16 Ji, Melody             SGSBA83X   400   445/ 10  L6  W14 L15 W20 L11 2.0
+ 17 Jordan, Annabella      FREEH23T   400   410/  8  L7  BYE L13 W18 L8  2.0
+ 18 Bradford, Vincent      SGSDI74D   458   400/ 13  L2  L12 L14 L17 BYE 1.0
+ 19 Hochheimer, Luca       SGSE179R   414   400/ 18  L3  L11 L6  BYE L14 1.0
+ 20 Elkins, Believe        HSCJ953U   400   400/  8  L1  L21 BYE L16 L13 1.0
+ 21 Zhan, Yanek            SGSBE96K   400   400/  5  L15 W20 L9  L11 L12 1.0

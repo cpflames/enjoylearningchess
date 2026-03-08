@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Austin A           PLKG438B  1427  1440/123  D3  W2  W4  2.5
+  2 Kuan, Hans             GRREK32S  1281  1307/ 16  W4  L1  W3  2.0
+  3 Veiga, Gabriel         REJGJ31Y  1150  1161/132  D1  D4  L2  1.0
+  4 Xu, Zoe                SOMDG70A  1313  1265/274  L2  D3  L1  0.5

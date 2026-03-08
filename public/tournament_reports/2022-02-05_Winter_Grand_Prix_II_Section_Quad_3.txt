@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jackson, Caitlin       BHCIJ68P   830   855/ 45  W2  L3  W4  2.0
+  2 Darr-rehmert, Natalie  FERLK93U   820   849/ 68  L1  W4  W3  2.0
+  3 Anshus, Erik           SHMKD320   820   849/ 77  W4  W1  L2  2.0
+  4 Richardson, Alexander  FERK217M   818   738/ 22  L3  L2  L1  0.0

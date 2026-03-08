@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Krishnan, Ashvath      XXXFA27M   500  1305/  5  W10 W9  W2  W4  W5  5.0
+  2 Deepak, Hasini         XXXEG00L   327   740/  5  W7  W3  L1  W9  W4  4.0
+  3 Zhen, Hongren          KIMFC02Z   883   899/ 68  W12 L2  W10 W6  W9  4.0
+  4 Pidathala, Esha        XXXE821R   431   669/  5  W8  W11 W6  L1  L2  3.0
+  5 Miller, Chloe          FRDH2385   894   888/ 77  W14 L6  W7  W11 L1  3.0
+  6 Kedarisetty, Shreyas   GRREH60G   706   756/ 51  W15 W5  L4  L3  W10 3.0
+  7 Mitra, Rahul           OPWFH53N   753   753/ 70  L2  W12 L5  W13 W11 3.0
+  8 Dailey, Jack           LCNF796D   674   635/ 28  L4  L13 W12 WF  W14 3.0
+  9 Chapman, Toby          LCNF551Y   802   760/145  W16 L1  W13 L2  L3  2.0
+ 10 Joshi, Vaidehi         CRKFG37G   758   732/ 78  L1  W16 L3  W14 L6  2.0
+ 11 Yuen, Otto Shing-lok   UNKEF34N   798   729/217  W13 L4  W15 L5  L7  2.0
+ 12 Wilson, Daniel         CQEGU41W   571   542/ 37  L3  L7  L8  W16 WF  2.0
+ 13 Guthrie, Alasdair      MADI930Z   417   442/ 24  L11 W8  L9  L7  D16 1.5
+ 14 Graceffo, Charlie      BLWFE39Q   619   548/ 49  L5  L15 W16 L10 L8  1.0
+ 15 Nair, Sathvik          CRIEA58L   400   535/  3  L6  W14 L11 LF  LF  1.0
+ 16 Crawford, Shaleena     CQEHS959   556   463/ 47  L9  L10 L14 L12 D13 0.5

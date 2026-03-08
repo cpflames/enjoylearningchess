@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Agrawal, Sakash        MEDCC98H   787   846/ 82  W12 W7  W6  W4  L2  4.0
+  2 Swaminath, Akshita     CNCB295Z   549   719/ 33  W19 L3  W14 W12 W1  4.0
+  3 Edwin, Elijah          BCSBC24D   400  1187/  4  U   W2  W15 W8  W6  4.0
+  4 Francis, Jamey         OPWDD90G   781   792/ 30  W13 D5  W8  L1  W9  3.5
+  5 Jiang, Nathan          FAPCG71Q   562   743/ 19  W11 D4  W7  L6  W10 3.5
+  6 Lu, Ian                CRIDE83J   789   813/154  W9  W10 L1  W5  L3  3.0
+  7 Wang, Jacob Z          BLWDE71A   726   703/ 29  W17 L1  L5  W18 W12 3.0
+  8 Joseph, Veronique      SJOCJ04S   642   661/ 38  W18 W11 L4  L3  W13 3.0
+  9 Mitra, Rishab          OPWD138L   447   523/115  L6  W16 W13 W15 L4  3.0
+ 10 Thorrington, James     SAND547U   745   671/ 26  W16 L6  L12 W11 L5  2.0
+ 11 Brodniak, Andy         TFEDF36B   620   576/ 62  L5  L8  W17 L10 W15 2.0
+ 12 Eng, Meeko             SJOC376D   431   484/ 37  L1  W17 W10 L2  L7  2.0
+ 13 Fritzky, Blake         SANCH43H   400   418/ 10  L4  W18 L9  W19 L8  2.0
+ 14 Stack, Gavin           SANB473H   400   406/  8  L15 U   L2  W16 W18 2.0
+ 15 Gande, Avyukth         CCDBA87K   416   401/ 15  W14 D19 L3  L9  L11 1.5
+ 16 Kim, Riu               SOMC951F   400   400/ 12  L10 L9  L18 L14 WF  1.0
+ 17 Onwuneme, Aidan        SANDI57F   400   400/ 22  L7  L12 L11 BYE U   1.0
+ 18 Wu, Olivia             BCADG32P   400   400/  5  L8  L13 W16 L7  L14 1.0
+ 19 Parihar, Advay         SOMBD66D   400   400/ 12  L2  D15 U   L13 LF  0.5

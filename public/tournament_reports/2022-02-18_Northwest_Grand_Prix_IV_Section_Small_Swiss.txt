@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chopra, Siya           SKYD153N   400   500/  6  W6  W5  D2  2.5
+  2 Facada, Riley          EAGDH89N   400   661/  3  W7  W4  D1  2.5
+  3 Manookin, Adam         HSCCF67L   400   400/  6  L4  W7  W6  2.0
+  4 Cotter, Isaiah         CIADJ31H   400   400/  9  W3  L2  D7  1.5
+  5 Sutton-brown, Owen     CEEC605L   400   400/  4  BYE L1  U   1.0
+  6 Sutton-brown, Eden     CEECD26L   400   400/  2  L1  BYE L3  1.0
+  7 Packard, Lyla          HSCC720D   400   400/  3  L2  L3  D4  0.5

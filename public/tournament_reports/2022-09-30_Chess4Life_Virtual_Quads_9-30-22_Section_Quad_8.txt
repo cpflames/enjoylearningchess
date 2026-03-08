@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yang, Eric             NCSI113Z   835   851/ 17  W3  L2  W4  2.0
+  2 Wang, Eric             BCAE803M   779   818/ 21  W4  W1  L3  2.0
+  3 Sailer, Shaunak        OPWFC25Z   771   814/169  L1  W4  W2  2.0
+  4 Ge, Alex               CCDC908H   788   708/ 72  L2  L3  L1  0.0

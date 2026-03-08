@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Aaron            BCAB631T   400   457/ 44  L3  W2  W4  2.0
+  2 Zhang, Ian             XXXB639M   100   526/  3  W4  L1  W3  2.0
+  3 Vignesh, Anirudh       BLWBA01Z   100   526/  3  W1  W4  L2  2.0
+  4 Zhou, Evelyn           CHRCB89E   400   282/  8  L2  L3  L1  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Parimi, Sandilya       PFCK914G  1096  1174/384  W4  W2  D3  2.5
+  2 Joshi, Vyom            LEOHH81X  1115  1140/ 83  W3  L1  W4  2.0
+  3 Sreraman, Rohit        BCACG92Q  1111  1089/ 52  L2  D4  D1  1.0
+  4 Yang, Brandon          CMCE154A  1126  1077/ 20  L1  D3  L2  0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yadav, Himank          NJHI399V  1194  1304/185  W3  W4  W2  3.0
+  2 Wang, Ares             MEDDJ77J  1157  1169/183  D4  W3  L1  1.5
+  3 Xing, Henry            LKDG3704  1205  1182/365  L1  L2  W4  1.0
+  4 Zhang, Ethan (yichen)  CRIEG57B  1211  1163/203  D2  L1  L3  0.5

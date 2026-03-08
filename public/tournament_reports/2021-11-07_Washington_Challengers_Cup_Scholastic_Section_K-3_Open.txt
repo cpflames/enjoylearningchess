@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Yondon, Odbayar        LMADK97T  1655  1633/ 19  W8  W4  W2  L3  W7  4.0
+  2 Liu, Vincent           ILAD546Q  1341  1401/120  W9  W7  L1  W5  W4  4.0
+  3 Mohan, Vishnu          KKNDF41R   936  1159/ 58  W6  W9  L4  W1  W10 4.0
+  4 Su, Alfred             EGBD929B  1260  1283/215  W10 L1  W3  W6  L2  3.0
+  5 Zhang, Michael         CMCDD83W   400  1264/  5  L7  W6  W8  L2  W9  3.0
+  6 Edmond, Alec           CSICH03G  1314  1266/138  L3  L5  W7  L4  W8  2.0
+  7 Gadde, Arnav           ENSDJ39D  1281  1263/ 31  W5  L2  L6  W10 L1  2.0
+  8 Meng, Miranda          CNHCH69P  1111  1099/ 15  L1  W10 L5  W9  L6  2.0
+  9 Xu, Zoe                CNHCG70A   937   922/ 78  L2  L3  W10 L8  L5  1.0
+ 10 Kannapiran, Arnav      OPWD983P   915   856/ 29  L4  L8  L9  L7  L3  0.0

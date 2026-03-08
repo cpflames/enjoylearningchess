@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Han, Matthew           BISI5262  1361  1451/273  W3  W4  W2  3.0
+  2 Eksarevskiy, Albert    WPPH530Y  1423  1428/ 24  W4  W3  L1  2.0
+  3 Li, Yiyang             BCAE700B  1277  1273/194  L1  L2  W4  1.0
+  4 Zhang, Aaron           CCDE873R  1313  1257/341  L2  L1  L3  0.0

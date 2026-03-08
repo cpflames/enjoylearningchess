@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Guha, Mitrabha         ADINY517  2451  2451/ 42  W2  W3  W4  W5  HPB 4.5
+  2 Nicoski, Aaron         ADUN598C  1807  1810/ 56  L1  W5  HPB W3  W7  3.5
+  3 Hack, Don              ADBNF13X  1306  1306/ 38  W7  L1  W6  L2  D4  2.5
+  4 Speer, Jackson         KAMM367D   932  1042/ 26  D5  W7  L1  D6  D3  2.5
+  5 Cheng, Selina          THUD413R  1301  1299/278  D4  L2  W7  L1  BYE 2.5
+  6 Budhraja, Jai          EBSDA16E   802   818/ 32  U   BYE L3  D4  U   1.5
+  7 Ruff, Lois             ADUNJ90S  1252  1177/ 99  L3  L4  L5  BYE L2  1.0

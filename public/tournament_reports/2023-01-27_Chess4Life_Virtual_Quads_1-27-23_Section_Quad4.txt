@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Duseja, Ronit          SNEFA38H  1161  1174/134  L2  W4  W3  2.0
+  2 Xie, Leon              CNHE264X  1013  1091/ 64  W1  L3  W4  2.0
+  3 Nidamarthi, Nikhil     RSAD375J  1128  1102/138  L4  W2  L1  1.0
+  4 Zhang, Ethan Yichen    CRIFG57B  1146  1115/340  W3  L1  L2  1.0

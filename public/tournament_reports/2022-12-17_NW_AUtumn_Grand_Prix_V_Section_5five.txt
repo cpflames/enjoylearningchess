@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Paz, Fernando          HORGK27P   473   596/ 15  W5  W4  W2  3.0
+  2 Porter, Toby           BLNIE53Z   520   522/ 14  WF  W3  L1  2.0
+  3 Delong, Sophia         BLNIK03A   500   451/  9  D4  L2  W5  1.5
+  4 Thompson, Mabel        MGVDK94U   452   431/ 14  D3  L1  BYE 1.5
+  5 Fitzsimmons, Caden     BLNI526Y   148   130/ 11  L1  BYE L3  1.0

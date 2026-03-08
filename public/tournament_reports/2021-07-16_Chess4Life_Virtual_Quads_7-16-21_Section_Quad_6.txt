@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kumar, Yudhish         SPTG354M  1161  1313/ 57  W4  W2  W3  3.0
+  2 Wahi, Lakshya          EVJH664Z  1233  1261/ 73  W3  L1  W4  2.0
+  3 Bhattacharjee, ArchishmBLWEA45Y  1336  1295/ 94  L2  W4  L1  1.0
+  4 Kan, Kaleb             MMECF53E  1203  1147/174  L1  L3  L2  0.0

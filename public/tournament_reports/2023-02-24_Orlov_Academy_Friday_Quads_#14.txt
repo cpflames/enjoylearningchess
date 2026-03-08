@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Evin, Terrick          EBSBC54L  1136  1187/ 81  W4  W2  W3  3.0
+  2 Shah, Kanav            LMAE295Q  1190  1166/ 42  W6  L1  W5  2.0
+  3 Garg, Vihaan           CMCCJ10X   836   852/134  W5  W4  L1  2.0
+  4 Xu, Ethan              BENDK98S   686   668/ 21  L1  L3  W6  1.0
+  5 Xing, Andrew           SSSBK62E   100   485/  3  L3  W6  L2  1.0
+  6 Ensz, Arlo             RHJGK62C   600   100/  3  L2  L5  L4  0.0

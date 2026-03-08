@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nipges, Jaxon          HORI382B  1024  1093/ 53  W4  W3  W2  3.0
+  2 Zhang, Owen            FHVG995H   942   964/116  W3  W4  L1  2.0
+  3 Jackson, Caitlin       BHCIJ68P   868   830/ 42  L2  L1  D4  0.5
+  4 Anshus, Erik           SHMKD320   855   820/ 74  L1  L2  D3  0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Neff, Nadine           ABEEC79W   480   549/258  WF  W3  W2  3.0
+  2 Kuchi, Arjun           SSMF406Z   479   513/  9  W3  W4  L1  2.0
+  3 Mehrotra, Ashank       DGHE457S   400   400/  8  L2  L1  W4  1.0
+  4 Desai, Sharanam        CCDB678T   400   400/ 14  LF  L2  L3  0.0

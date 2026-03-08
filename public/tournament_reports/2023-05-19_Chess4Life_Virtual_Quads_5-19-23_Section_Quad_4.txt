@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ganesan, Vidur         RBRD940K  1073  1148/ 58  W3  W2  W4  3.0
+  2 He, Raymond            HSCJK82K   978  1006/ 48  W4  L1  W3  2.0
+  3 Tian, Eric             SOMEI80S  1083  1036/ 98  L1  W4  L2  1.0
+  4 Wani, Vivaan Vikram    GTMHK15E   765   733/ 12  L2  L3  L1  0.0

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Scollon, Owen          FHVG734D  1560  1587/341  W6  W5  W4  3.0
+  2 Frost, Ignatius        FACIJ64P  1471  1433/ 25  D3  L6  W5  1.5
+  3 Leon, Christian        SHMI1052  1156  1209/128  D2  L4  W6  1.5
+  4 Bosch, Ethan           SHMMF67U  1564  1517/ 69  L5  W3  L1  1.0
+  5 Werner, Ross           SHMKB91H  1228  1252/ 55  W4  L1  L2  1.0
+  6 Bosch, Declan          FHVHE38K  1208  1217/ 41  L1  W2  L3  1.0

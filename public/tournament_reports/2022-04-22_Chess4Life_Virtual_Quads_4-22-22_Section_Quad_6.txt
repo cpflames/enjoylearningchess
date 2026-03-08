@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Salal, Zikrain         SHSFJ82Z  1189  1210/ 36  L4  W2  W3  2.0
+  2 Dai, Alex              CHRDC43N  1148  1183/ 58  W3  L1  W4  2.0
+  3 Su, Alfred             EGBD929B  1194  1167/231  L2  W4  L1  1.0
+  4 Aggarwal, Aadit        LEOIE722  1179  1156/427  W1  L3  L2  1.0

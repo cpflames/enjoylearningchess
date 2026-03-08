@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wolfe, Jaxon           HSCF335Z  1395  1407/ 32  W4  W2  D3  2.5
+  2 Saddi, Neevan Reddy    GRRBH87M  1256  1277/ 25  W3  L1  W4  2.0
+  3 Zhang, Ethan           CLHEE87D  1264  1261/407  L2  W4  D1  1.5
+  4 Satya Boina, Sai SanshrHSCD576S  1158  1039/  6  L1  L3  L2  0.0

@@ -1,0 +1,36 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Moses, Blessington     INTK3817  1045  1409/ 15  W17 W11 W22 W8  W7  W6  6.0
+  2 Fedorov, Vladimir      EVJHF17D  1136  1187/162  W27 W14 W23 L7  W16 W8  5.0
+  3 Wilbur, Marvin         ADUNK251  1125  1152/  6  W26 L16 W29 W14 W19 W7  5.0
+  4 Budhraja, Jai          EBSEA16E   954  1104/ 44  D5  W33 W32 W20 L6  W13 4.5
+  5 Marinescu, Andra       ADUN412W  1300  1271/  6  D4  W19 L13 W15 W12 W18 4.5
+  6 Zhang, Michael M.      MEDD668Q  1147  1183/393  L16 W12 W9  W30 W4  L1  4.0
+  7 Wang, Ares             MEDDJ77J  1055  1081/169  WF  W24 W30 W2  L1  L3  4.0
+  8 Edson, Eduard          ADUN743U  1300  1294/  6  W25 W15 W16 L1  W18 L2  4.0
+  9 Zhu, Alexander         FNEEQ49V   400  1188/  6  L22 W25 L6  W34 W20 W17 4.0
+ 10 Rasmussen, Quinn       MISIK47Q  1058  1038/ 11  W31 L30 W24 L18 W21 W19 4.0
+ 11 Hopper, Taylor         ADUNE73X  1300  1139/  5  BYE L1  L18 W32 W14 W16 4.0
+ 12 Kandhare, Aaroh        OMSHK91M   976  1060/ 44  W20 L6  W15 D13 L5  W23 3.5
+ 13 Vijeyanandh, Vishnu    TMBGF63Z   985  1001/ 70  L14 BYE W5  D12 W23 L4  3.5
+ 14 Pusuluri, Likhit Arnav CNCEC25K   815   880/ 37  W13 L2  W28 L3  L11 W29 3.0
+ 15 Godse, Gaurav          EVJH290Q  1139  1096/ 42  W35 L8  L12 L5  W31 W24 3.0
+ 16 Burchall, Laurion      ADUNI92H  1300  1102/  6  W6  W3  L8  W21 L2  L11 3.0
+ 17 Mercier, Olivier       ADUN654M  1300  1030/  6  L1  W26 L20 W31 W27 L9  3.0
+ 18 Mogstad, Richard       ADUN689Q  1300  1148/  4  HPB HPB W11 W10 L8  L5  3.0
+ 19 Manoj, Anirudh         MISDX48L   400   984/  6  W32 L5  W31 W33 L3  L10 3.0
+ 20 Tucker, James A        ADUN664U  1161  1111/ 10  L12 W35 W17 L4  L9  W28 3.0
+ 21 Galer, Adrian          ADUN2686   609   756/ 34  HPB HPB W25 L16 L10 W27 3.0
+ 22 Diaz, Francisco        ADUN936F  1300  1292/  3  W9  HPB L1  U   W26 HPB 3.0
+ 23 Huttelmaier, Alex      CHRF218R   924   894/130  WF  W28 L2  HPB L13 L12 2.5
+ 24 Huttelmaier, Evelyn    CHRD757Z   569   558/105  WF  L7  L10 HPB WF  L15 2.5
+ 25 Zhang, Kyrene          LKDDC84Y  1070   991/140  L8  L9  L21 W35 L34 W33 2.0
+ 26 Sridhar, Saanvi        WELJC482   930   894/113  L3  L17 W35 D28 L22 HPB 2.0
+ 27 Balasubramanian, Kala  CNCD519Y   853   778/ 23  L2  L32 BYE W29 L17 L21 2.0
+ 28 Padmasini, Shree Devi  ADUN976G  1300   766/  5  W34 L23 L14 D26 HPB L20 2.0
+ 29 Parthasarathy, Adithya EBSF750T   500   657/  4  HPB HPB L3  L27 W32 L14 2.0
+ 30 Stake, Charles         OESCM87Q   875   891/ 80  WF  W10 L7  L6  U   U   2.0
+ 31 Khetan, Reyansh        OESCT80L   900   857/ 27  L10 W34 L19 L17 L15 BYE 2.0
+ 32 Lanka, Ananya          FNEDQ92V   400   741/  6  L19 W27 L4  L11 L29 W35 2.0
+ 33 Shanmugam, Varsha      RBRCA12J   954   910/346  HPB L4  W34 L19 LF  L25 1.5
+ 34 Amalo, Eliot           HSCH282X   908   843/ 29  L28 L31 L33 L9  W25 HPB 1.5
+ 35 Iyer, Suchir           CMCAK64E   812   728/ 15  L15 L20 L26 L25 BYE L32 1.0

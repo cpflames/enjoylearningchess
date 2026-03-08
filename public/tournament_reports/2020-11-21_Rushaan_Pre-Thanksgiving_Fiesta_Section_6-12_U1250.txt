@@ -1,0 +1,22 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Devaraju, Sonia        OMSIK838  1563  1629/456  W4  W14 W12 W2  W7  5.0
+  2 Priest, Liam           OHLHL07U  1555  1567/179  W11 W13 W3  L1  W8  4.0
+  3 Senthil Kumar, KrishnapTMBI7364  1349  1374/301  W18 W9  L2  W15 W6  4.0
+  4 Wei, Brian             SLVGP31C  1238  1309/108  L1  W6  D5  W19 W13 3.5
+  5 Appalabattula, Samarth CSMFG06C  1372  1383/ 66  W19 L8  D4  W14 W12 3.5
+  6 Susa, Avik             SPTG379X   797  1050/ 60  W7  L4  W9  W13 L3  3.0
+  7 Zhou, Bourne           BLMGC62W  1299  1292/ 72  L6  W17 W19 W11 L1  3.0
+  8 Vangala, Agastya       LMSIB39V  1252  1286/282  WF  W5  L13 W12 L2  3.0
+  9 Joshi, Yash            SHSE280R  1247  1214/ 58  W20 L3  L6  W17 W16 3.0
+ 10 Zhang, Wei             TYEGF93H  1138  1118/ 93  L12 L16 W21 W20 W15 3.0
+ 11 Tameling, Benton       LMSJ9987  1230  1241/310  L2  W18 W14 L7  HPB 2.5
+ 12 Deshpande, Ayan        CSMII614  1367  1335/201  W10 W15 L1  L8  L5  2.0
+ 13 Xia, Yuchen            BLMHI52A  1325  1283/ 71  W16 L2  W8  L6  L4  2.0
+ 14 Yadlapati, Arush       EVJGA47S  1340  1295/119  W17 L1  L11 L5  W20 2.0
+ 15 Raj, Jayahari          PMIG227V  1243  1190/123  W21 L12 W16 L3  L10 2.0
+ 16 Shibley, Nathan        CTKM9580   859   887/ 49  L13 W10 L15 W21 L9  2.0
+ 17 Shah, Aalay            DISG154L   891   966/154  L14 L7  W18 L9  W19 2.0
+ 18 Gupta, Ishaan          INGG660Y  1046   999/ 46  L3  L11 L17 BYE W21 2.0
+ 19 Mettler, Cathal        FCEH471Y  1150  1082/ 93  L5  W20 L7  L4  L17 1.0
+ 20 Rajkumar, Riya         TMBGJ67Y   463   458/ 22  L9  L19 BYE L10 L14 1.0
+ 21 Rajkumar, Diya         TMBGA46W   400   400/ 20  L15 BYE L10 L16 L18 1.0

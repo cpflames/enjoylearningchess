@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Foltz, Karsten         HTNG306D  1036  1069/ 79  W4  L2  W3  2.0
+  2 Yun, Daniel D          BCABK87Z  1065  1087/119  L3  W1  W4  2.0
+  3 Naenna, Patanin        SPLDQ28H  1083  1051/ 97  W2  L4  L1  1.0
+  4 Taylor, Ryder          HPTI385C  1034  1015/138  L1  W3  L2  1.0

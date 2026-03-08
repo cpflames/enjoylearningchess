@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wu, Olivia             BCADG32P   519   524/ 22  W4  W3  L2  2.0
+  2 Dua, Ishit             REEF457J   454   481/ 15  W3  L4  W1  2.0
+  3 Schaudt, Parker        FAPC799V   451   417/ 84  L2  L1  W4  1.0
+  4 Li, Yuchen             ENDE267A   400   400/  3  L1  W2  L3  1.0

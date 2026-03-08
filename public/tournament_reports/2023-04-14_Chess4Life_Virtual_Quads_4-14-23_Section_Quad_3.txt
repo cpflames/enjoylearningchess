@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bimod, Karthik         SLLGW89E  1110  1172/ 10  L2  W3  W4  2.0
+  2 Hochberg, David        INNK6075  1164  1192/312  W1  W4  L3  2.0
+  3 Duseja, Ronit          SNEFA38H  1162  1191/145  W4  L1  W2  2.0
+  4 Jin, Emery             BLMHK90R  1259  1172/ 25  L3  L2  L1  0.0

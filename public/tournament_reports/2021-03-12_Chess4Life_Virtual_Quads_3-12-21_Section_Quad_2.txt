@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bhatia, Tanush         DGHH5224  1604  1596/296  W3  W4  L2  2.0
+  2 Miller, Thomas         MEDF799Q  1445  1469/ 54  W4  L3  W1  2.0
+  3 Sangal Lopez, Dev      WOBE515J  1428  1456/159  L1  W2  W4  2.0
+  4 Kamel, Yaseen          PFCID57L  1378  1334/ 79  L2  L1  L3  0.0

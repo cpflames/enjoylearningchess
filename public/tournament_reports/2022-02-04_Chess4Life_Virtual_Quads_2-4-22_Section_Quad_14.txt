@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xiang, Herui           LWAL153Y  1100   850/  3  W2  W3  W4  3.0
+  2 Pai, Shubham           BCAE694R   400   406/ 17  L1  W4  L3  1.0
+  3 Wise-maldonado, Shaun  XXXHD23R   700   434/  3  L4  L1  W2  1.0
+  4 Lechner, Ryker         HSCD496J   400   434/  3  W3  L2  L1  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Chuling            CNHE567N   871   916/ 64  D2  D3  W4  2.0
+  2 Wu, Dennis             SCDCJ54B   972   953/168  D1  L4  W3  1.5
+  3 Mcintyre, Isaac        ETSD466S   896   899/157  W4  D1  L2  1.5
+  4 Han, Tony              PLKHC03Q   873   856/ 14  L3  W2  L1  1.0

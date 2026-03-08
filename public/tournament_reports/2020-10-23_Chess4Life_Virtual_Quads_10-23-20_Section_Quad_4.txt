@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Yiyang             BCAD700B  1278  1300/118  W2  L4  W3  2.0
+  2 Dhillon, Rohan         LMSI6836  1282  1303/187  L1  W3  W4  2.0
+  3 Yang, James            SSME123B  1230  1219/ 90  W4  L2  L1  1.0
+  4 Tiwari, Prakhar        INGH785R  1314  1283/ 34  L3  W1  L2  1.0

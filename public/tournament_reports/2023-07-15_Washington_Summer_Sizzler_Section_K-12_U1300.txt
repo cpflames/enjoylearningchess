@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 tot 
+  1 Zandanov, Leonid       WLBBK31Q  1150  1196/ 37  W22 L14 W19 W4  W11 W9  D2  5.5
+  2 Polonsky, Daniel       LBSJ946P  1008  1215/ 34  W15 W5  L9  W12 W6  W11 D1  5.5
+  3 Xu, Yang               CNCD649B  1255  1251/ 90  L6  L10 W17 W19 W20 W7  W8  5.0
+  4 Ma, Lucas              ICSH500S  1205  1214/280  W10 W19 D14 L1  W13 D8  W11 5.0
+  5 Maharaja, Imai         RKWCK34K  1130  1160/ 56  W20 L2  W7  W14 L9  D6  W12 4.5
+  6 Guthrie, William       NSTHK30W  1083  1163/ 37  W3  W12 L11 W10 L2  D5  W9  4.5
+  7 Ma, Lewis              SOMB587M  1241  1214/ 62  W13 L9  L5  W15 W10 L3  W16 4.0
+  8 King, Miles            WSAIK48E  1162  1144/ 15  L19 W22 D13 W16 W14 D4  L3  4.0
+  9 Patnaik, Aditya        EVJHA02G  1090  1110/ 65  W21 W7  W2  L11 W5  L1  L6  4.0
+ 10 Naik, Atreya           KMDIJ43X  1024  1102/ 22  L4  W3  W15 L6  L7  W19 W17 4.0
+ 11 Foxman, Noah           SKNKA33G   442   933/  9  BYE W16 W6  W9  L1  L2  L4  4.0
+ 12 Nair, Ishan            FRWF670E  1210  1158/118  W17 L6  D16 L2  W18 W13 L5  3.5
+ 13 Patel, Aarya           REEEK30E  1072  1073/ 47  L7  W21 D8  W18 L4  L12 W15 3.5
+ 14 Foltenyi, Alex         LWAMK09J   966  1007/ 12  BYE W1  D4  L5  L8  L15 W20 3.5
+ 15 Bandai, Yugo           MCECA31C  1141  1090/ 60  L2  W20 L10 L7  W21 W14 L13 3.0
+ 16 Raghunathan, Vidur     MCID878A  1091  1028/ 62  W18 L11 D12 L8  L19 W20 L7  2.5
+ 17 Ramanathan, Hamsini    OPWHH41M  1041   968/ 55  L12 D18 L3  L20 BYE W21 L10 2.5
+ 18 Bhattacharjee, Satvik  TIMBE65Q   881   878/ 32  L16 D17 W22 L13 L12 BYE U   2.5
+ 19 Grandhi, Dhruv         JMRHC63M  1022   991/ 29  W8  L4  L1  L3  W16 L10 L21 2.0
+ 20 Mitra, Rahul           OPWHH53N   963   927/278  L5  L15 W21 W17 L3  L16 L14 2.0
+ 21 Walsh, Connor          GEKLK05H  1100   757/  6  L9  L13 L20 WF  L15 L17 W19 2.0
+ 22 Novosselov, Anton      SBEEI56L   961   901/ 26  L1  L8  L18 LF  U   U   U   0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wu, Dennis             SCDCJ54B   868  1002/149  W2  W4  W3  3.0
+  2 Xie, Leon              CNHE264X   982   983/100  L1  W3  W4  2.0
+  3 Fang, Weiai            THRC696W   812   805/135  W4  L2  L1  1.0
+  4 Sabarish, Ananya       BCACG02Z   814   752/ 96  L3  L1  L2  0.0

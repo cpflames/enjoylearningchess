@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yang, Jimmy            BCABG45S   911   989/ 43  W4  W3  D2  2.5
+  2 Kondapally, Aryan      BCAJ7943   897   934/ 15  D3  W4  D1  2.0
+  3 Xie, Michael           BLWE549C   919   893/151  D2  L1  D4  1.0
+  4 Condit, Alex           TLIDB04F   913   862/ 30  L1  L2  D3  0.5

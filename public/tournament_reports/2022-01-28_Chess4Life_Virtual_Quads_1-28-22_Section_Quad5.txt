@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Ares             MEDDJ77J  1169  1296/186  W3  W2  W4  3.0
+  2 Bar, Nathan            AUDC368C  1233  1250/160  W4  L1  W3  2.0
+  3 Xie, Michael           BLWF549C  1216  1192/295  L1  W4  L2  1.0
+  4 Zhang, Ethan (yichen)  CRIEG57B  1163  1105/206  L2  L3  L1  0.0

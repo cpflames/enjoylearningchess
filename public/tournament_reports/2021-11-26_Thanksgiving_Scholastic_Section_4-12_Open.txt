@@ -1,0 +1,53 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Gurumurthy, Srikrishna TSTK5182  1568  1658/234  W45 W19 W26 W3  W4  5.0
+  2 Pisan, Kai             CHYH404C  1320  1444/207  W40 D9  W43 W27 W12 4.5
+  3 Summerfield, William   FAPGG77R  1573  1593/126  W31 W17 W22 L1  W8  4.0
+  4 Marcelia, David        CPBMK21F  1548  1571/ 67  W24 W20 W28 W9  L1  4.0
+  5 Patankar, Vijay        THRHC78Y  1488  1500/218  W46 W32 L8  W21 W18 4.0
+  6 Liu, Bichen            KKNFK00D  1364  1431/ 10  W52 L12 W42 W22 W19 4.0
+  7 Dudala, Vihan          BRHFH62J  1345  1406/113  W37 L8  W32 W36 W16 4.0
+  8 Cha, Samuel            STTEK18Z  1606  1610/161  W23 W7  W5  D12 L3  3.5
+  9 Preizler, Adrian       EMSID229  1563  1552/163  W42 D2  W36 L4  W27 3.5
+ 10 Urali, Sanjay          MEDE315D  1479  1448/297  W35 L36 D24 W25 W28 3.5
+ 11 Miller, Jackson        GATH301V  1078  1254/ 65  L16 W51 W30 D14 W26 3.5
+ 12 Chen, William          BLWF550N   500  1584/  5  W44 W6  W14 D8  L2  3.5
+ 13 Anandkumar, Haituka    STLH238P  1546  1494/257  L32 W46 L27 W34 W33 3.0
+ 14 Ramkumar, Nikhil       RBRE115E  1517  1488/119  W33 W21 L12 D11 D24 3.0
+ 15 Metzmaker, Suya        OPWG364P  1516  1471/270  W34 L22 W31 L19 W36 3.0
+ 16 Huang, Emily           MEDFB39A  1507  1476/180  W11 L28 W23 W20 L7  3.0
+ 17 Bartminn, Jan Lorenz   ENDFH59K  1344  1317/107  W49 L3  L25 W46 W35 3.0
+ 18 Lim, Hayul             VCEFQ94C  1334  1308/ 39  L38 W29 W37 W39 L5  3.0
+ 19 Avula, Varshith Reddy  BRHF110R  1333  1349/152  W50 L1  W38 W15 L6  3.0
+ 20 Kang, Jinue            OMSG2661  1319  1315/226  W39 L4  W40 L16 W37 3.0
+ 21 Bhargava, Saarth       UCIGF29W  1250  1254/ 62  WF  L14 W41 L5  W39 3.0
+ 22 Kokati, Pranav         OMSG814P  1203  1261/178  W41 W15 L3  L6  W40 3.0
+ 23 Thakur, Reet           CWAFJ84K  1183  1210/278  L8  W52 L16 W38 W41 3.0
+ 24 Chin, Jonathan         HSCG756L  1134  1212/ 24  L4  W50 D10 W43 D14 3.0
+ 25 Mathew, Noah           BLCL6460   773   964/ 28  HPB HPB W17 L10 W42 3.0
+ 26 Nallappa, Vijay        REJGD40S  1463  1423/280  W29 W38 L1  D28 L11 2.5
+ 27 Bablani, Arnav         LMSG1146  1354  1345/184  W48 D43 W13 L2  L9  2.5
+ 28 Borden, Hugh           IMSI596M  1206  1249/ 82  WF  W16 L4  D26 L10 2.5
+ 29 Rama, Savitur          EVJGH22Z  1066  1086/ 92  L26 L18 W51 D42 W43 2.5
+ 30 Ying, Yiheng           MEDEE78K  1370  1295/272  L36 W35 L11 L33 W46 2.0
+ 31 Chaurasia, Vihaan      HMNEH65G  1172  1155/ 99  L3  W48 L15 L35 W47 2.0
+ 32 Aggarwal, Aadit        LEOIE722  1133  1135/404  W13 L5  L7  L40 W51 2.0
+ 33 Harriman, Grady        HCSGH824  1127  1129/135  L14 L39 W52 W30 L13 2.0
+ 34 Morin-cotton, NathanielPEMI4895  1121  1124/148  L15 L41 W48 L13 W44 2.0
+ 35 Yin, Zhida             IHSK137G  1069  1090/ 14  L10 L30 W50 W31 L17 2.0
+ 36 Chintalapudi, Srihaan  CNCE662W  1034  1144/ 66  W30 W10 L9  L7  L15 2.0
+ 37 Qiu, Travis            MMEEF47M   962  1037/ 33  L7  W45 L18 W44 L20 2.0
+ 38 Urman, Rafi            JDSF261Z   918  1017/ 31  W18 L26 L19 L23 W45 2.0
+ 39 Mccarthy, Balen        IMSG519X   891   996/ 70  L20 W33 W44 L18 L21 2.0
+ 40 Olson, Benjamin        HCCGG50S   887   922/123  L2  BYE L20 W32 L22 2.0
+ 41 Jia, Yaojie            UNKLH83D  1100  1103/  5  L22 W34 L21 W45 L23 2.0
+ 42 Kedarisetty, Ishan     GRRE300B  1136  1099/109  L9  W49 L6  D29 L25 1.5
+ 43 Rasmussen, Quinn       UNKIK47Q   800  1058/  5  W47 D27 L2  L24 L29 1.5
+ 44 Kancherla, Rohan       PFCGC11M  1268  1172/295  L12 W47 L39 L37 L34 1.0
+ 45 Borden, Derek          IMSI915P  1142  1070/ 87  L1  L37 W47 L41 L38 1.0
+ 46 Zhang, Ethan           MEDFE87D  1077  1062/474  L5  L13 W49 L17 L30 1.0
+ 47 Vijeyanandh, Vishnu    TMBGF63Z  1052   985/ 65  L43 L44 L45 W49 L31 1.0
+ 48 Huttelmaier, Alex      CHRF218R   963   924/126  L27 L31 L34 L51 W50 1.0
+ 49 Moraleja, Juan Rufino  STMIB32V   929   898/116  L17 L42 L46 L47 W52 1.0
+ 50 Zhang, Melodie         SPTGE44K   914   891/103  L19 L24 L35 W52 L48 1.0
+ 51 Xu, Samuel             EASE854L  1075   949/  5  U   L11 L29 W48 L32 1.0
+ 52 Kedarisetty, Shreyas   GRRFH60G  1003   910/105  L6  L23 L33 L50 L49 0.0

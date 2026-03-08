@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ramkumar, Nethra       RBRD315Z   462   657/ 62  W3  W2  W4  3.0
+  2 Holliday, Austin       PTFA472D   564   595/  9  W4  L1  W3  2.0
+  3 Goel, Darsh            SBOER06Y   540   510/ 18  L1  W4  L2  1.0
+  4 Arvind, Sahana         ETSD332J   458   400/ 16  L2  L3  L1  0.0

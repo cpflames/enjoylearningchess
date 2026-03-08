@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yin, Daniel            ISMJ116Y   743   785/102  W3  D2  W4  2.5
+  2 Stake, Charles         OESBM87Q   676   756/ 21  W4  D1  W3  2.5
+  3 Twu, Cameron           XXXBF50E   400   573/  3  L1  W4  L2  1.0
+  4 Shaikot, Sabeer        XXXC147Q   679   590/ 23  L2  L3  L1  0.0

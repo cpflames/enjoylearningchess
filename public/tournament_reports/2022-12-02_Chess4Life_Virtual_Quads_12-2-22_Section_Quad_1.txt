@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Havaldar, Karsh        CSBDI03F  1524  1548/ 20  D3  W4  W2  2.5
+  2 Sangal Lopez, Dev      CTNG515J  1449  1451/343  W4  D3  L1  1.5
+  3 Zhou, Nathan           NJHG215X  1422  1430/ 48  D1  D2  D4  1.5
+  4 Stein, Samuel          HSCFH03T  1441  1405/242  L2  L1  D3  0.5

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lim, Oliver            ARMAC58T   569   646/ 11  W6  W2  W4  3.0
+  2 Fang, Weiai            BRBB696W   588   609/ 22  W3  L1  W5  2.0
+  3 Yen, Apollo            RKWEG78H   461   489/ 11  L2  W5  W6  2.0
+  4 King, Cooper           VIED955J   400   449/  3  D5  W6  L1  1.5
+  5 Su, Oliver             JINBD01U   545   477/ 45  D4  L3  L2  0.5
+  6 Kumar, Ashok           WDHE610A   400   400/  5  L1  L4  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sunil, Avyukth         JWEGN88H   703   727/ 21  W3  W4  L2  2.0
+  2 Gujjar, Aditya         APOGE59Q   698   724/132  W4  L3  W1  2.0
+  3 Patel, Aarya           REEEK30E   731   747/ 16  L1  W2  W4  2.0
+  4 Bangard, Dhruv         TBKAK65D   685   538/  7  L2  L1  L3  0.0

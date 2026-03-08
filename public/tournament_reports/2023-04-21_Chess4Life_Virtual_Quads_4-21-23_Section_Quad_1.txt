@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Siddem, Sid            RHJJC34V  1624  1653/462  W4  D3  W2  2.5
+  2 Gadde, Arnav           ENSEJ39D  1432  1469/138  D3  W4  L1  1.5
+  3 Routray, Nirmalya      INGHD06K  1680  1647/383  D2  D1  L4  1.0
+  4 Upreti, Parthavi       GTMG754L  1606  1585/185  L1  L2  W3  1.0

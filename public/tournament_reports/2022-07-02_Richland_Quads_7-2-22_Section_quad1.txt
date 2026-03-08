@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Khalil, Tayseer        ADUN773K  1846  1840/ 77  W4  W6  D2  2.5
+  2 Margiotta, Evan        ADUN922M  1431  1521/ 34  W3  W4  D1  2.5
+  3 Howald, Carl           ADUN811H  1300  1238/  3  L2  W5  W6  2.0
+  4 Chung, Ethan           LIBF108U  1593  1564/338  L1  L2  W5  1.0
+  5 Goeken, Zack           ADUN432A  1300   983/  3  W6  L3  L4  1.0
+  6 Hemperly, Harper       HSCCI09E   400   544/  3  L5  L1  L3  0.0

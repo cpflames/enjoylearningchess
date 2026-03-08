@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yang, Alexander        CHRED81J  1703  1725/186  W3  D2  W4  2.5
+  2 Lu, Yiding             NPTE865Z  1791  1783/178  W4  D1  D3  2.0
+  3 Verma, Darsh           WONEB52K  1486  1495/ 89  L1  D4  D2  1.0
+  4 Chung, Ethan           LIBE108U  1560  1537/265  L2  D3  L1  0.5

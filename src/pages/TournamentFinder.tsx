@@ -22,30 +22,14 @@ export default function TournamentFinder(): JSX.Element {
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    fetchWithRetry('/tournament_reports/index.json')
+    fetchWithRetry('/tournament_reports/all_reports.json')
       .then(response => response.json())
-      .then(files => {
-        // Process files sequentially to avoid overwhelming the server
-        files.reduce((promise, filename) => {
-          return promise.then(() => 
-            fetchWithRetry(`/tournament_reports/${encodeURIComponent(filename)}`)
-              .then(response => response.text())
-              .then(content => {
-                setReports(prev => ({
-                  ...prev,
-                  [filename]: content
-                }));
-              })
-              .catch(error => {
-                console.error('Error loading report:', filename, error);
-                setError(`Error loading ${filename}: ${error.message}`);
-              })
-          );
-        }, Promise.resolve());
+      .then((data: { [filename: string]: string }) => {
+        setReports(data);
       })
       .catch(error => {
-        console.error('Error loading report list:', error);
-        setError(`Error loading report list: ${error.message}`);
+        console.error('Error loading reports:', error);
+        setError(`Error loading reports: ${error.message}`);
       });
   }, []);
 

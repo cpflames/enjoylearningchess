@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Doronin, Victor        BMNF335T   622   658/ 29  W5  W4  W3  3.0
+  2 Ensz, Arlo             RHJGK62C   402   417/ 24  L3  W5  W4  2.0
+  3 Swagath, Pranav        BCACK23N   200   421/  3  W2  D6  L1  1.5
+  4 Wang, Felix            BCABK64Q   348   332/ 11  W6  L1  L2  1.0
+  5 David, Asher           BRIEK23L   400   288/  3  L1  L2  W6  1.0
+  6 Rammohan, Arjun        EVJGK23K   600   100/  3  L4  D3  L5  0.5

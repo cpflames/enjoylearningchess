@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Condit, Noah           KMDGA59Q  1489  1571/104  W16 W2  W13 W4  4.0
+  2 Seela, Shashank        SSMFI74N  1709  1690/149  W8  L1  W11 W7  3.0
+  3 Upreti, Parthavi       TBKF754L  1575  1563/ 82  W9  W7  L4  W6  3.0
+  4 Xiang, Herui           LWAL153Y  1506  1520/ 31  W15 W5  W3  L1  3.0
+  5 Dong, Tristan          MRLCF90V  1124  1193/ 23  W12 L4  W17 W13 3.0
+  6 Mcintyre, Isaac        ETSC466S  1226  1205/ 53  L17 W15 W8  L3  2.0
+  7 Modi, Shivam           LMAJI71G  1186  1205/ 66  W10 L3  W12 L2  2.0
+  8 Budhraja, Jai          EBSEA16E  1113  1116/ 58  L2  W16 L6  W17 2.0
+  9 Kansal, Vivaan         BCAFK40L   978  1003/ 13  L3  L12 W15 W16 2.0
+ 10 Sreraman, Rohit        BCABG92Q   953   941/ 23  L7  BYE D14 D11 2.0
+ 11 Abburi, Harshith Sai   BCWHA34S   795   906/ 26  D13 W14 L2  D10 2.0
+ 12 Rout, Ritwik           PLKHE10R   700  1093/  4  L5  W9  L7  W14 2.0
+ 13 Rajesh, Gagan Karthik  WASHF06V  1156  1088/  7  D11 W17 L1  L5  1.5
+ 14 Condit, Alex           TLIEB04F  1052   983/ 92  HPB L11 D10 L12 1.0
+ 15 Desai, Satvik          EVJIC072   966   928/262  L4  L6  L9  BYE 1.0
+ 16 Yang, Eric             NCSH113Z   940   885/ 11  L1  L8  BYE L9  1.0
+ 17 Chaturvedi, Raghav     TYEGK75J   929   933/101  W6  L13 L5  L8  1.0

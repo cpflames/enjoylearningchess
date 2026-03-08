@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sembium, Aditi         BCABK25W   853   986/114  W2  W3  W4  3.0
+  2 Maheshwari, Vihaan     DGHI695W   883   905/ 65  L1  W4  W3  2.0
+  3 Xie, Leon              CNHD264X   903   867/ 18  W4  L1  L2  1.0
+  4 Fang, Weiai            BRBB696W   760   706/ 48  L3  L2  L1  0.0

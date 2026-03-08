@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yuodelis, Kenneth      TYEI3681  1310  1353/384  U   W3  W2  2.0
+  2 Nguyen, Viet           WLDE508J  1308  1305/159  W3  U   L1  1.0
+  3 Wahi, Advait           BLWF661F  1262  1221/123  L2  L1  U   0.0

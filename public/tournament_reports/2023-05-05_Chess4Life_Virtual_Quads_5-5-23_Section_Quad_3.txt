@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Amalo, Eliot           HSCH282X  1357  1404/102  W4  W2  D3  2.5
+  2 Karri, Aditya          AUDEC55V  1260  1315/310  W3  L1  W4  2.0
+  3 Dai, Alex              CHREC43N  1359  1355/124  L2  W4  D1  1.5
+  4 Chien, Jeffrey         WPPFF41X  1356  1289/100  L1  L3  L2  0.0

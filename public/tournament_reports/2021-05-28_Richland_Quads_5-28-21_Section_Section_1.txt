@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Khalil, Tayseer        ADUN773K  1857  1868/ 30  W3  W4  W6  3.0
+  2 Chung, Ethan           LIBE108U  1515  1587/285  W4  W6  W3  3.0
+  3 Ebsch, Christopher     ADUNC65C  1827  1675/  6  L1  W5  L2  1.0
+  4 Scott, Dane            HSCL293V  1549  1544/ 26  L2  L1  W5  1.0
+  5 Palm, Caleb            LIBH919S  1520  1489/146  W6  L3  L4  1.0
+  6 Chung, Ian             LIBBG54U   515   515/ 26  L5  L2  L1  0.0

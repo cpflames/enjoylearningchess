@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sun, Luke              EXPE697K   400   667/  5  W3  W2  W4  3.0
+  2 Emam, Aydin            PKRDK53A   400   620/  3  W4  L1  W3  2.0
+  3 Abbott, Elliott        WOBCF07R   400   400/  3  L1  W4  L2  1.0
+  4 Raghavendra, Karun     AUDDF38J   400   400/  3  L2  L3  L1  0.0

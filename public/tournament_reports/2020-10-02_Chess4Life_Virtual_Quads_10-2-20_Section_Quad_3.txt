@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 To, Calvin             REEDI10D  1395  1444/251  W2  W4  D3  2.5
+  2 Karukayil, Johan       EVJJ8041  1520  1513/529  L1  W3  W4  2.0
+  3 Han, Shuyi             SOMEK47W  1315  1331/187  W4  L2  D1  1.5
+  4 Zhang, Ethan           CLHEE87D  1302  1256/374  L3  L1  L2  0.0

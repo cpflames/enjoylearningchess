@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Parimi, Sandilya       PFCJ914G  1088  1112/378  W4  L2  W3  2.0
+  2 Foltz, Karsten         HTNG306D  1069  1099/ 82  L3  W1  W4  2.0
+  3 Yin, Daniel            ISMK116Y  1094  1067/200  W2  L4  L1  1.0
+  4 Yun, Daniel D          BCABK87Z  1087  1062/122  L1  W3  L2  1.0

@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Keyser, Harrison       ADUNA131  1690  1705/382  W8  W6  W2  D4  3.5
+  2 Bhaskaran, Siddharth   HMNC152J  1333  1525/ 14  W7  W5  L1  W6  3.0
+  3 Karl, Robert           ADUNB16F  1300  1564/  2  BYE L7  W8  HPB 2.5
+  4 Maksyutov, Zaki        ADUNE65D  1300  1652/  4  L5  W8  W7  D1  2.5
+  5 Klink, Jeff            ADUNJ09G  1384  1409/ 10  W4  L2  L6  W8  2.0
+  6 Sauve, Lucas           ADUNE38H  1300  1402/  3  WF  L1  W5  L2  2.0
+  7 Ackerman, Ryan         ADUNC514  1925  1881/184  L2  W3  L4  U   1.0
+  8 Xiong, Lydia           REJGI43T  1288  1257/147  L1  L4  L3  L5  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yin, Daniel            ISSL116Y  1025  1129/288  W4  W3  W2  3.0
+  2 Syal, Yash             SHSEC10R  1016   987/ 70  W3  L4  L1  1.0
+  3 Taylor, Ryder          KAMJ385C   975   957/237  L2  L1  W4  1.0
+  4 Navneeth, Advik        RHJGH67D   954   942/ 23  L1  W2  L3  1.0

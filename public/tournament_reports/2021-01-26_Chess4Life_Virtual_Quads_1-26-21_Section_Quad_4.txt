@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bar, Nathan            AUDB368C   717   909/ 31  W2  W4  W3  3.0
+  2 Kim, Dylan             SCDCK38L   887   895/ 36  L1  W3  W4  2.0
+  3 Chowdhary, Shivam      CMCED47H   779   763/ 13  W4  L2  L1  1.0
+  4 Jenks, Tristan         WELFH47G   794   719/ 60  L3  L1  L2  0.0

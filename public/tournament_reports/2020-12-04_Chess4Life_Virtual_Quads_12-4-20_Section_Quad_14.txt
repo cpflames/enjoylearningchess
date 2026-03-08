@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Fox-devol, Zachary     XXXEI93P   816   879/ 44  D4  W2  W3  2.5
+  2 Jose Pragash, Jason RapSTMH938Q   726   791/ 22  W3  L1  W4  2.0
+  3 Agarwal, Ishaan Huma   REEEH10F   817   782/ 54  L2  W4  L1  1.0
+  4 Mishra, Aakash         XXXB439K   767   709/ 11  D1  L3  L2  0.5

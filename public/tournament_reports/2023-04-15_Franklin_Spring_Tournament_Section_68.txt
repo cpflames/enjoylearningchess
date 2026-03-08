@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Scollon, Owen          FHVH734D  1566  1539/401  W13 W6  W10 W4  L2  4.0
+  2 Bosch, Declan          FHVIE38K  1204  1230/ 54  W14 W12 L4  W6  W1  4.0
+  3 Kozaczuk, James        SHKH108A  1104  1130/133  W8  L4  W9  W12 W10 4.0
+  4 Allworth, Brayden      NVLIA86Y   756   995/ 32  W11 W3  W2  L1  D7  3.5
+  5 Stroud, Jeb            HSCHK22V   700  1052/  5  L6  W13 W14 D10 W12 3.5
+  6 Smith, Jack            BUSI3448   870   985/100  W5  L1  W8  L2  W13 3.0
+  7 Hildenbrand, Blane     PSMH122V   798   862/124  D9  L14 W17 W11 D4  3.0
+  8 Harrison, Gabriel      FACH865H   782   830/ 56  L3  W15 L6  W17 W14 3.0
+  9 Nagra, Joga            FACII02B  1201  1124/ 71  D7  W11 L3  L14 W17 2.5
+ 10 Grewal, Harshan        FACHK33H   927   932/ 38  W16 W17 L1  D5  L3  2.5
+ 11 Gauf, Jayden           MBJHK40Y  1000   836/  7  L4  L9  W15 L7  BYE 2.0
+ 12 Kimes, Matilda         HSCH935N   894   879/ 23  W15 L2  W16 L3  L5  2.0
+ 13 Neel, Miles            FACH164W   836   816/ 96  L1  L5  BYE W16 L6  2.0
+ 14 Moors, Samuel          BLNIH93D   834   861/ 38  L2  W7  L5  W9  L8  2.0
+ 15 Singh, Arshaan         HORIK22R   800   579/  4  L12 L8  L11 BYE W16 2.0
+ 16 Mcloughlin, Latham     HORIK35F   741   599/  9  L10 BYE L12 L13 L15 1.0
+ 17 Williams, Conner       LYMHK35D   597   551/  9  BYE L10 L7  L8  L9  1.0

@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Rubaiyat, Rhadean      ICSHD40L  1343  1544/137  W4  W2  W3  W5  D2  BYE 5.5
+  2 Saddi, Neevan Reddy    GRRDH87M  1602  1589/173  W3  L1  W5  BYE D1  D4  4.0
+  3 Cen, Evan              TYEHI97D  1442  1442/165  L2  BYE L1  W4  W5  D5  3.5
+  4 Kokati, Pranav         OMSH814P  1577  1501/256  L1  L5  BYE L3  BYE D2  2.5
+  5 Tie, Mike              ENDE856Y  1282  1297/102  BYE W4  L2  L1  L3  D3  2.5

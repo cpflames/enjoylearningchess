@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lei, Eric              TYEK314K   642   783/  6  W3  W2  W4  3.0
+  2 Vikram, Anirudh        ENDEG57Q   550   604/ 17  W4  L1  W3  2.0
+  3 Dua, Ishit             REEF457J   481   483/ 18  L1  W4  L2  1.0
+  4 Karthik, Sai           HSCA261S   598   506/ 22  L2  L3  L1  0.0

@@ -1,0 +1,28 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kim, Dylan             SCDEK38L  1279  1324/161  W13 W8  W4  W2  W5  5.0
+  2 Damrau, Austin         PIVEK95E  1118  1135/ 20  W17 W15 W7  L1  W9  4.0
+  3 Holdych, Micah         LHCG603V   995   998/ 46  W24 L11 W17 W13 W6  4.0
+  4 Yang, Lucas            LKWEK86V   973   990/ 24  W14 W19 L1  W16 W10 4.0
+  5 Elms, Ethan            HSCGK803   955  1056/160  W25 W22 W6  W7  L1  4.0
+  6 Winter, Kayne          CSIFF38F  1211  1155/142  W16 W9  L5  W12 L3  3.0
+  7 Jayadevan, Neel        SCDF230P  1050  1022/ 90  W18 W12 L2  L5  W16 3.0
+  8 Francis, Jamey         OPWED90G   851   823/ 45  W26 L1  L16 W25 W17 3.0
+  9 Fanous, Petra          SCDFD41H   820   835/ 67  W20 L6  W11 W18 L2  3.0
+ 10 Cheng, Mikayla         WEDE507F   736   730/ 47  L22 W25 W14 W11 L4  3.0
+ 11 Thorrington, James     SANE547U   691   707/ 46  W27 W3  L9  L10 W19 3.0
+ 12 Helmstetter, Andre     THUFK60F   651   683/ 95  W23 L7  W22 L6  W18 3.0
+ 13 Ray, Iain              EPSG392B   649   674/ 89  L1  W26 W19 L3  W21 3.0
+ 14 Ma, Ziliang            RITGA69N   400   545/  9  L4  BYE L10 W22 W15 3.0
+ 15 Smith, Audrey          SCDFG55T   774   695/ 76  W21 L2  L18 W26 L14 2.0
+ 16 Kalian, Illia          VIWEI13T   632   676/ 42  L6  W20 W8  L4  L7  2.0
+ 17 Aker, Pepper           THUE181G   416   459/ 61  L2  W21 L3  W23 L8  2.0
+ 18 Shankri, Prem          SNEEK45X   400   491/ 10  L7  W23 W15 L9  L12 2.0
+ 19 Doran, Nikhil          SCDED27P   400   388/ 56  BYE L4  L13 W24 L11 2.0
+ 20 Nussbaum, Tristan      ELKGK39F   600   365/  4  L9  L16 L21 BYE W26 2.0
+ 21 Bayne, Atticus         CWTGK39D   600   390/  5  L15 L17 W20 W27 L13 2.0
+ 22 Zhang, Yueyang[lily]   SCDEK39B   400   582/  5  W10 L5  L12 L14 W25 2.0
+ 23 Crosby, Grace          SCDFK39A   500   233/  4  L12 L18 BYE L17 W27 2.0
+ 24 Mykush, Dima           JHYEK10W   400   100/  8  L3  D27 L26 L19 BYE 1.5
+ 25 Levinson, Luke         THUFK38Z   500   326/  5  L5  L10 W27 L8  L22 1.0
+ 26 Howell, Carlos         SRTFK38Y   500   244/  5  L8  L13 W24 L15 L20 1.0
+ 27 Tideman, Nicholas      HSCEK38X   400   100/  5  L11 D24 L25 L21 L23 0.5

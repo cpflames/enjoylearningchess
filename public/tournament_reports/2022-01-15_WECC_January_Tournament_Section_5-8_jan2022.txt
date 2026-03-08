@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Hyer, Finnegan         STCH3321   546   865/ 85  W7  W5  W2  W3  W6  5.0
+  2 Fedchuk, Vanessa       RRGH629G   644   692/107  W15 W6  L1  W5  D3  3.5
+  3 Colon, Xavier          RRGGF98F   711   725/ 45  W11 W10 W9  L1  D2  3.5
+  4 Gomez, Jose            CRPFE49G   647   628/ 10  L6  W15 W12 D9  W10 3.5
+  5 Pheysey, Owen          CRPFE04H   573   595/ 25  W14 L1  W8  L2  W9  3.0
+  6 Schulte, Joey          STCFD62Q   510   595/ 19  W4  L2  W16 W10 L1  3.0
+  7 Casino, Jessi          STCH689G   700   557/  5  L1  W14 L10 W12 W11 3.0
+  8 Paris, Reese           MCGF571C   450   458/ 24  L9  W11 L5  W16 W14 3.0
+  9 Guizar, Kevin          OCHII02P   494   509/ 34  W8  W16 L3  D4  L5  2.5
+ 10 Hill, Emmett           MCGFH87Z   602   561/ 47  W12 L3  W7  L6  L4  2.0
+ 11 Mackey, Marshall       JMLG875Y   600   400/  4  L3  L8  BYE W14 L7  2.0
+ 12 Sanders, Maddox        CRPFG42J   400   400/  8  L10 BYE L4  L7  W15 2.0
+ 13 Gonzalez, Ethan        JMLG158T   444   486/  5  U   U   U   U   W16 1.0
+ 14 Herrera, MonserrathmorfSTPGA17K   400   400/  8  L5  L7  W15 L11 L8  1.0
+ 15 Ackermann, Thomas      RFPF266R   500   400/  4  L2  L4  L14 BYE L12 1.0
+ 16 Ono, Alexander         CRPF184C   400   400/  9  BYE L9  L6  L8  L13 1.0

@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sim, Daniel            KSHG633U   600  1050/  3  W2  W4  W3  3.0
+  2 Viswanathan, Sara      BCACD04A   400   425/ 14  L1  BYE W4  2.0
+  3 Jackson, Grayson       XXXKC48G  1000   600/  2  WF  W5  L1  2.0
+  4 Hernandez, Zeke        CSSIM698   800   269/  3  W5  L1  L2  1.0
+  5 Arul, Aarav            LMAC158P   200   100/  2  L4  L3  BYE 1.0

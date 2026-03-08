@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Cheng, Selina          THUD413R  1275  1311/155  WF  W4  W5  W2  L3  4.0
+  2 Wong, Kate             BCAC459M  1023  1241/ 46  W8  W10 W7  L1  W4  4.0
+  3 Doemer, Andreas        HSOCP15R   400  1347/  5  L4  W12 W9  W5  W1  4.0
+  4 Zhao, George           CRKBA26L  1024  1163/149  W3  L1  W8  W6  L2  3.0
+  5 Edmond, Ivy            WWDDD81E  1184  1197/133  W11 W9  L1  L3  W7  3.0
+  6 Ramkumar, Siddharth    LMAEH50B   998  1050/141  D7  W11 D10 L4  W9  3.0
+  7 Zhang, Michael M.      MEDC668Q  1289  1254/360  D6  W8  L2  W10 L5  2.5
+  8 Compton, Jackson       HCHDL301  1331  1254/317  L2  L7  L4  W11 W12 2.0
+  9 Liang, Wu              JINB620E  1019   990/ 22  BYE L5  L3  W12 L6  2.0
+ 10 Edmond, Alec           LCNBH03G  1154  1083/ 73  W12 L2  D6  L7  L11 1.5
+ 11 Ning, Winston          SCDCJ14W   858   848/ 68  L5  L6  L12 L8  W10 1.0
+ 12 Zhu, Alex              SOMCG51W   867   853/ 32  L10 L3  W11 L9  L8  1.0

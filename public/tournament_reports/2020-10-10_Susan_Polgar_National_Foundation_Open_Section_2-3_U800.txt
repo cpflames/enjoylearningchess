@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Low, Ethan             BCXCZ23T  1179  1241/  7  W9  W5  W2  W7  W4  5.0
+  2 Pidathala, Srikar      XXXD941T   164   619/  5  W13 W4  L1  W8  W7  4.0
+  3 Ramprasad, Udbhav      EMDEG73Z   400   586/ 11  D7  L6  W12 W13 W9  3.5
+  4 Chitty, Alexander      XXODW42L   400   904/  5  W10 L2  W9  W5  L1  3.0
+  5 Menon, Purvi           XXXCK46Z   400   902/  5  W8  L1  W10 L4  W11 3.0
+  6 Nalla, Lokaditya Reddy BRHD102C   400   765/  5  D11 W3  L7  W10 D8  3.0
+  7 Zhang, Adam            BCAD547Z   793   778/ 69  D3  W11 W6  L1  L2  2.5
+  8 Gajcowski, Devin       BETCA94Z   699   682/ 66  L5  BYE W11 L2  D6  2.5
+  9 Kunda, Akshar          CRKDF82S   726   696/ 75  L1  W13 L4  W12 L3  2.0
+ 10 Kedarisetty, Ishan     GRRD300B   791   744/ 56  L4  W12 L5  L6  W13 2.0
+ 11 Sankar, Sneha          CNCD372B   761   679/151  D6  L7  L8  BYE L5  1.5
+ 12 Sankar, Meera          CNCCF17N   400   400/ 77  HPB L10 L3  L9  BYE 1.5
+ 13 Gulati, Naamya         FRWD649C   791   638/ 80  L2  L9  BYE L3  L10 1.0

@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Rastogi, Atharv        APOE377H  1295  1439/ 60  W13 W14 W3  W2  W7  5.0
+  2 Xu, Austin             SOMFH17F  1389  1404/ 80  W11 W10 W4  L1  W6  4.0
+  3 Deng, Stanley          LECDK22E  1380  1396/161  W20 W6  L1  W7  W10 4.0
+  4 Rao, Deepak Sri KartikeARDF517J  1220  1252/ 74  W8  W19 L2  W14 W5  4.0
+  5 Graham, Connor         CWHJ5610  1161  1163/159  W12 W17 L7  W8  L4  3.0
+  6 Kane, Callan           CWHLB00E  1135  1152/157  W18 L3  W13 W9  L2  3.0
+  7 Mendoza, Oscar         OCHII229  1299  1293/247  W15 W21 W5  L3  L1  3.0
+  8 Romero, Jesse          CWHMB898  1117  1109/116  L4  W16 W17 L5  W14 3.0
+  9 Heider, Elena          NOVHC647  1074  1053/101  L14 W18 W16 L6  W15 3.0
+ 10 Hernandez, Marcelo     CWHJK986  1133  1139/132  W22 L2  W20 W15 L3  3.0
+ 11 Lekkala, Vihan         BLWE428L   978  1001/134  L2  L13 W22 W21 W17 3.0
+ 12 Mendoza, Leonardo      OCHI1126   886   889/249  L5  L20 D18 W23 W13 2.5
+ 13 Thallapally, Sriyan    OERFA43W   935   942/ 75  L1  W11 L6  W19 L12 2.0
+ 14 Padilla, Jose Arias    CWHJ888V   795   903/ 29  W9  L1  W21 L4  L8  2.0
+ 15 Armstrong, Griffin     LECF141T   893   903/ 40  L7  W22 W19 L10 L9  2.0
+ 16 Nguyen, Tyler          RFPF715J   802   825/ 61  L19 L8  L9  W18 W21 2.0
+ 17 Chavez, Angel          CWHK858A  1000   830/  4  BYE L5  L8  W20 L11 2.0
+ 18 Kane, Jarret           JMLIJ97S   818   809/ 93  L6  L9  D12 L16 W20 1.5
+ 19 Luna Rocha, Sergio Jr  CWHJ3108   851   829/154  W16 L4  L15 L13 U   1.0
+ 20 Wang, Grace            LECF212J   925   836/ 10  L3  W12 L10 L17 L18 1.0
+ 21 Piedra, Daniel         CWHMD502  1104   996/265  W23 L7  L14 L11 L16 1.0
+ 22 Bonagofski, Brycen     RFPFF39A   864   812/ 70  L10 L15 L11 BYE U   1.0
+ 23 Ramkumar, Nethra       RBRF315Z   795   756/ 92  L21 BYE U   L12 U   1.0

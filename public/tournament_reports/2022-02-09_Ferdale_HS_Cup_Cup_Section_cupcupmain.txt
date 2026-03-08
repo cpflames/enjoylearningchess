@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Nipges, Jaxon          HORI382B  1146  1217/ 59  BYE W2  W7  D5  3.5
+  2 Lewis, Theo            FERKK29P  1232  1210/ 44  BYE L1  BYE W9  3.0
+  3 Darr-rehmert, Natalie  FERLK93U   849   990/ 71  U   W15 W6  W7  3.0
+  4 Stanley, Soren         FERL116S  1153  1193/ 28  BYE W5  HPB U   2.5
+  5 Reyna, Frankie         FERME23L  1345  1296/ 12  BYE L4  W10 D1  2.5
+  6 Kuehnel, Ryan          FERMI96N  1121  1048/ 64  BYE L7  L3  W13 2.0
+  7 Mcfadden, Cameron      FERLI35S   904   915/ 55  BYE W6  L1  L3  2.0
+  8 Hall, Jack             FERLD220   754   743/ 77  BYE L9  W12 U   2.0
+  9 Richardson, Alexander  FERK217M   738   790/ 25  U   W8  W14 L2  2.0
+ 10 Cox, Tristen           FERK271K  1000   994/  3  U   W11 L5  W12 2.0
+ 11 Schlichting, Matthew   FERKF72H   694   700/ 11  U   L10 W15 U   1.0
+ 12 Manly, Katy            FERJ313C   577   559/ 27  U   W16 L8  L10 1.0
+ 13 Reynolds, Spencer      FERL2234   550   546/ 15  HPB HPB U   L6  1.0
+ 14 Red Elk, Ali-lawet     FERL986S   526   512/ 26  U   U   L9  BYE 1.0
+ 15 Garcia, Andie          FERL695Z   496   475/ 14  U   L3  L11 U   0.0
+ 16 Chauhan, Mahekpreet    FERK236A  1000   400/  1  U   L12 U   U   0.0

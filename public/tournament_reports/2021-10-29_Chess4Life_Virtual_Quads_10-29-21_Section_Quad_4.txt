@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ren, Aaron             HSCCG67B  1279  1371/ 66  W4  W3  W2  3.0
+  2 Kakkad, Vayu           DCTBK50L  1253  1233/373  L3  W4  L1  1.0
+  3 Zhang, Ethan (yichen)  CRIEG57B  1251  1232/177  W2  L1  L4  1.0
+  4 Bhattacharjee, ArchishmBLWFA45Y  1239  1223/124  L1  L2  W3  1.0

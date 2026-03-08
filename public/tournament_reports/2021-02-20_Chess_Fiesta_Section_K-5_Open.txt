@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chung, Ethan           LIBE108U  1564  1567/259  W5  W6  W3  W4  L2  4.0
+  2 Cheng, Selina          THUD413R  1348  1398/193  L4  W8  W5  W7  W1  4.0
+  3 Liu, Lucas             SOMDH33R  1394  1417/101  WF  W4  L1  W8  W5  4.0
+  4 Wong, Kate             BCAC459M  1241  1312/ 51  W2  L3  W6  L1  W7  3.0
+  5 Shah, Kanav            LMAC295Q  1322  1298/ 10  L1  W7  L2  W6  L3  2.0
+  6 Bablani, Arnav         LMSF1146  1243  1225/148  W7  L1  L4  L5  W8  2.0
+  7 Iyer, Shashwat Pranav  REEBC07W  1237  1174/ 25  L6  L5  W8  L2  L4  1.0
+  8 Lu, Jacob              ENDFI11F   950   922/238  BYE L2  L7  L3  L6  1.0

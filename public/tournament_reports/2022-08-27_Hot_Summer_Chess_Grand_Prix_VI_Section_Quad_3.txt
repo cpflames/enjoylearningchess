@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lewis, Kaleb           WCAGF41Z  1047  1071/ 15  L2  W3  W4  2.0
+  2 Reiss, Madelyn         BLHKJ21Y  1034  1062/ 28  W1  W4  L3  2.0
+  3 Palmer, Evan           KULII90S  1027  1059/109  W4  L1  W2  2.0
+  4 Kozaczuk, James        SHKG108A  1064   985/101  L3  L2  L1  0.0

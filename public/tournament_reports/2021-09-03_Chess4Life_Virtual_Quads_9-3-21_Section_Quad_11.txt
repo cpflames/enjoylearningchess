@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dai, Alex              CHRDC43N   703   810/  9  W4  W2  W3  3.0
+  2 Ramkumar, Nethra       RBRE315Z   655   695/ 73  W3  L1  W4  2.0
+  3 Chan, Starling         MEDE148S   679   648/213  L2  W4  L1  1.0
+  4 Shaikot, Sabeer        XXXD147Q   614   544/ 29  L1  L3  L2  0.0

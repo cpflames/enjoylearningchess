@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Fox-devol, Zachary     XXXEI93P   717   783/ 38  W2  W3  WF  3.0
+  2 Zhang, Shengxin        CAVD303G   844   819/ 12  L1  WF  W3  2.0
+  3 Senthil, Sanvi         SPTFH12F   648   607/260  WF  L1  L2  1.0

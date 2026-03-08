@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Eric             BCAD803M   707   880/ 12  W2  W3  W4  3.0
+  2 Twu, Cameron           XXXCF50E   778   744/ 18  L1  L4  W3  1.0
+  3 Fang, Weiai            BRBB696W   726   707/ 60  W4  L1  L2  1.0
+  4 Naenna, Patanin        SPLDQ28H   725   707/148  L3  W2  L1  1.0

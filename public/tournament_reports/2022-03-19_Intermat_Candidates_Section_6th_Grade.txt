@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Harish, Neeraj         CBRGC925  1871  1896/274  W4  D2  W3  2.5
+  2 Heath, Derek           SKRG1458  1703  1728/288  W3  D1  L4  1.5
+  3 Vemparala, Nikash      OVLGI078  1974  1945/377  L2  W4  L1  1.0
+  4 Willy, Stephen         HSCGH17K  1846  1832/489  L1  L3  W2  1.0

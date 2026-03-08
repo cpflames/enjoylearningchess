@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tan, Nathan            UCDB412Y   953  1092/ 25  W3  W2  W4  3.0
+  2 Kan, Kaleb             MMECF53E  1020  1037/144  W4  L1  W3  2.0
+  3 Sridhar, Riya          AUDCG37Y  1031   995/ 35  L1  W4  L2  1.0
+  4 Yin, Daniel            ISMJ116Y   882   832/ 87  L2  L3  L1  0.0

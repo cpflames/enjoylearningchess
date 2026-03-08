@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kim, Daniel            MEDIG05X  1048  1118/ 71  W4  D2  W3  2.5
+  2 Zhang, Aaron           CCDD873R  1039  1114/258  W3  D1  W4  2.5
+  3 Zakonov, Pasha         BCAHJ63K  1047  1024/ 21  L2  W4  L1  1.0
+  4 Yu, Christopher        SPTG591U  1020   953/134  L1  L3  L2  0.0

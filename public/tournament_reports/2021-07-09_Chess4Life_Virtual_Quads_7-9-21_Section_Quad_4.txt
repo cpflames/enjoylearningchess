@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mallipeddi, Advaith    HSCH445F  1370  1408/ 57  W3  D2  W4  2.5
+  2 Chopra, Nikita         OMSH297H  1341  1392/ 36  W4  D1  W3  2.5
+  3 Zhang, Aaron           CCDD873R  1247  1245/323  L1  W4  L2  1.0
+  4 Zhang, Ethan (yichen)  CRIDG57B  1349  1281/129  L2  L3  L1  0.0

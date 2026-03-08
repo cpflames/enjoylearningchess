@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tanpure, Sahil         INGJ367A   949  1056/ 11  W3  W4  W2  3.0
+  2 Holzer, Liam           EVJHG89B   950   957/ 67  D4  W3  L1  1.5
+  3 Taylor, Ryder          HSCI385C   990   960/109  L1  L2  W4  1.0
+  4 Foltz, Karsten         HTNG306D   975   923/ 69  D2  L1  L3  0.5

@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Cheng, Edward          GARJC74W  1832  1856/380  W5  W3  D2  W4  W6  4.5
+  2 Kuhner, Mary           ADUND44Q  1875  1880/ 43  W7  W4  D1  D3  W5  4.0
+  3 Pisan, Kai             CHYH404C  1701  1712/378  W6  L1  W7  D2  W8  3.5
+  4 Sankar, Abhay          LEOI6545  1650  1641/383  W8  L2  D5  L1  W7  2.5
+  5 Le, Huy                ADUNG75H  1482  1521/ 11  L1  W6  D4  W8  L2  2.5
+  6 Cheng, Selina          THUE413R  1318  1339/398  L3  L5  W8  W7  L1  2.0
+  7 Xiong, Michael         MEDD115A  1602  1542/233  L2  W8  L3  L6  L4  1.0
+  8 Syal, Yash             SHSDC10R   962   952/ 58  L4  L7  L6  L5  L3  0.0

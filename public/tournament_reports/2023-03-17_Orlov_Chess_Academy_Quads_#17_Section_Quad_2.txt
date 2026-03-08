@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jang, Jinwon           VIEF561P   905   986/ 33  W4  W2  W3  3.0
+  2 Mothukuri, Akhil       INGHT84J   923   922/170  W3  L1  W4  2.0
+  3 Xu, Ethan              BENDK98S   692   697/ 30  L2  W4  L1  1.0
+  4 Doronin, Victor        BMNF335T   718   659/ 23  L1  L3  L2  0.0

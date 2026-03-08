@@ -1,0 +1,35 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Lu, Yiding             NPTF865Z  1964  1989/226  W17 W9  W4  W3  4.0
+  2 Wang, Ted              MEDCK13D  1870  1875/189  W28 W15 W7  D5  3.5
+  3 Kona, Vidip            RSADI26J  1932  1932/264  W18 W26 W10 L1  3.0
+  4 Jammalamadaka, Vihaan  BCAEJ90F  1847  1846/297  W19 W20 L1  W13 3.0
+  5 Shi, Ted               SPTFD099  1688  1707/292  W21 D13 W8  D2  3.0
+  6 Lin, Michael           BCACC97F  1674  1670/241  L13 W21 W28 W15 3.0
+  7 Verma, Darsh           WONFB52K  1640  1651/140  W22 W32 L2  W17 3.0
+  8 Xu, Owen               SOMC896M  1640  1645/132  W29 W23 L5  W18 3.0
+  9 Beegala, Keshav        SHVFJ27V  1592  1615/191  W33 L1  W19 W16 3.0
+ 10 Zhu, Jamie             SSMF558E  1754  1748/293  W24 W16 L3  D11 2.5
+ 11 Liu, Lucas             SOMEH33R  1574  1572/168  L23 W29 W20 D10 2.5
+ 12 Cheng, Selina          THUE413R  1489  1487/378  HPB W25 L13 W22 2.5
+ 13 Nallabothula, Vineesh  EBSF764Q  1344  1478/255  W6  D5  W12 L4  2.5
+ 14 Zhang, Kylie           WMEF890T  1700  1657/172  L20 W24 L18 W29 2.0
+ 15 Xiong, Michael         MEDD115A  1537  1531/212  W30 L2  W23 L6  2.0
+ 16 Zhou, Yuchen           CHRCJ42H  1522  1504/438  W31 L10 W25 L9  2.0
+ 17 Ramkumar, Nikhil       RBRE115E  1506  1498/172  L1  W30 W32 L7  2.0
+ 18 Yadav, Arjun           MMEE664A  1471  1494/ 68  L3  W33 W14 L8  2.0
+ 19 Liu, Bichen            KKNFK00D  1425  1420/ 40  L4  W34 L9  W32 2.0
+ 20 Borate, Neel           REEF821E  1400  1463/209  W14 L4  L11 W26 2.0
+ 21 Bartminn, Jan Lorenz   ENDFH59K  1358  1381/120  L5  L6  W30 W27 2.0
+ 22 Meng, Miranda          CNHCH69P  1322  1379/ 49  L7  W27 W26 L12 2.0
+ 23 Sharma, Soham          OVLFK09Q  1209  1314/ 29  W11 L8  L15 W28 2.0
+ 24 Han, Shuyi             SOMFK47W  1423  1413/264  L10 L14 W34 HPB 1.5
+ 25 Ma, William            SSMC464K   997  1079/ 17  W27 L12 L16 D33 1.5
+ 26 Bhaskaran, Siddharth   HMNC152J  1555  1503/ 26  W34 L3  L22 L20 1.0
+ 27 Khandelwal, Ayush      REEF897D  1527  1444/166  L25 L22 W33 L21 1.0
+ 28 Avula, Varshith Reddy  BRHF110R  1453  1415/160  L2  W31 L6  L23 1.0
+ 29 Avula, Guru Harshith ReBRHC633Y  1314  1299/ 55  L8  L11 W31 L14 1.0
+ 30 Li, Jake C             BRHE573E  1098  1104/ 19  L15 L17 L21 W34 1.0
+ 31 Duan, Andrew           JINDA36Y   400   896/  3  L16 L28 L29 BYE 1.0
+ 32 Somanath, Aarav        DISE235C   400  1016/  3  BYE L7  L17 L19 1.0
+ 33 Pusuluri, Likhit Arnav CNCEC25K  1222  1191/ 78  L9  L18 L27 D25 0.5
+ 34 Davenport, Raymond     SOMED41L  1100  1058/ 59  L26 L19 L24 L30 0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xu, Jeffery            MEDFJ88V   794   900/  8  W4  L3  W2  2.0
+  2 Plesko, Thomas         LWALK03D  1100  1037/  3  W3  W4  L1  2.0
+  3 Utsler, Matthew        RHJGK03C   600  1037/  3  L2  W1  W4  2.0
+  4 Jang, Jinwon           VIEF561P   891   823/ 53  L1  L2  L3  0.0

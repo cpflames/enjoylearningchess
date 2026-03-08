@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhou, Yuchen           BCABJ42H  1417  1454/275  W4  W3  D2  2.5
+  2 Singh, Karanjit        OMSIW934  1472  1453/ 72  L3  W4  D1  1.5
+  3 Dmitriev, Lyan         NPTD246H  1354  1340/284  W2  L1  L4  1.0
+  4 Yang, James            SSME123B  1281  1283/158  L1  L2  W3  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pennington, Kyle       XXXDH02S   890  1000/  9  W4  W2  W3  3.0
+  2 Kan, Kaleb             MMECF53E   845   883/ 48  W3  L1  W4  2.0
+  3 Agarwal, Ishaan Huma   REEEH10F   872   844/ 39  L2  W4  L1  1.0
+  4 Kakkad, Vayu           BRYAK50L   815   748/167  L1  L3  L2  0.0

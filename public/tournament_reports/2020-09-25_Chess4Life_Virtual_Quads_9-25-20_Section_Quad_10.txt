@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Jacob            MMEDD74Y   831   960/ 33  W3  W4  W2  3.0
+  2 Zhu, Kevin             CSMB865U   874   863/129  W4  D3  L1  1.5
+  3 Karthik, Shreya        GTMIA701   785   800/ 23  L1  D2  W4  1.5
+  4 Kakkad, Vayu           BRYBK50L   788   718/156  L2  L1  L3  0.0

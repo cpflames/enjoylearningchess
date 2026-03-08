@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sangal Lopez, Dev      CTNG515J  1474  1575/349  W3  W4  W2  3.0
+  2 Kang, Jinue            OMSH2661  1493  1516/273  W4  W3  L1  2.0
+  3 Havaldar, Karsh        CSBDI03F  1515  1495/ 30  L1  L2  W4  1.0
+  4 Singh, Saket           DISJ872S  1511  1453/353  L2  L1  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kok, Bulut             LAVEE54B   886   914/114  W4  W2  L3  2.0
+  2 Bar, Nathan            AUDB368C   926   916/ 43  D3  L1  W4  1.5
+  3 Chowdhary, Shivam      CMCED47H   835   852/ 22  D2  L4  W1  1.5
+  4 Evans, Thomas          HSCGK88J   913   880/ 18  L1  W3  L2  1.0

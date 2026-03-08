@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Garg, Vihaan           CMCCJ10X   774   836/131  W4  D3  W2  2.5
+  2 Song, Bill             LKWJ2655   745   773/ 17  W3  W4  L1  2.0
+  3 Li, Haiyi              EALK762H   733   714/ 41  L2  D1  WF  1.5
+  4 Njonge, Jeremy         SNPJ100U   715   665/170  L1  L2  LF  0.0

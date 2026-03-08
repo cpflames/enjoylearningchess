@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tiwari, Prakhar        INGH785R  1204  1311/ 28  W4  W2  W3  3.0
+  2 Dmitriev, Lyan         NPTD246H  1196  1222/193  W3  L1  W4  2.0
+  3 Bharathy Mohan, Aarav  FRWCC98B  1198  1178/101  L2  W4  L1  1.0
+  4 Kumarswamy, Adarsh     CHRF755Y  1192  1127/292  L1  L3  L2  0.0

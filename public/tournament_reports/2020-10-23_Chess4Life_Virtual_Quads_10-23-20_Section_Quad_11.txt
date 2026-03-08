@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ivanovic, Lena         UCDAK55K   751   785/129  W4  L2  W3  2.0
+  2 Ismail, Riaz           INGFE17V   791   810/ 26  L3  W1  W4  2.0
+  3 Xie, Michael           BLWE549C   726   709/121  W2  L4  L1  1.0
+  4 Kakkad, Vayu           BRYAK50L   773   742/173  L1  W3  L2  1.0

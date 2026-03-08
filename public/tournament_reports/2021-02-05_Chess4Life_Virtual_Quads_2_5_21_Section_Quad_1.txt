@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Willy, Stephen         MMEFH17K  1646  1700/322  W2  W4  W3  3.0
+  2 Meiyalagan, Ruban Sai  WLDED10L  1482  1538/118  L1  W3  W4  2.0
+  3 Boulis, Christos       RHJHC84T  1618  1595/413  W4  L2  L1  1.0
+  4 Singh, Saket           DISH872S  1594  1540/185  L3  L1  L2  0.0

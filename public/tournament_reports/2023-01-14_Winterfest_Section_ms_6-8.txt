@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Dassow, Alek           HSCI143B  1145  1112/ 10  W7  L6  W5  W9  W2  4.0
+  2 Webb, Rogan            HDPGC51Z   500   816/ 14  BYE W5  W6  W3  L1  4.0
+  3 Keener, Karl           HLHHY40G  1154  1120/ 79  D9  W10 W4  L2  W6  3.5
+  4 Hochheimer, Noah       SGSGF37G   932   941/177  W11 D8  L3  W12 W9  3.5
+  5 Campbell, Sebastian    ASPHI79A  1031   998/142  W10 L2  L1  W13 W8  3.0
+  6 Sherwood, Leo          FREHI58J   809   838/ 24  W12 W1  L2  W7  L3  3.0
+  7 Sparre, Elijah         HDPHI82W   593   598/ 19  L1  BYE W12 L6  W13 3.0
+  8 Elkins, Indiana        HSCHC15D   898   861/ 49  W13 D4  L9  W11 L5  2.5
+  9 Boyd, Aidynn           SVLHB40X   779   832/ 15  D3  W11 W8  L1  L4  2.5
+ 10 Latimer, Noah          HDPHK98G   700   755/  3  L5  L3  W11 U   U   1.0
+ 11 Foster, Kyle           QLCHK98F   700   530/  5  L4  L9  L10 L8  W12 1.0
+ 12 Wall, Caleb            HSCIK98D   800   319/  5  L6  W13 L7  L4  L11 1.0
+ 13 Wolf, Hazen            HDPIK98C   800   100/  4  L8  L12 BYE L5  L7  1.0

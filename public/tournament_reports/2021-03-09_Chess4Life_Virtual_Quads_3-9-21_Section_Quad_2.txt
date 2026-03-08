@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Evans, Thomas          HSCGK88J  1064  1150/ 30  W4  W3  W2  3.0
+  2 Verretto, Dante        EMSIS76P  1051  1065/147  W3  W4  L1  2.0
+  3 Swaminathan, Surya     EBSH2959   947   937/116  L2  L1  W4  1.0
+  4 Sharma, Parth          RSADG29G   981   873/  9  L1  L2  L3  0.0

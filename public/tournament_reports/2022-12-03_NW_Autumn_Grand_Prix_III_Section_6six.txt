@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wagner, Adrien         VSTIE67F   800  1075/  3  W2  W6  W3  3.0
+  2 Delong, Sophia         BLNIK03A   400   500/  6  L1  W8  W6  2.0
+  3 Wagner, Sam            VSTHD69Z   700   672/  3  W4  W7  L1  2.0
+  4 Crediford, Nilay       HORIF28K   276   297/ 12  L3  D5  W8  1.5
+  5 Hennig, Maddox         BLNGA63B   400   316/  5  L6  D4  W7  1.5
+  6 Paz, Fernando          HORGK27P   400   407/  9  W5  L1  L2  1.0
+  7 Kopf, Haydn            HORH181S   400   229/  5  W8  L3  L5  1.0
+  8 Kaur, Prabhleen        MDIGD49K   600   100/  3  L7  L2  L4  0.0

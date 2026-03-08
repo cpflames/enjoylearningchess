@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Olson, Travis          ADUN8893  1770  1774/ 81  W3  W4  W2  3.0
+  2 Wilson, Lance          ROOM754B  1286  1269/ 15  L4  W3  L1  1.0
+  3 Evin, Terrick          EBSBC54L  1193  1196/ 70  L1  L2  W4  1.0
+  4 Shah, Kanav            LMAE295Q  1185  1190/ 39  W2  L1  L3  1.0

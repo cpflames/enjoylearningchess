@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Shaikot, Sabeer        ENSE147Q  1460  1520/196  W3  W2  D4  2.5
+  2 Gadde, Arnav           ENSEJ39D  1490  1489/155  D4  L1  W3  1.5
+  3 Sangal Lopez, Dev      CTNG515J  1503  1480/387  L1  W4  L2  1.0
+  4 Tan, Nathan            UCDD412Y  1467  1451/167  D2  L3  D1  1.0

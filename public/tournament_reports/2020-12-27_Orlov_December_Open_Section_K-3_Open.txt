@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Arul, Sharvesh         BRHC319L  1424  1412/249  W5  W7  W3  L2  W4  4.0
+  2 Kapur, Viraaj          RSACA71K  1306  1314/ 88  W4  L3  W8  W1  W5  4.0
+  3 Ramkumar, Siddharth    LMAEH50B  1050  1078/146  W6  W2  L1  L4  W8  3.0
+  4 Sankrithi, Sarang      HSCBB11D   975  1013/ 73  L2  W6  D7  W3  L1  2.5
+  5 Kakkad, Vayu           BRYAK50L   984   975/219  L1  L8  W6  W7  L2  2.0
+  6 Liang, Wen             JINBF53X   814   839/ 29  L3  L4  L5  W8  W7  2.0
+  7 Liang, Wu              JINB620E   990   942/ 27  W8  L1  D4  L5  L6  1.5
+  8 Ning, Winston          SCDCJ14W   848   823/ 73  L7  W5  L2  L6  L3  1.0

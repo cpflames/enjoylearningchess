@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Cheng, Edward          WMSIC74W  1724  1725/174  D2  W7  W4  W3  W5  4.5
+  2 Sinha, Shaayan         JAHGR30Y  1357  1392/ 46  D1  L3  BYE W4  W6  3.5
+  3 Priest, Liam           OHLHL07U  1473  1456/194  L5  W2  W6  L1  W7  3.0
+  4 Senthil Kumar, KrishnapTMBI7364  1444  1430/310  W6  W5  L1  L2  BYE 3.0
+  5 Gijare, Sayali         SKWIE100  1298  1312/512  W3  L4  W7  BYE L1  3.0
+  6 Morse, Frank           HSOIW762  1000   992/166  L4  BYE L3  W7  L2  2.0
+  7 Swargam, Sahasra       SLLHV96X   589   582/ 16  BYE L1  L5  L6  L3  1.0

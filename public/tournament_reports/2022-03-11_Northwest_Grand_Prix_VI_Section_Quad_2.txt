@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Frost, Ignatius        FACIJ64P  1406  1559/  9  W3  W4  W2  3.0
+  2 Darr-rehmert, Natalie  FERLK93U  1114  1157/ 85  W4  W3  L1  2.0
+  3 Nagra, Joga            FACHI02B  1040  1045/ 12  L1  L2  W4  1.0
+  4 Bubb, Ezra             FHVG592K  1087  1032/ 96  L2  L1  L3  0.0

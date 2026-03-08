@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mathur, Aashi          CRKF522S  1194  1243/208  U   W3  W2  2.0
+  2 Zhang, Ethan (yichen)  CRIDG57B  1231  1224/100  W3  U   L1  1.0
+  3 Hawkins, Holden        TYEI383Z  1162  1119/260  L2  L1  U   0.0

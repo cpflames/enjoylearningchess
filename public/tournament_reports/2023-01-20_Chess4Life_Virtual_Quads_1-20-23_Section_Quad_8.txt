@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sabarish, Ananya       BCACG02Z   538   628/ 48  W3  D2  W4  2.5
+  2 Srivastava, Manya      FRWF758W   455   542/ 41  D4  D1  W3  2.0
+  3 Sardarli, Adnan        XXXC671W   501   484/ 22  L1  W4  L2  1.0
+  4 Kuluru, Samith         KKNGI99K   598   520/124  D2  L3  L1  0.5

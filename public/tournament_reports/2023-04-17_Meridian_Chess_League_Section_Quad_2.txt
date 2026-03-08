@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Allworth, Brayden      NVLIA86Y   995   995/ 35  W4  L3  W2  2.0
+  2 Pounder, Jacob         MRDKG96X   895   924/ 30  W3  W4  L1  2.0
+  3 Siadal, Tucker         MDIGK41G   892   843/  6  L2  W1  L4  1.0
+  4 Moors, Samuel          BLNIH93D   861   847/ 41  L1  L2  W3  1.0

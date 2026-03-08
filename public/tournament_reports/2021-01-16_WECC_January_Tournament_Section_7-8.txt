@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Saloranta, Leo         IMSHB40A  1287  1296/ 95  W8  W2  W4  W3  L5  4.0
+  2 Martinez, Ricky        OCHHC794  1020  1064/195  W16 L1  W12 W11 W8  4.0
+  3 Nune, Navaj            LLMIF09F   996  1098/ 45  W15 W5  W6  L1  D4  3.5
+  4 Morin-cotton, NathanielPEMH4895  1072  1095/133  W14 W12 L1  W7  D3  3.5
+  5 Emi, Pruneda           MCFIK53L  1219  1196/158  W11 L3  L7  W9  W1  3.0
+  6 Cryan, Kenneth         SPKH3456  1111  1097/ 92  W10 W7  L3  L8  W11 3.0
+  7 Kamath, Aditya         TMBHF78A   949  1031/ 10  W9  L6  W5  L4  W13 3.0
+  8 Thallapally, Srithan   LECHF86Y   937   986/ 50  L1  W16 W13 W6  L2  3.0
+  9 Padilla, Josearias     OCHI888V   800   864/  5  L7  D10 W14 L5  W15 2.5
+ 10 Santana, Andy          OCHHH849   911   892/213  L6  D9  L11 W12 W14 2.5
+ 11 Motkuri, Advaitha      LLMIJ68F   922   908/ 55  L5  W15 W10 L2  L6  2.0
+ 12 Balcom, Will           RRGI512H   522   656/ 10  W13 L4  L2  L10 W16 2.0
+ 13 Mendoza, Leonardo      OCHH1126  1048   962/229  L12 W14 L8  W15 L7  2.0
+ 14 Ogle, Noah             CKKH176F   783   727/ 35  L4  L13 L9  W16 L10 1.0
+ 15 Guizar, Kevin          OCHHI02P   407   426/ 15  L3  L11 W16 L13 L9  1.0
+ 16 Casillas, Abigail      OCHHI76H   419   400/ 29  L2  L8  L15 L14 L12 0.0

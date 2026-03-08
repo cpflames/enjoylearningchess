@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nadupalli, Abhinav     PLKI676B   604   661/ 36  W2  WF  W3  3.0
+  2 Bhardwaj, Nia          RKWDD47N   608   600/ 31  L1  W3  WF  2.0
+  3 Bikkula, Charan        CRIEJ23A   523   472/ 57  WF  L2  L1  1.0

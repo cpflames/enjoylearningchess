@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kamel, Yaseen          PFCID57L  1354  1378/ 76  D2  W3  W4  2.5
+  2 Wu, Derek              MEDD902D  1230  1311/ 38  D1  W4  W3  2.5
+  3 Ma, Justin             OVLHD33R  1237  1224/131  W4  L1  L2  1.0
+  4 Zhang, Aaron           CCDD873R  1246  1186/267  L3  L2  L1  0.0

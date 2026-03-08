@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bar, Nathan            AUDB368C   909  1051/ 34  W4  W2  W3  3.0
+  2 Hildenbrand, Blane     TCEF122V   927   932/ 86  W3  L1  D4  1.5
+  3 Kim, Dylan             SCDCK38L   919   900/ 42  L2  W4  L1  1.0
+  4 Kan, Kaleb             MMECF53E   956   901/107  L1  L3  D2  0.5

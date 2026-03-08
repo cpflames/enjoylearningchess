@@ -1,0 +1,46 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wang, Ted              STTDK13D  1955  1986/242  W28 W5  W24 W10 W8  5.0
+  2 Xu, Owen               SOMD896M  1654  1715/167  W9  W25 W4  D8  W10 4.5
+  3 Merriman, Dann         EREDF79Y  1513  1537/517  W31 W7  W14 HPB HPB 4.0
+  4 Han, Matthew           BISJ5262  1380  1420/294  W34 W26 L2  W21 W18 4.0
+  5 Bharadwaj, Samarth     DISCE78A  1368  1433/120  W44 L1  W27 W26 W11 4.0
+  6 Calo, Jude             REGH3425  1274  1326/191  W45 L13 W31 W30 W12 4.0
+  7 Chang, Liam            LEOG5238  1246  1305/120  W43 L3  W22 W34 W13 4.0
+  8 Bian, Erin             LMSHI91Y  1984  1966/187  W27 W15 W12 D2  L1  3.5
+  9 Graves, Henry          JFMHC00C  1126  1268/ 52  L2  W40 W16 D14 W24 3.5
+ 10 Maurer, Sam            INTK742A  1762  1744/ 44  W29 W16 W13 L1  L2  3.0
+ 11 Meyerzon, Daniel       INTJJ242  1562  1525/387  W30 L18 W23 W19 L5  3.0
+ 12 Cen, Evan              TYEHI97D  1516  1504/145  W22 W17 L8  W20 L6  3.0
+ 13 Amalo, Eliot           HSCI282X  1380  1381/ 90  W33 W6  L10 W28 L7  3.0
+ 14 Mathur, Aashi          PLKH522S  1377  1364/288  W35 W38 L3  D9  D23 3.0
+ 15 Belgau, Stephen        JFMHK76X  1366  1361/ 15  W36 L8  L28 W25 W27 3.0
+ 16 Tie, Mike              ENDE856Y  1305  1300/ 77  W41 L10 L9  W32 W28 3.0
+ 17 Joseph, Veronique      SJODJ04S  1290  1266/114  W42 L12 L30 W33 W31 3.0
+ 18 Balayoghan, Keeran     SPTF477N  1285  1314/ 44  W39 W11 D20 D24 L4  3.0
+ 19 Byam, Caleb            HSCGI71C  1243  1248/ 34  BYE L24 W38 L11 W30 3.0
+ 20 Zhao, Dennis           OPWG525E  1234  1269/304  D23 W21 D18 L12 W37 3.0
+ 21 Li, Edgar              OPWC883Y  1210  1210/138  W37 L20 W33 L4  W34 3.0
+ 22 Cheng, Alan            CHREJ71K  1102  1122/ 79  L12 W42 L7  W40 W26 3.0
+ 23 King, Miles            WSAIK48E   800  1321/  4  D20 BYE L11 W29 D14 3.0
+ 24 Aggarwal, Aadit        LEOJE722  1437  1414/467  W32 W19 L1  D18 L9  2.5
+ 25 Wang, Derek            MEDEF70G  1329  1300/182  W40 L2  D29 L15 W39 2.5
+ 26 Bates-callaghan, EmmettBCSDJ49J  1236  1193/ 34  BYE L4  W32 L5  L22 2.0
+ 27 Kakkad, Vayu           DCTCK50L  1175  1165/458  L8  W35 L5  W36 L15 2.0
+ 28 Joshi, Vyom            LEOHH81X  1169  1181/124  L1  W44 W15 L13 L16 2.0
+ 29 Fudge, Alice           LMSF400B  1156  1148/ 48  L10 W36 D25 L23 D38 2.0
+ 30 Marnadi, Ethan         RSAGE62G  1120  1126/ 42  L11 W41 W17 L6  L19 2.0
+ 31 Zhang, Zhibo           SOMD674X  1097  1089/ 82  L3  W39 L6  W35 L17 2.0
+ 32 Kumar, Vijesh          JFMHK76B  1024   988/ 10  L24 W43 L26 L16 W40 2.0
+ 33 Chulki, Aayush         BLMHJ17Y   973   960/118  L13 W45 L21 L17 W41 2.0
+ 34 Mitra, Rahul           OPWHH53N   964   973/250  L4  W37 BYE L7  L21 2.0
+ 35 Van Gorkom, Joshua     CWAIB02N   837   837/ 53  L14 L27 W42 L31 W43 2.0
+ 36 Song, Bill             INLJ2655   773   762/ 21  L15 L29 W45 L27 WF  2.0
+ 37 Thein, Zayar           MCRJC82F  1168  1016/  7  L21 L34 W41 W38 L20 2.0
+ 38 Liao, Wesley           BCSJE49D  1063  1019/104  BYE L14 L19 L37 D29 1.5
+ 39 Verma, Eshaan          EALJC02S   843   831/140  L18 L31 D44 W42 L25 1.5
+ 40 Aldinger, Nikolai      WHIHG72F   697   697/ 29  L25 L9  W43 L22 L32 1.0
+ 41 Song, Charlie          KJHHJ08F   658   674/ 17  L16 L30 L37 W44 L33 1.0
+ 42 Kim, Chloe             MAPHK89F   641   615/ 15  L17 L22 L35 L39 W45 1.0
+ 43 Hall, Benji            BLAJK48C   900   465/  5  L7  L32 L40 W45 L35 1.0
+ 44 Das, Siddharth         BLWH293Y   799   758/121  L5  L28 D39 L41 LF  0.5
+ 45 P, Ashank              SKIIK48B   800   135/  5  L6  L33 L36 L43 L42 0.0

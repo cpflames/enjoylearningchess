@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bhat, Esha             PLKH674K   603   689/ 17  W4  W2  D3  2.5
+  2 Sabarish, Ananya       BCACG02Z   645   662/ 56  W3  L1  W4  2.0
+  3 Chen, Albert           LKWB728A   631   581/  9  L2  D4  D1  1.0
+  4 Kuluru, Samith         KKNGI99K   520   487/127  L1  D3  L2  0.5

@@ -1,0 +1,30 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Olson, Travis          ADUN8893  1755  1762/ 69  W14 D23 W7  W28 D9  D5  4.5
+  2 Shapiro, Michael       EALM8875  1697  1718/351  L4  W13 BYE D5  W21 W9  4.5
+  3 Wilke, Daniel          ADUN9777  1728  1737/275  WF  D18 W23 W21 HPB HPB 4.5
+  4 Foxley, Rowen          ADUNH09S  1772  1784/  4  W2  D28 W19 HPB D6  HPB 4.0
+  5 Ren, Aaron             ENADG67B  1615  1664/114  D6  D27 W20 D2  W17 D1  4.0
+  6 Nallabothula, Vineesh  EBSG764Q  1492  1631/272  D5  D15 W16 W22 D4  D7  4.0
+  7 Liu, Lucas             SOMFH33R  1604  1634/190  D24 W25 L1  W12 W15 D6  4.0
+  8 Verma, Darsh           WONGB52K  1630  1654/175  L18 D16 W29 D13 W28 W22 4.0
+  9 Jusak, Jeremy          ADUN7225  1627  1634/231  D25 W24 W10 WF  D1  L2  4.0
+ 10 Ramkumar, Nikhil       RBRF115E  1405  1476/199  BYE D17 L9  W18 D20 D11 3.5
+ 11 Maurer, Sam            INTK742A  1653  1628/ 23  L21 L12 BYE W23 W13 D10 3.5
+ 12 Borate, Neel           OMSG821E  1521  1570/240  L17 W11 W27 L7  D14 W20 3.5
+ 13 Yadav, Arjun           MMEF664A  1572  1590/ 90  W19 L2  D28 D8  L11 W26 3.0
+ 14 Razmov, Gabriel        ADDHC26K  1590  1588/244  L1  D29 D24 W25 D12 D15 3.0
+ 15 Yondon, Odbayar        LMAEK97T  1662  1644/101  D27 D6  W26 D17 L7  D14 3.0
+ 16 Meiyalagan, Ruban Sai  WLDGD10L  1718  1679/210  L20 D8  L6  D29 BYE W21 3.0
+ 17 Wong-godfrey, Emerson  BUSJH83E  1641  1633/433  W12 D10 D21 D15 L5  D19 3.0
+ 18 Dann, William          ADUN554B  1516  1540/ 50  W8  D3  L22 L10 D26 W25 3.0
+ 19 Buck, Stephen J        ADUN8800  1774  1736/ 23  L13 BYE L4  HPB W23 D17 3.0
+ 20 Skkandann, Kiann       NPRL644M  1671  1630/ 35  W16 L21 L5  W24 D10 L12 2.5
+ 21 Wang, Leonardo         CKNG233K  1544  1561/ 25  W11 W20 D17 L3  L2  L16 2.5
+ 22 Gregg, Bruce W         ADUN1040  1720  1682/  4  HPB D26 W18 L6  HPB L8  2.5
+ 23 Li, Emma               LMSI521Q  1523  1525/341  W29 D1  L3  L11 L19 BYE 2.5
+ 24 Bharathy Mohan, Aarav  FRWEC98B  1428  1459/262  D7  L9  D14 L20 W29 D27 2.5
+ 25 Xiong, Michael         MEDE115A  1504  1487/246  D9  L7  HPB L14 W27 L18 2.0
+ 26 Barua, Ani             ADUN8572  1601  1565/ 22  HPB D22 L15 D27 D18 L13 2.0
+ 27 Zhou, Yuchen           CHRDJ42H  1572  1537/502  D15 D5  L12 D26 L25 D24 2.0
+ 28 Tran, Nugen            CDZI455Z  1540  1533/356  BYE D4  D13 L1  L8  U   2.0
+ 29 Sankar, Abhay          LEOJ6545  1641  1578/388  L23 D14 L8  D16 L24 U   1.0

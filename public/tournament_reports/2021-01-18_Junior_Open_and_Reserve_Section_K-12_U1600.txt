@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Verma, Darsh           WONEB52K  1421  1511/ 81  W21 W10 W6  W8  4.0
+  2 Westover, Charlotte    WMEE365V  1357  1437/236  W18 W3  D7  D4  3.0
+  3 Wei, Brian             SLVGP31C  1678  1661/130  W15 L2  W16 W7  3.0
+  4 Zheng, Max             SOMED13T  1424  1442/ 83  W25 D6  W9  D2  3.0
+  5 Kamel, Yaseen          PFCID57L  1295  1326/ 53  D16 D17 W18 W15 3.0
+  6 Yu, Luke               PLKG676Z  1406  1419/ 59  W14 D4  L1  W17 2.5
+  7 Dudala, Vihan          BRHEH62J  1333  1376/ 84  W20 W13 D2  L3  2.5
+  8 Sripathi, Prajna       JWEGU42W  1398  1401/143  W22 D9  W17 L1  2.5
+  9 Xing, Henry            LKDF3704  1306  1316/298  W23 D8  L4  W16 2.5
+ 10 Cui, Max               CBRC946C  1375  1378/144  W19 L1  W20 HPB 2.5
+ 11 Yadlapati, Arush       EVJGA47S  1259  1304/128  L13 D19 W24 W22 2.5
+ 12 Puri, Rishay           EPSIK809  1370  1365/229  HPB L16 W19 W14 2.5
+ 13 O'brien, Hansol        OTXFC908  1503  1457/240  W11 L7  L14 W21 2.0
+ 14 Vankamamidi, Advaith   EVJI193M  1237  1252/ 96  L6  W21 W13 L12 2.0
+ 15 Saloranta, Leo         IMSHB40A  1277  1265/ 84  L3  W25 W23 L5  2.0
+ 16 Gajcowski, Hannah Nami OPWFI10H  1182  1208/128  D5  W12 L3  L9  1.5
+ 17 Razmov, Gabriel        CSIFC26K  1268  1278/ 70  W24 D5  L8  L6  1.5
+ 18 Ehrenberg, Joshua      HCCKH373  1194  1198/104  L2  W24 L5  D20 1.5
+ 19 Fu, Victor             MEDDA08K  1209  1194/ 79  L10 D11 L12 W23 1.5
+ 20 Grandhi, Dhruv         JMRFC63M   957  1022/ 22  L7  W22 L10 D18 1.5
+ 21 Ramkumar, Nikhil       RBRD115E   930   918/ 42  L1  L14 BYE L13 1.0
+ 22 Xia, Yuchen            BLMHI52A  1215  1164/ 90  L8  L20 W25 L11 1.0
+ 23 Srivastava, Arnav      TYEH414P   793   793/  9  L9  BYE L15 L19 1.0
+ 24 Cheng, Ethan           LMAED58X  1581  1488/273  L17 L18 L11 W25 1.0
+ 25 Kokati, Pranav         CHRF814P  1072  1031/124  L4  L15 L22 L24 0.0

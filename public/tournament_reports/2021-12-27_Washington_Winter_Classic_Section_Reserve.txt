@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 tot 
+  1 Marcelais, Kai         WPPIA64J  1437  1495/112  W17 W5  W4  L2  W6  W7  W8  W11 7.0
+  2 Edson, Eduard          ADUN743U  1389  1494/ 19  W16 W15 W7  W1  W8  W4  W12 L3  7.0
+  3 Mohan, Vishnu          KKNDF41R  1344  1342/ 75  L11 WF  L12 W17 W5  D6  W7  W2  5.5
+  4 Cheng, Selina          THUE413R  1386  1375/334  W6  W11 L1  L8  W12 L2  W14 W7  5.0
+  5 Mohan, Laya            BCWG617P  1358  1336/118  W10 L1  W17 L11 L3  W9  W6  W8  5.0
+  6 Kandhare, Aaroh        OMSHK91M  1060  1151/ 52  L4  W14 W15 W10 L1  D3  L5  W12 4.5
+  7 Pisan, Kai             CHYH404C  1421  1376/228  W13 W8  L2  W12 W11 L1  L3  L4  4.0
+  8 Cen, Evan              TYEGI97D  1310  1299/ 67  W14 L7  W16 W4  L2  W11 L1  L5  4.0
+  9 Chang, Yi-kuang        BCXFZ17D  1190  1064/ 10  L12 BYE L11 W14 L13 L5  W17 W16 4.0
+ 10 Ephrem, Yabi           HSCHC72Q   990   996/ 66  L5  BYE D13 L6  W17 L12 W16 D14 4.0
+ 11 Pusuluri, Likhit Arnav CNCEC25K   894  1112/ 50  W3  L4  W9  W5  L7  L8  W13 L1  4.0
+ 12 Shah, Jonah            MMIHI42C   400   927/ 12  W9  W13 W3  L7  L4  W10 L2  L6  4.0
+ 13 Yang, Yuchang          ILCEK16L  1145  1075/ 35  L7  L12 D10 BYE W9  L14 L11 W17 3.5
+ 14 Chulki, Aayush         BLMGJ17Y   850   913/ 94  L8  L6  BYE L9  W16 W13 L4  D10 3.5
+ 15 Bradshaw, David        ADUND30R  1198  1150/  8  WF  L2  L6  W16 U   U   U   U   2.0
+ 16 Pachucki, Mariel       ADUN783A  1127   955/ 12  L2  WF  L8  L15 L14 W17 L10 L9  2.0
+ 17 Bharadwaj, Anish       ETSHI530  1190  1044/238  L1  WF  L5  L3  L10 L16 L9  L13 1.0

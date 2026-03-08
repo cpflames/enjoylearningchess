@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xu, Zoe                CNHCG70A  1072  1095/ 55  L4  W2  W3  2.0
+  2 Zhu, Kevin             CSMC865U  1056  1084/200  W3  L1  W4  2.0
+  3 Pisan, Kai             CHYH404C  1074  1048/163  L2  W4  L1  1.0
+  4 Mohan, Keshav          EGMHG24Z  1064  1040/ 59  W1  L3  L2  1.0

@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Saryyev, Salyh         LWAJB67L  1181  1207/ 10  W4  W9  W2  W6  L3  4.0
+  2 Mahale, Saumit         CKNHI34X  1036  1111/ 28  W5  W7  L1  W3  W6  4.0
+  3 Bukovec, Zack          GARK1924  1058  1042/ 95  L7  W8  WF  L2  W1  3.0
+  4 Vangala, Advaith       LMSG174X  1009  1016/363  L1  U   BYE W9  W7  3.0
+  5 Kakani, Nehanth        KMNG979H   653   710/  9  L2  BYE LF  WF  W8  3.0
+  6 Dale, Luke             SMSIJ10P  1009   998/ 24  W9  U   W7  L1  L2  2.0
+  7 Ramanathan, Hamsini    OPWGH41M   912   909/ 30  W3  L2  L6  W8  L4  2.0
+  8 Syal, Aadya            SHSGJ14J   765   710/ 25  WF  L3  W9  L7  L5  2.0
+  9 Hyslop Jr, Robert      LBYGK54V   600   400/  4  L6  L1  L8  L4  BYE 1.0

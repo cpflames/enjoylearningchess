@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Malugu, Sankalp        SHSBE95W  1032  1138/117  W3  W2  D4  2.5
+  2 Sharma, Anish          WPPHA11B   990  1071/212  W4  L1  W3  2.0
+  3 Lechner, Liam          HSCG591P  1389  1237/  9  L1  W4  L2  1.0
+  4 Nayak, Akshat          DCSG459S  1016   990/171  L2  L3  D1  0.5

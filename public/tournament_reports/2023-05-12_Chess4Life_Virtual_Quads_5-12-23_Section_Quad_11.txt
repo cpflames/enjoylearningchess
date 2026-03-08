@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Devlin, Austin         OSEFK25F   432   527/ 30  W3  W4  W2  3.0
+  2 Ramanathan, Varun      LEOHK88H   490   463/  8  W4  W3  L1  2.0
+  3 Seshadri, Rasika       KMDGK14V   600   236/  3  L1  L2  W4  1.0
+  4 Shao, Lang             SOMAK14U   100   100/  3  L2  L1  L3  0.0

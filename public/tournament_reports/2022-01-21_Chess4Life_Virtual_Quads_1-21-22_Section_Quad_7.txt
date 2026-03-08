@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Godse, Gaurav          EVJH290Q  1105  1236/ 72  W3  W2  W4  3.0
+  2 Vijeyanandh, Vishnu    TMBGF63Z  1157  1130/ 86  L4  L1  W3  1.0
+  3 Rastogi, Reyansh       LMAFD30N  1154  1128/149  L1  W4  L2  1.0
+  4 Chen, Emily C          BCAHJ13K  1100  1088/ 93  W2  L3  L1  1.0

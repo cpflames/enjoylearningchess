@@ -1,0 +1,35 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Zhu, Jamie             SSME558E  1605  1682/270  W18 W10 D2  D14 W11 W4  5.0
+  2 Suess, Wade            EVGF101D  1574  1642/248  W28 W16 D1  W21 D4  W5  5.0
+  3 Karthikeyan, HarishkumaRKWFJ81A  1590  1617/175  W23 W15 L5  W26 W14 W6  5.0
+  4 Cheng, Edward          WMSIC74W  1748  1739/271  W22 W12 W25 W5  D2  L1  4.5
+  5 Krishnan, Advait       ENSF570Q  1185  1430/ 78  W11 W17 W3  L4  W21 L2  4.0
+  6 Razmov, Gabriel        CSIFC26K  1495  1521/ 99  L26 W32 W13 W17 W10 L3  4.0
+  7 Cordero, Rowland       ADUN3075  1405  1420/  6  L16 W31 W22 L10 W18 W15 4.0
+  8 Gajcowski, Hannah Nami OPWFI10H  1311  1423/149  W9  L21 W15 W19 HPB HPB 4.0
+  9 Johnson, Cleveland     ADUNH24R  1389  1437/ 15  L8  HPB W30 HPB W20 W14 4.0
+ 10 Devadithya, Hiruna     PFCH5494  1646  1624/618  W31 L1  W20 W7  L6  HPB 3.5
+ 11 Devadithya, Lavindu    ISSLK234  1570  1554/576  L5  W28 W16 W25 L1  HPB 3.5
+ 12 Ejsing, Simon          ADUN158D  1394  1419/ 15  W34 L4  L26 D23 W24 W21 3.5
+ 13 Betz, Parker           ADUNB471  1588  1568/ 76  HPB HPB L6  W24 D25 W22 3.5
+ 14 Cheng, Ethan           LMAED58X  1505  1508/283  D21 W29 W19 D1  L3  L9  3.0
+ 15 Krzykawski, Tomasz     ADONS77G  1375  1373/ 22  W27 L3  L8  W30 W26 L7  3.0
+ 16 Kamel, Yaseen          PFCID57L  1401  1395/ 96  W7  L2  L11 L20 W32 W27 3.0
+ 17 Weller, Stephen F      ADUN6094  1359  1339/ 20  W30 L5  W27 L6  D22 D19 3.0
+ 18 Cheng, Selina          THUD413R  1320  1330/269  L1  L27 W31 W29 L7  W26 3.0
+ 19 Hack, Don              ADBNF13X  1311  1306/ 33  W32 D24 L14 L8  W23 D17 3.0
+ 20 Gu, Aaron Xiao         EBSF412J  1426  1446/ 55  U   W23 L10 W16 L9  W29 3.0
+ 21 Liotta, Nicholas       ADUN972H  1714  1643/ 19  D14 W8  W24 L2  L5  L12 2.5
+ 22 Saloranta, Leo         IMSHB40A  1242  1246/111  L4  W33 L7  W27 D17 L13 2.5
+ 23 Wong, Kate             BCAC459M  1311  1282/ 62  L3  L20 W33 D12 L19 W32 2.5
+ 24 Ruff, Lois             ADUNJ90S  1235  1252/ 95  W29 D19 L21 L13 L12 W28 2.5
+ 25 Han, Shuyi             SOMEK47W  1399  1416/233  W33 W26 L4  L11 D13 U   2.5
+ 26 Hamlett, James         ADUN4372  1562  1498/ 47  W6  L25 W12 L3  L15 L18 2.0
+ 27 Levy, Solomon          CSIDD39J  1212  1177/ 11  L15 W18 L17 L22 W30 L16 2.0
+ 28 Huttelmaier, Evelyn    CHRC757Z   543   585/ 91  L2  L11 W34 L32 W33 L24 2.0
+ 29 Elliott, William J     ADUNI322  1541  1446/ 14  L24 L14 W32 L18 W34 L20 2.0
+ 30 Huttelmaier, Alex      CHRE218R  1037  1011/116  L17 W34 L9  L15 L27 W33 2.0
+ 31 Chauhan, Riddhima      CRKDF72E   400   430/ 10  L10 L7  L18 L33 BYE W34 2.0
+ 32 Pusuluri, Likhit Arnav CNCDC25K   823   823/ 26  L19 L6  L29 W28 L16 L23 1.0
+ 33 Shankaranand, Deeksha  EBSCI74Y   641   614/ 61  L25 L22 L23 W31 L28 L30 1.0
+ 34 Subramanian, Vignesh   LKWC399T   400   400/  9  L12 L30 L28 BYE L29 L31 1.0

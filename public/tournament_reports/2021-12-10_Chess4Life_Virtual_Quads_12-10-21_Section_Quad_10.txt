@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Eric             HMNGI22X   724   848/ 25  D2  W3  W4  2.5
+  2 Pai, Vihaan            STVCK17C   768   778/ 53  D1  W4  L3  1.5
+  3 Yang, Nicholas         CHRBG23U   826   784/ 11  L4  L1  W2  1.0
+  4 Duseja, Ronit          TIMEA38H   820   786/ 60  W3  L2  L1  1.0

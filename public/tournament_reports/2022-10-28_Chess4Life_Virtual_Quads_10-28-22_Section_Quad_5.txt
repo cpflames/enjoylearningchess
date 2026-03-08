@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Vutukuri, Niharika     REJGB12L   902  1034/ 37  W2  W3  W4  3.0
+  2 Joshi, Vyom            LEOHH81X  1056  1048/ 57  L1  W4  W3  2.0
+  3 Kundu, Ayush           XXXG245X   832   829/ 35  W4  L1  L2  1.0
+  4 Naenna, Patanin        SPLEQ28H   828   771/165  L3  L2  L1  0.0

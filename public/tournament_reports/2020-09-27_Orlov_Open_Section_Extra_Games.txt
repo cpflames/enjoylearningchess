@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Xing, Henry            LKDF3704  1311  1313/292  W10 1.0
+  2 Malugu, Sankalp        SHSBE95W   936   974/ 90  W6  1.0
+  3 Cheng, Selina          THUD413R  1050  1075/100  W7  1.0
+  4 Edmond, Ivy            WWDDD81E   999  1017/ 94  W8  1.0
+  5 Xiao, David            RDSDA64Q  1087  1098/ 25  W9  1.0
+  6 Khatib, Kenan          LKDFC566  1030   994/170  L2  0.0
+  7 Yu, Xinhui             LCNF450Y  1015   989/ 21  L3  0.0
+  8 Preiner, Isaac         HTNIK40N   857   837/ 43  L4  0.0
+  9 Zhang, Melodie         SPTFE44K   838   825/ 59  L5  0.0
+ 10 Iyer, Shashwat Pranav  REEBC07W   720   720/  5  L1  0.0

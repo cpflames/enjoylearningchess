@@ -1,0 +1,107 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Young-byle, Tynan      VMSIK829   872  1075/126   W86  W56  W39  W12  W19 5.0
+  2 Zheng, Aiden           TWMIK76Y   800  1523/  5   W87  W77  W15  W37  W13 5.0
+  3 Belgau, Stephen        JFMHK76X   700  1530/  5   W8   W90  W26  W5   W16 5.0
+  4 Kissinger, Lou         HOMHK76W   700  1161/  5   W69  W30  W33  D19  W22 4.5
+  5 Nguyen, Anna           CEMH621P   646   850/ 10   W35  W57  W40  L3   W45 4.0
+  6 Kim, Peter             HSCHK76V   700  1136/  5   W96  W38  W41  L16  W37 4.0
+  7 Frohbieter, Dominic    HABHK76U   700  1109/  5   W58  W23  L16  W77  W39 4.0
+  8 Lowe, Titus            ETLIK76T   800  1139/  5   L3   W95  W57  W38  W40 4.0
+  9 Crum, Connor           CJSIK76S   800  1007/  5   L44  W43  W63  W60  W41 4.0
+ 10 Turner, Mason          VMSIK76R   800  1109/  5   L17  W79  W65  W44  W42 4.0
+ 11 Aubry, Jesse           GRIIK76P   800  1163/  5   W18  L25  W29  W26  W27 4.0
+ 12 Coates, Brenner        MOTIK76N   800  1098/  5   W46  W62  W44  L1   W28 4.0
+ 13 Olson, Rainn           PNRHK76K   700  1251/  5   W92  W65  W17  W32  L2  4.0
+ 14 Westfall, Noah         YLMHK76J   700  1016/  5   L30  W106 W52  W48  W25 4.0
+ 15 Wolff, David           KLLIK76H   800  1169/  5   W105 W29  L2   W33  W32 4.0
+ 16 Simmons, Rj            PNRIK76E   800  1279/  5   W52  W85  W7   W6   L3  4.0
+ 17 Graves, Henry          JFMHC00C  1138  1126/ 47   W10  W73  L13  W45  D21 3.5
+ 18 Frohs, Ronan           HMIIK76C   800   968/  5   L11  W84  D54  W73  W59 3.5
+ 19 Kumar, Vijesh          JFMHK76B   700  1024/  5   W80  W81  W42  D4   L1  3.5
+ 20 Blood, Jason           GRIHK76A   700   781/  5   L26  D103 W91  W84  W55 3.5
+ 21 Lindquist, Sam         HPHGK75Z   600   985/  5   W61  L26  W47  W81  D17 3.5
+ 22 Stark, Owyn            BHNGK75Y   600   900/  5   W83  D45  W24  W59  L4  3.5
+ 23 Shaeffer, Jj           TCOIK75X   800   946/  5   W31  L7   W69  D50  W46 3.5
+ 24 Reisberg, Eli          BRTGK75W   600   819/  5   W68  D66  L22  W61  W50 3.5
+ 25 Nguyen, Nigel          CEMI158E  1109  1046/ 10   W74  W11  L37  W56  L14 3.0
+ 26 Heider, Elena          NOVIC647   978  1005/139   W20  W21  L3   L11  W72 3.0
+ 27 Sauceda Cabral, Ayden  FRCIK75V   800   802/  5   W98  L39  W86  W36  L11 3.0
+ 28 Tjepkema, Cash         FRXIK75T   800   833/  5   W75  L40  W35  W76  L12 3.0
+ 29 Vijayamanivannan, NishaJFMIK75S   800   816/  5   W99  L15  L11  W96  W71 3.0
+ 30 Borden, Kayce          EDSGK75R   600   897/  5   W14  L4   L77  W75  W76 3.0
+ 31 Haney, Robin           BHNHK75Q   700   803/  5   L23  W58  L38  W99  W77 3.0
+ 32 Flick, Cohen           CHUHK75N   700   846/  5   W78  W89  W60  L13  L15 3.0
+ 33 Yi, Keith              SBHIK75M   800   854/  5   W79  W102 L4   L15  W81 3.0
+ 34 Hovley, Xavier         CEDIK75H   800   725/  5   L81  W80  W90  L42  W62 3.0
+ 35 Bush, Amelia           BLUIK75F   800   763/  5   L5   W64  L28  W90  W63 3.0
+ 36 Young, Kylan           HSCHK75E   700   731/  5   D84  D61  W67  L27  W64 3.0
+ 37 Stout, Ronan           GRMGK75D   600  1022/  5   W91  W63  W25  L2   L6  3.0
+ 38 Blythe, Zander         CEDGK75C   600   905/  5   W49  L6   W31  L8   W67 3.0
+ 39 Causey, Avery          CEMIK75B   800   911/  5   W104 W27  L1   W49  L7  3.0
+ 40 Folden, Haiden         WPAGK75A   600   864/  5   W50  W28  L5   W71  L8  3.0
+ 41 Roberts, Conner        FRXIK74Z   800   886/  5   W51  W47  L6   W72  L9  3.0
+ 42 Sykes, Eric            FRCHK74Y   700   889/  5   W72  W70  L19  W34  L10 3.0
+ 43 Sawyer, Dustin         EGVHK74X   700   739/  5   L54  L9   W94  W70  W68 3.0
+ 44 Anderson, Kai          BHNHK74W   700   987/  5   W9   W54  L12  L10  W69 3.0
+ 45 Dallas, Quinn          WRVGN81M   436   606/ 10   W55  D22  W62  L17  L5  2.5
+ 46 Beeman, Brody          CEDIK74U   800   764/  5   L12  W93  D73  W54  L23 2.5
+ 47 Davis Maclean, Forrest OCTGK74T   600   706/  5   W76  L41  L21  W97  D57 2.5
+ 48 Mendoza, Willie        EGVIK74S   800   671/  5   L77  W94  W96  L14  D58 2.5
+ 49 Foster, Josiah         ONAIK74R   800   699/  5   L38  W87  W75  L39  D56 2.5
+ 50 Delossantos, Julio     SBHHK74Q   700   655/  5   L40  W98  W97  D23  L24 2.5
+ 51 Daniels, Kevyn         CEMHK74P   700   583/  5   L41  L76  W88  D89  W87 2.5
+ 52 Leon, Ediel            SBHHK74N   700   706/  5   L16  W99  L14  W100 D60 2.5
+ 53 Harwood, Kieran        HMIIK74M   800   538/  5   L102 D59  L55  W103 W89 2.5
+ 54 Hipp, Hunter           NPNHK74L   700   809/  5   W43  L44  D18  L46  W84 2.5
+ 55 Zalot, Eli             HPHHK74K   700   602/  5   L45  D91  W53  W66  L20 2.5
+ 56 Goode, Tytus           EGVIK74J   800   750/  5   W103 L1   W85  L25  D49 2.5
+ 57 Dailey, Marcus         TRMGK74H   600   763/  5   W64  L5   L8   W65  D47 2.5
+ 58 Rivas-pagan, Abraham   FRXGK74F   600   657/  5   L7   L31  W104 W85  D48 2.5
+ 59 Johnson, Rory          SBHIK74E   800   713/  5   W70  D53  W66  L22  L18 2.5
+ 60 Lee, Lexa              BHNGK74D   600   678/  5   W106 W67  L32  L9   D52 2.5
+ 61 Camargo, Anibal        SBHHK74B   700   602/  5   L21  D36  D74  L24  W98 2.0
+ 62 Lynch, Eleanor         BHNGK74A   600   563/  5   W93  L12  L45  W74  L34 2.0
+ 63 Elkins, Trendan        MRXGK73Z   600   627/  5   W94  L37  L9   W86  L35 2.0
+ 64 Perez, Pedro           SBHIK73Y   800   511/  5   L57  L35  W98  W95  L36 2.0
+ 65 Names, Jonathan        ORGIK73X   800   630/  5   W97  L13  L10  L57  W99 2.0
+ 66 Colling, Archer        MASGK73W   600   562/  5   W101 D24  L59  L55  D73 2.0
+ 67 Vallejo, Hayden        FRXGK73V   600   502/  5   W88  L60  L36  W101 L38 2.0
+ 68 Vanderhoeff, Wyatt     CEMGK73U   600   507/  5   L24  W101 L76  W102 L43 2.0
+ 69 Thompson, David        YLMHK73T   700   701/  5   L4   W100 L23  W79  L44 2.0
+ 70 Meyer, Liliana         MLLIK73S   800   557/  5   L59  L42  W78  L43  W1012.0
+ 71 Black, Nolan           NISGK73R   600   510/  5   L89  W88  W102 L40  L29 2.0
+ 72 Hanson, Miles          CEDIK73Q   800   670/  5   L42  W78  W89  L41  L26 2.0
+ 73 Cisneros, Caleb        MLLIK73N   800   708/  5   W82  L17  D46  L18  D66 2.0
+ 74 Roberts, Charles       MASGK73M   600   528/  5   L25  D82  D61  L62  W1002.0
+ 75 Bledsoe, Hunter        HMIIK73L   800   504/  5   L28  W105 L49  L30  W1022.0
+ 76 Reed, Zayden           HPRIK73J   800   628/  5   L47  W51  W68  L28  L30 2.0
+ 77 Wilkinson, Dylan       HOMHK73H   700   831/  5   W48  L2   W30  L7   L31 2.0
+ 78 Gornushenko, Samuel    TWMGK73G   600   456/  5   L32  L72  L70  W106 W95 2.0
+ 79 Hanson, Max            CEDIK73F   800   564/  5   L33  L10  W93  L69  W1032.0
+ 80 Blood, Jonathan        GRIIK73E   800   478/  5   L19  L34  L95  W93  W97 2.0
+ 81 Smith, Troy            ETLGK73D   600   690/  5   W34  L19  W103 L21  L33 2.0
+ 82 Anderson, Liam         SBHHK73C   700   503/  5   L73  D74  L84  W83  D85 2.0
+ 83 Causey, Mila           FDPGK72Z   600   352/  5   L22  L86  D87  L82  W1041.5
+ 84 Dexheimer, Melody      CEDIK72Y   800   594/  5   D36  L18  W82  L20  L54 1.5
+ 85 Favela, Jeremiah       CMSHK72X   700   478/  5   W100 L16  L56  L58  D82 1.5
+ 86 Howell, Ethan          SBHHK72W   700   473/  5   L1   W83  L27  L63  D88 1.5
+ 87 Ingalls, Piper         BHNGK72V   600   456/  5   L2   L49  D83  W91  L51 1.5
+ 88 Markstrom, Lane        FDPGK72T   600   305/  5   L67  L71  L51  W105 D86 1.5
+ 89 Sandoval, Justin       FRXHK72S   700   499/  5   W71  L32  L72  D51  L53 1.5
+ 90 Steele, Merritt        SMYGK72R   600   502/  4   W95  L3   L34  L35  LF  1.0
+ 91 Sawyer, Tristin        EGVIK72Q   800   370/  5   L37  D55  L20  L87  D94 1.0
+ 92 Spradley, Eloise       CXNGK72P   600   100/  5   L13  L97  L101 L98  W1061.0
+ 93 Montiel, Jalil         SBHHK72N   700   260/  5   L62  L46  L79  L80  W1051.0
+ 94 Smith, Faith           CEDIK72M   800   306/  5   L63  L48  L43  D104 D91 1.0
+ 95 Berquist, Jax          ORGHK72L   700   345/  5   L90  L8   W80  L64  L78 1.0
+ 96 Adamson, Charlie       CEMHK72K   700   451/  4   L6   W104 L48  L29  LF  1.0
+ 97 Smith, Gideon          CEDHK72J   700   328/  5   L65  W92  L50  L47  L80 1.0
+ 98 Best, Callen           HSCGK72H   600   335/  5   L27  L50  L64  W92  L61 1.0
+ 99 Gandy, Michael         NAPHK72G   700   360/  5   L29  L52  W105 L31  L65 1.0
+100 Salazar, Odin          HSCHK72F   700   271/  5   L85  L69  W106 L52  L74 1.0
+101 Kachmarsky, Liz        PLGGK72E   600   267/  5   L66  L68  W92  L67  L70 1.0
+102 Mcgriff, Archer        BHNGK72D   600   360/  5   W53  L33  L71  L68  L75 1.0
+103 Winchell, Blake        ORGGK72C   600   353/  5   L56  D20  L81  L53  L79 0.5
+104 Gearardo, Kale         EDSGK72B   600   170/  5   L39  L96  L58  D94  L83 0.5
+105 Tichgelaar, Austin     BHNGK71Z   600   100/  5   L15  L75  L99  L88  L93 0.0
+106 Nelson, William        SBHHK71Y   700   100/  5   L60  L14  L100 L78  L92 0.0

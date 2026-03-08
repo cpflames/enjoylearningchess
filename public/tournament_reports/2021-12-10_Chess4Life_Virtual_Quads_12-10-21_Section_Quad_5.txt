@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Upreti, Parthavi       XXXF754L  1317  1373/ 37  W2  W3  W4  3.0
+  2 Zhang, Aaron           CCDE873R  1295  1278/374  L1  D4  W3  1.5
+  3 Zhu, Kevin             CSMC865U  1164  1153/231  W4  L1  L2  1.0
+  4 Zhang, Xingchen        CCDBH72Z  1085  1062/ 11  L3  D2  L1  0.5

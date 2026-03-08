@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Karthick, Adithya      GTMGK07P   600   870/  3  W2  W5  W3  3.0
+  2 Xie, Elon              CNHCK17N   393   409/ 14  L1  W6  W5  2.0
+  3 Cheung, Noah           OLFGK08S   306   423/  6  W5  W4  L1  2.0
+  4 Sena, Arman            ESCMK07N  1200   285/  2  W6  L3  U   1.0
+  5 Ajay, Aria             LCSAK07M   100   100/  3  L3  L1  L2  0.0
+  6 Jayanth, Samyak        EVJHK07L   700   100/  2  L4  L2  U   0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wilson, Nathaniel      SHKGE45V   878   966/ 35  W2  D4  W3  2.5
+  2 Liu, Daniel            MEDGD65M   880   918/ 15  L1  W3  W4  2.0
+  3 Manderson, Isaiah      LYCIJ15C   781   790/ 12  W4  L2  L1  1.0
+  4 Melius, Mason          FACEF58R  1019   937/ 29  L3  D1  L2  0.5

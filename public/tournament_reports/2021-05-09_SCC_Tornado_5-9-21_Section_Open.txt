@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Shahinyan, David       ADINB96J  2574  2573/ 59  W4  W9  W3  D2  3.5
+  2 Guha, Mitrabha         ADINY517  2443  2445/ 32  WF  W5  W6  D1  3.5
+  3 Cheng, Edward          WMSIC74W  1698  1779/260  W12 W6  L1  W5  3.0
+  4 Wong-godfrey, Emerson  EXWHH83E  1596  1658/396  L1  W11 W9  W7  3.0
+  5 Nicoski, Aaron         ADUN598C  1807  1794/ 42  W7  L2  W10 L3  2.0
+  6 Perez, Ignacio         ADUNA795  2225  2206/ 38  W8  L3  L2  W10 2.0
+  7 Gu, Aaron Xiao         EBSF412J  1255  1328/ 45  L5  W12 W11 L4  2.0
+  8 Winter, Gordon         MISKH31Y  1443  1451/ 27  L6  L10 BYE W9  2.0
+  9 Johar, Mudit           SKNLH59G  1821  1774/111  W10 L1  L4  L8  1.0
+ 10 Cheng, Selina          THUD413R  1297  1323/253  L9  W8  L5  L6  1.0
+ 11 Garine, Ujwal          REJHB99A  1530  1485/137  LF  L4  L7  BYE 1.0
+ 12 Ruff, Lois             ADUNJ90S  1257  1235/ 89  L3  L7  U   U   0.0

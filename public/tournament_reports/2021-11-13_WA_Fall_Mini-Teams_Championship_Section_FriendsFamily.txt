@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 May, Andy P            ADUN3820  2146  2154/231  W5  D3  W2  W4  W6  4.5
+  2 Malugu, Satyajit       ADUNC03N  2158  2155/ 18  W10 W6  L1  W3  W5  4.0
+  3 Yu, Justin             ADUN6029  1952  1958/341  W7  D1  W6  L2  W9  3.5
+  4 Fondren, Chad          ADUN581H  1475  1467/  8  W9  L5  W7  L1  W10 3.0
+  5 Sankrithi, Siva        ADUNI948  1501  1522/ 25  L1  W4  W10 W8  L2  3.0
+  6 Wilke, Daniel          HCCN9777  1725  1716/267  W8  L2  L3  W7  L1  2.0
+  7 Kakkad, Ravi           ADUNJ02S  1122  1155/ 41  L3  W9  L4  L6  W8  2.0
+  8 Mcginnis, Riley        ADUNK00F  1300  1144/  5  L6  W10 W9  L5  L7  2.0
+  9 Wilke, Marilyn         ADUN3187   983   974/ 31  L4  L7  L8  W10 L3  1.0
+ 10 Olson, Marc            ADUNJ05J  1028   909/  9  L2  L8  L5  L9  L4  0.0

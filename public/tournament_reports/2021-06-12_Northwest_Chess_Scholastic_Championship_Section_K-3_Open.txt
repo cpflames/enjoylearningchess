@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Xiao, David            MRPDA64Q  1479  1539/ 56  W7  W9  W6  W3  W4  5.0
+  2 Liu, Vincent           ILAC546Q  1247  1305/ 98  W10 L6  W3  W9  W7  4.0
+  3 Guduru, Agasthya       EMDC500V  1122  1238/ 64  W4  W8  L2  L1  W9  3.0
+  4 Edmond, Alec           CSIBH03G  1310  1314/120  L3  W10 W9  W6  L1  3.0
+  5 Chaurasia, Vihaan      HMNDH65G  1113  1153/ 88  L9  L7  W10 W8  W6  3.0
+  6 Cheng, Selina          THUD413R  1330  1301/274  W8  W2  L1  L4  L5  2.0
+  7 Edmond, Ivy            WWDDD81E  1231  1206/195  L1  W5  L8  W10 L2  2.0
+  8 Tan, Nathan            UCDB412Y  1225  1187/ 43  L6  L3  W7  L5  W10 2.0
+  9 Shah, Kanav            LMAC295Q  1298  1223/ 15  W5  L1  L4  L2  L3  1.0
+ 10 Zhang, Zhibo           CCDB674X   901   868/ 27  L2  L4  L5  L7  L8  0.0

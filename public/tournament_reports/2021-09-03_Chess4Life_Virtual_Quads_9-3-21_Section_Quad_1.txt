@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Fan, Chengrui          CHOK504D  1478  1543/130  W2  D3  W4  2.5
+  2 Merriman, Dann         WMNCF79Y  1595  1598/401  L1  W4  W3  2.0
+  3 Boulis, Christos       RHJIC84T  1533  1530/478  W4  D1  L2  1.5
+  4 Xie, Max               BLWHI185  1447  1403/316  L3  L2  L1  0.0

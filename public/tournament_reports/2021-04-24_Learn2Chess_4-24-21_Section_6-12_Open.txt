@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Nallabothula, Varin    WPPH457A  1619  1651/346  W2  W7  D5  W6  W3  4.5
+  2 Kang, Ayaan            ENSDI60T  1502  1519/225  L1  D9  D8  W7  W4  3.0
+  3 Tameling, Cole         UPAHK654  1232  1354/326  L5  W8  W6  W10 L1  3.0
+  4 Senthil Kumar, KrishnapTMBI7364  1453  1482/329  W8  L6  W7  W5  L2  3.0
+  5 Tang, Haosen           MEDFH941  1542  1514/185  W3  W10 D1  L4  L9  2.5
+  6 Ramzi, Rayn            SKNJ5557  1493  1474/364  WF  W4  L3  L1  HPB 2.5
+  7 Ross, Joe              WPPH8228  1456  1434/394  W9  L1  L4  L2  W10 2.0
+  8 Devaraju, Sonia        OMSIK838  1603  1554/466  L4  L3  D2  W9  HPB 2.0
+  9 Iskender, Selin        WPPHC66Y   700  1347/  5  L7  D2  D10 L8  W5  2.0
+ 10 Jha, Siddhant          SSMGG46N  1165  1152/317  BYE L5  D9  L3  L7  1.5

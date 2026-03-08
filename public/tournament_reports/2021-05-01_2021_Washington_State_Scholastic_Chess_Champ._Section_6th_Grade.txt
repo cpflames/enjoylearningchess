@@ -1,0 +1,57 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Jammalamadaka, Varnika OVLGD216  1735  1768/410  W40 W24 W14 W13 W3  5.0
+  2 Shi, Gavin             ADDGH855  1460  1505/323  W45 W49 W4  D5  W10 4.5
+  3 Bhatia, Tanush         DISG5224  1578  1599/313  W15 W8  W6  W12 L1  4.0
+  4 Tran, Nugen            EVIG455Z  1450  1461/321  W39 W17 L2  W26 W22 4.0
+  5 Xie, Max               BLWGI185  1238  1377/254  W56 D7  W11 D2  W12 4.0
+  6 Khanolkar, Karan       KMNGK912  1381  1406/199  W21 W34 L3  W20 W16 4.0
+  7 Haritham, Shyam        SKWGG81P  1414  1418/ 99  W41 D5  D16 W17 W21 4.0
+  8 Kuo, Tristan           KELG941B  1298  1359/269  W29 L3  W46 W19 W13 4.0
+  9 Yadlapati, Arush       EVJGA47S  1314  1343/138  W47 W37 L12 W15 W25 4.0
+ 10 Tatikonda, Nihanth     CPJG926F  1492  1475/177  W38 D28 W19 W27 L2  3.5
+ 11 Smith, Cooper W        ADDG3548  1372  1354/169  D44 W50 L5  W32 W27 3.5
+ 12 Gollapally, Arnav      BLMG499J  1476  1461/125  W42 W20 W9  L3  L5  3.0
+ 13 Boddapati, Sacchit     WDMG1381  1524  1508/224  W46 W35 W18 L1  L8  3.0
+ 14 Anandkumar, Haituka    STLG238P  1414  1402/228  W23 W43 L1  L22 W28 3.0
+ 15 Zhang, Wei             TYEGF93H  1052  1084/118  L3  W29 W33 L9  W37 3.0
+ 16 Agarkar, Aarav         WDMGG17J  1106  1175/118  D55 W30 D7  W18 L6  3.0
+ 17 Tang, Ryan             TYEG518G  1255  1253/ 86  W51 L4  W23 L7  W36 3.0
+ 18 Malakapalli, Smaran    OVLG973C  1410  1380/ 87  W36 W22 L13 L16 W38 3.0
+ 19 Mehrotra, Dhruv        WPPGH860  1097  1117/115  W37 W47 L10 L8  W33 3.0
+ 20 Guo, Eric              TMBG958A  1256  1251/ 51  W33 L12 W36 L6  W32 3.0
+ 21 Bansal, Vivaan         EVJG452J   959  1013/ 34  L6  W31 W34 WF  L7  3.0
+ 22 Jha, Siddhant          EVJGG46N  1152  1182/322  W54 L18 W50 W14 L4  3.0
+ 23 Chaoweeraprasit, Nyle  OVLGI162   976  1076/121  L14 W48 L17 W34 W35 3.0
+ 24 Wang, Zihan            PPAGH97Y  1288  1304/219  W32 L1  W39 LF  W42 3.0
+ 25 To, Donovan            KMNG239L  1429  1383/251  L49 W44 W38 W35 L9  3.0
+ 26 Mcateer, Benjamin      WMSGH53Q  1287  1255/ 89  L50 W45 W49 L4  W41 3.0
+ 27 Kearl, Brian           PLKGA61W   600  1196/  5  D30 W55 W28 L10 L11 2.5
+ 28 Sharma, Devansh        KMNGF88S  1263  1253/101  W53 D10 L27 W30 L14 2.5
+ 29 Holzer, Liam           EVJGG89B   901   908/ 55  L8  L15 D31 W55 W46 2.5
+ 30 Heider, Elena          NOVGC647  1157  1133/ 64  D27 L16 W55 L28 W47 2.5
+ 31 Rampally, Vibhu        KJHGD032   400   707/  9  L34 L21 D29 W45 W44 2.5
+ 32 Nayak, Akshat          ENVG459S   901   995/185  L24 W40 W43 L11 L20 2.0
+ 33 Fell, Kevin            SMSG452H   664   798/ 22  L20 W42 L15 W39 L19 2.0
+ 34 Fedorov, Vladimir      MMEGF17D  1199  1136/156  W31 L6  L21 L23 W50 2.0
+ 35 Hoe, Marcus            LEOG389Q  1268  1224/175  W52 L13 W41 L25 L23 2.0
+ 36 Forrester, Gilbert     HTNGH03C   961   974/143  L18 W54 L20 W40 L17 2.0
+ 37 Franco, Frank          MISGX69W   600   979/  5  L19 L9  W53 W49 L15 2.0
+ 38 Gupta, Ishaan          INGG660Y  1003  1018/ 57  L10 W53 L25 W50 L18 2.0
+ 39 Shah, Aalay            DISG154L   993   962/175  L4  W51 L24 L33 W53 2.0
+ 40 Waggoner, Tiernan      CATGE121  1089  1048/189  L1  L32 W44 L36 W52 2.0
+ 41 Liao, Wesley           EASGE49D   985  1001/ 71  L7  W56 L35 W43 L26 2.0
+ 42 Leung, Elliot          PFCG995R  1003   971/ 89  L12 L33 W51 W52 L24 2.0
+ 43 Repalle, Vibhav        LLMGK31L  1251  1178/ 71  W48 L14 L32 L41 W49 2.0
+ 44 Karna, Venkat Kaushik  MKMGD88K   937   903/ 54  D11 L25 L40 W48 L31 1.5
+ 45 Verma, Eshaan          GTMGC02S   930   871/129  L2  L26 D48 L31 W51 1.5
+ 46 Susa, Avik             OMSG379X  1030   989/ 75  L13 W52 L8  D47 L29 1.5
+ 47 Davis, Zach            SANGI44K   905   887/ 69  L9  L19 W56 D46 L30 1.5
+ 48 Chavez, Tavin          JMLGD74C   537   582/ 45  L43 L23 D45 L44 W55 1.5
+ 49 Edwards, Sol           OVLGA99A   987   991/ 11  W25 L2  L26 L37 L43 1.0
+ 50 Lee, Christopher       CHWGA90L   901   906/ 30  W26 L11 L22 L38 L34 1.0
+ 51 Luna, Ernesto Olayo    OCHGH80G   621   613/ 19  L17 L39 L42 W54 L45 1.0
+ 52 Robertson, Makai       MADG763E   821   782/ 73  L35 L46 W54 L42 L40 1.0
+ 53 Knapton, Joshua        HLHGH807   817   774/230  L28 L38 L37 W56 L39 1.0
+ 54 Sarkar, Drik           TMBG903D   600   475/  5  L22 L36 L52 L51 W56 1.0
+ 55 Butin, Cyriac          EINGG45L   600   535/  5  D16 L27 L30 L29 L48 0.5
+ 56 Fletcher, Kaiden       NWDGG49E   452   412/ 33  L5  L41 L47 L53 L54 0.0

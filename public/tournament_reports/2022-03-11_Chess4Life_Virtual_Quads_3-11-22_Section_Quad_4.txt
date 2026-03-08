@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Aaron           CCDE873R  1300  1315/402  L2  W4  W3  2.0
+  2 Mcintyre, Isaac        ETSC466S  1203  1255/ 46  W1  L3  W4  2.0
+  3 Zhao, Dennis           CGRF525E  1313  1281/218  L4  W2  L1  1.0
+  4 Godse, Gaurav          EVJH290Q  1252  1235/ 86  W3  L1  L2  1.0

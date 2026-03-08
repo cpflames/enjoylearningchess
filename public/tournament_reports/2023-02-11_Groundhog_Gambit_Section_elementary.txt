@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Sherwood, Owen         FREEH61U   686   745/ 25  D12 W5  W2  W7  W6  4.5
+  2 Ji, Melody             SGSBA83X   536   596/ 29  W16 W13 L1  W8  W7  4.0
+  3 Wang, Kelby            SKKC796Y   910   875/101  W8  W6  L7  W9  HPB 3.5
+  4 Zhan, Roman            SGSF282J   555   530/ 10  W10 L7  L9  W15 W11 3.0
+  5 Jain, Asmi             SGSCB47J   541   518/ 25  L11 L1  BYE W16 W9  3.0
+  6 Hochheimer, Luca       SGSE179R   458   527/ 33  W15 L3  W11 W10 L1  3.0
+  7 Zhan, Yanek            SGSBE96K   430   543/ 15  W17 W4  W3  L1  L2  3.0
+  8 Madison, Bray          HLHD887R   413   440/ 24  L3  W12 W16 L2  W14 3.0
+  9 Sherwood, Cole         FRECD99U   492   495/ 25  W14 D11 W4  L3  L5  2.5
+ 10 Puri, Vivaan           SGSB111Q   400   364/  9  L4  BYE W15 L6  D12 2.5
+ 11 Puri, Kayaan           SGSE159A   400   441/ 10  W5  D9  L6  W12 L4  2.5
+ 12 Stanton, Peter         SGSCK63T   400   368/ 10  D1  L8  W13 L11 D10 2.0
+ 13 Mcateer, Jackson       SGSB887T   100   100/ 13  BYE L2  L12 L14 W17 2.0
+ 14 Dutton, Lily           SGSBK70G   100   204/  5  L9  L15 W17 W13 L8  2.0
+ 15 Charbonneau, Colin     FNCEK70F   400   268/  5  L6  W14 L10 L4  W16 2.0
+ 16 Charbonneau, Connor    FNCCK70E   200   133/  5  L2  W17 L8  L5  L15 1.0
+ 17 Stanton, Oliver        SGSAK70D   100   100/  4  L7  L16 L14 BYE L13 1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dmitriev, Lyan         NPTD246H  1150  1261/245  W3  W2  W4  3.0
+  2 Malugu, Sankalp        SHSBE95W  1162  1184/128  W4  L1  W3  2.0
+  3 Kim, Daniel            MEDIG05X  1153  1107/ 65  L1  D4  L2  0.5
+  4 Stein, Benjamin        HSCBB61S  1117  1080/120  L2  D3  L1  0.5

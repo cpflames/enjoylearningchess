@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kuluru, Samith         KKNFI99K   519   543/ 18  W4  L3  W2  2.0
+  2 Chaudhuri, Agnivesh    CHACB55V   615   610/ 54  W3  W4  L1  2.0
+  3 Gupta, Arsh            REEEC97V   471   481/ 11  L2  W1  D4  1.5
+  4 Suresh, Shruti         MTWC650Q   441   400/  6  L1  L2  D3  0.5

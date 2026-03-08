@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Yiyang             BCAD700B  1211  1282/168  W4  D2  W3  2.5
+  2 Zhang, Ethan (yichen)  CRIDG57B  1100  1231/ 98  W3  D1  W4  2.5
+  3 Mathur, Aashi          CRKF522S  1212  1194/206  L2  W4  L1  1.0
+  4 Zakonov, Pasha         BCAHJ63K  1306  1222/ 47  L1  L3  L2  0.0

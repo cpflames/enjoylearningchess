@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bar, Nathan            AUDC368C  1167  1234/120  D2  W3  W4  2.5
+  2 Wang, Jacob            BLWED74Y  1269  1292/143  D1  W4  W3  2.5
+  3 Hochberg, David        SUEJ6075  1125  1114/142  W4  L1  L2  1.0
+  4 Zhang, Ethan (yichen)  CRIEG57B  1117  1060/165  L3  L2  L1  0.0

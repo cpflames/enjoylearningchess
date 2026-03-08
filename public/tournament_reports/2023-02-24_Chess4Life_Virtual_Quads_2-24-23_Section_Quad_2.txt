@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Aggarwal, Aadit        LEOJE722  1276  1372/459  W2  W4  W3  3.0
+  2 Zakonov, Pasha         BCAJJ63K  1233  1267/ 60  L1  W3  W4  2.0
+  3 Bhattacharjee, ArchishmBLWGA45Y  1327  1270/181  D4  L2  L1  0.5
+  4 Hochberg, David        INNK6075  1193  1166/297  D3  L1  L2  0.5

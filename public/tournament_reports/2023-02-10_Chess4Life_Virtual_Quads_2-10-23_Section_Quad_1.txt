@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kang, Ayaan            ENSFI60T  1583  1596/289  L2  W4  W3  2.0
+  2 Chen, Maxwell          AINLQ107  1519  1546/ 55  W1  L3  W4  2.0
+  3 Upreti, Parthavi       GTMG754L  1615  1586/166  L4  W2  L1  1.0
+  4 Sinha, Agastya         HSCDA75C  1509  1500/135  W3  L1  L2  1.0

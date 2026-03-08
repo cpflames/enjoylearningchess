@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Gupta, Vivaan          EALIF01U   800  1200/  3  W5  W2  W4  3.0
+  2 Mathur, Vivaan         MTWCK76F   400   747/  3  W6  L1  W5  2.0
+  3 Bohannon, Andrew       LHTDG71E   400   422/ 46  D4  L5  W6  1.5
+  4 Ebel, Parker           XXXI777Y   800   606/  3  D3  W6  L1  1.5
+  5 Vutukuri, Adhrith      RKWG326L   400   484/  6  L1  W3  L2  1.0
+  6 Shrivastava, Vihaan    CCDAJ34F   400   400/  3  L2  L4  L3  0.0

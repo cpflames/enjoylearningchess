@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lewis, Kaleb           WCAHF41Z   928   946/ 38  W3  W4  L2  2.0
+  2 Qureshi, Danish        BLEFF36V   890   913/ 93  W6  L3  W1  2.0
+  3 Singh, Arshaan         HORIK22R   854   896/ 34  L1  W2  W5  2.0
+  4 Moors, Samuel          BLNIH93D   896   850/ 65  W5  L1  L6  1.0
+  5 Bannister, Cypress     EAGFK36L   791   772/ 44  L4  W6  L3  1.0
+  6 Buckham, George        SKYBK37E   764   754/ 31  L2  L5  W4  1.0

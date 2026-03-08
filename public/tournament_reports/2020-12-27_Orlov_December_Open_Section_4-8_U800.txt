@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Crawford, Shaleena     CQEHS959   505   700/ 81  W6  W2  W3  W4  L5  4.0
+  2 Milligan, Isabelle     HSCI292L   545   583/ 24  W7  L1  W6  W3  L4  3.0
+  3 Aldinger, Nikolai      WHRFG72F   596   603/ 14  W5  W4  L1  L2  BYE 3.0
+  4 Oh, Yi Chun            LCNE245U   400   498/  8  BYE L3  W7  L1  W2  3.0
+  5 Pullen, Theodore       LCNED26M   787   729/ 29  L3  L7  BYE W6  W1  3.0
+  6 Yeh, Jasmine           WKEF995Y   554   518/ 17  L1  BYE L2  L5  W7  2.0
+  7 Yang, Nathan           MRPE586Y   605   533/ 79  L2  W5  L4  BYE L6  2.0

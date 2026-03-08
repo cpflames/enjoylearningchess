@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Elenbaas, Nathan       MRDLC84M   509   805/ 24  W3  W5  W2  3.0
+  2 Hodges, Xander         BLHKB63W  1000   950/  3  W4  W6  L1  2.0
+  3 Reiss, Maddy           BLHKJ21Y  1000   861/  3  L1  W7  W6  2.0
+  4 Reynolds, Gabrielle    BLHK502P  1000   799/  3  L2  W8  W5  2.0
+  5 Granger, Jacob         BLHJ654S   900   656/  3  W7  L1  L4  1.0
+  6 May, Ruby              BLHK397U  1000   601/  3  W8  L2  L3  1.0
+  7 Gamble, Lydia          BLHKI96B  1000   509/  3  L5  L3  W8  1.0
+  8 Overhauser, Nolan      VSTG231S   531   482/ 15  L6  L4  L7  0.0

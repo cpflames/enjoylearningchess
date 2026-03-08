@@ -1,0 +1,3 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Tran, Nugen            CDZH455Z  1537  1556/340  W2  1.0
+  2 Leong, Aiden           MGEIX657  1520  1500/106  L1  0.0

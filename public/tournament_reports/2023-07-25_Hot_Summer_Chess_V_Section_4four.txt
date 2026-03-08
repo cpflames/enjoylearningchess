@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bannister, Altair      EAGBK36Y   333   467/ 29  W5  W2  W4  3.0
+  2 Zhang, Nicole          RVPFZ942   259   330/ 12  W3  L1  W5  2.0
+  3 Gardner, Andrew        CUEDK22Z   302   253/ 19  L2  D4  BYE 1.5
+  4 Javed, Angelica        SKYDK36A   205   196/ 10  BYE D3  L1  1.5
+  5 Javed, Peter           SKYBK36U   292   228/  9  L1  BYE L2  1.0

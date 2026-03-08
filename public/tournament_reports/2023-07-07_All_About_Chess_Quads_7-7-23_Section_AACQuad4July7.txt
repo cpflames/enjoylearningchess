@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xing, Andrew           SSSBK62E   731   799/ 35  W3  W2  W4  3.0
+  2 Bidasaria, Kush        APOG357C   671   666/ 65  W4  L1  W5  2.0
+  3 Laktyunkin, Philip     PPPCK08N   551   531/  8  L1  W5  BYE 2.0
+  4 Abhilash, Lavina       SNIDK07R   478   431/  6  L2  BYE L1  1.0
+  5 Leung, Katherine       SOMD360H   100   100/  9  BYE L3  L2  1.0

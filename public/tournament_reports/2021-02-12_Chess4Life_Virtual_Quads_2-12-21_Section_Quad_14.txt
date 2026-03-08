@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Fox-devol, Zachary     XXXEI93P   707   844/ 62  W4  W2  W3  3.0
+  2 Hochberg, David        SUEI6075   736   758/ 73  W3  L1  W4  2.0
+  3 Gujjar, Aditya         APOEE59Q   712   684/100  L2  W4  L1  1.0
+  4 Garg, Vihaan           CCDAJ10X   743   559/  6  L1  L3  L2  0.0

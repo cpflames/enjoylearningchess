@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sharma, Anish          WPPHA11B  1019  1069/241  W3  W2  D4  2.5
+  2 Ramkumar, Siddharth    LMADH50B   923   940/187  W4  L1  D3  1.5
+  3 Bhattacharjee, ArchishmBLWEA45Y   905   928/ 73  L1  W4  D2  1.5
+  4 Condit, Alex           TLIDB04F  1064   992/ 50  L2  L3  D1  0.5

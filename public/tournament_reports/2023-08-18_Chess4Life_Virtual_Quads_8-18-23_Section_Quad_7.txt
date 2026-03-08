@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ramsby, Ender          AGBHK739   572   685/ 72  W3  W4  D2  2.5
+  2 Bassen, Abel           WEHDZ72M   556   679/ 27  W4  W3  D1  2.5
+  3 Acharya, Arnav         BCAF746Q   600   576/ 15  L1  L2  W4  1.0
+  4 Sardarli, Adnan        MISC671W   627   535/ 72  L2  L1  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tan, Nathan            UCDB412Y  1133  1237/ 63  W4  W3  W2  3.0
+  2 Kondapally, Aryan      BCAJ7943  1146  1116/ 26  W3  L4  L1  1.0
+  3 Yang, Jimmy            BCABG45S  1077  1065/ 93  L2  L1  W4  1.0
+  4 Dmitriev, Lyan         NPTD246H  1095  1078/307  L1  W2  L3  1.0

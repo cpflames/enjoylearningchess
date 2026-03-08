@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Meiyalagan, Ruban Sai  WLDFD10L  1579  1607/153  W3  W4  D2  2.5
+  2 Boulis, Christos       RHJIC84T  1525  1546/502  D4  W3  D1  2.0
+  3 Frederick, Benjamin    LAUES57X  1520  1505/145  L1  L2  W4  1.0
+  4 Zhou, Yuchen           BCACJ42H  1525  1490/362  D2  L1  L3  0.5

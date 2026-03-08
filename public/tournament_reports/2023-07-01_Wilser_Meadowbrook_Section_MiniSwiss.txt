@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Frederick, Benjamin    LAUFS57X  1539  1578/222  W8  W3  W2  3.0
+  2 Saddi, Neevan Reddy    GRRDH87M  1578  1574/179  W10 W6  L1  2.0
+  3 Sankrithi, Sarang      HSCDB11D  1296  1305/213  W5  L1  W9  2.0
+  4 Chaudhuri, Agnivesh    CHADB55V  1136  1207/197  W7  L9  W6  2.0
+  5 Rusia, Naman           EPSGI64T   762   819/ 75  L3  BYE W8  2.0
+  6 Bharadwaj, Samarth     DISCE78A  1447  1406/141  W9  L2  L4  1.0
+  7 Edwin, Elijah          BCSCC24D  1302  1235/126  L4  L8  BYE 1.0
+  8 Chaudhuri, Arihant     CHAD703E  1146  1129/209  L1  W7  L5  1.0
+  9 Lee, Justin            CNLG732V  1140  1148/ 48  L6  W4  L3  1.0
+ 10 Byam, Caleb            HSCGI71C  1265  1257/ 46  L2  U   U   0.0

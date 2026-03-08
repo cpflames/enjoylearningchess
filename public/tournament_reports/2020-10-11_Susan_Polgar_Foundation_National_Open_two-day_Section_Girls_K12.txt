@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chen, Minda            HLNL4859  1966  2003/260  W4  W5  W2  W3  W7  5.0
+  2 Menon, Gauri           UNKJ702W  1960  1948/  5  D3  W6  L1  W7  W4  3.5
+  3 Szeto, Sophie          LSSJH023  1780  1788/300  D2  D4  W5  L1  W8  3.0
+  4 Tammali, Vaishnavi     UNKJ108J  1609  1641/  5  L1  D3  W7  W5  L2  2.5
+  5 Zhao, Chenyi           UNKLD30J  1760  1722/  4  W7  L1  L3  L4  BYE 2.0
+  6 Zhang, Melodie         SPTFE44K   825   825/ 60  BYE L2  U   U   U   1.0
+  7 Deng, Grace            LECK1468  1438  1418/226  L5  HPB L4  L2  L1  0.5
+  8 Danduprolu, Ridhi      UNKF299E  1167  1165/  1  U   U   U   U   L3  0.0

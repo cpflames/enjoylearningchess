@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Karri, Aditya          AUDEC55V  1370  1389/260  L4  W2  W3  2.0
+  2 Chien, Jeffrey         WPPFF41X  1312  1352/ 73  W3  L1  W4  2.0
+  3 Singh, Saket           DISJ872S  1393  1365/362  L2  W4  L1  1.0
+  4 Wang, Ares             MEDEJ77J  1369  1347/248  W1  L3  L2  1.0

@@ -1,0 +1,38 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chung, Ethan           LIBE108U  1455  1539/250  W32 W11 W10 W8  W3  5.0
+  2 Appalabattula, Samarth SSMFG06C  1401  1454/ 76  W15 D13 W21 W10 W8  4.5
+  3 Preizler, Adrian       EMSHD229  1434  1451/153  W22 W20 W6  W9  L1  4.0
+  4 Xu, Austin             SOMEH17F  1389  1394/ 60  W26 W33 L8  W14 W9  4.0
+  5 Wong, Samuel           TYEGJ51V  1123  1249/ 97  W34 W21 L9  W22 W12 4.0
+  6 Mathur, Aashi          CRKF522S  1278  1288/187  W19 W24 L3  D7  W11 3.5
+  7 Mcateer, Benjamin      WMSGH53Q  1087  1156/ 73  W30 L8  W23 D6  W19 3.5
+  8 Lee, Elliot            OPWFA70D  1407  1406/ 91  W37 W7  W4  L1  L2  3.0
+  9 Kapur, Viraaj          RSACA71K  1314  1316/ 93  W29 W16 W5  L3  L4  3.0
+ 10 Hoe, Marcus            LEOG389Q  1278  1282/162  W17 W25 L1  L2  W22 3.0
+ 11 Bartminn, Jan Lorenz   ENDEH59K  1113  1137/ 82  W23 L1  W25 W29 L6  3.0
+ 12 Joshi, Arnav           CRKFJ24W  1245  1218/111  L24 W27 W13 W16 L5  3.0
+ 13 Narayan, Bhargav       CMCFD962  1075  1095/130  W36 D2  L12 D17 W23 3.0
+ 14 Morris, Graham         HTNG1617  1006  1080/258  L21 W26 W24 L4  W25 3.0
+ 15 Lu, Jacob              ENDFI11F  1021  1033/228  L2  W31 W33 L20 W28 3.0
+ 16 Jain, Ayush            DISH535M  1082  1083/ 49  W35 L9  W30 L12 W24 3.0
+ 17 Kedarisetty, Shreyas   GRREH60G  1000  1063/ 71  L10 D32 W37 D13 W20 3.0
+ 18 Thakur, Reet           CWAEJ84K  1121  1082/234  L27 L19 W34 W35 W29 3.0
+ 19 Zhang, Yan             SOMEC58Q   998  1078/ 66  L6  W18 D20 W21 L7  2.5
+ 20 Zhang, Wei             TYEGF93H  1083  1079/103  W31 L3  D19 W15 L17 2.5
+ 21 Aggarwal, Aadit        LEOHE722  1484  1407/364  W14 L5  L2  L19 W32 2.0
+ 22 Raje, Atharva          SLLGL432   985   999/ 82  L3  W34 W27 L5  L10 2.0
+ 23 Khilnani, Neel         LKWF716M   913   941/127  L11 W28 L7  W26 L13 2.0
+ 24 Khatib, Kenan          LKDFC566   994   990/175  W12 L6  L14 W36 L16 2.0
+ 25 Joshi, Vaidehi         CRKFG37G   964   963/ 93  W28 L10 L11 W33 L14 2.0
+ 26 Shah, Aalay            DISG154L   966   930/159  L4  L14 W31 L23 W35 2.0
+ 27 Matheranwala, Moiz     ENDE851T   838   853/ 82  W18 L12 L22 L28 W36 2.0
+ 28 Walimbe, Aadi          SBOGW982  1182  1100/236  L25 L23 W32 W27 L15 2.0
+ 29 Veiga, Gabriel         ENSEJ31Y  1014   974/ 41  L9  W35 W36 L11 L18 2.0
+ 30 Higa, Asher            FWPI6252   785   802/ 44  L7  W37 L16 L32 W33 2.0
+ 31 Shastri, Aniruddh      EBSF448F   649   675/ 29  L20 L15 L26 BYE W34 2.0
+ 32 Susa, Avik             OMSG379X  1047  1030/ 70  L1  D17 L28 W30 L21 1.5
+ 33 Chin, Kathryn          XXXHA80Y   700   400/  4  BYE L4  L15 L25 L30 1.0
+ 34 Madupuru, Manvik       LEOGI50J   934   875/ 45  L5  L22 L18 W37 L31 1.0
+ 35 Chin, Jonathan         XXXF756L   500   400/  4  L16 L29 BYE L18 L26 1.0
+ 36 Aguilar Sarmiento, BriaLMSGE90Q   600   400/  4  L13 BYE L29 L24 L27 1.0
+ 37 Shaw, Michael          SANF3705  1022   920/ 65  L8  L30 L17 L34 BYE 1.0

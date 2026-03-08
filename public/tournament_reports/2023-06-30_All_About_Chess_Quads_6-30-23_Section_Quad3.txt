@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Abhilash, Lavina       SNIDK07R   257   478/  4  W3  BYE W2  3.0
+  2 Laktyunkin, Philip     PPPCK08N   658   551/  6  BYE W3  L1  2.0
+  3 Leung, Katherine       SOMD360H   100   100/  7  L1  L2  BYE 1.0

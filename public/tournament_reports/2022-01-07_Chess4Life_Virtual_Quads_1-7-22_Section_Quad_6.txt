@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bar, Nathan            AUDC368C  1217  1268/151  D4  W2  W3  2.5
+  2 Zhang, Ethan (yichen)  CRIEG57B  1185  1211/197  W3  L1  W4  2.0
+  3 Rastogi, Reyansh       LMAFD30N  1186  1165/143  L2  W4  L1  1.0
+  4 Xie, Michael           BLWF549C  1183  1140/284  D1  L3  L2  0.5

@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Avula, Guru Harshith ReBRHC633Y  1048  1314/ 51  W17 W9  D4  W6  W3  4.5
+  2 Gadde, Arnav           ENSDJ39D  1250  1309/ 41  W13 W15 L3  W7  W8  4.0
+  3 Low, Ethan             VHOCX32M   400  1484/  5  W5  W7  W2  W8  L1  4.0
+  4 Mohan, Vishnu          KKNDF41R  1342  1336/ 80  L8  W12 D1  W14 W10 3.5
+  5 Xu, Zoe                CNHCG70A  1110  1196/ 93  L3  D11 W17 W19 W9  3.5
+  6 Shah, Rajas            ENSDF22X  1241  1220/ 77  L15 W13 WF  L1  W14 3.0
+  7 Bharathy Mohan, Aarav  FRWDC98B  1151  1164/224  W11 L3  W18 L2  W15 3.0
+  8 Meng, Miranda          CNHCH69P  1094  1199/ 25  W4  W19 W10 L3  L2  3.0
+  9 Vijayakrishnan, AchyuthPKRC646F  1248  1230/ 92  W14 L1  W15 D10 L5  2.5
+ 10 Gagnier, Ian           HSCDC72H  1115  1105/108  W16 W18 L8  D9  L4  2.5
+ 11 Li, Edgar              OPWB883Y   963   979/ 60  L7  D5  L12 W18 W13 2.5
+ 12 Shankaranand, Deeksha  EBSDI74Y  1058  1032/102  L19 L4  W11 L15 BYE 2.0
+ 13 Patnaik, Rishabhdeva   CRKDG72D  1057  1016/ 57  L2  L6  BYE W16 L11 2.0
+ 14 Han, Victor            HSCDB39P  1057  1075/ 51  L9  W17 W19 L4  L6  2.0
+ 15 Wang, Ares             MEDDJ77J  1179  1157/180  W6  L2  L9  W12 L7  2.0
+ 16 Chang, Caden           UCDB260J   885   901/ 45  L10 BYE LF  L13 W19 2.0
+ 17 Zhang, Michael         CMCDD83W  1212  1101/ 14  L1  L14 L5  BYE D18 1.5
+ 18 Wolff, Tom             HKEBG70U   479   502/ 25  BYE L10 L7  L11 D17 1.5
+ 19 Kakkad, Vayu           DCTBK50L  1282  1171/397  W12 L8  L14 L5  L16 1.0

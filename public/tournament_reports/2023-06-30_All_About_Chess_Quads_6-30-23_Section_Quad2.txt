@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ghosh, Snehil          CBRD738T  1023  1110/ 51  W3  W4  W2  3.0
+  2 Han, Spencer           HSCDK75L  1098  1042/100  W4  L3  L1  1.0
+  3 Juarez-caballero, CristSNIFD76Z   951   928/ 53  L1  W2  L4  1.0
+  4 Shimao, Alexander      GRRGG77V   720   758/ 36  L2  L1  W3  1.0

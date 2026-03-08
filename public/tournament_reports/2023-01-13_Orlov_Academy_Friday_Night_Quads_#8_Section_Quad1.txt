@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Shah, Aarit            MTWE710Y  1257  1270/ 18  W2  W3  D4  2.5
+  2 Ma, Max                CHRE554Z   809   942/ 11  L1  W4  W3  2.0
+  3 Asakura, Tomoaki       EACKK98T  1000  1015/  3  W4  L1  L2  1.0
+  4 Evin, Terrick          EBSBC54L  1312  1228/ 62  L3  L2  D1  0.5

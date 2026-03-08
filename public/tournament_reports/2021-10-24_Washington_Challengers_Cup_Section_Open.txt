@@ -1,0 +1,25 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Chang, Eddie           INTK6270  2027  2041/169  W22 W18 W13 HPB 3.5
+  2 Liu, Austin            PLKH530J  1747  1864/264  W5  W6  W21 HPB 3.5
+  3 Jiang, Brandon         BLLJ7768  2074  2085/462  W17 W11 D8  HPB 3.0
+  4 Lu, Yiding             NPTF865Z  1845  1867/202  W23 L8  W12 W13 3.0
+  5 Perez, Ignacio         ADUNA795  2224  2219/ 52  L2  W22 W11 W8  3.0
+  6 Razmov, Valentin       ADUNB02T  1862  1866/ 46  W16 L2  D7  W18 2.5
+  7 Pitre, H G             ADUN3323  1844  1867/  9  HPB D10 D6  W21 2.5
+  8 Pupols, Viktors        ADUN8503  2200  2192/  8  W20 W4  D3  L5  2.5
+  9 Tien, Sophie           LSSL6099  2015  1992/373  L12 W24 D17 W14 2.5
+ 10 Vijayakumar, Advaith   LEOJ6655  2068  2058/275  HPB D7  D18 W17 2.5
+ 11 Kona, Vidip            RSADI26J  1809  1815/223  W19 L3  L5  W22 2.0
+ 12 Xu, Owen               SOMC896M  1676  1694/ 98  W9  L13 L4  W19 2.0
+ 13 Tessiore, Luca         DCTFP42N  1831  1821/159  W24 W12 L1  L4  2.0
+ 14 Willy, Stephen         HSCGH17K  1809  1799/437  HPB L21 W20 L9  1.5
+ 15 Xiong, Michael         MEDD115A  1465  1466/153  L18 L20 D16 W24 1.5
+ 16 Beegala, Keshav        SHVFJ27V  1610  1597/181  L6  L17 D15 W23 1.5
+ 17 Wang, Ted              MEDCK13D  1714  1729/148  L3  W16 D9  L10 1.5
+ 18 Vemparala, Nikash      BCAGI078  1828  1820/351  W15 L1  D10 L6  1.5
+ 19 Lin, Michael           BCACC97F  1444  1456/195  L11 HPB W23 L12 1.5
+ 20 Wang, Felicity         LMSIJ02F  1787  1773/265  L8  W15 L14 HPB 1.5
+ 21 Min, Ryan              OMSH5430  1828  1815/328  HPB W14 L2  L7  1.5
+ 22 Chan, Skylor T         OMSHD18J  1696  1680/257  L1  L5  W24 L11 1.0
+ 23 Zhang, Michelle        MEDF889L  1548  1501/308  L4  HPB L19 L16 0.5
+ 24 Rabadan, Michael       ADUNE34H  1300  1070/  4  L13 L9  L22 L15 0.0

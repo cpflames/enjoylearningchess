@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nidamarthi, Nikhil     RSAC375J   849   982/ 79  W4  W3  D2  2.5
+  2 Li, Harry              SSSCG30G   948  1023/184  W3  W4  D1  2.5
+  3 Yin, Daniel            ISSK116Y   948   923/237  L2  L1  W4  1.0
+  4 Chang, Caden           UCDB260J   972   889/ 58  L1  L2  L3  0.0

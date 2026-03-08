@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Min, Ryan              OMSI5430  2077  2088/374  D5  W2  D6  D3  W4  3.5
+  2 Lu, Yiding             BASG865Z  2004  2018/243  W3  L1  W4  W6  L5  3.0
+  3 Jiang, Brandon         BLLK7768  2194  2170/507  L2  L4  W5  D1  W6  2.5
+  4 Kona, Vidip            RSAEI26J  1879  1907/291  W6  W3  L2  D5  L1  2.5
+  5 Liu, Austin            PLKI530J  2070  2051/320  D1  L6  L3  D4  W2  2.0
+  6 Jammalamadaka, Vihaan  WPPFJ90F  1877  1879/330  L4  W5  D1  L2  L3  1.5

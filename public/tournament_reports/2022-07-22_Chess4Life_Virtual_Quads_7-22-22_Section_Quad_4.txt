@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Aaron           MEDE873R  1268  1355/450  W3  W4  W2  3.0
+  2 Edmond, Ivy            WWDED81E  1236  1259/242  W4  W3  L1  2.0
+  3 Yun, Daniel D          BCAAK87Z  1206  1191/195  L1  L2  W4  1.0
+  4 Mcintyre, Isaac        ETSC466S  1214  1151/ 74  L2  L1  L3  0.0

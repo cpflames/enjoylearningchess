@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ge, Alex               SOMC908H   880   907/139  W2  L4  W3  2.0
+  2 Garg, Vihaan           CMCCJ10X   878   906/149  L1  W3  W4  2.0
+  3 Chaturvedi, Raghav     TYEHK75J   888   859/109  W4  L2  L1  1.0
+  4 Hildenbrand, Blane     PSMH122V   876   851/132  L3  W1  L2  1.0

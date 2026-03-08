@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Cheng, Selina          THUD413R  1400  1449/203  W2  W5  W4  D3  W7  4.5
+  2 Chi, Isobel            LMSHC167  1194  1238/288  L1  W9  W6  W8  W4  4.0
+  3 Gijare, Sayali         SKWIE100  1367  1369/520  W8  L4  W7  D1  W5  3.5
+  4 Sripathi, Prajna       SLLGU42W  1373  1346/152  W7  W3  L1  D5  L2  2.5
+  5 Huang, Emily           MEDEB39A  1248  1236/129  W6  L1  W9  D4  L3  2.5
+  6 Mu, Alivia             DCTEB56P   925   920/ 34  L5  BYE L2  W9  HPB 2.5
+  7 Joshi, Vaidehi         CRKFG37G   963   968/ 97  L4  W8  L3  BYE L1  2.0
+  8 Lakshminarayanan, KaavyUNKE210E   860   847/ 41  L3  L7  BYE L2  W9  2.0
+  9 Rajesh, Anisha         EABCA74Z   711   674/ 54  BYE L2  L5  L6  L8  1.0

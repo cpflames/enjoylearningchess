@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Westover, Charlotte    WMEE365V  1295  1421/274  D4  D5  W6  W8  W3  4.0
+  2 Shih, Tai              UCDEE60P  1396  1427/195  W9  D8  D4  W5  W7  4.0
+  3 Shih, Bei              UCDC630G  1229  1381/193  W11 W6  W10 W4  L1  4.0
+  4 Arul, Sharvesh         BRHC319L  1504  1483/271  D1  W7  D2  L3  W9  3.0
+  5 Malugu, Sankalp        SHSBE95W  1279  1298/178  D7  D1  W14 L2  W10 3.0
+  6 Edmond, Alec           CSIBH03G  1395  1379/110  WF  L3  L1  W13 W14 3.0
+  7 Ning, Winston          SCDCJ14W  1089  1181/119  D5  L4  W9  W10 L2  2.5
+  8 Edmond, Ivy            WWDDD81E  1190  1228/167  W14 D2  D13 L1  D12 2.5
+  9 Zhu, Aiden             LLSAC77X  1289  1268/ 15  L2  W11 L7  W12 L4  2.0
+ 10 Tunuguntla, Sai SrithanEMDCK78V  1148  1135/138  BYE W13 L3  L7  L5  2.0
+ 11 Rajagopal, Rithesh     EBSD972Q  1312  1259/183  L3  L9  L12 W14 WF  2.0
+ 12 Kim, Dylan             SCDCK38L  1234  1197/126  L13 L14 W11 L9  D8  1.5
+ 13 Calo, Jude             WWDF3425  1326  1282/173  W12 L10 D8  L6  LF  1.5
+ 14 Kuchimanchi, Praharsh  BRHD414Z  1303  1231/ 89  L8  W12 L5  L11 L6  1.0

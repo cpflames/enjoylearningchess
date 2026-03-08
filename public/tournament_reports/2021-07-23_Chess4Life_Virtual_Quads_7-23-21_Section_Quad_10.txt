@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dode, Arush            EMDC317L   901  1021/ 21  W4  W2  W3  3.0
+  2 Xu, Zoe                CNHBG70A   952   962/ 46  W3  L1  W4  2.0
+  3 Yin, Daniel            ISMJ116Y   779   784/114  L2  W4  L1  1.0
+  4 Shree, Inchara         BTNET682   892   813/152  L1  L3  L2  0.0

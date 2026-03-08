@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Achanta, Vishal        PULJ6509  1129  1392/ 69  W25 W14 W6  W3  W4  5.0
+  2 Carper, Jack           LINHG86W  1353  1406/ 92  W22 W7  D14 W5  W6  4.5
+  3 Mortensen, Lucas       LBYH730U  1302  1331/ 93  W15 W12 W9  L1  W7  4.0
+  4 Wannamaker, Linus      IDXFY45B  1483  1471/ 38  W10 W11 D5  W9  L1  3.5
+  5 Clark, Justin          VHSFB66U  1308  1321/201  W23 W8  D4  L2  W10 3.5
+  6 Barrett, Ben           PVEHH008  1311  1287/217  W17 W20 L1  W16 L2  3.0
+  7 Bai, Kelin             PVECD75J  1088  1102/ 93  W19 L2  W20 W8  L3  3.0
+  8 Carper, Calvin         TYEH357T   700  1122/  5  W12 L5  W17 L7  W18 3.0
+  9 Reddy, Eshan           SGSF336Y  1386  1355/221  W24 W13 L3  L4  W17 3.0
+ 10 Natesan, Arjun         LBYG878H   989  1010/ 29  L4  W23 W19 W15 L5  3.0
+ 11 Smith, Alistair        SOREY74M  1175  1169/ 94  W16 L4  L15 W14 W21 3.0
+ 12 Brody, Noah            LWCK6912  1033  1037/102  L8  L3  W22 W19 W16 3.0
+ 13 Schoenberger, Joshua   SJVHJ73R  1113  1083/229  W21 L9  L16 W23 W15 3.0
+ 14 Wang, Zihan            PPAGH97Y  1389  1344/205  W18 L1  D2  L11 W22 2.5
+ 15 Koh, Leroy             PVEF265U   709   855/ 10  L3  W18 W11 L10 L13 2.0
+ 16 Mortensen, Liam        SWEF768V   749   835/ 33  L11 W24 W13 L6  L12 2.0
+ 17 Lucas, Nicholas        CATE818Y   845   862/ 69  L6  W21 L8  W24 L9  2.0
+ 18 Evans, Theo            MULD888W   946   915/109  L14 L15 W24 W20 L8  2.0
+ 19 Achanta, Rishi         LINH5243   589   607/ 37  L7  BYE L10 L12 W25 2.0
+ 20 Hopson, Jared          VLCCI39U   454   520/ 49  BYE L6  L7  L18 W23 2.0
+ 21 Wang, Kelby            PVEA796Y   589   631/ 30  L13 L17 BYE W22 L11 2.0
+ 22 Hochheimer, Noah       SGSEF37G   936   874/122  L2  W25 L12 L21 L14 1.0
+ 23 Ritter, Levi           LINHC692   795   741/ 52  L5  L10 W25 L13 L20 1.0
+ 24 Keener, Karl           OKSFY40G   857   776/ 22  L9  L16 L18 L17 BYE 1.0
+ 25 Lanctot, Ethan         COBFA17V   659   589/ 78  L1  L22 L23 BYE L19 1.0

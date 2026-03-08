@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Han, Matthew           BISH5262  1365  1421/237  W4  W3  W2  3.0
+  2 Ma, Justin             OVLHD33R  1278  1299/123  W3  W4  L1  2.0
+  3 Yang, James            SSME123B  1243  1228/105  L2  L1  W4  1.0
+  4 Ivanovic, Mina         UCDCH40V  1199  1148/303  L1  L2  L3  0.0

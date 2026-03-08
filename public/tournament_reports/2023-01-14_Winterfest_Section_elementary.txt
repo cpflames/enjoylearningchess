@@ -1,0 +1,22 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bai, Kelin             SKKED75J  1037  1078/157  W12 W9  W4  W10 W2  5.0
+  2 Wang, Kelby            SKKC796Y   862   910/ 97  W20 W5  W13 W4  L1  4.0
+  3 Sherwood, Owen         FREEH61U   621   686/ 20  W8  L13 W6  W12 W5  4.0
+  4 Moss, Solomon          HSCFH79G   840   826/ 75  W7  W6  L1  L2  W10 3.0
+  5 Jain, Asmi             SGSCB47J   424   541/ 21  W15 L2  W7  W9  L3  3.0
+  6 Hochheimer, Luca       SGSE179R   422   458/ 28  W21 L4  L3  W11 W14 3.0
+  7 Bonner, Branson        HDPFH01F   400   472/ 10  L4  W8  L5  W20 W15 3.0
+  8 Madison, Bray          HLHD887R   390   413/ 19  L3  L7  W21 W17 W12 3.0
+  9 Sherwood, Cole         FRECD99U   519   492/ 20  W17 L1  D15 L5  W20 2.5
+ 10 Ji, Melody             SGSBA83X   517   536/ 24  D19 W14 W11 L1  L4  2.5
+ 11 Moss, Silas            HDPD843D   458   407/ 14  D14 W18 L10 L6  W17 2.5
+ 12 Peterson, Jude         COVFG83Z   400   409/ 10  L1  W17 W16 L3  L8  2.0
+ 13 Latimer, Liam          HDPFK98R   500   794/  3  W16 W3  L2  U   U   2.0
+ 14 Patterson, Bodie       HLHEK98Q   400   232/  4  D11 L10 WF  D15 L6  2.0
+ 15 Wolf, Baylee           HDPCK98P   200   317/  5  L5  W20 D9  D14 L7  2.0
+ 16 Skelton, Jax           SIAG558V   527   445/  8  L13 W21 L12 U   U   1.0
+ 17 Wolf, Prairie          HDPEK98N   400   157/  5  L9  L12 W20 L8  L11 1.0
+ 18 Lusk, Zachary          ARCFK98L   500   100/  1  HPB L11 LF  U   U   0.5
+ 19 Acorn, Caellum         HDPEK98K   400   535/  1  D10 U   U   U   U   0.5
+ 20 Elkins, Believe        HSCD953U   400   257/ 13  L2  L15 L17 L7  L9  0.0
+ 21 Latimer, Nava          HDPBK98J   100   100/  3  L6  L16 L8  U   U   0.0

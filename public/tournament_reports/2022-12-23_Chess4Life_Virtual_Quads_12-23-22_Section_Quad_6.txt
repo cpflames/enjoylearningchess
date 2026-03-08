@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mitra, Rishab          OPWE138L   533   657/132  D3  W2  W4  2.5
+  2 Kuluru, Samith         KKNGI99K   570   617/112  W4  L1  W3  2.0
+  3 Balaji, Arjun          CMCCH75P   637   623/ 25  D1  W4  L2  1.5
+  4 Song, Oliver           HSCDF09J   563   483/ 39  L2  L3  L1  0.0

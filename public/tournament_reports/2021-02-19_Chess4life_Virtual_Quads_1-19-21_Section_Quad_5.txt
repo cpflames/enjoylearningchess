@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Seela, Shashank        SSMEI74N  1340  1430/ 74  W2  W3  W4  3.0
+  2 Vijayakrishnan, AchyuthPKRB646F  1278  1290/ 38  L1  W4  D3  1.5
+  3 Li, Yiyang             BCAD700B  1321  1302/145  U4  L1  D2  0.5
+  4 Wang, Jacob            BLWDD74Y  1341  1296/ 83  U3  L2  L1  0.0

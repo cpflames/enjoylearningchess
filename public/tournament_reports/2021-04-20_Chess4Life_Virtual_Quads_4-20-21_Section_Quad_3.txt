@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Skkandann, Kiann       NPRJ644M   900  1521/  2  W2  W3  U   2.0
+  2 Rackoff, Dylan         BLWD507J  1092  1117/131  L1  U   W3  1.0
+  3 Stein, Samuel          HSCDH03T  1142  1108/135  U   L1  L2  0.0

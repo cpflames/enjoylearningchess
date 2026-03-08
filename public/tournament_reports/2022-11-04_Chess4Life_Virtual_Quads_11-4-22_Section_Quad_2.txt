@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yuodelis, Kenneth      TYEJ3681  1441  1480/395  W4  D2  W3  2.5
+  2 Evin, Terrick          EBSBC54L  1327  1421/ 50  W3  D1  W4  2.5
+  3 Zhou, Nathan           NJHG215X  1450  1422/ 45  L2  W4  L1  1.0
+  4 Sinha, Agastya         HSCDA75C  1386  1330/117  L1  L3  L2  0.0

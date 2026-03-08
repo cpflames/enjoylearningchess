@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Mahajan, Rushaan       OVLIK091  2247  2250/319  W2  BYE W3  W5  L4  4.0
+  2 Levine, Joseph         EPSID260  2246  2249/219  L1  W5  W4  W3  BYE 4.0
+  3 Vijayakumar, Advaith   LEOI6655  2053  2062/266  BYE W4  L1  L2  W5  3.0
+  4 Jiang, Brandon         OMSI7768  2110  2111/453  W5  L3  L2  BYE W1  3.0
+  5 Min, Ryan              OMSG5430  1915  1893/319  L4  L2  BYE L1  L3  1.0

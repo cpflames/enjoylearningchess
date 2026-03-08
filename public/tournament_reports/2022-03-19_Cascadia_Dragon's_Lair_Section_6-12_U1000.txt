@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Mitra, Rahul           OPWGH53N   877   953/215  W4  W3  L2  W6  W5  4.0
+  2 Seshadri, Vindhya      GTMG953Y   808   933/ 19  W5  W4  W1  L3  W6  4.0
+  3 Nooli, Sai Sahasra     REJI773X   866   878/ 58  W6  L1  W5  W2  L4  3.0
+  4 Sofi, Aairah           BLMH618B   751   825/ 21  L1  L2  W6  W5  W3  3.0
+  5 Sood, Akul             SASI510U   966   852/137  L2  W6  L3  L4  L1  1.0
+  6 Sood, Anika            SASM262J   587   533/ 10  L3  L5  L4  L1  L2  0.0

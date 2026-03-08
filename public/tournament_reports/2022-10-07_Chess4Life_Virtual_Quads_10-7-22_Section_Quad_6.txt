@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nidamarthi, Nikhil     RSAD375J   913  1036/ 94  W4  W3  W2  3.0
+  2 Chevuri, Tattva        CBRFC06V   962   975/245  W3  W4  L1  2.0
+  3 Yin, Daniel            ISSL116Y   821   820/266  L2  L1  W4  1.0
+  4 Naenna, Patanin        SPLEQ28H   905   828/162  L1  L2  L3  0.0

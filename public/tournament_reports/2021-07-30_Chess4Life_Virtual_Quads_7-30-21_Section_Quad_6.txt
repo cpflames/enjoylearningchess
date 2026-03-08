@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Eksarevskiy, Albert    WPPG530Y  1279  1371/ 18  W2  W3  W4  3.0
+  2 Xing, Henry            LKDF3704  1217  1256/351  L1  W4  W3  2.0
+  3 Wahi, Lakshya          EVJH664Z  1277  1251/ 79  W4  L1  L2  1.0
+  4 Bar, Nathan            AUDB368C  1234  1173/105  L3  L2  L1  0.0

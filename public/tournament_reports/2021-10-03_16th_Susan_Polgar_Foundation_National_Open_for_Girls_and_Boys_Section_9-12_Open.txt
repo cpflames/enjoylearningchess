@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ardeleanu, Alan        BCAJ6068  1591  1662/139  W7  W3  W6  W4  W5  5.0
+  2 Kuipers, Miles         TSTJ6766  1827  1782/522  L3  W7  L4  W8  W6  3.0
+  3 Gupta, Vivaan          EALJF01U  1200  1457/  8  W2  L1  D5  D7  W8  3.0
+  4 Marcelia, David        CPBMK21F  1599  1592/ 57  W5  L6  W2  L1  W7  3.0
+  5 Dhingra, Aaryan        TSTKC186  1353  1369/239  L4  W8  D3  W6  L1  2.5
+  6 Singhal, Palash        SKNJH323  1438  1428/138  W8  W4  L1  L5  L2  2.0
+  7 Domingos, Daniel       MEDK374N   948   972/ 19  L1  L2  W8  D3  L4  1.5
+  8 Heineck, Sina          RSIJY53B   900   571/  5  L6  L5  L7  L2  L3  0.0

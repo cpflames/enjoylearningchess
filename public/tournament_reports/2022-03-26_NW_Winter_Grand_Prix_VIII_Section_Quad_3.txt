@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bowman, Finn           SHMJD50L   928   945/ 48  W4  W3  L2  2.0
+  2 Zhang, Owen            FHVG995H   915   910/137  D3  L4  W1  1.5
+  3 Wilson, Nathaniel      SHKGE45V   907   904/ 21  D2  L1  W4  1.5
+  4 Grewal, Harshan        FACGK33H   844   834/ 23  L1  W2  L3  1.0

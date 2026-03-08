@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Velea, Anne-marie      EALLK892  2170  2187/325  W8  W2  W9  W6  W3  W5  6.0
+  2 Wang, Felicity         LMSIJ02F  1757  1787/262  W11 L1  D3  W7  W9  W6  4.5
+  3 Li, Melina             ADDJ5705  1718  1729/209  W10 D6  D2  W5  L1  D7  3.5
+  4 Szeto, Sophie          LSSKH023  1868  1835/330  L7  L5  W11 HPB W10 W9  3.5
+  5 Devaraju, Sonia        OMSJK838  1538  1607/486  D9  W4  D6  L3  W8  L1  3.0
+  6 Chen, Angela           HLNJB334  1650  1646/284  WF  D3  D5  L1  W11 L2  3.0
+  7 Zhang, Iris            TMBH858X  1598  1610/323  W4  L9  D8  L2  BYE D3  3.0
+  8 Zhang, Kylie           WMEF890T  1612  1600/148  L1  W10 D7  L9  L5  W11 2.5
+  9 Li, Emma               LMSH521Q  1692  1689/312  D5  W7  L1  W8  L2  L4  2.5
+ 10 Metzmaker, Suya        OPWG364P  1578  1516/265  L3  L8  BYE L11 L4  WF  2.0
+ 11 Iskender, Selin        WPPIC66Y  1347  1386/ 10  L2  BYE L4  W10 L6  L8  2.0

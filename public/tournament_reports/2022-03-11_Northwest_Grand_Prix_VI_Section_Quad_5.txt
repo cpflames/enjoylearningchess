@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Melius, Mason          FACEF58R   955  1065/  6  W3  W2  W4  3.0
+  2 Facada, Riley          EAGDH89N   661   684/  6  W4  L1  D3  1.5
+  3 Gordziel, Conner       CIAE518P   490   557/ 12  L1  W4  D2  1.5
+  4 Chopra, Siya           SKYD153N   563   503/ 12  L2  L3  L1  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Seela, Shashank        SSMFI74N  1604  1689/140  W3  W4  W2  3.0
+  2 Sangal Lopez, Dev      CTNF515J  1568  1580/276  D4  W3  L1  1.5
+  3 Upreti, Parthavi       TBKF754L  1584  1575/ 78  L1  L2  W4  1.0
+  4 Boulis, Christos       RHJIC84T  1713  1665/551  D2  L1  L3  0.5

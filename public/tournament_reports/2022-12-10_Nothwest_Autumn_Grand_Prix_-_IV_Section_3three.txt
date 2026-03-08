@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Singh, Jagteshwar      MRDLJ25M   746   913/ 18  W2  W5  W3  3.0
+  2 Moore, Jonah           WKEE348U   781   805/ 17  L1  W8  W7  2.0
+  3 Allworth, Brayden      HORIA86Y   754   793/ 19  W8  W4  L1  2.0
+  4 Fransico-woodenlegs, JoMRDK680H   664   733/  9  W6  L3  W5  2.0
+  5 Bormuth, Silas         LYCE542J   794   749/  9  W7  L1  L4  1.0
+  6 Wagner, Sam            VSTHD69Z   778   714/ 10  L4  L7  W8  1.0
+  7 Bhatta, Mehveer        HORH129T   727   701/ 14  L5  W6  L2  1.0
+  8 Rafferty, Gloria       VSTHD95X   714   633/ 16  L3  L2  L6  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Shengxin        CAVD303G   647   765/  6  D2  W4  W3  2.5
+  2 Yeh, Michael           BECDK74V   734   778/ 43  D1  W3  W4  2.5
+  3 Fox-devol, Zachary     XXXEI93P   660   631/ 32  W4  L2  L1  1.0
+  4 Bhardwaj, Nia          RKWDD47N   520   470/ 23  L3  L1  L2  0.0

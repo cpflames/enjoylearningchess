@@ -1,0 +1,22 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Demberel, Amana        LCOKJ14E  1589  1607/ 73  W12 D4  W15 W6  D2  4.0
+  2 Tran, Nugen            CDZI455Z  1573  1588/366  D7  W18 W10 W9  D1  4.0
+  3 Bharathy Mohan, Aarav  FRWEC98B  1432  1442/275  D14 W13 L6  W16 W9  3.5
+  4 Rubaiyat, Rhadean      ICSHD40L  1393  1407/112  W20 D1  L5  W17 W13 3.5
+  5 Bartminn, Jan Lorenz   BLMGH59K  1392  1466/147  HPB HPB W4  W15 D6  3.5
+  6 Siddem, Sid            RHJJC34V  1500  1497/430  W21 D10 W3  L1  D5  3.0
+  7 Cummins, William       SMSHJ26R  1301  1311/ 26  D2  L8  W14 D11 WF  3.0
+  8 Xu, Hong               ADUNK70W  1300  1460/  3  HPB W7  L9  HPB W16 3.0
+  9 Gadde, Arnav           ENSEJ39D  1531  1498/127  D13 W14 W8  L2  L3  2.5
+ 10 Vashisht, Aneesh       LKWEC30Y  1401  1380/ 91  W17 D6  L2  L13 W18 2.5
+ 11 Xu, Zoe                SOMDG70A  1352  1303/222  L16 W19 D17 D7  D12 2.5
+ 12 Sriram, Aahan          BCADC03K  1310  1281/ 38  L1  W20 L16 W19 D11 2.5
+ 13 Shankaranand, Deeksha  EBSEI74Y  1253  1284/201  D9  L3  W18 W10 L4  2.5
+ 14 Flores Uriegas, Andres HLYD159F   999  1053/ 27  D3  L9  L7  W20 W19 2.5
+ 15 Ejsing, Simon          ADUN158D  1419  1401/ 19  W19 W16 L1  L5  LF  2.0
+ 16 Yakkali, Karthik VedantKKNF301E  1072  1171/ 11  W11 L15 W12 L3  L8  2.0
+ 17 Ciani, Keith           ADUNG04B   880   961/ 19  L10 W21 D11 L4  HPB 2.0
+ 18 Black, Stas            BCAE368F  1121  1113/ 83  HPB L2  L13 W21 L10 1.5
+ 19 Zhang, Aaron           RSADC74T   958   938/ 64  L15 L11 W20 L12 L14 1.0
+ 20 Kalakoti, Kartika      STVAG45J   781   794/ 34  L4  L12 L19 L14 W21 1.0
+ 21 Shaikot, Sabeer        ENSE147Q  1126  1020/148  L6  L17 HPB L18 L20 0.5

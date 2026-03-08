@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Shariff, Haris         CMBD276W   428   570/ 19  W3  D2  W4  2.5
+  2 Phaneesh, Saanvi       SSMB983M   400   720/  3  W4  D1  W3  2.5
+  3 Condit, Theo           TLIAJ39C   400   412/  3  L1  W4  L2  1.0
+  4 Mitra, Rishab          OPWC138L   400   400/ 20  L2  L3  L1  0.0

@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Margeson, Tristan      MRDMI30S   792   928/ 33  W5  W3  W4  3.0
+  2 Chiapellone, Teo       SHMLG88R   837   832/ 77  W8  L4  W5  2.0
+  3 Mcconaughy, Marcus     SHMJ798W   754   786/ 13  W6  L1  W7  2.0
+  4 Granger, Jacob         BLHK654S   749   815/ 34  W7  W2  L1  2.0
+  5 Nyland, Taylor         BLHK124B   740   708/  6  L1  W6  L2  1.0
+  6 Greer, Nathan          LYEJ566W   710   625/  6  L3  L5  W8  1.0
+  7 Allworth, Brayden      HORIA86Y   707   663/  9  L4  W8  L3  1.0
+  8 Peper, James           BLHKB93F   746   537/  6  L2  L7  L6  0.0

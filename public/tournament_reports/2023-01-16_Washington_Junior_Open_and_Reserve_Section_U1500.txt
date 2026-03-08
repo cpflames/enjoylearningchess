@@ -1,0 +1,44 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Krishnan, Advait       REJH570Q  1459  1528/116  W34 W22 W18 W8  4.0
+  2 Liu, Vincent           ILAE546Q  1434  1507/160  W36 W31 W10 W9  4.0
+  3 Mohan, Vishnu          KKNEF41R  1339  1473/ 98  W40 W5  W13 W16 4.0
+  4 Saddi, Neevan Reddy    GRRDH87M  1466  1477/107  W11 L10 W12 W20 3.0
+  5 Malakapalli, Smaran    OVLI973C  1456  1464/101  W35 L3  W36 W19 3.0
+  6 Kokati, Pranav         OMSH814P  1403  1414/227  W23 L14 W32 W21 3.0
+  7 Bartminn, Jan Lorenz   BLMGH59K  1395  1392/144  W43 L12 W31 W26 3.0
+  8 Greisen, Johanna       INGHF61C  1373  1416/ 18  W24 W28 W19 L1  3.0
+  9 Fedorov, Vladimir      EVJIF17D  1354  1387/224  W42 W25 W14 L2  3.0
+ 10 Bharadwaj, Samarth     DGHCE78A  1346  1387/110  W39 W4  L2  W25 3.0
+ 11 Vutukuri, Adhrith      REJI326L  1270  1330/ 50  L4  W40 W28 W18 3.0
+ 12 Koripella, Dheeran     INGH610W  1138  1316/ 34  W33 W7  L4  W17 3.0
+ 13 Wu, Derek              MEDF902D  1394  1401/ 76  W32 W21 L3  D14 2.5
+ 14 Wang, Ares             MEDEJ77J  1330  1346/237  W41 W6  L9  D13 2.5
+ 15 Bosh, Lincoln          CUHKK95N  1000  1387/  4  W20 L18 D22 W34 2.5
+ 16 Rastogi, Atharv        APOF377H  1410  1384/ 84  W37 L19 W35 L3  2.0
+ 17 Mohan, Laya            LEOH617P  1405  1366/146  L31 W43 W23 L12 2.0
+ 18 Vashisht, Aneesh       LKWEC30Y  1347  1346/ 81  W38 W15 L1  L11 2.0
+ 19 Gupta, Krishang        FRVFE37V  1339  1330/ 18  BYE W16 L8  L5  2.0
+ 20 Singh, Anay            CDWEA69Y  1317  1308/ 22  L15 W42 W38 L4  2.0
+ 21 Sriram, Aahan          BCADC03K  1306  1295/ 29  W26 L13 W24 L6  2.0
+ 22 Huang, Emily           OMSGB39A  1297  1302/270  W27 L1  D15 D30 2.0
+ 23 Zhang, Zhibo           SOMD674X  1208  1198/ 67  L6  BYE L17 W38 2.0
+ 24 Joseph, Veronique      SJODJ04S  1200  1222/ 99  L8  W33 L21 W35 2.0
+ 25 Daugherty, Zachary     RDENS24D  1000  1182/  7  W29 L9  W33 L10 2.0
+ 26 Greisen, Alfred        EALJK95M   752   893/  4  L21 W37 W30 L7  2.0
+ 27 Vijayaguru, Ashwin     XXXIK95L   800  1076/  3  L22 L36 BYE W37 2.0
+ 28 Attiganal Jagadeesh, NiNRCJK95K   900  1286/  4  W30 L8  L11 W36 2.0
+ 29 Choi, Hunter           EVGFE80A  1340  1274/198  L25 L32 D42 W41 1.5
+ 30 Yang, Harry            TLMII123  1286  1232/267  L28 W39 L26 D22 1.5
+ 31 Chowdhary, Shivam      EVJGD47H  1211  1224/ 72  W17 L2  L7  D32 1.5
+ 32 Fei, Derek             SPTFJ01E  1201  1208/ 69  L13 W29 L6  D31 1.5
+ 33 Zhang, Aaron           MEDF873R  1353  1281/486  L12 L24 L25 W42 1.0
+ 34 Joshi, Yash            PFCG280R  1270  1222/ 96  L1  L38 W39 L15 1.0
+ 35 Tie, Mike              ENDE856Y  1222  1184/ 57  L5  W41 L16 L24 1.0
+ 36 Chu, Joshua            EASEC73V  1222  1198/ 14  L2  W27 L5  L28 1.0
+ 37 Li, Edgar              OPWC883Y  1215  1139/119  L16 L26 W40 L27 1.0
+ 38 Liao, Wesley           BCSJE49D  1075  1073/ 95  L18 W34 L20 L23 1.0
+ 39 Flores Uriegas, Andres HLYD159F  1033   999/ 22  L10 L30 L34 WF  1.0
+ 40 Raja, Rian             CNCF786E   931   911/ 44  L3  L11 L37 BYE 1.0
+ 41 Bhaskar, Vibhas        REJHA79F   897   922/133  L14 L35 W43 L29 1.0
+ 42 Bharadwaj, Anish       WPPII530  1171  1133/287  L9  L20 D29 L33 0.5
+ 43 Vijeyanandh, Vishnu    TMBHF63Z  1206  1138/145  L7  L17 L41 LF  0.0

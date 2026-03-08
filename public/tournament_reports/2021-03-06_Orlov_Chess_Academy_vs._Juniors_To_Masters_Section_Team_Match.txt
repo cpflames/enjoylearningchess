@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Yuen, Noah             BCXHX40K  2049  1892/ 10  W12 D7  D5  L11 W2  3.0
+  2 Vemparala, Nikash      BCAFI078  1836  1819/307  W13 W6  L3  W18 L1  3.0
+  3 Srinivas, Atharva      BCXIX99L  1632  1746/ 10  W14 W4  W2  D5  W11 4.5
+  4 Kona, Vidip            RSACI26J  1767  1744/201  W16 L3  W19 W13 L6  3.0
+  5 Roesch, Carson         BLEI120K  1762  1780/176  W18 W22 D1  D3  W13 4.0
+  6 Tao, Kaitlyn           BCXIZ27Y  1223  1488/ 10  W15 L2  W9  W7  W4  4.0
+  7 Willy, Stephen         MMEFH17K  1661  1644/339  W19 D1  W8  L6  L16 2.5
+  8 Imoo, Joshua           BHSJX856  1336  1421/ 40  W17 L9  L7  W15 W10 3.0
+  9 Shanmugam, Meera       BCWFD22Y  1678  1629/404  W20 W8  L6  L16 L18 2.0
+ 10 Wang, Ted              BCABK13D  1627  1582/122  W21 L13 D18 W19 L8  2.5
+ 11 Merriman, Dann         WMNBF79Y  1545  1570/369  D22 W16 D13 W1  L3  3.0
+ 12 To, Donovan            KMNG239L  1487  1434/240  L1  L21 W22 W20 L19 2.0
+ 13 Field, Josiah          BCXLZ68A  1289  1409/ 10  L2  W10 D11 L4  L5  1.5
+ 14 Bushfield, Stuart      ADDIF350  1435  1384/348  L3  L19 W20 L22 W21 2.0
+ 15 Arul, Sharvesh         BRHC319L  1412  1357/254  L6  W20 W21 L8  L22 2.0
+ 16 Qin, Kaiqi             BCXIZ75V   800  1646/  5  L4  L11 W17 W9  W7  3.0
+ 17 To, Calvin             REEDI10D  1348  1299/289  L8  L18 L16 W21 L20 1.0
+ 18 Zuo, Zichen [roger]    BCXFZ286  1589  1602/ 10  L5  W17 D10 L2  W9  2.5
+ 19 Huang, Winston         BCXGX95R  1342  1371/ 10  L7  W14 L4  L10 W12 2.0
+ 20 Yang, Nathanyi-hsin    BCXCZ02K  1358  1265/ 10  L9  L15 L14 L12 W17 1.0
+ 21 Su, Jayden             BCXDX88K   583   743/ 10  L10 W12 L15 L17 L14 1.0
+ 22 Liu, Henry             BCXFZ13R   531   931/ 10  D11 L5  L12 W14 W15 2.5

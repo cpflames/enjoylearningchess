@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Huang, Jeremy          FRAMK67R  1080  1019/  7  L6  U   U   U   0.0
+  2 Chen, Allen            FRAMK67P  1381  1311/  7  L7  U   U   U   0.0
+  3 Wang, Raymond          FRAKK66P  1000  1330/  1  W8  U   U   U   1.0
+  4 Giang, Bill            FRALK66M  1100  1110/  1  W9  U   U   U   1.0
+  5 Jones, Isaiah          FRAKK67K   968   968/  3  L10 U   U   U   0.0
+  6 Huang, Jason           GARKK89Y  1017  1049/ 16  W1  U   U   U   1.0
+  7 Farny, Soren           GARLJ587  1258  1289/404  W2  U   U   U   1.0
+  8 Albright, Finn         GARME56P   949   949/  9  L3  U   U   U   0.0
+  9 Nielsen, Will          GARMK67W   719   719/  4  L4  U   U   U   0.0
+ 10 Yu, Edison             GARLK66J  1100  1324/  1  W5  U   U   U   1.0
+ 11 Rivera, Maddie         LCOM729X   916   931/ 16  W12 L12 U   U   1.0
+ 12 Eaton, Amanita         LCOLK66Q  1044  1008/  6  L11 W11 U   U   1.0
+ 13 Curiel-mar, Dana       FRAKK66H  1000   733/  2  L15 L15 U   U   0.0
+ 14 Loi, Joseph            LSSMK89Z  1100  1116/ 13  W16 W16 W19 L19 3.0
+ 15 Mcdermott, Athena      GARKK66G  1000  1267/  2  W13 W13 U   U   2.0
+ 16 Nguyen, Abby           FRAKK67L   968   853/  4  L14 L14 U   U   0.0
+ 17 Barr, Walter           GARJK714   893   887/289  U   U   L18 L18 0.0
+ 18 Carroll, Lucas         GARMK67C  1408  1408/  4  U   U   W17 W17 2.0
+ 19 Cole, Reece            GARJ3567  1061  1073/133  U   U   L14 W14 1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Karri, Aditya          AUDDC55V  1259  1284/127  W4  L2  W3  2.0
+  2 Yang, James            SSME123B  1263  1287/178  L3  W1  W4  2.0
+  3 Xing, Henry            LKDF3704  1270  1248/342  W2  L4  L1  1.0
+  4 Hawkins, Holden        TYEI383Z  1284  1258/314  L1  W3  L2  1.0

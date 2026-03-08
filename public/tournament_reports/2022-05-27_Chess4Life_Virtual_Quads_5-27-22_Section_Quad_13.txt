@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 King, Cooper           VIED955J   449   473/  5  D3  U   W2  1.5
+  2 Wang, Aaron            BCAA631T   400   400/ 18  U   W3  L1  1.0
+  3 Kang, Minjae           XXXC318W   400   400/  2  D1  L2  U   0.5

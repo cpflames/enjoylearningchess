@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ramanathan, Varun      LEOHK88H   289   490/  5  W3  W4  W2  3.0
+  2 Will, Derek            XXXFE57Z   401   401/  8  W4  W3  L1  2.0
+  3 Hatipoglu, Derin       EBSEK15D   253   225/  6  L1  L2  W4  1.0
+  4 Groeger-parmar, Ari    XXXCK14X   200   100/  3  L2  L1  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Ethan           STTE851S  1356  1404/224  D2  W4  W3  2.5
+  2 Kang, Jinue            OMSG2661  1321  1348/232  D1  D3  W4  2.0
+  3 Huang, Emily           MEDFB39A  1393  1361/203  D4  D2  L1  1.0
+  4 Bhaskara, Yash         WPPHI539  1284  1254/207  D3  L1  L2  0.5

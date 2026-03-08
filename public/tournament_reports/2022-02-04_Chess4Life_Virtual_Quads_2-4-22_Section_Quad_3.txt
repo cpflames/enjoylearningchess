@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Stein, Benjamin        HSCCB61S  1326  1430/181  W3  W2  W4  3.0
+  2 Saddi, Neevan Reddy    GRRCH87M  1360  1335/ 78  W4  L1  L3  1.0
+  3 Zhao, Dennis           CGRF525E  1345  1323/202  L1  L4  W2  1.0
+  4 Alam, Adil             BCAGI15X  1295  1285/229  L2  W3  L1  1.0

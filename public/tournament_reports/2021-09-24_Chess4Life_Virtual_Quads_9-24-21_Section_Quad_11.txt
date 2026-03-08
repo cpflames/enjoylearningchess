@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Amalo, Eliot           HSCH282X   764   827/ 18  W4  W2  D3  2.5
+  2 Yun, Daniel D          BCABK87Z   711   753/ 46  W3  L1  W4  2.0
+  3 Naenna, Patanin        SPLDQ28H   738   737/ 34  L2  W4  D1  1.5
+  4 Ramkumar, Nethra       RBRE315Z   695   621/ 76  L1  L3  L2  0.0

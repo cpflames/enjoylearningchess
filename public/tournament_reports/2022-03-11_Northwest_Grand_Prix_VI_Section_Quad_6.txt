@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Larcom, Korbin         CIADJ87V   415   447/ 12  D3  D2  W4  2.0
+  2 Grunhurd, Kekoa        CEEE597A   405   443/ 15  D4  D1  W3  2.0
+  3 Rehmert, Katie         CIAF788L   400   404/ 10  D1  W4  L2  1.5
+  4 Manookin, Adam         HSCCF67L   414   400/ 12  D2  L3  L1  0.5

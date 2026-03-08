@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhao, Dennis           OPWG525E  1262  1339/278  W2  W3  W4  3.0
+  2 Gao, Chenrui           EBSGK12A  1162  1204/ 59  L1  W4  W3  2.0
+  3 Wahi, Advait           BLWG661F  1185  1168/135  W4  L1  L2  1.0
+  4 Nidamarthi, Nikhil     RSAD375J  1197  1131/123  L3  L2  L1  0.0

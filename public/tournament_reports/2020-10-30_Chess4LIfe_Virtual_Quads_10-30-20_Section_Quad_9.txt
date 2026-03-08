@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Ethan (yichen)  CRIDG57B   973  1102/ 43  W2  W4  W3  3.0
+  2 Malugu, Sankalp        SHSBE95W   982  1011/103  L1  W3  W4  2.0
+  3 Zhao, Dennis           CGRE525E   951   937/ 83  W4  L2  L1  1.0
+  4 Desai, Dev             KKNHG63H  1004   925/106  L3  L1  L2  0.0

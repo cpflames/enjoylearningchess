@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xing, Henry            LKDF3704  1246  1270/339  W3  W4  L2  2.0
+  2 Hawkins, Holden        TYEI383Z  1262  1281/308  W4  L3  W1  2.0
+  3 Aggarwal, Aadit        LEOHE722  1243  1222/393  L1  W2  L4  1.0
+  4 Zhao, Dennis           CGRE525E  1251  1228/148  L2  L1  W3  1.0

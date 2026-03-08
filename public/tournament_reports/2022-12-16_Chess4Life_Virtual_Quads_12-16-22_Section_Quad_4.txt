@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, Xinyan           SOMDI38B  1148  1183/ 27  W4  D2  W3  2.5
+  2 Wang, Eric             BCAE803M  1059  1140/ 52  W3  D1  W4  2.5
+  3 Joshi, Vyom            LEOHH81X  1063  1045/ 77  L2  W4  L1  1.0
+  4 Yin, Daniel            ISSL116Y  1040   978/294  L1  L3  L2  0.0

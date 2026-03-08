@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Ares             MEDDJ77J  1063  1159/132  W4  W3  W2  3.0
+  2 Kakkad, Vayu           BRYBK50L  1092  1100/354  W3  W4  L1  2.0
+  3 Xie, Michael           BLWF549C   960   952/258  L2  L1  W4  1.0
+  4 Singhi, Rohan          BRHCH01P   954   896/ 55  L1  L2  L3  0.0

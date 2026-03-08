@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lechner, Liam          HSCH591P  1183  1199/ 30  D2  D3  W4  2.0
+  2 Xie, Michael           BLWF549C  1138  1167/304  D1  D4  W3  2.0
+  3 Hawkins, Holden        TYEJ383Z  1101  1116/421  W4  D1  L2  1.5
+  4 Hochberg, David        SUEJ6075  1197  1140/197  L3  D2  L1  0.5

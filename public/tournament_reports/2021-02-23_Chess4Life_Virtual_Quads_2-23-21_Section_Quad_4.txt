@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Rapolu, Sai Tejasvi    BCAEG86E   688   829/138  W3  W4  W2  3.0
+  2 Buado, Roman           BLWDI81U   630   699/ 33  W4  W3  L1  2.0
+  3 De, Devank             SCDE450L   704   647/  6  L1  L2  W4  1.0
+  4 Ramkumar, Nethra       RBRD315Z   722   630/ 31  L2  L1  L3  0.0

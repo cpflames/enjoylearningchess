@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chan, Aiden            COGH917M  1183  1206/100  W4  L2  W3  2.0
+  2 Hochberg, David        SUEK6075  1165  1194/282  W3  W1  L4  2.0
+  3 Zhu, Kevin             CSMD865U  1216  1185/334  L2  W4  L1  1.0
+  4 Wahi, Advait           BLWG661F  1168  1149/138  L1  L3  W2  1.0

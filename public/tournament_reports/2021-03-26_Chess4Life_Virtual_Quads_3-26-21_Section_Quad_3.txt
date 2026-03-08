@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kamel, Yaseen          PFCID57L  1269  1293/ 87  L2  W4  W3  2.0
+  2 Purohit, Yuti          LEOHC435  1281  1280/237  W1  D3  L4  1.5
+  3 Bharathy Mohan, Aarav  FRWCC98B  1268  1270/158  W4  D2  L1  1.5
+  4 Attuluri, Kaushik      INGJC628  1284  1260/317  L3  L1  W2  1.0

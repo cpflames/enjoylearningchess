@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Zhou, David            ADUN130N  1898  2078/ 11  W2  D3  L4  W7  D8  W9  4.0
+  2 Gottumukkala, Ananth   ADUNG432  2067  2086/320  L1  BYE W6  W8  D3  D4  4.0
+  3 Min, Ryan              OMSI5430  2047  2077/369  WF  D1  W5  W4  D2  L6  4.0
+  4 Kurungod Anoop, Pranav INTLK760  2086  2113/229  W10 W7  W1  L3  D9  D2  4.0
+  5 Sang, Tian             ADUNE22K  2364  2347/ 13  HPB HPB L3  L6  W7  W8  3.0
+  6 Haining, Kyle          ADUNK338  2289  2290/509  HPB HPB L2  W5  U   W3  3.0
+  7 Leano, Bryan           MISNX38E  2100  2086/  4  HPB L4  W9  L1  L5  BYE 2.5
+  8 Liu, Austin            PLKI530J  2076  2070/315  D9  HPB D10 L2  D1  L5  2.0
+  9 Pupols, Viktors        ADUN8503  2200  2163/ 37  D8  L10 L7  BYE D4  L1  2.0
+ 10 Readey, John L         ADUNH932  2288  2276/ 23  L4  W9  D8  U   U   U   1.5

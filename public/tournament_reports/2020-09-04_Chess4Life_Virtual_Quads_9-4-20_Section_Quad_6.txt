@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Gu, Aaron Xiao         EBSF412J  1136  1190/ 36  W3  W4  W2  3.0
+  2 Shanmugam, Varsha      FRLBA12J  1112  1111/288  W4  W3  L1  2.0
+  3 Desai, Dev             KKNHG63H  1047  1010/100  L1  L2  W4  1.0
+  4 Li, Faith              AGBDI99Z   400   400/  3  L2  L1  L3  0.0

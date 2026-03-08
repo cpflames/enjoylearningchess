@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Siddem, Sid            RHJHC34V  1419  1441/333  L2  W4  W3  2.0
+  2 Alam, Adil             BCAFI15X  1414  1437/182  W1  W3  L4  2.0
+  3 Xiong, Michael         MEDC115A  1471  1441/129  W4  L2  L1  1.0
+  4 Zhou, Yuchen           BCABJ42H  1402  1387/314  L3  L1  W2  1.0

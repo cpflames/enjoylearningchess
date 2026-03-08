@@ -1,0 +1,30 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Kona, Vidip            RSAEI26J  1907  1923/297  L19 W28 W17 W10 W11 W2  5.0
+  2 Zhou, David            ADUN130N  2078  2050/ 17  D22 W24 W12 W6  W7  L1  4.5
+  3 Wong-godfrey, Emerson  BUSJH83E  1610  1768/443  W5  W11 L6  D8  W12 W7  4.5
+  4 Gavrysh, Leonid        ADUN816H  2001  1981/ 21  W29 W16 W8  L7  D5  D6  4.0
+  5 Wang, Ted              STTDK13D  1910  1904/223  L3  W21 W22 W9  D4  D8  4.0
+  6 Li, Edward             TMBI768S  1794  1814/315  D14 W20 W3  L2  W19 D4  4.0
+  7 Briggs, Mark Steve     ADUNI316  1649  1739/ 10  W25 W9  W13 W4  L2  L3  4.0
+  8 Chan, Skylor T         OMSID18J  1688  1726/283  W17 W27 L4  D3  W13 D5  4.0
+  9 Cheng, Edward          GARKC74W  1853  1826/408  W28 L7  W27 L5  D18 W19 3.5
+ 10 Ren, Aaron             ENADG67B  1646  1650/126  L26 W18 W15 L1  D16 W21 3.5
+ 11 Notkin, Akiva          ADUNH45Z  1820  1789/ 23  W23 L3  W14 D13 L1  D16 3.0
+ 12 Razmov, Valentin       ADUNB02T  1853  1818/107  D20 W26 L2  W21 L3  D18 3.0
+ 13 Kuipers, Miles         TSTK6766  1782  1753/528  W18 W19 L7  D11 L8  D15 3.0
+ 14 Wang, Leonardo         CKNG233K  1561  1557/ 30  D6  D22 L11 D27 D24 WF  3.0
+ 15 Wong, Kate             BCAE459M  1411  1450/119  L16 BYE L10 D20 W23 D13 3.0
+ 16 Verma, Darsh           WONGB52K  1654  1653/181  W15 L4  W26 L19 D10 D11 3.0
+ 17 Li, Emma               LMSI521Q  1525  1553/347  L8  W23 L1  D22 D20 W26 3.0
+ 18 Kumar, Ramesh          ADUNF17C  1560  1574/ 11  L13 L10 BYE W25 D9  D12 3.0
+ 19 Razmov, Gabriel        ADDHC26K  1585  1610/255  W1  L13 D20 W16 L6  L9  2.5
+ 20 Sankar, Abhay          LEOJ6545  1578  1580/394  D12 L6  D19 D15 D17 D24 2.5
+ 21 Zhou, Yuchen           CHRDJ42H  1549  1554/512  D24 L5  W29 L12 W27 L10 2.5
+ 22 Yondon, Odbayar        LMAEK97T  1601  1600/111  D2  D14 L5  D17 D26 HPB 2.5
+ 23 Marcelais, Kai         REDJA64J  1608  1571/156  L11 L17 D28 W29 L15 BYE 2.5
+ 24 Eksarevskiy, Albert    WPPI530Y  1706  1663/ 61  D21 L2  D25 D26 D14 D20 2.5
+ 25 Wilmot, Taber          ADUNH86D  1307  1359/ 10  L7  D29 D24 L18 BYE LF  2.0
+ 26 Sharma, Devansh        KMNIF88S  1440  1462/147  W10 L12 L16 D24 D22 L17 2.0
+ 27 Choi, Erik             ADUN616S  1086  1174/  8  BYE L8  L9  D14 L21 U   1.5
+ 28 Han, Shuyi             TYEGK47W  1639  1620/290  L9  L1  D23 U   HPB HPB 1.5
+ 29 Celestin, Ramses       ADUNH01Y  1632  1574/  4  L4  D25 L21 L23 U   U   0.5

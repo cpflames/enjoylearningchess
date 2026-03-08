@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bansal, Vivaan         EVJH452J  1175  1306/ 43  W3  W2  W4  3.0
+  2 Alam, Adil             BCAGI15X  1316  1318/256  W4  L1  W3  2.0
+  3 Salal, Zikrain         SHSFJ82Z  1222  1201/ 45  L1  W4  L2  1.0
+  4 Tsai, Adam             DISGB02H  1133  1085/ 38  L2  L3  L1  0.0

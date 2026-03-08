@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Weng, Bright           TLIC850P  1055  1147/ 27  W4  W3  W2  3.0
+  2 Maheshwari, Vihaan     DGHJ695W  1012  1012/ 77  D3  W4  L1  1.5
+  3 Hochberg, David        SUEK6075  1005   982/248  D2  L1  D4  1.0
+  4 Garg, Vihaan           CMCCJ10X   943   910/100  L1  L2  D3  0.5

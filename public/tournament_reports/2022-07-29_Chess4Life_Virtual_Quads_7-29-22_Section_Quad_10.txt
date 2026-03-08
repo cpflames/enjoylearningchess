@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Shaikot, Sabeer        ENSD147Q   637   753/116  W5  W4  W2  3.0
+  2 Jiang, Nathan          FAPCG71Q   670   697/ 45  W4  W3  L1  2.0
+  3 Chaudhuri, Agnivesh    CHACB55V   664   647/103  W6  L2  W5  2.0
+  4 Vikram, Anirudh        ENDEG57Q   587   550/ 14  L2  L1  W6  1.0
+  5 Tharanian, Advay       DGHD855X   400   400/  3  L1  W6  L3  1.0
+  6 Holbrook, Claire       XXXB772G   400   400/  3  L3  L5  L4  0.0

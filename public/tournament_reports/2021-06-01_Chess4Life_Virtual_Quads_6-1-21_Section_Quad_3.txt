@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hawkins, Holden        TYEI383Z  1082  1197/302  W2  W4  W3  3.0
+  2 Tan, Nathan            UCDB412Y  1179  1181/ 31  L1  W3  W4  2.0
+  3 Stein, Samuel          HSCDH03T  1095  1069/150  W4  L2  L1  1.0
+  4 Sridhar, Riya          AUDCG37Y   932   893/ 45  L3  L1  L2  0.0

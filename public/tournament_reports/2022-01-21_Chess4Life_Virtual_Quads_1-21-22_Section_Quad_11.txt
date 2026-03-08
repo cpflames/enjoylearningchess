@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Amalo, Eliot           HSCH282X   868  1014/ 37  W2  W3  W4  3.0
+  2 Nidamarthi, Nikhil     RSAC375J   923   918/ 24  L1  W4  D3  1.5
+  3 Yun, Daniel D          BCABK87Z   884   891/ 90  W4  L1  D2  1.5
+  4 Stake, Charles         OESCM87Q   881   808/ 95  L3  L2  L1  0.0

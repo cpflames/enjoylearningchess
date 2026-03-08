@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lim, Oliver            ARMAC58T   646   762/ 14  W4  W2  W3  3.0
+  2 Acharya, Arnav         BCAE746Q   581   594/  9  D3  L1  W4  1.5
+  3 He, Jizhou             BCAA789B   647   588/  8  D2  D4  L1  1.0
+  4 Zhang, Lucas           SOMC290K   643   495/  5  L1  D3  L2  0.5

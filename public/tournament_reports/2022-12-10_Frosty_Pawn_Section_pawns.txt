@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Jones, Gideon          FIVG543G  1150  1168/ 72  W5  W6  W3  W10 W2  5.0
+  2 Jones, Truman          FIVEH72L   558   651/ 45  W14 W12 W7  W11 L1  4.0
+  3 Fuchs, Ethan           LBSF849Z   450   645/ 25  W13 W8  L1  W6  W5  4.0
+  4 Babbitt, Madilyn       HSCCI61W   200   601/  5  D8  W9  L10 W13 W11 3.5
+  5 Soper, Mason           HLHDB56G   400   507/ 10  L1  W13 W12 W7  L3  3.0
+  6 Sherwood, Cole         FRECD99U   400   503/ 10  W9  L1  W16 L3  W10 3.0
+  7 Webb, Rogan            HDPGC51Z   400   500/ 10  W10 W11 L2  L5  W9  3.0
+  8 Madison, Bray          HLHD887R   400   427/ 10  D4  L3  L11 W12 W14 2.5
+  9 Price, Amanda          HUTG493V   643   548/ 15  L6  L4  W15 W14 L7  2.0
+ 10 Sherwood, Owen         FREEH61U   574   516/ 10  L7  W16 W4  L1  L6  2.0
+ 11 Carpentier, Rhyan      FREGB68Z   504   448/ 10  W16 L7  W8  L2  L4  2.0
+ 12 Brown, Harrison        FREFH47S   423   351/ 10  W15 L2  L5  L8  W16 2.0
+ 13 Heideman, Lincoln      SOXFJ43P   500   341/  5  L3  L5  W14 L4  W15 2.0
+ 14 Schultz, Hailey        FREFI79W   400   287/ 10  L2  W15 L13 L9  L8  1.0
+ 15 Mcateer, Jackson       SGSB887T   100   100/  5  L12 L14 L9  W16 L13 1.0
+ 16 Heideman, Hudson       SOXC904K   200   100/  5  L11 L10 L6  L15 L12 0.0

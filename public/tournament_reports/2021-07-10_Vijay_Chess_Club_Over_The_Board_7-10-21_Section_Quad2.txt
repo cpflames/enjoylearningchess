@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bablani, Arnav         LMSF1146  1295  1322/173  W3  D4  W2  2.5
+  2 Kakkad, Ravi           ADUNJ02S  1062  1164/ 33  W4  W3  L1  2.0
+  3 Malugu, Sankalp        SHSBE95W  1230  1207/200  L1  L2  W4  1.0
+  4 Kancherla, Rohan       CEIFC11M  1276  1220/282  L2  D1  L3  0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Singh, Saket           DISH872S  1356  1426/240  W4  W3  D2  2.5
+  2 Kamel, Yaseen          PFCID57L  1423  1416/105  L3  W4  D1  1.5
+  3 Xie, Max               BLWGI185  1392  1371/274  W2  L1  L4  1.0
+  4 Han, Matthew           BISH5262  1365  1350/258  L1  L2  W3  1.0

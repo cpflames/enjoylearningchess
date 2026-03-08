@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, Xinyu            SOMED08V   852   937/ 20  W4  W2  D3  2.5
+  2 Cheng, Alan            CHREJ71K   863   892/ 36  W3  L1  W4  2.0
+  3 Cheruku, Adhrith       RCSD827Q   860   863/ 49  L2  W4  D1  1.5
+  4 Chaudhuri, Arihant     CHAD703E   862   783/105  L1  L3  L2  0.0

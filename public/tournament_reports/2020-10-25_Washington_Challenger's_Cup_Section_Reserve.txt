@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bloom, Corey           ADUN166W  1718  1725/ 21  L10 W17 W19 W8  W2  4.0
+  2 Kona, Vidip            RSACI26J  1803  1794/188  D8  W19 W6  W4  L1  3.5
+  3 Zhu, Jamie             SSME558E  1578  1595/259  W12 L6  W10 D15 W8  3.5
+  4 Joshi, Atharva         PLKI1352  1661  1674/235  D17 W18 W9  L2  W6  3.5
+  5 Wang, Ted              BCABK13D  1618  1617/105  L14 W7  W16 HPB W9  3.5
+  6 Li, Emma               LMSG521Q  1690  1692/278  W16 W3  L2  W11 L4  3.0
+  7 Arul, Sharvesh         BRHC319L  1394  1424/244  L9  L5  W18 W16 W14 3.0
+  8 Karthikeyan, HarishkumaRKWFJ81A  1409  1468/156  D2  W13 W14 L1  L3  2.5
+  9 Peesa, Rahul           OMSH109W  1574  1567/125  W7  D11 L4  W12 L5  2.5
+ 10 Sankar, Abhay          LEOH6545  1564  1569/313  W1  D14 L3  HPB D11 2.5
+ 11 Park, Sean             INTJ600E  1709  1686/ 78  W15 D9  HPB L6  D10 2.5
+ 12 Zhang, Michael M.      MEDC668Q  1151  1266/341  L3  HPB W13 L9  W17 2.5
+ 13 Shing, Rory            REJI6966  1649  1603/178  HPB L8  L12 W19 W15 2.5
+ 14 Zhang, Michelle        MEDE889L  1326  1347/274  W5  D10 L8  HPB L7  2.0
+ 15 Shen, Lixing           CMCFC15C  1479  1474/399  L11 HPB W17 D3  L13 2.0
+ 16 Mathur, Aashi          CRKF522S  1291  1278/182  L6  BYE L5  L7  W19 2.0
+ 17 Verma, Darsh           WONEB52K  1315  1317/ 64  D4  L1  L15 W18 L12 1.5
+ 18 Han, Shuyi             SOMEK47W  1449  1389/193  HPB L4  L7  L17 BYE 1.5
+ 19 Ruff, Lois             ADUNJ90S  1100  1082/ 48  BYE L2  L1  L13 L16 1.0

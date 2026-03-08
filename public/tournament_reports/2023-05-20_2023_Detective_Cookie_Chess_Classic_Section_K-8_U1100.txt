@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Maharaja, Imai         RKWCK34K   897  1067/ 28  W9  W10 W5  W3  D2  4.5
+  2 Novosselov, Anton      SBEEI56L   833   961/ 23  BYE L3  W4  W5  D1  3.5
+  3 Ghosh, Snehil          CBRD738T  1085  1051/ 39  L10 W2  W8  L1  W9  3.0
+  4 Ephrem, Yabi           DCCIC72Q  1063  1024/ 86  L8  W11 L2  W10 W7  3.0
+  5 Pillai, Ravi           SHSEB70K   901   925/ 60  W6  W8  L1  L2  W10 3.0
+  6 Das, Sambuddha Sekhar  ENDCK47S   807   802/ 25  L5  W9  D10 L7  W11 2.5
+  7 Schasteen, Noble       DCCCA04C   970   964/ 18  U   U   W11 W6  L4  2.0
+  8 Reimer, Oliver         LKDEG59D   854   818/ 24  W4  L5  L3  L9  BYE 2.0
+  9 Love, Alex             DCCHK14K   700   732/  4  L1  L6  BYE W8  L3  2.0
+ 10 Ye, Alex               ENDDH51L   892   867/ 62  W3  L1  D6  L4  L5  1.5
+ 11 Gay, Dylan             DCCHK14J   700   408/  3  U   L4  L7  BYE L6  1.0

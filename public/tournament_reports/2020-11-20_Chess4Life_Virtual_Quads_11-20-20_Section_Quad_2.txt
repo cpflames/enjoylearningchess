@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Stein, Elizabeth       HSCJ318X  1429  1454/ 94  D3  W2  WF  2.5
+  2 Ying, Yiheng           MEDDE78K  1431  1434/199  WF  L1  W3  2.0
+  3 Singh, Saket           DISH872S  1481  1455/161  D1  WF  L2  1.5

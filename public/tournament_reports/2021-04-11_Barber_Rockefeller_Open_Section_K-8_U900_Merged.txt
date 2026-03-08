@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Xu, Alex               DCTE500U   718   935/ 34  W11 W6  W3  W5  W4  5.0
+  2 Lo Conte, Augustus     CSIB331E   741   819/ 27  W8  L4  W11 W7  W5  4.0
+  3 Maknojia, Asad         ENSEJ28R   600   678/ 12  D6  W9  L1  WF  W7  3.5
+  4 Gajcowski, Devin       BETCA94Z   739   781/101  W10 W2  L5  W6  L1  3.0
+  5 Balasubramanian, Kala  CNCC519Y   859   833/  8  BYE W7  W4  L1  L2  3.0
+  6 Mathur, Avyukt         WONDG06Z   727   704/ 53  D3  L1  W9  L4  BYE 2.5
+  7 Das, Siddharth         BLWF293Y   743   704/ 91  W9  L5  W8  L2  L3  2.0
+  8 Metzmaker, Kyren       OPWC430W   651   617/ 97  L2  W10 L7  W11 L9  2.0
+  9 Wang, Gideon           SOMAC35B   687   623/ 14  L7  L3  L6  BYE W8  2.0
+ 10 Reddy, Ira             HSOCU769   627   588/ 26  L4  L8  BYE LF  W11 2.0
+ 11 Wang, Alan             OPWCH02M   400   400/  9  L1  BYE L2  L8  L10 1.0

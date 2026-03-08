@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sridhar, Riya          AUDDG37Y   400   630/ 12  W5  W2  W6  3.0
+  2 Tan, Nathan            UCDB412Y   736   721/  6  W4  L1  W3  2.0
+  3 Lei, Eric              TYEJ314K   900   642/  3  W6  W4  L2  2.0
+  4 Eustis, Owen           SCDA195W   400   422/  6  L2  L3  W5  1.0
+  5 Simms, Nick            THRFF38V   500   400/  3  L1  W6  L4  1.0
+  6 Grigorenko, Yana       FRWBA39N   400   400/ 59  L3  L5  L1  0.0

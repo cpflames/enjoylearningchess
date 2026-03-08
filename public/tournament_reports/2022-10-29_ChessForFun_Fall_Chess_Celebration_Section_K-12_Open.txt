@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Skkandann, Kiann       NPRL644M  1660  1671/ 29  W4  W2  W3  3.0
+  2 Amalo, Eliot           HSCI282X  1304  1321/ 79  WF  L1  W4  2.0
+  3 Lu, Jacob              BLMHI11F  1237  1262/285  BYE W4  L1  2.0
+  4 Xia, Yuchen            BLMJI52A  1335  1278/136  L1  L3  L2  0.0

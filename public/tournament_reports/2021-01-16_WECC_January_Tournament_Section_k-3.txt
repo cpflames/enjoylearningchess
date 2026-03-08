@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Liu, Vincent           ILAC546Q  1233  1290/ 78  W13 W2  W3  W7  W5  5.0
+  2 Liang, Wen             JINBF53X   775   934/ 39  W17 L1  W6  W10 W7  4.0
+  3 Kakkad, Vayu           BRYAK50L  1101  1087/260  W8  W9  L1  W11 D6  3.5
+  4 Hong, Sidney           MCGD478H   794   792/ 33  W19 L6  D12 W18 W11 3.5
+  5 Guduru, Agasthya       EMDC500V  1088  1053/ 40  W10 W12 L7  W8  L1  3.0
+  6 Dash, Nishant          ENDD260B   928   919/ 75  D11 W4  L2  W12 D3  3.0
+  7 Liang, Wu              JINB620E   955   960/ 38  W16 W18 W5  L1  L2  3.0
+  8 Sunshine, Ari          EVGBE66A   604   675/ 24  L3  W15 W14 L5  W13 3.0
+  9 Zhang, Justin          MEDD935G   635   646/ 27  W14 L3  L10 W15 W17 3.0
+ 10 Kunimoto, Jonah        CBRD700F   579   628/ 29  L5  W13 W9  L2  D14 2.5
+ 11 Mackey, Isaac          EVGD509C   558   632/102  D6  W19 W18 L3  L4  2.5
+ 12 Kamath, Abhay          RSABJ13S   400   538/  8  BYE L5  D4  L6  W18 2.5
+ 13 Morfin, Enzo           LIVDI63R   603   591/ 13  L1  L10 W17 W16 L8  2.0
+ 14 Craigen, Eleanor       ACKD761U   400   404/ 37  L9  BYE L8  D19 D10 2.0
+ 15 Wilson, Braylon        CWAC130Q   515   474/ 36  L18 L8  BYE L9  W19 2.0
+ 16 Vasquez, Mateo         MCUBK26G   502   473/ 30  L7  D17 D19 L13 BYE 2.0
+ 17 Einarson, Aiden        CWACD84D   550   489/ 40  L2  D16 L13 BYE L9  1.5
+ 18 Haller, Carly          SAECC57C   522   488/ 49  W15 L7  L11 L4  L12 1.0
+ 19 Kim, Cassandra         TRHD500H   612   510/ 79  L4  L11 D16 D14 L15 1.0

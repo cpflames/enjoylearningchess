@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hochberg, David        SUEK6075   974  1124/258  W3  W2  W4  3.0
+  2 Patnaik, Aditya        CGAHA02G   960   981/ 36  D4  L1  W3  1.5
+  3 Shaikot, Sabeer        ENSE147Q   983   971/134  L1  W4  L2  1.0
+  4 Joshi, Vyom            LEOHH81X  1134  1060/ 48  D2  L3  L1  0.5

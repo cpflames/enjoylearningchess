@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Thorrington, James     SANC547U   626   841/ 14  W21 W20 W19 W4  W3  5.0
+  2 Shen, Enoch            BLWDH90P   579   800/ 15  W20 W16 W17 W13 W6  5.0
+  3 Lu, Ian                CRICE83J   602   768/122  W16 W6  W8  W10 L1  4.0
+  4 Narayan, Keshav        CMCCE45H   623   737/ 29  W18 W17 W5  L1  W13 4.0
+  5 Mathur, Avyukt         WONDG06Z   633   727/ 49  W9  W14 L4  W15 W7  4.0
+  6 Sankar, Sneha          CNCD372B   799   774/170  W12 L3  W14 W8  L2  3.0
+  7 Reddy, Ira             HSOCU769   518   627/ 23  W13 L8  W11 W19 L5  3.0
+  8 Ramkumar, Nethra       RBRD315Z   630   636/ 35  W22 W7  L3  L6  WF  3.0
+  9 Anis Mohammed, Aashiq  FRWDJ63M   424   494/ 13  L5  L13 W16 W20 W19 3.0
+ 10 Kundu, Viraj           SHSDC06T   672   645/ 19  L15 W22 W20 L3  W14 3.0
+ 11 Han, Victor            HSCCB39P   725   677/ 20  L14 W23 L7  W21 W15 3.0
+ 12 Rajesh, Anisha         BCACA74Z   521   506/ 64  L6  D21 L15 W23 W22 2.5
+ 13 Jaeger, Russell        SAND967K   775   701/107  L7  W9  W18 L2  L4  2.0
+ 14 Brodniak, Andy         TFECF36B   465   493/ 45  W11 L5  L6  W18 L10 2.0
+ 15 Kelly, Liam            SANC359W   445   473/ 35  W10 L19 W12 L5  L11 2.0
+ 16 Suresh, Srivatsa       LMADK67N   400   419/  4  L3  L2  L9  BYE W21 2.0
+ 17 Donovan, Christian     SAND328M   400   511/  3  WF  L4  L2  W22 LF  2.0
+ 18 George, Sophia         SNICJ81P   400   400/  8  L4  BYE L13 L14 W23 2.0
+ 19 Fetchero, Noelle       BLCC505H   602   535/ 40  D23 W15 L1  L7  L9  1.5
+ 20 Nallamothu, Anvitha    SSMD948U   400   400/  4  L2  L1  L10 L9  BYE 1.0
+ 21 Wang, Jacob Z          BLWCE71A   400   400/ 10  L1  D12 D23 L11 L16 1.0
+ 22 Sankar, Meera          CNCCF17N   410   400/ 94  L8  L10 BYE L17 L12 1.0
+ 23 Rossman, Hunter        SANC828P   400   400/ 21  D19 L11 D21 L12 L18 1.0

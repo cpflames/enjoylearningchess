@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Edgar              OPWB883Y   876   876/ 41  W4  L3  W2  2.0
+  2 Taylor, Ryder          HSCI385C   687   773/ 70  W3  W4  L1  2.0
+  3 Condit, Theo           TLIBJ39C   718   786/ 55  L2  W1  W4  2.0
+  4 Anand, Netra           KKND239M   800   713/ 21  L1  L2  L3  0.0

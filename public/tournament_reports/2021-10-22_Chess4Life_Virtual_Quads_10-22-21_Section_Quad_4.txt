@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Jacob            BLWED74Y  1275  1294/152  L2  W4  W3  2.0
+  2 Kan, Kaleb             MMEDF53E  1268  1289/194  W1  L3  W4  2.0
+  3 Zhang, Ethan (yichen)  CRIEG57B  1276  1251/174  L4  W2  L1  1.0
+  4 Pravlik, Aiden         SHSC416H  1236  1221/185  W3  L1  L2  1.0

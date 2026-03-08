@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Demberel, Amana        LCOKJ14E  1425  1509/ 60  W17 W13 W15 L2  W9  W3  5.0
+  2 Meng, Miranda          OPWDH69P  1487  1549/ 92  W4  D3  D9  W1  W5  D6  4.5
+  3 Siddem, Sid            RHJJC34V  1339  1471/422  W5  D2  HPB W15 W8  L1  4.0
+  4 Rundell, Miriam        ADUN3921  1298  1390/246  L2  W17 W11 L5  W15 W9  4.0
+  5 Devadithya, Hiruna     ISSJ5494  1568  1541/691  L3  W10 D13 W4  L2  W14 3.5
+  6 Singh, Balbir          ADUNK95S  1426  1435/ 15  W16 HPB HPB L9  W14 D2  3.5
+  7 Mahugh, Paul           ADUNF85N  1098  1184/  5  L11 L14 W16 HPB W13 W12 3.5
+  8 Chang, Eric            NPRJ174T  1541  1496/118  L13 W16 D14 W12 L3  HPB 3.0
+  9 Merriman, Dann         EREDF79Y  1499  1488/488  HPB W12 D2  W6  L1  L4  3.0
+ 10 Bartminn, Jan Lorenz   BLMGH59K  1411  1395/140  HPB L5  L12 BYE HPB W15 3.0
+ 11 Fedorov, Vladimir      EVJIF17D  1390  1354/220  W7  L15 L4  W17 L12 W16 3.0
+ 12 Cheng, Selina          THUF413R  1434  1403/423  HPB L9  W10 L8  W11 L7  2.5
+ 13 Sriram, Aahan          BCADC03K  1325  1306/ 25  W8  L1  D5  L14 L7  W17 2.5
+ 14 Shankaranand, Deeksha  EBSEI74Y  1237  1264/191  L15 W7  D8  W13 L6  L5  2.5
+ 15 Kokati, Pranav         OMSH814P  1454  1403/223  W14 W11 L1  L3  L4  L10 2.0
+ 16 Bhargava, Saarth       STLHF29W  1231  1177/ 72  L6  L8  L7  HPB W17 L11 1.5
+ 17 Kalakoti, Kartika      STVAG45J   786   774/ 14  L1  L4  BYE L11 L16 L13 1.0

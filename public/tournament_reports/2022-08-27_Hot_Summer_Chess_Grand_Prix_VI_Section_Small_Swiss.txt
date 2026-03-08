@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Werner, Finn           FHVHJ98B   636   762/ 27  W4  W2  W3  3.0
+  2 Larcom, Korbin         CIADJ87V   658   654/ 31  W5  L1  W6  2.0
+  3 Fine-gucker, Logan     EAGC535R   551   572/ 24  W6  W7  L1  2.0
+  4 Manderson, Reuben      LYCC321E   454   469/ 14  L1  BYE W7  2.0
+  5 Moore, Allelia         MEWF572Z   424   400/  4  L2  L6  BYE 1.0
+  6 Manookin, Jared        HSCCD11V   416   403/ 32  L3  W5  L2  1.0
+  7 Manookin, Adam         HSCCF67L   400   400/ 32  BYE L3  L4  1.0

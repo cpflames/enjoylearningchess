@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jha, Siddhant          EVJGG46N  1143  1197/328  D4  W2  W3  2.5
+  2 Chan, Aiden            CGRF917M  1164  1177/ 84  W3  L1  W4  2.0
+  3 Xu, Zoe                CNHBG70A  1087  1072/ 52  L2  W4  L1  1.0
+  4 Condit, Alex           TLIDB04F  1083  1045/ 71  D1  L3  L2  0.5

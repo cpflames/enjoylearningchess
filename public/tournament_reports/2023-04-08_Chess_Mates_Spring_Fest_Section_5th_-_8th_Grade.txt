@@ -1,0 +1,38 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Shi, Gavin             ADDIH855  1522  1584/348  W16 W22 W4  W2  W7  5.0
+  2 Yondon, Odbayar        LMAEK97T  1628  1617/163  W6  W23 W11 L1  W9  4.0
+  3 Kuo, Tristan           KELI941B  1262  1280/279  W31 W14 W5  L7  W13 4.0
+  4 Shah, Kanav            LMAE295Q  1247  1271/ 71  WF  W25 L1  W24 W14 4.0
+  5 Cheng, Alan            CHREJ71K  1170  1186/ 89  W36 W28 L3  W15 W16 4.0
+  6 Xu, Alex               EMSG500U   982  1105/101  L2  W35 W30 W23 W11 4.0
+  7 Raja, Rian             CNCF786E  1278  1300/ 73  WF  W12 D9  W3  L1  3.5
+  8 Foltz, Karsten         HTNH306D  1253  1233/134  W18 D24 W20 L9  W19 3.5
+  9 Dhawan, Viraj          OVLGI96U  1189  1225/ 60  W19 W21 D7  W8  L2  3.5
+ 10 Balayoghan, Keeran     SPTF477N  1293  1243/ 64  W17 D20 D24 L14 W25 3.0
+ 11 Chan, Aiden            COGH917M  1195  1188/120  W26 W15 L2  W25 L6  3.0
+ 12 Kuo, Declan            KELGE82L  1107  1074/264  W32 L7  L19 W28 W29 3.0
+ 13 Lee, Justin            CNLG732V  1090  1067/ 29  L28 W36 W18 W17 L3  3.0
+ 14 Hughes, Weston         SMSHI26V  1005  1063/ 40  W29 L3  W28 W10 L4  3.0
+ 15 Venkatesan, Nimalan    VVMH701P  1002  1017/ 40  W30 L11 W32 L5  W23 3.0
+ 16 Black, Samuel          MNYH100B   947   946/ 89  L1  W32 W21 W33 L5  3.0
+ 17 Wei, Sarina            OVLGG09P   815   934/ 89  L10 W33 W22 L13 W24 3.0
+ 18 Helmstetter, Andre     THUFK60F   680   800/105  L8  W34 L13 W30 W22 3.0
+ 19 Branum, Luther         REGGK91C   572   845/ 10  L9  W29 W12 W20 L8  3.0
+ 20 Don, Alexander         BUSG958V  1035  1005/161  W37 D10 L8  L19 W27 2.5
+ 21 Howell, Carlos         SRTFK38Y   244   373/  9  BYE L9  L16 D35 W31 2.5
+ 22 Gao, Chenrui           TMBGK12A  1148  1073/ 67  W35 L1  L17 W32 L18 2.0
+ 23 Navneeth, Advik        RHJGH67D  1143  1089/ 46  W27 L2  W31 L6  L15 2.0
+ 24 Paglia, Leo            CELH705S  1061  1043/ 66  W33 D8  D10 L4  L17 2.0
+ 25 Konatham, Teja         BISGD47A  1020   992/197  W34 L4  W27 L11 L10 2.0
+ 26 Rasmussen, Braden      CURIK51A   621   569/ 10  L11 L30 W37 L29 W33 2.0
+ 27 Earhart, Tristan       MIEFK47Z   519   597/  8  L23 BYE L25 W31 L20 2.0
+ 28 Chougule, Adiraj       HEAGK23W   600   889/  5  W13 L5  L14 L12 W34 2.0
+ 29 Van Wingen, James      CSIFK23V   500   723/  5  L14 L19 W35 W26 L12 2.0
+ 30 Trela, Aiden           CSIFK23U   500   717/  5  L15 W26 L6  L18 W35 2.0
+ 31 Branum, Calvin         CSIFK91F   707   540/ 10  L3  W37 L23 L27 L21 1.0
+ 32 Morarity, Miles        CSIFK23T   500   546/  5  L12 L16 L15 L22 W37 1.0
+ 33 Graham, Gus            CSIFK23S   500   456/  5  L24 L17 W34 L16 L26 1.0
+ 34 Sandeep, Shreya        AUDFK23R   500   289/  5  L25 L18 L33 W37 L28 1.0
+ 35 Maragoud, Mukund       WEDFK91E   537   488/ 15  L22 L6  L29 D21 L30 0.5
+ 36 Spearman, Emery        FAPF101R   540   535/ 27  L5  L13 U   U   U   0.0
+ 37 Tran, Hayden           RIDFK23Q   500   100/  5  L20 L31 L26 L34 L32 0.0

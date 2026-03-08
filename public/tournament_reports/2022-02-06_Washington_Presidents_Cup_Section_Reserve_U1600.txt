@@ -1,0 +1,22 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Sankar, Abhay          LEOI6545  1495  1517/346  HPB W21 WF  HPB W6  4.0
+  2 Anandkumar, Haituka    STLH238P  1475  1502/276  W12 D9  D4  W13 W5  4.0
+  3 Han, Shuyi             SOMFK47W  1393  1407/253  W20 L6  W18 D4  W9  3.5
+  4 Saloranta, Leo         IMSIB40A  1261  1362/133  W19 D17 D2  D3  W11 3.5
+  5 Rundle, Alexander      ADUNH41P  1300  1653/  4  W8  W7  W6  HPB L2  3.5
+  6 Tran, Nugen            CDZH455Z  1473  1483/332  W14 W3  L5  W8  L1  3.0
+  7 Borate, Neel           REEF821E  1403  1394/200  W10 L5  L9  W20 W12 3.0
+  8 Pisan, Kai             CHYH404C  1465  1454/259  L5  W10 W20 L6  W13 3.0
+  9 Burgess, Ryan          ADUN6970  1276  1330/ 28  W15 D2  W7  D11 L3  3.0
+ 10 Fedorov, Vladimir      EVJHF17D  1090  1116/176  L7  L8  W19 W16 W18 3.0
+ 11 Shen, Lixing           CMCGC15C  1525  1475/461  D13 W16 HPB D9  L4  2.5
+ 12 Bharathy Mohan, Aarav  FRWDC98B  1164  1160/229  L2  D15 W21 W14 L7  2.5
+ 13 Zhang, Michael M.      MEDD668Q  1183  1191/397  D11 HPB W16 L2  L8  2.0
+ 14 Hopper, Taylor         ADUNE73X  1139  1088/ 10  L6  L20 W15 L12 W21 2.0
+ 15 Soukal, Martin         HSCIE76L   992   967/ 21  L9  D12 L14 D21 BYE 2.0
+ 16 Black, Stas            BCAD368F   839   872/ 43  BYE L11 L13 L10 W20 2.0
+ 17 Liu, Bichen            KKNFK00D  1471  1469/ 31  W18 D4  LF  U   U   1.5
+ 18 Vijeyanandh, Vishnu    TMBGF63Z  1130  1095/ 90  L17 W19 L3  HPB L10 1.5
+ 19 Ciani, Keith           ADUNG04B  1300   698/  3  L4  L18 L10 BYE HPB 1.5
+ 20 Shankaranand, Deeksha  EBSDI74Y  1200  1147/116  L3  W14 L8  L7  L16 1.0
+ 21 Schmidt, Karen K       ADUN3692   825   818/  7  HPB L1  L12 D15 L14 1.0

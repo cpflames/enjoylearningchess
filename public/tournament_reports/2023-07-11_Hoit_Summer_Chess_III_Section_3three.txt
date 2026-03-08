@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Peng, Ian              LYCJK06L   900  1189/  3  W2  W3  W4  3.0
+  2 Singh, Arshaan         HORIK22R   587   699/ 13  L1  W6  W5  2.0
+  3 Hall, Jorden           CIAEK36R   677   720/ 18  W4  L1  D6  1.5
+  4 Moors, Samuel          BLNIH93D   831   800/ 50  L3  W5  L1  1.0
+  5 Buckham, George        SKYBK37E   603   599/ 16  W6  L4  L2  1.0
+  6 Bannister, Cypress     EAGFK36L   726   652/ 23  L5  L2  D3  0.5

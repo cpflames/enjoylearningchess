@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Naik, Atreya           KMDIJ43X   769   892/  9  W2  W3  W4  3.0
+  2 Duseja, Ronit          TIMEA38H   786   813/ 63  L1  W4  W3  2.0
+  3 Yu, Kate               ENDI223A   856   809/ 48  W4  L1  L2  1.0
+  4 Sembium, Aditi         BCABK25W   762   605/  6  L3  L2  L1  0.0

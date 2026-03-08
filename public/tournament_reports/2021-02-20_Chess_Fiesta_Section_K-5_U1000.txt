@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wang, Derek            MEDCF70G  1138  1173/ 99  W6  W10 W2  W5  W4  5.0
+  2 Iyer, Suchir           NLMBA22D   698   841/ 20  W13 W9  L1  W11 W5  4.0
+  3 Gande, Akshath         SSMEG23R   632   837/ 16  L4  W8  W10 W9  HPB 3.5
+  4 Gulati, Naamya         FRWD649C   847   864/ 95  W3  W12 L5  W6  L1  3.0
+  5 Graceffo, Charlie      BLWFE39Q   567   697/ 64  WF  W7  W4  L1  L2  3.0
+  6 Li, Timothy            CRIEE29R   686   785/ 92  L1  W15 W7  L4  W9  3.0
+  7 Mitra, Rahul           OPWFH53N   736   717/141  W11 L5  L6  W14 W15 3.0
+  8 Sagar, Nikash          ELMEM801   886   821/ 19  L12 L3  BYE W15 W11 3.0
+  9 Veiga, Gabriel         ENSEJ31Y  1102   993/ 52  W14 L2  W12 L3  L6  2.0
+ 10 Zhen, Hongren          KIMFC02Z   768   710/ 98  W15 L1  L3  L12 BYE 2.0
+ 11 Doran, Nikhil          LKDCD27P   422   447/ 41  L7  BYE W14 L2  L8  2.0
+ 12 Barrenkala, Surya      EMDD238E   599   617/ 25  W8  L4  L9  W10 L13 2.0
+ 13 Nagamalla, Ashrith GuptBRHF563U   410   414/ 10  L2  L14 L15 BYE W12 2.0
+ 14 Lu, Ian                CRICE83J   673   602/117  L9  W13 L11 L7  HPB 1.5
+ 15 Anis Mohammed, Aashiq  FRWDJ63M   400   424/  8  L10 L6  W13 L8  L7  1.0

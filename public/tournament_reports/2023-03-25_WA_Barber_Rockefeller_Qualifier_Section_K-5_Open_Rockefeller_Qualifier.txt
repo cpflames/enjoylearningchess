@@ -1,0 +1,40 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Kona, Vidip            RSAEI26J  1975  1982/309  WF  W18 W5  W7  4.0
+  2 Wang, Ted              STTDK13D  1986  1989/246  W15 W12 W4  D3  3.5
+  3 Jammalamadaka, Vihaan  WPPFJ90F  1924  1933/348  W23 W13 W6  D2  3.5
+  4 Ren, Aaron             ENADG67B  1649  1666/141  W16 W21 L2  W18 3.0
+  5 Ramkumar, Nikhil       RBRF115E  1632  1648/222  W28 W14 L1  W20 3.0
+  6 Liu, Lucas             SOMFH33R  1613  1627/198  W33 W22 L3  W19 3.0
+  7 Merriman, Dann         EREDF79Y  1540  1570/524  W24 W26 W9  L1  3.0
+  8 Zhou, Yuchen           CHRDJ42H  1500  1486/528  L25 W38 W23 W24 3.0
+  9 Yondon, Odbayar        LMAEK97T  1701  1676/155  W32 W20 L7  D14 2.5
+ 10 Yadav, Arjun           MMEF664A  1562  1542/ 97  D17 W25 D11 D15 2.5
+ 11 Frederick, Benjamin    LAUFS57X  1509  1494/205  W38 D27 D10 D17 2.5
+ 12 Bharathy Mohan, Aarav  FRWEC98B  1484  1487/301  W29 L2  D16 W22 2.5
+ 13 Mohan, Vishnu          KKNEF41R  1473  1480/101  W30 L3  W28 HPB 2.5
+ 14 Bharadwaj, Samarth     DISCE78A  1416  1431/127  W35 L5  W25 D9  2.5
+ 15 Tie, Mike              ENDE856Y  1300  1326/ 81  L2  W29 W26 D10 2.5
+ 16 Shah, Kanav            LMAE295Q  1247  1305/ 57  L4  W30 D12 W27 2.5
+ 17 Xu, Zoe                SOMDG70A  1196  1338/245  D10 D19 W21 D11 2.5
+ 18 Cheng, Selina          THUF413R  1487  1487/449  W34 L1  W27 L4  2.0
+ 19 Meng, Miranda          OPWDH69P  1485  1472/109  HPB D17 W32 L6  2.0
+ 20 Saddi, Neevan Reddy    GRRDH87M  1450  1440/134  W31 L9  W33 L5  2.0
+ 21 Wong, Kate             BCAE459M  1450  1413/139  W39 L4  L17 WF  2.0
+ 22 Weng, Bright           BENC850P  1352  1338/ 59  W36 L6  W37 L12 2.0
+ 23 Avula, Guru Harshith ReBRHD633Y  1294  1296/ 88  L3  W34 L8  W37 2.0
+ 24 Rao, Atharv            SOMEB90T  1165  1174/ 47  L7  WF  W38 L8  2.0
+ 25 Chintalapudi, Srihaan  CNCF662W  1114  1216/110  W8  L10 L14 W32 2.0
+ 26 Maharaja, Imai         RKWCK34K   882   983/  8  BYE L7  L15 W33 2.0
+ 27 Singh, Anay            CDWEA69Y  1308  1289/ 26  W37 D11 L18 L16 1.5
+ 28 Li, Edgar              OPWC883Y  1219  1196/145  L5  W35 L13 D29 1.5
+ 29 Prabhu, Varun          HLYF329U  1035  1037/ 46  L12 L15 W39 D28 1.5
+ 30 Xiang, Lucas           SOMD761Z   995   986/ 63  L13 L16 W35 HPB 1.5
+ 31 Agrawal, Anay          CRKFE67A   926   932/ 53  L20 L32 D34 W39 1.5
+ 32 Joseph, Veronique      SJODJ04S  1266  1232/118  L9  W31 L19 L25 1.0
+ 33 Wang, Eric             BCAE803M  1199  1151/ 75  L6  W39 L20 L26 1.0
+ 34 Zhu, Kevin             CSMD865U  1112  1082/355  L18 L23 D31 D38 1.0
+ 35 Gatta, Aadya           ENSFK49R   436   432/ 22  L14 L28 L30 BYE 1.0
+ 36 Katipally, Rishan      SPTEK31N   400   931/  1  L22 LF  BYE LF  1.0
+ 37 Chong, Ezra            EASEK31K   400   882/  3  L27 BYE L22 L23 1.0
+ 38 Kakkad, Vayu           DCTCK50L  1138  1101/465  L11 L8  L24 D34 0.5
+ 39 Pantea, Zion           ABEDK63Y   592   537/  8  L21 L33 L29 L31 0.0

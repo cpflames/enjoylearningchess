@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Seth, Shreshth         SPTF268C  1495  1544/371  W3  W4  W2  3.0
+  2 Siddem, Sid            RHJHC34V  1554  1507/316  W4  L3  L1  1.0
+  3 Hawkins, Holden        TYEI383Z  1281  1284/311  L1  W2  L4  1.0
+  4 Saddi, Neevan Reddy    GRRBH87M  1235  1247/ 72  L2  L1  W3  1.0

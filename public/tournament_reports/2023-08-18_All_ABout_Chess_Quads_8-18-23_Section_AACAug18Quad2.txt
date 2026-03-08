@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Han, Spencer           HSCDK75L  1087  1092/109  W3  W4  D2  2.5
+  2 Juarez-caballero, CristSNIFD76Z   938   985/ 71  W4  W3  D1  2.5
+  3 Shimao, Alexander      GRRGG77V   722   735/ 56  L1  L2  W4  1.0
+  4 Bidasaria, Kush        PFCG357C   778   721/ 80  L2  L1  L3  0.0

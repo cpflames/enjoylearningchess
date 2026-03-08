@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ginotra, Karman        RKWDB15D   622   727/  9  W3  W4  W2  3.0
+  2 Mehrotra, Darsh        EINE240S   632   588/104  W4  L3  L1  1.0
+  3 Shaikot, Sabeer        ENSD147Q   547   529/ 65  L1  W2  L4  1.0
+  4 Su, Oliver             JINBD01U   518   506/  9  L2  L1  W3  1.0

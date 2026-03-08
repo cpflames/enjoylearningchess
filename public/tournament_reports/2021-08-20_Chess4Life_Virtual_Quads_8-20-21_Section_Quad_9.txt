@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tu, Derric             XXXFB77N   683   722/  9  L2  W4  W3  2.0
+  2 Amalo, Eliot           HSCG282X   669   709/ 12  W1  W3  L4  2.0
+  3 Agrawal, Sakash        CLHBC98H   768   714/ 57  W4  L2  L1  1.0
+  4 Mehrotra, Darsh        BCAD240S   584   587/ 88  L3  L1  W2  1.0

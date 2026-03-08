@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Bernadskiy, Vitaliy    ADINK11H  2460  2471/ 27  W5  W4  D3  D2  W11 W6  5.0
+  2 Shahinyan, David       ADINB96J  2578  2580/ 41  W7  HPB W11 D1  W4  D3  4.5
+  3 Aleksandrov, Aleksej   ADIN451G  2708  2703/ 17  W6  W8  D1  L4  W5  D2  4.0
+  4 Talukdar, Rohan        UNKMG44B  2402  2405/ 40  W9  L1  W5  W3  L2  W11 4.0
+  5 Tien, Sophie           LSSK6099  2037  2038/348  L1  W9  L4  W10 L3  BYE 3.0
+  6 Qian, Daniel           PFCJ7807  1872  1873/263  L3  D7  W8  D11 HPB L1  2.5
+  7 Li, Edward             TMBG768S  1743  1726/257  L2  D6  L10 BYE D9  D8  2.5
+  8 Boey, Chad             ADUN800V  1662  1661/ 15  BYE L3  L6  D9  D10 D7  2.5
+  9 Nallabothula, Varin    BCAH457A  1676  1676/317  L4  L5  BYE D8  D7  D10 2.5
+ 10 Cluff, Austin          ADUNI18T  1726  1724/  5  HPB L11 W7  L5  D8  D9  2.5
+ 11 Vega, Isaac            ADONW943  1897  1900/103  HPB W10 L2  D6  L1  L4  2.0

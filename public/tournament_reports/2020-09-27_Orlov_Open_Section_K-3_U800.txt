@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Sankrithi, Sarang      HSCBB11D   854   896/ 51  W5  L7  W2  W4  W3  4.0
+  2 Jayadevan, Neel        SCDD230P   673   805/ 24  W9  W6  L1  W7  W4  4.0
+  3 Sailer, Shaunak        SARDC25Z   400   802/  5  L4  W5  W8  W6  L1  3.0
+  4 Smith, Cole            DCTDH52J   752   765/ 81  W3  W10 W7  L1  L2  3.0
+  5 Jayadevan, Kunal       SCDA893P   400   735/  5  L1  L3  W9  W8  W7  3.0
+  6 Kakkad, Vayu           BRYBK50L   718   708/161  W11 L2  W10 L3  W9  3.0
+  7 Iyer, Suchir           NLMAA22D   400   663/  5  W8  W1  L4  L2  L5  2.0
+  8 Preiner, Naia          MIEC596Q   669   603/ 34  L7  BYE L3  L5  W10 2.0
+  9 Guity, Siovaun         UNKA251G   400   400/  5  L2  L11 L5  W10 L6  1.0
+ 10 Zhang, Kevin           SPTC809Y   530   422/ 12  BYE L4  L6  L9  L8  1.0
+ 11 Aldinger, Maksim       LCND227L   400   546/  2  L6  W9  U   U   U   1.0

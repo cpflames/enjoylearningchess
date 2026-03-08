@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Larcom, Korbin         CIADJ87V   576   677/ 18  W4  W2  W3  3.0
+  2 Chopra, Siya           SKYD153N   503   509/ 14  WF  L1  W4  2.0
+  3 Fine-gucker, Logan     EAGC535R   507   465/  8  LF  D4  L1  0.5
+  4 Manookin, Adam         HSCCF67L   427   400/ 18  L1  D3  L2  0.5

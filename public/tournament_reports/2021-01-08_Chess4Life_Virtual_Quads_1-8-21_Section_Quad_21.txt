@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Cheruku, Adhrith       SHSB827Q   400  1100/  3  W4  W2  W3  3.0
+  2 Vipin, Amol            RSAFB81R   500   717/  3  W3  L1  W4  2.0
+  3 Wang, Oscar            HSCBG77U   400   460/  6  L2  W4  L1  1.0
+  4 Kobayashi, Joe         XXXC119K   400   400/  3  L1  L3  L2  0.0

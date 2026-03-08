@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yuodelis, Kenneth      SOMH3681  1296  1397/348  W3  W4  W2  3.0
+  2 Zhang, Ethan (yichen)  CRIDG57B  1323  1340/117  W4  W3  L1  2.0
+  3 Karri, Aditya          AUDDC55V  1274  1259/124  L1  L2  W4  1.0
+  4 Dmitriev, Lyan         NPTD246H  1274  1214/298  L2  L1  L3  0.0

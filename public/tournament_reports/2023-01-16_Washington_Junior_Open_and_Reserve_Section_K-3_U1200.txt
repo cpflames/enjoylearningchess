@@ -1,0 +1,29 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Weng, Bright           BENC850P  1135  1295/ 50  W13 W12 W11 W8  W3  5.0
+  2 Raghunathan, Vidur     MCID878A  1148  1174/ 34  W19 L15 W13 W7  W10 4.0
+  3 Edwin, Elijah          BCSCC24D  1097  1145/ 65  W23 W25 W15 W6  L1  4.0
+  4 Chang, Caden           UCDC260J  1020  1089/ 84  W24 W27 L8  W12 W11 4.0
+  5 Liang, Wu              JIND620E  1000  1059/ 62  W27 W24 W25 L10 W8  4.0
+  6 Chaudhuri, Arihant     CHAD703E  1088  1100/144  W21 W26 D7  L3  W15 3.5
+  7 Dong, Daniel           MEDD396A   843  1065/ 39  W9  W14 D6  L2  W16 3.5
+  8 Yun, Daniel D          BCABK87Z  1180  1165/233  W18 W17 W4  L1  L5  3.0
+  9 Lan, Jonathan          OPWC968F  1070  1044/ 71  L7  L20 W24 W22 W19 3.0
+ 10 Mishra, Aakash         EBSD439K  1007  1014/ 69  L25 W23 W20 W5  L2  3.0
+ 11 Xiang, Lucas           CNHD761Z  1006  1014/ 55  W26 W21 L1  W27 L4  3.0
+ 12 Zhao, William          STTCH70M   950   997/ 38  W16 L1  W22 L4  W17 3.0
+ 13 Ghosh, Snehil          CBRD738T   937  1021/ 15  L1  W16 L2  W25 W18 3.0
+ 14 Han, Spencer           HSCDK75L  1100  1062/ 89  W20 L7  D19 L16 W24 2.5
+ 15 Zhang, Aaron           RSADC74T   887   958/ 59  W28 W2  L3  D19 L6  2.5
+ 16 Xu, Yang               CNCD649B  1153  1086/ 30  L12 L13 W21 W14 L7  2.0
+ 17 Hu, Yi-en Pi           BCACK35P   976   900/ 10  W22 L8  L27 W20 L12 2.0
+ 18 Li, Harry              SSSDG30G   957   913/240  L8  L22 W26 W23 L13 2.0
+ 19 Chaudhuri, Agnivesh    CHADB55V   941   944/140  L2  W28 D14 D15 L9  2.0
+ 20 Sembium, Aditi         BCACK25W   935   915/167  L14 W9  L10 L17 W27 2.0
+ 21 Ganesan, Vidur         RBRD940K   849   855/ 15  L6  L11 L16 W26 W25 2.0
+ 22 Tao, Gary              OPWCI76J   475   660/ 10  L17 W18 L12 L9  W23 2.0
+ 23 Su, Oliver             JINCD01U   873   815/ 75  L3  L10 W28 L18 L22 1.0
+ 24 Ge, Alex               SOMC908H   823   813/121  L4  L5  L9  W28 L14 1.0
+ 25 Vasamsetty, Chetan     SHFCJ38Y   810   799/ 20  W10 L3  L5  L13 L21 1.0
+ 26 Liu, Evan              CLHDC52M   802   774/ 15  L11 L6  L18 L21 W28 1.0
+ 27 Chaurasia, Ishi        HMNDK22B   778   769/ 77  L5  L4  W17 L11 L20 1.0
+ 28 Malugu, Sankalp        SHSDE95W  1095   915/248  L15 L19 L23 L24 L26 0.0

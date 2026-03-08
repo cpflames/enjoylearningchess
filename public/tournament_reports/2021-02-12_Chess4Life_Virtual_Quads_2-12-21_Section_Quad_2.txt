@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Boulis, Christos       RHJHC84T  1595  1608/415  W4  D2  WF  2.5
+  2 Meiyalagan, Ruban Sai  WLDED10L  1538  1566/121  D3  D1  W4  2.0
+  3 Yang, Alexander        CHRED81J  1652  1658/173  D2  W4  LF  1.5
+  4 Singh, Saket           DISH872S  1540  1493/188  L1  L3  L2  0.0

@@ -1,0 +1,42 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Merriman, Dann         WMNBF79Y  1592  1629/377  W6  W35 W13 W26 W32 5.0
+  2 Liu, Yuntao            STTD505Y  1373  1450/201  W26 W28 W32 W35 W25 5.0
+  3 Ning, Winston          SCDCJ14W   986  1084/ 92  W27 W8  W23 WF  W39 5.0
+  4 Zhang, Michael M.      MEDC668Q  1238  1255/368  W36 W17 WF  W27 D8  4.5
+  5 Kakkad, Vayu           BRYAK50L  1259  1283/284  W34 W14 L7  W9  W38 4.0
+  6 Compton, Jackson       HCHDL301  1194  1248/335  L1  W26 WF  W28 W37 4.0
+  7 Ghosh, Yohan           MEDCA67P  1251  1278/146  D10 W18 W5  W12 L9  3.5
+  8 Zhou, Yuchen           BCABJ42H  1357  1339/257  W20 L3  W15 W22 D4  3.5
+  9 Edmond, Alec           CSIBH03G  1105  1186/ 96  D16 W31 W12 L5  W7  3.5
+ 10 Shreeraam, Seshsasayee RSADD91F   400  1067/  7  D7  W29 L14 W24 W16 3.5
+ 11 Zhang, Shengxin        CAVD303G   797   987/ 22  W35 WF  W33 D32 L19 3.5
+ 12 Lin, Michael           BCABC97F  1484  1438/165  W18 W24 L9  L7  W14 3.0
+ 13 Cheng, Selina          THUD413R  1411  1397/212  W25 W33 L1  W19 L26 3.0
+ 14 Cui, Max               CBRC946C  1378  1344/149  W29 L5  W10 W38 L12 3.0
+ 15 Edmond, Ivy            WWDDD81E  1080  1084/152  D23 W30 L8  W17 D22 3.0
+ 16 Liang, Wen             JINBF53X   934   957/ 44  D9  W40 D24 W31 L10 3.0
+ 17 Sankrithi, Sarang      HSCBB11D   970   991/ 87  W39 L4  W22 L15 W27 3.0
+ 18 Look, Kaleo            HCHDN88S   905   923/ 76  L12 L7  W34 W29 W40 3.0
+ 19 Malugu, Sankalp        SHSBE95W  1270  1271/162  WF  W32 L26 L13 W11 3.0
+ 20 Dechert, Alex          HCHDP13V   857   880/ 30  L8  L22 W39 W36 W21 3.0
+ 21 Zhang, Yichen          OPWDH83U   896   851/ 52  L30 W23 W36 W39 L20 3.0
+ 22 Wang, Derek            MEDCF70G  1270  1212/118  W41 W20 L17 L8  D15 2.5
+ 23 Rajkumar, Roshan       LMADK47X   763   773/ 49  D15 L21 L3  W30 WF  2.5
+ 24 Vaiti, Anushka Eva     SCDD701T  1047  1019/ 80  W38 L12 D16 L10 W34 2.5
+ 25 Liang, Wu              JINB620E   960   988/ 43  L13 W37 W35 D33 L2  2.5
+ 26 Xiong, Michael         MEDC115A  1338  1332/ 95  L2  L6  W19 L1  W13 2.0
+ 27 Duseja, Ronit          TIMDA38H   484   568/ 26  L3  W39 W30 L4  L17 2.0
+ 28 Tian, Grace            CRIDE89L  1004  1011/107  L32 L2  W37 L6  W33 2.0
+ 29 Gulati, Naamya         FRWD649C   864   852/100  L14 L10 W40 L18 W31 2.0
+ 30 Shih, Kei              UCDA982C   400   643/  5  W21 L15 L27 L23 W36 2.0
+ 31 Ivanovic, Lena         UCDAK55K   810   778/166  W40 L9  W38 L16 L29 2.0
+ 32 Su, Alfred             EGBC929B  1415  1349/198  W28 L19 L2  D11 L1  1.5
+ 33 Ivanovic, Mina         UCDCH40V  1078  1012/321  W37 L13 L11 D25 L28 1.5
+ 34 Schechter, Evan        MEDD812M   465   493/ 14  L5  D38 L18 W40 L24 1.5
+ 35 Kim, Dylan             SCDCK38L  1107  1036/ 90  L11 L1  L25 L2  WF  1.0
+ 36 Subramanian, Vignesh   LKWC399T   400   400/  4  L4  WF  L21 L20 L30 1.0
+ 37 Sheldon, Jack          OPWD660X   488   478/ 27  L33 L25 L28 WF  L6  1.0
+ 38 Ma, Horace             CCDBD57Z   652   608/ 13  L24 D34 L31 L14 L5  0.5
+ 39 Guity, Siovaun         UNKA251G   400   400/ 15  L17 L27 L20 L21 L3  0.0
+ 40 Sharma, Seth           OPWDA26T   400   400/  9  L31 L16 L29 L34 L18 0.0
+ 41 Gandhi, Rihit          RSAD312E   400   400/  1  L22 LF  LF  LF  LF  0.0

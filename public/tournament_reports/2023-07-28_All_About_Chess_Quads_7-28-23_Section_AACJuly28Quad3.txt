@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mahale, Avneesh        CNHA993F   602   742/ 38  W4  W2  W3  3.0
+  2 Shimao, Alexander      GRRGG77V   658   671/ 48  W3  L1  W4  2.0
+  3 Abhilash, Lavina       SNIDK07R   469   479/ 13  L2  W4  L1  1.0
+  4 Naidu, Pranavi         BLMHC73S   614   522/ 35  L1  L3  L2  0.0

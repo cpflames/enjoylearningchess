@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pai, Vihaan            STVDK17C   846   854/ 12  D4  W6  W2  2.5
+  2 Kou, Ethan             GRRFF14X   684   723/ 28  W5  W3  L1  2.0
+  3 Chondolu, Vilok        XXXE522G   674   682/ 17  W6  L2  W4  2.0
+  4 Chan, Starling         MEDE148S   648   659/216  D1  W5  L3  1.5
+  5 Iroha, Kenzo           HSCDI18X   594   553/ 24  L2  L4  W6  1.0
+  6 Anand, Nitin           KKNA448J   400   400/  3  L3  L1  L5  0.0

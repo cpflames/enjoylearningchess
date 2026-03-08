@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Karthik, Sai           BCAC261S   718   753/ 50  L2  W4  W3  2.0
+  2 Ensz, Arlo             RHJGK62C   675   737/ 45  W1  L3  W4  2.0
+  3 Doronin, Victor        BMNF335T   671   735/ 48  W4  W2  L1  2.0
+  4 Sia, Brian             STTEE07F   799   694/ 29  L3  L1  L2  0.0

@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Kangvanwanich, ThanawinGPSKK99C  1183  1424/  8  W10 W17 W3  W2  4.0
+  2 Al-hakeem, Hasan       WVSMC84R  1504  1494/ 18  BYE W12 W4  L1  3.0
+  3 Carper, Jack           PULJG86W  1386  1382/160  W13 W14 L1  W5  3.0
+  4 Patterson, Ben         PDHKI54X  1371  1377/ 62  W11 W9  L2  W12 3.0
+  5 Celli, Victor          WVSM376J  1108  1184/ 14  W8  W13 W9  L3  3.0
+  6 Zgherea, Ben           CNYKK92X  1000  1259/  4  L9  W16 W12 W10 3.0
+  7 Nguyen, Thong          WVSLK92W  1100  1189/  4  W16 L10 W14 W11 3.0
+  8 Thacker, Andre         LWCLK92V  1100   962/  4  L5  W15 L10 W14 2.0
+  9 Granneman, Sarah       RGHMK92U  1200  1165/  4  W6  L4  L5  W16 2.0
+ 10 Nuss, Sean             LWCLK92T  1100  1206/  4  L1  W7  W8  L6  2.0
+ 11 Wadden, Asa            LWCJK92S   900  1010/  3  L4  BYE W13 L7  2.0
+ 12 Guest, Noah            CNYKK92R  1000   963/  4  W17 L2  L6  L4  1.0
+ 13 Poffenroth, Ryan       LWCLK92Q  1100   850/  4  L3  L5  L11 W17 1.0
+ 14 Norris, Meagan         LWCLK92P  1100   765/  4  W15 L3  L7  L8  1.0
+ 15 Langford, Lyle         RGRJK92N   900   489/  2  L14 L8  BYE U   1.0
+ 16 Tyler, Holden          LWCMK92M  1200   683/  4  L7  L6  D17 L9  0.5
+ 17 Fahsholtz, Ryan        LWCLK92L  1100   643/  4  L12 L1  D16 L13 0.5

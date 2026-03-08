@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bhattacharjee, ArchishmBLWEA45Y  1107  1199/ 85  W4  W3  W2  3.0
+  2 Xie, Michael           BLWE549C  1106  1121/201  W3  W4  L1  2.0
+  3 Zou, Ethan             WOBDI88K  1055  1034/182  L2  L1  W4  1.0
+  4 Singh, Aavir           REJI7910   966   915/ 86  L1  L2  L3  0.0

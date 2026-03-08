@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Karthik, Sai           BCAC261S   676   694/ 42  W4  W10 W3  L2  W6  4.0
+  2 Kandar, Aarav          FISCK21U   581   649/ 15  W5  W6  W8  W1  L3  4.0
+  3 Bradley, Otis          HSCDK12Z   300   695/  5  W13 W7  L1  W5  W2  4.0
+  4 Ng, Ethan              GRSBK12Y   100   432/  5  L1  W14 D7  W11 W8  3.5
+  5 Valenti, Ender         FMPDK12X   300   412/  5  L2  W12 W11 L3  W9  3.0
+  6 Ivanitski, Daniel      LLSCK12W   200   433/  5  W8  L2  W10 W9  L1  3.0
+  7 Cruz, Isaiah           FMPCK12V   200   292/  5  W12 L3  D4  L8  W14 2.5
+  8 Murphy, Pryor          FSECK16W   100   188/ 10  L6  W9  L2  W7  L4  2.0
+  9 Gorlachev, Isaac       HSCCK17A   100   131/ 10  W11 L8  W13 L6  L5  2.0
+ 10 Valenti, Jack          FMPBK12U   100   178/  5  W14 L1  L6  L12 W13 2.0
+ 11 Loos, Miley            HSCDK12T   300   141/  5  L9  W13 L5  L4  W12 2.0
+ 12 Del Duco, Sal          LLSDK12S   300   100/  5  L7  L5  D14 W10 L11 1.5
+ 13 Turudic, Raina         KLEBK12R   100   100/  5  L3  L11 L9  W14 L10 1.0
+ 14 Zalozh, Valentyn       FMPDK12Q   300   100/  5  L10 L4  D12 L13 L7  0.5

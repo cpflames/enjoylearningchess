@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 tot 
+  1 Willy, Stephen         MMEFH17K  1832  1841/409  W6  W9  W16 L2  W3  W10 W8  6.0
+  2 Cheng, Edward          WMSIC74W  1659  1720/288  W7  W5  D3  W1  D10 W8  W9  6.0
+  3 Park, Sean             INTJ600E  1653  1692/105  W10 W12 D2  W16 L1  W5  W11 5.5
+  4 Kamel, Yaseen          PFCID57L  1546  1534/118  L8  W14 D7  D9  L6  W13 W12 4.0
+  5 Nallappa, Vijay        ENSFD40S  1485  1481/255  W15 L2  W12 L8  WF  L3  W10 4.0
+  6 Shani, Ariel           INGKC76X  1484  1507/140  L1  W17 W11 L10 W4  L9  W14 4.0
+  7 Garine, Ujwal          REJHB99A  1468  1467/158  L2  W15 D4  W11 L8  D12 W18 4.0
+  8 Singhal, Palash        PLKIH323  1160  1392/125  W4  L16 W13 W5  W7  L2  L1  4.0
+  9 Wang, Mark             LOJIW31V  1570  1558/202  W18 L1  L10 D4  W14 W6  L2  3.5
+ 10 Shetty, Darsh          MISFZ40N  1465  1518/ 12  L3  W18 W9  W6  D2  L1  L5  3.5
+ 11 Razmov, Gabriel        CSIFC26K  1590  1523/110  L12 W13 L6  L7  W15 WF  L3  3.0
+ 12 Adams, Henry           GARKE729  1339  1365/ 81  W11 L3  L5  D17 W13 D7  L4  3.0
+ 13 Kovarik, Otto          LECFJ63V  1592  1502/ 47  D14 L11 L8  W18 L12 L4  W17 2.5
+ 14 Xie, Max               BLWGI185  1458  1398/293  D13 L4  L17 W15 L9  W18 L6  2.5
+ 15 Lu, Jacob              ENDFI11F  1070  1084/258  L5  L7  D18 L14 L11 W17 BYE 2.5
+ 16 Carman, Leif           RICKB289  1579  1572/250  W17 W8  L1  L3  LF  LF  U   2.0
+ 17 Kamath, Aditya         TMBHF78A  1186  1163/ 22  L16 L6  W14 D12 L18 L15 L13 1.5
+ 18 Kokati, Pranav         CHRF814P  1118  1117/155  L9  L10 D15 L13 W17 L14 L7  1.5

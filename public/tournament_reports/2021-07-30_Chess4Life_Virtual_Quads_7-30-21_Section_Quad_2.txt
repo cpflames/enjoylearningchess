@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, William          SOMG534J  1528  1558/148  W4  W3  D2  2.5
+  2 Jain, Arnav            OMSI7967  1512  1549/272  W3  W4  D1  2.5
+  3 Ying, Yiheng           MEDDE78K  1414  1410/258  L2  L1  W4  1.0
+  4 Singh, Saket           DISH872S  1484  1426/243  L1  L2  L3  0.0

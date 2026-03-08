@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Leiva, Gianmarco GiusepADINY230  2459  2466/  4  W5  W2  D4  W6  3.5
+  2 Aleksandrov, Aleksej   ADUN451G  2708  2707/ 11  W8  L1  W7  W4  3.0
+  3 Tien, Sophie           LSSK6099  1978  2021/328  D6  L7  W8  W5  2.5
+  4 Talukdar, Rohan        UNKMG44B  2402  2402/ 30  W9  D6  D1  L2  2.0
+  5 Gottumukkala, Ananth   ADUNG432  1985  1987/299  L1  W8  W9  L3  2.0
+  6 Tarjan, James          ADONL068  2469  2464/ 14  D3  D4  HPB L1  1.5
+  7 Shahinyan, David       ADINB96J  2566  2564/ 31  HPB W3  L2  U   1.5
+  8 Wolff, Gil             ADUN826F  2000  1977/  4  L2  L5  L3  W9  1.0
+  9 Wong-godfrey, Emerson  EXWHH83E  1573  1566/373  L4  BYE L5  L8  1.0

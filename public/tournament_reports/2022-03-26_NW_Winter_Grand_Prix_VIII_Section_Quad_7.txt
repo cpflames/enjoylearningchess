@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Grunhurd, Kekoa        CEEE597A   403   437/ 21  D4  W3  D2  2.0
+  2 Sargent, Jaxson        EAGED02C   400   402/  6  D3  D4  D1  1.5
+  3 Mcneil, Logan          SKYD535K   400   403/  3  D2  L1  W4  1.5
+  4 Manookin, Jared        HSCCD11V   400   400/ 18  D1  D2  L3  1.0

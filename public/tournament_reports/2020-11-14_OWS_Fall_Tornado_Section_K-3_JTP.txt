@@ -1,0 +1,42 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Edmond, Ivy            WWDDD81E  1173  1213/119  W15 W5  W18 W10 D3  4.5
+  2 Rastogi, Atharv        GRRD377H  1162  1194/ 20  W14 W24 W13 D3  W10 4.5
+  3 Deng, Stanley          CGMCK22E  1112  1156/ 52  W19 W4  W23 D2  D1  4.0
+  4 Edmond, Alec           LCNBH03G  1051  1062/ 58  W8  L3  W29 W9  W15 4.0
+  5 Compton, Jackson       HCHDL301  1126  1122/304  W16 L1  W28 W20 W14 4.0
+  6 Ning, Winston          SCDCJ14W   920   924/ 59  L11 W34 W35 W16 W12 4.0
+  7 Cheng, Selina          THUD413R  1295  1241/132  W17 L13 D8  W36 W11 3.5
+  8 Davenport, Raymond     SOMDD41L   567   713/ 15  L4  W39 D7  W29 W21 3.5
+  9 Li, Edgar              OPWA883Y   400   855/  5  D34 W40 W21 L4  W24 3.5
+ 10 Vaiti, Anushka Eva     SCDD701T  1031  1034/ 71  W20 W11 W12 L1  L2  3.0
+ 11 Huang, Kevin           SSSDC37U   565   816/ 15  W6  L10 W24 W13 L7  3.0
+ 12 Schoenfeld, Sam        OPWBB27K   400   840/  5  W31 W19 L10 W17 L6  3.0
+ 13 Lee, Caitlyn           SCDDB64L   818   857/ 54  W22 W7  L2  L11 W26 3.0
+ 14 Wang, Derek            MEDCF70G   780   803/ 81  L2  W29 W26 W18 L5  3.0
+ 15 Rackoff, Dylan         BLWD507J   732   763/ 62  L1  W26 W27 W23 L4  3.0
+ 16 Metzmaker, Kyren       OPWC430W   587   671/ 83  L5  W32 W25 L6  W23 3.0
+ 17 Mao, Ethan             LKEC388L   716   730/ 43  L7  W35 W22 L12 W25 3.0
+ 18 Suresh, Sahadev        SOMDB12V   524   612/ 35  W36 W38 L1  L14 W37 3.0
+ 19 Roach, August          EVGD109M   721   725/115  L3  L12 W39 W38 W27 3.0
+ 20 Gajcowski, Devin       BETCA94Z   678   684/ 76  L10 W25 W32 L5  D22 2.5
+ 21 Choi, Paige            EVGBD50E   584   579/ 28  W28 D36 L9  W30 L8  2.5
+ 22 Wang, Max              OPWD213G   400   559/  4  L13 BYE L17 W40 D20 2.5
+ 23 Cai, Sean              EVGCK35H   400   603/  5  W30 W37 L3  L15 L16 2.0
+ 24 Lekkala, Vihan         BLWD428L   986   915/ 94  W37 L2  L11 W39 L9  2.0
+ 25 Sunshine, Ari          EVGBE66A   400   511/  5  W27 L20 L16 W35 L17 2.0
+ 26 Lu, Yuexi              OPWDI47G   400   558/  5  W41 L15 L14 W33 L13 2.0
+ 27 Mccluskey, August      OPWCC01S   400   498/  5  L25 W31 L15 W34 L19 2.0
+ 28 Lan, Jonathan          OPWA968F   400   459/  5  L21 W41 L5  D31 D32 2.0
+ 29 Sheldon, Jack          OPWD660X   489   488/ 23  BYE L14 L4  L8  W41 2.0
+ 30 Chiang, Daniel         OPWBH33F   400   417/  5  L23 D33 W34 L21 D31 2.0
+ 31 Lewis, Isaac           SSSB520T   400   443/  5  L12 L27 W41 D28 D30 2.0
+ 32 Choi, Sydney           EVGBD34F   446   457/ 25  W39 L16 L20 D37 D28 2.0
+ 33 Wang, Jacob Z          BLWCE71A   400   400/  5  L35 D30 D38 L26 W36 2.0
+ 34 Wu, Aiden              EVGCD83L   557   515/ 27  D9  L6  L30 L27 W38 1.5
+ 35 Riel, Genevieve        OPWA916X   400   403/  5  W33 L17 L6  L25 D40 1.5
+ 36 Jiang, Mason           OPWBH66Y   400   400/  5  L18 D21 W40 L7  L33 1.5
+ 37 Padwalkar, Max         OPWD726T   681   581/ 32  L24 L23 BYE D32 L18 1.5
+ 38 Padwalkar, Nikhil      OPWBD83N   400   400/  5  D40 L18 D33 L19 L34 1.0
+ 39 Lin, Andrew            OPWAA33C   400   400/  4  L32 L8  L19 L24 BYE 1.0
+ 40 Huang, Lucas           BRHBC53E   400   400/  5  D38 L9  L36 L22 D35 1.0
+ 41 Junnarkar, Rishaan     NWDBJ95J   400   400/  4  L26 L28 L31 BYE L29 1.0

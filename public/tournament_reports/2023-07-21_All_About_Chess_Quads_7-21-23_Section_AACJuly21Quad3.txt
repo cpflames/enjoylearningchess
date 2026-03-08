@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Thanikonda, Kruti      RCSCK84W   674   767/ 65  W3  W4  D2  2.5
+  2 Bidasaria, Kush        APOG357C   623   748/ 71  W4  W3  D1  2.5
+  3 Shimao, Alexander      GRRGG77V   685   658/ 45  L1  L2  W4  1.0
+  4 Mahale, Avneesh        CNHA993F   687   602/ 35  L2  L1  L3  0.0

@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Cheng, Edward          WMSIC74W  1708  1719/204  W12 W4  W10 D2  W3  W5  5.5
+  2 Zhang, Bohan           EVJIE54S  1354  1511/ 19  W6  W3  W5  D1  L4  W9  4.5
+  3 Tran, Nugen            EVIG455Z  1401  1450/316  W9  L2  W12 W10 L1  W4  4.0
+  4 Marcelia, David        CPBLK21F  1395  1473/ 26  W11 L1  W14 W6  W2  L3  4.0
+  5 Babcock O'neill, TiarnaBAIJC703  1168  1307/ 75  BYE W13 L2  W8  D6  L1  3.5
+  6 Nallabothula, Varin    WPPH457A  1670  1622/336  L2  W7  W15 L4  D5  W14 3.5
+  7 Kamel, Yaseen          PFCID57L  1288  1354/ 73  D13 L6  L8  W15 W14 W10 3.5
+  8 Ross, Joe              WPPH8228  1514  1456/389  L10 W15 W7  L5  L9  W12 3.0
+  9 Wang, William          SOMG534J  1229  1257/116  L3  L12 BYE W14 W8  L2  3.0
+ 10 Saloranta, Leo         IMSHB40A  1265  1287/ 90  W8  W14 L1  L3  D11 L7  2.5
+ 11 Bharadwaj, Anish       ETSGI530  1177  1179/222  L4  BYE L13 W12 D10 L15 2.5
+ 12 Nallabothula, Vineesh  EBSE764Q  1353  1318/235  L1  W9  L3  L11 W15 L8  2.0
+ 13 Bushfield, Stuart      ADDIF350  1463  1435/343  D7  L5  W11 U   U   U   1.5
+ 14 Appalabattula, Samarth SSMFG06C  1454  1358/ 82  W15 L10 L4  L9  L7  L6  1.0
+ 15 Vankamamidi, Advaith   EVJI193M  1252  1209/102  L14 L8  L6  L7  L12 W11 1.0

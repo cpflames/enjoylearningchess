@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sreraman, Rahul        BCABJ42L   895   916/ 30  W3  D2  W4  2.5
+  2 Kuluru, Samith         KKNFI99K   708   730/ 35  W4  D1  L3  1.5
+  3 Stake, Charles         OESCM87Q   829   787/124  L1  L4  W2  1.0
+  4 Sumanaseni, Evan       CNHF876D   695   693/182  L2  W3  L1  1.0

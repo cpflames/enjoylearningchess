@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hawkins, Holden        TYEJ383Z  1046  1046/412  L3  W2  W4  2.0
+  2 Zhang, Ethan Yichen    CRIEG57B   905   920/224  W4  L1  D3  1.5
+  3 Sreraman, Rohit        BCABG92Q   880   902/ 14  W1  L4  D2  1.5
+  4 Taylor, Ryder          HPTI385C   992   956/144  L2  W3  L1  1.0

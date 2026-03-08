@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Goel, Darsh            SBOFR06Y  1076  1172/ 59  W4  W3  W2  3.0
+  2 Nidamarthi, Nikhil     RSAD375J  1047  1021/144  W3  L4  L1  1.0
+  3 Sreraman, Rohit        BCACG92Q  1018  1000/ 73  L2  L1  W4  1.0
+  4 Girroir, Arrow         ACNCQ003   997   984/ 17  L1  W2  L3  1.0

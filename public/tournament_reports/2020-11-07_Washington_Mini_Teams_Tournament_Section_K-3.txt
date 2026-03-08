@@ -1,0 +1,51 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Su, Alfred             EGBC929B  1268  1370/188  W7  W41 W18 W16 W31 5.0
+  2 Lin, Michael           BCABC97F  1506  1560/156  W19 W32 W15 W17 W30 5.0
+  3 Kapur, Viraaj          RSACA71K  1156  1306/ 83  W15 W19 W38 W35 W21 5.0
+  4 Zhang, Shengxin        CAVD303G   765   844/ 10  W27 W47 W49 BYE W42 5.0
+  5 Zhang, Michael M.      MEDC668Q  1266  1296/346  W34 W13 W14 D6  W20 4.5
+  6 Zhou, Yuchen           BCABJ42H  1404  1407/208  W50 W27 W20 D5  W14 4.5
+  7 Guduru, Agasthya       EMDC500V   827   979/ 15  L1  W42 W26 W31 W40 4.0
+  8 Kakkad, Vayu           BRYAK50L   791   815/189  W45 L14 W29 W46 W33 4.0
+  9 Sankrithi, Sarang      HSCBB11D   880   899/ 59  WF  L18 W36 W40 W49 4.0
+ 10 Fox-devol, Zachary     XXXEI93P   631   717/ 36  L14 W39 W40 W49 BYE 4.0
+ 11 Ma, Horace             CCDBD57Z   400   784/  4  BYE L22 W50 W43 W41 4.0
+ 12 Edmond, Alec           LCNBH03G  1057  1051/ 53  L16 W33 W28 D26 W36 3.5
+ 13 Ramkumar, Siddharth    LMAEH50B   916   940/120  W43 L5  W45 W18 D28 3.5
+ 14 Stein, Samuel          HSCDH03T  1106  1100/103  W10 W8  L5  W41 L6  3.0
+ 15 Shih, Bei              UCDC630G  1264  1285/183  L3  W44 L2  W23 W17 3.0
+ 16 Merriman, Dann         WMNBF79Y  1343  1315/330  W12 W26 W31 L1  L18 3.0
+ 17 Cui, Max               CBRC946C  1405  1387/128  W23 W24 W30 L2  L15 3.0
+ 18 Stein, Benjamin        HSCBB61S  1220  1204/109  W47 W9  L1  L13 W16 3.0
+ 19 Edmond, Ivy            WWDDD81E  1150  1173/114  L2  L3  W25 W32 W44 3.0
+ 20 Ivanovic, Lena         UCDAK55K   844   862/140  W33 W29 L6  W34 L5  3.0
+ 21 Malugu, Sankalp        SHSBE95W   990  1020/111  W37 W30 W44 L22 L3  3.0
+ 22 Zhang, Kyrene          NOWCC84Y  1076  1064/124  L44 W11 W35 W21 L23 3.0
+ 23 Tunuguntla, Sai SrithanEMDCK78V  1134  1163/112  L17 W48 W32 L15 W22 3.0
+ 24 Lekkala, Vihan         BLWD428L   974   986/ 89  W48 L17 W37 L30 W25 3.0
+ 25 Liang, Wu              JINB620E   400   791/  4  BYE W46 L19 W48 L24 3.0
+ 26 Louie, Leyton          UCDD880T   983   961/106  W39 L16 L7  D12 W45 2.5
+ 27 Godman, Kaysan         UCDDD89B   875   828/ 65  L4  L6  D34 W50 WF  2.5
+ 28 Liang, Wen             JINBF53X   400   624/  4  BYE L40 L12 W42 D13 2.5
+ 29 Metzmaker, Kyren       OPWC430W   596   587/ 78  D40 L20 L8  WF  W50 2.5
+ 30 Dmitriev, Lyan         NPTD246H  1233  1197/215  W35 L21 L17 W24 L2  2.0
+ 31 Ivanovic, Mina         UCDCH40V  1196  1138/294  W49 W36 L16 L7  L1  2.0
+ 32 Moghe, Arjun           UCDDA42C  1344  1278/ 78  W38 L2  L23 L19 W37 2.0
+ 33 Yu, Ada                FRWDI40N   452   526/ 11  L20 L12 W39 W47 L8  2.0
+ 34 Suresh, Sahadev        SOMDB12V   496   524/ 30  L5  D43 D27 L20 W46 2.0
+ 35 Zhao, George           CRKBA26L  1019   988/135  L30 W38 L22 L3  BYE 2.0
+ 36 Gajcowski, Devin       BETCA94Z   682   678/ 71  W46 L31 L9  W45 L12 2.0
+ 37 Tirunagari, Davershi   MEDCC56E   689   707/ 24  L21 BYE L24 W44 L32 2.0
+ 38 Rajkumar, Roshan       LMADK47X   857   841/ 42  L32 L35 L3  BYE W48 2.0
+ 39 Duseja, Ronit          TIMDA38H   511   484/ 21  L26 L10 L33 BYE W43 2.0
+ 40 Wolff, Tom             HKEAG70U   400   599/  5  D29 W28 L10 L9  L7  1.5
+ 41 Dodge, Katie           OPWB177V   400   400/  4  D42 L1  WF  L14 L11 1.5
+ 42 Brinckerhoff, Jack     SNIC341Q   400   400/  4  D41 L7  BYE L28 L4  1.5
+ 43 Pelley, Jackson        SNIDK61B   400   400/  4  L13 D34 BYE L11 L39 1.5
+ 44 Soin, Darsh            OPWD514V   795   785/ 59  W22 L15 L21 L37 L19 1.0
+ 45 Wang, Oscar            MEDD243H   400   400/  4  L8  BYE L13 L36 L26 1.0
+ 46 Wolff, Maya            HKECB05R   400   400/  5  L36 L25 W47 L8  L34 1.0
+ 47 Kamath, Abhay          RSABJ13S   400   400/  4  L18 L4  L46 L33 BYE 1.0
+ 48 Hofer, Aiden           SNIDE34C   665   620/ 34  L24 L23 BYE L25 L38 1.0
+ 49 Phaneesh, Saanvi       SSMB983M   600   551/ 19  L31 D50 L4  L10 L9  0.5
+ 50 Sakthivel, Oviya       CRKBG56A   513   474/ 22  L6  D49 L11 L27 L29 0.5

@@ -1,0 +1,43 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Pisan, Kai             CHYJ404C  1748  1817/429  W15 W20 W6  W9  4.0
+  2 Kuipers, Miles         TSTK6766  1753  1778/532  W35 D7  W19 W10 3.5
+  3 Chan, Skylor T         OMSID18J  1726  1761/287  W26 W23 D10 W12 3.5
+  4 Colombo, Dominic M     GIGLJ74P  1959  1945/ 31  W34 L14 W26 W13 3.0
+  5 Li, Melina             INMK5705  1734  1745/221  W25 W21 D12 D7  3.0
+  6 Patankar, Vijay        KMNIC78Y  1700  1722/239  W8  W24 L1  W23 3.0
+  7 Kandhare, Ojas         INTLJ90T  1591  1652/104  W39 D2  W11 D5  3.0
+  8 Demberel, Amana        LCOKJ14E  1509  1589/ 64  L6  W42 W21 W25 3.0
+  9 Wong-godfrey, Emerson  BUSJH83E  1768  1766/447  W30 D13 W14 L1  2.5
+ 10 Zhang, Iris            TMBI858X  1708  1714/353  W16 W36 D3  L2  2.5
+ 11 Verma, Darsh           WONGB52K  1653  1648/185  W27 D18 L7  W28 2.5
+ 12 Joshi, Atharva         SKNK1352  1646  1688/303  W17 W33 D5  L3  2.5
+ 13 Xu, Owen               SOMD896M  1638  1657/157  W31 D9  W18 L4  2.5
+ 14 Nallappa, Vijay        REJHD40S  1603  1637/353  W28 W4  L9  D16 2.5
+ 15 Wang, Leonardo         CKNG233K  1557  1571/ 34  L1  W37 D17 W31 2.5
+ 16 Cen, Evan              TYEHI97D  1531  1579/135  L10 W22 W20 D14 2.5
+ 17 Siddem, Sid            RHJJC34V  1471  1500/425  L12 BYE D15 W29 2.5
+ 18 Liu, Bichen            KKNGK00D  1341  1461/ 64  W22 D11 L13 W30 2.5
+ 19 Liu, Lucas             SOMFH33R  1634  1613/194  D32 W41 L2  D27 2.0
+ 20 Razmov, Gabriel        ADDHC26K  1610  1597/259  W37 L1  L16 W39 2.0
+ 21 Yondon, Odbayar        LMAEK97T  1600  1588/115  W38 L5  L8  W37 2.0
+ 22 Kato, Erik             OMSIG89L  1580  1556/ 21  L18 L16 W35 W40 2.0
+ 23 Marcelais, Kai         REDJA64J  1571  1568/160  W40 L3  W36 L6  2.0
+ 24 Zhou, Yuchen           CHRDJ42H  1554  1559/516  W29 L6  L28 W36 2.0
+ 25 Koripella, Teja        EALLG56Q  1549  1541/ 36  L5  W38 W40 L8  2.0
+ 26 Devadithya, Hiruna     ISSJ5494  1541  1550/695  L3  W39 L4  W38 2.0
+ 27 Gadde, Arnav           ENSEJ39D  1508  1531/122  L11 W34 D29 D19 2.0
+ 28 Subramanian, Thrinay   SPTH466R  1411  1458/105  L14 W35 W24 L11 2.0
+ 29 Suess, Wade            EVGH101D  1744  1691/289  L24 W32 D27 L17 1.5
+ 30 Yuodelis, Kenneth      NPRJ3681  1565  1531/411  L9  D31 W41 L18 1.5
+ 31 Mishra, Abhinav        TMBHB02W  1448  1449/ 70  L13 D30 W32 L15 1.5
+ 32 Bharathy Mohan, Aarav  FRWEC98B  1442  1432/270  D19 L29 L31 W41 1.5
+ 33 Chang, Eddie           INTL6270  2091  2071/191  W42 L12 U   U   1.0
+ 34 Merriman, Dann         EREDF79Y  1570  1534/495  L4  L27 L38 W42 1.0
+ 35 Seela, Shashank        EVJGI74N  1562  1508/188  L2  L28 L22 BYE 1.0
+ 36 Yadlapati, Arush       EVJIA47S  1498  1456/186  BYE L10 L23 L24 1.0
+ 37 Carper, Jack           PULJG86W  1390  1386/156  L20 L15 W42 L21 1.0
+ 38 Cheng, Selina          THUF413R  1403  1395/427  L21 L25 W34 L26 1.0
+ 39 Xu, Zoe                SOMDG70A  1385  1355/209  L7  L26 BYE L20 1.0
+ 40 Avula, Varshith Reddy  BRHG110R  1283  1258/179  L23 BYE L25 L22 1.0
+ 41 Avula, Guru Harshith ReBRHD633Y  1245  1220/ 74  BYE L19 L30 L32 1.0
+ 42 Borate, Neel           OMSG821E  1570  1504/244  L33 L8  L37 L34 0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xu, Zoe                CNHBG70A   840   868/ 20  W3  L2  W4  2.0
+  2 Mohan, Keshav          EGMGG24Z   915   894/ 35  L4  W1  D3  1.5
+  3 Hochberg, David        SUEI6075   897   881/ 94  L1  W4  D2  1.5
+  4 Emam, Aydin            PKRDK53A   712   723/ 21  W2  L3  L1  1.0

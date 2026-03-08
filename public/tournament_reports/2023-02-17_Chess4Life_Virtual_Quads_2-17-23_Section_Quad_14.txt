@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, Winston          NCHIP716   543   674/ 16  W2  W4  W3  3.0
+  2 Song, Oliver           HSCDF09J   255   343/ 57  L1  W6  W5  2.0
+  3 Susanto, Oliver        BLCIK65U   800   596/  3  W4  W5  L1  2.0
+  4 Ding, Ruichen          RKWFA89A   400   318/  8  L3  L1  W6  1.0
+  5 Srinivasa, Sanvi       TFEGK65T   600   232/  3  W6  L3  L2  1.0
+  6 Mandal, Ruhaan         NLADD75A   400   100/  5  L5  L2  L4  0.0

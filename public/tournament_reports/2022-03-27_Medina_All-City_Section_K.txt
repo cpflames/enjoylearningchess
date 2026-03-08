@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Gande, Avyukth         CCDAA87K   401   685/ 20  W8  W5  W7  W3  W2  5.0
+  2 Shih, Kei              UCDA982C   495   578/ 19  W11 W10 W3  HPB L1  3.5
+  3 Pan, David             MEDA330Y   767   710/ 18  W4  W7  L2  L1  W8  3.0
+  4 Sood, Prisha           MEDA846R   400   455/  4  L3  L6  BYE W7  W5  3.0
+  5 Mobin, Ayden           MEDAJ09U   400   400/  4  BYE L1  W9  W8  L4  3.0
+  6 Tracey, Mackenzie      MEDAA60E   400   437/  2  L7  W4  HPB HPB HPB 2.5
+  7 Urali, Vijay           MEDA919P   400   401/ 14  W6  L3  L1  L4  W9  2.0
+  8 Campos, Julieta        MEDA294F   400   400/  4  L1  D9  WF  L5  L3  1.5
+  9 Heo, Jake              MEDAK83N   400   400/  4  L10 D8  L5  BYE L7  1.5
+ 10 Yan, Ziqi              MEDA853N   400   400/  2  W9  L2  LF  U   U   1.0
+ 11 Nakazato, Isabella     MEDA118S   400   400/  1  L2  U   U   U   U   0.0

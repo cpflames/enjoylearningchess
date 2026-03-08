@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lewis, Theo            FERLK29P  1285  1328/ 64  W6  W5  W3  3.0
+  2 Love, Charles          SHMK458N  1149  1157/ 64  W8  L3  W6  2.0
+  3 Carpenter, Jonas       FERJ274G  1109  1166/ 38  W4  W2  L1  2.0
+  4 Peterson, Kylan        MRDL175Q  1038  1076/ 37  L3  W8  W5  2.0
+  5 Darr-rehmert, Natalie  FERMK93U  1079  1064/ 95  W7  L1  L4  1.0
+  6 Nagra, Joga            FACII02B  1071  1063/ 46  L1  W7  L2  1.0
+  7 Waters, Shawn          BLHKK63D  1032  1006/ 32  L5  L6  W8  1.0
+  8 Reiss, Madelyn         BLHLJ21Y  1062   987/ 31  L2  L4  L7  0.0

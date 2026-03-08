@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xie, Max               BLWHI185  1486  1525/342  W3  U   W2  2.0
+  2 Zhou, Yuchen           BCACJ42H  1490  1488/379  U   W3  L1  1.0
+  3 Xiong, Michael         MEDD115A  1459  1421/168  L1  L2  U   0.0

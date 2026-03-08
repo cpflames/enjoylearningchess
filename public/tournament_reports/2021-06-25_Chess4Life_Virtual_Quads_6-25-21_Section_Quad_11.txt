@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tsui, Ashleen          SCDD676C   464   558/108  W3  W2  U   2.0
+  2 Iroha, Kenzo           HSCCI18X   607   594/ 21  U   L1  W3  1.0
+  3 Eustis, Owen           SCDA195W   598   523/ 16  L1  U   L2  0.0

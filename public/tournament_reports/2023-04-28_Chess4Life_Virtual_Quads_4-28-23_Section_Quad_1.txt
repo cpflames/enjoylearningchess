@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Siddem, Sid            RHJJC34V  1653  1691/465  W4  W3  W2  3.0
+  2 Upreti, Parthavi       GTMG754L  1490  1484/193  W3  L4  L1  1.0
+  3 Kang, Ayaan            ENSFI60T  1543  1526/300  L2  L1  W4  1.0
+  4 Saddi, Neevan Reddy    GRRDH87M  1530  1516/153  L1  W2  L3  1.0

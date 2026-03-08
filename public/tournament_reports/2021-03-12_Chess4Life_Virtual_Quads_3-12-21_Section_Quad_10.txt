@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Stein, Benjamin        HSCBB61S  1038  1187/129  W4  W2  W3  3.0
+  2 Alam, Adil             BCAFI15X  1138  1154/136  W3  L1  W4  2.0
+  3 Evans, Thomas          HSCGK88J  1150  1115/ 33  L2  W4  L1  1.0
+  4 Nayak, Akshat          DCSG459S  1019   967/177  L1  L3  L2  0.0

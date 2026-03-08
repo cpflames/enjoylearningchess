@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zakonov, Pasha         BCAHJ63K  1124  1243/ 39  W4  W3  W2  3.0
+  2 Zhang, Ethan (yichen)  CRIDG57B  1153  1174/ 89  W3  W4  L1  2.0
+  3 Moore, Lucas           WEDDI48Z  1120  1102/ 65  L2  L1  W4  1.0
+  4 Kok, Bulut             LAVEE54B  1126  1059/138  L1  L2  L3  0.0

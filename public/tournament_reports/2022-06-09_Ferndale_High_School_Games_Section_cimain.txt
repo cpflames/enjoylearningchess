@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Trushkov, Max          FERJ616A  1435  1468/142  W7  W6  W6  W6  D4  4.5
+  2 Stanley, Soren         FERL116S  1233  1289/ 40  W6  W8  W5  U   U   3.0
+  3 Kozaczuk, James        SHKG108A  1121  1111/ 86  U   W5  U   U   D5  1.5
+  4 Aho, Billy             FERNE101  1407  1412/310  U   U   U   U   D1  0.5
+  5 Richardson, Alexander  FERK217M   826   833/ 34  U   L3  L2  U   D3  0.5
+  6 Reyna, Frankie         FERME23L  1279  1227/ 26  L2  L1  L1  L1  U   0.0
+  7 Lewis, Theo            FERKK29P  1222  1212/ 47  L1  U   U   U   U   0.0
+  8 Darr-rehmert, Natalie  FERLK93U  1106  1091/ 87  U   L2  U   U   U   0.0

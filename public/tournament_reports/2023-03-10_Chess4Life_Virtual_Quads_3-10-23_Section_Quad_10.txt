@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sailer, Shaunak        OPWFC25Z   771   869/195  W4  W3  W2  3.0
+  2 Currah, Elijah         BRKJ4624   706   737/ 16  W3  W4  L1  2.0
+  3 Bhat, Esha             PLKH674K   687   665/ 32  L2  L1  W4  1.0
+  4 Kuluru, Samith         KKNGI99K   640   573/146  L1  L2  L3  0.0

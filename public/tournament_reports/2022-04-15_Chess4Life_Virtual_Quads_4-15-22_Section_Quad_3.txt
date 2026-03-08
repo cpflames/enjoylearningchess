@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhou, Yuchen           BCACJ42H  1504  1540/441  W4  W3  W2  3.0
+  2 Stein, Samuel          HSCEH03T  1354  1380/208  W3  W4  L1  2.0
+  3 Sinha, Agastya         HSCCA75C  1339  1326/ 39  L2  L1  W4  1.0
+  4 Zhang, Aaron           CCDE873R  1311  1261/419  L1  L2  L3  0.0

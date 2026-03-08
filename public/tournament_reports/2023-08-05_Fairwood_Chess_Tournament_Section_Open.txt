@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ginotra, Karman        RKWDB15D  1103  1109/ 68  W11 W7  L3  W6  W2  4.0
+  2 Keane, Brendan         MAYHK04V   700  1162/  5  W5  W4  W8  W9  L1  4.0
+  3 Ahya, Vishnu           LDBIK04U   800  1148/  5  W14 D9  W1  D4  W5  4.0
+  4 Mai, Matthew           KENMK04T  1200   980/  5  W16 L2  W11 D3  W9  3.5
+  5 Le, David              HZNJK04S   900   906/  5  L2  W16 W7  W8  L3  3.0
+  6 Alem, Simon            RIDFK04Q   500   721/  5  W12 L8  W14 L1  W10 3.0
+  7 Mossyakova, Yana       PKWFK04P   500   715/  5  W13 L1  L5  W14 W16 3.0
+  8 Yohammes, Nathaniel    RENIK04N   800   831/  5  W10 W6  L2  L5  W11 3.0
+  9 Zimmers, Masa          NWDHK04M   700   780/  5  W15 D3  W12 L2  L4  2.5
+ 10 Hooser, Jake           NWDGK04L   600   389/  5  L8  L12 W16 W13 L6  2.0
+ 11 Neerukonda, Srikrishna DIMHK04K   700   640/  5  L1  W13 L4  W12 L8  2.0
+ 12 Vu, Cherry             RIDBK04H   100   388/  5  L6  W10 L9  L11 D15 1.5
+ 13 Hooser, Alexa          NWDFK04G   500   320/  5  L7  L11 W15 L10 D14 1.5
+ 14 Le, Pat                NWDGK04F   600   393/  5  L3  W15 L6  L7  D13 1.5
+ 15 Pham, Allison          KNDEK04E   400   229/  5  L9  L14 L13 W16 D12 1.5
+ 16 Prince, Lucie          THIFK04C   500   100/  5  L4  L5  L10 L15 L7  0.0

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sankrithi, Sarang      HSCBB11D   735   854/ 46  W6  D2  W3  2.5
+  2 Miller, Jackson        GATG301V   782   864/ 17  W5  D1  W4  2.5
+  3 Mills, Paxson          HSCEI32D   707   730/  9  W4  D6  L1  1.5
+  4 Lahue, Ihsan           GRRFJ69P   749   722/ 31  L3  W5  L2  1.0
+  5 Agarkar, Aarav         WDMGG17J   720   703/ 69  L2  L4  W6  1.0
+  6 Yang, Jimmy            BCACG45S   847   768/ 18  L1  D3  L5  0.5

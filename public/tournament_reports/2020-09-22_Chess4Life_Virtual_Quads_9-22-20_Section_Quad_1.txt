@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chan, Skylor T         MEDGD18J  1738  1719/227  W2  U   L3  1.0
+  2 Meyerzon, Daniel       OMSHJ242  1443  1467/346  L1  W3  U   1.0
+  3 Wolfe, Jaxon           HSCF335Z   500  1584/  2  U   L2  W1  1.0

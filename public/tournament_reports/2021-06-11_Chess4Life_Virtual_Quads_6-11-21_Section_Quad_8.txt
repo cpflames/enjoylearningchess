@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ren, Aaron             HSCBG67B  1121  1245/ 46  W3  W4  W2  3.0
+  2 Wang, Jacob            BLWDD74Y  1147  1172/128  W4  W3  L1  2.0
+  3 Kan, Kaleb             MMECF53E  1143  1121/159  L1  L2  W4  1.0
+  4 Yang, Jimmy            BCABG45S  1134  1067/ 78  L2  L1  L3  0.0

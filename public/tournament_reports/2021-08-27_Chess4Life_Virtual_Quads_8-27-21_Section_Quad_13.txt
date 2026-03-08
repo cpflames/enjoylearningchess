@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sharma, Kimaya         CRKB594S   400   905/  3  W2  W3  W4  3.0
+  2 Arvind, Sahana         ETSD332J   400   500/ 19  L1  W4  W3  2.0
+  3 Lin, Kaylee            SPTE982R   400   417/  6  W4  L1  L2  1.0
+  4 Bhat, Esha             DGHF674K   500   400/  3  L3  L2  L1  0.0

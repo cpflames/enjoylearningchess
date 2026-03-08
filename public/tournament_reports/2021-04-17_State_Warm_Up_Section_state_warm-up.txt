@@ -1,0 +1,22 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Carper, Jack           LINHG86W  1366  1383/112  W18 W8  W7  W4  L2  4.0
+  2 Wannamaker, Linus      IDXFY45B  1469  1472/ 58  W14 W10 L4  W7  W1  4.0
+  3 Deng, Stanley          CGMCK22E  1417  1418/113  W6  W11 L5  W9  W10 4.0
+  4 Reddy, Eshan           SGSF336Y  1339  1358/241  W15 W9  W2  L1  D5  3.5
+  5 Knapton, Cole          VHSII201  1356  1350/252  W20 L7  W3  W8  D4  3.5
+  6 Ritter, Levi           LINHC692   924  1038/ 72  L3  W20 D10 W12 W11 3.5
+  7 Johnson, Ben           STCN9693   940  1002/ 83  W21 W5  L1  L2  W16 3.0
+  8 Schoenberger, Joshua   SJVHJ73R   998  1018/249  W19 L1  W15 L5  W14 3.0
+  9 Brown, Malia           FRRK1512  1037  1040/328  W17 L4  W21 L3  W15 3.0
+ 10 Wang, Zihan            PPAGH97Y  1324  1288/215  W12 L2  D6  W18 L3  2.5
+ 11 Bai, Kelin             PVECD75J  1088  1050/108  W16 L3  D12 W13 L6  2.5
+ 12 Knapton, Joshua        VHSGH807   743   817/225  L10 W17 D11 L6  W18 2.5
+ 13 Lane, Brantley         FARC255D   826   804/ 67  HPB L14 W19 L11 W20 2.5
+ 14 Keener, Karl           OKSFY40G   865   849/ 42  L2  W13 L18 W17 L8  2.0
+ 15 Lanctot, Ethan         COBFA17V   872   851/103  L4  W16 L8  W21 L9  2.0
+ 16 Sun, Isabella          SIAHD46J   475   553/ 36  L11 L15 W20 W19 L7  2.0
+ 17 Moss, Silas            HDPB843D   400   458/  9  L9  L12 BYE L14 W21 2.0
+ 18 Moss, Solomon          HSCDH79G   912   871/ 41  L1  D19 W14 L10 L12 1.5
+ 19 Hopson, Jared          VLCCI39U   490   479/ 58  L8  D18 L13 L16 BYE 1.5
+ 20 Wang, Kelby            PVEA796Y   637   579/ 44  L5  L6  L16 BYE L13 1.0
+ 21 Bohanek, Logan         LBYF360Q   400   400/ 13  L7  BYE L9  L15 L17 1.0

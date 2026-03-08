@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chatterjee, Sasmit     RHJGH23M   911   943/  8  W5  W6  W4  3.0
+  2 Joshi, Vyom            LEOGH81X   600   794/  3  W4  D3  W6  2.5
+  3 Srivastava, Manya      FRWE758W   478   481/ 27  W6  D2  L5  1.5
+  4 Kundu, Ayush           XXXF245X   739   714/ 18  L2  W5  L1  1.0
+  5 Li, Chuling            CNHD567N   514   523/ 14  L1  L4  W3  1.0
+  6 Li, Chufei             CNHB389T   400   400/  3  L3  L1  L2  0.0

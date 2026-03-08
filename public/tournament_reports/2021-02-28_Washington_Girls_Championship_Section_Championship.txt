@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Tien, Sophie           LSSK6099  2018  2033/356  W6  W3  W2  W4  D5  4.5
+  2 Velea, Anne-marie      EALKK892  2095  2081/319  W4  W9  L1  W5  D3  3.5
+  3 Szeto, Sophie          LSSJH023  1801  1821/312  W10 L1  W7  W9  D2  3.5
+  4 Wang, Felicity         LMSHJ02F  1692  1717/247  L2  W6  W8  L1  W9  3.0
+  5 Zhang, Iris            RSAG858X  1581  1609/308  HPB W8  D9  L2  D1  2.5
+  6 Chen, Angela           ADDIB334  1590  1594/270  L1  L4  W10 W7  HPB 2.5
+  7 Deng, Grace            HHSK1468  1447  1438/234  L9  BYE L3  L6  W8  2.0
+  8 Huang, Lucia           MISDZ74Z   400  1335/  4  BYE L5  L4  W10 L7  2.0
+  9 Jammalamadaka, Varnika OVLGD216  1747  1713/398  W7  L2  D5  L3  L4  1.5
+ 10 Westover, Charlotte    WMEE365V  1432  1389/255  L3  HPB L6  L8  BYE 1.5

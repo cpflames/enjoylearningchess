@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Patnaik, Rishabhdeva   CRKCG72D   937  1082/ 43  W3  W2  W4  3.0
+  2 Chopra, Nikita         OMSH297H  1074  1078/  9  W4  L1  W3  2.0
+  3 Kakkad, Vayu           BRYAK50L   920   911/228  L1  W4  L2  1.0
+  4 Mitra, Rahul           OPWFH53N   932   868/127  L2  L3  L1  0.0

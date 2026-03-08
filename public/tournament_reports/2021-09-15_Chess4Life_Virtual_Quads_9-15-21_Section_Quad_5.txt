@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Praveen, Atharva       AUDEG14E  1242  1338/ 80  W4  W3  W2  3.0
+  2 Zhao, Dennis           CGRF525E  1227  1250/172  W3  W4  L1  2.0
+  3 Bhattacharjee, ArchishmBLWFA45Y  1211  1193/112  L2  L1  W4  1.0
+  4 Wahi, Advait           BLWF661F  1202  1140/ 93  L1  L2  L3  0.0

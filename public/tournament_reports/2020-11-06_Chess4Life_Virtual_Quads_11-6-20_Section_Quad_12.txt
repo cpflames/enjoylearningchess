@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Alam, Adil             BCAFI15X   796   936/ 95  W3  W2  W4  3.0
+  2 Ivanovic, Lena         UCDAK55K   816   844/135  W4  L1  W3  2.0
+  3 Ismail, Riaz           INGFE17V   810   784/ 29  L1  W4  L2  1.0
+  4 Zhu, Kevin             CSMB865U   777   705/135  L2  L3  L1  0.0

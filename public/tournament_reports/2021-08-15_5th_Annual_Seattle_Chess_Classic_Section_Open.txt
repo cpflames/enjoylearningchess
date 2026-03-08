@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 tot 
+  1 Talukdar, Rohan        MISMG44B  2424  2428/ 75  W4  W10 W3  W2  W7  D6  W5  W9  D8  8.0
+  2 Aleksandrov, Aleksej   ADIN451G  2708  2704/ 27  HPB HPB W5  L1  W9  W4  D3  W6  HPB 6.0
+  3 Dhulipalla, Bala ChandrADINY82Y  2205  2215/  8  W8  W9  L1  HPB HPB HPB D2  D4  W5  5.5
+  4 Tessiore, Luca         DCTEP42N  1732  1864/145  L1  W8  HPB W10 W5  L2  D6  D3  D9  5.0
+  5 Johar, Mudit           SKNLH59G  1783  1864/123  HPB W6  L2  W11 L4  W8  L1  W10 L3  4.5
+  6 Kulkarni, Ojas         ADUNY55V  2353  2266/ 18  D11 L5  D10 D8  BYE D1  D4  L2  D10 4.0
+  7 Tripodi, Matthew       ADINY24E  1300  1951/  5  L10 W11 HPB W9  L1  U   BYE D8  U   4.0
+  8 Ackerman, Ryan         ADUNC514  1932  1925/181  L3  L4  BYE D6  W10 L5  D9  D7  D1  4.0
+  9 Nicoski, Aaron         ADUN598C  1815  1836/ 72  BYE L3  W11 L7  L2  W10 D8  L1  D4  4.0
+ 10 Willy, Stephen         MMEFH17K  1856  1844/424  W7  L1  D6  L4  L8  L9  HPB L5  D6  2.5
+ 11 Toppen-ryan, Harrison  ADUNK815  1857  1829/214  D6  L7  L9  L5  U   U   U   U   U   0.5

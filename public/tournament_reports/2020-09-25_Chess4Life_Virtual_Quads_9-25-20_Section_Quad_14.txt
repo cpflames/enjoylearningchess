@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Budhraja, Jai          RSACA16E   571   714/ 20  W2  W3  W4  3.0
+  2 Mishra, Abhinav        WLDFB02W   544   592/ 10  L1  W4  W3  2.0
+  3 Rajeesh, Sourav        TBKE562H   537   519/ 21  W4  L1  L2  1.0
+  4 Li, Immanuel           MYHDF71N   573   484/ 14  L3  L2  L1  0.0

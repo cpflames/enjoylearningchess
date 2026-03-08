@@ -1,0 +1,27 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Khandelwal, Ayush      REEG897D  1410  1436/174  W16 W12 W13 WF  4.0
+  2 Wang, Evan             DISLH874   788  1114/ 17  WF  W10 W5  W8  4.0
+  3 Shaikot, Sabeer        ENSE147Q  1314  1374/167  W23 W18 D8  W11 3.5
+  4 Siddem, Sid            RHJJC34V  1528  1550/456  W7  W20 W11 LF  3.0
+  5 Kang, Danny            TYEIH30U  1400  1389/ 64  W21 W6  L2  W13 3.0
+  6 Raghavendra, Srihari   INGGH19D  1187  1214/ 47  W26 L5  W17 W15 3.0
+  7 Juluri, Hasini         OMSJ290Z  1105  1259/ 43  L4  W22 W19 W12 3.0
+  8 Meiyalagan, Ruban Sai  WLDGD10L  1679  1638/214  W14 W9  D3  L2  2.5
+  9 Sun, Yian              ENDE238S  1207  1204/ 61  W25 L8  D16 W18 2.5
+ 10 Kapur, Viraaj          RSAEA71K  1404  1338/114  L17 L2  W24 W21 2.0
+ 11 Mohan, Laya            LEOH617P  1366  1349/150  W22 W17 L4  L3  2.0
+ 12 Rajagopal, Rithesh     LMAF972Q  1202  1183/205  WF  L1  W21 L7  2.0
+ 13 Downs, Cole            TLTIK65V  1189  1205/ 18  WF  W19 L1  L5  2.0
+ 14 Mastrandrea, Matteo    TMSG538W  1162  1141/ 29  L8  W23 L18 W22 2.0
+ 15 Navneeth, Advik        RHJGH67D  1142  1143/ 41  L19 W25 W20 L6  2.0
+ 16 Maheshwari, Vihaan     DGHJ695W  1095  1124/ 92  L1  W24 D9  D19 2.0
+ 17 Ganji, Ayden           TLMGE62U   968  1078/ 40  W10 L11 L6  W20 2.0
+ 18 Wang, Ethan            BASFK40U   630   730/ 11  WF  L3  W14 L9  2.0
+ 19 Mohan, Vishnu          KKNEF41R  1480  1407/105  W15 L13 L7  D16 1.5
+ 20 Mcintyre, Isaac        ETSD466S  1209  1150/140  W24 L4  L15 L17 1.0
+ 21 Nidamarthi, Nikhil     RSAD375J   995   970/159  L5  W26 L12 L10 1.0
+ 22 He, Oliver             CRICK71V  1149  1103/155  L11 L7  W25 L14 1.0
+ 23 Yang, Eric             COGI113Z   909   865/ 37  L3  L14 W26 L24 1.0
+ 24 Pacquer, Traeger       THRI488C   812   841/ 11  L20 L16 L10 W23 1.0
+ 25 Ramakrishnan, Vihaan   REEH447V   800   782/ 19  L9  L15 L22 W26 1.0
+ 26 Sinha, Aarav           REEH886W   285   278/ 23  L6  L21 L23 L25 0.0

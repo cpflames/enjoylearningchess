@@ -1,0 +1,57 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bates-callaghan, EmmettBCSDJ49J  1208  1236/ 30  W22 W20 W15 W6  W4  5.0
+  2 Xu, Yang               CNCD649B  1102  1107/ 45  W44 W18 W8  D3  W9  4.5
+  3 Wang, Evan             FRWC929Z   839   942/ 65  W46 W53 W17 D2  W14 4.5
+  4 Zhao, William          STTCH70M   997  1007/ 43  W27 W26 W31 W7  L1  4.0
+  5 Larsen, Matthew        EVGC423L   849   827/ 41  W34 L21 W23 W32 W16 4.0
+  6 Zhang, Harvey          UCDB515V   826   854/ 20  W35 W13 W12 L1  W18 4.0
+  7 Qin, Jayden            EVGCB48Z   810   820/ 20  W56 W32 W21 L4  W19 4.0
+  8 Pan, Peng-ruei         SSMD759R   648   715/ 13  W39 W38 L2  W21 W17 4.0
+  9 Sabarish, Ananya       BCACG02Z   817   830/ 75  W28 W19 D11 W10 L2  3.5
+ 10 Kuo, Kyle              CLHD916E   650   733/ 10  W38 W28 W14 L9  D12 3.5
+ 11 Choi, Sydney           EVGDD34F   636   663/ 73  W54 W42 D9  L14 W29 3.5
+ 12 Lai, Austin            EVGBK94F   472   632/ 15  W51 W25 L6  W15 D10 3.5
+ 13 Sun-zhuang, Derek      EVGB123Q   459   537/ 10  W45 L6  D30 W34 W32 3.5
+ 14 Chang, Caden           UCDC260J  1089  1023/ 89  W33 W16 L10 W11 L3  3.0
+ 15 Sunshine, Ari          EVGDE66A   655   641/ 39  W49 W43 L1  L12 W34 3.0
+ 16 Suresh Balaji, Shri ThaSWRCK91T   600   621/ 25  W24 L14 W35 W22 L5  3.0
+ 17 Choi, Paige            EVGDD50E   589   600/ 82  W29 W23 L3  W33 L8  3.0
+ 18 Garfield, Eric         EVGDA55T   551   568/ 20  W47 L2  W36 W39 L6  3.0
+ 19 Wu, Jonathan           UCDBK14H   492   514/ 14  W48 L9  W49 W24 L7  3.0
+ 20 Demopulos, Alexander   EVGDF98Z   467   432/ 10  L42 L1  W50 W49 W35 3.0
+ 21 Yang, Andrew           NOWB575T   400   524/ 10  W41 W5  L7  L8  W37 3.0
+ 22 Tham, Lucas            EVGC984X   374   433/ 15  L1  W54 W40 L16 W39 3.0
+ 23 Hu, Elliott            CSID837H   278   389/ 14  W53 L17 L5  W41 W42 3.0
+ 24 Liu, Jayden            EVGBK54X   100   442/  5  L16 W56 W43 L19 W33 3.0
+ 25 Winter, Bowen          NBED948E   659   579/ 46  W37 L12 L34 D30 W36 2.5
+ 26 Bowermaster, Theo      EVGD375P   490   463/ 15  W55 L4  L39 D28 W46 2.5
+ 27 Karanam, Aadya         CHKCK84K   291   350/ 10  L4  L39 W38 W40 D30 2.5
+ 28 Liu, Adam              EVGCK54W   200   466/  5  L9  L10 W51 D26 W44 2.5
+ 29 Hanlon, Benjamin       LKDBK54U   100   356/  5  L17 D48 W44 W46 L11 2.5
+ 30 Pradeepkumar, Adrit    LKDBK54S   100   447/  5  W36 L31 D13 D25 D27 2.5
+ 31 Cook-bugaighis, RoubaixEVGDE61C   604   620/ 22  W50 W30 L4  U   U   2.0
+ 32 Badi, Shreya           MTWDK52A   480   468/ 25  W40 L7  W37 L5  L13 2.0
+ 33 Yee, Yara              EVGC520M   309   327/ 14  L14 W47 W42 L17 L24 2.0
+ 34 Soltani, Everett       WEDDK91N   269   357/ 10  L5  W41 W25 L13 L15 2.0
+ 35 Kaburaki, Olivia       EVGC846V   218   238/ 14  L6  W51 L16 W52 L20 2.0
+ 36 Wang, Chloe            EVGBK84J   180   196/  9  L30 W55 L18 WF  L25 2.0
+ 37 Armstrong, Benjamin    EVGCK54R   200   315/  5  L25 W45 L32 W43 L21 2.0
+ 38 Stock, Mason           EVGCK54Q   200   310/  5  L10 L8  L27 W51 W52 2.0
+ 39 Land, Kai              EVGCK54P   200   417/  5  L8  W27 W26 L18 L22 2.0
+ 40 Demopulos, Arianna     EVGBK54N   100   208/  5  L32 W50 L22 L27 W49 2.0
+ 41 Zhao, Kevin            EVGCK54M   200   218/  5  L21 L34 W54 L23 W50 2.0
+ 42 Zimmerman, Heath       BRYBK54K   100   317/  5  W20 L11 L33 W45 L23 2.0
+ 43 Luo, Vivian            LKDCK84U   375   271/ 10  W52 L15 L24 L37 D54 1.5
+ 44 Maragoud, Shriya       WEDBK84Q   309   253/ 10  L2  D46 L29 W54 L28 1.5
+ 45 Hedstrom, Elliot       WEDBK92C   220   182/ 14  L13 L37 W55 L42 D47 1.5
+ 46 Robinson, Semayor      EVGBK54H   100   186/  5  L3  D44 W48 L29 L26 1.5
+ 47 Moultray, Jordan       LKDBK54G   100   116/  5  L18 L33 D53 D48 D45 1.5
+ 48 Lakkaraju, Ari         EVGBK54F   100   103/  5  L19 D29 L46 D47 D55 1.5
+ 49 Anyanwu, Jayden        STKCK54D   200   106/  5  L15 W52 L19 L20 L40 1.0
+ 50 Kagoo, Yoshua Andres   LMABK54C   100   100/  5  L31 L40 L20 W55 L41 1.0
+ 51 Zhou, Daniel           WEDBK53Z   100   100/  4  L12 L35 L28 L38 BYE 1.0
+ 52 Kolsky, Ira            EVGBK53Y   100   100/  5  L43 L49 W56 L35 L38 1.0
+ 53 Ganta, Aadhya          EVGDA62Q   400   294/  7  L23 L3  D47 LF  U   0.5
+ 54 Hanlon, Eleanor        LKDBK53X   100   100/  5  L11 L22 L41 L44 D43 0.5
+ 55 Havril, Alex           LKDBK53W   100   100/  5  L26 L36 L45 L50 D48 0.5
+ 56 Sipos-cerf, Zuri       WEDBK53V   100   100/  3  L7  L24 L52 U   U   0.0

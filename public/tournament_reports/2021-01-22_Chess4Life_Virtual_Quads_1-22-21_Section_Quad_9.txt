@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chevuri, Tattva        CBRDC06V  1049  1084/150  W3  D4  D2  2.0
+  2 Stein, Samuel          HSCDH03T  1044  1082/115  W4  D3  D1  2.0
+  3 Rackoff, Dylan         BLWD507J  1056  1061/ 84  L1  D2  W4  1.5
+  4 Hawkins, Holden        TYEI383Z  1130  1067/165  L2  D1  L3  0.5

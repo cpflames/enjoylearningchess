@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Yiyang             BCAD700B  1177  1321/112  W4  W2  W3  3.0
+  2 Rines, Oliver          BRIFI303  1301  1312/177  W3  L1  W4  2.0
+  3 Kumarswamy, Adarsh     CHRF755Y  1202  1192/289  L2  W4  L1  1.0
+  4 Dmitriev, Lyan         NPTD246H  1266  1196/190  L1  L3  L2  0.0

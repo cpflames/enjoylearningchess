@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 tot 
+  1 Lee, Megan             ADUN8702  2321  2350/168  W4  W10 D8  W6  W7  W9  D5  W3  W2  8.0
+  2 Velea, Anne-marie      EALLK892  2183  2207/342  D8  W6  W7  W9  D5  D3  D10 D4  L1  5.5
+  3 Readey, John L         ADUNH932  2289  2281/  9  D6  W7  D9  D5  W10 D2  L4  L1  W8  5.0
+  4 Shubin, Daniel         EPSLF498  2227  2232/506  L1  W8  L6  D7  D9  D5  W3  D2  W10 5.0
+  5 Mahajan, Rushaan       SOLJK091  2253  2252/339  W7  W9  W10 D3  D2  D4  D1  L8  L6  5.0
+  6 Moroney, Timothy       ADUN276J  2234  2230/ 25  D3  L2  W4  L1  W8  W10 L7  L9  W5  4.5
+  7 Levine, Joseph         DAOJD260  2269  2243/243  L5  L3  L2  D4  L1  D8  W6  W10 D9  3.5
+  8 Liu, Austin            PLKH530J  2019  2048/287  D2  L4  D1  L10 L6  D7  W9  W5  L3  3.5
+  9 Jiang, Brandon         BLLJ7768  2132  2125/487  D10 L5  D3  L2  D4  L1  L8  W6  D7  3.0
+ 10 Pupols, Viktors        ADUN8503  2200  2162/ 22  D9  L1  L5  W8  L3  L6  D2  L7  L4  2.0

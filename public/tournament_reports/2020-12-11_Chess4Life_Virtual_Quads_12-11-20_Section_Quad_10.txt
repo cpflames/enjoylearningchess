@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yu, Christopher        SPTG591U   944  1016/123  W3  W4  D2  2.5
+  2 Ramkumar, Siddharth    LMAEH50B   901   998/136  W4  W3  D1  2.5
+  3 Achache, Enzo          XXXC308Q   951   892/  6  L1  L2  W4  1.0
+  4 Chan, Starling         MEDE148S   952   872/201  L2  L1  L3  0.0

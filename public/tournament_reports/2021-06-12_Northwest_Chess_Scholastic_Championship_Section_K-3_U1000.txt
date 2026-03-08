@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Yadatore, Neel         HSCBB76D  1119  1177/ 21  W3  W12 W8  W4  W6  5.0
+  2 Nistala, Ashrith Arjun MISCZ30Y   701   876/  5  W10 L5  W7  W8  W4  4.0
+  3 Vadher, Preash         MISB723A   637   824/ 10  L1  W18 W11 W9  W5  4.0
+  4 Navaneeth, Tejas       MISBZ41Y   721   848/ 10  W7  W6  W5  L1  L2  3.0
+  5 Li, Edgar              OPWA883Y   907   876/ 38  W17 W2  L4  W13 L3  3.0
+  6 Jayadevan, Neel        SCDD230P   948   929/ 60  W16 L4  W9  W12 L1  3.0
+  7 Gupta, Vyan            UNKB935D   400   733/  5  L4  W16 L2  W14 W13 3.0
+  8 Jayadevan, Kunal       SCDA893P   874   837/ 41  W15 W14 L1  L2  D10 2.5
+  9 Kamath, Abhay          RSABJ13S   642   664/ 22  W13 D11 L6  L3  W16 2.5
+ 10 Ong, Dylan             DCTB744T   400   675/  5  L2  W17 L12 W15 D8  2.5
+ 11 Devaraj, Abhinav       CHABJ80B   936   796/ 10  L14 D9  L3  W17 W12 2.5
+ 12 Chaurasia, Ishi        HMNBK22B   831   792/ 57  W18 L1  W10 L6  L11 2.0
+ 13 Konduru, Samrat        MISDZ40M   400   567/  5  L9  W15 W14 L5  L7  2.0
+ 14 Chandar, Aarav         MISBZ28B   400   558/  5  W11 L8  L13 L7  W17 2.0
+ 15 Navaneeth, Anuvrataa   MISDZ509   400   496/  5  L8  L13 W16 L10 W18 2.0
+ 16 Ramesh, Shyam          RIDCG41K   559   491/ 13  L6  L7  L15 W18 L9  1.0
+ 17 Balchandani, Akira     PKRAF67P   400   400/ 10  L5  L10 W18 L11 L14 1.0
+ 18 Bhaskarabhatta, Srikar MISCX58X   400   400/  5  L12 L3  L17 L16 L15 0.0

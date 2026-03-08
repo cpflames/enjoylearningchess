@@ -1,0 +1,25 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Sudhir, Aditya         CMCFI42N   905  1177/ 74  W17 W2  W7  W13 W3  5.0
+  2 Kovarik, Otto          LECFJ63V  1703  1674/ 32  W9  L1  W10 W8  W7  4.0
+  3 Nune, Rohan            LECFA83V  1076  1106/ 75  W12 W8  W14 W6  L1  4.0
+  4 Motkuri, Akshath       WBEF554U  1006  1020/ 65  W15 W18 L6  W9  W13 4.0
+  5 Kokati, Pranav         CHRF814P  1091  1080/134  W23 L7  W19 W14 W6  4.0
+  6 Ramos, Justin          BGLEA12M   932   971/ 39  W13 W16 W4  L3  L5  3.0
+  7 Van, Preston           CRPEG09Y   774   855/137  W24 W5  L1  W15 L2  3.0
+  8 Foltz, Karsten         MRIF306D   995   988/ 54  W21 L3  W11 L2  W15 3.0
+  9 Garg, Shlok            EMDE967U   729   753/ 17  L2  W24 W20 L4  W16 3.0
+ 10 Don, Alexander         MEDE958V  1106  1075/138  L18 W17 L2  W21 W14 3.0
+ 11 Sitani, Avik           GRRE320T   514   662/ 24  L16 W12 L8  W18 W22 3.0
+ 12 Hassan, Ahmad          CRPF714R   739   715/103  L3  L11 D17 W23 W20 2.5
+ 13 Perrin, Victor         LKDEF15C  1030   972/ 21  L6  W22 W18 L1  L4  2.0
+ 14 Zhang, Catherine       MEDE735K   834   815/ 58  W19 W20 L3  L5  L10 2.0
+ 15 Naidu, Pranavi         ENDFC73S   444   538/ 17  L4  W21 W16 L7  L8  2.0
+ 16 Scotece, Aven          LECE787W   656   639/ 59  W11 L6  L15 W19 L9  2.0
+ 17 Pheysey, Miles         CRPEI87H   400   723/  5  L1  L10 D12 W24 D18 2.0
+ 18 Lokaman, Anwar         MCUF883Q   731   724/ 86  W10 L4  L13 L11 D17 1.5
+ 19 Pheysey, Owen          CRPEE04H   400   493/  5  L14 W23 L5  L16 D21 1.5
+ 20 Rush, Tobin            LONFG28A   500   400/  4  BYE L14 L9  D22 L12 1.5
+ 21 Noah, Andrew           CRPFJ06V   500   485/  5  L8  L15 W24 L10 D19 1.5
+ 22 Schatz, Zoey           LONF505W   500   522/  4  U   L13 W23 D20 L11 1.5
+ 23 Zaragoza, Abel         MCUE103M   552   485/ 54  L5  L19 L22 L12 W24 1.0
+ 24 Espedal, Davin         MCGF615W   400   400/ 23  L7  L9  L21 L17 L23 0.0

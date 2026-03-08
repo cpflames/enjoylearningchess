@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Aaron           CCDD873R  1182  1271/216  W3  W4  L2  2.0
+  2 Sangal Lopez, Dev      WOBE515J  1352  1368/ 99  W4  L3  W1  2.0
+  3 Kang, Ayaan            ENSDI60T  1377  1387/187  L1  W2  W4  2.0
+  4 Xie, Edward            CMCDJ10T  1372  1300/ 81  L2  L1  L3  0.0

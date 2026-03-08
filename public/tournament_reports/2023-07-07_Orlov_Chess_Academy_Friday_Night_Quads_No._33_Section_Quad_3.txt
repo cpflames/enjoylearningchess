@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Corcoro, Levi          KKNCK14S   222   319/  9  W4  W3  W2  3.0
+  2 Kumar, Nilaksh         SPTDK06Y   300   176/  3  W3  D4  L1  1.5
+  3 Khantal, Reyansh       BCACK06X   200   100/  3  L2  L1  W4  1.0
+  4 Parikh, Advait         KKNDK07K   100   100/  6  L1  D2  L3  0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yang, James            SSME123B  1183  1307/114  W3  W2  W4  3.0
+  2 Kancherla, Rohan       GRRFC11M  1201  1206/274  W4  L1  D3  1.5
+  3 Xie, Max               BLWGI185  1233  1230/206  L1  W4  D2  1.5
+  4 Trochesset, David      ENSEG98F  1207  1142/ 22  L2  L3  L1  0.0

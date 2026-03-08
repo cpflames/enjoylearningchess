@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wilson, Lance          ROOM754B  1248  1302/  9  W3  W4  W5  3.0
+  2 Xu, Ethan              BENDK98S   647   708/  6  L4  W5  W6  2.0
+  3 Doronin, Victor        BMNF335T   628   740/ 17  L1  W6  W4  2.0
+  4 Vijayakrishnan, AchyuthPKRD646F  1295  1229/121  W2  L1  L3  1.0
+  5 Chaison, Asher         CPJHK92K   700   513/  3  W6  L2  L1  1.0
+  6 Wilson, Alexander      VIEEH91F   336   302/ 15  L5  L3  L2  0.0

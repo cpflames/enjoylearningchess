@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Urali, Sanjay          MEDD315D  1351  1356/207  W3  L2  W4  W5  W7  4.0
+  2 Xiao, David            MRPDA64Q  1098  1179/ 30  W8  W1  D5  W6  L3  3.5
+  3 Cheng, Selina          THUD413R  1109  1139/122  L1  W8  L6  W7  W2  3.0
+  4 Edmond, Alec           LCNBH03G   926  1057/ 48  L6  W7  L1  W8  W5  3.0
+  5 Edmond, Ivy            WWDDD81E  1141  1150/109  W7  W6  D2  L1  L4  2.5
+  6 Kapur, Viraaj          RSACA71K  1214  1156/ 78  W4  L5  W3  L2  L8  2.0
+  7 Tunuguntla, Sai SrithanEMDCK78V  1228  1134/107  L5  L4  W8  L3  L1  1.0
+  8 Blankenship, Ryan      LCND851M   839   850/ 53  L2  L3  L7  L4  W6  1.0

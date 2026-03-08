@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Guo, Yu Han Veronica   YORIX182   828  1366/ 19  W11 W8  W9  W2  W7  W3  6.0
+  2 Jammalamadaka, Varnika OVLGD216  1600  1656/378  W12 W7  W3  L1  W9  W8  5.0
+  3 Wang, Felicity         LMSHJ02F  1667  1642/238  W13 W6  L2  W8  W5  L1  4.0
+  4 Mok, Gillian           BCXHG31Y  1532  1525/ 13  W14 L9  W12 L5  W10 W7  4.0
+  5 Kaur, Jind             UNKFE61Z  1344  1365/ 25  L7  W10 D6  W4  L3  W11 3.5
+  6 Zhang, Sophie          UNKF338N   570   812/  5  BYE L3  D5  W11 L8  W12 3.5
+  7 Li, Melina             ADDI5705  1683  1635/199  W5  L2  W11 W9  L1  L4  3.0
+  8 Devaraju, Sonia        OMSIK838  1663  1605/446  W15 L1  W13 L3  W6  L2  3.0
+  9 Kaur, Aradh            UNKI805Q  1641  1597/ 16  W10 W4  L1  L7  L2  W14 3.0
+ 10 Westover, Charlotte    WMEE365V  1256  1254/218  L9  L5  W14 W12 L4  W13 3.0
+ 11 Danduprolu, Ridhi      UNKF299E  1167  1118/  5  L1  W15 L7  L6  BYE L5  2.0
+ 12 Sudhir, Isha           INGHJ81C  1229  1164/ 64  L2  BYE L4  L10 W14 L6  2.0
+ 13 Nagumalla, Nidhi       UNKH651R   948   957/  4  L3  W14 L8  WF  U   L10 2.0
+ 14 Nidadavolu, Haarika    RHJH910K   870   836/ 37  L4  L13 L10 BYE L12 L9  1.0
+ 15 Thakur, Reet           CWAEJ84K  1071  1041/214  L8  L11 BYE LF  U   U   1.0

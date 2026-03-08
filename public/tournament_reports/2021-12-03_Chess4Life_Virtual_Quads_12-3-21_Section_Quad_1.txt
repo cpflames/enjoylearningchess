@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Skkandann, Kiann       NPRK644M  1621  1731/ 19  W3  W2  W4  3.0
+  2 Willy, Stephen         HSCGH17K  1802  1798/443  W4  L1  W3  2.0
+  3 Seela, Shashank        SSMFI74N  1647  1618/116  L1  D4  L2  0.5
+  4 Boulis, Christos       RHJIC84T  1584  1566/514  L2  D3  L1  0.5

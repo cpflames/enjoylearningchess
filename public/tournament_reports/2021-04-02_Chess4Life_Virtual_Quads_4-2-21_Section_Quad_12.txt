@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ivanovic, Lena         UCDAK55K   869   944/175  W2  L4  W3  2.0
+  2 Hochberg, David        SUEI6075   855   938/ 85  L1  W3  W4  2.0
+  3 Kan, Kaleb             MMECF53E  1088  1029/130  W4  L2  L1  1.0
+  4 Wang, Ares             BMNCJ77J   950   926/ 79  L3  W1  L2  1.0

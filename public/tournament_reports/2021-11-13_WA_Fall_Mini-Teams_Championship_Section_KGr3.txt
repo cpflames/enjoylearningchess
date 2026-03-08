@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kakkad, Vayu           DCTBK50L  1225  1336/381  W6  W8  W9  W18 W16 5.0
+  2 Merriman, Dann         WMNCF79Y  1551  1602/424  W17 W5  W10 D7  W14 4.5
+  3 Lin, Michael           BCACC97F  1456  1461/200  W12 W13 L4  W11 W15 4.0
+  4 Ghosh, Yohan           MEDDA67P  1412  1427/166  W15 L12 W3  W13 W11 4.0
+  5 Yondon, Odbayar        LMADK97T  1633  1623/ 24  W7  L2  W14 D10 W17 3.5
+  6 Zhou, Yuchen           CHRCJ42H  1587  1529/370  L1  W16 W8  L9  W18 3.0
+  7 Bharadwaj, Samarth     DGHBE78A  1472  1481/ 55  L5  W14 D17 D2  W10 3.0
+  8 Wang, Derek            MEDDF70G  1275  1253/153  W18 L1  L6  W16 W9  3.0
+  9 Shankaranand, Deeksha  EBSDI74Y   759   862/ 79  W16 W18 L1  W6  L8  3.0
+ 10 Xiong, Michael         MEDD115A  1466  1459/166  W14 W17 L2  D5  L7  2.5
+ 11 Kan, Kaleb             BLWDF53E  1229  1214/202  L13 W15 W12 L3  L4  2.0
+ 12 Malugu, Sankalp        SHSCE95W  1281  1252/213  L3  W4  L11 W15 L13 2.0
+ 13 Zhang, Michael         CMCDD83W  1264  1212/ 10  W11 L3  L15 L4  W12 2.0
+ 14 Li, Edgar              OPWB883Y   913   963/ 55  L10 L7  L5  W17 L2  1.0
+ 15 Schoenfeld, Sam        OPWCB27K   790   836/ 24  L4  L11 W13 L12 L3  1.0
+ 16 Bolender, Elliot       XXXA719P   400   614/  5  L9  L6  W18 L8  L1  1.0
+ 17 Sankrithi, Sarang      HSCCB11D  1420  1351/123  L2  L10 D7  L14 L5  0.5
+ 18 Mehran, Tara           OPWDE56L   416   400/ 11  L8  L9  L16 L1  L6  0.0

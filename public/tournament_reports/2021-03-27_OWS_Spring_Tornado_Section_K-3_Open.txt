@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Edmond, Alec           CSIBH03G  1201  1395/106  W15 W6  W12 D4  W5  4.5
+  2 Xiong, Michael         MEDC115A  1293  1356/103  L3  W8  W16 W12 W4  4.0
+  3 Kim, Dylan             SCDCK38L  1093  1255/106  W2  L12 W7  D11 W9  3.5
+  4 Guo, Aaron             SOMD953W  1345  1355/204  W14 W18 W11 D1  L2  3.5
+  5 Urali, Sanjay          MEDD315D  1473  1467/261  W7  D16 W6  W13 L1  3.5
+  6 Liu, Yuntao            STTD505Y  1450  1430/206  W10 L1  L5  W14 W11 3.0
+  7 Choi, Hunter           EVGDE80A  1176  1198/142  L5  W19 L3  W17 W12 3.0
+  8 Sun, Yian              CRIC238S  1110  1137/ 44  L12 L2  W18 W19 W13 3.0
+  9 Wang, Derek            MEDCF70G  1184  1199/128  L11 W17 W14 W16 L3  3.0
+ 10 Ning, Winston          SCDCJ14W  1142  1160/102  L6  W15 L13 W18 W16 3.0
+ 11 Zhu, Aiden             LLSAC77X   400  1283/  5  W9  W13 L4  D3  L6  2.5
+ 12 Cheng, Selina          THUD413R  1352  1309/225  W8  W3  L1  L2  L7  2.0
+ 13 Malugu, Sankalp        SHSBE95W  1271  1232/167  W17 L11 W10 L5  L8  2.0
+ 14 Zhao, George           CRKBA26L  1103  1091/158  L4  W20 L9  L6  WF  2.0
+ 15 Singh, Jiyan           MISDD12J   826   891/ 26  L1  L10 L17 W20 W19 2.0
+ 16 Edmond, Ivy            WWDDD81E  1239  1190/162  W19 D5  L2  L9  L10 1.5
+ 17 Ramkumar, Siddharth    LMADH50B  1028   985/170  L13 L9  W15 L7  L20 1.0
+ 18 Zhang, Yichen          OPWDH83U   851   875/ 56  W20 L4  L8  L10 LF  1.0
+ 19 Zhang, Zhibo           CCDB674X   866   860/ 17  L16 L7  W20 L8  L15 1.0
+ 20 Kakkad, Vayu           BRYAK50L  1220  1085/295  L18 L14 L19 L15 W17 1.0

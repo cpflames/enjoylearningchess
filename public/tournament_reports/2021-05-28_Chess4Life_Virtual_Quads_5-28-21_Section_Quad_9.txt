@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zheng, Lucas           SOMB194Y   995  1062/ 63  W4  W3  W2  3.0
+  2 Xu, Zoe                CNHBG70A   876   880/ 31  W3  D4  L1  1.5
+  3 Tsai, Adam             DISFB02H   849   834/ 26  L2  L1  W4  1.0
+  4 Yin, Daniel            ISMJ116Y   832   794/ 90  L1  D2  L3  0.5

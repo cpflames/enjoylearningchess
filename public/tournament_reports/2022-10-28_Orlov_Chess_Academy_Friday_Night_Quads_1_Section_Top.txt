@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Olson, Travis          ADUN8893  1751  1755/ 63  BYE W2  W3  3.0
+  2 Evin, Terrick          EBSBC54L  1313  1327/ 47  W3  L1  BYE 2.0
+  3 Pai, Vihaan            CHADK17C  1241  1219/112  L2  BYE L1  1.0

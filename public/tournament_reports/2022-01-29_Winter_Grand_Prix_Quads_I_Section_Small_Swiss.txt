@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Burt, Colton           LYCF617Z   614   680/ 28  W4  W2  W3  3.0
+  2 Larcom, Korbin         CIADJ87V   400   502/  3  W5  L1  W6  2.0
+  3 Brecht, Philip         HSCD622L   400   400/  3  W6  D4  L1  1.5
+  4 Wayne, Daniel          CIADC75E   400   400/  3  L1  D3  D5  1.0
+  5 Cotter, Isaiah         CIADJ31H   400   400/  3  L2  D6  D4  1.0
+  6 Rivera, Carlos         EAGDG15V   400   400/  3  L3  D5  L2  0.5

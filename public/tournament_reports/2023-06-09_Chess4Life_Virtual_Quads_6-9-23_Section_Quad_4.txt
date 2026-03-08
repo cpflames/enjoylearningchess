@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Joshi, Vyom            LEOHH81X  1169  1177/162  W2  W4  L3  2.0
+  2 Tian, Eric             SOMEI80S  1104  1130/107  L1  W3  W4  2.0
+  3 Yin, Daniel            ISSL116Y  1078  1062/350  L4  L2  W1  1.0
+  4 Patel, Aarya           REEEK30E  1089  1070/ 35  W3  L1  L2  1.0

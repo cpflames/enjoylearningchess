@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Cottenier, Louis       DISF700P   981  1101/ 61  W4  W3  W2  3.0
+  2 Hawkins, Holden        TYEJ383Z   989  1014/393  W3  W4  L1  2.0
+  3 Taylor, Ryder          HPTI385C  1013   981/119  L2  L1  W4  1.0
+  4 Gonzales, Gabriel      XXXD694N  1023   835/  6  L1  L2  L3  0.0

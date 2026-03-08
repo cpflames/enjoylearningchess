@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Vijeyanandh, Vishnu    RSAGF63Z   885  1031/ 44  W3  W4  W2  3.0
+  2 Stake, Charles         OESCM87Q   924   898/ 56  L4  W3  L1  1.0
+  3 Yin, Daniel            ISMK116Y   968   930/129  L1  L2  W4  1.0
+  4 Rackoff, Dylan         BLWE507J   853   847/147  W2  L1  L3  1.0

@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Balaji, Sidharth       CMCFC22H   626   883/  9  W5  W12 W2  W3  W4  5.0
+  2 Joseph, Veronique      SJOCJ04S   695   737/ 51  W10 WF  L1  W12 W5  4.0
+  3 Kossuri, Neil          KKNE696L   870   873/ 28  W11 W13 W4  L1  W8  4.0
+  4 Xuan, Amy              CSIBH95V   696   688/ 32  W9  W8  L3  WF  L1  3.0
+  5 Hu, Ryan               SOMBE02G   400   667/  5  L1  W14 W7  W8  L2  3.0
+  6 Talathi, Soha          TIMBI70Y   400   556/  5  L8  L9  W10 W7  W12 3.0
+  7 Tyagi, Ananya          MEDCG07Y   583   526/ 39  L13 W10 L5  L6  W14 2.0
+  8 Su, Oliver             JINBD01U   494   521/ 53  W6  L4  W13 L5  L3  2.0
+  9 Sankrithi, Vivaan      HSCAK61R   433   406/ 13  L4  W6  L12 WF  L10 2.0
+ 10 Zhen, Liam             ISEA622V   475   456/ 28  L2  L7  L6  W14 W9  2.0
+ 11 Angadi, Yashika        GRRF732U   400   424/ 43  L3  BYE W14 LF  U   2.0
+ 12 Viswanathan, Sara      BCABD04A   400   492/  5  W14 L1  W9  L2  L6  2.0
+ 13 Gupta, Akshay          BCAAF62T   400   499/  3  W7  L3  L8  LF  U   1.0
+ 14 Jain, Anvay            EBSE874Z   455   400/ 13  L12 L5  L11 L10 L7  0.0

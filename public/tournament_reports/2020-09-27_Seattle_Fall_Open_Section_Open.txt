@@ -1,0 +1,22 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Shahinyan, David       ADINB96J  2567  2566/ 29  W7  W11 W8  D2  W3  4.5
+  2 Sarja, Sriram          ADINY40Z  2341  2346/  5  W5  W10 W13 D1  D6  4.0
+  3 Sairam, Pranav         UNKI795Z  1990  2041/ 10  W21 W12 W6  W8  L1  4.0
+  4 Tien, Sophie           LSSK6099  1962  1978/324  W19 L6  W12 W13 W10 4.0
+  5 Wan, Bertrand          TYEJK421  1864  1884/187  L2  WF  W15 W14 W13 4.0
+  6 Talukdar, Rohan        UNKMG44B  2402  2396/ 26  W20 W4  L3  W7  D2  3.5
+  7 Gottumukkala, Ananth   ADUNG432  1966  1985/295  L1  W15 W11 L6  W12 3.0
+  8 Huang, Patrick         FRHKX330  2046  2038/ 18  W15 W9  L1  L3  WF  3.0
+  9 Wohl, Jeremy           ADUN311L  1522  1644/  5  W18 L8  L10 W17 W16 3.0
+ 10 Wu, William            UNKHJ80N  1876  1870/  8  WF  L2  W9  WF  L4  3.0
+ 11 Vijayakumar, Advaith   LEOI6655  2017  2005/235  WF  L1  L7  W21 HPB 2.5
+ 12 Boey, Chad             ADUN800V  1640  1662/ 10  W16 L3  L4  W20 L7  2.0
+ 13 Wong-godfrey, Emerson  EXWHH83E  1550  1573/370  BYE W17 L2  L4  L5  2.0
+ 14 Bunch, Drew            BAIKG36D  1771  1742/ 73  D17 L18 D16 L5  BYE 2.0
+ 15 Johar, Mudit           SKNLH59G  1673  1676/ 89  L8  L7  L5  BYE W20 2.0
+ 16 Ingram, Richard        BCXNX611  1552  1561/ 25  L12 D21 D14 W19 L9  2.0
+ 17 Ren, Jesse             UNKF237R  1857  1810/  5  D14 L13 D20 L9  W21 2.0
+ 18 Lee, Brian             WFWMA904  1877  1863/218  L9  W14 WF  U   U   2.0
+ 19 Singh, Aditya          LSSL8559  1612  1592/442  L4  D20 HPB L16 HPB 1.5
+ 20 Bloom, Corey           ADUN166W  1762  1718/ 16  L6  D19 D17 L12 L15 1.0
+ 21 Wang, Felicity         LMSHJ02F  1690  1664/232  L3  D16 HPB L11 L17 1.0

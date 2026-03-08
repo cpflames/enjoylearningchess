@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Edmond, Ivy            WWDDD81E  1188  1213/187  W4  L3  W2  2.0
+  2 Bar, Nathan            AUDB368C  1248  1234/ 90  D3  W4  L1  1.5
+  3 Kan, Kaleb             MMECF53E  1177  1182/153  D2  W1  L4  1.5
+  4 Kok, Bulut             LAVEE54B  1164  1149/166  L1  L2  W3  1.0

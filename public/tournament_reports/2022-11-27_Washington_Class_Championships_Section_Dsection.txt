@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Mishra, Abhinav        TMBHB02W  1335  1460/ 65  WF  W16 D2  W14 W12 W9  5.5
+  2 Singh, Balbir          ADUNK95S  1371  1426/ 11  W20 W7  D1  D12 D9  W10 4.5
+  3 Burchall, Laurion      ADUNI92H  1327  1349/ 21  D22 W17 D12 D5  W14 D8  4.0
+  4 Fedorov, Vladimir      EVJIF17D  1358  1390/214  W8  W21 L14 D7  W6  HPB 4.0
+  5 Weller, Stephen F      ADUN6094  1234  1279/ 30  D11 L19 BYE D3  W21 W12 4.0
+  6 Cummins, William       SMSHJ26R  1248  1301/ 22  HPB D11 W19 D10 L4  W18 3.5
+  7 Vashisht, Aneesh       LKWEC30Y  1321  1347/ 77  W9  L2  W21 D4  L10 W15 3.5
+  8 Li, Zerui              LMSHA45S  1275  1303/ 56  L4  D13 D20 W16 W11 D3  3.5
+  9 Buchignani, Paul J     ADUN9905  1382  1382/  6  L7  W20 W16 W11 D2  L1  3.5
+ 10 Bharadwaj, Samarth     DGHCE78A  1342  1346/106  W23 L12 W15 D6  W7  L2  3.5
+ 11 Dale, Luke             MTSJJ10P  1308  1304/ 74  D5  D6  W23 L9  L8  W21 3.0
+ 12 Xu, Zoe                SOMDG70A  1200  1264/197  W19 W10 D3  D2  L1  L5  3.0
+ 13 Siddem, Sid            RHJJC34V  1375  1339/417  L21 D8  D18 D23 D15 W22 3.0
+ 14 Shuman, Steve          ADUNF29Y  1390  1394/ 15  LF  W18 W4  L1  L3  W17 3.0
+ 15 Saloranta, Leo         MCRJB40A  1243  1238/153  HPB W22 L10 HPB D13 L7  2.5
+ 16 Raula, Aayaan          EALJ477L   900  1176/  5  W18 L1  L9  L8  BYE D19 2.5
+ 17 Bharadwaj, Anish       WPPII530  1196  1180/282  BYE L3  L22 D19 W20 L14 2.5
+ 18 Huang, Emily           OMSGB39A  1356  1297/266  L16 L14 D13 BYE W23 L6  2.5
+ 19 Vutukuri, Adhrith      REJI326L  1315  1270/ 46  L12 W5  L6  D17 D22 D16 2.5
+ 20 Boddy, Kyle            ADUNH98N  1294  1234/  9  L2  L9  D8  HPB L17 WF  2.0
+ 21 Yang, Harry            TLMII123  1330  1286/263  W13 L4  L7  W22 L5  L11 2.0
+ 22 Smith, Andrew          ADUN6334  1249  1218/ 23  D3  L15 W17 L21 D19 L13 2.0
+ 23 Vijeyanandh, Vishnu    TMBHF63Z  1257  1206/142  L10 BYE L11 D13 L18 LF  1.5

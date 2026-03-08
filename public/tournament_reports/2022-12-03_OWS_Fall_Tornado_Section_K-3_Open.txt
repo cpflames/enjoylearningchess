@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Saddi, Neevan Reddy    GRRDH87M  1409  1466/103  W15 W4  W5  W11 W7  5.0
+  2 Li, Edgar              OPWC883Y  1213  1215/115  D13 W17 D8  W12 D4  3.5
+  3 Joseph, Veronique      SJODJ04S  1187  1200/ 95  W22 W21 HPB L7  W11 3.5
+  4 Sankrithi, Sarang      HSCDB11D  1160  1205/181  W10 L1  W21 W5  D2  3.5
+  5 Edwin, Elijah          BCSCC24D  1147  1159/ 57  W16 W14 L1  L4  W17 3.0
+  6 Liang, Wen             JINDF53X  1225  1183/ 58  L21 W20 D15 W14 D9  3.0
+  7 Kakkad, Vayu           DCTCK50L  1214  1205/438  L17 W18 W16 W3  L1  3.0
+  8 Xu, Yang               CNCD649B  1151  1153/ 25  W18 D11 D2  L9  W16 3.0
+  9 Bates-callaghan, EmmettBCWDJ49J  1149  1127/ 10  D20 L13 W17 W8  D6  3.0
+ 10 Cheruku, Adhrith       RCSD827Q   871   944/ 62  L4  L16 W22 W21 W15 3.0
+ 11 Zhang, Zhibo           SOMD674X  1254  1231/ 61  W12 D8  W13 L1  L3  2.5
+ 12 Chang, Caden           UCDC260J  1007  1020/ 79  L11 W19 W14 L2  D13 2.5
+ 13 Liang, Wu              JIND620E   896  1000/ 57  D2  W9  L11 D15 D12 2.5
+ 14 Chaudhuri, Arihant     CHAD703E  1079  1032/136  W19 L5  L12 L6  W20 2.0
+ 15 Lin, Annan             THODC02D  1041  1022/ 24  L1  W22 D6  D13 L10 2.0
+ 16 Pan, David             MEDB330Y   975   980/ 42  L5  W10 L7  W18 L8  2.0
+ 17 Chaudhuri, Agnivesh    CHADB55V   914   941/135  W7  L2  L9  W19 L5  2.0
+ 18 Larsen, Matthew        EVGC423L   835   849/ 36  L8  L7  W20 L16 W22 2.0
+ 19 Wu, Dennis             SCDCJ54B   756   761/106  L14 L12 BYE L17 W21 2.0
+ 20 Vasamsetty, Chetan     SHFCJ38Y   812   810/ 15  D9  L6  L18 W22 L14 1.5
+ 21 Lan, Jonathan          OPWC968F   936   900/ 63  W6  L3  L4  L10 L19 1.0
+ 22 Kakarlapudi, Sreeram MuMEDD687Z   894   728/ 10  L3  L15 L10 L20 L18 0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Stein, Samuel          HSCDH03T  1051  1185/127  W3  W2  W4  3.0
+  2 Chan, Aiden            CGRF917M  1114  1132/ 70  W4  L1  W3  2.0
+  3 Hawkins, Holden        TYEI383Z  1082  1060/239  L1  W4  L2  1.0
+  4 Chevuri, Tattva        CBRDC06V  1048   985/180  L2  L3  L1  0.0

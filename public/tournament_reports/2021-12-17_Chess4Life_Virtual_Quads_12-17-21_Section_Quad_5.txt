@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Fudge, Alice           GRRE400B  1096  1170/ 21  D3  W2  W4  2.5
+  2 Mcintyre, Isaac        ETSC466S  1116  1139/ 24  W4  L1  W3  2.0
+  3 Godse, Gaurav          EVJH290Q  1149  1140/ 61  D1  W4  L2  1.5
+  4 Zhang, Xingchen        CCDBH72Z  1062   998/ 14  L2  L3  L1  0.0

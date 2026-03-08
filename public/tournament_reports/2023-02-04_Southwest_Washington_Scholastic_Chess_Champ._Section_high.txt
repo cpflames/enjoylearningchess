@@ -1,0 +1,105 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Flora, Addison         OHSMK82H  1200  1809/  5   W76  W41  W35  W14  W9  5.0
+  2 Ib��ez, Viviana        WFWLK82F  1100  1694/  5   W37  W43  W13  W11  D4  4.5
+  3 Haelle, Joshua         JPPLK82E  1100  1640/  5   W96  D6   W85  W24  W16 4.5
+  4 Craven, Naato'si       CORLK82D  1100  1592/  5   W25  W48  W8   W23  D2  4.5
+  5 Olson, Brynden         ETVLK82C  1100  1490/  5   W61  W57  W29  D18  W21 4.5
+  6 Priest, Gabriel        WFWLK82B  1100  1582/  5   W64  D3   W52  W25  W18 4.5
+  7 Gunderson, David       OHSMK82A  1200  1450/  5   W12  L13  W75  W35  W41 4.0
+  8 Young, Benjamin        SKVJK81Z   900  1330/  5   W104 W78  L4   W76  W40 4.0
+  9 Morrill, Matthew       PCIKK81Y  1000  1547/  5   W39  W15  W22  W46  L1  4.0
+ 10 Cammock, Robert        CORLK81X  1100  1386/  5   W86  W55  L16  W79  W46 4.0
+ 11 Sherin, Jack           OHSLK81W  1100  1440/  5   W100 W49  W24  L2   W47 4.0
+ 12 Johnson, Charles       SENJK81V   900  1388/  5   L7   W90  W55  W82  W49 4.0
+ 13 Kim, Judah             BATMK81U  1200  1501/  5   W89  W7   L2   W26  W48 4.0
+ 14 Abbott, Caleb          JPPJK81S   900  1479/  5   W90  W27  W19  L1   W23 4.0
+ 15 Shulik, Ben            CJSJK81R   900  1347/  5   W92  L9   W31  W67  W29 4.0
+ 16 Bosh, Lincoln          CUHKK95N  1387  1399/  9   W34  W74  W10  D21  L3  3.5
+ 17 Johnson, Jake          CEHJ1019   400   659/ 10   L35  W71  W101 W74  D30 3.5
+ 18 Lelli, Andrew          CAPLK81Q  1100  1344/  5   W94  W79  W54  D5   L6  3.5
+ 19 Ross, Ben              SENLK81N  1100  1321/  5   W77  W40  L14  W37  D22 3.5
+ 20 Farley, Michael        SLNJK81M   900  1078/  5   D85  L24  W102 W52  W54 3.5
+ 21 Vansickle, Blake       PCIKK81L  1000  1360/  5   W98  W47  W82  D16  L5  3.5
+ 22 White, Preston         CORKK81J  1000  1251/  5   W63  W58  L9   W66  D19 3.5
+ 23 Rasmussen, Quinn       WVYJK47Q  1038  1068/ 16   W71  W73  W69  L4   L14 3.0
+ 24 Crabbe, Tyler          LAKK655P   899  1022/ 74   W53  W20  L11  L3   W72 3.0
+ 25 Shelton, Isaac         SENL3855   742   927/ 35   L4   W87  W36  L6   W73 3.0
+ 26 Turnbow, Carl          SLNJK81H   900  1104/  5   W36  L54  W77  L13  W74 3.0
+ 27 Dillon, Adam           RHRKK81G  1000  1150/  5   W75  L14  W84  D54  D43 3.0
+ 28 Hernandez-robledo, MariITPJK81F   900  1049/  5   W95  W97  L46  L41  W76 3.0
+ 29 Tran, Jonathan         SKVJK81E   900  1241/  5   W42  W45  L5   W78  L15 3.0
+ 30 Voinov, Luke           STULK81D  1100  1160/  5   W44  L46  W39  D43  D17 3.0
+ 31 Mullen, Hana           SMZJK81C   900  1154/  5   L46  W44  L15  W97  W77 3.0
+ 32 Holmgren, Cedric       HOKMK81B  1200  1082/  5   L55  W98  W42  L40  W78 3.0
+ 33 Loy, Landon            CORMK81A  1200  1084/  5   L48  W100 W80  L47  W79 3.0
+ 34 Dunlap, Nathan         TMWJK80Y   900  1168/  5   L16  W89  W45  L49  W82 3.0
+ 35 Marty, Treyton         TLOKK80X  1000  1204/  5   W17  W80  L1   L7   W56 3.0
+ 36 Strey, Malcolm         OHSJK80V   900   981/  5   L26  W51  L25  W91  W58 3.0
+ 37 Eakes, Michael         NMHMK80T  1200  1154/  5   L2   W83  W58  L19  W65 3.0
+ 38 Racek, Roman           CHWJK80S   900   969/  5   L58  L63  W90  W60  W66 3.0
+ 39 Raupp, Onyx Nova       FOXMK80Q  1200  1120/  5   L9   W65  L30  W63  W67 3.0
+ 40 Larson, Oscar          SMZJK80P   900  1106/  5   W59  L19  W91  W32  L8  3.0
+ 41 Dunkin, Colby          RHRKK80M  1000  1273/  5   W60  L1   W63  W28  L7  3.0
+ 42 Waters, Easton         ETVLK80L  1100  1033/  5   L29  W64  L32  W62  W68 3.0
+ 43 Men, Saisai            OHSMK80K  1200  1136/  5   W83  L2   W92  D30  D27 3.0
+ 44 Seal, Jackson          HOKMK80J  1200  1003/  5   L30  L31  W83  W92  W69 3.0
+ 45 Kim, Lucas             HSCJK80H   900  1033/  5   W62  L29  L34  W64  W71 3.0
+ 46 Ives, Isaiah           SLNKK80G  1000  1269/  5   W31  W30  W28  L9   L10 3.0
+ 47 Rockey, Riley          ETVMK80F  1200  1177/  5   W93  L21  W53  W33  L11 3.0
+ 48 Layton, Jonah          WFWJK80E   900  1246/  5   W33  L4   W73  W69  L13 3.0
+ 49 Moore, Weston          MSYMK80D  1200  1131/  5   W68  L11  W72  W34  L12 3.0
+ 50 Graham, Tyler          SENJU37Z   476   541/ 12   L72  W68  L74  W101 D61 2.5
+ 51 Mcmurray, John         JPPKK80C  1000   880/  4   L73  L36  W87  W85  HPB 2.5
+ 52 Howard, Logan          ABDJK80A   900   900/  5   D87  W101 L6   L20  W85 2.5
+ 53 Raney, Dylan           OHSJK79Z   900  1012/  5   L24  W56  L47  D55  W87 2.5
+ 54 Harmon, George         NOBJK79Y   900  1076/  5   W56  W26  L18  D27  L20 2.5
+ 55 Mackenzie, James       ABDMK79W  1200  1098/  5   W32  L10  L12  D53  W84 2.5
+ 56 Bavry, Jacob           YELKK79V  1000   847/  5   L54  L53  W70  W81  L35 2.0
+ 57 Favela, Jesus          DVYKK79T  1000   862/  5   W84  L5   L78  L73  W93 2.0
+ 58 Glenn, Jacob           BLUJK79S   900   965/  5   W38  L22  L37  W75  L36 2.0
+ 59 Hestand, Skye          FOXJK79R   900   807/  5   L40  W94  L79  L77  W98 2.0
+ 60 Grady, Isaiah          WFWMK79Q  1200   706/  4   L41  L76  W95  L38  WF  2.0
+ 61 Cotty, Leo             WFWLK79P  1100   695/  5   L5   L77  W104 D84  D50 2.0
+ 62 Hetman, Artem          CJSJK79N   900   806/  5   L45  L84  W94  L42  W1002.0
+ 63 Velazquez, Jaxon       WFWKK79M  1000   965/  5   L22  W38  L41  L39  W99 2.0
+ 64 Nicolas, Kason         AVAJK79J   900   897/  5   L6   L42  W98  L45  W88 2.0
+ 65 Vu, Ryan               SENLK79H  1100   833/  5   L97  L39  W86  W99  L37 2.0
+ 66 Gaspar, Mateo          FOXKK79G  1000   802/  5   L99  W86  W97  L22  L38 2.0
+ 67 Simkins, Tyson         WFWJK79F   900   874/  5   L80  W81  W99  L15  L39 2.0
+ 68 Estrada, Emma          ABDKK79D  1000   772/  5   L49  L50  W89  W100 L42 2.0
+ 69 Flanigan, Jordan       ABDKK79C  1000   874/  5   W81  W99  L23  L48  L44 2.0
+ 70 Eddy, Chase            TMWJK79B   900   739/  5   L82  L88  L56  W89  W90 2.0
+ 71 Voinov, Josiah         STUKK79A  1000   757/  5   L23  L17  W103 W80  L45 2.0
+ 72 Goode, Nathaniel       HSCKK78Y  1000   831/  5   W50  L82  L49  W88  L24 2.0
+ 73 Aquino, Noah           NOBKK78X  1000   911/  5   W51  L23  L48  W57  L25 2.0
+ 74 Northcut, Karsen       WUDJK78W   900   762/  5   W88  L16  W50  L17  L26 2.0
+ 75 Kelly, David Zayne     FOXMK78U  1200   800/  5   L27  W103 L7   L58  W91 2.0
+ 76 Schiller, Colton       RALKK78T  1000   954/  5   L1   W60  W88  L8   L28 2.0
+ 77 Wright, Elijah         RHRKK78S  1000   911/  5   L19  W61  L26  W59  L31 2.0
+ 78 Carbajal-vargas, Eric  CJSJK78R   900   898/  5   W103 L8   W57  L29  L32 2.0
+ 79 Beals, Anemonae        HOMJK78Q   900   949/  5   W91  L18  W59  L10  L33 2.0
+ 80 Saccio, Josaphine      KSOLK78N  1100   845/  5   W67  L35  L33  L71  W92 2.0
+ 81 Amon, Frank            ETVMK78M  1200   585/  4   L69  L67  BYE  L56  W1022.0
+ 82 Amon, Hans             ETVKK78L  1000   952/  5   W70  W72  L21  L12  L34 2.0
+ 83 Barker, Colby          FOXJK78H   900   718/  5   L43  L37  L44  W104 D86 1.5
+ 84 Sullivan, Mason        SENLK78E  1100   789/  5   L57  W62  L27  D61  L55 1.5
+ 85 Raupp, Julia           FOXLK78D  1100   725/  5   D20  W102 L3   L51  L52 1.5
+ 86 Hettinger, Tristin     SKPJK78B   900   553/  4   L10  L66  L65  BYE  D83 1.5
+ 87 Rogers, Gunner         FOXLK78A  1100   666/  5   D52  L25  L51  W102 L53 1.5
+ 88 Gaynor, Chris          NMHMK77Z  1200   566/  5   L74  W70  L76  L72  L64 1.0
+ 89 Pool, Daniel           HUDKK77W  1000   454/  5   L13  L34  L68  L70  W1011.0
+ 90 Graff, Daryl           KSOLK77V  1100   656/  5   L14  L12  L38  W94  L70 1.0
+ 91 Earhart, Nathan        MMRJK77U   900   609/  5   L79  W104 L40  L36  L75 1.0
+ 92 Martin-mendoza, Alvaro FOXJK77S   900   723/  5   L15  W95  L43  L44  L80 1.0
+ 93 Perle Warner, Tully    OHSMK77Q  1200   619/  5   L47  L96  L100 W95  L57 1.0
+ 94 Trevino, Kelsey        CORMK77P  1200   541/  5   L18  L59  L62  L90  W1031.0
+ 95 Watkins, Johnathon     ABDJK77N   900   483/  5   L28  L92  L60  L93  W1041.0
+ 96 Goode, Josiah          EGVMK77M  1200  1150/  2   L3   W93  U    U    U   1.0
+ 97 Karales, Maxx          CORLK77J  1100   757/  4   W65  L28  L66  L31  LF  1.0
+ 98 Landram, Brody         NAPLK77H  1100   593/  5   L21  L32  L64  W103 L59 1.0
+ 99 Vannier, Micah         ETVKK77G  1000   653/  5   W66  L69  L67  L65  L63 1.0
+100 Loring, Jayden         WFWKK77F  1000   664/  5   L11  L33  W93  L68  L62 1.0
+101 Flick, Noah            CJSJK77D   900   290/  5   D102 L52  L17  L50  L89 0.5
+102 Schlecht, Avery        KSOLK77C  1100   238/  5   D101 L85  L20  L87  L81 0.5
+103 Mckay, Taryn           KSOLK77B  1100   251/  5   L78  L75  L71  L98  L94 0.0
+104 Evans, Haylee          KSOLK76Z  1100   189/  5   L8   L91  L61  L83  L95 0.0

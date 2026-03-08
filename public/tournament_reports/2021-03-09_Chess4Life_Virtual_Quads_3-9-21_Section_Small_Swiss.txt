@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chowdhary, Shivam      CMCED47H   877   931/ 31  W3  W2  W4  3.0
+  2 Praveen, Atharva       AUDDG14E   519   569/ 17  W6  L1  W5  2.0
+  3 Rapolu, Sai Tejasvi    BCAEG86E   829   823/141  L1  W4  W6  2.0
+  4 Kan, Leanne            HSCC710K   400   581/  3  W5  L3  L1  1.0
+  5 Bohannon, Andrew       LHTDG71E   400   400/ 12  L4  W6  L2  1.0
+  6 Zhang, Milier          ARMBH06L   400   400/  3  L2  L5  L3  0.0

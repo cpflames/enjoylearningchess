@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Singhi, Rohan          BRHBH01P   909  1014/ 44  D4  W2  W3  2.5
+  2 Bhattacharjee, ArchishmBLWEA45Y   943   980/ 53  W3  L1  W4  2.0
+  3 Cosma, Oliver          BENI6602   912   902/ 50  L2  W4  L1  1.0
+  4 Yang, Jimmy            BCABG45S  1046   974/ 55  D1  L3  L2  0.5

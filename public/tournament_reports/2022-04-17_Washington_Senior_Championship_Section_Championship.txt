@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Readey, John L         ADUNH932  2277  2287/ 14  W6  W5  D2  W3  W8  4.5
+  2 Schill Ii, William     ADUN6940  2277  2273/  5  W4  W3  D1  D5  D6  3.5
+  3 Scholz, Fritz          ADUN5498  2012  2019/ 10  W8  L2  W6  L1  W4  3.0
+  4 Lavoice, Richard       ADUNG39B  1820  1901/ 10  L2  W8  W5  W7  L3  3.0
+  5 Levine, David M        ADUN7815  2201  2180/  4  W7  L1  L4  D2  HPB 2.0
+  6 Harwood, Paul          ADUN2188  1867  1859/  5  L1  W7  L3  D8  D2  2.0
+  7 Hamlett, James         ADUN4372  1547  1544/ 89  L5  L6  W8  L4  U   1.0
+  8 Louie, Henry           ADUNI286  1300  1309/  8  L3  L4  L7  D6  L1  0.5

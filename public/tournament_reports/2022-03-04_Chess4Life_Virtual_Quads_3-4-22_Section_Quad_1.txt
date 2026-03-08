@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sangal Lopez, Dev      WOBE515J  1456  1583/270  W2  W4  W3  3.0
+  2 Boulis, Christos       RHJIC84T  1707  1698/545  L1  W3  W4  2.0
+  3 Singh, Saket           DISI872S  1509  1500/309  W4  L2  L1  1.0
+  4 Zhou, Yuchen           BCACJ42H  1497  1451/419  L3  L1  L2  0.0

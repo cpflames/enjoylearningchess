@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Gao, Chenrui           EBSEK12A   595   680/ 22  W3  W2  W4  3.0
+  2 Felon, Ewen            MIED372J   405   513/  6  W4  L1  W3  2.0
+  3 Kamalanath, Meera      CHAAE12M   400   400/  3  L1  W4  L2  1.0
+  4 Grigorenko, Yana       FRWBA39N   400   400/ 31  L2  L3  L1  0.0

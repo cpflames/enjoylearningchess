@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kok, Bulut             LAVEE54B  1062  1126/135  W3  W4  W2  3.0
+  2 Yang, Jimmy            BCABG45S   916   961/ 49  W4  W3  L1  2.0
+  3 Condit, Theo           TLIAJ39C   841   846/ 36  L1  L2  W4  1.0
+  4 Rackoff, Dylan         BLWD507J   981   897/120  L2  L1  L3  0.0

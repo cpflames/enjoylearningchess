@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Zhang, Michelle        MEDF889L  1515  1548/305  W6  W2  W4  W5  W8  W3  6.0
+  2 Cheng, Selina          THUE413R  1261  1304/308  W7  L1  W3  W4  W6  W8  5.0
+  3 Thakur, Reet           CWAFJ84K  1257  1241/270  D4  W5  L2  W8  W7  L1  3.5
+  4 Meng, Miranda          CNHCH69P   400  1221/  6  D3  W6  L1  L2  W5  W7  3.5
+  5 Xu, Zoe                CNHCG70A  1042  1042/ 64  W8  L3  W7  L1  L4  W6  3.0
+  6 Shanmugam, Varsha      RBRCA12J  1038  1000/337  L1  L4  W8  W7  L2  L5  2.0
+  7 Ramkumar, Nethra       RBRE315Z   621   628/ 82  L2  W8  L5  L6  L3  L4  1.0
+  8 Huttelmaier, Evelyn    CHRD757Z   585   552/ 97  L5  L7  L6  L3  L1  L2  0.0

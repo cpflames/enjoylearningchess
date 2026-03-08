@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Garg, Vihaan           CCDAJ10X   719   750/ 27  W3  W4  L2  2.0
+  2 Senthilkumar, SiddhanthLMADG15U   714   748/ 54  W4  L3  W1  2.0
+  3 Agrawal, Sakash        CLHBC98H   741   764/ 46  L1  W2  W4  2.0
+  4 Leon, Nikhil           HSCC587T   707   626/ 43  L2  L1  L3  0.0

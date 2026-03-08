@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Khatnani, Akshat       REEGC26Q   847   974/ 60  W3  W4  W2  3.0
+  2 Kan, Leanne            HSCC710K   840   815/ 48  W4  L3  L1  1.0
+  3 Syal, Yash             SHSCC10R   909   866/ 21  L1  W2  L4  1.0
+  4 Yin, Daniel            ISMJ116Y   739   743/ 99  L2  L1  W3  1.0

@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Vijayaguru, Ashwin     GWBIK95L  1231  1314/ 12  W15 W7  W3  W2  W4  5.0
+  2 Frohbieter, Dominic    HABHK76U  1043  1099/ 15  W16 W8  W6  L1  W7  4.0
+  3 Heider, Elena          NOVIC647  1005  1023/144  W17 W11 L1  W9  W8  4.0
+  4 Wilcox, Daelen         MMIH748C   965  1067/ 55  W18 W9  W5  W6  L1  4.0
+  5 Simmons, Rj            PNRIK76E  1279  1064/ 10  L9  W18 L4  W16 W13 3.0
+  6 Olson, Rainn           PNRHK76K  1251  1095/ 10  W10 W14 L2  L4  W15 3.0
+  7 Van Gorkom, Joshua     CHWIB02N   816   837/ 48  W13 L1  W11 W12 L2  3.0
+  8 Lathrop, Jacob         ELKI743E   765   797/ 60  W12 L2  W10 W15 L3  3.0
+  9 Colon, Xavier          STCHF98F   661   737/ 65  W5  L4  W19 L3  W20 3.0
+ 10 Casino, Jessi          STCI689G   623   627/ 29  L6  W19 L8  W17 W18 3.0
+ 11 Blood, Jonathan        GRIIK73E   478   570/ 10  W19 L3  L7  W20 W16 3.0
+ 12 Rasmussen, Braden      CURIK51A   800   621/  5  L8  W17 W20 L7  W19 3.0
+ 13 Patrow, Jonathan       CABHK50Z   700   533/  5  L7  D16 W18 W19 L5  2.5
+ 14 Blood, Jason           GRIHK76A   781   610/ 10  W20 L6  L16 W18 L17 2.0
+ 15 Guerrero, Rory         STCH343R   565   585/ 18  L1  W20 W17 L8  L6  2.0
+ 16 Kolaski, Noah          ELKHK61C   434   486/ 10  L2  D13 W14 L5  L11 1.5
+ 17 Strub, Cooper          ELKIA47Q   414   416/ 30  L3  L12 L15 L10 W14 1.0
+ 18 Rausch, Jena           ELKHK60X   244   223/ 10  L4  L5  L13 L14 L10 0.0
+ 19 Rausch, Shelby         ELKIK60Y   193   181/ 10  L11 L10 L9  L13 L12 0.0
+ 20 Smith, Cooper          ELKII70M   560   435/ 13  L14 L15 L12 L11 L9  0.0

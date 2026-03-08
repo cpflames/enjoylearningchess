@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zheng, Max             SOMED13T  1336  1424/ 79  W4  W3  W2  3.0
+  2 Zhang, Ethan           CLHEE87D  1323  1322/401  W3  D4  L1  1.5
+  3 Urali, Sanjay          MEDD315D  1240  1237/233  L2  L1  W4  1.0
+  4 Jha, Siddhant          SSMGG46N  1341  1293/286  L1  D2  L3  0.5

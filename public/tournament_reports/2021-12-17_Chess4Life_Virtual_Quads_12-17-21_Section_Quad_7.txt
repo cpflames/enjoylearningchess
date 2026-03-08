@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Taylor, Ryder          HSCI385C   922   990/106  W2  D3  W4  2.5
+  2 Stake, Charles         OESCM87Q   906   935/ 86  L1  W4  W3  2.0
+  3 Naenna, Patanin        SPLDQ28H   910   911/ 65  W4  D1  L2  1.5
+  4 Wang, Nicole           SOMD428S   887   815/ 26  L3  L2  L1  0.0

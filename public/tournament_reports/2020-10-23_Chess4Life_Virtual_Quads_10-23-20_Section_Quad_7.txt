@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Thakur, Reet           CWAEJ84K  1041  1112/217  W3  D4  W2  2.5
+  2 Pravlik, Aiden         SHSB416H  1062  1083/109  W4  W3  L1  2.0
+  3 Nayak, Akshat          DCSG459S  1039  1016/168  L1  L2  W4  1.0
+  4 Kan, Kaleb             MMECF53E  1020   977/ 60  L2  D1  L3  0.5

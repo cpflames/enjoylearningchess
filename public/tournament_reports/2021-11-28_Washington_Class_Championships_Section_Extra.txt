@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Karthikeyan, HarishkumaREJGJ81A  1638  1647/181  W4  U   1.0
+  2 Anthony, Ralph         ADUN846D   400   480/  6  U   D3  0.5
+  3 Xiong, Michael         MEDD115A  1383  1358/174  U   D2  0.5
+  4 Han, Shuyi             SOMFK47W  1424  1413/237  L1  U   0.0

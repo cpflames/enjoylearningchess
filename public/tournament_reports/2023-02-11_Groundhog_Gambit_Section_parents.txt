@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Archer           ADUNK70B  1300  1000/  3  W8  W6  W3  3.0
+  2 Ji, Yanqing            ADUNK69Z  1300  1000/  3  W7  L3  W9  2.0
+  3 Jain, Mohit            ADUNK69X  1300  1000/  3  W5  W2  L1  2.0
+  4 Dutton, Amy            ADUNK69W  1300  1000/  3  L6  W9  W8  2.0
+  5 Lockwood, Kip          ADUNK69V  1300  1000/  3  L3  W7  W6  2.0
+  6 Sherwood, William      ADUNK69U  1300  1000/  3  W4  L1  L5  1.0
+  7 Zhan, Luke             ADUNK69T  1300   889/  2  L2  L5  BYE 1.0
+  8 Hilton, Anastasia      ADUNK69P  1300   822/  2  L1  BYE L4  1.0
+  9 Puri, Nishant          ADUNK69N  1300   822/  2  BYE L4  L2  1.0
+
+ All Unrated-player Section: Ratings capped at 1000

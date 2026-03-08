@@ -1,0 +1,3 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Hu, Nathan             HHSM1507  1158  1145/129  D2  D2  1.0
+  2 Chiu, Yi Jun           SHML347E  1062  1075/ 17  D1  D1  1.0

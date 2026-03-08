@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nidamarthi, Nikhil     RSAC375J   918  1005/ 27  W4  W2  D3  2.5
+  2 Guilliams, Avery       KAMJ231A   963   995/  9  W3  L1  W4  2.0
+  3 Yun, Daniel D          BCABK87Z   891   906/ 93  L2  W4  D1  1.5
+  4 Zhang, Xingchen        CCDBH72Z   950   870/ 20  L1  L3  L2  0.0

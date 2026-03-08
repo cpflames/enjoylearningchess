@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yin, Daniel            ISSK116Y   923  1069/240  W4  W2  W3  3.0
+  2 Lahue, Ihsan           WAVGJ69P   960   989/101  W3  L1  W4  2.0
+  3 Singh, Aavir           REJJ7910   955   933/101  L2  W4  L1  1.0
+  4 Wong, Marlin           MTWII126   965   889/ 58  L1  L3  L2  0.0

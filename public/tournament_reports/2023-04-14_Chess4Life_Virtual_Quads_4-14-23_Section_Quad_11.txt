@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hooper, Thomas         CRNEK25G   417   499/ 10  W3  W4  W2  3.0
+  2 Njonge, Jeremy         SNPJ100U   443   414/188  D4  W3  L1  1.5
+  3 Chang, Nathan          MMEBK42T   382   322/  8  L1  L2  W4  1.0
+  4 Ballas, Violet         MMOCZ95X   200   146/  3  D2  L1  L3  0.5

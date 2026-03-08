@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Owen            FHVH995H  1192  1228/184  W6  D2  W3  2.5
+  2 Nagra, Joga            FACII02B  1063  1149/ 49  W7  D1  W5  2.5
+  3 Chiu, Yi Jun           SHML347E  1088  1162/  6  W8  W4  L1  2.0
+  4 Reiss, Madelyn         BLHLJ21Y   987  1056/ 34  W5  L3  W6  2.0
+  5 Carpenter, Jonas       FERJ274G  1166  1113/ 41  L4  W8  L2  1.0
+  6 Carpenter, Abby        VSTGA99C  1000   965/  6  L1  W7  L4  1.0
+  7 Kimes, Matilda         HSCH935N   944   906/  8  L2  L6  W8  1.0
+  8 Rafferty, Gloria       VSTHD95X   962   815/  6  L3  L5  L7  0.0

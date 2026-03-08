@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Merriman, Dann         WMNBF79Y  1491  1545/364  W3  W4  W2  3.0
+  2 Cha, Samuel            LAVDK18Z  1428  1404/ 97  W4  L3  L1  1.0
+  3 Frederick, Benjamin    LAUDS57X  1347  1341/ 95  L1  W2  L4  1.0
+  4 Sangal Lopez, Dev      WOBE515J  1375  1363/153  L2  L1  W3  1.0

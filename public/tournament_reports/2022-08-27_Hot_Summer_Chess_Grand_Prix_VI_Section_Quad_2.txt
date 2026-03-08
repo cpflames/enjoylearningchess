@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kuzin, Ethan           SHMJ7567  1308  1330/259  W3  D4  W2  2.5
+  2 Werner, Ross           SHMKB91H  1266  1276/ 76  W4  W3  L1  2.0
+  3 Love, Charles          SHMJ458N  1072  1083/ 53  L1  L2  W4  1.0
+  4 Zhang, Owen            FHVG995H  1211  1166/170  L2  D1  L3  0.5

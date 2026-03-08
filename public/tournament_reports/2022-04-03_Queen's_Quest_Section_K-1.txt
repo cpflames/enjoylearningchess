@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Xuan, Amy              CSIBH95V   588   704/ 18  W13 HPB W10 W2  W5  4.5
+  2 Li, Rebecca            BCAAJ62B   445   592/ 24  W14 W5  WF  L1  W7  4.0
+  3 Shi, Nicole            STTA932R   400   462/  5  L5  W11 L4  W14 W10 3.0
+  4 Yeung, Allison         MEDBI60U   521   528/  9  W9  L7  W3  L5  W12 3.0
+  5 Sood, Prisha           MEDA846R   455   533/  9  W3  L2  W12 W4  L1  3.0
+  6 Chen, Jacqueline       MEDB967J   400   426/  5  D12 D8  W14 HPB HPB 3.0
+  7 Gouwang, Aixin         MEDB635H   584   612/  9  W11 W4  LF  W9  L2  3.0
+  8 Park, Jin-ah           EVGBI19H   400   400/  5  D10 D6  L9  D12 W13 2.5
+  9 Danneman, Winter       CSIBD52G   400   400/  9  L4  D13 W8  L7  D14 2.0
+ 10 Nakazato, Isabella     MEDA118S   400   400/  6  D8  D12 L1  W11 L3  2.0
+ 11 Kaburaki, Olivia       EVGB846V   400   400/  4  L7  L3  W13 L10 BYE 2.0
+ 12 Yue, Natalie           WMEBA70U   400   400/  5  D6  D10 L5  D8  L4  1.5
+ 13 Tracey, Mackenzie      MEDAA60E   437   400/  6  L1  D9  L11 BYE L8  1.5
+ 14 Campos, Julieta        MEDA294F   400   400/  8  L2  BYE L6  L3  D9  1.5

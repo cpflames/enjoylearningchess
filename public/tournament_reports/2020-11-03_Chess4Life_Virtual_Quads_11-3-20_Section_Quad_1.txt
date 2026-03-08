@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Ethan           CLHEE87D  1199  1330/389  W3  W4  W2  3.0
+  2 Chan, Skylor T         MEDGD18J  1768  1739/236  W4  W3  L1  2.0
+  3 Zhang, Aaron           CCDD873R  1134  1136/228  L1  L2  W4  1.0
+  4 Yu, Christopher        SPTG591U  1034  1005/108  L2  L1  L3  0.0

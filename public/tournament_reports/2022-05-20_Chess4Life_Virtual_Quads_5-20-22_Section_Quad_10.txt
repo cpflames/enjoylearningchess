@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chaudhuri, Agnivesh    CHACB55V   664   749/ 94  W3  W4  D2  2.5
+  2 Sumanaseni, Evan       CNHF876D   689   682/194  W4  L3  D1  1.5
+  3 Vipin, Amol            RSAGB81R   660   624/  9  L1  W2  L4  1.0
+  4 Wu, Dennis             SCDBJ54B   638   619/ 41  L2  L1  W3  1.0

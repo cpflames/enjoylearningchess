@@ -1,0 +1,34 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Hou, Grant             LECFK00T   925   970/ 47  W12 W21 W20 W3  D2  4.5
+  2 Garcia, Vincen         RFRF403Q   781   926/ 15  W13 W9  W6  W16 D1  4.5
+  3 Ramos, Zachary         FZAFK71L   819   917/  8  W22 W5  W4  L1  W7  4.0
+  4 Pantoja, Cain          RFRF228C   758   810/ 15  W23 W15 L3  W10 W9  4.0
+  5 Whalen, Jack           DSRFK96P   632   722/ 10  W29 L3  W13 W18 W15 4.0
+  6 Harmon, Aj             MCUF697N   681   720/ 29  W28 W19 L2  D17 W16 3.5
+  7 Doss, Ryder            CRPF578Y   629   715/ 18  W30 D16 W11 W8  L3  3.5
+  8 Hong, Sidney           MCGF478H   776   733/ 68  W14 L10 W12 L7  W17 3.0
+  9 Schaaf, Garrett        SCJF801E   583   611/ 15  W24 L2  W26 W19 L4  3.0
+ 10 Saenz, Abigail         MTPF672R   511   597/ 15  W26 W8  L16 L4  W25 3.0
+ 11 Jahns, Chloe           MTPFG16M   452   475/ 45  W32 D27 L7  D14 W26 3.0
+ 12 Jones, Devon           MTPF407J   429   490/ 44  L1  W31 L8  W33 W20 3.0
+ 13 Kubalek, Evander       RFPFD38R   414   475/ 29  L2  W25 L5  W32 W27 3.0
+ 14 Penrod, Lynlee         RFPFF17G   400   471/ 10  L8  D29 W23 D11 W21 3.0
+ 15 Trevino-gonzalez, RamirMCUFK69A   500   700/  5  W17 L4  W21 W20 L5  3.0
+ 16 Todd, Griffin          JFNF933X   942   867/ 15  W18 D7  W10 L2  L6  2.5
+ 17 White, Christopher     RFPFJ47J   470   476/ 35  L15 W30 W32 D6  L8  2.5
+ 18 Arbogast, Kyler        RFPF198H   446   457/ 15  L16 W28 W33 L5  D19 2.5
+ 19 Coria, Mason           BMCFK68Z   500   536/  5  W27 L6  W22 L9  D18 2.5
+ 20 Mauseth, Shannon       MTPF483U   672   603/ 15  W31 W33 L1  L15 L12 2.0
+ 21 Mejia, Vincent         LIVF271G   578   543/ 71  W25 L1  L15 W27 L14 2.0
+ 22 Merryman, Weston       MCGF399H   500   456/ 19  L3  W24 L19 L26 W29 2.0
+ 23 Collins, Andrew        MCGF897F   358   329/ 29  L4  L26 L14 W30 W32 2.0
+ 24 Reil, Winston          RFPFK68Y   500   230/  5  L9  L22 W31 L25 W33 2.0
+ 25 Lakkham Torres, Zack   MCGFK68W   500   280/  4  L21 L13 BYE W24 L10 2.0
+ 26 Hatch, Oliver          RFPFK68V   500   417/  5  L10 W23 L9  W22 L11 2.0
+ 27 Broeckel, Macoy        RFPFC90X   525   445/ 29  L19 D11 W29 L21 L13 1.5
+ 28 Miller, Jase           MCGF234V   262   216/ 18  L6  L18 D30 L29 W31 1.5
+ 29 Ramirez, Izabel        MTPFA77W   237   253/ 15  L5  D14 L27 W28 L22 1.5
+ 30 Lopez, Adamairs        MTPFK96H   100   100/  8  L7  L17 D28 L23 BYE 1.5
+ 31 Robertson, Tivadar     RFPFE64U   160   100/ 16  L20 L12 L24 BYE L28 1.0
+ 32 Bahena, Alessandro     MCUFK68T   500   100/  4  L11 BYE L17 L13 L23 1.0
+ 33 Gargett, Adalyn        RFPFK68S   500   100/  4  BYE L20 L18 L12 L24 1.0

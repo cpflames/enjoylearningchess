@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sailer, Shaunak        ENAEC25Z   866   926/146  W3  W2  D4  2.5
+  2 Wang, Evan             DGHFB88C   721   816/ 16  W4  L1  W3  2.0
+  3 Vulli, Sriyans         CHRFG86P   832   807/ 15  L1  W4  L2  1.0
+  4 Stake, Charles         OESCM87Q   872   808/113  L2  L3  D1  0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Siadal, Carson         MRDJK41F   800   921/  6  W4  W3  W2  3.0
+  2 Valeos, Connor         MDIHK41H   698   753/  6  W3  W4  L1  2.0
+  3 Fransico-woodenlegs, JoMRDK680H   677   654/ 28  L2  L1  W4  1.0
+  4 Hinkleman, Matthew     MDIHK40W   575   466/  6  L1  L2  L3  0.0

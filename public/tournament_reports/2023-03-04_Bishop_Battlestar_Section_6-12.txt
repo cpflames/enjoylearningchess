@@ -1,0 +1,80 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chung, Ethan           LLMG108U  1581  1610/356  W42 W12 W8  W7  W5  5.0
+  2 Deng, Stanley          LECEK22E  1419  1405/257  W18 W21 L15 W46 W19 4.0
+  3 Rahman, Zayd           ENTIF83W  1412  1397/122  W9  L10 W44 W26 W20 4.0
+  4 Arias Padilla, Jose    CWHK888V  1315  1300/ 69  L16 W50 W22 W29 W30 4.0
+  5 Ornelas, Daniel        CWHMH732  1309  1351/212  W17 W22 W16 W15 L1  4.0
+  6 Repalle, Vibhav        LLMIK31L  1255  1251/ 90  L8  W53 W48 W28 W21 4.0
+  7 Dillingham, Daniel     KCCFB73M  1195  1262/217  W14 W43 W10 L1  W32 4.0
+  8 Kane, Callan           CWHMB00E  1139  1226/206  W6  W11 L1  W55 W38 4.0
+  9 Chavez Vargas, Angel   CWHL858A  1113  1143/ 28  L3  W30 W64 W31 W39 4.0
+ 10 Villegas, Jovanny      CWHM220P  1027  1174/ 65  W26 W3  L7  W62 W15 4.0
+ 11 Hassan, Ahmad          RRGH714R   951  1121/143  W28 L8  W40 W64 W14 4.0
+ 12 Luciano, Luis          CWHM3995  1099  1120/201  W20 L1  W39 D36 W41 3.5
+ 13 Nava, Misael           CWHMC02B  1239  1102/ 10  L15 W54 L26 W59 W49 3.0
+ 14 Mendoza, Oscar         CWHJI229  1228  1189/272  L7  W70 W50 W54 L11 3.0
+ 15 Mendoza, Shawn         PASME325  1183  1208/184  W13 W24 W2  L5  L10 3.0
+ 16 Banuelos, Jose         PASM4806  1159  1152/240  W4  W48 L5  L30 W50 3.0
+ 17 Hernandez, Isaac       PASL2580  1123  1093/318  L5  W29 L28 W58 W51 3.0
+ 18 Hernandez, Marcelo     CWHKK986  1102  1072/172  L2  W56 W51 L32 W53 3.0
+ 19 Dillingham, Annabella  KCCG229F  1098  1101/216  L40 W36 W24 W56 L2  3.0
+ 20 Ybarra, Caleb          CKKHK96F  1085  1071/ 18  L12 W71 W27 W57 L3  3.0
+ 21 Vaught, Garret         CWHME17K  1053  1054/ 94  W45 L2  W62 W35 L6  3.0
+ 22 Hassan, Nadeem         RRGI411A  1025  1038/127  W46 L5  L4  W60 W52 3.0
+ 23 Chen, Jessica          ENTIG23Z   973   965/ 75  L48 W31 W43 L39 W55 3.0
+ 24 Martinez, Raul         CWHMC472   957   963/194  W49 L15 L19 W63 W54 3.0
+ 25 Harrington, Ephraim    MOAHK96E   933   888/ 18  L50 L62 W34 W71 W56 3.0
+ 26 Chong, Kyle            LLMHC51N   897   941/ 30  L10 W76 W13 L3  W57 3.0
+ 27 Luna Rocha, Sergio Jr  CWHK3108   850   848/190  L44 W65 L20 W75 W64 3.0
+ 28 Gomez, Albert          CWHKJ40R   842   907/ 15  L11 W66 W17 L6  W62 3.0
+ 29 Moe, Steven            OCHGH29P   780   852/ 20  W57 L17 W71 L4  W44 3.0
+ 30 Fultz, Heath           JMLG853S   757   857/ 25  W35 L9  W73 W16 L4  3.0
+ 31 Philo, Demetri         MOAHK96C   726   833/ 18  W51 L23 W66 L9  W45 3.0
+ 32 Gogic, Arian           JMLGK96A   708   758/ 15  L52 W41 W77 W18 L7  3.0
+ 33 Guizar, Kevin          CWHJI02P   662   706/ 53  L53 L63 W67 W42 W47 3.0
+ 34 Perez Birrueta, Rafael OCHIK60W   628   799/ 18  U   W68 L25 W43 W46 3.0
+ 35 Morris, Tyson          GVMHK68Q   555   698/ 10  L30 W75 W52 L21 W48 3.0
+ 36 Gaither, Kyan          PASMH286   531   792/ 10  W55 L19 W53 D12 D40 3.0
+ 37 Arias, Alondra         CWHJK71K   412   620/  8  W38 W45 L47 L41 W68 3.0
+ 38 Averett, Ethan         ENTIK52Y   800   897/  5  L37 W60 W70 W44 L8  3.0
+ 39 Kaiphanliam, Kieren    RRGIK52X   800  1005/  5  W74 W49 L12 W23 L9  3.0
+ 40 Alford, Isaiah         CWHK925Y  1289  1197/ 15  W19 L44 L11 W70 D36 2.5
+ 41 Torres, Brandon        STPGK52W   600   609/  5  D67 L32 W74 W37 L12 2.5
+ 42 Landen, David          RRGIK68R  1227  1017/ 10  L1  W52 L46 L33 W69 2.0
+ 43 Lopez, Esteban         CWHM7267  1026   961/293  W47 L7  L23 L34 W73 2.0
+ 44 Hitt, Maylee           RRGHK96D  1017   992/ 18  W27 W40 L3  L38 L29 2.0
+ 45 Bellofatto, Hayden     RRGIK95J   930   851/146  L21 L37 W58 W61 L31 2.0
+ 46 Robles, Abel           CWHM1788   918   900/213  L22 W73 W42 L2  L34 2.0
+ 47 Dodson, Tyson          KCCG234D   864   790/ 21  L43 L64 W37 W76 L33 2.0
+ 48 Alford, Trey           CWHL636B   846   832/ 20  W23 L16 L6  W78 L35 2.0
+ 49 Bradford, Joe          OCHGI86H   836   805/ 37  L24 L39 W59 W73 L13 2.0
+ 50 Hernandez, Ethan       RRGG195L   820   842/ 49  W25 L4  L14 W65 L16 2.0
+ 51 Medrano, Axel          OCHIB48G   819   779/ 29  L31 W78 L18 W77 L17 2.0
+ 52 Santana, Andy          CWHJH849   817   794/233  W32 L42 L35 W66 L22 2.0
+ 53 Romero, Osias          RRGH973N   803   785/ 69  W33 L6  L36 W74 L18 2.0
+ 54 Mejia, Xavior          RRGH533Y   760   763/102  W58 L13 W63 L14 L24 2.0
+ 55 Lokaman, Anwar         STPH883Q   742   717/114  L36 W67 W76 L8  L23 2.0
+ 56 Kermani, Kirabella     LLMGG24N   734   729/ 95  W60 L18 W65 L19 L25 2.0
+ 57 Young, Nathan          JMLHK95Z   652   610/ 10  L29 W72 W78 L20 L26 2.0
+ 58 Miranda, Santiago      STPG437Y   624   601/ 61  L54 W79 L45 L17 W74 2.0
+ 59 Hall, Grayden          JMLGK68M   580   520/  9  L70 W69 L49 L13 W75 2.0
+ 60 Cress, Emmett          JMLGH54B   512   521/ 27  L56 L38 W79 L22 W76 2.0
+ 61 Chin, Andre            LLMGA23B   487   414/ 55  L71 L74 W72 L45 W77 2.0
+ 62 Trevino-gonzalez, MariaOCHG767V   434   514/ 25  W75 W25 L21 L10 L28 2.0
+ 63 Lara, Salvador         STPGK68N   398   512/  8  U   W33 L54 L24 W78 2.0
+ 64 Christensen, Delson    ENTIK52V   800   774/  5  W79 W47 L9  L11 L27 2.0
+ 65 Duarte, Carlos         OCHGK52U   600   535/  5  W69 L27 L56 L50 W71 2.0
+ 66 Picicci, Logan         RRGHK52T   700   609/  5  W72 L28 L31 L52 W70 2.0
+ 67 Naranjo, Urijah        RRGH253A   389   366/ 19  D41 L55 L33 L68 W79 1.5
+ 68 Wampole, Caleb         JMLI133K   389   360/ 34  L76 L34 D69 W67 L37 1.5
+ 69 Ruiz, Rafael           RRGG760R   107   179/ 14  L65 L59 D68 W79 L42 1.5
+ 70 Lokaman, Islam         STPHJ18G   752   700/ 47  W59 L14 L38 L40 L66 1.0
+ 71 Quintero, Brianna      STPIK64D   435   431/ 19  W61 L20 L29 L25 L65 1.0
+ 72 Pineda, Ivette         CWHMK67X   342   100/  8  L66 L57 L61 BYE U   1.0
+ 73 Duran, Angel           RRGGC22Z   246   265/ 24  W77 L46 L30 L49 L43 1.0
+ 74 Prasad, Sonali         JMLGK68K   100   221/  9  L39 W61 L41 L53 L58 1.0
+ 75 Zambrano, Trino        STPGK52S   600   127/  4  L62 L35 BYE L27 L59 1.0
+ 76 Markham, Ashley        RRGIK52R   800   390/  5  W68 L26 L55 L47 L60 1.0
+ 77 Chavez, Dora           STPHG46Q   400   181/  6  L73 BYE L32 L51 L61 1.0
+ 78 Beus, Livia            RRGGK52Q   600   128/  4  BYE L51 L57 L48 L63 1.0
+ 79 Domingos, Caetone      RRGHK95U   348   246/ 14  L64 L58 L60 L69 L67 0.0

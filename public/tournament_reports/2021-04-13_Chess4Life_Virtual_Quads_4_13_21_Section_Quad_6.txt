@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Shankaranand, Deeksha  RSACI74Y   516   641/ 55  W2  W3  W4  3.0
+  2 Simms, Nick            THRFF38V   400   504/  6  L1  W4  W3  2.0
+  3 Wang, Ethan            CCDC453V   400   400/ 11  W4  L1  L2  1.0
+  4 Bohannon, Andrew       LHTDG71E   400   400/ 19  L3  L2  L1  0.0

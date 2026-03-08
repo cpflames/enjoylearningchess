@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sinha, Aarush          LMAIB25H   624   702/  8  W3  D4  W2  2.5
+  2 Mills, Paxson          HSCGI32D   637   625/ 53  W4  D3  L1  1.5
+  3 Li, Chuling            CNHE567N   560   573/ 22  L1  D2  W4  1.5
+  4 Zhou, Nolan            MRLE280K   550   506/ 21  L2  D1  L3  0.5

@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Liu, Vincent           ILAD546Q  1395  1470/135  W16 W15 W4  D2  W5  4.5
+  2 Gadde, Arnav           ENSDJ39D  1375  1467/ 66  W6  W12 W10 D1  W4  4.5
+  3 Xu, Zoe                CNHCG70A  1132  1173/118  W18 D10 L5  W15 W8  3.5
+  4 Yondon, Odbayar        LMADK97T  1570  1533/ 64  W13 W5  L1  W7  L2  3.0
+  5 Shankaranand, Deeksha  EBSDI74Y  1200  1230/151  W17 L4  W3  W11 L1  3.0
+  6 Li, Edgar              OPWB883Y  1067  1090/ 82  L2  W14 L11 W17 W12 3.0
+  7 Han, Victor            HSCDB39P  1034  1114/ 71  L10 W18 W12 L4  W11 3.0
+  8 Zhang, Zhibo           CCDC674X   868  1044/ 32  W11 L16 W13 W10 L3  3.0
+  9 Li, Harry              SSSCG30G   840   981/160  L15 L11 W14 W13 W16 3.0
+ 10 Cui, Max               CBRD946C  1311  1279/167  W7  D3  L2  L8  W15 2.5
+ 11 Iyer, Shashwat Pranav  CMCCC07W  1236  1177/ 55  L8  W9  W6  L5  L7  2.0
+ 12 Zhu, Kevin             CSMC865U  1164  1126/259  W14 L2  L7  W16 L6  2.0
+ 13 Edwin, Elijah          BCSBC24D  1109  1049/ 14  L4  W17 L8  L9  W18 2.0
+ 14 Lu, Ian                CRIDE83J   807   825/163  L12 L6  L9  W18 W17 2.0
+ 15 Yun, Daniel D          BCABK87Z  1166  1125/151  W9  L1  D16 L3  L10 1.5
+ 16 Han, Spencer           HSCCK75L  1077  1048/ 69  L1  W8  D15 L12 L9  1.5
+ 17 Mishra, Aakash         EBSC439K   848   809/ 34  L5  L13 W18 L6  L14 1.0
+ 18 Chaudhuri, Arihant     CHAC703E   793   722/ 67  L3  L7  L17 L14 L13 0.0

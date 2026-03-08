@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bassen, Abel           WEHDZ72M   679   737/ 30  W4  W3  D2  2.5
+  2 Singh, Atharva         SKIGK06G   555   711/  6  W3  W4  D1  2.5
+  3 Lechner, Ryker         HSCE496J   611   589/ 62  L2  L1  W4  1.0
+  4 Yang, Jonathan         LKDAK55R   585   511/ 18  L1  L2  L3  0.0

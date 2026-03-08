@@ -1,0 +1,30 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Yondon, Odbayar        LMADK97T  1837  1757/ 10  W6  W11 W9  W4  D2  4.5
+  2 Liu, Vincent           ILAD546Q  1253  1341/115  W27 W22 W14 W10 D1  4.5
+  3 Sankrithi, Sarang      HSCCB11D  1452  1439/114  W24 W13 L4  W15 W10 4.0
+  4 Malugu, Sankalp        SHSCE95W  1203  1281/208  W21 W28 W3  L1  W13 4.0
+  5 Gadde, Arnav           ENSDJ39D  1212  1216/ 23  L22 W12 W20 W19 W14 4.0
+  6 Shah, Rajas            ENSDF22X   952  1053/ 63  L1  W27 W23 W9  D11 3.5
+  7 Tan, Nathan            UCDC412Y  1331  1275/ 89  W18 L14 W22 L13 W19 3.0
+  8 Ren, Aaron             HSCCG67B  1327  1279/ 63  W19 W15 L10 L14 W22 3.0
+  9 Kim, Dylan             SCDDK38L  1247  1228/139  W20 W16 L1  L6  W21 3.0
+ 10 Shah, Kanav            LMAD295Q  1125  1212/ 24  WF  W17 W8  L2  L3  3.0
+ 11 Avula, Guru Harshith ReBRHC633Y  1057  1062/ 41  W23 L1  D16 W25 D6  3.0
+ 12 Patnaik, Rishabhdeva   CRKDG72D  1046  1057/ 53  D25 L5  D21 W28 W17 3.0
+ 13 Zhang, Kyrene          LKDDC84Y  1035  1070/134  W29 L3  W28 W7  L4  3.0
+ 14 Kakkad, Vayu           DCTBK50L   981  1092/351  WF  W7  L2  W8  L5  3.0
+ 15 Vashisht, Aneesh       LKWDC30Y   850   918/ 19  WF  L8  W26 L3  W23 3.0
+ 16 Mohan, Vishnu          KKNDF41R   799   936/ 53  W26 L9  D11 L17 W25 2.5
+ 17 Bharadwaj, Samarth     DGHBE78A  1575  1472/ 50  WF  L10 L19 W16 L12 2.0
+ 18 Cheruku, Adhrith       SHSC827Q   894   865/ 30  L7  D21 L25 W29 D24 2.0
+ 19 Shapiro, Maksim        LMACK10R   880   935/ 29  L8  W29 W17 L5  L7  2.0
+ 20 Li, Edgar              OPWB883Y   876   863/ 46  L9  W24 L5  L23 W27 2.0
+ 21 Agrawal, Sakash        MEDCC98H   848   875/ 67  L4  D18 D12 W27 L9  2.0
+ 22 Pai, Vihaan            STVDK17C   838   930/ 23  W5  L2  L7  W24 L8  2.0
+ 23 Sethi, Ivanka          TIMDF96K   480   599/  9  L11 BYE L6  W20 L15 2.0
+ 24 Balasubramanian, Kala  CNCD519Y   898   853/ 18  L3  L20 W29 L22 D18 1.5
+ 25 Michiels, Peter        THODB73Z   400   839/  5  D12 L26 W18 L11 L16 1.5
+ 26 Yadatore, Neel         LAWCB76D  1187  1111/ 29  L16 W25 L15 U   U   1.0
+ 27 Arunkumar, Ashwath     RSADH07X   878   806/ 44  L2  L6  BYE L21 L20 1.0
+ 28 Mishra, Aakash         EBSC439K   709   659/ 15  WF  L4  L13 L12 L29 1.0
+ 29 Joseph, Veronique      SJOCJ04S   400   624/  5  L13 L19 L24 L18 W28 1.0

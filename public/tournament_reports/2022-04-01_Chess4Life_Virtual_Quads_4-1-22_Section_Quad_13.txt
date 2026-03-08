@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lechner, Ryker         HSCD496J   455   509/ 13  U   W3  W2  2.0
+  2 Yen, Apollo            RKWEG78H   400   402/  5  W3  U   L1  1.0
+  3 Fang, Weiai            BRBB696W   400   400/  7  L2  L1  U   0.0

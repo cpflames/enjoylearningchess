@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Arvind, Neeti          SHSFG66L   544   657/  8  D2  W3  W4  2.5
+  2 He, Jizhou             BCAB789B   653   637/ 16  D1  W4  L3  1.5
+  3 Kuluru, Samith         KKNGI99K   617   583/115  L4  L1  W2  1.0
+  4 Wright, Victoria       PTFFJ17P   552   539/ 15  W3  L2  L1  1.0

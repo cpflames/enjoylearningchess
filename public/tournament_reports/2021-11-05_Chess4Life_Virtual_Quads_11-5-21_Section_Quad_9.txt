@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Upreti, Parthavi       XXXF754L   933  1046/ 21  W4  W3  W2  3.0
+  2 Sethi, Ivanka          STVDF96K   854   913/ 21  W3  W4  L1  2.0
+  3 Godse, Gaurav          EVJH290Q   988   944/ 30  L2  L1  W4  1.0
+  4 Stake, Charles         OESCM87Q   821   766/ 71  L1  L2  L3  0.0

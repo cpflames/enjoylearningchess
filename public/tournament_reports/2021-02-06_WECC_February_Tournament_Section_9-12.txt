@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Carman, Leif           RICKB289  1427  1511/218  W8  W9  W4  W3  W5  5.0
+  2 Coghlan, Tomas         HHSMG445  1279  1298/194  W12 L3  W11 W4  W7  4.0
+  3 Gasca, Brian           CWHM268Y  1017  1166/117  W13 W2  W8  L1  D6  3.5
+  4 Van, Ocean             CWHMK699  1588  1543/220  W10 W5  L1  L2  W9  3.0
+  5 Kane, Callan           CWHKB00E  1143  1167/137  W11 L4  W13 W9  L1  3.0
+  6 Ornelas, Daniel        CWHKH732  1338  1289/197  D7  L8  W12 W10 D3  3.0
+  7 Villegas, Jovanny      CWHK220P   968   968/ 43  D6  L10 W14 W13 L2  2.5
+  8 Stillwell, Berrett     CWHJ4015  1185  1150/195  L1  W6  L3  W12 L11 2.0
+  9 Piedra, Daniel         CWHLD502  1146  1132/250  W15 L1  W10 L5  L4  2.0
+ 10 Perez, Osvaldo         CWHJI537  1037  1032/220  L4  W7  L9  L6  W13 2.0
+ 11 Pantoja, Omar          CWHKI56D   928   906/ 26  L5  W15 L2  W14 L8  2.0
+ 12 St. Hilaire, Paddy     TCPM9738   686   688/ 14  L2  BYE L6  L8  W14 2.0
+ 13 Droesch, Isaac         TCPMK58V  1200   671/  5  L3  W14 L5  L7  L10 1.0
+ 14 Rodriguez, YesseniafariCWHM272P   400   400/ 10  U   L13 L7  L11 L12 0.0
+ 15 Medrano, CesarhernandezCWHJJ72S   400   400/  9  L9  L11 U   U   U   0.0

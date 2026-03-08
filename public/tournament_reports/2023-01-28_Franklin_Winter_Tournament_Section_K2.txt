@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Tandon, Copen          FACCK83H   200   577/  5  W5  W6  W4  W3  D2  4.5
+  2 Gasiorkiewicz, Octavia FACCK83F   200   414/  5  W4  L3  W6  W5  D1  3.5
+  3 Conner, Jack           FACCK83E   200   347/  5  W6  W2  W5  L1  L4  3.0
+  4 Everbeck, Grey         FACCK83D   200   281/  5  L2  W5  L1  D6  W3  2.5
+  5 Trotter, Thomas        WKEBK83C   100   100/  5  L1  L4  L3  L2  W6  1.0
+  6 Gill, Ayva             FACCK83B   200   100/  5  L3  L1  L2  D4  L5  0.5
+
+ All Unrated-player Section: Ratings capped at 1000

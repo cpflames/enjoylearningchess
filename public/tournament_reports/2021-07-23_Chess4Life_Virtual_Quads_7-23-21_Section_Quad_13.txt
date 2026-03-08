@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Naik, Atreya           KMDHJ43X   700  1024/  3  W2  W3  W4  3.0
+  2 Liao, Daniel           SSSI6615   561   620/ 24  L1  W4  W3  2.0
+  3 Tsui, Ashleen          SCDD676C   554   541/114  W4  L1  L2  1.0
+  4 Bohannon, Andrew       LHTDG71E   400   400/ 57  L3  L2  L1  0.0

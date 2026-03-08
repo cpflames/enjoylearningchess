@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Parson, Anya           SSMEI86G  1033  1044/ 19  W4  L2  W3  2.0
+  2 Xie, Leon              CNHD264X   955   994/ 27  W3  W1  L4  2.0
+  3 Ginotra, Karman        RKWDB15D   987   960/ 36  L2  W4  L1  1.0
+  4 Hawkins, Holden        TYEJ383Z   949   933/444  L1  L3  W2  1.0

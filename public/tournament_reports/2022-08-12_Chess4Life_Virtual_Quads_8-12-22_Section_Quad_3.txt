@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Meng, Miranda          CNHCH69P  1372  1457/ 58  W4  W3  W2  3.0
+  2 Zhang, Aaron           MEDE873R  1355  1355/459  D3  W4  L1  1.5
+  3 Singh, Saket           DISI872S  1348  1349/341  D2  L1  W4  1.5
+  4 Wahi, Lakshya          EVJI664Z  1306  1252/132  L1  L2  L3  0.0

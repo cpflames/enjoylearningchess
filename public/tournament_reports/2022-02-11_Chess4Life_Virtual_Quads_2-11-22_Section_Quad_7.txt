@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Naenna, Patanin        SPLDQ28H  1192  1211/ 83  L2  W4  W3  2.0
+  2 Stein, Samuel          HSCEH03T  1164  1191/179  W1  L3  W4  2.0
+  3 Mcintyre, Isaac        ETSC466S  1181  1157/ 33  L4  W2  L1  1.0
+  4 Hochberg, David        SUEJ6075  1170  1148/172  W3  L1  L2  1.0

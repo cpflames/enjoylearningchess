@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Love, Charles          SHMJ458N   912   949/ 44  BYE W2  W3  3.0
+  2 Zhang, Owen            FHVG995H   944   919/149  W3  L1  BYE 2.0
+  3 Werner, Finn           HPVHJ98B   521   508/ 12  L2  BYE L1  1.0

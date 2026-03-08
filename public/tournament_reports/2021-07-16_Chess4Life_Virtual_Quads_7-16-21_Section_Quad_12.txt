@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yin, Daniel            ISMJ116Y   668   779/111  W3  W4  W2  3.0
+  2 Yun, Daniel D          BCAAK87Z   637   662/ 34  W4  W3  L1  2.0
+  3 Ebel, Parker           XXXI777Y   564   551/ 11  L1  L2  W4  1.0
+  4 Yun, Daniel            TPSC768W   584   507/ 33  L2  L1  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hochberg, David        SUEJ6075  1043  1165/166  W4  W2  W3  3.0
+  2 Naenna, Patanin        SPLDQ28H  1028  1066/ 77  W3  L1  W4  2.0
+  3 Louie, Leyton          UCDE880T  1057  1032/151  L2  W4  L1  1.0
+  4 Le, Ilias              MTWDK00R  1042   971/ 17  L1  L3  L2  0.0

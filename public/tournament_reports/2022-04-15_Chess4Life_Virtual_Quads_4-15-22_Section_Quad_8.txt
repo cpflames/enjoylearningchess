@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Goel, Darsh            SBOFR06Y   952  1073/ 34  W2  W3  W4  3.0
+  2 Sreraman, Rohit        BCABG92Q   915   960/ 29  L1  W4  W3  2.0
+  3 Zhang, Ethan Yichen    CRIEG57B   959   932/236  W4  L1  L2  1.0
+  4 Yin, Daniel            ISMK116Y   925   854/212  L3  L2  L1  0.0

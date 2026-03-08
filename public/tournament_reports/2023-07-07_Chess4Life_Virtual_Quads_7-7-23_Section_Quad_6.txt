@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kuluru, Samith         LEOGI99K   963  1067/188  W3  W4  W2  3.0
+  2 Taylor, Ryder          KAMJ385C   953   973/315  W4  W3  L1  2.0
+  3 Sridhar, Riya          TBKEG37Y   909   889/ 81  L1  L2  W4  1.0
+  4 Devlin, Austin         OSEFK25F   860   799/ 58  L2  L1  L3  0.0

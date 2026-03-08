@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ching, Victor          XXXBK07D   216   330/  8  BYE W2  W4  3.0
+  2 Menon, Ritwik          WLDF974D   382   362/ 12  W5  L1  BYE 2.0
+  3 Tsay, Elon             NWOCK07B   355   311/  7  W4  BYE L5  2.0
+  4 Menon, Rohan           WLDEK05B   400   175/  3  L3  W5  L1  1.0
+  5 Kidd, Matthew          EASKK04Y  1000   167/  3  L2  L4  W3  1.0

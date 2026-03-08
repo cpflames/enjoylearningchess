@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Elkins, Indiana        HSCHC15D   970  1117/ 64  W9  W3  W4  W6  W2  5.0
+  2 Campbell, Sebastian    ASPHI79A  1069  1046/157  W7  L4  W6  W5  L1  3.0
+  3 Hochheimer, Noah       SGSGF37G   959   936/186  L5  L1  BYE W8  W4  3.0
+  4 Davis, Jaxon           ADCHK50R   485   698/  8  BYE W2  L1  W9  L3  3.0
+  5 Nguyen, Ethan          NWDIK37J   800   933/  5  W3  L6  W7  L2  W9  3.0
+  6 Sherwood, Leo          FREHI58J   923   922/ 39  W8  W5  L2  L1  D7  2.5
+  7 Bair, Morgan           LBYIK50T   812   803/  9  L2  W8  L5  BYE D6  2.5
+  8 Elsasser, Ashton       NWDIK37H   800   608/  4  L6  L7  W9  L3  BYE 2.0
+  9 Malde, Jake            SSPHB22V   689   614/ 93  L1  BYE L8  L4  L5  1.0

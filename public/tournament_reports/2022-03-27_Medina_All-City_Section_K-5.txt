@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Seela, Shashank        SSMFI74N  1689  1709/145  W8  W5  W6  W2  W4  5.0
+  2 Shih, Tai              UCDFE60P  1432  1436/205  W13 W12 W3  L1  W5  4.0
+  3 Aelion, Aya            SWLGF21D  1091  1119/ 29  WF  W16 L2  W8  W6  4.0
+  4 Zhang, Aaron           MEDE873R  1257  1225/410  W14 L6  W15 W9  L1  3.0
+  5 Don, Alexander         MEDF958V  1058  1066/151  WF  L1  W14 W11 L2  3.0
+  6 Konatham, Teja         CHRFD47A  1025  1053/187  W17 W4  L1  W12 L3  3.0
+  7 Xu, Alex               DCTF500U   933   891/ 58  D11 L9  D10 W17 W16 3.0
+  8 Deng, Eason            MEDFJ49B   657   775/ 35  L1  WF  W16 L3  W9  3.0
+  9 Gupta, Ayush           CHAFB05F   824   826/ 62  W15 W7  D11 L4  L8  2.5
+ 10 Don, Benjamin          MEDD861Q   734   710/ 73  L16 L11 D7  BYE W13 2.5
+ 11 Donner, Alan           MEDF117Q   500   854/  5  D7  W10 D9  L5  D12 2.5
+ 12 Ling, Linus            MEDFB23S   500   812/  4  BYE L2  W13 L6  D11 2.5
+ 13 Lee, Jake              MEDFJ57N   601   553/  7  L2  WF  L12 W15 L10 2.0
+ 14 Xiang, Jackson         MEDF954P   585   564/ 17  L4  W17 L5  L16 BYE 2.0
+ 15 Zhang, Howard          MEDFE88S   500   400/  4  L9  BYE L4  L13 W17 2.0
+ 16 Egesdal, Elina         MEDF197H   500   728/  5  W10 L3  L8  W14 L7  2.0
+ 17 Liu, Yuyang            MEDE869P   400   400/  4  L6  L14 BYE L7  L15 1.0

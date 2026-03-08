@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Urali, Sanjay          MEDD315D  1444  1488/281  W4  D3  W2  2.5
+  2 Kang, Ayaan            ENSDI60T  1449  1464/236  W3  W4  L1  2.0
+  3 Singh, Saket           DISH872S  1408  1413/234  L2  D1  W4  1.5
+  4 Zheng, Max             SOMED13T  1401  1346/112  L1  L2  L3  0.0

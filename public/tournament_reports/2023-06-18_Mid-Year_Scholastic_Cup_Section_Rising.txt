@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Ramaswamy, Rishi       OMSIS63U  1325  1360/ 91  W7  L2  W3  D6  BYE W4  4.5
+  2 Dhawan, Viraj          OVLGI96U  1286  1394/ 76  W3  W1  W5  HPB W7  L6  4.5
+  3 Karri, Aditya          AUDEC55V  1377  1380/335  L2  W6  L1  BYE W5  W7  4.0
+  4 Kossuri, Neil          CNCF696L  1236  1249/ 65  BYE L5  W7  BYE W6  L1  4.0
+  5 Huang, Emily           OMSGB39A  1381  1358/290  D6  W4  L2  W7  L3  BYE 3.5
+  6 Vashisht, Aneesh       LKWEC30Y  1288  1285/112  D5  L3  BYE D1  L4  W2  3.0
+  7 Bates-callaghan, EmmettBCSDJ49J  1253  1174/ 70  L1  BYE L4  L5  L2  L3  1.0

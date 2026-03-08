@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wahi, Lakshya          EVJH664Z  1206  1215/ 67  L2  W4  W3  2.0
+  2 Singh, Rushil          SNEDB52N  1080  1155/  8  W1  L3  W4  2.0
+  3 Kan, Kaleb             MMECF53E  1180  1172/168  D4  W2  L1  1.5
+  4 Xie, Michael           BLWE549C  1098  1064/207  D3  L1  L2  0.5

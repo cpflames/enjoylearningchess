@@ -1,0 +1,31 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Tessiore, Luca         DCTEP42N  1691  1704/132  W15 W5  W2  W4  W3  5.0
+  2 Chintalapudi, Srihaan  CNCD662W   881  1010/ 41  W28 W29 L1  W9  W8  4.0
+  3 Pegushin, Daniel       MEDEF62X  1139  1172/  9  W21 BYE W18 W8  L1  4.0
+  4 Enslow, David          SCDD488X   544   840/ 55  W17 W14 W7  L1  D5  3.5
+  5 Sia, Derrick           MEDDD95Y   874   930/ 91  W23 L1  W19 W13 D4  3.5
+  6 Motkuri, Akshath       WBEF554U   996   987/ 55  W22 W10 L8  D12 W27 3.5
+  7 Hong, Sidney           MCGD478H   508   794/ 28  D16 W17 L4  W18 W14 3.5
+  8 Mu, Alivia             DCTEB56P   847   950/ 27  W25 W9  W6  L3  L2  3.0
+  9 Nune, Rohan            LECFA83V  1187  1135/ 65  W11 L8  W15 L2  W12 3.0
+ 10 Ramos, Justin          BGLEA12M   681   782/ 29  W13 L6  L14 W29 W17 3.0
+ 11 Sankar, Sneha          CNCD372B   738   799/165  L9  W23 L13 W19 W18 3.0
+ 12 Sudhir, Aditya         CMCFI42N   886   905/ 69  W19 HPB W25 D6  L9  3.0
+ 13 Xie, Ava               SOME797Y   964   920/159  L10 W16 W11 L5  D15 2.5
+ 14 Lekkala, Vihan         BLWD428L   991   918/109  W26 L4  W10 D27 L7  2.5
+ 15 Lokaman, Anwar         MCUF883Q   719   774/ 76  L1  W28 L9  W26 D13 2.5
+ 16 Thallapally, Sriyan    OEREA43W   857   826/ 50  D7  L13 L17 W25 W21 2.5
+ 17 Wilhelm, Tyler         ACKEJ20C   869   811/ 30  L4  L7  W16 W22 L10 2.0
+ 18 Scotece, Aven          LECE787W   810   775/ 50  W30 W20 L3  L7  L11 2.0
+ 19 Corleto, Enzo          CTKDB11Z   704   699/ 15  L12 W21 L5  L11 W29 2.0
+ 20 Kundu, Viraj           SHSDC06T   400   639/  5  W27 L18 W24 L21 L22 2.0
+ 21 Garg, Shlok            EMDE967U   760   729/ 12  L3  L19 W30 W20 L16 2.0
+ 22 Khan, Rohail           MEDFI80L   653   648/ 25  L6  L25 W28 L17 W20 2.0
+ 23 Reffalt, Carbyn        ACKD184D   598   571/ 24  L5  L11 L26 BYE W30 2.0
+ 24 Johnson, Kyle          SOGF294T   788   777/ 82  U   W26 L20 U   W28 2.0
+ 25 Harley, Daniel         MYADJ01A   637   633/ 24  L8  W22 L12 L16 D26 1.5
+ 26 Houdek, Tristan        MCGD711J   635   615/ 32  L14 L24 W23 L15 D25 1.5
+ 27 Wang, Xiangcheng       LECEA98K   723   660/ 15  L20 W30 L29 D14 L6  1.5
+ 28 King, Josiah           LECE433B   603   566/ 15  L2  L15 L22 W30 L24 1.0
+ 29 Espedal, Davin         MCGF615W   400   400/ 14  BYE L2  L27 L10 L19 1.0
+ 30 Harley, Wai Malie      MYAF300G   635   506/ 34  L18 L27 L21 L28 L23 0.0

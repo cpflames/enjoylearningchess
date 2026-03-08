@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wannamaker, Linus      IDXGY45B  1472  1530/ 63  W6  W11 W10 W5  W4  5.0
+  2 Brown, Malia           FRRL1512  1166  1249/338  W8  W6  D4  W11 D5  4.0
+  3 Brody, Noah            LWCL6912  1057  1135/117  W14 L4  W7  W8  W9  4.0
+  4 Reddy, Eshan           SGSG336Y  1378  1382/250  W12 W3  D2  W10 L1  3.5
+  5 Deng, Stanley          CGMDK22E  1366  1358/146  W7  W18 W9  L1  D2  3.5
+  6 Natesan, Arjun         LBYH878H  1010  1019/ 34  L1  L2  W14 W15 W13 3.0
+  7 Patterson, Ben         VCVJI54X   936   996/ 24  L5  W19 L3  W16 W10 3.0
+  8 Raghupathula, Ritvik   JFPGJ83M   795   902/ 20  L2  W15 W17 L3  W12 3.0
+  9 Ritter, Levi           LINIC692  1064  1054/ 81  W19 HPB L5  W12 L3  2.5
+ 10 Wang, Zihan            PPAHH97Y  1304  1251/224  W13 W17 L1  L4  L7  2.0
+ 11 Waggoner, Tiernan      CATHE121  1048  1004/194  W15 L1  W13 L2  L14 2.0
+ 12 Koh, Leroy             PVEG265U   958   917/ 30  L4  W14 W18 L9  L8  2.0
+ 13 Lueck, Noah            GLUHI085   871   852/ 20  L10 W16 L11 W18 L6  2.0
+ 14 Raghupathula, Ishan    JFPEG37K   596   645/ 19  L3  L12 L6  BYE W11 2.0
+ 15 Hopson, Jared          VLCDI39U   479   467/ 61  L11 L8  BYE L6  BYE 2.0
+ 16 Jain, Ansh             HSCE875U   400   702/  5  L17 L13 W19 L7  W18 2.0
+ 17 Hilton, Olivia         SIAJK588  1019   980/223  W16 L10 L8  U   U   1.0
+ 18 Mckethen, Kristopher   SGSE354T   434   414/ 13  BYE L5  L12 L13 L16 1.0
+ 19 Hilton, Amelie         SIAIE627   738   685/197  L9  L7  L16 U   U   0.0

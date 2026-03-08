@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Fine-gucker, Logan     EAGD535R   621   623/ 74  W6  W5  L2  2.0
+  2 Bannister, Altair      EAGBK36Y   582   597/ 44  L5  W4  W1  2.0
+  3 Ridenour-scholtz, EthanLLLD239W   556   561/ 37  L4  W6  W5  2.0
+  4 Gardner, Andrew        CUEDK22Z   347   421/ 34  W3  L2  D6  1.5
+  5 Crompton, Callum       FACEE89B   488   484/ 49  W2  L1  L3  1.0
+  6 Hildenbrand, Jace      TCEE722T   513   453/ 90  L1  L3  D4  0.5

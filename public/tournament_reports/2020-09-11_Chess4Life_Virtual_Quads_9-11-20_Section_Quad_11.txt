@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Jacob            MMEDD74Y   786   801/ 27  W3  W4  L2  2.0
+  2 Karthik, Shreya        GTMIA701   762   785/ 20  W4  L3  W1  2.0
+  3 Ramkumar, Siddharth    LMAEH50B   735   768/ 88  L1  W2  W4  2.0
+  4 Tran, Cayman           HSCKF51X   685   617/ 25  L2  L1  L3  0.0

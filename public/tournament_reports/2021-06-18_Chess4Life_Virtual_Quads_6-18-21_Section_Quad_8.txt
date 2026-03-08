@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mohan, Keshav          EGMGG24Z   872  1008/ 41  D4  W3  W2  2.5
+  2 Xu, Zoe                CNHBG70A   880   962/ 34  W3  W4  L1  2.0
+  3 Condit, Alex           TLIDB04F  1108  1051/ 59  L2  L1  W4  1.0
+  4 Hochberg, David        SUEI6075   972   924/103  D1  L2  L3  0.5

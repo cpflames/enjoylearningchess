@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Shimao, Alexander      GRRGG77V   735   756/ 59  W4  W3  W2  3.0
+  2 Mangla, Atharv         GRRDK07C   487   504/ 14  W3  W4  L1  2.0
+  3 Jin, Charlie           SOMBK42J   386   366/ 20  L2  L1  W4  1.0
+  4 Brakenridge, Ryan      SOMAK05L   100   100/  8  L1  L2  L3  0.0

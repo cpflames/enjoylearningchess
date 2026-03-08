@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Meiyalagan, Ruban Sai  WLDFD10L  1636  1690/160  W4  W3  W2  3.0
+  2 Boulis, Christos       RHJIC84T  1606  1584/511  L3  W4  L1  1.0
+  3 Fan, Chengrui          CHOK504D  1545  1534/140  W2  L1  L4  1.0
+  4 Frederick, Benjamin    LAUES57X  1531  1523/152  L1  L2  W3  1.0

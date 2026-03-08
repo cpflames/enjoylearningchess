@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Chuling            CNHD567N   523   591/ 16  W3  U   W2  2.0
+  2 Holliday, Austin       PTFA472D   590   575/ 15  U   W3  L1  1.0
+  3 Dua, Ishit             REEF457J   483   430/ 20  L1  L2  U   0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yu, Christopher        TYEH591U  1281  1406/169  W2  W4  W3  3.0
+  2 Singh, Saket           DISH872S  1402  1408/231  L1  W3  W4  2.0
+  3 Dmitriev, Lyan         NPTD246H  1311  1274/295  D4  L2  L1  0.5
+  4 Yang, James            SSME123B  1297  1263/175  D3  L1  L2  0.5

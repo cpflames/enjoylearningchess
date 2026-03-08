@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Agarkar, Aarav         WDMGG17J  1030  1106/ 98  W2  D4  W3  2.5
+  2 Zhao, Dennis           CGRE525E  1068  1088/100  L1  W3  W4  2.0
+  3 Yu, Christopher        SPTG591U  1017  1000/125  W4  L2  L1  1.0
+  4 Kumarswamy, Adarsh     CHRF755Y  1054  1002/307  L3  D1  L2  0.5

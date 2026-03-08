@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sharma, Parth          RSAEG29G   714   868/ 25  W2  W4  W3  3.0
+  2 Guzman, Nate           TPSD939A   736   772/ 88  L1  W3  W4  2.0
+  3 Chaudhuri, Arihant     CHAA703E   686   677/ 39  W4  L2  L1  1.0
+  4 Gonzales, Gabriel      XXXD694N   835   684/  9  L3  L1  L2  0.0

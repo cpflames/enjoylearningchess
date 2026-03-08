@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Schechter, Elizabeth   MEDC373X   469   605/ 29  W14 W13 W10 D3  W7  4.5
+  2 Li, Elizabeth          MEDDA66B   513   575/ 15  L6  W14 W15 W10 W3  4.0
+  3 Choi, Paige            EVGCD50E   533   619/ 62  W8  W6  W4  D1  L2  3.5
+  4 Cook-bugaighis, RoubaixEVGCE61C   424   546/ 15  W12 W5  L3  D7  W9  3.5
+  5 Zak, Ursula            SVSCJ30R   665   602/ 14  WF  L4  L9  W8  W12 3.0
+  6 Ewaldsson, Aida        MEDCG73P   400   489/ 10  W2  L3  D8  D9  W10 3.0
+  7 Berjis, Adrina         MEDC230U   400   407/ 21  W15 L10 W13 D4  L1  2.5
+  8 Wei, Lili              MEDB460S   435   441/ 10  L3  W12 D6  L5  W14 2.5
+  9 Nakazato, Olivia       MEDDE52L   400   462/  6  L10 W11 W5  D6  L4  2.5
+ 10 Choi, Sydney           EVGCD34F   489   468/ 58  W9  W7  L1  L2  L6  2.0
+ 11 Gupta, Pari            MEDC684L   400   400/ 18  L13 L9  L14 BYE W15 2.0
+ 12 Chen, Grace            MEDD841H   400   400/  8  L4  L8  BYE W13 L5  2.0
+ 13 Ciani, Nola            LIEDK21B   400   400/  4  W11 L1  L7  L12 BYE 2.0
+ 14 Groshong, Margaret     SVSCB52Q   400   400/  5  L1  L2  W11 D15 L8  1.5
+ 15 Zhou, Stella           MEDC422P   400   400/  9  L7  BYE L2  D14 L11 1.5

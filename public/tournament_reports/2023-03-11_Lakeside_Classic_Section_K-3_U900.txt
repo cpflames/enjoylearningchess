@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ma, Lewis              BRBB587M   892  1011/ 31  W15 W8  W3  W2  W5  5.0
+  2 Zou, Jinhan            SSMCH14T   806   843/ 31  W16 W14 W6  L1  W7  4.0
+  3 Ye, Alex               ENDDH51L   767   862/ 38  W17 W4  L1  W5  W12 4.0
+  4 Marrugo, Emilio        OPWCE25J   564   625/ 17  W24 L3  W20 WF  W6  4.0
+  5 Sabarish, Ananya       BCACG02Z   790   789/ 82  W22 W11 W12 L3  L1  3.0
+  6 Thanikonda, Kruti      RCSCK84W   724   706/ 20  W18 W10 L2  W9  L4  3.0
+  7 Lew, Abigail           OPWC645P   680   668/ 40  W23 L12 W15 W11 L2  3.0
+  8 Suresh Balaji, Shri ThaSWRCK91T   621   597/ 30  W25 L1  L11 W23 W17 3.0
+  9 O'connell, Jackson     NOWD792U   592   597/ 20  L12 W18 W19 L6  W16 3.0
+ 10 George, Ameya          EBSDK88Y   429   482/ 16  W20 L6  L13 W21 W19 3.0
+ 11 Srinivas, Sharav       RKWDI03B   288   458/ 14  WF  L5  W8  L7  W14 3.0
+ 12 Das, Sambuddha Sekhar  ENDCK47S   200   757/  5  W9  W7  L5  W14 L3  3.0
+ 13 Kalakoti, Kartika      STVAG45J   719   740/ 46  LF  W21 W10 LF  U   2.0
+ 14 Tsen, Eric             AGBCK18P   598   554/ 19  W19 L2  W24 L12 L11 2.0
+ 15 Vaughn, Andy           LAVDK88W   422   401/ 10  L1  W23 L7  L19 W21 2.0
+ 16 Kachachi, Cyrus        OPWC763G   417   402/ 15  L2  L19 W22 W24 L9  2.0
+ 17 Zhang, Andrew          GRSDE47Z   400   375/ 48  L3  L24 W18 W20 L8  2.0
+ 18 Mallu, Rushank Reddy   BRHDK93H   340   343/ 20  L6  L9  L17 W22 W24 2.0
+ 19 Xia, Jethro            BCSDK47R   300   408/  5  L14 W16 L9  W15 L10 2.0
+ 20 Vadnere, Advay         THRDK47P   300   190/  4  L10 BYE L4  L17 W23 2.0
+ 21 Donohoe, Robin         LPZCJ28Z   412   341/ 17  HPB L13 WF  L10 L15 1.5
+ 22 Jungmeisteris, Wallace BASCC77C   400   317/ 13  L5  D25 L16 L18 BYE 1.5
+ 23 Eliason, Sebastian     BFDDK87A   100   100/  9  L7  L15 BYE L8  L20 1.0
+ 24 Zeller, Holden         BFDCK47M   200   217/  5  L4  W17 L14 L16 L18 1.0
+ 25 Ashwin, Vishruth       RSACK47L   200   249/  2  L8  D22 LF  U   U   0.5

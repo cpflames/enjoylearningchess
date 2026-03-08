@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xie, Michael           BLWF549C  1022  1127/333  W4  W3  W2  3.0
+  2 Syal, Yash             SHSDC10R   983   962/ 53  L3  W4  L1  1.0
+  3 Evin, Terrick          EBSAC54L   982   961/ 14  W2  L1  L4  1.0
+  4 Gao, Chenrui           EBSFK12A   978   959/ 45  L1  L2  W3  1.0

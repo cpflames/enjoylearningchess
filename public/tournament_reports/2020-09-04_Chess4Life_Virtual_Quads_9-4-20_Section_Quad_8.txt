@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Fei, Derek             SPTDJ01E   846   985/ 29  W4  W3  W2  3.0
+  2 Nakashima, Jaden       LAVEC80B   819   873/ 44  W3  W4  L1  2.0
+  3 Swaminathan, Surya     EBSH2959   875   846/101  L2  L1  W4  1.0
+  4 Kakkad, Vayu           BRYBK50L   856   779/147  L1  L2  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Evans, Thomas          HSCGK88J   756   828/  9  W3  W4  W2  3.0
+  2 Ramkumar, Nethra       RBRD315Z   702   713/ 25  W4  W3  L1  2.0
+  3 Shankaranand, Deeksha  RSADI74Y   576   534/ 40  L1  L2  D4  0.5
+  4 Kuchi, Arjun           SSMF406Z   530   479/  6  L2  L1  D3  0.5

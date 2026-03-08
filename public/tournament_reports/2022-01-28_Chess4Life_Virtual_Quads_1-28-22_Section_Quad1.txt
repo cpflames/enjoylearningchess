@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Boulis, Christos       RHJIC84T  1651  1709/532  W4  W2  W3  3.0
+  2 Kang, Ayaan            AEAEI60T  1490  1547/250  W3  L1  W4  2.0
+  3 Skkandann, Kiann       NPRK644M  1731  1692/ 22  L2  W4  L1  1.0
+  4 Zhou, Yuchen           BCACJ42H  1527  1487/400  L1  L3  L2  0.0

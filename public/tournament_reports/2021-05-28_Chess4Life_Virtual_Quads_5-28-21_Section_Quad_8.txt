@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Praveen, Atharva       AUDDG14E  1036  1122/ 59  W2  W4  W3  3.0
+  2 Bhattacharjee, ArchishmBLWEA45Y   928   977/ 76  L1  W3  W4  2.0
+  3 Singhi, Rohan          BRHBH01P   981   954/ 52  W4  L2  L1  1.0
+  4 Sailer, Shaunak        SARDC25Z   921   858/ 96  L3  L1  L2  0.0

@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kan, Kaleb             MMECF53E   471   534/ 21  U   W3  W2  2.0
+  2 Chowdhary, Shivam      CMCED47H   400   467/  2  W3  U   L1  1.0
+  3 Shreeraam, Seshsasayee RSADD91F   400   400/  2  L2  L1  U   0.0

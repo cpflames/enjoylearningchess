@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Huang, Edwin           MEDF616M  1079  1165/ 58  W4  W2  D3  2.5
+  2 Sreraman, Rohit        BCACG92Q  1105  1132/110  W3  L1  W4  2.0
+  3 He, Oliver             CRICK71V  1099  1104/169  L2  W4  D1  1.5
+  4 Taylor, Ryder          KAMJ385C  1144  1065/300  L1  L3  L2  0.0

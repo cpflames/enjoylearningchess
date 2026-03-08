@@ -1,0 +1,28 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chaudhuri, Arihant     CHAD703E  1070  1230/179  W21 W3  D4  W9  W12 4.5
+  2 Pai, Vihaan            CHADK17C  1269  1284/152  D11 D23 W13 W8  W4  4.0
+  3 Evin, Terrick          EBSBC54L  1205  1249/ 97  W19 L1  W14 W15 W10 4.0
+  4 Lan, Jonathan          OPWC968F  1163  1203/ 86  W20 W13 D1  W5  L2  3.5
+  5 Edwin, Elijah          BCSCC24D  1129  1145/ 93  D24 W11 W17 L4  W9  3.5
+  6 Chang, Caden           UCDC260J  1034  1100/ 99  D23 W24 L15 W17 W16 3.5
+  7 Zhu, Aiden             LLSCC77X  1215  1171/ 69  W18 L17 W25 L12 W23 3.0
+  8 Palathingal, Rafael    BEND196R  1168  1157/ 33  W27 W14 L9  L2  W18 3.0
+  9 Bandai, Yugo           MCECA31C  1073  1107/ 43  W26 W15 W8  L1  L5  3.0
+ 10 Narkhede, Kshitij      CRKBA27K  1029  1054/ 43  L14 W27 W18 W16 L3  3.0
+ 11 Ma, Lewis              BRBB587M  1011  1001/ 35  D2  L5  D24 WF  W22 3.0
+ 12 Luo, Peter             SHVD664K  1008  1062/ 34  L15 W26 W23 W7  L1  3.0
+ 13 Ghosh, Snehil          CBRD738T   993  1089/ 24  W16 L4  L2  W24 W15 3.0
+ 14 Zandanov, Leonid       XXXAK31Q   100  1158/  5  W10 L8  L3  W19 W17 3.0
+ 15 Yuan, Chen             ETSBJ15Z  1242  1185/ 64  W12 L9  W6  L3  L13 2.0
+ 16 Bates-callaghan, EmmettBCSDJ49J  1247  1166/ 50  L13 W20 W19 L10 L6  2.0
+ 17 Chaudhuri, Agnivesh    CHADB55V  1059  1036/165  W22 W7  L5  L6  L14 2.0
+ 18 Ganesan, Vidur         RBRD940K   913   897/ 37  L7  W22 L10 W26 L8  2.0
+ 19 Sembium, Aditi         BCACK25W   909   913/198  L3  W21 L16 L14 W26 2.0
+ 20 Yang, Nicholas         CHRCG23U   866   875/ 56  L4  L16 W21 L23 W24 2.0
+ 21 Swaminath, Akshita     CNCC295Z   778   752/ 72  L1  L19 L20 BYE W27 2.0
+ 22 Raghavan, Neel         SSMDK63P   292   414/  9  L17 L18 BYE W27 L11 2.0
+ 23 Zhang, Lawrence        SPTDK31P   300  1016/  5  D6  D2  L12 W20 L7  2.0
+ 24 Wu, Dennis             SCDCJ54B   849   835/143  D5  L6  D11 L13 L20 1.0
+ 25 Bhattacharjee, PratyushTIMD602T   832   823/ 21  HPB HPB L7  LF  U   1.0
+ 26 Xu, Natalie            CNHB137A   785   748/ 30  L9  L12 W27 L18 L19 1.0
+ 27 Qu, Yuwen              RSAAK86G   871   642/ 10  L8  L10 L26 L22 L21 0.0

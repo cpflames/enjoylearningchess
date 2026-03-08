@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lervik, Henry          CIADK36P   776   870/ 19  W5  W4  W3  3.0
+  2 Buckham, George        SKYBK37E   767   764/ 28  L3  W6  W4  2.0
+  3 Larcom, Korbin         CIAEJ87V   616   711/ 65  W2  W5  L1  2.0
+  4 Russell, Emerson       BLEEK23A   711   680/ 22  W6  L1  L2  1.0
+  5 Bannister, Altair      EAGBK36Y   593   582/ 41  L1  L3  W6  1.0
+  6 Crompton, Callum       FACEE89B   557   488/ 46  L4  L2  L5  0.0

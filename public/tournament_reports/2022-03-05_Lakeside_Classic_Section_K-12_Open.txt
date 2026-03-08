@@ -1,0 +1,33 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wong, Kate             BCAD459M  1342  1458/ 89  D18 W12 W10 W16 W7  4.5
+  2 Lin, Michael           BCACC97F  1630  1635/229  L3  BYE W9  W17 W8  4.0
+  3 Nelson, Michael        LSSM9364  1506  1597/244  W2  W19 W6  HPB HPB 4.0
+  4 Bharadwaj, Samarth     DGHBE78A  1447  1456/ 78  W26 W20 L8  W22 W11 4.0
+  5 Li, Zerui              LMSGA45S  1239  1275/ 50  W31 W11 L7  W25 W15 4.0
+  6 Kaur, Jind             MISGE61Z  1505  1504/ 29  BYE D9  L3  W18 W16 3.5
+  7 Xia, Yuchen            BLMII52A  1364  1373/128  W30 W22 W5  D8  L1  3.5
+  8 Huang, Emily           MEDFB39A  1309  1393/200  W24 W10 W4  D7  L2  3.5
+  9 Seela, Shashank        SSMFI74N  1608  1579/132  D19 D6  L2  W26 W17 3.0
+ 10 Cheng, Selina          THUE413R  1501  1461/363  W28 L8  L1  W29 W22 3.0
+ 11 Pisan, Kai             CHYH404C  1520  1477/282  W15 L5  W18 W20 L4  3.0
+ 12 Tang, Haosen           EPSGH941  1465  1414/195  L22 L1  W28 W27 W24 3.0
+ 13 Peng, Christopher      LMSH2702  1448  1390/178  L17 L18 W30 W23 W20 3.0
+ 14 Mathur, Aashi          PLKG522S  1391  1332/258  W23 L17 W26 L15 W25 3.0
+ 15 Heider, Elena          NOVHC647   986  1078/116  L11 W30 W24 W14 L5  3.0
+ 16 Yu, Christopher        TYEI591U  1271  1249/185  W27 W25 D17 L1  L6  2.5
+ 17 Soukal, Martin         HSCIE76L   973  1144/ 31  W13 W14 D16 L2  L9  2.5
+ 18 Juluri, Hasini         OMSH290Z   892  1064/ 15  D1  W13 L11 L6  W28 2.5
+ 19 Doane, Sam             LSSL247U  1100  1383/  2  D9  L3  BYE HPB HPB 2.5
+ 20 Mayhan, Foster         BGLGK63J  1123  1120/ 15  W32 L4  W23 L11 L13 2.0
+ 21 Hawkins, Holden        TYEJ383Z  1066  1011/403  LF  L23 W32 L24 W30 2.0
+ 22 Singh, Jiyan           MISED12J   979  1018/ 31  W12 L7  W31 L4  L10 2.0
+ 23 Sood, Akul             SASI510U   932   966/132  L14 W21 L20 L13 W29 2.0
+ 24 Seshadri, Vindhya      GTMG953Y   656   808/ 14  L8  W28 L15 W21 L12 2.0
+ 25 Dubbaka, Yudhistar     RISI805S   481   646/  8  WF  L16 W29 L5  L14 2.0
+ 26 Vangala, Advaith       LMSG174X   967   954/346  L4  W32 L14 L9  D27 1.5
+ 27 Lyshol, Christian      DENI664W   855   832/ 46  L16 L29 BYE L12 D26 1.5
+ 28 Bharadwaj, Anish       WPPHI530  1011   948/257  L10 L24 L12 W31 L18 1.0
+ 29 Zhen, Hongren          KIMGC02Z   969   913/126  U   W27 L25 L10 L23 1.0
+ 30 Nooli, Sai Sahasra     REJI773X   894   866/ 53  L7  L15 L13 W32 L21 1.0
+ 31 Aguilar Sarmiento, BriaLMSHE90Q   400   400/  8  L5  BYE L22 L28 L32 1.0
+ 32 Sood, Anika            SASM262J  1200   587/  5  L20 L26 L21 L30 W31 1.0

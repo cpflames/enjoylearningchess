@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xie, Max               BLWHI185  1403  1453/319  W2  D4  W3  2.5
+  2 Siddem, Sid            RHJIC34V  1387  1410/348  L1  W3  W4  2.0
+  3 Singh, Saket           DISI872S  1400  1379/255  W4  L2  L1  1.0
+  4 Alam, Adil             BCAGI15X  1387  1348/201  L3  D1  L2  0.5

@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Seela, Shashank        SSMFI74N  1641  1649/164  W8  W4  W2  W3  D7  4.5
+  2 Marcelais, Kai         WPPIA64J  1606  1599/126  W11 W5  L1  W4  W3  4.0
+  3 Tie, Mike              ENDD856Y  1190  1224/ 24  W9  W6  W7  L1  L2  3.0
+  4 Yang, Yuchang          ILCEK16L  1117  1149/ 59  W10 L1  W5  L2  W9  3.0
+  5 Zhen, Hongren          KIMGC02Z   983  1054/140  W7  L2  L4  BYE W10 3.0
+  6 Sequeira, Jaden        SLBFB37Q   642   766/ 12  WF  L3  L10 W8  W11 3.0
+  7 Sankrithi, Sarang      HSCCB11D  1372  1328/163  L5  W11 L3  W9  D1  2.5
+  8 Morehead, Nate         BUSFI54F  1085  1014/ 96  L1  W10 L9  L6  BYE 2.0
+  9 Sembium, Aditi         BCABK25W   807   835/ 94  L3  BYE W8  L7  L4  2.0
+ 10 Chatterjee, Sasmit     XXXGH23M   600   911/  5  L4  L8  W6  W11 L5  2.0
+ 11 Li, Moses              CDWBK26L  1078   987/ 60  L2  L7  BYE L10 L6  1.0

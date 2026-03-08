@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yang, Jimmy            BCABG45S   870   904/ 37  W2  D3  WF  2.5
+  2 Agarwal, Ishaan Huma   REEEH10F   822   870/ 69  L1  W4  W3  2.0
+  3 Xie, Michael           BLWE549C   908   894/145  W4  D1  L2  1.5
+  4 Alam, Adil             BCAFI15X   828   774/118  L3  L2  LF  0.0

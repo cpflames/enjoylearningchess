@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jha, Siddhant          EVJHG46N  1194  1221/335  W4  L3  W2  2.0
+  2 Wang, Jacob            BLWED74Y  1257  1244/161  D3  W4  L1  1.5
+  3 Zhang, Aaron           CCDE873R  1186  1192/368  D2  W1  L4  1.5
+  4 Pravlik, Aiden         SHSC416H  1192  1173/194  L1  L2  W3  1.0

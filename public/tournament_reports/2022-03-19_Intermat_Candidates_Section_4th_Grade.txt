@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Liu, Lucas             SOMEH33R  1513  1574/164  W2  W4  W3  3.0
+  2 Cheng, Selina          THUE413R  1461  1478/366  L1  W3  W4  2.0
+  3 Ramkumar, Nikhil       RBRE115E  1601  1558/165  W4  L2  L1  1.0
+  4 Chintalapudi, Srihaan  CNCE662W  1135  1121/ 82  L3  L1  L2  0.0

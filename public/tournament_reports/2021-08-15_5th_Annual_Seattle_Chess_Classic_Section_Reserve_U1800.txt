@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 tot 
+  1 Xiao, David            MRPDA64Q  1585  1765/ 72  W20 W5  W7  W2  W4  W13 W8  L3  W6  8.0
+  2 Shah, Paras            ENSF904N  1431  1693/135  W3  W4  W6  L1  W14 W7  D13 W5  D9  7.0
+  3 Rodriguez-melendez, MauADONL62E  1300  1756/  8  L2  HPB W18 L6  W12 W14 W9  W1  W13 6.5
+  4 Zhou, Leonardo         SHSFE293  1641  1664/155  WF  L2  W17 W15 L1  HPB W5  W13 HPB 6.0
+  5 Bunch, Drew            BAIKG36D  1706  1655/112  W11 L1  L14 W16 W6  WF  L4  L2  W18 5.0
+  6 Suess, Wade            EVGF101D  1642  1629/257  W17 D9  L2  W3  L5  W15 D11 W8  L1  5.0
+  7 Devadithya, Hiruna     PFCH5494  1624  1611/624  W12 W19 L1  W9  D8  L2  HPB HPB HPB 5.0
+  8 Priest, Liam           SBTHL07U  1616  1596/247  W16 L13 W20 W11 D7  HPB L1  L6  W14 5.0
+  9 Nallappa, Vijay        ENSFD40S  1481  1484/263  WF  D6  D15 L7  W17 D11 L3  W12 D2  5.0
+ 10 Christy, John Patrick  ADUN853W  1404  1367/ 27  L13 L14 L12 W18 W20 HPB W19 W17 HPB 5.0
+ 11 Hack, Don              ADBNF13X  1381  1380/ 51  L5  W12 W19 L8  WF  D9  D6  L14 W16 5.0
+ 12 Ramkumar, Nikhil       RBRD115E  1125  1180/ 82  L7  L11 W10 W19 L3  W17 W16 L9  BYE 5.0
+ 13 Bloom, Corey           ADUN166W  1780  1739/ 28  W10 W8  HPB W14 HPB L1  D2  L4  L3  4.5
+ 14 Razmov, Gabriel        CSIFC26K  1457  1480/132  D18 W10 W5  L13 L2  L3  W15 W11 L8  4.5
+ 15 Hamlett, James         ADUN4372  1561  1510/ 57  HPB W18 D9  L4  LF  L6  L14 BYE W20 4.0
+ 16 Veiga, Gabriel         ENSEJ31Y   902   912/ 74  L8  L17 BYE L5  W19 W18 L12 W20 L11 4.0
+ 17 Bharathy Mohan, Aarav  FRWCC98B  1227  1168/196  L6  W16 L4  W20 L9  L12 BYE L10 D19 3.5
+ 18 Liyanage, Senuka       JUHJ643Q   900   912/  8  D14 L15 L3  L10 BYE L16 W20 W19 L5  3.5
+ 19 Vijeyanandh, Vishnu    RSAFF63Z   472   510/ 27  BYE L7  L11 L12 L16 W20 L10 L18 D17 2.5
+ 20 Ramkumar, Nethra       RBRD315Z   494   462/ 59  L1  BYE L8  L17 L10 L19 L18 L16 L15 1.0

@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kuluru, Samith         KKNFI99K   543   606/ 20  W3  U   W2  2.0
+  2 Shaikot, Sabeer        ENSD147Q   531   532/ 75  U   W3  L1  1.0
+  3 Su, Oliver             JINBD01U   531   466/ 14  L1  L2  U   0.0

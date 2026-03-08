@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Razmov, Gabriel        CSIFC26K  1422  1495/ 93  WF  W4  W2  D3  W7  4.5
+  2 Gu, Aaron Xiao         EBSF412J  1328  1426/ 50  W6  W3  L1  W7  W4  4.0
+  3 Kang, William          SOMEC12H  1429  1434/ 89  W8  L2  W5  D1  W6  3.5
+  4 Cheng, Selina          THUD413R  1318  1320/263  W9  L1  W6  W8  L2  3.0
+  5 Chitty, Alexander      MEYDW42L  1195  1198/ 19  W7  L6  L3  W9  BYE 3.0
+  6 Fung, Jonathan         EASF930M  1130  1132/ 32  L2  W5  L4  BYE L3  2.0
+  7 Westover, Charlotte    WMEE365V  1380  1332/284  L5  W8  W9  L2  L1  2.0
+  8 Zhu, Aiden             LLSAC77X  1242  1179/ 24  L3  L7  BYE L4  D9  1.5
+  9 Sridhar, Riya          AUDCG37Y   936   932/ 42  L4  BYE L7  L5  D8  1.5

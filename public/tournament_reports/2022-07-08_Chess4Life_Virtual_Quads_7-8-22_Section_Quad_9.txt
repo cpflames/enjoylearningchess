@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ge, Alex               CCDB908H   639   661/ 51  U   W3  W2  2.0
+  2 Grandhe, Kriyansh      FRWD753L   400   400/  8  D3  U   L1  0.5
+  3 Varanasi, Avani        XXXDK39C   400   400/  2  D2  L1  U   0.5

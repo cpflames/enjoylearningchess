@@ -1,0 +1,29 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Liu, Austin            PLKH530J  1864  1929/269  W26 W13 W21 HPB D3  W12 5.0
+  2 Diamond, Colin         ADUN6531  1874  1902/ 36  W9  W15 D4  D3  D12 W8  4.5
+  3 Nicoski, Aaron         ADUN598C  1834  1867/ 78  BYE W5  W18 D2  D1  D4  4.5
+  4 Kona, Vidip            RSADI26J  1815  1861/229  W25 W24 D2  W17 D9  D3  4.5
+  5 Liu, Erik              INTJ4861  1811  1823/348  D6  L3  BYE W11 WF  W9  4.5
+  6 Jammalamadaka, Vihaan  BCAEJ90F  1803  1847/293  D5  W8  L12 D7  W21 W16 4.0
+  7 Pitre, H G             ADUN3323  1867  1862/ 14  W23 L21 D11 D6  W20 HPB 3.5
+  8 Tu, Robin              ADUN9951  1798  1809/316  W19 L6  W28 W21 HPB L2  3.5
+  9 Li, Edward             TMBH768S  1729  1748/288  L2  W26 W22 W24 D4  L5  3.5
+ 10 Keyser, Harrison       ADUNA131  1705  1748/387  D14 L17 W23 D13 W19 HPB 3.5
+ 11 Nallabothula, Varin    WPPI457A  1671  1704/363  BYE L14 D7  L5  W24 W18 3.5
+ 12 Hosford, Michael J     ADUNF263  1990  1985/151  HPB HPB W6  W18 D2  L1  3.5
+ 13 Kuhner, Mary           ADUND44Q  1929  1897/ 31  W16 L1  D20 D10 D18 D15 3.0
+ 14 Razmov, Valentin       ADUNB02T  1866  1840/ 52  D10 W11 L17 D20 L16 W25 3.0
+ 15 Karthikeyan, HarishkumaREJGJ81A  1617  1638/180  BYE L2  D24 L16 W23 D13 3.0
+ 16 Wall, Andrew           ADUNI83Y  1300  1744/  6  L13 D23 D25 W15 W14 L6  3.0
+ 17 Ackerman, Ryan         ADUNC514  1881  1888/187  HPB W10 W14 L4  LF  U   2.5
+ 18 Campbell, Tim          ADUN3836  1789  1764/111  W27 BYE L3  L12 D13 L11 2.5
+ 19 Buck, Stephen J        ADUN8800  1811  1774/ 19  L8  BYE HPB HPB L10 D20 2.5
+ 20 Wang, Ted              MEDCK13D  1729  1731/154  L24 W25 D13 D14 L7  D19 2.5
+ 21 Baxter, Brent          ADUN647A  1929  1900/ 15  W22 W7  L1  L8  L6  U   2.0
+ 22 Wang, Felicity         LMSIJ02F  1773  1728/270  L21 HPB L9  W26 L25 D24 2.0
+ 23 Xu, Owen               SOMC896M  1694  1654/104  L7  D16 L10 D25 L15 W26 2.0
+ 24 Edwards, Gary B        ADUN1386  1873  1818/  6  W20 L4  D15 L9  L11 D22 2.0
+ 25 Lowery, Jeff           ADUN133S  1300  1622/  6  L4  L20 D16 D23 W22 L14 2.0
+ 26 Anthony, Ralph         ADUN846D   400   400/  5  L1  L9  HPB L22 BYE L23 1.5
+ 27 Devadithya, Hiruna     PFCI5494  1618  1606/635  L18 U   U   U   U   U   0.0
+ 28 Sauve, Lucas           ADUNE38H  1310  1310/  5  U   U   L8  U   U   U   0.0

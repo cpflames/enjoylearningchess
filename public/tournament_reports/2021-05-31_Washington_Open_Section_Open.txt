@@ -1,0 +1,38 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Lenderman, Aleksandr   ADUN429F  2712  2711/ 52  W21 W9  D3  W5  D2  W8  5.0
+  2 Guha, Mitrabha         ADINY517  2445  2451/ 38  W23 W11 W16 D8  D1  W5  5.0
+  3 Talukdar, Rohan        MISMG44B  2416  2425/ 61  W24 W10 D1  W34 W8  HPB 5.0
+  4 Porter, Ryan W         ADUNF05C  2308  2309/  6  W33 W20 L8  D17 W7  W16 4.5
+  5 Kulkarni, Ojas         ADINY55V  1300  2336/  6  W14 W31 W12 L1  W9  L2  4.0
+  6 Vega, Isaac            ADONW943  1973  1993/115  D15 L34 D27 W23 W26 W28 4.0
+  7 Bell, Harry E          ADUN6453  2000  2017/ 54  L20 W33 W31 W16 L4  W17 4.0
+  8 Shahinyan, David       ADINB96J  2573  2570/ 65  W32 W37 W4  D2  L3  L1  3.5
+  9 Levine, Joseph         EPSID260  2251  2246/215  W27 L1  W13 W11 L5  D10 3.5
+ 10 Vijayakumar, Advaith   LEOI6655  2043  2053/262  W25 L3  W20 D14 D17 D9  3.5
+ 11 Chang, Eddie           INTJ6270  1887  1920/160  W18 L2  W22 L9  D28 W20 3.5
+ 12 Jorajuria Mendoza, AlgoADINY849  1113  1372/  6  D35 W36 L5  D18 D24 W22 3.5
+ 13 Razmov, Valentin       ADUNB02T  1924  1926/ 33  D36 W35 L9  D21 D22 W24 3.5
+ 14 Van Weerdhuizen, Lane  ADUN3644  1883  1939/510  L5  W32 W37 D10 HPB HPB 3.5
+ 15 Szeto, Sophie          LSSJH023  1817  1868/325  D6  L17 W32 HPB HPB W21 3.5
+ 16 Perez, Ignacio         ADUNA795  2224  2206/ 44  W30 W22 L2  L7  W18 L4  3.0
+ 17 Whale, Nicholas        ADUNJ751  2067  2052/259  L22 W15 W25 D4  D10 L7  3.0
+ 18 Lakshminarayanan, RishiLSSJD542  1683  1697/160  L11 BYE W29 D12 L16 D23 3.0
+ 19 Nicoski, Aaron         ADUN598C  1800  1807/ 52  L37 D23 L21 D36 W31 W30 3.0
+ 20 Vemparala, Nikash      BCAFI078  1835  1854/332  W7  L4  L10 W27 D21 L11 2.5
+ 21 Murray, David          ADONQ47K  1950  1937/ 48  L1  D30 W19 D13 D20 L15 2.5
+ 22 Chow, Alex             ADUN7419  1829  1818/212  W17 L16 L11 W31 D13 L12 2.5
+ 23 Baxter, Brent          ADUN647A  1919  1901/ 10  L2  D19 W36 L6  D30 D18 2.5
+ 24 Lee, Brian             WFWMA904  1881  1858/230  L3  L25 W33 W35 D12 L13 2.5
+ 25 Campbell, Tim          ADUN3836  1767  1791/105  L10 W24 L17 D30 D32 D29 2.5
+ 26 Lopez, Francisco J     ADUN1605  1778  1793/ 20  HPB L28 D30 W29 L6  D27 2.5
+ 27 Jones, Davey           ADUNC10L  1819  1817/ 16  L9  HPB D6  L20 W36 D26 2.5
+ 28 Shubin, Daniel         EPSKF498  2162  2143/473  HPB W26 HPB U   D11 L6  2.5
+ 29 Qian, Daniel           PFCJ7807  1906  1871/278  HPB HPB L18 L26 W35 D25 2.5
+ 30 Kuhner, Mary           ADUND44Q  1932  1901/ 20  L16 D21 D26 D25 D23 L19 2.0
+ 31 Yadav, Arjun           MMED664A  1412  1435/ 54  BYE L5  L7  L22 L19 W36 2.0
+ 32 Ackerman, Ryan         ADUNC514  1957  1915/168  L8  L14 L15 BYE D25 D33 2.0
+ 33 Ingram, Richard        ADBNX611  1755  1743/ 66  L4  L7  L24 HPB BYE D32 2.0
+ 34 Dhulipalla, Bala ChandrADINY82Y  1300  2205/  2  HPB W6  HPB L3  U   U   2.0
+ 35 Lu, Yiding             NPTE865Z  1809  1761/187  D12 L13 HPB L24 L29 HPB 1.5
+ 36 Wang, Felicity         LMSHJ02F  1727  1667/256  D13 L12 L23 D19 L27 L31 1.0
+ 37 Deshpande, Aaryan      INTLF757  2138  2123/470  W19 L8  L14 U   U   U   1.0

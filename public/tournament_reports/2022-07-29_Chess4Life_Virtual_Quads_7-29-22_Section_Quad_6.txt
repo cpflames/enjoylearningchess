@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Evin, Terrick          EBSAC54L   961  1088/ 17  W2  W4  W3  3.0
+  2 Deshpande, Keshav      WOBE420G   960   964/ 61  L1  W3  D4  1.5
+  3 Garg, Vihaan           CMCBJ10X   963   941/ 91  W4  L2  L1  1.0
+  4 Gao, Chenrui           EBSFK12A   959   912/ 48  L3  L1  D2  0.5

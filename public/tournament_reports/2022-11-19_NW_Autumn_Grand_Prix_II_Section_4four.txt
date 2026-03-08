@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Thompson, Grant        MGVE337E   708   821/ 11  W3  W2  W4  3.0
+  2 Werner, Finn           FHVIJ98B   770   783/ 36  W7  L1  W5  2.0
+  3 Fine-gucker, Logan     EAGD535R   579   634/ 30  L1  W8  W6  2.0
+  4 Jackson, Caitlin       LYAJJ68P   738   727/ 63  D5  W6  L1  1.5
+  5 Danger, Presley        BLNG716S   626   654/  9  D4  W7  L2  1.5
+  6 Parsons, Damien        VSTGC92H   715   594/  6  W8  L4  L3  1.0
+  7 Celaya, Benito         SKYE505E   659   618/ 34  L2  L5  W8  1.0
+  8 Koontz, John           HORI103A   599   417/  6  L6  L3  L7  0.0

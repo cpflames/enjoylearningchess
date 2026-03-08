@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Naenna, Patanin        SPLDQ28H   710   742/ 52  W3  D4  W2  2.5
+  2 Leon, Nikhil           HSCD587T   639   663/ 55  W4  W3  L1  2.0
+  3 Shaikot, Sabeer        XXXD147Q   531   530/ 35  L1  L2  W4  1.0
+  4 Sumanaseni, Evan       CNHF876D   603   549/149  L2  D1  L3  0.5

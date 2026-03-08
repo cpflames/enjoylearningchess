@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Garg, Vihaan           CMCCJ10X   887   904/112  W4  L2  W3  2.0
+  2 Li, Chuling            CNHE567N   811   862/ 40  L3  W1  W4  2.0
+  3 Xie, Leon              CNHE264X   910   867/ 45  W2  L4  L1  1.0
+  4 Stake, Charles         OESDM87Q   791   783/142  L1  W3  L2  1.0

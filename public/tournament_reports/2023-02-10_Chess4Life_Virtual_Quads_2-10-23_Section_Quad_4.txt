@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Girroir, Banyan        RMBIL92L  1202  1218/ 17  W4  W3  L2  2.0
+  2 Zakonov, Pasha         BCAJJ63K  1199  1216/ 54  L3  W4  W1  2.0
+  3 Duseja, Ronit          SNEFA38H  1174  1198/137  W2  L1  W4  2.0
+  4 Xie, Leon              CNHE264X  1123  1065/ 70  L1  L2  L3  0.0

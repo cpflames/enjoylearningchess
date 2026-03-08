@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wong-godfrey, Emerson  BUSJH83E  1717  1713/474  W4  D2  D3  2.0
+  2 Pisan, Kai             CHYJ404C  1804  1775/455  D3  D1  D4  1.5
+  3 Greisen, Alfred        EALJK95M  1202  1298/ 22  D2  D4  D1  1.5
+  4 Siddem, Sid            RHJJC34V  1498  1492/447  L1  D3  D2  1.0

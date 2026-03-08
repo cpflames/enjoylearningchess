@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chevuri, Tattva        CBREC06V  1015  1039/225  W4  L3  W2  2.0
+  2 Amalo, Eliot           HSCH282X  1014  1039/ 40  W3  W4  L1  2.0
+  3 Foltz, Karsten         HTNG306D  1011  1036/ 76  L2  W1  W4  2.0
+  4 Nidamarthi, Nikhil     RSAC375J  1005   931/ 30  L1  L2  L3  0.0

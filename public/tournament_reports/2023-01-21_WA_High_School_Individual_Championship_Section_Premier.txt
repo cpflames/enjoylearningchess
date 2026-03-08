@@ -1,0 +1,25 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 r10 tot 
+  1 Frost, Ignatius        SHMJJ64P  1439  1579/ 68  W11 W11 W18 W18 W3  W3  W5  W5  W6  W6  ***
+  2 Werner, Ross           SHMLB91H  1311  1326/115  W20 W20 D15 D15 D10 D10 W19 W19 D5  D5  7.0
+  3 Stanley, Soren         BLHM116S  1267  1352/ 63  W4  W4  W19 W19 L1  L1  D10 D10 W15 W15 7.0
+  4 Greisen, Alfred        EALJK95M   893  1252/ 14  L3  L3  W11 W11 W24 W24 D8  D8  W10 W10 7.0
+  5 Kuzin, Ethan           SHMK7567  1422  1407/293  W16 W16 D14 W14 W8  W8  L1  L1  D2  D2  6.5
+  6 Reynolds, Spencer      FERM2234  1016  1291/ 39  D10 L10 W21 W21 W14 W14 W7  W7  L1  L1  6.5
+  7 Park, Mir              PULK4692  1400  1347/ 40  W9  W9  L8  D8  D15 W15 L6  L6  W18 W18 6.0
+  8 Wakeman, Oliver        INLJG10Y  1152  1204/ 74  W22 W22 W7  D7  L5  L5  D4  D4  D13 W13 6.0
+  9 Waters, Shawn          BLHKK63D  1032  1084/ 49  L7  L7  W22 W22 D18 D18 D16 D16 W19 W19 6.0
+ 10 Kolenski, Drew         LSSKI420  1435  1369/168  D6  W6  D24 W24 D2  D2  D3  D3  L4  L4  5.0
+ 11 Mcfadden, Cameron      FERMI35S  1103  1099/ 99  L1  L1  L4  L4  W12 W12 D17 D17 W23 W23 5.0
+ 12 Xu, Audrey             HHSK2965   713   886/ 33  L18 L18 D16 D16 L11 L11 W22 W22 W24 W24 5.0
+ 13 Loi, Joseph            LSSMK89Z  1200  1100/  8  D21 D21 W17 D17 HPB HPB D15 D15 D8  L8  5.0
+ 14 Hu, Nathan             HHSM1507  1198  1158/127  WF  WF  D5  L5  L6  L6  D18 D18 D16 D16 4.5
+ 15 Hall, Jack             FERMD220  1091  1108/110  W23 W23 D2  D2  D7  L7  D13 D13 L3  L3  4.5
+ 16 Mittal, Sanyam         JACK2663  1033  1055/ 82  L5  L5  D12 D12 D17 W17 D9  D9  D14 D14 4.5
+ 17 Huang, Jason           GARJK89Y   900  1012/ 10  D24 D24 L13 D13 D16 L16 D11 D11 W20 D20 4.5
+ 18 Uhlenkott, Kolby       PULMH714  1258  1205/133  W12 W12 L1  L1  D9  D9  D14 D14 L7  L7  4.0
+ 19 Chen, Sophia           HHSJ479E  1107  1061/114  WF  WF  L3  L3  W20 W20 L2  L2  L9  L9  4.0
+ 20 Darr-rehmert, Natalie  FERMK93U  1013   970/107  L2  L2  W23 W23 L19 L19 D24 D24 L17 D17 3.5
+ 21 Bowman, Finn           SHMKD50L  1137  1109/ 70  D13 D13 L6  L6  HPB HPB HPB HPB U   U   3.0
+ 22 Custodio, John         HHSKK89W  1000   596/  8  L8  L8  L9  L9  D23 D23 L12 L12 BYE BYE 3.0
+ 23 Qin, Louis             HHSKK89V  1000   546/  8  L15 L15 L20 L20 D22 D22 BYE BYE L11 L11 3.0
+ 24 Yuan, Emma             HHSJI01S  1226  1098/113  D17 D17 D10 L10 L4  L4  D20 D20 L12 L12 2.5

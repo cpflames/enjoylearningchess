@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Stein, Benjamin        HSCBB61S  1187  1203/132  D2  W4  W3  2.5
+  2 Fei, Derek             SPTDJ01E   985  1047/ 32  D1  D3  W4  2.0
+  3 Zhao, Dennis           CGRE525E  1022  1033/121  W4  D2  L1  1.5
+  4 Kan, Kaleb             MMECF53E  1033   966/124  L3  L1  L2  0.0

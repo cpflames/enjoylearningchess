@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Talukdar, Rohan        MISMG44B  2412  2416/ 56  W4  W2  W5  3.0
+  2 Guha, Mitrabha         ADINY517  2450  2447/ 21  W3  L1  W4  2.0
+  3 Weller, Stephen F      ADUN6094  1364  1365/ 11  L2  W5  BYE 2.0
+  4 Hawkins, Holden        TYEI383Z  1189  1189/188  L1  BYE L2  1.0
+  5 Selsky, John           ADUNA64Y   707   705/  2  BYE L3  L1  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xu, Owen               SOMB896M  1556  1624/ 77  W2  W3  W4  3.0
+  2 Sankrithi, Sarang      HSCBB11D  1354  1437/106  L1  W4  W3  2.0
+  3 Metzmaker, Suya        OPWF364P  1667  1608/258  D4  L1  L2  0.5
+  4 Sankrithi, Siva        ADUNI948  1450  1426/ 20  D3  L2  L1  0.5

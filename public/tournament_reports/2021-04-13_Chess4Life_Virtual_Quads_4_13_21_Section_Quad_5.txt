@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sridhar, Riya          AUDDG37Y   630   789/ 15  W2  W4  W3  3.0
+  2 Buado, Roman           BLWDI81U   680   705/ 39  L1  W3  W4  2.0
+  3 Taylor, Ryder          HSCH385C   553   558/ 12  W4  L2  L1  1.0
+  4 Kan, Leanne            HSCC710K   720   618/ 21  L3  L1  L2  0.0

@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kuhner, Mary           ADUND44Q  1878  1932/ 14  W2  W7  W5  D4  D3  4.0
+  2 Perez, Ignacio         ADUNA795  2212  2203/ 31  L1  W8  W9  W6  W4  4.0
+  3 Ingram, Richard        ADBNX611  1708  1755/ 62  W9  W5  D4  HPB D1  3.5
+  4 Lavoice, Richard       ADUNG39B  1300  1820/  5  W10 W11 D3  D1  L2  3.0
+  5 Martin, Andrew         ADUNC31N  1755  1806/ 15  W6  L3  L1  W11 W7  3.0
+  6 Bell, Harry E          ADUN6453  2000  1978/ 48  L5  D10 W7  L2  W8  2.5
+  7 Scholz, Fritz          ADUN5498  2012  1969/  5  W8  L1  L6  W10 L5  2.0
+  8 Hamlett, James         ADUN4372  1561  1562/ 41  L7  L2  BYE W9  L6  2.0
+  9 Hack, Don              ADBNF13X  1336  1331/ 24  L3  BYE L2  L8  W11 2.0
+ 10 Christy, John Patrick  ADUN853W  1400  1420/ 16  L4  D6  W11 L7  HPB 2.0
+ 11 Ruff, Lois             ADUNJ90S  1122  1101/ 84  BYE L4  L10 L5  L9  1.0

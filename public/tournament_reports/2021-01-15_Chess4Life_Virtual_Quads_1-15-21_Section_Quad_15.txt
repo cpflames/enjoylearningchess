@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Shubin, Neta           RKWK7542   400   622/ 27  W4  W2  W3  3.0
+  2 Bhattacharjee, ArchishmBLWEA45Y   533   557/ 23  W3  L1  W4  2.0
+  3 Son, Ryker             HSCC804B   400   405/  9  L2  W4  L1  1.0
+  4 Neff, Nadine           ABEEC79W   595   480/256  L1  L3  L2  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ying, Yiheng           MEDDE78K  1449  1492/216  D3  W2  W4  2.5
+  2 Cha, Samuel            LAVDK18Z  1425  1447/ 91  W4  L1  W3  2.0
+  3 Zhou, Yuchen           BCABJ42H  1413  1417/234  D1  W4  L2  1.5
+  4 Jha, Siddhant          SSMGG46N  1433  1372/292  L2  L3  L1  0.0

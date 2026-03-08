@@ -1,0 +1,3 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Yakkali, Karthik VedantKKNF301E  1119  1146/ 51  W2  1.0
+  2 Chu, Joshua            EASEC73V  1115  1088/ 24  L1  0.0

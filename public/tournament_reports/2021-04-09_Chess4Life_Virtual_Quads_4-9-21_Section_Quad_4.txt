@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Alam, Adil             BCAFI15X  1281  1386/145  W2  W3  W4  3.0
+  2 Kim, Dylan             SCDCK38L  1285  1309/112  L1  W4  W3  2.0
+  3 Zhang, Aaron           CCDD873R  1286  1266/288  W4  L1  L2  1.0
+  4 Karri, Aditya          AUDDC55V  1278  1216/103  L3  L2  L1  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zeitlin, Tom           SPTDI56H  1012  1090/ 28  W4  D2  W3  2.5
+  2 Fan, Alex              ENAII219  1018  1092/ 92  W3  D1  W4  2.5
+  3 Xie, Leon              CNHE264X  1066  1031/ 80  L2  W4  L1  1.0
+  4 Nidamarthi, Nikhil     RSAD375J   955   898/151  L1  L3  L2  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Attuluri, Kaushik      INGJC628  1232  1290/299  W4  W3  D2  2.5
+  2 Vijayakrishnan, AchyuthPKRB646F  1232  1290/ 23  W3  W4  D1  2.5
+  3 Xie, Max               BLWGI185  1216  1196/212  L2  L1  W4  1.0
+  4 Zhang, Ethan (yichen)  CRIDG57B  1195  1134/ 72  L1  L2  L3  0.0

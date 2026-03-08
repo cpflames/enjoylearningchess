@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Fudge, Alice           GRRE400B  1170  1240/ 24  D2  W4  W3  2.5
+  2 Stein, Samuel          HSCEH03T  1135  1148/171  D1  L3  W4  1.5
+  3 Wang, Ares             MEDDJ77J  1296  1248/189  L4  W2  L1  1.0
+  4 Zhang, Ethan (yichen)  CRIEG57B  1105  1102/209  W3  L1  L2  1.0

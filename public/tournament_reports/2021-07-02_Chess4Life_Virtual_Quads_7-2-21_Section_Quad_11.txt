@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Amalo, Eliot           HSCG282X   546   669/  9  W3  W2  W4  3.0
+  2 Ebel, Parker           XXXI777Y   606   579/  5  W5  L1  BYE 2.0
+  3 Aelion, Aya            SVCFF21D   500   626/  3  L1  W4  W5  2.0
+  4 Bohannon, Andrew       LHTDG71E   422   400/ 48  WF  L3  L1  1.0
+  5 Naik, Svara            RSAF816B   500   400/  2  L2  BYE L3  1.0

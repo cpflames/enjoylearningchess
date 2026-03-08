@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kim, Dylan             SCDCK38L  1082  1229/ 80  W2  W3  W4  3.0
+  2 Dmitriev, Lyan         NPTD246H  1140  1166/263  L1  W4  W3  2.0
+  3 Hawkins, Holden        TYEI383Z  1154  1129/207  W4  L1  L2  1.0
+  4 Ivanovic, Mina         UCDCH40V  1149  1078/316  L3  L2  L1  0.0

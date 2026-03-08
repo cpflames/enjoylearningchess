@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ephrem, Yabi           HSCHC72Q   996  1136/ 71  W6  D2  W7  W5  W3  4.5
+  2 Yu, Patrick            BOTK621D  1000  1137/  5  W4  D1  W3  W7  L6  3.5
+  3 Soukal, Martin         HSCIE76L   967   973/ 26  W9  W7  L2  W8  L1  3.0
+  4 Zhen, Hongren          KIMGC02Z   964   969/122  L2  W8  L5  W6  W7  3.0
+  5 Moraleja, Juan Rufino  STMIB32V   898   928/121  L7  W6  W4  L1  W8  3.0
+  6 Nooli, Sai Sahasra     REJI773X   898   894/ 48  L1  L5  W8  L4  W2  2.0
+  7 Mothukuri, Akhil       INGGT84J   988   928/164  W5  L3  L1  L2  L4  1.0
+  8 Pretti, Giulia         STMIF84J   687   642/ 78  BYE L4  L6  L3  L5  1.0
+  9 Kossuri, Neil          KKNE696L   644   629/  5  L3  U   U   U   U   0.0

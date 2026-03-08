@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sunil, Avyukth         JWEGN88H   727   816/ 24  W4  W3  D2  2.5
+  2 Yu, Owen               MEDDC65S   786   802/ 58  D3  W4  D1  2.0
+  3 Wani, Vivaan Vikram    GTMHK15E   936   825/  6  D2  L1  W4  1.5
+  4 Bangard, Dhruv         TBKAK65D   538   502/ 10  L1  L2  L3  0.0

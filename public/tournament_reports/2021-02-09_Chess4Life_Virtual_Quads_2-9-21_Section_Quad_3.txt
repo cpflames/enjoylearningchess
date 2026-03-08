@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kim, Dylan             SCDCK38L   926  1076/ 48  W2  W3  W4  3.0
+  2 Xiong, Michael         CCDC115A  1036  1021/ 57  L1  W4  D3  1.5
+  3 Chowdhary, Shivam      CMCED47H   818   835/ 19  D4  L1  D2  1.0
+  4 Bar, Nathan            AUDB368C  1051   982/ 37  D3  L2  L1  0.5

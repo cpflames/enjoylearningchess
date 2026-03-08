@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Baxter, Brent          ADUN647A  1902  1949/ 21  W17 W12 W16 W5  W6  D2  5.5
+  2 Yang, Arnold           WVWLP993  1722  1816/220  L6  W21 W19 W16 W10 D1  4.5
+  3 Wolff, Gil             ADUN826F  1977  1959/  9  W15 D9  D10 HPB W16 D4  4.0
+  4 Razmov, Valentin       ADUNB02T  1833  1853/101  L12 D13 W17 W14 W5  D3  4.0
+  5 Gross, Alexander       ROOJH741  1858  1851/132  W22 U   U   L1  L4  W15 3.5
+  6 Cheng, Edward          GARKC74W  1829  1838/397  W2  L10 W9  W8  L1  D7  3.5
+  7 Zhu, Jamie             EVJG558E  1783  1785/315  D20 D19 D13 D12 W21 D6  3.5
+  8 Li, Edward             TMBI768S  1798  1794/309  D13 D20 W23 L6  W12 D10 3.5
+  9 Heath, Derek           SKRH1458  1731  1758/298  W14 D3  L6  D13 W20 HPB 3.5
+ 10 Wang, Daniel           LSSK8287  1712  1766/603  W11 W6  D3  HPB L2  D8  3.5
+ 11 Edwards, Gary B        ADUN1386  1818  1799/ 12  L10 D17 D14 D23 W19 D13 3.0
+ 12 Jammalamadaka, Varnika OVLID216  1723  1736/463  W4  L1  D20 D7  L8  W18 3.0
+ 13 Eksarevskiy, Albert    WPPI530Y  1682  1706/ 55  D8  D4  D7  D9  D18 D11 3.0
+ 14 Davis, Frederick A     ADUN4232  1857  1822/585  L9  D15 D11 L4  D22 W23 2.5
+ 15 Lin, Michael           BASDC97F  1761  1754/273  L3  D14 D21 D19 W23 L5  2.5
+ 16 Caluza, Severo         ADBNX44A  1800  1786/  5  W23 W18 L1  L2  L3  HPB 2.5
+ 17 Suess, Wade            EVGH101D  1757  1735/284  L1  D11 L4  L21 BYE W20 2.5
+ 18 Briggs, Mark Steve     ADUNI316  1648  1649/  4  W21 L16 HPB HPB D13 L12 2.5
+ 19 Pitre, H G             ADUN3323  1759  1733/ 18  HPB D7  L2  D15 L11 HPB 2.0
+ 20 Xu, Owen               SOMD896M  1644  1638/153  D7  D8  D12 HPB L9  L17 2.0
+ 21 Pisan, Kai             CHYJ404C  1787  1748/425  L18 L2  D15 W17 L7  D22 2.0
+ 22 Bailey, Daniel         ADUNF27H  1729  1673/  7  L5  U   U   BYE D14 D21 2.0
+ 23 Allen, Robert J        ADUNF120  1700  1657/  9  L16 BYE L8  D11 L15 L14 1.5

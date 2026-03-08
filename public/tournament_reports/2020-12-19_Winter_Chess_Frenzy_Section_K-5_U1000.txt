@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ramkumar, Nikhil       RBRD115E   793   910/ 25  W11 W8  D4  W3  W2  4.5
+  2 Tsai, Nicholas         BLWE882Z   857   886/ 39  W5  D3  W6  W4  L1  3.5
+  3 Priest, Kieran         CIODU08S   675   812/127  W7  D2  W9  L1  W5  3.5
+  4 Liang, Wen             JINBF53X   766   814/ 24  W6  W9  D1  L2  D7  3.0
+  5 Vijayakumar, Anvith    EABED78U   534   615/ 44  L2  BYE W7  W8  L3  3.0
+  6 Phillips-acheson, SebasWOBE817T   855   814/126  L4  W10 L2  W11 W8  3.0
+  7 Singh, Jiyan           UNKDD12J   890   826/ 21  L3  W11 L5  W9  D4  2.5
+  8 Velmurugan, Kiranya    CNCDB21J   400   426/  9  BYE L1  W10 L5  L6  2.0
+  9 Ma, Horace             CCDBD57Z   784   652/  8  W10 L4  L3  L7  BYE 2.0
+ 10 Kancheti, Karthika     CNCD955X   400   400/  4  L9  L6  L8  BYE W11 2.0
+ 11 Kancheti, Harshiv      CNCB518K   400   400/  4  L1  L7  BYE L6  L10 1.0

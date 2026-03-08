@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Deng, Stanley          CGMDK22E  1373  1380/156  W15 W11 D5  D6  W3  4.0
+  2 Ritter, Levi           LINIC692  1054  1107/ 86  L3  W12 W7  W8  W4  4.0
+  3 Keener, Karl           HLHGY40G   967  1134/ 50  W2  W7  W6  BYE L1  4.0
+  4 Mynam, Nishanth        SUPEE13Y   665   877/ 18  W10 W13 W8  BYE L2  4.0
+  5 Carper, Jack           LINIG86W  1399  1372/122  W12 L6  D1  W16 W9  3.5
+  6 Patterson, Ben         VCVJI54X   996  1143/ 28  BYE W5  L3  D1  W11 3.5
+  7 Bai, Kelin             PVEDD75J  1000  1029/118  W11 L3  L2  W12 W14 3.0
+  8 Hochheimer, Noah       SGSFF37G   749   873/147  W14 W9  L4  L2  W15 3.0
+  9 Gudipati, Satvik       WAXJK48A   900   965/  5  W17 L8  W10 W14 L5  3.0
+ 10 Malde, Jake            MULGB22V   794   801/ 69  L4  W16 L9  D15 W18 2.5
+ 11 Brown, Malia           FRRL1512  1249  1181/343  L7  L1  W15 W13 L6  2.0
+ 12 Waggoner, Tiernan      CATHE121  1004   962/198  L5  L2  BYE L7  W16 2.0
+ 13 Moss, Solomon          HSCEH79G   890   822/ 50  W18 L4  L14 L11 BYE 2.0
+ 14 Malde, Parker          MULE146W   678   706/ 54  L8  W18 W13 L9  L7  2.0
+ 15 Hilton, Olivia         SIAJK588   980   914/227  L1  BYE L11 D10 L8  1.5
+ 16 Santilli, Tristen      NWDKH668   742   722/ 73  HPB L10 W18 L5  L12 1.5
+ 17 Francis, Tristan       MAEM1824   729   712/ 22  L9  BYE U   U   U   1.0
+ 18 Wang, Kelby            PVEB796Y   703   606/ 53  L13 L14 L16 BYE L10 1.0

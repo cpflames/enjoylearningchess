@@ -1,0 +1,41 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wang, Derek            MEDCF70G  1187  1270/113  W15 W4  W19 W5  W3  5.0
+  2 Ramkumar, Siddharth    LMADH50B   996  1028/165  W27 W16 D9  W10 W8  4.5
+  3 Mayhan, Foster         BGLFK63J   500  1257/  5  W18 W6  W14 W11 L1  4.0
+  4 Chitty, Alexander      XXODW42L   904   996/ 10  W22 L1  W38 W23 W11 4.0
+  5 Doohan, Hugh           XXXD616U   403   734/ 11  W13 W29 W20 L1  W21 4.0
+  6 Yun, Ted               SOMEF52H   942   984/ 61  W36 L3  W17 W24 W12 4.0
+  7 Salal, Zikrain         SHSEJ82Z   800   997/ 20  W37 W30 L11 W19 W14 4.0
+  8 Ning, Winston          SCDCJ14W   984   986/ 88  W26 D10 W30 W9  L2  3.5
+  9 Chin, Jonathan         HSCF756L   400   757/  9  W24 W35 D2  L8  W20 3.5
+ 10 Diamant, David         MCKF969P   400   702/  8  BYE D8  W35 L2  W29 3.5
+ 11 Kedarisetty, Shreyas   GRREH60G  1069  1067/ 81  W17 W28 W7  L3  L4  3.0
+ 12 Josyula, Snigdha       SOME820K   477   728/  5  W25 L19 W15 W13 L6  3.0
+ 13 Chowdhary, Shivam      CMCED47H   931   884/ 36  L5  W27 W34 L12 W23 3.0
+ 14 Tian, Grace            CRIDE89L  1024  1004/102  W40 W21 L3  W16 L7  3.0
+ 15 Mitra, Rahul           OPWFH53N   723   789/152  L1  W36 L12 W35 W28 3.0
+ 16 Kampati, Shriyans      BRHCA10H   515   651/ 10  WF  L2  W25 L14 W24 3.0
+ 17 Zhen, Hongren          KIMFC02Z   710   801/103  L11 W33 L6  W30 W25 3.0
+ 18 Tsai, Nicholas         BLWE882Z   776   782/ 62  L3  L23 W32 W36 W26 3.0
+ 19 Perrin, Victor         LKDEF15C   972   941/ 26  W23 W12 L1  L7  D22 2.5
+ 20 Moriguchi, Minh        THUFA43T  1059   973/ 60  W38 W31 L5  D21 L9  2.5
+ 21 Suresh, Sahadev        SOMDB12V   612   672/ 39  WF  L14 W28 D20 L5  2.5
+ 22 Bhatia, Saaj           SOMF1068   461   560/ 13  L4  L38 W39 W40 D19 2.5
+ 23 Moon, Ryan             MTWC899K   567   663/ 11  L19 W18 W31 L4  L13 2.0
+ 24 Ybarra, Tenoch         RDSFF05B   754   731/ 40  L9  W39 W29 L6  L16 2.0
+ 25 Carl, Aiden            SOMF802S   829   759/ 36  L12 W26 L16 W32 L17 2.0
+ 26 Mathur, Avyukt         WONDG06Z   596   633/ 44  L8  L25 W37 W31 L18 2.0
+ 27 Kunimoto, Jonah        CBRD700F   628   638/ 34  L2  L13 W33 L28 W37 2.0
+ 28 Ejsing, Oscar          THRFE57F   888   804/ 14  W33 L11 L21 W27 L15 2.0
+ 29 Pandey, Aryan          CRIEA09X  1002   882/ 35  WF  L5  L24 W34 L10 2.0
+ 30 Kedarisetty, Ishan     GRRD300B  1051   949/ 84  WF  L7  L8  L17 WF  2.0
+ 31 Li, Edgar              OPWA883Y   868   784/ 15  W32 L20 L23 L26 W36 2.0
+ 32 Ejsing, Alfred         RFKAJ53M   400   525/  9  L31 W40 L18 L25 W35 2.0
+ 33 Doran, Nikhil          LKDCD27P   447   416/ 44  L28 L17 L27 BYE WF  2.0
+ 34 Mallapragada, Mihir    CBRB254M   639   645/ 13  LF  W37 L13 L29 HPB 1.5
+ 35 Vangala, Advaith       BLWF174X   943   795/310  W39 L9  L10 L15 L32 1.0
+ 36 Arunkumar, Ashwath     RSACH07X   525   518/ 11  L6  L15 W40 L18 L31 1.0
+ 37 Chowdhury, Vihaan      MISE451K   780   676/ 24  L7  L34 L26 W39 L27 1.0
+ 38 Graceffo, Charlie      BLWFE39Q   697   697/ 67  L20 W22 L4  U   LF  1.0
+ 39 Ejsing, Konrad         RFKD588A   554   501/ 15  L35 L24 L22 L37 W40 1.0
+ 40 Rajesh, Anisha         EABCA74Z   674   521/ 59  L14 L32 L36 L22 L39 0.0

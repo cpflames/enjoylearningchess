@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kancherla, Rohan       CEIFC11M  1220  1310/285  W3  W4  D2  2.5
+  2 Edmond, Alec           CSIBH03G  1261  1266/128  W4  L3  D1  1.5
+  3 Singhal, Palash        PLKIH323  1392  1346/128  L1  W2  L4  1.0
+  4 Malugu, Sankalp        SHSBE95W  1207  1203/203  L2  L1  W3  1.0

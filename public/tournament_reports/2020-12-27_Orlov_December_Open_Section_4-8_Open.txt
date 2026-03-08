@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Xu, Austin             SOMEH17F  1203  1389/ 55  W8  W5  W4  W3  W2  5.0
+  2 Iarovich, Shachar      CMCE122J  1090  1229/ 60  W9  W7  D3  W6  L1  3.5
+  3 Suess, Wade            EVGF101D  1550  1520/218  W10 W6  D2  L1  W7  3.5
+  4 Chung, Ryan            EVJIK257   834  1004/ 21  BYE W10 L1  W13 D5  3.5
+  5 Razmov, Gabriel        LCNFC26K  1292  1268/ 66  W13 L1  W12 D7  D4  3.0
+  6 Fedorov, Vladimir      MMEGF17D  1214  1209/147  W12 L3  W9  L2  W11 3.0
+  7 Huang, Emily           MEDEB39A  1246  1229/113  W11 L2  W8  D5  L3  2.5
+  8 Hawkins, Holden        TYEI383Z   893   896/147  L1  W13 L7  L11 BYE 2.0
+  9 Wei, Sarina            LCNEG09P   890   889/ 53  L2  BYE L6  W12 L10 2.0
+ 10 Morris, Graham         HTNG1617  1054  1006/253  L3  L4  L13 BYE W9  2.0
+ 11 Raje, Atharva          SLLGL432  1023   985/ 77  L7  L12 BYE W8  L6  2.0
+ 12 Federov, Kseniya       MMEG883P   979   955/119  L6  W11 L5  L9  D13 1.5
+ 13 Padwalkar, Jayden      OPWGI704  1033   982/199  L5  L8  W10 L4  D12 1.5

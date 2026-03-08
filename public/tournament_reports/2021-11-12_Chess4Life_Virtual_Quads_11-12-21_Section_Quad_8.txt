@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sethi, Ivanka          STVDF96K   959   949/ 28  W4  L3  W2  2.0
+  2 Stake, Charles         OESCM87Q   766   826/ 74  W3  W4  L1  2.0
+  3 Duseja, Ronit          TIMEA38H   752   820/ 57  L2  W1  W4  2.0
+  4 Sailer, Shaunak        SAREC25Z   776   707/112  L1  L2  L3  0.0

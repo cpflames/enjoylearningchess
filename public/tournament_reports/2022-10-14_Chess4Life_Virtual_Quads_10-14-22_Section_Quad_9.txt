@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Fang, Weiai            BRBC696W   736   774/ 76  U   W3  W2  2.0
+  2 Kuluru, Samith         KKNGI99K   591   603/ 87  W3  U   L1  1.0
+  3 Lechner, Ryker         HSCE496J   594   541/ 30  L2  L1  U   0.0

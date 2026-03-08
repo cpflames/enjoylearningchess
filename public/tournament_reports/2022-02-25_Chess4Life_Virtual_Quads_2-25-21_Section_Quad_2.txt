@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Upreti, Parthavi       TBKF754L  1451  1533/ 69  W4  W3  W2  3.0
+  2 Karri, Aditya          AUDDC55V  1414  1419/185  W3  D4  L1  1.5
+  3 Wong, Kate             BCAD459M  1341  1342/ 84  L2  L1  W4  1.0
+  4 Sangal Lopez, Dev      WOBE515J  1509  1456/267  L1  D2  L3  0.5

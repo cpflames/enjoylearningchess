@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Gao, Chenrui           EBSGK12A  1027  1162/ 56  W4  W2  W3  3.0
+  2 Taylor, Ryder          KAMJ385C   957  1037/240  W3  L1  W4  2.0
+  3 Lahue, Ihsan           WAVHJ69P  1049  1028/120  L2  W4  L1  1.0
+  4 Yin, Daniel            ISSL116Y  1129  1040/291  L1  L3  L2  0.0

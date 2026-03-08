@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bai, Kelin             SKKED75J   906  1037/152  W7  W9  W4  W8  W3  5.0
+  2 Dybdahl, Matthew       EGMGF49N   600   723/  5  L5  W10 W6  W12 W7  4.0
+  3 Wang, Kelby            SKKC796Y   831   862/ 92  W11 W4  D8  W9  L1  3.5
+  4 Moss, Solomon          HSCFH79G   831   840/ 70  W10 L3  L1  W5  W8  3.0
+  5 Sherwood, Owen         FREEH61U   516   621/ 15  W2  L8  W12 L4  W9  3.0
+  6 Ji, Melody             SGSBA83X   514   517/ 19  L8  W13 L2  W11 BYE 3.0
+  7 Sherwood, Cole         FRECD99U   503   519/ 15  L1  W12 W13 W10 L2  3.0
+  8 Evans, Theo            MULF888W   916   877/124  W6  W5  D3  L1  L4  2.5
+  9 Fuchs, Ethan           LBSF849Z   645   611/ 30  W13 L1  W11 L3  L5  2.0
+ 10 Jain, Asmi             SGSCB47J   463   424/ 16  L4  L2  BYE L7  W12 2.0
+ 11 Madison, Bray          HLHD887R   427   390/ 14  L3  BYE L9  L6  W13 2.0
+ 12 Mcateer, Jackson       SGSB887T   100   100/  9  BYE L7  L5  L2  L10 1.0
+ 13 Gentry, Neal           MULF835D   500   100/  4  L9  L6  L7  BYE L11 1.0

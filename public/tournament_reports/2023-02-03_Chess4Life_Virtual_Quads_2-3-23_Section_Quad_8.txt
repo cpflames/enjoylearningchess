@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Miadowicz, Dominic     HSCIK88K  1042  1374/  9  W2  W4  W3  3.0
+  2 Huang, Edwin           MEDF616M   917   990/ 25  L1  W3  W4  2.0
+  3 Miura, Leo             MIEFK60V  1014   992/ 74  W4  L2  L1  1.0
+  4 Jiang, Nathan          SCDDG71Q   873   828/ 77  L3  L1  L2  0.0

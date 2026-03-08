@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yang, James            SSME123B  1311  1326/152  W2  L4  W3  2.0
+  2 Kim, Dylan             SCDCK38L  1309  1324/115  L1  W3  W4  2.0
+  3 Zhang, Aaron           CCDD873R  1266  1248/291  W4  L2  L1  1.0
+  4 Purohit, Yuti          BCWGC435  1246  1233/246  L3  W1  L2  1.0

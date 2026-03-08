@@ -1,0 +1,22 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chung, Ethan           LLMG108U  1586  1581/351  W10 W6  D12 W5  W4  4.5
+  2 Carper, Jack           PULJG86W  1443  1428/147  W11 W7  W5  L4  W6  4.0
+  3 Zelaya, Jonathan       LLMIJ79T  1381  1369/111  W20 L4  W11 W12 W9  4.0
+  4 Padilla, Jose Arias    CWHK888V  1046  1241/ 59  W15 W3  W7  W2  L1  4.0
+  5 Kane, Callan           CWHMB00E  1092  1121/196  W21 W17 L2  L1  W12 3.0
+  6 Luciano, Luis          CWHM3995  1087  1088/191  W19 L1  W13 W18 L2  3.0
+  7 Hassan, Nadeem         RRGI411A  1013  1018/117  W16 L2  L4  W14 W15 3.0
+  8 Kane, Jarret           CWHJJ97S   937   890/117  L17 W14 L15 W13 W16 3.0
+  9 Hassan, Ahmad          RRGH714R   872   938/128  W18 L12 W17 W15 L3  3.0
+ 10 Santana, Andy          CWHJH849   855   852/223  L1  W21 L18 W17 W14 3.0
+ 11 Graham, Benjamin       RRGHD22G   850   869/ 65  L2  W19 L3  W21 W18 3.0
+ 12 Mendoza, Shawn         PASME325  1194  1183/179  W13 W9  D1  L3  L5  2.5
+ 13 Medrano, Axel          OCHIB48G   595   621/ 14  L12 W16 L6  L8  W21 2.0
+ 14 Mejia, Xavior          RRGH533Y   487   515/ 87  BYE L8  W20 L7  L10 2.0
+ 15 Coates, Ethan          BLSH820M   700   861/  5  L4  W20 W8  L9  L7  2.0
+ 16 Olsen, Daylin          CHJIF55R   800   513/  4  L7  L13 BYE W19 L8  2.0
+ 17 Gomez, Albert          CWHKJ40R  1000   808/  5  W8  L5  L9  L10 W20 2.0
+ 18 Dowdy, Seth            CMLHD92K   700   741/  4  L9  BYE W10 L6  L11 2.0
+ 19 Perez Birrueta, Rafael OCHIK60W   800   282/  4  L6  L11 D21 L16 BYE 1.5
+ 20 Romero, Osias          RRGH973N   712   628/ 54  L3  L15 L14 BYE L17 1.0
+ 21 Sandhu, Aadraj         LLMH991K   700   324/  5  L5  L10 D19 L11 L13 0.5

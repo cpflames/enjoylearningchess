@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ganesan, Vidur         RBRD940K  1188  1284/ 88  W4  W3  W2  3.0
+  2 He, Oliver             CRICK71V  1157  1137/196  L3  W4  L1  1.0
+  3 Wu, Jasper             IMSH3471  1152  1133/119  W2  L1  L4  1.0
+  4 Sreraman, Rahul        BCACJ42L  1143  1126/135  L1  L2  W3  1.0

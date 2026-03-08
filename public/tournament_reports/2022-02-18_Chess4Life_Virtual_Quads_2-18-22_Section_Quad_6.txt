@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nidamarthi, Nikhil     RSAC375J   931  1065/ 33  W4  W3  W2  3.0
+  2 Taylor, Ryder          HPTI385C   943   947/128  W3  D4  L1  1.5
+  3 Ma, William            SSMC464K   953   911/  8  L2  L1  W4  1.0
+  4 Yin, Daniel            ISMK116Y   957   905/187  L1  D2  L3  0.5

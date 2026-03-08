@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lokaman, Anwar         STPG883Q   724   762/ 89  W3  W2  W6  3.0
+  2 Lokaman, Islam         STPGJ18G   525   522/ 23  W4  L1  D3  1.5
+  3 Schoeggl, Caleb        CEDHI87E   400   420/ 27  L1  W8  D2  1.5
+  4 Farias, Pedro          STPGK10H   600   400/  2  L2  BYE D5  1.5
+  5 Chavez, Dora           STPGG46Q   600   400/  2  U   D6  D4  1.0
+  6 Evans, Daymein         STPG267E   600   400/  3  D8  D5  L1  1.0
+  7 Gonzalez, Ethan        JMLG158T   400   444/  4  U   U   W8  1.0
+  8 Herrera, MonserrathmorfSTPGA17K   600   400/  3  D6  L3  L7  0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kakkad, Vayu           DCTBK50L  1108  1253/370  W3  W2  W4  3.0
+  2 Zhang, Aaron           CCDE873R  1217  1184/362  D4  L1  D3  1.0
+  3 Agarkar, Aarav         WDMHG17J  1175  1152/121  L1  D4  D2  1.0
+  4 Condit, Alex           TLIEB04F  1134  1122/ 83  D2  D3  L1  1.0

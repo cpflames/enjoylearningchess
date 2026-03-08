@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Kona, Vidip            RSAEI26J  1982  1982/310  W7  1.0
+  2 Meyerzon, Daniel       INTJJ242  1534  1553/392  W5  1.0
+  3 Seth, Aaryav           EVJHI143   814   875/ 55  W6  1.0
+  4 Guthrie, William       NSTHK30W   965   987/  5  W8  1.0
+  5 Wahi, Lakshya          EALJ664Z  1507  1487/169  L2  0.0
+  6 Yakkali, Karthik VedantKKNF301E  1184  1135/ 21  L3  0.0
+  7 Maharaja, Imai         RKWCK34K   983   983/  9  L1  0.0
+  8 Siotia, Reyansh        ICSH413J   683   672/ 54  L4  0.0

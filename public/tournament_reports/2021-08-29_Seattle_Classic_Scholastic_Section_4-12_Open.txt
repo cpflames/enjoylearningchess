@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Cheng, Edward          WMSJC74W  1750  1741/298  W4  W9  L2  W11 W6  4.0
+  2 Wang, Mark             LOJJW31V  1538  1573/211  W10 W11 W1  W6  L3  4.0
+  3 Marcelia, David        CPBMK21F  1605  1599/ 52  D12 L5  W14 W8  W2  3.5
+  4 Singhal, Palash        PLKJH323  1346  1438/133  L1  W14 W5  D7  W9  3.5
+  5 Carman, Leif           RICLB289  1552  1537/260  L6  W3  L4  W10 W7  3.0
+  6 Choi, Hunter           EVGEE80A  1179  1362/160  W5  W8  W9  L2  L1  3.0
+  7 Xu, Austin             SOMFH17F  1406  1389/ 75  L11 W12 W13 D4  L5  2.5
+  8 Zhang, Bohan           EVJJE54S  1540  1476/ 42  W13 L6  L11 L3  W14 2.0
+  9 Xie, Max               BLWHI185  1492  1447/313  W14 L1  L6  W13 L4  2.0
+ 10 Ahmad, Muhammad Zayd   LWAK521M  1137  1175/ 19  L2  L13 W12 L5  W11 2.0
+ 11 Bhargava, Saarth       UCIGF29W  1247  1276/ 53  W7  L2  W8  L1  L10 2.0
+ 12 Yadlapati, Arush       EVJHA47S  1343  1286/143  D3  L7  L10 L14 W13 1.5
+ 13 Lella, Vihan           KKNE685A  1177  1158/ 47  L8  W10 L7  L9  L12 1.0
+ 14 Fung, Jonathan         EASG930M  1067  1088/ 41  L9  L4  L3  W12 L8  1.0

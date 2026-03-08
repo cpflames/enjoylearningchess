@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Edwin, Elijah          BCSCC24D  1032  1143/ 39  W7  W6  W4  W3  W5  5.0
+  2 Yin, Zhida             IHSL137G  1090  1036/ 18  L4  L3  BYE W6  W7  3.0
+  3 Sagar, Nikash          ELMGM801  1060  1031/ 74  L5  W2  W7  L1  BYE 3.0
+  4 Arunkumar, Ashwath     RSAEH07X   860   903/ 72  W2  W5  L1  W7  L6  3.0
+  5 Chaudhuri, Agnivesh    CHADB55V   819   862/118  W3  L4  W6  BYE L1  3.0
+  6 Palathingal, Rafael    BEND196R   400   776/  4  WF  L1  L5  L2  W4  2.0
+  7 Lu, Ian                CRIEE83J   796   745/172  L1  BYE L3  L4  L2  1.0

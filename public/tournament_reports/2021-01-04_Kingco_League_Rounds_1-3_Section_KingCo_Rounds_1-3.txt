@@ -1,0 +1,61 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bashkansky, Naomi      NPRMB190  2117  2117/480  W50 U   U   W48 W51 3.0
+  2 Gao, Bruce             BLLLA665  1063  1207/ 34  W34 U   U   W6  D29 2.5
+  3 Tseng, Luke            SAMM8652   829   971/ 26  D28 U   U   W50 W30 2.5
+  4 Thirunavukkarasu, ThiruINTL8085  1773  1791/289  W40 U   U   L27 W8  2.0
+  5 Mohka, Sareen          MCRK974J  1000  1197/  3  U   L12 W33 W58 U   2.0
+  6 Yang, Richard          NPRM8890  1637  1604/410  W35 U   U   L2  W54 2.0
+  7 Zuo, Brandon           INTLJ629  1129  1168/238  L14 U   U   W32 W50 2.0
+  8 Shaffer, Gerald        NPRM7984  1609  1599/301  W57 U   U   W53 L4  2.0
+  9 Li, Michael            INTL921A  1065  1077/ 19  L15 U   U   W36 W52 2.0
+ 10 Lam, Evan              SAMMA556  1256  1322/ 81  D27 U   U   W55 D48 2.0
+ 11 Narula, Arnav          REDMF526  1574  1564/289  L30 U   U   W31 W56 2.0
+ 12 Xu, Brian              BLLM606Q  1357  1376/ 24  W33 W5  U   U   U   2.0
+ 13 Wan, Bertrand          NPRJK421  1884  1856/190  W52 U   U   W30 L31 2.0
+ 14 Chang, Eddie           INTJ6270  1914  1915/138  W7  U   U   U   W32 2.0
+ 15 Chen, Brian            INTME838  1843  1843/350  W9  U   U   U   W36 2.0
+ 16 Kompella, Aditya       SKNJ549K  1680  1685/187  U   U   U   W42 W34 2.0
+ 17 Kurungod Anoop, Pranav INTJK760  1975  1978/175  W39 U   U   U   W28 2.0
+ 18 Gupta, Anand           EALL7167  1816  1812/515  W53 U   U   WF  L46 2.0
+ 19 Luo, Ethan             NPRK6190  1693  1694/199  U   U   U   W26 W37 2.0
+ 20 Brown, Northern        BLLLD135  1744  1740/293  L45 U   U   WF  W53 2.0
+ 21 Chen, Charlie          WDVLF03W  1100  2027/  2  W31 U   U   W56 U   2.0
+ 22 Yu, Jason              NPRJF522  2220  2220/191  W55 U   U   LF  W38 2.0
+ 23 Tiglon, Jeffrey        REDM9692  1597  1608/183  W48 U   U   W51 LF  2.0
+ 24 Johar, Mudit           SKNLH59G  1792  1792/106  U   U   U   W43 WF  2.0
+ 25 Liu, Nathan            SKNLJ233  1731  1732/499  U   U   U   W41 WF  2.0
+ 26 Pidady, Akash          BLLM838Y  1062  1105/ 22  W44 U   U   L19 D49 1.5
+ 27 Shapiro, Michael       EALK8875  1755  1754/295  D10 U   U   W4  L40 1.5
+ 28 Bansal, Amay           EALMJ470  1594  1578/389  D3  U   U   W39 L17 1.5
+ 29 Oh, Peter              SAMMF56D  1200  1035/  3  L32 U   U   W52 D2  1.5
+ 30 Wang, Jonathan         BLLL5588  1148  1156/ 51  W11 U   U   L13 L3  1.0
+ 31 Lill, Elena            MCRJ4454  1102  1170/ 76  L21 U   U   L11 W13 1.0
+ 32 Khamesra, Nikhar       EALJP08T  1250  1227/ 20  W29 U   U   L7  L14 1.0
+ 33 Yi, John               INTM9645  1001   989/ 45  L12 U   L5  U   W35 1.0
+ 34 Dharap, Siddhant       REDM2756  1350  1315/107  L2  U   U   W54 L16 1.0
+ 35 Lucas-smith, Alexander NPRL242X  1100   708/  3  L6  U   U   W60 L33 1.0
+ 36 Krassovsky, Victor     EALL7082   852   838/ 27  WF  U   U   L9  L15 1.0
+ 37 Mak, Clara             MCRJH176   404   401/ 23  WF  U   U   L44 L19 1.0
+ 38 Jradi, Austin          MCRM7628  1571  1533/276  L41 U   U   WF  L22 1.0
+ 39 Tiwari, Arjun          INTK383B  1295  1286/ 39  L17 U   U   L28 WF  1.0
+ 40 Roberts, Teddy         INTL3284  2040  2024/336  L4  U   U   U   W27 1.0
+ 41 Seaman, Jake           WDVM387Y  1123  1172/ 29  W38 U   U   L25 U   1.0
+ 42 Lam, Marcus            WDVJ9306   981   982/ 37  W54 U   U   L16 U   1.0
+ 43 Shi, Jonathan          WDVL4223  1048  1049/ 29  W51 U   U   L24 U   1.0
+ 44 Apinyan, Hovik         REDL372U  1071   956/  4  L26 U   U   W37 LF  1.0
+ 45 Anand, Vignesh         REDLJ919  2091  2094/417  W20 U   U   LF  LF  1.0
+ 46 Deshpande, Aaryan      INTLF757  2131  2134/449  LF  U   U   U   W18 1.0
+ 47 Bhoot, Nilay           SKNMF542  1399  1399/448  U   U   U   W59 LF  1.0
+ 48 Chang, William         BLLJE81S  1464  1430/ 12  L23 U   U   L1  D10 0.5
+ 49 Jung, Joshua           OMSLH04K  1406  1390/ 19  U   U   U   U   D26 0.5
+ 50 Park, Paul             NPRK296H  1000   400/  3  L1  U   U   L3  L7  0.0
+ 51 Foss, Sebastian        MCRJI20M   900   400/  3  L43 U   U   L23 L1  0.0
+ 52 Liu, Jason             NPRKD52Y  1000   400/  3  L13 U   U   L29 L9  0.0
+ 53 Eng, David             SAMMB42W  1200   400/  3  L18 U   U   L8  L20 0.0
+ 54 Bredy, Jackson         MCRK144T  1000   400/  3  L42 U   U   L34 L6  0.0
+ 55 Liu, William           NPRJA50F  1131  1117/ 17  L22 U   U   L10 LF  0.0
+ 56 Zhang, Kyle            SKNL8003  1653  1626/429  U   U   U   L21 L11 0.0
+ 57 Marshall, Rian         NPRMI57P  1200   400/  1  L8  U   U   U   U   0.0
+ 58 Bogdev, Vasil          REDM283W  1200   400/  1  U   U   U   L5  U   0.0
+ 59 Hoe, Calvin            WDVMA99S  1200   400/  1  U   U   U   L47 U   0.0
+ 60 Arvizu, Aidan          SAMLF17V  1100   400/  1  LF  U   U   L35 U   0.0

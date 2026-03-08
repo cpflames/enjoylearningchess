@@ -1,0 +1,37 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Xuan, Owen             ADDI5792  1893  1905/255  W20 D13 W27 W5  W2  D4  5.0
+  2 Lu, Yiding             NPTF865Z  1822  1845/198  W26 W23 W19 W6  L1  W9  5.0
+  3 Willy, Stephen         HSCGH17K  1844  1830/430  W8  L27 D14 W23 W13 W7  4.5
+  4 Hong, Luke             MISCZ87V   400  1817/  6  W15 W11 L5  W10 W14 D1  4.5
+  5 Li, Edward             TMBH768S  1675  1729/282  W28 W25 W4  L1  D6  W12 4.5
+  6 Min, Ryan              OMSH5430  1838  1828/325  W7  W9  W12 L2  D5  D11 4.0
+  7 Tatikonda, Nihanth     CPJH926F  1475  1533/183  L6  W29 W32 W27 W16 L3  4.0
+  8 Tran, Nugen            EVIH455Z  1461  1473/327  L3  L35 W33 W34 W28 W21 4.0
+  9 Hetamsaria, Aadi       CHOI888H  1571  1597/116  W34 L6  WF  W15 W21 L2  4.0
+ 10 Anandkumar, Haituka    STLH238P  1502  1510/244  WF  L12 W34 L4  W30 W22 4.0
+ 11 Shen, Lixing           CMCGC15C  1518  1546/452  W32 L4  W25 W31 D12 D6  4.0
+ 12 Zhu, Jamie             SSMF558E  1682  1672/276  W22 W10 L6  W20 D11 L5  3.5
+ 13 Nallabothula, Varin    WPPI457A  1616  1642/357  W35 D1  W16 L21 L3  W23 3.5
+ 14 Razmov, Gabriel        ADDGC26K  1516  1551/142  W36 D16 D3  W19 L4  D15 3.5
+ 15 Chopra, Nikita         OMSI297H  1392  1481/ 42  L4  W33 W18 L9  W27 D14 3.5
+ 16 Shah, Paras            ENSG904N  1693  1662/141  W30 D14 L13 W24 L7  W25 3.5
+ 17 Mohan, Laya            BCWG617P  1229  1369/ 95  HPB L18 W26 L25 W24 W27 3.5
+ 18 Jammalamadaka, Varnika OVLHD216  1768  1697/416  L24 W17 L15 L28 W35 W30 3.0
+ 19 Zhou, Leonardo         PLKGE293  1664  1629/159  WF  W24 L2  L14 D25 HPB 3.0
+ 20 Saravanan, Sujan       SKWG372N  1487  1464/340  L1  W28 W35 L12 L22 W31 3.0
+ 21 Chan, Skylor T         OMSHD18J  1751  1696/253  L25 W22 W30 W13 L9  L8  3.0
+ 22 Bablani, Arnav         LMSG1146  1322  1354/179  L12 L21 W29 W35 W20 L10 3.0
+ 23 Peesa, Rahul           OMSI109W  1610  1575/135  W29 L2  D24 L3  W31 L13 2.5
+ 24 Lee, Elliot            OPWGA70D  1412  1421/104  W18 L19 D23 L16 L17 W33 2.5
+ 25 Borate, Neel           REEF821E  1400  1439/190  W21 L5  L11 W17 D19 L16 2.5
+ 26 Subramanian, Thrinay   SPTG466R  1413  1351/ 90  L2  L34 L17 W36 D32 W28 2.5
+ 27 Shanmugam, Meera       SKWGD22Y  1608  1563/416  W33 W3  L1  L7  L15 L17 2.0
+ 28 Sharma, Devansh        KMNHF88S  1253  1257/107  L5  L20 W36 W18 L8  L26 2.0
+ 29 Borden, Derek          IMSI915P  1160  1142/ 82  L23 L7  L22 D33 W34 D32 2.0
+ 30 Tiwari, Prakhar        TMBI785R  1367  1342/ 60  L16 W36 L21 W32 L10 L18 2.0
+ 31 Morentsov, Samarth     BPSIA38N   669   669/  8  BYE HPB HPB L11 L23 L20 2.0
+ 32 Nesland, Tyler         LHCHA23E   861   899/ 30  L11 BYE L7  L30 D26 D29 2.0
+ 33 Lay, Elliott           HCCG646S  1157  1137/ 87  L27 L15 L8  D29 W36 L24 1.5
+ 34 Vijeyanandh, Vishnu    TMBGF63Z  1031  1056/ 50  L9  W26 L10 L8  L29 D35 1.5
+ 35 Borden, Hugh           IMSI596M  1205  1206/ 78  L13 W8  L20 L22 L18 D34 1.5
+ 36 Godse, Gaurav          EVJG290Q   600   733/  5  L14 L30 L28 L26 L33 BYE 1.0

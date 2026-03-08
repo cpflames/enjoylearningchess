@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Qian, Daniel           PFCL7807  1914  1892/305  L2  W4  W3  2.0
+  2 Li, Austin A           PLKG438B  1337  1431/114  W1  W3  L4  2.0
+  3 Chen, William          INGG550N  1542  1525/ 69  W4  L2  L1  1.0
+  4 Prashant, Niranjan     SNIF468K  1436  1438/ 79  L3  L1  W2  1.0

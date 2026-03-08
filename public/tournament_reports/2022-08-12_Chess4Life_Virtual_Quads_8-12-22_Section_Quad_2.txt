@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sinha, Agastya         HSCCA75C  1480  1516/ 86  U   W2  W3  2.0
+  2 Zhao, Dennis           CGRF525E  1407  1415/250  W3  L1  U   1.0
+  3 Xiang, Herui           LWAL153Y  1471  1426/ 70  L2  U   L1  0.0

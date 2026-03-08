@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Knapp, Joshua          SHMMH49D   911   944/ 14  U   W5  W5  2.0
+  2 Cox, Dylan             SHMJ3440  1100  1126/142  W4  U   U   1.0
+  3 Love, Charles          SHMJ458N   899   918/ 34  W5  U   U   1.0
+  4 Bosch, Declan          FHVHE38K  1094  1058/ 10  L2  U   U   0.0
+  5 Bowman, Finn           SHMJD50L   800   745/ 28  L3  L1  L1  0.0

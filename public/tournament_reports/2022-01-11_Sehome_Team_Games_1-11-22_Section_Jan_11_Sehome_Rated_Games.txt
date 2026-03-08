@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Lee, Jae-yoon          SHMJC734  1164  1185/ 50  W3  1.0
+  2 Gangle, Jerome         SHMM2873   748   794/ 58  W4  1.0
+  3 Cox, Dylan             SHMJ3440  1096  1074/136  L1  0.0
+  4 Bermudez, Evan         SHMJ7653   884   842/132  L2  0.0

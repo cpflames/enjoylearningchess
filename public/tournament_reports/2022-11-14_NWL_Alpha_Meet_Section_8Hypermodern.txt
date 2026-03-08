@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Putnam, Israel         LYEJA22J   900  1442/  3  W3  W7  W4  3.0
+  2 Manly, Katie           FERK313C   467   594/ 38  W6  L4  W5  2.0
+  3 Zender, Levi           MRDME540   428   487/  9  L1  W8  W7  2.0
+  4 Montoure, Nicolai      BLHLG50H  1100  1036/  3  W5  W2  L1  2.0
+  5 Fransico-woodenlegs, JoMRDK680H  1000   555/  3  L4  W6  L2  1.0
+  6 Mulryan, Brianna       BLHLI21M  1100   400/  3  L2  L5  W8  1.0
+  7 Mohd, Mariam           BLHKH85N  1000   400/  3  W8  L1  L3  1.0
+  8 Gonzalez, Dulce        MRDKF70Z  1000   400/  3  L7  L3  L6  0.0

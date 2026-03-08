@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ma, Justin             OVLHD33R  1275  1303/151  L3  W2  W4  2.0
+  2 Cen, Evan              SPTFI97D  1347  1336/ 44  D4  L1  W3  1.5
+  3 Bharathy Mohan, Aarav  FRWCC98B  1313  1310/184  W1  D4  L2  1.5
+  4 Zhang, Aaron           CCDD873R  1259  1247/320  D2  D3  L1  1.0

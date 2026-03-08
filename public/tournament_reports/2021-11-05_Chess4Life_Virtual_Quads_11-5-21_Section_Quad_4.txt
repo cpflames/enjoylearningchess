@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Ethan (yichen)  CRIEG57B  1232  1362/180  W2  W3  W4  3.0
+  2 Singh, Saket           DISI872S  1339  1306/279  L1  L4  W3  1.0
+  3 Wang, Jacob            BLWED74Y  1294  1271/155  W4  L1  L2  1.0
+  4 Kakkad, Vayu           DCTBK50L  1233  1225/376  L3  W2  L1  1.0

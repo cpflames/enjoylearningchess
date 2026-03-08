@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Goggin, Henry          BHMJD373   400   660/  8  W3  W2  W4  3.0
+  2 Chiapellone, Teo       SHMKG88R   710   735/ 63  W4  L1  W3  2.0
+  3 Melius, Mason          FACEF58R  1065   927/ 12  L1  W4  L2  1.0
+  4 Manly, Katie           FERJ313C   506   467/ 35  L2  L3  L1  0.0

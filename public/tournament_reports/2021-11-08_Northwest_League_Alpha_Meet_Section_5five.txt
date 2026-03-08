@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Reyna, Frankie         FERME23L  1200  1617/  3  W8  W2  W4  3.0
+  2 Millsap, Owen          BLHLJ58G  1100  1016/  3  W5  L1  W6  2.0
+  3 Adams, Carson          MRDLA48F  1100   878/  3  W7  L4  W5  2.0
+  4 Masterson, Emmett      LYEK300S  1000  1221/  3  W6  W3  L1  2.0
+  5 Elenbaas, Nathan       MRDLC84M   514   509/ 21  L2  W8  L3  1.0
+  6 Kempf, Johnny          MRDMC19K   436   539/  6  L4  W7  L2  1.0
+  7 Garcia, Andie          FERL695Z  1100   400/  3  L3  L6  W8  1.0
+  8 Warnock, Mallory       MRDJ269T   900   400/  3  L1  L5  L7  0.0

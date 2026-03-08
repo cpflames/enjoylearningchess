@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bhat, Esha             PLKH674K   697   808/ 23  W3  W4  W2  3.0
+  2 Kaushal, Ayaan         CAVD975V   637   684/  9  W4  W3  L1  2.0
+  3 Sannakkayala, Zidan    BCAIK858   595   584/ 46  L1  L2  W4  1.0
+  4 Mehrotra, Darsh        EINF240S   635   553/119  L2  L1  L3  0.0

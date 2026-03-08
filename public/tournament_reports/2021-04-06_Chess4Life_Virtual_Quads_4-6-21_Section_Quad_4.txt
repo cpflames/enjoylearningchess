@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tsai, Adam             DGHFB02H   652   785/  6  W3  W4  W2  3.0
+  2 Taylor, Ryder          HSCH385C   593   553/  9  W4  L3  L1  1.0
+  3 Yun, Daniel D          BCAAK87Z   526   512/  9  L1  W2  L4  1.0
+  4 Shankaranand, Deeksha  RSACI74Y   529   516/ 52  L2  L1  W3  1.0

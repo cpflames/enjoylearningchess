@@ -1,0 +1,38 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Guha, Mitrabha         ADINY517  2451  2454/ 47  W20 W11 W5  D4  W2  4.5
+  2 Crg, Krishna           ADINY825  2605  2603/  5  W13 W17 W9  W3  L1  4.0
+  3 Talukdar, Rohan        MISMG44B  2425  2424/ 66  W14 W12 W15 L2  W7  4.0
+  4 Kulkarni, Ojas         ADUNY55V  2336  2353/ 10  W21 W8  HPB D1  W10 4.0
+  5 Ackerman, Ryan         ADUNC514  1922  1932/173  W23 W25 L1  W18 W12 4.0
+  6 Lopez, Francisco J     ADUN1605  1793  1793/ 24  W31 W18 HPB L7  W11 3.5
+  7 Cheng, Edward          WMSIC74W  1720  1750/293  W27 W26 D10 W6  L3  3.5
+  8 Zhou, Leonardo         SHSFE293  1629  1641/149  W36 L4  D14 W22 W16 3.5
+  9 Razmov, Valentin       ADUNB02T  1926  1909/ 38  W33 W24 L2  L12 W21 3.0
+ 10 Nicoski, Aaron         ADUN598C  1810  1814/ 60  HPB W22 D7  W25 L4  3.0
+ 11 Singh, Aditya          LSSL8559  1665  1687/482  W35 L1  W13 W15 L6  3.0
+ 12 Shapiro, Michael       EALK8875  1641  1672/317  W32 L3  W26 W9  L5  3.0
+ 13 Skkandann, Kiann       NPRJ644M  1469  1512/ 10  L2  W28 L11 W34 W24 3.0
+ 14 Zhuge, Katherine       MISCZ53N  1339  1365/  4  L3  W34 D8  W32 HPB 3.0
+ 15 Clyde, Luke            ADUN787H  1300  1797/  5  W19 W16 L3  L11 W25 3.0
+ 16 Seshadri, Sridhar      ADUNC121  1706  1680/ 43  W28 L15 HPB W23 L8  2.5
+ 17 Wang, Daniel           LMSI8287  1654  1633/558  W34 L2  L18 W26 D19 2.5
+ 18 Shen, Lixing           CMCFC15C  1516  1534/443  W29 L6  W17 L5  D23 2.5
+ 19 Razmov, Gabriel        CSIFC26K  1502  1474/119  L15 L27 W37 W28 D17 2.5
+ 20 Christy, John Patrick  ADUN853W  1420  1404/ 20  L1  W35 HPB L21 W31 2.5
+ 21 Akin, Erich            ADUNK30U  1378  1389/  5  L4  D32 W27 W20 L9  2.5
+ 22 Cheng, Selina          THUD413R  1312  1306/293  HPB L10 W36 L8  W32 2.5
+ 23 Hack, Don              ADBNF13X  1306  1381/ 43  L5  W30 W24 L16 D18 2.5
+ 24 Zhang, Bohan           EVJIE54S  1589  1540/ 37  W37 L9  L23 W27 L13 2.0
+ 25 Devaraju, Sonia        OMSIK838  1575  1567/475  W30 L5  W29 L10 L15 2.0
+ 26 Condit, Noah           KMDFA59Q  1490  1461/ 62  WF  L7  L12 L17 W35 2.0
+ 27 Ruff, Lois             ADUNJ90S  1177  1199/104  L7  W19 L21 L24 W36 2.0
+ 28 Bhargava, Saarth       UCIFF29W   971  1010/ 38  L16 L13 W30 L19 W37 2.0
+ 29 Klink, Jeff            ADUNJ09G  1300  1309/  3  L18 W33 L25 HPB HPB 2.0
+ 30 Trouw, Arie            ADONT19L  1300  1187/  5  L25 L23 L28 W33 W34 2.0
+ 31 Ramkumar, Nikhil       RBRD115E  1179  1125/ 74  L6  HPB L32 W35 L20 1.5
+ 32 Mamtani, Vihaan        TYEI6442   574   704/ 18  L12 D21 W31 L14 L22 1.5
+ 33 Bharathy Mohan, Aarav  FRWCC98B  1310  1227/188  L9  L29 L34 L30 BYE 1.0
+ 34 Pachucki, Mariel       ADUN783A  1300  1127/  5  L17 L14 W33 L13 L30 1.0
+ 35 Shankaranand, Deeksha  EBSCI74Y   614   610/ 65  L11 L20 BYE L31 L26 1.0
+ 36 Ramkumar, Nethra       RBRD315Z   498   494/ 51  L8  HPB L22 D37 L27 1.0
+ 37 Vijeyanandh, Vishnu    RSAFF63Z   473   472/ 19  L24 HPB L19 D36 L28 1.0

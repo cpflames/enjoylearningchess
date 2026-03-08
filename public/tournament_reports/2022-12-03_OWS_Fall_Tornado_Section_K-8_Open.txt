@@ -1,0 +1,30 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Chan, Skylor T         OMSID18J  1661  1688/277  W10 W17 W15 W8  4.0
+  2 Ren, Aaron             ENADG67B  1664  1668/117  W21 W16 D3  HPB 3.0
+  3 Cha, Samuel            BASFK18Z  1576  1584/196  W22 W23 D2  D5  3.0
+  4 Kang, Jinue            OMSH2661  1478  1493/270  W6  W12 L8  W11 3.0
+  5 Shih, Tai              OVLGE60P  1446  1461/214  D27 W18 W13 D3  3.0
+  6 Choi, Hunter           EVGFE80A  1236  1340/194  L4  W26 W16 W15 3.0
+  7 Scollon, Owen          FHVH734D  1587  1552/380  D18 L11 W27 W21 2.5
+  8 Lee, Elliot            CHOHA70D  1466  1476/121  D11 W27 W4  L1  2.5
+  9 Shih, Bei              UCDE630G  1453  1434/212  W24 D13 L11 W22 2.5
+ 10 Gupta, Krishang        FRVFE37V  1272  1339/ 15  L1  W28 W14 D12 2.5
+ 11 Rubaiyat, Rhadean      ICKHD40L  1220  1354/102  D8  W7  W9  L4  2.5
+ 12 Xu, Zoe                SOMDG70A  1264  1283/200  BYE L4  W23 D10 2.5
+ 13 Foltz, Karsten         HTNH306D  1171  1294/109  W14 D9  L5  W20 2.5
+ 14 Metzmaker, Suya        OPWH364P  1465  1425/289  L13 W24 L10 W23 2.0
+ 15 Meng, Miranda          OPWDH69P  1514  1487/ 86  W28 W20 L1  L6  2.0
+ 16 Wang, Derek            MEDEF70G  1340  1329/177  W25 L2  L6  W24 2.0
+ 17 Sriram, Aahan          BCADC03K  1330  1325/ 19  W29 L1  D21 D18 2.0
+ 18 Kim, Dylan             SCDEK38L  1240  1265/152  D7  L5  W28 D17 2.0
+ 19 Yee, Nolan             EVGHD98A  1002  1053/ 59  L23 L22 W25 W27 2.0
+ 20 Zhao, Dennis           OPWG525E  1311  1279/272  W26 L15 D22 L13 1.5
+ 21 Prashant, Niranjan     SNIF468K  1265  1268/ 14  L2  W25 D17 L7  1.5
+ 22 Zhang, Michael M       MEDE668Q  1241  1238/416  L3  W19 D20 L9  1.5
+ 23 Khatib, Kenan          IMSHC566  1304  1267/237  W19 L3  L12 L14 1.0
+ 24 Winter, Kayne          CSIFF38F  1124  1113/122  L9  L14 W26 L16 1.0
+ 25 Lee, Justin            CNLG732V  1065  1044/ 14  L16 L21 L19 W28 1.0
+ 26 Chen, Xinyu            SOMED08V  1044  1003/ 35  L20 L6  L24 BYE 1.0
+ 27 Radke, Alex            IMSH1113  1084  1069/162  D5  L8  L7  L19 0.5
+ 28 Chen, Xinyan           SOMDI38B  1170  1102/ 21  L15 L10 L18 L25 0.0
+ 29 Anand, Lakshana        RSAEC68H  1051  1040/ 40  L17 U   U   U   0.0

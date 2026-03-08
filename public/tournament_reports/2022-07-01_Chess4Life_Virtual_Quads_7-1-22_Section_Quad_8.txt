@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Fang, Weiai            BRBB696W   589   756/ 39  W2  W4  W3  3.0
+  2 Mills, Paxson          HSCFI32D   622   662/ 44  L1  W3  W4  2.0
+  3 Lim, Oliver            ARMAC58T   762   700/ 17  W4  L2  L1  1.0
+  4 Zhang, Lucas           SOMC290K   495   424/  8  L3  L1  L2  0.0

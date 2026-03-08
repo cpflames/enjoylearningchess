@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Karri, Aditya          AUDDC55V  1189  1314/ 53  W3  W4  W2  3.0
+  2 Yang, James            SSME123B  1195  1230/ 87  W4  W3  L1  2.0
+  3 Zhang, Aaron           CCDD873R  1248  1198/222  L1  L2  D4  0.5
+  4 Dmitriev, Lyan         NPTD246H  1222  1178/196  L2  L1  D3  0.5

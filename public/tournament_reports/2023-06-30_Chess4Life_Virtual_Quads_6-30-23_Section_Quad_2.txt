@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chatterjee, Sasmit     RHJHH23M  1211  1317/ 61  W3  W2  W4  3.0
+  2 Ganesan, Vidur         RBRD940K  1237  1232/ 82  D4  L1  W3  1.5
+  3 Sreraman, Rohit        BCACG92Q  1166  1155/134  L1  W4  L2  1.0
+  4 He, Oliver             CRICK71V  1202  1159/190  D2  L3  L1  0.5

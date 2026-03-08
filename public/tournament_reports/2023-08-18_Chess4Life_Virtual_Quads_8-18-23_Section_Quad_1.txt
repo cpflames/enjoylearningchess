@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Shaikot, Sabeer        ENSE147Q  1500  1538/202  W4  W3  D2  2.5
+  2 Xie, Max               EVJII185  1488  1531/425  W3  W4  D1  2.5
+  3 Kang, Jinue            OMSH2661  1483  1442/289  L2  L1  D4  0.5
+  4 Cheng, Alan            CHREJ71K  1414  1387/113  L1  L2  D3  0.5

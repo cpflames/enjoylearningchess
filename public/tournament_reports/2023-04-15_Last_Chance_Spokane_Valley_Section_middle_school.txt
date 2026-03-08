@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bair, Morgan           LBYIK50T   803   947/ 14  W4  W2  D3  W5  W7  4.5
+  2 Webb, Rogan            HDPGC51Z   877   896/ 33  W6  L1  W7  BYE W3  4.0
+  3 Sherwood, Leo          FREHI58J   922   920/ 44  W5  W7  D1  W4  L2  3.5
+  4 Dawud, Zane            GNMIK21X   800   766/  4  L1  W5  W6  L3  BYE 3.0
+  5 Knapton, Joshua        HLHIH807   649   631/248  L3  L4  BYE L1  W6  2.0
+  6 Malde, Jake            SSPHB22V   614   568/ 97  L2  BYE L4  W7  L5  2.0
+  7 Hall, Tyler            HLHIG09G   400   373/ 59  BYE L3  L2  L6  L1  1.0

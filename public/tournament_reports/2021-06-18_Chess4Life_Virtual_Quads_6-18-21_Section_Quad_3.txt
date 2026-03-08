@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Ethan (yichen)  CRIDG57B  1310  1415/123  W4  W3  W2  3.0
+  2 Li, Yiyang             BCAD700B  1335  1333/188  D3  W4  L1  1.5
+  3 Bharathy Mohan, Aarav  FRWCC98B  1309  1313/181  D2  L1  W4  1.5
+  4 Wu, Derek              MEDD902D  1305  1245/ 49  L1  L2  L3  0.0

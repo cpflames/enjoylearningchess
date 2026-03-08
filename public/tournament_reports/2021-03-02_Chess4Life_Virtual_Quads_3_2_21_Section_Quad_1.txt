@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wolfe, Jaxon           HSCF335Z  1363  1416/ 44  W4  W2  W3  3.0
+  2 Zhang, Ethan           CLHEE87D  1221  1208/425  W3  L1  L4  1.0
+  3 Malugu, Sankalp        SHSBE95W  1311  1278/152  L2  W4  L1  1.0
+  4 Xiong, Michael         MEDC115A  1149  1153/ 79  L1  L3  W2  1.0

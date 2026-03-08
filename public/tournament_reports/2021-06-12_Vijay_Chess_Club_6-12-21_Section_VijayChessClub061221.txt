@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sankrithi, Siva        ADUNI948  1493  1486/ 13  W5  W3  D2  2.5
+  2 Sankrithi, Sarang      HSCBB11D  1142  1171/ 98  W6  W5  D1  2.5
+  3 Malugu, Sankalp        SHSBE95W  1225  1223/189  W4  L1  W6  2.0
+  4 Wei, Sarina            CSIEG09P   878   902/ 71  L3  W6  W5  2.0
+  5 Wei, Marcus            CSIC588E   898   858/ 54  L1  L2  L4  0.0
+  6 Gutierrez, Pedro       BLMIC47B   800   400/  3  L2  L4  L3  0.0

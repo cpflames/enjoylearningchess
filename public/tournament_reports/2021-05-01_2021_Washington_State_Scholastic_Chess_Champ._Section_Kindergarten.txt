@@ -1,0 +1,30 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bharadwaj, Samarth     DISAE78A  1163  1244/ 16  W10 W27 W5  W3  W2  5.0
+  2 Zhang, Xingchen        CCDAH72Z   400  1209/  5  W25 W18 W6  W8  L1  4.0
+  3 Li, Edgar              OPWA883Y   818   947/ 28  W26 W20 W7  L1  W8  4.0
+  4 Zhu, Aiden             LLSAC77X  1268  1242/ 20  W9  W17 L8  W18 W11 4.0
+  5 Jayadevan, Kunal       SCDA893P   836   925/ 31  W13 W29 L1  W9  D6  3.5
+  6 Kakkad, Vayu           BRYAK50L  1002  1004/318  W15 W12 L2  W10 D5  3.5
+  7 Chang, Caden           UCDA260J   863   879/ 18  D16 W19 L3  W24 W15 3.5
+  8 Ivanovic, Lena         UCDAK55K  1058  1055/189  W28 W14 W4  L2  L3  3.0
+  9 Wang, Kelby            PVEA796Y   579   703/ 49  L4  W23 W12 L5  W21 3.0
+ 10 Fox, Nolan             HSCAE83K   518   664/ 21  L1  W26 W29 L6  W18 3.0
+ 11 Condit, Theo           TLIAJ39C   826   847/ 44  L12 W16 W28 W13 L4  3.0
+ 12 Pan, David             CCDA330Y   400   804/  5  W11 L6  L9  W25 W17 3.0
+ 13 Tran, Andrew           EVGA317F   400   851/  5  L5  W22 W17 L11 W19 3.0
+ 14 Yun, Daniel D          BCAAK87Z   648   713/ 23  W19 L8  W20 L15 W22 3.0
+ 15 Eustis, Owen           SCDA195W   422   556/ 11  L6  W21 D24 W14 L7  2.5
+ 16 Li, Eason              MMEA593L   400   710/  5  D7  L11 L19 W26 W24 2.5
+ 17 Larsen, Matthew        EVGA423L   610   627/ 21  W24 L4  L13 W20 L12 2.0
+ 18 Bai, Brandon           EGBA725M   752   723/ 14  W23 L2  W27 L4  L10 2.0
+ 19 Petito, John           HSCA453W  1200  1001/ 13  L14 L7  W16 W28 L13 2.0
+ 20 Xu, Shaozhe [heimi]    EVGAG11E   400   577/  5  W22 L3  L14 L17 W25 2.0
+ 21 Fetchero, Caleb        BLCAK56R   675   595/ 15  L29 L15 W26 W27 L9  2.0
+ 22 Gandham, Nihita        TIMA810C   616   545/ 33  L20 L13 BYE WF  L14 2.0
+ 23 Rampally, Viraali      LKWAC95B   400   400/  4  L18 L9  L25 BYE W28 2.0
+ 24 Zhang, Amy             WWDAC03P   400   488/  5  L17 W25 D15 L7  L16 1.5
+ 25 Shih, Kei              UCDA982C   554   495/ 15  L2  L24 W23 L12 L20 1.0
+ 26 Balchandani, Akira     PKRAF67P   400   400/  5  L3  L10 L21 L16 W27 1.0
+ 27 Hong, Samira           MCGAB77R   400   400/  8  BYE L1  L18 L21 L26 1.0
+ 28 Li, Jacob              CRIA132Q   400   400/ 37  L8  BYE L11 L19 L23 1.0
+ 29 Weng, Bright           TLIA850P   400   578/  3  W21 L5  L10 LF  U   1.0

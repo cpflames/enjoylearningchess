@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Stake, Charles         OESBM87Q   684   717/ 12  W4  W5  D2  2.5
+  2 Eustis, Owen           SCDA195W   556   598/ 14  D3  W4  D1  2.0
+  3 Sureshkannan, SaijayyanHSCH796P   700   547/  3  D2  W6  L5  1.5
+  4 Seth, Sanchi           SPTCJ88C   400   415/  9  L1  L2  W6  1.0
+  5 Yun, Daniel D          BCAAK87Z   682   623/ 29  L6  L1  W3  1.0
+  6 Siddique, Nooh         LAVCA03M   400   400/  3  W5  L3  L4  1.0

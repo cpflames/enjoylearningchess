@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Reynolds, Spencer      FERM2234   861  1070/ 26  W4  W6  W2  3.0
+  2 Love, Charles          SHMK458N  1157  1161/ 67  W3  W5  L1  2.0
+  3 Hall, Jack             FERMD220   856   991/ 91  L2  W4  W5  2.0
+  4 Nagra, Joga            FACII02B  1149  1091/ 52  L1  L3  W6  1.0
+  5 Carpenter, Jonas       FERJ274G  1113  1063/ 44  W6  L2  L3  1.0
+  6 Latham, Cash           MRDK658Y   947   814/  6  L5  L1  L4  0.0

@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Mishra, Abhinav        TMBHB02W  1685  1727/ 91  D3  L7  W10 W9  W2  W8  4.5
+  2 Zhang, Bohan           EPSKE54S  1676  1705/122  W10 D5  W8  W3  L1  HPB 4.0
+  3 Razmov, Gabriel        ADDHC26K  1613  1704/303  D1  W4  W6  L2  W5  D7  4.0
+  4 Eksarevskiy, Albert    WPPI530Y  1744  1746/ 84  D8  L3  W9  D5  W7  D6  3.5
+  5 Ren, Aaron             ENADG67B  1669  1692/152  W6  D2  D7  D4  L3  W10 3.5
+  6 Joshi, Atharva         SKNK1352  1842  1805/325  L5  W10 L3  D7  W8  D4  3.0
+  7 Wang, Leonardo         CKNG233K  1663  1677/ 62  D9  W1  D5  D6  L4  D3  3.0
+  8 Lin, Michael           BASDC97F  1667  1647/309  D4  W9  L2  HPB L6  L1  2.0
+  9 Siddem, Sid            RHJJC34V  1716  1643/482  D7  L8  L4  L1  L10 BYE 1.5
+ 10 Cheng, Selina          THUF413R  1560  1542/470  L2  L6  L1  HPB W9  L5  1.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Frederick, Benjamin    LAUFS57X  1511  1539/219  W2  W4  W3  3.0
+  2 Sankrithi, Sarang      HSCDB11D  1261  1296/210  L1  W3  W4  2.0
+  3 Sankrithi, Siva        ADUNI948  1522  1472/ 28  W4  L2  L1  1.0
+  4 Rusia, Naman           EPSGI64T   767   762/ 73  L3  L1  L2  0.0

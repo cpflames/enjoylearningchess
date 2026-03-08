@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sethi, Ivanka          STVDF96K   599   743/ 12  W5  W4  W2  3.0
+  2 Evren, Ozben           XXXI407M   800   757/  3  W4  W3  L1  2.0
+  3 Godse, Gaurav          EGMH290Q   733   589/  8  W6  L2  W5  2.0
+  4 Mitra, Rishab          OPWD138L   471   454/101  L2  L1  W6  1.0
+  5 Chaudhuri, Agnivesh    CHACB55V   400   400/  3  L1  W6  L3  1.0
+  6 Schaudt, Parker        FAPC799V   400   400/  6  L3  L5  L4  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Olson, Travis          ADUN8893  1774  1775/ 84  W3  W2  W4  3.0
+  2 Evin, Terrick          EBSBC54L  1187  1172/ 84  W4  L1  D3  1.5
+  3 Jang, Jinwon           VIEF561P   844   897/ 27  L1  W4  D2  1.5
+  4 Doronin, Victor        BMNF335T   740   718/ 20  L2  L3  L1  0.0

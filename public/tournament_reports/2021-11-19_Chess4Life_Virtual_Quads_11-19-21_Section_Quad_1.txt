@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yang, Alexander        CHRFD81J  1757  1811/194  W4  W3  W2  3.0
+  2 Willy, Stephen         HSCGH17K  1799  1802/440  W3  W4  L1  2.0
+  3 Seela, Shashank        SSMFI74N  1650  1647/113  L2  L1  W4  1.0
+  4 Gijare, Sayali         SKWJE100  1687  1644/552  L1  L2  L3  0.0

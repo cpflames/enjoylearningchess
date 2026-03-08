@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hochberg, David        SUEJ6075  1204  1283/215  W3  W4  W2  3.0
+  2 Xie, Michael           BLWF549C  1128  1158/321  W4  W3  L1  2.0
+  3 Yun, Daniel D          BCAAK87Z  1088  1079/174  L1  L2  W4  1.0
+  4 Sreraman, Rohit        BCABG92Q  1148  1077/ 46  L2  L1  L3  0.0

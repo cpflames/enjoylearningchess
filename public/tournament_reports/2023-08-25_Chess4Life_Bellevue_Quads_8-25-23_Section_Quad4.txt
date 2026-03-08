@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ramola, Atharv         TMBH684P   882   931/ 21  D4  W2  W3  2.5
+  2 Wang, Evan             PLKGB88C   865   883/ 62  W3  L1  W4  2.0
+  3 Bao, David             SSSBK25B   719   726/ 12  L2  W4  L1  1.0
+  4 Graham, Isaac          HCCFJ42K   858   797/ 32  D1  L3  L2  0.5

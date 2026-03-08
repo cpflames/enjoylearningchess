@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Roesch, Carson         BLHK120K  1784  1780/221  W3  W2  D4  2.5
+  2 Scollon, Owen          FHVH734D  1537  1550/373  W4  L1  W5  2.0
+  3 Kuzin, Ethan           SHMK7567  1358  1399/273  L1  W5  W6  2.0
+  4 Werner, Ross           SHMLB91H  1304  1334/ 92  L2  W6  D1  1.5
+  5 Johnson, Derek         LYELB948  1439  1389/182  D6  L3  L2  0.5
+  6 Stanley, Soren         BLHM116S  1243  1221/ 46  D5  L4  L3  0.5

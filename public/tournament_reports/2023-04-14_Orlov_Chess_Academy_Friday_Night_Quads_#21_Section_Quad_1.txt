@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Olson, Travis          ADUN8893  1837  1840/ 93  W4  W2  W3  3.0
+  2 Shah, Kanav            LMAE295Q  1271  1318/ 74  W3  L1  W4  2.0
+  3 Edwin, Elijah          BCSCC24D  1220  1224/101  L2  W4  L1  1.0
+  4 Balayoghan, Keeran     SPTF477N  1243  1197/ 67  L1  L3  L2  0.0

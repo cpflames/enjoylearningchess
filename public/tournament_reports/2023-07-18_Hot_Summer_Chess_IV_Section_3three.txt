@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Singh, Arshaan         HORIK22R   699   843/ 16  W4  W3  W2  3.0
+  2 Fine-gucker, Logan     EAGD535R   694   714/ 59  W6  W5  L1  2.0
+  3 Bannister, Cypress     EAGFK36L   652   683/ 26  W7  L1  W5  2.0
+  4 Russell, Emerson       BLEEK23A   607   649/ 14  L1  W7  W6  2.0
+  5 Buckham, George        SKYBK37E   599   579/ 19  W8  L2  L3  1.0
+  6 Crompton, Callum       FACEE89B   521   518/ 37  L2  W8  L4  1.0
+  7 Cancelosi, Nicholas    SKYFM25W   505   504/ 35  L3  L4  W8  1.0
+  8 Larcom, Korbin         CIAEJ87V   699   565/ 59  L5  L6  L7  0.0

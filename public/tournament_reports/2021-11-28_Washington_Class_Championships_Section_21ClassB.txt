@@ -1,0 +1,34 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Zhu, Jamie             SSMF558E  1672  1751/281  W19 W18 W17 W8  D4  HPB 5.0
+  2 Shapiro, Michael       EALL8875  1689  1712/329  W26 L11 W32 W25 W16 D4  4.5
+  3 Tatikonda, Nihanth     CPJH926F  1533  1671/189  W21 D4  D16 W10 D5  W13 4.5
+  4 Cheng, Edward          GARJC74W  1692  1738/319  W15 D3  W25 W6  D1  D2  4.5
+  5 Barua, Ani             ADUN8572  1164  1624/  8  HPB W12 D13 W14 D3  W11 4.5
+  6 Yang, Arnold           WVWKP993  1738  1733/199  L16 W23 W24 L4  W28 W12 4.0
+  7 Kou, Jeffrey           ISSL9083  1627  1646/383  D29 L24 W19 HPB W30 W17 4.0
+  8 Jammalamadaka, Varnika OVLHD216  1697  1693/422  W33 W32 D11 L1  D12 W18 4.0
+  9 Corey-derrah, Alan     ADUNF928  1263  1473/ 37  W30 L25 L12 W29 W24 W16 4.0
+ 10 Shi, Ted               SPTFD099  1727  1688/288  L11 BYE D26 L3  WF  W24 3.5
+ 11 Zhou, Leonardo         PLKGE293  1629  1657/164  W10 W2  D8  HPB D13 L5  3.5
+ 12 Garine, Ujwal          REJIB99A  1467  1552/164  W27 L5  W9  W21 D8  L6  3.5
+ 13 Mathews, Dan Reas      ADUN2704  1703  1695/  6  W23 D16 D5  W17 D11 L3  3.5
+ 14 Li, Emma               LMSH521Q  1689  1657/318  D24 D29 W18 L5  L17 W25 3.0
+ 15 Beegala, Keshav        SHVFJ27V  1597  1592/187  L4  L21 L20 W31 W32 W27 3.0
+ 16 Shing, Rory            REJJ6966  1603  1606/184  W6  D13 D3  W22 L2  L9  3.0
+ 17 Razmov, Gabriel        ADDGC26K  1609  1605/157  W31 W22 L1  L13 W14 L7  3.0
+ 18 Saravanan, Sujan       SKWG372N  1464  1525/346  W28 L1  L14 W32 W20 L8  3.0
+ 19 Liu, Lucas             SOMEH33R  1563  1578/153  L1  D28 L7  W23 W26 D21 3.0
+ 20 Chan, Skylor T         OMSHD18J  1680  1643/263  L25 L30 W15 W33 L18 W28 3.0
+ 21 Shah, Paras            EVJG904N  1662  1640/147  L3  W15 W30 L12 D25 D19 3.0
+ 22 Han, Shuyi             SOMFK47W  1416  1424/236  BYE L17 W27 L16 HPB HPB 3.0
+ 23 Zhang, Kylie           WMEF890T  1600  1577/154  L13 L6  D31 L19 W29 W30 2.5
+ 24 Verma, Darsh           WONFB52K  1586  1579/113  D14 W7  L6  W26 L9  L10 2.5
+ 25 Peesa, Rahul           OMSI109W  1575  1576/141  W20 W9  L4  L2  D21 L14 2.5
+ 26 Chen, William          BLWF550N  1584  1523/ 11  L2  W33 D10 L24 L19 W31 2.5
+ 27 Hendricks, David       ADUNB791  1626  1554/100  L12 W31 L22 L30 W33 L15 2.0
+ 28 Zhang, Iris            TMBH858X  1610  1572/328  L18 D19 W29 HPB L6  L20 2.0
+ 29 Zhang, Michelle        MEDF889L  1501  1487/314  D7  D14 L28 L9  L23 W32 2.0
+ 30 Merriman, Dann         WMNCF79Y  1602  1566/430  L9  W20 L21 W27 L7  L23 2.0
+ 31 Xiong, Michael         MEDD115A  1421  1383/173  L17 L27 D23 L15 BYE L26 1.5
+ 32 Devadithya, Hiruna     PFCI5494  1606  1520/640  BYE L8  L2  L18 L15 L29 1.0
+ 33 Sauve, Lucas           ADUNE38H  1310  1260/  9  L8  L26 BYE L20 L27 U   1.0

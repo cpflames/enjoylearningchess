@@ -1,0 +1,25 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Mahajan, Rushaan       RKWIK091  2239  2250/310  W9  W10 W3  W2  W6  5.0
+  2 Wang, Ted              BCABK13D  1590  1618/101  W14 W13 W8  L1  W7  4.0
+  3 Devadithya, Hiruna     PFCH5494  1556  1576/578  WF  W15 L1  W4  W11 4.0
+  4 Senthil Kumar, KrishnapLMAI7364  1331  1366/291  W16 W17 D6  L3  W12 3.5
+  5 Kompella, Aditya       SKNJ549K  1665  1625/179  L13 D12 W18 W14 W8  3.5
+  6 Cheng, Edward          WMSIC74W  1646  1636/130  W20 W11 D4  D7  L1  3.0
+  7 Devadithya, Lavindu    ISSLK234  1631  1605/556  D12 W18 W19 D6  L2  3.0
+  8 Tameling, Cole         UPAHK654  1230  1294/271  WF  W19 L2  W15 L5  3.0
+  9 Raj, Jayahari          PMIG227V  1174  1216/113  L1  W24 D14 D12 W19 3.0
+ 10 Sinha, Shaayan         JAHGR30Y  1385  1361/ 37  WF  L1  L12 W22 W17 3.0
+ 11 Fedorov, Vladimir      MMEGF17D  1241  1260/137  WF  L6  W23 W13 L3  3.0
+ 12 Borden, Derek          IMSH915P  1084  1214/ 48  D7  D5  W10 D9  L4  2.5
+ 13 Vangala, Agastya       LMSIB39V  1128  1197/260  W5  L2  W17 L11 D15 2.5
+ 14 Saloranta, Leo         IMSHB40A  1025  1093/ 75  L2  W21 D9  L5  W18 2.5
+ 15 Avula, Varshith Reddy  BRHE110R  1302  1283/126  W22 L3  W20 L8  D13 2.5
+ 16 Borden, Hugh           IMSH596M   996  1029/ 44  L4  L20 D21 W24 W23 2.5
+ 17 Medikurthi, Sanjana    BRHHK37G   911   995/ 54  W21 L4  L13 W23 L10 2.0
+ 18 Thiruveedu, Pallavi    RSHH492D   693   763/ 29  BYE L7  L5  W21 L14 2.0
+ 19 Xia, Yuchen            BLMHI52A  1381  1328/ 62  W24 L8  L7  W20 L9  2.0
+ 20 Sood, Akul             SASH510U  1133  1112/ 99  L6  W16 L15 L19 D22 1.5
+ 21 Tameling, Benton       LMSJ9987  1277  1163/301  L17 L14 D16 L18 W24 1.5
+ 22 Kotipalli, Manoj       PLKG3324   918   927/ 67  L15 L23 W24 L10 D20 1.5
+ 23 Mittal, Sanyam         SHVI2663  1089  1033/ 72  LF  W22 L11 L17 L16 1.0
+ 24 Nooli, Sai Sahasra     REJH773X   972   898/ 43  L19 L9  L22 L16 L21 0.0

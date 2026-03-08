@@ -1,0 +1,39 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Damrau, Austin         PIVEK95E   986  1118/ 15  W16 W13 W10 W3  W6  5.0
+  2 Patnaik, Rishabhdeva   CRKEG72D   955  1049/ 93  W21 W20 W4  D6  W8  4.5
+  3 Holdych, Micah         LHCG603V   954   995/ 41  W26 W23 W8  L1  W17 4.0
+  4 Bautista, Ben          CWAEJ57R   753   780/ 43  W27 W15 L2  W16 W10 4.0
+  5 Casino, Eli            STCEI15Q   686   787/ 28  W18 W32 W7  L8  W9  4.0
+  6 Navneeth, Advik        RHJGH67D  1167  1142/ 37  W37 W11 W9  D2  L1  3.5
+  7 Wilson, Braylon        CWAE130Q   415   536/ 51  D29 W24 L5  W23 W12 3.5
+  8 Thakur, Reet           CWAGJ84K  1166  1110/303  W25 W12 L3  W5  L2  3.0
+  9 Gogue-tabios Jr, Roy   CPRFK61S   881   841/ 10  W17 W14 L6  W26 L5  3.0
+ 10 Satish Kumar, Sai NavanCENEH21Y   712   694/ 19  W38 W33 L1  W15 L4  3.0
+ 11 Carrell, Samuel        STCF150C   611   618/ 32  W34 L6  W29 L17 W20 3.0
+ 12 Garcia-cobian, Rafael  PMSGK38E   582   582/ 38  W28 L8  W32 W18 L7  3.0
+ 13 Einarson, Aiden        CWAED84D   533   530/ 80  W22 L1  L26 W30 W29 3.0
+ 14 Kim, Henry             CWAEH20U   400   432/ 22  W30 L9  L18 W34 W26 3.0
+ 15 Dodd, Cadence          CPREK61E   153   320/ 10  W31 L4  W33 L10 W27 3.0
+ 16 Turner, Aubrie Lynn    CPREB07F   100   225/ 14  L1  W34 W30 L4  W31 3.0
+ 17 Lu, Gabriel            CWAEK51S   400   723/  5  L9  W36 W23 W11 L3  3.0
+ 18 Carr, Gabriel          HPRGK51R   600   513/  5  L5  W31 W14 L12 W25 3.0
+ 19 Mcintosh, Hunter       ELKGK51Q   600   304/  5  L23 L27 W37 W36 W38 3.0
+ 20 Parker, Mason          CPREH69X   444   444/ 25  W36 L2  D27 W28 L11 2.5
+ 21 Ruda, Greyson          ELKEK51P   400   302/  5  L2  D22 L28 W38 W33 2.5
+ 22 Richards, Bryan        CPREK51N   400   277/  5  L13 D21 D25 D24 W32 2.5
+ 23 Seaholm, Liam          STCEK61P   459   445/ 10  W19 L3  L17 L7  W34 2.0
+ 24 Townsend, Howard       ELKGK60U   215   202/ 10  L33 L7  W35 D22 D28 2.0
+ 25 Igwe, Daniel           ELKEK61H   100   185/ 10  L8  D28 D22 W37 L18 2.0
+ 26 Catayas, Ianess        HFLGK51M   600   489/  5  L3  W35 W13 L9  L14 2.0
+ 27 Olsen, Russell         NARGK51L   600   372/  5  L4  W19 D20 D29 L15 2.0
+ 28 Starke, Reagan         CWAEK51K   400   268/  5  L12 D25 W21 L20 D24 2.0
+ 29 Shields, Conor         VOYFK51J   500   354/  5  D7  W37 L11 D27 L13 2.0
+ 30 Rogers, Hadley         ELKEK51H   400   216/  5  L14 W38 L16 L13 W37 2.0
+ 31 Erickson-bryant, GabrieELKGK51G   600   182/  5  L15 L18 W38 W35 L16 2.0
+ 32 Igwe, Angel            ELKGK60S   100   128/ 10  W35 L5  L12 D33 L22 1.5
+ 33 Ali, Adam              CWAEK51F   400   151/  5  W24 L10 L15 D32 L21 1.5
+ 34 Johnson, Zoey          ELKEK51E   400   123/  5  L11 L16 W36 L14 L23 1.0
+ 35 Welborn, Robert        CPREK51D   400   100/  5  L32 L26 L24 L31 D36 0.5
+ 36 Nunes, Colton          SETEK51C   400   100/  5  L20 L17 L34 L19 D35 0.5
+ 37 Dodd, Mackenzie        CPREK61G   100   100/ 10  L6  L29 L19 L25 L30 0.0
+ 38 Gallier, Lyra          CWAEK51B   400   100/  5  L10 L30 L31 L21 L19 0.0

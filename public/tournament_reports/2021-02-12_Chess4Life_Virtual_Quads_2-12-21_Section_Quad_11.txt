@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Singh, Aavir           REJI7910   851   989/ 80  W3  W2  W4  3.0
+  2 Rastogi, Reyansh       LMAED30N   865   895/ 90  W4  L1  W3  2.0
+  3 Nair, Ishan            FRWD670E   862   838/ 32  L1  W4  L2  1.0
+  4 Zheng, Lucas           HOEB194Y   848   774/ 46  L2  L3  L1  0.0

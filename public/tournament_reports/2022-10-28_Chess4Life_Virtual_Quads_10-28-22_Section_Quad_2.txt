@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bansal, Vivaan         EVJI452J  1310  1419/ 55  W2  W4  W3  3.0
+  2 Xu, Zoe                SOMDG70A  1300  1309/180  L1  W3  D4  1.5
+  3 Stein, Benjamin        HSCDB61S  1309  1294/242  W4  L2  L1  1.0
+  4 Zhao, Dennis           CGRG525E  1374  1323/264  L3  L1  D2  0.5

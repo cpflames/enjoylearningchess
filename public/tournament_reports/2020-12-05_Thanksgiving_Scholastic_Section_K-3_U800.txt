@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Gulati, Naamya         FRWD649C   757   847/ 90  W20 D5  W11 W14 W3  4.5
+  2 Aute, Rohit            BEND684B   602   758/ 20  W10 L3  W13 W5  W7  4.0
+  3 Davenport, Raymond     SOMDD41L   766   832/ 25  W19 W2  W14 W7  L1  4.0
+  4 Lu, Ian                CRICE83J   638   664/ 97  W13 L15 W19 W16 W8  4.0
+  5 Choi, Paige            EVGBD50E   595   710/ 38  W18 D1  W6  L2  W16 3.5
+  6 Sankar, Sneha          CNCD372B   679   718/155  HPB W9  L5  W11 W14 3.5
+  7 Ramkumar, Nikhil       RBRD115E   763   733/ 12  W12 W16 W15 L3  L2  3.0
+  8 Harding, Griffin       LCNBD51F   448   542/ 43  L14 W21 W12 W15 L4  3.0
+  9 Moeser, Soren          BUSCF29A   521   553/ 10  D11 L6  W18 D17 W15 3.0
+ 10 Ramkumar, Nethra       RBRD315Z   400   469/ 12  L2  L12 W22 W23 W17 3.0
+ 11 Enslow, David          SCDD488X   529   544/ 50  D9  W17 L1  L6  W21 2.5
+ 12 Choi, Sydney           EVGBD34F   516   511/ 35  L7  W10 L8  D21 W19 2.5
+ 13 Mitra, Rishab          OPWC138L   400   450/ 48  L4  W22 L2  D20 W23 2.5
+ 14 Gajcowski, Devin       BETCA94Z   684   651/ 81  W8  W23 L3  L1  L6  2.0
+ 15 Jiao, Nathan           BCABK65K   400   494/  5  W22 W4  L7  L8  L9  2.0
+ 16 Narayan, Keshav        CMCCE45H   558   535/ 14  W21 L7  W23 L4  L5  2.0
+ 17 Sankar, Meera          CNCCF17N   400   400/ 81  HPB L11 W20 D9  L10 2.0
+ 18 Shah, Saanvi           PTTBN82K   400   400/ 18  L5  D20 L9  D19 BYE 2.0
+ 19 Moeser, Jonas          BUSA540P   400   400/  4  L3  BYE L4  D18 L12 1.5
+ 20 Enslow, Nora           SCDBB35V   453   405/ 31  L1  D18 L17 D13 D22 1.5
+ 21 Hirani, Jia            XXXD905R   400   400/  4  L16 L8  BYE D12 L11 1.5
+ 22 Chiu, Callum           LCNB720R   427   400/ 38  L15 L13 L10 BYE D20 1.5
+ 23 Kang, Meher            RKWBC54P   452   400/ 10  WF  L14 L16 L10 L13 1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Goel, Darsh            SBOGR06Y  1042  1160/ 52  W4  W2  W3  3.0
+  2 Hawkins, Holden        TYEK383Z  1023  1059/453  W3  L1  W4  2.0
+  3 Parson, Anya           SSMFI86G  1044  1021/ 22  L2  W4  L1  1.0
+  4 Xie, Leon              CNHE264X  1033   962/ 36  L1  L3  L2  0.0

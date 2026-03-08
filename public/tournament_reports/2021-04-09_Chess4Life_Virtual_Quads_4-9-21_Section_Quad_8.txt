@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kondapally, Aryan      BCAJ7943  1102  1146/ 23  U   W3  W2  2.0
+  2 Bharadwaj, Samarth     DISAE78A  1098  1083/  5  W3  U   L1  1.0
+  3 Singhi, Rohan          BRHBH01P  1014   972/ 46  L2  L1  U   0.0

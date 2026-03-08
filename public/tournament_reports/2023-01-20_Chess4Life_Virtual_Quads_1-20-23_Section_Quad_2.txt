@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Karri, Aditya          AUDEC55V  1359  1423/254  W4  D3  W2  2.5
+  2 Wahi, Lakshya          EVJJ664Z  1410  1424/157  W3  W4  L1  2.0
+  3 Xu, Zoe                SOMDG70A  1355  1340/212  L2  D1  D4  1.0
+  4 Singh, Rushil          SNEFB52N  1376  1335/ 71  L1  L2  D3  0.5

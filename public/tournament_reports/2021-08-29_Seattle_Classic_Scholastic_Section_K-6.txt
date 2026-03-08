@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Razmov, Gabriel        CSIGC26K  1480  1516/136  W8  WF  W7  W4  D3  4.5
+  2 Shen, Lixing           CMCGC15C  1534  1518/446  HPB L5  W6  W9  WF  3.5
+  3 Verma, Darsh           WONFB52K  1502  1506/ 98  W7  L4  W5  WF  D1  3.5
+  4 Nallappa, Vijay        ENSGD40S  1484  1461/267  W10 W3  WF  L1  L7  3.0
+  5 Gajcowski, Hannah Nami OPWGI10H  1423  1435/152  W9  W2  L3  HPB HPB 3.0
+  6 Lim, Hayul             VCEFQ94C  1361  1334/ 34  WF  L7  L2  W8  W10 3.0
+  7 Ramkumar, Nikhil       RBRE115E  1180  1292/ 87  L3  W6  L1  W10 W4  3.0
+  8 Li, Jake C             BRHD573E   400   930/  4  L1  L10 BYE L6  W9  2.0
+  9 Gupta, Ayush           CHAFB05F   772   807/ 48  L5  BYE W10 L2  L8  2.0
+ 10 Bharathy Mohan, Aarav  FRWDC98B  1139  1080/204  L4  W8  L9  L7  L6  1.0

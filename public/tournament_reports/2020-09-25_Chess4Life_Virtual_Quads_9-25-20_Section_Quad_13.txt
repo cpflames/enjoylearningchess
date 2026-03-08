@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kan, Kaleb             MMECF53E   728   734/ 36  W2  W4  L3  2.0
+  2 Senthil, Sanvi         SPTFH12F   621   673/249  L1  W3  W4  2.0
+  3 Neff, Nadine           ABEEC79W   607   623/244  D4  L2  W1  1.5
+  4 Xie, Michael           BLWE549C   654   597/112  D3  L1  L2  0.5

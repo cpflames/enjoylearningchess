@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sreraman, Rahul        BCACJ42L   868   897/ 86  L2  W4  W3  2.0
+  2 Wu, Dennis             SCDCJ54B   837   848/135  W1  D3  L4  1.5
+  3 Ganesan, Vidur         RBRD940K   893   887/ 29  W4  D2  L1  1.5
+  4 Nabeel, Hasan          EDVE415U   894   861/ 28  L3  L1  W2  1.0

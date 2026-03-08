@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Girroir, Arrow         ACNCQ003  1009  1043/ 25  W3  U   W2  2.0
+  2 Li, Harry              SSSDG30G   900   903/256  U   W3  L1  1.0
+  3 Sabarish, Ananya       BCACG02Z   830   790/ 77  L1  L2  U   0.0

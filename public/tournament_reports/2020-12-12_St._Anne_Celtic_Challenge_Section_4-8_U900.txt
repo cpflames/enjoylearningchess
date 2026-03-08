@@ -1,0 +1,29 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Raje, Atharva          SLLGL432   878  1023/ 73  W11 W5  W10 D2  W3  4.5
+  2 Zhang, Yan             SOMEC58Q   842   998/ 61  W12 W17 W6  D1  W7  4.5
+  3 Joshi, Vaidehi         CRKFG37G   867   964/ 88  W14 W9  W4  W18 L1  4.0
+  4 Wei, Sarina            LCNEG09P   740   890/ 49  W27 W7  L3  W20 W10 4.0
+  5 Moriguchi, Minh        THUFA43T   748   850/ 50  W19 L1  W26 W6  W18 4.0
+  6 Shenoy, Vaishnavi      NPEFQ96H   660   804/ 22  W20 W13 L2  L5  W21 3.0
+  7 Chulki, Aayush         CEIFJ17Y   841   844/ 66  W23 L4  W11 W14 L2  3.0
+  8 Davis, Zach            SANGI44K   747   739/ 50  L22 W16 W21 D12 D15 3.0
+  9 Yuen, Otto Shing-lok   KSHEF34N   876   834/232  W24 L3  D19 W22 D12 3.0
+ 10 Miller, Carolyn        SMCE953Q   765   776/ 75  W26 W25 L1  W17 L4  3.0
+ 11 Madupuru, Manvik       LEOGI50J   730   737/ 35  L1  W19 L7  W26 W23 3.0
+ 12 Xu, Alex               DCTE500U   640   679/ 19  L2  W28 W27 D8  D9  3.0
+ 13 Rohitasuke, Kenji      EINIC677   799   774/ 78  W16 L6  L17 W23 W28 3.0
+ 14 Li, Timothy            CRIEE29R   722   713/ 76  L3  W24 W28 L7  W27 3.0
+ 15 Jewsbury, Annika       BETED45J   527   611/ 50  HPB W23 L18 W24 D8  3.0
+ 16 Yang, Nathan           MRPE586Y   596   605/ 75  L13 L8  W24 W27 W26 3.0
+ 17 Ybarra, Tenoch         RDSFF05B   705   754/ 35  W21 L2  W13 L10 D20 2.5
+ 18 Kamalakannan, NetthrayaSKWHE22N   787   753/ 73  W28 D22 W15 L3  L5  2.5
+ 19 Hession, Alex          SANG698T   417   548/ 14  L5  L11 D9  W25 W22 2.5
+ 20 Hawkins, Holden        TYEI383Z   941   876/132  L6  W26 W22 L4  D17 2.5
+ 21 Anderson, Penn         SJOG561N   863   774/ 70  L17 W27 L8  W28 L6  2.0
+ 22 Miller, Violet         FRDFH568   575   577/ 83  W8  D18 L20 L9  L19 1.5
+ 23 Jaeger, Hayden         SANFJ35L   623   558/ 62  L7  L15 W25 L13 L11 1.0
+ 24 Kemp, Cash             SANFC11L   500   400/  5  L9  L14 L16 L15 W25 1.0
+ 25 Anderson, Quinn        SJOG101U   400   400/  9  BYE L10 L23 L19 L24 1.0
+ 26 De Villasante, SebastiaSANFE40W   473   421/ 28  L10 L20 L5  L11 L16 0.0
+ 27 Westoby, Tyler         SANF772T   500   400/  5  L4  L21 L12 L16 L14 0.0
+ 28 Stack, Juliette        SANE991N   400   400/  5  L18 L12 L14 L21 L13 0.0

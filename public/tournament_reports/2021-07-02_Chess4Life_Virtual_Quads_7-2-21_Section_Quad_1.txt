@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Shubin, Daniel         EPSKF498  2161  2165/476  W3  W4  W2  3.0
+  2 Willy, Stephen         MMEFH17K  1822  1832/402  W4  W3  L1  2.0
+  3 Cha, Samuel            LAVDK18Z  1595  1605/135  L1  L2  W4  1.0
+  4 Park, Sean             INTJ600E  1636  1605/ 95  L2  L1  L3  0.0

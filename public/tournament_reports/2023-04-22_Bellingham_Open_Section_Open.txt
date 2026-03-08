@@ -1,0 +1,40 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kaelin, Alexander      ADUN8539  1787  1842/213  W26 W13 W11 W10 W4  5.0
+  2 Toppen-ryan, Harrison  ADUNK815  1947  1951/236  W25 D12 W23 W11 D7  4.0
+  3 Kuipers, Miles         TSTK6766  1814  1822/542  W22 W16 W19 L4  W17 4.0
+  4 Karthikeyan, HarishkumaREJHJ81A  1811  1837/214  W27 W17 W9  W3  L1  4.0
+  5 Maurer, Sam            INTK742A  1744  1766/ 49  L18 W8  W25 W16 W9  4.0
+  6 Seshadri, Sridhar      ADUNC121  1600  1625/ 75  W39 L11 W18 W19 W10 4.0
+  7 June, Peter            ADUN9213  1966  1954/337  W21 L24 W12 W15 D2  3.5
+  8 Dann, William          ADUN554B  1540  1562/ 55  D23 L5  W34 W35 W21 3.5
+  9 Ramesh, Jothi          ADUNE386  1820  1805/191  W31 W15 L4  W20 L5  3.0
+ 10 Mcgrath, Michael       ADUNS364   932  1176/  8  W32 W20 W24 L1  L6  3.0
+ 11 Roesch, Carson         BLHK120K  1782  1771/246  WF  W6  L1  L2  W27 3.0
+ 12 Wong-godfrey, Emerson  BUSJH83E  1713  1718/479  W33 D2  L7  W23 D13 3.0
+ 13 Gilbert, Christopher   ADUN2539  1378  1408/ 54  W37 L1  W32 D21 D12 3.0
+ 14 Boey, Chad             ADUN800V  1665  1619/ 22  L30 L28 W22 W33 W29 3.0
+ 15 Cornejo Altuzar, SharadADUNJ94X  1651  1629/ 10  W34 L9  W26 L7  W28 3.0
+ 16 Wang, Leonardo         CKNG233K  1648  1643/ 51  W35 L3  W28 L5  W30 3.0
+ 17 Jusak, Jeremy          ADUN7225  1634  1648/236  W29 L4  W30 W24 L3  3.0
+ 18 Roesch, Jeremy         ADUNK20K  1300  1662/  5  W5  L23 L6  W39 W24 3.0
+ 19 Sauder, Sam            ADUN452P  1448  1469/ 69  W28 W30 L3  L6  D20 2.5
+ 20 Breslauer, Arlo        ADUN193A  1641  1594/ 21  W38 L10 W27 L9  D19 2.5
+ 21 Hamlett, James         ADUN4372  1517  1499/ 95  L7  W33 W39 D13 L8  2.5
+ 22 Shankaranand, Deeksha  EBSEI74Y  1342  1356/220  L3  D35 L14 W34 W31 2.5
+ 23 Chamberlain, Andrew    ADUNK20J  1300  1636/  5  D8  W18 L2  L12 W35 2.5
+ 24 Buck, Stephen J        ADUN8800  1704  1663/ 29  W36 W7  L10 L17 L18 2.0
+ 25 Sharma, Devansh        KMNIF88S  1472  1436/169  L2  W37 L5  L28 W38 2.0
+ 26 Hopkins, Kyle L        ADUNK20H  1449  1416/  5  L1  W36 L15 L30 W39 2.0
+ 27 Watts, William         ADUNE14R  1315  1357/ 11  L4  W29 L20 W38 L11 2.0
+ 28 Mcgrath, Matthew       ADUNK20G  1092  1201/  5  L19 W14 L16 W25 L15 2.0
+ 29 Woodson, Isaac         ADUNK20F  1300  1261/  4  L17 L27 BYE W32 L14 2.0
+ 30 Fritz, Benjamin        ADUNK20E  1300  1483/  5  W14 L19 L17 W26 L16 2.0
+ 31 Wilmot, Taber          ADUNH86D  1359  1287/ 15  L9  D34 L35 W36 L22 1.5
+ 32 Berry, Garcia          BHMKK99Z  1263  1209/ 22  L10 W38 L13 L29 D33 1.5
+ 33 Herr, Jacob            ADINY99V  1300  1150/  5  L12 L21 W37 L14 D32 1.5
+ 34 Stroud, Jeb            HSCHK22V  1052  1072/ 10  L15 D31 L8  L22 W37 1.5
+ 35 Fast, Erik             ADUNK20D  1300  1330/  5  L16 D22 W31 L8  L23 1.5
+ 36 Venkatesan, Nimalan    VVMH701P  1017   980/ 44  L24 L26 L38 L31 BYE 1.0
+ 37 Venkatesan, Nithilan   LCSCA95X   685   675/ 52  L13 L25 L33 BYE L34 1.0
+ 38 Cadwallader, Thomas    ADUNK20C  1300  1050/  5  L20 L32 W36 L27 L25 1.0
+ 39 Wilson, Don            ADUNK20B  1300  1018/  4  L6  BYE L21 L18 L26 1.0

@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Fang, Weiai            BRBB696W   556   653/ 33  W5  W2  W3  3.0
+  2 Dua, Ishit             REEF457J   547   497/  6  W4  L1  W5  2.0
+  3 Su, Oliver             JINBD01U   521   506/ 55  BYE W4  L1  2.0
+  4 Mandal, Ruhaan         NLACD75A   400   400/  2  L2  L3  BYE 1.0
+  5 Zhang, Lucas P         JINDE42S   400   400/  2  L1  BYE L2  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Priest, Liam           SBTHL07U  1512  1572/230  W2  W3  W4  3.0
+  2 Cha, Samuel            LAVDK18Z  1419  1447/112  L1  W4  W3  2.0
+  3 To, Donovan            KMNG239L  1448  1429/246  W4  L1  L2  1.0
+  4 Singh, Saket           DISH872S  1418  1365/216  L3  L2  L1  0.0

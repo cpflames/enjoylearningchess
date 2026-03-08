@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Chang, Eric            TYEI174T  1530  1577/ 91  W18 W14 L6  W7  W5  D4  4.5
+  2 Dann, William          ADUN554B  1297  1458/ 38  D4  D17 W22 W21 W6  D3  4.5
+  3 Rabadan, Michael       ADUNE34H  1070  1278/ 10  W5  W12 W7  D6  D4  D2  4.5
+  4 Condit, Noah           KMDGA59Q  1475  1533/ 90  D2  W22 W9  W20 D3  D1  4.5
+  5 Hamlett, James         ADUN4372  1534  1533/ 71  L3  BYE W16 W17 L1  W13 4.0
+  6 Kandhare, Ojas         INTKJ90T  1552  1560/ 53  W8  D9  W1  D3  L2  W10 4.0
+  7 Yang, Jingran          LKDG937V  1541  1542/151  W19 W20 L3  L1  W12 W14 4.0
+  8 Richards, Jerrold      ADUNI25C  1454  1473/ 22  L6  W11 L14 D18 W21 W17 3.5
+  9 Sankar, Abhay          LEOI6545  1505  1495/344  WF  D6  L4  D16 D17 W18 3.5
+ 10 Nallappa, Vijay        REJGD40S  1423  1453/286  D21 W19 D13 D14 W20 L6  3.5
+ 11 Sele, Jacob            ADUNJ07U  1300  1590/  3  LF  L8  BYE W22 HPB W20 3.5
+ 12 Shuman, Steve          ADUNF29Y  1408  1390/ 10  BYE L3  L21 W15 L7  W19 3.0
+ 13 Shen, Lixing           CMCGC15C  1546  1525/457  D15 W21 D10 HPB D14 L5  3.0
+ 14 Breslauer, Arlo        ADUN193A  1300  1437/  5  WF  L1  W8  D10 D13 L7  3.0
+ 15 Ramkumar, Nikhil       RBRE115E  1488  1459/125  D13 D16 L20 L12 D19 W21 2.5
+ 16 Shanmugam, Meera       SKWGD22Y  1535  1522/425  HPB D15 L5  D9  U   W22 2.5
+ 17 Nallabothula, Vineesh  EBSF764Q  1316  1341/246  D22 D2  W18 L5  D9  L8  2.5
+ 18 Cheng, Selina          THUE413R  1428  1387/322  L1  W24 L17 D8  WF  L9  2.5
+ 19 Zhang, Ethan           STTE851S  1404  1356/221  L7  L10 BYE HPB D15 L12 2.0
+ 20 Kamel, Yaseen          ISSJD57L  1555  1494/138  WF  L7  W15 L4  L10 L11 2.0
+ 21 Anandkumar, Haituka    STLH238P  1494  1431/263  D10 L13 W12 L2  L8  L15 1.5
+ 22 Varner, Murlin Eug     ADUN2012  1500  1425/  5  D17 L4  L2  L11 BYE L16 1.5
+ 23 Kodarapu, Neev         JWEFW11X  1113  1118/126  W25 U   U   U   U   U   1.0
+ 24 Smith, Andrew          ADUN6334  1205  1190/  6  U   L18 U   U   U   U   0.0
+ 25 Vijayakumar, Ashwin    ADUNI26B  1300   734/  1  L23 U   U   U   U   U   0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tian, Eric             SOMEI80S   724   858/ 28  W2  W4  W3  3.0
+  2 Rackoff, Dylan         BLWF507J   683   736/188  L1  W3  W4  2.0
+  3 Yang, Michael          OPWFA16W   792   745/ 22  W4  L2  L1  1.0
+  4 Song, Oliver           HSCDF09J   620   563/ 36  L3  L1  L2  0.0

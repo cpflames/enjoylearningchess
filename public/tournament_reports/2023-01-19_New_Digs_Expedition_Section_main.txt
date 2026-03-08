@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Lewis, Theo            FERLK29P  1349  1368/ 73  BYE W2  HPB W4  3.5
+  2 Mcfadden, Cameron      FERMI35S  1056  1103/ 89  BYE L1  W8  W6  3.0
+  3 Manly, Katie           FERK313C   542   681/ 48  U   W12 W10 W5  3.0
+  4 Hall, Jack             FERMD220  1108  1091/100  BYE D5  HPB L1  2.0
+  5 Carpenter, Jonas       FERJ274G  1079  1029/ 48  BYE D4  HPB L3  2.0
+  6 Reynolds, Spencer      FERM2234  1041  1016/ 29  BYE HPB HPB L2  2.0
+  7 Red Elk, Ali-lawet     FERM986S   723   730/ 46  HPB HPB U   W11 2.0
+  8 Richardson, Alexander  FERL217M  1019   996/ 47  BYE HPB L2  U   1.5
+  9 Cox, Tristan           FERL271K   994   994/  4  HPB U   W12 U   1.5
+ 10 Gonzalez, Jazzie       FERM372M   342   332/ 12  HPB HPB L3  U   1.0
+ 11 Gould, Hannah          FERLK92Y  1100   359/  1  HPB HPB U   L7  1.0
+ 12 Wattam, Tamon          FERKI98Q   286   286/  4  U   L3  L9  U   0.0

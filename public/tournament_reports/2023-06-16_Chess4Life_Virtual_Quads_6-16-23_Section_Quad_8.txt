@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Liao, Joe              MEDFE93Z   628   673/ 29  W4  W3  W2  3.0
+  2 Ramanathan, Varun      LEOHK88H   533   504/ 17  W3  D4  L1  1.5
+  3 Hooper, Thomas         CRNEK25G   380   361/ 22  L2  L1  W4  1.0
+  4 Klauder, Chase         SUCIK08R   100   151/  6  L1  D2  L3  0.5

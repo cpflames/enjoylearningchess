@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wilson, Nathaniel      SHKGE45V   812   886/ 15  W4  W3  W2  3.0
+  2 Bowman, Finn           SHMJD50L   722   745/ 20  W3  W4  L1  2.0
+  3 Chiapellone, Teo       SHMKG88R   634   625/ 38  L2  L1  W4  1.0
+  4 Stewart, Elijah        SHMK787F   632   563/ 12  L1  L2  L3  0.0

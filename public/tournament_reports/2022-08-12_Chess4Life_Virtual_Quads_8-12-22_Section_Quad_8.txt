@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xie, Leon              CNHD264X   834   955/ 24  W3  W2  W4  3.0
+  2 Ge, Alex               CCDB908H   801   840/ 60  W4  L1  W3  2.0
+  3 Wu, Dennis             SCDBJ54B   798   778/ 62  L1  W4  L2  1.0
+  4 Naenna, Patanin        SPLDQ28H   802   725/145  L2  L3  L1  0.0

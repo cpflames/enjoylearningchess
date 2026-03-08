@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Meyerzon, Daniel       OMSIJ242  1555  1632/368  W6  W10 W4  D3  3.5
+  2 Razmov, Gabriel        ADDGC26K  1551  1615/146  D18 W9  W14 W7  3.5
+  3 Cheng, Edward          GARJC74W  1703  1694/308  D9  W13 W15 D1  3.0
+  4 Merriman, Dann         WMNCF79Y  1583  1592/414  W5  W16 L1  W12 3.0
+  5 Deng, Stanley          CGMDK22E  1319  1366/141  L4  W21 W13 W10 3.0
+  6 Yadlapati, Arush       EVJHA47S  1286  1438/147  L1  W23 W16 W14 3.0
+  7 Suess, Wade            EVGG101D  1629  1616/261  W20 D15 W8  L2  2.5
+  8 Condit, Noah           KMDGA59Q  1472  1487/ 81  W12 D14 L7  W19 2.5
+  9 Kandhare, Ojas         INTKJ90T  1288  1400/ 42  D3  L2  W17 W15 2.5
+ 10 Sankrithi, Sarang      HSCCB11D  1439  1420/118  W22 L1  W18 L5  2.0
+ 11 Praveen, Atharva       REEEG14E  1371  1356/ 89  U   L12 W21 W22 2.0
+ 12 Murarka, Avni          OPWGA08F  1211  1274/162  L8  W11 W20 L4  2.0
+ 13 Guan, Marie            MISFZ124   861  1027/ 16  W23 L3  L5  W20 2.0
+ 14 Yondon, Odbayar        LMADK97T  1757  1655/ 14  W17 D8  L2  L6  1.5
+ 15 Nallappa, Vijay        ENSGD40S  1461  1446/271  W19 D7  L3  L9  1.5
+ 16 Xiong, Michael         MEDD115A  1508  1465/149  W21 L4  L6  D18 1.5
+ 17 Choi, Hunter           EVGEE80A  1362  1347/164  L14 D19 L9  W23 1.5
+ 18 Cheng, Selina          THUE413R  1304  1314/311  D2  HPB L10 D16 1.5
+ 19 Edmond, Ivy            WWDED81E  1198  1222/218  L15 D17 W23 L8  1.5
+ 20 Su, Alfred             EGBD929B  1322  1260/210  L7  W22 L12 L13 1.0
+ 21 Kokati, Pranav         OMSG814P  1150  1119/168  L16 L5  L11 BYE 1.0
+ 22 Radke, Alex            LKDG1113   998   977/153  L10 L20 BYE L11 1.0
+ 23 Gajcowski, Hannah Nami OPWGI10H  1435  1323/156  L13 L6  L19 L17 0.0

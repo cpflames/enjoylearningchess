@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tsay, Elon             NWOCK07B   365   506/ 13  W2  W3  W4  3.0
+  2 Menon, Ritwik          WLDF974D   362   390/ 15  L1  W4  W3  2.0
+  3 Wu, Jackie             MEDEJ63Z   400   333/  8  W4  L1  L2  1.0
+  4 Grigoryan, Vlad        HSSKZ95Y   255   153/  7  L3  L2  L1  0.0

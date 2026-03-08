@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chaudhuri, Arihant     CHAC703E   788   899/ 90  W4  W3  W2  3.0
+  2 Krishna, Sai           CAXE383J   760   731/ 31  L3  W4  L1  1.0
+  3 Saravanan, Maadhav     CSMC555W   718   701/ 24  W2  L1  L4  1.0
+  4 Kuluru, Samith         KKNFI99K   713   697/ 55  L1  L2  W3  1.0

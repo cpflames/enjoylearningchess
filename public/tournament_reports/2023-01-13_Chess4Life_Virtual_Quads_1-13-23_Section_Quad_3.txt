@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bhattacharjee, ArchishmBLWGA45Y  1332  1327/178  U   L3  W2  1.0
+  2 Dale, Luke             MTSJJ10P  1304  1304/ 76  W3  U   L1  1.0
+  3 Foltz, Karsten         HTNH306D  1276  1282/122  L2  W1  U   1.0

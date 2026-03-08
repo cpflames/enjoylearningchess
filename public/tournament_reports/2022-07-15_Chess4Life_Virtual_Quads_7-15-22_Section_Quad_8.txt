@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Garg, Vihaan           CMCBJ10X   862   936/ 85  D2  W4  W3  2.5
+  2 Yang, Nicholas         CHRBG23U   826   872/ 32  D1  W3  D4  2.0
+  3 Kundu, Ayush           XXXF245X   859   832/ 32  W4  L2  L1  1.0
+  4 Naenna, Patanin        SPLDQ28H   854   802/142  L3  L1  D2  0.5

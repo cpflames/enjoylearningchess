@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Darr-rehmert, Natalie  FERLK93U   600   688/ 56  W8  W7  W5  3.0
+  2 Dodge, Nathaniel       BLHM337W   605   638/ 45  W3  L4  W7  2.0
+  3 Holley, Aiden          BLHM485Q  1200   674/  3  L2  W8  W4  2.0
+  4 Smith, Henry           MDII604U   619   629/ 12  D5  W2  L3  1.5
+  5 Kerr, Ethan            BLHJJ06N   900   645/  3  D4  W6  L1  1.5
+  6 Red Elk, Ali-lawet     MRDL986S   577   508/ 19  L7  L5  W8  1.0
+  7 Wriight, Jackson       BLHKE03C  1000   527/  3  W6  L1  L2  1.0
+  8 Dohner, Avery          BLHME74T  1200   400/  3  L1  L3  L6  0.0

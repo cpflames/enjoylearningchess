@@ -1,0 +1,34 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Cheng, Edward          WMSIC74W  1700  1735/227  W33 W4  W19 W3  W2  5.0
+  2 Garine, Ujwal          REJHB99A  1548  1561/130  W16 W12 W8  W10 L1  4.0
+  3 Marcelia, David        CPBLK21F  1448  1474/ 35  W22 W20 W5  L1  W8  4.0
+  4 Lim, Hayul             VCEEQ94C  1243  1354/ 16  W27 L1  W21 W19 W14 4.0
+  5 Xia, Yuchen            BLMHI52A  1252  1322/103  WF  W21 L3  W12 W10 4.0
+  6 Avula, Varshith Reddy  BRHE110R  1281  1290/137  L21 W30 W11 W13 W9  4.0
+  7 Huang, Emily           MEDEB39A  1236  1230/134  L23 W28 D27 W16 W19 3.5
+  8 Kuo, Tristan           KELG941B  1273  1286/260  W28 W11 L2  W25 L3  3.0
+  9 Narayan, Bhargav       CMCFD962  1097  1167/141  W18 W14 L10 W17 L6  3.0
+ 10 Dudala, Vihan          BRHEH62J  1376  1362/ 89  W31 W25 W9  L2  L5  3.0
+ 11 Abueg, Lorenzo         LEOGG77J  1023  1132/ 60  W17 L8  L6  W27 W20 3.0
+ 12 Raghavapurapu, SuprathiSNIE330S  1232  1236/ 62  W24 L2  W31 L5  W22 3.0
+ 13 Trochesset, David      ENSEG98F  1145  1141/ 38  W26 L19 W18 L6  W24 3.0
+ 14 Tameling, Cole         UPAHK654  1317  1293/309  W30 L9  W22 W20 L4  3.0
+ 15 Albaugh, Drew          BEPK8476   843   983/ 40  L20 L22 W30 W23 W25 3.0
+ 16 Kedarisetty, Shreyas   GRREH60G  1067  1093/ 86  L2  W24 D17 L7  W28 2.5
+ 17 Kamel, Yaseen          PFCID57L  1334  1269/ 84  L11 W23 D16 L9  W26 2.5
+ 18 Doshetty, Omkar        INGHE37S   400   639/  8  L9  BYE L13 D28 W27 2.5
+ 19 Westover, Charlotte    WMEE365V  1369  1327/265  W29 W13 L1  L4  L7  2.0
+ 20 Joshi, Arnav           CRKFJ24W  1218  1183/116  W15 L3  W23 L14 L11 2.0
+ 21 Shah, Aalay            DISG154L   968   993/170  W6  L5  L4  L24 W30 2.0
+ 22 Kuo, Declan            RDSEE82L  1054  1055/250  L3  W15 L14 W32 L12 2.0
+ 23 Shaw, Michael          SANF3705   920   960/ 70  W7  L17 L20 L15 W31 2.0
+ 24 Karna, Venkat Kaushik  MAHGD88K   911   937/ 49  L12 L16 W29 W21 L13 2.0
+ 25 Hawkins, Holden        TYEI383Z  1135  1094/233  W32 L10 W26 L8  L15 2.0
+ 26 Jain, Tanya            PLKJ327W   806   880/ 52  L13 W29 L25 W31 L17 2.0
+ 27 Lu, Jacob              ENDFI11F   922   915/243  L4  W33 D7  L11 L18 1.5
+ 28 Fong, Matthew          EING683T   950   932/171  L8  L7  W33 D18 L16 1.5
+ 29 Foltz, Karsten         MRIF306D   988   930/ 58  L19 L26 L24 HPB W32 1.5
+ 30 Joshi, Vaidehi         CRKFG37G   968   905/101  L14 L6  L15 WF  L21 1.0
+ 31 Jain, Ayush            DISH535M  1039   966/ 60  L10 W32 L12 L26 L23 1.0
+ 32 Vangala, Advaith       BLWF174X   795   742/314  L25 L31 BYE L22 L29 1.0
+ 33 Qian, William          DCTF3366  1086  1008/ 75  L1  L27 L28 LF  U   0.0

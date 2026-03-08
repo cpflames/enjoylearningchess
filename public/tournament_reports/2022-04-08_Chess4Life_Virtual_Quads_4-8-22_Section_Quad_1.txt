@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pisan, Kai             CHYH404C  1678  1693/308  W4  D2  W3  2.5
+  2 Frederick, Benjamin    LAUES57X  1574  1592/167  D3  D1  W4  2.0
+  3 Upreti, Parthavi       TBKF754L  1563  1565/ 85  D2  W4  L1  1.5
+  4 Yadav, Himank          NJHI399V  1470  1432/195  L1  L3  L2  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dmitriev, Lyan         NPTD246H  1146  1295/272  W4  W2  W3  3.0
+  2 Zhang, Ethan           CLHEE87D  1200  1184/443  W3  L1  L4  1.0
+  3 Wahi, Lakshya          EVJH664Z  1192  1178/ 53  L2  W4  L1  1.0
+  4 Stein, Benjamin        HSCBB61S  1301  1262/138  L1  L3  W2  1.0

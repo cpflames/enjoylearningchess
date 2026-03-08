@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Suresh, Anvita         ENDEK67U   587   718/ 43  W4  W3  W2  3.0
+  2 Dode, Arush            EMDC317L   760   710/  6  W3  W4  L1  2.0
+  3 Davis, Griffin         DGHFB35A   484   452/ 11  L2  L1  WF  1.0
+  4 Bohannon, Andrew       LHTDG71E   400   400/ 31  L1  L2  LF  0.0

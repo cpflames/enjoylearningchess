@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Aaron           CCDD873R  1137  1207/276  D2  W3  W4  2.5
+  2 Dmitriev, Lyan         NPTD246H  1166  1162/266  D1  L4  W3  1.5
+  3 Palmer, Evan           KULHI90S  1120  1104/ 86  W4  L1  L2  1.0
+  4 Zakonov, Pasha         BCAHJ63K  1147  1124/ 36  L3  W2  L1  1.0

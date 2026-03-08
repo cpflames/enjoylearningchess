@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Liu, Austin            PLKH530J  1929  2004/274  W3  D2  D4  W6  W5  4.0
+  2 Levine, Joseph         MISJD260  2240  2231/224  W5  D1  W6  L3  W4  3.5
+  3 Deshpande, Aaryan      INTMF757  2149  2150/478  L1  D4  W5  W2  W6  3.5
+  4 Kona, Vidip            RSADI26J  1882  1929/239  W6  D3  D1  W5  L2  3.0
+  5 Petrov, Oscar          OVLMA216  1921  1902/322  L2  W6  L3  L4  L1  1.0
+  6 Colombo, Dominic M     GIGKJ74P  1970  1919/ 18  L4  L5  L2  L1  L3  0.0

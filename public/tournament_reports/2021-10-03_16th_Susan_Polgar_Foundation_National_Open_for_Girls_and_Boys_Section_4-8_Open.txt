@@ -1,0 +1,40 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chang, Eric            TYEI174T  1505  1530/ 85  W24 D31 W22 W4  W3  4.5
+  2 Day, Amelia            MLPF844V   979  1257/ 24  WF  W11 D18 W12 W7  4.5
+  3 Kang, Ayaan            AEAEI60T  1475  1490/247  W15 W14 W17 W6  L1  4.0
+  4 Urali, Sanjay          MEDE315D  1465  1479/292  W25 W13 W31 L1  W11 4.0
+  5 Joshi, Dhroov          RSAID083  1193  1250/ 82  W34 L6  W26 W25 W18 4.0
+  6 Greisen, Johanna       INGGF61C   600  1490/  5  W8  W5  W20 L3  W13 4.0
+  7 Cen, Evan              TYEGI97D  1336  1338/ 49  W27 D22 W10 W18 L2  3.5
+  8 Rao, Deepak Sri KartikeARDF517J  1174  1195/ 55  L6  W29 W35 D20 W22 3.5
+  9 Bahl, Rohin            CHOHD68V  1100  1318/  8  D10 L19 W32 W21 W20 3.5
+ 10 Liu, Bichen            KKNFK00D   500  1364/  5  D9  W23 L7  W31 W19 3.5
+ 11 Han, Matthew           BISI5262  1451  1419/278  W16 L2  W15 W14 L4  3.0
+ 12 Kancherla, Rohan       PFCGC11M  1310  1268/290  W32 L17 W16 L2  W27 3.0
+ 13 Kokati, Pranav         OMSG814P  1134  1150/165  W37 L4  W27 W24 L6  3.0
+ 14 Abueg, Lorenzo         SLBHG77J  1132  1164/ 65  W39 L3  W19 L11 W25 3.0
+ 15 Rama, Savitur          BLWGH22Z  1023  1066/ 87  L3  W34 L11 W28 W26 3.0
+ 16 Morehead, Nate         BUSFI54F  1012  1034/ 83  L11 W39 L12 W30 W24 3.0
+ 17 Mishra, Abhinav        EBSGB02W   845  1044/ 24  W21 W12 L3  L19 W32 3.0
+ 18 Mathur, Aashi          CRKG522S  1286  1254/226  W28 W26 D2  L7  L5  2.5
+ 19 Bhargava, Saarth       UCIGF29W  1276  1250/ 58  D23 W9  L14 W17 L10 2.5
+ 20 Xiao, David            EASG4959  1218  1198/204  W30 W36 L6  D8  L9  2.5
+ 21 Joshi, Yash            SHSF280R  1211  1178/ 68  L17 D32 W23 L9  W31 2.5
+ 22 Rubaiyat, Rhadean      ETSGD40L  1071  1108/ 77  W38 D7  L1  W33 L8  2.5
+ 23 Aelion, Aya            SWLGF21D   880   986/ 12  D19 L10 L21 W34 W33 2.5
+ 24 Mehrotra, Dhruv        REJHH860  1036  1006/126  L1  W30 W36 L13 L16 2.0
+ 25 Chintalapudi, Srihaan  CNCE662W  1017  1031/ 51  L4  W37 W33 L5  L14 2.0
+ 26 Liao, Wesley           EASHE49D   987  1009/ 81  W33 L18 L5  W29 L15 2.0
+ 27 Wakeman, Oliver        NJHIG10Y   948   933/ 32  L7  W38 L13 W35 L12 2.0
+ 28 Goldman, Rowan         BUSF633N   912   895/ 87  L18 L33 W37 L15 W35 2.0
+ 29 Davenport, Raymond     SOMED41L   906   891/ 50  U   L8  W34 L26 W39 2.0
+ 30 Phillips-acheson, SebasWOBF817T   860   828/150  L20 L24 W39 L16 W36 2.0
+ 31 Alagumalai, Gautham    EBSFF64S  1165  1141/180  W35 D1  L4  L10 L21 1.5
+ 32 Haberkorn, Kelly       WMSIH91X   946   932/ 45  L12 D21 L9  W36 L17 1.5
+ 33 Rastogi, Atharv        APOE377H  1423  1285/ 50  L26 W28 L25 L22 L23 1.0
+ 34 Shen, Eli              BCAE577A   722   700/ 46  L5  L15 L29 L23 W37 1.0
+ 35 Mehrotra, Darsh        ENSE240S   587   567/ 92  L31 BYE L8  L27 L28 1.0
+ 36 Mosuela, Jazmyn        FRDG548Q   400   400/  9  WF  L20 L24 L32 L30 1.0
+ 37 Heineck, Malea Eva     RSIFY46B   500   414/  5  L13 L25 L28 W39 L34 1.0
+ 38 Moore, Grady           OPWFA21T   500   534/  2  L22 L27 U   U   U   0.0
+ 39 Spearman, Emery        FAPE101R   400   400/  5  L14 L16 L30 L37 L29 0.0

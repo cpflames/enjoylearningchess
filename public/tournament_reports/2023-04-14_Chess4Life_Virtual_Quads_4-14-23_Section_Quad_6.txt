@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chaudhuri, Agnivesh    CHADB55V   991  1061/178  W4  W2  D3  2.5
+  2 Yin, Daniel            ISSL116Y   975  1007/326  W3  L1  W4  2.0
+  3 Tian, Eric             SOMEI80S  1042  1028/ 84  L2  W4  D1  1.5
+  4 Gonzales, Gabriel      XXXE694N   923   863/ 34  L1  L3  L2  0.0

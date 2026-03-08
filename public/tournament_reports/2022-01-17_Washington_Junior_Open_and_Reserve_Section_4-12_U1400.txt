@@ -1,0 +1,37 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kandhare, Aaroh        OMSHK91M  1151  1339/ 57  W28 W32 W4  W9  D3  4.5
+  2 Wirkkala, Zane         HSCIC64H  1050  1300/ 10  W22 W23 D14 W7  W9  4.5
+  3 Cen, Evan              TYEGI97D  1299  1339/ 71  W5  D8  WF  W14 D1  4.0
+  4 Murarka, Avni          OPWGA08F  1274  1304/167  W31 W17 L1  W25 W11 4.0
+  5 Kosau, Mikhail         OMSGG08J  1045  1208/ 10  L3  W27 W24 W23 W10 4.0
+  6 Cheng, Selina          THUE413R  1375  1367/339  D29 W22 D11 D16 W14 3.5
+  7 Kokati, Pranav         OMSG814P  1340  1343/188  W12 D11 W8  L2  W16 3.5
+  8 Xie, Michael           BLWF549C  1161  1216/292  W21 D3  L7  W29 W23 3.5
+  9 Chin, Jonathan         HSCG756L  1212  1210/ 29  W26 W35 W20 L1  L2  3.0
+ 10 Thakur, Reet           CWAFJ84K  1210  1197/283  W34 L20 W19 W13 L5  3.0
+ 11 Joshi, Yash            SHSF280R  1178  1205/ 73  W27 D7  D6  W20 L4  3.0
+ 12 Lu, Jacob              BLMGI11F  1072  1090/268  L7  L19 W26 W34 W24 3.0
+ 13 Saryyev, Salyh         LWAJB67L   900  1181/  5  L16 W33 W17 L10 W25 3.0
+ 14 Chi, Isobel            LMSIC167  1270  1260/298  W33 W16 D2  L3  L6  2.5
+ 15 Godse, Gaurav          EVJH290Q  1161  1105/ 69  L20 L34 W33 D19 W27 2.5
+ 16 Vijeyanandh, Vishnu    TMBGF63Z  1137  1157/ 83  W13 L14 W21 D6  L7  2.5
+ 17 Jewsbury, Keaton       BETG976Q  1130  1109/122  W36 L4  L13 W28 D20 2.5
+ 18 Shah, Aalay            BLMH154L   962   947/179  L23 D36 L29 WF  W30 2.5
+ 19 Soukal, Martin         HSCIE76L   937   992/ 17  U   W12 L10 D15 WF  2.5
+ 20 Shen, Enoch            BLWEH90P   919  1032/ 25  W15 W10 L9  L11 D17 2.5
+ 21 Prabhu, Varun          HLYE329U   735   836/ 31  L8  BYE L16 D22 W31 2.5
+ 22 Mohan, Laya            BCWG617P  1336  1266/123  L2  L6  D31 D21 W34 2.0
+ 23 Hoe, Marcus            LEOH389Q  1224  1180/180  W18 L2  W34 L5  L8  2.0
+ 24 Joshi, Arnav           PLKGJ24W  1194  1140/131  L35 W29 L5  W30 L12 2.0
+ 25 Chintalapudi, Srihaan  CNCE662W  1144  1131/ 70  U   W26 W28 L4  L13 2.0
+ 26 Nagarkar, Arhant       NCSEB82K   947   903/ 43  L9  L25 L12 BYE WF  2.0
+ 27 Wakeman, Oliver        NJHIG10Y   933   898/ 35  L11 L5  BYE WF  L15 2.0
+ 28 Jain, Ayush            PLKI535M   927   937/ 70  L1  W31 L25 L17 W36 2.0
+ 29 Pusuluri, Likhit Arnav CNCEC25K  1112  1101/ 54  D6  L24 W18 L8  LF  1.5
+ 30 Miller, Chloe          FRDI2385  1079  1021/107  L32 HPB W36 L24 L18 1.5
+ 31 Bharadwaj, Anish       ETSHI530  1044   987/243  L4  L28 D22 W36 L21 1.5
+ 32 Dhingra, Aaryan        TSTKC186  1369  1349/241  W30 L1  LF  LF  LF  1.0
+ 33 Shah, Agam             DISE263J   994   951/184  L14 L13 L15 LF  BYE 1.0
+ 34 Xu, Samuel             EASE854L   944   934/ 14  L10 W15 L23 L12 L22 1.0
+ 35 Laun, Henry            SPRJC065   941   974/127  W24 L9  U   U   U   1.0
+ 36 Gruner, Levi           HSCIG17L   800   676/  5  L17 D18 L30 L31 L28 0.5

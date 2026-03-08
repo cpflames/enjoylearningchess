@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yang, Michael          OPWFA16W   733   827/  9  W3  W4  W2  3.0
+  2 Fang, Weiai            BRBC696W   724   736/ 74  W4  W3  L1  2.0
+  3 Zhou, Nolan            MRLE280K   506   524/ 24  L1  L2  W4  1.0
+  4 Kuluru, Samith         KKNGI99K   681   591/ 85  L2  L1  L3  0.0

@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Scollon, Owen          FHVH734D  1561  1539/391  W14 W6  W4  W2  L3  4.0
+  2 Zhang, Owen            FHVH995H  1255  1281/198  W18 W13 W3  L1  W5  4.0
+  3 Nagra, Joga            FACII02B  1104  1201/ 66  W15 W7  L2  W5  W1  4.0
+  4 Wilson, Nathaniel      SHKHE45V  1070  1098/ 52  W19 W8  L1  W14 W7  4.0
+  5 Kozachuk, James        SHKH108A  1052  1052/121  W20 W9  W6  L3  L2  3.0
+  6 Grewal, Harshan        FACHK33H   924   927/ 33  W16 L1  L5  W19 W11 3.0
+  7 Kimes, Matilda         HSCH935N   871   894/ 18  W11 L3  W18 W15 L4  3.0
+  8 Danger, Presley        BLNG716S   825   815/ 31  W21 L4  L15 W17 W14 3.0
+  9 Harrison, Gabriel      FACH865H   790   782/ 51  W22 L5  W19 L11 W15 3.0
+ 10 Allworth, Brayden      NVLIA86Y   769   756/ 27  W12 L18 L11 W21 W13 3.0
+ 11 Van Ness, Gavin        FACGI77T   526   680/ 38  L7  W22 W10 W9  L6  3.0
+ 12 Putney, Tully          HSCHB14M   400   576/  8  L10 W20 L16 W18 W19 3.0
+ 13 Neel, Miles            FACH164W   901   836/ 92  W17 L2  L14 W16 L10 2.0
+ 14 Hildenbrand, Blane     PSMH122V   763   776/114  L1  W16 W13 L4  L8  2.0
+ 15 Burt, Colton           LYCG617Z   700   706/ 45  L3  W21 W8  L7  L9  2.0
+ 16 Egland, Crosby         VSTG264S   525   549/ 23  L6  L14 W12 L13 W22 2.0
+ 17 Belyatskiy, Artem      VSTG764W   437   465/ 22  L13 L19 W20 L8  W21 2.0
+ 18 Fikru, David           IMSHE15S   735   706/ 26  L2  W10 L7  L12 HPB 1.5
+ 19 Moors, Samuel          BLNIH93D   646   601/ 23  L4  W17 L9  L6  L12 1.0
+ 20 Paz, Fernando          HORGK27P   596   474/ 19  L5  L12 L17 L22 BYE 1.0
+ 21 Boulos, Rene           FACGC70H   439   407/ 10  L8  L15 W22 L10 L17 1.0
+ 22 Rosenberger, Reagan    BLNG593S   310   306/ 14  L9  L11 L21 W20 L16 1.0

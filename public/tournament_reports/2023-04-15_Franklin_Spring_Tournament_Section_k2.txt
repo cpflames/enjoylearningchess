@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Everbeck, Grey         FACCK83D   369   495/ 14  W5  D7  W6  W3  W4  4.5
+  2 Solano Santos, Lorenzo CIACK37D   358   382/ 10  W10 W4  L3  D7  W8  3.5
+  3 Bannister, Altair      EAGBK36Y   265   352/ 10  W8  W9  W2  L1  D7  3.5
+  4 Conner, Jack           FACCK83E   347   363/ 10  W6  L2  W7  W8  L1  3.0
+  5 Luther, Anita          WKECK36T   100   153/ 10  L1  L8  W9  D6  W10 2.5
+  6 Ross, Daneel           CIACK23H   200   234/  5  L4  W10 L1  D5  W9  2.5
+  7 Neger, Sanjay          IRECK23G   200   327/  5  W9  D1  L4  D2  D3  2.5
+  8 Dortch, Maya           JINCK23F   200   181/  5  L3  W5  W10 L4  L2  2.0
+  9 Gill, Ayva             FACCK83B   100   100/ 10  L7  L3  L5  W10 L6  1.0
+ 10 Walkenhauer, Cole      WKEAK23E   100   100/  5  L2  L6  L8  L9  L5  0.0

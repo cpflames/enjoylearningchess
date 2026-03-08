@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Leon, Christian        SHMI1052  1148  1156/125  D3  W5  W4  2.5
+  2 Love, Charles          SHMJ458N   866   912/ 42  W4  L3  W5  2.0
+  3 Bowman, Finn           SHMJD50L   945   990/ 50  D1  W2  U   1.5
+  4 Lim, Carter            SHMJ7749  1064  1003/ 95  L2  BYE L1  1.0
+  5 Chiapellone, Teo       SHMKG88R   735   712/ 65  BYE L1  L2  1.0

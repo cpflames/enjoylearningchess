@@ -1,0 +1,37 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Han, Victor            HSCCB39P   677   965/ 25  W20 W10 W9  W7  W4  5.0
+  2 Kwan-uchiyama, Avery   JINCH22T   400   593/ 10  BYE W32 W31 W36 W10 5.0
+  3 Schoenfeld, Sam        OPWBB27K   691   808/ 15  W5  L4  W24 W13 W15 4.0
+  4 Xu, Jieming            SNRDC68E   400   930/  5  W12 W3  W36 W11 L1  4.0
+  5 Desai, Rian            SCDB335Q   400   653/  9  L3  W12 W14 W18 W11 4.0
+  6 Cohen, Sasha           DCTBK75G   680   787/ 22  W22 W17 L7  W9  W16 4.0
+  7 Li, Edgar              OPWA883Y   798   818/ 23  W33 W23 W6  L1  D8  3.5
+  8 Choi, Paige            EVGBD50E   710   700/ 43  W32 D18 D34 W20 D7  3.5
+  9 Soin, Darsh            OPWD514V   785   772/ 64  W24 W19 L1  L6  W25 3.0
+ 10 Roach, August          EVGD109M   790   756/130  W26 L1  W29 W21 L2  3.0
+ 11 Wang, Gideon           SOMAC35B   724   687/ 10  W21 W28 W32 L4  L5  3.0
+ 12 Alasas, Abraham        OPWCE81U   600   639/  7  L4  L5  W35 W24 W21 3.0
+ 13 Wu, Aiden              EVGCD83L   515   614/ 32  W36 W14 L15 L3  W23 3.0
+ 14 Metzmaker, Kyren       OPWC430W   678   651/ 92  W27 L13 L5  W33 W20 3.0
+ 15 Lu, Ian                CRICE83J   768   729/127  W29 W25 W13 L31 L3  3.0
+ 16 Davenport, Raymond     SOMDD41L   758   721/ 41  L17 W36 W18 W25 L6  3.0
+ 17 Mitra, Rishab          OPWC138L   458   511/ 84  W16 L6  D22 L23 W30 2.5
+ 18 Mccluskey, August      OPWCC01S   498   509/  9  WF  D8  L16 L5  W22 2.5
+ 19 Jiao, Nathan           BCABK65K   494   498/ 10  W34 L9  L20 D26 W29 2.5
+ 20 Jiang, Mason           OPWBH66Y   400   472/ 10  L1  W30 W19 L8  L14 2.0
+ 21 Chiang, Daniel         OPWBH33F   417   460/ 10  L11 W27 W23 L10 L12 2.0
+ 22 Wang, Jacob Z          BLWCE71A   400   419/ 15  L6  D26 D17 W28 L18 2.0
+ 23 Ramkumar, Nethra       RBRD315Z   636   583/ 40  W31 L7  L21 W17 L13 2.0
+ 24 Zhang, Aaron           RSABC74T   426   447/ 14  L9  W34 L3  L12 W31 2.0
+ 25 Lee, Nora              OPWCC24Z   596   559/ 10  W35 L15 W33 L16 L9  2.0
+ 26 Sheldon, Jack          OPWD660X   478   452/ 32  L10 D22 D30 D19 D27 2.0
+ 27 Schechter, Elizabeth   MEDB373X   400   405/ 14  L14 L21 W28 D29 D26 2.0
+ 28 Wang, Alan             OPWCH02M   400   400/  5  W30 L11 L27 L22 W33 2.0
+ 29 Lan, Jonathan          OPWA968F   459   425/ 10  L15 W35 L10 D27 L19 1.5
+ 30 Choi, Sydney           EVGBD34F   511   431/ 40  L28 L20 D26 W34 L17 1.5
+ 31 Sun, Julia             OPWBB21D   400   400/  5  L23 L33 L2  W15 L24 1.0
+ 32 Riel, Genevieve        OPWA916X   403   400/ 10  L8  L2  L11 D35 D36 1.0
+ 33 Schechter, Evan        MEDD812M   493   431/ 19  L7  W31 L25 L14 L28 1.0
+ 34 Xu, Jacqueline         OPWB885E   400   400/  5  L19 L24 D8  L30 D35 1.0
+ 35 Ravinuthula, Laasya    WBCAA11J   400   400/  5  L25 L29 L12 D32 D34 1.0
+ 36 Rossi, Matheus         OPWBJ05H   400   400/  5  L13 L16 L4  L2  D32 0.5

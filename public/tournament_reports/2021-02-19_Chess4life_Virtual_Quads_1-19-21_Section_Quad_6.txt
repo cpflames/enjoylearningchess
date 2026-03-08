@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Gijare, Sayali         SKWIE100  1312  1367/515  D3  W2  W4  2.5
+  2 Siddem, Sid            RHJHC34V  1294  1320/261  W4  L1  W3  2.0
+  3 Karri, Aditya          AUDDC55V  1300  1302/ 88  D1  W4  L2  1.5
+  4 Jha, Siddhant          SSMGG46N  1313  1247/298  L2  L3  L1  0.0

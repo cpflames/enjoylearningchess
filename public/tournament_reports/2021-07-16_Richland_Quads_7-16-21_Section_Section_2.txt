@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chung, Ethan           LIBE108U  1587  1612/288  W3  W4  W2  3.0
+  2 Scott, Dane            HSCL293V  1535  1532/ 31  W4  W3  L1  2.0
+  3 Hernandez, Lucio       ADUN365Q  1300  1301/  3  L1  L2  W4  1.0
+  4 Dillingham, Annabella  LIBE229F  1185  1158/185  L2  L1  L3  0.0

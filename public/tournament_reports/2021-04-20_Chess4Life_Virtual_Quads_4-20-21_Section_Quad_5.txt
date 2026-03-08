@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kan, Leanne            HSCC710K   618   838/ 24  W4  W3  W2  3.0
+  2 Yuen, Otto Shing-lok   KSHEF34N   753   783/254  W3  W4  L1  2.0
+  3 Sridhar, Riya          AUDDG37Y   789   751/ 18  L2  L1  W4  1.0
+  4 Stein, Mary            HSCG624A   739   659/ 51  L1  L2  L3  0.0

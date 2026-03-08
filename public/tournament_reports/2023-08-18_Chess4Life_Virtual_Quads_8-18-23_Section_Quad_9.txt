@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Neyland, Dashel        HSCEK03K   400   763/  3  W3  W2  W4  3.0
+  2 Tsay, Elon             NWOCK07B   311   365/ 10  W4  L1  W3  2.0
+  3 Klauder, Chase         SUCIK08R   280   266/ 12  L1  W4  L2  1.0
+  4 Agrawal, Atharv        HSCFK03J   500   100/  3  L2  L3  L1  0.0

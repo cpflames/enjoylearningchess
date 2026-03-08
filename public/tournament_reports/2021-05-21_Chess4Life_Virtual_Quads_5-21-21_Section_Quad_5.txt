@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Yiyang             BCAD700B  1258  1359/179  W3  W4  W2  3.0
+  2 Vijayakrishnan, AchyuthPKRB646F  1274  1270/ 72  D4  W3  L1  1.5
+  3 Zhang, Aaron           CCDD873R  1238  1221/308  L1  L2  W4  1.0
+  4 Zhao, Dennis           CGRE525E  1226  1189/142  D2  L1  L3  0.5

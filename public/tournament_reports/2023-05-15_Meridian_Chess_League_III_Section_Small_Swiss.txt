@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Siadal, Tucker         MDIGK41G   843   884/  9  W6  W5  W3  3.0
+  2 Lee, Jensen            MRDJ947B   516   536/ 22  L3  W4  WF  2.0
+  3 Valeos, Connor         MDIHK41H   753   669/  9  W2  L6  L1  1.0
+  4 Fransico-woodenlegs, JoMRDK680H   654   589/ 31  L5  L2  W6  1.0
+  5 Lee, Rylan             MDIHG67J   524   558/ 13  W4  L1  LF  1.0
+  6 Miller, Aiden          MRDKK41B   368   438/  8  L1  W3  L4  1.0

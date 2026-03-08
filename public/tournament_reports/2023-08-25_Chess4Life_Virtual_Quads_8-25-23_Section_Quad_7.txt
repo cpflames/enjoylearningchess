@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kidd, Matthew          EASKK04Y   299   428/  9  W4  W5  W3  3.0
+  2 Bawa, Neer             TLIBE81P   355   373/ 11  W5  L3  W4  2.0
+  3 Wei, Brayden           ETSAK90F   212   312/ 18  W6  W2  L1  2.0
+  4 Jain, Nipun            BCADA64P   561   472/ 18  L1  W6  L2  1.0
+  5 Wang, Jasper           ENDDK01P   300   174/  3  L2  L1  W6  1.0
+  6 Babenko, Matthew       ENDCK01N   200   100/  3  L3  L4  L5  0.0

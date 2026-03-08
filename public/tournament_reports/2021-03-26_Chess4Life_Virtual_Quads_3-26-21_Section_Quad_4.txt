@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Siddem, Sid            RHJHC34V  1259  1311/276  W2  W3  D4  2.5
+  2 Vijayakrishnan, AchyuthPKRB646F  1240  1264/ 55  L1  W4  W3  2.0
+  3 Petito, John           XXXA453W  1243  1200/  8  W4  L1  L2  1.0
+  4 Compton, Jackson       HCHDL301  1248  1202/338  L3  L2  D1  0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pennington, Kyle       XXXDH02S  1027  1143/ 18  W4  W3  W2  3.0
+  2 Wang, Jacob            MMEDD74Y  1041  1063/ 48  W3  W4  L1  2.0
+  3 Malugu, Sankalp        SHSBE95W  1011   990/106  L2  L1  W4  1.0
+  4 Kan, Kaleb             MMECF53E   983   919/ 72  L1  L2  L3  0.0

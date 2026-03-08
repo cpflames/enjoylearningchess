@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zakonov, Pasha         BCAJJ63K  1305  1377/ 68  W3  W2  W4  3.0
+  2 Jin, Emery             BLMHK90R  1233  1259/ 22  W4  L1  W3  2.0
+  3 Singh, Rushil          SNEFB52N  1203  1191/ 86  L1  W4  L2  1.0
+  4 Duseja, Ronit          SNEFA38H  1225  1162/142  L2  L3  L1  0.0

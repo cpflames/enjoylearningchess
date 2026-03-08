@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Boulis, Christos       RHJIC84T  1709  1743/535  W3  W4  W2  3.0
+  2 Bhatia, Tanush         DISH5224  1652  1660/322  W4  W3  L1  2.0
+  3 Liu, Yuntao            STTE505Y  1509  1509/232  L1  L2  W4  1.0
+  4 Kang, Ayaan            AEAEI60T  1547  1502/253  L2  L1  L3  0.0

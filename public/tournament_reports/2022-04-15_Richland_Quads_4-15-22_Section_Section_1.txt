@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Margiotta, Evan        ADUN922M  1478  1484/ 25  W4  W2  W3  3.0
+  2 Sakamoto, Matthew      VISN5711   937  1002/  8  W3  L1  W4  2.0
+  3 Fickel, Sam            ADUN420T  1300   808/  3  L2  W4  L1  1.0
+  4 Scott, Travis          ADUN290L  1300   525/  3  L1  L3  L2  0.0

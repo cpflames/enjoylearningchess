@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Frederick, Benjamin    LAUDS57X  1272  1381/ 82  W4  W2  W3  3.0
+  2 Ma, Justin             OVLHD33R  1266  1250/117  W3  L1  L4  1.0
+  3 Han, Matthew           BISH5262  1278  1259/231  L2  W4  L1  1.0
+  4 Li, Yiyang             BCAD700B  1305  1280/124  L1  L3  W2  1.0

@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Enertson, Zach         LYEK971E  1081  1187/ 40  W9  W3  W5  3.0
+  2 Brown, Oliver          MRDMI13S  1200  1485/  3  W6  W10 W7  3.0
+  3 Macgregor, Matthew     SHMK1137  1083  1109/ 77  W4  L1  W6  2.0
+  4 Mcfadden, Cameron      FERLI35S   932   945/ 37  L3  W9  W10 2.0
+  5 O'neill, Patrick       LYEJ221T   900  1137/  3  W10 W7  L1  2.0
+  6 Cox, Dylan             SHMJ3440  1101  1088/120  L2  W8  L3  1.0
+  7 Lee, Jae-yoon          SHMJC734  1087  1075/ 43  W8  L5  L2  1.0
+  8 Lewis, Theo            FERKK29P  1011   981/ 13  L7  L6  W9  1.0
+  9 Bermudez, Evan         SHMJ7653   947   884/131  L1  L4  L8  0.0
+ 10 Wilson, Conner         SHMKC65X  1000   556/  3  L5  L2  L4  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Cheng, Alan            CHRDJ71K   794   836/ 27  W4  W3  D2  2.5
+  2 Nakashima, Jaden       LAVFC80B   790   772/ 68  W3  L4  D1  1.5
+  3 Fang, Weiai            BRBB696W   706   685/ 51  L2  L1  W4  1.0
+  4 Holbrook, Gage         XXXEF65G   400   627/  3  L1  W2  L3  1.0

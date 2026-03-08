@@ -1,0 +1,43 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Shubin, Daniel         EPSMF498  2245  2249/517  D40 W26 W21 W8  W11 W6  5.5
+  2 Wan, Bertrand          NPRLK421  1891  1918/218  W17 W37 L3  W23 W18 W9  5.0
+  3 Wang, Ted              STTDK13D  1897  1929/211  W5  W19 W2  D11 L6  W17 4.5
+  4 Shi, Ted               SPTGD099  1701  1733/303  D41 L29 W38 W36 W13 W12 4.5
+  5 Suess, Wade            EVGH101D  1583  1757/279  L3  W42 W27 W14 D12 W11 4.5
+  6 Liu, Austin            PLKI530J  2078  2076/310  D23 W40 D9  W7  W3  L1  4.0
+  7 Vemparala, Nikash      OVLHI078  2084  2066/383  W24 D9  W29 L6  D17 W20 4.0
+  8 Willy, Stephen         HSCHH17K  1983  1984/508  W33 W10 W18 L1  L9  W23 4.0
+  9 Yang, Alexander        OMSGD81J  1839  1886/203  W30 D7  D6  W16 W8  L2  4.0
+ 10 Jammalamadaka, Vihaan  WPPFJ90F  1813  1814/314  W35 L8  W25 L17 W28 W21 4.0
+ 11 Lu, Yiding             BASG865Z  1987  1980/232  W28 W27 W13 D3  L1  L5  3.5
+ 12 Kona, Vidip            RSAEI26J  1967  1935/281  D29 D23 W24 W20 D5  L4  3.5
+ 13 Xuan, Owen             ADDJ5792  1932  1921/266  W16 W20 L11 D21 L4  W27 3.5
+ 14 Cheng, Edward          GARKC74W  1856  1835/386  W39 L21 W28 L5  W22 D16 3.5
+ 15 Boulis, Christos       NWSJC84T  1687  1659/565  L37 L17 D41 W38 W26 W32 3.5
+ 16 Gao, Justin            BCXGX11V  1755  1795/ 11  L13 W31 W19 L9  W32 D14 3.5
+ 17 Eksarevskiy, Albert    WPPI530Y  1550  1682/ 49  L2  W15 W32 W10 D7  L3  3.5
+ 18 Tessiore, Luca         EMSGP42N  1891  1884/189  W38 W32 L8  W22 L2  U   3.0
+ 19 Roesch, Carson         BLHK120K  1814  1784/218  W42 L3  L16 W35 L23 W33 3.0
+ 20 Pisan, Kai             CHYJ404C  1797  1787/414  W31 L13 W35 L12 W33 L7  3.0
+ 21 Zhu, Jamie             SSMG558E  1770  1783/309  W25 W14 L1  D13 D27 L10 3.0
+ 22 Zhang, Bohan           EPSKE54S  1680  1649/ 93  L26 W41 W37 L18 L14 W34 3.0
+ 23 Wong-godfrey, Emerson  EXWJH83E  1653  1698/420  D6  D12 W26 L2  W19 L8  3.0
+ 24 Cha, Samuel            BASFK18Z  1641  1640/184  L7  W30 L12 L25 W36 W35 3.0
+ 25 Ogier, Alix            SAMJC70T  1398  1452/ 12  L21 BYE L10 W24 HPB HPB 3.0
+ 26 Vutukuri, Adhrith      REJI326L  1117  1315/ 40  W22 L1  L23 W39 L15 W38 3.0
+ 27 Lin, Michael           BASDC97F  1823  1798/262  W34 L11 L5  W29 D21 L13 2.5
+ 28 Razmov, Gabriel        ADDHC26K  1639  1627/230  L11 W34 L14 W41 L10 D30 2.5
+ 29 Garine, Ujwal          TSTJB99A  1644  1650/194  D12 W4  L7  L27 D30 D31 2.5
+ 30 Chang, Eric            NPRJ174T  1541  1551/107  L9  L24 D42 W40 D29 D28 2.5
+ 31 Urali, Sanjay          MEDF315D  1417  1437/327  L20 L16 BYE L32 W39 D29 2.5
+ 32 Deng, Lily             HHSJ5007  1777  1724/338  W36 L18 L17 W31 L16 L15 2.0
+ 33 Devadithya, Hiruna     ISSJ5494  1593  1568/685  L8  L35 W34 W37 L20 L19 2.0
+ 34 Krishnan, Advait       REJH570Q  1515  1476/106  L27 L28 L33 BYE W41 L22 2.0
+ 35 Bhaskaran, Siddharth   HMND152J  1503  1504/ 32  L10 W33 L20 L19 W37 L24 2.0
+ 36 Wirkkala, Zane         HSCJC64H  1442  1453/ 30  L32 D38 W40 L4  L24 D39 2.0
+ 37 Dale, Luke             MTSJJ10P  1206  1270/ 56  W15 L2  L22 L33 L35 W41 2.0
+ 38 Hetamsaria, Aadi       TYEJ888H  1557  1519/136  L18 D36 L4  L15 W40 L26 1.5
+ 39 Xiong, Michael         MEDE115A  1542  1478/237  L14 HPB HPB L26 L31 D36 1.5
+ 40 Gurumurthy, Srikrishna TSTL5182  1658  1601/239  D1  L6  L36 L30 L38 HPB 1.0
+ 41 Jolly, Tristan         OVLJ1857  1280  1274/171  D4  L22 D15 L28 L34 L37 1.0
+ 42 Yadlapati, Arush       EVJIA47S  1510  1498/183  L19 L5  D30 U   U   U   0.5

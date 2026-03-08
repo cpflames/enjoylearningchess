@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wannamaker, Linus      IDXGY45B  1530  1548/ 68  W12 W4  W6  D3  W2  4.5
+  2 Fuchs, Isaac           LBYK724L  1410  1430/102  W13 W7  W5  W6  L1  4.0
+  3 Reddy, Eshan           SGSG336Y  1338  1358/260  W14 W11 W10 D1  D5  4.0
+  4 Patterson, Ben         VCVJI54X  1143  1170/ 33  W20 L1  W16 W11 W9  4.0
+  5 Wang, Zihan            PPAHH97Y  1251  1255/229  W19 W18 L2  W8  D3  3.5
+  6 Carper, Jack           LINIG86W  1348  1343/132  W15 W9  L1  L2  W10 3.0
+  7 Ritter, Levi           LINIC692  1107  1090/ 91  W17 L2  W20 L9  W11 3.0
+  8 Schoenberger, Joshua   SJVIJ73R  1015   998/258  L9  W20 W19 L5  W12 3.0
+  9 Dassow, Alek           HSCH143B   700  1145/  5  W8  L6  W17 W7  L4  3.0
+ 10 Keener, Karl           HLHGY40G  1197  1170/ 59  HPB W19 L3  W16 L6  2.5
+ 11 Moss, Solomon          HSCEH79G   822   827/ 55  W18 L3  W12 L4  L7  2.0
+ 12 Bradford, Donovan      SGSG223K   669   673/118  L1  W14 L11 W18 L8  2.0
+ 13 Deborde, Elizabeth     HDPIJ50H   400   400/ 13  L2  W17 L18 L15 W16 2.0
+ 14 Le, Annabelle          HSCFI98H   500   434/  5  L3  L12 W15 L17 W20 2.0
+ 15 Bradford, Vincent      SGSCI74D   400   400/  5  L6  L16 L14 W13 D17 1.5
+ 16 Le, Amelia             HSCD513S   400   400/  4  HPB W15 L4  L10 L13 1.5
+ 17 Shimizu, Mies          SGSD705R   400   400/  5  L7  L13 L9  W14 D15 1.5
+ 18 Moos, Kyler            SGSH356Z   700   504/  4  L11 L5  W13 L12 HPB 1.5
+ 19 Bradford, Brandon      SGSC505M   400   400/  4  L5  L10 L8  L20 BYE 1.0
+ 20 Cho, Nathanael         SGSBF58M   400   400/  5  L4  L8  L7  W19 L14 1.0

@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, Albert           LKWA728A   400   800/  2  W3  U   W2  2.0
+  2 Wang, Aaron            BCAA631T   400   411/  9  U   W3  L1  1.0
+  3 Bhatia, Saanvi         DGHB761T   400   400/  2  L1  L2  U   0.0

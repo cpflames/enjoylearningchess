@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Su, Alfred             EGBD929B  1189  1204/237  L3  W2  W4  2.0
+  2 Dai, Alex              CHRDC43N  1140  1168/ 74  W4  L1  W3  2.0
+  3 Yun, Daniel D          BCAAK87Z  1130  1163/183  W1  W4  L2  2.0
+  4 Xie, Michael           BLWF549C  1158  1087/324  L2  L3  L1  0.0

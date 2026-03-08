@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Johnson, Derek         HSCKB948  1201  1278/164  D2  W3  W4  2.5
+  2 Werner, Ross           SHMKB91H  1274  1287/ 61  D1  W4  D3  2.0
+  3 Kuzin, Ethan           SHMJ7567  1277  1267/250  W4  L1  D2  1.5
+  4 Palmer, Evan           KULII90S  1149  1100/103  L3  L2  L1  0.0

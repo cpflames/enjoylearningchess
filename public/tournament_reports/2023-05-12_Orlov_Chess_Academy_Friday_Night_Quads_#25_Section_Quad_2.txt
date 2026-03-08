@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xu, Ethan              BENDK98S   617   615/ 48  W3  W4  L2  2.0
+  2 Kuper, David           RARHK14W   700   615/  3  L4  W3  W1  2.0
+  3 Swagath, Pranav        BCACK23N   421   417/  6  L1  L2  W4  1.0
+  4 Schefer, Andrea        HSCLJ265   400   405/  9  W2  L1  L3  1.0

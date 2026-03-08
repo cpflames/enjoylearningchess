@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Arul, Sharvesh         BRHC319L  1357  1453/257  W3  D2  W4  2.5
+  2 Kona, Vidip            RSACI26J  1744  1722/204  W4  D1  D3  2.0
+  3 Kapur, Viraaj          RSACA71K  1384  1400/101  L1  W4  D2  1.5
+  4 Su, Alfred             EGBC929B  1349  1309/201  L2  L3  L1  0.0

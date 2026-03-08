@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kompella, Aditya       PLKJ549K  1598  1624/163  W3  W4  L2  2.0
+  2 Cheng, Ethan           LMAED58X  1537  1587/252  W4  L3  W1  2.0
+  3 Park, Sean             TYEJ600E  1705  1709/ 74  L1  W2  W4  2.0
+  4 Singh, Saket           DISH872S  1690  1630/143  L2  L1  L3  0.0

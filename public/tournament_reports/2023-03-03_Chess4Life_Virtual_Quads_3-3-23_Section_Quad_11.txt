@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sannakkayala, Zidan    BCAIK858   642   664/ 55  L3  W4  W2  2.0
+  2 Kuluru, Samith         KKNGI99K   586   640/143  W4  W3  L1  2.0
+  3 Mills, Paxson          HSCGI32D   506   610/ 62  W1  L2  W4  2.0
+  4 Leon, Nikhil           HSCE587T   686   578/ 84  L2  L1  L3  0.0

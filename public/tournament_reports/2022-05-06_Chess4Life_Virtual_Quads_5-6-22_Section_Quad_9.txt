@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Deval, Anirudh         CGSIU16Y  1028  1139/ 72  W2  W4  W3  3.0
+  2 Kulkarni, Anika        ETSDK21E   976  1022/ 68  L1  W3  W4  2.0
+  3 Yin, Daniel            ISSK116Y  1026   999/225  W4  L2  L1  1.0
+  4 Taylor, Ryder          HPTI385C   989   921/170  L3  L1  L2  0.0

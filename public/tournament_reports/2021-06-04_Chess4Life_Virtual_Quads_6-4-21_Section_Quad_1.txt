@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Cha, Samuel            LAVDK18Z  1587  1597/129  W2  W4  L3  2.0
+  2 Siddem, Sid            RHJHC34V  1531  1554/313  L1  W3  W4  2.0
+  3 Beegala, Keshav        SHVEJ27V  1589  1581/171  D4  L2  W1  1.5
+  4 Sangal Lopez, Dev      WOBE515J  1487  1461/192  D3  L1  L2  0.5

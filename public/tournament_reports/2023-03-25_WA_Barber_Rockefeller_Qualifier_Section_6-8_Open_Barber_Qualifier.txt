@@ -1,0 +1,38 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Liu, Austin            PLKI530J  2053  2070/333  W21 W13 W17 W4  4.0
+  2 Lu, Yiding             BASG865Z  1987  2012/259  W25 W16 W8  W3  4.0
+  3 Vemparala, Nikash      OVLHI078  2128  2122/399  W19 W12 W5  L2  3.0
+  4 Min, Ryan              OMSI5430  2089  2084/387  W20 W15 W11 L1  3.0
+  5 Heath, Derek           SKRH1458  1888  1896/302  W27 W14 L3  W16 3.0
+  6 Chan, Skylor T         OMSID18J  1842  1831/295  W29 L8  W20 W24 3.0
+  7 Tatikonda, Nihanth     CPJI926F  1720  1712/217  L31 W26 W21 W17 3.0
+  8 Wang, Leonardo         CKNG233K  1565  1648/ 46  W34 W6  L2  W15 3.0
+  9 Willy, Stephen         HSCHH17K  1975  1949/524  D26 W31 L10 W18 2.5
+ 10 Yang, Alexander        OMSGD81J  1876  1863/210  W22 L17 W9  D14 2.5
+ 11 Zhu, Jamie             EVJG558E  1824  1817/327  W35 W18 L4  D13 2.5
+ 12 Jammalamadaka, Varnika OVLID216  1787  1777/481  W28 L3  D25 W26 2.5
+ 13 Verma, Darsh           WONGB52K  1648  1658/189  W23 L1  W29 D11 2.5
+ 14 Nallappa, Vijay        REJHD40S  1626  1634/367  W33 L5  W31 D10 2.5
+ 15 Eksarevskiy, Albert    WPPI530Y  1720  1701/ 73  W36 L4  W22 L8  2.0
+ 16 Patankar, Vijay        KMNIC78Y  1699  1692/252  W32 L2  W27 L5  2.0
+ 17 Razmov, Gabriel        ADDHC26K  1585  1602/286  W37 W10 L1  L7  2.0
+ 18 Routray, Nirmalya      INGHD06K  1528  1547/371  W24 L11 W30 L9  2.0
+ 19 Mishra, Abhinav        TMBHB02W  1507  1516/ 79  L3  W28 L24 W25 2.0
+ 20 Cen, Evan              TYEHI97D  1504  1507/149  L4  W36 L6  W29 2.0
+ 21 Kang, Jinue            OMSH2661  1483  1483/286  L1  W23 L7  W30 2.0
+ 22 Amalo, Eliot           HSCI282X  1381  1381/ 94  L10 W37 L15 W34 2.0
+ 23 Thungathurthi, PranavarINGGG82R   950  1045/ 35  L13 L21 W36 W35 2.0
+ 24 Chen, Jason            XXXIK30G  1639  1619/  4  L18 W35 W19 L6  2.0
+ 25 Sharma, Devansh        KMNIF88S  1475  1472/164  L2  W32 D12 L19 1.5
+ 26 Anandkumar, Haituka    STLI238P  1443  1454/345  D9  L7  W35 L12 1.5
+ 27 Rubaiyat, Rhadean      ICSHD40L  1420  1400/121  L5  W33 L16 D28 1.5
+ 28 Ramaswamy, Rishi       OMSIS63U  1189  1200/ 81  L12 L19 W33 D27 1.5
+ 29 Avula, Varshith Reddy  BRHG110R  1282  1277/193  L6  W34 L13 L20 1.0
+ 30 Bharadwaj, Anish       WPPII530  1192  1177/294  BYE U   L18 L21 1.0
+ 31 Vijeyanandh, Vishnu    TMBHF63Z  1138  1202/148  W7  L9  L14 U   1.0
+ 32 Kamidi, Anish Reddy    OMSG626K  1018  1015/ 23  L16 L25 L34 W36 1.0
+ 33 Ramola, Atharv         TMBH684P   863   852/ 15  L14 L27 L28 BYE 1.0
+ 34 Shah, Aard             EVJGK30F   600  1089/  4  L8  L29 W32 L22 1.0
+ 35 Pantea, Joshua         ABEIK63M  1267  1135/  8  L11 L24 L26 L23 0.0
+ 36 Turner, Mason          VMSIK76R  1109   978/  9  L15 L20 L23 L32 0.0
+ 37 Swaminathan, Arya      THRHD56G   782   779/ 22  L17 L22 U   U   0.0

@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Boddy, Kyle            ADUNH98N  1220  1230/ 13  W6  1.0
+  2 Kozyra, Adam           ADUNK60Q  1411  1411/  5  W8  1.0
+  3 Ciani, Keith           ADUNG04B   960  1017/ 24  W9  1.0
+  4 Polonsky, Daniel       LBSJ946P   947  1008/ 27  W7  1.0
+  5 Vashisht, Aneesh       LKWEC30Y  1392  1410/ 96  W10 1.0
+  6 Thungathurthi, PranavarINGGG82R   961   950/ 31  L1  0.0
+  7 Marinescu, Andra       ADUN412W  1450  1406/ 16  L4  0.0
+  8 Liao, Timothy          NOWFK50W   500  1011/  1  L2  0.0
+  9 Tie, Mike              ENDE856Y  1349  1305/ 72  L3  0.0
+ 10 Pai, Vihaan            CHADK17C  1313  1294/137  L5  0.0

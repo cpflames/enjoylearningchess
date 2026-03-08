@@ -1,0 +1,39 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wang, Eric             BCAE803M   922  1000/ 46  W27 W24 D20 W10 W8  4.5
+  2 Michiels, Peter        THOEB73Z   839  1005/ 10  W29 W7  W30 W9  D3  4.5
+  3 Prashant, Niranjan     SNIF468K   500  1175/  5  W6  W13 W15 W16 D2  4.5
+  4 Kedarisetty, Shreyas   INGGH60G   895   923/120  W26 W14 L9  W23 W16 4.0
+  5 Vijay, Krish           SOMF144B   840   881/ 15  L9  W27 W24 W26 W18 4.0
+  6 Juarez-caballero, CristSNIFD76Z   686   849/ 19  L3  W37 W12 W25 W14 4.0
+  7 Janson-kovalev, Artem  HREGU87S  1208  1168/ 51  W12 L2  W25 D17 W20 3.5
+  8 Joshi, Vaidehi         PLKHG37G   851   880/130  W34 D25 W21 W20 L1  3.5
+  9 Bikkula, Charan        CRIGJ23A   505   806/107  W5  W22 W4  L2  D17 3.5
+ 10 Duan, Andrew           JINEA36Y   896   818/  8  W33 W35 L16 L1  W24 3.0
+ 11 Sailer, Shaunak        OPWFC25Z   853   825/180  W28 L16 L17 W33 W27 3.0
+ 12 Pan, David             MEDB330Y   826   821/ 32  L7  W28 L6  W35 W30 3.0
+ 13 Narayan, Keshav        CMCEE45H   824   815/ 58  W37 L3  L18 W34 W23 3.0
+ 14 Kwan-uchiyama, Avery   JINEH22T   808   785/ 34  WF  L4  W33 W30 L6  3.0
+ 15 Lu, Ian                CRIEE83J   745   776/177  W31 W21 L3  L18 W26 3.0
+ 16 Bahl, Shrey            OMSIG938   717   849/111  W18 W11 W10 L3  L4  3.0
+ 17 Byam, Caleb            HSCGI71C   770   825/ 10  L24 W34 W11 D7  D9  3.0
+ 18 Gupta, Vihaan          SPTE172N   400   867/  5  L16 W19 W13 W15 L5  3.0
+ 19 Venkatesan, Nimalan    EVJH701P   598   625/ 10  L21 L18 W37 D22 W33 2.5
+ 20 Yan, Leshan            INGGF55T   600   903/  5  W23 W32 D1  L8  L7  2.5
+ 21 Phillips-acheson, SebasWOBG817T   872   796/196  W19 L15 L8  L24 W35 2.0
+ 22 Rackoff, Dylan         BLWF507J   844   755/179  L35 L9  W29 D19 D25 2.0
+ 23 Alamuru, Kriti         CNCG815A   724   706/ 41  L20 W29 W35 L4  L13 2.0
+ 24 Van Gorkom, Joshua     CWAIB02N   698   722/ 38  W17 L1  L5  W21 L10 2.0
+ 25 Kamisetty, Komansai    CDWF644X   666   675/ 10  W38 D8  L7  L6  D22 2.0
+ 26 Takala, Greysen        VIWEE55T   607   614/ 10  L4  W38 W32 L5  L15 2.0
+ 27 Sepulveda, Jose        CBRF828T   598   565/ 12  L1  L5  W36 WF  L11 2.0
+ 28 Smacinih, Alexander    SOMEG83H   595   573/ 50  L11 L12 W31 L29 W37 2.0
+ 29 Tian, Eric             SOMEI80S   630   598/ 11  L2  L23 L22 W28 W38 2.0
+ 30 Jiang, Ethan           MEDF951L   500   428/  4  WF  W36 L2  L14 L12 2.0
+ 31 Reimer, Oliver         LKDEG59D   400   425/  5  L15 L33 L28 W36 W34 2.0
+ 32 Naficy, Camdyn         MEDH488A   838   769/125  W36 L20 L26 LF  U   1.0
+ 33 Senthil, Dharmik       SOMF766C   639   580/ 38  L10 W31 L14 L11 L19 1.0
+ 34 Sepulveda, Santiago    CBRF384D   545   482/ 13  L8  L17 W38 L13 L31 1.0
+ 35 Khatib, Bilal          LKDFA67S   500   505/ 24  W22 L10 L23 L12 L21 1.0
+ 36 Malhotra, Sartaj       KNDEK69K   400   400/  9  L32 L30 L27 L31 BYE 1.0
+ 37 Boo, Yenwei            JINFK80U   500   400/  5  L13 L6  L19 W38 L28 1.0
+ 38 Mael, Lizzy            SMCEE68Q   400   400/  5  L25 L26 L34 L37 L29 0.0

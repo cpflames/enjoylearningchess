@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Rackoff, Dylan         BLWD507J  1041  1092/129  W4  W3  L2  2.0
+  2 Kok, Bulut             LAVEE54B  1061  1101/149  L3  W4  W1  2.0
+  3 Zhang, Ethan           CLHEE87D  1107  1080/449  W2  L1  L4  1.0
+  4 Gagnier, Ian           HSCCC72H  1147  1109/ 75  L1  L2  W3  1.0

@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Balasubramanian, Kala  CNCD519Y   959  1121/ 42  W6  W4  W2  W8  W7  5.0
+  2 Sembium, Aditi         BCABK25W   936   947/131  W7  W5  L1  L6  W8  3.0
+  3 Chen, Xinyu            SOMDD08V   882   852/ 17  W11 L8  L6  W12 W10 3.0
+  4 Joseph, Veronique      SJOCJ04S   859   879/ 66  W9  L1  L7  W11 W6  3.0
+  5 Xiang, Lucas           CNHC761Z   839   844/ 32  W12 L2  W8  L7  W11 3.0
+  6 Mishra, Aakash         EBSD439K   793   880/ 49  L1  W9  W3  W2  L4  3.0
+  7 Arunkumar, Ashwath     RSADH07X   783   860/ 67  L2  W12 W4  W5  L1  3.0
+  8 Beegala, Dhruv         REECC52Y   833   815/ 36  W10 W3  L5  L1  L2  2.0
+  9 Swaminath, Akshita     CNCB295Z   757   715/ 63  L4  L6  W11 L10 W12 2.0
+ 10 Balaji, Arjun          CMCCH75P   439   506/ 10  L8  L11 D12 W9  L3  1.5
+ 11 Wang, Evan             FRWB929Z   764   686/ 30  L3  W10 L9  L4  L5  1.0
+ 12 Ramkumar, Aditya       UNKBC38J   685   604/ 41  L5  L7  D10 L3  L9  0.5

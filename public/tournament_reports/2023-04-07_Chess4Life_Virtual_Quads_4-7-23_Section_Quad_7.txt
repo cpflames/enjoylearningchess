@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xie, Leon              CNHE264X  1010  1128/107  W2  W3  W4  3.0
+  2 Wu, Dennis             SCDCJ54B  1002  1031/152  L1  W4  W3  2.0
+  3 Yin, Daniel            ISSL116Y   996   975/323  W4  L1  L2  1.0
+  4 Gonzales, Gabriel      XXXE694N   994   923/ 31  L3  L2  L1  0.0

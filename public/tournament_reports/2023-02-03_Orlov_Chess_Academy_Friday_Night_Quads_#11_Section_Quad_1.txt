@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Vijayakrishnan, AchyuthPKRD646F  1229  1233/124  L2  W4  W3  2.0
+  2 Shah, Kanav            LMAE295Q  1165  1185/ 36  W1  L3  W4  2.0
+  3 Kim, Matthew           RKWEK88G  1159  1238/  6  W4  W2  L1  2.0
+  4 Ma, Max                CHRE554Z   942   913/ 14  L3  L1  L2  0.0

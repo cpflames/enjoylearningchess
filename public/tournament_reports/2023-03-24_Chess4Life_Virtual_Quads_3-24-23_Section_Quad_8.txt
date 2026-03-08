@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yin, Daniel            ISSL116Y   876   894/317  W4  W3  L2  2.0
+  2 Wu, Dennis             SCDCJ54B   835   868/146  W3  L4  W1  2.0
+  3 Sabarish, Ananya       BCACG02Z   838   814/ 93  L2  L1  W4  1.0
+  4 Fang, Weiai            THRC696W   835   812/132  L1  W2  L3  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sinha, Agastya         HSCCA75C   400  1100/  3  W4  W2  W3  3.0
+  2 Vanimireddy, Shrivas   HSCJ833Q   900   767/  3  W3  L1  W4  2.0
+  3 Vontela, Saharsh Sai   HSCDD95J   400   521/  3  L2  W4  L1  1.0
+  4 Oursland, Eric         SPTE966S   400   400/ 11  L1  L3  L2  0.0

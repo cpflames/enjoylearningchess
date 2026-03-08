@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Naenna, Patanin        SPLDQ28H   844   899/ 57  U   W3  W2  2.0
+  2 Yang, Nicholas         CHRBG23U   823   826/  8  W3  U   L1  1.0
+  3 Pai, Vihaan            STVCK17C   825   768/ 50  L2  L1  U   0.0

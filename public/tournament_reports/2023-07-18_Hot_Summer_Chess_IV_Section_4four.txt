@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Swanson, Ashton        CUEEK23B   352   430/  8  W2  D3  W4  2.5
+  2 Bannister, Altair      EAGBK36Y   335   333/ 26  L1  W4  D3  1.5
+  3 Gardner, Andrew        CUEDK22Z   286   302/ 17  D4  D1  D2  1.5
+  4 Zhang, Nicole          RVPFZ942   342   259/  9  D3  L2  L1  0.5

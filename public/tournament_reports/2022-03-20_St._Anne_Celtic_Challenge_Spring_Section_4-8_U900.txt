@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Qu, Yufei              XXXF250D   500   828/  4  WF  L2  W4  W5  W6  4.0
+  2 Jaeger, Russell        SANE967K   721   735/122  W7  W1  W3  D6  L4  3.5
+  3 Vutukuri, Niharika     RKWFB12L   533   607/ 21  W5  D6  L2  W7  BYE 3.5
+  4 Iyer, Ishan            TMBG715N   400   504/ 12  D6  D5  L1  BYE W2  3.0
+  5 Mishra, Naveen         SNIEI07A   722   657/ 14  L3  D4  BYE L1  W7  2.5
+  6 Kim, Rian              SOMFI59L   676   656/107  D4  D3  W7  D2  L1  2.5
+  7 De Villasante, SebastiaSANGE40W   421   400/ 32  L2  BYE L6  L3  L5  1.0

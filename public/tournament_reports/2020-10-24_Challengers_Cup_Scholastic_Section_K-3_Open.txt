@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Iyer, Shashwat Pranav  REEBC07W  1001  1229/ 15  W7  L3  W9  W4  W5  4.0
+  2 Edmond, Ivy            WWDDD81E  1013  1141/104  L4  W10 W11 W6  W3  4.0
+  3 Tunuguntla, Sai SrithanEMDCK78V  1224  1228/102  W6  W1  W4  L5  L2  3.0
+  4 Urali, Sanjay          MEDD315D  1363  1326/199  W2  W5  L3  L1  W9  3.0
+  5 Cheng, Selina          THUD413R  1062  1109/117  W10 L4  W8  W3  L1  3.0
+  6 Zhao, George           CRKBA26L   897  1019/131  L3  W7  W12 L2  W11 3.0
+  7 Liu, Vincent           ILAC546Q  1220  1181/ 63  L1  L6  W10 W9  W12 3.0
+  8 Dmitriev, Lyan         NPTD246H  1144  1084/204  W12 L9  L5  W11 D10 2.5
+  9 Lekkala, Vihan         BLWD428L   919   974/ 84  W11 W8  L1  L7  L4  2.0
+ 10 Aute, Rohit            BEND684B   553   602/ 15  L5  L2  L7  D12 D8  1.0
+ 11 Shah, Agam             DISD263J  1064   979/155  L9  W12 L2  L8  L6  1.0
+ 12 Ramkumar, Siddharth    LMAEH50B   937   852/112  L8  L11 L6  D10 L7  0.5

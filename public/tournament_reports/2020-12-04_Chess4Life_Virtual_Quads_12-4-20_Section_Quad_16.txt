@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, Christopher      SHSDA87H   573   642/ 60  W2  L4  W3  2.0
+  2 Senthil, Sanvi         SPTFH12F   584   646/266  L1  W3  W4  2.0
+  3 Phaneesh, Saanvi       SSMB983M   666   626/ 25  W4  L2  L1  1.0
+  4 Condit, Theo           TLIAJ39C   662   624/ 21  L3  W1  L2  1.0

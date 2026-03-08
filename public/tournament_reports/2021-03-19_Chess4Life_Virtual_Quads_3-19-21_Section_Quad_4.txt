@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yuen, Owen             KSHFA16Z  1270  1301/235  W3  W2  L4  2.0
+  2 Wang, William          SOMG534J  1349  1359/122  W4  L1  W3  2.0
+  3 Attuluri, Kaushik      INGJC628  1307  1284/314  L1  W4  L2  1.0
+  4 Siddem, Sid            RHJHC34V  1274  1259/273  L2  L3  W1  1.0

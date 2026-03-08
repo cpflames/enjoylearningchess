@@ -1,0 +1,33 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Saddi, Neevan Reddy    GRRDH87M  1345  1376/ 88  W29 W17 W9  D3  W7  4.5
+  2 Zhu, Kevin             CSMD865U  1266  1332/320  W4  W22 D3  W15 W8  4.5
+  3 Bharadwaj, Samarth     DGHCE78A  1318  1342/100  W23 W12 D2  D1  W13 4.0
+  4 Joseph, Veronique      SJODJ04S   879  1152/ 71  L2  W20 W16 W14 W15 4.0
+  5 Li, Edgar              OPWC883Y  1200  1188/100  W30 D8  W13 L7  W19 3.5
+  6 Pai, Vihaan            CHADK17C  1249  1241/110  W26 L13 W22 W25 D9  3.5
+  7 Xiang, Lucas           CNHD761Z   844  1019/ 37  W11 D15 W28 W5  L1  3.5
+  8 Raghunathan, Vidur     MCID878A   815  1084/ 19  W20 D5  W14 W11 L2  3.5
+  9 Luo, Peter             SHVD664K   400  1295/  5  W18 W16 L1  W12 D6  3.5
+ 10 Evin, Terrick          EBSBC54L  1376  1313/ 45  L13 L19 W32 W22 W23 3.0
+ 11 Sankrithi, Sarang      HSCDB11D  1196  1160/176  L7  W23 W18 L8  W24 3.0
+ 12 Zhang, Zhibo           SOMD674X  1089  1093/ 46  W32 L3  W27 L9  W25 3.0
+ 13 Lin, Annan             THODC02D   853  1088/ 14  W10 W6  L5  W17 L3  3.0
+ 14 Weng, Bright           BENC850P  1131  1088/ 35  D19 W24 L8  L4  W26 2.5
+ 15 Malugu, Sankalp        SHSDE95W  1122  1095/243  W27 D7  W19 L2  L4  2.5
+ 16 Kakkad, Vayu           DCTCK50L  1101  1077/428  W31 L9  L4  W30 D17 2.5
+ 17 Edwin, Elijah          BCSCC24D  1044  1032/ 34  WF  L1  W24 L13 D16 2.5
+ 18 Lan, Jonathan          OPWC968F   973   939/ 54  L9  W31 L11 D27 W28 2.5
+ 19 Chaudhuri, Arihant     CHAD703E   783   868/110  D14 W10 L15 W28 L5  2.5
+ 20 Yun, Daniel D          BCABK87Z  1317  1221/221  L8  L4  W26 L24 W27 2.0
+ 21 Vijay, Adith           SOMCD20K  1132   977/ 10  L24 W30 L25 L23 W29 2.0
+ 22 Schasteen, Noble       HWNCA04C   909   977/ 10  W25 L2  L6  L10 W30 2.0
+ 23 Xu, Yang               CNCD649B   894   942/ 10  L3  L11 W31 W21 L10 2.0
+ 24 Bhattacharjee, PratyushTIMD602T   768   865/ 15  W21 L14 L17 W20 L11 2.0
+ 25 Vasamsetty, Chetan     SHFCJ38Y   400   938/  5  L22 W29 W21 L6  L12 2.0
+ 26 Chang, Caden           UCDC260J   811   799/ 69  L6  D32 L20 W31 L14 1.5
+ 27 Wu, Jayden             UCDB495Q   502   523/ 14  L15 BYE L12 D18 L20 1.5
+ 28 Suram, Ridhima         KKNC882V   407   400/ 13  BYE HPB L7  L19 L18 1.5
+ 29 Bandai, Yugo           MCECA31C   894   821/ 13  L1  L25 L30 W32 L21 1.0
+ 30 Liu, Evan              CLHDC52M   846   802/ 10  L5  L21 W29 L16 L22 1.0
+ 31 Vivek, Sahaan          BRHB672Y   601   611/ 20  L16 L18 L23 L26 W32 1.0
+ 32 Qin, Jayden            EVGCB48Z   907   745/ 10  L12 D26 L10 L29 L31 0.5

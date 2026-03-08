@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ngo, Joshua            TPSHB43H   818   899/ 54  D4  W2  W3  2.5
+  2 Malla, Diven           HSCDG38L   854   873/ 52  W3  L1  W4  2.0
+  3 Alam, Adil             BCAFI15X   822   796/ 92  L2  W4  L1  1.0
+  4 Mitra, Rahul           OPWFH53N   775   735/ 88  D1  L3  L2  0.5

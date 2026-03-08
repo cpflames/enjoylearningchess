@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sridhar, Riya          AUDCG37Y   902   995/ 57  D2  W3  W4  2.5
+  2 Hochberg, David        SUEI6075   923  1004/109  D1  W4  W3  2.5
+  3 Dode, Arush            EMDC317L   923   901/ 18  W4  L1  L2  1.0
+  4 Rackoff, Dylan         BLWD507J   930   853/144  L3  L2  L1  0.0

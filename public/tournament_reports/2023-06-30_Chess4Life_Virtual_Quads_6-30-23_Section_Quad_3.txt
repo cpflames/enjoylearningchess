@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Cheng, Alan            CHREJ71K  1201  1229/ 97  W2  L4  W3  2.0
+  2 Benedict, Blaine       HSCHK07Q  1097  1313/  6  L1  W3  W4  2.0
+  3 Bimod, Karthik         SLLGW89E  1194  1178/ 21  W4  L2  L1  1.0
+  4 Bhattacharjee, ArchishmBLWGA45Y  1191  1175/187  L3  W1  L2  1.0

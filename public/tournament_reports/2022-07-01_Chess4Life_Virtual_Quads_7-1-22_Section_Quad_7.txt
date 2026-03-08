@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Naenna, Patanin        SPLDQ28H   764   854/139  W2  D4  W3  2.5
+  2 Park-desmond, Maximus  NOVIC85J   815   834/ 13  L1  W3  W4  2.0
+  3 Paul, Shreyom          ENSE147G   742   727/ 51  W4  L2  L1  1.0
+  4 Garg, Vihaan           CMCBJ10X   776   723/ 79  L3  D1  L2  0.5

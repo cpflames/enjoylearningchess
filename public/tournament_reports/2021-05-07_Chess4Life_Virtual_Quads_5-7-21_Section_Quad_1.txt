@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Willy, Stephen         MMEFH17K  1626  1670/373  W3  W4  W2  3.0
+  2 Boulis, Christos       RHJHC84T  1538  1520/445  W4  L3  L1  1.0
+  3 Wang, William          SOMG534J  1515  1501/140  L1  W2  L4  1.0
+  4 Skkandann, Kiann       NPRJ644M  1521  1469/  5  L2  L1  W3  1.0

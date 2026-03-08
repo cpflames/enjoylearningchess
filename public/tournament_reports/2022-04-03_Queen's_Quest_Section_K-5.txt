@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wong, Kate             BCAD459M  1426  1444/ 99  W7  W8  W2  D3  W5  4.5
+  2 Cheng, Selina          THUE413R  1496  1489/375  W6  W4  L1  W10 W3  4.0
+  3 Westover, Charlotte    WMEF365V  1237  1263/298  W12 W10 W4  D1  L2  3.5
+  4 Nalasani, Manasvi      XXOFM12Z  1232  1208/ 39  WF  L2  L3  W8  W9  3.0
+  5 Gulati, Naamya         FRWE649C   974   956/124  L9  W12 W6  W7  L1  3.0
+  6 Deng, Alison           MEDEC56H   719   756/ 44  L2  W13 L5  W11 W10 3.0
+  7 Joseph, Veronique      SJOCJ04S   602   695/ 47  L1  W9  W12 L5  W13 3.0
+  8 Sembium, Aditi         BCABK25W   735   741/ 62  W11 L1  D9  L4  BYE 2.5
+  9 Egesdal, Elina         MEDF197H   728   759/ 10  W5  L7  D8  W13 L4  2.5
+ 10 Qu, Yufei              XXXF250D   828   760/  9  W13 L3  W11 L2  L6  2.0
+ 11 Swetman, Adelyn        MEDE560Q   400   435/  9  L8  BYE L10 L6  W12 2.0
+ 12 Miller, Carolyn        FRDF953Q   518   459/ 99  L3  L5  L7  BYE L11 1.0
+ 13 Li, Jasmine            MEDEG15H   458   409/  9  L10 L6  BYE L9  L7  1.0

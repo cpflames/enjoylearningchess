@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Rao, Deepak Sri KartikeARDF517J  1081  1102/ 47  D2  W3  W4  2.5
+  2 Kakkad, Vayu           BRYBK50L  1018  1030/341  D1  W4  D3  2.0
+  3 Yin, Daniel            ISMK116Y   883   907/123  W4  L1  D2  1.5
+  4 Duseja, Ronit          TIMEA38H   894   835/ 51  L3  L2  L1  0.0

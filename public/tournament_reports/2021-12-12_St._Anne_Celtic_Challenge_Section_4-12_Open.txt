@@ -1,0 +1,31 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Joshi, Atharva         SKNJ1352  1565  1616/274  W25 W10 W9  W3  D2  4.5
+  2 Ramkumar, Nikhil       RBRE115E  1459  1547/130  W11 W15 W4  W5  D1  4.5
+  3 Yondon, Odbayar        LMADK97T  1617  1623/ 37  W21 W18 W14 L1  W7  4.0
+  4 Bartminn, Jan Lorenz   ENDFH59K  1317  1426/112  W27 W8  L2  W10 W9  4.0
+  5 Cheng, Selina          THUE413R  1387  1386/326  WF  D16 W17 L2  W15 3.5
+  6 Wong, Kate             BCAD459M  1333  1342/ 77  D17 L7  W28 W20 W14 3.5
+  7 Kokati, Pranav         OMSG814P  1261  1340/183  D24 W6  W16 W8  L3  3.5
+  8 Liu, Bichen            KKNFK00D  1441  1411/ 20  WF  L4  W21 L7  W16 3.0
+  9 Yadlapati, Arush       EVJHA47S  1436  1433/157  W26 W20 L1  W18 L4  3.0
+ 10 Xiong, Michael         MEDD115A  1369  1377/184  W22 L1  W11 L4  W21 3.0
+ 11 Zhou, Nathan           NJHG215X  1172  1230/ 14  L2  W23 L10 W27 W20 3.0
+ 12 Abueg, Lorenzo         SLBHG77J  1164  1207/ 70  L14 W27 L15 W22 W18 3.0
+ 13 Harriman, Grady        HCSGH824  1129  1256/139  LF  W29 L20 W25 W19 3.0
+ 14 Pisan, Kai             CHYH404C  1451  1427/214  W12 W19 L3  D15 L6  2.5
+ 15 Gajcowski, Hannah Nami OPWGI10H  1338  1328/165  WF  L2  W12 D14 L5  2.5
+ 16 Joshi, Arnav           CRKGJ24W  1130  1194/126  W29 D5  L7  W17 L8  2.5
+ 17 Xu, Samuel             EASE854L   944  1083/ 14  D6  W24 L5  L16 W25 2.5
+ 18 Mohan, Laya            BCWG617P  1353  1317/105  W23 L3  W25 L9  L12 2.0
+ 19 Zheng, Max             SOMFD13T  1335  1296/120  W30 L14 HPB HPB L13 2.0
+ 20 Lim, Hayul             VCEFQ94C  1308  1270/ 44  W28 L9  W13 L6  L11 2.0
+ 21 Ehrenberg, Joshua      HCCLH373  1243  1233/161  L3  W26 L8  W24 L10 2.0
+ 22 Godse, Gaurav          EVJH290Q  1122  1110/ 50  L10 L25 W23 L12 W24 2.0
+ 23 Lu, Jacob              BLMGI11F  1084  1072/263  L18 L11 L22 W26 W27 2.0
+ 24 Wirkkala, Zane         HSCIC64H   800  1050/  5  D7  L17 W29 L21 L22 1.5
+ 25 Maher, Joseph          SANI1940  1181  1137/242  L1  W22 L18 L13 L17 1.0
+ 26 Hawkins, Holden        TYEJ383Z  1153  1065/384  L9  L21 L27 L23 W28 1.0
+ 27 Onwuneme, Zoe          SANI2726   868   881/107  L4  L12 W26 L11 L23 1.0
+ 28 Krzeszowski, Anthony   MYHEI41R   529   524/ 19  L20 BYE L6  U   L26 1.0
+ 29 Xu, Austin             SOMFH17F  1404  1302/ 83  L16 L13 L24 U   U   0.0
+ 30 Laun, Henry            SPRJC065   949   941/125  L19 U   U   U   U   0.0

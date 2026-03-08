@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Hoang, Leonard         STQAK88E   447   655/  9  W9  W2  W4  W3  W7  5.0
+  2 Razmov, Siana          HZFAK93Y   285   495/ 49  W4  L1  W8  W10 D3  3.5
+  3 Chenicheri, Naveen     MRPDK06P   300   576/  5  W6  W7  W10 L1  D2  3.5
+  4 Trochesset, Marc       RKWD379R   468   474/ 30  L2  W9  L1  W5  W10 3.0
+  5 Cen, Andrew            JINBK69R   356   359/ 35  W11 L10 W7  L4  W9  3.0
+  6 Ma, Caroline           BCSAK93V   356   318/ 25  L3  D12 L9  W8  W11 2.5
+  7 Wong, Aiden            CNHCK17Z   446   355/ 10  W12 L3  L5  W11 L1  2.0
+  8 Olin, Bennett          OPWB417S   400   322/ 19  L10 W11 L2  L6  W12 2.0
+  9 More, Prisha           RSACK64G   225   258/ 10  L1  L4  W6  W12 L5  2.0
+ 10 Tummuru, Nirvan        FRWCK06N   200   342/  5  W8  W5  L3  L2  L4  2.0
+ 11 Li, Nicole             CNHCK06M   200   100/  5  L5  L8  W12 L7  L6  1.0
+ 12 Velichko, Kristina     ASAAK07V   100   100/  9  L7  D6  L11 L9  L8  0.5

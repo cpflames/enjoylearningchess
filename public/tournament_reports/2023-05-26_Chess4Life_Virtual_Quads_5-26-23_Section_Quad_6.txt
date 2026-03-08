@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sreraman, Rahul        BCACJ42L  1004   999/115  W4  L3  W2  2.0
+  2 Li, Harry              SSSDG30G   910   931/285  W3  W4  L1  2.0
+  3 Kuluru, Samith         LEOGI99K   869   886/173  L2  W1  LF  1.0
+  4 Zhang, Ethan Yichen    CRIFG57B   779   745/393  L1  L2  WF  1.0

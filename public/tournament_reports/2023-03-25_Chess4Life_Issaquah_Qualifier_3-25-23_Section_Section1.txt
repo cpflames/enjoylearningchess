@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Tiwari, Prakhar        TMBJ785R  1436  1437/ 67  W8  W9  W13 D3  3.5
+  2 Yalamanchili, Nikhil   BCAEK63R   618   768/ 19  W12 W15 D7  W6  3.5
+  3 Rama, Savitur          EVJHH22Z  1134  1203/110  W13 W8  D6  D1  3.0
+  4 Paul, Shreyom          ENSG147G   685   744/ 59  L5  W11 W15 W7  3.0
+  5 Bu, Ethan              BASBK38W   100   904/  4  W4  L6  W10 W12 3.0
+  6 Phanse, Nihar          CEIHA29P   958   957/ 17  W17 W5  D3  L2  2.5
+  7 Desai, Sharanam        CCDC678T   577   587/ 37  WF  W16 D2  L4  2.5
+  8 Nidamarthi, Nikhil     RSAD375J   898   995/155  L1  L3  W9  W13 2.0
+  9 Chong, Jacob           RSHEF24L   898   891/ 77  W14 L1  L8  W15 2.0
+ 10 Pai, Shubham           BCAF694R   625   610/ 79  W11 L12 L5  W17 2.0
+ 11 Trout, Lincoln         SPTI1339   604   597/ 11  L10 L4  W14 W16 2.0
+ 12 Mishra, Angad          RKWDK70V   535   557/ 30  L2  W10 W17 L5  2.0
+ 13 Mcintyre, Isaac        ETSD466S  1286  1209/136  L3  W14 L1  L8  1.0
+ 14 Kuchhal, Pranshi       RSADB17P   797   670/  8  L9  L13 L11 BYE 1.0
+ 15 Cheng, Ethan           HSCBK663   475   476/  7  W16 L2  L4  L9  1.0
+ 16 Vuong, Leon            OPWC752X   422   331/  9  L15 L7  BYE L11 1.0
+ 17 Bassli, Max            JDSF246M   100   100/  5  L6  BYE L12 L10 1.0

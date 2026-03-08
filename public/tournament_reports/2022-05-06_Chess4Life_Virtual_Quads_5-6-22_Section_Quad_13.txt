@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chaudhuri, Arihant     CHAC703E   672   819/ 84  W2  W3  W4  3.0
+  2 Li, Haiyi              EALJ762H   671   712/ 18  L1  W4  W3  2.0
+  3 Wu, Dennis             SCDBJ54B   656   638/ 38  W4  L1  L2  1.0
+  4 Lechner, Ryker         HSCD496J   690   604/ 22  L3  L2  L1  0.0

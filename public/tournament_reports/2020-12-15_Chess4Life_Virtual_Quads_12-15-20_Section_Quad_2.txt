@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Rackoff, Dylan         BLWD507J   936  1018/ 71  W4  W3  W2  3.0
+  2 Kan, Kaleb             MMECF53E   937   942/ 95  W3  W4  L1  2.0
+  3 Yadava, Ishansh        HSCFB75H   745   750/  8  L2  L1  W4  1.0
+  4 Bar, Nathan            AUDB368C   776   714/ 23  L1  L2  L3  0.0

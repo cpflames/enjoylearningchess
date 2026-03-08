@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Carp, Ryan             WDVM511N  1357  1344/ 16  L2  W4  W3  2.0
+  2 Xu, Zoe                SOMDG70A  1285  1288/262  W1  L3  W4  2.0
+  3 Chaudhuri, Arihant     CHAD703E  1127  1121/201  L4  W2  L1  1.0
+  4 Kan, Kaleb             BLWEF53E  1025  1042/237  W3  L1  L2  1.0

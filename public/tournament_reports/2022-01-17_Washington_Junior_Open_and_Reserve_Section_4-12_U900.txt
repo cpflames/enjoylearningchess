@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Vutukuri, Adhrith      REJH326L   820   993/ 24  W18 W23 W13 W4  W3  5.0
+  2 Juluri, Hasini         OMSH290Z   863   892/ 10  L11 W21 W16 W18 W7  4.0
+  3 Swaminath, Ankita      CNCE571R   839   876/ 30  W17 W13 W20 W8  L1  4.0
+  4 Zhen, Hongren          KIMGC02Z   798   964/117  W12 W7  W6  L1  W8  4.0
+  5 Ramanathan, Hamsini    OPWGH41M   633   892/ 15  L7  W12 W9  W11 W6  4.0
+  6 Mitra, Rahul           OPWGH53N   889   877/210  W15 W14 L4  W10 L5  3.0
+  7 Joshi, Vaidehi         PLKGG37G   883   875/116  W5  L4  W15 W17 L2  3.0
+  8 Kannapiran, Arnav      OPWD983P   883   873/ 39  W16 W10 W11 L3  L4  3.0
+  9 Burtram, Dayton        CRIGG77M   864   827/202  W20 L11 L5  W21 W17 3.0
+ 10 Shen, Eli              BCAE577A   700   710/ 51  W25 L8  W23 L6  W18 3.0
+ 11 Patpi, Swarith         ENSF612G   552   763/ 18  W2  W9  L8  L5  W14 3.0
+ 12 Chien, Jeffrey         BCAEF41X   400   787/  5  L4  L5  W22 W15 W16 3.0
+ 13 Vutukuri, Niharika     RKWFB12L   400   523/  8  BYE L3  L1  D19 W22 2.5
+ 14 Li, Timothy            CRIFE29R   809   737/119  W24 L6  L18 W20 L11 2.0
+ 15 Deepak, Advait         BRHED74M   643   591/ 24  L6  WF  L7  L12 WF  2.0
+ 16 Alamuru, Kriti         CNCF815A   573   568/ 21  L8  W25 L2  W23 L12 2.0
+ 17 Miller, Carolyn        FRDF953Q   498   518/ 95  L3  BYE W19 L7  L9  2.0
+ 18 Velazco-cruz, Emanuel  KTLLE70F  1100   692/  5  L1  W22 W14 L2  L10 2.0
+ 19 Datti, Suhas           SHVFK47U   750   650/ 38  U   L20 L17 D13 W25 1.5
+ 20 Miller, Violet         FRDGH568   563   561/104  L9  W19 L3  L14 D21 1.5
+ 21 Iyer, Ishan            TMBG715N   600   511/  4  U   L2  W25 L9  D20 1.5
+ 22 Bikkula, Charan        CRIFJ23A   690   563/ 94  L23 L18 L12 W25 L13 1.0
+ 23 Kummariguntla, SrivishnCHAFH85S   500   483/  4  W22 L1  L10 L16 LF  1.0
+ 24 Vanavada, Kaushik      BRHEB86U   400   400/  1  L14 LF  U   U   U   0.0
+ 25 Vipin, Adith           MISFX25X   500   400/  5  L10 L16 L21 L22 L19 0.0

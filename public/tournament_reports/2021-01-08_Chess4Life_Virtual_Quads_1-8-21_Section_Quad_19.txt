@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tsui, Ashleen          SCDD676C   553   575/ 92  W4  W2  L3  2.0
+  2 Rajeesh, Sourav        TBKE562H   519   557/ 24  W3  L1  W4  2.0
+  3 Gandham, Nihita        CAVB810C   544   569/ 21  L2  W4  W1  2.0
+  4 Trochesset, Marc       RKWB379R   482   405/ 15  L1  L3  L2  0.0

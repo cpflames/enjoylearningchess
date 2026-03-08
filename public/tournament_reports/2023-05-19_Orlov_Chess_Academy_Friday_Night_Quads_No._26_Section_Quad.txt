@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sivaramanand, Akshaj   RHJHK15C  1333  1349/  6  W4  W3  D2  2.5
+  2 Bhaskara, Yash         ICSII539  1234  1259/271  W3  W4  D1  2.5
+  3 Sembium, Aditi         BCACK25W  1111  1090/213  L2  L1  W4  1.0
+  4 Doronin, Victor        BMNF335T   755   742/ 35  L1  L2  L3  0.0

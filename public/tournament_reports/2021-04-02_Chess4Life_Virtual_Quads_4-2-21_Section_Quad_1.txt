@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Willy, Stephen         MMEFH17K  1670  1693/356  W2  W3  W4  3.0
+  2 Miller, Thomas         MEDF799Q  1469  1496/ 57  L1  W4  W3  2.0
+  3 Sangal Lopez, Dev      WOBE515J  1424  1421/168  W4  L1  L2  1.0
+  4 Ying, Yiheng           MEDDE78K  1472  1420/232  L3  L2  L1  0.0

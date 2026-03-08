@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wise-maldonado, Shaun  XXXHD23R   434   603/  6  W4  W3  W2  3.0
+  2 Yen, Apollo            RKWEG78H   402   461/  8  W3  W4  L1  2.0
+  3 Bajpai, Suhani         SSMEC53Z   400   400/ 10  L2  L1  W4  1.0
+  4 Schaudt, Parker        FAPC799V   400   400/ 70  L1  L2  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hochberg, David        SUEJ6075  1057  1127/154  W4  W3  D2  2.5
+  2 Stein, Samuel          HSCEH03T  1046  1080/165  W3  WF  D1  2.5
+  3 Chong, Jacob           RSHDF24L  1078  1026/ 25  L2  L1  WF  1.0
+  4 Sethi, Ivanka          STVDF96K  1044  1021/ 35  L1  LF  LF  0.0

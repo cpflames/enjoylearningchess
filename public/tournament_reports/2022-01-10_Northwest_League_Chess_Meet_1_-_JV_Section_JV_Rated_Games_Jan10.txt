@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Chiapellone, Teo       SHMKG88R   544   655/ 28  W4  W11 2.0
+  2 Anshus, Erik           SHMKD320   854   893/ 69  W12 D7  1.5
+  3 Love, Charles          SHMJ458N   883   917/ 26  U   W10 1.0
+  4 Gangle, Jerome         SHMM2873   755   748/ 57  L1  W5  1.0
+  5 Stewart, Elijah        SHMK787F  1000   752/  2  W8  L4  1.0
+  6 Roesch, Aubrey         BLNH866T   700   750/  1  W13 U   1.0
+  7 Cox, Dylan             SHMJ3440  1113  1096/135  U   D2  0.5
+  8 Bowman, Finn           SHMJD50L   793   753/ 12  L5  D9  0.5
+  9 Waters, Shawn          BLHJK63D   731   735/  7  U   D8  0.5
+ 10 Goetzl, Twain          SHML6001   920   887/199  U   L3  0.0
+ 11 Elenbaas, Nathan       MRDLC84M   805   756/ 25  U   L1  0.0
+ 12 Granger, Jacob         BLHJ654S   741   718/ 10  L2  U   0.0
+ 13 Clark, Camden          BLHK635A   400   400/  4  L6  U   0.0

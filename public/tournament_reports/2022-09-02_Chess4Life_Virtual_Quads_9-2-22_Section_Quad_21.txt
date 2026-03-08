@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Liu, Lucas             OMSG800F   600   727/  3  W3  D4  W2  2.5
+  2 Liang, Grace           HSCC183K   400   627/  3  W4  W3  L1  2.0
+  3 Wright, William        PTFAB71M   400   411/  9  L1  L2  W4  1.0
+  4 Schaudt, Parker        FAPD799V   400   400/ 90  L2  D1  L3  0.5

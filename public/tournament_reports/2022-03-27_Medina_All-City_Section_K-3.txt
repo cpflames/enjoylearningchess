@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Gadde, Arnav           ENSDJ39D  1392  1418/ 56  W12 W8  W10 D2  W4  4.5
+  2 Wang, Derek            MEDDF70G  1313  1345/168  W13 W11 W3  D1  W7  4.5
+  3 Shih, Bei              UCDD630G  1390  1370/203  W19 W7  L2  W12 W9  4.0
+  4 Wang, Ares             MEDDJ77J  1429  1380/217  W9  L6  W16 W10 L1  3.0
+  5 Zhu, Aiden             LLSBC77X  1150  1134/ 36  W16 L10 W6  LF  W8  3.0
+  6 Khambatti, Maxim       HSCD719W   687   721/ 25  W17 W4  L5  L7  W14 3.0
+  7 Lee, Christian         MEDDD54N   657   708/ 22  W20 L3  W17 W6  L2  3.0
+  8 Li, Elizabeth          MEDDA66B   400   513/ 10  W14 L1  W15 W13 L5  3.0
+  9 Hu, William            MEDD824E   400   800/  4  L4  W13 W11 WF  L3  3.0
+ 10 Coury, Gavin           KSHDD98Q   400  1171/  5  W15 W5  L1  L4  W12 3.0
+ 11 Sun, Aiden             MEDDC17N   400   422/  4  WF  L2  L9  D16 W19 2.5
+ 12 Hong, Jamie            MEDD577Q   400   790/  4  L1  WF  W14 L3  L10 2.0
+ 13 Afshar, Ryan           MEDD939D   400   430/  4  L2  L9  BYE L8  W16 2.0
+ 14 Eisenhart, Theo        SVSDF40R   400   400/  4  L8  BYE L12 W17 L6  2.0
+ 15 Zhang, Max             MEDD781P   400   400/  9  L10 L16 L8  WF  D17 1.5
+ 16 Wang, Ryan             MEDD352X   400   400/  5  L5  W15 L4  D11 L13 1.5
+ 17 Wu, Jackie             MEDDJ63Z   400   400/  5  L6  W19 L7  L14 D15 1.5
+ 18 Shu, Iris              MEDDI77N   400   417/  6  LF  LF  W19 LF  U   1.0
+ 19 Zhang, Charlotte       MEDDD41S   400   400/  4  L3  L17 L18 BYE L11 1.0
+ 20 Nakazato, Olivia       MEDDE52L   400   400/  1  L7  U   U   U   U   0.0

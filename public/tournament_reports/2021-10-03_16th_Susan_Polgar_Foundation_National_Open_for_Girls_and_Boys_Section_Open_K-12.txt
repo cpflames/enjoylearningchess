@@ -1,0 +1,27 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Peng, Shunkai          SOHLW54W  2439  2437/ 58  W18 D8  W13 W6  W2  D3  5.0
+  2 Mahajan, Rushaan       OVLJK091  2250  2265/325  W11 W7  W4  W3  L1  W5  5.0
+  3 Shubin, Daniel         EPSLF498  2201  2214/488  W15 W9  W5  L2  W7  D1  4.5
+  4 Kurungod Anoop, Pranav INTKK760  2108  2097/205  W17 W10 L2  L9  W20 W13 4.0
+  5 Anand, Vignesh         REDMJ919  2080  2077/430  W21 W26 L3  W14 W9  L2  4.0
+  6 Jiang, Brandon         BLLJ7768  2079  2074/459  W19 D13 D8  L1  W17 W15 4.0
+  7 Vijayakumar, Advaith   LEOJ6655  2062  2068/272  W16 L2  W15 W10 L3  W8  4.0
+  8 Chang, Eddie           INTK6270  2026  2027/166  W12 D1  D6  W20 D13 L7  3.5
+  9 Petrov, Oscar          OVLMA216  1848  1870/304  BYE L3  W11 W4  L5  HPB 3.5
+ 10 Vemparala, Nikash      BCAGI078  1832  1828/347  W22 L4  W21 L7  D11 W17 3.5
+ 11 Shapiro, Michael       EALL8875  1672  1689/323  L2  W24 L9  W25 D10 W16 3.5
+ 12 Summerfield, William   FAPGG77R  1554  1573/121  L8  L15 D22 W24 W21 W18 3.5
+ 13 Harish, Neeraj         CBRGC925  1862  1871/271  W25 D6  L1  W23 D8  L4  3.0
+ 14 Jammalamadaka, Vihaan  BCAEJ90F  1831  1803/287  D24 D18 W16 L5  L15 W20 3.0
+ 15 Bunch, Drew            BAILG36D  1655  1683/118  L3  W12 L7  W26 W14 L6  3.0
+ 16 Joshi, Atharva         SKNJ1352  1561  1565/269  L7  W19 L14 D21 W22 L11 2.5
+ 17 Devadithya, Hiruna     PFCI5494  1611  1625/629  L4  W22 HPB W18 L6  L10 2.5
+ 18 Cheng, Edward          WMSJC74W  1741  1703/304  L1  D14 W24 L17 W23 L12 2.5
+ 19 Miller, Thomas         LMSG799Q  1630  1573/ 74  L6  L16 L25 D22 W26 W23 2.5
+ 20 Shi, Ted               SPTFD099  1750  1727/284  HPB HPB W26 L8  L4  L14 2.0
+ 21 Gurumurthy, Srikrishna TSTK5182  1601  1568/229  L5  W25 L10 D16 L12 D24 2.0
+ 22 Saloranta, Leo         IMSIB40A  1246  1269/117  L10 L17 D12 D19 L16 W26 2.0
+ 23 Lewis, Isaac           ODEJ9388   400   400/ 20  BYE HPB HPB L13 L18 L19 2.0
+ 24 Mamtani, Vihaan        TYEJ6442   983  1039/ 28  D14 L11 L18 L12 BYE D21 2.0
+ 25 Boulis, Christos       RHJIC84T  1468  1467/490  L13 L21 W19 L11 HPB HPB 2.0
+ 26 Gough, Simon           HZNK973L  1000   871/  5  WF  L5  L20 L15 L19 L22 1.0

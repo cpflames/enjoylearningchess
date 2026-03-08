@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Cha, Samuel            LAVDK18Z  1332  1397/ 76  W4  W3  W2  3.0
+  2 Yuen, Owen             UNKFA16Z  1219  1256/217  W3  W4  L1  2.0
+  3 Xie, Max               BLWGI185  1205  1196/201  L2  L1  W4  1.0
+  4 Bharathy Mohan, Aarav  FRWCC98B  1264  1196/112  L1  L2  L3  0.0

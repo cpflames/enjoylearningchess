@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Aaron           CCDD873R  1131  1246/264  W4  W3  W2  3.0
+  2 Bharathy Mohan, Aarav  FRWCC98B  1147  1169/133  W3  W4  L1  2.0
+  3 Pravlik, Aiden         SHSB416H  1120  1102/133  L2  L1  W4  1.0
+  4 Cottenier, Louis       DISE700P  1121  1055/ 38  L1  L2  L3  0.0

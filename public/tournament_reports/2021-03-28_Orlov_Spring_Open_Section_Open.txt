@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Cheng, Edward          WMSIC74W  1763  1766/244  W5  W4  D2  W3  W7  4.5
+  2 Meiyalagan, Ruban Sai  WLDED10L  1616  1641/139  W7  W3  D1  W4  W5  4.5
+  3 Haritham, Shyam        SKWGG81P  1417  1414/ 94  W6  L2  W8  L1  W9  3.0
+  4 Cheng, Selina          THUD413R  1259  1264/236  W8  L1  W9  L2  BYE 3.0
+  5 Huang, Emily           MEDEB39A  1230  1242/139  L1  W9  W7  D6  L2  2.5
+  6 Walimbe, Aadi          SBOGW982  1100  1101/240  L3  L7  BYE D5  W8  2.5
+  7 Fedorov, Vladimir      MMEGF17D  1209  1199/151  L2  W6  L5  BYE L1  2.0
+  8 Raje, Atharva          SLLGL432   985   973/ 96  L4  BYE L3  W9  L6  2.0
+  9 Mu, Alivia             DCTEB56P   920   881/ 38  BYE L5  L4  L8  L3  1.0

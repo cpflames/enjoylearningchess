@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhou, Yuchen           BCABJ42H  1388  1481/304  W3  W2  W4  3.0
+  2 Han, Matthew           BISH5262  1350  1384/261  W4  L1  W3  2.0
+  3 Xie, Max               BLWGI185  1371  1355/277  L1  W4  L2  1.0
+  4 Zhang, Ethan (yichen)  CRIDG57B  1415  1349/126  L2  L3  L1  0.0

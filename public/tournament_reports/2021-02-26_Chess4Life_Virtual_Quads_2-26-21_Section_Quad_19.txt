@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mohan, Keshav          EGMGG24Z   629   776/ 17  W4  W3  W2  3.0
+  2 Leon, Nikhil           HSCC587T   685   702/ 26  W3  W4  L1  2.0
+  3 Khatib, Balushi        LKDDK23M   578   568/ 12  L2  L1  W4  1.0
+  4 Neff, Katrina          ABEB159Y   613   534/ 80  L1  L2  L3  0.0

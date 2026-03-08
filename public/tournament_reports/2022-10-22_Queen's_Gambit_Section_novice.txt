@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Sherwood, Leo          FREHI58J   700   994/  5  W5  W2  W3  W6  W4  5.0
+  2 Riddle, Evan           FREF788J   482   573/ 10  W4  L1  W7  W3  W6  4.0
+  3 Hochheimer, Luca       SGSE179R   400   414/ 14  W7  W6  L1  L2  BYE 3.0
+  4 Clare, Brianna         MCSE181N   400   400/  4  L2  D5  BYE W7  L1  2.5
+  5 Hinshaw, Ethan         MCSDK03R   400   400/  4  L1  D4  L6  BYE D7  2.0
+  6 Jordan, Annabella      FREEH23T   400   400/  4  BYE L3  W5  L1  L2  2.0
+  7 Elkins, Believe        HSCJ953U   900   400/  4  L3  BYE L2  L4  D5  1.5

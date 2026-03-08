@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Stein, Benjamin        HSCCB61S  1393  1463/201  W3  W4  W2  3.0
+  2 Kang, Jinue            OMSG2661  1315  1321/229  W4  D3  L1  1.5
+  3 Zhang, Aaron           CCDE873R  1300  1288/396  L1  D2  D4  1.0
+  4 Li, Yiyang             BCAE700B  1338  1296/220  L2  L1  D3  0.5

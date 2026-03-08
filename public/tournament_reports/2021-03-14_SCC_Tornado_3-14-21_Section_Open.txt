@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Perez, Ignacio         ADUNA795  2218  2229/ 16  W3  W4  D2  W6  3.5
+  2 Aleksandrov, Aleksej   ADIN451G  2708  2706/ 21  W8  W6  D1  W7  3.5
+  3 Metzmaker, Suya        OPWF364P  1602  1654/248  L1  W11 W9  W8  3.0
+  4 Wang, Felicity         LMSHJ02F  1717  1727/250  W11 L1  W10 HPB 2.5
+  5 Metzmaker, Robert      ADINY43E  1539  1542/  4  L6  D8  W11 W12 2.5
+  6 Nicoski, Aaron         ADUN598C  1782  1798/ 23  W5  L2  W7  L1  2.0
+  7 Ingram, Richard        ADBNX611  1698  1708/ 58  W10 W9  L6  L2  2.0
+  8 Meiyalagan, Ruban Sai  WLDED10L  1634  1616/134  L2  D5  W12 L3  1.5
+  9 Carman, Leif           RICKB289  1655  1618/233  W12 L7  L3  D10 1.5
+ 10 Hamlett, James         ADUN4372  1561  1543/ 37  L7  W12 L4  D9  1.5
+ 11 Xu, Andy               MISEZ87Y  1312  1293/  3  L4  L3  L5  BYE 1.0
+ 12 Guan, Marie            MISEZ124   400   400/  4  L9  L10 L8  L5  0.0

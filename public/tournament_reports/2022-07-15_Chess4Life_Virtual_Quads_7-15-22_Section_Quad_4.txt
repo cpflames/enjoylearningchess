@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhao, Dennis           CGRF525E  1194  1279/242  W3  W2  W4  3.0
+  2 Dale, Luke             SMSIJ10P  1131  1136/ 37  W4  L1  D3  1.5
+  3 Wong, Marlin           MTWII126  1116  1125/ 67  L1  W4  D2  1.5
+  4 Edmond, Alec           CSICH03G  1137  1069/172  L2  L3  L1  0.0

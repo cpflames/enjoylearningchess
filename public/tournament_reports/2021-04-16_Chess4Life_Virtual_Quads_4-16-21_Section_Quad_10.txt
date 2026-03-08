@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Parimi, Sandilya       PFCI914G  1054  1079/364  D2  D3  W4  2.0
+  2 Thakur, Reet           CWAEJ84K  1050  1051/245  D1  W4  L3  1.5
+  3 Pravlik, Aiden         SHSB416H  1013  1025/154  L4  D1  W2  1.5
+  4 Kok, Bulut             LAVEE54B  1101  1064/152  W3  L2  L1  1.0

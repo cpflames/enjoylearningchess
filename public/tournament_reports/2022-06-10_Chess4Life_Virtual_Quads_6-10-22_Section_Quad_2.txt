@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Andrew             REJI769K  1332  1370/212  D2  W4  W3  2.5
+  2 Alam, Adil             BCAGI15X  1222  1316/253  D1  W3  W4  2.5
+  3 Zhao, Dennis           CGRF525E  1292  1270/233  W4  L2  L1  1.0
+  4 Mcintyre, Isaac        ETSC466S  1277  1214/ 71  L3  L1  L2  0.0

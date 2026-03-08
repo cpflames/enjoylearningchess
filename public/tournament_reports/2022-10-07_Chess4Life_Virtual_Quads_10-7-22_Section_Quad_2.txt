@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhou, Nathan           NJHH215X  1378  1438/ 38  W3  D2  W4  2.5
+  2 Stein, Samuel          HSCFH03T  1375  1436/223  W4  D1  W3  2.5
+  3 Alam, Adil             BCAHI15X  1382  1364/271  L1  W4  L2  1.0
+  4 Zhang, Aaron           MEDF873R  1393  1331/464  L2  L3  L1  0.0

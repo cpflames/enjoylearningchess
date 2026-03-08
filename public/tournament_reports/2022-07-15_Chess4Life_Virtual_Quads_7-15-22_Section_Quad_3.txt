@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Edmond, Ivy            WWDED81E  1198  1236/239  W2  W4  L3  2.0
+  2 Jha, Siddhant          EVJHG46N  1238  1238/356  L1  D3  W4  1.5
+  3 Yun, Daniel D          BCAAK87Z  1195  1206/192  L4  D2  W1  1.5
+  4 Zhang, Aaron           MEDE873R  1307  1268/447  W3  L1  L2  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Khandelwal, Ayush      REEE897D  1235  1355/127  W3  W2  W4  3.0
+  2 Vijayakrishnan, AchyuthPKRB646F  1290  1308/ 26  W4  L1  W3  2.0
+  3 Parimi, Sandilya       PFCI914G  1218  1209/352  L1  W4  L2  1.0
+  4 Attuluri, Kaushik      INGJC628  1290  1220/302  L2  L3  L1  0.0

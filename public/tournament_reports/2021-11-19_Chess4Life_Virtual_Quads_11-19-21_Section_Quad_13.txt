@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ivanovic, Mina         UCDDH40V   880   903/344  W3  L2  W4  2.0
+  2 Taylor, Ryder          HSCI385C   864   892/ 93  W4  W1  L3  2.0
+  3 Stake, Charles         OESCM87Q   826   875/ 77  L1  W4  W2  2.0
+  4 Guzman, Nate           TPSD939A   879   795/ 78  L2  L3  L1  0.0

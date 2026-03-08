@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kan, Leanne            HSCC710K   582   893/ 39  W4  W5  W3  3.0
+  2 Taylor, Ryder          HSCH385C   811   958/ 35  W6  W3  W4  3.0
+  3 Chevuri, Tattva        CBRDC06V  1026   980/206  W5  L2  L1  1.0
+  4 Tsai, Adam             DISFB02H   886   849/ 23  L1  W6  L2  1.0
+  5 Sridhar, Riya          AUDCG37Y   995   936/ 38  L3  L1  W6  1.0
+  6 Stake, Charles         OESBM87Q   735   625/  6  L2  L4  L5  0.0

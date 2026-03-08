@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bhatkhande, Neil       AUDH649V   700  1074/  3  W3  W2  W4  3.0
+  2 Upreti, Parthavi       XXXF754L   607   671/  6  W6  L1  W5  2.0
+  3 Vutukuri, Adhrith      RKWH326L   569   615/ 12  L1  W4  W6  2.0
+  4 Mitra, Rishab          OPWD138L   466   471/ 98  W5  L3  L1  1.0
+  5 Grandhe, Kriyansh      FRWC753L   400   400/  3  L4  W6  L2  1.0
+  6 Lin, Kaylee            SPTF982R   417   400/  9  L2  L5  L3  0.0

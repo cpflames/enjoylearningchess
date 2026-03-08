@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhou, Yuchen           BCACJ42H  1416  1522/434  W2  W4  W3  3.0
+  2 Singh, Saket           DISI872S  1468  1485/320  L1  W3  W4  2.0
+  3 Mathur, Aashi          PLKG522S  1423  1410/264  W4  L2  L1  1.0
+  4 Singh, Rushil          SNEEB52N  1462  1401/ 42  L3  L1  L2  0.0

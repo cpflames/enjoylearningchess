@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lewis, Kaleb           WCAGF41Z   600  1222/  3  W3  W2  W4  3.0
+  2 Manderson, Gabby       LYCIJ73H   800   850/  3  W4  L1  W3  2.0
+  3 Werner, Finn           FHVHJ98B   508   528/ 15  L1  W4  L2  1.0
+  4 Dalrymple, Matteo      HSCFE98G   619   505/  7  L2  L3  L1  0.0

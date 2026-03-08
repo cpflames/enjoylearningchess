@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hawkins, Holden        TYEI383Z   860   937/138  W4  D3  W2  2.5
+  2 Rastogi, Reyansh       LMAED30N   853   885/ 81  W3  W4  L1  2.0
+  3 Yuen, Otto Shing-lok   KSHEF34N   834   843/235  L2  D1  W4  1.5
+  4 Chan, Starling         MEDD148S   872   789/204  L1  L2  L3  0.0

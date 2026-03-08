@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 r10 r11 r12 tot 
+  1 Marcelais, Kai         WPPIA64J  1599  1624/136  W4  W4  W2  W2  W3  W3  W5  W5  BYE BYE W3  W3 12.0
+  2 Yuodelis, Kenneth      TYEI3681  1386  1362/378  D3  D3  L1  L1  BYE BYE D4  W4  W5  W5  W4  W4  8.5
+  3 Budhraja, Jai          EBSEA16E  1094  1176/ 73  D2  D2  W5  W5  L1  L1  BYE BYE W4  W4  L1  L1  7.0
+  4 Bradshaw, David        ADUND30R  1150  1089/ 18  L1  L1  BYE BYE W5  W5  D2  L2  L3  L3  L2  L2  4.5
+  5 Gupta, Ayush           CHAFB05F   826   796/ 70  BYE BYE L3  L3  L4  L4  L1  L1  L2  L2  BYE BYE 4.0

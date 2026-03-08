@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhao, Dennis           CGRE525E  1104  1231/133  W2  W4  W3  3.0
+  2 Stein, Samuel          HSCDH03T  1108  1143/138  L1  W3  W4  2.0
+  3 Hawkins, Holden        TYEI383Z  1179  1121/270  D4  L2  L1  0.5
+  4 Moore, Lucas           WEDDI48Z  1091  1054/ 74  D3  L1  L2  0.5

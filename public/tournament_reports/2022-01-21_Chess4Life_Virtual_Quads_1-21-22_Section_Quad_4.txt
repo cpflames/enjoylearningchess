@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Stein, Benjamin        HSCCB61S  1271  1326/178  W3  D4  W2  2.5
+  2 Karri, Aditya          AUDDC55V  1263  1286/173  W4  W3  L1  2.0
+  3 Bar, Nathan            AUDC368C  1252  1233/157  L1  L2  W4  1.0
+  4 Bhaskara, Yash         WPPHI539  1255  1213/198  L2  D1  L3  0.5

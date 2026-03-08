@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kumarswamy, Adarsh     CHRF755Y   995  1068/319  W4  W2  D3  2.5
+  2 Alam, Adil             BCAFI15X   993  1020/130  W3  L1  W4  2.0
+  3 Zhu, Kevin             CSMB865U   994   996/162  L2  W4  D1  1.5
+  4 Yang, Jimmy            BCABG45S   989   916/ 46  L1  L3  L2  0.0

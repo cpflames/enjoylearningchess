@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nabeel, Hasan          EDVE415U   826   893/ 19  L4  W2  W3  2.0
+  2 Huang, Edwin           MEDF616M   885   917/ 22  W3  L1  W4  2.0
+  3 Singhi, Rohan          BRHDH01P   935   897/ 64  L2  W4  L1  1.0
+  4 Sreraman, Rahul        BCACJ42L   910   880/ 67  W1  L3  L2  1.0

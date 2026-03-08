@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Aaron           CCDD873R  1245  1315/326  W3  W2  D4  2.5
+  2 Bar, Nathan            AUDB368C  1226  1264/ 99  W4  L1  W3  2.0
+  3 Zhao, Dennis           CGRE525E  1261  1240/157  L1  W4  L2  1.0
+  4 Ma, Justin             OVLHD33R  1303  1251/154  L2  L3  D1  0.5

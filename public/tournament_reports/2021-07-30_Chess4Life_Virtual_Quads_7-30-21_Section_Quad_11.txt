@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xu, Zoe                CNHBG70A   962  1087/ 49  W3  W2  W4  3.0
+  2 Ivanovic, Lena         UCDAK55K   910   968/207  W4  L1  W3  2.0
+  3 Stake, Charles         OESBM87Q   948   929/ 33  L1  W4  L2  1.0
+  4 Taylor, Ryder          HSCH385C   993   910/ 53  L2  L3  L1  0.0

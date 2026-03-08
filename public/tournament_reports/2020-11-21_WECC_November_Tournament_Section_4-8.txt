@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Sun, Yichen            BLMH377G  1042  1275/ 36  W9  W13 W6  W4  W2  5.0
+  2 Repalle, Vibhav        TAPGK31L  1180  1254/ 56  W22 W10 W3  W6  L1  4.0
+  3 Rahman, Zayd           LECGF83W  1434  1413/112  W11 W7  L2  W8  W9  4.0
+  4 Yuan, Emma             ENTHI01S  1224  1226/103  W18 W20 W8  L1  W7  4.0
+  5 Ogle, Noah             CKKH176F   569   826/ 25  L20 W18 D10 W13 W14 3.5
+  6 Emi, Pruneda           MCFIK53L  1254  1224/148  W16 W14 L1  L2  W10 3.0
+  7 Motkuri, Akshath       WBEF554U   990   996/ 50  W12 L3  W13 W15 L4  3.0
+  8 Motkuri, Advaitha      LLMIJ68F   907   929/ 45  W19 W11 L4  L3  W15 3.0
+  9 Costinett, Lucas       LECGI04E   722   853/ 20  L1  W19 W20 W14 L3  3.0
+ 10 Thallapally, Srithan   LECHF86Y   937   938/ 40  W15 L2  D5  W20 L6  2.5
+ 11 Wilhelm, Tyler         ACKEJ20C   878   869/ 25  L3  L8  W21 D18 W16 2.5
+ 12 Harley, Wai Malie      MYAF300G   637   635/ 29  L7  D21 L15 W19 W18 2.5
+ 13 Scotece, Aven          LECE787W   813   810/ 45  W21 L1  L7  L5  W20 2.0
+ 14 Armstrong, Griffin     LECE141T   974   916/ 30  W23 L6  W16 L9  L5  2.0
+ 15 Harley, Imanuel        TCAHK67E   400   530/ 13  L10 W22 W12 L7  L8  2.0
+ 16 Johnson, Kyle          SOGF294T   808   788/ 79  L6  W23 L14 W22 L11 2.0
+ 17 Luna Rocha, Sergio Jr  JMLI3108   830   851/150  U   U   U   W21 W23 2.0
+ 18 Wang, Xiangcheng       LECEA98K   803   723/ 10  L4  L5  W23 D11 L12 1.5
+ 19 Corleto, Alexa         CTKEC12E   400   453/  4  L8  L9  D22 L12 BYE 1.5
+ 20 Thallapally, Sriyan    OEREA43W   937   857/ 45  W5  L4  L9  L10 L13 1.0
+ 21 Gonzales, Ryan         CEGEJ85F   400   524/  5  L13 D12 L11 L17 D22 1.0
+ 22 Costinett, Noah        LECE680E   790   683/ 25  L2  L15 D19 L16 D21 1.0
+ 23 Zaragoza, Abel         MCUE103M   580   528/ 44  L14 L16 L18 BYE L17 1.0

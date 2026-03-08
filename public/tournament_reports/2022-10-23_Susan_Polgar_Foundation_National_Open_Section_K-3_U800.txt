@@ -1,0 +1,61 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zhang, Aaron           RSADC74T   727   869/ 49  W37 W48 W24 W8  W10 5.0
+  2 Chaudhuri, Agnivesh    CHADB55V   653   819/114  W48 W37 W35 W12 W4  5.0
+  3 Cheruku, Adhrith       RCSD827Q   776   871/ 57  D13 W43 W25 W32 W14 4.5
+  4 Wu, Aiden              MEDD740A   731   765/ 18  W35 W46 W22 W7  L2  4.0
+  5 Agrawal, Sakash        MEDDC98H   700   762/103  W39 W59 D14 W13 D12 4.0
+  6 Eustis, Owen           SCDC195W   699   747/ 31  W40 W27 W9  L10 W22 4.0
+  7 Wang, Nathan           SCDDZ10Q   610   732/ 28  W52 W15 W38 L4  W23 4.0
+  8 Lakshmi Narayanan, HariNCSCA28Q   557   706/ 10  W27 W40 W11 L1  W26 4.0
+  9 Yu, Owen               MEDDC65S   444   607/ 19  W60 W56 L6  W17 W18 4.0
+ 10 Kakarlapudi, Sreeram MuMEDD687Z   400   894/  5  W23 W33 W19 W6  L1  4.0
+ 11 Gattamneni, Viraj      OPWC934M   400   763/  5  W36 W44 L8  W24 W19 4.0
+ 12 Agarwal, Kavir         MEDD152U   706   714/ 14  WF  W41 W34 L2  D5  3.5
+ 13 Tsen, Eric             AGBCK18P   400   759/  4  D3  W26 W45 L5  WF  3.5
+ 14 Flores Uriegas, Andres HLYD159F   400   832/  5  W18 W17 D5  W30 L3  3.5
+ 15 Pleasants, Gabriel     THUC149G   400   720/  5  W21 L7  D29 W50 W32 3.5
+ 16 Pan, Harry             MEDDE67X   727   669/ 27  WF  L38 L23 W46 W30 3.0
+ 17 Bai, Brandon           SCDC725M   723   691/ 19  W47 L14 W51 L9  W41 3.0
+ 18 Shi, Enze              MEDD324X   605   611/ 32  L14 W47 W41 W34 L9  3.0
+ 19 Xiao, Luke             EASCC79Q   583   594/ 15  W53 W55 L10 W25 L11 3.0
+ 20 Shah, Arjun            CTNDC91S   562   553/ 19  L41 W39 W48 L26 W35 3.0
+ 21 Shang, Maxwell         MEDC292N   514   545/  9  L15 W52 L31 W40 W38 3.0
+ 22 Su, Oliver             JINCD01U   506   539/ 60  W49 W42 L4  W38 L6  3.0
+ 23 Balaji, Arjun          CMCCH75P   499   654/ 17  L10 W31 W16 W28 L7  3.0
+ 24 Ewaldsson, Aida        MEDDG73P   455   482/ 20  W55 W53 L1  L11 W42 3.0
+ 25 Sabarish, Ananya       BCACG02Z   515   550/ 18  W56 W50 L3  L19 W43 3.0
+ 26 Kuo, Kyle              CLHD916E   400   650/  5  W43 L13 W52 W20 L8  3.0
+ 27 Pham, Weston           OPWD538U   400   551/  5  L8  L6  W56 W51 W34 3.0
+ 28 Wang, Jayden           APOD697Z   400   558/  5  W58 L34 W44 L23 W33 3.0
+ 29 Fang, Weiai            BRBC696W   776   707/ 84  L38 W36 D15 L31 W46 2.5
+ 30 Gajera, Vian           UCICK12D   509   492/ 22  W59 W54 D32 L14 L16 2.5
+ 31 Li, Charles            CBEC999C   400   673/  4  D45 L23 W21 W29 LF  2.5
+ 32 Yu, Yanxi              MEDC577W   400   495/  4  W51 WF  D30 L3  L15 2.5
+ 33 Meshkova, Fiona        CSIC805R   400   417/ 13  U   L10 W50 W53 L28 2.0
+ 34 Xu, William            DCTCK93M   400   426/ 19  W42 W28 L12 L18 L27 2.0
+ 35 Kachachi, Cyrus        OPWC763G   400   400/  5  L4  W57 L2  W49 L20 2.0
+ 36 Partovi, Mazi          OPWDH69S   400   400/  5  L11 L29 W54 L41 W52 2.0
+ 37 Donohoe, Robin         LPZCJ28Z   400   400/  5  L1  L2  W55 L42 W53 2.0
+ 38 Bassen, Abel           BCXDZ72M   400   547/  5  W29 W16 L7  L22 L21 2.0
+ 39 Lai, Myles             BUSDD94Q   400   400/  5  L5  L20 L42 W44 W56 2.0
+ 40 Demco, Ethan           BEADH56W   400   400/  5  L6  L8  W59 L21 W57 2.0
+ 41 Pham, Sienna           OPWC599W   400   507/  5  W20 L12 L18 W36 L17 2.0
+ 42 Mangal, Aryan [eric]   OPWD455V   400   400/  5  L34 L22 W39 W37 L24 2.0
+ 43 Ge, Alex               SOMC908H   755   646/ 84  L26 L3  D46 W47 L25 1.5
+ 44 Gijare, Mitali         CNCCD78L   528   442/ 31  W54 L11 L28 L39 D48 1.5
+ 45 Marrugo, Emilio        OPWCE25J   400   433/  8  D31 W60 L13 LF  U   1.5
+ 46 Pham, Ethan            RCCCG35R   400   406/ 10  W57 L4  D43 L16 L29 1.5
+ 47 Kartaltepe, Megan      OPWCD89A   400   400/  5  L17 L18 W57 L43 D49 1.5
+ 48 Appel, Amy             OCSDB26E   400   406/  5  L2  L1  L20 W55 D44 1.5
+ 49 Yin, Hua               BASC192N   400   400/  4  L22 L51 BYE L35 D47 1.5
+ 50 Zhang, Amy             SOMCC03P   488   400/  9  LF  L25 L33 L15 W59 1.0
+ 51 Berjis, Adrina         MEDD230U   400   400/ 31  L32 W49 L17 L27 L55 1.0
+ 52 Satishkumar, Gautham   RCSDC88L   400   400/  5  L7  L21 L26 W60 L36 1.0
+ 53 Adjei, Sami Yaw        BUSC432C   400   400/  5  L19 L24 W60 L33 L37 1.0
+ 54 Srinivas, Sharav       RKWDI03B   400   400/  5  L44 L30 L36 L56 W60 1.0
+ 55 Sivanand, Raga         OPWCG97Z   400   400/  5  L24 L19 L37 L48 W51 1.0
+ 56 Zhang, Arwen           SOMD484A   400   400/  5  L25 L9  L27 W54 L39 1.0
+ 57 Ferzli, Claire         QAED350W   400   400/  5  L46 L35 L47 W59 L40 1.0
+ 58 Zou, Jinhan            SSMCH14T   494   459/ 11  L28 LF  U   U   U   0.0
+ 59 Michael, Sophia        ORAC704F   400   400/  5  L30 L5  L40 L57 L50 0.0
+ 60 Elali, Yasmeen         SCOD865X   400   400/  5  L9  L45 L53 L52 L54 0.0

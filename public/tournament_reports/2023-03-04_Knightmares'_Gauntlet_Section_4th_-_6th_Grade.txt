@@ -1,0 +1,28 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Choi, Hunter           EVGFE80A  1233  1260/208  W18 W12 W7  D6  W5  4.5
+  2 Prashant, Niranjan     SNIF468K  1323  1324/ 30  W14 W10 W4  L5  W6  4.0
+  3 Balayoghan, Keeran     SPTF477N  1296  1285/ 39  W17 W9  L5  W10 W11 4.0
+  4 Winter, Kayne          CSIFF38F  1215  1211/137  W19 W11 L2  W16 W12 4.0
+  5 Shah, Kanav            LMAE295Q  1166  1232/ 47  W20 W13 W3  W2  L1  4.0
+  6 Ngu, Elliott           CGRF452U   993  1032/ 90  W22 W26 W8  D1  L2  3.5
+  7 Tian, Eric             SOMEI80S  1106  1064/ 64  W21 W16 L1  L11 W14 3.0
+  8 Bounev, Alex           EVGFE90E  1024   969/ 97  L13 W21 L6  W22 W18 3.0
+  9 Kuruvilla, Milan       MEDF706J   977   948/116  W15 L3  W20 L12 W19 3.0
+ 10 Yang, Lucas            LKWEK86V   973   973/ 19  W23 L2  W19 L3  W20 3.0
+ 11 Peterson, Eric         EVGF365J   749   848/ 74  W24 L4  W13 W7  L3  3.0
+ 12 Phillips-acheson, SebasWOBG817T   726   781/209  W27 L1  W25 W9  L4  3.0
+ 13 Helmstetter, Andre     THUFK60F   534   681/ 85  W8  L5  L11 W26 W16 3.0
+ 14 Armstrong, Sebastian   CSIFB94H   705   730/ 75  L2  D22 W17 W18 L7  2.5
+ 15 Maragoud, Mukund       WEDFK91E   451   537/ 10  L9  W17 L16 W24 D22 2.5
+ 16 Roach, August          EVGF109M   715   697/139  W25 L7  W15 L4  L13 2.0
+ 17 Kalian, Illia          VIWEI13T   691   636/ 32  L3  L15 L14 W27 W25 2.0
+ 18 Mitra, Rishab          OPWE138L   663   645/142  L1  W23 W26 L14 L8  2.0
+ 19 Derleth, Sophia        EVGF326U   631   631/ 85  L4  W24 L10 W25 L9  2.0
+ 20 Takala, Greysen        VIWEE55T   584   590/ 24  L5  W27 L9  W23 L10 2.0
+ 21 Hedstrom, Parker       WEDE498Y   548   522/ 19  L7  L8  L22 BYE W24 2.0
+ 22 Metzmaker, Kyren       OPWE430W   525   573/128  L6  D14 W21 L8  D15 2.0
+ 23 Aker, Pepper           THUE181G   431   416/ 56  L10 L18 W27 L20 W26 2.0
+ 24 Kuo, Kimi              CLHF600H   400   315/  9  L11 L19 BYE L15 L21 1.0
+ 25 Dur, Harvey            PKWF643R   390   349/ 14  L16 BYE L12 L19 L17 1.0
+ 26 Zhou, Hannah           WEDEK83Q   166   143/  9  BYE L6  L18 L13 L23 1.0
+ 27 Thomson, Kaine         EVGGK53T   600   100/  4  L12 L20 L23 L17 BYE 1.0

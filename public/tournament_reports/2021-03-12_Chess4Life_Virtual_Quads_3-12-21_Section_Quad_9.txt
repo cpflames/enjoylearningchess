@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Stein, Samuel          HSCDH03T  1039  1061/121  W2  L4  W3  2.0
+  2 Kan, Kaleb             MMECF53E   988  1033/121  L1  W3  W4  2.0
+  3 Chevuri, Tattva        CBRDC06V  1042  1013/168  W4  L2  L1  1.0
+  4 Pravlik, Aiden         SHSB416H  1030  1004/142  L3  W1  L2  1.0

@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zusman, Dmitry         ADUNC70E  1300  1520/  5  W4  W2  W3  W5  W3  5.0
+  2 Barrera, Tino          ADUN6658   649   781/156  W5  L1  W4  W4  BYE 4.0
+  3 Swapnil, Palod         ADUN656X  1300  1016/  3  HPB W5  L1  BYE L1  2.5
+  4 Kuchhal, Pramil        ADUNI731   812   761/ 18  L1  BYE L2  L2  W5  2.0
+  5 Cummins, Paul          ADUNA76L  1300   400/  4  L2  L3  BYE L1  L4  1.0

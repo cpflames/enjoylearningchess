@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chaipellone, Teo       SHMKG88R   538   544/ 26  W4  L2  W3  2.0
+  2 Overhauser, Nolan      VSTG231S   449   491/ 21  L3  W1  W4  2.0
+  3 Dohner, Avery          BLHME74T   400   490/  6  W2  W4  L1  2.0
+  4 Lee, Joedon            VSTGH11A   400   400/ 14  L1  L3  L2  0.0

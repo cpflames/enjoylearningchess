@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Wei, James             MISKZ588  1858  1938/  6  W12 D18 W23 W3  W11 D2  5.0
+  2 Lu, Yiding             BASG865Z  1980  2004/238  W15 L11 W16 W9  W3  D1  4.5
+  3 Gavrish, Leonid        ADUN816H  1994  2001/ 15  W13 W10 W11 L1  L2  W8  4.0
+  4 Edwards, Derek         ADUN412C  2065  2069/  5  D8  D7  W10 HPB W17 D6  4.0
+  5 Bartron, Paul R        ADUNI325  2055  2054/  5  D21 L6  U   W20 W13 W11 3.5
+  6 Diamond, Colin         ADUN6531  1978  1993/ 47  D16 W5  D9  W17 L8  D4  3.5
+  7 Toppen-ryan, Harrison  ADUNK815  1948  1947/231  D9  D4  L13 D15 W10 WF  3.5
+  8 Wan, Bertrand          NPRLK421  1918  1945/224  D4  L9  W20 W12 W6  L3  3.5
+  9 Omori, Michael         ADON4258  2161  2141/321  D7  W8  D6  L2  HPB HPB 3.0
+ 10 Jammalamadaka, Vihaan  WPPFJ90F  1859  1877/325  W22 L3  L4  W16 L7  W17 3.0
+ 11 Gupta, Anand           ADUN7167  1828  1858/555  W17 W2  L3  W13 L1  L5  3.0
+ 12 Lazarte, Paul          ADUN853U  1873  1864/  6  L1  W23 L18 L8  W16 W15 3.0
+ 13 Karthikeyan, HarishkumaREJHJ81A  1826  1835/206  L3  HPB W7  L11 L5  W20 2.5
+ 14 Ackerman, Ryan         ADUNC514  2004  2007/201  HPB W21 U   U   D15 LF  2.0
+ 15 Nallabothula, Varin    REDJ457A  1815  1799/388  L2  BYE L17 D7  D14 L12 2.0
+ 16 Liu, Erik              INTK4861  1800  1776/378  D6  HPB L2  L10 L12 BYE 2.0
+ 17 June, Peter            ADUN9213  2006  1966/332  L11 W20 W15 L6  L4  L10 2.0
+ 18 Gross, Alexander       ROOJH741  1851  1871/134  U   D1  W12 U   U   U   1.5
+ 19 Leano, Bryan           MISNX38E  2086  2092/  5  W20 U   U   U   U   U   1.0
+ 20 Kona, Vidip            RSAEI26J  1935  1879/286  L19 L17 L8  L5  BYE L13 1.0
+ 21 Qian, Daniel           PFCL7807  1915  1910/299  D5  L14 U   U   U   U   0.5
+ 22 Wang, Ted              STTDK13D  1927  1910/217  L10 U   U   U   U   U   0.0
+ 23 Bailey, Daniel         ADUNF27H  1673  1656/  9  U   L12 L1  U   U   U   0.0

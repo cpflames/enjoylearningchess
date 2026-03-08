@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mukund, Anirudh        LAVFK18S   597   624/ 31  W4  W3  W2  3.0
+  2 Chen, Alex             DGHBK03T   100   444/  3  W3  W4  L1  2.0
+  3 Wang, Max              HSCAK03S   100   243/  3  L2  L1  W4  1.0
+  4 Chin, Emmeline         TLICK03Q   200   100/  3  L1  L2  L3  0.0

@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Friesen, Eli           PKRCK27G   100   763/  7  W17 W6  W18 W5  W2  5.0
+  2 Shah, Hridhaan         CBRD561Z   803   816/ 30  W19 W11 W10 W3  L1  4.0
+  3 Bhende, Shaurya        MMEDK24T   711   718/  9  W13 W15 W14 L2  W10 4.0
+  4 Kandar, Aarav          FISCK21U   200   706/  5  L11 W19 W7  W14 W9  4.0
+  5 Sabarish, Ananya       BCACG02Z   784   720/103  WF  L14 W11 L1  W15 3.0
+  6 Lew, Abigail           OPWC645P   669   650/ 65  W9  L1  W12 L10 W11 3.0
+  7 Byelashova, Darya      SGHCK51X   516   546/ 25  L10 W8  L4  W12 W14 3.0
+  8 Kachachi, Cyrus        OPWC763G   420   487/ 27  LF  L7  W17 W16 BYE 3.0
+  9 Xu, Derek              SSMCK24Q   387   431/  8  L6  BYE W16 W15 L4  3.0
+ 10 Ambardekar, Arjun      SXEDZ96E   330   493/ 12  W7  W18 L2  W6  L3  3.0
+ 11 Karanam, Aadya         CHKCK84K   447   477/ 28  W4  L2  L5  W13 L6  2.0
+ 12 Kakkar, Vikram         CDICK24Y   419   373/  8  L18 W17 L6  L7  BYE 2.0
+ 13 Li, Leo                MEDC545N   389   329/ 13  L3  L16 BYE L11 BYE 2.0
+ 14 Maibaum, Bryce         CSIC124D   362   449/ 19  W16 W5  L3  L4  L7  2.0
+ 15 Brittain, Elouise      DCTDK86Z   156   138/  8  WF  L3  WF  L9  L5  2.0
+ 16 Ramirez, Kane          WIWCJ72E   631   506/ 45  L14 W13 L9  L8  D17 1.5
+ 17 Singhal, Aryash        SYCD595L   507   429/ 26  L1  L12 L8  BYE D16 1.5
+ 18 Wishwas, Rishab        WMEDK91Q   724   661/ 33  W12 L10 L1  U   U   1.0
+ 19 Zhang, Jacquelyn       CNHCB01Y   445   420/ 12  L2  L4  LF  U   U   0.0

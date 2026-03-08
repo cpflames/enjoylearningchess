@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Love, Charles          SHMJ458N   968   955/ 21  W4  L3  W2  2.0
+  2 Kozaczuk, James        SHKG108A   903   906/ 46  W3  W4  L1  2.0
+  3 Richardson, Alexander  FERK217M   687   776/ 16  L2  W1  W4  2.0
+  4 Holley, Aiden          BLHM485Q   674   579/  6  L1  L2  L3  0.0

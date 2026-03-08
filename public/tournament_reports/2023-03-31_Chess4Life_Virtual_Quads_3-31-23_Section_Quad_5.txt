@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Downs, Cole            TLTIK65V  1173  1189/ 15  W3  W4  L2  2.0
+  2 Hochberg, David        INNK6075  1206  1213/306  W4  L3  W1  2.0
+  3 Li, Harry              SSSDG30G  1065  1125/265  L1  W2  W4  2.0
+  4 Syal, Yash             CDIEC10R  1100  1039/ 78  L2  L1  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Dai, Alex              CHRDC43N   838   974/ 15  W3  W4  W2  3.0
+  2 Pai, Vihaan            STVDK17C   930   936/ 26  W4  W3  L1  2.0
+  3 Taylor, Ryder          HSCI385C   853   827/ 81  L1  L2  W4  1.0
+  4 Sumanaseni, Evan       CNHF876D   729   679/143  L2  L1  L3  0.0

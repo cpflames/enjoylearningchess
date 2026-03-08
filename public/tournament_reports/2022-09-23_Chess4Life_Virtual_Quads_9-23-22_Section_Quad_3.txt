@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Amalo, Eliot           HSCI282X  1243  1304/ 77  W2  W4  D3  2.5
+  2 Zhu, Kevin             CSMD865U  1225  1253/309  L1  W3  W4  2.0
+  3 Xu, Zoe                SOMDG70A  1308  1293/161  W4  L2  D1  1.5
+  4 Zhang, Ethan Yichen    CRIFG57B  1182  1128/298  L3  L1  L2  0.0

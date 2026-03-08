@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sreraman, Rohit        BCACG92Q  1065  1198/122  W2  W3  W4  3.0
+  2 Hochberg, David        INNK6075  1081  1114/327  L1  W4  W3  2.0
+  3 Yin, Daniel            ISSL116Y  1102  1078/347  W4  L1  L2  1.0
+  4 Narkhede, Kshitij      CRKBA27K  1103  1031/ 66  L3  L2  L1  0.0

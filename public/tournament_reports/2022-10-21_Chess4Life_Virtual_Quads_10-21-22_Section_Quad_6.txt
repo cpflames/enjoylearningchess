@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yin, Daniel            ISSL116Y   975  1037/276  W4  W3  W2  3.0
+  2 Taylor, Ryder          HPTJ385C   908   920/224  W3  W4  L1  2.0
+  3 He, Oliver             CRICK71V   740   743/ 99  L2  L1  W4  1.0
+  4 Njonge, Jeremy         SNPJ100U   778   715/168  L1  L2  L3  0.0

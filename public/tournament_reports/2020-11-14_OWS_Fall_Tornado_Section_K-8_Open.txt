@@ -1,0 +1,64 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Jammalamadaka, Varnika OVLGD216  1671  1729/390  W11 W8  W7  W5  4.0
+  2 Metzmaker, Suya        OPWF364P  1578  1638/240  W24 W23 W10 W6  4.0
+  3 Suess, Wade            EVGF101D  1506  1588/204  W13 D4  W28 W29 3.5
+  4 Cheng, Edward          WMSIC74W  1713  1721/149  W30 D3  W27 W21 3.5
+  5 Vemparala, Nikash      BCAFI078  1741  1744/289  W31 W22 W9  L1  3.0
+  6 Li, Emma               LMSG521Q  1690  1690/287  W18 W21 W25 L2  3.0
+  7 Borate, Neel           REEE821E  1251  1378/157  W17 W46 L1  W30 3.0
+  8 Tang, Haosen           EPSFH941  1503  1517/175  W32 L1  W34 W26 3.0
+  9 Yang, Jingran          SCDF937V  1561  1577/136  W26 W19 L5  W24 3.0
+ 10 Liao, Wesley           EASGE49D   649   958/ 24  W36 W32 L2  W45 3.0
+ 11 Ying, Yiheng           MEDDE78K  1421  1431/197  L1  W35 W44 W27 3.0
+ 12 Han, Shuyi             SOMEK47W  1506  1498/203  L19 W39 W35 W25 3.0
+ 13 Razmov, Gabriel        LCNFC26K  1262  1292/ 61  L3  W49 W43 W31 3.0
+ 14 Urali, Sanjay          MEDD315D  1377  1399/214  L28 W50 W33 W22 3.0
+ 15 Vangala, Agastya       LMSIB39V  1236  1252/278  W53 L29 W47 W40 3.0
+ 16 Kwan, Joshua           EVGEI48N  1330  1348/132  L21 W48 W49 W23 3.0
+ 17 Tameling, Cole         UPAHK654  1367  1349/290  L7  W51 W58 W47 3.0
+ 18 Lee, Elliot            OPWFA70D  1400  1407/ 86  L6  W34 W41 D19 2.5
+ 19 Yadlapati, Arush       BLWGA47S  1304  1340/114  W12 L9  W52 D18 2.5
+ 20 Zhang, Michelle        MEDE889L  1347  1340/277  L22 W37 W48 HPB 2.5
+ 21 Scollon, Owen          LLLF734D  1513  1507/253  W16 L6  W54 L4  2.0
+ 22 O'brien, Hansol        MISFC908  1523  1503/236  W20 L5  W39 L14 2.0
+ 23 Schmidt-warnecke, Max  LMSI6188  1447  1421/162  W40 L2  W36 L16 2.0
+ 24 Liu, Yuntao            STTD505Y  1374  1373/196  L2  W41 W59 L9  2.0
+ 25 Westover, Charlotte    WMEE365V  1311  1378/227  W29 W28 L6  L12 2.0
+ 26 Roach, Stone           EVGF3342  1349  1336/173  L9  W33 W37 L8  2.0
+ 27 Gajcowski, Hannah Nami OPWFI10H  1202  1211/119  W56 W60 L4  L11 2.0
+ 28 To, Donovan            KMNG239L  1570  1537/221  W14 L25 L3  W50 2.0
+ 29 Meyerzon, Daniel       OMSHJ242  1467  1441/350  L25 W15 W55 L3  2.0
+ 30 Miller, Thomas         MEDF799Q  1389  1370/ 40  L4  W38 W50 L7  2.0
+ 31 Zhang, Ethan           STTD851S  1417  1406/195  L5  W45 W38 L13 2.0
+ 32 Siddem, Sid            RHJHC34V  1320  1294/258  L8  L10 W46 W59 2.0
+ 33 Vangala, Advaith       BLWF174X   805   922/278  W47 L26 L14 W54 2.0
+ 34 Iarovich, Shachar      CMCE122J  1097  1090/ 55  W57 L18 L8  W52 2.0
+ 35 Chickering, Daniel     OPWIK114  1042  1044/133  WF  L11 L12 W48 2.0
+ 36 Morehead, Nate         BUSEI54F  1038  1011/ 73  L10 W57 L23 W61 2.0
+ 37 Phillips-acheson, SebasWOBE817T   829   956/106  W54 L20 L26 W55 2.0
+ 38 Padwalkar, Jayden      OPWGI704  1036  1033/194  W43 L30 L31 W51 2.0
+ 39 Morris, Graham         HTNG1617  1156  1156/234  W62 L12 L22 W56 2.0
+ 40 Ma, Lucas              SOMF500S  1211  1178/264  L23 W58 WF  L15 2.0
+ 41 Hijirida, Tyler        MISIK358  1245  1219/101  W52 L24 L18 W49 2.0
+ 42 Michaels, Burke        MMMI3933  1015   994/ 62  LF  L43 W62 W53 2.0
+ 43 Lahue, Ihsan           GRRFJ69P   607   721/ 44  L38 W42 L13 D44 1.5
+ 44 Forrester, Gilbert     HTNGH03C   995   963/118  L60 W61 L11 D43 1.5
+ 45 To, Calvin             REEDI10D  1444  1373/255  D46 L31 W51 L10 1.5
+ 46 Choi, Hunter           EVGDE80A  1268  1241/122  D45 L7  L32 W62 1.5
+ 47 Surana, Archith        TYEHI18D   700   870/  4  L33 W56 L15 L17 1.0
+ 48 Veiga, Gabriel         ENSEJ31Y   768   800/ 31  W55 L16 L20 L35 1.0
+ 49 Long, Eli              OPWEI57G   624   620/ 32  WF  L13 L16 L41 1.0
+ 50 Supanc, Theo           SCDFH939   967   958/ 96  W63 L14 L30 L28 1.0
+ 51 Gupta, Pia             LMSFG41W   400   400/ 13  BYE L17 L45 L38 1.0
+ 52 Dai, Jeremy            SOMF264Z   527   523/ 27  L41 BYE L19 L34 1.0
+ 53 Ho, Jak                OPWH6259   838   804/ 29  L15 L55 W63 L42 1.0
+ 54 Chung, Connor          OPWE786L  1150  1077/ 48  L37 W62 L21 L33 1.0
+ 55 Schmidt, Oto           HTNGJ236  1053   987/123  L48 W53 L29 L37 1.0
+ 56 Behziz, Andy           SHSF505T   875   838/ 34  L27 L47 W57 L39 1.0
+ 57 Hijirida, Kyle         MISGH728   609   601/ 85  L34 L36 L56 W63 1.0
+ 58 Keene, Gregoire        OPWE217B   400   400/  2  WF  L40 L17 U   1.0
+ 59 Zhen, Hongren          KIMFC02Z  1025  1010/ 79  LF  W63 L24 L32 1.0
+ 60 Edwards, Sol           OVLGA99A   600  1075/  2  W44 L27 LF  U   1.0
+ 61 Michaels, Shepard      MMMGH900   683   661/ 49  LF  L44 BYE L36 1.0
+ 62 Kanaparthi, Kushal KartGRRGI76Y   837   797/ 31  L39 L54 L42 L46 0.0
+ 63 Huang, Melody          BCSEF40Y   400   400/  4  L50 L59 L53 L57 0.0

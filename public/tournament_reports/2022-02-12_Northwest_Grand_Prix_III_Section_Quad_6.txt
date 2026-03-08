@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Manly, Shafter         CUEDA72M   558   768/ 20  W2  W3  W4  3.0
+  2 King, Kael             FACIC08B   800   773/  3  L1  W4  W3  2.0
+  3 Celaya, Benito         SKYD505E   979   754/  6  W4  L1  L2  1.0
+  4 Larcom, Korbin         CIADJ87V   437   415/  9  L3  L2  L1  0.0

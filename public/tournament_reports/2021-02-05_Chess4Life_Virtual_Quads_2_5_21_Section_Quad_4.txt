@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Merriman, Dann         WMNBF79Y  1379  1432/352  W4  W2  W3  3.0
+  2 Yang, James            SSME123B  1248  1281/126  W3  L1  W4  2.0
+  3 Wang, Jacob            BLWDD74Y  1269  1250/ 78  L2  W4  L1  1.0
+  4 Dmitriev, Lyan         NPTD246H  1225  1171/257  L1  L3  L2  0.0

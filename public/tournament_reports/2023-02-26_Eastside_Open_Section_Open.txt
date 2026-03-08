@@ -1,0 +1,31 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kanz, Duane            ADUNA651  1823  1894/  5  W24 W10 W7  W2  D4  4.5
+  2 Gavrysh, Leonid        ADUN816H  1992  1995/ 31  W21 W9  W5  L1  W7  4.0
+  3 Baxter, Brent          ADUN647A  1906  1903/ 25  WF  D8  W15 D6  W11 4.0
+  4 Hosford, Michael J     ADUNF263  1966  1974/160  HPB W12 W8  HPB D1  3.5
+  5 Pisan, Kai             CHYJ404C  1800  1804/452  W25 BYE L2  D9  W16 3.5
+  6 Ren, Aaron             ENADG67B  1592  1670/134  W13 W14 HPB D3  D8  3.5
+  7 Reutter, Karl          ADUN3486  1814  1810/126  W26 W23 L1  W20 L2  3.0
+  8 Wong-godfrey, Emerson  BUSJH83E  1706  1717/471  W27 D3  L4  W13 D6  3.0
+  9 Tatikonda, Nihanth     CPJI926F  1700  1720/213  W22 L2  W23 D5  D14 3.0
+ 10 Lin, Michael           BASDC97F  1610  1624/296  W28 L1  D21 D18 W22 3.0
+ 11 Yondon, Odbayar        LMAEK97T  1697  1711/145  D29 D30 W12 W14 L3  3.0
+ 12 Ghosh, Gaurav          ADUNK60R  1300  1740/  5  W20 L4  L11 W30 W21 3.0
+ 13 Inouye, Matthew        ADUN8560  1137  1277/ 19  L6  BYE W24 L8  W20 3.0
+ 14 Lazarte, Paul          ADUN853U  1865  1829/ 11  W18 L6  W17 L11 D9  2.5
+ 15 Hyslop, Robert         ADUN155Z  1670  1657/  9  HPB W29 L3  D21 D18 2.5
+ 16 Zhang, Bohan           EPSKE54S  1660  1666/106  U   W25 D18 W28 L5  2.5
+ 17 Fondren, Chad          ADUN581H  1595  1588/ 22  D30 W19 L14 L22 W27 2.5
+ 18 Sankar, Abhay          NRCJ6545  1580  1595/399  L14 W22 D16 D10 D15 2.5
+ 19 Nallappa, Vijay        REJHD40S  1677  1626/363  L23 L17 D26 D29 W28 2.0
+ 20 Razmov, Gabriel        ADDHC26K  1614  1585/282  L12 W26 W30 L7  L13 2.0
+ 21 Tran, Nugen            CDZI455Z  1588  1593/371  L2  W27 D10 D15 L12 2.0
+ 22 Saddi, Neevan Reddy    GRRDH87M  1453  1450/130  L9  L18 BYE W17 L10 2.0
+ 23 Xiong, Michael         MEDE115A  1522  1532/259  W19 L7  L9  HPB HPB 2.0
+ 24 Zhou, Yuchen           CHRDJ42H  1561  1500/524  L1  D28 L13 L27 BYE 1.5
+ 25 Merriman, Dann         EREDF79Y  1539  1513/514  L5  L16 D27 D26 D29 1.5
+ 26 Meng, Miranda          OPWDH69P  1500  1485/106  L7  L20 D19 D25 D30 1.5
+ 27 Siddem, Sid            RHJJC34V  1519  1498/444  L8  L21 D25 W24 L17 1.5
+ 28 Cheng, Selina          THUF413R  1506  1487/445  L10 D24 W29 L16 L19 1.5
+ 29 Yuodelis, Kenneth      NPRJ3681  1483  1474/420  D11 L15 L28 D19 D25 1.5
+ 30 Wong, Kate             BCAE459M  1446  1450/133  D17 D11 L20 L12 D26 1.5

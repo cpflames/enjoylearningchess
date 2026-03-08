@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Singh, Rushil          SNEEB52N  1454  1470/ 53  L3  W4  W2  2.0
+  2 Upreti, Parthavi       TBKF754L  1485  1475/114  D4  W3  L1  1.5
+  3 Sinha, Agastya         HSCCA75C  1422  1426/ 66  W1  L2  D4  1.5
+  4 Mandhana, Avi          ESCI5824  1390  1380/111  D2  L1  D3  1.0

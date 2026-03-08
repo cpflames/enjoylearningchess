@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xie, Max               BLWGI185  1122  1237/189  W3  W2  W4  3.0
+  2 Ivanovic, Mina         UCDCH40V  1185  1196/283  W4  L1  W3  2.0
+  3 Dmitriev, Lyan         NPTD246H  1178  1144/199  L1  W4  L2  1.0
+  4 Condit, Noah           TLIFA59Q  1080   940/  6  L2  L3  L1  0.0

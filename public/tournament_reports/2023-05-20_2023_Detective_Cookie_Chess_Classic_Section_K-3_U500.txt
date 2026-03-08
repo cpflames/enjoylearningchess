@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Appineni, Arnav        CHKDG26A   793   836/ 15  W20 W13 W11 W9  W5  5.0
+  2 Vallela, Likhith Reddy DHLCK17S   191   294/  9  L9  W21 W20 W19 BYE 4.0
+  3 Nagpal, Ronen          WMEDK13Q   300   531/  5  L15 W20 W14 W12 W10 4.0
+  4 Lawardy, Clayton       BRTBK13P   100   609/  5  W6  W12 L9  W18 W11 4.0
+  5 Guo, Tristen           THUDK13M   300   523/  5  D16 W17 W10 W15 L1  3.5
+  6 Razmov, Siana          HZFAK93Y   282   298/ 39  L4  W16 W23 L10 W19 3.0
+  7 Wadhwani, Ren          ORACK13K   200   399/  5  W14 L10 W17 L11 W15 3.0
+  8 Huang, Bryan           BASCK13J   200   221/  4  L17 BYE L15 W16 W14 3.0
+  9 Ericson, Harvey        DCCFK14F   381   620/  5  W2  W15 W4  L1  U   3.0
+ 10 Wong, Eric             DCCCK13H   200   433/  5  W19 W7  L5  W6  L3  3.0
+ 11 Littlefield-davis, SebaTHUDK13G   300   476/  5  W21 W18 L1  W7  L4  3.0
+ 12 Adane, Biniyam         THUCK13F   200   361/  5  W22 L4  W21 L3  W18 3.0
+ 13 Balchandani, Akira     PKRAF67P   417   380/ 40  W23 L1  L18 W17 HPB 2.5
+ 14 Lew, Theodore          OPWAK28X   384   295/ 19  L7  WF  L3  W23 L8  2.0
+ 15 Han, Kaiyi             SOMAK42P   338   347/ 15  W3  L9  W8  L5  L7  2.0
+ 16 Williams, Jesseray     DCCDK16V   100   130/ 10  D5  L6  D19 L8  W23 2.0
+ 17 Michael, Sophia        DCCC704F   100   164/ 19  W8  L5  L7  L13 W21 2.0
+ 18 Route-brooks, Sir VontrDCCDK13E   300   213/  4  WF  L11 W13 L4  L12 2.0
+ 19 Goolla, Devansh        DHLBK16Z   100   100/ 10  L10 W22 D16 L2  L6  1.5
+ 20 Timmons, Tea           DCCDK16M   100   100/  9  L1  L3  L2  L21 BYE 1.0
+ 21 Diaz, Aurelio          DCCAK13C   100   100/  5  L11 L2  L12 W20 L17 1.0
+ 22 Wright, Kameron        DCCBK13B   100   100/  2  L12 L19 BYE U   U   1.0
+ 23 Abdulbary, Ammar       DCCCK13A   200   100/  4  L13 WF  L6  L14 L16 1.0

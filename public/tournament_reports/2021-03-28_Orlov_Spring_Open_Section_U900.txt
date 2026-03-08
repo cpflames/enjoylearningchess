@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zhang, Melodie         SPTFE44K   895   996/ 80  W7  W3  W6  W2  W5  5.0
+  2 Nair, Ishan            FRWD670E   860   888/ 43  W4  W5  W3  L1  W6  4.0
+  3 Aldinger, Nikolai      WHRFG72F   603   650/ 19  W9  L1  L2  W7  W8  3.0
+  4 Yeh, Jasmine           WKEF995Y   518   530/ 21  L2  W8  L7  BYE W9  3.0
+  5 Zhang, Kevin           SPTC809Y   707   700/ 31  W8  L2  W9  D6  L1  2.5
+  6 Rahmani, Eliam         JUACG54P   400   664/  4  BYE W7  L1  D5  L2  2.5
+  7 Aldinger, Maksim       CSID227L   533   519/ 16  L1  L6  W4  L3  BYE 2.0
+  8 Fox, Nolan             HSCAE83K   581   518/ 16  L5  L4  BYE W9  L3  2.0
+  9 Bhatt, Rayaan          BCAC463U   400   400/  4  L3  BYE L5  L8  L4  1.0

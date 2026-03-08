@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Owen            FHVG995H   933   952/101  W2  W4  L3  2.0
+  2 Carpenter, Jonas       VSTI274G   868   917/ 21  L1  W3  W4  2.0
+  3 Mcfadden, Cameron      FERLI35S   945   909/ 40  L4  L2  W1  1.0
+  4 Kozaczuk, James        SHKG108A   878   861/ 37  W3  L1  L2  1.0

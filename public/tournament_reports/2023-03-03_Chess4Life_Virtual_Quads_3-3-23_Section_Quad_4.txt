@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Duseja, Ronit          SNEFA38H  1198  1225/139  D3  U   W2  1.5
+  2 Zhao, Dennis           OPWG525E  1240  1234/299  U   W3  L1  1.0
+  3 Joshi, Vyom            LEOHH81X  1189  1169/119  D1  L2  U   0.5

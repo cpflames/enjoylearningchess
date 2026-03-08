@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sembium, Aditi         BCACK25W   928   975/140  W4  W3  L2  2.0
+  2 Hawkins, Holden        TYEK383Z  1059  1060/456  L3  W4  W1  2.0
+  3 Wu, Dennis             SCDCJ54B   914   904/ 77  W2  L1  L4  1.0
+  4 Garg, Vihaan           CMCCJ10X   968   943/ 97  L1  L2  W3  1.0

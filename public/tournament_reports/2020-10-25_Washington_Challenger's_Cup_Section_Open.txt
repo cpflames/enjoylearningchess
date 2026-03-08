@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Shahinyan, David       ADINB96J  2564  2578/ 36  W8  W2  W11 W5  W6  5.0
+  2 Vijayakumar, Advaith   LEOI6655  2005  2055/246  W9  L1  W13 W11 W7  4.0
+  3 Leiva, Gianmarco GiusepADINY230  2466  2466/  7  W10 HPB D6  HPB W5  3.5
+  4 Tien, Sophie           LSSK6099  2017  2026/338  U   W15 W12 L6  W10 3.0
+  5 Johar, Mudit           SKNLH59G  1676  1732/ 93  W14 W7  HPB L1  L3  2.5
+  6 Bernadskiy, Vitaliy    ADUNK11H  2464  2460/ 21  HPB HPB D3  W4  L1  2.5
+  7 Vega, Isaac            ADONW943  1912  1897/ 98  HPB L5  W10 W8  L2  2.5
+  8 Wang, Felicity         LMSHJ02F  1642  1692/242  L1  W9  HPB L7  W13 2.5
+  9 Zhou, Leonardo         SHSFE293  1590  1611/136  L2  L8  BYE D13 W14 2.5
+ 10 Li, Edward             TMBG768S  1733  1743/252  L3  W14 L7  W12 L4  2.0
+ 11 Talukdar, Rohan        UNKMG44B  2402  2394/ 34  W15 W13 L1  L2  U   2.0
+ 12 Luo, Ethan             NPRK6190  1661  1659/190  L13 BYE L4  L10 W15 2.0
+ 13 Gottumukkala, Ananth   ADUNG432  1987  1948/304  W12 L11 L2  D9  L8  1.5
+ 14 Ramkumar, Aditya       ICSHI339  1693  1661/369  L5  L10 HPB W15 L9  1.5
+ 15 Seshadri, Sridhar      ADUNC121  1765  1718/ 29  L11 L4  HPB L14 L12 0.5

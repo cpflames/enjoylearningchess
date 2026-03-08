@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Amalo, Eliot           HSCH282X   827   855/ 21  W2  L3  W4  2.0
+  2 Taylor, Ryder          HSCI385C   827   855/ 84  L1  W4  W3  2.0
+  3 Sethi, Ivanka          STVDF96K   823   854/ 18  W4  W1  L2  2.0
+  4 Duseja, Ronit          TIMEA38H   835   752/ 54  L3  L2  L1  0.0

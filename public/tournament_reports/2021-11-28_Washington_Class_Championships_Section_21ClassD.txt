@@ -1,0 +1,18 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Sripada, Anisha        FNEFG76T  1373  1417/260  W16 L12 W6  D7  W10 W2  4.5
+  2 Yang, Arthur           ISBHN34Z  1233  1361/173  D6  W16 W15 W12 W4  L1  4.5
+  3 Smith, Andrew          ADUN6334  1190  1233/ 11  L12 BYE W13 L6  W16 W8  4.0
+  4 Lanka, Laasya          FNEDN394  1203  1337/ 19  W11 W5  W10 D8  L2  D7  4.0
+  5 Liu, Bichen            KKNFK00D  1431  1441/ 16  W7  L4  W9  W10 D8  D6  4.0
+  6 Mathur, Aashi          CRKG522S  1315  1362/246  D2  W13 L1  W3  W12 D5  4.0
+  7 Traynor, Zach          ADINY37C  1300  1418/  5  L5  W11 W14 D1  WF  D4  4.0
+  8 Kodarapu, Neev         JWEFW11X  1118  1190/131  BYE W15 D12 D4  D5  L3  3.5
+  9 Shah, Nisarg           ADUN537X  1300  1354/  6  W14 L10 L5  D11 W17 W12 3.5
+ 10 Sankrithi, Sarang      HSCCB11D  1374  1360/134  W17 W9  L4  L5  L1  W14 3.0
+ 11 Kakkad, Vayu           DCTBK50L  1311  1282/392  L4  L7  W17 D9  L14 W16 2.5
+ 12 Saloranta, Leo         IMSIB40A  1263  1261/128  W3  W1  D8  L2  L6  L9  2.5
+ 13 Iyer, Shashwat Pranav  CMCCC07W  1323  1236/ 50  L15 L6  L3  L16 BYE W17 2.0
+ 14 Vijayakrishnan, AchyuthPKRC646F  1271  1241/ 82  L9  W17 L7  L15 W11 L10 2.0
+ 15 Hedin, Kai             ADUNH29V  1300  1253/  4  W13 L8  L2  W14 LF  U   2.0
+ 16 Bharadwaj, Anish       ETSHI530  1235  1190/231  L1  L2  BYE W13 L3  L11 2.0
+ 17 Malugu, Sankalp        SHSCE95W  1248  1156/223  L10 L14 L11 BYE L9  L13 1.0

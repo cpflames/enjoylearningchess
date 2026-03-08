@@ -1,0 +1,36 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Summerfield, William   FAPHG77R  1665  1752/141  W21 W22 W18 W7  W4  5.0
+  2 Eksarevskiy, Albert    WPPI530Y  1701  1721/ 78  W30 D29 W8  W17 D6  4.0
+  3 Patankar, Vijay        KMNIC78Y  1692  1697/257  W25 L18 W19 W9  W10 4.0
+  4 Koppala, Sankalp       SKRHJ27H  1609  1665/114  W33 W12 W11 W6  L1  4.0
+  5 Shi, Gavin             ADDIH855  1584  1592/353  L22 W21 W23 W18 W11 4.0
+  6 Chan, Skylor T         OMSID18J  1831  1819/300  W19 W10 W16 L4  D2  3.5
+  7 Jammalamadaka, Varnika OVLID216  1784  1770/491  D13 W35 W29 L1  W17 3.5
+  8 Yu, Luke               PLKI676Z  1515  1542/ 78  D32 W24 L2  W22 W14 3.5
+  9 Kato, Erik             OMSIG89L  1556  1533/ 26  L26 W33 W34 L3  W24 3.0
+ 10 Scollon, Owen          FHVH734D  1533  1551/411  W34 L6  W20 W15 L3  3.0
+ 11 Khanolkar, Karan       KMNIK912  1532  1551/209  W31 W15 L4  W16 L5  3.0
+ 12 Cen, Evan              TYEHI97D  1507  1497/154  W28 L4  D22 D24 W25 3.0
+ 13 Sharma, Devansh        KMNIF88S  1436  1491/174  D7  L14 W35 W29 D15 3.0
+ 14 Tatikonda, Nihanth     CPJI926F  1712  1668/222  D24 W13 L17 W30 L8  2.5
+ 15 Routray, Nirmalya      INGHD06K  1647  1606/388  W20 L11 W26 L10 D13 2.5
+ 16 Han, Shuyi             TYEGK47W  1603  1572/311  BYE W26 L6  L11 D19 2.5
+ 17 Razmov, Gabriel        ADDHC26K  1602  1589/291  D35 W32 W14 L2  L7  2.5
+ 18 Yadlapati, Arush       EVJIA47S  1456  1466/191  W23 W3  L1  L5  D21 2.5
+ 19 Condit, Noah           KMDHA59Q  1453  1463/153  L6  W27 L3  W26 D16 2.5
+ 20 Belgau, Stephen        JFMHK76X  1343  1331/ 30  L15 W28 L10 D23 W31 2.5
+ 21 Koppala, Sambhav       SKRGG20G  1324  1345/111  L1  L5  W27 W34 D18 2.5
+ 22 Ramaswamy, Rishi       OMSIS63U  1200  1325/ 86  W5  L1  D12 L8  W30 2.5
+ 23 Mandhana, Aarav        KMNH434A   968  1071/ 50  L18 BYE L5  D20 W29 2.5
+ 24 Anandkumar, Haituka    RHJI238P  1434  1428/355  D14 L8  W31 D12 L9  2.0
+ 25 Fedorov, Vladimir      EVJIF17D  1379  1344/239  L3  L34 W33 W28 L12 2.0
+ 26 Fan, Alex              ENAII219  1199  1251/101  W9  L16 L15 L19 W32 2.0
+ 27 Gupta, Ishaan          INGI660Y  1182  1176/ 86  L29 L19 L21 BYE W34 2.0
+ 28 Stroud, Jeb            HSCHK22V  1072  1083/ 14  L12 L20 BYE L25 W35 2.0
+ 29 Krishnan, Advait       REJH570Q  1535  1487/126  W27 D2  L7  L13 L23 1.5
+ 30 Mathur, Aashi          PLKH522S  1392  1354/298  L2  D31 W32 L14 L22 1.5
+ 31 Kancherla, Rohan       PFCHC11M  1148  1160/310  L11 D30 L24 W35 L20 1.5
+ 32 Kosau, Mikhail         OMSHG08J  1139  1153/ 24  D8  L17 L30 W33 L26 1.5
+ 33 King, Miles            WSAIK48E  1321  1162/  8  L4  L9  L25 L32 BYE 1.0
+ 34 Bharadwaj, Anish       WPPII530  1177  1165/299  L10 W25 L9  L21 L27 1.0
+ 35 Bhaskara, Yash         ICSII539  1206  1162/265  D17 L7  L13 L31 L28 0.5

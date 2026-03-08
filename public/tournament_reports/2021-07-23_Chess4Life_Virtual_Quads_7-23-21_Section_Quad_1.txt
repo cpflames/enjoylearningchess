@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Ethan            SKNK4017  1645  1728/ 81  W4  W3  W2  3.0
+  2 Miller, Thomas         MEDF799Q  1620  1630/ 68  D3  W4  L1  1.5
+  3 Park, Sean             INTJ600E  1692  1671/108  D2  L1  D4  1.0
+  4 Wang, Daniel           LMSI8287  1691  1654/553  L1  L2  D3  0.5

@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Preiner, Oscar         MIEFI145  1364  1391/157  W6  W7  W10 W4  D3  4.5
+  2 Kuo, Tristan           KELG941B  1310  1273/255  HPB W5  L3  L7  W9  2.5
+  3 Rastogi, Atharv        APOD377H  1309  1316/ 35  L7  W9  W2  W10 D1  3.5
+  4 Choi, Hunter           EVGDE80A  1170  1176/137  W8  L10 W6  L1  W7  3.0
+  5 Edmond, Alec           CSIBH03G  1081  1105/ 91  D9  L2  D7  W8  W6  3.0
+  6 Smith, Jason           OHHK350D  1100  1038/ 87  L1  W8  L4  L9  L5  1.0
+  7 Smith, Lucas           OHMIK85U  1050  1135/135  W3  L1  D5  W2  L4  2.5
+  8 Sankrithi, Sarang      HSCBB11D  1024   970/ 82  L4  L6  W9  L5  L10 1.0
+  9 Shanmugam, Varsha      RBRBA12J  1022  1008/314  D5  L3  L8  W6  L2  1.5
+ 10 Kuo, Declan            RDSEE82L   973  1054/245  BYE W4  L1  L3  W8  3.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Condit, Theo           TLIAJ39C   781   844/ 30  W3  W4  W2  3.0
+  2 Ramkumar, Nethra       RBRD315Z   713   722/ 28  W4  W3  L1  2.0
+  3 Yun, Daniel            TPSC768W   604   584/ 30  L1  L2  W4  1.0
+  4 Fox, Nolan             HSCAE83K   400   400/  3  L2  L1  L3  0.0

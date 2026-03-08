@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Haritham, Shyam        BCWGG81P  1031  1153/ 78  W3  W2  W4  3.0
+  2 Stein, Samuel          HSCDH03T   998  1044/112  W4  L1  W3  2.0
+  3 Yu, Christopher        SPTG591U  1000   987/128  L1  W4  L2  1.0
+  4 Ramkumar, Siddharth    LMAEH50B  1078   995/149  L2  L3  L1  0.0

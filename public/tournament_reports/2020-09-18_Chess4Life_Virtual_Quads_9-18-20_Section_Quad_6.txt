@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ma, Justin             OVLHD33R  1224  1336/108  W3  W4  W2  3.0
+  2 Wang, William          SOMG534J  1254  1229/111  W4  L3  L1  1.0
+  3 Han, Matthew           BISH5262  1222  1204/222  L1  W2  L4  1.0
+  4 Kumarswamy, Adarsh     CHRF755Y  1219  1202/286  L2  L1  W3  1.0

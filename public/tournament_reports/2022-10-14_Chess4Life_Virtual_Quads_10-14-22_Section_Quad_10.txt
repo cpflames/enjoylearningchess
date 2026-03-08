@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bhushan, Ojash         XXXGJ69G   600  1003/  3  W2  W3  W4  3.0
+  2 Li, Rebecca            BCABJ62B   509   594/ 52  L1  W4  W3  2.0
+  3 Srivastava, Manya      FRWF758W   481   487/ 30  W4  L1  L2  1.0
+  4 Song, Oliver           HSCDF09J   559   484/ 20  L3  L2  L1  0.0

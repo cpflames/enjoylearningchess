@@ -1,0 +1,22 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Ramkumar, Nikhil       RBRE115E  1585  1624/144  W18 W11 W2  W4  W5  5.0
+  2 Rastogi, Atharv        APOE377H  1439  1460/ 65  W17 W3  L1  W7  W6  4.0
+  3 Mendoza, Oscar         OCHII229  1293  1322/252  W13 L2  W17 W9  W4  4.0
+  4 Shankaranand, Deeksha  EBSDI74Y  1032  1192/107  W6  W9  W5  L1  L3  3.0
+  5 Deng, Stanley          LECDK22E  1446  1416/173  W10 W12 L4  W8  L1  3.0
+  6 Wahi, Advait           BLWF661F  1181  1193/110  L4  W8  W14 W15 L2  3.0
+  7 Kane, Callan           CWHLB00E  1178  1173/177  L12 W18 W10 L2  W14 3.0
+  8 Repalle, Vibhav        LLMHK31L  1178  1171/ 76  W16 L6  W12 L5  W15 3.0
+  9 Piedra, Daniel         CWHMD502   967  1108/275  W14 L4  W11 L3  W17 3.0
+ 10 Esquivel, George       CWHLD456   904   976/221  L5  W16 L7  W19 W12 3.0
+ 11 Wahi, Lakshya          EVJI664Z  1265  1248/114  W19 L1  L9  W17 W18 3.0
+ 12 Parthasarathy, Adithya EBSFB74Z   965  1011/ 10  W7  L5  L8  W18 L10 2.0
+ 13 Bai, Kelin             PVEDD75J  1029   995/123  L3  L17 W16 L14 W19 2.0
+ 14 Padilla, Jose Arias    CWHJ888V  1084  1052/ 39  L9  W21 L6  W13 L7  2.0
+ 15 Luna Rocha, Sergio Jr  CWHJ3108   796   846/171  U   W20 W19 L6  L8  2.0
+ 16 Kane, Jarret           JMLIJ97S   824   810/102  L8  L10 L13 W21 BYE 2.0
+ 17 Hernandez, Marcelo     CWHJK986  1137  1093/152  L2  W13 L3  L11 L9  1.0
+ 18 Sofi, Zainab           CRIEI73E  1067   943/  8  L1  L7  W21 L12 L11 1.0
+ 19 Pan, David             MEDA330Y   804   710/  9  L11 BYE L15 L10 L13 1.0
+ 20 Hall, Preston          RRGH6381   862   828/ 89  U   L15 U   U   U   0.0
+ 21 Bonagofski, Brycen     RFPFF39A   812   750/ 73  U   L14 L18 L16 U   0.0

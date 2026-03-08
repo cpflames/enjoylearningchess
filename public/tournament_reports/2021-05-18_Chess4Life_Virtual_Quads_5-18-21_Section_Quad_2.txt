@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xie, Max               BLWGI185  1377  1360/257  W3  W2  L4  2.0
+  2 Edmond, Ivy            WWDDD81E  1133  1179/181  W4  L1  W3  2.0
+  3 Hawkins, Holden        TYEI383Z  1029  1044/290  L1  W4  L2  1.0
+  4 Zhang, Ethan           CLHEE87D  1207  1180/463  L2  L3  W1  1.0

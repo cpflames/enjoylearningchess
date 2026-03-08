@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bannister, Altair      EAGBK36Y   467   543/ 32  W2  W4  W3  3.0
+  2 Hildenbrand, Jace      TCEE722T   307   318/ 72  L1  W3  D4  1.5
+  3 Gardner, Andrew        CUEDK22Z   253   250/ 22  W4  L2  L1  1.0
+  4 Zhang, Nicole          RVPFZ942   330   269/ 15  L3  L1  D2  0.5

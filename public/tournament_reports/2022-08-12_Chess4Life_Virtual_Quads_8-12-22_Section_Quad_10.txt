@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Karthik, Sai           HSCA261S   506   639/ 25  W5  W4  W2  3.0
+  2 Vipin, Amol            RSAGB81R   517   540/ 21  W6  W3  L1  2.0
+  3 Kedia, Karan           CMCC874T   400   562/  3  W4  L2  W5  2.0
+  4 Schaudt, Parker        FAPC799V   417   400/ 87  L3  L1  W6  1.0
+  5 Rathee, Karandeep      LWODA57J   400   400/  3  L1  W6  L3  1.0
+  6 Kang, Minjae           XXXC318W   400   400/  5  L2  L5  L4  0.0

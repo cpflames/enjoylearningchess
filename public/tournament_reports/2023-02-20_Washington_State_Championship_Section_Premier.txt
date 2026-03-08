@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 tot 
+  1 Rozenfeld, Yevgeniy    ADUNC004  2068  2085/ 15  W3  D4  W8  W7  L5  W2  D6  W9  D10 6.5
+  2 Frantz, Joseph         ADUN596S  1959  2034/ 24  D5  W3  L6  W9  W10 L1  D4  W8  W7  6.0
+  3 Zhou, David            ADUN130N  2050  2062/ 26  L1  L2  W4  W6  W8  W9  L7  W10 W5  6.0
+  4 Liu, Austin            PLKI530J  2051  2053/329  W10 D1  L3  W8  D7  D5  D2  W6  D9  5.5
+  5 Bian, Erin             LMSHI91Y  1953  1984/182  D2  W6  W9  L10 W1  D4  W8  D7  L3  5.5
+  6 Kona, Vidip            RSAEI26J  1923  1942/306  D7  L5  W2  L3  D9  W10 D1  L4  W8  4.5
+  7 Wang, Ted              STTDK13D  1972  1955/237  D6  L9  W10 L1  D4  L8  W3  D5  L2  3.5
+  8 Lu, Yiding             BASG865Z  2018  1979/252  W9  W10 L1  L4  L3  W7  L5  L2  L6  3.0
+  9 Willy, Stephen         HSCHH17K  1994  1961/517  L8  W7  L5  L2  D6  L3  W10 L1  D4  3.0
+ 10 Pisan, Kai             CHYJ404C  1821  1800/448  L4  L8  L7  W5  L2  L6  L9  L3  D1  1.5

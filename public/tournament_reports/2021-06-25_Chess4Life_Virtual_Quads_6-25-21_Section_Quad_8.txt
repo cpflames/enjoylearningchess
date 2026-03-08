@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Domingos, Daniel       MEDJ374N   857  1016/  8  W3  W2  W4  3.0
+  2 Hochberg, David        SUEI6075   924   923/106  D4  L1  W3  1.5
+  3 Zhu, Kevin             CSMB865U   928   899/188  L1  W4  L2  1.0
+  4 Sridhar, Riya          AUDCG37Y   893   848/ 48  D2  L3  L1  0.5

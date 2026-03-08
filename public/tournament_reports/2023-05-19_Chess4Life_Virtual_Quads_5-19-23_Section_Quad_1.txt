@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Fonseca, Kenzo         WAVIA91R  1477  1494/117  U   D2  W3  1.5
+  2 Sinha, Agastya         BRHDA75C  1463  1483/173  W3  D1  U   1.5
+  3 Meng, Miranda          OPWDH69P  1435  1397/116  L2  U   L1  0.0

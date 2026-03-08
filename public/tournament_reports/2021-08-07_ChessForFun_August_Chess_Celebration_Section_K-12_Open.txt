@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Marcelia, David        CPBLK21F  1522  1605/ 47  W6  W2  W3  W4  D5  4.5
+  2 Bunch, Drew            BAIKG36D  1744  1706/104  W5  L1  D7  W3  D6  3.0
+  3 Winter, Gordon         MISKH31Y  1474  1470/ 36  W4  W7  L1  L2  BYE 3.0
+  4 Kandhare, Ojas         INTJJ90T  1230  1288/ 38  L3  BYE W5  L1  W7  3.0
+  5 Razmov, Gabriel        CSIFC26K  1474  1457/123  L2  W6  L4  BYE D1  2.5
+  6 Adams, Henry           GARKE729  1365  1368/ 85  L1  L5  BYE W7  D2  2.5
+  7 Borden, Hugh           IMSH596M  1227  1205/ 72  BYE L3  D2  L6  L4  1.5

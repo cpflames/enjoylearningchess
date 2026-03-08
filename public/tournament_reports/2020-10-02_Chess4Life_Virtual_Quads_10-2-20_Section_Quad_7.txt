@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tiwari, Prakhar        INGH785R  1080  1204/ 25  W4  W2  W3  3.0
+  2 Neff, Joel             ABEDF99X  1085  1066/154  W3  L1  L4  1.0
+  3 Vijayakrishnan, AchyuthPKRB646F  1067  1051/ 14  L2  W4  L1  1.0
+  4 Xie, Max               BLWGI185  1127  1097/183  L1  L3  W2  1.0

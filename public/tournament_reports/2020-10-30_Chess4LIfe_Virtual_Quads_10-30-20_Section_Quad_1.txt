@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jammalamadaka, Vihaan  BCADJ90F  1722  1737/256  W3  W4  D2  2.5
+  2 Kompella, Aditya       SKNJ549K  1625  1666/182  W4  W3  D1  2.5
+  3 Singh, Saket           DISH872S  1555  1530/151  L1  L2  WF  1.0
+  4 Devaraju, Sonia        OMSIK838  1591  1563/451  L2  L1  LF  0.0

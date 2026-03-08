@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bansal, Vivaan         EVJH452J  1060  1175/ 40  W3  W4  W2  3.0
+  2 Pravlik, Aiden         FRIC416H  1085  1055/208  L4  W3  L1  1.0
+  3 Dale, Luke             SMSIJ10P  1034  1011/ 11  L1  L2  W4  1.0
+  4 Nidamarthi, Nikhil     RSAC375J  1030  1014/ 67  W2  L1  L3  1.0

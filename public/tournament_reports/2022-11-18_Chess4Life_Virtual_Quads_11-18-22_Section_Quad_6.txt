@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Eric             BCAE803M  1000  1059/ 49  W2  W3  W4  3.0
+  2 Li, Chuling            CNHE567N   862   894/ 43  L1  W4  W3  2.0
+  3 Rackoff, Dylan         BLWF507J   755   761/182  W4  L1  L2  1.0
+  4 Yang, Michael          OPWFA16W   872   792/ 19  L3  L2  L1  0.0

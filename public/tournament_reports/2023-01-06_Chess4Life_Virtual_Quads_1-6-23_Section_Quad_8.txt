@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Ethan Yichen    CRIFG57B   963   985/331  W2  W4  L3  2.0
+  2 He, Oliver             CRICK71V   913   959/118  L1  W3  W4  2.0
+  3 Sreraman, Rahul        BCACJ42L   960   932/ 53  L4  L2  W1  1.0
+  4 Yin, Daniel            ISSL116Y   957   930/298  W3  L1  L2  1.0

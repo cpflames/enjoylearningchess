@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Cha, Samuel            BASEK18Z  1660  1681/175  W4  HPB HPB W2  W3  4.0
+  2 Merriman, Dann         WMNCF79Y  1526  1539/464  W5  W3  W6  L1  W4  4.0
+  3 Fan, Max               ISMI993P  1330  1353/ 31  W6  L2  W4  W5  L1  3.0
+  4 Vijayakrishnan, AchyuthPKRC646F  1310  1299/107  L1  W5  L3  W6  L2  2.0
+  5 Pai, Vihaan            STVCK17C  1194  1172/ 98  L2  L4  BYE L3  W6  2.0
+  6 Chen, Xinyan           SOMCI38B  1097  1043/ 13  L3  BYE L2  L4  L5  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Attuluri, Kaushik      INGJC628  1258  1307/311  D3  W4  W2  2.5
+  2 Li, Yiyang             BCAD700B  1258  1253/156  W4  D3  L1  1.5
+  3 Yang, James            SSME123B  1213  1196/138  D1  D2  L4  1.0
+  4 Zhang, Ethan           CLHEE87D  1206  1191/434  L2  L1  W3  1.0

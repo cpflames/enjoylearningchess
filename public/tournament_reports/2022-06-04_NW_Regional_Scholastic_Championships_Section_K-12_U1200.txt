@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Cao, Sean              TPSEA33Q  1105  1229/ 29  W7  W3  W4  W2  W5  5.0
+  2 Aelion, Aya            SWLGF21D  1119  1122/ 34  D6  W9  W3  L1  W8  3.5
+  3 Janson-kovalev, Artem  HREFU87S  1251  1203/ 40  W10 L1  L2  W9  W6  3.0
+  4 Kannapiran, Arnav      OPWD983P   831   838/ 59  W11 W5  L1  L6  W10 3.0
+  5 Joseph, Veronique      SJOCJ04S   897   859/ 61  W12 L4  D8  W11 L1  2.5
+  6 Wang, Evan             FRWB929Z   634   756/ 20  D2  D8  D7  W4  L3  2.5
+  7 Shaikot, Sabeer        ENSD147Q   630   648/103  L1  W12 D6  L8  W11 2.5
+  8 Karukonda, Mourya      HGMIH67C   800   807/  5  D9  D6  D5  W7  L2  2.5
+  9 Ge, Alex               CCDB908H   664   664/ 37  D8  L2  D10 L3  W12 2.0
+ 10 Yuan, Chen             ETSAJ15Z   526   538/ 26  L3  D11 D9  W12 L4  2.0
+ 11 Zou, Jinhan            SSMBH14T   514   494/ 10  L4  D10 W12 L5  L7  1.5
+ 12 Sabarish, Ananya       BCABG02Z   400   400/ 10  L5  L7  L11 L10 L9  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Daniel           LMSI8287  1748  1778/516  W3  W4  W2  3.0
+  2 Boulis, Christos       RHJHC84T  1642  1641/404  D4  W3  L1  1.5
+  3 Singh, Saket           DISH872S  1599  1588/179  L1  L2  W4  1.0
+  4 Neff, Caleb            ABEFG72N  1562  1540/268  D2  L1  L3  0.5

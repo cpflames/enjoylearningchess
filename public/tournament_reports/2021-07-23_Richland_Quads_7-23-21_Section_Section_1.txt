@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Deng, Lily             CJEH5007  1838  1852/303  W6  W5  W2  L3  W7  4.0
+  2 Melville, Derek        ADUN391C  1633  1732/ 13  W11 W7  L1  W8  W3  4.0
+  3 Doncaster, Cannon      RICLF79H  1603  1718/ 61  W10 W4  W7  W1  L2  4.0
+  4 Ebsch, Christopher     ADUNC65C  1743  1704/ 14  W9  L3  L8  W10 W5  3.0
+  5 Chung, Ethan           LIBE108U  1612  1618/293  W12 L1  W9  W6  L4  3.0
+  6 Palm, Caleb            LIBH919S  1477  1500/153  L1  W12 W11 L5  W8  3.0
+  7 Khalil, Tayseer        ADUN773K  1877  1829/ 41  W8  L2  L3  W9  L1  2.0
+  8 Scott, Dane            HSCL293V  1532  1532/ 36  L7  W11 W4  L2  L6  2.0
+  9 Rodriguez, Ruben       ADUNH39S  1439  1457/  8  L4  W10 L5  L7  W12 2.0
+ 10 Eberle, Cris           ADUN106R  1300  1397/  5  L3  L9  W12 L4  W11 2.0
+ 11 Deng, Stanley          CGMCK22E  1356  1303/132  L2  L8  L6  D12 L10 0.5
+ 12 Hernandez, Lucio       ADUN365Q  1301  1200/  8  L5  L6  L10 D11 L9  0.5

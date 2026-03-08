@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bandai, Yugo           MCECA31C  1036  1073/ 38  W2  W5  W4  W8  W3  5.0
+  2 Ting, Sophia           KSHCK64W   282   513/ 10  L1  W14 W13 W5  W8  4.0
+  3 Thanikonda, Kruti      RCSCK84W   616   724/ 15  W13 W7  D8  W4  L1  3.5
+  4 Lew, Abigail           OPWC645P   697   680/ 35  W16 W10 L1  L3  W9  3.0
+  5 Bautista, Alex         CWACE95L   481   528/ 10  W12 L1  W11 L2  W7  3.0
+  6 Thakur, Reeva          CWACD87W   400   435/ 18  W14 L8  W12 L7  W10 3.0
+  7 Siek, Peter            HMOCK62A   200   545/  5  W9  L3  W10 W6  L5  3.0
+  8 Wang, Evan             FRWC929Z   907   839/ 60  W11 W6  D3  L1  L2  2.5
+  9 Twombly-borst, Henry   CWACA01R   400   323/  9  L7  L12 W15 W14 L4  2.0
+ 10 Einarson, Finn         CWAB256K   400   373/ 16  W15 L4  L7  W12 L6  2.0
+ 11 Barnett, Emmeline      LCHBK61Y   100   219/  5  L8  W15 L5  D13 D14 2.0
+ 12 Meyer, Liam            STCAK61X   100   260/  5  L5  W9  L6  L10 W16 2.0
+ 13 Bautista, Max          CWACK61W   200   232/  5  L3  W16 L2  D11 D15 2.0
+ 14 Keiter, Jack           HSCAK61V   100   155/  5  L6  L2  W16 L9  D11 1.5
+ 15 Green, Jane            STCBK61U   100   100/  5  L10 L11 L9  W16 D13 1.5
+ 16 Farrens, Luke          STCAK61T   100   100/  5  L4  L13 L14 L15 L12 0.0

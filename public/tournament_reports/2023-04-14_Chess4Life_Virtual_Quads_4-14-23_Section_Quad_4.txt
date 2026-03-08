@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yun, Daniel D          BCABK87Z  1137  1157/265  L3  W2  W4  2.0
+  2 Taylor, Ryder          KAMJ385C  1070  1118/294  W4  L1  W3  2.0
+  3 Sreraman, Rohit        BCACG92Q  1116  1118/ 99  W1  D4  L2  1.5
+  4 Mcintyre, Isaac        ETSD466S  1150  1095/143  L2  D3  L1  0.5

@@ -1,0 +1,42 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Nallabothula, Varin    BCAH457A  1606  1675/308  W37 W10 W8  W4  W2  5.0
+  2 Devadithya, Hiruna     PFCH5494  1576  1602/583  W18 W5  W16 W3  L1  4.0
+  3 Cheng, Edward          WMSIC74W  1636  1640/135  W22 W6  W24 L2  W7  4.0
+  4 Chung, Ethan           LIBE108U  1503  1520/223  W31 W11 W12 L1  W10 4.0
+  5 Nallabothula, Vineesh  EBSE764Q  1287  1369/216  W13 L2  W26 W30 W11 4.0
+  6 Appalabattula, Samarth CSMFG06C  1302  1372/ 61  W34 L3  W17 W13 W14 4.0
+  7 Winter, Gordon         XXXKH31Y  1319  1414/ 10  W33 W25 W19 W24 L3  4.0
+  8 Lee, Elliot            OPWFA70D  1402  1411/ 77  W39 W21 L1  D12 W23 3.5
+  9 Malakapalli, Smaran    BCAG973C  1369  1368/ 72  L25 D15 W38 W27 W20 3.5
+ 10 Westover, Charlotte    WMEE365V  1254  1311/223  W29 L1  W25 W19 L4  3.0
+ 11 Tameling, Benton       LMSJ9987  1163  1230/306  W28 L4  W21 W15 L5  3.0
+ 12 Yadlapati, Arush       BLWGA47S  1236  1304/110  W40 W20 L4  D8  D19 3.0
+ 13 Kuchimanchi, Praharsh  BRHD414Z  1025  1172/ 74  L5  W37 W27 L6  W30 3.0
+ 14 Balaji, Arjun          EALJ4763  1231  1249/ 62  W35 L24 W32 W16 L6  3.0
+ 15 Xia, Yuchen            BLMHI52A  1328  1325/ 66  HPB D9  W18 L11 W25 3.0
+ 16 Senthil Kumar, KrishnapLMAI7364  1366  1349/296  W41 W38 L2  L14 W26 3.0
+ 17 Raj, Jayahari          PMIG227V  1216  1243/118  L19 W29 L6  W40 W24 3.0
+ 18 Zheng, Max             SOMED13T  1179  1195/ 67  L2  W34 L15 W35 W29 3.0
+ 19 Schaal, Elijah         HTRHM265  1513  1465/139  W17 W27 L7  L10 D12 2.5
+ 20 Luo, Brandon           TYEI6136  1425  1384/182  W26 L12 W22 D23 L9  2.5
+ 21 Iarovich, Shachar      CMCE122J   985  1097/ 51  W23 L8  L11 W31 D22 2.5
+ 22 Joshi, Arnav           CRKFJ24W  1222  1220/101  L3  W33 L20 W28 D21 2.5
+ 23 Vankamamidi, Advaith   EVJI193M  1252  1237/ 92  L21 W39 W28 D20 L8  2.5
+ 24 Aggarwal, Aadit        KKNHE722  1431  1387/348  W36 W14 L3  L7  L17 2.0
+ 25 Jewsbury, Keaton       BETF976Q  1103  1122/ 88  W9  L7  L10 W38 L15 2.0
+ 26 Vangala, Agastya       LMSIB39V  1197  1179/265  L20 W40 L5  W32 L16 2.0
+ 27 Parimi, Sandilya       PFCI914G  1246  1218/349  W32 L19 L13 L9  W41 2.0
+ 28 Balaji, Rishab         INGHD090  1014  1038/ 66  L11 W31 L23 L22 W39 2.0
+ 29 Kokati, Pranav         CHRF814P  1020  1046/115  L10 L17 W39 W37 L18 2.0
+ 30 Tameling, Cole         UPAHK654  1294  1223/276  L38 W41 W35 L5  L13 2.0
+ 31 Lu, Jacob              ENDFI11F  1153  1114/208  L4  L28 W33 L21 W40 2.0
+ 32 Medikurthi, Sanjana    BRHHK37G   995  1023/ 59  L27 W36 L14 L26 W37 2.0
+ 33 Neti, Pranav           PFCJ128D  1070  1015/ 93  L7  L22 L31 BYE D35 1.5
+ 34 Nedeltchev, Michael    STMI900M  1056  1007/123  L6  L18 D36 L39 BYE 1.5
+ 35 Vangala, Advaith       BLWF174X   892   880/264  L14 BYE L30 L18 D33 1.5
+ 36 Sood, Akul             SASH510U  1112  1052/104  L24 L32 D34 L41 W38 1.5
+ 37 Chang, Liam            KKNE5238  1201  1127/100  L1  L13 W41 L29 L32 1.0
+ 38 Jain, Tanya            PLKJ327W   796   823/ 37  W30 L16 L9  L25 L36 1.0
+ 39 Radke, Alex            LKDF1113  1115  1054/135  L8  L23 L29 W34 L28 1.0
+ 40 Li, Timothy            CRIEE29R   902   869/ 61  L12 L26 BYE L17 L31 1.0
+ 41 Narayan, Bhargav       CMCFD962  1098  1056/116  L16 L30 L37 W36 L27 1.0

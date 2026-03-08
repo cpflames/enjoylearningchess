@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mohan, Keshav          EGMGG24Z   776   828/ 20  W4  W3  D2  2.5
+  2 Leon, Nikhil           HSCC587T   702   711/ 29  L3  W4  D1  1.5
+  3 Pillai, Ravi           SHSCB70K   726   699/ 29  W2  L1  L4  1.0
+  4 Buado, Roman           BLWDI81U   699   680/ 36  L1  L2  W3  1.0

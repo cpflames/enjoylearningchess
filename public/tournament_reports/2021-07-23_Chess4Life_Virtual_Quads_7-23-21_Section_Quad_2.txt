@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jain, Arnav            OMSI7967  1484  1512/269  L3  W2  W4  2.0
+  2 Boulis, Christos       RHJHC84T  1585  1572/466  W4  L1  D3  1.5
+  3 Sangal Lopez, Dev      WOBE515J  1548  1542/213  W1  L4  D2  1.5
+  4 Kang, Ayaan            ENSDI60T  1464  1457/239  L2  W3  L1  1.0

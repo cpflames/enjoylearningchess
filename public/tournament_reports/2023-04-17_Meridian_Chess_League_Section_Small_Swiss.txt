@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lee, Rylan             MDIHG67J   408   524/ 11  W3  W4  W2  3.0
+  2 Lee, Jensen            MRDJ947B   530   516/ 20  W6  W5  L1  2.0
+  3 Miller, Aiden          MRDKK41B   250   368/  5  L1  W6  W5  2.0
+  4 Wright, Makayla        MRDLK32N   521   442/ 16  L5  L1  W6  1.0
+  5 Credle, Jamie          MRDKA99L   323   319/ 12  W4  L2  L3  1.0
+  6 Moskiou, Jaida         MRDKK20L  1000   100/  3  L2  L3  L4  0.0

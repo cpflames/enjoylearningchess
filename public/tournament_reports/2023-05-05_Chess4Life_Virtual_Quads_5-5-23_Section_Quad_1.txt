@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Siddem, Sid            RHJJC34V  1691  1720/468  W4  W3  W2  3.0
+  2 Meyerzon, Daniel       INTJJ242  1552  1555/400  D3  W4  L1  1.5
+  3 Saddi, Neevan Reddy    GRRDH87M  1516  1526/156  D2  L1  W4  1.5
+  4 Tiwari, Prakhar        TMBJ785R  1516  1469/ 81  L1  L2  L3  0.0

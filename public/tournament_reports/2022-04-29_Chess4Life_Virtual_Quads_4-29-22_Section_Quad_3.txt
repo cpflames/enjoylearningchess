@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sinha, Agastya         HSCCA75C  1343  1342/ 45  L3  W2  W4  2.0
+  2 Lechner, Liam          HSCH591P  1199  1240/ 33  W4  L1  W3  2.0
+  3 Aggarwal, Aadit        LEOIE722  1156  1219/430  W1  W4  L2  2.0
+  4 Bhaskara, Yash         WPPHI539  1254  1185/210  L2  L3  L1  0.0

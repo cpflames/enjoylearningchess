@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Joseph, Veronique      SJODJ04S  1198  1290/109  W10 W6  W3  L2  W4  4.0
+  2 Avula, Guru Harshith ReBRHD633Y  1220  1283/ 79  W9  W7  L4  W1  W6  4.0
+  3 Pai, Vihaan            CHADK17C  1284  1250/126  WF  W5  L1  L6  W10 3.0
+  4 Sriram, Aahan          BCADC03K  1295  1310/ 33  U   W11 W2  W5  L1  3.0
+  5 Edwin, Elijah          BCSCC24D  1145  1147/ 70  W11 L3  W7  L4  W12 3.0
+  6 Bates-callaghan, EmmettBCSDJ49J  1127  1155/ 15  W8  L1  W9  W3  L2  3.0
+  7 Jayadevan, Kunal       SCDC893P  1103  1097/ 61  W12 L2  L5  W8  W11 3.0
+  8 Narkhede, Kshitij      CRKBA27K   858   892/ 15  L6  D10 W12 L7  W9  2.5
+  9 Sembium, Aditi         BCACK25W   915   909/172  L2  W12 L6  W11 L8  2.0
+ 10 Cheruku, Adhrith       RCSD827Q   944   910/ 67  L1  D8  L11 W12 L3  1.5
+ 11 Jiang, Nathan          SCDDG71Q   898   873/ 74  L5  L4  W10 L9  L7  1.0
+ 12 Wright, William        PTFAB71M   809   738/ 33  L7  L9  L8  L10 L5  0.0

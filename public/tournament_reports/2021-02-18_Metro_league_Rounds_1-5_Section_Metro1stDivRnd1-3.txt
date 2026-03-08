@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Farny, Andreas         GARMD829  1844  1789/463  L7  L17 L11 0.0
+  2 King, George E         GARL1724  1484  1612/ 48  W8  W21 W12 3.0
+  3 Cobden, Graham         GARKK495  1540  1565/393  W6  W18 L13 2.0
+  4 Nakamoto, Andrew       GARLA961  1467  1453/168  W9  D22 L14 1.5
+  5 Adams, Henry           GARKE729  1263  1230/ 64  D10 L19 L15 0.5
+  6 Race, Adam             GARMB789  1465  1440/236  L3  L11 L16 0.0
+  7 Fiat, Ronan            GARL6448  1295  1343/ 34  W1  L12 L17 1.0
+  8 Teh, Logan             GARJH765  1260  1267/ 63  L2  D13 L18 0.5
+  9 Thomas-toth, Elek      GARMD11A  1200   400/  3  L4  L14 L20 0.0
+ 10 Hieb, Jonah            GARLF38P  1166  1149/ 13  D5  L16 L19 0.5
+ 11 Zhang, Eric            LSSJ8773  2204  2207/209  W16 W6  W1  3.0
+ 12 Tien, Sophie           LSSK6099  2038  2018/351  W17 W7  L2  2.0
+ 13 Peng, Brandon          LSSJA154  1824  1819/436  W18 D8  W3  2.5
+ 14 Szeto, Sophie          LSSJH023  1811  1801/307  D20 W9  W4  2.5
+ 15 Singh, Aditya          LSSL8559  1689  1695/462  W19 U   W5  2.0
+ 16 Lakshminarayanan, RishiLSSJD542  1675  1682/141  L11 W10 W6  2.0
+ 17 Peng, Patrick          LSSM6814  1599  1635/330  L12 W1  W7  2.0
+ 18 Black, Toby            LSSK9430  1507  1492/464  L13 L3  W8  1.0
+ 19 Vasisht, Ojas          LSSMB92U  1244  1291/ 40  L15 W5  W10 2.0
+ 20 Iyengar, Vishnu        LSSLA304  1348  1369/139  D14 U   W9  1.5
+ 21 Wynn, Scott            LSSMJ753  1675  1652/300  U   L2  U   0.0
+ 22 Iyengar, Varun         LSSLJ863  1309  1319/163  U   D4  U   0.5

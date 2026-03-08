@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Syal, Yash             SHSCC10R   544   760/ 12  W3  W2  W4  3.0
+  2 Chen, Christopher      SHSDA87H   642   688/ 63  W4  L1  W3  2.0
+  3 Garg, Vihaan           CCDAJ10X   730   683/ 36  L1  W4  L2  1.0
+  4 Leon, Nikhil           HSCC587T   626   551/ 46  L2  L3  L1  0.0

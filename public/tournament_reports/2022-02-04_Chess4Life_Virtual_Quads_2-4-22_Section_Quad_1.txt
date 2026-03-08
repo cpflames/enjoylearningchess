@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lin, Michael           BCACC97F  1507  1630/225  W2  W4  W3  3.0
+  2 Willy, Stephen         HSCGH17K  1898  1880/472  L1  W3  W4  2.0
+  3 Zhou, Yuchen           BCACJ42H  1487  1492/403  W4  L2  L1  1.0
+  4 Liu, Yuntao            STTE505Y  1552  1509/229  L3  L1  L2  0.0

@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wang, Derek            MEDCF70G  1199  1319/133  W5  W4  W2  W6  W3  5.0
+  2 Heider, Elena          NOVGC647  1055  1157/ 59  D8  W3  L1  W7  W4  3.5
+  3 Yun, Ted               SOMEF52H  1046  1112/ 71  W7  L2  W4  W8  L1  3.0
+  4 Fong, Adam             SKRH4377  1093  1075/167  W6  L1  L3  W5  L2  2.0
+  5 Tian, Grace            CRIDE89L  1012  1012/117  L1  W6  D7  L4  D8  2.0
+  6 Raje, Atharva          SLLGL432   973   985/101  L4  L5  W8  L1  W7  2.0
+  7 Alam, Adil             BCAFI15X  1386  1271/150  L3  W8  D5  L2  L6  1.5
+  8 Tan, Nathan            UCDB412Y   898   885/ 14  D2  L7  L6  L3  D5  1.0

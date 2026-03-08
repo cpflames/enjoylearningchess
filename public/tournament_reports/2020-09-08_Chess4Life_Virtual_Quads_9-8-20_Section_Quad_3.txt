@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yang, Jimmy            BCACG45S   802   847/ 15  W2  L4  W3  2.0
+  2 Dokka, Varnika         CRIHH33Y   875   889/101  L1  W3  W4  2.0
+  3 Shariff, Zain          NARHG81Q   745   744/ 23  W4  L2  L1  1.0
+  4 Singh, Aavir           REJI7910   896   851/ 77  L3  W1  L2  1.0

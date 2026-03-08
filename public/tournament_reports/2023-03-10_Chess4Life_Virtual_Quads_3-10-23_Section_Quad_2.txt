@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhou, Nathan           NJHG215X  1440  1471/ 54  W4  D2  W3  2.5
+  2 Miadowicz, Dominic     HSCIK88K  1375  1380/ 21  L3  D1  W4  1.5
+  3 Karri, Aditya          AUDEC55V  1433  1404/275  W2  L4  L1  1.0
+  4 Mcintyre, Isaac        ETSD466S  1326  1321/129  L1  W3  L2  1.0

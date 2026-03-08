@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Joshi, Vyom            LEOHH81X  1021  1067/ 41  D2  W4  W3  2.5
+  2 Welch, James           HSCHF53F   942   952/ 53  D1  W3  L4  1.5
+  3 Sembium, Aditi         BCACK25W   975   950/143  W4  L2  L1  1.0
+  4 Ginotra, Karman        RKWEB15D   960   939/ 39  L3  L1  W2  1.0

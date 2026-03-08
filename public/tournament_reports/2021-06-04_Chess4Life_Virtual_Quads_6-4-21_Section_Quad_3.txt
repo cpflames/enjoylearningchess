@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Alam, Adil             BCAFI15X  1352  1376/173  W4  W2  L3  2.0
+  2 Kamel, Yaseen          PFCID57L  1395  1408/ 99  W3  L1  W4  2.0
+  3 Xie, Max               BLWGI185  1344  1370/266  L2  W4  W1  2.0
+  4 Zhou, Yuchen           BCABJ42H  1366  1303/295  L1  L3  L2  0.0

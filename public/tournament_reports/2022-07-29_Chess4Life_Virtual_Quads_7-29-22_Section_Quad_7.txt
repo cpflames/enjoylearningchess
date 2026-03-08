@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Maheshwari, Vihaan     DGHI695W   905   993/ 68  D4  W2  W3  2.5
+  2 Ginotra, Karman        RKWDB15D   955   974/ 30  W3  L1  W4  2.0
+  3 Taylor, Ryder          HPTI385C   894   879/200  L2  W4  L1  1.0
+  4 Chaudhuri, Arihant     CHAC703E   936   883/ 99  D1  L3  L2  0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Shaikot, Sabeer        XXXD147Q   400   541/ 46  W3  D4  W2  2.5
+  2 Miller, Ryan           EGMIJ40V   477   478/  9  D4  W3  L1  1.5
+  3 Chaudhuri, Agnivesh    CHACB55V   489   454/ 37  L1  L2  W4  1.0
+  4 Pather, Sam            XXXGA60B   483   442/  9  D2  D1  L3  1.0

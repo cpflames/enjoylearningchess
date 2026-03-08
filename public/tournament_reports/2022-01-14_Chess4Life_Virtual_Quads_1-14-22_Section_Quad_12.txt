@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Maheshwari, Vihaan     DGHI695W   733   792/ 59  W3  W4  D2  2.5
+  2 Li, Moses              CDWCK26L   700   699/ 20  W4  L3  D1  1.5
+  3 Mills, Paxson          HSCFI32D   662   673/ 37  L1  W2  D4  1.5
+  4 Leon, Nikhil           HSCD587T   672   622/ 69  L2  L1  D3  0.5

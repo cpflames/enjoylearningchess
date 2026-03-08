@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Gao, Chenrui           EBSFK12A   953   978/ 42  W4  L2  W3  2.0
+  2 Evin, Terrick          EBSAC54L   947   982/ 11  W3  W1  L4  2.0
+  3 Sagar, Nikash          ELMFM801   951   925/ 66  L2  W4  L1  1.0
+  4 Ginotra, Karman        RKWDB15D   946   922/ 24  L1  L3  W2  1.0

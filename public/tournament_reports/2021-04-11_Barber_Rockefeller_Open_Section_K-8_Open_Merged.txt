@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Senthil Kumar, KrishnapTMBI7364  1405  1453/324  W4  W3  W2  W5  BYE 5.0
+  2 Siddem, Sid            RHJHC34V  1187  1272/286  WF  W5  L1  W4  W3  4.0
+  3 Tunuguntla, Sai SrithanEMDCK78V  1096  1148/134  W5  L1  W4  BYE L2  3.0
+  4 Ning, Winston          SCDCJ14W  1121  1110/110  L1  BYE L3  L2  W5  2.0
+  5 Tameling, Cole         UPAHK654  1339  1232/321  L3  L2  BYE L1  L4  1.0

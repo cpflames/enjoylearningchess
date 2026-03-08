@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bangard, Dhruv         TBKAK65D   385   685/  4  W5  W2  W4  3.0
+  2 Mishra, Angad          RKWDK70V   562   554/ 17  BYE L1  W5  2.0
+  3 Zhou, Evelyn           CHRCB89E   496   420/ 39  D4  L5  BYE 1.5
+  4 Srinivasa, Sanvi       TFEGK65T   232   278/  5  D3  BYE L1  1.5
+  5 Nabeel, Humza          HSCAK50Y   100   405/  3  L1  W3  L2  1.0

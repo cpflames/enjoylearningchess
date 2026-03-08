@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Garg, Vihaan           CCDAJ10X   592   707/ 15  W5  W6  W3  3.0
+  2 Senthilkumar, SiddhanthLMADG15U   433   617/ 48  W6  W4  W5  3.0
+  3 Sue, Maya              XXXHD64U   700   672/  3  W4  W5  L1  2.0
+  4 Kobayashi, Joe         XXXC119K   516   497/ 26  L3  L2  W6  1.0
+  5 Bours, Hugo            XXXEE48Y   400   400/  3  L1  L3  L2  0.0
+  6 Mitra, Rishab          OPWC138L   536   458/ 76  L2  L1  L4  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Duseja, Ronit          SNEFA38H  1049  1189/115  W2  W4  W3  3.0
+  2 Chien, Jeffrey         WPPFF41X  1112  1133/ 41  L1  W3  W4  2.0
+  3 Mahale, Saumit         CKNII34X  1111  1084/ 31  W4  L2  L1  1.0
+  4 Hawkins, Holden        TYEK383Z  1060   997/459  L3  L1  L2  0.0

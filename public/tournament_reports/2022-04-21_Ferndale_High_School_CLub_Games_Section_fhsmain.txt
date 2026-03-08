@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Trushkov, Max          FERJ616A  1428  1435/137  W2  L3  W5  2.0
+  2 Reyna, Frankie         FERME23L  1278  1279/ 22  L1  W4  W7  2.0
+  3 Stanley, Soren         FERL116S  1184  1233/ 37  W4  W1  U   2.0
+  4 Richardson, Alexander  FERK217M   760   826/ 31  L3  L2  W6  1.0
+  5 Witzel, Ben            FERN8369  1550  1521/244  U   U   L1  0.0
+  6 Darr-rehmert, Natalie  FERLK93U  1157  1106/ 86  U   U   L4  0.0
+  7 Kozaczuk, James        SHKG108A  1083  1068/ 79  U   U   L2  0.0

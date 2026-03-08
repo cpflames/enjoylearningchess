@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Ares             BMNCJ77J   790   905/ 70  W4  W3  W2  3.0
+  2 Mitra, Rahul           OPWFH53N   789   809/155  W3  W4  L1  2.0
+  3 Stein, Mary            HSCG624A   728   710/ 40  L2  L1  W4  1.0
+  4 Pillai, Ravi           SHSCB70K   699   632/ 32  L1  L2  L3  0.0

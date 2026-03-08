@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bunch, Drew            BAILG36D  1683  1691/122  W4  W2  W3  BYE W2  5.0
+  2 Wahi, Lakshya          EVJI664Z  1301  1306/129  W3  L1  BYE W3  L1  3.0
+  3 Kulkarni, Anika        ETSDK21E  1022  1003/ 71  L2  WF  L1  L2  BYE 2.0
+  4 Edwin, Elijah          BCSBC24D   992   991/ 25  L1  LF  U   U   U   0.0

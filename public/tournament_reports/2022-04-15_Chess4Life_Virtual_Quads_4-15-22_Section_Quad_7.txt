@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wong, Marlin           MTWII126  1032  1054/ 49  U   D2  W3  1.5
+  2 Deval, Anirudh         CGSIU16Y  1001  1031/ 66  W3  D1  U   1.5
+  3 Naenna, Patanin        SPLDQ28H  1002   950/113  L2  U   L1  0.0

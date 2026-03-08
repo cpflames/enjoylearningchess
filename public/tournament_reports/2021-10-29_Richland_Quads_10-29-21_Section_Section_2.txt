@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chung, Andrew          ADUN643D   867   882/ 11  W3  W2  BYE 3.0
+  2 Chung, Ian             LIBCG54U   509   610/ 37  W4  L1  W3  2.0
+  3 Ramirez, Kane          WIWCJ72E   400   400/  2  L1  BYE L2  1.0
+  4 Hernandez, Lucio       ADUN365Q  1200  1123/ 10  L2  U   U   0.0

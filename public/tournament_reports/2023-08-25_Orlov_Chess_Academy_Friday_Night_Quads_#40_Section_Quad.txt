@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Olson, Travis          ADUN8893  1829  1832/120  W3  W2  W4  3.0
+  2 Koripella, Dheeran     INGH610W  1349  1369/ 41  W4  L1  W3  2.0
+  3 Edwin, Elijah          BCSCC24D  1215  1215/132  L1  W4  L2  1.0
+  4 Ganesan, Vidur         RBRD940K  1116  1087/ 99  L2  L3  L1  0.0

@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Manly, Shafter         CUEDA72M   400   725/  2  D2  W3  BYE 2.5
+  2 King, Maddy            VSTHK93W   700   725/  2  D1  BYE W3  2.5
+  3 Lee, Joedon            VSTGH11A   400   400/  5  BYE L1  L2  1.0

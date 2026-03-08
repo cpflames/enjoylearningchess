@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ramkumar, Aditya       UNKCC38J   490   676/ 57  W3  W2  D4  2.5
+  2 Li, Chufei             CNHC389T   801   790/ 46  W4  L1  W3  2.0
+  3 Burns, Trent           HH2FZ945   717   650/  8  L1  W4  L2  1.0
+  4 Mangla, Atharv         GRRDK07C   657   532/  5  L2  L3  D1  0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hochberg, David        SUEK6075  1194  1211/285  W4  L3  W2  2.0
+  2 Zhu, Kevin             CSMD865U  1185  1204/337  W3  W4  L1  2.0
+  3 Nidamarthi, Nikhil     RSAD375J  1145  1128/135  L2  W1  L4  1.0
+  4 Wang, Eric             BCAE803M  1157  1137/ 60  L1  L2  W3  1.0

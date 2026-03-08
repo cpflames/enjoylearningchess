@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sharma, Parth          RSAFG29G   915   951/ 36  W4  L3  W2  2.0
+  2 Tian, Eric             SOMEI80S   923   954/ 42  W3  W4  L1  2.0
+  3 He, Oliver             CRICK71V   959   926/121  L2  W1  L4  1.0
+  4 Sreraman, Rahul        BCACJ42L   932   907/ 56  L1  L2  W3  1.0

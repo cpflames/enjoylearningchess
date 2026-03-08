@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Rapolu, Sai Tejasvi    BCAEG86E   661   686/126  U   W3  W2  2.0
+  2 Grigorenko, Yana       FRWBA39N   400   400/ 16  D3  U   L1  0.5
+  3 Chen, Nicholas         HSCFI22V   500   400/  2  D2  L1  U   0.5

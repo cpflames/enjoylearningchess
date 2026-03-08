@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Singh, Rushil          SNEEB52N  1158  1167/ 14  W3  L4  W2  2.0
+  2 Xie, Michael           BLWF549C  1139  1128/270  W4  D3  L1  1.5
+  3 Stein, Samuel          HSCEH03T  1033  1051/157  L1  D2  W4  1.5
+  4 Wang, Ares             MEDDJ77J  1059  1045/156  L2  W1  L3  1.0

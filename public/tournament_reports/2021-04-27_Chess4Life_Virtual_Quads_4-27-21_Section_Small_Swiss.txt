@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Taylor, Ryder          HSCH385C   683   727/ 18  W2  W5  D4  2.5
+  2 Yun, Daniel D          BCAAK87Z   517   585/ 15  L1  W4  W6  2.0
+  3 Jungmeisteris, Gordon  HSCCF88R   449   517/  9  L4  W6  W5  2.0
+  4 Bhardwaj, Nia          RKWDD47N   600   603/ 34  W3  L2  D1  1.5
+  5 Gujjar, Aditya         APOEE59Q   636   583/109  W6  L1  L3  1.0
+  6 Grigorenko, Yana       FRWBA39N   400   400/ 62  L5  L3  L2  0.0

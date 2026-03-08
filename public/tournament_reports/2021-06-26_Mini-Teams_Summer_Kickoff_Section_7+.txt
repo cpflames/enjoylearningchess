@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chi, Quentin           ADUN4243  1946  1998/384  W17 W23 W10 W6  W9  5.0
+  2 Tiglon, Bryce          ADUNG044  2498  2497/310  W20 W4  W5  D10 W11 4.5
+  3 Omori, Michael         ADIN4258  2141  2143/317  W12 W15 W13 W5  D4  4.5
+  4 Bunch, Drew            BAIKG36D  1705  1744/ 99  W18 L2  W16 W8  D3  3.5
+  5 Nagase, Masayuki       ADUNH570  2074  2078/744  W16 W9  L2  L3  W10 3.0
+  6 Yu, Justin             ADUN6029  1982  1952/336  W21 L13 W12 L1  W15 3.0
+  7 Hong, Eric             ADUNF08A  1958  1760/ 10  L9  L16 W21 W18 W17 3.0
+  8 Yu, Allistair          ADUNA019  1595  1608/270  L10 W22 W23 L4  W14 3.0
+  9 Zhang, Bohan           EVJIE54S  1464  1589/ 32  W7  L5  W14 W13 L1  3.0
+ 10 Malugu, Satyajit       ADUNC03N  2156  2139/ 10  W8  W14 L1  D2  L5  2.5
+ 11 Goodfellow, Robert     ADUN5699  1647  1627/470  L13 D21 W19 W17 L2  2.5
+ 12 Bablani, Akshay        ADUN8142  1526  1545/263  L3  W18 L6  W16 D13 2.5
+ 13 Cheng, Kairui          CPJI563X  1419  1513/ 77  W11 W6  L3  L9  D12 2.5
+ 14 Cheng, Edward          WMSIC74W  1700  1659/281  W22 L10 L9  W23 L8  2.0
+ 15 Guity, Walter          ADUND92T  1636  1557/ 10  W19 L3  L17 W22 L6  2.0
+ 16 Wang, Mark             LOJIW31V  1487  1498/191  L5  W7  L4  L12 W19 2.0
+ 17 Winter, Gordon         MISKH31Y  1451  1474/ 32  L1  W20 W15 L11 L7  2.0
+ 18 Chi, Isobel            LMSHC167  1238  1270/293  L4  L12 W20 L7  W23 2.0
+ 19 Yue, Kevin             ADUNE218  1124  1158/118  L15 BYE L11 W21 L16 2.0
+ 20 Guity, Alan            ADUNC23E  1623  1416/  9  L2  L17 L18 BYE D22 1.5
+ 21 Sankrithi, Siva        ADUNI948  1486  1450/ 17  L6  D11 L7  L19 BYE 1.5
+ 22 Wahi, Lakshya          EVJH664Z  1207  1206/ 64  L14 L8  BYE L15 D20 1.5
+ 23 Kakkad, Ravi           ADUNJ02S  1078  1062/ 30  BYE L1  L8  L14 L18 1.0

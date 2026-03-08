@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wilson, Eli            HCHHW976   596   718/106  D3  W4  W2  2.5
+  2 Kuluru, Samith         KKNFI99K   660   689/ 26  W4  W3  L1  2.0
+  3 He, Oliver             CRIBK71V   701   688/ 41  D1  L2  W4  1.5
+  4 Leon, Nikhil           HSCD587T   613   539/ 75  L2  L1  L3  0.0

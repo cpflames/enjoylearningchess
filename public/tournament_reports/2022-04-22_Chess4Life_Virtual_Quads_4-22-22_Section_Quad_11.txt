@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tan, Seth              UPPCE65L   747   840/ 23  W3  W4  D2  2.5
+  2 Kuluru, Samith         KKNFI99K   730   833/ 38  W4  W3  D1  2.5
+  3 Davis, Nathan          SFREJ66C   755   732/128  L1  L2  W4  1.0
+  4 Chaudhuri, Arihant     CHAC703E   764   682/ 73  L2  L1  L3  0.0

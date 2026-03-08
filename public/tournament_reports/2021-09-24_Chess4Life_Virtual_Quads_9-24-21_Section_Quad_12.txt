@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Taylor, Ryder          HSCI385C   773   804/ 72  U   W3  W2  2.0
+  2 Wong, Marlin           MTWII126   603   612/ 11  W3  U   L1  1.0
+  3 Iroha, Kenzo           HSCDI18X   553   509/ 26  L2  L1  U   0.0

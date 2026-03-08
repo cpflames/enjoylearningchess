@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Joshi, Vyom            LEOHH81X  1045  1115/ 80  W3  W5  W4  3.0
+  2 Jang, Jinwon           VIEF561P   677   788/ 12  W6  L3  W5  2.0
+  3 Fulton, Evan           TPSH352P   497   711/  8  L1  W2  W6  2.0
+  4 Edwin, Elijah          BCSCC24D  1159  1097/ 60  L5  W6  L1  1.0
+  5 Miura, Leo             MIEFK60V   815   822/ 58  W4  L1  L2  1.0
+  6 Tamanaha, Ryden        BLWF132N  1049   934/ 30  L2  L4  L3  0.0

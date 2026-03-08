@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Njonge, Jeremy         SNPJ100U   372   427/194  L2  W4  W3  2.0
+  2 Nabeel, Humza          HSCAK50Y   405   460/  6  W1  L3  W4  2.0
+  3 Devlin, Austin         OSEFK25F   492   432/ 27  L4  W2  L1  1.0
+  4 Rogovoy, Alexander     XXXEK14Y   400   308/  3  W3  L1  L2  1.0

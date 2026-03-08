@@ -1,0 +1,13 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Scollon, Owen          FHVH734D  1539  1566/396  W5  W4  W2  W3  W6  5.0
+  2 Zhang, Owen            FHVH995H  1288  1294/205  W11 W6  L1  W7  W5  4.0
+  3 Bosch, Declan          FHVIE38K  1184  1204/ 49  W12 W7  W4  L1  W8  4.0
+  4 Kozaczuk, James        SHKH108A  1109  1104/128  W8  L1  L3  W9  W7  3.0
+  5 Moors, Samuel          BLNIH93D   692   834/ 33  L1  W8  W11 W6  L2  3.0
+  6 Lewis, Kaleb           WCAHF41Z  1071  1029/ 20  W9  L2  W10 L5  L1  2.0
+  7 Hildenbrand, Blane     PSMH122V   776   798/119  W10 L3  W9  L2  L4  2.0
+  8 Mcloughlin, Latham     HORIK35F   800   741/  5  L4  L5  W12 W10 L3  2.0
+  9 Fowler, Logan          LYMHK35E   700   671/  5  L6  W11 L7  L4  W12 2.0
+ 10 Williams, Conner       LYMHK35D   700   597/  5  L7  W12 L6  L8  W11 2.0
+ 11 Clarke, Jonathan       BLNIG05B   484   467/ 11  L2  L9  L5  W12 L10 1.0
+ 12 Belyatskiy, Artem      VSTG764W   465   395/ 27  L3  L10 L8  L11 L9  0.0

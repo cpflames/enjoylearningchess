@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sangal Lopez, Dev      WOBE515J  1329  1391/141  W4  W3  D2  2.5
+  2 Xing, Henry            LKDF3704  1316  1323/301  L3  W4  D1  1.5
+  3 Han, Matthew           BISH5262  1358  1333/249  W2  L1  L4  1.0
+  4 Karri, Aditya          AUDDC55V  1345  1323/ 82  L1  L2  W3  1.0

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kim, Matthew           RKWEK88G   400  1159/  3  W3  W5  W2  3.0
+  2 Jang, Jinwon           VIEF561P   753   773/ 21  W5  W4  L1  2.0
+  3 Kang, Jeremiah         SSCCK88F   200   877/  3  L1  W6  W4  2.0
+  4 Xu, Ethan              BENDK98S   708   623/  9  W6  L2  L3  1.0
+  5 Schaudt, Parker        FAPD799V   399   411/102  L2  L1  W6  1.0
+  6 Wilson, Alexander      VIEEH91F   302   260/ 18  L4  L3  L5  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kumar, Yudhish         SPTG354M  1367  1440/ 63  W3  W2  W4  3.0
+  2 Zhang, Ethan (yichen)  CRIDG57B  1220  1284/138  W4  L1  W3  2.0
+  3 Bhattacharjee, ArchishmBLWEA45Y  1276  1264/100  L1  W4  L2  1.0
+  4 Zhang, Aaron           CCDD873R  1368  1294/332  L2  L3  L1  0.0

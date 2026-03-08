@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Merriman, Dann         WMNBF79Y  1432  1502/358  W3  W2  W4  3.0
+  2 Zhou, Yuchen           BCABJ42H  1364  1390/240  W4  L1  W3  2.0
+  3 Sangal Lopez, Dev      WOBE515J  1360  1345/147  L1  W4  L2  1.0
+  4 Jha, Siddhant          SSMGG46N  1372  1313/295  L2  L3  L1  0.0

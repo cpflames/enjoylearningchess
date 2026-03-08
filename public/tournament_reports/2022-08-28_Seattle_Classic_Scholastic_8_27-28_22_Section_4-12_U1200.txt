@@ -1,0 +1,20 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Yang, Yuchang          ILCEK16L  1165  1197/ 73  W14 L2  W13 W16 W4  4.0
+  2 Huang, Ever Sun        INGH313Y   874  1349/  8  W5  W1  D6  D11 W8  4.0
+  3 Wakeman, Oliver        INLJG10Y   801  1080/ 51  W12 W13 L5  W7  W6  4.0
+  4 Black, Stas            BCAD368F  1042  1064/ 68  W10 W19 W16 D6  L1  3.5
+  5 Amalo, Eliot           HSCH282X  1185  1184/ 71  L2  W14 W3  L8  W11 3.0
+  6 Veiga, Gabriel         ENSFJ31Y  1146  1151/108  W15 W9  D2  D4  L3  3.0
+  7 Chatterjee, Sasmit     RHJGH23M  1126  1104/ 33  L9  W15 W10 L3  W16 3.0
+  8 Chowdhary, Shivam      CMCGD47H  1074  1072/ 54  L16 W18 W17 W5  L2  3.0
+  9 Balaji, Sidharth       EVJGC22H   834   976/ 19  W7  L6  L11 W12 W14 3.0
+ 10 Shaikot, Sabeer        ENSE147Q   773   923/124  L4  W12 L7  W18 W13 3.0
+ 11 Vashisht, Aneesh       LKWDC30Y  1138  1114/ 65  W18 L16 W9  D2  L5  2.5
+ 12 Boulanger, Valentin    CMMEB07H  1072   988/ 30  L3  L10 W19 L9  BYE 2.0
+ 13 Heider, Elena          NOVHC647  1040   978/134  W17 L3  L1  W19 L10 2.0
+ 14 Kossuri, Neil          KKNE696L   917   904/ 37  L1  L5  W15 W17 L9  2.0
+ 15 Ramanathan, Hamsini    OPWGH41M   909   872/ 34  L6  L7  L14 BYE W18 2.0
+ 16 Seshadri, Vindhya      GTMG953Y   812   898/ 38  W8  W11 L4  L1  L7  2.0
+ 17 Mehrotra, Ashank       PLKH457S   421   421/ 20  L13 BYE L8  L14 W19 2.0
+ 18 Deng, Alison           MEDEC56H   904   822/ 53  L11 L8  BYE L10 L15 1.0
+ 19 Ahuja, Arjun           SSMED68G   400   400/  7  BYE L4  L12 L13 L17 1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yun, Daniel D          BCABK87Z  1247  1262/284  L3  W4  W2  2.0
+  2 Duseja, Ronit          SNEFA38H  1209  1234/162  W4  W3  L1  2.0
+  3 Joshi, Vyom            LEOHH81X  1201  1228/168  W1  L2  W4  2.0
+  4 Sreraman, Rohit        BCACG92Q  1208  1141/143  L2  L1  L3  0.0

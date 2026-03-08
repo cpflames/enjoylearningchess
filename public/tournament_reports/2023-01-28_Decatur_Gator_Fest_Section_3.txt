@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Pai, Vihaan            CHADK17C  1251  1309/132  W4  W6  W3  W5  D2  4.5
+  2 Sankrithi, Sarang      HSCDB11D  1195  1204/191  W20 W8  D11 W7  D1  4.0
+  3 Bates-callaghan, EmmettBCSDJ49J  1155  1185/ 20  W21 W12 L1  W11 W5  4.0
+  4 Jones, Maximillian     BFDDK87K   300   918/  5  L1  W10 W18 W12 W9  4.0
+  5 Chaudhuri, Arihant     CHAD703E  1130  1120/154  W13 W9  W6  L1  L3  3.0
+  6 Xu, Yang               CNCD649B  1086  1083/ 35  W14 L1  L5  W10 W11 3.0
+  7 Nelson, Ellis          BRYDB28C   753   760/ 24  W15 L11 W13 L2  W16 3.0
+  8 Winter, Bowen          NBED948E   681   659/ 41  W16 L2  W21 L9  W14 3.0
+  9 Chen, Max Y            DISDK76L   424   547/ 15  W22 L5  W16 W8  L4  3.0
+ 10 Lu, Quinton            WEDDK91U   337   465/ 10  W18 L4  W19 L6  W15 3.0
+ 11 Zhang, Zhibo           SOMD674X  1198  1150/ 72  W19 W7  D2  L3  L6  2.5
+ 12 Schultz, Theodore      WEDDK91Y   518   526/ 10  W17 L3  W15 L4  D18 2.5
+ 13 Newell, Benjamin       THODK87J   300   366/  5  L5  W22 L7  L16 W21 2.0
+ 14 Bosse, Odin            DCTDK87H   300   323/  5  L6  L18 W17 W20 L8  2.0
+ 15 Srishankar, Suryaa     FRWDK87F   300   332/  5  L7  W19 L12 W21 L10 2.0
+ 16 Gowda, Aarav           THODK87E   300   403/  5  L8  W20 L9  W13 L7  2.0
+ 17 Vaughan, Jude          DCTDK87D   300   171/  5  L12 L21 L14 W22 W20 2.0
+ 18 Soriano-ghelani, Samir DCTDK87C   300   366/  5  L10 W14 L4  D19 D12 2.0
+ 19 Newell, Jonathan       THODK87B   300   205/  5  L11 L15 L10 D18 W22 1.5
+ 20 Eliason, Sebastian     BFDDK87A   300   100/  5  L2  L16 W22 L14 L17 1.0
+ 21 Brittain, Elouise      DCTDK86Z   300   156/  5  L3  W17 L8  L15 L13 1.0
+ 22 Mao, Linyue            DCTDK86Y   300   100/  5  L9  L13 L20 L17 L19 0.0

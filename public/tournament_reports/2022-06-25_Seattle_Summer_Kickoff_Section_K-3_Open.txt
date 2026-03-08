@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Liu, Vincent           ILAD546Q  1510  1510/145  W3  D5  W2  W4  D7  4.0
+  2 Gadde, Arnav           ENSDJ39D  1469  1477/ 86  W7  W4  L1  W3  W5  4.0
+  3 Li, Edgar              OPWB883Y  1214  1259/ 91  L1  W6  W5  L2  BYE 3.0
+  4 Zhang, Zhibo           CCDC674X   983  1089/ 41  BYE L2  W7  L1  W6  3.0
+  5 Chua, Zachary          BCXDX45T   400  1268/  4  W6  D1  L3  BYE L2  2.5
+  6 Sankrithi, Sarang      HSCCB11D  1328  1250/167  L5  L3  BYE W7  L4  2.0
+  7 Black, Stas            BCAD368F  1060  1042/ 63  L2  BYE L4  L6  D1  1.5

@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nidamarthi, Nikhil     RSAC375J   649   749/  8  W2  W3  U   2.0
+  2 Leon, Nikhil           HSCD587T   663   669/ 57  L1  U   W3  1.0
+  3 Dalal, Raahi           CNHD949K   713   645/ 31  U   L1  L2  0.0

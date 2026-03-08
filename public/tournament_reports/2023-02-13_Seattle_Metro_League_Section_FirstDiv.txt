@@ -1,0 +1,40 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Cheng, Edward          GARKC74W  1815  1831/418  W6  W27 W19 W33 L13 4.0
+  2 Adams, Henry           GARME729  1617  1696/117  W7  W28 W20 W34 W14 5.0
+  3 Cobden, Graham         GARMK495  1516  1516/414  W8  W29 L21 U   L15 2.0
+  4 Teh, Logan             GARLH765  1463  1544/104  W9  W30 W22 W35 W16 5.0
+  5 Schmeichel, Trevor     GARK3868  1212  1187/155  L10 W31 W23 W36 L17 3.0
+  6 Huang, Jason           GARJK89Y  1012  1017/ 15  L1  L13 L25 W37 L33 1.0
+  7 Ameha, Abel            GARLJ16V  1033  1033/  9  L2  L15 U   U   U   0.0
+  8 Cole, Reece            GARJ3567  1097  1061/131  L3  L16 U   U   L35 0.0
+  9 Yagi, Cole             GARK640Z   803   803/  4  L4  U   U   U   U   0.0
+ 10 Albright, Finn         GARME56P   826   949/  8  W5  U   L28 U   W36 2.0
+ 11 Nielsen, Will          GARMK67W  1200   719/  3  U   L17 L27 U   L38 0.0
+ 12 Farny, Soren           GARLJ587  1290  1258/403  U   L18 W26 U   L34 1.0
+ 13 Zhang, Eric            LSSL8773  2214  2208/224  D18 W6  W33 W26 W1  4.5
+ 14 Tien, Sophie           LSSM6099  2001  1970/380  W19 U   D34 U   L2  1.5
+ 15 Xuan, Owen             LSSJ5792  1921  1940/271  W20 W7  W35 W27 W3  5.0
+ 16 Wang, Felicity         LSSJJ02F  1816  1790/295  L21 W8  W37 W28 L4  3.0
+ 17 Wang, Daniel           LSSK8287  1766  1770/607  W22 W11 W38 U   W5  4.0
+ 18 Szeto, Sophie          LSSLH023  1691  1650/347  D13 W12 U   L32 L25 1.5
+ 19 Lakshminarayanan, RishiLSSLD542  1661  1643/174  L14 U   L1  U   D27 0.5
+ 20 Black, Toby            LSSM9430  1607  1590/483  L15 U   L2  W31 W28 2.0
+ 21 Merritt, Troy          LSSMK67V  1200  2179/  2  W16 U   W3  U   U   2.0
+ 22 Schmidt-warnecke, Max  LSSK6188  1329  1314/177  L17 U   L4  U   U   0.0
+ 23 Zhao, Alex             LSSL5829   917   893/ 56  U   U   L5  U   L32 0.0
+ 24 Loi, Joseph            LSSMK89Z  1100  1100/  9  U   U   U   U   W31 1.0
+ 25 Menon, Raphael         LCOMJ909  1440  1458/407  L33 U   W6  U   W18 2.0
+ 26 Lubetkin, Zack         LCOMC01B  1048  1014/ 15  L34 U   L12 L13 U   0.0
+ 27 Demberel, Amana        LCOKJ14E  1607  1598/ 78  W35 L1  W11 L15 D19 2.5
+ 28 Love, Murrow           LCOL2596  1040  1064/264  W36 L2  W10 L16 L20 2.0
+ 29 Rivera, Maddie         LCOM729X   902   916/ 14  U   L3  D39 U   U   0.5
+ 30 Combes, Stanley        LCOMK67T  1200  1140/  1  U   L4  U   U   U   0.0
+ 31 Gomes, Caetano         LCOL799X  1093   744/  4  U   L5  U   L20 L24 0.0
+ 32 Bailey, Nathaniel      LCOMF519  1069  1139/ 63  U   U   U   W18 W23 2.0
+ 33 Anandam, Akash         SPRL141D  1480  1496/ 53  W25 U   L13 L1  W6  2.0
+ 34 Ta, Louis              SPRL291U   930  1110/ 19  W26 U   D14 L2  W12 2.5
+ 35 Hurley, Jane           SPRM8414  1013  1037/387  L27 U   L15 L4  W8  1.0
+ 36 Corr, Quentin          SPRK374C   858   821/ 16  L28 U   U   L5  L10 0.0
+ 37 Laporte, Andy          SPRJK67S   900   797/  2  U   U   L16 L6  U   0.0
+ 38 Odegard, Owen          SPRLK40J  1101  1106/ 12  U   U   L17 U   W11 1.0
+ 39 Teh, Brandon           GARJK935  1119  1103/ 40  U   U   D29 U   U   0.5

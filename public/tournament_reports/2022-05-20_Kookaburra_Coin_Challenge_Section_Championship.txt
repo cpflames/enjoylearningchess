@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 tot 
+  1 Dillingham, Daniel     KCCEB73M  1036  1187/195  W3  W3  W4  W4  W2  W2  W7  W7  8.0
+  2 Dillingham, Annabella  KCCF229F  1135  1127/196  W7  W7  W5  W5  L1  L1  W4  W4  6.0
+  3 Lemon, Bryce           KCCFF01G   950   768/ 11  L1  L1  W8  W8  W7  L7  W6  L6  4.0
+  4 Roberts, Lorenzo       KCCGF07Z   600   855/  8  W8  W8  L1  L1  W5  W5  L2  L2  4.0
+  5 Smith, Jeremiah        KCCG651S   600   646/  8  W6  W6  L2  L2  L4  L4  W8  W8  4.0
+  6 Lewis, Elliana         KCCFI97V   500   473/  8  L5  L5  L7  L7  W8  W8  L3  W3  3.0
+  7 Dodson, Tyson          KCCF234D   650   732/ 11  L2  L2  W6  W6  L3  W3  L1  L1  3.0
+  8 Lewis, Eli             KCCDK66L   400   400/  8  L4  L4  L3  L3  L6  L6  L5  L5  0.0

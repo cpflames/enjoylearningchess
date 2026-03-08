@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chevuri, Tattva        CBRFC06V   930   957/285  L2  W4  W3  2.0
+  2 Kuluru, Samith         LEOGI99K   939   963/185  W1  L3  W4  2.0
+  3 Merceline, Alex        EBSJC405   952   946/ 59  D4  W2  L1  1.5
+  4 Devlin, Austin         OSEFK25F   905   860/ 55  D3  L1  L2  0.5

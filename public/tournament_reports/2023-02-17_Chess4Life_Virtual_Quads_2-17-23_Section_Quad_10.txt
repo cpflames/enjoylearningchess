@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, Edwin            AINIR037   945  1032/ 21  W2  W3  W4  3.0
+  2 Li, Harry              SSSDG30G   880   853/246  L1  W4  L3  1.0
+  3 Sreraman, Rahul        BCACJ42L   846   829/ 73  L4  L1  W2  1.0
+  4 Chevuri, Tattva        CBRFC06V   827   815/262  W3  L2  L1  1.0

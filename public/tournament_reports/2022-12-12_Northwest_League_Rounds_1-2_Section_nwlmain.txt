@@ -1,0 +1,56 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Trushkov, Max          FERK616A  1553  1580/161  W21 W40 U   2.0
+  2 Kuzin, Ethan           SHMK7567  1403  1415/281  W41 W26 U   2.0
+  3 Peterson, Kylan        MRDL175Q  1178  1221/ 48  W40 W43 U   2.0
+  4 Love, Charles          SHMK458N  1161  1185/ 69  W42 W29 U   2.0
+  5 Bowman, Finn           SHMKD50L  1107  1142/ 64  W45 W41 U   2.0
+  6 Hall, Jack             FERMD220  1070  1134/ 96  W23 W39 U   2.0
+  7 Mcfadden, Cameron      FERMI35S  1050  1072/ 84  W32 W33 U   2.0
+  8 Goetzl, Twain          SHMM6001   971  1015/216  W34 W42 U   2.0
+  9 Mcconaughy, Marcus     SHMJ798W   786   820/ 15  W36 W49 U   2.0
+ 10 Coulter, Alex          MRDMF898   728   802/ 60  W39 W48 U   2.0
+ 11 Nyland, Taylor         BLHK124B   708   751/  8  W37 W50 U   2.0
+ 12 Gamble, Lydia          BLHLI96B   632   643/ 10  W55 W53 U   2.0
+ 13 Red Elk, Ali-lawet     FERM986S   614   723/ 45  W27 W31 U   2.0
+ 14 Peper, James           BLHKB93F   537   572/  8  W50 W54 U   2.0
+ 15 Aujla, Sihaan          BLHK413P  1000   639/  2  W52 W55 U   2.0
+ 16 Frost, Ignatius        SHMJJ64P  1424  1430/ 56  W22 D17 U   1.5
+ 17 Stanley, Soren         BLHM116S  1214  1236/ 51  W30 D16 U   1.5
+ 18 Mohd, Mariam           BLHKH85N   339   362/  8  W54 D19 U   1.5
+ 19 Gonzales, Jazzie       FERM372M   265   355/  9  W35 D18 U   1.5
+ 20 Roesch, Carson         BLHK120K  1802  1776/226  W43 L21 U   1.0
+ 21 Lee, Jae-yoon          SHMKC734  1564  1576/ 94  L1  W20 U   1.0
+ 22 Lewis, Theo            FERLK29P  1342  1334/ 69  L16 W25 U   1.0
+ 23 Werner, Ross           SHMLB91H  1319  1290/103  L6  W28 U   1.0
+ 24 Putnam, Israel         LYEJA22J  1202  1150/  8  L26 W45 U   1.0
+ 25 Chiu, Yi Jun           SHML347E  1115  1113/ 11  W44 L22 U   1.0
+ 26 Waters, Shawn          BLHKK63D  1071  1099/ 37  W24 L2  U   1.0
+ 27 Montoure, Nicolai      BLHLG50H  1036   893/  5  L13 W47 U   1.0
+ 28 Reiss, Madelyn         BLHLJ21Y   975   972/ 39  W48 L23 U   1.0
+ 29 Hodges, Xander         BLHLB63W   864   860/ 19  W51 L4  U   1.0
+ 30 Masterson, Emmett      LYEL300S   864   889/ 27  L17 W44 U   1.0
+ 31 Chiapellone, Teo       SHMLG88R   822   794/ 82  W49 L13 U   1.0
+ 32 Plyuschakov, Max       BLHK532H   815   830/  8  L7  W46 U   1.0
+ 33 Danger, Presley        BLNG716S   789   756/ 21  W46 L7  L36 1.0
+ 34 Adams, Carson          MRDMA48F   703   704/ 24  L8  W51 U   1.0
+ 35 Kerr, Ethan            BLHKJ06N   639   587/ 17  L19 W52 U   1.0
+ 36 May, Ruby              BLHL397U   584   622/ 17  L9  U   W33 1.0
+ 37 Manly, Katie           FERK313C   555   566/ 43  L11 W38 U   1.0
+ 38 Tuski, Ian             BLHK934X  1000   458/  2  W53 L37 U   1.0
+ 39 Clayton, Evan          SHMKA71G  1267   995/  5  L10 L6  U   0.0
+ 40 Macgregor, Matthew     SHML1137  1238  1205/105  L3  L1  U   0.0
+ 41 Reynolds, Spencer      FERM2234  1070  1041/ 28  L2  L5  U   0.0
+ 42 Darr-rehmert, Natalie  FERMK93U  1064  1013/ 97  L4  L8  U   0.0
+ 43 Giblin, Joe            LYEMA51Z  1018  1004/ 44  L20 L3  U   0.0
+ 44 Peterson, Everest      MRDJ836M   923   866/ 11  L25 L30 U   0.0
+ 45 Singh, Jagteshwar      MRDLJ25M   913   888/ 20  L5  L24 U   0.0
+ 46 Fransico-woodenlegs, JoMRDK680H   733   673/ 11  L33 L32 U   0.0
+ 47 Zender, Levi           MRDME540   629   614/ 13  U   L27 U   0.0
+ 48 Greer, Nathan          LYEJ566W   625   593/  8  L28 L10 U   0.0
+ 49 Clark, Camden          BLHL635A   616   580/ 19  L31 L9  U   0.0
+ 50 Lee, Jensen            MRDJ947B   436   394/  8  L14 L11 U   0.0
+ 51 Emory, Lukas           LYEM112V   427   408/ 11  L29 L34 U   0.0
+ 52 Gonzalez, Dulce        MRDKF70Z   400   190/  5  L15 L35 U   0.0
+ 53 Credle, Jamie          MRDKA99L   398   311/  5  L38 L12 U   0.0
+ 54 Rabadan, Oscar         MRDM462G   100   100/  5  L18 L14 U   0.0
+ 55 Wattam, Tamon          FERKI98Q  1000   286/  2  L12 L15 U   0.0

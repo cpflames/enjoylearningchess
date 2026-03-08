@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Balaji, Sidharth       EVJGC22H   947  1093/ 35  W2  W3  W4  3.0
+  2 Tsai, Adam             DISHB02H  1016  1016/ 54  L1  WF  W3  2.0
+  3 Mitra, Rahul           OPWHH53N   980   933/241  WF  L1  L2  1.0
+  4 Yin, Daniel            ISSL116Y   978   957/295  LF  LF  L1  0.0

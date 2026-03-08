@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Miller, Thomas         MEDF799Q  1255  1375/ 31  W2  W3  W4  3.0
+  2 Smith, Cooper          DCTG3548  1299  1320/155  L1  W4  W3  2.0
+  3 Frederick, Benjamin    LAUDS57X  1293  1272/ 79  W4  L1  L2  1.0
+  4 Zhang, Ethan           CLHEE87D  1281  1218/380  L3  L2  L1  0.0

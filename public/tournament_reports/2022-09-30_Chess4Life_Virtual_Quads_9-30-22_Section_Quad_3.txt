@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Evin, Terrick          EBSBC54L  1214  1388/ 37  W2  W3  W4  3.0
+  2 Zhou, Nathan           NJHH215X  1409  1378/ 35  L1  W4  L3  1.0
+  3 Singh, Rushil          SNEFB52N  1401  1371/ 61  L4  L1  W2  1.0
+  4 Stein, Benjamin        HSCDB61S  1331  1317/230  W3  L2  L1  1.0

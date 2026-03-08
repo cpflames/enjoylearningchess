@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kuluru, Samith         KKNGI99K   573   584/149  W5  W4  L3  2.0
+  2 Leon, Nikhil           HSCE587T   555   543/ 90  W6  L3  W5  2.0
+  3 Mishra, Angad          RKWDK70V   557   599/ 33  L4  W2  W1  2.0
+  4 Patel, Aarya           REEEK30E   400   592/  3  W3  L1  W6  2.0
+  5 Srinivasa, Sanvi       TFEGK65T   278   238/  8  L1  D6  L2  0.5
+  6 Ambardekar, Arjun      SXEDZ96E   300   183/  3  L2  D5  L4  0.5

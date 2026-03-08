@@ -1,0 +1,19 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bharadwaj, Samarth     DISCE78A  1387  1368/115  W12 W11 W3  L4  W8  4.0
+  2 Kakkad, Vayu           DCTCK50L  1241  1238/448  W15 L4  W8  W6  W5  4.0
+  3 Li, Edgar              OPWC883Y  1139  1171/124  W17 W6  L1  W7  W4  4.0
+  4 Lan, Jonathan          OPWC968F  1044  1197/ 76  W10 W2  W5  W1  L3  4.0
+  5 Edwin, Elijah          BCSCC24D  1147  1124/ 75  W9  W7  L4  W11 L2  3.0
+  6 Bandai, Yugo           MCECA31C   906   903/ 28  W13 L3  W10 L2  W14 3.0
+  7 Wang, Evan             FRWC929Z   775   808/ 50  W14 L5  W16 L3  W11 3.0
+  8 Pleasants, Gabriel     THUC149G   633   669/ 15  W16 W12 L2  W13 L1  3.0
+  9 Xu, William            DCTCK93M   441   480/ 38  L5  W18 L11 W15 D10 2.5
+ 10 Shagas, Joshua         DCTCK87R   200   633/  5  L4  W14 L6  W16 D9  2.5
+ 11 Sembium, Aditi         BCACK25W   901   859/180  W18 L1  W9  L5  L7  2.0
+ 12 Chen, Felix Y          DISCA67A   603   556/ 15  L1  L8  W15 L14 W17 2.0
+ 13 Too, Amelia            THUCK87Q   200   352/  5  L6  D15 W17 L8  D16 2.0
+ 14 Jariwala, Vidur        THOCK87P   200   510/  5  L7  L10 W18 W12 L6  2.0
+ 15 Michiels, Isabel       THOCK94G   400   355/ 13  L2  D13 L12 L9  W18 1.5
+ 16 Liu, Alexander         DCTCK87N   200   323/  5  L8  W17 L7  L10 D13 1.5
+ 17 Finkelstein, Kenji     HZFCK87M   200   104/  5  L3  L16 L13 W18 L12 1.0
+ 18 Lin, Bennett           THOCK87L   200   100/  5  L11 L9  L14 L17 L15 0.0

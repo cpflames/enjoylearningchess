@@ -1,0 +1,17 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Pillai, Ravi           SHSDB70K   749   805/ 41  W12 W10 L4  W6  W3  4.0
+  2 Lu, Ian                CRIDE83J   733   786/144  W13 W14 L3  W7  W4  4.0
+  3 Arikatla, Ved Anush RedBRHDD38C   798   821/ 33  W8  W6  W2  D4  L1  3.5
+  4 Black, Stas            BCAD368F   759   793/ 30  W11 W7  W1  D3  L2  3.5
+  5 Chaudhuri, Arihant     CHAC703E   665   623/ 24  L14 WF  W11 W9  L7  3.0
+  6 Wu, Aiden              EVGDD83L   639   661/ 51  W9  L3  W14 L1  W12 3.0
+  7 Gajcowski, Devin       BETDA94Z   610   628/126  W15 L4  W12 L2  W5  3.0
+  8 Khambatti, Maxim       HSCD719W   517   529/ 14  L3  L9  BYE W13 W10 3.0
+  9 Raghunathan, Vidur     MCIC878A   400   605/  5  L6  W8  W10 L5  W13 3.0
+ 10 Chaudhuri, Agnivesh    CHACB55V   483   461/ 31  W16 L1  L9  W14 L8  2.0
+ 11 Eng, Meeko             SJOC376D   476   431/ 32  L4  W15 L5  L12 W16 2.0
+ 12 Balasubramanian, AkshatRCSD700Y   462   457/ 28  L1  W16 L7  W11 L6  2.0
+ 13 Onwuneme, Aidan        SANDI57F   400   400/ 19  L2  BYE W15 L8  L9  2.0
+ 14 Joseph, Veronique      SJOCJ04S   400   413/ 19  W5  L2  L6  L10 W15 2.0
+ 15 Kim, Riu               SOMC951F   400   400/  4  L7  L11 L13 BYE L14 1.0
+ 16 Wang, Chris            SOMDF00J   400   400/  3  L10 L12 HPB U   L11 0.5

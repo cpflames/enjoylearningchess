@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Alam, Adil             BCAFI15X   758   899/ 86  W2  W3  W4  3.0
+  2 Sailer, Shaunak        SARDC25Z   758   796/ 14  L1  W4  W3  2.0
+  3 Smith, Cole            DCTDH52J   765   740/ 84  W4  L1  L2  1.0
+  4 Mitra, Rahul           OPWFH53N   753   676/ 73  L3  L2  L1  0.0

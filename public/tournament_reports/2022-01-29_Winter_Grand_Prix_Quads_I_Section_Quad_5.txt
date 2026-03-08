@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bosch, Declan          FHVHE38K   700  1171/  3  W3  W4  W2  3.0
+  2 Trushkov, Daniel       HSCK500T  1000   833/  3  W4  W3  L1  2.0
+  3 Overhauser, Nolan      VSTG231S   491   485/ 24  L1  L2  W4  1.0
+  4 Brecht, Gabriel        HSCFD25U   500   400/  3  L2  L1  L3  0.0

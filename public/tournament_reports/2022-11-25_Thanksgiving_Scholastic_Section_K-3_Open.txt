@@ -1,0 +1,29 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Saddi, Neevan Reddy    GRRDH87M  1330  1409/ 98  W7  W23 W10 W9  W4  5.0
+  2 Zhang, Zhibo           SOMD674X  1105  1254/ 56  W19 W13 D4  W8  W9  4.5
+  3 Xu, Yang               CNCD649B  1019  1151/ 20  W22 L4  W13 W10 W11 4.0
+  4 Edwin, Elijah          BCSCC24D  1178  1233/ 49  W17 W3  D2  W14 L1  3.5
+  5 Weng, Bright           BENC850P  1098  1135/ 45  W20 L8  D11 W15 W14 3.5
+  6 Chaudhuri, Arihant     CHAD703E  1078  1079/131  L13 W28 W19 W16 D7  3.5
+  7 Vijay, Adith           SOMCD20K   997  1058/ 20  L1  W21 W27 W18 D6  3.5
+  8 Li, Edgar              OPWC883Y  1235  1213/110  W24 W5  L9  L2  W17 3.0
+  9 Joseph, Veronique      SJODJ04S  1170  1187/ 91  W18 W16 W8  L1  L2  3.0
+ 10 Raghunathan, Vidur     MCID878A  1154  1148/ 29  W26 W12 L1  L3  W20 3.0
+ 11 Han, Spencer           HSCDK75L  1082  1100/ 84  W21 D14 D5  W12 L3  3.0
+ 12 Sembium, Aditi         BCACK25W  1031  1019/159  WF  L10 W22 L11 W19 3.0
+ 13 Pan, David             MEDB330Y   821   975/ 37  W6  L2  L3  W25 W16 3.0
+ 14 Bar, Nathan            AUDD368C  1208  1168/198  W25 D11 W23 L4  L5  2.5
+ 15 Bandai, Yugo           MCECA31C   821   852/ 18  L16 D18 W24 L5  W26 2.5
+ 16 Luo, Peter             SHVD664K  1057  1015/ 15  W15 L9  W17 L6  L13 2.0
+ 17 Ghosh, Snehil          CBRD738T   932   937/ 10  L4  W20 L16 W22 L8  2.0
+ 18 Chaudhuri, Agnivesh    CHADB55V   930   914/130  L9  D15 W28 L7  D23 2.0
+ 19 Fang, Weiai            THRC696W   874   878/102  L2  W24 L6  W27 L12 2.0
+ 20 Zhang, Aaron           RSADC74T   869   887/ 54  L5  L17 W26 W23 L10 2.0
+ 21 Ouyang, Andrew         EBSDI99J   864   850/ 15  L11 L7  L25 W24 W27 2.0
+ 22 Chaurasia, Ishi        HMNDK22B   743   778/ 72  L3  W26 L12 L17 W25 2.0
+ 23 Flores Uriegas, Andres HLYD159F  1099  1033/ 19  W27 L1  L14 L20 D18 1.5
+ 24 Kalakoti, Kartika      STVAG45J   964   786/  9  L8  L19 L15 L21 WF  1.0
+ 25 Vasamsetty, Chetan     SHFCJ38Y   938   812/ 10  L14 L27 W21 L13 L22 1.0
+ 26 Shah, Hridhaan         CBRD561Z   888   803/ 25  L10 L22 L20 W28 L15 1.0
+ 27 Chu, Skylar            SOMB579R   871   783/ 10  L23 W25 L7  L19 L21 1.0
+ 28 Aranganathan, Kiash KavSTVCA52G   200   388/  3  HPB L6  L18 L26 LF  0.5

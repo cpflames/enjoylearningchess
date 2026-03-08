@@ -1,0 +1,3 @@
+pos last name first       id numb   start end/#gms  rd1 tot 
+  1 Raghunathan, Vidur     MCID878A  1082  1091/ 55  W2  1.0
+  2 Yen, Apollo            RKWFG78H   780   770/ 57  L1  0.0

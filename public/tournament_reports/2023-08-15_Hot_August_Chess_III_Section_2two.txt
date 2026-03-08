@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Celaya, Benito         CIAE505E   901  1029/ 61  W5  W2  W3  3.0
+  2 Lewis, Kaleb           WCAHF41Z   876   920/ 32  W6  L1  W4  2.0
+  3 Moors, Samuel          BLNIH93D   904   904/ 59  D4  W6  L1  1.5
+  4 Qureshi, Danish        BLEFF36V   815   828/ 87  D3  W5  L2  1.5
+  5 Lervik, Henry          CIADK36P   775   776/ 16  L1  L4  W6  1.0
+  6 Singh, Arshaan         HORIK22R   983   873/ 28  L2  L3  L5  0.0

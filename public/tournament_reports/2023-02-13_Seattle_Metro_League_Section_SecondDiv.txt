@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 r10 tot 
+  1 Huang, Jeremy          FRAMK67R  1200  1080/  6  U   U   W22 L22 L12 L12 W17 D17 U   U   2.5
+  2 Huang, Bentley         FRAKK67Q  1000   789/  2  U   U   L20 L20 U   U   U   U   U   U   0.0
+  3 Chen, Allen            FRAMK67P  1200  1381/  6  U   U   D21 W21 W17 W17 L12 L12 U   U   3.5
+  4 Davis, Caian           FRAKK67M  1000  1321/  6  U   U   W23 W23 W13 W13 L13 W13 U   U   5.0
+  5 Nguyen, Abby           FRAKK67L  1000   968/  2  U   U   U   U   U   U   L15 W15 U   U   1.0
+  6 Jones, Isaiah          FRAKK67K  1000   968/  2  U   U   U   U   W15 L15 U   U   U   U   1.0
+  7 Barr, Walter           GARJK714   932   893/287  U   U   U   U   U   U   U   U   L23 L23 0.0
+  8 Carlin, Leo            GARKK67G  1000   676/  2  U   U   U   U   U   U   U   U   L22 L22 0.0
+  9 Teh, Brandon           GARJK935  1103  1103/ 42  U   U   U   U   U   U   U   U   W18 L18 1.0
+ 10 Harris, Gabe           GARLK67D  1100   789/  2  U   U   U   U   U   U   U   U   L20 L20 0.0
+ 11 Carroll, Lucas         GARMK67C  1200  1408/  2  U   U   U   U   U   U   U   U   W21 D21 1.5
+ 12 Li, Melina             INMK5705  1745  1753/227  W18 W18 U   U   W1  W1  W3  W3  U   U   6.0
+ 13 Phelan Marczak, Avrum  INMJK66Z   900  1006/  6  W19 W19 U   U   L4  L4  W4  L4  U   U   3.0
+ 14 Wague, Manthita        INMMK66Y  1200  1189/  2  W20 L20 U   U   U   U   U   U   U   U   1.0
+ 15 Devich, Etta           INMLK66X  1100   907/  6  L21 L21 U   U   L6  W6  W6  L5  U   U   2.0
+ 16 Glenovich, Frankie     INMLK66W  1100   676/  2  L22 L22 U   U   U   U   U   U   U   U   0.0
+ 17 Bither, Benjamin       INMJK66V   900   855/  4  U   U   U   U   L3  L3  L1  D1  U   U   0.5
+ 18 Combes, Stanley        LCOMK67T  1140  1109/  5  L12 L12 U   U   U   U   U   U   L9  W9  1.0
+ 19 Gomes, Caetano         LCOM799X   744   648/  6  L13 L13 U   U   U   U   U   U   U   U   0.0
+ 20 Chapple, Nate          LCOLK66U  1100  1329/  6  L14 W14 W2  W2  U   U   U   U   W10 W10 5.0
+ 21 Ding, Marcus           LCOMK66T  1200  1233/  6  W15 W15 D3  L3  U   U   U   U   L11 D11 3.0
+ 22 Lindquist, Eric        LCOMK95G  1009  1022/ 11  W16 W16 L1  W1  U   U   U   U   W8  W8  5.0
+ 23 Eaton, Amanita         LCOLK66Q  1100  1044/  4  U   U   L4  L4  U   U   U   U   W7  W7  2.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Karri, Aditya          AUDDC55V  1252  1317/133  W4  W2  D3  2.5
+  2 Bhattacharjee, ArchishmBLWEA45Y  1264  1286/103  W3  L1  W4  2.0
+  3 Praveen, Atharva       AUDDG14E  1264  1242/ 77  L2  D4  D1  1.0
+  4 Wahi, Lakshya          EVJH664Z  1251  1209/ 82  L1  D3  L2  0.5

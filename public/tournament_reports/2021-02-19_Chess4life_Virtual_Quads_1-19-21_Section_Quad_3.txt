@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ying, Yiheng           MEDDE78K  1492  1558/219  W4  W2  W3  3.0
+  2 Zheng, Max             SOMED13T  1442  1463/ 86  W3  L1  W4  2.0
+  3 Rogers, Quinton        ALTF377E  1478  1404/  6  L2  W4  L1  1.0
+  4 Aggarwal, Aadit        LEOHE722  1407  1354/367  L1  L3  L2  0.0

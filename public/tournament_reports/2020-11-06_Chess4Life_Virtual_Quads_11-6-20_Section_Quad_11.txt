@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Agarkar, Aarav         WDMGG17J   823   914/ 81  W3  D4  W2  2.5
+  2 Agarwal, Ishaan Huma   REEEH10F   835   869/ 45  W4  W3  L1  2.0
+  3 Malla, Diven           HSCDG38L   873   839/ 55  L1  L2  W4  1.0
+  4 Mishra, Aakash         XXXB439K   859   767/  8  L2  D1  L3  0.5

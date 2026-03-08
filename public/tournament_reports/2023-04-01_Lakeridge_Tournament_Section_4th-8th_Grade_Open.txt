@@ -1,0 +1,40 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Appalabattula, Samarth RARHG06C  1216  1420/106  W33 W2  W4  W13 W5  5.0
+  2 Karri, Aditya          AUDEC55V  1357  1366/290  W35 L1  W36 W29 W8  4.0
+  3 Calo, Jude             REGH3425  1326  1333/196  W25 L8  W33 W15 W12 4.0
+  4 Belgau, Stephen        JFMHK76X  1324  1343/ 25  W37 W36 L1  W16 W13 4.0
+  5 Raja, Rian             CNCF786E  1137  1278/ 69  W39 W19 W11 W20 L1  4.0
+  6 Paglia, Leo            CELH705S   704  1061/ 61  W32 L9  W23 W22 W19 4.0
+  7 Arun, Advaith          STLI777F  1198  1226/ 86  L16 W30 W31 D19 W20 3.5
+  8 Kwan-uchiyama, Avery   JINEH22T  1123  1229/ 58  W31 W3  D20 W9  L2  3.5
+  9 Mccarthy, Balen        IMSH519X   997  1154/ 79  HPB W6  W15 L8  W22 3.5
+ 10 Zhao, Dennis           OPWG525E  1306  1265/312  L27 W26 L16 W28 W30 3.0
+ 11 Khatib, Kenan          IMSHC566  1267  1266/240  W28 W27 L5  HPB HPB 3.0
+ 12 Byam, Caleb            HSCGI71C  1249  1238/ 40  W29 L15 W38 W18 L3  3.0
+ 13 Joshi, Vyom            LEOHH81X  1175  1219/137  W38 W18 W22 L1  L4  3.0
+ 14 Chan, Aiden            COGH917M  1204  1195/115  L15 W28 L18 W27 W31 3.0
+ 15 Villanueva, Kirian     CPLHH895   947  1097/201  W14 W12 L9  L3  W29 3.0
+ 16 Zhen, Hongren          COGHC02Z   923  1124/155  W7  L20 W10 L4  W21 3.0
+ 17 Yan, Weston            BTMH397H   444   703/  9  L23 BYE W24 L21 W33 3.0
+ 18 Chang, Elliot          IMSIK27D   800  1215/  5  W34 L13 W14 L12 W26 3.0
+ 19 Balayoghan, Keeran     SPTF477N  1386  1327/ 54  W24 L5  W27 D7  L6  2.5
+ 20 Genkin, Bogdan         MEDFJ26Q  1237  1218/ 31  W30 W16 D8  L5  L7  2.5
+ 21 Kuo, Tristan           KELI941B  1359  1262/274  L36 W37 L29 W17 L16 2.0
+ 22 Shah, Kanav            LMAE295Q  1305  1228/ 62  W26 W23 L13 L6  L9  2.0
+ 23 Wu, Jasper             IMSH3471  1119  1065/111  W17 L22 L6  L30 W37 2.0
+ 24 Radke, Alex            IMSH1113  1069  1015/167  L19 W39 L17 D33 D32 2.0
+ 25 Zhang, Kyrene          LKDEC84Y  1065  1046/179  L3  L31 HPB HPB W38 2.0
+ 26 Huang, Edwin           MEDF616M  1022  1034/ 47  L22 L10 W32 W38 L18 2.0
+ 27 Ward, Benjamin         WMEFK32Q  1012  1062/ 10  W10 L11 L19 L14 W35 2.0
+ 28 Patnaik, Aditya        EVJHA02G  1005  1025/ 45  L11 L14 W34 L10 W36 2.0
+ 29 Fong, Matthew          IMSI683T   997  1032/181  L12 W32 W21 L2  L15 2.0
+ 30 Hughes, Weston         SMSHI26V   982  1005/ 35  L20 L7  W35 W23 L10 2.0
+ 31 Madamba, Rhys          IMSIK27C   800  1058/  5  L8  W25 L7  W36 L14 2.0
+ 32 Wang, Eric             BCAE803M  1151  1060/ 80  L6  L29 L26 W39 D24 1.5
+ 33 Hetamsaria, Aayan      ICSHG19R   959   940/ 24  L1  W35 L3  D24 L17 1.5
+ 34 Yakkali, Karthik VedantKKNF301E  1135  1028/ 26  L18 L38 L28 L35 W39 1.0
+ 35 Tian, Eric             SOMEI80S  1020   965/ 78  L2  L33 L30 W34 L27 1.0
+ 36 Don, Alexander         BUSG958V  1066  1035/156  W21 L4  L2  L31 L28 1.0
+ 37 Elms, Ethan            HSCGK803  1056   968/164  L4  L21 L39 BYE L23 1.0
+ 38 Mitra, Rahul           OPWHH53N   974   943/256  L13 W34 L12 L26 L25 1.0
+ 39 Sinha, Rian            UPAH790Y   664   731/ 10  L5  L24 W37 L32 L34 1.0

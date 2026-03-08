@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tsai, Adam             DISFB02H   777   886/ 20  W4  W3  W2  3.0
+  2 Mani, Rishab           REEFD86G   745   771/ 14  W3  W4  L1  2.0
+  3 Shubin, Neta           RKWK7542   713   692/ 57  L2  L1  W4  1.0
+  4 Dode, Arush            EMDC317L   710   603/  9  L1  L2  L3  0.0

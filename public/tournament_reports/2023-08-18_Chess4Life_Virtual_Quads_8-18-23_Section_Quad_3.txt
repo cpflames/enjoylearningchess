@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xie, Michael           EVJG549C  1221  1306/376  W4  W3  W2  3.0
+  2 Bansal, Vivaan         EVJI452J  1190  1211/ 91  W3  W4  L1  2.0
+  3 He, Oliver             CRICK71V  1155  1138/202  L2  L1  W4  1.0
+  4 Tsai, Adam             DISHB02H  1126  1068/ 74  L1  L2  L3  0.0

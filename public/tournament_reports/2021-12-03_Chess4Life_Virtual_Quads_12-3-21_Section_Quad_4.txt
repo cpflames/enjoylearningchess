@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pisan, Kai             CHYH404C  1444  1451/209  D2  U   W3  1.5
+  2 Tan, Nathan            UCDC412Y  1323  1353/115  D1  W3  U   1.5
+  3 Zhang, Ethan (yichen)  CRIEG57B  1323  1285/188  U   L2  L1  0.0

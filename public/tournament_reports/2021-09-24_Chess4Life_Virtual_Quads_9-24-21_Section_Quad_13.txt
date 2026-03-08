@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Khetan, Reyansh        OESCT80L   400   900/  3  W2  W4  W3  3.0
+  2 Shrivastava, Vihaan    CCDBJ34F   400   470/  6  L1  D3  W4  1.5
+  3 Shirwaikar, Abhay      BRTBB19K   400   523/  3  W4  D2  L1  1.5
+  4 Lin, Kaylee            SPTF982R   400   400/ 12  L3  L1  L2  0.0

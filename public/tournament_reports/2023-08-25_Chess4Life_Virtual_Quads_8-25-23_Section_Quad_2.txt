@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bimod, Karthik         SLLGW89E  1259  1280/ 36  D4  D2  W3  2.0
+  2 Xie, Michael           EVJG549C  1306  1315/379  W3  D1  D4  2.0
+  3 Maharaja, Imai         RKWCK34K  1233  1215/ 65  L2  W4  L1  1.0
+  4 Bansal, Vivaan         EVJI452J  1211  1199/ 94  D1  L3  D2  1.0

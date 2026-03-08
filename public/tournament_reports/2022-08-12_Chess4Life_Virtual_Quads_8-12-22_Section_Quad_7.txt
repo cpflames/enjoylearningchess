@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yang, Nicholas         CHRBG23U   913   928/ 38  W3  L2  W4  2.0
+  2 Taylor, Ryder          HPTI385C   858   893/206  W4  W1  L3  2.0
+  3 Cheng, Alan            CHRDJ71K   836   884/ 30  L1  W4  W2  2.0
+  4 Joshi, Vyom            LEOGH81X   871   792/ 21  L2  L3  L1  0.0

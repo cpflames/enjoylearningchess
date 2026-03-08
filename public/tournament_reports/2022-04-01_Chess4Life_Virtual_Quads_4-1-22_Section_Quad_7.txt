@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Ethan Yichen    CRIEG57B   893   926/230  L2  W3  W4  2.0
+  2 Sreraman, Rohit        BCABG92Q   935   953/ 20  W1  W4  L3  2.0
+  3 Goel, Darsh            SBOFR06Y   933   952/ 31  W4  L1  W2  2.0
+  4 Sailer, Shaunak        ENAEC25Z   862   795/157  L3  L2  L1  0.0

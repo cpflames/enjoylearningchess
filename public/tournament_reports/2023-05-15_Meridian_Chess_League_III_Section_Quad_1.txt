@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wilson, Nathaniel      SHKHE45V  1325  1357/ 62  W2  D3  W4  2.5
+  2 Zhang, Owen            FHVH995H  1286  1304/221  L1  W4  W3  2.0
+  3 Peterson, Kylan        MRDL175Q  1255  1259/ 71  W4  D1  L2  1.5
+  4 Berry, Garcia          BHMKK99Z  1209  1155/ 25  L3  L2  L1  0.0

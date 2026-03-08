@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yang, Jimmy            BCABG45S   974  1039/ 58  W2  W3  D4  2.5
+  2 Cheruku, Adhrith       SHSB827Q   921   977/  9  L1  W4  W3  2.0
+  3 Wang, Ares             BMNCJ77J   946   925/ 85  W4  L1  L2  1.0
+  4 Mohan, Keshav          EGMGG24Z   968   915/ 32  L3  L2  D1  0.5

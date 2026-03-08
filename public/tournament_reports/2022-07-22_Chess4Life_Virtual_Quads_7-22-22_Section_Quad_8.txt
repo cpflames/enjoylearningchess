@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Garg, Vihaan           CMCBJ10X   936   963/ 88  L2  W4  W3  2.0
+  2 Ginotra, Karman        RKWDB15D   922   955/ 27  W1  L3  W4  2.0
+  3 Chaudhuri, Arihant     CHAC703E   972   936/ 96  L4  W2  L1  1.0
+  4 Taylor, Ryder          HPTI385C   913   894/197  W3  L1  L2  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Nakashima, Jaden       LAVFC80B   778   790/ 65  W4  L3  W2  2.0
+  2 Naenna, Patanin        SPLDQ28H   740   764/136  W3  W4  L1  2.0
+  3 Kuluru, Samith         KKNFI99K   730   757/ 70  L2  W1  W4  2.0
+  4 Fang, Weiai            BRBB696W   653   589/ 36  L1  L2  L3  0.0

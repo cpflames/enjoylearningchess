@@ -1,0 +1,27 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Pendharkar, Gaurang    INTK302L  1646  1694/ 25  W22 W8  W2  W6  W9  5.0
+  2 Khanolkar, Karan       KMNGK912  1292  1391/190  W17 W10 L1  W18 W6  4.0
+  3 Winter, Gordon         XXXKH31Y  1256  1319/  5  W24 W21 L6  W12 W7  4.0
+  4 Yadlapati, Arush       BLWGA47S  1218  1236/105  W26 L6  W21 W17 D11 3.5
+  5 Bhise, Arav            TYEGH79C   950  1121/ 25  L8  D22 W24 W14 W13 3.5
+  6 Schmidt-warnecke, Max  LMSI6188  1450  1447/158  W15 W4  W3  L1  L2  3.0
+  7 Kwan, Joshua           EVGEI48N  1317  1330/128  W13 W14 W11 L9  L3  3.0
+  8 Nagarajan, Pranith     TMBH519S  1231  1246/186  W5  L1  L12 W20 W18 3.0
+  9 Cheng, Edward          WMSIC74W  1652  1646/125  LF  W18 W10 W7  L1  3.0
+ 10 Joshi, Arnav           CRKFJ24W  1177  1222/ 96  W25 L2  L9  W21 W16 3.0
+ 11 Tang, Ryan             TYEG518G  1244  1255/ 81  W20 W16 L7  D13 D4  3.0
+ 12 Gajcowski, Hannah Nami OPWFI10H  1171  1204/110  L16 W20 W8  L3  W19 3.0
+ 13 Narayan, Bhargav       CMCFD962  1076  1098/111  L7  W23 W19 D11 L5  2.5
+ 14 Joshi, Yash            SHSE280R  1225  1198/ 44  W23 L7  D15 L5  W17 2.5
+ 15 Zhang, Wei             TYEGF93H  1157  1167/ 83  L6  W26 D14 L16 W22 2.5
+ 16 Wolfe, Jaxon           HSCF335Z  1495  1414/ 13  W12 L11 L18 W15 L10 2.0
+ 17 Wong, Samuel           TYEGJ51V  1070  1069/ 82  L2  W25 W22 L4  L14 2.0
+ 18 Zheng, Max             SOMED13T  1175  1179/ 62  WF  L9  W16 L2  L8  2.0
+ 19 Nelson, Ben            REGHD43V  1207  1136/141  L21 W24 L13 W23 L12 2.0
+ 20 Karna, Venkat Kaushik  MAHGD88K   942   915/ 39  L11 L12 WF  L8  WF  2.0
+ 21 Tanpure, Sahil         INGI367A   800   999/  5  W19 L3  L4  L10 D23 1.5
+ 22 Vangala, Agastya       LMSIB39V  1174  1128/255  L1  D5  L17 W24 L15 1.5
+ 23 Vangala, Advaith       BLWF174X   902   894/255  L14 L13 W25 L19 D21 1.5
+ 24 Zhang, Yan             SOMEC58Q  1012   953/ 48  L3  L19 L5  L22 WF  1.0
+ 25 Chittur Griampet, AkashNOSH494W   700   769/  4  L10 L17 L23 W26 LF  1.0
+ 26 Davis, Brendan         EVJGB71A   788   747/ 38  L4  L15 LF  L25 LF  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wilson, Nathaniel      SHKGE45V   804   878/ 32  W2  W3  W4  3.0
+  2 Granger, Jacob         BLHJ654S   622   694/ 28  L1  W4  W3  2.0
+  3 Gutierrez, Diego       BLHK233E   617   610/  8  W4  L1  L2  1.0
+  4 Chiapellone, Teo       SHMKG88R   712   622/ 68  L3  L2  L1  0.0

@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Pisan, Kai             CHYH404C  1537  1553/299  W6  W5  W2  W3  W7  5.0
+  2 Rao, Deepak Sri KartikeARDF517J  1187  1197/ 98  W4  W3  L1  W5  W6  4.0
+  3 Shah, Jonah            MMIHI42C   927   923/ 16  WF  L2  W7  L1  W8  3.0
+  4 Casino, Jessi          STCH689G   527   667/ 19  L2  W6  W5  D8  U   2.5
+  5 Sampson, Morgan        CPRF784Z   762   729/ 39  W7  L1  L4  L2  BYE 2.0
+  6 Colon, Xavier          STCGF98F   679   672/ 55  L1  L4  W8  W7  L2  2.0
+  7 Smith, George          STCFB99R   437   409/ 39  L5  BYE L3  L6  L1  1.0
+  8 Guerrero, Rory         STCG343R   516   503/  8  LF  U   L6  D4  L3  0.5

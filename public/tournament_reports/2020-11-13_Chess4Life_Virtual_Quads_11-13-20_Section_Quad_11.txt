@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Condit, Noah           TLIFA59Q   940   993/  9  W3  W4  L2  2.0
+  2 Malugu, Sankalp        SHSBE95W  1020  1032/114  W4  L3  W1  2.0
+  3 Zhao, Dennis           CGRE525E   971   946/ 89  L1  W2  L4  1.0
+  4 Ramkumar, Siddharth    LMAEH50B   940   924/123  L2  L1  W3  1.0

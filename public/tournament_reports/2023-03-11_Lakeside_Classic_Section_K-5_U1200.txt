@@ -1,0 +1,48 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Yuan, Chen             ETSBJ15Z  1023  1246/ 56  W33 W11 W4  W15 W6  5.0
+  2 Xu, Yang               CNCD649B  1107  1165/ 50  W32 D23 W24 W9  W10 4.5
+  3 Jayadevan, Kunal       SCDC893P  1097  1112/ 66  W42 L16 W22 W17 W15 4.0
+  4 Raja, Rian             CNCF786E  1092  1131/ 59  W25 W18 L1  W29 W16 4.0
+  5 Palathingal, Rafael    BEND196R  1087  1106/ 24  W38 L9  W43 W20 W11 4.0
+  6 Bansal, Aarini         SOMEK14R  1037  1155/158  W43 W10 W7  W16 L1  4.0
+  7 Edwin, Elijah          BCSCC24D  1124  1122/ 80  W20 W29 L6  D18 W23 3.5
+  8 Chaudhuri, Arihant     CHAD703E  1044  1050/164  W21 W41 L15 D12 W24 3.5
+  9 Chaudhuri, Agnivesh    CHADB55V   909  1043/155  W28 W5  W13 L2  D12 3.5
+ 10 Lan, Jonathan          OPWC968F  1197  1163/ 81  W30 L6  W25 W23 L2  3.0
+ 11 Evin, Terrick          EBSBC54L  1172  1149/ 89  W19 L1  W21 W14 L5  3.0
+ 12 Gagnier, Ian           HSCEC72H  1131  1101/146  W31 L15 W38 D8  D9  3.0
+ 13 Anand, Lakshana        RSAEC68H  1124  1071/ 55  D24 W46 L9  W37 D18 3.0
+ 14 Luo, Peter             SHVD664K  1043  1017/ 25  W22 W37 L16 L11 W26 3.0
+ 15 Jayadevan, Neel        SCDF230P  1016  1050/ 85  W34 W12 W8  L1  L3  3.0
+ 16 Narkhede, Kshitij      CRKBA27K   965  1008/ 30  W36 W3  W14 L6  L4  3.0
+ 17 Ramprasad, Udbhav      EMDGG73Z   933   890/ 30  L37 W40 W36 L3  W34 3.0
+ 18 Lekkala, Vihan         BLWF428L   931   947/159  W45 L4  W35 D7  D13 3.0
+ 19 Sembium, Aditi         BCACK25W   903   892/188  L11 L22 W33 W43 W35 3.0
+ 20 Jones, Maximillian     BFDDK87K   883   885/ 15  L7  W33 W28 L5  W36 3.0
+ 21 Thaker, Ayaan          DISFJ51G   684   755/ 25  L8  W45 L11 W41 W37 3.0
+ 22 Bondalakunta, Krishna  CNCEK25A   677   871/ 74  L14 W19 L3  W31 W29 3.0
+ 23 Tandon, Ayaan          CRKEG07U   939   935/ 30  W44 D2  W26 L10 L7  2.5
+ 24 Guzman, Nate           TPSE939A   800   804/116  D13 W47 L2  W39 L8  2.5
+ 25 Sailer, Shaunak        OPWFC25Z   772   771/192  L4  W44 L10 D27 W38 2.5
+ 26 Velazquez, Gael        LPZEK91W   492   519/  9  HPB W39 L23 W40 L14 2.5
+ 27 Earhart, Tristan       MIEFK47Z   500   519/  4  L41 L38 BYE D25 W39 2.5
+ 28 Pedersen, Athan        TPSEK47Y   400   584/  4  L9  BYE L20 D38 W40 2.5
+ 29 Agrawal, Anay          CRKFE67A   987   936/ 46  W35 L7  W34 L4  L22 2.0
+ 30 Fanous, Petra          SCDFD41H   907   820/ 62  L10 L43 L42 W47 W45 2.0
+ 31 Wu, Dennis             SCDCJ54B   900   837/132  L12 L34 W44 L22 W42 2.0
+ 32 Velichko, Ivan         ASAEK63Z   798   689/ 10  L2  L35 W45 L34 W43 2.0
+ 33 Kalian, Illia          VIWEI13T   636   632/ 37  L1  L20 L19 W44 W46 2.0
+ 34 Zhang, Brian           GRSEA38L   529   643/176  L15 W31 L29 W32 L17 2.0
+ 35 Huttelmaier, Evelyn    CHRE757Z   433   572/133  L29 W32 L18 W42 L19 2.0
+ 36 Davies, Damien         CNCFK68U   418   510/ 34  L16 W42 L17 W46 L20 2.0
+ 37 Jungmeisteris, Gordon  BASEF88R   400   570/ 34  W17 L14 W41 L13 L21 2.0
+ 38 Thorrington, James     SANE547U   723   691/ 41  L5  W27 L12 D28 L25 1.5
+ 39 Ahneman, Jackson       LPZEK90T   100   193/  8  HPB L26 W46 L24 L27 1.5
+ 40 Thompson, Billie Jo    LPZEK91P   100   166/  8  HPB L17 W47 L26 L28 1.5
+ 41 Malugu, Sankalp        SHSDE95W   915   818/252  W27 L8  L37 L21 U   1.0
+ 42 Kim, Caiden            MAPFK94Z   796   710/ 24  L3  L36 W30 L35 L31 1.0
+ 43 Mitra, Rishab          OPWE138L   645   641/147  L6  W30 L5  L19 L32 1.0
+ 44 Mandic, Filip          CSIEK91X   414   402/ 13  L23 L25 L31 L33 W47 1.0
+ 45 Pradeep Kumar, Abhinav TBKEK47V   400   260/  4  L18 L21 L32 BYE L30 1.0
+ 46 Donohoe, Flora         LPZEF48Q   424   336/ 19  HPB L13 L39 L36 L33 0.5
+ 47 Sanford, Sophia        LPZFK90W   155   100/  9  HPB L24 L40 L30 L44 0.5

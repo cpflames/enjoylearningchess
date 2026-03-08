@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sun, Daniel            AUDBJ96N   831   892/ 74  D2  W3  W4  2.5
+  2 Miller, Jackson        GATG301V   956   969/ 23  D1  W4  W3  2.5
+  3 Mills, Paxson          HSCEI32D   661   670/ 15  W4  L1  L2  1.0
+  4 Rapolu, Sai Tejasvi    BCAEG86E   732   666/119  L3  L2  L1  0.0

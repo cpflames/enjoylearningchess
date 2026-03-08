@@ -1,0 +1,40 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Mishra, Abhinav        TMBHB02W  1449  1507/ 75  W28 D17 W4  W7  W9  4.5
+  2 Marinescu, Andra       ADUN412W  1300  1450/ 15  WF  W10 W14 W3  HPB 4.5
+  3 Long, Phil             ADONU48K  1432  1476/ 11  W18 W26 W15 L2  W16 4.0
+  4 Tie, Mike              ENDE856Y  1189  1349/ 71  WF  W12 L1  W13 W11 4.0
+  5 Xu, Hong               ADUNK70W  1460  1447/  6  HPB D25 W34 HPB W21 3.5
+  6 Vashisht, Aneesh       LKWEC30Y  1380  1392/ 95  WF  D19 D17 W26 D8  3.5
+  7 Bulusu, Sai            NPRN6664  1352  1360/ 24  W36 W23 HPB L1  W22 3.5
+  8 Kozyra, Adam           ADUNK60Q  1300  1411/  4  BYE L14 W27 W12 D6  3.5
+  9 Singh, Balbir          ADUNK95S  1435  1426/ 19  W35 D21 HPB W17 L1  3.0
+ 10 Greisen, Johanna       INGHF61C  1416  1397/ 23  W29 L2  W28 L16 W24 3.0
+ 11 Rundell, Miriam        ADUN3921  1390  1368/251  L19 W30 W25 W21 L4  3.0
+ 12 Fedorov, Vladimir      EVJIF17D  1387  1365/229  W30 L4  W35 L8  W27 3.0
+ 13 Nguyen, Nathan         NPRKG51V  1363  1342/158  W31 D32 D19 L4  W28 3.0
+ 14 Gann, Lance            ADUNK60P  1300  1385/  5  W33 W8  L2  D24 D19 3.0
+ 15 Pai, Vihaan            CHADK17C  1309  1313/136  WF  W24 L3  D19 D18 3.0
+ 16 Dale, Luke             MTSJJ10P  1334  1346/ 80  HPB D22 W29 W10 L3  3.0
+ 17 Huang, Emily           OMSGB39A  1302  1318/275  W20 D1  D6  L9  W29 3.0
+ 18 Williamson, Michelle   ADUNK60L  1119  1149/  5  L3  W37 D22 W32 D15 3.0
+ 19 Mccaffrey, James       ADUNK60K  1300  1426/  5  W11 D6  D13 D15 D14 3.0
+ 20 Agrawal, Anay          CRKFE67A   754   987/ 41  L17 L28 W31 W34 W26 3.0
+ 21 Xu, Zoe                SOMDG70A  1257  1250/238  W39 D9  W32 L11 L5  2.5
+ 22 Boddy, Kyle            ADUNH98N  1234  1220/ 12  HPB D16 D18 WF  L7  2.5
+ 23 Polonsky, Daniel       LBSJ946P   922   947/ 26  WF  L7  L26 W35 D32 2.5
+ 24 Nguyen, Alex           AKKH626C  1239  1255/ 14  W38 L15 W30 D14 L10 2.5
+ 25 Ye, Alex               ENDDH51L   520   767/ 33  W27 D5  L11 L28 W34 2.5
+ 26 Greisen, Alfred        EALJK95M  1252  1202/ 19  W37 L3  W23 L6  L20 2.0
+ 27 Sankaranarayan, Mukund ADUNA016  1211  1158/ 17  L25 W31 L8  W36 L12 2.0
+ 28 Budhraja, Jai          EBSFA16E  1167  1155/ 92  L1  W20 L10 W25 L13 2.0
+ 29 Blue-day, Alexander    ADUNK60J  1300  1033/  5  L10 W39 L16 W33 L17 2.0
+ 30 Mishra, Aakash         EBSD439K  1014  1018/ 74  L12 L11 L24 W39 W36 2.0
+ 31 Thungathurthi, PranavarINGGG82R   973   961/ 30  L13 L27 L20 WF  W35 2.0
+ 32 Ciani, Keith           ADUNG04B   961   960/ 23  WF  D13 L21 L18 D23 2.0
+ 33 Das, Siddharth         BLWH293Y   811   799/117  L14 L35 W37 L29 BYE 2.0
+ 34 Li, Edgar              OPWC883Y  1297  1210/133  U   W36 L5  L20 L25 1.0
+ 35 Chaudhuri, Arihant     CHAD703E  1120  1044/159  L9  W33 L12 L23 L31 1.0
+ 36 Chaudhuri, Agnivesh    CHADB55V   942   909/150  L7  L34 W39 L27 L30 1.0
+ 37 Panell, Amanda         ADUNC92B   502   587/  8  L26 L18 L33 LF  W39 1.0
+ 38 Wang, Ares             MEDEJ77J  1347  1315/249  L24 U   U   U   U   0.0
+ 39 Kalakoti, Kartika      STVAG45J   801   719/ 44  L21 L29 L36 L30 L37 0.0

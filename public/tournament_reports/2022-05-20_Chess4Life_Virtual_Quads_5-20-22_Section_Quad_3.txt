@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Aaron           MEDE873R  1289  1304/436  W3  L2  W4  2.0
+  2 Walimbe, Aadi          SLLHW982  1256  1280/276  W4  W1  L3  2.0
+  3 Alam, Adil             BCAGI15X  1234  1265/244  L1  W4  W2  2.0
+  4 Aggarwal, Aadit        LEOIE722  1262  1195/438  L2  L3  L1  0.0

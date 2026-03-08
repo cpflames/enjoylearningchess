@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lechner, Ryker         HSCE496J   573   625/ 56  W4  W3  L2  2.0
+  2 Mangla, Atharv         GRRDK07C   532   608/  8  W3  L4  W1  2.0
+  3 Ramkumar, Aditya       UNKCC38J   676   624/ 60  L2  L1  W4  1.0
+  4 Bangard, Dhruv         TBKAK65D   598   571/ 19  L1  W2  L3  1.0

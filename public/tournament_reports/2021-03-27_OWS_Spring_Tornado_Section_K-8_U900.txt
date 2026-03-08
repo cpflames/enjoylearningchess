@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Phillips-acheson, SebasWOBE817T   787   936/136  W12 D7  W4  W6  W3  4.5
+  2 Hijirida, Kyle         MISGH728   725   811/100  L8  W13 W11 W9  W5  4.0
+  3 Han, Spencer           HSCBK75L   834   883/ 25  W10 D4  W8  W5  L1  3.5
+  4 Mitra, Rahul           OPWFH53N   792   811/162  WF  D3  L1  W7  W9  3.5
+  5 Fung, Jonathan         EASF930M   500   872/  5  W7  W11 W6  L3  L2  3.0
+  6 Li, Timothy            CRIEE29R   811   815/102  W9  W8  L5  L1  W10 3.0
+  7 Xu, Alex               DCTE500U   733   718/ 29  L5  D1  W12 L4  D8  2.0
+  8 Bai, Brandon           EGBA725M   868   752/  9  W2  L6  L3  D13 D7  2.0
+  9 Lee, Truman            MEDE511D   400   478/  9  L6  BYE W10 L2  L4  2.0
+ 10 Puppala, Gagan Rudhra  ELMEV77S   694   660/ 46  L3  W12 L9  W11 L6  2.0
+ 11 Gajcowski, Devin       BETCA94Z   824   739/ 96  W13 L5  L2  L10 BYE 2.0
+ 12 Dubbaka, Yudhistar     RISH805S   700   481/  4  L1  L10 L7  BYE W13 2.0
+ 13 Xiang, Lucas           UNKB761Z   488   455/ 14  L11 L2  BYE D8  L12 1.5

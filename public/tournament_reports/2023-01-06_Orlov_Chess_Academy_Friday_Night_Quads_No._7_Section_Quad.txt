@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wilson, Lance          ROOM754B  1096  1248/  6  W4  W3  W2  3.0
+  2 Evin, Terrick          EBSBC54L  1338  1312/ 59  W3  W4  L1  2.0
+  3 Jang, Jinwon           VIEF561P   788   785/ 15  L2  L1  W4  1.0
+  4 Wilson, Alexander      VIEEH91F   342   336/ 12  L1  L2  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ehrlander, Liam        XXXEE94Z   562   688/  6  W3  W2  W4  3.0
+  2 Bohannon, Andrew       LHTDG71E   400   426/ 24  W4  L1  D3  1.5
+  3 Jungmeisteris, Gordon  HSCCF88R   400   449/  6  L1  W4  D2  1.5
+  4 Neelamegam, Hasini     RKWFI62M   400   400/ 11  L2  L3  L1  0.0

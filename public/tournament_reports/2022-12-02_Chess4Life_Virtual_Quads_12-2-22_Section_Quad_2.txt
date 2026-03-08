@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sinha, Agastya         HSCDA75C  1330  1441/120  W3  W2  W4  3.0
+  2 Bansal, Vivaan         EVJI452J  1372  1370/ 66  W4  L1  D3  1.5
+  3 Bhattacharjee, ArchishmBLWGA45Y  1371  1369/170  L1  W4  D2  1.5
+  4 Stein, Benjamin        HSCDB61S  1327  1271/252  L2  L3  L1  0.0

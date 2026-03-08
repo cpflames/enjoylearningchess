@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yuodelis, Kenneth      TYEJ3681  1397  1441/392  W4  D2  W3  2.5
+  2 Bhattacharjee, ArchishmBLWGA45Y  1345  1414/164  W3  D1  W4  2.5
+  3 Wang, Jacob            BLWFD74Y  1395  1349/235  L2  D4  L1  0.5
+  4 Karri, Aditya          AUDEC55V  1334  1301/215  L1  D3  L2  0.5

@@ -1,0 +1,29 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Edmond, Ivy            WWDDD81E  1213  1251/124  W15 W7  W13 D4  W2  4.5
+  2 Cheng, Selina          THUD413R  1241  1264/137  W20 W12 W5  W6  L1  4.0
+  3 Kapur, Tvisha          RSAE920A   766  1088/ 19  W8  W10 L4  W18 W6  4.0
+  4 Xu, Austin             SOMEH17F  1055  1203/ 50  HPB W8  W3  D1  W7  4.0
+  5 Jayadevan, Neel        SCDD230P   800  1001/ 34  W23 W19 L2  W13 W9  4.0
+  6 To, Calvin             REEDI10D  1407  1352/262  W11 W14 W9  L2  L3  3.0
+  7 Tsai, Nicholas         BLWE882Z   829   857/ 34  W25 L1  W22 W10 L4  3.0
+  8 Li, Yiyang             BCAD700B  1280  1227/129  L3  L4  W17 W21 W14 3.0
+  9 Xie, Ava               SOME797Y  1005   997/136  W21 W22 L6  W12 L5  3.0
+ 10 Quichocho, Weston      EVGE113W   899   888/164  W16 L3  W26 L7  W20 3.0
+ 11 Lakshminarayanan, KaavyUNKE210E   773   860/ 37  L6  W16 L18 W23 W19 3.0
+ 12 Chintalapudi, Srihaan  CNCD662W   841   881/ 36  W27 L2  W21 L9  W18 3.0
+ 13 Guzman, Nate           TPSC939A   873   879/ 75  W28 W18 L1  L5  D16 2.5
+ 14 Dash, Nishant          ENDD260B   897   895/ 55  W24 L6  D15 W20 L8  2.5
+ 15 Roach, August          EVGD109M   725   742/120  L1  W28 D14 L19 W24 2.5
+ 16 Cameron, Cecil         HLTDK22T   462   590/ 20  L10 L11 W24 W26 D13 2.5
+ 17 Peterson, Eric         EVGD365J   734   725/ 64  L18 D24 L8  W22 W25 2.5
+ 18 Choi, Hunter           EVGDE80A  1241  1140/127  W17 L13 W11 L3  L12 2.0
+ 19 Kuo, Declan            RDSEE82L  1129  1027/231  W26 L5  L20 W15 L11 2.0
+ 20 Yuen, Otto Shing-lok   KSHEF34N   729   747/222  L2  W27 W19 L14 L10 2.0
+ 21 Muni, Deven            EVGCK25X   557   563/ 15  L9  W25 L12 L8  BYE 2.0
+ 22 Sun, Victoria          STTCF83H   400   463/ 10  BYE L9  L7  L17 W26 2.0
+ 23 Ung, Daniel            SYRD416E   400   562/  5  L5  L26 W28 L11 W27 2.0
+ 24 Biernacki, Nicolas     EPIE187Y   420   442/ 20  L14 D17 L16 W28 L15 1.5
+ 25 Rios Rakhimova, Talia  MRICC27A   400   428/  4  L7  L21 W27 HPB L17 1.5
+ 26 Yang, Nathan           MRPE586Y   676   596/ 70  L19 W23 L10 L16 L22 1.0
+ 27 Hoard, Otis            VIWC690B   400   400/ 24  L12 L20 L25 BYE L23 1.0
+ 28 Jackson, Dyson         ACKC717K   400   400/  9  L13 L15 L23 L24 U   0.0

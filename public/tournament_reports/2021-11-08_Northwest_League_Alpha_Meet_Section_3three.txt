@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Giblin, Joe            LYELA51Z   772   934/ 20  W6  W5  W4  3.0
+  2 Moore, Gregory         LYEK789Q   808   882/ 14  W7  D4  W5  2.5
+  3 Bridges, Tommy         LYEL272M   773   800/ 31  L5  W8  W6  2.0
+  4 Goetzl, Twain          SHML6001   796   811/192  W8  D2  L1  1.5
+  5 Love, Charles          SHMJ458N   848   826/ 11  W3  L1  L2  1.0
+  6 Vickers, Cohen         MRDL936D   835   788/  8  L1  W7  L3  1.0
+  7 Hall, Jack             FERLD220   701   693/ 67  L2  L6  W8  1.0
+  8 Moreau, Zayden         VSTGB68M   962   749/  8  L4  L3  L7  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Stein, Samuel          HSCFH03T  1445  1492/229  W3  W2  W4  3.0
+  2 Bansal, Vivaan         EVJI452J  1300  1310/ 52  W4  L1  D3  1.5
+  3 Xu, Zoe                SOMDG70A  1273  1289/167  L1  W4  D2  1.5
+  4 Alam, Adil             BCAHI15X  1349  1284/277  L2  L3  L1  0.0

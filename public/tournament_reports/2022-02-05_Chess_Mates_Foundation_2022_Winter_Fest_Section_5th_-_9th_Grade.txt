@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Yondon, Odbayar        LMADK97T  1600  1640/ 46  W8  W7  W3  W2  W4  5.0
+  2 Heath, Derek           SKRG1458  1734  1703/285  D5  W6  W7  L1  W3  3.5
+  3 Hoe, Marcus            LEOH389Q  1180  1215/185  W4  W9  L1  W5  L2  3.0
+  4 Lahue, Ihsan           WAVGJ69P   803   966/ 85  L3  W10 W6  W7  L1  3.0
+  5 Stein, Joshua          HSCJA56K  1074  1098/ 48  D2  W8  W9  L3  L6  2.5
+  6 Janson-kovalev, Artem  HREFU87S  1225  1167/ 20  L9  L2  L4  W10 W5  2.0
+  7 Rao, Deepak Sri KartikeARDF517J  1204  1174/ 89  W10 L1  L2  L4  W8  2.0
+  8 Heider, Elena          NOVHC647   990   986/111  L1  L5  W10 W9  L7  2.0
+  9 Zhang, Melodie         OMSGE44K   988   975/113  W6  L3  L5  L8  W10 2.0
+ 10 Casino, Jessi          STCH689G   557   557/ 10  L7  L4  L8  L6  L9  0.0

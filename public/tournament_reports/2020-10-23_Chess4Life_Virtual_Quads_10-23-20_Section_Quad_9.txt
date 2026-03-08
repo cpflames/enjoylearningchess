@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yu, Christopher        SPTG591U   972  1059/ 99  W3  W2  W4  3.0
+  2 Wu, Luke               EBSDC90D   884   922/ 58  W4  L1  W3  2.0
+  3 Agarwal, Ishaan Huma   REEEH10F   844   835/ 42  L1  W4  L2  1.0
+  4 Alam, Adil             BCAFI15X   899   822/ 89  L2  L3  L1  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Eksarevskiy, Albert    WPPG530Y  1371  1423/ 21  W3  W4  D2  2.5
+  2 Singh, Saket           DISH872S  1407  1418/249  W4  D3  D1  2.0
+  3 Ren, Aaron             HSCBG67B  1339  1345/ 55  L1  D2  W4  1.5
+  4 Li, Yiyang             BCAD700B  1333  1277/191  L2  L1  L3  0.0

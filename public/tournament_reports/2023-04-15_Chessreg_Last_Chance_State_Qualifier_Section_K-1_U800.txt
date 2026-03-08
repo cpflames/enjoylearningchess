@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Chu, Skylar            SOMB579R   783   790/ 15  W4  W8  W2  L3  W5  4.0
+  2 Wang, Hengsheen        EVGA704V   631   721/ 39  W5  W7  L1  W4  W3  4.0
+  3 Gupta, Akshay          BCAAF62T   603   671/ 18  W6  W9  W8  W1  L2  4.0
+  4 Muthinti, Abhiram      RKWBK27S   365   512/ 14  L1  W6  W7  L2  W8  3.0
+  5 Lew, Theodore          OPWAK28X   364   408/ 10  L2  W10 W11 W9  L1  3.0
+  6 Hanlon, Benjamin       LKDBK54U   338   344/ 19  L3  L4  BYE W11 W10 3.0
+  7 Zhen, Liam             ISEB622V   497   463/ 63  W10 L2  L4  D8  W9  2.5
+  8 Sun-zhuang, Derek      EVGB123Q   511   459/ 20  W11 L1  L3  D7  L4  1.5
+  9 Maragoud, Shriya       WEDBK84Q   160   127/ 19  BYE L3  D10 L5  L7  1.5
+ 10 Ward, Luna             EWMAK21V   100   100/  4  L7  L5  D9  BYE L6  1.5
+ 11 Cyr, Penelope          SNEBK41X   222   162/ 13  L8  BYE L5  L6  U   1.0

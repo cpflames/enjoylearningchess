@@ -1,0 +1,40 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kurungod Anoop, Pranav INTJK760  1988  2011/188  W26 W16 W4  W9  W14 5.0
+  2 Roberts, Teddy         INTL3284  2028  2039/344  WF  W29 W37 W25 W6  5.0
+  3 Nallabothula, Varin    WPPH457A  1622  1619/341  W11 W5  L10 W18 W12 4.0
+  4 Willy, Stephen         MMEFH17K  1671  1698/347  W14 W39 L1  W26 W9  4.0
+  5 Dhillon, Rohan         LMSI6836  1275  1361/202  W36 L3  W19 W11 W13 4.0
+  6 Roesch, Carson         BLEI120K  1780  1788/181  W30 W31 W22 W37 L2  4.0
+  7 Deshpande, Aaryan      INTLF757  2120  2128/458  LF  W17 W25 W27 W22 4.0
+  8 Lane, Oliver           SPRME49Q  1340  1422/ 87  W15 L9  W39 W32 BYE 4.0
+  9 Lakshminarayanan, RishiLSSJD542  1682  1687/146  W35 W8  W16 L1  L4  3.0
+ 10 Tiwari, Arjun          INTK383B  1406  1422/ 51  W18 W13 W3  L12 L11 3.0
+ 11 Adams, Henry           GARKE729  1230  1287/ 69  L3  W33 W28 L5  W10 3.0
+ 12 Nelson, Michael        LSSL9364  1506  1488/218  W33 W19 L13 W10 L3  3.0
+ 13 Cheng, Kairui          CPJI563X  1431  1412/ 67  W38 L10 W12 W21 L5  3.0
+ 14 Fiat, Ronan            GARL6448  1343  1425/ 39  L4  W35 W15 W39 L1  3.0
+ 15 Dennis, Johnathon      SHMM183H  1576  1539/234  L8  W24 L14 W34 W26 3.0
+ 16 Cheng, Edward          WMSIC74W  1710  1693/219  W32 L1  L9  W24 W39 3.0
+ 17 Bunch, Drew            BAIKG36D  1698  1705/ 94  W29 L7  L27 W31 W23 3.0
+ 18 Li, Michael            INTL921A  1075  1130/ 26  L10 W38 W36 L3  W28 3.0
+ 19 Hurley, Jane           SPRK8414  1020  1078/372  W28 L12 L5  W38 BYE 3.0
+ 20 Anandam, Akash         SPRJ141D  1461  1468/ 34  W27 L22 W31 BYE L29 3.0
+ 21 Thomas-toth, Elek      GARMD11A   400   731/  7  BYE L28 W33 L13 W36 3.0
+ 22 King, George E         GARL1724  1612  1647/ 53  D25 W20 L6  W23 L7  2.5
+ 23 Wang, Daniel           LMSI8287  1816  1778/534  W37 D25 W30 L22 L17 2.5
+ 24 Chan, Nathan           GARLC50D  1070  1139/  9  BYE L15 D35 L16 W34 2.5
+ 25 Vemparala, Nikash      BCAFI078  1819  1809/312  D22 D23 L7  L2  W27 2.0
+ 26 Xiao, Ruichen          OMSIE39K  1336  1334/110  L1  W32 W34 L4  L15 2.0
+ 27 Singh, Aditya          LSSL8559  1695  1676/467  L20 W30 W17 L7  L25 2.0
+ 28 Scollon, Benjamin      SHMJJ16P  1381  1293/226  L19 W21 L11 W36 L18 2.0
+ 29 Winter, Gordon         XXXKH31Y  1419  1407/ 19  L17 L2  BYE L30 W20 2.0
+ 30 Roberts, Ben           SPRLA990  1258  1282/100  L6  L27 L23 W29 BYE 2.0
+ 31 Teh, Logan             GARJH765  1267  1250/ 66  BYE L6  L20 L17 WF  2.0
+ 32 Hawkins, Holden        TYEI383Z  1078  1097/222  L16 L26 BYE L8  W35 2.0
+ 33 Desai, Dev             KKNHG63H   925   895/110  L12 L11 L21 BYE W38 2.0
+ 34 Macgregor, Matthew     SHMJ1137   984  1006/ 71  W39 BYE L26 L15 L24 2.0
+ 35 Aggarwal, Aadit        LEOHE722  1299  1239/374  L9  L14 D24 BYE L32 1.5
+ 36 Anshus, Erik           SHMJD320   837   788/ 54  L5  BYE L18 L28 L21 1.0
+ 37 Read, Adrian           SHMMK76D  1195  1191/199  L23 BYE L2  L6  LF  1.0
+ 38 Goetzl, Twain          SHMK6001   841   796/189  L13 L18 BYE L19 L33 1.0
+ 39 Frasca, Anne           LMSII441  1396  1314/476  L34 L4  L8  L14 L16 0.0

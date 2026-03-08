@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Mortensen, Lucas       LBYH730U  1499  1553/108  W23 W22 W6  W3  W4  5.0
+  2 Wannamaker, Linus      IDXFY45B  1465  1469/ 53  W10 W7  W5  L4  W9  4.0
+  3 Carper, Jack           LINHG86W  1358  1366/107  W12 W11 W9  L1  W8  4.0
+  4 Achanta, Vishal        PULJ6509  1499  1505/ 84  W13 W8  W22 W2  L1  4.0
+  5 Reddy, Eshan           SGSF336Y  1357  1339/236  W14 W19 L2  W11 D6  3.5
+  6 Jones, Gideon          FIVE543G  1111  1140/ 62  W17 W23 L1  W15 D5  3.5
+  7 Brody, Noah            LWCK6912  1033  1057/112  W20 L2  D14 W22 W15 3.5
+  8 Brown, Malia           FRRK1512  1003  1037/323  W18 L4  W12 W10 L3  3.0
+  9 Bai, Kelin             PVECD75J  1080  1088/103  W24 W15 L3  W13 L2  3.0
+ 10 Ritter, Levi           LINHC692   919   924/ 67  L2  W24 W16 L8  W17 3.0
+ 11 Koh, Leroy             PVEF265U   949   958/ 25  W16 L3  W25 L5  W18 3.0
+ 12 Lanctot, Ethan         COBFA17V   768   872/ 98  L3  W20 L8  W14 W23 3.0
+ 13 Raghupathula, Ritvik   JFPFJ83M   677   795/ 15  L4  W21 W23 L9  W16 3.0
+ 14 Achanta, Rishi         LINH5243   912   932/ 52  L5  W18 D7  L12 W22 2.5
+ 15 Hochheimer, Noah       SGSEF37G   861   839/137  W25 L9  W19 L6  L7  2.0
+ 16 Wannamaker, Enid       HSCDD92N   400   681/  5  L11 W17 L10 W21 L13 2.0
+ 17 Wang, Kelby            PVEA796Y   651   637/ 40  L6  L16 W20 W25 L10 2.0
+ 18 Mynam, Nishanth        SUPDE13Y   668   665/ 14  L8  L14 BYE W24 L11 2.0
+ 19 Mulpuri, Pranav        KMPD428D   495   502/ 14  BYE L5  L15 L23 W25 2.0
+ 20 Sun, Isabella          SIAHD46J   493   475/ 31  L7  L12 L17 BYE D24 1.5
+ 21 Jones, Truman          FIVCH72L   518   492/ 35  L22 L13 D24 L16 BYE 1.5
+ 22 Schoenberger, Joshua   SJVHJ73R  1058   998/244  W21 L1  L4  L7  L14 1.0
+ 23 Keener, Karl           OKSFY40G   937   865/ 37  L1  L6  L13 W19 L12 1.0
+ 24 Raghupathula, Ishan    JFPDG37K   664   596/ 15  L9  L10 D21 L18 D20 1.0
+ 25 Sun, Amelia            SIAC284A   400   400/ 24  L15 BYE L11 L17 L19 1.0

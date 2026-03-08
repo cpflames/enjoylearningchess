@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhu, Jayden            HSCBD42U   602   745/ 17  W6  W3  W2  3.0
+  2 Iroha, Kenzo           HSCCI18X   583   607/ 19  W4  W5  L1  2.0
+  3 Stake, Charles         OESBM87Q   672   676/ 18  W5  L1  W4  2.0
+  4 Mane, Shrihan          RKWC645D   400   419/  3  L2  W6  L3  1.0
+  5 Deepak, Sairaghav      HSCFA52Q   476   462/ 20  L3  L2  W6  1.0
+  6 Bohannon, Andrew       LHTDG71E   456   400/ 43  L1  L4  L5  0.0

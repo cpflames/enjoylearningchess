@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Margiotta, Evan        ADUN922M  1521  1542/ 37  W3  W2  W4  3.0
+  2 Palm, Caleb            LIBI919S  1529  1511/189  W4  L1  W3  2.0
+  3 Powell, James          ADUNI23L   400   800/  3  L1  W4  L2  1.0
+  4 Hemperly, Harper       HSCCI09E   544   544/  6  L2  L3  L1  0.0

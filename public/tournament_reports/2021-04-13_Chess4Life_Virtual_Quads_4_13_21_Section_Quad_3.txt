@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Miller, Jackson        GATG301V   984  1004/ 57  W3  W4  L2  2.0
+  2 Chevuri, Tattva        CBRDC06V  1010  1023/186  W4  L3  W1  2.0
+  3 Praveen, Atharva       AUDDG14E   971   995/ 38  L1  W2  W4  2.0
+  4 Condit, Alex           TLIDB04F   893   834/ 42  L2  L1  L3  0.0

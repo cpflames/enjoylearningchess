@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sinha, Agastya         HSCCA75C  1273  1363/ 57  W4  W3  D2  2.5
+  2 Zhang, Aaron           MEDE873R  1304  1313/439  W3  L4  D1  1.5
+  3 Singh, Saket           DISI872S  1378  1348/338  L2  L1  W4  1.0
+  4 Mcintyre, Isaac        ETSC466S  1364  1337/ 65  L1  W2  L3  1.0

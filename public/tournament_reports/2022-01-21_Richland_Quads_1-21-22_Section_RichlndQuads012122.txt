@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ebsch, Christopher     ADUNC65C  1667  1685/ 20  W6  D5  W4  2.5
+  2 Margiotta, Evan        ADUN922M  1179  1308/ 10  L4  W6  W3  2.0
+  3 Khalil, Tayseer        ADUN773K  1845  1817/ 57  W5  D4  L2  1.5
+  4 Dillingham, Gregg      ADUNH327  1793  1775/149  W2  D3  L1  1.5
+  5 Palm, Caleb            LIBI919S  1485  1493/168  L3  D1  W6  1.5
+  6 Dillingham, Daniel     KCCEB73M  1031  1017/184  L1  L2  L5  0.0

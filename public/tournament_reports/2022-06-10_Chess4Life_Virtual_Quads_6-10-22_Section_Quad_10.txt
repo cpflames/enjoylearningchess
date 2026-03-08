@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tian, Leon             CHREJ05Z   400   772/  2  W3  W2  U   2.0
+  2 Wang, Aaron            BCAA631T   400   400/ 20  U   L1  D3  0.5
+  3 Shull, Philip          XXXED43R   400   400/  2  L1  U   D2  0.5

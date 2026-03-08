@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Carpenter, Abby        VSTGA99C   842   869/ 14  W16 W20 W7  W4  L2  4.0
+  2 Volker, Rune           VSTIK47N   800   969/  5  W18 W3  L6  W12 W1  4.0
+  3 Rickard, Harvey        VSTG511A   817   863/ 10  W15 L2  HPB W11 W8  3.5
+  4 Wagner, Sam            VSTHD69Z   672   778/  7  W9  W11 HPB L1  W5  3.5
+  5 Rafferty, Gloria       VSTHD95X   703   714/ 13  HPB W14 D8  W7  L4  3.0
+  6 Cash, Mason            VSTID997   661   746/ 11  W13 W23 W2  U   U   3.0
+  7 Morrow, Nikolai        VSTH954J   700   684/  5  W21 W12 L1  L5  W14 3.0
+  8 Egland, Crosby         VSTG264S   517   564/ 15  HPB W13 D5  HPB L3  2.5
+  9 Victorson, Emi         VSTHI59N   400   465/  7  L4  L15 W23 W21 HPB 2.5
+ 10 Moreau, Zayden         VSTHB68M   568   597/ 35  L22 U   U   W23 W18 2.0
+ 11 Parsons, Damien        VSTGC92H   533   534/ 13  W24 L4  U   L3  W20 2.0
+ 12 Belyatskiy, Artem      VSTG764W   524   522/ 14  W25 L7  W20 L2  U   2.0
+ 13 Greene, Kylie          VSTGE69K   497   474/  9  L6  L8  HPB W19 HPB 2.0
+ 14 Neuroth, Cor           VSTG798M   600   516/  3  HPB L5  W16 HPB L7  2.0
+ 15 Wagner, Adrien         VSTIE67F  1075   924/  5  L3  W9  HPB U   U   1.5
+ 16 Fitzpatrick, Gabriel   VSTG169M   740   579/  5  L1  HPB L14 U   BYE 1.5
+ 17 Cox, Mason             VSTGI31L   400   106/  6  L20 L18 HPB HPB D23 1.5
+ 18 Grumbles, Tyler        VSTHC11F   400   373/  6  L2  W17 U   U   L10 1.0
+ 19 Lee, Joedon            VSTHH11A   400   365/ 15  U   WF  U   L13 U   1.0
+ 20 Rodriguez-bedoy, ZanielVSTIG08M   800   284/  4  W17 L1  L12 U   L11 1.0
+ 21 Falcon, Aimee          VSTGH09Q   600   100/  2  L7  U   BYE L9  U   1.0
+ 22 Paliyev, Peter         VSTI365T   800   995/  1  W10 U   U   U   U   1.0
+ 23 Clemens, Jacob         VSTIA32X   396   328/ 12  U   L6  L9  L10 D17 0.5
+ 24 Paliiyev, Milan        VSTGB00M   600   145/  1  L11 U   U   U   U   0.0
+ 25 Paliyev, Melodie       VSTIK48D   800   155/  1  L12 U   U   U   U   0.0

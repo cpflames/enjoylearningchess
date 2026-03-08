@@ -1,0 +1,30 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Genkin, Bogdan         MEDEJ26Q   905  1154/ 10  W13 W27 W3  W6  W2  5.0
+  2 Urali, Sanjay          MEDE315D  1438  1414/307  W11 W8  W5  W4  L1  4.0
+  3 Shen, Enoch            BLWEH90P  1061  1066/ 35  W18 W9  L1  W19 W8  4.0
+  4 Nair, Ishan            FRWE670E  1061  1082/ 77  W26 W10 W15 L2  W14 4.0
+  5 Kuruvilla, Milan       MEDE706J   938   977/111  W19 W14 L2  W11 W10 4.0
+  6 Sankar, Sneha          CNCE372B  1007   987/223  W23 HPB W16 L1  D7  3.0
+  7 Sia, Derrick           MEDED95Y   930   899/ 94  WF  L15 HPB W24 D6  3.0
+  8 Sailer, Shaunak        ENAEC25Z   827   862/154  W20 L2  W13 W15 L3  3.0
+  9 Deng, Alison           MEDEC56H   703   719/ 39  W21 L3  L14 W20 W19 3.0
+ 10 Zak, Slater            SVSEC44B   587   672/ 10  W22 L4  W21 W12 L5  3.0
+ 11 Schechter, Evan        MEDE812M   400   467/ 29  L2  W20 W23 L5  W24 3.0
+ 12 Chen, Elliot Ym        MEDE650F   400   705/  4  LF  W25 W22 L10 W16 3.0
+ 13 Peng, Yuning           MEDE960H   400   723/  5  L1  W17 L8  W27 W18 3.0
+ 14 Li, Augusta            MEDEK27E   400   849/  5  W29 L5  W9  W16 L4  3.0
+ 15 Tsai, Tristan          MEDE816N   400   831/  5  W25 W7  L4  L8  W17 3.0
+ 16 Krzeszowski, Anthony   MYHEI41R   509   548/ 28  W24 W28 L6  L14 L12 2.0
+ 17 Thorn, Henry           MEDE929T   400   424/ 33  LF  L13 W26 W21 L15 2.0
+ 18 Li, Jasmine            MEDEG15H   400   458/  5  L3  L21 W29 W22 L13 2.0
+ 19 Magarkar, Vivaan       MEDE956L   400   608/  5  L5  W29 W27 L3  L9  2.0
+ 20 Li, Jayden             MEDEG59W   400   454/  5  L8  L11 W25 L9  W27 2.0
+ 21 Swetman, Adelyn        MEDE560Q   400   400/  5  L9  W18 L10 L17 W23 2.0
+ 22 Zhang, Celine          MEDE408M   400   400/  4  L10 W26 L12 L18 WF  2.0
+ 23 Gutierrez Ortega, LeonaMEDB714A   400   400/  4  L6  D24 L11 WF  L21 1.5
+ 24 Chen, Grace            MEDD841H   400   400/  4  L16 D23 WF  L7  L11 1.5
+ 25 Wang, Oscar            MEDE243H   573   504/ 13  L15 L12 L20 W26 LF  1.0
+ 26 Gutierrez Ortega, PatriMEDEA62J   400   400/  4  L4  L22 L17 L25 BYE 1.0
+ 27 Gao, Tate              MEDEK78C   400   400/  4  WF  L1  L19 L13 L20 1.0
+ 28 Chaurasia, Vihaan      HMNEH65G  1155  1098/100  U   L16 LF  U   U   0.0
+ 29 Zhang, Justin          MEDE935G   646   552/ 30  L14 L19 L18 LF  U   0.0

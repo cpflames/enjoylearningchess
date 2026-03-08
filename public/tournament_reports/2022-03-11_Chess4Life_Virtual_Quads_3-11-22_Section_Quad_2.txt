@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Frederick, Benjamin    LAUES57X  1493  1574/164  W2  W4  W3  3.0
+  2 Pisan, Kai             CHYH404C  1467  1491/292  L1  W3  W4  2.0
+  3 Singh, Saket           DISI872S  1500  1478/312  W4  L2  L1  1.0
+  4 Zhou, Yuchen           BCACJ42H  1451  1399/422  L3  L1  L2  0.0

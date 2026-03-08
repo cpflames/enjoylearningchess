@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kok, Bulut             LAVEE54B   925  1007/123  W3  W2  W4  3.0
+  2 Zhang, Adam            BCAD547Z   802   851/ 75  W4  L1  W3  2.0
+  3 Fox-devol, Zachary     XXXEI93P   837   812/ 71  L1  W4  L2  1.0
+  4 Achache, Enzo          XXXC308Q   785   713/ 12  L2  L3  L1  0.0

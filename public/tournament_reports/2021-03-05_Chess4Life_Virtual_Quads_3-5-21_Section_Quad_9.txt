@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Alam, Adil             BCAFI15X  1020  1138/133  W4  W2  W3  3.0
+  2 Ren, Aaron             HSCBG67B   998  1035/ 34  W3  L1  W4  2.0
+  3 Zhu, Kevin             CSMB865U   996   978/165  L2  W4  L1  1.0
+  4 Rastogi, Reyansh       LMAED30N  1027   951/ 96  L1  L3  L2  0.0

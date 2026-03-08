@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Beegala, Dhruv         SHVBC52Y   764   833/ 14  W3  W2  U   2.0
+  2 Dwivedi, Yash          SPTE468T   861   840/  8  U   L1  W3  1.0
+  3 Condit, Theo           TLIAJ39C   774   720/ 49  L1  U   L2  0.0

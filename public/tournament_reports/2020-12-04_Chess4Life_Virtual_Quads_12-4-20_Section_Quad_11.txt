@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhao, Dennis           CGRE525E   918  1066/ 95  W4  W3  W2  3.0
+  2 Mitra, Rahul           OPWFH53N   925   972/105  W3  W4  L1  2.0
+  3 Yu, Christopher        SPTG591U   974   946/119  L2  L1  W4  1.0
+  4 Zheng, Lucas           SOMB194Y   965   888/ 38  L1  L2  L3  0.0

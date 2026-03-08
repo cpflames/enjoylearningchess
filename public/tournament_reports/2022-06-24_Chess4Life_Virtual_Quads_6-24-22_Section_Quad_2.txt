@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sinha, Agastya         HSCCA75C  1426  1460/ 69  W4  W2  D3  2.5
+  2 Li, Andrew             REJI769K  1370  1395/215  W3  L1  W4  2.0
+  3 Xie, Max               BLWHI185  1401  1397/382  L2  W4  D1  1.5
+  4 Wang, Jacob            BLWED74Y  1341  1288/211  L1  L3  L2  0.0

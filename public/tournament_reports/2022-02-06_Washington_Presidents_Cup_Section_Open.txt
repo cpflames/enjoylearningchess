@@ -1,0 +1,28 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Levine, Joseph         DAOJD260  2251  2269/234  W20 W17 W7  W5  W12 5.0
+  2 Kona, Vidip            RSADI26J  1929  1939/244  W11 W22 D12 D6  W9  4.0
+  3 Diamond, Colin         ADUN6531  1902  1916/ 41  D24 W13 W21 D12 W7  4.0
+  4 Jiang, Brandon         BLLJ7768  2154  2142/475  L21 W18 HPB W14 W17 3.5
+  5 Liu, Austin            PLKH530J  2004  2019/278  W16 W14 HPB L1  W13 3.5
+  6 Vemparala, Nikash      OVLGI078  1943  1935/367  W25 L7  W16 D2  D8  3.0
+  7 Tessiore, Luca         DCTFP42N  1823  1846/173  W26 W6  L1  W11 L3  3.0
+  8 Min, Ryan              OMSH5430  1929  1927/342  HPB W24 D9  D17 D6  3.0
+  9 Willy, Stephen         HSCGH17K  1880  1882/477  W15 D21 D8  W20 L2  3.0
+ 10 Bian, Erin             LMSGI91Y  1919  1893/160  W18 L12 L11 W26 W20 3.0
+ 11 Maksyutov, Zaki        ADUNE65D  1652  1741/  9  L2  W23 W10 L7  W22 3.0
+ 12 Reutter, Karl          ADUN3486  1370  1539/116  W19 W10 D2  D3  L1  3.0
+ 13 Lu, Yiding             NPTF865Z  1945  1931/212  HPB L3  W24 W21 L5  2.5
+ 14 Tu, Robin              ADUN9951  1809  1806/320  W23 L5  W19 L4  HPB 2.5
+ 15 Kandhare, Ojas         INTKJ90T  1606  1625/ 72  L9  L20 W25 W19 D16 2.5
+ 16 Livesey, Peter         ADUNH35F  1300  1733/  5  L5  W27 L6  W23 D15 2.5
+ 17 Razmov, Valentin       ADUNB02T  1801  1813/ 70  W27 L1  W26 D8  L4  2.5
+ 18 Shah, Paras            EVJG904N  1636  1657/165  L10 L4  W27 HPB W26 2.5
+ 19 Corey-derrah, Alan     ADUNF928  1473  1466/ 41  L12 BYE L14 L15 W27 2.0
+ 20 Wang, Ted              MEDCK13D  1800  1788/169  L1  W15 W22 L9  L10 2.0
+ 21 Seshadri, Sridhar      ADUNC121  1758  1774/ 47  W4  D9  L3  L13 U   1.5
+ 22 Zhang, Michelle        MEDF889L  1508  1496/320  BYE L2  L20 D24 L11 1.5
+ 23 Liu, Lucas             SOMEH33R  1539  1513/161  L14 L11 BYE L16 HPB 1.5
+ 24 Devaraju, Sonia        OMSJK838  1607  1604/490  D3  L8  L13 D22 U   1.0
+ 25 Razmov, Gabriel        ADDGC26K  1668  1600/187  L6  L26 L15 L27 BYE 1.0
+ 26 Nallappa, Vijay        REJGD40S  1602  1585/295  L7  W25 L17 L10 L18 1.0
+ 27 Ramkumar, Nikhil       RBRE115E  1624  1580/149  L17 L16 L18 W25 L19 1.0

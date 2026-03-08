@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Siddem, Sid            RHJHC34V  1413  1430/339  W3  W4  L2  2.0
+  2 Xie, Max               BLWGI185  1385  1388/299  L4  D3  W1  1.5
+  3 Zhou, Yuchen           BCABJ42H  1388  1391/323  L1  D2  W4  1.5
+  4 Purohit, Yuti          BCWGC435  1411  1388/264  W2  L1  L3  1.0

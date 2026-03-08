@@ -1,0 +1,34 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 tot 
+  1 Enriquez, Daniel       EALK7733   889  1230/ 33  W23 W7  W19 W14 W2  D4  5.5
+  2 Xia, Yuchen            BLMHI52A  1164  1239/ 95  WF  W18 W16 W4  L1  W5  5.0
+  3 Tan, Timothy           ISSK4762   913  1067/ 36  W30 W5  L14 W27 W17 W12 5.0
+  4 Ehrenberg, Joshua      HCCKH373  1188  1204/130  W25 W29 W15 L2  W11 D1  4.5
+  5 Mcateer, Benjamin      WMSGH53Q  1156  1152/ 79  W28 L3  W21 W16 W7  L2  4.0
+  6 Maher, Joseph          SANH1940  1212  1181/237  D13 D12 L8  W18 W16 W11 4.0
+  7 Nelson, Ben            REGHD43V  1136  1137/147  W21 L1  W25 W15 L5  W22 4.0
+  8 Miller, Chloe          FRDH2385   821  1009/ 93  L9  W33 W6  D20 D10 W15 4.0
+  9 Raj, Vishruth          OMSLB364  1184  1145/556  W8  L16 L12 W21 W26 W17 4.0
+ 10 Bhaskara, Yash         WPPGI539  1303  1255/195  L15 W22 D18 W24 D8  W20 4.0
+ 11 Eksarevskiy, Albert    WPPG530Y   600  1036/  6  D14 W20 W24 W12 L4  L6  3.5
+ 12 Wakeman, Oliver        NJHHG10Y   400   771/  9  WF  D6  W9  L11 W14 L3  3.5
+ 13 Ngo, Joshua            BTMHB43H   903   939/ 65  D6  L14 L23 W31 W28 W27 3.5
+ 14 Raje, Atharva          SLLGL432   999  1004/ 88  D11 W13 W3  L1  L12 D18 3.0
+ 15 Neti, Pranav           PFCJ128D  1015  1040/ 99  W10 W17 L4  L7  W19 L8  3.0
+ 16 Gupta, Ishaan          INGG660Y   999  1003/ 52  W31 W9  L2  L5  L6  W30 3.0
+ 17 Zhou, Michelle         WPPHC11N   700   986/  6  W22 L15 W29 W19 L3  L9  3.0
+ 18 Shah, Aalay            DISG154L   930   968/165  W33 L2  D10 L6  W23 D14 3.0
+ 19 Sood, Akul             SASH510U  1018   985/118  W32 W26 L1  L17 L15 W25 3.0
+ 20 Jain, Ayush            DISH535M  1083  1039/ 55  D24 L11 W26 D8  W29 L10 3.0
+ 21 Kamalakannan, NetthrayaSKWHE22N   749   777/ 83  L7  BYE L5  L9  W32 W29 3.0
+ 22 Karna, Venkat Kaushik  MAHGD88K   915   911/ 44  L17 L10 BYE W32 W27 L7  3.0
+ 23 Parimi, Sandilya       PFCI914G  1209  1115/358  L1  L24 W13 D28 L18 W26 2.5
+ 24 Nadupalli, Abhinav     PLKI676B   661   735/ 42  D20 W23 L11 L10 L25 D28 2.0
+ 25 Jain, Tanya            PLKJ327W   833   806/ 47  L4  W31 L7  L26 W24 L19 2.0
+ 26 Ram, Joey              THOGF94L   690   760/ 54  W27 L19 L20 W25 L9  L23 2.0
+ 27 Yun, Ted               SOMEF52H  1091   978/ 52  L26 W32 W28 L3  L22 L13 2.0
+ 28 Heider, Elena          NOVGC647   799   795/ 31  L5  W30 L27 D23 L13 D24 2.0
+ 29 Sabetti, Kyler         HCCHK57D   871   810/ 15  WF  L4  L17 W30 L20 L21 2.0
+ 30 Lin, Timothy           HCCGH24E   600   650/  6  L3  L28 W31 L29 W33 L16 2.0
+ 31 Albert, Jesse          WPPGI55P   768   638/  9  L16 L25 L30 L13 BYE W33 2.0
+ 32 Srivastava, Dhruv      WPPJK08Y   900   570/  5  L19 L27 W33 L22 L21 BYE 2.0
+ 33 Stubbers, Emerson      SMCG753N   600   400/  5  L18 L8  L32 BYE L30 L31 1.0

@@ -1,0 +1,15 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Vemparala, Nikash      OVLGI078  1914  1943/362  W8  W5  W4  W3  D2  4.5
+  2 Tessiore, Luca         DCTFP42N  1806  1823/168  L10 W6  W12 W5  D1  3.5
+  3 Willy, Stephen         HSCGH17K  1869  1863/456  D6  W11 D9  L1  W4  3.0
+  4 Wang, Ted              MEDCK13D  1789  1800/164  W13 W12 L1  W9  L3  3.0
+  5 Zhu, Jamie             SSMF558E  1751  1764/286  W7  L1  W10 L2  W11 3.0
+  6 Karthikeyan, HarishkumaREJGJ81A  1647  1678/186  D3  L2  D14 W10 W12 3.0
+  7 Tiwari, Arjun          INTL383B  1667  1689/ 72  L5  D8  W13 D12 W9  3.0
+  8 Chan, Ethan            HSCIF14H  1655  1659/210  L1  D7  L11 W14 W13 2.5
+  9 Wang, Ethan            SKNL4017  1772  1747/ 89  D11 W10 D3  L4  L7  2.0
+ 10 Shah, Paras            EVJG904N  1646  1644/157  W2  L9  L5  L6  W14 2.0
+ 11 Verma, Darsh           WONFB52K  1606  1616/124  D9  L3  W8  HPB L5  2.0
+ 12 Cheng, Edward          GARJC74W  1731  1696/341  W14 L4  L2  D7  L6  1.5
+ 13 Razmov, Gabriel        ADDGC26K  1646  1599/179  L4  D14 L7  BYE L8  1.5
+ 14 Lin, Michael           BCACC97F  1580  1546/219  L12 D13 D6  L8  L10 1.0

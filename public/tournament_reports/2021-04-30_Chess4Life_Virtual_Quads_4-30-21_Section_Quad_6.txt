@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 White, Nolan           WSCJI089  1215  1321/112  W4  W2  W3  3.0
+  2 Zhang, Ethan (yichen)  CRIDG57B  1224  1225/102  W3  L1  WF  2.0
+  3 Aggarwal, Aadit        LEOHE722  1179  1140/379  L2  WF  L1  1.0
+  4 Zakonov, Pasha         BCAHJ63K  1222  1203/ 48  L1  LF  LF  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sethi, Ivanka          STVDF96K  1018  1139/ 41  W3  W4  W2  3.0
+  2 Wong, Marlin           MTWII126  1036  1059/ 41  W4  W3  L1  2.0
+  3 Guilliams, Avery       KAMJ231A   995   976/ 12  L1  L2  W4  1.0
+  4 Taylor, Ryder          HPTI385C  1015   943/125  L2  L1  L3  0.0

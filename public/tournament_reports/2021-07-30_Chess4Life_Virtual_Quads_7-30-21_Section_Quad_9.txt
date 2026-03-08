@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Condit, Alex           TLIDB04F  1104  1147/ 65  W2  W3  D4  2.5
+  2 Bansal, Vivaan         EVJG452J  1013  1060/ 37  L1  W4  W3  2.0
+  3 Wu, Tony               MEDI1714  1062  1037/120  W4  L1  L2  1.0
+  4 Xie, Michael           BLWE549C  1037   993/226  L3  L2  D1  0.5

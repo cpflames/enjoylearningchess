@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Stein, Benjamin        HSCBB61S  1272  1336/150  W2  D4  W3  2.5
+  2 Yang, James            SSME123B  1283  1305/161  L1  W3  W4  2.0
+  3 Zhang, Aaron           CCDD873R  1274  1254/297  W4  L2  L1  1.0
+  4 Chopra, Nikita         OMSH297H  1282  1238/ 27  L3  D1  L2  0.5

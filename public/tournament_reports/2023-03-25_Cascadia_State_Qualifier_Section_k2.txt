@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Tandon, Copen          FACCK83H   577   608/ 10  W7  W10 W2  W5  L3  4.0
+  2 Rosenlieb, Yonit       SKYCK37F   200   597/  5  W13 W11 L1  W8  W5  4.0
+  3 Buckham, George        SKYBK37E   100   597/  5  W4  L5  W15 W11 W1  4.0
+  4 Snyder, Damien         CEECC98M   513   446/  9  L3  BYE D6  W12 D8  3.0
+  5 Everbeck, Grey         FACCK83D   281   369/  9  BYE W3  W9  L1  L2  3.0
+  6 Solano Santos, Lorenzo CIACK37D   200   358/  5  D8  L9  D4  W15 W11 3.0
+  7 Gong, Fedora           SKYCK37C   200   369/  5  L1  W13 L8  W9  W12 3.0
+  8 White, Josh            CEECK37B   200   422/  5  D6  W12 W7  L2  D4  3.0
+  9 Verduin, Bentley       CUECK37A   200   244/  5  D12 W6  L5  L7  W14 2.5
+ 10 Statzel, John          CEECK36Z   200   225/  5  W14 L1  L11 D13 W15 2.5
+ 11 Bannister, Altair      EAGBK36Y   100   265/  5  W15 L2  W10 L3  L6  2.0
+ 12 Saurer, Grayson        CIABK36W   100   137/  5  D9  L8  W14 L4  L7  1.5
+ 13 Lewis, Landon          CIACK36V   200   100/  3  L2  L7  BYE D10 U   1.5
+ 14 Javed, Peter           SKYBK36U   100   100/  4  L10 L15 L12 BYE L9  1.0
+ 15 Luther, Anita          WKECK36T   200   100/  5  L11 W14 L3  L6  L10 1.0

@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Carman, Leif           RICKB289  1511  1650/221  W3  W6  D2  2.5
+  2 Scott, Dane            HSCL293V  1846  1837/ 10  W5  W4  D1  2.5
+  3 Khalil, Tayseer        ADUN773K  1923  1889/ 18  L1  W8  W5  2.0
+  4 Chung, Ethan           LIBE108U  1567  1560/262  W8  L2  W7  2.0
+  5 Palm, Caleb            LIBH919S  1430  1423/134  L2  W7  L3  1.0
+  6 Dillingham, Gregg      ADUNH327  1783  1760/140  U   L1  W8  1.0
+  7 Dee, Ryan              ADUND18B  1300   400/  2  HPB L5  L4  0.5
+  8 Fortier, Michael       ADUNH53W  1300   400/  3  L4  L3  L6  0.0

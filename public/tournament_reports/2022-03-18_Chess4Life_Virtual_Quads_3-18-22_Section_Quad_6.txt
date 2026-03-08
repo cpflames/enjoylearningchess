@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Aggarwal, Aadit        LEOIE722  1158  1177/415  W4  W3  L2  2.0
+  2 Hochberg, David        SUEJ6075  1158  1177/191  W3  L4  W1  2.0
+  3 Wang, Jacob            BLWED74Y  1139  1116/190  L2  L1  W4  1.0
+  4 Parimi, Sandilya       PFCJ914G  1112  1096/381  L1  W2  L3  1.0

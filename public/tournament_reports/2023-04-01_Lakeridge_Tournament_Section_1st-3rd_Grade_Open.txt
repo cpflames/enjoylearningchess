@@ -1,0 +1,21 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Palathingal, Rafael    BEND196R  1157  1280/ 38  W17 W8  W6  W10 D3  4.5
+  2 Chaudhuri, Arihant     CHAD703E  1230  1246/184  L8  W17 W11 W13 W6  4.0
+  3 Edwin, Elijah          BCSCC24D  1145  1220/ 98  W18 W20 D10 W4  D1  4.0
+  4 Pai, Vihaan            CHADK17C  1284  1283/157  D11 W5  W7  L3  W10 3.5
+  5 Su, Oliver             JINCD01U   887  1055/ 85  D16 L4  W17 W12 W11 3.5
+  6 Bates-callaghan, EmmettBCSDJ49J  1166  1173/ 55  W9  W12 L1  W14 L2  3.0
+  7 Kakkad, Vayu           DCTCK50L  1101  1107/470  W19 L10 L4  W15 W14 3.0
+  8 Zhao, William          STTCH70M  1012  1090/ 53  W2  L1  W12 L11 W16 3.0
+  9 Ma, Lewis              BRBB587M  1001  1017/ 40  L6  L15 W16 W20 W13 3.0
+ 10 Xu, Yang               CNCD649B  1166  1169/ 60  W14 W7  D3  L1  L4  2.5
+ 11 Narkhede, Kshitij      CRKBA27K  1054  1080/ 48  D4  W16 L2  W8  L5  2.5
+ 12 Luo, Peter             SHVD664K  1062  1028/ 39  W15 L6  L8  L5  W19 2.0
+ 13 Flores Uriegas, Andres HLYD159F  1061  1011/ 37  L20 W18 W15 L2  L9  2.0
+ 14 Chaudhuri, Agnivesh    CHADB55V  1036  1010/170  L10 W19 W20 L6  L7  2.0
+ 15 Ye, Alex               ENDDH51L   880   900/ 53  L12 W9  L13 L7  W17 2.0
+ 16 Bhat, Avaneesh         BNTDK34H  1141  1006/ 10  D5  L11 L9  W19 L8  1.5
+ 17 Maharaja, Imai         RKWCK34K   983   928/ 14  L1  L2  L5  W18 L15 1.0
+ 18 Wang, Evan             FRWC929Z   928   862/ 80  L3  L13 L19 L17 W20 1.0
+ 19 Zhang, Harvey          UCDB515V   884   845/ 30  L7  L14 W18 L16 L12 1.0
+ 20 Dhameeja, Ved          GRRDJ98F   830   814/ 31  W13 L3  L14 L9  L18 1.0

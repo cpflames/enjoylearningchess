@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Roesch, Carson         BLHK120K  1780  1802/224  W3  W2  W4  3.0
+  2 Scollon, Owen          FHVH734D  1550  1587/376  W4  L1  W3  2.0
+  3 Lee, Jae-yoon          SHMKC734  1572  1564/ 92  L1  W4  L2  1.0
+  4 Trushkov, Max          FERK616A  1602  1553/159  L2  L3  L1  0.0

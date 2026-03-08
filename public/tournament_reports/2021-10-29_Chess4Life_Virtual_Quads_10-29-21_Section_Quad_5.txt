@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pisan, Kai             CHYH404C  1224  1285/184  W3  D2  W4  2.5
+  2 Gadde, Arnav           ENSDJ39D  1216  1281/ 26  W4  D1  W3  2.5
+  3 Zhu, Kevin             CSMC865U  1197  1181/218  L1  W4  L2  1.0
+  4 Pravlik, Aiden         SHSC416H  1221  1154/188  L2  L3  L1  0.0

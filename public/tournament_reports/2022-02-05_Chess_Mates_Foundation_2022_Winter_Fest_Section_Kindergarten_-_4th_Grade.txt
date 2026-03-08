@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Stein, Benjamin        HSCCB61S  1430  1403/186  W6  L3  W5  W4  W2  4.0
+  2 Stein, Samuel          HSCEH03T  1148  1164/176  W9  W4  W3  W6  L1  4.0
+  3 Lo Conte, Augustus     CSIC331E   803   902/ 42  W8  W1  L2  W7  W5  4.0
+  4 Balayoghan, Keeran     SPTE477N   959   958/ 19  W7  L2  W8  L1  W6  3.0
+  5 Sembium, Aditi         BCABK25W   592   603/ 13  BYE W9  L1  W8  L3  3.0
+  6 Zhang, Kevin           SPTD809Y   769   749/ 54  L1  BYE W9  L2  L4  2.0
+  7 Carrell, Sam           STCE943D   400   400/  4  L4  L8  BYE L3  W9  2.0
+  8 Casino, Eli            STCDI15Q   400   414/  9  L3  W7  L4  L5  BYE 2.0
+  9 Odupitan, Oliver       STCE964H   400   400/  4  L2  L5  L6  BYE L7  1.0

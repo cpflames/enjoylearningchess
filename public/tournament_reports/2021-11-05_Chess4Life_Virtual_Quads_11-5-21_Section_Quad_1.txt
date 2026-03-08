@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhou, Yuchen           BCACJ42H  1490  1587/365  D2  W3  W4  2.5
+  2 Gijare, Sayali         SKWJE100  1680  1667/546  D1  L4  W3  1.5
+  3 Seela, Shashank        SSMFI74N  1680  1650/110  W4  L1  L2  1.0
+  4 Boulis, Christos       RHJIC84T  1546  1541/505  L3  W2  L1  1.0

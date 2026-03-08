@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 rd6 rd7 rd8 rd9 tot 
+  1 Koppala, Sankalp       SKRHJ27H  1439  1609/109  W3  D7  W10 W5  W4  W9  W6  D8  D2  7.5
+  2 Ramkumar, Nikhil       RBRF115E  1646  1629/218  W6  L8  W9  L3  W7  W10 D5  W4  D1  6.0
+  3 Siddem, Sid            RHJJC34V  1497  1519/439  L1  D6  W8  W2  W9  D7  W10 D5  L4  5.5
+  4 Bharathy Mohan, Aarav  FRWEC98B  1424  1487/290  D7  W10 W5  D9  L1  D6  W8  L2  W3  5.5
+  5 Sharma, Devansh        KMNIF88S  1473  1475/160  W10 W9  L4  L1  L6  D8  D2  D3  W7  4.5
+  6 Merriman, Dann         EREDF79Y  1576  1539/509  L2  D3  W7  W10 W5  D4  L1  L9  D8  4.5
+  7 Wong, Kate             BCAE459M  1450  1446/128  D4  D1  L6  W8  L2  D3  D9  W10 L5  4.0
+  8 Reddy Saddi, Neevan    GRRDH87M  1511  1453/126  L9  W2  L3  L7  D10 D5  L4  D1  D6  3.0
+  9 Shankaranand, Deeksha  EBSEI74Y  1284  1313/210  W8  L5  L2  D4  L3  L1  D7  W6  L10 3.0
+ 10 Koppala, Sambhav       SKRGG20G  1379  1324/106  L5  L4  L1  L6  D8  L2  L3  L7  W9  1.5

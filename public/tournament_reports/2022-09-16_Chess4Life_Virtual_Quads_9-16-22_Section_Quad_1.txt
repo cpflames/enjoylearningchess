@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Pisan, Kai             CHYJ404C  1753  1757/393  W4  D2  W3  2.5
+  2 Gadde, Arnav           ENSEJ39D  1555  1605/ 97  W3  D1  W4  2.5
+  3 Upreti, Parthavi       TBKG754L  1507  1500/131  L2  W4  L1  1.0
+  4 Sinha, Agastya         HSCDA75C  1460  1422/101  L1  L3  L2  0.0

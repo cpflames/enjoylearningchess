@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Alam, Adil             BCAGI15X  1392  1419/265  W4  W2  D3  2.5
+  2 Zhao, Dennis           CGRF525E  1279  1318/245  W3  L1  W4  2.0
+  3 Bhattacharjee, ArchishmBLWFA45Y  1355  1349/158  L2  W4  D1  1.5
+  4 Zhu, Kevin             CSMC865U  1278  1224/288  L1  L3  L2  0.0

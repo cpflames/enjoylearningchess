@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Jayadevan, Kunal       SCDA893P   735   779/ 10  D6  W2  W4  W3  L5  3.5
+  2 Ivanovic, Lena         UCDAK55K   755   751/126  L4  L1  W5  W6  W3  3.0
+  3 Yang, Jimmy            BCABG45S   783   744/ 29  W5  D4  W6  L1  L2  2.5
+  4 Agrawal, Sakash        CLHBC98H   612   642/ 19  W2  D3  L1  L5  W6  2.5
+  5 Iyer, Suchir           NLMBA22D   663   638/ 10  L3  L6  L2  W4  W1  2.0
+  6 Shenoy, Avani          XXXAA16V   400   549/  5  D1  W5  L3  L2  L4  1.5

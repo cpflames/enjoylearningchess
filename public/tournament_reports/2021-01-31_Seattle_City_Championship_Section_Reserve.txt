@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wei, Brian             SLVGP31C  1661  1695/135  W23 W9  W7  W2  D3  4.5
+  2 Vasey, Daniel          ADONP68N  1300  1713/  5  W16 W10 W6  L1  W8  4.0
+  3 Cheng, Edward          WMSIC74W  1723  1733/191  W25 D15 W5  W12 D1  4.0
+  4 Zhang, Michelle        MEDE889L  1340  1442/280  W17 W20 HPB HPB W7  4.0
+  5 Smith, Catherine M     ADUNH707  1652  1665/ 23  HPB W22 L3  W13 W12 3.5
+  6 Kypriotakis, Kyriakos  ADONW959  1458  1480/ 67  W24 W14 L2  W9  HPB 3.5
+  7 Ellner, Adam           ADUN6906  1377  1406/358  W13 W8  L1  W11 L4  3.0
+  8 Vo, Dylan              MRRKK92D  1000  1430/  5  W18 L7  W20 W10 L2  3.0
+  9 Borate, Neel           REEE821E  1378  1398/162  W21 L1  W17 L6  W18 3.0
+ 10 Blachman, Justin       ADUNC478  1495  1478/206  W11 L2  W24 L8  W14 3.0
+ 11 Carman, Leif           RICKB289   955  1143/193  L10 W16 W23 L7  W17 3.0
+ 12 Willy, Stephen         MMEFH17K  1688  1646/319  D22 W18 W15 L3  L5  2.5
+ 13 Ejsing, Simon          ADUN158D  1300  1352/  5  L7  W19 D14 L5  W22 2.5
+ 14 Cheng, Selina          THUD413R  1303  1298/172  BYE L6  D13 W15 L10 2.5
+ 15 Fong, Byron            INTMG332  1117  1181/ 88  W19 D3  L12 L14 W23 2.5
+ 16 Zhang, Michael M.      MEDC668Q  1254  1238/364  L2  L11 W25 HPB W19 2.5
+ 17 Meiyalagan, Ruban Sai  WLDED10L  1560  1482/115  L4  W21 L9  W23 L11 2.0
+ 18 Ruff, Lois             ADUNJ90S  1112  1154/ 66  L8  L12 W22 W20 L9  2.0
+ 19 Ehrenberg, Joshua      HCCKH373  1179  1155/119  L15 L13 W21 W24 L16 2.0
+ 20 Varthakavi, Sreecharan CRKI5995  1113  1079/100  BYE L4  L8  L18 W25 2.0
+ 21 Ejsing, Oscar          THRFE57F   500  1051/  4  L9  L17 L19 BYE W24 2.0
+ 22 Kamel, Yaseen          PFCID57L  1306  1270/ 61  D12 L5  L18 W25 L13 1.5
+ 23 Sood, Akul             SASH510U  1057  1018/112  L1  BYE L11 L17 L15 1.0
+ 24 Perez, Osvaldo         JMLJI537  1067  1018/200  L6  W25 L10 L19 L21 1.0
+ 25 Ejsing, Konrad         RFKD588A   400   400/  5  L3  L24 L16 L22 L20 0.0

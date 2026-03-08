@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ginotra, Karman        RKWCB15D   400   622/  6  W2  W4  W3  3.0
+  2 Upreti, Parthavi       XXXE754L   400   607/  3  L1  W3  W4  2.0
+  3 Sabharwal, Aryanna     CRIFB90J   500   400/  3  W4  L2  L1  1.0
+  4 Arvind, Malavi         ETSA123N   400   400/  3  L3  L1  L2  0.0

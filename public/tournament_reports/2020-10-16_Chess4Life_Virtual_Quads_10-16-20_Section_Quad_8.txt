@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kapur, Viraaj          RSACA71K   982  1118/ 70  W3  W2  W4  3.0
+  2 Pravlik, Aiden         SHSB416H  1045  1062/106  W4  L1  W3  2.0
+  3 Verretto, Dante        EMSIS76P  1004   982/ 88  L1  W4  L2  1.0
+  4 Kan, Kaleb             MMECF53E   972   907/ 54  L2  L3  L1  0.0

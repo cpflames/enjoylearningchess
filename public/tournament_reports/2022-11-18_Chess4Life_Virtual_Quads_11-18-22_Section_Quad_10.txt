@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Chufei             CNHC389T   475   489/ 24  W4  W3  L2  2.0
+  2 Song, Oliver           HSCDF09J   411   454/ 27  W3  L4  W1  2.0
+  3 Udelson, Wyatt         LAVBA96H   422   392/ 13  L2  L1  W4  1.0
+  4 Wang, Harvey           OPWAJ68G   400   364/  7  L1  W2  L3  1.0

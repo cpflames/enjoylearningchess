@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jha, Siddhant          SSMGG46N  1293  1433/289  W2  W3  W4  3.0
+  2 Han, Matthew           BISH5262  1357  1384/243  L1  W4  W3  2.0
+  3 Cha, Samuel            LAVDK18Z  1483  1423/ 85  D4  L1  L2  0.5
+  4 Kamel, Yaseen          PFCID57L  1324  1295/ 49  D3  L2  L1  0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bhaskara, Yash         WPPHI539  1213  1284/201  D2  W3  W4  2.5
+  2 Bar, Nathan            AUDC368C  1250  1246/163  D1  W4  L3  1.5
+  3 Zhu, Kevin             CSMC865U  1229  1208/240  L4  L1  W2  1.0
+  4 Bhattacharjee, ArchishmBLWFA45Y  1220  1201/139  W3  L2  L1  1.0

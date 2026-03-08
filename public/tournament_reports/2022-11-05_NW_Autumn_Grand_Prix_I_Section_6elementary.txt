@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Thompson, Grant        MGVE337E   583   708/  8  W4  W2  W3  3.0
+  2 Fine-gucker, Logan     EAGD535R   572   579/ 27  W6  L1  W5  2.0
+  3 Coslick, Benjamin      SKYFE03M   561   547/ 12  W5  D4  L1  1.5
+  4 Manookin, Jared        HSCDD11V   403   431/ 35  L1  D3  W6  1.5
+  5 Thompson, Mabel        MGVDK94U   400   400/  3  L3  W6  L2  1.0
+  6 Manookin, Adam         HSCDF67L   400   400/ 35  L2  L5  L4  0.0

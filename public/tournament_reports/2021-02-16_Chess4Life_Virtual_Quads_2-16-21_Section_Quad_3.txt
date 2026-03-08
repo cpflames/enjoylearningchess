@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Evans, Thomas          HSCGK88J   782   913/ 15  W4  W3  D2  2.5
+  2 Dalal, Raahi           CNHC949K   800   823/ 22  L3  W4  D1  1.5
+  3 Bar, Nathan            AUDB368C   982   926/ 40  W2  L1  L4  1.0
+  4 Condit, Alex           TLIDB04F   862   839/ 33  L1  L2  W3  1.0

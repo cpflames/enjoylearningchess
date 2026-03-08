@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Eksarevskiy, Albert    WPPG530Y  1118  1233/ 12  W4  D3  W2  2.5
+  2 Praveen, Atharva       AUDDG14E  1144  1174/ 68  W3  W4  L1  2.0
+  3 Singh, Rushil          SNEDB52N  1155  1158/ 11  L2  D1  W4  1.5
+  4 Dmitriev, Lyan         NPTD246H  1166  1095/304  L1  L2  L3  0.0

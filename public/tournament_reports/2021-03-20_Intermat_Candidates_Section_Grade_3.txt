@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Jammalamadaka, Vihaan  BCADJ90F  1763  1778/264  W3  W2  W4  3.0
+  2 Liu, Lucas             SOMDH33R  1462  1501/114  W4  L1  W3  2.0
+  3 Cheng, Selina          THUD413R  1397  1404/215  L1  W4  L2  1.0
+  4 Ying, Yiheng           MEDDE78K  1536  1479/225  L2  L3  L1  0.0

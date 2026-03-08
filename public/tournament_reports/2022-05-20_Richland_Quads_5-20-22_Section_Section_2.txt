@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Di Biase, Ben          ADUNJ64C  1175  1249/  6  W4  W2  W3  3.0
+  2 Sakamoto, Matthew      VISN5711   976   993/ 14  W3  L1  W4  2.0
+  3 Sullivan, Garrett      CWAG161D   964   931/ 65  L2  W4  L1  1.0
+  4 Ramirez, Kane          WIWCJ72E   400   400/  8  L1  L3  L2  0.0

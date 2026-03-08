@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mohan, Keshav          EGMGG24Z   982   997/ 50  L3  W4  W2  2.0
+  2 Sridhar, Riya          AUDCG37Y   924   960/ 66  W4  W3  L1  2.0
+  3 Rastogi, Reyansh       LMAED30N   937   966/116  W1  L2  W4  2.0
+  4 Stake, Charles         OESBM87Q   929   855/ 36  L2  L1  L3  0.0

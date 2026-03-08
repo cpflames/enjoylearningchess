@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, William          SOMG534J  1359  1367/125  W4  W2  L3  2.0
+  2 Xie, Max               BLWGI185  1271  1302/230  W3  L1  W4  2.0
+  3 Saddi, Neevan Reddy    GRRBH87M  1315  1333/ 40  L2  W4  W1  2.0
+  4 Zhang, Ethan           CLHEE87D  1256  1200/440  L1  L3  L2  0.0

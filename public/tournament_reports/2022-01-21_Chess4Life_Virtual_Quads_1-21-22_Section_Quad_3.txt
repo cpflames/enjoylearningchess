@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mandhana, Avi          CMVI5824  1354  1412/103  W4  W3  D2  2.5
+  2 Singh, Rushil          SNEEB52N  1312  1324/ 32  L3  W4  D1  1.5
+  3 Zheng, Lucas           SOMC194Y  1395  1367/ 95  W2  L1  L4  1.0
+  4 Zhao, Dennis           CGRF525E  1367  1345/199  L1  L2  W3  1.0

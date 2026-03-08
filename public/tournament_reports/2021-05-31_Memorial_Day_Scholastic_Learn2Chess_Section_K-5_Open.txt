@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Bartminn, Jan Lorenz   ENDEH59K  1244  1364/ 98  W9  W4  W5  W3  L2  4.0
+  2 Xu, Austin             SOMEH17F  1396  1406/ 70  D3  W6  L4  W7  W1  3.5
+  3 Huang, Emily           MEDEB39A  1223  1323/148  D2  W8  W7  L1  W4  3.5
+  4 Lee, Elliot            OPWFA70D  1431  1412/ 98  WF  L1  W2  W5  L3  3.0
+  5 Sriram, Rohit BharadwajJWEFV415  1326  1305/ 10  W8  W7  L1  L4  W9  3.0
+  6 Zhang, Shengxin        CAVD303G  1065  1063/ 31  L7  L2  BYE D9  W8  2.5
+  7 Ning, Winston          SCDCJ14W  1267  1225/128  W6  L5  L3  L2  BYE 2.0
+  8 Tan, Nathan            UCDB412Y  1181  1129/ 35  L5  L3  W9  BYE L6  2.0
+  9 Olson, Benjamin        HCCFG50S   927   915/114  L1  BYE L8  D6  L5  1.5

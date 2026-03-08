@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Al-hakeem, Hasan       WVSMC84R  1402  1483/ 10  W12 W11 D2  W3  W9  4.5
+  2 Park, Mir              PULK4692  1188  1400/ 30  W8  W7  D1  W9  W6  4.5
+  3 Liu, Charles           PULK600D  1416  1343/ 10  L6  W10 W13 L1  W8  3.0
+  4 Marver, Braeden        CNYLB07X  1333  1248/ 10  W13 L8  W7  L6  W12 3.0
+  5 Uhlenkott, Kolby       PULMH714  1244  1207/118  L7  W12 W11 L8  BYE 3.0
+  6 Malov, Ivan            WVSJH69Y   997  1148/ 10  W3  L9  W12 W4  L2  3.0
+  7 Celli, Victor          WVSM376J  1200  1151/  5  W5  L2  L4  W13 W10 3.0
+  8 Mortensen, Lucas       WVSJ730U  1468  1427/118  L2  W4  D9  W5  L3  2.5
+  9 Fuchs, Isaac           LBYL724L  1395  1370/117  W10 W6  D8  L2  L1  2.5
+ 10 Santilli, Tristen      MHSLH668   775   774/ 97  L9  L3  BYE W11 L7  2.0
+ 11 Boyd, Aiden            HLTNE549   436   492/ 18  BYE L1  L5  L10 W13 2.0
+ 12 Sherwood, Leo          FREHI58J   828   809/ 19  L1  L5  L6  BYE L4  1.0
+ 13 Mortensen, Liam        SWEH768V   727   672/ 52  L4  BYE L3  L7  L11 1.0

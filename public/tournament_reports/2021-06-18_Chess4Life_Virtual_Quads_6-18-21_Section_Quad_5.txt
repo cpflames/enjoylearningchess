@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chopra, Nikita         OMSH297H  1342  1341/ 33  L4  W3  W2  2.0
+  2 Zhang, Aaron           CCDD873R  1264  1259/317  D3  W4  L1  1.5
+  3 Eksarevskiy, Albert    WPPG530Y  1036  1118/  9  D2  L1  W4  1.5
+  4 Karri, Aditya          AUDDC55V  1284  1252/130  W1  L2  L3  1.0

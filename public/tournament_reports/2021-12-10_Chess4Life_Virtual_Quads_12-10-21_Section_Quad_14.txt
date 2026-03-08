@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Thapar, Sabir          ETSD822D   428   485/ 11  D2  W4  W3  2.5
+  2 Das, Rishaan           CNCF800M   400   498/  7  D1  W3  W4  2.5
+  3 Gupta, Tanya           OPWD793G   436   400/  8  W4  L2  L1  1.0
+  4 Oursland, Eric         SPTE966S   400   400/  6  L3  L1  L2  0.0

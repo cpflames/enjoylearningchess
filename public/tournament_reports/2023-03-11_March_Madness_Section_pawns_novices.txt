@@ -1,0 +1,46 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zhou, Bryan            LBYFK50Q   500   894/  5  W35 W22 W13 W17 D3  4.5
+  2 Scott, Liam            PSPDK50P   300   740/  5  D24 W42 W34 W5  W10 4.5
+  3 Bingo, Julian          LBYEK50N   400   965/  5  W25 W8  W27 W4  D1  4.5
+  4 Peterson, Seth         ADCDK50M   300   788/  5  W21 W15 W7  L3  W14 4.0
+  5 Donahue, Archie        ALTEK50K   400   654/  5  W30 W41 W18 L2  W20 4.0
+  6 Fischer, Genevieve     SKKEK50J   400   656/  5  W31 W33 L17 W19 W18 4.0
+  7 Avey, Jesse            MDRFK50F   500   693/  5  W36 W20 L4  W25 W17 4.0
+  8 Besser, Ava            COBFK50E   500   591/  5  W40 L3  D9  W24 W25 3.5
+  9 Bailey, Adam           PSPEK50D   400   515/  5  L27 W29 D8  W34 W21 3.5
+ 10 Zhou, Ethan            SUCDK50C   300   543/  5  W14 L17 W32 W15 L2  3.0
+ 11 Rodriguez, Aj          SJVEK50B   400   420/  5  L19 W23 L15 W32 W33 3.0
+ 12 Perry, Nash            FREBK49Z   100   386/  5  W32 L18 L19 W37 W34 3.0
+ 13 Gleesing, Maximus      SJVDK49W   300   548/  5  W23 W19 L1  L18 W26 3.0
+ 14 Clark, Connor          COBEK49U   400   446/  5  L10 W38 W36 W27 L4  3.0
+ 15 Joreteg, Evan          VLCEK49T   400   513/  5  W28 L4  W11 L10 W27 3.0
+ 16 Colver, Henry          COBDK49S   300   339/  5  W29 L27 L25 W36 W28 3.0
+ 17 Dahlke, Braxton        ORSDK49Q   300   616/  5  W38 W10 W6  L1  L7  3.0
+ 18 Mejia, Silder          COBEK49N   400   489/  5  W37 W12 L5  W13 L6  3.0
+ 19 Kendel, Michael        COBEK49M   400   466/  5  W11 L13 W12 L6  W29 3.0
+ 20 Jahns, Sophia          PSPCK49K   200   374/  5  W39 L7  W30 D21 L5  2.5
+ 21 Ocampo, Magnus         SJVDK49J   300   400/  5  L4  W26 W33 D20 L9  2.5
+ 22 Hetnar, Ryan           ORSFK49H   500   342/  5  W26 L1  L24 D23 W36 2.5
+ 23 Teal, Michael          PSPEK49G   400   245/  5  L13 L11 W37 D22 D24 2.0
+ 24 Davidson, Maxwell      MCSDK49F   300   347/  5  D2  L34 W22 L8  D23 2.0
+ 25 Donahue, James         ALTCK49E   200   394/  5  L3  W40 W16 L7  L8  2.0
+ 26 Wigen, Samson          SOPFK49D   500   203/  5  L22 L21 W38 W40 L13 2.0
+ 27 Riddle, Calvin         MEPEK49C   400   423/  5  W9  W16 L3  L14 L15 2.0
+ 28 Peterson, Boone        CKIDK48Z   300   185/  5  L15 D35 D39 W30 L16 2.0
+ 29 Donahue, Alice         ALTAK48Y   100   234/  5  L16 L9  W43 W31 L19 2.0
+ 30 Autry-dalsanders, Reed COBEK48X   400   190/  5  L5  W37 L20 L28 W38 2.0
+ 31 Trunkhill, Parker      PSPDK48W   300   158/  5  L6  D39 D35 L29 W40 2.0
+ 32 Shafer, Cora           HLOFK48V   500   114/  4  L12 BYE L10 L11 W39 2.0
+ 33 Perry, Will            FREEK48U   400   220/  5  W43 L6  L21 W39 L11 2.0
+ 34 Blanton, Maveryk       SOPEK48T   400   214/  5  D42 W24 L2  L9  L12 1.5
+ 35 Johnson, Lucas         SOPEK48S   400   187/  3  L1  D28 D31 HPB U   1.5
+ 36 Smith, Gavin           ORSFK48R   500   100/  5  L7  W43 L14 L16 L22 1.0
+ 37 Van Hover, Johnathan   ORSEK48Q   400   100/  5  L18 L30 L23 L12 W43 1.0
+ 38 Hopkins, Beatrice      MCSDK48P   300   100/  5  L17 L14 L26 W43 L30 1.0
+ 39 Mejia, Jesse           COBBK48N   100   100/  5  L20 D31 D28 L33 L32 1.0
+ 40 Morford, Jax           ORSCK48M   200   100/  4  L8  L25 BYE L26 L31 1.0
+ 41 Wood, Isla             CKIDK48L   300   196/  1  BYE L5  U   U   U   1.0
+ 42 Luerssen, Tucker       HUTDK48K   300   250/  2  D34 L2  U   U   U   0.5
+ 43 Henderson, Kristofer   PSPAK48J   100   100/  5  L33 L36 L29 L38 L37 0.0
+
+ All Unrated-player Section: Ratings capped at 1000

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Singhi, Rohan          BRHBH01P  1102  1190/  8  W3  W4  W2  3.0
+  2 Kakkad, Vayu           BRYAK50L   975   955/222  W4  L3  L1  1.0
+  3 Mitra, Rahul           OPWFH53N   944   932/124  L1  W2  L4  1.0
+  4 Ivanovic, Lena         UCDAK55K   938   928/152  L2  L1  W3  1.0

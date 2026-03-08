@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Garine, Ujwal          REEHB99A  1504  1548/125  W3  W4  L2  W7  W6  4.0
+  2 Xu, Owen               SOMB896M  1533  1552/ 61  L5  W8  W1  W6  W3  4.0
+  3 Kapur, Viraaj          RSACA71K  1316  1384/ 98  L1  W5  W8  W4  L2  3.0
+  4 Priest, Liam           SBTHL07U  1429  1445/217  W10 L1  W9  L3  W7  3.0
+  5 Khanolkar, Karan       KMNGK912  1391  1381/194  W2  L3  L7  W9  BYE 3.0
+  6 Vo, Dylan              MRRKK92D  1359  1365/ 13  W9  W7  HPB L2  L1  2.5
+  7 Westover, Charlotte    WMEE365V  1471  1432/252  W8  L6  W5  L1  L4  2.0
+  8 Wong, Samuel           TYEGJ51V  1249  1216/101  L7  L2  L3  BYE W9  2.0
+  9 Doshetty, Omkar        INGHE37S   700   400/  4  L6  BYE L4  L5  L8  1.0
+ 10 Cheng, Edward          WMSIC74W  1717  1686/210  L4  U   U   U   U   0.0

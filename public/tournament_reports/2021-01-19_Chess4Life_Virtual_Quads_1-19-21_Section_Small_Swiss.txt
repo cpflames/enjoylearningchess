@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Muktinutalapati, Soham AONDX17M   400  1000/  3  W2  W3  W4  3.0
+  2 Alasas, Abraham        OPWCE81U   400   600/  2  L1  W4  BYE 2.0
+  3 Sethi, Ivanka          STVCF96K   400   480/  5  BYE L1  W5  2.0
+  4 Pan, Peng-ruei         SSMB759R   400   467/  3  W5  L2  L1  1.0
+  5 Grigorenko, Yana       FRWBA39N   400   400/ 45  L4  BYE L3  1.0

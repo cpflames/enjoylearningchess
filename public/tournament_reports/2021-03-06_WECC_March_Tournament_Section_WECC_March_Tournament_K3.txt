@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Li, Yiyang             BCAD700B  1242  1258/153  W10 W8  W4  W3  D2  4.5
+  2 Kakkad, Vayu           BRYAK50L  1107  1151/276  W14 W7  W6  W5  D1  4.5
+  3 Guduru, Agasthya       EMDC500V  1090  1105/ 54  W20 W9  W5  L1  W6  4.0
+  4 Abueg, Jethro          WONDH78U   841   885/ 66  W17 W22 L1  W11 W7  4.0
+  5 Chang, Caden           UCDA260J   904   909/ 10  W16 W11 L3  L2  W8  3.0
+  6 Lekkala, Vihan         BLWD428L   909   905/119  W15 W13 L2  W12 L3  3.0
+  7 Hong, Sidney           MCGD478H   741   758/ 43  W19 L2  W14 W10 L4  3.0
+  8 Davis, Nathan          SFRDJ66C   718   734/101  W18 L1  W15 W13 L5  3.0
+  9 Sunshine, Ari          EVGBE66A   675   678/ 29  W21 L3  L12 W16 W13 3.0
+ 10 Mackey, Isaac          EVGD509C   632   650/107  L1  W16 W22 L7  W18 3.0
+ 11 Kundu, Viraj           SHSDC06T   651   672/ 14  W23 L5  W20 L4  W14 3.0
+ 12 Jackson, Dyson         ACKC717K   635   647/ 19  L13 W21 W9  L6  W15 3.0
+ 13 Fox, Nolan             HSCAE83K   400   517/  8  W12 L6  W18 L8  L9  2.0
+ 14 Kim, Cassandra         CTKD500H   527   535/ 89  L2  W17 L7  W22 L11 2.0
+ 15 Mcateer, Julian        THUCD90X   491   500/ 20  L6  W19 L8  W21 L12 2.0
+ 16 Craigen, Eleanor       ACKD761U   404   449/ 46  L5  L10 W23 L9  W20 2.0
+ 17 Pheysey, Jackson       CRPBE81Y   400   424/  9  L4  L14 W19 D20 D21 2.0
+ 18 Oh, Sarah              CRPCC73R   400   400/  4  L8  BYE L13 W23 L10 2.0
+ 19 Mckinnie, Michael      MCGBG86G   400   400/  4  L7  L15 L17 BYE W22 2.0
+ 20 Vasquez, Mateo         MCUBK26G   501   466/ 40  L3  W23 L11 D17 L16 1.5
+ 21 Prashanth, Aswanth     LMADI99W   400   400/  4  L9  L12 BYE L15 D17 1.5
+ 22 Hong, Samira           MCGAB77R   400   400/  4  BYE L4  L10 L14 L19 1.0
+ 23 Nelson, Miloe          CRPA915Y   400   400/  8  L11 L20 L16 L18 BYE 1.0

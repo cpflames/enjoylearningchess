@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Carpenter, Jonas       VSTI274G   443   608/ 15  W2  W4  D3  2.5
+  2 Kozaczuk, James        SHKG108A   909   878/ 34  L1  W3  W4  2.0
+  3 Moore, Gregory         LYEK789Q   847   766/  8  W4  L2  D1  1.5
+  4 Valentine, Colton      VSTGC28Y   600   400/  3  L3  L1  L2  0.0

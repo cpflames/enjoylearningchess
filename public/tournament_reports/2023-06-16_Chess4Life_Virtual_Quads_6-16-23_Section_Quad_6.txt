@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wu, Dennis             SCDCJ54B   960   972/165  W3  W4  L2  2.0
+  2 Hildenbrand, Blane     PSMH122V   934   954/155  W4  L3  W1  2.0
+  3 Kuluru, Samith         LEOGI99K   858   913/179  L1  W2  W4  2.0
+  4 Garg, Vihaan           CMCCJ10X   874   805/161  L2  L1  L3  0.0

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Wirkkala, Zane         HSCIC64H  1279  1379/ 20  W5  D2  W3  W4  W6  4.5
+  2 Soukal, Martin         HSCIE76L  1144  1319/ 36  W3  D1  W4  W6  W5  4.5
+  3 Shi, Gavin             ADDHH855  1595  1544/333  L2  W6  L1  W5  W4  3.0
+  4 Yu, Christopher        TYEI591U  1249  1220/189  LF  W5  L2  L1  L3  1.0
+  5 Jewsbury, Keaton       HSCG976Q  1109  1075/127  L1  L4  W6  L3  L2  1.0
+  6 Froehlich, Luka        HSCH157U   776   757/  9  BYE L3  L5  L2  L1  1.0

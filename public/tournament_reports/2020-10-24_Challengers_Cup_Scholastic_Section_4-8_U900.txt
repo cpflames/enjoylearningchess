@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Medikurthi, Jagadish   BRHE995Z  1014  1024/ 51  W13 W7  W5  W3  L2  4.0
+  2 Jain, Ayush            DISH535M   807   915/ 39  W11 W10 L3  W4  W1  4.0
+  3 Zhen, Hongren          KIMFC02Z   899   956/ 73  D4  W8  W2  L1  W5  3.5
+  4 Joshi, Vaidehi         CRKFG37G   732   867/ 83  D3  W12 W6  L2  W8  3.5
+  5 Shah, Aalay            DISG154L   888   891/149  W12 W6  L1  W9  L3  3.0
+  6 Raje, Atharva          SLLGL432   787   786/ 58  W9  L5  L4  W7  W10 3.0
+  7 Xu, Alex               DCTE500U   426   640/ 14  W8  L1  W11 L6  W9  3.0
+  8 Kedarisetty, Shreyas   GRREH60G   756   726/ 56  L7  L3  W12 W13 L4  2.0
+  9 Shenoy, Vaishnavi      NPEFQ96H   671   613/ 12  L6  BYE W10 L5  L7  2.0
+ 10 Baumann, Naomi         HCCE180R   400   438/  9  BYE L2  L9  W11 L6  2.0
+ 11 Dailey, Jack           LCNF796D   635   568/ 32  L2  W13 L7  L10 BYE 2.0
+ 12 Mitra, Rahul           OPWFH53N   860   775/ 85  L5  L4  L8  BYE W13 2.0
+ 13 Nair, Sathvik          CRIEA58L   535   405/  7  L1  L11 BYE L8  L12 1.0

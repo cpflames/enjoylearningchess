@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xiong, Michael         CCDC115A   842   862/ 48  D3  D2  W4  2.0
+  2 Holzer, Liam           CMCGG89B   784   795/ 38  W4  D1  L3  1.5
+  3 Foltz, Karsten         MRIF306D   784   795/ 41  D1  L4  W2  1.5
+  4 Mitra, Rahul           OPWFH53N   868   826/130  L2  W3  L1  1.0

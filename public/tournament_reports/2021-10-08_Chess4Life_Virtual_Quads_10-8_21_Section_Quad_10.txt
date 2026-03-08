@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wong, Marlin           MTWII126   736   732/ 17  W4  W3  L2  2.0
+  2 Upreti, Parthavi       XXXF754L   681   693/ 12  L3  W4  W1  2.0
+  3 Dhawan, Viraj          BCAFI96U   567   627/  9  W2  L1  W4  2.0
+  4 Shirwaikar, Abhay      BRTBB19K   499   428/  9  L1  L2  L3  0.0

@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Borden, Hugh           IMSH596M  1041  1199/ 63  W13 W2  W4  W5  W7  5.0
+  2 Chowdhury, Rishi       MISHX45N  1089  1145/  5  W11 L1  W3  W8  W4  4.0
+  3 Gupta, Arav            UNKE797P   400  1031/  5  D12 W7  L2  W10 W5  3.5
+  4 Miller, Chloe          FRDH2385  1102  1079/103  W10 W6  L1  W9  L2  3.0
+  5 Raje, Atharva          SLLGL432   985  1000/106  W9  W8  W12 L1  L3  3.0
+  6 Rapaka, Sri Sai Aaryan MISFZ831   500   800/  4  BYE L4  L9  W11 W12 3.0
+  7 Bikkula, Charan        CRIEJ23A   612   765/ 76  D8  L3  W13 W12 L1  2.5
+  8 Fong, Adam             SKRH4377  1092  1034/182  D7  L5  W10 L2  W9  2.5
+  9 Chandar, Arya          MISEZ10Z   400   763/  4  L5  BYE W6  L4  L8  2.0
+ 10 Ram, Joey              EMSGF94L   669   672/ 70  L4  W11 L8  L3  BYE 2.0
+ 11 Shin, Charles          XXOFR83N   500   583/  4  L2  L10 BYE L6  W13 2.0
+ 12 Desimone, James        VRDEH32X   857   803/ 82  D3  W13 L5  L7  L6  1.5
+ 13 Bhatia, Saaj           SOMF1068   834   720/ 22  L1  L12 L7  BYE L11 1.0

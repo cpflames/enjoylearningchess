@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Milner, Romi           MISBZ53W   400  1211/  5  W5  W3  W2  W4  W9  5.0
+  2 Chang, Caden           UCDB260J   785   815/ 28  W12 W11 L1  W5  W4  4.0
+  3 Eustis, Owen           SCDB195W   523   657/ 21  W13 L1  W11 W6  W8  4.0
+  4 Yun, Daniel D          BCABK87Z   677   699/ 54  W10 W6  W8  L1  L2  3.0
+  5 Lan, Jonathan          OPWB968F   425   486/ 14  L1  BYE W9  L2  W12 3.0
+  6 Xiao, Luke             EASBC79Q   400   568/  5  W9  L4  W12 L3  W10 3.0
+  7 Saxe, Ethan            LHTBE80X   400   400/  3  HPB L8  L10 BYE W13 2.5
+  8 Fetchero, Caleb        BLCBK56R   595   520/ 20  L11 W7  L4  W13 L3  2.0
+  9 Balchandani, Akira     PKRAF67P   541   515/ 26  L6  W10 L5  W11 L1  2.0
+ 10 Pham, Ethan            RCCBG35R   400   400/  5  L4  L9  W7  W12 L6  2.0
+ 11 Cadman, Howard         OESAN727   400   421/  4  W8  L2  L3  L9  BYE 2.0
+ 12 Swaminath, Akshita     CNCB295Z   400   400/  5  L2  W13 L6  L10 L5  1.0
+ 13 Michiels, Isabel       THOBK94G   400   400/  4  L3  L12 BYE L8  L7  1.0

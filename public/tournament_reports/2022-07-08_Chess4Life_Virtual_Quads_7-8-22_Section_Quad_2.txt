@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Jacob            BLWED74Y  1254  1390/217  W2  W3  W4  3.0
+  2 Huang, Emily           MEDFB39A  1392  1357/231  L1  W4  L3  1.0
+  3 Bansal, Vivaan         EVJH452J  1306  1290/ 46  L4  L1  W2  1.0
+  4 Aggarwal, Aadit        LEOIE722  1292  1279/450  W3  L2  L1  1.0

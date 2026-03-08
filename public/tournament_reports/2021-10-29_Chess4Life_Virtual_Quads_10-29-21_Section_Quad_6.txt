@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Louie, Leyton          UCDE880T  1066  1205/132  W2  W3  W4  3.0
+  2 Dong, Tristan          MRLCF90V  1165  1127/ 15  L1  L4  W3  1.0
+  3 Hawkins, Holden        TYEJ383Z  1095  1076/360  W4  L1  L2  1.0
+  4 Yin, Daniel            ISMK116Y  1073  1060/140  L3  W2  L1  1.0

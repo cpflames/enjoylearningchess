@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Pisan, Kai             CHYH404C  1672  1701/321  D12 W5  W8  D2  W4  4.0
+  2 Eksarevskiy, Albert    WPPH530Y  1493  1587/ 38  W11 W4  D6  D1  W9  4.0
+  3 Kang, Ayaan            ENSEI60T  1492  1502/265  L4  W12 W10 W11 HPB 3.5
+  4 Deng, Lily             CJEI5007  1854  1819/317  W3  L2  W9  W6  L1  3.0
+  5 Seela, Shashank        SSMFI74N  1690  1659/154  L9  L1  W12 W8  W11 3.0
+  6 Marcelais, Kai         WPPIA64J  1495  1499/116  W7  W10 D2  L4  HPB 3.0
+  7 Morehead, Nate         BUSFI54F  1034  1085/ 87  L6  BYE L11 W10 W12 3.0
+  8 Anandkumar, Haituka    STLH238P  1561  1528/297  W13 D9  L1  L5  BYE 2.5
+  9 Siddem, Sid            RHJIC34V  1273  1350/387  W5  D8  L4  W13 L2  2.5
+ 10 Nedeltchev, Michael    ODEJ900M  1007   979/126  BYE L6  L3  L7  WF  2.0
+ 11 Rajagopal, Karthik     TMBHD40E   700  1300/  5  L2  W13 W7  L3  L5  2.0
+ 12 Yang, Yuchang          ILCEK16L  1129  1117/ 54  D1  L3  L5  BYE L7  1.5
+ 13 Kowta, Arya            TIMEE50L  1129  1098/148  L8  L11 BYE L9  LF  1.0

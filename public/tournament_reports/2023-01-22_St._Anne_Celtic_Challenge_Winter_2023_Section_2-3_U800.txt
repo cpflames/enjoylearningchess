@@ -1,0 +1,28 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Elmieh, Niko           CRKD777E   758   868/ 15  W14 W10 W2  W4  W5  5.0
+  2 Alexander, Eduardo     SJODI76Q   610   708/ 10  W3  W6  L1  W7  W8  4.0
+  3 Dhameeja, Ved          GRRDJ98F   515   618/ 17  L2  W15 W19 W11 W9  4.0
+  4 Liu, Alexander         MEDD831E   498   586/ 10  W26 W27 W16 L1  W10 4.0
+  5 Huang, Derek           MEDC634K   441   591/ 10  W22 W12 W7  W6  L1  4.0
+  6 Lew, Abigail           OPWC645P   523   515/ 15  W19 L2  W22 L5  W21 3.0
+  7 Bassen, Abel           XXXDZ72M   502   502/ 15  W20 W23 L5  L2  W19 3.0
+  8 Stack, Gavin           SANC473H   406   443/ 13  W11 L16 W23 W21 L2  3.0
+  9 Parihar, Advay         SOMCD66D   400   423/ 17  L27 W26 W12 W16 L3  3.0
+ 10 Satishkumar, Gautham   RCSDC88L   400   472/ 10  W21 L1  W27 W14 L4  3.0
+ 11 Suresh Balaji, Shri ThaSWRCK91T   511   511/ 10  L8  W25 W18 L3  W17 3.0
+ 12 George, Ameya          EBSDK88Y   300   471/  5  W24 L5  L9  W25 W18 3.0
+ 13 Fetchero, Caleb        BLCCK56R   540   474/ 30  L15 D14 L17 W24 W25 2.5
+ 14 Li, Jacob              CRIC132Q   398   406/ 66  L1  D13 W24 L10 W26 2.5
+ 15 Mallu, Rushank Reddy   BRHDK93H   383   375/ 10  W13 L3  L21 W26 D16 2.5
+ 16 Vaughn, Andy           LAVDK88W   300   422/  5  W25 W8  L4  L9  D15 2.5
+ 17 Venkatesan, Nithilan   LCSCA95X   475   449/ 22  U   L19 W13 W23 L11 2.0
+ 18 Fritzky, Blake         SANDH43H   418   363/ 15  L23 W20 L11 W27 L12 2.0
+ 19 Reddyshetty, Aryan     DISC499Q   265   317/ 10  L6  W17 L3  W22 L7  2.0
+ 20 Rose, Clara            SANDK88S   300   156/  4  L7  L18 L25 BYE W27 2.0
+ 21 Kuberan, Pranet        LKWDK88R   300   243/  4  L10 BYE W15 L8  L6  2.0
+ 22 Teng, Lyndon           SOMDK88Q   300   225/  5  L5  W24 L6  L19 D23 1.5
+ 23 Teng, Lincoln          SOMDK88N   300   232/  5  W18 L7  L8  L17 D22 1.5
+ 24 Rossman, Carter        SANCE56M   400   273/ 13  L12 L22 L14 L13 BYE 1.0
+ 25 Ferzli, Claire         QAED350W   400   295/ 10  L16 L11 W20 L12 L13 1.0
+ 26 Mello E Souza, Daniel  SANCK88M   200   100/  4  L4  L9  BYE L15 L14 1.0
+ 27 Srinivas, Sharav       RKWDI03B   400   288/ 10  W9  L4  L10 L18 L20 1.0

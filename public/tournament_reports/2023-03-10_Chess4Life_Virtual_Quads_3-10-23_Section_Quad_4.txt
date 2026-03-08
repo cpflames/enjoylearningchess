@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Lei, Eric              TYEL314K  1166  1158/ 21  D4  D3  D2  1.5
+  2 Wang, Eric             BCAE803M  1163  1156/ 68  W3  L4  D1  1.5
+  3 Sreraman, Rohit        BCACG92Q  1120  1125/ 89  L2  D1  W4  1.5
+  4 Zhu, Kevin             CSMD865U  1102  1112/351  D1  W2  L3  1.5

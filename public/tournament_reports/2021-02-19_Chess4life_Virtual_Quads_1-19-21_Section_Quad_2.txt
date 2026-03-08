@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Meiyalagan, Ruban Sai  WLDED10L  1566  1635/124  W2  W3  W4  3.0
+  2 Singh, Saket           DISH872S  1555  1570/195  L1  W4  W3  2.0
+  3 Merriman, Dann         WMNBF79Y  1502  1491/361  W4  L1  L2  1.0
+  4 Stein, Elizabeth       HSCJ318X  1512  1460/103  L3  L2  L1  0.0

@@ -1,0 +1,26 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Nalam, Vignatri        BNTEA47F   400  1147/  5  W17 D7  W6  W5  W2  4.5
+  2 Gande, Akshath         SSMEG23R   863   958/ 26  W11 W16 W12 W3  L1  4.0
+  3 Davis, Zach            SANGI44K   814   905/ 64  W14 W18 W4  L2  W8  4.0
+  4 Kamalakannan, NetthrayaSKWHE22N   777   827/ 88  W10 W23 L3  W15 W13 4.0
+  5 Sagar, Nikash          ELMEM801   776   854/ 26  W25 D6  W7  L1  W12 3.5
+  6 Juluri, Hasini         OMSG290Z   600   863/  5  W9  D5  L1  W23 D7  3.0
+  7 Li, Timothy            CRIEE29R   785   811/ 97  W21 D1  L5  W16 D6  3.0
+  8 Mettler, Ronan         FCEEI34M   826   817/ 92  W15 L12 W18 W9  L3  3.0
+  9 Nadupalli, Abhinav     PLKI676B   735   734/ 47  L6  W10 W24 L8  W15 3.0
+ 10 Kaartik, Neepa         SOMF519M   400   556/ 15  L4  L9  BYE W17 W19 3.0
+ 11 Nadupalli, Varun       CRKEK06T   727   718/ 37  L2  W22 L13 W25 W20 3.0
+ 12 Yang, Nathan           MRPE586Y   740   752/ 94  W20 W8  L2  D13 L5  2.5
+ 13 Yuen, Otto Shing-lok   KSHEF34N   762   732/245  L18 W24 W11 D12 L4  2.5
+ 14 Mittala, Ananya        TIMF339Z   562   586/ 13  L3  L19 D17 W24 W23 2.5
+ 15 Jaeger, Hayden         SANFJ35L   573   595/ 77  L8  W20 W19 L4  L9  2.0
+ 16 Kim, Rian              SOMEI59L   741   680/ 87  W22 L2  D23 L7  D21 2.0
+ 17 Anderson, Penn         SJOG561N   770   699/ 78  L1  D21 D14 L10 W24 2.0
+ 18 Diamant, David         PIOF969P   702   658/ 17  W13 L3  L8  L20 BYE 2.0
+ 19 Tsai, Nicholas         BLWE882Z   782   680/ 67  L23 W14 L15 W21 L10 2.0
+ 20 Soukal, Martin         XXXHE76L   700   548/  5  L12 L15 W22 W18 L11 2.0
+ 21 Albertson, Owen        SNIFK88V   420   484/ 26  L7  D17 W25 L19 D16 2.0
+ 22 Alvarez, Raphael       SANE254A   400   400/  4  L16 L11 L20 BYE W25 2.0
+ 23 Bikkula, Charan        CRIEJ23A   456   486/ 66  W19 L4  D16 L6  L14 1.5
+ 24 Iqbal, Adnan           ENDEA54K   400   400/ 34  BYE L13 L9  L14 L17 1.0
+ 25 Anderson, Quinn        SJOG101U   400   400/ 13  L5  BYE L21 L11 L22 1.0

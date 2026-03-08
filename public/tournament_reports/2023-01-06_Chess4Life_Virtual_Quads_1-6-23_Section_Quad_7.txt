@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sim, Daniel            KSHG633U  1050  1146/  6  L2  W3  W4  2.0
+  2 Xie, Leon              CNHE264X  1018  1027/ 54  W1  D4  L3  1.5
+  3 Taylor, Ryder          KAMJ385C   977   997/249  D4  L1  W2  1.5
+  4 Pravlik, Aiden         FRID416H  1061  1033/229  D3  D2  L1  1.0

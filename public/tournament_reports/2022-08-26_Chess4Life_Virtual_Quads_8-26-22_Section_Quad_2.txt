@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Liu, Yuntao            STTE505Y  1640  1660/258  W3  W4  D2  2.5
+  2 Seela, Shashank        SSMFI74N  1553  1574/173  D4  W3  D1  2.0
+  3 Sinha, Agastya         HSCCA75C  1528  1517/ 92  L1  L2  W4  1.0
+  4 Sangal Lopez, Dev      CTNF515J  1544  1511/319  D2  L1  L3  0.5

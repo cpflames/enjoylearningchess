@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xiong, Michael         MEDE115A  1532  1554/262  W2  W3  L4  2.0
+  2 Bharathy Mohan, Aarav  FRWEC98B  1468  1484/297  L1  W4  D3  1.5
+  3 Yondon, Odbayar        LMAEK97T  1731  1701/151  W4  L1  D2  1.5
+  4 Wong, Kate             BCAE459M  1450  1450/136  L3  L2  W1  1.0

@@ -1,0 +1,24 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Cai, Sean              EVGDK35H   546   897/ 15  W11 W5  W4  W12 W3  5.0
+  2 Swaminath, Akshita     CNCB295Z   719   728/ 38  W18 L12 W23 W17 W7  4.0
+  3 Mao, Ethan             LKED388L   645   744/ 58  W22 W11 W21 W7  L1  4.0
+  4 Guzman, Nate           TPSD939A   772   791/ 93  W15 W20 L1  W9  D6  3.5
+  5 Lan, Jonathan          OPWB968F   750   744/ 39  W10 L1  D13 W21 W12 3.5
+  6 Zhang, Terrence        CHRD470B   400   791/  5  W14 L7  W15 W8  D4  3.5
+  7 Francis, Jamey         OPWDD90G   792   782/ 35  W16 W6  W9  L3  L2  3.0
+  8 Kwan-uchiyama, Avery   JINDH22T   724   690/ 25  L17 W19 W10 L6  W13 3.0
+  9 Wang, Jacob Z          BLWDE71A   703   684/ 34  W20 W17 L7  L4  W19 3.0
+ 10 Zhen, Liam             ISEA622V   435   463/ 14  L5  W22 L8  W23 W21 3.0
+ 11 Shrivastava, Kiran     OPWCJ51C   400   662/  5  L1  L3  W20 W15 W17 3.0
+ 12 Mitra, Rishab          OPWD138L   523   555/119  W23 W2  HPB L1  L5  2.5
+ 13 Olin, Bennett          OPWA417S   400   479/  9  HPB D16 D5  W14 L8  2.5
+ 14 Balasubramanian, AkshatRCSD700Y   513   457/ 47  L6  L21 W16 L13 BYE 2.0
+ 15 Raji, Surya            OPWD181Q   508   490/ 25  L4  W18 L6  L11 W23 2.0
+ 16 Tyagi, Ananya          MEDCG07Y   501   459/ 29  L7  D13 L14 D20 W22 2.0
+ 17 Mehran, Tara           OPWDE56L   430   468/ 25  W8  L9  W19 L2  L11 2.0
+ 18 Kumar, Ansh            SSMD678F   407   400/ 14  L2  L15 W22 L19 BYE 2.0
+ 19 Shan, Harry            OPWBG77E   400   400/  4  BYE L8  L17 W18 L9  2.0
+ 20 Xu, Jacqueline         OPWC885E   400   400/  9  L9  L4  L11 D16 BYE 1.5
+ 21 Sun, Julia             OPWCB21D   400   400/ 18  HPB W14 L3  L5  L10 1.5
+ 22 Sohal, Tazmin          OPWD162K   400   400/  9  L3  L10 L18 BYE L16 1.0
+ 23 Kaur, Kainaat          XXXA421U   400   400/  4  L12 BYE L2  L10 L15 1.0

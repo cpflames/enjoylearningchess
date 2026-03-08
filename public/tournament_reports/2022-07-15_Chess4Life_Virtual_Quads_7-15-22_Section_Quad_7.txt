@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Taylor, Ryder          HPTI385C   890   913/194  W4  W2  L3  2.0
+  2 Xie, Leon              CNHD264X   875   903/ 15  W3  L1  W4  2.0
+  3 Sembium, Aditi         BCABK25W   880   853/111  L2  L4  W1  1.0
+  4 Joshi, Vyom            LEOGH81X   866   843/ 15  L1  W3  L2  1.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bharadwaj, Samarth     DGHAE78A  1275  1417/ 40  W2  W3  W4  3.0
+  2 To, Donovan            KMNG239L  1442  1446/268  L1  W4  W3  2.0
+  3 Han, Matthew           BISH5262  1386  1361/270  W4  L1  L2  1.0
+  4 Zhang, Ethan (yichen)  CRIDG57B  1298  1249/144  L3  L2  L1  0.0

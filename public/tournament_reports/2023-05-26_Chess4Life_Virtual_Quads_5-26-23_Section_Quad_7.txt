@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yu, Owen               MEDDC65S   706   796/ 67  W4  D2  W3  2.5
+  2 Devlin, Austin         OSEFK25F   549   675/ 41  D3  D1  W4  2.0
+  3 Hildenbrand, Blane     PSMH122V   927   848/141  D2  D4  L1  1.0
+  4 Lechner, Ryker         HSCE496J   594   573/ 53  L1  D3  L2  0.5

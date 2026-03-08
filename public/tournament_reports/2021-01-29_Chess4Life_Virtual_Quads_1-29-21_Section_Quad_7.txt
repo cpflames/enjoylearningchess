@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Gajial, Taimur         MEDGJ27A  1157  1262/179  W3  W4  W2  3.0
+  2 Morin-cotton, NathanielPEMH4895  1153  1176/124  W4  W3  L1  2.0
+  3 Condit, Noah           TLIFA59Q  1127  1110/ 18  L1  L2  W4  1.0
+  4 Palmer, Evan           KULHI90S  1128  1063/ 71  L2  L1  L3  0.0

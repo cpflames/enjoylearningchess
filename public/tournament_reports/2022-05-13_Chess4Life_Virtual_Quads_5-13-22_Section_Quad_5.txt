@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Hochberg, David        SUEJ6075  1099  1202/206  W2  W4  W3  3.0
+  2 Pai, Vihaan            STVCK17C  1015  1071/ 83  L1  W3  W4  2.0
+  3 Yun, Daniel D          BCAAK87Z  1136  1098/168  W4  L2  L1  1.0
+  4 Nidamarthi, Nikhil     RSAC375J  1014   956/ 70  L3  L1  L2  0.0

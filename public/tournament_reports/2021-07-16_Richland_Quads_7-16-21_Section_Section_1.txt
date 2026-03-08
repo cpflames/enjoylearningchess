@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Khalil, Tayseer        ADUN773K  1883  1877/ 36  W4  L2  W3  2.0
+  2 Ebsch, Christopher     ADUNC65C  1675  1743/  9  W3  W1  L4  2.0
+  3 Dillingham, Gregg      ADUNH327  1760  1742/143  L2  W4  L1  1.0
+  4 Melville, Derek        ADUN391C  1620  1633/  8  L1  L3  W2  1.0

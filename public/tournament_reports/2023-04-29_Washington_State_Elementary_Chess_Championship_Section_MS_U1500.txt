@@ -1,0 +1,51 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Kokati, Pranav         OMSH814P  1483  1577/252  W34 W19 W21 W17 W6  5.0
+  2 Chang, Liam            LEOG5238  1305  1475/125  W11 D12 W24 W13 W7  4.5
+  3 Fonseca, Kenzo         WAVIA91R  1463  1477/115  W28 L21 W12 W32 W20 4.0
+  4 Calo, Jude             REGH3425  1333  1370/201  W30 W50 L23 W22 W16 4.0
+  5 Chan, Aiden            COGH917M  1188  1358/125  L15 W45 W18 W31 W17 4.0
+  6 Xie, Max               EVJII185  1489  1488/422  W33 W27 D25 W23 L1  3.5
+  7 Appalabattula, Samarth RARHG06C  1420  1424/111  D49 W41 W10 W25 L2  3.5
+  8 Tang, Haosen           EPSHH941  1363  1362/227  D42 D47 D40 W35 W23 3.5
+  9 Salal, Zikrain         PFCGJ82Z  1336  1351/ 61  W35 L22 W47 W34 D11 3.5
+ 10 Graves, Henry          JFMHC00C  1268  1324/ 57  W43 D15 L7  W42 W25 3.5
+ 11 Don, Alexander         BUSG958V  1157  1307/171  L2  W46 W33 W24 D9  3.5
+ 12 Wilson, Nathaniel      SHKHE45V  1135  1325/ 59  W31 D2  L3  W39 W15 3.5
+ 13 Rubaiyat, Rhadean      ICSHD40L  1400  1391/126  L22 W29 W28 L2  W34 3.0
+ 14 Amalo, Eliot           HSCH282X  1381  1357/ 99  D41 W49 D32 L20 W33 3.0
+ 15 Keener, Karl           HLHHY40G  1360  1373/ 99  W5  D10 D20 W21 L12 3.0
+ 16 Mohan, Laya            LEOH617P  1349  1332/155  W50 L35 W43 W19 L4  3.0
+ 17 Prasanna Venkatesh, PraINGIK91G  1346  1382/ 10  W29 W40 W22 L1  L5  3.0
+ 18 Cummins, William       SMSHJ26R  1304  1294/ 40  WF  L23 L5  W41 W32 3.0
+ 19 Zhang, Owen            FHVH995H  1273  1286/218  W37 L1  W48 L16 W36 3.0
+ 20 Nguyen, Alex           AKKH626C  1255  1285/ 19  D44 W38 D15 W14 L3  3.0
+ 21 Foltz, Karsten         HTNH306D  1233  1336/139  W39 W3  L1  L15 W27 3.0
+ 22 Kale, Atharv           EVJH496H  1196  1288/ 19  W13 W9  L17 L4  W31 3.0
+ 23 Nagra, Joga            FACII02B  1124  1255/ 76  W46 W18 W4  L6  L8  3.0
+ 24 Khandelwal, Ayush      KMNG897D  1436  1395/179  D47 W42 L2  L11 W40 2.5
+ 25 Rines, Oliver          BRIHI303  1310  1306/187  W48 W36 D6  L7  L10 2.5
+ 26 Vutukuri, Adhrith      REJI326L  1297  1254/ 59  L36 L48 W37 W38 D30 2.5
+ 27 Kuo, Tristan           KELI941B  1280  1265/283  WF  L6  D35 W40 L21 2.5
+ 28 Abueg, Lorenzo         SLBIG77J  1230  1253/ 90  L3  W39 L13 D29 W44 2.5
+ 29 Konde, Tayshu          KJHH355E  1177  1215/132  L17 L13 W45 D28 W42 2.5
+ 30 Lechner, Liam          DCCI591P  1169  1191/ 72  L4  L31 W46 W47 D26 2.5
+ 31 Han, William           HSCHC13F  1298  1256/ 15  L12 W30 W50 L5  L22 2.0
+ 32 Cheng, Louis           EPSI764H  1257  1240/102  D38 W44 D14 L3  L18 2.0
+ 33 Bhargava, Saarth       STLHF29W  1253  1237/ 82  L6  W43 L11 W48 L14 2.0
+ 34 Lu, Jacob              BLMHI11F  1231  1229/310  L1  W37 W36 L9  L13 2.0
+ 35 Jin, Emery             BLMHK90R  1172  1198/ 30  L9  W16 D27 L8  D39 2.0
+ 36 Zhen, Hongren          DCCHC02Z  1124  1138/160  W26 L25 L34 W49 L19 2.0
+ 37 Kozaczuk, James        SHKH108A  1113  1115/143  L19 L34 L26 W50 W47 2.0
+ 38 Park, Seongbin         BLMIK19A   800  1125/  5  D32 L20 D41 L26 W48 2.0
+ 39 Zhou, Nathan           NJHH215X  1487  1396/ 62  L21 L28 W44 L12 D35 1.5
+ 40 Bansal, Vivaan         EVJI452J  1228  1216/ 82  W45 L17 D8  L27 L24 1.5
+ 41 Kissinger, Lou         HOMHK76W  1196  1167/ 15  D14 L7  D38 L18 D43 1.5
+ 42 Joshi, Vyom            LEOHH81X  1191  1175/145  D8  L24 W49 L10 L29 1.5
+ 43 Chulki, Aayush         BLMHJ17Y  1113  1116/133  L10 L33 L16 W45 D41 1.5
+ 44 Hassan, Ahmad          RRGH714R  1109  1111/153  D20 L32 L39 W46 L28 1.5
+ 45 Chin, Jonathan         DCCH756L  1437  1328/ 49  L40 L5  L29 L43 W49 1.0
+ 46 Alam, Adil             WPPHI15X  1290  1199/286  L23 L11 L30 L44 W50 1.0
+ 47 Arun, Advaith          STLI777F  1226  1178/ 91  D24 D8  L9  L30 L37 1.0
+ 48 Aubry, Jesse           GRIHK76P  1163  1084/ 10  L25 W26 L19 L33 L38 1.0
+ 49 Rama, Savitur          EVJHH22Z  1203  1138/115  D7  L14 L42 L36 L45 0.5
+ 50 Vavilin, Caleb         CJSHK30C  1178  1012/ 10  L16 L4  L31 L37 L46 0.0

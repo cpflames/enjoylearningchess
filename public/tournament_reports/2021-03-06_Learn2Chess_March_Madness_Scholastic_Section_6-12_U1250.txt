@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Enriquez, Daniel       EALK7733  1267  1303/ 43  W7  W10 W3  W2  D4  4.5
+  2 Schmeichel, Trevor     WMSI3868  1134  1191/131  W4  W8  W6  L1  W5  4.0
+  3 Xia, Yuchen            BLMHI52A  1239  1252/ 99  W9  W5  L1  HPB W6  3.5
+  4 Josyula, Nihal         TYEII88S   994  1047/  4  L2  W7  W10 WF  D1  3.5
+  5 Wakeman, Oliver        NJHHG10Y   771   966/ 14  W6  L3  W8  W7  L2  3.0
+  6 Hawkins, Holden        TYEI383Z  1187  1126/215  L5  W9  L2  W10 L3  2.0
+  7 Coble, Sam             BHMM3801  1045  1002/ 42  L1  L4  W9  L5  BYE 2.0
+  8 Ram, Joey              EMSGF94L   760   765/ 58  BYE L2  L5  L11 W10 2.0
+  9 Raje, Atharva          SLLGL432  1004   985/ 92  L3  L6  L7  BYE W11 2.0
+ 10 Sabetti, Kyler         HCCHK57D   810   755/ 19  WF  L1  L4  L6  L8  1.0
+ 11 Raj, Jayahari          PMIG227V  1190  1154/125  LF  U   U   W8  L9  1.0

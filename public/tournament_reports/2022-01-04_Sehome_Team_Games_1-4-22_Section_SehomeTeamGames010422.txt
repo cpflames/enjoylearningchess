@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 tot 
+  1 Lee, Jae-yoon          SHMJC734  1137  1164/ 49  BYE W5  2.0
+  2 Kuzin, Ethan           SHMJ7567  1246  1263/216  W5  U   1.0
+  3 Anshus, Erik           SHMKD320   805   854/ 67  W6  U   1.0
+  4 Bowman, Finn           SHMJD50L   738   793/ 10  W7  U   1.0
+  5 Cox, Dylan             SHMJ3440  1158  1113/134  L2  L1  0.0
+  6 Knapp, Joshua          SHMMH49D  1035   953/  7  L3  U   0.0
+  7 Love, Charles          SHMJ458N   928   883/ 25  L4  U   0.0

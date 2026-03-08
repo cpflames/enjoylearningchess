@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Mitra, Rishab          OPWC138L   496   567/ 67  W3  W4  D2  2.5
+  2 Khatib, Balushi        LKDDK23M   400   493/  6  W4  D3  D1  2.0
+  3 Mohan, Keshav          EGMGG24Z   400   429/  8  L1  D2  W4  1.5
+  4 Toro, Mateo            XXXDG01K   400   400/  3  L2  L1  L3  0.0

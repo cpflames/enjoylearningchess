@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Lakkarsu, Sohum        RKWAK65R   642   713/ 10  W22 W12 W4  W6  W5  5.0
+  2 Wu, Albert             EVGA682N   179   319/ 14  BYE L14 W18 W15 W6  4.0
+  3 Smith, Clark           SCDBK40T   100   526/  5  W11 L5  W15 W12 W7  4.0
+  4 Lin, Lucas             SCDBK40S   100   472/  5  W21 W15 L1  D8  W11 3.5
+  5 Eustis, Justin         SCDAE77Z   400   455/ 10  W9  W3  L6  W7  L1  3.0
+  6 Guan, Ryan             SANB226Y   324   402/ 15  W13 W8  W5  L1  L2  3.0
+  7 Sabharwal, Vihaan      DCTBK87T   194   287/ 14  W19 W20 W14 L5  L3  3.0
+  8 Dishion, Nathan        SCDBK40R   100   368/  5  W14 L6  W17 D4  D10 3.0
+  9 Edouard, Victor        SCDBK40Q   100   316/  5  L5  L11 W16 W17 W14 3.0
+ 10 Liu, Martin            SCDBK40P   100   321/  5  L12 W22 W13 D11 D8  3.0
+ 11 Arunyaangkul, Ada      BFDAK65M   267   290/ 15  L3  W9  W19 D10 L4  2.5
+ 12 Nevraumont, Mara       SCDAK40M   100   341/  5  W10 L1  W20 L3  D13 2.5
+ 13 Roth, Louiza           SCDBK40K   100   223/  5  L6  W18 L10 W20 D12 2.5
+ 14 Pradeepkumar, Adrit    LKDBK54S   447   327/ 10  L8  W2  L7  W21 L9  2.0
+ 15 Doran, Kavi            SCDBK40H   100   206/  5  W17 L4  L3  L2  W20 2.0
+ 16 Sudame, Elina          SMRAK40G   100   100/  5  L20 L19 L9  D18 W21 1.5
+ 17 Velummylum, Lara       UCDAK40E   100   100/  5  L15 W21 L8  L9  D18 1.5
+ 18 Havril, Alex           LKDBK53W   100   100/  9  U   L13 L2  D16 D17 1.0
+ 19 Lobo, Nico             SCDAK40D   100   100/  3  L7  W16 L11 U   U   1.0
+ 20 Tran, Haydrianna       RIDBK40C   100   100/  5  W16 L7  L12 L13 L15 1.0
+ 21 Suresh Balaji, Shri JivHSCAK40B   100   100/  5  L4  L17 D22 L14 L16 0.5
+ 22 Walker, Eniko          SCDAK40A   100   100/  3  L1  L10 D21 U   U   0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Joshi, Aahana          GTMGK47D   600   697/  3  W4  W2  D3  2.5
+  2 Mishra, Angad          RKWDK70V   554   567/ 20  W3  L1  W4  2.0
+  3 Kasliwal, Aarush       ICKHK47C   700   396/  3  L2  D4  D1  1.0
+  4 Sinha, Aarav           REEH886W   316   305/ 17  L1  D3  L2  0.5

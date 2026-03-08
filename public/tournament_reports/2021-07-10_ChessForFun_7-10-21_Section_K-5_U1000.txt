@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Lella, Vihan           KKND685A   776  1052/ 30  W4  W2  W5  W3  W6  5.0
+  2 Vangala, Advaith       BLWF174X   901   912/329  D7  L1  W8  W6  W4  3.5
+  3 Mitra, Rahul           OPWFH53N   779   793/172  L5  W7  W6  L1  W8  3.0
+  4 Phillips-acheson, SebasWOBE817T   873   860/145  L1  HPB W7  W5  L2  2.5
+  5 Nalasani, Manasvi      XXODM12Z   400   803/  5  W3  D6  L1  L4  W7  2.5
+  6 Cheruku, Adhrith       SHSB827Q   918   837/ 22  W8  D5  L3  L2  L1  1.5
+  7 Garhwal, Eshvin        SCDBE23D   496   526/ 38  D2  L3  L4  W8  L5  1.5
+  8 Goel, Darsh            SBOER06Y   619   540/ 15  L6  BYE L2  L7  L3  1.0

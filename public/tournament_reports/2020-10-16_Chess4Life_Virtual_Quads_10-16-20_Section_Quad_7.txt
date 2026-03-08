@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ge, Daniel             SPTHI42V  1090  1207/200  W3  W2  W4  3.0
+  2 Xie, Max               BLWGI185  1097  1122/186  W4  L1  W3  2.0
+  3 Thakur, Reet           CWAEJ84K  1093  1071/212  L1  W4  L2  1.0
+  4 Yu, Christopher        SPTG591U  1071  1005/ 93  L2  L3  L1  0.0

@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Khalil, Tayseer        ADUN773K  1829  1825/ 45  W3  W4  L2  W5  3.0
+  2 Doncaster, Cannon      RICMF79H  1718  1723/ 64  L4  W5  W1  BYE 3.0
+  3 Chung, Ethan           LIBF108U  1618  1600/296  L1  BYE L5  W4  2.0
+  4 Carman, Leif           RICLB289  1537  1544/263  W2  L1  BYE L3  2.0
+  5 Palm, Caleb            LIBI919S  1500  1512/156  BYE L2  W3  L1  2.0

@@ -1,0 +1,16 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Vashisht, Aneesh       LKWEC30Y  1346  1401/ 86  W8  W6  W2  W4  D3  4.5
+  2 Deng, Stanley          CGMEK22E  1405  1411/244  W9  W3  L1  W6  W5  4.0
+  3 Rao, Atharv            SOMEB90T  1218  1243/ 35  W11 L2  W5  W13 D1  3.5
+  4 Wang, Ares             MEDEJ77J  1346  1304/242  W10 L5  W12 L1  W9  3.0
+  5 Gagnier, Ian           HSCEC72H  1101  1131/136  W14 W4  L3  W9  L2  3.0
+  6 Cheng, Alan            CHREJ71K  1079  1093/ 69  W12 L1  W10 L2  W13 3.0
+  7 Michiels, Peter        THOEB73Z  1005   959/ 15  W15 L9  L13 W14 W10 3.0
+  8 Hedstrom, Parker       WEDE498Y   539   548/ 15  L1  L12 W11 W15 W14 3.0
+  9 Damrau, Austin         PIVEK95E   981   986/ 10  L2  W7  W15 L5  L4  2.0
+ 10 Yan, Rian              DCTE218U   769   767/ 10  L4  W14 L6  W12 L7  2.0
+ 11 Mandic, Filip          CSIEK91X   458   414/  8  L3  L13 L8  BYE W15 2.0
+ 12 Liu, Ryan              DCTEK86W   400   657/  4  L6  W8  L4  L10 BYE 2.0
+ 13 Yang, Lucas            LKWEK86V   400   956/  4  U   W11 W7  L3  L6  2.0
+ 14 Shea, Otto             THOEK86U   400   152/  4  L5  L10 BYE L7  L8  1.0
+ 15 Lopez, Jacob           DCTEK86R   400   100/  4  L7  BYE L9  L8  L11 1.0

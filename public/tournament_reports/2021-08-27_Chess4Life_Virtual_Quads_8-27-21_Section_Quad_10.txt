@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Ares             BMNCJ77J   936  1036/111  W2  W4  W3  3.0
+  2 Cheruku, Adhrith       SHSB827Q   837   894/ 25  L1  W3  W4  2.0
+  3 Sumanaseni, Evan       CNHE876D   908   878/128  W4  L2  L1  1.0
+  4 Taylor, Ryder          HSCH385C   846   779/ 61  L3  L1  L2  0.0

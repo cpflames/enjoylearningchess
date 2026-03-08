@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xie, Max               BLWHI185  1437  1449/388  W4  W3  L2  2.0
+  2 Sinha, Agastya         HSCCA75C  1423  1439/ 78  L3  W4  W1  2.0
+  3 Wang, Jacob            BLWED74Y  1390  1414/220  W2  L1  W4  2.0
+  4 Nguyen, Viet           WLDE508J  1361  1308/157  L1  L2  L3  0.0

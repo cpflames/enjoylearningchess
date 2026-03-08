@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Jacob            BLWED74Y  1260  1269/140  W2  L3  W4  2.0
+  2 Bhattacharjee, ArchishmBLWFA45Y  1242  1256/118  L1  W4  W3  2.0
+  3 Rao, Deepak Sri KartikeARDF517J  1102  1174/ 50  W4  W1  L2  2.0
+  4 Hochberg, David        SUEJ6075  1190  1125/139  L3  L2  L1  0.0

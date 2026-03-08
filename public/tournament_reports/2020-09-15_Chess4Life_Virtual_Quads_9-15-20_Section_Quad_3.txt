@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kan, Kaleb             MMECF53E   613   709/ 27  W4  W2  W3  3.0
+  2 Yuan, Zoey             MMEC993N   400   634/  3  W3  L1  W4  2.0
+  3 Shankaranand, Deeksha  RSADI74Y   407   414/ 14  L2  W4  L1  1.0
+  4 Grigorenko, Yana       FRWBA39N   400   400/  3  L1  L3  L2  0.0

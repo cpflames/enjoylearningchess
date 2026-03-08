@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Deng, Stanley          CGMCK22E  1373  1417/108  W4  D2  W3  2.5
+  2 Berry, Lucas           ADUN901F  1300  1597/  3  W3  D1  W4  2.5
+  3 Palm, Caleb            LIBH919S  1423  1389/137  L2  W4  L1  1.0
+  4 Chung, Ian             LIBBG54U   400   400/ 12  L1  L3  L2  0.0

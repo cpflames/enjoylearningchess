@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Gangle, Jerome         SHMM2873   879  1012/ 63  W2  W3  W4  3.0
+  2 Zhang, Owen            FHVG995H   887   917/122  L1  W4  W3  2.0
+  3 Hildenbrand, Blane     PSMG122V   900   872/ 97  W4  L1  L2  1.0
+  4 Jackson, Caitlin       BHCIJ68P   855   786/ 48  L3  L2  L1  0.0

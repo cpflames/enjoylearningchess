@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Carper, Jack           LINHG86W  1176  1376/ 72  W4  W10 W2  W7  W3  5.0
+  2 Reddy, Eshan           SGSF336Y  1333  1329/201  W8  W3  L1  D5  W7  3.5
+  3 Bai, Kelin             PVECD75J  1065  1105/ 73  W6  L2  W10 W9  L1  3.0
+  4 Wannamaker, Linus      IDXFY45B  1440  1390/ 19  L1  W11 L7  W8  W5  3.0
+  5 Natesan, Arjun         LBYG878H   759   929/ 14  BYE D7  W8  D2  L4  3.0
+  6 Brown, Malia           FRRK1512  1138  1102/293  L3  L8  BYE W11 W9  3.0
+  7 Hou, Matthew           SOMG223Z  1253  1244/208  W9  D5  W4  L1  L2  2.5
+  8 Nicolazzo, Alexander   LYBL3198  1102  1077/130  L2  W6  L5  L4  W10 2.0
+  9 Schoenberger, Joshua   SJVHJ73R  1085  1027/214  L7  BYE W11 L3  L6  2.0
+ 10 Keener, Karl           VHSFY40G   500   650/  4  D11 L1  L3  BYE L8  1.5
+ 11 Wang, Kelby            WAXB796Y   660   656/ 11  D10 L4  L9  L6  BYE 1.5

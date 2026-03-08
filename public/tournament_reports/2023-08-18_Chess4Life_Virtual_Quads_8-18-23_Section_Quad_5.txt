@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhu, Alex              SOMEG51W   994  1006/ 57  D3  W2  D4  2.0
+  2 Anugula, Kruthik       RHJH581U   930   963/ 35  W4  L1  W3  2.0
+  3 Wu, Dennis             SCDCJ54B   915   924/177  D1  W4  L2  1.5
+  4 He, Raymond            HSCJK82K   940   890/ 60  L2  L3  D1  0.5

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Dillingham, Gregg      ADUNH327  1757  1766/155  U   W3  W2  W4  3.0
+  2 Palm, Caleb            LIBI919S  1529  1529/186  U   W4  L1  W3  2.0
+  3 Spletstoser, Eric      ADONL820  1081  1104/  6  U   L1  D4  L2  0.5
+  4 Dillingham, Daniel     KCCEB73M  1187  1174/198  U   L2  D3  L1  0.5

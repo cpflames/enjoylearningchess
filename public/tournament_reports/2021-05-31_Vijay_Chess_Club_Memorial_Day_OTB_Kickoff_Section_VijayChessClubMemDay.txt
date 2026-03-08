@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Sankrithi, Sarang      HSCBB11D  1003  1142/ 95  W4  W2  L3  2.0
+  2 Sankrithi, Siva        ADUNI948  1516  1493/ 10  W3  L1  W4  2.0
+  3 Kher, Amit             ADUN6697  1225  1245/  9  L2  D4  W1  1.5
+  4 Malugu, Sankalp        SHSBE95W  1270  1225/186  L1  D3  L2  0.5

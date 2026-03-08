@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Scollon, Owen          FHVG734D  1592  1610/319  W3  W4  W2  3.0
+  2 Bosch, Ethan           SHMMF67U  1353  1356/ 52  D4  W3  L1  1.5
+  3 Nipges, Jaxon          HORI382B  1228  1236/ 71  L1  L2  W4  1.0
+  4 Bosch, Declan          FHVHE38K  1320  1287/ 19  D2  L1  L3  0.5

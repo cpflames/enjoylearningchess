@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wahi, Lakshya          EVJI664Z  1279  1298/ 97  L4  W3  W2  2.0
+  2 Li, Yiyang             BCAE700B  1273  1293/197  W3  W4  L1  2.0
+  3 Zhang, Aaron           CCDE873R  1257  1237/344  L2  L1  W4  1.0
+  4 Zhang, Ethan (yichen)  CRIEG57B  1256  1236/156  W1  L2  L3  1.0

@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chen, Leon             SNRDD24U   484   623/ 17  W3  W2  W4  3.0
+  2 He, Raymond            HSCJK82K   900   467/  3  W6  L1  W5  2.0
+  3 Zhou, Evelyn           CHRCB89E   462   447/ 26  L1  D4  W6  1.5
+  4 Vuong, Leon            OPWC752X   400   422/  6  W5  D3  L1  1.5
+  5 Varanasi, Shasidhar    CDWFK99K   278   226/  6  L4  W6  L2  1.0
+  6 Mirchandani, Kiaan     CLHDK92Z   100   100/  6  L2  L5  L3  0.0

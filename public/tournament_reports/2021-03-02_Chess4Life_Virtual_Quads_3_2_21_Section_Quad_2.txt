@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Melomed, Anna          BCAIC17Z   991  1131/ 31  W4  W2  W3  3.0
+  2 Kim, Dylan             SCDCK38L  1131  1131/ 74  W3  L1  W4  2.0
+  3 Ladha, Yash Vardhan    CRKDK83P   952   948/ 15  L2  W4  L1  1.0
+  4 Rackoff, Dylan         BLWD507J   996   930/108  L1  L3  L2  0.0

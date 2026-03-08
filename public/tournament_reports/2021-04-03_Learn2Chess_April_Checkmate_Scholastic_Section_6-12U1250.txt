@@ -1,0 +1,10 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Jha, Siddhant          SSMGG46N  1149  1165/313  D5  W4  D2  W8  W6  4.0
+  2 Fong, Adam             SKRH4377  1069  1093/162  W9  W8  D1  L3  W4  3.5
+  3 Tameling, Benton       LSSJ9987  1241  1235/314  L8  W6  W5  W2  HPB 3.5
+  4 Abburi, Harshith Sai   BCWGA34S   524   724/ 19  BYE L1  W7  W5  L2  3.0
+  5 Liao, Wesley           EASGE49D   980   985/ 66  D1  W7  L3  L4  W9  2.5
+  6 Wakeman, Oliver        NJHHG10Y   966   964/ 18  D7  L3  BYE W9  L1  2.5
+  7 Hawkins, Holden        TYEI383Z  1188  1108/249  D6  L5  L4  BYE W8  2.5
+  8 Race, Nathan           LCNHH305  1022  1014/336  W3  L2  W9  L1  L7  2.0
+  9 Ram, Joey              EMSGF94L   765   721/ 62  L2  BYE L8  L6  L5  1.0

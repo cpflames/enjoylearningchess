@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Kim, Joshua            CHOLJ12T  1476  1565/ 55  W3  W2  W4  3.0
+  2 To, Donovan            KMNG239L  1517  1529/232  W4  L1  W3  2.0
+  3 Ge, Daniel             SPTHI42V  1490  1469/224  L1  W4  L2  1.0
+  4 Priest, Liam           OHLHL07U  1417  1371/205  L2  L3  L1  0.0

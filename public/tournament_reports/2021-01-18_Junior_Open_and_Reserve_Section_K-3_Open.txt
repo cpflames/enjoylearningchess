@@ -1,0 +1,31 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Liu, Lucas             SOMDH33R  1243  1388/ 91  W28 W25 W3  W2  W6  5.0
+  2 Rastogi, Atharv        APOD377H  1280  1309/ 30  W19 W10 W4  L1  W7  4.0
+  3 Cheng, Selina          THUD413R  1282  1303/168  W26 W7  L1  W17 W14 4.0
+  4 Liu, Vincent           ILAC546Q  1199  1233/ 73  W8  W17 L2  W9  W12 4.0
+  5 Compton, Jackson       HCHDL301  1259  1251/327  D27 W11 W20 L6  W8  3.5
+  6 Rajagopal, Rithesh     EBSD972Q  1331  1312/179  W9  L20 W24 W5  L1  3.0
+  7 Edmond, Alec           CSIBH03G  1083  1117/ 78  W22 L3  W23 W13 L2  3.0
+  8 Tian, Grace            CRIDE89L   878  1034/ 87  L4  W21 W10 W24 L5  3.0
+  9 Guduru, Agasthya       EMDC500V   941  1034/ 30  L6  W22 W11 L4  W20 3.0
+ 10 Tunuguntla, Sai SrithanEMDCK78V  1115  1102/121  W29 L2  L8  W16 W19 3.0
+ 11 Zhang, Zhibo           CCDB674X   688   866/ 12  W12 L5  L9  W28 W24 3.0
+ 12 Rackoff, Dylan         BLWD507J  1063  1056/ 81  L11 W16 WF  W20 L4  3.0
+ 13 Merriman, Dann         WMNBF79Y  1358  1304/343  W21 D24 D18 L7  W17 3.0
+ 14 Edmond, Ivy            WWDDD81E  1197  1159/138  L25 W30 W28 W18 L3  3.0
+ 15 Ning, Winston          SCDCJ14W   823   987/ 77  L24 W19 LF  W21 W18 3.0
+ 16 Kedarisetty, Ishan     GRRD300B   817   883/ 76  D18 L12 W27 L10 W26 2.5
+ 17 Shanmugam, Varsha      RBRBA12J  1024  1022/309  W23 L4  W25 L3  L13 2.0
+ 18 Ramkumar, Siddharth    LMADH50B   995   984/154  D16 W27 D13 L14 L15 2.0
+ 19 Dash, Nishant          ENDD260B   902   902/ 64  L2  L15 W29 W23 L10 2.0
+ 20 Malugu, Sankalp        SHSBE95W  1184  1135/133  W30 W6  L5  L12 L9  2.0
+ 21 Shah, Agam             DISD263J   923   915/165  L13 L8  W30 L15 W25 2.0
+ 22 Xiong, Michael         MEDC115A   825   831/ 42  L7  L9  L26 W27 W28 2.0
+ 23 Li, Harry              SSSBG30G   781   804/145  L17 W26 L7  L19 W29 2.0
+ 24 Zhao, George           CRKBA26L  1163  1103/154  W15 D13 L6  L8  L11 1.5
+ 25 Li, Edgar              OPWA883Y   855   868/ 10  W14 L1  L17 D26 L21 1.5
+ 26 Lekkala, Vihan         BLWD428L   915   869/ 99  L3  L23 W22 D25 L16 1.5
+ 27 Zheng, Lucas           HOEB194Y   888   848/ 43  D5  L18 L16 L22 W30 1.5
+ 28 Lew, Parker            CGRD122D   879   797/  9  L1  W29 L14 L11 L22 1.0
+ 29 Davenport, Raymond     SOMDD41L   832   761/ 30  L10 L28 L19 W30 L23 1.0
+ 30 Schoenfeld, Sam        OPWBB27K   840   691/ 10  L20 L14 L21 L29 L27 0.0

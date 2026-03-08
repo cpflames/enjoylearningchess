@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Love, Charles          SHMJ458N   900  1146/  3  W2  W4  W3  3.0
+  2 Overhauser, Nolan      VSTG231S   600   758/  3  L1  D3  W4  1.5
+  3 Boulos, Andrew         FACE217Z   651   642/ 41  D4  D2  L1  1.0
+  4 Sanghera, Mehrveer     VSTI594B   800   495/  3  D3  L1  L2  0.5

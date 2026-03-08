@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Wang, Andrew           MMEDD93V   755   776/ 20  D3  U   W2  1.5
+  2 Yadava, Ishansh        HSCFB75H   644   664/ 16  U   W3  L1  1.0
+  3 Leon, Nikhil           HSCC587T   760   716/ 11  D1  L2  U   0.5

@@ -1,0 +1,12 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Cheng, Selina          THUD413R  1223  1253/147  W7  W5  D2  W4  D3  4.0
+  2 Deng, Stanley          CGMCK22E  1336  1316/ 69  W11 W4  D1  L3  W5  3.5
+  3 Liu, Vincent           ILAC546Q  1181  1199/ 68  L4  W11 W8  W2  D1  3.5
+  4 Liang, Wu              JINB620E   841  1019/ 18  W3  L2  W10 L1  W9  3.0
+  5 Menon, Purvi           UNKCK46Z   839   974/ 15  W9  L1  W11 W6  L2  3.0
+  6 Blankenship, Ryan      LCND851M   850   875/ 57  L10 BYE W9  L5  W11 3.0
+  7 Dash, Nishant          ENDD260B   895   902/ 59  L1  L9  BYE W10 D8  2.5
+  8 Wang, Derek            MEDCF70G   966   948/ 90  BYE W10 L3  L9  D7  2.5
+  9 Jayadevan, Neel        SCDD230P  1001   962/ 39  L5  W7  L6  W8  L4  2.0
+ 10 Sankrithi, Sarang      HSCBB11D  1054   975/ 68  W6  L8  L4  L7  BYE 2.0
+ 11 Ning, Winston          SCDCJ14W   924   858/ 63  L2  L3  L5  BYE L6  1.0

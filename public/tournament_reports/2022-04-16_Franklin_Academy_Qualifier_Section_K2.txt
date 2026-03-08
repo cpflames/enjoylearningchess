@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Fine-gucker, Logan     EAGC535R   465   541/ 13  W5  D3  W4  W6  W2  4.5
+  2 Wang, Evan             FRWB929Z   400   588/  5  W3  W4  W6  W5  L1  4.0
+  3 Dolar, Evan            FACCA81A   400   436/  5  L2  D1  W5  D4  W6  3.0
+  4 Khaira, Huner          FACC505R   400   400/  5  W6  L2  L1  D3  W5  2.5
+  5 Boulos, Eric           FACCB08Q   400   400/  5  L1  W6  L3  L2  L4  1.0
+  6 Overson, Cora          FACCJ37E   400   400/  5  L4  L5  L2  L1  L3  0.0

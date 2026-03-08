@@ -1,0 +1,11 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Khandelwal, Ayush      REEE897D  1433  1522/134  WF  W3  W2  W4  W7  5.0
+  2 Liu, Lucas             SOMDH33R  1443  1462/111  W9  W8  L1  W7  W3  4.0
+  3 Lim, Hayul             VCEEQ94C  1114  1243/ 11  W5  L1  W10 W6  L2  3.0
+  4 Bharathy Mohan, Aarav  FRWCC98B  1159  1238/147  W7  W10 W6  L1  L5  3.0
+  5 Westover, Charlotte    WMEE365V  1389  1369/260  L3  L6  W9  W8  W4  3.0
+  6 Cheng, Selina          THUD413R  1449  1411/207  HPB W5  L4  L3  W9  2.5
+  7 Borate, Neel           REEE821E  1414  1367/170  L4  W9  W8  L2  L1  2.0
+  8 Dash, Nishant          ENDD260B   982   970/ 83  WF  L2  L7  L5  W10 2.0
+  9 Xiong, Michael         MEDC115A  1272  1216/ 87  L2  L7  L5  W10 L6  1.0
+ 10 Wagh, Vivaant          XXXBK39P   400   400/  5  BYE L4  L3  L9  L8  1.0

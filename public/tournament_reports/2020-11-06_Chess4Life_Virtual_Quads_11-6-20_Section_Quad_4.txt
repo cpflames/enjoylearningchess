@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ge, Daniel             SPTHI42V  1375  1391/209  D4  W2  D3  2.0
+  2 Urali, Sanjay          MEDD315D  1356  1377/210  W3  L1  W4  2.0
+  3 Karri, Aditya          AUDDC55V  1362  1360/ 62  L2  W4  D1  1.5
+  4 Sangal Lopez, Dev      WOBE515J  1330  1293/114  D1  L3  L2  0.5

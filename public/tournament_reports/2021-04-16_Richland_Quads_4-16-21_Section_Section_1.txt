@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chung, Ethan           LIBE108U  1469  1543/274  BYE W5  W2  3.0
+  2 Khalil, Tayseer        ADUN773K  1889  1876/ 21  W4  W3  L1  2.0
+  3 Carman, Leif           RICKB289  1599  1625/239  W5  L2  D4  1.5
+  4 Deng, Lily             CJEH5007  1808  1787/284  L2  BYE D3  1.5
+  5 Scott, Dane            HSCL293V  1758  1681/ 15  L3  L1  BYE 1.0

@@ -1,0 +1,4 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Aaron           MEDF873R  1355  1393/461  U   W2  W3  2.0
+  2 Dai, Alex              CHREC43N  1294  1299/ 89  W3  L1  U   1.0
+  3 Nguyen, Viet           WLDF508J  1305  1261/161  L2  U   L1  0.0

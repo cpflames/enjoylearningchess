@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bar, Nathan            AUDB368C   918  1067/ 49  W2  W3  W4  3.0
+  2 Kim, Scott             SSMJD025   939   947/ 54  L1  D4  W3  1.5
+  3 Rackoff, Dylan         BLWD507J   930   915/111  W4  L1  L2  1.0
+  4 Kok, Bulut             LAVEE54B  1007   945/126  L3  D2  L1  0.5

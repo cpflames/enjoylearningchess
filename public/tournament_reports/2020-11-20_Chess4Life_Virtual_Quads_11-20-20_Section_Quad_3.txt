@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Ge, Daniel             SPTHI42V  1356  1465/215  W3  W4  W2  3.0
+  2 Zhou, Yuchen           BCABJ42H  1354  1385/214  W4  W3  L1  2.0
+  3 Urali, Sanjay          MEDD315D  1399  1376/217  L1  L2  W4  1.0
+  4 Karri, Aditya          AUDDC55V  1400  1336/ 68  L2  L1  L3  0.0

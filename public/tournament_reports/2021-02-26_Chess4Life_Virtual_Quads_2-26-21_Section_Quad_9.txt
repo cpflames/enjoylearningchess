@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Bharathy Mohan, Aarav  FRWCC98B  1139  1159/142  W4  W3  L2  2.0
+  2 Ivanovic, Mina         UCDCH40V  1124  1149/313  L3  W4  W1  2.0
+  3 Chan, Aiden            CGRF917M  1110  1114/ 67  W2  L1  D4  1.5
+  4 Kim, Dylan             SCDCK38L  1131  1082/ 77  L1  L2  D3  0.5

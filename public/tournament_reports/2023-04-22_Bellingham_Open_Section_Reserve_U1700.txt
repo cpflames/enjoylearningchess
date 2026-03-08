@@ -1,0 +1,48 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Frost, Ignatius        SHMJJ64P  1586  1623/ 82  W34 W33 W15 W21 W3  5.0
+  2 Subramanian, Thrinay   SPTH466R  1458  1561/109  WF  W36 W11 W22 W10 5.0
+  3 Bosch, Ethan           ADUNF67U  1586  1592/ 95  W40 W32 W5  W18 L1  4.0
+  4 Scollon, Owen          FHVH734D  1539  1533/406  W41 W9  L22 W17 W18 4.0
+  5 Taitano, Judah         ADUNJ31F  1202  1287/  7  W43 W45 L3  W32 W19 4.0
+  6 Blue-day, Alexander    ADUNK60J  1033  1134/ 10  L45 W43 W37 W24 W21 4.0
+  7 Travaglio, Braeden     ADUNB733   975  1138/ 65  L11 W44 W14 W28 W22 4.0
+  8 Burgert, Jeffrey M     ADUNK20A  1468  1412/  5  W42 W19 L21 W31 D9  3.5
+  9 Cureton, Sam           ADUNA619   702   982/ 27  W28 L4  W29 W15 D8  3.5
+ 10 Temple, Ethan          ADUNK19Z  1300  1515/  5  D16 W27 W39 W11 L2  3.5
+ 11 Rutgers, Bert          ADUNH068  1656  1615/112  W7  W17 L2  L10 W30 3.0
+ 12 Brown, Oliver          ADUNI13S  1594  1545/ 22  L33 L16 W42 W26 W23 3.0
+ 13 De, Rishik             HEAGJ87T  1225  1221/ 30  W35 D39 L18 D20 W31 3.0
+ 14 Palmer, Evan           BHMJI90S  1217  1194/128  W47 L21 L7  W34 W32 3.0
+ 15 Kozaczuk, James        SHKH108A  1130  1113/138  W44 W38 L1  L9  W37 3.0
+ 16 Dunn, Hunter           ADUN9733  1121  1211/150  D10 W12 D23 L19 W36 3.0
+ 17 Johnson, Andrew        ADUNI196   759  1016/  9  W20 L11 W36 L4  W28 3.0
+ 18 Hoye, Hunter           ADUNK19X  1300  1504/  5  W27 W23 W13 L3  L4  3.0
+ 19 Grimes, Elias          RESNT655   696   957/174  W29 L8  W25 W16 L5  3.0
+ 20 Szirom, Steve          ADUNK19W  1300  1149/  5  L17 W40 D26 D13 W29 3.0
+ 21 Thompson, Blake        ADUNK19U  1300  1378/  5  W26 W14 W8  L1  L6  3.0
+ 22 Farrer, Christopher    ADUNK19T  1300  1364/  5  W31 W24 W4  L2  L7  3.0
+ 23 Havaldar, Karsh        CSBDI03F  1568  1516/ 37  WF  L18 D16 W39 L12 2.5
+ 24 Wakeman, Oliver        INLJG10Y  1204  1170/ 79  W46 L22 W33 L6  D25 2.5
+ 25 Coulter, Austin        ADUNF061  1099  1068/113  L39 W42 L19 W38 D24 2.5
+ 26 Brown, Sofia           MRDL128V  1076  1097/ 31  L21 W47 D20 L12 W39 2.5
+ 27 Zhang, Owen            FHVH995H  1328  1273/213  L18 L10 L41 W46 W42 2.0
+ 28 Rosenblum, Jacob       ADUNK19S  1300   916/  5  L9  W34 W35 L7  L17 2.0
+ 29 Simmons, Jack          ADUL1755  1148  1074/171  L19 W41 L9  W35 L20 2.0
+ 30 Crabbe, Tyler          LAKK655P  1120  1062/ 84  L36 L35 W44 W41 L11 2.0
+ 31 Yakkali, Karthik VedantKKNF301E  1023  1020/ 39  L22 W46 W38 L8  L13 2.0
+ 32 Van Dyk, Dash          INLJK89T  1006  1018/ 15  W37 L3  W45 L5  L14 2.0
+ 33 Chow, Jayden           NJHJ1684   962   996/122  W12 L1  L24 L36 W41 2.0
+ 34 Coulter, Alex          MRDMF898   956   923/ 79  L1  L28 W43 L14 W44 2.0
+ 35 Van Gorkom, Joshua     CWAIB02N   837   847/ 58  L13 W30 L28 L29 W47 2.0
+ 36 Haas, Ryan             ADUNK19R  1300  1079/  5  W30 L2  L17 W33 L16 2.0
+ 37 Moore, Judson          ADUNK19Q  1300   856/  4  L32 BYE L6  W40 L15 2.0
+ 38 Dixon, Jon             ADUNK19P  1300   828/  4  BYE L15 L31 L25 W40 2.0
+ 39 Wilcox, Emery          ADUNK19L  1300  1121/  5  W25 D13 L10 L23 L26 1.5
+ 40 Thungathurthi, PranavarINGGG82R   973   899/ 44  L3  L20 W47 L37 L38 1.0
+ 41 Taitano, Mila          HSCK673R   902   899/ 21  L4  L29 W27 L30 L33 1.0
+ 42 Kimes, Matilda         HSCH935N   879   870/ 28  L8  L25 L12 W43 L27 1.0
+ 43 Thanikonda, Kruti      RCSCK84W   725   687/ 44  L5  L6  L34 L42 BYE 1.0
+ 44 Simmons, Sean          HSCIH985   612   630/139  L15 L7  L30 W47 L34 1.0
+ 45 Jacobs, David          ADUNK19J  1300  1026/  3  W6  L5  L32 U   U   1.0
+ 46 Ericksen, Leif         ADONM38P   758   723/  6  L24 L31 HPB L27 U   0.5
+ 47 Gauf, Jayden           MBJHK40Y   836   708/ 12  L14 L26 L40 L44 L35 0.0

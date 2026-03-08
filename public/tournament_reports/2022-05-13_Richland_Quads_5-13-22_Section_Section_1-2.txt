@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Khalil, Tayseer        ADUN773K  1818  1839/ 72  W4  W2  W3  3.0
+  2 Deng, Lily             CJEI5007  1823  1813/325  W5  L1  W4  2.0
+  3 Deng, Stanley          LECDK22E  1354  1368/209  W6  W5  L1  2.0
+  4 Margiotta, Evan        ADUN922M  1484  1476/ 28  L1  W6  L2  1.0
+  5 Di Biase, Ben          ADUNJ64C  1300  1175/  3  L2  L3  W6  1.0
+  6 Sakamoto, Matthew      VISN5711  1002   976/ 11  L3  L4  L5  0.0

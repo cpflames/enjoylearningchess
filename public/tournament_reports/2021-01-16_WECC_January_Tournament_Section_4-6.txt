@@ -1,0 +1,23 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Karthikeyan, HarishkumaRKWFJ81A  1543  1568/165  W6  W8  W12 W2  W5  5.0
+  2 Chowdada, Devanshi     HSCEI36B   400  1326/  5  W10 W11 W7  L1  W9  4.0
+  3 Kokati, Pranav         CHRF814P  1031  1091/129  W9  L4  W16 W7  W6  4.0
+  4 Pegushin, Daniel       MEDEF62X  1172  1209/ 14  W11 W3  L5  W12 W13 4.0
+  5 Morris, Graham         HTNG1617  1050  1164/268  W19 W15 W4  W13 L1  4.0
+  6 Forrester, Gilbert     HTNGH03C   853   961/138  L1  W19 W17 W8  L3  3.0
+  7 Thallapally, Sriyan    OEREA43W   826   947/ 55  W17 W13 L2  L3  W16 3.0
+  8 Chaoweeraprasit, Nyle  OVLGI162  1045  1045/111  W16 L1  W15 L6  W12 3.0
+  9 Ramos, Justin          BGLEA12M   782   932/ 34  L3  W10 W14 W20 L2  3.0
+ 10 Motkuri, Akshath       WBEF554U   987  1006/ 60  L2  L9  W19 W17 W14 3.0
+ 11 Veiga, Gabriel         ENSEJ31Y   993   985/ 57  L4  L2  D18 W22 W20 2.5
+ 12 Madupuru, Manvik       LEOGI50J   875   887/ 50  W21 W14 L1  L4  L8  2.0
+ 13 Nune, Rohan            LECFA83V  1135  1076/ 70  W18 L7  W20 L5  L4  2.0
+ 14 Schmidt, Oto           HTNGJ236  1043   974/148  W20 L12 L9  W15 L10 2.0
+ 15 Luna, Ernestoolayo     OCHGH80G   600   867/  5  W22 L5  L8  L14 W18 2.0
+ 16 Fiecke, Nate           SJKGG46X   422   562/ 10  L8  W22 L3  W21 L7  2.0
+ 17 Perrin, Victor         LKDEF15C  1122  1030/ 16  L7  W18 L6  L10 W21 2.0
+ 18 Liao, Wesley           EASGE49D   992   924/ 44  L13 L17 D11 W19 L15 1.5
+ 19 Zaragoza, Abel         MCUE103M   528   552/ 49  L5  L6  L10 L18 W22 1.0
+ 20 Lokaman, Anwar         MCUF883Q   774   731/ 81  L14 W21 L13 L9  L11 1.0
+ 21 Espedal, Davin         MCGF615W   400   400/ 18  L12 L20 BYE L16 L17 1.0
+ 22 Scotece, Aven          LECE787W   775   656/ 54  L15 L16 U   L11 L19 0.0

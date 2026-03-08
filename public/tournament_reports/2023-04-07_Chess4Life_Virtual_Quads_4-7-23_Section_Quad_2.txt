@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Upreti, Parthavi       GTMG754L  1604  1623/179  W4  W3  D2  2.5
+  2 Shanmugam, Meera       SKWHD22Y  1544  1578/450  W3  W4  D1  2.5
+  3 Saddi, Neevan Reddy    GRRDH87M  1468  1458/140  L2  L1  W4  1.0
+  4 Sinha, Agastya         HSCDA75C  1437  1393/159  L1  L2  L3  0.0

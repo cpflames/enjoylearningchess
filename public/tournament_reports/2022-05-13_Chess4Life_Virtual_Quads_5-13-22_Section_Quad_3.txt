@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Singh, Saket           DISI872S  1344  1380/332  W4  D2  W3  2.5
+  2 Zhang, Aaron           MEDE873R  1285  1289/433  W3  D1  L4  1.5
+  3 Sinha, Agastya         HSCCA75C  1330  1301/ 51  L2  W4  L1  1.0
+  4 Zhu, Kevin             CSMC865U  1237  1230/273  L1  L3  W2  1.0

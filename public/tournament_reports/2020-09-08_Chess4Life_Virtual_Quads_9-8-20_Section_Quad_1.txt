@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chan, Skylor T         MEDGD18J  1715  1738/225  W4  W3  W2  3.0
+  2 Ivanovic, Relja        ADUNJ51T  1534  1541/ 11  D3  W4  L1  1.5
+  3 Boulis, Christos       RHJHC84T  1515  1523/360  D2  L1  W4  1.5
+  4 Zhang, Ethan           CLHEE87D  1462  1421/362  L1  L2  L3  0.0

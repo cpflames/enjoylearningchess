@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Holzer, Liam           EVJHG89B   852   909/ 78  W4  W2  D3  2.5
+  2 Sembium, Aditi         BCABK25W   908   913/123  W3  L1  W4  2.0
+  3 Anugula, Kruthik       RHJG581U   857   848/ 22  L2  W4  D1  1.5
+  4 Singhal, Aryash        UNKC595L   925   467/  6  L1  L3  L2  0.0

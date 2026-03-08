@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chatterjee, Sasmit     RHJHH23M  1094  1166/ 39  W3  W4  D2  2.5
+  2 Dale, Luke             SMSJJ10P  1145  1135/ 47  L4  W3  D1  1.5
+  3 Wakeman, Oliver        INLJG10Y  1080  1063/ 54  L1  L2  W4  1.0
+  4 Lahue, Ihsan           WAVHJ69P  1079  1062/113  W2  L1  L3  1.0

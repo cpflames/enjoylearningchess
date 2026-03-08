@@ -1,0 +1,30 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Tessiore, Luca         DCTFP42N  1846  1900/178  W10 W19 W9  W5  D3  4.5
+  2 Min, Ryan              OMSH5430  1970  1983/350  HPB W16 D6  W11 W10 4.0
+  3 Wang, Ted              MEDCK13D  1842  1870/185  W25 HPB W15 W7  D1  4.0
+  4 Liu, Zachary           BCXEG03T  1802  1833/ 14  W27 L5  W13 D14 W11 3.5
+  5 Liu, Austin            PLKH530J  2054  2048/294  W24 W4  HPB L1  W12 3.5
+  6 Willy, Stephen         HSCGH17K  1832  1839/493  D15 W21 D2  HPB W14 3.5
+  7 Razmov, Valentin       ADUNB02T  1821  1828/ 84  W29 W14 D11 L3  W17 3.5
+  8 Leong, Aiden           MGEIX657  1468  1520/105  W22 L11 HPB D13 W20 3.0
+  9 Lin, Michael           BCACC97F  1660  1674/237  W23 W18 L1  L10 W22 3.0
+ 10 Xu, Owen               SOMC896M  1608  1640/128  L1  W28 W26 W9  L2  3.0
+ 11 Kona, Vidip            RSADI26J  1959  1932/260  W13 W8  D7  L2  L4  2.5
+ 12 Wang, Felicity         LMSIJ02F  1752  1745/279  HPB L15 W16 W25 L5  2.5
+ 13 Verma, Darsh           WONFB52K  1633  1640/136  L11 W29 L4  D8  W25 2.5
+ 14 Tran, Nugen            CDZH455Z  1499  1537/339  W26 L7  BYE D4  L6  2.5
+ 15 Sankar, Abhay          LEOI6545  1583  1622/363  D6  W12 L3  L17 W24 2.5
+ 16 Wong-godfrey, Emerson  EXWIH83E  1661  1649/408  D20 L2  L12 W28 W19 2.5
+ 17 Razmov, Gabriel        ADDGC26K  1611  1616/204  L18 D22 W27 W15 L7  2.5
+ 18 Qian, Daniel           PFCK7807  1922  1908/291  W17 L9  W24 U   U   2.0
+ 19 Zhou, Leonardo         PLKGE293  1660  1635/170  W28 L1  HPB HPB L16 2.0
+ 20 Demberel, Amana        LCOJJ14E  1384  1404/ 35  D16 L26 D21 W23 L8  2.0
+ 21 Xiong, Michael         MEDD115A  1566  1537/208  HPB L6  D20 L22 W27 2.0
+ 22 Han, Shuyi             SOMFK47W  1405  1423/261  L8  D17 HPB W21 L9  2.0
+ 23 Nallabothula, Vineesh  EBSF764Q  1341  1344/251  L9  L25 W29 L20 W28 2.0
+ 24 Shah, Paras            EVJG904N  1657  1635/169  L5  W27 L18 HPB L15 1.5
+ 25 Merriman, Dann         WMNCF79Y  1605  1578/449  L3  W23 HPB L12 L13 1.5
+ 26 Nallabothula, Varin    WPPI457A  1706  1666/368  L14 W20 L10 U   U   1.0
+ 27 Rundle, Alexander      ADUNH41P  1552  1420/  9  L4  L24 L17 BYE L21 1.0
+ 28 Trejo Garcia, Javier   ADUNE23G  1300   951/  4  L19 L10 HPB L16 L23 0.5
+ 29 Ramkumar, Nikhil       RBRE115E  1558  1506/168  L7  L13 L23 U   U   0.0

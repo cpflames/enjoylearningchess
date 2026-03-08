@@ -1,0 +1,7 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Xu, Ethan              BENDK98S   668   701/ 24  W3  W2  W4  3.0
+  2 Ensz, Arlo             RHJGK62C   100   260/  6  W5  L1  W6  2.0
+  3 Mountney, Mercury      HSCFK59J   500   507/  3  L1  W4  W5  2.0
+  4 Spaeth, Uzi            SHVFK58N   500   303/  3  W6  L3  L1  1.0
+  5 Mountney, Mars         HSCBK58K   100   155/  3  L2  W6  L3  1.0
+  6 Rajeshkumar, Dhruva    BRHAK58G   100   100/  3  L4  L5  L2  0.0

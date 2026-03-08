@@ -1,0 +1,6 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Abhilash, Lavina       SNIDK07R   425   502/ 21  W2  W5  W3  3.0
+  2 Jin, Charlie           SOMBK42J   402   386/ 17  L1  BYE W5  2.0
+  3 You, Min               SNIAK41Y   149   175/ 12  BYE W4  L1  2.0
+  4 Bidasaria, Keshav      GRRCK02Z   200   100/  2  D5  L3  BYE 1.5
+  5 Malhotra, Dilraj       MAHBK02Y   100   100/  3  D4  L1  L2  0.5

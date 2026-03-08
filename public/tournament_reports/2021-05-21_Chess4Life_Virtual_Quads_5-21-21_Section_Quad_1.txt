@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Vemparala, Nikash      BCAFI078  1824  1835/326  W3  W4  W2  3.0
+  2 Boulis, Christos       RHJHC84T  1512  1539/451  W4  W3  L1  2.0
+  3 Zheng, Max             SOMED13T  1438  1441/105  L1  L2  W4  1.0
+  4 Condit, Noah           TLIFA59Q  1490  1444/ 49  L2  L1  L3  0.0

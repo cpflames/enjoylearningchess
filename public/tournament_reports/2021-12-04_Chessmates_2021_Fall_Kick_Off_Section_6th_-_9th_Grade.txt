@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Zhang, Bohan           EPSJE54S  1476  1509/ 47  W3  W2  W6  W7  W5  5.0
+  2 Morin-cotton, NathanielPEMI4895  1124  1203/153  W8  L1  W4  W3  W6  4.0
+  3 Rubaiyat, Rhadean      ICSGD40L  1108  1135/ 82  L1  W5  W7  L2  W8  3.0
+  4 Zhang, Melodie         OMSGE44K   891   988/108  W5  L6  L2  W8  W7  3.0
+  5 Fedorov, Vladimir      EVJHF17D  1187  1138/167  L4  L3  W8  W6  L1  2.0
+  6 Heider, Elena          NOVHC647  1067  1074/ 96  W7  W4  L1  L5  L2  2.0
+  7 Villanueva, Kirian     SHEGH895  1221  1123/178  L6  W8  L3  L1  L4  1.0
+  8 Venkatesan, Nimalan    EVJG701P   600   598/  5  L2  L7  L5  L4  L3  0.0

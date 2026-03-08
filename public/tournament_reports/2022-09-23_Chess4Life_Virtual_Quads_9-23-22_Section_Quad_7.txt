@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Joshi, Vyom            LEOHH81X   902  1021/ 38  W4  W2  W3  3.0
+  2 Taylor, Ryder          HPTJ385C   868   908/215  W3  L1  W4  2.0
+  3 Yin, Daniel            ISSL116Y   889   864/260  L2  W4  L1  1.0
+  4 Stake, Charles         OESDM87Q   862   791/139  L1  L3  L2  0.0

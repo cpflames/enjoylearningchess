@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Parson, Anya           SSMFI86G  1136  1157/ 34  L3  W4  W2  2.0
+  2 Hochberg, David        INNK6075  1174  1185/318  W4  W3  L1  2.0
+  3 Taylor, Ryder          KAMJ385C  1118  1144/297  W1  L2  W4  2.0
+  4 Xie, Leon              CNHE264X  1066  1008/115  L2  L1  L3  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Yang, James            SSME123B  1307  1307/117  W4  L2  W3  2.0
+  2 Neff, Joel             ABEDF99X  1188  1195/160  D3  W1  L4  1.5
+  3 Trochesset, David      ENSEG98F  1142  1161/ 25  D2  W4  L1  1.5
+  4 Wang, Jacob            BLWDD74Y  1220  1196/ 69  L1  L3  W2  1.0

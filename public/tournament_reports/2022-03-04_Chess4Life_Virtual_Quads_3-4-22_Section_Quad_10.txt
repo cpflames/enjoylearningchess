@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Chaudhuri, Arihant     CHAC703E   779   909/ 53  W2  W3  W4  3.0
+  2 Sailer, Shaunak        ENAEC25Z   801   822/135  L1  W4  W3  2.0
+  3 Krishna, Sai           CAXE383J   780   724/ 25  D4  L1  L2  0.5
+  4 Tan, Seth              UPPCE65L   710   667/ 11  D3  L2  L1  0.5

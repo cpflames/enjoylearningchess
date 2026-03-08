@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Li, Andrew             REJI769K  1281  1332/209  W2  D3  W4  2.5
+  2 Aggarwal, Aadit        LEOIE722  1195  1248/441  L1  W4  W3  2.0
+  3 Alam, Adil             BCAGI15X  1265  1265/247  W4  D1  L2  1.5
+  4 Lechner, Liam          HSCH591P  1289  1217/ 39  L3  L2  L1  0.0

@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Zhang, Ethan           CLHEE87D  1191  1256/437  W4  W3  D2  2.5
+  2 Condit, Noah           TLIFA59Q  1252  1261/ 27  W3  D4  D1  2.0
+  3 Gagnier, Ian           HSCCC72H  1160  1147/ 72  L2  L1  W4  1.0
+  4 Robinson, Adam         STTGK708  1168  1129/143  L1  D2  L3  0.5

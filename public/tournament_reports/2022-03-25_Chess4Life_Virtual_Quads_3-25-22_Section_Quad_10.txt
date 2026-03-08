@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Tan, Seth              UPPCE65L   667   742/ 14  D4  W2  W3  2.5
+  2 Dalal, Raahi           CNHD949K   645   681/ 34  W3  L1  W4  2.0
+  3 Li, Chuling            CNHD567N   671   607/  6  L2  W4  L1  1.0
+  4 Chaudhuri, Agnivesh    CHACB55V   640   586/ 66  D1  L3  L2  0.5

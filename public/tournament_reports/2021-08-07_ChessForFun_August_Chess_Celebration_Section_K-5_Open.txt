@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Yang, Yuchang          ILCDK16L  1069  1155/ 18  WF  D3  W5  W2  W7  4.5
+  2 Lella, Vihan           KKND685A  1158  1177/ 42  W5  W7  W3  L1  W6  4.0
+  3 Arokiadass, Prithiv    CSACP46L  1347  1318/119  W6  D1  L2  W4  W5  3.5
+  4 Shreeraam, Seshsasayee RSADD91F  1118  1107/ 19  LF  U   W7  L3  BYE 2.0
+  5 Kannapiran, Arnav      BLWC983P   674   758/  9  L2  W6  L1  BYE L3  2.0
+  6 Sailer, Shaunak        SARDC25Z   858   793/100  L3  L5  BYE D7  L2  1.5
+  7 Reddy, Ira             HSOCU769   550   562/ 40  WF  L2  L4  D6  L1  1.5

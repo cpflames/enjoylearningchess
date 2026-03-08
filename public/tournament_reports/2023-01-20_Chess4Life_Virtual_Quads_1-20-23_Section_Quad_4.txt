@@ -1,0 +1,5 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Girroir, Banyan        RMBIL92L  1068  1208/  8  W4  W3  W2  3.0
+  2 Zhang, Ethan Yichen    CRIFG57B  1134  1146/337  W3  W4  L1  2.0
+  3 Taylor, Ryder          KAMJ385C   985   987/255  L2  L1  W4  1.0
+  4 Xie, Leon              CNHE264X  1086  1013/ 61  L1  L2  L3  0.0
