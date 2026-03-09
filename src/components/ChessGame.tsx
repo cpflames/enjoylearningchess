@@ -42,6 +42,7 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
   };
   
   const [botLevel, setBotLevel] = useState<BotLevel>(getInitialBotLevel);
+  const botLevelRef = useRef<BotLevel>(botLevel);
   const chatContainerRef = useRef<HTMLDivElement>(null);
   const logsContainerRef = useRef<HTMLDivElement>(null);
 
@@ -100,7 +101,7 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
     const possibleMoves = game.moves();
     if (game.isGameOver() || possibleMoves.length === 0) return;
 
-    const { moveString, chatMessage, logsMessage } = botMove(game, botLevel);
+    const { moveString, chatMessage, logsMessage } = botMove(game, botLevelRef.current);
     if (moveString) {
       game.move(moveString);
       setFen(game.fen());
@@ -252,6 +253,7 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
 
   const handleBotLevelChange = (event: React.ChangeEvent<HTMLSelectElement>) => {
     const newLevel = Number(event.target.value) as BotLevel;
+    botLevelRef.current = newLevel;
     setBotLevel(newLevel);
     // Update URL parameter
     setSearchParams({ level: newLevel.toString() });

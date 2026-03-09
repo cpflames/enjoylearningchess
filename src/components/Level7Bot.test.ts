@@ -19,10 +19,10 @@ describe('Level 7 Bot', () => {
     const config = BOT_CONFIGS[7];
     
     expect(config.depth).toBe(4);
-    expect(config.breadth).toBe(10);
+    expect(config.breadthPerDepth).toEqual([10, 7, 5, 3]);
     expect(config.depthStrategy.strategyName).toBe('Quiescence');
     expect(config.moveGenStrategy.strategyName).toBe('Goal-Based');
-    expect(config.evalStrategy.strategyName).toBe('BoardSense Enhanced');
+    expect(config.evalStrategy.strategyName).toBe('BoardSense Enhanced + Concepts');
   });
 
   test('Level 7 bot searches deeper than Level 6', () => {

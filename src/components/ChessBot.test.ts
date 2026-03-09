@@ -65,8 +65,8 @@ describe('ChessBot', () => {
     // Get the number of evaluations for this search
     const evalCount = GLOBAL_EVAL_COUNT - evalCountBefore;
     
-    // Theoretical maximum without pruning: breadth^depth = 10^4 = 10,000
-    const theoreticalMax = Math.pow(botConfig.breadth, botConfig.depth);
+    // Theoretical maximum without pruning: breadth^depth = 10^3 = 1,000 (L5: depth 3, breadth 10)
+    const theoreticalMax = Math.pow(botConfig.breadthPerDepth[0], botConfig.depth);
     
     console.log(`\nAlpha-beta pruning stats:`);
     console.log(`  Nodes evaluated: ${evalCount}`);

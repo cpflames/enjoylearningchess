@@ -322,7 +322,9 @@ export class MoveEval {
         return this;
       }
       const flip = isMaximizing ? 1 : -1;
-      const numMovesToConsider = this.botConfig.breadth;
+      const depthIndex = Math.max(0, this.botConfig.depth - depth);
+      const taper = this.botConfig.breadthPerDepth;
+      const numMovesToConsider = taper[Math.min(depthIndex, taper.length - 1)];
 
       this.possibleMoves = candidateMoves
         .map(move => {

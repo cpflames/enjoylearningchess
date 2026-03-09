@@ -2,6 +2,7 @@ import { Chess } from 'chess.js';
 import type { Color } from 'chess.js';
 import { GLOBAL_EVAL_COUNT, MoveEval } from './MoveEval';
 import { BoardSense } from './BoardSense';
+import { ALL_CONCEPTS, ChessConcept, evaluateConcepts } from './ChessConcepts';
 
 export const BOT_COLOR: Color = 'b';
 
@@ -42,32 +43,35 @@ export const MATERIAL_AND_POSITIONAL_STRATEGY: evalStrategy = {
   strategyName: 'Material + positional',
 }
 
-export const BOARDSENSE_STRATEGY: evalStrategy = {
+const makeBoardsenseStrategy = (concepts: ChessConcept[]): evalStrategy => ({
   evalFunc: (moveEval: MoveEval) => {
-    const game = moveEval.getGame();
-    const boardSense = new BoardSense(game);
-    
+    const boardSense = new BoardSense(moveEval.getGame());
+
     // Base evaluation: material + positional
     let score = moveEval.materialPointsAheadForWhite() + moveEval.positionalPointsAheadForWhite();
-    
-    // Mobility advantage (0.05 points per move advantage)
-    const mobilityDiff = boardSense.getMobilityDifference();
-    score += mobilityDiff * 0.02;
-    
+
+    // Mobility advantage (0.02 points per move advantage)
+    score += boardSense.getMobilityDifference() * 0.02;
+
     // King safety (0.1 points per safety score point)
     //const whiteKingSafety = boardSense.getKingSafety('w');
     //const blackKingSafety = boardSense.getKingSafety('b');
     //score += (whiteKingSafety.safetyScore - blackKingSafety.safetyScore) * 0.1;
-    
+
     // Pawn structure (use the composite structure score)
     //const whitePawnStructure = boardSense.getPawnStructureMetrics('w');
     //const blackPawnStructure = boardSense.getPawnStructureMetrics('b');
     //score += (whitePawnStructure.structureScore - blackPawnStructure.structureScore) * 0.05;
-    
+
+    // ChessConcepts: strategic penalties/bonuses
+    score += evaluateConcepts(moveEval, concepts);
+
     return score + jitter();
   },
-  strategyName: 'BoardSense Enhanced',
-}
+  strategyName: concepts.length > 0 ? 'BoardSense Enhanced + Concepts' : 'BoardSense Enhanced',
+});
+
+export const BOARDSENSE_STRATEGY: evalStrategy = makeBoardsenseStrategy([]);
 
 // Depth strategies
 
@@ -105,7 +109,7 @@ export const GOAL_BASED_MOVE_GEN: MoveGenerationStrategy = {
 
 export type BotConfig = {
   depth: number;
-  breadth: number;
+  breadthPerDepth: number[]; // breadth at each depth layer: [root, depth-1, depth-2, ...]; last element used for deeper layers
   evalStrategy: evalStrategy;
   depthStrategy: DepthStrategy;
   moveGenStrategy: MoveGenerationStrategy;
@@ -113,32 +117,37 @@ export type BotConfig = {
 }
 
 const makeBotConfig = (
-  level: number, 
-  depth: number, 
-  breadth: number, 
+  level: number,
+  depth: number,
+  breadthPerDepth: number[],
   depthStrategy: DepthStrategy,
   moveGenStrategy: MoveGenerationStrategy,
   evalStrategy: evalStrategy
 ): BotConfig => {
-  return { 
-    depth, 
-    breadth, 
+  const breadthStr = breadthPerDepth.length === 1
+    ? `${breadthPerDepth[0]}`
+    : breadthPerDepth.join('/');
+  return {
+    depth,
+    breadthPerDepth,
     evalStrategy,
     depthStrategy,
     moveGenStrategy,
-    botName: `[Level ${level}] ${evalStrategy.strategyName} (${depth}-Ply x ${breadth}) with ${depthStrategy.strategyName} depth and ${moveGenStrategy.strategyName} move generation` 
+    botName: `[Level ${level}] ${evalStrategy.strategyName} (${depth}-Ply x ${breadthStr}) with ${depthStrategy.strategyName} depth and ${moveGenStrategy.strategyName} move generation`
   };
 }
 
+const BOARDSENSE_WITH_CONCEPTS: evalStrategy = makeBoardsenseStrategy(ALL_CONCEPTS);
+
 export const BOT_CONFIGS: BotConfig[] = [
-  makeBotConfig(0, 1, 50, HARD_STOP_DEPTH, RANKED_MOVE_GEN, RANDOM_STRATEGY),
-  makeBotConfig(1, 1, 50, HARD_STOP_DEPTH, RANKED_MOVE_GEN, MATERIAL_STRATEGY),
-  makeBotConfig(2, 2, 40, HARD_STOP_DEPTH, RANKED_MOVE_GEN, MATERIAL_STRATEGY),
-  makeBotConfig(3, 2, 20, HARD_STOP_DEPTH, RANKED_MOVE_GEN, MATERIAL_AND_POSITIONAL_STRATEGY),
-  makeBotConfig(4, 4, 10, HARD_STOP_DEPTH, RANKED_MOVE_GEN, MATERIAL_AND_POSITIONAL_STRATEGY),
-  makeBotConfig(5, 3, 10, QUIESCE_DEPTH, RANKED_MOVE_GEN, BOARDSENSE_STRATEGY),
-  makeBotConfig(6, 3, 10, QUIESCE_DEPTH, GOAL_BASED_MOVE_GEN, BOARDSENSE_STRATEGY),
-  makeBotConfig(7, 4, 10, QUIESCE_DEPTH, GOAL_BASED_MOVE_GEN, BOARDSENSE_STRATEGY),
+  makeBotConfig(0, 1, [50],         HARD_STOP_DEPTH, RANKED_MOVE_GEN,    RANDOM_STRATEGY),
+  makeBotConfig(1, 1, [50],         HARD_STOP_DEPTH, RANKED_MOVE_GEN,    MATERIAL_STRATEGY),
+  makeBotConfig(2, 2, [40],         HARD_STOP_DEPTH, RANKED_MOVE_GEN,    MATERIAL_STRATEGY),
+  makeBotConfig(3, 2, [20],         HARD_STOP_DEPTH, RANKED_MOVE_GEN,    MATERIAL_AND_POSITIONAL_STRATEGY),
+  makeBotConfig(4, 4, [10],         HARD_STOP_DEPTH, RANKED_MOVE_GEN,    MATERIAL_AND_POSITIONAL_STRATEGY),
+  makeBotConfig(5, 3, [10],         QUIESCE_DEPTH,   RANKED_MOVE_GEN,    BOARDSENSE_STRATEGY),
+  makeBotConfig(6, 3, [10, 7, 5],   QUIESCE_DEPTH,   GOAL_BASED_MOVE_GEN, BOARDSENSE_WITH_CONCEPTS),
+  makeBotConfig(7, 4, [10, 7, 5, 3], QUIESCE_DEPTH,  GOAL_BASED_MOVE_GEN, BOARDSENSE_WITH_CONCEPTS),
 ];
 
 export const MAX_BOT_LEVEL = BOT_CONFIGS.length - 1;
