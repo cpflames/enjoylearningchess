@@ -415,7 +415,7 @@ export class MoveEval {
   }
 
   getCurrentEvalAsString(): string {
-    return `Current Eval: (initial: ${this.initialScore.toFixed(2)}, best line: ${this.score.toFixed(2)})`;
+    return `Initial Eval: ${this.initialScore.toFixed(2)}`;
   }
 
   getGame(): Chess {
@@ -427,7 +427,12 @@ export class MoveEval {
   }
 
   getTopMovesAsString(count: number): string {
-    return this.topMoves.slice(0, count).map(move => `${move.getFinalStateString()}: ${move.score.toFixed(2)}`).join('\n');
+    return this.topMoves.slice(0, count).map(move => {
+      const line = move.getFinalStateString().trim();
+      const score = move.score.toFixed(2);
+      const reason = move.moveReason ? ` ${move.moveReason}` : '';
+      return `${line} (${score})${reason}`;
+    }).join('\n');
   }
 
   getAllPossibleMovesAsString(): string {

@@ -203,7 +203,7 @@ const botMoveHelper = (game: Chess, botConfig: BotConfig): BotResponse => {
   // Display
   return { 
     moveString: bestMove.getMoveString(), 
-    chatMessage: `${msg}\n${currentEvalMsg}\n${head(3, topMovesMsg)}`,
+    chatMessage: `${msg}\n${currentEvalMsg}\nTop 3 lines:\n${head(3, topMovesMsg)}`,
     logsMessage: [logsMessage, timeMsg, evalCountMsg, currentEvalMsg, moveEval.logs, bestMove.logs, allPossibleMovesMsg, allTopMovesMsg].join('\n'),
   };
 };
