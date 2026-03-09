@@ -276,14 +276,14 @@ export default function NotationUpload(): JSX.Element {
         onDragLeave={handleDragLeave}
         onDrop={handleDrop}
         style={{
-          border: state.isDragging 
-            ? '3px dashed #4CAF50' 
-            : '2px dashed #ccc',
+          border: state.isDragging
+            ? '3px dashed #4CAF50'
+            : '2px dashed var(--border)',
           borderRadius: '8px',
           padding: '40px',
           margin: '20px auto',
           maxWidth: '600px',
-          backgroundColor: state.isDragging ? '#f0f8f0' : '#fafafa',
+          backgroundColor: state.isDragging ? 'rgba(76, 175, 80, 0.12)' : 'var(--bg-secondary)',
           cursor: 'pointer',
           transition: 'all 0.3s ease'
         }}
@@ -303,10 +303,10 @@ export default function NotationUpload(): JSX.Element {
             <p style={{ fontSize: '18px', margin: '10px 0' }}>
               Drag and drop your image here
             </p>
-            <p style={{ fontSize: '14px', color: '#666', margin: '10px 0' }}>
+            <p style={{ fontSize: '14px', color: 'var(--text-muted)', margin: '10px 0' }}>
               or click to browse
             </p>
-            <p style={{ fontSize: '12px', color: '#999', margin: '10px 0' }}>
+            <p style={{ fontSize: '12px', color: 'var(--text-muted)', margin: '10px 0' }}>
               Supported formats: JPEG, PNG, HEIC, WebP (max 10MB)
             </p>
           </div>
@@ -315,10 +315,10 @@ export default function NotationUpload(): JSX.Element {
             <p style={{ fontSize: '18px', margin: '10px 0', fontWeight: 'bold' }}>
               Selected File
             </p>
-            <p style={{ fontSize: '14px', color: '#666', margin: '5px 0' }}>
+            <p style={{ fontSize: '14px', color: 'var(--text-muted)', margin: '5px 0' }}>
               {state.selectedFile.name}
             </p>
-            <p style={{ fontSize: '12px', color: '#999', margin: '5px 0' }}>
+            <p style={{ fontSize: '12px', color: 'var(--text-muted)', margin: '5px 0' }}>
               {(state.selectedFile.size / (1024 * 1024)).toFixed(2)} MB
             </p>
           </div>
@@ -329,7 +329,7 @@ export default function NotationUpload(): JSX.Element {
       {state.validationError && (
         <div style={{
           color: '#d32f2f',
-          backgroundColor: '#ffebee',
+          backgroundColor: 'rgba(211, 47, 47, 0.12)',
           padding: '12px',
           margin: '20px auto',
           maxWidth: '600px',
@@ -345,7 +345,7 @@ export default function NotationUpload(): JSX.Element {
         <div style={{
           margin: '20px auto',
           maxWidth: '600px',
-          backgroundColor: '#f5f5f5',
+          backgroundColor: 'var(--bg-secondary)',
           padding: '20px',
           borderRadius: '8px'
         }}>
@@ -357,7 +357,7 @@ export default function NotationUpload(): JSX.Element {
               maxWidth: '100%',
               maxHeight: '400px',
               borderRadius: '4px',
-              border: '1px solid #ddd'
+              border: '1px solid var(--border)'
             }}
           />
         </div>
@@ -368,7 +368,7 @@ export default function NotationUpload(): JSX.Element {
         <div style={{
           margin: '20px auto',
           maxWidth: '600px',
-          backgroundColor: '#e3f2fd',
+          backgroundColor: 'rgba(33, 150, 243, 0.12)',
           padding: '20px',
           borderRadius: '8px',
           border: '1px solid #90caf9'
@@ -377,7 +377,7 @@ export default function NotationUpload(): JSX.Element {
           <div style={{
             width: '100%',
             height: '24px',
-            backgroundColor: '#fff',
+            backgroundColor: 'var(--bg)',
             borderRadius: '12px',
             overflow: 'hidden',
             border: '1px solid #90caf9'
@@ -397,7 +397,7 @@ export default function NotationUpload(): JSX.Element {
               {state.uploadProgress > 10 && `${state.uploadProgress}%`}
             </div>
           </div>
-          <p style={{ fontSize: '14px', color: '#666', marginTop: '10px', marginBottom: 0 }}>
+          <p style={{ fontSize: '14px', color: 'var(--text-muted)', marginTop: '10px', marginBottom: 0 }}>
             Uploading your image to secure storage...
           </p>
         </div>
@@ -408,7 +408,7 @@ export default function NotationUpload(): JSX.Element {
         <div style={{
           margin: '20px auto',
           maxWidth: '600px',
-          backgroundColor: '#fff3e0',
+          backgroundColor: 'rgba(245, 124, 0, 0.12)',
           padding: '20px',
           borderRadius: '8px',
           border: '1px solid #ffb74d'
@@ -429,7 +429,7 @@ export default function NotationUpload(): JSX.Element {
               animation: 'spin 1s linear infinite'
             }} />
           </div>
-          <p style={{ fontSize: '14px', color: '#666', marginBottom: 0 }}>
+          <p style={{ fontSize: '14px', color: 'var(--text-muted)', marginBottom: 0 }}>
             {state.workflowStatus === 'stored' && 'Image uploaded successfully. Starting OCR processing...'}
             {state.workflowStatus === 'processing' && 'Extracting text from your notation sheet...'}
             {!state.workflowStatus && 'Processing your image...'}
@@ -450,17 +450,17 @@ export default function NotationUpload(): JSX.Element {
         <div style={{
           margin: '20px auto',
           maxWidth: '600px',
-          backgroundColor: '#e8f5e9',
+          backgroundColor: 'rgba(56, 142, 60, 0.12)',
           padding: '20px',
           borderRadius: '8px',
           border: '1px solid #81c784'
         }}>
           <h3 style={{ marginTop: 0, color: '#388e3c' }}>✅ Processing Complete!</h3>
-          <p style={{ fontSize: '14px', color: '#666', marginBottom: '15px' }}>
+          <p style={{ fontSize: '14px', color: 'var(--text-muted)', marginBottom: '15px' }}>
             Text has been successfully extracted from your notation sheet.
           </p>
           <div style={{
-            backgroundColor: '#fff',
+            backgroundColor: 'var(--bg)',
             padding: '15px',
             borderRadius: '4px',
             border: '1px solid #c8e6c9',
@@ -482,13 +482,13 @@ export default function NotationUpload(): JSX.Element {
         <div style={{
           margin: '20px auto',
           maxWidth: '600px',
-          backgroundColor: '#ffebee',
+          backgroundColor: 'rgba(211, 47, 47, 0.12)',
           padding: '20px',
           borderRadius: '8px',
           border: '1px solid #ef9a9a'
         }}>
           <h3 style={{ marginTop: 0, color: '#d32f2f' }}>❌ Error</h3>
-          <p style={{ fontSize: '14px', color: '#666', marginBottom: '15px' }}>
+          <p style={{ fontSize: '14px', color: 'var(--text-muted)', marginBottom: '15px' }}>
             {state.errorMessage}
           </p>
           <button
@@ -609,7 +609,7 @@ export default function NotationUpload(): JSX.Element {
         margin: '40px auto',
         maxWidth: '600px',
         textAlign: 'left',
-        backgroundColor: '#e3f2fd',
+        backgroundColor: 'rgba(33, 150, 243, 0.12)',
         padding: '20px',
         borderRadius: '8px'
       }}>

@@ -379,7 +379,7 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
                   style={{
                     marginBottom: '12px',
                     padding: '8px',
-                    backgroundColor: '#e8f4f8',
+                    backgroundColor: 'var(--bg-secondary)',
                     borderRadius: '4px',
                     fontSize: '14px',
                     lineHeight: '1.4',
@@ -477,7 +477,7 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
                   style={{
                     marginBottom: '8px',
                     padding: '4px 8px',
-                    backgroundColor: '#f9f9f9',
+                    backgroundColor: 'var(--bg-secondary)',
                     borderRadius: '2px'
                   }}
                 >

@@ -1,5 +1,5 @@
 table.onetris, table.onetris th, table.onetris td {
-  border: 1px solid black;
+  border: 1px solid var(--border-table);
   border-collapse: collapse;
 }
 

@@ -6,7 +6,7 @@
 }
 
 .connect4-container h1 {
-  color: #2c3e50;
+  color: var(--text-heading);
   margin-bottom: 20px;
 }
 
@@ -31,7 +31,7 @@
 
 .current-player {
   font-size: 1.3em;
-  color: #2c3e50;
+  color: var(--text-heading);
   font-weight: bold;
 }
 
@@ -144,13 +144,13 @@
   max-width: 500px;
   margin: 30px auto;
   text-align: left;
-  background-color: #ecf0f1;
+  background-color: var(--bg-panel);
   padding: 20px;
   border-radius: 8px;
 }
 
 .game-instructions h3 {
-  color: #2c3e50;
+  color: var(--text-heading);
   margin-top: 0;
 }
 

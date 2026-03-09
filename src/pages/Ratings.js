@@ -5,7 +5,7 @@ function fmt(number) {
 }
 
 const colorCell = (value) => {
-  let bgColor = value > 0 ? "#CFC" : value < 0 ? "#FCC" : "#FFF";
+  let bgColor = value > 0 ? 'rgba(0, 180, 0, 0.25)' : value < 0 ? 'rgba(220, 0, 0, 0.25)' : 'transparent';
   return <td style={{ backgroundColor: bgColor, textAlign: 'right' }}>{fmt(value)}</td>;
 };
 
@@ -15,7 +15,7 @@ const mobileStyles = {
     padding: '8px',
     margin: '10px',
     borderRadius: '4px',
-    border: '1px solid #ccc',
+    border: '1px solid var(--border)',
   },
   wideInput: {
     width: '250px',
@@ -139,8 +139,8 @@ export default function Ratings() {
       <h4>Explanation in words</h4>
       <p>Elo says:</p>
       <blockquote style={{
-        backgroundColor: '#f9f9f9',
-        borderLeft: '10px solid #ccc',
+        backgroundColor: 'var(--bg-secondary)',
+        borderLeft: '10px solid var(--border)',
         margin: '1.5em 10px',
         padding: '0.5em 10px'
       }}>

@@ -1,7 +1,9 @@
 import { Link } from "react-router-dom";
 import './TopNav.css';
+import { useTheme } from '../hooks/useTheme';
 
 export default function TopNav() {
+  const { theme, toggle } = useTheme();
   return (
     <div className="top-nav">
       <Link to="/" id="logo-link">
@@ -40,6 +42,9 @@ export default function TopNav() {
           <Link to="/scripts/NYTGamesDarkMode.user.js" target="_blank">NYT Games Dark Mode</Link>
         </div>
       </div>
+      <button className="theme-toggle" onClick={toggle} aria-label="Toggle dark mode">
+        {theme === 'dark' ? '\u2600' : '\u263e'}
+      </button>
     </div>
   );
 } 

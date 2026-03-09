@@ -57,12 +57,12 @@ cg-board square.check {
 .bot-chat-section {
   flex: 1 1 0;
   min-width: 300px;
-  background-color: #f5f5f5;
+  background-color: var(--bg-secondary);
   padding: 15px;
   border-radius: 8px;
   display: flex;
   flex-direction: column;
-  border: 1px solid #ddd;
+  border: 1px solid var(--border);
   margin-right: 20px; /* Don't run into right edge of browser */
 }
 
@@ -73,7 +73,7 @@ cg-board square.check {
 .bot-chat-content {
   flex: 1;
   overflow-y: auto;
-  background-color: white;
+  background-color: var(--bg);
   padding: 10px;
   border-radius: 4px;
   min-height: 400px;
@@ -83,7 +83,7 @@ cg-board square.check {
   flex: 0 0 100%;
   max-width: 300px;
   min-width: 200px;
-  background-color: #f5f5f5;
+  background-color: var(--bg-secondary);
   padding: 15px;
   border-radius: 8px;
   height: 700px;
@@ -93,13 +93,13 @@ cg-board square.check {
 .logs-section {
   flex: 1 1 0;
   min-width: 300px;
-  background-color: #f5f5f5;
+  background-color: var(--bg-secondary);
   padding: 15px;
   border-radius: 8px;
   height: 700px;
   display: flex;
   flex-direction: column;
-  border: 1px solid #ddd;
+  border: 1px solid var(--border);
   margin-right: 20px; /* Don't run into right edge of browser */
 }
 
@@ -110,7 +110,7 @@ cg-board square.check {
 .logs-content {
   flex: 1;
   overflow-y: auto;
-  background-color: white;
+  background-color: var(--bg);
   padding: 10px;
   border-radius: 4px;
   font-family: monospace;

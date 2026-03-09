@@ -37,7 +37,7 @@
 }
 
 table.mild th, table.mild td {
-  border: 1px solid grey;
+  border: 1px solid var(--border-table);
   border-collapse: collapse;
   padding: 10px;
 }
