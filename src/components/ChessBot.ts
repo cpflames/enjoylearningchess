@@ -86,7 +86,7 @@ export const QUIESCE_DEPTH: DepthStrategy = {
     // Extend if this move is a capture and we'd hit depth 0
     return depth === 0 && moveEval.wasLastMoveCapture();
   },
-  maxExtensions: 10,
+  maxExtensions: 5,
   strategyName: 'Quiescence'
 };
 

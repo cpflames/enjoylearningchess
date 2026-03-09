@@ -314,7 +314,14 @@ export class MoveEval {
 
       // Generate candidate moves using the configured strategy
       const color = this.game.turn();
-      const candidateMoves = this.botConfig.moveGenStrategy.generateCandidates(this.game, color, this);
+      let candidateMoves: string[];
+      if (extensionsUsed > 0) {
+        // In quiescence: only evaluate captures to reach a quiet position
+        const boardSense = new BoardSense(this.game);
+        candidateMoves = boardSense.generateCaptures(color);
+      } else {
+        candidateMoves = this.botConfig.moveGenStrategy.generateCandidates(this.game, color, this);
+      }
 
       if (depth === 0 || candidateMoves.length === 0) {
         this.finalState = this;
