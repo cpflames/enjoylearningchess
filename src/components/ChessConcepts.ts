@@ -28,19 +28,30 @@ export interface ChessConcept {
 const PIECE_VALUES: Record<string, number> = { p: 1, n: 3, b: 3, r: 5, q: 9, k: 0 };
 
 /**
- * Penalize queen moves in the first 7 full moves (14 plies) of the game.
+ * Penalize positions where the queen is off its home square in the first 7 full moves.
+ * Position-based (not move-based) so the penalty persists in deep search leaf evaluations.
  * Discourages early queen development, which is a common beginner mistake.
  */
 const DONT_BRING_QUEEN_EARLY: ChessConcept = {
   name: 'DontBringQueenEarly',
-  description: 'Penalize queen moves in the first 7 full moves',
+  description: 'Penalize positions where the queen is off its home square in the first 7 moves',
   evaluate(moveEval: ConceptMoveEval): number {
-    if (!moveEval.move) return 0;
-    if (moveEval.getPieceType() !== 'q') return 0;
-    const moveNumber = Math.floor(moveEval.getGame().history().length / 2) + 1;
+    const game = moveEval.getGame();
+    const moveNumber = Math.floor(game.history().length / 2) + 1;
     if (moveNumber > 7) return 0;
-    const playerWhoMoved = moveEval.nextTurn() === 'w' ? 'b' : 'w';
-    return playerWhoMoved === 'w' ? -0.5 : +0.5;
+
+    const board = game.board();
+    let score = 0;
+
+    // White queen home square is d1 (rank index 7, file index 3)
+    const whiteQueenOnHome = board[7][3]?.type === 'q' && board[7][3]?.color === 'w';
+    if (!whiteQueenOnHome) score -= 0.5;
+
+    // Black queen home square is d8 (rank index 0, file index 3)
+    const blackQueenOnHome = board[0][3]?.type === 'q' && board[0][3]?.color === 'b';
+    if (!blackQueenOnHome) score += 0.5;
+
+    return score;
   }
 };
 
