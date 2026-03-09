@@ -37,6 +37,7 @@ export default function TopNav() {
           <Link to="/scripts/CalendarColorizer.user.js" target="_blank">Calendar Colorizer</Link>
           <Link to="/scripts/ChessComStudyMode.user.js" target="_blank">Chess.com Study Mode</Link>
           <Link to="/scripts/LichessStudyMode.user.js" target="_blank">Lichess Study Mode</Link>
+          <Link to="/scripts/NYTGamesDarkMode.user.js" target="_blank">NYT Games Dark Mode</Link>
         </div>
       </div>
     </div>
