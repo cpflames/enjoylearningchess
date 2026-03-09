@@ -19,7 +19,7 @@ export default function TopNav() {
           <Link to="/player-results">NWSRS Tournament Results</Link>
           <Link to="/pgn">PGN Cleaner</Link>
           <Link to="/notation">Notation Reader</Link>
-          <Link to="/playchess">Play Bots</Link>
+          <Link to="/playchess">Play Chess Bots</Link>
         </div>
       </div>
       <div className="dropdown">

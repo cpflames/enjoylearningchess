@@ -292,7 +292,7 @@ export default function ChessGame({ botLevel: initialBotLevel = 0 }: ChessGamePr
       {/* Row 1: Play Chess + Bot Chat */}
       <div className="play-chess-section">
         <div style={{ marginBottom: '10px', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-          <h2 style={{ margin: 0 }}>Play Chess</h2>
+          <h2 style={{ margin: 0 }}>Play Chess Bots</h2>
           <div style={{ display: 'flex', gap: '10px', alignItems: 'center' }}>
             <label htmlFor="bot-level" style={{ fontSize: '16px' }}>Bot Level:</label>
             <select 
