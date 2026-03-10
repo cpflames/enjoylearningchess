@@ -62,6 +62,18 @@ export const MOVE_IDEAS: MoveIdea[] = [
   },
   
   {
+    name: 'Block attack',
+    description: 'Interpose a piece on the ray between a sliding attacker and the attacked piece',
+    reason: 'to block the attack',
+    priority: 87,
+    isRelevant: () => true,
+    generateMoves: (game: Chess, color: Color, boardSense: BoardSense, attackersBySquare: Map<string, {white: number, black: number}>) => {
+      const moves = boardSense.generateBlockingMoves(color, attackersBySquare);
+      return moves.map(move => ({ move, reason: 'to block the attack' }));
+    }
+  },
+
+  {
     name: 'Attack undefended piece',
     description: 'Attack opponent pieces that are undefended',
     reason: 'to attack an undefended piece',

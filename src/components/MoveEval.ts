@@ -315,8 +315,21 @@ export class MoveEval {
       // Generate candidate moves using the configured strategy
       const color = this.game.turn();
       let candidateMoves: string[];
+      let standPat: number | null = null;
+
       if (extensionsUsed > 0) {
-        // In quiescence: only evaluate captures to reach a quiet position
+        // Stand-pat: "not capturing" is always an option in quiescence.
+        // Without this, captures become mandatory (like checkers), causing the engine to
+        // wrongly assume the opponent must recapture even when a quiet move is far better.
+        standPat = strategy.evalFunc(this);
+        if (isMaximizing) {
+          if (standPat >= beta) { this.score = standPat; this.finalState = this; return this; }
+          alpha = Math.max(alpha, standPat);
+        } else {
+          if (standPat <= alpha) { this.score = standPat; this.finalState = this; return this; }
+          beta = Math.min(beta, standPat);
+        }
+        // Only evaluate captures to reach a quiet position
         const boardSense = new BoardSense(this.game);
         candidateMoves = boardSense.generateCaptures(color);
       } else {
@@ -325,7 +338,7 @@ export class MoveEval {
 
       if (depth === 0 || candidateMoves.length === 0) {
         this.finalState = this;
-        this.score = strategy.evalFunc(this);
+        this.score = standPat ?? strategy.evalFunc(this);
         return this;
       }
       const flip = isMaximizing ? 1 : -1;
@@ -336,8 +349,8 @@ export class MoveEval {
       this.possibleMoves = candidateMoves
         .map(move => {
           // Only get move reasons for goal-based move generation
-          const reason = this.botConfig.moveGenStrategy.strategyName === 'Goal-Based' 
-            ? this.getMoveReason(move) 
+          const reason = this.botConfig.moveGenStrategy.strategyName === 'Goal-Based'
+            ? this.getMoveReason(move)
             : undefined;
           return MoveEval.fromParent(this, move, reason);
         })
@@ -349,11 +362,13 @@ export class MoveEval {
       // If all moves were filtered out as illegal, treat as terminal position
       if (this.topMoves.length === 0) {
         this.finalState = this;
-        this.score = strategy.evalFunc(this);
+        this.score = standPat ?? strategy.evalFunc(this);
         return this;
       }
 
-      this.score = isMaximizing ? -Infinity : Infinity;
+      // In quiescence, initialize score to stand-pat so captures must improve on it.
+      // In normal search, start at -Inf/+Inf so any move is better than nothing.
+      this.score = standPat !== null ? standPat : (isMaximizing ? -Infinity : Infinity);
       for (const moveEval of this.topMoves) {
         // Setup
         this.game.move(moveEval.move); // make the move

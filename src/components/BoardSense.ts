@@ -558,6 +558,30 @@ export class BoardSense {
   }
 
   /**
+   * Returns all squares strictly between fromSquare and toSquare along a rank, file, or diagonal.
+   * Returns an empty array if the squares are not on a common line.
+   * @private
+   */
+  private getSquaresBetween(fromSquare: Square, toSquare: Square): Square[] {
+    const from = this.squareToCoords(fromSquare);
+    const to = this.squareToCoords(toSquare);
+    const fileDiff = to.file - from.file;
+    const rankDiff = to.rank - from.rank;
+    const fileStep = fileDiff === 0 ? 0 : fileDiff / Math.abs(fileDiff);
+    const rankStep = rankDiff === 0 ? 0 : rankDiff / Math.abs(rankDiff);
+    const squares: Square[] = [];
+    let f = from.file + fileStep;
+    let r = from.rank + rankStep;
+    while (f !== to.file || r !== to.rank) {
+      const sq = this.coordsToSquare(f, r);
+      if (sq) squares.push(sq);
+      f += fileStep;
+      r += rankStep;
+    }
+    return squares;
+  }
+
+  /**
    * Checks if a piece can attack a target square based on piece movement rules
    * This is used when we can't use chess.moves() because it's not the piece's turn
    * @private
@@ -1796,6 +1820,71 @@ export class BoardSense {
     });
 
     return defendingMoves;
+  }
+
+  /**
+   * Generates moves that interpose a piece between a sliding attacker and the attacked piece.
+   * Only applies to bishop/rook/queen attacks (knights and pawns cannot be blocked).
+   * @public
+   */
+  public generateBlockingMoves(color: Color, attackersBySquare: Map<string, {white: number, black: number}>): string[] {
+    const blockingMoves: string[] = [];
+    const enemyColor: Color = color === 'w' ? 'b' : 'w';
+    const enemyKey = enemyColor === 'w' ? 'white' : 'black';
+    const myPieces = this.getAllPieces(color);
+    const SLIDING_PIECES = new Set(['b', 'r', 'q']);
+
+    // Step 1: Find attack rays from sliding enemy pieces onto my pieces
+    const attackedSquareSet = new Set<Square>();
+    const attackRays: Array<{attackedSquare: Square; attackerSquare: Square}> = [];
+
+    Array.from(myPieces.entries()).forEach(([, squares]) => {
+      for (const square of squares) {
+        const info = attackersBySquare.get(square);
+        if (!info || info[enemyKey] === 0) continue;
+        const attackers = this.getAttackers(square, enemyColor);
+        for (const attacker of attackers) {
+          if (SLIDING_PIECES.has(attacker.piece.type)) {
+            attackRays.push({ attackedSquare: square, attackerSquare: attacker.square });
+            attackedSquareSet.add(square);
+          }
+        }
+      }
+    });
+
+    if (attackRays.length === 0) return blockingMoves;
+
+    // Step 2: Collect empty squares on those attack rays — these can be blocked
+    const blockingSquares = new Set<Square>();
+    for (const { attackedSquare, attackerSquare } of attackRays) {
+      for (const sq of this.getSquaresBetween(attackerSquare, attackedSquare)) {
+        if (this.getPieceAt(sq) === null) {
+          blockingSquares.add(sq);
+        }
+      }
+    }
+
+    if (blockingSquares.size === 0) return blockingMoves;
+
+    // Step 3: Find my pieces (not the attacked pieces themselves) that can move to a blocking square
+    const seen = new Set<string>();
+    Array.from(myPieces.entries()).forEach(([pieceType, squares]) => {
+      for (const square of squares) {
+        if (attackedSquareSet.has(square)) continue; // attacked piece should flee, not block
+        const destinations = this.generatePieceDestinations(square, pieceType, color);
+        for (const dest of destinations) {
+          if (blockingSquares.has(dest)) {
+            const move = this.squareToSAN(square, dest, pieceType, color);
+            if (!seen.has(move)) {
+              seen.add(move);
+              blockingMoves.push(move);
+            }
+          }
+        }
+      }
+    });
+
+    return blockingMoves;
   }
 
 
