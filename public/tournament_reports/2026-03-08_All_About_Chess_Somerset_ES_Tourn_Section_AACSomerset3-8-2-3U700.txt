@@ -1,0 +1,48 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Yang, Spencer          SOMDF76L   649   808/ 21  W30 W14 W7  W5  W3  5.0
+  2 Ip, Egan               SOMDK41L   674   763/ 69  W8  D15 W29 W4  W9  4.5
+  3 Rao, Aadvik            SOMDB57X   522   671/ 83  W38 W18 W6  W9  L1  4.0
+  4 Karthick, Krithik      CRMDF50T   428   611/ 14  W33 W25 W13 L2  W10 4.0
+  5 You, Min               SNIDK41Y   512   585/ 36  W36 W20 W27 L1  W19 4.0
+  6 Sathyamurthy, Shreyus  BLWDJ60Z   620   641/237  W45 W12 L3  W18 W17 4.0
+  7 Balaji, Vaibhav        SSMDH28Z   568   605/171  W44 W35 L1  W12 W11 4.0
+  8 Ghosh, Oishani         CBRCJ56E   222   480/102  L2  W41 W31 W13 W25 4.0
+  9 Liang, Dangdang        MEDCJ12R   672   658/ 90  W22 W17 W10 L3  L2  3.0
+ 10 Feng, Michael          CBRDG87H   539   548/ 51  W23 W21 L9  W16 L4  3.0
+ 11 Agarwal, Ansh          NCSDF32A   300   551/  5  W19 L13 W21 W15 L7  3.0
+ 12 Li, Darren             SOMDG49U   248   365/ 10  W39 L6  W24 L7  W27 3.0
+ 13 Li, Meiying            SOMCF52R   544   525/ 10  W46 W11 L4  L8  W32 3.0
+ 14 Mirchandani, Kavir     MEDDJ97A   436   447/163  W40 L1  W35 D25 D16 3.0
+ 15 Xiong, Aria            DISCH14J   484   490/ 91  W41 D2  D16 L11 W30 3.0
+ 16 Nie, Elena             SOMDH78J   258   399/ 20  W31 W29 D15 L10 D14 3.0
+ 17 Gu, Ximu               ENDCJ05X   486   491/124  W34 L9  W28 W32 L6  3.0
+ 18 Nandakiran, Advaith    SSMDJ88H   433   439/227  W28 L3  W43 L6  W31 3.0
+ 19 Shin, Joshua           CRKDJ63R   342   403/148  L11 W39 W34 W27 L5  3.0
+ 20 Chen, Fred             SOMDH78N   277   306/ 18  W47 L5  D26 W38 D22 3.0
+ 21 Li, Jeremy             SOMDJ87A   427   425/ 64  W42 L10 L11 W34 W28 3.0
+ 22 Chen, Enoree           SOMDF64R   237   297/ 14  L9  D38 W41 W26 D20 3.0
+ 23 Brakenridge, Ryan      SOMCK05L   193   296/ 74  L10 L28 W42 W33 W29 3.0
+ 24 Liu, Mochen            SNRDH50M   180   254/ 31  L25 W33 L12 W46 W38 3.0
+ 25 Wen, Bradley           SOMDK94C   592   533/ 33  W24 L4  W30 D14 L8  2.5
+ 26 Lam, Yu Tung Peyton    CBRDF31Z   300   294/  5  W32 L27 D20 L22 W40 2.5
+ 27 Liu, Nia               SOMDJ84Y   556   463/ 49  W37 W26 L5  L19 L12 2.0
+ 28 Huang, Anrui           SOMCF31Y   200   288/  5  L18 W23 L17 W37 L21 2.0
+ 29 Milletari, Valerian    JINCH35X   533   446/ 51  W43 L16 L2  W36 L23 2.0
+ 30 Khandelwal, Aadi       SNEDG87G   199   222/ 28  L1  W40 L25 W35 L15 2.0
+ 31 Glover, Otis           SOMDF31X   300   235/  5  L16 W36 L8  W43 L18 2.0
+ 32 Wang, Stephanie        SOMDK86E   353   308/ 30  L26 W44 W37 L17 L13 2.0
+ 33 Maheshwari, Arjun      CBRDF31V   300   191/  5  L4  L24 W45 L23 W44 2.0
+ 34 Zhao, Ruby             SOMCF31U   200   224/  5  L17 W45 L19 L21 W43 2.0
+ 35 Zhu, Aron              SOMDH30W   100   100/ 42  WF  L7  L14 L30 W45 2.0
+ 36 Zhu, Eddie             SOMDH48C   100   124/ 23  L5  L31 W47 L29 W41 2.0
+ 37 Prashant, Gautham      JINDJ02V   180   174/ 14  L27 W42 L32 L28 W39 2.0
+ 38 Nguyen, Jordan         SNEDF31T   300   140/  5  L3  D22 W46 L20 L24 1.5
+ 39 Park, Sayah            NPTCF31S   200   100/  5  L12 L19 D40 W42 L37 1.5
+ 40 Yao, Vivienne          STTDF31R   300   100/  5  L14 L30 D39 W44 L26 1.5
+ 41 Moreno, Diego          SNECF31P   200   100/  5  L15 L8  L22 W47 L36 1.0
+ 42 Sadeghiyeh, Adrian     SOMCF31N   200   100/  5  L21 L37 L23 L39 W46 1.0
+ 43 Xi, William            SOMCF52F   100   100/  8  L29 W47 L18 L31 L34 1.0
+ 44 Denisov, Eljan         SOMDH78F   100   100/ 14  L7  L32 BYE L40 L33 1.0
+ 45 Chu, Melody            SOMCJ02K   223   100/ 45  L6  L34 L33 BYE L35 1.0
+ 46 Zhao, Lucas[yirui]     SOMCF52G   100   100/  9  L13 BYE L38 L24 L42 1.0
+ 47 Shah, Shayaan          SOMDF31M   300   100/  4  L20 L43 L36 L41 BYE 1.0

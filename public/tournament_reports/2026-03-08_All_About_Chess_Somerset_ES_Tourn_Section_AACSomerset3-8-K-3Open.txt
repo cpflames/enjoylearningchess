@@ -1,0 +1,25 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Swain, Samarth         MMEDJ58S  1292  1307/452  D13 W6  W5  W12 W2  4.5
+  2 Fan, Theodore          TLIDK42S   930  1104/108  W18 W10 W7  W8  L1  4.0
+  3 Wortman, Alexander     SOMDJ31M  1307  1288/ 60  L6  W23 W15 W11 W9  4.0
+  4 Lee, Hugo              SOMCG01W   700   956/ 23  L12 W24 W21 W7  W8  4.0
+  5 Hu, Maxwell            SOMCK03N   990  1032/ 90  W14 D12 L1  W21 W13 3.5
+  6 Hu, Ethan              CNHCH35U   905  1031/ 57  W3  L1  W10 L9  W15 3.0
+  7 Armitage-selig, PhoenixSUZCJ31Z  1070  1062/103  W16 W15 L2  L4  W12 3.0
+  8 Li, Ethan James        SOMDK00K  1124  1098/295  W17 W21 W9  L2  L4  3.0
+  9 Lin, Evan              SOMDJ72G   938   994/133  W22 W11 L8  W6  L3  3.0
+ 10 Charles, Benjamin      SOMCJ06G  1013  1002/238  W20 L2  L6  W23 W16 3.0
+ 11 Naroju, Kian Meher     ROKCG31K   914   931/ 48  W24 L9  W16 L3  W19 3.0
+ 12 Shi, Luke              WMNDG48Y   923   974/ 27  W4  D5  W13 L1  L7  2.5
+ 13 Yin, Nolan             SOMCH64W   923   937/ 92  D1  W17 L12 W14 L5  2.5
+ 14 Siva, Vikaat           DISCJ30L   754   781/121  L5  D22 W20 L13 W21 2.5
+ 15 Bigelow, Atlas         WMEDJ61F   946   931/115  W19 L7  L3  W17 L6  2.0
+ 16 Niu, Edwin             SOMCH73D   914   877/ 91  L7  W18 L11 W22 L10 2.0
+ 17 Glaser, Dylan          BUSCH32T   856   834/ 60  L8  L13 W18 L15 W22 2.0
+ 18 Ram, Yaalini           SNEDH87H   705   722/186  L2  L16 L17 W20 W23 2.0
+ 19 Zhang, David           SOMDK41P   726   712/176  L15 D20 D22 W24 L11 2.0
+ 20 Malhotra, Dilraj       MAHDK02Y   734   690/110  L10 D19 L14 L18 W24 1.5
+ 21 Mahale, Avneesh        CNHD993F   950   868/284  W23 L8  L4  L5  L14 1.0
+ 22 Menezes, Kian          MEDDJ97B   710   676/125  L9  D14 D19 L16 L17 1.0
+ 23 Qu, Ziyou              BRBCJ86W   727   687/ 38  L21 L3  W24 L10 L18 1.0
+ 24 Xu, Jacky Y            SOMDJ59K   722   616/212  L11 L4  L23 L19 L20 0.0

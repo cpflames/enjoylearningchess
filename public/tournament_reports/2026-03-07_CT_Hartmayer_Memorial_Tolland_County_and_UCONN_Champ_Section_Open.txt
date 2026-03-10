@@ -1,0 +1,14 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Im Van De Mortel, Jan  CTXNZ19E  2517  2520/  4  W6  W10 D2  W5  3.5
+  2 Garg, Priyansh         NYXJZ46U  2273  2298/ 22  W7  W4  D1  W6  3.5
+  3 Natarajan, Neil        BCCIV24M  1996  2049/116  D5  W11 D10 W8  3.0
+  4 Ivanov, Alexander      MAXNX00C  2472  2461/130  W12 L2  D5  W11 2.5
+  5 Su, Jasmine            CTXKX10T  2332  2326/131  D3  W8  D4  L1  2.0
+  6 Azimzade, Muhammad     RIXLZ19D  2113  2121/  4  L1  W13 W7  L2  2.0
+  7 Maralappanavar, Omkar  CTXNX02W  1991  1993/145  L2  BYE L6  W12 2.0
+  8 Upadhyay, Punyavrat    CTXMX00X  1806  1820/139  BYE L5  W13 L3  2.0
+  9 Bhargava, Kushagra     CTXIX00P  2046  2051/163  L10 W12 L11 W13 2.0
+ 10 Groff, Jordan          CTXNX00K  2287  2282/138  W9  L1  D3  U   1.5
+ 11 Mashkov, David AlexandeCTXMX10Q  2123  2111/138  D13 L3  W9  L4  1.5
+ 12 Uwakwe, Michael        CTXNX00L  2047  2020/149  L4  L9  BYE L7  1.0
+ 13 Qian, Jack Letian      CTXHX04Z  1984  1953/141  D11 L6  L8  L9  0.5

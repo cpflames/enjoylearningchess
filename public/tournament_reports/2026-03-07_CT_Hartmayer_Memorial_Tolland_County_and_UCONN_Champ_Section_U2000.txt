@@ -1,0 +1,35 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Ren, Eric              CTXIZ53M  1906  1944/ 34  W20 W8  W7  W5  4.0
+  2 Wang, Max              CTXIX01F  1449  1616/137  W27 W21 W6  D4  3.5
+  3 Festa, Luca            CTXHX00T  1738  1796/121  W23 D4  W22 W11 3.5
+  4 Wu, Cody               CTXGX11H  1883  1879/147  W29 D3  W13 D2  3.0
+  5 Hartman, Nadav Munro   CTXJX01E  1752  1777/144  W24 W16 W15 L1  3.0
+  6 Vellanki, Devansh      MAXDX11G  1930  1920/118  W18 W14 L2  W15 3.0
+  7 Bahel, Piyush          CTXNZ19W  1300  1824/  4  W33 W24 L1  W14 3.0
+  8 Berkun, Joshua Neil    CTXNX10Z  1715  1743/111  WF  L1  W28 W16 3.0
+  9 Tkaczewski, Krystian   CTXGZ69F  1906  1891/ 44  L14 W28 W27 W19 3.0
+ 10 Clough, Adam Timot     CTXJZ51L  1402  1445/ 12  W12 D23 L11 W25 2.5
+ 11 Valentine, Levi Horace CTXGZ462  1860  1851/ 13  HPB W17 W10 L3  2.5
+ 12 Mandepudi, Vishnu VardhMAXNZ19V  1105  1218/  4  L10 W26 D18 W22 2.5
+ 13 Alperin, Yan           MAXNZ33H  1306  1432/ 12  W31 W29 L4  D17 2.5
+ 14 Lopez, Sebastian A     CTXLZ272  1710  1718/ 14  W9  L6  W30 L7  2.0
+ 15 Clayton, Carter        CTXNZ19U  1458  1501/  4  W30 W20 L5  L6  2.0
+ 16 Bourque, Mark R        CTXNX05W  1977  1944/106  W21 L5  W25 L8  2.0
+ 17 Vijay, Shritan S       CTXIZ53J  1621  1618/ 16  D19 L11 W23 D13 2.0
+ 18 Singh, Ayush           CTXMX04W  1673  1651/132  L6  D22 D12 W28 2.0
+ 19 Cyr, Robert            CTXNZ19T  1503  1504/  4  D17 D25 W31 L9  2.0
+ 20 Borges, Gabriel BergamiCTXNX04K  1731  1703/113  L1  L15 W33 W30 2.0
+ 21 Hilhorst, Gert M       CTXNZ19S  1805  1769/  4  L16 L2  W34 W27 2.0
+ 22 Sivakumar, Niranjan    CTXHZ50J  1415  1396/ 14  W32 D18 L3  L12 1.5
+ 23 Sajeevan, Jithya       CTXLZ68P  1678  1640/ 16  L3  D10 L17 W31 1.5
+ 24 Bleicher, Marc A       MAXNZ19R  1300  1391/  4  L5  L7  W32 D26 1.5
+ 25 Bala Gowda, Nihal V    CTXHX04F  1289  1313/177  W34 D19 L16 L10 1.5
+ 26 Lyons, Daniel AlexanderMAXNX11M  1360  1356/ 20  L28 L12 W29 D24 1.5
+ 27 Chung, Michael         NYXNZ26U  1215  1219/  9  L2  W32 L9  L21 1.0
+ 28 Ni, Lawrence           MAXFX06Z  1541  1525/ 62  W26 L9  L8  L18 1.0
+ 29 Banerjee, Evan         MAXGZ276  1747  1683/  9  L4  L13 L26 W33 1.0
+ 30 Hogrefe, Avery         CTXNZ19Q  1265  1284/  4  L15 W34 L14 L20 1.0
+ 31 Elkin, David M         RIXNZ19P  1200  1217/  4  L13 W33 L19 L23 1.0
+ 32 Dinesh, Ranav          MAXCZ19N   994  1029/  4  L22 L27 L24 W34 1.0
+ 33 Lu, Louie              CTXGZ54T  1367  1323/ 27  L7  L31 L20 L29 0.0
+ 34 Estrella, Wilson       CTXNX03Y  1418  1322/124  L25 L30 L21 L32 0.0

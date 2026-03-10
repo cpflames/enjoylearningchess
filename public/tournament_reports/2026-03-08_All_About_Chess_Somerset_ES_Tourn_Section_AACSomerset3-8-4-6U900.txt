@@ -1,0 +1,50 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Sankapal, Pranav       SNEEJ61E   787   907/ 66  W32 W6  W4  W19 D2  4.5
+  2 Lo, Royden             BCSFG60G   797   884/ 15  W29 W22 W10 W18 D1  4.5
+  3 Sealey, Isaac          SNIFK43S   626   844/ 46  W43 W13 W15 W12 D5  4.5
+  4 Chernikova, Taisiia    HMNFH79P   722   798/ 34  W30 W16 L1  W20 W11 4.0
+  5 Sankaramanchi, RadhakriTYEGF42N   686   807/ 10  W47 W11 D12 W13 D3  4.0
+  6 Haghnevis, Arshan      BRHEF60G   599   702/ 10  W40 L1  W28 W17 W19 4.0
+  7 Boyed, Dhruv           WPPFG27D   642   735/ 16  L17 W21 W34 W16 W14 4.0
+  8 Chang, Ethan An Tong   SOMEJ59M   743   763/ 47  W9  L27 W29 W31 W18 4.0
+  9 Rastogi, Ishan         GRRFG32Z   301   603/ 18  L8  W26 W45 W15 D10 3.5
+ 10 Wang, Gideon           SOMFC35B   723   723/ 54  W35 W44 L2  W27 D9  3.5
+ 11 Banala, Avinash        CRKFF32S   500   707/  5  W38 L5  W23 W24 L4  3.0
+ 12 Mirchandani, Kiaan     MEDFK92Z   762   749/155  W34 W37 D5  L3  D21 3.0
+ 13 Menezes, Ronit         CHOGK44M   815   784/135  W23 L3  W32 L5  W34 3.0
+ 14 Phaneesh, Saanvi       EVJG983M   766   732/112  W31 W20 L18 W22 L7  3.0
+ 15 Nelson, Harvey         CMCGG67L   763   729/110  W36 W17 L3  L9  W28 3.0
+ 16 Chen, Jason            SOMEF32Q   400   676/  5  W24 L4  W38 L7  W32 3.0
+ 17 Xi, Zheng              SOMEF52T   100   435/  8  W7  L15 W37 L6  W40 3.0
+ 18 Xiao, Luke             EASFC79Q   698   704/ 49  W46 W39 W14 L2  L8  3.0
+ 19 Chai, Chloe            NCSFJ59R   740   722/163  W28 W42 W27 L1  L6  3.0
+ 20 Iyengar, Keshav        SHSEH29S   497   562/ 59  W25 L14 W44 L4  W27 3.0
+ 21 Romero, Oliver         SNIFK44Z   665   637/ 41  D33 L7  W41 W40 D12 3.0
+ 22 Tanielian, Desmond     WOBFG19S   439   470/ 52  W41 L2  W47 L14 W33 3.0
+ 23 Reeves, Othel          SNEFF78K   480   519/ 39  L13 W36 L11 W42 W30 3.0
+ 24 Yang, Boris            CMCEH76C   532   541/ 28  L16 W30 W42 L11 W35 3.0
+ 25 Deng, Ethan            TYEGF32N   600   520/  5  L20 L28 W46 W29 W31 3.0
+ 26 Xie, Lucas             SOMEJ76D   606   546/ 23  L27 L9  W43 D33 W41 2.5
+ 27 Chen, Vivian           SOMEF32M   400   568/  5  W26 W8  L19 L10 L20 2.0
+ 28 Cao, Tianyu            SOMFF50S   394   462/  9  L19 W25 L6  W37 L15 2.0
+ 29 Yan, Alyan             NCSFJ63Q   456   441/ 36  L2  W35 L8  L25 W44 2.0
+ 30 Zhu, Milly             SOMEG50D   353   371/ 17  L4  L24 W49 W38 L23 2.0
+ 31 Kanchukatla, Kashvi    SKIGJ51Z   439   421/ 39  L14 W43 W48 L8  L25 2.0
+ 32 Wang, Ethan            SOME346A   453   443/ 29  L1  W48 L13 W44 L16 2.0
+ 33 Selvaraj, Abhiram      LAVFG23P   100   292/  8  D21 L45 W36 D26 L22 2.0
+ 34 Yang, Allen            BASGK17F   404   423/ 23  L12 W49 L7  W45 L13 2.0
+ 35 Shen, Evan             SNIEK42B   285   306/  9  L10 L29 BYE W39 L24 2.0
+ 36 Impert, Nathan         TYEGH19F   400   369/  8  L15 L23 L33 W48 W45 2.0
+ 37 Stoltzfus, Alexander   NCSEF52X   547   443/ 10  W48 L12 L17 L28 W46 2.0
+ 38 Lu, Andy               JINEJ02X   595   522/ 62  L11 W46 L16 L30 W43 2.0
+ 39 Zhu, Anna              SOMEH30X   529   443/ 60  W49 L18 L40 L35 W42 2.0
+ 40 Lucas, Evelynn         SNEFF32K   500   338/  5  L6  D41 W39 L21 L17 1.5
+ 41 Jotshi, Rishaan        CRKFF32J   500   242/  5  L22 D40 L21 W47 L26 1.5
+ 42 Sheng, Evan            TYEGF32F   600   289/  5  W45 L19 L24 L23 L39 1.0
+ 43 Wei, Wesley            SOMFF32E   500   195/  5  L3  L31 L26 W49 L38 1.0
+ 44 Busi, Neel             SKIGF32D   600   100/  4  BYE L10 L20 L32 L29 1.0
+ 45 Yan, Leo               SOMFK44P   623   472/ 30  L42 W33 L9  L34 L36 1.0
+ 46 Pasyavula, Vithun      SOMFJ59C   322   258/ 36  L18 L38 L25 BYE L37 1.0
+ 47 Goel, Dhruv            NCSFG66E   166   100/ 16  L5  BYE L22 L41 L48 1.0
+ 48 Tseng, Sophie          SOMFF32C   500   114/  5  L37 L32 L31 L36 W47 1.0
+ 49 Shah, Razaan           TYEGF32B   600   100/  4  L39 L34 L30 L43 BYE 1.0

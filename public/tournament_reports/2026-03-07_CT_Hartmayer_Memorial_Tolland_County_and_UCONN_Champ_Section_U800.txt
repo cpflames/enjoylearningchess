@@ -1,0 +1,9 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 tot 
+  1 Mendelson, Noah        CTXLZ19J  1100  1031/  4  W8  W5  W2  D4  3.5
+  2 Gujar, Vedant          CTXCZ50Q   533   609/ 23  D3  W7  L1  W6  2.5
+  3 Badillo, Alexander JaviCTXMZ19H  1200   764/  4  D2  W6  L4  W5  2.5
+  4 Vijay Karthik, Vikram  CTXDZ30R   712   761/ 22  L5  W8  W3  D1  2.5
+  5 Coleman, Bazz          CTXNZ19G  1300   759/  4  W4  L1  W7  L3  2.0
+  6 Tang, Matthew          CTXIZ23P   518   387/  8  D7  L3  W8  L2  1.5
+  7 Cushman, Cameron       CTXGZ19F   600   379/  4  D6  L2  L5  W8  1.5
+  8 Rodriguez, Zofia       CTXCZ44C   121   100/ 12  L1  L4  L6  L7  0.0

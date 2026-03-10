@@ -1,0 +1,8 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 tot 
+  1 Negi, Aayush           CTXNZ43S   828   831/ 24  U   L2  W7  1.0
+  2 Cunningham, Michael D  CTXNX03W   775   817/127  U   W1  U   1.0
+  3 Upadhyay, Punyavrat    CTXMX00X  1806  1806/136  W5  U   U   1.0
+  4 Uwakwe, Michael        CTXNX00L  2047  2047/146  U   U   W6  1.0
+  5 Hudyma, Nick           CTXNZ32M   858   858/  9  L3  U   U   0.0
+  6 Bala Gowda, Nibha V    CTXJX04C   917   917/179  U   U   L4  0.0
+  7 Hardin, Richard        CTXNZ52V   918   876/ 31  U   U   L1  0.0

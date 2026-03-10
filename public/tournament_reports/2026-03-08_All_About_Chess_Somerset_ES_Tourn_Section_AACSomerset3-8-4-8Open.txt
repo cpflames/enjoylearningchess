@@ -1,0 +1,36 @@
+pos last name first       id numb   start end/#gms  rd1 rd2 rd3 rd4 rd5 tot 
+  1 Lin, Ethan             TYEHJ71H  1243  1358/131  W24 W18 W3  D2  W8  4.5
+  2 Kim, Dylan             TYEHK38L  1258  1355/220  W31 W6  W17 D1  W9  4.5
+  3 Dharamshi, Anay        CBREK42U  1249  1310/282  W14 W13 L1  W11 W10 4.0
+  4 Bolisetty, Varun       HMNEJ73Z  1034  1193/255  W19 L10 W15 W22 D7  3.5
+  5 Rao, Atharv            TYEHB90T  1347  1334/149  W23 D11 L7  W20 W17 3.5
+  6 Mohammed, Farhan       CRKFH14M  1170  1187/184  W29 L2  W14 D13 W18 3.5
+  7 Dhameeja, Ved          PFCGJ98F  1244  1280/234  W35 D9  W5  D8  D4  3.5
+  8 Vijay, Adith           SOMFD20K  1273  1277/135  W20 W16 D10 D7  L1  3.0
+  9 Chen, Eason            SOMCJ59F  1334  1324/166  W22 D7  W12 D10 L2  3.0
+ 10 Bhambri, Vansh         TYEGJ57J  1248  1258/ 51  W32 W4  D8  D9  L3  3.0
+ 11 Pan, Jesse             ENSEJ61R  1207  1211/ 59  W28 D5  D19 L3  W26 3.0
+ 12 Feng, Levi             TYEGJ59B  1205  1198/ 70  D21 W25 L9  W19 D13 3.0
+ 13 Zhang, Eric Q          SOMEK64M  1075  1093/177  WF  L3  W25 D6  D12 3.0
+ 14 Sarangi, Samarth       HMNFH69F   984  1025/242  L3  W34 L6  W25 W27 3.0
+ 15 Chen, Xinyu            SOMHD08V  1249  1206/ 81  W33 L17 L4  W28 W21 3.0
+ 16 Li, Harry              BCAGG30G  1188  1158/585  W34 L8  L18 W33 W24 3.0
+ 17 Benita-nagdeep, KrishanSOMEK56N  1088  1115/130  W26 W15 L2  D18 L5  2.5
+ 18 Zhou, Nathan           SOMEG61K  1020  1079/ 33  W30 L1  W16 D17 L6  2.5
+ 19 Lin, Elliot            TYEHJ71G  1286  1242/132  L4  W21 D11 L12 W30 2.5
+ 20 Nandakiran, Vidyuth    INGG617C   997  1023/262  L8  W28 W27 L5  D22 2.5
+ 21 Wang, Jacob Z          EVJHE71A   699   896/177  D12 L19 W23 W30 L15 2.5
+ 22 Bhandari, Aarav        CBRFJ06H   975  1000/257  L9  W35 W26 L4  D20 2.5
+ 23 Komin, Michael         SOMFG01Y  1051  1020/ 48  L5  D24 L21 W34 W31 2.5
+ 24 Mallapragada, Mihir    CBRG254M   912   929/ 98  L1  D23 D32 W31 L16 2.0
+ 25 Malhotra, Sartaj       KNDHK69K   847   890/122  W27 L12 L13 L14 W35 2.0
+ 26 Han, Junseok           TYEHF32V   700   942/  5  L17 W31 L22 W32 L11 2.0
+ 27 Chu, Skylar            SOME579R  1224  1127/122  L25 W33 L20 W29 L14 2.0
+ 28 Abbott, Elliott        TYEHF07R   699   727/ 63  L11 L20 BYE L15 W33 2.0
+ 29 Brakenridge, Bryce     TYEHK89D   672   709/ 99  L6  BYE L30 L27 W32 2.0
+ 30 Balaji, Pranav         INGIJ96J  1158  1065/214  L18 D32 W29 L21 L19 1.5
+ 31 Zhu, Eric              NPTFK18P   990   921/283  L2  L26 W35 L24 L23 1.0
+ 32 Nguyen, Michael        SOMEK64B   942   881/ 50  L10 D30 D24 L26 L29 1.0
+ 33 Karanam, Aadya         SWLFK84K   912   850/177  L15 L27 W34 L16 L28 1.0
+ 34 Thapaliya, Purav       TYEHF32T   700   458/  4  L16 L14 L33 L23 BYE 1.0
+ 35 Du, Charles            TYEGA15U   907   828/177  L7  L22 L31 BYE L25 1.0
