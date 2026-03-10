@@ -3,21 +3,24 @@
 ## Overview
 Added Level 7 bot, which is the same as Level 6 but with depth 4 instead of depth 3, providing stronger play at the cost of longer thinking time.
 
+For a full explanation of how the bot thinks (candidate generation, MoveIdeas, evaluation, ChessConcepts, SEE, quiescence), see `.claude/docs/chess_bot_thinking.md`.
+
 ## Configuration
 
 ### Level 6 (Previous Strongest)
 - **Depth**: 3
-- **Breadth**: 10
-- **Depth Strategy**: Quiescence (extends on captures)
-- **Move Generation**: Goal-Based
-- **Evaluation**: BoardSense Enhanced
+- **Breadth**: 10/7/5 (tapered per depth)
+- **Depth Strategy**: Quiescence (extends on captures, max 5 extensions)
+- **Move Generation**: Goal-Based (MoveIdeas priority list)
+- **Evaluation**: BoardSense Enhanced + ChessConcepts
 
 ### Level 7 (New Strongest)
 - **Depth**: 4 ⬆️
-- **Breadth**: 10
-- **Depth Strategy**: Quiescence (extends on captures)
-- **Move Generation**: Goal-Based
-- **Evaluation**: BoardSense Enhanced
+- **Breadth**: 10/7/5/3 (tapered per depth)
+- **Depth Strategy**: Quiescence (extends on captures, max 5 extensions)
+- **Move Generation**: Goal-Based (MoveIdeas priority list)
+- **Evaluation**: BoardSense Enhanced + ChessConcepts
+- **SEE**: Static Exchange Evaluation penalty applied in move ordering to avoid losing captures crowding out good moves
 
 ## Changes
 

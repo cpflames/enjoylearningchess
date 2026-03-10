@@ -157,7 +157,7 @@ export type BotLevel = number;
 // Bot move logic
 // In this function, the bot is passed the game object and bot level, and will return a moveString, chatMessage, and logsMessage
 // Note: This function does NOT make the move - it only returns what move should be made
-export const botMove = (game: Chess, botLevel: number): { moveString: string | null; chatMessage: string; logsMessage: string } => {
+export const botMove = (game: Chess, botLevel: number): { moveString: string | null; chatMessage: string; logsMessage: string; diagnostics?: BotDiagnostics } => {
   const possibleMoves = game.moves();
   if (possibleMoves.length === 0) {
     return { moveString: null, chatMessage: 'No valid moves available.', logsMessage: 'No valid moves available.' };
@@ -167,7 +167,31 @@ export const botMove = (game: Chess, botLevel: number): { moveString: string | n
   return botMoveHelper(game, botConfig);
 }
 
-export type BotResponse = { moveString: string; chatMessage: string; logsMessage: string };
+/**
+ * A single candidate move as evaluated by the bot, used for diagnostics and testing.
+ * All candidates have `initialScore` (used for move ordering).
+ * Only candidates within the breadth limit have `finalScore` and `line` set.
+ */
+export type CandidateDiagnostic = {
+  move: string;
+  reason?: string;
+  initialScore: number;
+  finalScore?: number; // set only if this move was within the breadth limit and searched
+  line?: string;       // full PV line, set only if searched
+};
+
+/**
+ * Structured diagnostics returned alongside every bot move.
+ * Useful for tests and debugging: inspect what the bot considered and why it chose what it did.
+ */
+export type BotDiagnostics = {
+  chosenMove: string;
+  chosenMoveReason?: string;
+  candidates: CandidateDiagnostic[]; // all candidates, sorted by initialScore (descending for Black, ascending for White)
+  breadthLimit: number;              // first N candidates were actually searched via minimax
+};
+
+export type BotResponse = { moveString: string; chatMessage: string; logsMessage: string; diagnostics: BotDiagnostics };
 
 const roundTo = (value: number, denominator: number) => {
   return Math.round(value * denominator) / denominator;
@@ -193,6 +217,28 @@ const botMoveHelper = (game: Chess, botConfig: BotConfig): BotResponse => {
   const allPossibleMovesMsg = moveEval.getAllPossibleMovesAsString();
   const allTopMovesMsg = moveEval.getAllTopMovesAsString();
 
+  // Build structured diagnostics
+  const topMoveSet = new Set(moveEval.topMoves.map(m => m.move));
+  const topMoveByMove = new Map(moveEval.topMoves.map(m => [m.move, m]));
+  const breadthLimit = botConfig.breadthPerDepth[0];
+  const diagnostics: BotDiagnostics = {
+    chosenMove: bestMove.getMoveString(),
+    chosenMoveReason: bestMove.moveReason,
+    breadthLimit,
+    candidates: (moveEval.possibleMoves ?? []).map(m => {
+      const searched = topMoveByMove.get(m.move);
+      return {
+        move: m.move,
+        reason: m.moveReason,
+        initialScore: m.initialScore,
+        ...(topMoveSet.has(m.move) && searched !== undefined ? {
+          finalScore: searched.score,
+          line: searched.getFinalStateString().trim(),
+        } : {}),
+      };
+    }),
+  };
+
   const endTime = performance.now();
   const evalTime = evalEndTime - startTime;
   const interpretTime = endTime - evalEndTime;
@@ -201,10 +247,11 @@ const botMoveHelper = (game: Chess, botConfig: BotConfig): BotResponse => {
   const logsMessage = `${botConfig.botName}: ${bestMove.getMoveString()}, score improvement: ${improvement}`;
   const evalCountMsg = `Eval count: ${GLOBAL_EVAL_COUNT}`;
   // Display
-  return { 
-    moveString: bestMove.getMoveString(), 
+  return {
+    moveString: bestMove.getMoveString(),
     chatMessage: `${msg}\n${currentEvalMsg}\nTop 3 lines:\n${head(3, topMovesMsg)}`,
     logsMessage: [logsMessage, timeMsg, evalCountMsg, currentEvalMsg, moveEval.logs, bestMove.logs, allPossibleMovesMsg, allTopMovesMsg].join('\n'),
+    diagnostics,
   };
 };
 

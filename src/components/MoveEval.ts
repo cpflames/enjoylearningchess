@@ -77,6 +77,33 @@ export class MoveEval {
 
     moveEval.updatePointsForMove(move);
     moveEval.initialScore = moveEval.botConfig.evalStrategy.evalFunc(moveEval);
+
+    // SEE (Static Exchange Evaluation) adjustment for losing captures.
+    // When a more-valuable piece captures a less-valuable piece on a defended square,
+    // penalize initialScore by the expected net loss (movingValue - capturedValue).
+    // This prevents losing captures from ranking above good moves in move ordering,
+    // which would waste the limited breadth budget on moves that blunder material.
+    const SEE_PIECE_VALUES: Record<string, number> = { p: 1, n: 3, b: 3, r: 5, q: 9, k: 0 };
+    const moveHistory = game.history({ verbose: true });
+    const lastMoveObj = moveHistory[moveHistory.length - 1];
+    if (lastMoveObj?.captured) {
+      const movingValue = SEE_PIECE_VALUES[lastMoveObj.piece] ?? 0;
+      const capturedValue = SEE_PIECE_VALUES[lastMoveObj.captured] ?? 0;
+      if (movingValue > capturedValue) {
+        const captureColor = lastMoveObj.color;
+        const enemyKey = captureColor === 'w' ? 'black' : 'white';
+        const guardCount = moveEval.attackersBySquare.get(lastMoveObj.to as string)?.[enemyKey] ?? 0;
+        if (guardCount > 0) {
+          const penalty = movingValue - capturedValue;
+          if (captureColor === 'w') {
+            moveEval.initialScore -= penalty;
+          } else {
+            moveEval.initialScore += penalty;
+          }
+        }
+      }
+    }
+
     moveEval.lineString = `${parent.lineString} ${move}`;
     game.undo(); // undo the move
     return moveEval;
@@ -368,6 +395,10 @@ export class MoveEval {
 
       // In quiescence, initialize score to stand-pat so captures must improve on it.
       // In normal search, start at -Inf/+Inf so any move is better than nothing.
+      // Default finalState to this node so the displayed line is never undefined when stand-pat wins.
+      if (standPat !== null) {
+        this.finalState = this;
+      }
       this.score = standPat !== null ? standPat : (isMaximizing ? -Infinity : Infinity);
       for (const moveEval of this.topMoves) {
         // Setup

@@ -1675,6 +1675,63 @@ export class BoardSense {
   }
 
   /**
+   * Classifies all captures into 4 tiers based on whether the target is guarded
+   * and the material value comparison between capturing and captured piece.
+   * @param color - The color making the captures
+   * @param attackersBySquare - Precomputed attack counts for all squares
+   */
+  public generateCapturesClassified(
+    color: Color,
+    attackersBySquare: Map<string, {white: number, black: number}>
+  ): {
+    unguarded: string[];
+    winning: string[];
+    equal: string[];
+    losing: string[];
+  } {
+    return this.getCached(`classifiedCaptures:${color}`, () => {
+      const PIECE_VALUES: Record<string, number> = {
+        p: 1, n: 3, b: 3, r: 5, q: 9, k: 100
+      };
+      const enemyColor: Color = color === 'w' ? 'b' : 'w';
+      const enemyKey = enemyColor === 'w' ? 'white' : 'black';
+
+      const unguarded: string[] = [];
+      const winning: string[] = [];
+      const equal: string[] = [];
+      const losing: string[] = [];
+
+      const allPieces = this.getAllPieces(color);
+      Array.from(allPieces.entries()).forEach(([pieceType, squares]) => {
+        for (const square of squares) {
+          const destinations = this.generatePieceDestinations(square, pieceType, color);
+          for (const dest of destinations) {
+            const targetPiece = this.getPieceAt(dest);
+            if (targetPiece && targetPiece.color !== color) {
+              const move = this.squareToSAN(square, dest, pieceType, color);
+              const capturedValue = PIECE_VALUES[targetPiece.type] ?? 0;
+              const capturingValue = PIECE_VALUES[pieceType] ?? 0;
+              const guardCount = attackersBySquare.get(dest)?.[enemyKey] ?? 0;
+
+              if (guardCount === 0) {
+                unguarded.push(move);
+              } else if (capturedValue > capturingValue) {
+                winning.push(move);
+              } else if (capturedValue === capturingValue) {
+                equal.push(move);
+              } else {
+                losing.push(move);
+              }
+            }
+          }
+        }
+      });
+
+      return { unguarded, winning, equal, losing };
+    });
+  }
+
+  /**
    * Generates fleeing moves for attacked pieces
    * @param color - The color to generate fleeing moves for
    * @param attackersBySquare - Precomputed attack counts for all squares

@@ -60,7 +60,8 @@ Check these files when working on relevant areas:
 |------|-------------|
 | `.claude/docs/architectural_patterns.md` | Before adding new services, components, API clients, or chess AI logic |
 | `.claude/docs/tournament_reports.md` | When working on the ratingsnw.com scraper, Results page, or TournamentFinder |
-| `LEVEL_7_BOT.md` | Chess bot AI design decisions |
+| `.claude/docs/chess_bot_thinking.md` | Full explanation of how the bot thinks: MoveIdeas, minimax, eval, SEE, quiescence |
+| `LEVEL_7_BOT.md` | Chess bot AI design decisions (high-level; see chess_bot_thinking.md for details) |
 | `ATTACKERS_OPTIMIZATION.md` | BoardSense performance details |
 | `MOVE_KING_ENDGAME.md` | King endgame evaluation logic |
 | `AMPLIFY_SYNC_GUIDE.md` | Deployment and Amplify sync process |

@@ -38,14 +38,50 @@ export interface MoveIdea {
 export const MOVE_IDEAS: MoveIdea[] = [
   // High priority: Tactical moves
   {
-    name: 'Capture',
-    description: 'Capture opponent pieces',
-    reason: 'to capture material',
+    name: 'Capture unguarded piece',
+    description: 'Capture opponent pieces that have no defenders',
+    reason: 'to capture a free piece',
     priority: 100,
-    isRelevant: () => true, // Always relevant
+    isRelevant: () => true,
     generateMoves: (game: Chess, color: Color, boardSense: BoardSense, attackersBySquare: Map<string, {white: number, black: number}>) => {
-      const moves = boardSense.generateCaptures(color);
-      return moves.map(move => ({ move, reason: 'to capture material' }));
+      const { unguarded } = boardSense.generateCapturesClassified(color, attackersBySquare);
+      return unguarded.map(move => ({ move, reason: 'to capture a free piece' }));
+    }
+  },
+
+  {
+    name: 'Win material',
+    description: 'Capture a guarded piece of higher value (winning exchange)',
+    reason: 'to win material',
+    priority: 97,
+    isRelevant: () => true,
+    generateMoves: (game: Chess, color: Color, boardSense: BoardSense, attackersBySquare: Map<string, {white: number, black: number}>) => {
+      const { winning } = boardSense.generateCapturesClassified(color, attackersBySquare);
+      return winning.map(move => ({ move, reason: 'to win material' }));
+    }
+  },
+
+  {
+    name: 'Trade pieces',
+    description: 'Trade pieces of equal value',
+    reason: 'to trade pieces',
+    priority: 72,
+    isRelevant: () => true,
+    generateMoves: (game: Chess, color: Color, boardSense: BoardSense, attackersBySquare: Map<string, {white: number, black: number}>) => {
+      const { equal } = boardSense.generateCapturesClassified(color, attackersBySquare);
+      return equal.map(move => ({ move, reason: 'to trade pieces' }));
+    }
+  },
+
+  {
+    name: 'Losing capture',
+    description: 'Capture a lower-value guarded piece (usually bad)',
+    reason: 'to capture material',
+    priority: 25,
+    isRelevant: () => true,
+    generateMoves: (game: Chess, color: Color, boardSense: BoardSense, attackersBySquare: Map<string, {white: number, black: number}>) => {
+      const { losing } = boardSense.generateCapturesClassified(color, attackersBySquare);
+      return losing.map(move => ({ move, reason: 'to capture material' }));
     }
   },
   
